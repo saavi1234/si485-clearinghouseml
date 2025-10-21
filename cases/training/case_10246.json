@@ -1,0 +1,244 @@
+{
+  "case_id": 10246,
+  "fetched_at": "2025-10-20T22:38:39.566940",
+  "case_data": {
+    "attorney_orgs": [],
+    "available_documents": [
+      "Trial Court Docket"
+    ],
+    "case_defendants": [
+      {
+        "defendant_level": null,
+        "institution": "L.A. County Jail",
+        "institution_alt_state": null,
+        "institution_city": "Los Angeles",
+        "institution_county": "Los Angeles",
+        "name": "Los Angeles County",
+        "defendant_level_other": "",
+        "is_active": true
+      },
+      {
+        "defendant_level": null,
+        "institution": "",
+        "institution_alt_state": null,
+        "institution_city": "",
+        "institution_county": "Los Angeles",
+        "name": "Los Angeles County Sheriff's Department",
+        "defendant_level_other": "",
+        "is_active": true
+      }
+    ],
+    "case_ongoing": "No",
+    "case_status": "Coding Complete",
+    "case_types": [
+      "Jail Conditions"
+    ],
+    "cause_other": "",
+    "causes": [
+      "42 U.S.C. § 1983",
+      "State law"
+    ],
+    "class_action_granted": "Granted",
+    "class_action_sought": "Yes",
+    "closing_year": 2001,
+    "constitutional_clause": [
+      {
+        "value": "Unreasonable search and seizure"
+      }
+    ],
+    "content_of_injunction": [],
+    "court": "California state trial court",
+    "custom_issues": [],
+    "defendant_payment": "",
+    "defendant_type": [],
+    "docket_status": "Complete as of retrieval date",
+    "facility_type": [
+      {
+        "value": "Government-run"
+      }
+    ],
+    "filing_date": "2000-11-06",
+    "filing_year": 2000,
+    "id": 10246,
+    "injunction_duration": "",
+    "issues": [
+      "General/Misc.: Search policies",
+      "Jails, Prisons, Detention Centers, and Other Institutions: Strip search policy (facilities)",
+      "Jails, Prisons, Detention Centers, and Other Institutions: Over/Unlawful Detention (facilities)",
+      "Affected Sex/Gender(s): Male",
+      "Affected Sex/Gender(s): Female"
+    ],
+    "last_checked_date": "2013-01-24T00:00:00-05:00",
+    "main_docket": {
+      "id": 51446,
+      "docket_entries": [],
+      "docket_case_type": null,
+      "docket_year": 2001,
+      "docket_filing_number": 238925,
+      "is_main_docket": true,
+      "court": "California state trial court",
+      "state": "California",
+      "docket_office_number": null,
+      "docket_number_manual": "01-cv-BC239825",
+      "scales_html": null,
+      "recap_link": null,
+      "is_active": true
+    },
+    "name": "Riley v. Los Angeles County",
+    "never_filed": false,
+    "non_docket_case_number": "",
+    "non_docket_case_number_type": null,
+    "non_docket_case_number_type_other": "",
+    "order_end_year": null,
+    "order_start_year": null,
+    "permanent_injunction": false,
+    "plaintiff_description": "Individuals detailed at the LA County jails and subjected to 1) overdetention; 2) strip and/or visual body cavity searches; and/or 3) wrong warrant arrests and detentions.",
+    "plaintiff_type": [],
+    "prevailing_party": "Plaintiff",
+    "pro_se_status": "No",
+    "public_interest_lawyer": "No",
+    "related_cases": [
+      {
+        "id": 9746,
+        "name": "Williams v. County of Los Angeles"
+      }
+    ],
+    "relief_natures": [
+      "Injunction / Injunctive-like Settlement"
+    ],
+    "relief_nature_other": "",
+    "relief_sources": [
+      "Settlement"
+    ],
+    "settlement_agreement": [
+      "Court Approved Settlement or Consent Decree"
+    ],
+    "settlement_judgment_date": "2001-09-01",
+    "settlement_judgment_year": null,
+    "special_collections": [
+      "Strip Search Cases"
+    ],
+    "special_case_type": [],
+    "state": "California",
+    "summary": "<p>This case, Riley v. County of Los Angeles, was one of many cases filed against the Los Angeles County Sheriff's Department [LASD] in the late 1990s and early 2000 that challenged various policies and practices of the LASD relating to the operation of its Jail.  The suit in Riley was filed against the County and the Sheriff on November 6, 2000 in the Los Angeles County Superior Court.  Riley's attorneys, the Law Offices of Litt & Associates, were class counsel in other similar cases pending in federal and state court in California, including Williams v. Block, Case No. CV-97-03826-WJR (C.D.Cal.) (JC-CA-33 of this database).  </p><p>Shortly after suit was filed, the Court entered a stipulated order to stay all further proceedings while the parties engaged in settlement negotiations.  The LASD eventually entered into a global settlement agreement that resolved issues in the Riley case and some dozen other lawsuits pending in federal and state court.  The claims raised in those suits fell into three classes:  (1) \"overdetentions\" (i.e., persons not released from custody from the Los Angeles County jails within a reasonable period of time after they became entitled to release); (2) strip and visual body cavity searches of persons who had been returned to jail from court to be processed for release; and (3) wrong warrant arrests and detentions (persons arrested on a warrant that in fact was for another person, and held for an unreasonable period of time before being released).  As part of the settlement, LASD agreed to pay $27 million in damages and also agreed to institute major injunctive-type reforms.  The class damages portion of the settlement was handled by the court in Williams v. Block.  (See JC-CA-33 for a summary of the Williams case).  The injunctive relief component was resolved by the Riley case. </p><p>A Class Actions Injunctive Relief Agreement was entered by the parties in September 2001.  That Agreement called for institution of LASD practices meeting the following criteria by July 31, 2001:</p><p>&#9830; Overdetentions - People shall be released within eight hours of the entry of entitlement to release into the LASD computer system, or, for court returnees and those with expired sentences, by midnight of the day they become entitled to release, unless they sign a form requesting to be returned to the general population before release.</p><p>&#9830; Strip/Visual Body Cavity Searches - People returned from court and entitled to immediate release shall not be subjected to a strip or visual body cavity search without reasonable suspicion on an individualized basis.</p><p>&#9830; Wrong Warrant Arrests - There shall be implementation of policies that specifically include the use of Live Scan in an attempt to make a positive identification when an inmate claims he or she is being held on a warrant for another person.  A determination whether he or she is in fact the person named in the warrant will be made within 24 hours after a complaint form is provided by the inmate to LASD personnel for completion of a Disputed Warrant Verification Form.</p><p>As part of the injunctive relief settlement, the LASD also agreed to pay $5.5 million in attorneys' fees to class counsel.</p><p></p>",
+    "summary_published_date": "2008-01-20T00:00:00-05:00",
+    "summary_short": null,
+    "summary_tiny": null,
+    "terminating_date": null,
+    "clearinghouse_link": "clearinghouse.net/case/10246",
+    "is_active": true,
+    "case_documents_url": "https://clearinghouse.net/api/v2/documents/?case=10246",
+    "case_dockets_url": "https://clearinghouse.net/api/v2/dockets/?case=10246",
+    "case_resources_url": "https://clearinghouse.net/api/v2/resources/?case=10246"
+  },
+  "documents": [
+    {
+      "date": null,
+      "date_is_estimate": false,
+      "date_not_available": false,
+      "description": null,
+      "document_source": null,
+      "document_status": null,
+      "document_type": null,
+      "order_type": null,
+      "citation_paren": null,
+      "cite_1_page": null,
+      "cite_1_reporter": null,
+      "cite_1_vol": null,
+      "cite_2_page": null,
+      "cite_2_reporter": null,
+      "cite_2_vol": null,
+      "cite_3_page": null,
+      "cite_3_reporter": null,
+      "cite_3_vol": null,
+      "citation_status": null,
+      "court": null,
+      "no_title": false,
+      "party_types": [],
+      "per_curium": false,
+      "is_core_document": true,
+      "id": 120569,
+      "file": null,
+      "title": null,
+      "text": null,
+      "document_type_other": null,
+      "external_url": null,
+      "ecf_number": null,
+      "clearinghouse_link": "clearinghouse.net/doc/120569"
+    },
+    {
+      "date": "2001-09-01",
+      "date_is_estimate": true,
+      "date_not_available": false,
+      "description": "",
+      "document_source": null,
+      "document_status": "Coding Complete",
+      "document_type": "Settlement Agreement",
+      "order_type": "Consent Decree",
+      "citation_paren": null,
+      "cite_1_page": null,
+      "cite_1_reporter": null,
+      "cite_1_vol": null,
+      "cite_2_page": null,
+      "cite_2_reporter": null,
+      "cite_2_vol": null,
+      "cite_3_page": null,
+      "cite_3_reporter": null,
+      "cite_3_vol": null,
+      "citation_status": "Not applicable",
+      "court": "California state trial court",
+      "no_title": false,
+      "party_types": [
+        "Defendant",
+        "Plaintiff"
+      ],
+      "per_curium": false,
+      "is_core_document": true,
+      "id": 26340,
+      "file": "https://clearinghouse-umich-production.s3.amazonaws.com/media/doc/26340.pdf",
+      "title": "Class Actions Injunctive Relief Agreement",
+      "text": " \n1  [Class Actions Injunctive Relief Agreement] \n2              1.  This Settlement Agreement (“Agreement”) encompasses, and is intended to fully \n3  and finally resolve, all injunctive relief aspects of the cases listed on Exhibit A attached hereto, \n4  which are hereafter collectively referred to as the “Relevant Cases.”  The stay presently in effect \n5  will remain in place in all cases except the Riley case. The Riley case will be dismissed with \n6  prejudice upon the execution of this settlement agreement. The payment of attorney's fees and \n7  costs will cover the items described in ¶¶ 4-5, and will be deemed fees specifically paid in \n8  exchange for the dismissal of Riley and the resolution of all injunctive relief claims in the \n9  Relevant Cases not dismissed at this time. \n10  2.  Taken as a whole, the Relevant Cases alleged violations of law and sought \n11  injunctive relief (aside from other types of relief) for three types of alleged policies and/or \n12  practices of the Los Angeles County Sheriff’s Department (“LASD”): 1) “overdetentions” (i.e., \n13  persons not released from custody from the Los Angeles County jails within a reasonable period \n14  of time after they became entitled to release); 2) strip and/or visual body cavity searches of \n15  persons who had been returned to jail from court to be processed for release; and 3) wrong \n16  warrant arrests and detentions (persons arrested on a warrant that in fact was for another person, \n17  and held for an unreasonable period of time before being released). \n18  3.  This Agreement sets forth the terms of the settlement between the parties to resolve  \n19  the injunctive relief claims described above. \n20  4.   Defendants shall pay Plaintiffs attorney’s fees and costs in the total amount of Five \n21  Million Five Hundred Thousand Dollars ($5.5 Million) as compensation for their work as it \n22  relates to and statutory attorney’s fees for the Relevant Cases.  This sum shall compensate \n23  Plaintiffs and their counsel for all of the attorney’s fees and costs they might claim in the \n24  Relevant Cases, or that they shall perform on them through July 31, 2001 (the “Cut-Off Period”).  \n25  This sum expressly constitutes payment for any and all attorney’s fees Plaintiffs and their \n26  counsel could seek under law including, without limitation, 42 U.S.C. § 1988, Cal. Civil Code § \n27  52 and Cal. CCP § 1021.5 through the Cut-Off Period in any of the Relevant Cases, no matter \n28  what aspect of the case (injunctive or otherwise) for which it may have been performed.  Set \n  forth in Exhibit B is a summary of what Plaintiffs’ counsel consider to be their lodestar in the \nDoc. 56214  v.4   Client 1171  3     \nAGREEMENT RE STRUCTURAL RELIEF \n\n \n1  Relevant Cases through the Cut-Off Period.  Both sides acknowledge that the $5.5 Million sum \n2  is a compromise figure, and that the actual attorney’s fees and costs awarded (if any) if the issues \n3  had been litigated might have been higher or lower than the figure agreed to.  \n4  5.  Plaintiffs and Defendants expressly acknowledge that the various aspects of the legal \n5  work performed in the Relevant Cases are inter-related and that the work in each of those cases \n6  was related to one or more of the issues addressed in Paragraph 2, supra, even if the particular \n7  complaint did not seek injunctive relief; that the $5.5 Million sum set forth in Paragraph 4 is \n8  intended to compensate for all work performed through the Cut-Off Period that could be claimed \n9  in the Relevant Cases; and that this Agreement shall bar Plaintiffs and their counsel from seeking \n10  any additional attorney’s fees and costs  through the Cut-Off Period in any of the Relevant \n11  Cases. \n12  6.  The payment by defendants of the attorney’s fees and costs referenced in Paragraph 4, \n13  supra, is not a bar to Plaintiffs or their counsel seeking separate attorney’s fees and costs in the \n14  event that the federal court approves the separate settlement being negotiated between Plaintiffs \n15  and Defendants to compensate class members for damages allegedly incurred as a result of the \n16  purported policies, practices and/or customs described in ¶ 2, supra (the “Class Damages \n17  Settlement”).  Nor are they a bar to Plaintiffs or their counsel seeking additional attorney’s fees \n18  and costs beyond those described in Paragraph 7, supra, for work performed after the Cut-Off \n19  Period, in the event the Class Damages Settlement is not approved by the Court.  Plaintiffs shall \n20  limit their claim for attorney’s fees and costs in the Class Damages Settlement to payment from \n21  the Class Fund.  They shall not seek additional attorney’s fees and costs from the Defendants. \n22  7.  The Plaintiffs’ counsel who have performed work on the Relevant Cases include \n23  Barrett S. Litt, Paul J. Estuar (Firm: Litt & Associates), John Burton (Firm: The Law Offices of \n24  John Burton), Timothy J. Midgley (Firm: Manes & Watson), Robert Mann, Donald W. Cook, \n25  Adam Axelrad (Firm: The Law Offices of Robert Mann and Donald Cook), Mary Anna Henley, \n26  Miguel Garcia and Robert C. Moest, and any predecessor firms, including Burton  & Norris and \n27  Burton, Norris & Galanter.  Payment by Defendants pursuant to this Agreement includes \n28  payment to any and all other counsel who may have (or claimed to have) performed work on the \n \nDoc. 56214  v.4   Client 1171  4     \nAGREEMENT RE STRUCTURAL RELIEF \n\n \n1  Relevant Cases on behalf of Plaintiffs.  This includes, without limitation, the satisfaction of any \n2  and all purported attorneys’ liens asserted in the Relevant Cases. \n3  8.  This Agreement is independent of the Class Damages Settlement and shall be binding \n4  on all parties whether or not the Class Damages Settlement is approved by the Court.  \n5  9.  The $5.5 Million of attorney’s fees and costs referenced in Paragraph 4 supra shall be \n6  paid to the Client Trust Account of Litt & Associates, in two installments.  The first installment \n7  ($3.5 Million) shall be paid no later than July 31, 2001.  The second installment ($2 Million) \n8  shall be paid on September 1, 2001. \n9  10. The parties herein agree that the IN-COURT RELEASE PROCEDURES attached \n10  hereto as Exhibit C were developed and implemented as a direct consequence of the Relevant \n11  Cases.  The parties further agree that the LASD has and will continue to refrain from subjecting \n12  people returned from court who are entitled to immediate release to strip or visual body cavity \n13  searches as a consequence of the Relevant Cases.  Furthermore, the parties herein agree that the \n14  LASD policies regarding disputed warrant verifications attached hereto as Exhibit D have been \n15  modified to the extent set forth in Exhibit D as a consequence of the Relevant Cases.  \n16  Furthermore, the parties agree that the LASD practices on each of the issues in this case shall, as \n17  of July 31, 2001, meet the following criteria: \n18  ♦  Overdetentions – People shall be released within eight hours of the entry of \n19  entitlement to release into the LASD computer system, or, for court returnees and \n20  those with expired sentences, by midnight of the day they become entitled to release, \n21  unless they sign a form requesting to be returned to the general population before \n22  release.1  \n23  ♦  Strip/Visual Body Cavity Searches – People returned from court and entitled to \n24  immediate release shall not be subjected to a strip or visual body cavity search \n25  without reasonable suspicion on an individualized basis. \n26 \n♦  Wrong Warrant Arrests – The policies set forth in Exhibit D shall be implemented \n27 \n                                                           \n1 However, the LASD shall have 24 hours in which to release inmates that have been identified while in custody to \n28 \nhave mental or physical health problems and have be screened by medical/mental health personnel prior to release \nand/or have to be placed in a medical /mental health facility due to their condition. The 24 hour period will also \n \napply to inmates that fall under Penal Code § 296(1(a) and require that a DNA sample be take prior to their release \nfrom custody. \nDoc. 56214  v.4   Client 1171  5     \nAGREEMENT RE STRUCTURAL RELIEF \n\n \n1  which specifically include the use of Live Scan in an attempt to make a positive \n2  identification when an inmate claims he or she is being held on a warrant for another \n3  person.  A determination whether s/he is in fact the person named in the warrant will \n4  be made within 24 hours after a complaint form is provided by the inmate to LASD \n5  personnel for completion of a  Disputed Warrant Verification Form.  \n6  11. Beginning January 1, 2002, $10,000 will be paid into the Cy Pres fund to be \n7  established in the Class Damages Settlement (if it is approved, or a comparable fund if it is not) \n8  for each month the LASD is not in compliance with the provisions of ¶ 11.  Lack of compliance \n9  means that, as to overdetentions and wrong warrants, the standards articulated above are met for \n10  less than 95% of the affected population.  As to strip/visual body cavity searches, lack of \n11  compliance means that less than 95% of those entitled to release who are returned to IRC have \n12  been subjected to a strip/visual body cavity search. (It is not anticipated that there will be an error \n13  rate for strip/visual body cavity searches of people released from court since they are not being \n14  returned to jail, and so no error rate for them is built into this Agreement.) The $10,000 shall not \n15  be paid from the Class Fund. \n16  12. Plaintiffs’ counsel Barry Litt and John Burton shall monitor this Agreement for \n17  Plaintiffs.  If one of them is not available, then Robert Mann shall fill in.  All reports and other \n18  information called for in this Agreement shall be provided and shared, as relevant, to Plaintiffs’ \n19  counsel in both computerized and written form.  Computerized form means in a form in which \n20  the underlying data on which the report is based can be utilized in a database format accessible \n21  on a PC. Such information shall be used only in connection with this case and not for any other \n22  purpose and may not be provided to anyone other than monitoring counsel.  Upon request, and \n23  after approval by counsel for the County, Plaintiffs’ counsel shall be provided additional \n24  information that is justified for them to fulfill their monitoring function.  Monitoring fees are \n25  addressed in ¶ 20, infra. \n26  14.  Beginning quarterly after the signing of this Agreement, and continuing throughout \n27  its term, the Defendants shall maintain computer and hard copy files allowing it to determine \n28  compliance with the Overdetention provisions of this Agreement. The parties agree that the AJIS \n  database can serve this purpose with some minor modifications. These reports will be generated \nDoc. 56214  v.4   Client 1171  6     \nAGREEMENT RE STRUCTURAL RELIEF \n\n \n1  quarterly, and aggregated in an annual Year End Report. It shall also maintain records regarding \n2  the resolution of disputed warrant verification forms and any court returnees subject to \n3  immediate release who have been subject to a strip/ visual body cavity search prior to release, \n4  and the reason for the search.    \n5  15.  On any matters covered by this Agreement, the parties shall meet and confer at the \n6  request of either party to discuss those matters.  In any event, the parties shall meet no less than \n7  one time a year within 60 days after the Year End Report called for by paragraph 14 of this \n8  Agreement is issued, but both parties may waive the need for this meeting in writing.  On the \n9  Plaintiffs’ side, the participants shall include Barry Litt and John Burton.  On the Defendants’ \n10  side, the participants shall include Assistant Sheriff Dennis Dahlman or his successor and Lou \n11  Aguilar or his successor from County Counsel’s Office.  If there are outstanding issues that are \n12  not resolved through such discussions, then Lloyd W. Pellman or his successor shall be available \n13  to meet if requested by either side.  In the event of any dispute among the parties regarding \n14  whether the standards or obligations of this Agreement are being met, the parties shall meet and \n15  confer within 60 days of delivery of a Plaintiffs’ request for such a meeting. \n16  16. This meet and confer mechanism shall apply to any other disagreements or disputes \n17  which arise among the parties regarding the obligations imposed under this Agreement. \n18  17. This Agreement shall have a term ending December 31, 2004. \n19  18. Nothing in this Agreement shall prevent the Sheriff from updating the policies \n20  reflected in this Agreement based on legal developments, security needs or administrative needs. \n21  Plaintiffs are entitled to challenge any such changes under the mechanisms contained in ¶¶ 19-21 \n22  infra if they contend that the changes are inconsistent with this Agreement. \n23  19. During the term of this Agreement, the parties shall mediate any disputes using the \n24  same mediation mechanism that they used to settle the case. If they are unable to resolve the \n25  issues through mediation, they may agree to binding arbitration before a mutually agreed to \n26  arbitrator. If they are unable to agree to an arbitrator, then a court action may filed to enforce the \n27  Agreement. Any court action shall be considered a claim under 42 U.S.C. § 1983 as well as an \n28  action to enforce a contract, and shall be considered a related case to the case under whose \n  auspices the Class Damages Settlement is pursued, which is currently expected to be Williams. \nDoc. 56214  v.4   Client 1171  7     \nAGREEMENT RE STRUCTURAL RELIEF \n\n \n1  V. Block, Case No. CV-97-03826-WJR. No party to this action may seek mediation, arbitration \n2  or court action under this Agreement unless the party first provides written notice of the alleged \n3  violation, or other ground for relief, to the other parties and goes through the meet and confer \n4  process previously outlined in this Agreement.  \n5  20. If an arbitration or court action occurs, the arbitrator or court shall have authority to \n6  enforce the terms of this Agreement. The standard to be employed by the arbitrator or court in \n7  enforcing this Agreement is whether the measures requested by the party seeking enforcement is \n8  reasonably necessary to satisfy an obligation imposed by this Agreement, or to meet the \n9  standards articulated by it. \n10  21. Reasonable monitoring fees shall be due to Plaintiffs’ counsel for all monitoring \n11  activities after January 1, 2002.  Theses shall be paid from the Cy Pres Fund, based on the \n12  Plaintiffs’ counsel then current billing rate. If the bills are disputed, they shall be negotiated.  If \n13  the issue is not resolved through negotiation, they shall be resolved by the mechanisms outlined \n14  in the foregoing paragraphs. \n15  22. In the event of an arbitration court action to enforce this Agreement, the parties \n16  stipulate that there is no adequate remedy at law for a breach of this Agreement, aside from \n17  specific performance, and that the party seeking its enforcement will suffer irreparable harm if it \n18  is not enforced.  Such a breach may be determined and enforced by the arbitrator or court.  For \n19  purposes of awarding fees and costs at the conclusion of any proceedings to enforce this \n20  Agreement, the prevailing party shall be awarded fees and costs under the standards of CCP \n21  §1021.5 and 42 U.S.C. §1988, except that no multiplier shall be sought, awarded or paid. \n22 \n23 \n24 \n25 \n26 \n27 \n28 \n \nDoc. 56214  v.4   Client 1171  8     \nAGREEMENT RE STRUCTURAL RELIEF \n\n \n1   \n2     \n  LITT & ASSOCIATES \n  A LAW CORPORATION \n3 \n   \n   \n4     \nDATED: ___________, 2001.  By:___________________________________\n5    _   Barrett S. Litt \n       Lead Counsel for Plaintiffs \n \n6 \n   \n  Law Offices of John Burton \n7     \n   \n8  DATED: ___________, 2001.   \n   \n  By:___________________________________\n9 \n_   John Burton \n     Lead Counsel for Plaintiffs \n10 \n \n   \n11    Martha Riley \n   \n12     \n   \nDATED: ___________, 2001.   By: ______________ \n13 \n         Martha Riley  \n \n14     \n  Los Angeles County Counsel \n15     \n   \n   \n16 \nDATED: ___________, 2001.   By: ______________ \n         Lloyd W. Pellman \n17           County Counsel  \n \n18       \n  FRANSCELL, STRICKLAND, ROBERTS & \n  LAWRENCE \n19 \n   \n   \n20  DATED: ___________, 2001.  By:___________________________________\n  _    David D. Lawrence \n21          Paul B. Beach \n      Lead Counsel for Defendants \n \n22 \n \n \n23 \n \n24 \n \n25 \n26 \n27 \n28 \n \nDoc. 56214  v.4   Client 1171  9     \nAGREEMENT RE STRUCTURAL RELIEF \n\n \n1   \n2  EXHIBIT A – List of Pending Proposed Class Action Complaints Encompassed By Settlement. \n3  EXHIBIT B – Summary of Plaintiffs’ Counsels’ Lodestar Through June 30, 2001. \n4  EXHIBIT C – Revised In-Court Release Procedures \n5  EXHIBIT D – Revised Disputed Warrant Policies and Revisions \n6 \n7 \n8 \n9 \n10 \n11 \n12 \n13 \n14 \n15 \n16 \n17 \n18 \n19 \n20 \n21 \n22 \n23 \n24 \n25 \n26 \n27 \n28 \n \nDoc. 56214  v.4   Client 1171  10     \nAGREEMENT RE STRUCTURAL RELIEF ",
+      "document_type_other": null,
+      "external_url": "",
+      "ecf_number": "",
+      "clearinghouse_link": "clearinghouse.net/doc/26340"
+    },
+    {
+      "date": "2001-09-05",
+      "date_is_estimate": false,
+      "date_not_available": false,
+      "description": null,
+      "document_source": null,
+      "document_status": "Coding Complete",
+      "document_type": "Docket",
+      "order_type": null,
+      "citation_paren": null,
+      "cite_1_page": null,
+      "cite_1_reporter": null,
+      "cite_1_vol": null,
+      "cite_2_page": null,
+      "cite_2_reporter": null,
+      "cite_2_vol": null,
+      "cite_3_page": null,
+      "cite_3_reporter": null,
+      "cite_3_vol": null,
+      "citation_status": "Not applicable",
+      "court": "California state trial court",
+      "no_title": false,
+      "party_types": [
+        "Court"
+      ],
+      "per_curium": false,
+      "is_core_document": true,
+      "id": 26231,
+      "file": "https://clearinghouse-umich-production.s3.amazonaws.com/media/doc/26231.pdf",
+      "title": "Docket",
+      "text": "Title:   MARTHA S RILEY v. COUNTY OF LOS ANGELES \nCourt:   SUPERIOR COURT, LOS ANGELES COUNTY, CALIFORNIA \nCase No.:   BC239825 \n  \nCASE INFORMATION \n \nCase Title:  MARTHA S RILEY v. COUNTY OF LOS ANGELES \nCourt:  SUPERIOR COURT, LOS ANGELES COUNTY \nDivision:  CENTRAL DISTRICT \nCase Number:  BC239825 \nCase Type:  CIVIL \nDescription:  CIVIL RIGHTS (GENERAL JURISDICTION) \nDate Filed:  11/06/2000 \nCase Status:  DISMISSED - OTHER 09/05/2001 \nRelated/Companion Cases:  BC213059 ON 11/21/2000 \n \nPARTICIPANT INFORMATION \n \nName:  RILEY MARTHA S. \nType:  PLAINTIFF/PETITIONER \n \nName:  BACA LEROY D. \nType:  DEFENDANT/RESPONDENT \n \nName:  COUNTY OF LOS ANGELES SHERIFF'S DEPT. \nType:  DEFENDANT/RESPONDENT \n \nName:  LOS ANGELES COUNTY OF \nType:  DEFENDANT/RESPONDENT \n \nATTORNEY INFORMATION \n \nAttorney Status:  ATTORNEY FOR DEFENDANT/RESPONDENT \nFirm Name:  FRANSCELL STRICKLAND ROBERTS & LAWRENCE \n \nAttorney Status:  ATTORNEY FOR PLTF/PETNR \nFirm Name:  LITT & ASSOCIATES LAW OFFICES OF \n \n\n \nCALENDAR INFORMATION \n \nDate/Time:   Description:   Location:   Judge:  \n11/21/2000  Event: ORDER RE:  Department: 1  JAMES BASCUE \nRELATED CASES \nDisposition: \nCOMPLETED  \n01/05/2001 09:01 AM  Event: INITIAL  Department: 324  ANN KOUGH \nSTATUS CONFERENCE \nDisposition: MATTER \nCONTINUED  \n05/07/2001 09:00 AM  Event: MOTION FOR  Department: 324  ANN KOUGH \nSUMMARY JUDGMENT \nDisposition: MATTER \nCONTINUED  \n06/29/2001  Event: COURT ORDER  Department: 1  GARY KLAUSNER \nDisposition: \nCOMPLETED  \n07/09/2001 09:00 AM  Event: FURTHER  Department: 324  ANN KOUGH \nSTATUS CONFERENCE \nDisposition: \nCOMPLETED  \n09/06/2001 09:00 AM  Event: FURTHER  Department: 324  ANN KOUGH \nSTATUS CONFERENCE \nDisposition: OFF \nCALENDAR  \n \nDOCKET PROCEEDINGS \n \nDate:   Description:   Party:  \n11/06/2000  COMPLAINT   \n11/30/2000  AMENDMENT TO COMPLAINT (TO ADD TRUE  ATTORNEY FOR PLTF/PETNR \nNAMES OF DOE DEFENDANTS DOE 1: LEROY D. \nBACA DOE 2: COUNTY OF L.A. SHERIFF'S DEPT.) \n12/05/2000  NOTICE  ATTORNEY FOR \nPLAINTIFF/PETITIONER \n12/06/2000  NOTICE OF STATUS CONFERENCE FILED   \n12/06/2000  ANSWER TO COMPLAINT  ATTORNEY FOR \nDEFENDANT/RESPONDENT \n12/07/2000  NOTICE OF STATUS CONFERENCE FILED   \n12/07/2000  NOTICE (OF COURTS ORDER RE RELATED CASES ) ATTORNEY FOR \nPLAINTIFF/PETITIONER \n02/26/2001  STIPULATION AND ORDER (STIPULATION AND  ATTORNEY FOR \nORDER TO STAY ALL PROCEEDINGS; SIGN AND  PLAINTIFF/PETITIONER  \nFILED THIS DAY )  \n04/03/2001  NOTICE (FIRST SETTLEMENT STATUS REPORT )   ATTORNEY FOR PLTF/PETNR  \n04/13/2001  NOTICE (OF STATUS CONFERENCE )   ATTORNEY FOR PLTF/PETNR  \n05/01/2001  REPORT-STATUS ( RE SETTLEMENT )   ATTORNEY FOR PLTF/PETNR  \n\n05/30/2001  REPORT-STATUS (THIRD SETTLEMENT STATUS  ATTORNEY FOR PLTF/PETNR  \nREPORT )  \n07/12/2001  NOTICE (OF COURT'S ORDER RE RELATED CASE-- ATTORNEY FOR \nDENIED; )   DEFT/RESPNT  \n08/29/2001  STIPULATION (FOR LEAVE TO FILE FIRST  ATTORNEY FOR PLTF/PETNR  \nAMENDED COMPLAINT )  \n08/29/2001  ORDER (ORDER FOR LEAVE TO FILE FIRST  ATTORNEY FOR \nAMENDED COMPLAINT )   PLAINTIFF/PETITIONER  \n08/29/2001  FIRST AMENDED COMPLAINT (FOR DECLARATORY  ATTORNEY FOR PLTF/PETNR  \nAND INJUNCTIVE RELIEF )  \n09/05/2001  REQUEST FOR DISMISSAL (OF COMPLAINT W/  ATTORNEY FOR \nPREJUDICE )   PLAINTIFF/PETITIONER  \n  ",
+      "document_type_other": null,
+      "external_url": null,
+      "ecf_number": null,
+      "clearinghouse_link": "clearinghouse.net/doc/26231"
+    }
+  ],
+  "document_count": 3
+}

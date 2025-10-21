@@ -1,0 +1,491 @@
+{
+  "case_id": 9813,
+  "fetched_at": "2025-10-20T22:42:21.053958",
+  "case_data": {
+    "attorney_orgs": [],
+    "available_documents": [
+      "Trial Court Docket",
+      "Any published opinion"
+    ],
+    "case_defendants": [
+      {
+        "defendant_level": null,
+        "institution": "Board of County Commissioners of Creek County, OK",
+        "institution_alt_state": null,
+        "institution_city": "",
+        "institution_county": "Creek",
+        "name": "Creek County, OK",
+        "defendant_level_other": "",
+        "is_active": true
+      },
+      {
+        "defendant_level": null,
+        "institution": "",
+        "institution_alt_state": null,
+        "institution_city": "",
+        "institution_county": "Creek",
+        "name": "Sherrif of Creek County",
+        "defendant_level_other": "",
+        "is_active": true
+      }
+    ],
+    "case_ongoing": "No",
+    "case_status": "Coding Complete",
+    "case_types": [
+      "Jail Conditions"
+    ],
+    "cause_other": "",
+    "causes": [
+      "42 U.S.C. § 1983"
+    ],
+    "class_action_granted": "Not sought",
+    "class_action_sought": "No",
+    "closing_year": 1993,
+    "constitutional_clause": [
+      {
+        "value": "Unreasonable search and seizure"
+      }
+    ],
+    "content_of_injunction": [],
+    "court": "Northern District of Oklahoma",
+    "custom_issues": [],
+    "defendant_payment": "",
+    "defendant_type": [],
+    "docket_status": "Complete as of retrieval date",
+    "facility_type": [
+      {
+        "value": "Government-run"
+      }
+    ],
+    "filing_date": "1991-07-24",
+    "filing_year": 1991,
+    "id": 9813,
+    "injunction_duration": "",
+    "issues": [
+      "General/Misc.: Search policies",
+      "Jails, Prisons, Detention Centers, and Other Institutions: Strip search policy (facilities)",
+      "Affected Sex/Gender(s): Female"
+    ],
+    "last_checked_date": "2007-07-17T00:00:00-04:00",
+    "main_docket": {
+      "id": 33267,
+      "docket_entries": [
+        {
+          "row_number": 17,
+          "id": 1515802,
+          "entry_number": null,
+          "date_filed": "1993-06-04T00:00:00-04:00",
+          "attachments": [],
+          "url": "nan",
+          "recap_pdf_url": null,
+          "pacer_doc_id": null,
+          "description": "MINUTE ORDER: ; Pretrial conference stricken. Case set for hearing re settlement for 11:15 a.m., 6/15/93 (cc: all counsel) (fe, Dpty Clk) (Entered: 06/04/1993)"
+        },
+        {
+          "row_number": 3,
+          "id": 1515788,
+          "entry_number": "32",
+          "date_filed": "1992-02-14T00:00:00-05:00",
+          "attachments": [],
+          "url": "nan",
+          "recap_pdf_url": null,
+          "pacer_doc_id": null,
+          "description": "MOTION by defendant Doug Nichols, defendant Creek Cty BCC for summary judgment (pll, Dpty Clk) (Entered: 03/17/1993)"
+        },
+        {
+          "row_number": 15,
+          "id": 1515800,
+          "entry_number": null,
+          "date_filed": "1993-04-20T00:00:00-04:00",
+          "attachments": [],
+          "url": "nan",
+          "recap_pdf_url": null,
+          "pacer_doc_id": null,
+          "description": "MINUTE ORDER: by H Dale Cook; pursuant to remand from 10th, pretrial conference set for 11:00 6/15/93 pretrial order ddl set for 6/7/93 (cc: all counsel) (pll, Dpty Clk) (Entered: 04/21/1993)"
+        },
+        {
+          "row_number": 0,
+          "id": 1515785,
+          "entry_number": "1",
+          "date_filed": "1991-07-24T00:00:00-04:00",
+          "attachments": [],
+          "url": "nan",
+          "recap_pdf_url": null,
+          "pacer_doc_id": null,
+          "description": "COMPLAINT (Summons(es) issued); Consent form sent (pll, Dpty Clk) (Entered: 10/22/1992)"
+        },
+        {
+          "row_number": 13,
+          "id": 1515798,
+          "entry_number": "84",
+          "date_filed": "1993-03-19T00:00:00-05:00",
+          "attachments": [],
+          "url": "nan",
+          "recap_pdf_url": null,
+          "pacer_doc_id": null,
+          "description": "ORDER by Senior Judge H. D. Cook granting motion to withdraw attorney Teresa Simmons o2j [83-1] for Julie Chapman (cc: mvt counsel) (pll, Dpty Clk) (Entered: 03/22/1993)"
+        },
+        {
+          "row_number": 6,
+          "id": 1515791,
+          "entry_number": "63",
+          "date_filed": "1992-04-14T00:00:00-04:00",
+          "attachments": [],
+          "url": "nan",
+          "recap_pdf_url": null,
+          "pacer_doc_id": null,
+          "description": "RESPONSE by defendant Creek Cty BCC to motion to consolidate cases & brf/spprt w/92-109 o2j [62-1] (pll, Dpty Clk) (Entered: 03/17/1993)"
+        },
+        {
+          "row_number": 12,
+          "id": 1515797,
+          "entry_number": "83",
+          "date_filed": "1993-03-12T00:00:00-05:00",
+          "attachments": [],
+          "url": "nan",
+          "recap_pdf_url": null,
+          "pacer_doc_id": null,
+          "description": "MOTION by plaintiff Julie Chapman to withdraw attorney Teresa Simmons o2j (pll, Dpty Clk) (Entered: 03/15/1993)"
+        },
+        {
+          "row_number": 5,
+          "id": 1515790,
+          "entry_number": "62",
+          "date_filed": "1992-04-02T00:00:00-05:00",
+          "attachments": [],
+          "url": "nan",
+          "recap_pdf_url": null,
+          "pacer_doc_id": null,
+          "description": "MOTION by plaintiff Julie Chapman to consolidate cases & brf/spprt w/92-109 o2j (pll, Dpty Clk) (Entered: 03/17/1993)"
+        },
+        {
+          "row_number": 21,
+          "id": 1515806,
+          "entry_number": null,
+          "date_filed": "1993-06-15T00:00:00-04:00",
+          "attachments": [],
+          "url": "nan",
+          "recap_pdf_url": null,
+          "pacer_doc_id": null,
+          "description": "MINUTES: by Senior Judge H. D. Cook ; Case called for PT. Parties announce settlement as to all pltfs. Orders approved.(HDC-J)(ES-cr) (fe, Dpty Clk) (Entered: 06/15/1993)"
+        },
+        {
+          "row_number": 9,
+          "id": 1515794,
+          "entry_number": "74",
+          "date_filed": "1992-06-08T00:00:00-04:00",
+          "attachments": [],
+          "url": "nan",
+          "recap_pdf_url": null,
+          "pacer_doc_id": null,
+          "description": "NOTICE OF APPEAL by defendant Doug Nichols from Dist. Court decision [71-1] (cc: all counsel) (pll, Dpty Clk) (Entered: 03/17/1993)"
+        },
+        {
+          "row_number": 2,
+          "id": 1515787,
+          "entry_number": "15",
+          "date_filed": "1991-10-09T00:00:00-04:00",
+          "attachments": [],
+          "url": "nan",
+          "recap_pdf_url": null,
+          "pacer_doc_id": null,
+          "description": "ANSWER by defendant Doug Nichols to [1-1] (pll, Dpty Clk) (Entered: 03/17/1993)"
+        },
+        {
+          "row_number": 18,
+          "id": 1515803,
+          "entry_number": "86",
+          "date_filed": "1993-06-07T00:00:00-04:00",
+          "attachments": [],
+          "url": "nan",
+          "recap_pdf_url": null,
+          "pacer_doc_id": null,
+          "description": "PRETRIAL MEMORANDUM/ Statement by plaintiff Julie Chapman, ptys settled, pprs at PT conf (pll, Dpty Clk) (Entered: 06/08/1993)"
+        },
+        {
+          "row_number": 10,
+          "id": 1515795,
+          "entry_number": "80",
+          "date_filed": "1992-06-22T00:00:00-04:00",
+          "attachments": [],
+          "url": "nan",
+          "recap_pdf_url": null,
+          "pacer_doc_id": null,
+          "description": "ORDER by Senior Judge H. D. Cook granting motion to stay pend appeal [76-1] , CASE STAYED (cc: all counsel) (pll, Dpty Clk) (Entered: 03/17/1993)"
+        },
+        {
+          "row_number": 1,
+          "id": 1515786,
+          "entry_number": "7",
+          "date_filed": "1991-09-10T00:00:00-04:00",
+          "attachments": [],
+          "url": "nan",
+          "recap_pdf_url": null,
+          "pacer_doc_id": null,
+          "description": "ANSWER by defendant Creek Cty BCC to [1-1] (pll, Dpty Clk) (Entered: 03/17/1993)"
+        },
+        {
+          "row_number": 22,
+          "id": 1515807,
+          "entry_number": "89",
+          "date_filed": "1993-06-15T00:00:00-04:00",
+          "attachments": [],
+          "url": "nan",
+          "recap_pdf_url": null,
+          "pacer_doc_id": null,
+          "description": "JOURNAL ENTRY OF JUDGMENT: by Senior Judge H. D. Cook terminating case for pltf agnst defts for $20,000 (cc: all counsel) (pll, Dpty Clk) (Entered: 06/16/1993)"
+        },
+        {
+          "row_number": 20,
+          "id": 1515805,
+          "entry_number": "88",
+          "date_filed": "1993-06-14T00:00:00-04:00",
+          "attachments": [],
+          "url": "nan",
+          "recap_pdf_url": null,
+          "pacer_doc_id": null,
+          "description": "NOTICE by plaintiff Julie Chapman of dism w/prej as to Nichols, individ (pll, Dpty Clk) (Entered: 06/16/1993)"
+        },
+        {
+          "row_number": 16,
+          "id": 1515801,
+          "entry_number": null,
+          "date_filed": "1993-04-27T00:00:00-04:00",
+          "attachments": [],
+          "url": "nan",
+          "recap_pdf_url": null,
+          "pacer_doc_id": null,
+          "description": "NOTICE OF SETTLEMENT by defendant Doug Nichols, defendant Creek Cty BCC, by telephone. Papers wi/30 days. (fe, Dpty Clk) (Entered: 04/27/1993)"
+        },
+        {
+          "row_number": 19,
+          "id": 1515804,
+          "entry_number": "87",
+          "date_filed": "1993-06-14T00:00:00-04:00",
+          "attachments": [],
+          "url": "nan",
+          "recap_pdf_url": null,
+          "pacer_doc_id": null,
+          "description": "STIPULATION of ptys for dism (pll, Dpty Clk) (Entered: 06/16/1993)"
+        },
+        {
+          "row_number": 4,
+          "id": 1515789,
+          "entry_number": "40",
+          "date_filed": "1992-02-18T00:00:00-05:00",
+          "attachments": [],
+          "url": "nan",
+          "recap_pdf_url": null,
+          "pacer_doc_id": null,
+          "description": "MOTION by plaintiff Julie Chapman for partial summary judgment (pll, Dpty Clk) (Entered: 03/17/1993)"
+        },
+        {
+          "row_number": 7,
+          "id": 1515792,
+          "entry_number": "70",
+          "date_filed": "1992-05-29T00:00:00-04:00",
+          "attachments": [],
+          "url": "nan",
+          "recap_pdf_url": null,
+          "pacer_doc_id": null,
+          "description": "ORDER by Senior Judge H. D. Cook denying motion for partial summary judgment [40-1] (cc: all counsel) (pll, Dpty Clk) (Entered: 03/17/1993)"
+        },
+        {
+          "row_number": 14,
+          "id": 1515799,
+          "entry_number": "85",
+          "date_filed": "1993-04-16T00:00:00-04:00",
+          "attachments": [],
+          "url": "nan",
+          "recap_pdf_url": null,
+          "pacer_doc_id": null,
+          "description": "CERTIFIED COPY of judgment from USCA; remanding the Decision of the District Court [Appeal [74-1] (cc: HDC) (agc, Dpty Clk) (Entered: 04/19/1993)"
+        },
+        {
+          "row_number": 8,
+          "id": 1515793,
+          "entry_number": "71",
+          "date_filed": "1992-05-29T00:00:00-04:00",
+          "attachments": [],
+          "url": "nan",
+          "recap_pdf_url": null,
+          "pacer_doc_id": null,
+          "description": "ORDER by Senior Judge H. D. Cook denying motion for summary judgment [32-1] (cc: all counsel) (pll, Dpty Clk) (Entered: 03/17/1993)"
+        },
+        {
+          "row_number": 11,
+          "id": 1515796,
+          "entry_number": "82",
+          "date_filed": "1992-07-02T00:00:00-04:00",
+          "attachments": [],
+          "url": "nan",
+          "recap_pdf_url": null,
+          "pacer_doc_id": null,
+          "description": "CERTIFIED COPY of Order from USCA re: juris issue, whether ntc/appeal was filed before rlg on pltf's mot (pll, Dpty Clk) (Entered: 03/17/1993)"
+        }
+      ],
+      "docket_case_type": "cv",
+      "docket_year": 1991,
+      "docket_filing_number": 539,
+      "is_main_docket": true,
+      "court": "Northern District of Oklahoma",
+      "state": "Oklahoma",
+      "docket_office_number": "4",
+      "docket_number_manual": "4:91-cv-00539-HDC",
+      "scales_html": "https://clearinghouse-umich-production.s3.amazonaws.com/media/docket-html/oknd--4-91-cv-00539.html",
+      "recap_link": null,
+      "is_active": true
+    },
+    "name": "Chapman v. Nichols",
+    "never_filed": false,
+    "non_docket_case_number": "",
+    "non_docket_case_number_type": null,
+    "non_docket_case_number_type_other": "",
+    "order_end_year": null,
+    "order_start_year": null,
+    "permanent_injunction": false,
+    "plaintiff_description": "Four women who were arrested for minor traffic violations, taken to the Creek County Jail in Sapulpa, OK, and subjected to strip searches notwithstanding the lack of reasonable suspicion to believe they were concealing weapons or contraband.",
+    "plaintiff_type": [],
+    "prevailing_party": "Plaintiff",
+    "pro_se_status": "No",
+    "public_interest_lawyer": "No",
+    "related_cases": [],
+    "relief_natures": [
+      "Damages"
+    ],
+    "relief_nature_other": "",
+    "relief_sources": [
+      "Settlement"
+    ],
+    "settlement_agreement": [
+      "Private Settlement Agreement",
+      "Voluntary Dismissal"
+    ],
+    "settlement_judgment_date": "1993-03-23",
+    "settlement_judgment_year": null,
+    "special_collections": [
+      "Strip Search Cases"
+    ],
+    "special_case_type": [],
+    "state": "Oklahoma",
+    "summary": "<p>This 1991 strip search case was brought by four female detainees arrested for minor traffic offenses and held at the Creek County Jail in Sapulpa, Oklahoma where they were strip-searched notwithstanding the lack of reasonable suspicion to believe they were concealing weapons or contraband.  They filed suit in the U.S. District Court for the Northern District of Oklahoma where the judge (H. Dale Cook) held the sheriff was not entitled to qualified immunity because it was clearly established in 1991 and 1992 that blanket policy for strip searches of detainees was unconstitutional.</p><p>The sheriff appealed and on March 23, 1993, the Tenth Circuit Court of Appeals (Seymour, Anderson and Ebel, Circuit Judges) affirmed and remanded.</p><p>We have no further information about this case.</p>",
+    "summary_published_date": "2012-08-07T00:00:00-04:00",
+    "summary_short": "This 1991 strip search case was brought by four female detainees arrested for minor traffic offenses and held at the Creek County Jail in Sapulpa, Oklahoma where they were strip-searched notwithstanding the lack of reasonable suspicion to believe they were concealing weapons or contraband.  They filed suit in the U.S. District Court for the Northern District of Oklahoma where the judge (H. Dale Cook) held the sheriff was not entitled to qualified immunity because it was clearly established in 1991 and 1992 that blanket policy for strip searches of detainees was unconstitutional.\r\n\r\nThe sheriff appealed and on March 23, 1993, the Tenth Circuit Court of Appeals (Seymour, Anderson and Ebel, Circuit Judges) affirmed and remanded.\r\n\r\nWe have no further information about this case.",
+    "summary_tiny": null,
+    "terminating_date": null,
+    "clearinghouse_link": "clearinghouse.net/case/9813",
+    "is_active": true,
+    "case_documents_url": "https://clearinghouse.net/api/v2/documents/?case=9813",
+    "case_dockets_url": "https://clearinghouse.net/api/v2/dockets/?case=9813",
+    "case_resources_url": "https://clearinghouse.net/api/v2/resources/?case=9813"
+  },
+  "documents": [
+    {
+      "date": null,
+      "date_is_estimate": false,
+      "date_not_available": false,
+      "description": null,
+      "document_source": null,
+      "document_status": null,
+      "document_type": null,
+      "order_type": null,
+      "citation_paren": null,
+      "cite_1_page": null,
+      "cite_1_reporter": null,
+      "cite_1_vol": null,
+      "cite_2_page": null,
+      "cite_2_reporter": null,
+      "cite_2_vol": null,
+      "cite_3_page": null,
+      "cite_3_reporter": null,
+      "cite_3_vol": null,
+      "citation_status": null,
+      "court": null,
+      "no_title": false,
+      "party_types": [],
+      "per_curium": false,
+      "is_core_document": true,
+      "id": 119024,
+      "file": null,
+      "title": null,
+      "text": null,
+      "document_type_other": null,
+      "external_url": null,
+      "ecf_number": null,
+      "clearinghouse_link": "clearinghouse.net/doc/119024"
+    },
+    {
+      "date": "1993-06-15",
+      "date_is_estimate": false,
+      "date_not_available": false,
+      "description": null,
+      "document_source": "PACER [Public Access to Court Electronic Records]",
+      "document_status": "Coding Complete",
+      "document_type": "Docket",
+      "order_type": null,
+      "citation_paren": null,
+      "cite_1_page": null,
+      "cite_1_reporter": null,
+      "cite_1_vol": null,
+      "cite_2_page": null,
+      "cite_2_reporter": null,
+      "cite_2_vol": null,
+      "cite_3_page": null,
+      "cite_3_reporter": null,
+      "cite_3_vol": null,
+      "citation_status": "Not applicable",
+      "court": "Northern District of Oklahoma",
+      "no_title": false,
+      "party_types": [
+        "Court"
+      ],
+      "per_curium": false,
+      "is_core_document": true,
+      "id": 26293,
+      "file": "https://clearinghouse-umich-production.s3.amazonaws.com/media/doc/26293.pdf",
+      "title": "Docket [PACER]",
+      "text": "CM/ECF LIVE - U.S. District Court:oknd - Docket Report https://ecf.oknd.uscourts.gov/cgi-bin/DktRpt.pl?572191541304121-L_3...\nCLOSED, LC-2\nU.S. District Court\nU.S. District Court for the Northern District of Oklahoma (Tulsa)\nCIVIL DOCKET FOR CASE #: 4:91-cv-00539-HDC\nChapman v. Nichols, et al Date Filed: 07/24/1991\nAssigned to: Senior Judge H Dale Cook Date Terminated: 06/15/1993\nDemand: $200,000 Jury Demand: Plaintiff\nCause: 42:1983 Civil Rights Act Nature of Suit: 440 Civil Rights: Other\nJurisdiction: Federal Question\nPlaintiff\nJulie Chapman represented by Ronald V Collier \nCollier Law Office Inc \nP O Box 1257 \nOklahoma City, OK 73101 \n405-236-1204 \nFax: 405-232-7636 \nEmail: collierlaw@coxinet.net \nLEAD ATTORNEY \nATTORNEY TO BE NOTICED\nTeresa Ann Simmons \n1308 SW 110TH PL \nOKLAHOMA CITY, OK 73170 \n405-703-2628 \nFax: 405-703-2629 \nEmail: TASlaw@hotmail.com \nTERMINATED: 03/19/1993 \nLEAD ATTORNEY \nATTORNEY TO BE NOTICED\nV.\nDefendant\nDoug Nichols  represented by John Lowell Harlan \nindividually and as sheriff of Creek County John L Harlan & Assoc \n404 E DEWEY ST STE 106 \nSAPULPA, OK 74067 \n918-227-2590 \nFax: 918-227-1914 \nEmail: john.harlan@harlanlawfirm.com \nLEAD ATTORNEY \nATTORNEY TO BE NOTICED\nDefendant\n1 of 4 7/17/2007 10:50 AM\n\nCM/ECF LIVE - U.S. District Court:oknd - Docket Report https://ecf.oknd.uscourts.gov/cgi-bin/DktRpt.pl?572191541304121-L_3...\nCreek County Board of County  represented by Don Ipo Nelson \nCommissioners District Attorney's Office (Creek-Sapulpa) \nCreek County Courthouse \n222 E Dewey St \nRm 302 \nSapulpa, OK 74066 \n918-224-3921 \nLEAD ATTORNEY \nATTORNEY TO BE NOTICED\nLantz McClain \nDistrict Attorney's Office (Creek-Sapulpa) \nCreek County Courthouse \n222 E Dewey St \nRm 302 \nSapulpa, OK 74066 \n918-224-3921 \nLEAD ATTORNEY \nATTORNEY TO BE NOTICED\nDate Filed # Docket Text\n07/24/1991 1 COMPLAINT (Summons(es) issued); Consent form sent (pll, Dpty Clk) \n(Entered: 10/22/1992)\n09/10/1991 7 ANSWER by defendant Creek Cty BCC to [1-1] (pll, Dpty Clk) (Entered: \n03/17/1993)\n10/09/1991 15 ANSWER by defendant Doug Nichols to [1-1] (pll, Dpty Clk) (Entered: \n03/17/1993)\n02/14/1992 32 MOTION by defendant Doug Nichols, defendant Creek Cty BCC for summary \njudgment (pll, Dpty Clk) (Entered: 03/17/1993)\n02/18/1992 40 MOTION by plaintiff Julie Chapman for partial summary judgment (pll, Dpty \nClk) (Entered: 03/17/1993)\n04/02/1992 62 MOTION by plaintiff Julie Chapman to consolidate cases & brf/spprt w/92-109 \no2j (pll, Dpty Clk) (Entered: 03/17/1993)\n04/14/1992 63 RESPONSE by defendant Creek Cty BCC to motion to consolidate cases & \nbrf/spprt w/92-109 o2j [62-1] (pll, Dpty Clk) (Entered: 03/17/1993)\n05/29/1992 70 ORDER by Senior Judge H. D. Cook denying motion for partial summary \njudgment [40-1] (cc: all counsel) (pll, Dpty Clk) (Entered: 03/17/1993)\n05/29/1992 71 ORDER by Senior Judge H. D. Cook denying motion for summary judgment \n[32-1] (cc: all counsel) (pll, Dpty Clk) (Entered: 03/17/1993)\n06/08/1992 74 NOTICE OF APPEAL by defendant Doug Nichols from Dist. Court decision \n[71-1] (cc: all counsel) (pll, Dpty Clk) (Entered: 03/17/1993)\n2 of 4 7/17/2007 10:50 AM\n\nCM/ECF LIVE - U.S. District Court:oknd - Docket Report https://ecf.oknd.uscourts.gov/cgi-bin/DktRpt.pl?572191541304121-L_3...\n06/15/1992 76 MOTION by defendant Doug Nichols to stay pend appeal (pll, Dpty Clk) \n(Entered: 03/17/1993)\n06/22/1992 80 ORDER by Senior Judge H. D. Cook granting motion to stay pend appeal [76-1] \n, CASE STAYED (cc: all counsel) (pll, Dpty Clk) (Entered: 03/17/1993)\n07/02/1992 82 CERTIFIED COPY of Order from USCA re: juris issue, whether ntc/appeal was \nfiled before rlg on pltf's mot (pll, Dpty Clk) (Entered: 03/17/1993)\n03/12/1993 83 MOTION by plaintiff Julie Chapman to withdraw attorney Teresa Simmons o2j \n(pll, Dpty Clk) (Entered: 03/15/1993)\n03/19/1993 84 ORDER by Senior Judge H. D. Cook granting motion to withdraw attorney \nTeresa Simmons o2j [83-1] for Julie Chapman (cc: mvt counsel) (pll, Dpty Clk) \n(Entered: 03/22/1993)\n04/16/1993 85 CERTIFIED COPY of judgment from USCA; remanding the Decision of the \nDistrict Court [Appeal [74-1] (cc: HDC) (agc, Dpty Clk) (Entered: 04/19/1993)\n04/20/1993   MINUTE ORDER: by H Dale Cook; pursuant to remand from 10th, pretrial \nconference set for 11:00 6/15/93 pretrial order ddl set for 6/7/93 (cc: all counsel) \n(pll, Dpty Clk) (Entered: 04/21/1993)\n04/27/1993   NOTICE OF SETTLEMENT by defendant Doug Nichols, defendant Creek Cty \nBCC, by telephone. Papers wi/30 days. (fe, Dpty Clk) (Entered: 04/27/1993)\n06/04/1993   MINUTE ORDER: ; Pretrial conference stricken. Case set for hearing re \nsettlement for 11:15 a.m., 6/15/93 (cc: all counsel) (fe, Dpty Clk) (Entered: \n06/04/1993)\n06/07/1993 86 PRETRIAL MEMORANDUM/ Statement by plaintiff Julie Chapman, ptys \nsettled, pprs at PT conf (pll, Dpty Clk) (Entered: 06/08/1993)\n06/14/1993 87 STIPULATION of ptys for dism (pll, Dpty Clk) (Entered: 06/16/1993)\n06/14/1993 88 NOTICE by plaintiff Julie Chapman of dism w/prej as to Nichols, individ (pll, \nDpty Clk) (Entered: 06/16/1993)\n06/15/1993   MINUTES: by Senior Judge H. D. Cook ; Case called for PT. Parties announce \nsettlement as to all pltfs. Orders approved.(HDC-J)(ES-cr) (fe, Dpty Clk) \n(Entered: 06/15/1993)\n06/15/1993 89 JOURNAL ENTRY OF JUDGMENT: by Senior Judge H. D. Cook terminating \ncase for pltf agnst defts for $20,000 (cc: all counsel) (pll, Dpty Clk) (Entered: \n06/16/1993)\nPACER Service Center\nTransaction Receipt\n07/17/2007 10:49:17\nPACER \nhs0328 Client Code: clearinghouse \nLogin:\n3 of 4 7/17/2007 10:50 AM\n\nCM/ECF LIVE - U.S. District Court:oknd - Docket Report https://ecf.oknd.uscourts.gov/cgi-bin/DktRpt.pl?572191541304121-L_3...\nDocket  Search \nDescription: 4:91-cv-00539-HDC\nReport Criteria:\nBillable Pages: 2 Cost: 0.16\n4 of 4 7/17/2007 10:50 AM",
+      "document_type_other": null,
+      "external_url": null,
+      "ecf_number": null,
+      "clearinghouse_link": "clearinghouse.net/doc/26293"
+    },
+    {
+      "date": "1993-03-23",
+      "date_is_estimate": false,
+      "date_not_available": false,
+      "description": null,
+      "document_source": "Google Scholar",
+      "document_status": "Coding Complete",
+      "document_type": "Order/Opinion",
+      "order_type": "Unknown",
+      "citation_paren": null,
+      "cite_1_page": 393,
+      "cite_1_reporter": "F.2d",
+      "cite_1_vol": 989,
+      "cite_2_page": null,
+      "cite_2_reporter": null,
+      "cite_2_vol": null,
+      "cite_3_page": null,
+      "cite_3_reporter": null,
+      "cite_3_vol": null,
+      "citation_status": "Official citation found/coded",
+      "court": "U.S. Court of Appeals for the Tenth Circuit",
+      "no_title": false,
+      "party_types": [
+        "Court"
+      ],
+      "per_curium": false,
+      "is_core_document": true,
+      "id": 54253,
+      "file": "https://clearinghouse-umich-production.s3.amazonaws.com/media/doc/54253.pdf",
+      "title": "Opinion",
+      "text": "989 F.2d 393 (1993)\nJulie CHAPMAN, Plaintiff-Appellee,\nv.\nDoug NICHOLS, Defendant-Appellant, and\nBoard of County Commissioners of Creek County, Oklahoma, Defendant.\nWiney BEAVER, Stephanie Taylor, Jennafer Leone, Plaintiffs-Appellees,\nv.\nDoug NICHOLS, Board of County Commissioners of Creek County, Oklahoma,\nDefendants-Appellants.\nNos. 92-5122, 92-5178.\nUnited States Court of Appeals, Tenth Circuit.\nMarch 23, 1993.\n394 *394 John L. Harlan of John L. Harlan & Associates, P.C., Sapulpa, OK, for defendant-appellant.\nRon Collier and Teresa A. Simmons, Collier Law Office, Inc., Oklahoma City, OK, for plaintiff-appellees.\nBefore SEYMOUR, ANDERSON, and EBEL, Circuit Judges.\nSEYMOUR, Circuit Judge.\nPlaintiffs are four women who were arrested for minor traffic violations, taken to the Creek County Jail in Sapulpa,\nOklahoma, and subjected to strip searches notwithstanding the lack of reasonable suspicion to believe they were\nconcealing weapons or contraband. They brought this suit under 42 U.S.C. § 1983 (1988) against Doug Nichols,\nindividually and in his official capacity as Sheriff of Creek County, contending that he violated their Fourth\nAmendment rights by promulgating the policy under which they were searched. Sheriff Nichols appeals the\n[1]\ndistrict court's refusal to grant summary judgment in his favor based on qualified immunity. We affirm.\nI.\nPlaintiffs were each stopped at separate times by the Oklahoma Highway Patrol for speeding, and were then\narrested for driving with suspended drivers licenses. They were taken to the Creek County Jail and held pending\nrelease on bail. Upon arrival at the jail, each was subjected to a strip search by a female jail employee in a small\nprivate laundry room. According to their deposition testimony, one plaintiff was asked to stand with her hands\nover her head, see Aplt.App. at 60-64, one was subjected to a visual inspection of her pubic area, see id. at\n69-74, one was required to bend over and grab her ankles, see id. at 79-91, and one, who was searched while\nthe door to the laundry room was ajar, had to bend over and pull her panties down to her ankles, see id. at\n104-115. It is undisputed that jail officials conducted these searches solely pursuant to an across-the-board strip\nsearch policy applied to all jail detainees, and that the officials had no reasonable suspicion that these particular\ndetainees were carrying or concealing weapons or contraband.\n395 *395 Both sides moved for summary judgment. The district court concluded that the law was clearly established\nat the time of the searches at issue, and that under that law the searches were unconstitutional. The court held\naccordingly that defendant's qualified immunity defense was not sustainable on summary judgment and denied\nhis motion. The court ruled, however, that \"whether an `objectively reasonable' officer could have believed that\nconducting the search in private comported with the Fourth Amendment is a question which may have to be\nsubmitted to the jury.\" Aplt.App. at 16. The district court therefore denied plaintiffs' motion for summary judgment\n[2]\nagainst defendant Nichols, individually, as to liability.\n\nSheriff Nichols appeals the denial of qualified immunity, asserting that the policy at issue is not unconstitutional\n[3]\nand that he is entitled to qualified immunity in any event because the law was not clearly established.  Plaintiffs\nrespond that the policy is unconstitutional, that the law was clearly established, and that the district court\ntherefore erred in holding that fact questions remain on defendant's qualified immunity claim. They further\ncontend that defendant's appeal is frivolous.\nII.\nWe begin our discussion with the Supreme Court case of Bell v. Wolfish, 441 U.S. 520, 99 S.Ct. 1861, 60 L.Ed.2d\n447 (1979), in which the Court articulated the balancing test applicable to alleged unconstitutional searches.\nThe test of reasonableness under the Fourth Amendment is not capable of precise definition or\nmechanical application. In each case it requires a balancing of the need for the particular search\nagainst the invasion of personal rights that the search entails. Courts must consider the scope of\nthe particular intrusion, the manner in which it is conducted, the justification for initiating it, and the\nplace in which it is conducted.\nId. at 559, 99 S.Ct. at 1884 (emphasis added).\nIn this case, it is undisputed that plaintiffs were arrested for minor traffic violations and were awaiting bail, that jail\nofficials had no reasonable suspicion that these particular arrestees were likely to be carrying or concealing\nweapons or drugs, and that plaintiffs were searched solely because the blanket policy required all detainees to be\nsubjected to a strip search. Every circuit court, including our own, which has considered the above circumstances\nunder the Wolfish balancing test has concluded that a search under these circumstances is unconstitutional. See\ne.g., Masters v. Crouch, 872 F.2d 1248, 1253 (6th Cir.),cert. denied,493 U.S. 977, 110 S.Ct. 503, 107 L.Ed.2d\n506 (1989); Watt v. City of Richardson Police Dep't, 849 F.2d 195, 199 (5th Cir.1988); Walsh v. Franco, 849 F.2d\n66, 68 (2d Cir.1988); Weber v. Dell, 804 F.2d 796, 801 (2d Cir.1986),cert. denied,483 U.S. 1020, 107 S.Ct.\n3263, 97 L.Ed.2d 762 (1987); Ward v. County of San Diego, 791 F.2d 1329, 1332 (9th Cir. 1986),cert. denied,\n483 U.S. 1020, 107 S.Ct. 3263, 97 L.Ed.2d 762 (1987); Jones v. Edwards, 770 F.2d 739, 742 (8th Cir.1985); \nStewart v. Lubbock County, 767 F.2d 153, 156-57 (5th Cir.1985),cert. denied,475 U.S. 1066, 106 S.Ct. 1378, 89\nL.Ed.2d 604 (1986); Giles v. Ackerman, 746 F.2d 614, 617 (9th Cir.1984),cert. denied,471 U.S. 1053, 105 S.Ct.\n2114, 85 L.Ed.2d 479 (1985); Hill v. Bogans, 735 F.2d 391, 394 (10th Cir.1984); Mary Beth G. v. City of Chicago,\n723 F.2d 1263, 1273 (7th Cir.1983); Logan v. Shealy, 660 F.2d 1007, 1013 (4th Cir.1981),cert. denied,455 U.S.\n942, 102 S.Ct. 1435, 71 L.Ed.2d 653 (1982).\nThere can be no doubt that a strip search is an invasion of personal rights of the first magnitude.\nIt is axiomatic that a strip search represents a serious intrusion upon personal rights. In [Mary\n396 Beth G. v. City of Chicago, 723 F.2d 1263 (7th Cir.1983)], *396 the court referred to strip searches\nas \"demeaning, dehumanizing, undignified, humiliating, terrifying, unpleasant, embarrassing,\nrepulsive, signifying degradation and submission.\" Mary Beth G., 723 F.2d at 1272. Another court\ndescribed the indignity individuals arrested for minor offenses experience in the following manner:\nThe experience of disrobing and exposing one's self for visual inspection by a stranger clothed\nwith the uniform and authority of the state, in an enclosed room inside a jail, can only be seen as\nthoroughly degrading and frightening. Moreover, the imposition of such a search upon an\nindividual detained for a lesser offense is quite likely to take that person by surprise, thereby\nexacerbating the terrifying quality of the event.\nJohn Does 1-100 v. Boyd, 613 F.Supp. 1514, 1522 (D.C.Minn.1985).\nJustice v. City of Peachtree City, 961 F.2d 188, 192 (11th Cir.1992); see also Boren v. Deland, 958 F.2d 987, 988\nn. 1 (10th Cir. 1992) (\"[A] strip search, regardless how professionally and courteously conducted, is an\nembarrassing and humiliating experience.\" (quoting Hunter v. Auger, 672 F.2d 668, 674 (8th Cir.1982)); \nThompson v. City of Los Angeles, 885 F.2d 1439, 1446 (9th Cir.1989) (\"The feelings of humiliation and\n\ndegradation associated with forcibly exposing one's nude body to strangers for visual inspection is beyond\ndispute\"); Jones, 770 F.2d at 742 (strip search \"intrusive, depersonalizing, and distasteful\").\nDefendant contends that the invasion posed by his policy is justified by the need for jail security because women\ndetainees must be incarcerated in one cell with the general jail population. However, there is no showing here of\na security need that would justify this strip search policy in view of the extent of the invasion of privacy entailed by\nsuch a search. \"While the need to assure jail security is a legitimate and substantial concern, we believe that, on\nthe facts here, the strip searches bore an insubstantial relationship to security needs so that, when balanced\nagainst plaintiffs-appellees' privacy interests, the searches cannot be considered `reasonable.'\" Mary Beth G.,\n723 F.2d at 1273; see also Giles, 746 F.2d at 617\n(jail security needs do not justify strip search absent reasonable suspicion that individual detainee carrying\nweapons or contraband); Logan, 660 F.2d at 1013. (\"An indiscriminate strip search policy routinely applied to\ndetainees such as Logan along with all other detainees cannot be constitutionally justified simply on the basis of\nadministrative ease in attending to security considerations.\").\nWe addressed these same security concerns in Hill. Hill had been stopped for driving with an expired automobile\ninspection sticker. He was detained after the officer did a routine warrant check and was informed of an\noutstanding bench warrant for Hill's arrest for failure to appear on charges of speeding and violating a license\nrestriction. When he arrived at jail, he was given a pat-down search and was transferred to the holding area,\nwhere he made several phone calls to arrange for bail. In accordance with jail procedures applied to all\ndetainees, Hill was then visually strip searched in a lobby area in front of ten or twelve people.\nAlthough Hill was \"briefly intermingled with the prison population,\" 735 F.2d at 394, we determined that the jail's\nresulting need for security did not justify the strip search.\nNo other conceivable justification exists for the strip search in this case. There were no\ncircumstances here indicating that Hill might possess either a weapon or drugs.... [The offenses\nfor which Hill was arrested] are not offenses associated with the concealment of weapons or\ncontraband in a body cavity. In fact, a peculiar aspect of the strip search in this case is that the\nofficer did not carefully examine Hill's body cavities, but instead merely looked in his trousers and\nat his buttocks. Almost anything that the examining officer could have found through this\nprocedure would already have been discovered during the pat down search that had been\nconducted on Hill's arrival at the jail.\n397 *397Id. (emphasis added). Other courts have also recognized that jails can meet the minimal security concerns\nthey may have with minor offenders by means of a \"less intrusive pat-down search.\" Jones, 770 F.2d at 742; see\nalso Logan, 660 F.2d at 1013 (Logan was strip searched after \"she had been at the Detention Center for one and\none-half hours without even a pat-down search.\"). We conclude that the policy here does not pass constitutional\nmuster.\nIII.\nSheriff Nichols contends that he is nonetheless entitled to qualified immunity because the above cases are\ndistinguishable and no case has held unconstitutional a search conducted under the circumstances of this case.\nIn so doing, Sheriff Nichols disregards both authority holding virtually identical searches violative of the Fourth\nAmendment, and cases denying a claim of qualified immunity under indistinguishable facts.\nThe principles governing the availability of qualified immunity are clear. An official is protected from personal\nliability if his allegedly unlawful official action was objectively reasonable when assessed in light of legal rules that\nwere clearly established when the action was taken. See Anderson v. Creighton, 483 U.S. 635, 639, 107 S.Ct.\n3034, 3038-39, 97 L.Ed.2d 523 (1987).\nThe contours of the right must be sufficiently clear that a reasonable official would understand that\nwhat he is doing violates that right. This is not to say that an official action is protected by qualified\n\nimmunity unless the very action in question has previously been held unlawful, but it is to say that\nin the light of pre-existing law the unlawfulness must be apparent.\nId. at 640, 107 S.Ct. at 3039 (citation omitted).\nGovernment officials are deemed to have \"presumptive knowledge of and respect for `basic,\nunquestioned constitutional rights,'\" and may be held liable for a violation of constitutional rights\nwhen they \"`knew or reasonably should have known'\" of the constitutionally violative effect of their\nactions. Thus, absent extraordinary circumstances, `[i]f the law was clearly established, the\nimmunity defense ordinarily should fail, since a reasonably competent public official should know\nthe law governing his conduct.'\nWalsh, 849 F.2d at 68 (quoting Harlow v. Fitzgerald, 457 U.S. 800, 815, 818-19, 102 S.Ct. 2727, 2738, 2738-39,\n73 L.Ed.2d 396 (1982)). Accordingly, courts have placed\nthe responsibility for keeping abreast of constitutional developments in criminal law squarely on\nthe shoulders of law enforcement officials. Given the power of such officials over our liberty, and\nsometimes even over our lives, this placement of responsibility is entirely proper. Law\nenforcement officials must be cognizant not only of how far their authority extends, but also of the\npoint at which their authority ends. At the same time, however, [courts do not] require of most\ngovernment officials the kind of legal scholarship normally associated with law professors and\nacademicians. A reasonable person standard adheres at all times.\nWard, 791 F.2d at 1332.\nSheriff Nichols asserts that notwithstanding the unanimous circuit authority condemning blanket strip search\npolicies applied to minor offense detainees, the unlawfulness of the policy at issue here was not apparent\nbecause the searches were conducted in private and did not include visual body cavity inspections. We disagree.\nPrior cases involving each of these circumstances have held such searches unconstitutional.\nThe searches in this case took place on February 4, 1992, March 10, 1992, August 24, 1991, and September 12,\n1991. At least five circuit cases decided prior to the conduct challenged here have condemned indiscriminate\nstrip search policies that involved a private search. See e.g., Watt, 849 F.2d at 196 (search performed in\nwindowless holding cell with only female officer and trainee present); Weber, 804 F.2d at 799 (search performed\n398 in vacant cell); Jones, 770 F.2d at 742 (\"location of search did not *398 expose Jones to the scrutiny of other\njailers or passersby\"); Giles, 746 F.2d at 616 (search took place in booking cell); Mary Beth G., 723 F.2d at 1267\nn. 4 (policy requiring that search be \"conducted in closed room away from the view of all persons except the\nperson conducting the search\" nonetheless unconstitutional). Although the search that this court held\nunconstitutional in Hill, 735 F.2d 391, involved a strip search conducted in a public area, that holding does not\nprovide an objectively valid reason for concluding that indiscriminate strip searches conducted in private are\ntherefore lawful, particularly in view of the contrary authority set out above.\nWe likewise cannot agree that it was objectively reasonable in light of the state of the law to believe that the strip\nsearch of a minor traffic offender without reasonable suspicion was constitutional simply because the search did\nnot include a visual body cavity inspection. In Giles, 746 F.2d 614, as here, the detainee was not subjected to a\nvisual body cavity examination. The parties there agreed that although the search was conducted courteously\nand in an appropriate place, \"Giles' privacy was invaded in a frightening and humiliating manner.\" Id. at 617. The\ncourt specifically distinguished between that search and a visual body cavity examination and nonetheless held\nthe search unconstitutional, stating that reasonable individualized suspicion was required before such a search\ncould be lawfully conducted. Id. at 616 & n. 1. Moreover, the actual search in Hill does not appear to have been\nmore extensive than the searches here. Indeed, no circuit court has upheld qualified immunity on the basis of the\ndistinction defendant would have us draw. We are persuaded that no objectively reasonable person would\nbelieve that a strip search of a minor offense detainee would be constitutional simply because the search did not\ninvolve a more obtrusive viewing of the detainee's naked body.\nIn light of the cases set out above and recent Supreme Court authority, the district court erred in holding that\ndefendant's objective reasonableness posed a jury question. The Supreme Court has specifically rejected a line\n\nof cases under which it was left to the jury to decide whether an officer could have reasonably believed he was\nacting properly in light of established law. See Hunter v. Bryant, ___ U.S. ___, 112 S.Ct. 534, 116 L.Ed.2d 589\n(1991) (per curiam). The Court stated that \"[i]mmunity ordinarily should be decided by the court long before trial.\" \nId. at ___, 112 S.Ct. at 537; see also Act Up!/Portland v. Bagley, 971 F.2d 298, 301 (9th Cir.1992) (interpreting \nBryant to require that when facts underlying qualified immunity not in dispute, district court should decide\nobjective reasonableness on summary judgment).\nThe facts are not in dispute here. The legal issue is whether, as Sheriff Nichols contends, an official could have\nreasonably believed that a strip search policy applied to minor offense detainees without particularized\nreasonable suspicion was lawful if conducted in private. In light of the five cases set out above that expressly\nhold such a private strip search unconstitutional and the lack of any authority to the contrary, we conclude as a\nmatter of law that such a belief is not objectively reasonable. Two of the five cases held, as we do here, that the\nqualified immunity defense must fail in light of clearly established law. See Weber, 804 F.2d at 803-04; Jones,\n770 F.2d at 742 n. 4.\nFinally, we observe that no circuit case has upheld the grant of qualified immunity when asserted against a claim\nbased on an across-the-board policy of strip searching minor offense detainees. See, e.g., Masters, 872 F.2d at\n1253-55; Walsh, 849 F.2d at 68-69; Weber, 804 F.2d at 803-04; Ward, 791 F.2d at 1332-33; Jones, 770 F.2d at\n742 n. 4. Although not all of the cases deal with private searches and/or searches not including visual body cavity\ninspection, the rationale underlying each of them unmistakably indicates that the search policy in the present\ncase was not objectively reasonable in light of clearly established law. As one of the cases pertinently observed:\n399 a probable explanation for the absence of such cases is that other government authorities *399\nhave sensibly abandoned or declined to establish policies calling for routine strip/body cavity\nsearches of all persons resisting arrest. As we have noted, municipalities that have adopted\nsimilar policies, uniformly subjecting intoxicated traffic law offenders and other misdemeanants to\nsuch searches, have all seen those policies abrogated when challenged.\nWeber, 804 F.2d at 804.\nAccordingly, we AFFIRM the district court's ruling that the strip search policy under which plaintiffs were searched\nis unconstitutional. We also affirm the district court's determination that the law was clearly established. We hold\nas a matter of law that Sheriff Nichols' belief that his policy was constitutional was not objectively reasonable\n[4]\nunder clearly established law. The case is REMANDED for further proceedings consistent with this opinion.\n[1] After examining the briefs and appellate record, this panel has determined unanimously that oral argument\nwould not materially assist the determination of this appeal. See Fed. R.App.P. 34(a); 10th Cir.R. 34.1.9. The\ncause is therefore ordered submitted without oral argument.\n[2] The court granted plaintiffs' motion for summary judgment as to liability against Sheriff Nichols in his official\ncapacity.\n[3] The record reveals that Sheriff Nichols has discontinued the policy challenged here.\n[4] We deny plaintiffs' motion for sanctions because we do not agree that this appeal was frivolous.\nSave trees - read court opinions online on Google Scholar.",
+      "document_type_other": null,
+      "external_url": "",
+      "ecf_number": null,
+      "clearinghouse_link": "clearinghouse.net/doc/54253"
+    }
+  ],
+  "document_count": 3
+}

@@ -1,0 +1,206 @@
+{
+  "case_id": 10083,
+  "fetched_at": "2025-10-20T22:38:42.734286",
+  "case_data": {
+    "attorney_orgs": [],
+    "available_documents": [
+      "Trial Court Docket"
+    ],
+    "case_defendants": [
+      {
+        "defendant_level": null,
+        "institution": "County of Los Angeles",
+        "institution_alt_state": null,
+        "institution_city": "",
+        "institution_county": "Los Angeles",
+        "name": "County of Los Angeles",
+        "defendant_level_other": "",
+        "is_active": true
+      },
+      {
+        "defendant_level": null,
+        "institution": "Los Angeles County Sheriff's Department",
+        "institution_alt_state": null,
+        "institution_city": "",
+        "institution_county": "Los Angeles",
+        "name": "Los Angeles County Sheriff's Department",
+        "defendant_level_other": "",
+        "is_active": true
+      }
+    ],
+    "case_ongoing": "No",
+    "case_status": "Coding Complete",
+    "case_types": [
+      "Jail Conditions"
+    ],
+    "cause_other": "",
+    "causes": [
+      "State law"
+    ],
+    "class_action_granted": "Not sought",
+    "class_action_sought": "No",
+    "closing_year": 2002,
+    "constitutional_clause": [],
+    "content_of_injunction": [],
+    "court": "California state trial court",
+    "custom_issues": [],
+    "defendant_payment": "",
+    "defendant_type": [],
+    "docket_status": "None",
+    "facility_type": [
+      {
+        "value": "Government-run"
+      }
+    ],
+    "filing_date": "2001-06-22",
+    "filing_year": 2001,
+    "id": 10083,
+    "injunction_duration": "",
+    "issues": [
+      "General/Misc.: Search policies",
+      "Jails, Prisons, Detention Centers, and Other Institutions: Strip search policy (facilities)",
+      "Jails, Prisons, Detention Centers, and Other Institutions: Over/Unlawful Detention (facilities)",
+      "Affected Sex/Gender(s): Female",
+      "Policing: Strip search policy (policing)"
+    ],
+    "last_checked_date": "2007-07-05T00:00:00-04:00",
+    "main_docket": {
+      "id": 32995,
+      "docket_entries": [],
+      "docket_case_type": "",
+      "docket_year": 2001,
+      "docket_filing_number": 250991,
+      "is_main_docket": true,
+      "court": "California state trial court",
+      "state": "California",
+      "docket_office_number": "",
+      "docket_number_manual": "BC250991",
+      "scales_html": null,
+      "recap_link": null,
+      "is_active": true
+    },
+    "name": "Beaudoin v. County of Los Angeles",
+    "never_filed": false,
+    "non_docket_case_number": "",
+    "non_docket_case_number_type": null,
+    "non_docket_case_number_type_other": "",
+    "order_end_year": null,
+    "order_start_year": null,
+    "permanent_injunction": false,
+    "plaintiff_description": "Pregnant individual was arrested for traffic warrants, taken to Twin\r\nTowers, subjected to a strip search and visual body cavity inspection.",
+    "plaintiff_type": [
+      {
+        "value": "Private Plaintiff"
+      }
+    ],
+    "prevailing_party": "Plaintiff",
+    "pro_se_status": "No",
+    "public_interest_lawyer": "No",
+    "related_cases": [
+      {
+        "id": 1017,
+        "name": "L.A. County Sheriff's Department (Kolts Report and Implementation)"
+      }
+    ],
+    "relief_natures": [
+      "Damages"
+    ],
+    "relief_nature_other": "",
+    "relief_sources": [
+      "Settlement"
+    ],
+    "settlement_agreement": [
+      "Private Settlement Agreement"
+    ],
+    "settlement_judgment_date": "2002-07-18",
+    "settlement_judgment_year": null,
+    "special_collections": [
+      "Strip Search Cases"
+    ],
+    "special_case_type": [],
+    "state": "California",
+    "summary": "<p>We have no court filings from this case.  However, news accounts indicate that this case is one of a series of individual and class action lawsuits filed in federal and state courts in California beginning in 1997 and challenging various alleged policies and/or practices of the Los Angeles County Sheriff's Department (LASD).  The challenged policies included: 1) overdetentions; 2) strip and visual body cavity searches; and 3) wrong warrant arrests and detentions.  See e.g. Musso v. County of L.A., JC-CA-21, and Williams v. County of L.S., JC-CA-33.</p><p>This case involved an allegedly unlawful strip search conducted at Twin Towers Correctional Facility.  In December 2000, Plaintiff, Brandi Beaudoin, was arrested on a warrant for driving with a suspended license.  While being booked at Lomita Station, Plaintiff informed LASD officers that she was six months pregnant.  Because of her pregnancy, the officers determined that Plaintiff should be transferred to the Twin Towers facility so that medical staff could evaluate her condition.  Plaintiff's husband posted a bond for her release, but the documentation for this release was not received until after Plaintiff was transferred to Twin Towers.  After arriving at Twin Towers, but prior to being placed in the general population, Plaintiff was subjected to a strip and visual body cavity search.  Plaintiff spent the night in jail and was released early the following morning.</p><p>A week after her release, Plaintiff twice went into premature labor, requiring medical attention.  In 2001, Plaintiff filed an individual civil suit in state court, alleging that the strip search was conducted in violation of state law and ultimately caused her premature labor.  Discovery commenced but, in June 2002, the County agreed to settle Plaintiff's claims for $150,000.</p><p></p>",
+    "summary_published_date": "2008-01-22T00:00:00-05:00",
+    "summary_short": null,
+    "summary_tiny": null,
+    "terminating_date": null,
+    "clearinghouse_link": "clearinghouse.net/case/10083",
+    "is_active": true,
+    "case_documents_url": "https://clearinghouse.net/api/v2/documents/?case=10083",
+    "case_dockets_url": "https://clearinghouse.net/api/v2/dockets/?case=10083",
+    "case_resources_url": "https://clearinghouse.net/api/v2/resources/?case=10083"
+  },
+  "documents": [
+    {
+      "date": "2002-08-19",
+      "date_is_estimate": false,
+      "date_not_available": false,
+      "description": null,
+      "document_source": null,
+      "document_status": "Coding Complete",
+      "document_type": "Docket",
+      "order_type": null,
+      "citation_paren": null,
+      "cite_1_page": null,
+      "cite_1_reporter": null,
+      "cite_1_vol": null,
+      "cite_2_page": null,
+      "cite_2_reporter": null,
+      "cite_2_vol": null,
+      "cite_3_page": null,
+      "cite_3_reporter": null,
+      "cite_3_vol": null,
+      "citation_status": "Not applicable",
+      "court": "California state trial court",
+      "no_title": false,
+      "party_types": [
+        "Court"
+      ],
+      "per_curium": false,
+      "is_core_document": true,
+      "id": 26300,
+      "file": "https://clearinghouse-umich-production.s3.amazonaws.com/media/doc/26300.pdf",
+      "title": "Docket",
+      "text": " \n \nDockets - CALIFORNIA - LOS ANGELES COUNTY \nSource:   SUPERIOR COURT, LOS ANGELES COUNTY, \nCALIFORNIA \n \nCASE INFORMATION \nCase Title:  BRANDI MICHELLE BEAUDOIN v. COUNTY OF \nLOS ANGELES \nCourt:  SUPERIOR COURT, LOS ANGELES COUNTY \nDivision:  CENTRAL DISTRICT \nCase Number:  BC250991 \nCase Type:  CIVIL \nDescription:  CIVIL RIGHTS (GENERAL JURISDICTION) \nKey Nature of Suit:  CIVIL RIGHTS (110) \nDate Filed:  05/22/2001 \nCase Status:  DISMISSED - OTHER 08/19/2002 \n \nPARTICIPANT INFORMATION \nName:  BEAUDOIN BRANDI MICHELLE \nType:  PLAINTIFF \n \nName:  BACA LEE SHERIFF \nType:  DEFENDANT/RESPONDENT \n \nName:  LOS ANGELES COUNTY OF \nType:  DEFENDANT \n \nName:  LOS ANGELES COUNTY SHERIFFS \nType:  DEFENDANT \n \nName:  MARTINEZ-PARRA MARIA \nType:  DEFENDANT/RESPONDENT \n \nName:  PARA DOE \nType:  DEFENDANT/RESPONDENT \n \nName:  RENNER CATHY \nType:  DEFENDANT/RESPONDENT \n \n\nName:  BARR ELEANOR OTHS \nType:  MEDIATOR \n \nName:  SAUER STEVEN R \nType:  MEDIATOR-IMMEDIATE FORMER \n \nATTORNEY INFORMATION \nAttorney:  MICHAEL D. ALLEN \nAttorney Status:  ATTORNEY FOR DEFENDANT/RESPONDENT \n \nAttorney:  ELLEN HAMMILL ELLISON \nAttorney Status:  ATTORNEY FOR PLTF/PETNR \n \nAttorney Status:  FORMER ATTORNEY FOR PLTF/PETN \nFirm Name:  MANES & WATSON \n \nCALENDAR INFORMATION \nDate/Time:   Description:   Location:   Judge:  \n08/19/2002 08:45  Event: OSC RE  Department: 78  MARILYN L. \nAM  DISMISSAL  HOFFMAN \nDisposition: \nVACATED  \n07/15/2002 03:30 PM Event: FINAL  Department: 78  MARILYN L. \nSTATUS  HOFFMAN \nCONFERENCE \nDisposition: \nADVANCED TO A \nPREVIOUS DATE  \n7/10/2002 08:30 AM  Event: COURT  Department: 78  MARILYN L. \nORDER Disposition:  HOFFMAN \nCOMPLETED  \n06/19/2002 08:30  Event: EX PARTE  Department: 78  MARILYN L. \nAM  MOTION  HOFFMAN \nDisposition: \nDENIED  \n06/13/2002 08:30  Event: EX PARTE  Department: 78  MARILYN L. \nAM  MOTION  HOFFMAN \nDisposition: \nDENIED  \n04/30/2002 01:30 PM Event: CLOSED- Department: ADRO  ADR HEARING \nADR (4-18- OFFICER \n02ELEANOR \n\nBARR-COMM \nPROV) Disposition: \nSTATEMENT-\nAGREEMENT \n(FULL)  \n04/23/2002 08:30  Event: MOTION  Department: 78  MARILYN L. \nAM  FOR SANCTIONS  HOFFMAN \nDisposition: OFF \nCALENDAR  \n03/21/2002 08:30  Event: EX PARTE  Department: 78  MARILYN L. \nAM  MOTION  HOFFMAN \nDisposition: \nGRANTED  \n03/13/2002 08:30  Event: MOTION TO  Department: 78  MARILYN L. \nAM  QUASH Disposition:  HOFFMAN \nOFF CALENDAR  \n02/28/2002 08:30  Event: MOTION TO  Department: 78  MARILYN L. \nAM  COMPEL ((2  HOFFMAN \nMOTIONS- C/F 2-\n15-02)) Disposition: \nGRANTED  \n02/25/2002 08:30  Event: MOTION TO  Department: 78  MARILYN L. \nAM  COMPEL  HOFFMAN \nDisposition: \nCONTINUED BY \nCOURT  \n02/15/2002 08:30  Event: MOTION  Department: 78  MARILYN L. \nAM  FOR JUDGMENT  HOFFMAN \nDisposition: \nCONTINUED BY \nCOURT  \n01/23/2002  Event: ADR- Department: ADR  ADR HEARING \nCLOSED (01-07- OFFICER \n02STEVEN R. \nSAUER- \nMEDIATOR) \nDisposition: \nSTATEMENT-NON-\nAGREEMENT  \n01/11/2002 09:00  Event:  Department: 78  MARILYN L. \nAM  CONFERENCE- HOFFMAN \nPOST MEDIATION \nSTATUS \nDisposition: \nCOMPLETED  \n\n10/03/2001 09:00  Event: INITIAL  Department: 78  MARILYN L. \nAM  STATUS  HOFFMAN \nCONFERENCE \nDisposition: \nCOMPLETED  \n \nDOCKET PROCEEDINGS \n \nDate:   Entry #:   Description:   Date Docketed:  Party:  \n08/02/2002    Document Description:    COURT  \nMISCELLANEOUS-\nOTHER (REJECT RE: \nMINOR'S CLAIM )  \n07/18/2002   Document    ATTORNEY FOR \nDescription: ORD  PLAINTIFF/PETITIONER \nAPPTNG \nGUARDIAN AD \nLITEM  \n07/18/2002   Document    ATTORNEY FOR \nDescription: ORD  PLAINTIFF/PETITIONER \nAPPTNG \nGUARDIAN AD \nLITEM  \n07/10/2002    Document    ATTORNEY \nDescription: NOTICE- FOR \nSETTLEMENT   PLTF/PETNR \n06/20/2002    Document Description:    ATTORNEY FOR \nNOTICE (OF COURT'S  DEFT/RESPNT  \nDENIAL OF SECOND EX \nPARTE APPLICATION \nRE STIPULATION BY \nPLAINTIFF BRANDI \nMICHELLE BEAUDOIN \nAND ORDER RE \nCOVENANT NOT TO \nSUE )  \n06/19/2002   Document    ATTORNEY FOR \nDescription: EX- DEFENDANT/RESPONDENT  \nPARTE \nAPPLICATION \n(FOR COURT \nAPPROVAL OF \nSTIPULATION \nBY PLAINTIFF ) \n\n06/19/2002   Document    ATTORNEY FOR \nDescription:  DEFENDANT/RESPONDENT  \nSTIPULATION (BY \nPLAINTIFF \nBRANDI \nMICHELLE \nBEAUDOIN RE \nCOVENANT NOT \nTO SUE )  \n06/14/2002   Document Description:    ATTORNEY FOR \nNOTICE (OF COURT'S  DEFENDANT/RESPONDENT  \nDENIEL OF DEFTS' \nEX PARTE \nAPPLICATION RE \nSTIP BY PLTF \nBRANDI MICHELLE \nBEAUDOIN & ORDER \nRE COVENANT NOT \nTO SUE )  \n06/13/2002   Document Description:    ATTORNEY FOR \nSTIPULATION (BY  PLAINTIFF/PETITIONER \nPLAINTIFF BRANDI \nMICHELLE BEAUDOIN \nRE COVENANT NOT TO \nSUE )  \n06/13/2002   Document Description: EX-   ATTORNEY FOR \nPARTE APPLICATION  DEFENDANT/RESPONDENT  \n(FOR COURT APPROVAL \nOF STIPULATION BY \nPLAINTIFF )  \n06/03/2002    Document Description:    COURT  \nMISCELLANEOUS-OTHER \n(REJECT SHEET - RE: \nSTIPULATION )  \n04/29/2002    Document Description:    MEDIATOR  \nSTATEMENT-AGREEMENT \n(FULL)  \n04/22/2002    Document Description: NOTICE    ATTORNEY \nOF CHANGE OF ADDRESS  FOR \n(TELEPHONE NUMBER AND  DEFT/RESPNT \nFACSIMILE NUMBER )  \n04/15/2002    Document Description: FIRST    ATTORNEY \nAMENDED COMPLAINT   FOR \nPLTF/PETNR  \n \n\n04/15/2002    Document    ATTORNEY \nDescription:  FOR \nOPPOSITION  DEFT/RESPNT \nDOCUMENT (TO \nMOTION FOR \nSANCTIONS; \nREQUEST FOR \nMONETARY \nSANCTIONS \nAGAINST \nPLAINTIFF AND \nHER COUNSEL \nIN THE AMOUNT \nOF $780.; \nMEMORANDUM \nOF POINTS AND \nAUTHORITIES; \nDECLARA- TION \nOF MICHAEL D. \nALLEN.)  \n04/02/2002   Document    ATTORNEY FOR \nDescription:  PLAINTIFF/PETITIONER  \nMOTION \nFOR \nSANCTIONS \n03/21/2002   Document    ATTORNEY FOR \nDescription: EX- PLAINTIFF/PETITIONER  \nPARTE \nAPPLICATION  \n03/04/2002    Document    ATTORNEY FOR \nDescription:  DEFT/RESPNT  \nOPPOSITION \nDOCUMENT \n(TO \nPLAINTIFF'S \nMOTION TO \nQUASH; \nREQUEST FOR \nSANCTIONS \nAGAINST \nPLAINTIFF \nAND HER \nCOUNSEL; \nMEMO- \nRANDUM OF \nPOINTS AND \n\nAUTHORITIES; \nDECLARATION \nOF MICHAEL \nD. ALLEN )  \n02/26/2002    Document    ATTORNEY FOR \nDescription: PROOF  PLTF/PETNR  \nOF SERVICE \n((AMENDED) )  \n02/20/2002    Document    ATTORNEY FOR \nDescription: NOTICE  DEFT/RESPNT  \nOF LODGING (OF \nNON-CALIFORNIA \nAUTHORITIES IN \nSUPPORT OF \nREPLY TO \nPLAINTIFF'S \nOPPOSITION TO \nDEFENDANTS' \nMOTION TO \nCOMPEL. )  \n02/20/2002   Document    ATTORNEY FOR \nDescription:  PLAINTIFF/PETITIONER  \nMOTION TO \nQUASH  \n02/20/2002    Document Description:    ATTORNEY FOR \nREPLY/RESPONSE (TO  DEFT/RESPNT  \nPLAINTIFF'S \nOPPOSITION TO \nMOTION TO COMPEL; \nDECLARATION OF \nMICHAEL D. ALLEN. ) \n02/13/2002    Document Description:    ATTORNEY FOR \nOPPOSITION  PLTF/PETNR  \nDOCUMENT (TO \nDEFENDANTS' MOTION \nTO COMPEL AND \nREQUEST FOR \nSANCTIONS; REQUEST \nTO STRIKE UNSERVED \nFOREIGN AUTHO- \nRITIES, MOTION FOR \n$1,800 MONETARY \nSANCTIONS AGAINST \nCOUNTY OF L.A. AND \nMICHAEL D. ALLEN, \n\nESQ.)  \n02/13/2002    Document Description:    ATTORNEY FOR \nREPLY/RESPONSE (TO  PLTF/PETNR  \nOPPOSITION TO \nPLAINTIFF'S MOTION TO \nCOMPEL FURTHER \nRESPON- SES; \nDECLARATION OF \nELLEN HAMMILL \nELLISON. )  \n02/11/2002   Document Description:    ATTORNEY FOR \nREPLY/RESPONSE (TO  DEFT/RESPNT  \nPLAINTIFF'S OPPOSITION \nTO MOTION FOR \nJUDGMENT ON THE \nPLEADINGS. )  \n02/11/2002   Document Description:    ATTORNEY FOR \nNOTICE OF LODGING (OF  DEFT/RESPNT  \nNON-CALIFORNIA \nAUTHORITIES IN SUPPORT \nOF DEFENDANTS' REPLIES \nTO OPPOSITION TO \nMOTION FOR JUDGMENT \nON THE PLEADINGS. )  \n02/06/2002    Document Description:    ATTORNEY FOR \nOPPOSITION DOCUMENT (TO  PLTF/PETNR  \nDEFENDANTS' MOTION FOR \nJUDGMENT ON THE \nPLEADINGS. )  \n02/05/2002    Document Description: OPPOSITION   ATTORNEY FOR \nDOCUMENT (TO PLAINTIFF'S  DEFT/RESPNT  \nMOTION TO COMPEL; MEMO OF \nPOINTS AND AUTHORITIES; \nDECLARATION OF MICHAEL D. \nALLEN. )  \n02/05/2002    Document Description: NOTICE    ATTORNEY FOR \n(OF LODGING OF FEDERAL  DEFT/RESPNT  \nAUTHORITIES RE: \nOPPOSITION TO PLAINTIFF'S \nMOTION TO COMPEL. )  \n01/29/2002   Document Description:    ATTORNEY FOR \nMISCELLANEOUS- DEFENDANT/RESPONDENT  \nOTHER (SEPARATE \nSTATEMENT IN \nSUPPORT OF MOTION \n\nTO COMPEL )  \n01/29/2002   Document Description:    ATTORNEY FOR \nMOTION TO COMPEL   DEFENDANT/RESPONDENT  \n01/29/2002   Document Description: NOTICE   ATTORNEY FOR \nOF LODGING   DEFENDANT/RESPONDENT  \n01/25/2002    Document Description: NOTICE OF    ATTORNEY \nCONTINUANCE (OF MOTION  FOR \nFROM 2-5-02 TO 2-15-02. )   PLTF/PETNR  \n01/23/2002    Document Description:    ATTORNEY FOR \nSUBSTITUTION OF  PLTF/PETNR  \nATTORNEY  \n01/18/2002    Document Description:    MEDIATOR  \nSTATEMENT-NON-\nAGREEMENT  \n01/15/2002   Document    ATTORNEY FOR \nDescription: MOTION  PLAINTIFF/PETITIONER \nTO COMPEL \n(PRODUCTION OF \nDOCUMENTS AND \nRESPONSES TO \nSPECIAL \nINTERROGATORIES \n)  \n01/15/2002   Document    ATTORNEY FOR \nDescription:  PLAINTIFF/PETITIONE\nMISCELLANEOUS- R  \nOTHER (SEPARATE \nSTATEMENT IN \nSUPPORT OF \nPLAINTIFF'S \nMOTION TO \nCOMPEL )  \n01/04/2002   Document    ATTORNEY FOR \nDescription:  DEFENDANT/RESPONDENT  \nNOTICE OF \nLODGING  \n01/04/2002   Document Description:   ATTORNEY FOR \nNOTICE OF MOTION  DEFENDANT/RESPONDENT  \n(FOR JUDGEMENT \nON THE PLEADINGS \n)  \n10/12/2001    Document Description:    ADR CLERK \nNOTICE-\nASSIGNMENT-\n\nMEDIATOR  \n10/11/2001    Document Description:    ATTORNEY \nSUBSTITUTION OF  FOR \nATTORNEY   PLTF/PETNR \n10/04/2001    Document Description:    ATTORNEY \nNOTICE (OF PMSC AT  FOR \nTRIAL SETTING. )   DEFT/RESPN\nT  \n09/26/2001    Document Description: STATUS    ATTORNEY \nCONFERENCE  FOR \nQUESTIONNAIRE   DEFT/RESPNT \n09/26/2001    Document Description: STATUS    ATTORNEY \nCONFERENCE  FOR \nQUESTIONNAIRE   PLTF/PETNR  \n08/28/2001    Document Description: NOTICE     \nOF STATUS CONFERENCE \nFILED  \n06/22/2001   Document Description:    ATTORNEY FOR \nANSWER TO COMPLAINT  DEFENDANT/RESPONDENT \n ",
+      "document_type_other": null,
+      "external_url": null,
+      "ecf_number": null,
+      "clearinghouse_link": "clearinghouse.net/doc/26300"
+    },
+    {
+      "date": null,
+      "date_is_estimate": false,
+      "date_not_available": false,
+      "description": null,
+      "document_source": null,
+      "document_status": null,
+      "document_type": null,
+      "order_type": null,
+      "citation_paren": null,
+      "cite_1_page": null,
+      "cite_1_reporter": null,
+      "cite_1_vol": null,
+      "cite_2_page": null,
+      "cite_2_reporter": null,
+      "cite_2_vol": null,
+      "cite_3_page": null,
+      "cite_3_reporter": null,
+      "cite_3_vol": null,
+      "citation_status": null,
+      "court": null,
+      "no_title": false,
+      "party_types": [],
+      "per_curium": false,
+      "is_core_document": true,
+      "id": 118415,
+      "file": null,
+      "title": null,
+      "text": null,
+      "document_type_other": null,
+      "external_url": null,
+      "ecf_number": null,
+      "clearinghouse_link": "clearinghouse.net/doc/118415"
+    }
+  ],
+  "document_count": 2
+}

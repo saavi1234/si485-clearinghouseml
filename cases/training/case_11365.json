@@ -1,0 +1,1208 @@
+{
+  "case_id": 11365,
+  "fetched_at": "2025-10-20T22:37:25.295343",
+  "case_data": {
+    "attorney_orgs": [],
+    "available_documents": [
+      "Trial Court Docket",
+      "Complaint (any)",
+      "Non-settlement Outcome",
+      "Any published opinion"
+    ],
+    "case_defendants": [
+      {
+        "defendant_level": null,
+        "institution": "Cook County Jail",
+        "institution_alt_state": null,
+        "institution_city": "",
+        "institution_county": null,
+        "name": "Cook County Sheriff",
+        "defendant_level_other": "",
+        "is_active": true
+      }
+    ],
+    "case_ongoing": "No",
+    "case_status": "Coding Complete",
+    "case_types": [
+      "Jail Conditions"
+    ],
+    "cause_other": "",
+    "causes": [
+      "42 U.S.C. § 1983"
+    ],
+    "class_action_granted": "Denied",
+    "class_action_sought": "Yes",
+    "closing_year": 2010,
+    "constitutional_clause": [
+      {
+        "value": "Equal Protection"
+      }
+    ],
+    "content_of_injunction": [],
+    "court": "Northern District of Illinois",
+    "custom_issues": [],
+    "defendant_payment": "",
+    "defendant_type": [
+      {
+        "value": "Corrections"
+      }
+    ],
+    "docket_status": "Complete as of retrieval date",
+    "facility_type": [
+      {
+        "value": "Government-run"
+      }
+    ],
+    "filing_date": "2007-05-01",
+    "filing_year": 2007,
+    "id": 11365,
+    "injunction_duration": "",
+    "issues": [
+      "General/Misc.: Sanitation / living conditions",
+      "Jails, Prisons, Detention Centers, and Other Institutions: Strip search policy (facilities)",
+      "Jails, Prisons, Detention Centers, and Other Institutions: Over/Unlawful Detention (facilities)"
+    ],
+    "last_checked_date": "2014-04-01T00:00:00-04:00",
+    "main_docket": {
+      "id": 31694,
+      "docket_entries": [
+        {
+          "row_number": 0,
+          "id": 8832513,
+          "entry_number": "1",
+          "date_filed": "2007-05-01T00:00:00-04:00",
+          "attachments": [],
+          "url": "https://www.courtlistener.com/docket/4251743/1/harper-v-sheriff-of-cook-county/",
+          "recap_pdf_url": "https://www.courtlistener.com/recap/gov.uscourts.ilnd.208505.1.0.pdf",
+          "pacer_doc_id": "06701915912",
+          "description": "COMPLAINT filed by Robert Harper; Jury Demand.(td, ) (Entered: 05/02/2007)"
+        },
+        {
+          "row_number": 42,
+          "id": 8832516,
+          "entry_number": "5",
+          "date_filed": "2007-05-07T00:00:00-04:00",
+          "attachments": [],
+          "url": "https://www.courtlistener.com/docket/4251743/5/harper-v-sheriff-of-cook-county/",
+          "recap_pdf_url": null,
+          "pacer_doc_id": "06701919938",
+          "description": "ATTORNEY Appearance for Plaintiff Robert Harper by Thomas Gerard Morrissey (Morrissey, Thomas) (Entered: 05/07/2007)"
+        },
+        {
+          "row_number": 2,
+          "id": 8832522,
+          "entry_number": "11",
+          "date_filed": "2007-07-06T00:00:00-04:00",
+          "attachments": [],
+          "url": "https://www.courtlistener.com/docket/4251743/11/harper-v-sheriff-of-cook-county/",
+          "recap_pdf_url": null,
+          "pacer_doc_id": "06704314111",
+          "description": "MOTION by Defendants Sheriff of Cook County, Cook County, Illinois for extension of time to file answer, move, or otherwise plead (Heil, John) (Entered: 07/06/2007)"
+        },
+        {
+          "row_number": 4,
+          "id": 8832524,
+          "entry_number": "13",
+          "date_filed": "2007-07-11T00:00:00-04:00",
+          "attachments": [],
+          "url": "https://www.courtlistener.com/docket/4251743/13/harper-v-sheriff-of-cook-county/",
+          "recap_pdf_url": null,
+          "pacer_doc_id": "06702173998",
+          "description": "MINUTE entry before Judge John W. Darrah : Defendants' Agreed Motion for Enlargement of Time to Answer or Otherwise Plead 11 is granted. Responsive pleadings are to be filed on or before August 9, 2007. Mailed notice (td, ) (Entered: 07/11/2007)"
+        },
+        {
+          "row_number": 5,
+          "id": 8832525,
+          "entry_number": "14",
+          "date_filed": "2007-08-09T00:00:00-04:00",
+          "attachments": [],
+          "url": "https://www.courtlistener.com/docket/4251743/14/harper-v-sheriff-of-cook-county/",
+          "recap_pdf_url": "https://www.courtlistener.com/recap/gov.uscourts.ilnd.208505.14.0.pdf",
+          "pacer_doc_id": "06704410538",
+          "description": "MOTION by Defendants Sheriff of Cook County, Cook County, Illinois to dismiss complaint (Hannon, Maureen) (Entered: 08/09/2007)"
+        },
+        {
+          "row_number": 10,
+          "id": 8832530,
+          "entry_number": "19",
+          "date_filed": "2007-08-29T00:00:00-04:00",
+          "attachments": [],
+          "url": "https://www.courtlistener.com/docket/4251743/19/harper-v-sheriff-of-cook-county/",
+          "recap_pdf_url": null,
+          "pacer_doc_id": "06702130897",
+          "description": "REPLY by Defendants Sheriff of Cook County, Cook County, Illinois to Plainitff's response to Motion To Dismiss (Hannon, Maureen) (Entered: 08/29/2007)"
+        },
+        {
+          "row_number": 13,
+          "id": 8832532,
+          "entry_number": "21",
+          "date_filed": "2007-09-19T00:00:00-04:00",
+          "attachments": [],
+          "url": "https://www.courtlistener.com/docket/4251743/21/harper-v-sheriff-of-cook-county/",
+          "recap_pdf_url": null,
+          "pacer_doc_id": "06702245722",
+          "description": "MINUTE entry before Judge John W. Darrah : Status hearing held and continued to 10/25/07 at 9:00 a.m. Defendant to file an answer to the complaint by 10/19/07. Rule 26(a)(1) disclosures to be exchanged by 10/10/07. (td, ) (Entered: 09/20/2007)"
+        },
+        {
+          "row_number": 18,
+          "id": 8832537,
+          "entry_number": "26",
+          "date_filed": "2008-01-16T00:00:00-05:00",
+          "attachments": [],
+          "url": "https://www.courtlistener.com/docket/4251743/26/harper-v-sheriff-of-cook-county/",
+          "recap_pdf_url": null,
+          "pacer_doc_id": "06704667482",
+          "description": "MINUTE entry before Judge John W. Darrah : Status hearing held. Plaintiff to answer interrogatories by 1/23/08. Rule 26(a)(1) disclosures to be exchanged by 1/30/08. Plaintiff to be deposed by 2/22/08. Plaintiff's motion for class certification to be filed by 2/8/08, response by 3/28/08, reply by 4/11/08. Status hearing set for 5/14/08 at 9:00 a.m. (td, ) (Entered: 01/17/2008)"
+        },
+        {
+          "row_number": 38,
+          "id": 8832556,
+          "entry_number": "45",
+          "date_filed": "2008-06-26T00:00:00-04:00",
+          "attachments": [],
+          "url": "https://www.courtlistener.com/docket/4251743/45/harper-v-sheriff-of-cook-county/",
+          "recap_pdf_url": null,
+          "pacer_doc_id": "06705187334",
+          "description": "MINUTE entry before the Honorable John W. Darrah:Status hearing set for 6/26/08 is re-set to 9/2/08 at 9:00 a.m. Mailed notice (maf) (Entered: 06/26/2008)"
+        },
+        {
+          "row_number": 55,
+          "id": 8832571,
+          "entry_number": "61",
+          "date_filed": "2009-10-21T00:00:00-04:00",
+          "attachments": [],
+          "url": "https://www.courtlistener.com/docket/4251743/61/harper-v-sheriff-of-cook-county/",
+          "recap_pdf_url": null,
+          "pacer_doc_id": "06707074261",
+          "description": "MINUTE entry before the Honorable John W. Darrah: Status hearing held and continued to 12/8/09 at 9:00 a.m. Mailed notice(maf) (Entered: 10/21/2009)"
+        },
+        {
+          "row_number": 68,
+          "id": 10199060,
+          "entry_number": "73",
+          "date_filed": "2010-08-10T00:00:00-04:00",
+          "attachments": [],
+          "url": "https://www.courtlistener.com/docket/4251743/73/harper-v-sheriff-of-cook-county/",
+          "recap_pdf_url": null,
+          "pacer_doc_id": "06708219694",
+          "description": "MINUTE entry before Honorable John W. Darrah: Parties having filed a stipulation of dismissal, this case is dismissed with prejudice and without costs. Civil case terminated. Pretrial conference set for 2/2/11 and jury trial set for 2/7/11 is vacated.Mailed notice(maf) (Entered: 08/10/2010)"
+        },
+        {
+          "row_number": 22,
+          "id": 8832515,
+          "entry_number": "3",
+          "date_filed": "2007-05-01T00:00:00-04:00",
+          "attachments": [],
+          "url": "https://www.courtlistener.com/docket/4251743/3/harper-v-sheriff-of-cook-county/",
+          "recap_pdf_url": null,
+          "pacer_doc_id": "06701915440",
+          "description": "ATTORNEY Appearance for Plaintiff Robert Harper by Kenneth N Flaxman. (td, ) (Entered: 05/02/2007)"
+        },
+        {
+          "row_number": 53,
+          "id": 8832517,
+          "entry_number": "6",
+          "date_filed": "2007-05-14T00:00:00-04:00",
+          "attachments": [],
+          "url": "https://www.courtlistener.com/docket/4251743/6/harper-v-sheriff-of-cook-county/",
+          "recap_pdf_url": null,
+          "pacer_doc_id": "06701942291",
+          "description": "MINUTE entry before Judge John W. Darrah : A status hearing is scheduled for June 28, 2007, at 9:00 a.m. Mailed notice (td, ) (Entered: 05/15/2007)"
+        },
+        {
+          "row_number": 64,
+          "id": 8832518,
+          "entry_number": "7",
+          "date_filed": "2007-06-22T00:00:00-04:00",
+          "attachments": [],
+          "url": "https://www.courtlistener.com/docket/4251743/7/harper-v-sheriff-of-cook-county/",
+          "recap_pdf_url": null,
+          "pacer_doc_id": "06701995803",
+          "description": "SUMMONS Issued as to Defendants Sheriff of Cook County, Cook County, Illinois. (td, ) (Entered: 06/25/2007)"
+        },
+        {
+          "row_number": 69,
+          "id": 8832519,
+          "entry_number": "8",
+          "date_filed": "2007-06-27T00:00:00-04:00",
+          "attachments": [],
+          "url": "https://www.courtlistener.com/docket/4251743/8/harper-v-sheriff-of-cook-county/",
+          "recap_pdf_url": null,
+          "pacer_doc_id": "06701939001",
+          "description": "MINUTE entry before Judge John W. Darrah : The status hearing set for 6/28/2007 at 9:00 a.m. is vacated and reset to 8/22/2007 at 9:00 a.m. Mailed notice (td, ) (Entered: 06/28/2007)"
+        },
+        {
+          "row_number": 70,
+          "id": 8832520,
+          "entry_number": "9",
+          "date_filed": "2007-07-06T00:00:00-04:00",
+          "attachments": [],
+          "url": "https://www.courtlistener.com/docket/4251743/9/harper-v-sheriff-of-cook-county/",
+          "recap_pdf_url": null,
+          "pacer_doc_id": "06702033665",
+          "description": "ATTORNEY Appearance for Defendants Sheriff of Cook County, Cook County, Illinois by Maureen O'Donoghue Hannon (Hannon, Maureen) (Entered: 07/06/2007)"
+        },
+        {
+          "row_number": 1,
+          "id": 8832521,
+          "entry_number": "10",
+          "date_filed": "2007-07-06T00:00:00-04:00",
+          "attachments": [],
+          "url": "https://www.courtlistener.com/docket/4251743/10/harper-v-sheriff-of-cook-county/",
+          "recap_pdf_url": null,
+          "pacer_doc_id": "06702033378",
+          "description": "ATTORNEY Appearance for Defendants Sheriff of Cook County, Cook County, Illinois by John Paul Heil, Jr (Heil, John) (Entered: 07/06/2007)"
+        },
+        {
+          "row_number": 8,
+          "id": 8832528,
+          "entry_number": "17",
+          "date_filed": "2007-08-15T00:00:00-04:00",
+          "attachments": [],
+          "url": "https://www.courtlistener.com/docket/4251743/17/harper-v-sheriff-of-cook-county/",
+          "recap_pdf_url": null,
+          "pacer_doc_id": "06704418762",
+          "description": "MINUTE entry before Judge John W. Darrah : Defendants' motion to dismiss 14 is entered and briefed as follows: response by 8/22/07, reply by 8/29/07. Status hearing set for 9/19/07 at 9:00 a.m. (td, ) (Entered: 08/16/2007)"
+        },
+        {
+          "row_number": 16,
+          "id": 8832535,
+          "entry_number": "24",
+          "date_filed": "2007-10-19T00:00:00-04:00",
+          "attachments": [],
+          "url": "https://www.courtlistener.com/docket/4251743/24/harper-v-sheriff-of-cook-county/",
+          "recap_pdf_url": null,
+          "pacer_doc_id": "06704507744",
+          "description": "NOTICE by Sheriff of Cook County, Cook County, Illinois Notice of Filing of Answer (Hannon, Maureen) (Entered: 10/19/2007)"
+        },
+        {
+          "row_number": 17,
+          "id": 8832536,
+          "entry_number": "25",
+          "date_filed": "2007-10-25T00:00:00-04:00",
+          "attachments": [],
+          "url": "https://www.courtlistener.com/docket/4251743/25/harper-v-sheriff-of-cook-county/",
+          "recap_pdf_url": null,
+          "pacer_doc_id": "06702157399",
+          "description": "MINUTE entry before Judge John W. Darrah :Status hearing held and continued to 1/16/08 at 9:00 a.m. Mailed notice(maf, ) (Entered: 10/25/2007)"
+        },
+        {
+          "row_number": 20,
+          "id": 8832539,
+          "entry_number": "28",
+          "date_filed": "2008-03-10T00:00:00-04:00",
+          "attachments": [],
+          "url": "https://www.courtlistener.com/docket/4251743/28/harper-v-sheriff-of-cook-county/",
+          "recap_pdf_url": null,
+          "pacer_doc_id": "06704772035",
+          "description": "MOTION by Defendants Sheriff of Cook County, Cook County, Illinois for extension of time TO Respond To Class Certification (Hannon, Maureen) (Entered: 03/10/2008)"
+        },
+        {
+          "row_number": 21,
+          "id": 8832540,
+          "entry_number": "29",
+          "date_filed": "2008-03-10T00:00:00-04:00",
+          "attachments": [],
+          "url": "https://www.courtlistener.com/docket/4251743/29/harper-v-sheriff-of-cook-county/",
+          "recap_pdf_url": null,
+          "pacer_doc_id": "06701699440",
+          "description": "NOTICE of Motion by Maureen O'Donoghue Hannon for presentment of extension of time 28 before Honorable John W. Darrah on 3/19/2008 at 09:00 AM. (Hannon, Maureen) (Entered: 03/10/2008)"
+        },
+        {
+          "row_number": 24,
+          "id": 8832542,
+          "entry_number": "31",
+          "date_filed": "2008-03-11T00:00:00-04:00",
+          "attachments": [],
+          "url": "https://www.courtlistener.com/docket/4251743/31/harper-v-sheriff-of-cook-county/",
+          "recap_pdf_url": null,
+          "pacer_doc_id": "06704774555",
+          "description": "MINUTE entry before Judge John W. Darrah :The Court's 3/11/08 minute order is amended as follows: Defendants' response brief to be filed by 4/11/08. Mailed notice(maf, ) (Entered: 03/11/2008)"
+        },
+        {
+          "row_number": 26,
+          "id": 8832544,
+          "entry_number": "33",
+          "date_filed": "2008-04-11T00:00:00-04:00",
+          "attachments": [],
+          "url": "https://www.courtlistener.com/docket/4251743/33/harper-v-sheriff-of-cook-county/",
+          "recap_pdf_url": null,
+          "pacer_doc_id": "06704891433",
+          "description": "NOTICE by Sheriff of Cook County, Cook County, Illinois re Response 32 To Motion For Class Certification (Hannon, Maureen) (Entered: 04/11/2008)"
+        },
+        {
+          "row_number": 29,
+          "id": 8832547,
+          "entry_number": "36",
+          "date_filed": "2008-05-06T00:00:00-04:00",
+          "attachments": [],
+          "url": "https://www.courtlistener.com/docket/4251743/36/harper-v-sheriff-of-cook-county/",
+          "recap_pdf_url": null,
+          "pacer_doc_id": "06704988545",
+          "description": "Of Motion To take additiona depositions and file a surreply NOTICE of Motion by Maureen O'Donoghue Hannon for presentment of before Honorable John W. Darrah on 5/13/2008 at 09:00 AM. (Hannon, Maureen) (Entered: 05/06/2008)"
+        },
+        {
+          "row_number": 32,
+          "id": 8832550,
+          "entry_number": "39",
+          "date_filed": "2008-05-08T00:00:00-04:00",
+          "attachments": [],
+          "url": "https://www.courtlistener.com/docket/4251743/39/harper-v-sheriff-of-cook-county/",
+          "recap_pdf_url": null,
+          "pacer_doc_id": "06704998803",
+          "description": "MEMORANDUM by Robert Harper in Opposition to motion for miscellaneous relief,, motion for leave to file, 37 (Flaxman, Kenneth) (Entered: 05/08/2008)"
+        },
+        {
+          "row_number": 34,
+          "id": 8832552,
+          "entry_number": "41",
+          "date_filed": "2008-05-12T00:00:00-04:00",
+          "attachments": [],
+          "url": "https://www.courtlistener.com/docket/4251743/41/harper-v-sheriff-of-cook-county/",
+          "recap_pdf_url": null,
+          "pacer_doc_id": "06705014503",
+          "description": "MINUTE entry before Honorable John W. Darrah: Defendants Motion for Leave to Take Additional Depositions and File Surreply to Plaintiffs Motion for Class Certification 37, 38 is denied. Mailed notice (kjc, ) (Entered: 05/13/2008)"
+        },
+        {
+          "row_number": 37,
+          "id": 8832555,
+          "entry_number": "44",
+          "date_filed": "2008-06-10T00:00:00-04:00",
+          "attachments": [],
+          "url": "https://www.courtlistener.com/docket/4251743/44/harper-v-sheriff-of-cook-county/",
+          "recap_pdf_url": null,
+          "pacer_doc_id": "06705124544",
+          "description": "MINUTE entry before the Honorable John W. Darrah: Status hearing set for 6/18/08 is re-set to 6/26/08 at 9:00 a.m. Mailed notice(maf, ) (Entered: 06/10/2008)"
+        },
+        {
+          "row_number": 39,
+          "id": 8832557,
+          "entry_number": "46",
+          "date_filed": "2008-07-17T00:00:00-04:00",
+          "attachments": [],
+          "url": "https://www.courtlistener.com/docket/4251743/46/harper-v-sheriff-of-cook-county/",
+          "recap_pdf_url": null,
+          "pacer_doc_id": "06705263672",
+          "description": "ATTORNEY Appearance for Defendants Sheriff of Cook County, Cook County, Illinois by Richard Seth Shippee (Shippee, Richard) (Entered: 07/17/2008)"
+        },
+        {
+          "row_number": 43,
+          "id": 8832560,
+          "entry_number": "50",
+          "date_filed": "2008-09-05T00:00:00-04:00",
+          "attachments": [],
+          "url": "https://www.courtlistener.com/docket/4251743/50/harper-v-sheriff-of-cook-county/",
+          "recap_pdf_url": null,
+          "pacer_doc_id": "06705524081",
+          "description": "PURSUANT USCA order dated 9/5/08, Defendants' petition for permission to appeal dated 6/12/08 is to be the NOTICE of appeal by Sheriff of Cook County, Cook County, Illinois regarding orders 42, 43 Filing fee $ 455.00. Receipt #4624008680. (dj, ) (Entered: 09/22/2008)"
+        },
+        {
+          "row_number": 45,
+          "id": 8832562,
+          "entry_number": "52",
+          "date_filed": "2008-09-22T00:00:00-04:00",
+          "attachments": [],
+          "url": "https://www.courtlistener.com/docket/4251743/52/harper-v-sheriff-of-cook-county/",
+          "recap_pdf_url": null,
+          "pacer_doc_id": "06705524336",
+          "description": "TRANSMITTED to the 7th Circuit the short record on notice of appeal, 50 . Notified counsel (dj, ) (Entered: 09/22/2008)"
+        },
+        {
+          "row_number": 47,
+          "id": 8832564,
+          "entry_number": "54",
+          "date_filed": "2008-09-29T00:00:00-04:00",
+          "attachments": [],
+          "url": "https://www.courtlistener.com/docket/4251743/54/harper-v-sheriff-of-cook-county/",
+          "recap_pdf_url": null,
+          "pacer_doc_id": "06705554625",
+          "description": "MINUTE entry before the Honorable John W. Darrah: Status hearing set for 10/2/08 is re-set to 10/23/08 at 9:00 a.m. Mailed notice(maf, ) (Entered: 09/29/2008)"
+        },
+        {
+          "row_number": 48,
+          "id": 8832565,
+          "entry_number": "55",
+          "date_filed": "2008-10-07T00:00:00-04:00",
+          "attachments": [],
+          "url": "https://www.courtlistener.com/docket/4251743/55/harper-v-sheriff-of-cook-county/",
+          "recap_pdf_url": null,
+          "pacer_doc_id": "06705586911",
+          "description": "Rule 10 designation of Record on Appeal by Sheriff of Cook County, Cook County, Illinois (Hannon, Maureen) (Entered: 10/07/2008)"
+        },
+        {
+          "row_number": 50,
+          "id": 8832567,
+          "entry_number": "57",
+          "date_filed": "2008-10-23T00:00:00-04:00",
+          "attachments": [],
+          "url": "https://www.courtlistener.com/docket/4251743/57/harper-v-sheriff-of-cook-county/",
+          "recap_pdf_url": null,
+          "pacer_doc_id": "06705652335",
+          "description": "TRANSMITTED to the USCA for the 7th Circuit the long record on appeal 50 (USCA no. 08-3413) consisting of 1 volume of pleadings. (dj, ) (Entered: 10/23/2008)"
+        },
+        {
+          "row_number": 51,
+          "id": 8832568,
+          "entry_number": "58",
+          "date_filed": "2008-10-23T00:00:00-04:00",
+          "attachments": [],
+          "url": "https://www.courtlistener.com/docket/4251743/58/harper-v-sheriff-of-cook-county/",
+          "recap_pdf_url": null,
+          "pacer_doc_id": "06705657304",
+          "description": "USCA RECEIVED on 10/23/08 the long record regarding notice of appeal, 50 (dj, ) (Entered: 10/24/2008)"
+        },
+        {
+          "row_number": 52,
+          "id": 8832569,
+          "entry_number": "59",
+          "date_filed": "2008-10-23T00:00:00-04:00",
+          "attachments": [],
+          "url": "https://www.courtlistener.com/docket/4251743/59/harper-v-sheriff-of-cook-county/",
+          "recap_pdf_url": null,
+          "pacer_doc_id": "06705658285",
+          "description": "MINUTE entry before the Honorable John W. Darrah: Status hearing held and continued to 4/23/09 at 9:00 a.m. This case is hereby stayed. (gmr, ) (Entered: 10/24/2008)"
+        },
+        {
+          "row_number": 57,
+          "id": 8832573,
+          "entry_number": "63",
+          "date_filed": "2009-11-13T00:00:00-05:00",
+          "attachments": [],
+          "url": "https://www.courtlistener.com/docket/4251743/63/harper-v-sheriff-of-cook-county/",
+          "recap_pdf_url": null,
+          "pacer_doc_id": "06707171533",
+          "description": "LETTER from the USCA retaining the record on appeal in USCA no. 08-3413; Record to be returned later consisting of one volume of pleadings. (gmr, ) (Entered: 11/16/2009)"
+        },
+        {
+          "row_number": 58,
+          "id": 8832574,
+          "entry_number": "64",
+          "date_filed": "2009-11-13T00:00:00-05:00",
+          "attachments": [],
+          "url": "https://www.courtlistener.com/docket/4251743/64/harper-v-sheriff-of-cook-county/",
+          "recap_pdf_url": null,
+          "pacer_doc_id": "06707171588",
+          "description": "MANDATE of USCA dated 9/8/2009 regarding notice of appeal, 50 ; USCA No. 08-3413; The district court's certification of Harper's class is Vacated and the case is Remanded for resolution of Harper's individual claims. The above is in accordance with the decision of this court entered on this date. Each side should bear its own costs. (gmr, ) (Entered: 11/16/2009)"
+        },
+        {
+          "row_number": 59,
+          "id": 8832575,
+          "entry_number": "65",
+          "date_filed": "2009-11-13T00:00:00-05:00",
+          "attachments": [],
+          "url": "https://www.courtlistener.com/docket/4251743/65/harper-v-sheriff-of-cook-county/",
+          "recap_pdf_url": null,
+          "pacer_doc_id": "06707171594",
+          "description": "OPINION from the USCA for the Seventh Circuit; Argued 4/6/2009; Decided 9/8/2009 in USCA case no. 08-3413. (gmr, ) (Entered: 11/16/2009)"
+        },
+        {
+          "row_number": 60,
+          "id": 8832576,
+          "entry_number": "66",
+          "date_filed": "2009-11-13T00:00:00-05:00",
+          "attachments": [],
+          "url": "https://www.courtlistener.com/docket/4251743/66/harper-v-sheriff-of-cook-county/",
+          "recap_pdf_url": null,
+          "pacer_doc_id": "06707171609",
+          "description": "CERTIFIED copy of order dated 11/3/2009 from the Seventh Circuit regarding notice of appeal, 50 ; Appellate case no. : 08-3413; On consideration of plaintiff-appellee's petition for rehearing and suggestion for rehearing en banc filed on September 21, 2009, in connection with the above-referenced case, no judge in active service has requested a vote on the petition for rehearing en banc and all of the judges on the original panel have voted to deny rehearing. It is, therefore, Ordered that the petition for rehearing and suggestion for rehearing en banc is Denied. (gmr, ) (Entered: 11/16/2009)"
+        },
+        {
+          "row_number": 61,
+          "id": 8832577,
+          "entry_number": "67",
+          "date_filed": "2009-11-19T00:00:00-05:00",
+          "attachments": [],
+          "url": "https://www.courtlistener.com/docket/4251743/67/harper-v-sheriff-of-cook-county/",
+          "recap_pdf_url": null,
+          "pacer_doc_id": "06707207914",
+          "description": "LETTER from the Seventh Circuit returning the record on appeal in USCA no. 08-3413 consisting of one volume of pleadings. (gmr, ) (Entered: 11/24/2009)"
+        },
+        {
+          "row_number": 62,
+          "id": 8832578,
+          "entry_number": "68",
+          "date_filed": "2009-12-08T00:00:00-05:00",
+          "attachments": [],
+          "url": "https://www.courtlistener.com/docket/4251743/68/harper-v-sheriff-of-cook-county/",
+          "recap_pdf_url": null,
+          "pacer_doc_id": "06707255825",
+          "description": "MINUTE entry before the Honorable John W. Darrah: Status hearing held and continued to 4/28/10 at 9:00 a.m. Mailed notice(maf ) (Entered: 12/08/2009)"
+        },
+        {
+          "row_number": 65,
+          "id": 8832580,
+          "entry_number": "70",
+          "date_filed": "2010-04-28T00:00:00-04:00",
+          "attachments": [],
+          "url": "https://www.courtlistener.com/docket/4251743/70/harper-v-sheriff-of-cook-county/",
+          "recap_pdf_url": null,
+          "pacer_doc_id": "06707806656",
+          "description": "MINUTE entry before Honorable John W. Darrah:Status hearing held and continued to 5/20/10 at 9:30 a.m. Mailed notice(maf) (Entered: 04/28/2010)"
+        },
+        {
+          "row_number": 67,
+          "id": 8832582,
+          "entry_number": "72",
+          "date_filed": "2010-08-09T00:00:00-04:00",
+          "attachments": [],
+          "url": "https://www.courtlistener.com/docket/4251743/72/harper-v-sheriff-of-cook-county/",
+          "recap_pdf_url": null,
+          "pacer_doc_id": "06708215821",
+          "description": "STIPULATION of Dismissal [with prejudice and without costs] (Flaxman, Kenneth) (Entered: 08/09/2010)"
+        },
+        {
+          "row_number": 19,
+          "id": 8832538,
+          "entry_number": "27",
+          "date_filed": "2008-02-08T00:00:00-05:00",
+          "attachments": [],
+          "url": "https://www.courtlistener.com/docket/4251743/27/harper-v-sheriff-of-cook-county/",
+          "recap_pdf_url": null,
+          "pacer_doc_id": "0670571163",
+          "description": "MOTION by Plaintiff Robert Harper to certify class (Flaxman, Kenneth) (Entered: 02/08/2008)"
+        },
+        {
+          "row_number": 49,
+          "id": 8832566,
+          "entry_number": "56",
+          "date_filed": "2008-10-07T00:00:00-04:00",
+          "attachments": [],
+          "url": "https://www.courtlistener.com/docket/4251743/56/harper-v-sheriff-of-cook-county/",
+          "recap_pdf_url": null,
+          "pacer_doc_id": "06705590065",
+          "description": "DESIGNATION by Robert Harper of record on appeal : USCA Case No. 08-3413 (Flaxman, Kenneth) (Entered: 10/07/2008)"
+        },
+        {
+          "row_number": 11,
+          "id": 8832514,
+          "entry_number": "2",
+          "date_filed": "2007-05-01T00:00:00-04:00",
+          "attachments": [],
+          "url": "https://www.courtlistener.com/docket/4251743/2/harper-v-sheriff-of-cook-county/",
+          "recap_pdf_url": null,
+          "pacer_doc_id": "06704268483",
+          "description": "CIVIL Cover Sheet. (td, ) (Entered: 05/02/2007)"
+        },
+        {
+          "row_number": 7,
+          "id": 8832527,
+          "entry_number": "16",
+          "date_filed": "2007-08-09T00:00:00-04:00",
+          "attachments": [
+            {
+              "recap_id": 4537129,
+              "pacer_url": "https://ecf.ilnd.uscourts.gov/doc1/06704414145?caseid=208505",
+              "description": "",
+              "attachment_number": 1
+            },
+            {
+              "recap_id": 4537130,
+              "pacer_url": "https://ecf.ilnd.uscourts.gov/doc1/06704414145?caseid=208505",
+              "description": "Exhibit Exhibit A Complaint",
+              "attachment_number": 2
+            },
+            {
+              "recap_id": 4537131,
+              "pacer_url": "https://ecf.ilnd.uscourts.gov/doc1/06704410520?caseid=208505",
+              "description": "Exhibit B Jackson 1",
+              "attachment_number": 3
+            },
+            {
+              "recap_id": 4537132,
+              "pacer_url": "https://ecf.ilnd.uscourts.gov/doc1/06704409433?caseid=208505",
+              "description": "Exhibit C Jackson 2",
+              "attachment_number": 4
+            },
+            {
+              "recap_id": 155992282,
+              "pacer_url": "https://ecf.ilnd.uscourts.gov/doc1/06704406237?caseid=208505",
+              "description": "Exhibit D Young",
+              "attachment_number": 5
+            }
+          ],
+          "url": "https://www.courtlistener.com/docket/4251743/16/harper-v-sheriff-of-cook-county/",
+          "recap_pdf_url": "https://www.courtlistener.com/recap/gov.uscourts.ilnd.208505.16.0.pdf",
+          "pacer_doc_id": "06704222116",
+          "description": "MEMORANDUM by Sheriff of Cook County, Cook County, Illinois in support of motion to dismiss 14 complaint (Attachments: # 1 Exhibit Exhibit A Complaint# 2 Exhibit B Jackson 1# 3 Exhibit C Jackson 2# 4 Exhibit D Young)(Hannon, Maureen) (Entered: 08/09/2007)"
+        },
+        {
+          "row_number": 15,
+          "id": 8832534,
+          "entry_number": "23",
+          "date_filed": "2007-10-19T00:00:00-04:00",
+          "attachments": [],
+          "url": "https://www.courtlistener.com/docket/4251743/23/harper-v-sheriff-of-cook-county/",
+          "recap_pdf_url": "https://www.courtlistener.com/recap/gov.uscourts.ilnd.208505.23.0.pdf",
+          "pacer_doc_id": "06702222204",
+          "description": "ANSWER to Complaint with Jury Demand by Sheriff of Cook County, Cook County, Illinois(Hannon, Maureen) (Entered: 10/19/2007)"
+        },
+        {
+          "row_number": 25,
+          "id": 8832543,
+          "entry_number": "32",
+          "date_filed": "2008-04-11T00:00:00-04:00",
+          "attachments": [
+            {
+              "recap_id": 4537149,
+              "pacer_url": "https://ecf.ilnd.uscourts.gov/doc1/06704891414?caseid=208505",
+              "description": "Exhibit A,B,C",
+              "attachment_number": 1
+            },
+            {
+              "recap_id": 4537150,
+              "pacer_url": "https://ecf.ilnd.uscourts.gov/doc1/06704891414?caseid=208505",
+              "description": "Exhibit A,B,C",
+              "attachment_number": 2
+            },
+            {
+              "recap_id": 4537151,
+              "pacer_url": "https://ecf.ilnd.uscourts.gov/doc1/06704891415?caseid=208505",
+              "description": "Exhibit D part 1",
+              "attachment_number": 3
+            },
+            {
+              "recap_id": 4537152,
+              "pacer_url": "https://ecf.ilnd.uscourts.gov/doc1/06704891417?caseid=208505",
+              "description": "Exhibit D part 2",
+              "attachment_number": 4
+            },
+            {
+              "recap_id": 4537153,
+              "pacer_url": "https://ecf.ilnd.uscourts.gov/doc1/06704891418?caseid=208505",
+              "description": "Exhibit E,F,G,H",
+              "attachment_number": 5
+            },
+            {
+              "recap_id": 155992283,
+              "pacer_url": "https://ecf.ilnd.uscourts.gov/doc1/06704891419?caseid=208505",
+              "description": "Exhibit I,J",
+              "attachment_number": 6
+            }
+          ],
+          "url": "https://www.courtlistener.com/docket/4251743/32/harper-v-sheriff-of-cook-county/",
+          "recap_pdf_url": "https://www.courtlistener.com/recap/gov.uscourts.ilnd.208505.32.0.pdf",
+          "pacer_doc_id": "06704891412",
+          "description": "RESPONSE by Defendants Sheriff of Cook County, Cook County, Illinois to motion to certify class 27 (Attachments: # 1 Exhibit A,B,C, # 2 Exhibit D part 1, # 3 Exhibit D part 2, # 4 Exhibit E,F,G,H, # 5 Exhibit I,J)(Hannon, Maureen) (Entered: 04/11/2008)"
+        },
+        {
+          "row_number": 28,
+          "id": 8832546,
+          "entry_number": "35",
+          "date_filed": "2008-05-06T00:00:00-04:00",
+          "attachments": [
+            {
+              "recap_id": 155992284,
+              "pacer_url": "https://ecf.ilnd.uscourts.gov/doc1/06704987807?caseid=208505",
+              "description": "Exhibit Attachment 1",
+              "attachment_number": 2
+            }
+          ],
+          "url": "https://www.courtlistener.com/docket/4251743/35/harper-v-sheriff-of-cook-county/",
+          "recap_pdf_url": null,
+          "pacer_doc_id": "06704987806",
+          "description": "SUR-REPLY by Defendants Sheriff of Cook County, Cook County, Illinois Motion For Leave to Take Depositions and File a SurReply (Attachments: # 1 Exhibit Attachment 1)(Hannon, Maureen) (Entered: 05/06/2008)"
+        },
+        {
+          "row_number": 30,
+          "id": 8832548,
+          "entry_number": "37",
+          "date_filed": "2008-05-07T00:00:00-04:00",
+          "attachments": [
+            {
+              "recap_id": 155992285,
+              "pacer_url": "https://ecf.ilnd.uscourts.gov/doc1/06704994021?caseid=208505",
+              "description": "Exhibit Attachment 1",
+              "attachment_number": 2
+            }
+          ],
+          "url": "https://www.courtlistener.com/docket/4251743/37/harper-v-sheriff-of-cook-county/",
+          "recap_pdf_url": null,
+          "pacer_doc_id": "06704994020",
+          "description": "MOTION by Defendants Sheriff of Cook County, Cook County, IllinoisLeave to Take Depositions and File A Surreply, MOTION by Defendants Sheriff of Cook County, Cook County, Illinois for leave to file (Attachments: # 1 Exhibit Attachment 1)(Hannon, Maureen) (Entered: 05/07/2008)"
+        },
+        {
+          "row_number": 3,
+          "id": 8832523,
+          "entry_number": "12",
+          "date_filed": "2007-07-06T00:00:00-04:00",
+          "attachments": [],
+          "url": "https://www.courtlistener.com/docket/4251743/12/harper-v-sheriff-of-cook-county/",
+          "recap_pdf_url": null,
+          "pacer_doc_id": "06702034703",
+          "description": "NOTICE of Motion by John Paul Heil, Jr for presentment of motion for extension of time to file answer 11 before Honorable John W. Darrah on 8/14/2007 at 09:00 AM. (Heil, John) (Entered: 07/06/2007)"
+        },
+        {
+          "row_number": 6,
+          "id": 8832526,
+          "entry_number": "15",
+          "date_filed": "2007-08-09T00:00:00-04:00",
+          "attachments": [],
+          "url": "https://www.courtlistener.com/docket/4251743/15/harper-v-sheriff-of-cook-county/",
+          "recap_pdf_url": null,
+          "pacer_doc_id": "06702051258",
+          "description": "NOTICE of Motion by Maureen O'Donoghue Hannon for presentment of motion to dismiss 14 before Honorable John W. Darrah on 8/15/2007 at 09:00 AM. (Hannon, Maureen) (Entered: 08/09/2007)"
+        },
+        {
+          "row_number": 9,
+          "id": 8832529,
+          "entry_number": "18",
+          "date_filed": "2007-08-22T00:00:00-04:00",
+          "attachments": [],
+          "url": "https://www.courtlistener.com/docket/4251743/18/harper-v-sheriff-of-cook-county/",
+          "recap_pdf_url": "https://www.courtlistener.com/recap/gov.uscourts.ilnd.208505.18.0.pdf",
+          "pacer_doc_id": "06704393413",
+          "description": "MEMORANDUM by Robert Harper in Opposition to motion to dismiss 14 (Flaxman, Kenneth) (Entered: 08/22/2007)"
+        },
+        {
+          "row_number": 12,
+          "id": 8832531,
+          "entry_number": "20",
+          "date_filed": "2007-08-29T00:00:00-04:00",
+          "attachments": [],
+          "url": "https://www.courtlistener.com/docket/4251743/20/harper-v-sheriff-of-cook-county/",
+          "recap_pdf_url": null,
+          "pacer_doc_id": "06702129806",
+          "description": "NOTICE by Sheriff of Cook County, Cook County, Illinois of filinig Reply (Hannon, Maureen) (Entered: 08/29/2007)"
+        },
+        {
+          "row_number": 14,
+          "id": 8832533,
+          "entry_number": "22",
+          "date_filed": "2007-09-19T00:00:00-04:00",
+          "attachments": [],
+          "url": "https://www.courtlistener.com/docket/4251743/22/harper-v-sheriff-of-cook-county/",
+          "recap_pdf_url": "https://www.courtlistener.com/recap/gov.uscourts.ilnd.208505.22.0.pdf",
+          "pacer_doc_id": "06704512739",
+          "description": "MINUTE entry before Judge John W. Darrah : Defendant's motion to dismiss is denied. 14 Mailed notice (td, ) (Entered: 09/21/2007)"
+        },
+        {
+          "row_number": 23,
+          "id": 8832541,
+          "entry_number": "30",
+          "date_filed": "2008-03-11T00:00:00-04:00",
+          "attachments": [],
+          "url": "https://www.courtlistener.com/docket/4251743/30/harper-v-sheriff-of-cook-county/",
+          "recap_pdf_url": null,
+          "pacer_doc_id": "06701735904",
+          "description": "MINUTE entry before Judge John W. Darrah : Defendants' Motion for Enlargement of Time to Respond 28, 29 is granted. Defendants' response brief is to be filed on or before April 4, 2008. Plaintiff's reply brief is to be filed on or before April 25, 2008. The status hearing scheduled for May 14, 2008, is stricken and reset to May 29, 2008, at 9:00 a.m. Mailed notice (td, ) (Entered: 03/11/2008)"
+        },
+        {
+          "row_number": 27,
+          "id": 8832545,
+          "entry_number": "34",
+          "date_filed": "2008-04-25T00:00:00-04:00",
+          "attachments": [],
+          "url": "https://www.courtlistener.com/docket/4251743/34/harper-v-sheriff-of-cook-county/",
+          "recap_pdf_url": "https://www.courtlistener.com/recap/gov.uscourts.ilnd.208505.34.0.pdf",
+          "pacer_doc_id": "06704949764",
+          "description": "REPLY by Robert Harper to Response 32 in support of class certification (Flaxman, Kenneth) (Entered: 04/25/2008)"
+        },
+        {
+          "row_number": 31,
+          "id": 8832549,
+          "entry_number": "38",
+          "date_filed": "2008-05-07T00:00:00-04:00",
+          "attachments": [],
+          "url": "https://www.courtlistener.com/docket/4251743/38/harper-v-sheriff-of-cook-county/",
+          "recap_pdf_url": null,
+          "pacer_doc_id": "06704994059",
+          "description": "NOTICE of Motion by Maureen O'Donoghue Hannon for presentment of motion for miscellaneous relief,, motion for leave to file, 37 before Honorable John W. Darrah on 5/13/2008 at 09:00 AM. (Hannon, Maureen) (Entered: 05/07/2008)"
+        },
+        {
+          "row_number": 33,
+          "id": 8832551,
+          "entry_number": "40",
+          "date_filed": "2008-05-08T00:00:00-04:00",
+          "attachments": [],
+          "url": "https://www.courtlistener.com/docket/4251743/40/harper-v-sheriff-of-cook-county/",
+          "recap_pdf_url": null,
+          "pacer_doc_id": "06704998880",
+          "description": "MEMORANDUM by Robert Harper in Opposition to motion for miscellaneous relief,, motion for leave to file, 37 [corrected] (Flaxman, Kenneth) (Entered: 05/08/2008)"
+        },
+        {
+          "row_number": 35,
+          "id": 8832553,
+          "entry_number": "42",
+          "date_filed": "2008-05-29T00:00:00-04:00",
+          "attachments": [],
+          "url": "https://www.courtlistener.com/docket/4251743/42/harper-v-sheriff-of-cook-county/",
+          "recap_pdf_url": "https://www.courtlistener.com/recap/gov.uscourts.ilnd.208505.42.0.pdf",
+          "pacer_doc_id": "06705090762",
+          "description": "MINUTE entry before the Honorable John W. Darrah: For the reasons stated in the attached memorandum opinion and order, plaintiff's motion to certify case as a class action is granted 27 . Enter Memorandum Opinion and Order. Status hearing set for 6/26/2008 stated in open Court is vacated and re-set to 6/18/2008 at 09:00 AM. Mailed notice (gmr, ) (Entered: 06/02/2008)"
+        },
+        {
+          "row_number": 36,
+          "id": 8832554,
+          "entry_number": "43",
+          "date_filed": "2008-05-29T00:00:00-04:00",
+          "attachments": [],
+          "url": "https://www.courtlistener.com/docket/4251743/43/harper-v-sheriff-of-cook-county/",
+          "recap_pdf_url": "https://www.courtlistener.com/recap/gov.uscourts.ilnd.208505.43.0.pdf",
+          "pacer_doc_id": "06705090779",
+          "description": "MEMORANDUM Opinion and Order Signed by the Honorable John W. Darrah on 5/29/2008. (gmr, )"
+        },
+        {
+          "row_number": 46,
+          "id": 8832563,
+          "entry_number": "53",
+          "date_filed": "2008-09-22T00:00:00-04:00",
+          "attachments": [],
+          "url": "https://www.courtlistener.com/docket/4251743/53/harper-v-sheriff-of-cook-county/",
+          "recap_pdf_url": "https://www.courtlistener.com/recap/gov.uscourts.ilnd.208505.53.0.pdf",
+          "pacer_doc_id": "06705541402",
+          "description": "ACKNOWLEDGEMENT of receipt of short record on appeal regarding notice of appeal, 50 ; USCA Case No. 08-3413. (gmr, ) (Entered: 09/25/2008)"
+        },
+        {
+          "row_number": 40,
+          "id": 8832558,
+          "entry_number": "47",
+          "date_filed": "2008-08-29T00:00:00-04:00",
+          "attachments": [],
+          "url": "https://www.courtlistener.com/docket/4251743/47/harper-v-sheriff-of-cook-county/",
+          "recap_pdf_url": null,
+          "pacer_doc_id": "06705434482",
+          "description": "MINUTE entry before the Honorable John W. Darrah: Status hearing set for 9/2/08 is re-set to 10/2/08 at 9:00 a.m. Mailed notice(maf, ) (Entered: 08/29/2008)"
+        },
+        {
+          "row_number": 41,
+          "id": 8832559,
+          "entry_number": "48",
+          "date_filed": "2008-09-05T00:00:00-04:00",
+          "attachments": [],
+          "url": "https://www.courtlistener.com/docket/4251743/48/harper-v-sheriff-of-cook-county/",
+          "recap_pdf_url": "https://www.courtlistener.com/recap/gov.uscourts.ilnd.208505.48.0.pdf",
+          "pacer_doc_id": "06705470051",
+          "description": "USCA Order dated 9/5/2008 re USCA Appeal No. 08-8017; 1. Defendants' Petition for Permission to Appeal Pursuant to Federal Rule of Civil Prodcedure 23(f), filed on June 12, 2008, by counsel for the petitioner; 2. Plaintiff's Response to Petition for Permission to Appeal, filed on June 30, 2008, by counsel for the respondent; It Is Ordered that #1 is Granted. (gmr, ) (Entered: 09/09/2008)"
+        },
+        {
+          "row_number": 44,
+          "id": 8832561,
+          "entry_number": "51",
+          "date_filed": "2008-09-22T00:00:00-04:00",
+          "attachments": [],
+          "url": "https://www.courtlistener.com/docket/4251743/51/harper-v-sheriff-of-cook-county/",
+          "recap_pdf_url": null,
+          "pacer_doc_id": "06705524290",
+          "description": "NOTICE of Appeal Due letter sent to counsel of record (dj, ) (Entered: 09/22/2008)"
+        },
+        {
+          "row_number": 54,
+          "id": 8832570,
+          "entry_number": "60",
+          "date_filed": "2009-04-23T00:00:00-04:00",
+          "attachments": [],
+          "url": "https://www.courtlistener.com/docket/4251743/60/harper-v-sheriff-of-cook-county/",
+          "recap_pdf_url": null,
+          "pacer_doc_id": "06706359383",
+          "description": "MINUTE entry before the Honorable John W. Darrah: Status hearing held and continued 10/21/09 at 9:00 a.m. Mailed notice (maf) (Entered: 04/23/2009)"
+        },
+        {
+          "row_number": 56,
+          "id": 8832572,
+          "entry_number": "62",
+          "date_filed": "2009-11-12T00:00:00-05:00",
+          "attachments": [],
+          "url": "https://www.courtlistener.com/docket/4251743/62/harper-v-sheriff-of-cook-county/",
+          "recap_pdf_url": null,
+          "pacer_doc_id": "06707167513",
+          "description": "ORDER dated 11/3/2009 from the 7th Circuit regarding notice of appeal, 50 ; Appellate case no.: 08-3413: On consideration of plaintiff-appellee's petition for rehearing and suggestion for rehearing en banc filed on September 21, 2009, in connection with the above-referenced case, no judge in active service has requested a vote on the petition for rehearing en banc and all of the judges on the original panel have voted to deny rehearing. It is, therefore, ordered that the petition for rehearing and suggestion for rehearing en banc is denied. (jj, ) (Entered: 11/13/2009)"
+        },
+        {
+          "row_number": 63,
+          "id": 8832579,
+          "entry_number": "69",
+          "date_filed": "2010-04-08T00:00:00-04:00",
+          "attachments": [],
+          "url": "https://www.courtlistener.com/docket/4251743/69/harper-v-sheriff-of-cook-county/",
+          "recap_pdf_url": null,
+          "pacer_doc_id": "06707724186",
+          "description": "MINUTE entry before Honorable John W. Darrah: Status hearing set for 4/28/10 at 9:00 a.m. is re-set to 4/28/10 at 9:30 a.m. Mailed notice(maf) (Entered: 04/08/2010)"
+        },
+        {
+          "row_number": 66,
+          "id": 8832581,
+          "entry_number": "71",
+          "date_filed": "2010-05-20T00:00:00-04:00",
+          "attachments": [],
+          "url": "https://www.courtlistener.com/docket/4251743/71/harper-v-sheriff-of-cook-county/",
+          "recap_pdf_url": null,
+          "pacer_doc_id": "06707898228",
+          "description": "MINUTE entry before Honorable John W. Darrah:Status hearing held. Discovery ordered closed on 8/18/10. Pretrial conference set for 2/2/11 at 1:30 p.m. Jury trial set for 2/7/11 at 9:00 a.m. Mailed notice(maf) (Entered: 05/20/2010)"
+        }
+      ],
+      "docket_case_type": "cv",
+      "docket_year": 2007,
+      "docket_filing_number": 2393,
+      "is_main_docket": true,
+      "court": "Northern District of Illinois",
+      "state": "Illinois",
+      "docket_office_number": "1",
+      "docket_number_manual": "1:07-cv-02393",
+      "scales_html": "https://clearinghouse-umich-production.s3.amazonaws.com/media/docket-html/ilnd--1-07-cv-02393.html",
+      "recap_link": "https://www.courtlistener.com/docket/4251743/harper-v-sheriff-of-cook-county/",
+      "is_active": true
+    },
+    "name": "Harper v. Sheriff of Cook County",
+    "never_filed": false,
+    "non_docket_case_number": "",
+    "non_docket_case_number_type": null,
+    "non_docket_case_number_type_other": "",
+    "order_end_year": 0,
+    "order_start_year": 0,
+    "permanent_injunction": false,
+    "plaintiff_description": "Detainees confined in the Cook County Jail",
+    "plaintiff_type": [
+      {
+        "value": "Private Plaintiff"
+      }
+    ],
+    "prevailing_party": "Defendant",
+    "pro_se_status": "No",
+    "public_interest_lawyer": "No",
+    "related_cases": [],
+    "relief_natures": [
+      "None"
+    ],
+    "relief_nature_other": "",
+    "relief_sources": [
+      "None"
+    ],
+    "settlement_agreement": [],
+    "settlement_judgment_date": null,
+    "settlement_judgment_year": null,
+    "special_collections": [
+      "Strip Search Cases",
+      "Multi-LexSum (in sample)"
+    ],
+    "special_case_type": [],
+    "state": "Illinois",
+    "summary": "<p>On May 1, 2007, detainees confined in the Cook County Jail filed a class-action lawsuit in the U.S. District Court for the Northern District of Illinois under 42 U.S.C. § 1983 against Cook County and the Cook County Sheriff. The plaintiffs, represented by private counsel, asked the court for damages, claiming that they were unconstitutionally held after posting bond violating the Fourth and Fourteenth Amendments. The plaintiffs specifically alleged that they had posted bond, but still went through the intake process at the Cook County Jail, which involved assigning an identification number, taking a picture and fingerprints, collecting personal property, undergoing a medical and psychiatric evaluation, and a strip search.</p><p>On May 29, 2008, the Court (Judge John W. Darrah) granted class action certification. 2008 WL 4686148 (N.D. Ill. May 29, 2008). The Defendants appealed this decision, and on September 8, 2009, Judge William J. Bauer of the U.S. Court of Appeals for the Seventh Circuit reversed class certification and remanded the case. Judge Bauer held that whether the length of delay for release was reasonable would be an individualized issue. Harper v. Sheriff of Cook Cnty., 581 F.3d 511 (7th Cir. 2009)</p><p>The parties settled the case for undisclosed terms, and on August 10, 2010, Judge Darrah dismissed the case with prejudice. </p>",
+    "summary_published_date": "2014-04-05T00:00:00-04:00",
+    "summary_short": "On May 1, 2007, detainees confined in the Cook County Jail filed a class-action lawsuit in the U.S. District Court for the Northern District of Illinois under 42 U.S.C. § 1983 against Cook County and the Cook County Sheriff. The plaintiffs, represented by private counsel, asked the court for damages, claiming that they were unconstitutionally held after posting bond violating the Fourth and Fourteenth Amendments. \r\nOn May 29, 2008, Judge John W. Darrah granted class action certification, but on September 8, 2009, Judge William J. Bauer of the U.S. Court of Appeals for the Seventh Circuit reversed class certification and remanded the case. On August 10, 2010, Judge Darrah dismissed the case with prejudice and without costs pursuant to the stipulation of dismissal that the parties filed. ",
+    "summary_tiny": null,
+    "terminating_date": null,
+    "clearinghouse_link": "clearinghouse.net/case/11365",
+    "is_active": true,
+    "case_documents_url": "https://clearinghouse.net/api/v2/documents/?case=11365",
+    "case_dockets_url": "https://clearinghouse.net/api/v2/dockets/?case=11365",
+    "case_resources_url": "https://clearinghouse.net/api/v2/resources/?case=11365"
+  },
+  "documents": [
+    {
+      "date": "2012-08-10",
+      "date_is_estimate": false,
+      "date_not_available": false,
+      "description": null,
+      "document_source": "PACER [Public Access to Court Electronic Records]",
+      "document_status": "Coding Complete",
+      "document_type": "Docket",
+      "order_type": null,
+      "citation_paren": null,
+      "cite_1_page": null,
+      "cite_1_reporter": null,
+      "cite_1_vol": null,
+      "cite_2_page": null,
+      "cite_2_reporter": null,
+      "cite_2_vol": null,
+      "cite_3_page": null,
+      "cite_3_reporter": null,
+      "cite_3_vol": null,
+      "citation_status": "Not applicable",
+      "court": "Northern District of Illinois",
+      "no_title": false,
+      "party_types": [
+        "Court"
+      ],
+      "per_curium": false,
+      "is_core_document": true,
+      "id": 44129,
+      "file": "https://clearinghouse-umich-production.s3.amazonaws.com/media/doc/44129.pdf",
+      "title": "CIVIL DOCKET FOR CASE #: 1:07&#8722;cv&#8722;02393",
+      "text": "Case: 1:07-cv-2393   As of: 09/19/2012 05:32 PM CDT   1 of 6\nSCHENKIER,STAYED,TERMED\nUnited States District Court\nNorthern District of Illinois − CM/ECF LIVE, Ver 5.0.3 (Chicago)\nCIVIL DOCKET FOR CASE #: 1:07−cv−02393\nHarper v. Sheriff of Cook County et al Date Filed: 05/01/2007\nAssigned to: Honorable John W. Darrah Date Terminated: 08/10/2010\nDemand: $100,000 Jury Demand: Both\nCase in other court:  08−03413 Nature of Suit: 440 Civil Rights: Other\nCause: 42:1983 Civil Rights Act Jurisdiction: Federal Question\nPlaintiff\nRobert Harper represented by Kenneth N Flaxman\nKenneth N. Flaxman, P.C.\n200 South Michigan Avenue\nSuite 1240\nChicago, IL 60604\n(312) 427−3200\nEmail: knf@kenlaw.com\nLEAD ATTORNEY\nATTORNEY TO BE NOTICED\nThomas Gerard Morrissey\nThomas G. Morrissey\n10249 South Western Avenue\nChicago, IL 60643\n(773) 233−7900\nEmail: tgmlaw@ameritech.net\nATTORNEY TO BE NOTICED\nV.\nDefendant\nSheriff of Cook County represented by John Paul Heil , Jr.\nCook County State's Attorney\n500 Richard J. Daley Center\nChicago, IL 60602\n(312) 603−5468\nFax: (312) 603−5797\nEmail: jheil@cookcountygov.com\nATTORNEY TO BE NOTICED\nMaureen O'Donoghue Hannon\nCook County State's Attorney's Office\n(69W)\n69 W. Washington\nSuite 3110\nChicago, IL 60602\n(312) 603−1424\nEmail: maureen.hannon@cookcountyil.gov\nATTORNEY TO BE NOTICED\nRichard Seth Shippee\nCook County States Attorney's Office\nDaley Ctr.\n500 Richard J. Daley Center\nChicago, IL 60602\n(312)603−6299\nEmail: richard.shippee@cookcountyil.gov\nATTORNEY TO BE NOTICED\nDefendant\n\nCase: 1:07-cv-2393   As of: 09/19/2012 05:32 PM CDT   2 of 6\nCook County, Illinois represented by John Paul Heil , Jr.\n(See above for address)\nATTORNEY TO BE NOTICED\nMaureen O'Donoghue Hannon\n(See above for address)\nATTORNEY TO BE NOTICED\nRichard Seth Shippee\n(See above for address)\nATTORNEY TO BE NOTICED\nDate Filed # Docket Text\n05/01/2007 1  COMPLAINT filed by Robert Harper; Jury Demand.(td, ) (Entered: 05/02/2007)\n05/01/2007 2  CIVIL Cover Sheet. (td, ) (Entered: 05/02/2007)\n05/01/2007 3  ATTORNEY Appearance for Plaintiff Robert Harper by Kenneth N Flaxman. (td, )\n(Entered: 05/02/2007)\n05/07/2007 5  ATTORNEY Appearance for Plaintiff Robert Harper by Thomas Gerard Morrissey\n(Morrissey, Thomas) (Entered: 05/07/2007)\n05/14/2007 6  MINUTE entry before Judge John W. Darrah : A status hearing is scheduled for\nJune 28, 2007, at 9:00 a.m. Mailed notice (td, ) (Entered: 05/15/2007)\n06/22/2007 7  SUMMONS Issued as to Defendants Sheriff of Cook County, Cook County,\nIllinois. (td, ) (Entered: 06/25/2007)\n06/27/2007 8  MINUTE entry before Judge John W. Darrah : The status hearing set for 6/28/2007\nat 9:00 a.m. is vacated and reset to 8/22/2007 at 9:00 a.m. Mailed notice (td, )\n(Entered: 06/28/2007)\n07/06/2007 9  ATTORNEY Appearance for Defendants Sheriff of Cook County, Cook County,\nIllinois by Maureen O'Donoghue Hannon (Hannon, Maureen) (Entered:\n07/06/2007)\n07/06/2007 10  ATTORNEY Appearance for Defendants Sheriff of Cook County, Cook County,\nIllinois by John Paul Heil, Jr (Heil, John) (Entered: 07/06/2007)\n07/06/2007 11  MOTION by Defendants Sheriff of Cook County, Cook County, Illinois for\nextension of time to file answer , move, or otherwise plead (Heil, John) (Entered:\n07/06/2007)\n07/06/2007 12  NOTICE of Motion by John Paul Heil, Jr for presentment of motion for extension\nof time to file answer 11 before Honorable John W. Darrah on 8/14/2007 at 09:00\nAM. (Heil, John) (Entered: 07/06/2007)\n07/11/2007 13  MINUTE entry before Judge John W. Darrah : Defendants' Agreed Motion for\nEnlargement of Time to Answer or Otherwise Plead 11 is granted. Responsive\npleadings are to be filed on or before August 9, 2007. Mailed notice (td, ) (Entered:\n07/11/2007)\n08/09/2007 14  MOTION by Defendants Sheriff of Cook County, Cook County, Illinois to dismiss\ncomplaint (Hannon, Maureen) (Entered: 08/09/2007)\n08/09/2007 15  NOTICE of Motion by Maureen O'Donoghue Hannon for presentment of motion to\ndismiss 14 before Honorable John W. Darrah on 8/15/2007 at 09:00 AM. (Hannon,\nMaureen) (Entered: 08/09/2007)\n08/09/2007 16  MEMORANDUM by Sheriff of Cook County, Cook County, Illinois in support of\nmotion to dismiss 14 complaint (Attachments: # 1 Exhibit Exhibit A Complaint# 2\nExhibit B Jackson 1# 3 Exhibit C Jackson 2# 4 Exhibit D Young)(Hannon,\nMaureen) (Entered: 08/09/2007)\n08/15/2007 17  MINUTE entry before Judge John W. Darrah : Defendants' motion to dismiss 14 is\nentered and briefed as follows: response by 8/22/07, reply by 8/29/07. Status\n\nCase: 1:07-cv-2393   As of: 09/19/2012 05:32 PM CDT   3 of 6\nhearing set for 9/19/07 at 9:00 a.m. (td, ) (Entered: 08/16/2007)\n08/22/2007 18  MEMORANDUM by Robert Harper in Opposition to motion to dismiss 14\n(Flaxman, Kenneth) (Entered: 08/22/2007)\n08/29/2007 19  REPLY by Defendants Sheriff of Cook County, Cook County, Illinois to Plainitff's\nresponse to Motion To Dismiss (Hannon, Maureen) (Entered: 08/29/2007)\n08/29/2007 20  NOTICE by Sheriff of Cook County, Cook County, Illinois of filinig Reply\n(Hannon, Maureen) (Entered: 08/29/2007)\n09/19/2007 21  MINUTE entry before Judge John W. Darrah : Status hearing held and continued\nto 10/25/07 at 9:00 a.m. Defendant to file an answer to the complaint by 10/19/07.\nRule 26(a)(1) disclosures to be exchanged by 10/10/07. (td, ) (Entered: 09/20/2007)\n09/19/2007 22  MINUTE entry before Judge John W. Darrah : Defendant's motion to dismiss is\ndenied. 14 Mailed notice (td, ) (Entered: 09/21/2007)\n10/19/2007 23  ANSWER to Complaint with Jury Demand by Sheriff of Cook County, Cook\nCounty, Illinois(Hannon, Maureen) (Entered: 10/19/2007)\n10/19/2007 24  NOTICE by Sheriff of Cook County, Cook County, Illinois Notice of Filing of\nAnswer (Hannon, Maureen) (Entered: 10/19/2007)\n10/25/2007 25  MINUTE entry before Judge John W. Darrah :Status hearing held and continued to\n1/16/08 at 9:00 a.m. Mailed notice(maf, ) (Entered: 10/25/2007)\n01/16/2008 26  MINUTE entry before Judge John W. Darrah : Status hearing held. Plaintiff to\nanswer interrogatories by 1/23/08. Rule 26(a)(1) disclosures to be exchanged by\n1/30/08. Plaintiff to be deposed by 2/22/08. Plaintiff's motion for class certification\nto be filed by 2/8/08, response by 3/28/08, reply by 4/11/08. Status hearing set for\n5/14/08 at 9:00 a.m. (td, ) (Entered: 01/17/2008)\n02/08/2008 27  MOTION by Plaintiff Robert Harper to certify class (Flaxman, Kenneth) (Entered:\n02/08/2008)\n03/10/2008 28  MOTION by Defendants Sheriff of Cook County, Cook County, Illinois for\nextension of time TO Respond To Class Certification (Hannon, Maureen) (Entered:\n03/10/2008)\n03/10/2008 29  NOTICE of Motion by Maureen O'Donoghue Hannon for presentment of extension\nof time 28 before Honorable John W. Darrah on 3/19/2008 at 09:00 AM. (Hannon,\nMaureen) (Entered: 03/10/2008)\n03/11/2008 30  MINUTE entry before Judge John W. Darrah : Defendants' Motion for\nEnlargement of Time to Respond 28 , 29 is granted. Defendants' response brief is\nto be filed on or before April 4, 2008. Plaintiff's reply brief is to be filed on or\nbefore April 25, 2008. The status hearing scheduled for May 14, 2008, is stricken\nand reset to May 29, 2008, at 9:00 a.m. Mailed notice (td, ) (Entered: 03/11/2008)\n03/11/2008 31  MINUTE entry before Judge John W. Darrah :The Court's 3/11/08 minute order is\namended as follows: Defendants' response brief to be filed by 4/11/08. Mailed\nnotice(maf, ) (Entered: 03/11/2008)\n04/11/2008 32  RESPONSE by Defendants Sheriff of Cook County, Cook County, Illinois to\nmotion to certify class 27 (Attachments: # 1 Exhibit A,B,C, # 2 Exhibit D part 1, #\n3 Exhibit D part 2, # 4 Exhibit E,F,G,H, # 5 Exhibit I,J)(Hannon, Maureen)\n(Entered: 04/11/2008)\n04/11/2008 33  NOTICE by Sheriff of Cook County, Cook County, Illinois re Response 32 To\nMotion For Class Certification (Hannon, Maureen) (Entered: 04/11/2008)\n04/25/2008 34  REPLY by Robert Harper to Response 32 in support of class certification\n(Flaxman, Kenneth) (Entered: 04/25/2008)\n05/06/2008 35  SUR−REPLY by Defendants Sheriff of Cook County, Cook County, Illinois\nMotion For Leave to Take Depositions and File a SurReply (Attachments: # 1\nExhibit Attachment 1)(Hannon, Maureen) (Entered: 05/06/2008)\n\nCase: 1:07-cv-2393   As of: 09/19/2012 05:32 PM CDT   4 of 6\n05/06/2008 36  Of Motion To take additiona depositions and file a surreply NOTICE of Motion by\nMaureen O'Donoghue Hannon for presentment of before Honorable John W.\nDarrah on 5/13/2008 at 09:00 AM. (Hannon, Maureen) (Entered: 05/06/2008)\n05/07/2008 37  MOTION by Defendants Sheriff of Cook County, Cook County, IllinoisLeave to\nTake Depositions and File A Surreply, MOTION by Defendants Sheriff of Cook\nCounty, Cook County, Illinois for leave to file (Attachments: # 1 Exhibit\nAttachment 1)(Hannon, Maureen) (Entered: 05/07/2008)\n05/07/2008 38  NOTICE of Motion by Maureen O'Donoghue Hannon for presentment of motion\nfor miscellaneous relief,, motion for leave to file, 37 before Honorable John W.\nDarrah on 5/13/2008 at 09:00 AM. (Hannon, Maureen) (Entered: 05/07/2008)\n05/08/2008 39  MEMORANDUM by Robert Harper in Opposition to motion for miscellaneous\nrelief,, motion for leave to file, 37 (Flaxman, Kenneth) (Entered: 05/08/2008)\n05/08/2008 40  MEMORANDUM by Robert Harper in Opposition to motion for miscellaneous\nrelief,, motion for leave to file, 37 [corrected] (Flaxman, Kenneth) (Entered:\n05/08/2008)\n05/12/2008 41  MINUTE entry before Honorable John W. Darrah: Defendants Motion for Leave to\nTake Additional Depositions and File Surreply to Plaintiffs Motion for Class\nCertification 37 , 38 is denied. Mailed notice (kjc, ) (Entered: 05/13/2008)\n05/29/2008 42  MINUTE entry before the Honorable John W. Darrah: For the reasons stated in the\nattached memorandum opinion and order, plaintiff's motion to certify case as a\nclass action is granted 27 . Enter Memorandum Opinion and Order. Status hearing\nset for 6/26/2008 stated in open Court is vacated and re−set to 6/18/2008 at 09:00\nAM. Mailed notice (gmr, ) (Entered: 06/02/2008)\n05/29/2008 43  MEMORANDUM Opinion and Order Signed by the Honorable John W. Darrah on\n5/29/2008. (gmr, ) (Entered: 06/02/2008)\n06/10/2008 44  MINUTE entry before the Honorable John W. Darrah: Status hearing set for\n6/18/08 is re−set to 6/26/08 at 9:00 a.m. Mailed notice(maf, ) (Entered:\n06/10/2008)\n06/26/2008 45  MINUTE entry before the Honorable John W. Darrah:Status hearing set for\n6/26/08 is re−set to 9/2/08 at 9:00 a.m. Mailed notice (maf) (Entered: 06/26/2008)\n07/17/2008 46  ATTORNEY Appearance for Defendants Sheriff of Cook County, Cook County,\nIllinois by Richard Seth Shippee (Shippee, Richard) (Entered: 07/17/2008)\n08/29/2008 47  MINUTE entry before the Honorable John W. Darrah: Status hearing set for 9/2/08\nis re−set to 10/2/08 at 9:00 a.m. Mailed notice(maf, ) (Entered: 08/29/2008)\n09/05/2008 48  USCA Order dated 9/5/2008 re USCA Appeal No. 08−8017; 1. Defendants'\nPetition for Permission to Appeal Pursuant to Federal Rule of Civil Prodcedure\n23(f), filed on June 12, 2008, by counsel for the petitioner; 2. Plaintiff's Response\nto Petition for Permission to Appeal, filed on June 30, 2008, by counsel for the\nrespondent; It Is Ordered that #1 is Granted. (gmr, ) (Entered: 09/09/2008)\n09/05/2008 50  PURSUANT USCA order dated 9/5/08, Defendants' petition for permission to\nappeal dated 6/12/08 is to be the NOTICE of appeal by Sheriff of Cook County,\nCook County, Illinois regarding orders 42 , 43 Filing fee $ 455.00. Receipt\n#4624008680. (dj, ) (Entered: 09/22/2008)\n09/22/2008 51  NOTICE of Appeal Due letter sent to counsel of record (dj, ) (Entered: 09/22/2008)\n09/22/2008 52  TRANSMITTED to the 7th Circuit the short record on notice of appeal, 50 .\nNotified counsel (dj, ) (Entered: 09/22/2008)\n09/22/2008 53  ACKNOWLEDGEMENT of receipt of short record on appeal regarding notice of\nappeal, 50 ; USCA Case No. 08−3413. (gmr, ) (Entered: 09/25/2008)\n09/29/2008 54  MINUTE entry before the Honorable John W. Darrah: Status hearing set for\n10/2/08 is re−set to 10/23/08 at 9:00 a.m. Mailed notice(maf, ) (Entered:\n09/29/2008)\n\nCase: 1:07-cv-2393   As of: 09/19/2012 05:32 PM CDT   5 of 6\n10/07/2008 55  Rule 10 designation of Record on Appeal by Sheriff of Cook County, Cook\nCounty, Illinois (Hannon, Maureen) (Entered: 10/07/2008)\n10/07/2008 56  DESIGNATION by Robert Harper of record on appeal : USCA Case No. 08−3413\n(Flaxman, Kenneth) (Entered: 10/07/2008)\n10/23/2008 57  TRANSMITTED to the USCA for the 7th Circuit the long record on appeal 50\n(USCA no. 08−3413) consisting of 1 volume of pleadings. (dj, ) (Entered:\n10/23/2008)\n10/23/2008 58  USCA RECEIVED on 10/23/08 the long record regarding notice of appeal, 50 (dj,\n) (Entered: 10/24/2008)\n10/23/2008 59  MINUTE entry before the Honorable John W. Darrah: Status hearing held and\ncontinued to 4/23/09 at 9:00 a.m. This case is hereby stayed. (gmr, ) (Entered:\n10/24/2008)\n04/23/2009 60  MINUTE entry before the Honorable John W. Darrah: Status hearing held and\ncontinued 10/21/09 at 9:00 a.m. Mailed notice (maf) (Entered: 04/23/2009)\n10/21/2009 61  MINUTE entry before the Honorable John W. Darrah: Status hearing held and\ncontinued to 12/8/09 at 9:00 a.m. Mailed notice(maf) (Entered: 10/21/2009)\n11/12/2009 62  ORDER dated 11/3/2009 from the 7th Circuit regarding notice of appeal, 50 ;\nAppellate case no.: 08−3413: On consideration of plaintiff−appellee's petition for\nrehearing and suggestion for rehearing en banc filed on September 21, 2009, in\nconnection with the above−referenced case, no judge in active service has\nrequested a vote on the petition for rehearing en banc and all of the judges on the\noriginal panel have voted to deny rehearing. It is, therefore, ordered that the\npetition for rehearing and suggestion for rehearing en banc is denied. (jj, )\n(Entered: 11/13/2009)\n11/13/2009 63  LETTER from the USCA retaining the record on appeal in USCA no. 08−3413;\nRecord to be returned later consisting of one volume of pleadings. (gmr, ) (Entered:\n11/16/2009)\n11/13/2009 64  MANDATE of USCA dated 9/8/2009 regarding notice of appeal, 50 ; USCA No.\n08−3413; The district court's certification of Harper's class is Vacated and the case\nis Remanded for resolution of Harper's individual claims. The above is in\naccordance with the decision of this court entered on this date. Each side should\nbear its own costs. (gmr, ) (Entered: 11/16/2009)\n11/13/2009 65  OPINION from the USCA for the Seventh Circuit; Argued 4/6/2009; Decided\n9/8/2009 in USCA case no. 08−3413. (gmr, ) (Entered: 11/16/2009)\n11/13/2009 66  CERTIFIED copy of order dated 11/3/2009 from the Seventh Circuit regarding\nnotice of appeal, 50 ; Appellate case no. : 08−3413; On consideration of\nplaintiff−appellee's petition for rehearing and suggestion for rehearing en banc\nfiled on September 21, 2009, in connection with the above−referenced case, no\njudge in active service has requested a vote on the petition for rehearing en banc\nand all of the judges on the original panel have voted to deny rehearing. It is,\ntherefore, Ordered that the petition for rehearing and suggestion for rehearing en\nbanc is Denied. (gmr, ) (Entered: 11/16/2009)\n11/19/2009 67  LETTER from the Seventh Circuit returning the record on appeal in USCA no.\n08−3413 consisting of one volume of pleadings. (gmr, ) (Entered: 11/24/2009)\n12/08/2009 68  MINUTE entry before the Honorable John W. Darrah: Status hearing held and\ncontinued to 4/28/10 at 9:00 a.m. Mailed notice(maf ) (Entered: 12/08/2009)\n04/08/2010 69  MINUTE entry before Honorable John W. Darrah: Status hearing set for 4/28/10 at\n9:00 a.m. is re−set to 4/28/10 at 9:30 a.m. Mailed notice(maf) (Entered:\n04/08/2010)\n04/28/2010 70  MINUTE entry before Honorable John W. Darrah:Status hearing held and\ncontinued to 5/20/10 at 9:30 a.m. Mailed notice(maf) (Entered: 04/28/2010)\n05/20/2010 71  MINUTE entry before Honorable John W. Darrah:Status hearing held. Discovery\nordered closed on 8/18/10. Pretrial conference set for 2/2/11 at 1:30 p.m. Jury trial\n\nCase: 1:07-cv-2393   As of: 09/19/2012 05:32 PM CDT   6 of 6\nset for 2/7/11 at 9:00 a.m. Mailed notice(maf) (Entered: 05/20/2010)\n08/09/2010 72  STIPULATION of Dismissal [with prejudice and without costs] (Flaxman,\nKenneth) (Entered: 08/09/2010)\n08/10/2010 73  MINUTE entry before Honorable John W. Darrah: Parties having filed a\nstipulation of dismissal, this case is dismissed with prejudice and without costs.\nCivil case terminated. Pretrial conference set for 2/2/11 and jury trial set for 2/7/11\nis vacated.Mailed notice(maf) (Entered: 08/10/2010)",
+      "document_type_other": null,
+      "external_url": null,
+      "ecf_number": null,
+      "clearinghouse_link": "clearinghouse.net/doc/44129"
+    },
+    {
+      "date": "2007-05-01",
+      "date_is_estimate": false,
+      "date_not_available": false,
+      "description": null,
+      "document_source": "PACER [Public Access to Court Electronic Records]",
+      "document_status": "Coding Complete",
+      "document_type": "Complaint",
+      "order_type": null,
+      "citation_paren": null,
+      "cite_1_page": null,
+      "cite_1_reporter": null,
+      "cite_1_vol": null,
+      "cite_2_page": null,
+      "cite_2_reporter": null,
+      "cite_2_vol": null,
+      "cite_3_page": null,
+      "cite_3_reporter": null,
+      "cite_3_vol": null,
+      "citation_status": "Not applicable",
+      "court": "Northern District of Illinois",
+      "no_title": false,
+      "party_types": [
+        "Plaintiff"
+      ],
+      "per_curium": false,
+      "is_core_document": true,
+      "id": 47178,
+      "file": "https://clearinghouse-umich-production.s3.amazonaws.com/media/doc/47178.pdf",
+      "title": "Complaint",
+      "text": "Case: 1:07-cv-02393 Document #: 1 Filed: 05/01/07 Page 1 of 3 PageID #:1\nFILED \nKC \nMAY  0 I  2007 \nIN THE UNITED STATES DISTRICT COURT \nFOR THE NORTHERN DISTRICT OF ILLINOIS MICHAEl W.  DOBBINS \nEASTERN DIVISION  Ob~RK, ti,R,  !lll'lTRIQT  !J9YRT \nROBERT HARPER,  ) \n) \nPlaintiff,  ) \n)  No. Q!f  3 \n-vs- ) \n)  (jury demand) \nSHERIFF OF COOK COUNTY, \nand COOK COUNTY, ILLINOIS \n07CV2393 \nJUDGE DARRAH \nDefendants. \nMAGISTRATE JUDGE SCHENKIER \nCOMPLAINT \nPlaintiff, by counsel, alleges as follows: \n1.  This is  a civil action arising under 42  U .S.C.  § 1983.  The jurisdiction of \nthis Court is conferred by 28 U.S.C. §1343. \n2.  Plaintiffs Robert Harper is a resident of the Northern District of Illinois. \n3.  Defendants  are  the  Sheriff of Cook  County  and  Cook  County,  Illinois. \nThe  Sheriff is  sued  in  his  official  capacity  only;  the  County  is  joined \npursuant to  Carver v.  Sheriff of LaSalle  County,  324 F.3d  947  (7th  Cir. \n2003). \n4.  On or about September 30, 2005, plaintiff Robert Harper was taken to the \nCriminal Courts Building at 2650 South California A venue following  his \narrest without a warrant by a Chicago police officer. \n5.  At the criminal courts building, plaintiff appeared by remote viewing (\"TV \ncourt\"), beforce a judge who set bond and ordered that plaintiff be held in \nthe custody of defendant Sheriff pending the posting of bond. \n\nCase: 1:07-cv-02393 Document #: 1 Filed: 05/01/07 Page 2 of 3 PageID #:2\n- 2 -\n6.  Members of plaintiff's family  attended the bond hearing and immediately \nsought to post cash bond to obtain plaintiff's enlargement from custody. \n7.  In accordance with a policy and/or practice of defendant Sheriff that is  so \npermanent and well-settled that it  constitutes a custom or usage with the \nforce of law, plaintiff was required to submit to the processing required by \nthe Sheriff's policies of a person being admitted to the Cook County Jail \nwhile plaintiff's family members posted cash bond. This processing began \nwith  placement  into  an  overcrowded  and  unsanitary  animal  cage,  and \nincluded  a  chest  x-ray,  the  non-consensual  insertion  of  a  swab  into \nplaintiff's  penis,  the  non-consensual  taking  of blood,  and a  strip  search \nwhich was conducted in a manner calculated to embarrass and humiliate. \n8.  It has at all times relevant been the practice of the Sheriff of Cook County \nto  excuse  from  this  processing  persons  of  wealth,  clout,  or  political \ninfluence who, after bond has been set at  \"TV  court,\"  are ready,  willing, \nand able to post cash bond. \n9.  As the direct and proximate result of the above referred policy, plaintiff, \nand all others persons subjected to  the above referred policy,  was embar \nrassed, humiliated, unreasonably deprived of his liberty,  incured pain and \nsuffering,  and  was  deprived  of rights  secured  by  the  Fourth  and  Four \nteenth Amendments. \n10.  Plaintiffs bring this action for a class of all persons who, following his or \nher arrest without a warrant,  appeared on or after May  1,  2005  before a \njudge at  \"TV court\"  and,  while persons  acting  on behalf of the  arrestee \nsought  to  post  cash  bond,  was  required  to  submit  to  the  processing \nrequired by the Sheriff's policies of a person being admitted to  the Cook \nCounty Jail.  The proposed class satisfies each of the requirements of Rule \n\nCase: 1:07-cv-02393 Document #: 1 Filed: 05/01/07 Page 3 of 3 PageID #:3\n- 3 -\n23(a)  of  the  Federal  Rules  of  Civil  Procedure.  The  relief  sought  is \nappropriate  damages  for  each  person  subjected  to  the  policy  and  class \ncertification is appropriate under Rules 23(b)(3). \nII.  Plaintiff hereby demands trial by jury. \nWherefore plaintiff requests  that judgment be  entered  in his  favor  in  an \namount in excess of one hundred thousand dollars, that judgment be entered in \nfavor  of  the  proposed  class,  and  that  the  Court  grant  such  relief  for  each \nmember of the proposed class as may be appropriate. \nhi Kmif2i!=---\nKENNETH N. FLAXMAN \nARDC No. 830399 \n200 South Michigan A venue \nSuite 1340 \nChicago, Illinois 60604-2430 \n(312) 427-3200 (phone) \n(312) 427-3930 (fax) \nknf@kenlaw.com (email) \nTHOMAS G. MORRISSEY \n10249 South Western Avenue \nChicago, Illinois 60643 \n(773) 233-7900 (phone) \n(773) 239-0387 (fax) \ntgmlaw@ ameritech.net \nattorneys for plaintiff ",
+      "document_type_other": null,
+      "external_url": "",
+      "ecf_number": "1",
+      "clearinghouse_link": "clearinghouse.net/doc/47178"
+    },
+    {
+      "date": null,
+      "date_is_estimate": false,
+      "date_not_available": false,
+      "description": null,
+      "document_source": null,
+      "document_status": null,
+      "document_type": null,
+      "order_type": null,
+      "citation_paren": null,
+      "cite_1_page": null,
+      "cite_1_reporter": null,
+      "cite_1_vol": null,
+      "cite_2_page": null,
+      "cite_2_reporter": null,
+      "cite_2_vol": null,
+      "cite_3_page": null,
+      "cite_3_reporter": null,
+      "cite_3_vol": null,
+      "citation_status": null,
+      "court": null,
+      "no_title": false,
+      "party_types": [],
+      "per_curium": false,
+      "is_core_document": true,
+      "id": 119567,
+      "file": null,
+      "title": null,
+      "text": null,
+      "document_type_other": null,
+      "external_url": null,
+      "ecf_number": null,
+      "clearinghouse_link": "clearinghouse.net/doc/119567"
+    },
+    {
+      "date": "2008-05-29",
+      "date_is_estimate": false,
+      "date_not_available": false,
+      "description": null,
+      "document_source": "PACER [Public Access to Court Electronic Records]",
+      "document_status": "Coding Complete",
+      "document_type": "Order/Opinion",
+      "order_type": "Non-Decree",
+      "citation_paren": null,
+      "cite_1_page": null,
+      "cite_1_reporter": null,
+      "cite_1_vol": null,
+      "cite_2_page": 4686148,
+      "cite_2_reporter": "WL",
+      "cite_2_vol": 2008,
+      "cite_3_page": null,
+      "cite_3_reporter": null,
+      "cite_3_vol": null,
+      "citation_status": "WL/LEXIS only: No official citation available",
+      "court": "Northern District of Illinois",
+      "no_title": false,
+      "party_types": [
+        "Court"
+      ],
+      "per_curium": false,
+      "is_core_document": true,
+      "id": 47180,
+      "file": "https://clearinghouse-umich-production.s3.amazonaws.com/media/doc/47180.pdf",
+      "title": "Memorandum Opinion and Order [Granting Motion to Certify Case as a Class Action]",
+      "text": "Case: 1:07-cv-02393 Document #: 43 Filed: 05/29/08 Page 1 of 7 PageID #:492\nUNITED STATES DISTRICT COURT \nNORTHERN DISTRICT OF ILLINOIS \nEASTERN DIVISION \nROBERT HARPER,  ) \n) \nPlaintiff,  )  No. 07 CV 2393 \n) \nv.  )  Judge John W. Darrah \n) \nSHERIFF OF COOK COUNTY  ) \nand COOK COUNTY, ILLINOIS  ) \n) \nDefendants.  ) \nMEMORANDUM OPINION AND ORDER \nPlaintiff, Robert Harper,  filed  a class-action suit against Defendants,  Sheriff of Cook \nCounty and Cook County, Illinois (\"County Defendants\"), alleging that the Defendant Sheriff \nviolated his Fourth and Fourteenth Amendment rights by requiring him to participate in certain \nintake procedures at the Cook County Jail.  Presently pending before the Court is Plaintiffs \nMotion to Certify the Case as a Class Action. \nBACKGROUND \nA  reading  of Plaintiffs  Complaint  supports  the  following  summary  of the  alleged \nconduct of the parties. \nOn or about September 30, 2005, following his arrest, Harper appeared in Central Bond \nCourt.  Bond was set by the presiding judge; and Harper was ordered to be held in the Sheriffs \ncustody, pending the posting of bond.  Members of Harper's family were present at the bond \nhearing and immediately sought to post cash bond while Harper underwent the intake procedures \nat Cook County Jail.  These procedures included Harper's placement in a cell, followed by a \nchest x-ray, the non-consensual insertion of a swab into the plaintiffs penis, the non-consensual \n\nCase: 1:07-cv-02393 Document #: 43 Filed: 05/29/08 Page 2 of 7 PageID #:493\n• \ntaking of blood, and a strip search conducted in a humiliating manner.  It is the practice of the \nDefendant  Sheriff to  excuse  from  these  procedures  persons  of wealth,  clout,  or  political \ninfluence who, after bond has been set, are ready, willing, and able to post cash bond.  As a \nresult of being subjected to the Defendant Sheriffs intake procedures, Harper, along with others \nin his putative class, are embarrassed and humiliated and incurred pain and suffering. \nANALYSIS \nAllegations  made  in  support  of class  certification  are  considered  true.  Hardin  v. \nHarshbarger, 814 F.  Supp. 703, 706 (N.D. Ill. 1993).  As a general matter, the court does not \nexamine the merits of the case.  Retired Chicago Police Ass 'n v.  City of Chicago, 7 F.3d 584, \n598 (7th Cir.  1993) (Retired Police).  However, a court \"may look beyond the pleadings to \ndetermine whether the requirements of Rule 23 have been satisfied.\"  Dhamer v. Bristol-Myers \nSquibb Co.,  183 F.R.D. 520, 529-30 (N.D. Ill 1998) (citing Castano v. American Tobacco Co., \n84  F.3d  734,  744  (5th  Cir.  1996)).  The  party  seeking  certification  bears  the  burden  of \nestablishing that class certification is proper.  See Trull v. Plaza Assoc., 1998 WL578173 (N.D. \nIll. Sept. 3, 1998). \nTo receive class certification, a party must satisfy all four elements of Rule 23(a), which \ninclude: numerosity, commonality, typicality, and adequacy of representation.  Fed. R.  Civ. P. \n23(a).  The party must also satisfy at least one of the three provisions under Rule 23(b). \nPlaintiff seeks to certify the following class: \nAll persons processed into the Cook County Jail on and after \nMay 2, 2005, while that person, or someone acting on his (or her) \nbehalf, sought to post cash bond. \n2 \n\nCase: 1:07-cv-02393 Document #: 43 Filed: 05/29/08 Page 3 of 7 PageID #:494\nNumerosity \nRule 23(a)(l) requires that the class be so numerous that joinder of all the members is \nimpracticable.  Fed. R. Civ. P. 23(a)(l).  Plaintiff need not demonstrate the exact number of class \nmembers so long as a conclusion is apparent from good-faith estimates (Peterson v. H & R Block \nTax Servs., 174 F.R.D. 78, 81 (N.D. Til. 1997)); and the court is entitled to make \"common sense \nassumptions\" in order to support a finding of numerosity (Grossman v.  Waste Management, Inc., \n100 F.R.D. 781,785 (N.D. Ill. 1984)). \nPlaintiff projects the number of potential class members to be over 5,700 persons, based \non an average of five persons' being released on bail the same day that they were processed into \nthe jail as  calculated by 3,558  males'  being released  on bail  the  same  day that they were \nprocessed into the jail for the time period of May 2, 2005 through January 25, 2007. \nDefendants  argue  that  Plaintiffs potential  class  is  merely  speculative  because  some \nindividuals  may have been released for  other reasons,  and some of the  individuals  may be \nmembers of two other class actions brought against the same Defendants.1  In response, Plaintiff \nhas provided the sworn declarations of fifteen persons who would be included in the proposed \nclass.  Plaintiff has sufficiently demonstrated that the number of plaintiffs would be so numerous \nthat joinder of all the members is impracticable. \n1Jackson v. Sherif! of Cook County, 06 C 493, class of\"All male prisoners at the Cook County \nJail who, on or after January 27, 2004, were subjected to the non-consensual insertion of a swab \ninto his penis as part of his admission to the jail.\"  Young v.  County ofC  ook, 06 C 552, two \nclasses defined as: \"(I) all males who were subjected to a strip search and/or a visual body cavity \nsearch as new detainees at the Cook County Jail on or after January 30, 2004; and (2) all persons \ncharged only with misdemeanor or lesser offenses not involving drugs or weapons who were \nsubjected to a strip search and/or a body cavity search as new detainees at the Cook County Jail \non or after January 30, 2004.\" \n3 \n\nCase: 1:07-cv-02393 Document #: 43 Filed: 05/29/08 Page 4 of 7 PageID #:495\nCommonality and Typicality \nCommonality exists if the class members share common questions of law or fact.  The \nrequirement  is  usually satisfied when  a common  nucleus  of operative  facts  unites  a  class. \nRosario v.  Livaditis, 963  F.2d 1013,  1018 (7th Cir.  1992) (Rosario).  The presence of some \nfactual variations among the class members does not defeat commonality, so long as there is at \nleast one question of law or fact common to the class.  Rosario, F.2d at 1017. \nThe  typicality  requirement  of Rule  23(a)(3)  is  closely  related  to  the  commonality \nrequirement of Rule 23(a)(2).  Ruiz v.  Stewart Associates, Inc., 171  F.R.D. 238, 242 (N.D. Ill. \n1997).  A plaintiffs claim is typical if it arises from the same event or practice or course of \naction that gives rise to the claims of other class members and if his or her claims are based on \nthe same legal theory.  Rosario, 963 F.2d at 1018. \nPlaintiff argues that the class claims share common questions of fact and law: \n(1) whether there is any legitimate need to assign a jail identification number to any arrestee who \nis ready, willing, and able (either individually or through a friend or family) to post bond; \n(2) whether Defendants refuse to accept cash bond until late in the afternoon, resulting in several \nhours of detention for an arrestee that is ready, willing, and able to post cash bond; \n(3) whether persons with wealth, clout, or political influence are allowed to immediately post \nbond with the assignment of a jail identification number and without being processed into the \njail; (4) whether there is a lawful justification for the lengthy continued detention after bond has \nbeen posted; ( 5) whether the Defendants apply or enforce the policy alleged in the Complaint \nand does that policy result in a deprivation of rights secured by the Fourth Amendment; and \n4 \n\nCase: 1:07-cv-02393 Document #: 43 Filed: 05/29/08 Page 5 of 7 PageID #:496\n(6)  whether the Defendants  apply a different policy to persons of wealth,  clout, or political \ninfluence and does that disparate treatment amount to the denial of equal protection under the \nlaw. \nDefendants' arguments present questions of fact and law that go to the merits regarding \nthe elements of commonality and typicality.  A court does not examine the merits of a claim \nwhen determining if certification is proper.  See Retired Police, 7 F.3d at 598. \nDefendants also argue that typicality does not exist because of particular facts as to each \ndetainee - for example, the type of bond that was set, the differences in the intake process for \nfemale detainees, and possible defenses as to each member's claim.  Defendants' argument is not \npermissive because the proposed class includes only those individuals subject to  the claimed \noffensive  procedures  while  remaining  in  custody  although  able  to  post  a  cash  bond. \nAccordingly, Plaintiff has satisfied both the commonality and typicality requirements.  See \nKeele  v.  Wexler,  149  F.3d 589,  594 (7th Cir.  1998)  (\"Common nuclei  of fact  are  typically \nmanifest where . . . the defendants have engaged in standardized conduct towards members of \nthe proposed class ....\" ). \nAdequacy ofR  epresentation \nThe class representatives must \"fairly and adequately protect the interests of the class.\" \nFed.  R.  Civ.  P.  23(a).  In determining adequacy of class representation, the court considers \nwhether {I) any conflicts of interest exist between the named plaintiffs and the class members \nand (2) the named plaintiffs' counsel will adequately protect the interests of the class.  Gaspar v. \nLinvatec Corp., 167 F.R.D. 51, 58 (N.D. Ill. 1996). \n5 \n\nCase: 1:07-cv-02393 Document #: 43 Filed: 05/29/08 Page 6 of 7 PageID #:497\n' \nDefendants argue that Harper is not an adequate representative party because he cannot \nstate an actionable claim.  The Court has previously held that Plaintiff sufficiently pled a cause \nof action, and the Court will not address the merits of Plaintiffs specific claim at this time. \nDefendants  do  not challenge the  adequacy of class counsel, and class counsel has  extensive \nexperience litigating class actions. \nRule 23(b)(l)(3) \nPlaintiff seeks class certification under Rule 23(b)(l )(3).  Certification under \nRule  23(b)(l)(3)  is  appropriate  if \"questions  of law  or  fact  common  to  class  members \npredominate  over  any  questions  affecting  only  individual  members\"  and  \"a class  action  is \nsuperior to other available methods for fairly and efficiently adjudicating the controversy.\"  Fed. \nR. Civ. P. 23(b)(J)(3). \nAs discussed above, Plaintiff has established common questions of law and fact as to the \nclass.  Defendants again argue that individual issues predominate over any common questions of \nlaw or fact- for example, the detainee's history, the amount of bond, and whether the individual \nproceeded through receiving procedures.  Defendants have not demonstrated that these issues are \nmaterial to defeat the certification of the proposed class.  The individual issues that Defendants \nargue are predominant are  not material  as  to  the common questions of whether there is any \nlegitimate need to assign a jail identification to any arresstee who is ready, willing and able to \npost cash bond or whether Defendants permit persons of wealth, clout or political influence to \npost bond without being assigned a jail identification number and without being processed into \nthe jail. \n6 \n\nCase: 1:07-cv-02393 Document #: 43 Filed: 05/29/08 Page 7 of 7 PageID #:498\n• \n' \n' \nDefendants also argue that certifying a class action in the instant case is not a superior \nmethod of adjudication because the instant class would conflict with and overlap with other class \nactions.  However, Jackson, 06 C 493, which was recently settled, involved sexual-transmitted \ndisease testing of males processed into the jail; and Young, 06 C 552, which is presently awaiting \ntrial, challenged various aspects of the jail's strip search policies and do not resolve the claims \nasserted here. \nCONCLUSION \nFor the foregoing reasons, the Plaintiffs Motion to CertifY Case as  a Class Action is \ngranted.  However,  Plaintiffs proposed  class  definition  is  too  broad,  appearing  to  include \nindividuals that do not fall within the claims set forth in Plaintiffs Complaint - persons who \nwhere subject to, and required to submit to, the intake procedures of Cook County Jail on or after \nMay 2, 2005, while that person, or someone acting on his or her behalf, was willing and able to \npost cash bond.  Accordingly, Plaintiff is to file an amended class definition within fourteen days \nof this order.  A status hearing is scheduled for June 18, 2008, at 9:00a.m. \nUnit d States District Court Judge \n'-\n7 ",
+      "document_type_other": null,
+      "external_url": "",
+      "ecf_number": "43",
+      "clearinghouse_link": "clearinghouse.net/doc/47180"
+    },
+    {
+      "date": "2009-09-08",
+      "date_is_estimate": false,
+      "date_not_available": false,
+      "description": null,
+      "document_source": "PACER [Public Access to Court Electronic Records]",
+      "document_status": "Coding Complete",
+      "document_type": "Order/Opinion",
+      "order_type": "Non-Decree",
+      "citation_paren": null,
+      "cite_1_page": 511,
+      "cite_1_reporter": "F.3d",
+      "cite_1_vol": 581,
+      "cite_2_page": null,
+      "cite_2_reporter": null,
+      "cite_2_vol": null,
+      "cite_3_page": null,
+      "cite_3_reporter": null,
+      "cite_3_vol": null,
+      "citation_status": "Official citation found/coded",
+      "court": "U.S. Court of Appeals for the Seventh Circuit",
+      "no_title": false,
+      "party_types": [
+        "Court"
+      ],
+      "per_curium": false,
+      "is_core_document": true,
+      "id": 47182,
+      "file": "https://clearinghouse-umich-production.s3.amazonaws.com/media/doc/47182.pdf",
+      "title": "USCA Opinion [Vacating District Court's Class Certification and Remanding Case]",
+      "text": "CCaassee: :1C 0:a08s7-e3-c:4 v01-830- 23  34  91 D33 o D c o u c mDueomncetu:n m0t e0#n7: t16: 1522 4F9 i 4l e 6 d 1F:5 1il e 1 d / 1:  F30/i9l0e/90d 8:P /1a21g0/e01 921 /  2o  0f   01P91a   gP  e a sPg:e a1IgD1e s#:: 51419\nIn the\nUnited States Court of Appeals\nFor the Seventh Circuit\n \nNo. 08-3413\nROBERT HARPER,\nPlaintiff-Appellee,\nv.\nSHERIFF OF COOK COUNTY and\nCOOK COUNTY, ILLINOIS,\nDefendants-Appellants.\n \nAppeal from the United States District Court\nfor the Northern District of Illinois, Eastern Division.\nNo. 1:07-cv-02393—John W. Darrah, Judge.\n \nARGUED APRIL 6, 2009—DECIDED SEPTEMBER 8, 2009\n \nBefore BAUER, SYKES and TINDER, Circuit Judges.\nBAUER, Circuit  Judge.    This  case  involves a  confused\nand confusing class action lawsuit that we put to rest\ntoday. Robert Harper sued the Sheriff of Cook County,\nclaiming that when new detainees are remanded to the\nSheriff’s  custody  after  a  probable  cause  hearing,  they\nare  unconstitutionally  required  to  undergo  certain\nintake procedures at the Cook County Jail before being\n\nCCaassee: :1C 0:a08s7-e3-c:4 v01-830- 23  34  91 D33 o D c o u c mDueomncetu:n m0t e0#n7: t16: 1522 4F9 i 4l e 6 d 1F:5 1il e 1 d / 1:  F30/i9l0e/90d 8:P 1/a21g0/e10 292/  2 o  0f   01P91a   gP  e a sPg:e a1IgD1e s#:: 51510\n2 No. 08-3413\nallowed  to  leave  on  bond.  The  district  court  certified\nHarper’s class, a decision that the Sheriff appeals. We\nagree with the Sheriff that this is not an appropriate case\nfor  class  disposition  and  vacate  the  decision  of  the\ndistrict court granting class certification.\nI.  BACKGROUND\nHarper was arrested by a Chicago police officer on the\nevening  of  September  29,  2005.  The  next  day,  he  was\nbrought before a judge around 1:00 p.m. for a probable\ncause hearing. The judge found probable cause, set bond\nat  $15,000,  and  remanded  Harper to the  Sheriff’s  cus-\ntody.  Harper  claims  that  his  wife  attended  the\nprobable cause hearing and immediately sought to post\ncash  bond,  but  was  not  permitted  to  post  bond  until\nsometime  after  4:00  p.m.  Harper  was  released  from\nthe Sheriff’s custody around 11:00 p.m.\nWhen a detainee returns to the Cook County Jail after\na  probable  cause  hearing,  he  is  placed  in  a  bull  pen\nand begins to be processed into the jail. This involves\nassigning the detainee an identification number, taking\nhis  picture  and  fingerprints,  collecting  any  property\ncarried by the detainee, conducting a personal history\ninterview, performing a psychiatric screening, assigning\nthe detainee to a division within the jail, conducting a\nmedical examination, and a strip search.\nFamily members or friends who want to post bond for\na detainee do so, not with the Sheriff, but with the Office\nof the Clerk of the Circuit Court of Cook County. The\n\nCCaassee: :1C 0:a08s7-e3-c:4 v01-830- 23  34  91 D33 o D c o u c mDueomncetu:n m0t e0#n7: t16: 1522 4F9 i 4l e 6 d 1F:5 1il e 1 d / 1:  F30/i9l0e/90d 8:P 1/a21g0/e10 293/  2 o  0f   01P91a   gP  e a sPg:e a1IgD1e s#:: 51511\nNo. 08-3413 3\nSheriff’s  policy  directs  that  “[i]nmates  who  have  their\nbond posted while going through the intake process are\nmoved ahead of the other inmates in order to speed up\ntheir release . . . . In some instances, the psychiatric inter-\nview  and  the  medical  examination  are  eliminated.”\nBefore releasing a detainee, the Sheriff takes a number\nof steps to ensure that he is releasing the right person.\nThis  process  includes  checking  the  detainee’s  photo-\ngraph, comparing the detainee’s fingerprints with those\ntaken  during  the  intake  procedure,  and  requiring  the\ndetainee to provide answers to personal questions that\nwere asked during the prior personal history interview\nthat only the detainee should know.\nHarper brought this action to challenge his detention\nand treatment in the jail. In his complaint, Harper ex-\nplained  that  he  “was  required  to  submit  to  the\nprocessing required by the Sheriff’s policies of a person\nbeing  admitted  to  the  Cook  County  Jail  while  plain-\ntiff’s family members posted cash bond.” He went on to\ndescribe the processing, which “began with placement\ninto an overcrowded and unsanitary animal cage, and\ninclude a chest x-ray, the non-consensual insertion of a\nswab into plaintiff’s penis [to test for STDs], the non-\nconsensual  taking  of  blood,  and  a  strip  search  which\nwas  conducted  in  a  manner  calculated  to  embarrass\nand humiliate.”\nIn  his  motion  to  certify  the  case  as  a  class  action,\nHarper  sought  to  represent  “[a]ll  persons  who  were\nprocessed into the Cook County Jail on and after May 2,\n2005  while  persons  acting  on  behalf  of  the  arrestee\n\nCCaassee: :1C 0:a08s7-e3-c:4 v01-830- 23  34  91 D33 o D c o u c mDueomncetu:n m0t e0#n7: t16: 1522 4F9 i 4l e 6 d 1F:5 1il e 1 d / 1:  F30/i9l0e/90d 8:P 1/a21g0/e10 294/  2 o  0f   01P91a   gP  e a sPg:e a1IgD1e s#:: 51512\n4 No. 08-3413\nsought to post cash bond.” He later changed his proposed\nclass definition to “[a]ll persons processed into the Cook\nCounty Jail on and after May 2, 2005 while that person,\nor  someone  acting  on  his  (or  her)  behalf,  sought  to\npost  cash  bond.”  The  district  court  granted  Harper’s\nmotion to certify the case as a class action, but found that\nHarper’s proposed class definition was too broad and\nordered  him  to  provide  a  new  class  definition  within\nfourteen  days.  We  granted  the  Sheriff’s  petition  to\nappeal  from  the  order  granting  class  certification  ac-\ncording to Federal Rule of Civil Procedure 23(f).\nII.  DISCUSSION\nTo certify a class, a district court must find that each\nrequirement  of  Rule  23(a)  (numerosity,  commonality,\ntypicality,  and  adequacy  of  representation)  is  satisfied\nas well as one subsection of Rule 23(b). “Failure to meet\nany of the Rule’s requirements precludes class certifica-\ntion.” Arreola v. Godinez, 546 F.3d 788, 794 (7th Cir. 2008).\nIn  this  case,  Harper  claimed,  and  the  district  court\nagreed,  that  his  class  action  satisfied  Rule  23(a)  and\nRule  23(b)(3)  (predominance  of  common  issues  and\nsuperiority of the class action format). On appeal,  the\nSheriff claims that none of the Rule 23(a) prerequisites\nfor  class  certification  were  met  and  that  Harper’s\nproposed class also failed to meet the requirements of\nRule 23(b)(3), so the district court should have denied\nclass certification. We review a district court’s decision\nto certify a class for an abuse of discretion. Arreola, 546\nF.3d at 794.\n\nCCaassee: :1C 0:a08s7-e3-c:4 v01-830- 23  34  91 D33 o D c o u c mDueomncetu:n m0t e0#n7: t16: 1522 4F9 i 4l e 6 d 1F:5 1il e 1 d / 1:  F30/i9l0e/90d 8:P 1/a21g0/e10 295/  2 o  0f   01P91a   gP  e a sPg:e a1IgD1e s#:: 51513\nNo. 08-3413 5\nA. Jurisdiction\nBefore getting to the substance of this case, we address\na jurisdictional issue. Rule 23(f) states that “[a] court of\nappeals may permit an appeal from an order granting\nor denying class-action certification under this rule if a\npetition for permission to appeal is filed . . . within 10 days\nafter  the  order  is  entered.”  The  Sheriff  followed  this\nprocedure and we permitted the appeal. However, Harper\nclaims  that  the  district  court’s  order  was  not  the\nappealable order contemplated by Rule 23(f) because it\ndid not define the class as required by Rule 23(c)(1)(B),\nand that, consequently, we do not have jurisdiction to\nconsider the Sheriff’s appeal. Harper is correct that the\ndistrict court did not define the class as it should have,\nbut that does not deprive us of jurisdiction.\nThere is no doubt that the district court certified the\nclass. Its order states: “Plaintiff’s Motion to Certify Case\nas a Class Action is granted.” This allowed the Sheriff\nto  seek  permission  to  file  an  interlocutory  appeal.\nHarper argues that the Sheriff was required to wait until\na new class definition was submitted. But Harper was\ncharged  with  that  responsibility  and  the  Sheriff  had\nonly ten days in which to seek permission to appeal. The\nSheriff waited as long as he could and acted properly.1\n1 The Sheriff submitted his Rule 23(f) request to file an inter-\nlocutory appeal on the same day that Harper’s amended class\ndefinition  was  due.  Because  Rule  6  directs  that  weekends\nare not counted when a time period is less than eleven days,\n(continued...)\n\nCCaassee: :1C 0:a08s7-e3-c:4 v01-830- 23  34  91 D33 o D c o u c mDueomncetu:n m0t e0#n7: t16: 1522 4F9 i 4l e 6 d 1F:5 1il e 1 d / 1:  F30/i9l0e/90d 8:P 1/a21g0/e10 296/  2 o  0f   01P91a   gP  e a sPg:e a1IgD1e s#:: 51514\n6 No. 08-3413\nFurthermore,  the  propriety  of  resolving  Harper’s  pro-\nposed class issues through the class action format, which\ngoes  to  the  heart  of  this  appeal,  is  not  dependent  on\nthe subtleties of the class definition.\nB. Class Certification\nNext, we must decipher what Harper is complaining\nabout  in  order  to  determine  whether  his  claim  is\nsuitable for disposition through the class action format.\nAs the Sheriff notes, Harper’s claim has been a moving\ntarget  throughout  this  litigation.  Harper’s  actual  com-\nplaint makes it seem that he is seeking to challenge the\nspecific  intake  procedures  utilized  by  the Sheriff  such\nas  the  strip  search  and  STD  test.  Harper’s  deposition\ntestimony confirms that he was offended by these two\nprocedures.  But  Harper  assured  us  multiple  times  at\noral argument that this case is not about searching and\nswabbing, and we take him at his word. If these were\nhis claims, this case would be duplicative of two other\nclass actions challenging these procedures at the Cook\nCounty Jail. Young v. County of Cook, 06 C 552 (strip search);\nJackson v. Sheriff of Cook County, 06 C 493 (STD testing).2\n1 (...continued)\nten days for the Sheriff in this case was the same as fourteen\ndays for Harper.\n2 The complaint also mentions a chest x-ray and blood draw\nas part of the processing procedures. But Harper’s brief ac-\nknowledges that he had “no problem” with these two proce-\ndures.\n\nCCaassee: :1C 0:a08s7-e3-c:4 v01-830- 23  34  91 D33 o D c o u c mDueomncetu:n m0t e0#n7: t16: 1522 4F9 i 4l e 6 d 1F:5 1il e 1 d / 1:  F30/i9l0e/90d 8:P 1/a21g0/e10 297/  2 o  0f   01P91a   gP  e a sPg:e a1IgD1e s#:: 51515\nNo. 08-3413 7\nFailing to take issue with any particular intake proce-\ndure, Harper is left with a claim that the Sheriff is uncon-\nstitutionally  holding  detainees  after  bond  has  been\nposted.3  But  the  constitutionality  of  this  detention\ndepends on whether the length of the delay between the\ntime  the  Sheriff  was  notified  that  bond  had  been\nposted and the time that the detainee was released was\nreasonable in any given case. See Chortek v. City of Mil-\nwaukee, 356 F.3d 740, 747 (7th Cir. 2004) (delay in process-\ning is actionable if unreasonable). That is an individual\nissue that will depend on how long each detainee was\nheld  after  bond  was  posted  and  what  justifications\nthere might be for the delay on that particular day or\n—\nfor  that  particular  detainee the  time  of  day,  whether\nthe  jail  was  processing  an  unusually  large  number  of\ndetainees at that time, whether other events occurring\nat the jail legitimately slowed processing times, whether\nthe  detainee’s  lack  of  cooperation  delayed  processing,\netc. See Lewis v. O’Grady, 853 F.2d 1366, 1370 (7th Cir. 1988)\n(what is a reasonable time for detaining prisoner after\ngrounds  for  detention  have  ceased  depends  on  facts\n3 This gives Harper the benefit of the doubt. In some places, his\nbrief claims that detainees should not be processed into the\njail  when  a  family  member  is  ready,  willing,  and  able  to\npost bond. But bond is posted at the Clerk’s office; Harper\ndoes not explain how the Sheriff is to blame for any delay a\nfamily  member  might  experience  in  being  allowed  to\nactually post bond with the Clerk and the Sheriff cannot be\nexpected  to  forego  processing  based  on  a  detainee’s  as-\nsurances that bond will be posted soon.\n\nCCaassee: :1C 0:a08s7-e3-c:4 v01-830- 23  34  91 D33 o D c o u c mDueomncetu:n m0t e0#n7: t16: 1522 4F9 i 4l e 6 d 1F:5 1il e 1 d / 1:  F30/i9l0e/90d 8:P 1/a21g0/e10 298/  2 o  0f   01P91a   gP  e a sPg:e a1IgD1e s#:: 51516\n8 No. 08-3413\npresented in each case). Liability, to say nothing of dam-\nages,  would  need  to  be  determined  on  an  individual\nbasis.  Thus,  common  issues  do  not  predominate  over\nindividual  issues,  making  this  case  inappropriate  for\nclass disposition. Fed. R. Civ. P. 23(b)(3).4\nHarper counters that a common issue predominates:\nwhether  it  is  reasonable  to  assign  a  jail  identification\nnumber to a detainee before allowing him to be released\non  bond.  But  claiming  that  an  issue  predominates\ndoes not make it so. Harper is trying to focus the class\ncertification  discussion  around  an  issue  that  is  not\ncentral to the litigation. See Amchem Products, Inc. v. Wind-\nsor,  521  U.S.  591,  624-25  (1997)  (basic  fact  that  all\nmembers  of  proposed  class  were  exposed  to  asbestos\nwas  insufficient  to  satisfy  predominance  requirement\nwhere  greater  number  of  significant  individual  issues\nexisted);  see  also  Hyderi  v.  Washington  Mut.  Bank,  FA,\n4 Harper also attempts to bring this action on behalf of individ-\nuals who were required to undergo certain processing proce-\ndures  before  being  allowed  to  post  bond  themselves.  It\nis  questionable  as  to  whether  Harper  can  represent  these\nindividuals since he did not attempt to post bond himself and\nso his claim is likely not typical of that portion of the pur-\nported class that posted bond themselves. See Fed. R. Civ. P.\n23(a)(3).  Regardless  of  this  typicality  concern,  the  reason-\nableness  of  the  delay  between  a  detainee  informing  the\nSheriff of his desire to post bond and the detainee’s release\nremains an individual issue to be determined according to\nthe length of the delay and the conditions and exigencies of\nthe jail as they existed on that particular day.\n\nCCaassee: :1C 0:a08s7-e3-c:4 v01-830- 23  34  91 D33 o D c o u c mDueomncetu:n m0t e0#n7: t16: 1522 4F9 i 4l e 6 d 1F:5 1il e 1 d / 1:  F30/i9l0e/90d 8:P 1/a21g0/e10 299/  2 o  0f   01P91a   gP  e a sPg:e a1IgD1e s#:: 51517\nNo. 08-3413 9\n235  F.R.D.  390,  403  (N.D.  Ill.  2006)  (“A  putative  class\nrepresentative cannot satisfy the predominance require-\nment  by  defining  the  common  issue  narrowly  and\nleaving  all  of  the  individual  issues  for  follow-on  pro-\nceedings,  especially  when  the  non-common  issues  are\nnecessarily  intertwined  with  the  common  issues  and\nresolution of the common issues would not materially\nadvance  the  litigation.”).  The  fact  that  the  Sheriff\nassigned  Harper  an  identification  number  cannot  be\nwhat  caused  Harper  the  embarrassment,  humiliation,\nunreasonable  deprivation  of  liberty,  and  pain  and\nsuffering described in his complaint.\nIf assigning identification numbers is the predominant\nissue in this case, then Harper would be arguing that it\nis  unconstitutional  to  give  detainees,  who  have  been\nremanded to the custody of the Sheriff to keep until trial\nor  until  bond  is  posted,  an  identification  number,  re-\ngardless  of  the  amount  of  time  it  takes  to  assign  the\nnumber and ultimately release the detainee. The Sheriff\nprocesses approximately 300 new detainees into the jail\nevery day and he must maintain some system of keeping\ntrack of who has been committed to, and released from,\nhis  custody.  There  is  nothing  unconstitutional  about\nassigning  an  identification  number  to  a  detainee  who\nhas been remanded to the custody of the Sheriff, unless\nit takes an unreasonable amount of time or is done in\nsome  unreasonable  manner.  And,  as  we  just  stated,\nthose are individual issues.\nWe have one last matter to resolve. Harper makes an\nequal  protection  claim  that  individuals  with  wealth,\n\nCCasaes:e 1:C :00a87s--e3c:4v 01-0832- 3 3 4 9 1 3D3 Do  co  uc  muDmeoncetun: mt0 #e0:n7 6t1:5 12 2F49i l 4e  6d  1:F 51il 1e  /d 1 : 3 F0/0i9le9/0d P8: a1/2g10e/10 1290/ 2   o 0 f 0 P19a1  g  P e  asPg: ae1gI1Des #: :15158\n10 No. 08-3413\nclout, or political influence are not required to undergo\nthe Sheriff’s intake procedures, but are allowed to im-\nmediately post bond (individually or through a family\nmember)  and  be  released  from  the  Sheriff’s  custody.\nHarper  admitted  that  he  was  not  treated  differently\nfrom anyone he observed in the jail; to support his equal\nprotection  claim,  Harper  obtained  an  affidavit  from  a\npolice officer who was arrested and claimed that after\nhis  hearing  he  was  not  placed  into  a  bull  pen  or\nprocessed  into  the  jail,  but  was  released  immediately\nafter the hearing when his wife posted bond. The officer\nclaimed that this is common treatment for persons with\nclout.\nIt is easy to understand why police officers would not\nbe placed in a bull pen with other detainees for the safety\nof the officers. The Sheriff’s written policy states that one\nreason to separate a detainee is his need for protective\ncustody. But either way, class action disposition is not\na  superior  method  of  litigating  this  claim. See  Fed.  R.\nCiv.  P.  23(b)(3).  Harper  is  not  interested  in  a  large\ndamage  award  (he  claimed  at  oral  argument  that  he\nwould have brought this case as a Rule 23(b)(2) action\nfor an injunction if he had standing to do so), and his\ndesire  to  prove  the  existence  and  illegality  of  the\nSheriff’s  discriminatory  practice  can  be  satisfied  in  an\nindividual  suit  without  the  management  issues  of  a\nclass  action.  It  would  be  better  to  litigate  this  claim\nwith Harper’s other individual claims.\n\nCCasaes:e 1:C :00a87s--e3c:4v 01-0832- 3 3 4 9 1 3D3 Do  co  uc  muDmeoncetun: mt0 #e0:n7 6t1:5 12 2F49i l 4e  6d  1:F 51il 1e  /d 1 : 3 F0/0i9le9/0d P8: a1/2g10e/10 1291/ 2   o 0 f 0 P19a1  g  P e  asPg: ae1gI1Des #: :15159\nNo. 08-3413 11\nIII.  CONCLUSION\nFor  the  reasons  discussed  above,  we  VACATE  the\ndistrict  court’s  certification  of  Harper’s  class  and\nREMAND for resolution of Harper’s individual claims.\n9-8-09",
+      "document_type_other": "",
+      "external_url": "",
+      "ecf_number": "65",
+      "clearinghouse_link": "clearinghouse.net/doc/47182"
+    },
+    {
+      "date": "2010-08-09",
+      "date_is_estimate": false,
+      "date_not_available": false,
+      "description": null,
+      "document_source": "PACER [Public Access to Court Electronic Records]",
+      "document_status": "Coding Complete",
+      "document_type": "Settlement Agreement",
+      "order_type": null,
+      "citation_paren": null,
+      "cite_1_page": null,
+      "cite_1_reporter": null,
+      "cite_1_vol": null,
+      "cite_2_page": null,
+      "cite_2_reporter": null,
+      "cite_2_vol": null,
+      "cite_3_page": null,
+      "cite_3_reporter": null,
+      "cite_3_vol": null,
+      "citation_status": "Not applicable",
+      "court": "Northern District of Illinois",
+      "no_title": false,
+      "party_types": [
+        "Defendant",
+        "Plaintiff"
+      ],
+      "per_curium": false,
+      "is_core_document": true,
+      "id": 47184,
+      "file": "https://clearinghouse-umich-production.s3.amazonaws.com/media/doc/47184.pdf",
+      "title": "Stipulation of Dismissal",
+      "text": "Case: 1:07-cv-02393 Document #: 72 Filed: 08/09/10 Page 1 of 2 PageID #:567\nIN THE UNITED STATES DISTRICT COURT \nFOR THE NORTHERN DISTRICT OF ILLINOIS \nEASTERN DIVISION \n \nROBERT HARPER,         ) \n              )   No.  07 C 2393 \n      Plaintiff,      )    \n              )   Judge John W. Darrah \n    v.          )   \n)    \nSHERIFF OF COOK COUNTY, et al.,    ) \n              ) \n      Defendants.      ) \n \nSTIPULATION OF DISMISSAL \n  IT IS HEREBY STIPULATED AND AGREED by and between all parties to \nthis lawsuit, Plaintiff Robert Harper and Defendant, Sheriff of Cook County and \nCook County, by their respective attorneys of record, that this matter has been \nsettled pursuant to the General Release executed by said parties.  Therefore, this \ncause of action should be dismissed with prejudice pursuant to Fed. R. Civ. P. 41 \nand with each said party bearing its own costs and attorney’s fees in accordance \nwith the terms of the General Release. \n \n        Respectfully Submitted, \n \n  /s/ Kenneth Flaxman      /s/ Maureen O. Hannon  (with consent) \n  Kenneth Flaxman, ARDC 830399   Maureen O. Hannon \n  Attorney for Plaintiff      Attorney for Defendants \n200 South Michigan Ave      Assistant State’s Attorney \n  Chicago, IL 60643        Conflicts Counsel Unit \n  attorney for plaintff      69 West Washington, Suite 2030 \n              Chicago, IL 60602 \n              an attorney for defendants \n\nCase: 1:07-cv-02393 Document #: 72 Filed: 08/09/10 Page 2 of 2 PageID #:568\nCERTIFICATE OF SERVICE\nI hereby certify that on the  9th day of  August, 2008, I electronically file\nthe foregoing with the Clerk of the Court using the CM/ECF  system which will\nsend notification of such filing   the following:  Maureen  O. Hannon, Ass’t\nState’s Atty, 500 Richard J. Daley Center, Chicago, Illinois 60602, and I hereby\ncertify that I have mailed by  United States Postal Service the document to the\nfollowing non CM/ECF participants: none.\n/s/ Kenneth N. Flaxman\n______________________\nKenneth N. Flaxman\nARDC Number 08830399\n200 S Michigan Ave, Ste 1240\nChicago, IL 60604-2430\n(312) 427-3200 (phone)\n(312) 427-3930 (fax)\nknf@kenlaw.com (email)",
+      "document_type_other": null,
+      "external_url": "",
+      "ecf_number": "72",
+      "clearinghouse_link": "clearinghouse.net/doc/47184"
+    }
+  ],
+  "document_count": 6
+}

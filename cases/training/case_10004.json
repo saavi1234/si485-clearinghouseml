@@ -1,0 +1,220 @@
+{
+  "case_id": 10004,
+  "fetched_at": "2025-10-20T22:39:31.096297",
+  "case_data": {
+    "attorney_orgs": [],
+    "available_documents": [
+      "Any published opinion"
+    ],
+    "case_defendants": [
+      {
+        "defendant_level": null,
+        "institution": "",
+        "institution_alt_state": null,
+        "institution_city": "",
+        "institution_county": "Baltimore",
+        "name": "Baltimore County Police Department",
+        "defendant_level_other": "",
+        "is_active": true
+      }
+    ],
+    "case_ongoing": "No",
+    "case_status": "Approved",
+    "case_types": [
+      "Jail Conditions"
+    ],
+    "cause_other": "",
+    "causes": [
+      "42 U.S.C. § 1983"
+    ],
+    "class_action_granted": "Not sought",
+    "class_action_sought": "No",
+    "closing_year": 1986,
+    "constitutional_clause": [
+      {
+        "value": "Unreasonable search and seizure"
+      }
+    ],
+    "content_of_injunction": [],
+    "court": "District of Maryland",
+    "custom_issues": [],
+    "defendant_payment": "",
+    "defendant_type": [],
+    "docket_status": "None",
+    "facility_type": [
+      {
+        "value": "Government-run"
+      }
+    ],
+    "filing_date": "1984-05-03",
+    "filing_year": 1984,
+    "id": 10004,
+    "injunction_duration": "",
+    "issues": [
+      "Jails, Prisons, Detention Centers, and Other Institutions: Strip search policy (facilities)",
+      "Affected Sex/Gender(s): Male"
+    ],
+    "last_checked_date": "2007-07-19T00:00:00-04:00",
+    "main_docket": {
+      "id": 33076,
+      "docket_entries": [],
+      "docket_case_type": "cv",
+      "docket_year": 1984,
+      "docket_filing_number": 1811,
+      "is_main_docket": true,
+      "court": "District of Maryland",
+      "state": "Maryland",
+      "docket_office_number": "1",
+      "docket_number_manual": "84-01811",
+      "scales_html": null,
+      "recap_link": null,
+      "is_active": true
+    },
+    "name": "Abshire v. Walls",
+    "never_filed": false,
+    "non_docket_case_number": "",
+    "non_docket_case_number_type": null,
+    "non_docket_case_number_type_other": "",
+    "order_end_year": null,
+    "order_start_year": null,
+    "permanent_injunction": false,
+    "plaintiff_description": "Man arrested for disorderly conduct and strip-searched at the police station.",
+    "plaintiff_type": [],
+    "prevailing_party": "Plaintiff",
+    "pro_se_status": "No",
+    "public_interest_lawyer": "Unknown",
+    "related_cases": [],
+    "relief_natures": [
+      "Damages"
+    ],
+    "relief_nature_other": "",
+    "relief_sources": [
+      "Litigation"
+    ],
+    "settlement_agreement": [],
+    "settlement_judgment_date": "1985-12-09",
+    "settlement_judgment_year": null,
+    "special_collections": [
+      "Strip Search Cases"
+    ],
+    "special_case_type": [],
+    "state": "Maryland",
+    "summary": "<p>This strip search case was brought in May 1984 by a pretrial detainee against Baltimore County police officers in the United States District Court for the District of Maryland. The plaintiff was an off-duty deputy sheriff who was arrested for disorderly conduct after police officers refused to release him when he identified himself as a fellow law enforcement officer. He had been drinking and tripped, knocking himself unconscious. When police officers found and revived him, he was lying on top of a .38 caliber revolver, and a briefcase that contained additional ammunition.  At the station, oficers handcuffed him, then strip searched him. Plaintiff sued, claiming, among other things, false imprisonment, false arrest, and an unconstitutional strip search. </p><p>On December 9, 1885, the Court (Judge Herbert F. Murray) granted summary judgment on various of plaintiff's claims as to various defendants and the remainder, including the strip search claim, went to a jury trial. The jury found in plaintiff's favor on the strip search claim, and awarded $2000 in compensatory damages and $5000 in punitive damages against the individual officers. Defendants moved for judgment notwithstanding the verdict, and the Court denied the motion, as the question of reasonableness of the search was for the jury.</p><p>The Court of Appeals for the Fourth Circuit (among other issues) upheld the District Court's decision as to whether the reasonableness of the search was for the jury and upheld the verdict.  Abshire v. Walls, 830 F.2d 1277 (4th Cir. 1987)</p><p></p>",
+    "summary_published_date": "2012-04-17T00:00:00-04:00",
+    "summary_short": "",
+    "summary_tiny": null,
+    "terminating_date": "1987-10-02",
+    "clearinghouse_link": "clearinghouse.net/case/10004",
+    "is_active": true,
+    "case_documents_url": "https://clearinghouse.net/api/v2/documents/?case=10004",
+    "case_dockets_url": "https://clearinghouse.net/api/v2/dockets/?case=10004",
+    "case_resources_url": "https://clearinghouse.net/api/v2/resources/?case=10004"
+  },
+  "documents": [
+    {
+      "date": null,
+      "date_is_estimate": false,
+      "date_not_available": false,
+      "description": null,
+      "document_source": null,
+      "document_status": "Empty/Missing Document",
+      "document_type": null,
+      "order_type": null,
+      "citation_paren": null,
+      "cite_1_page": null,
+      "cite_1_reporter": null,
+      "cite_1_vol": null,
+      "cite_2_page": null,
+      "cite_2_reporter": null,
+      "cite_2_vol": null,
+      "cite_3_page": null,
+      "cite_3_reporter": null,
+      "cite_3_vol": null,
+      "citation_status": null,
+      "court": null,
+      "no_title": false,
+      "party_types": [],
+      "per_curium": false,
+      "is_core_document": true,
+      "id": 24730,
+      "file": null,
+      "title": "",
+      "text": null,
+      "document_type_other": null,
+      "external_url": null,
+      "ecf_number": null,
+      "clearinghouse_link": "clearinghouse.net/doc/24730"
+    },
+    {
+      "date": "1987-10-02",
+      "date_is_estimate": false,
+      "date_not_available": false,
+      "description": null,
+      "document_source": "Google Scholar",
+      "document_status": "Coding Complete",
+      "document_type": "Order/Opinion",
+      "order_type": "Non-Decree",
+      "citation_paren": null,
+      "cite_1_page": 1277,
+      "cite_1_reporter": "F.2d",
+      "cite_1_vol": 830,
+      "cite_2_page": null,
+      "cite_2_reporter": null,
+      "cite_2_vol": null,
+      "cite_3_page": null,
+      "cite_3_reporter": null,
+      "cite_3_vol": null,
+      "citation_status": "Official citation found/coded",
+      "court": "U.S. Court of Appeals for the Fourth Circuit",
+      "no_title": false,
+      "party_types": [
+        "Court"
+      ],
+      "per_curium": false,
+      "is_core_document": true,
+      "id": 54123,
+      "file": "https://clearinghouse-umich-production.s3.amazonaws.com/media/doc/54123.pdf",
+      "title": "[Appellate Decision]",
+      "text": "830 F.2d 1277 (1987)\nThomas D. ABSHIRE, Plaintiff-Appellee,\nv.\nStanley I. WALLS, Individually and as a Police Officer; Harold B. Queen, Individually and\nas a Police Officer; Ronald C. Joynes, Individually and as a Police Officer; Barry C.\nBarber, Individually and as a Police Officer; Carolyn Cook, Individually and as a Police\nOfficer; John Krach, Individually and as a Police Officer; Cornelius J. Behan, Individually\nand as Chief of Police; Baltimore County Police Department, Agency of Baltimore County;\nBaltimore County, a Body Politic of the State of Maryland, Defendants-Appellants.\nThomas D. ABSHIRE, Plaintiff-Appellant,\nv.\nStanley I. WALLS, Individually and as a Police Officer; Harold B. Queen, Individually and\nas a Police Officer; Ronald C. Joynes, Individually and as a Police Officer; Barry C.\nBarber, Individually and as a Police Officer; Carolyn Cook, Individually and as a Police\nOfficer; John Krach, Individually and as a Police Officer; Cornelius J. Behan, Individually\nand as Chief of Police; Baltimore County Police Department, Agency of Baltimore County;\nBaltimore County, a Body Politic of the State of Maryland, Defendants-Appellees.\nNos. 86-7700, 86-7701.\nUnited States Court of Appeals, Fourth Circuit.\nArgued July 31, 1987.\nDecided October 2, 1987.\n1278 *1278 John A. Austin, Asst. Co. Atty., Towson, Md., (Malcolm F. Spicer, Jr., Co. Atty., Baltimore, Md., on brief), for\nplaintiff-appellant.\nLeslie L. Gladstone, Baltimore, Md., for defendants-appellees.\nBefore WINTER, Chief Judge, and MURNAGHAN and SPROUSE, Circuit Judges.\nSPROUSE, Circuit Judge:\nStanley I. Walls, Harold B. Queen, and John Krach 00 police officers in Baltimore County, Maryland 00 appeal from\n97 97\nthe district court's order denying their request for judgment notwithstanding the verdict in Thomas D. Abshire's 42\nU.S.C. § 1983 action against them. The jury had awarded Abshire $7,000 after it found that Walls, Queen and\nKrach had participated in an unreasonable strip search of Abshire following his arrest for disorderly conduct on\nAugust 3, 1982. The police officers also contend on appeal that the district court made a number of other errors\nduring the course of this litigation, i.e., evidentiary rulings, jury instructions, and the timing of its grant of summary\njudgment. Abshire cross-appeals from the district court's grant of summary judgment in favor of other defendants\nand from the district court's limited award of attorneys' fees. We affirm all of the district court's rulings except its\nlimited award of attorneys' fees.\nI.\nThe testimony at trial revealed the following sequence of events. Abshire, a deputy sheriff for the City of\nBaltimore, Maryland, spent the evening of August 2, 1982, drinking and conversing with friends in a number of\ndifferent establishments. In the early morning hours of August 3, he took a taxicab to his fiancee's residence in\nthe Towson area of Baltimore County. He got out of the cab about a block from his fiancee's home and began\nwalking toward her house. As he crossed the street, Abshire tripped on the curb and fell backwards, striking his\n\nhead on the pavement and knocking himself unconscious. An anonymous caller notified the police of Abshire's\npredicament. Officers Walls and Queen responded to the call at approximately 6:20 a.m. and discovered Abshire\nstill lying in the street unconscious. As the officers helped him to his feet, Queen observed a .38 caliber revolver\non the ground underneath the spot where Abshire had lain. Queen secured the weapon and asked Abshire why\nhe was carrying a gun. Abshire identified himself as a deputy sheriff and produced his badge and other identifying\ninformation. The officers continued to question him about the gun, as well as the contents of his briefcase and\n[1]\nwhy he was in the neighborhood.  After ten to fifteen minutes of questioning, Abshire attempted to leave the\nscene and go to his fiancee's house, but the officers detained him and continued their questioning. Later, a\nsecond police car driven by Officer Barber arrived at the scene and, after a brief conference, Abshire was\narrested for disorderly conduct and taken to Towson Precinct # 6 of the Baltimore County Police Department.\n1279 At the police station, Abshire was processed[2] and then handcuffed to a railing. *1279 He testified that he made\nnumerous requests to use the telephone, all of which were denied. He also testified that after one such request\nOfficer Krach approached him and told him to \"be quiet or I will have you unhandcuffed and have the boys have a\ngo around with you around back.\" After Abshire responded indignantly, Krach said \"let's strip search him.\" Abshire\nwas then unhandcuffed and escorted to a utility room, where he was forced to disrobe and subject himself to a\nstrip search by Officers Walls and Queen. Abshire testified that a number of other officers were also present in\nthe room and observed the search. After the search, Abshire was placed in a cell until he was released on his\n[3]\nown recognizance following a bail hearing later that day.\nAbshire filed this § 1983 action in federal court in May 1984. Count One of his amended complaint alleged false\narrest and named Officers Walls and Queen as defendants. Count Two alleged false imprisonment and named\nOfficers Walls, Queen and Joynes (the desk sergeant at the precinct) as defendants. In Count Three, Abshire\nalleged that Officers Walls, Queen and Barber were liable for malicious prosecution. In Count Four, Abshire\nalleged a § 1983 violation, i.e., an unconstitutional strip search. Named as defendants were Officers Walls,\n[4]\nQueen, Joynes, Krach, Cook  and Barber; Cornelius J. Behan, the Chief of Police of Baltimore County; the\nBaltimore County Police Department; and Baltimore County. Finally, in Count Five, Abshire alleged that Officers\nWalls, Queen, Joynes, Krach, Cook and Barber had violated 42 U.S.C. § 1985 by conspiring to deprive him of his\nconstitutional rights.\nOn December 9, 1985, the district court granted summary judgment in favor of Officer Joynes on Counts Two and\nFour, and in favor of Officer Cook, Chief of Police Behan, the Baltimore County Police Department, and Baltimore\nCounty on Count Four. The remainder of the case proceeded to trial. After the close of Abshire's case-in-chief,\nthe court directed a verdict on Count Five (the § 1985 claim) in favor of each defendant. The court submitted the\nremaining counts to the jury, which found in favor of each of the defendants on Counts One, Two and Three and\nin favor of Officer Barber on Count Four. The jury, however, found in favor of Abshire on Count Four (his strip\nsearch claim) against Officers Walls, Queen and Krach. It awarded him compensatory damages of $500 against\nboth Walls and Queen and $1,000 against Krach. The jury also awarded Abshire punitive damages of $1,250\nagainst both Walls and Queen and $2,500 against Krach.\nAfter trial, Walls, Queen and Krach moved for a judgment notwithstanding the verdict on the strip search claim,\ncontending that the search of Abshire was reasonable as a matter of law and that this issue should never have\nbeen submitted to the jury. The district court denied the motion, ruling that the reasonableness of the search was\na question for the jury. Abshire moved for an award of attorneys' fees and costs under 42 U.S.C. § 1988. He\nrequested $17,366.25 in fees and $482.55 in costs for his legal counsel, Leslie Gladstone. Relying on the\nSupreme Court's decision in Hensley v. Eckerhart, 461 U.S. 424, 103 S.Ct. 1933, 76 L.Ed.2d 40 (1983), the\ndistrict court awarded Abshire only one-fourth of the requested amount.\nThis appeal and cross-appeal follow.\nII. The Officers' Appeal\n\na. The District Court's Denial of the Officers' Motion For J.N.O.V. on\nAbshire's § 1983 Claim\nThe standard in this circuit for judging the constitutionality of a strip search of a pre-trial detainee is firmly\nestablished. In Logan v. Shealy, 660 F.2d 1007 (4th Cir.1981),cert. denied,455 U.S. 942, 102 S.Ct. 1435, 71\nL.Ed.2d 653 (1982), we stated that\nStrip searches of detainees are constitutionally constrained by due process requirements of\n1280 reasonableness under the *1280 circumstances. \"In each case it requires a balancing of the need\nfor the particular search against the invasion of personal rights that the search entails. Courts\nmust consider the scope of the particular intrusion, the manner in which it is conducted, the\njustification for initiating it, and the place in which it is conducted.\"\nId. at 1013 (quoting Bell v. Wolfish, 441 U.S. 520, 559, 99 S.Ct. 1861, 1884, 60 L.Ed.2d 447 (1979)). On appeal,\nthe officers contend that the evidence clearly established that the \"need for the ... search\" outweighed \"the\ninvasion of personal rights.\" They argue that the search was therefore reasonable as a matter of law and the\ndistrict court erred in denying their motions for directed verdict and judgment notwithstanding the verdict. We\ndisagree.\nIn support of their position, the officers point to the following evidence. First, Baltimore County's strip search\npolicy provided that \"[a]rrestees shall not be subject to a strip search unless specific factors are present which\nestablish [a] reasonable belief that the search will uncover or recover a weapon or a controlled substance.\"\nOfficer Krach, who authorized the search of Abshire, testified that he had a \"reasonable belief that the search\n[would] uncover or recover a weapon or a controlled substance\" because\nnumber one, he was intoxicated, and there was no way to tell what he was intoxicated from or\nwhat combination of things he was intoxicated from [and,] [n]umber two, he was carrying a service\nrevolver with one spent cartridge and one empty round and he was also carrying additional\nammunition.\nSecond, the officers contend that the evidence established that the search was no more intrusive than necessary\nto determine if Abshire carried \"a controlled substance or a weapon.\" Finally, Officer Walls testified that he and\nanother officer conducted the search in a utility room and, although the lock on the door was open and the door\nslightly ajar, the open door faced only the end of an empty hallway.\nIn contrast, Abshire contends that the invasion of his personal rights far outweighed any legitimate need for the\nsearch. He maintains that the police lacked a reasonable belief that the search would uncover a weapon because\nhis revolver and ammunition had already been confiscated. Moreover, a less intrusive pat-down search was\nnever conducted, nor was any evidence introduced as to why a more limited search was not feasible. Finally,\nAbshire testified that the strip search was conducted in front of six to eight police officers 00 five who were in the\n97\nroom with him and several others, including a female officer, who witnessed the search while standing in the\nadjacent hallway.\nConsidering the evidence in the light most favorable to Abshire, see Wilhelm v. Blue Bell, Inc., 773 F.2d 1429,\n1433 (4th Cir.1985),cert. denied,475 U.S. 1016, 106 S.Ct. 1199, 89 L.Ed.2d 313 (1986), the circumstances\nsurrounding the search convincingly reinforces the decision of the trial court that the reasonableness of the\nsearch was a jury question.\nb. The District Court's Evidentiary Rulings\nAbshire moved in limine to exclude any documentary or testimonial evidence concerning his prior criminal record.\nRelying on Federal Rule of Evidence 609, the district court granted the motion and refused to permit any inquiry\ninto Abshire's prior convictions. The police officers then proffered that they would have shown that Abshire: (1)\n\nwas sentenced to one year in jail in 1968 for receiving stolen property; (2) received a probation before verdict on\na disorderly conduct charge in June 1970; (3) was given a six-month suspended sentence and one-year\nprobation in October 1970 for bypassing an electric meter; (4) was charged with two counts of failing to appear in\nhousing court in October 1978, for which he paid an undisclosed amount in fines; and (5) was charged with\ncontempt of court in March 1979 for failing to appear as required, for which he paid a fifteen dollar fine. Following\nthe officers' proffer, the district court reaffirmed its decision.\n1281 *1281 On appeal, the police officers contend that the trial court erred in relying on Rule 609 to exclude evidence\nin this civil proceeding because Rule 609 applies only in a criminal setting. See, e.g., Moore v. Volkswagenwerk,\nA.G., 575 F.Supp. 919 (D.Md.1983). The district court reasoned that Abshire's prior convictions should be\nexcluded because their prejudicial effect outweighed their probative value. This reasoning, however, is also\npertinent to excluding evidence under Rule 403, which provides:\nAlthough relevant, evidence may be excluded if its probative value is substantially outweighed by\nthe danger of unfair prejudice, confusion of the issues, of misleading the jury, or by considerations\nof undue delay, waste of time, or a needless presentation of cumulative evidence.\nFed.R.Evid. 403. We, therefore, need not resolve Rule 609's applicability in a civil proceeding if Abshire's prior\ncriminal record would be properly excluded under Rule 403.\nThe officers nevertheless contend that, even if the trial court's action is analyzed under Rule 403, the court still\nabused its discretion in refusing to admit evidence of Abshire's prior criminal record because the danger of unfair\nprejudice did not substantially outweigh its probative value. They urge that Abshire had attempted to bolster his\ncredibility by relying on his status as a law enforcement officer. The officers argue that they consequently had the\nright to introduce Abshire's prior convictions to impeach his credibility. We disagree.\nThe unfair prejudice accompanying the admission of the latter four incidents proffered by the officers may well\nhave substantially outweighed their probative value so that the trial court did not abuse its discretion in excluding\nthe evidence. Since these events either occurred long ago or involved minor violations not involving dishonesty\n(or both), their probative worth is almost nil on the question of whether the jury should have believed Abshire's\ntestimony. The record also amply supports the district court's ruling that the probative value associated with\nAbshire's 1968 conviction for receiving stolen property is substantially outweighed by the danger of unfair\nprejudice. The conviction was more than ten years old and, moreover, a conviction for receiving stolen property is\nnot highly probative of credibility. See United States v. Glenn, 667 F.2d 1269, 1273 (9th Cir.1982) (theft crimes\ngenerally do not involve \"dishonesty or false statement.\")\nThe officers also contend that the district court erred by refusing to allow them to cross-examine Abshire as to\nwhether he had been strip searched on any previous occasion. They reasoned that they should have been\nallowed to pursue this line of questioning in an attempt to counteract Abshire's testimony complaining of the\nhumiliating effect of the strip search. Although the district court did not ground his ruling on any particular rule of\nevidence, we conclude that this evidence was also properly excluded under Rule 403.\nThe officers further contend that the court erred in instructing the jury on the \"good faith\" defense, see Wood v.\nStrickland, 420 U.S. 308, 95 S.Ct. 992, 43 L.Ed.2d 214 (1975), and in delaying its summary judgment ruling until\nthe eve of trial. Our review of the record, however, convinces us that neither contention is of sufficient merit to\nwarrant discussion.\nIII. Abshire's Cross-Appeal\na. The District Court's Grant of Summary Judgment in Favor of\nCertain Defendants\nPrior to trial, the district court granted summary judgment on Abshire's § 1983 claim in favor of Officer Joynes,\nChief of Police Behan and Baltimore County. In his cross-appeal, Abshire contends that the court erred in\n\ngranting summary judgment to Officer Joynes because a genuine issue of material fact existed over his\nparticipation in the strip search. Abshire contends the court erred in granting summary judgment to Chief Behan\nand the County because they failed to take steps to ensure that the County's strip search policy was being\nenforced properly. We disagree with both contentions.\n1282 Officer Joynes was the desk officer at the police station. His duties included fingerprinting *1282 and\nphotographing arrestees, as well as performing other administrative tasks. At most, the pretrial evidence revealed\nthat he had helped escort Abshire to the utility room and then remained in the room during the search. There was\nno evidence, however, indicating that he had participated in the search and the district court acted correctly in\ngranting summary judgment in his favor.\nIt is undisputed that the strip search policy promulgated by Chief Behan satisfied constitutional standards.\nNonetheless, Abshire contends that by failing to oversee the policy through periodic inspections, Chief Behan\n\"closed his eyes\" to any policy violations and is thus liable for the misconduct of his subordinates. This position,\nhowever, is at odds with our decision in Fisher v. Washington Metropolitan Area Transit Authority, 690 F.2d 1133,\n1142-43 (4th Cir.1982). In Fisher, we held that a sheriff could not be vicariously liable under § 1983 for the acts of\nhis subordinates, nor could he \"be held liable on the basis of a failure adequately to supervise or control any\nconduct that directly caused the specific deprivation charged.\" Id. at 1143. Since Abshire's complaint alleged only\nthat Chief Behan failed to adequately supervise the County's strip search policy, the district court acted properly\nin granting summary judgment to Chief Behan. The court's grant of summary judgment in favor of Baltimore\nCounty was likewise correct. Monell v. Department of Social Services of the City of New York, 436 U.S. 658,\n692-94, 98 S.Ct. 2018, 2036-38, 56 L.Ed.2d 611 (1978).\nb. Attorneys' Fees\nThe district court found that Abshire, as a prevailing party, was entitled to a reasonable award of attorneys' fees\nand costs pursuant to 42 U.S.C. § 1988. Abshire requested $17,366.25 in fees and $482.55 in costs for his legal\ncounsel, Leslie Gladstone. The court determined, however, that Abshire's successful strip search claim was\nunrelated to his unsuccessful claims for false arrest, false imprisonment and malicious prosecution. Relying on\nthe Supreme Court's decision in Hensley v. Eckerhart, 461 U.S. 424, 103 S.Ct. 1933, 76 L.Ed.2d 40 (1983), in\nwhich the Court held that no fees should be awarded for time spent on unsuccessful claims that were unrelated\nto successful ones, the district court ruled that Abshire should not be compensated for the time Gladstone spent\npursuing the false arrest, false imprisonment and malicious prosecution claims. Moreover, because the court was\nunable to identify exactly how much time was spent on each claim, it reduced Gladstone's total hours by seventy-\nfive percent. Using the same reasoning, it also reduced Abshire's requested costs by seventy-five percent. After\nfurther calculations not relevant to this appeal, the court determined that it was reasonable to award Abshire\n$4,132.75 in attorneys' fees and $120.67 in costs for the time expended pursuing his successful strip search\nclaim.\nOn appeal, Abshire contends that the district court misinterpreted the Supreme Court's ruling in Hensley. We\nagree. In Hensley, the Court reaffirmed that the award of attorneys' fees is within the discretion of the district\ncourt. Hensley, 461 U.S. at 437, 103 S.Ct. at 1941. The Court also observed, however, that this discretion \"must\nbe exercised in light of the considerations we have identified.\" Id. One of the considerations identified by the\nCourt was the relationship between successful and unsuccessful claims. For example, in cases where the plaintiff\npresents claims for relief that are based on different facts and legal theories, the court held that he should not be\ncompensated for the time expended pursuing claims that ultimately proved unsuccessful. Id. at 435, 103 S.Ct. at\n1940. On the other hand, \"the plaintiff's claims for relief [may] involve a common core of facts or ... be based on\nrelated legal theories.\" Id. Under these circumstances, the court stated that\n\"[m]uch of the counsel's time will be devoted generally to the litigation as a whole, making it\ndifficult to divide the hours expended on a claim-by-claim basis. Such a lawsuit cannot be viewed\n1283 as a series of discrete claims. Instead, the district court should focus on the significance *1283 of\nthe overall relief obtained by the plaintiff in relation to the hours reasonably expended in the\nlitigation.\"\n\nId. at 435, 103 S.Ct. at 1940.\nIn this case, Abshire's claims were based on different legal theories, but they all arose from a \"common core of\nfacts.\" The facts surrounding Abshire's strip search were inextricably intertwined with the facts surrounding his\ninitial confrontation with the police, his arrest and later imprisonment. In our view, it is impossible to isolate the\ninquiry into the constitutionality of the strip search from the other facts. Abshire's attorney could not have\npresented the constitutional aspects of this case without developing and presenting the facts surrounding the\nentire sequence of events that transpired on the morning of August 3. The district court thus erred in concluding\nthat Abshire's claims for false arrest, false imprisonment, and malicious prosecution were unrelated to his strip\nsearch claim. The court's award of attorneys' fees must therefore be vacated and this portion of the case\nremanded for a recalculation of the amount of attorneys' fees owed Abshire based on the views that we have\n[5]\nexpressed.\nIV.\nTo reiterate, we affirm the district court's denial of the officers' motion for judgment notwithstanding the verdict on\nAbshire's strip search claim. We also affirm the court's contested evidentiary rulings. Finally, we affirm the court's\ngrant of summary judgment on Abshire's strip search claim in favor of Officer Joynes, Chief of Police Behan and\nBaltimore County. However, we reverse the district court's limited award of attorneys' fees and remand for further\nproceedings consistent with this opinion.\nAFFIRMED IN PART, REVERSED AND REMANDED IN PART.\n[1] When he fell, Abshire's briefcase had opened and some of its contents were scattered on the street. In his\nbriefcase, Abshire carried numerous items of personal jewelry, an extra holster and ammunition for his revolver.\nIn addition, in one of his pockets he carried approximately $1700 in cash.\n[2] While he was being processed, Abshire's revolver was checked and found to contain one empty chamber and\none chamber with an empty shell casing.\n[3] On September 2, 1982, Abshire was acquitted on the disorderly conduct charge.\n[4] Cook was a female officer who allegedly witnessed Abshire's strip search.\n[5] On appeal, Abshire also contends that the district court erred in denying his request for $3,348.75 in fees and\n$930.71 in costs for two other attorneys who represented him in a previous state court action against the officers.\nWe find no merit to this contention.\nSave trees - read court opinions online on Google Scholar.",
+      "document_type_other": null,
+      "external_url": "",
+      "ecf_number": null,
+      "clearinghouse_link": "clearinghouse.net/doc/54123"
+    },
+    {
+      "date": null,
+      "date_is_estimate": false,
+      "date_not_available": false,
+      "description": null,
+      "document_source": null,
+      "document_status": null,
+      "document_type": null,
+      "order_type": null,
+      "citation_paren": null,
+      "cite_1_page": null,
+      "cite_1_reporter": null,
+      "cite_1_vol": null,
+      "cite_2_page": null,
+      "cite_2_reporter": null,
+      "cite_2_vol": null,
+      "cite_3_page": null,
+      "cite_3_reporter": null,
+      "cite_3_vol": null,
+      "citation_status": null,
+      "court": null,
+      "no_title": false,
+      "party_types": [],
+      "per_curium": false,
+      "is_core_document": true,
+      "id": 121120,
+      "file": null,
+      "title": null,
+      "text": null,
+      "document_type_other": null,
+      "external_url": null,
+      "ecf_number": null,
+      "clearinghouse_link": "clearinghouse.net/doc/121120"
+    }
+  ],
+  "document_count": 3
+}

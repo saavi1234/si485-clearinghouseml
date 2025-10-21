@@ -1,0 +1,191 @@
+{
+  "case_id": 10032,
+  "fetched_at": "2025-10-20T22:38:47.395122",
+  "case_data": {
+    "attorney_orgs": [],
+    "available_documents": [
+      "Any published opinion"
+    ],
+    "case_defendants": [
+      {
+        "defendant_level": null,
+        "institution": "",
+        "institution_alt_state": null,
+        "institution_city": "",
+        "institution_county": "Arlington",
+        "name": "Arlington County Sheriff's Office",
+        "defendant_level_other": "",
+        "is_active": true
+      }
+    ],
+    "case_ongoing": "No",
+    "case_status": "Coding Complete",
+    "case_types": [
+      "Jail Conditions"
+    ],
+    "cause_other": "",
+    "causes": [
+      "42 U.S.C. § 1983"
+    ],
+    "class_action_granted": "Denied",
+    "class_action_sought": "Yes",
+    "closing_year": 1982,
+    "constitutional_clause": [
+      {
+        "value": "Unreasonable search and seizure"
+      }
+    ],
+    "content_of_injunction": [],
+    "court": "Eastern District of Virginia",
+    "custom_issues": [],
+    "defendant_payment": "",
+    "defendant_type": [],
+    "docket_status": "None",
+    "facility_type": [
+      {
+        "value": "Government-run"
+      }
+    ],
+    "filing_date": "1980-11-12",
+    "filing_year": 1980,
+    "id": 10032,
+    "injunction_duration": "",
+    "issues": [
+      "General/Misc.: Search policies",
+      "Jails, Prisons, Detention Centers, and Other Institutions: Strip search policy (facilities)",
+      "Affected Sex/Gender(s): Male",
+      "Affected Sex/Gender(s): Female",
+      "Policing: Strip search policy (policing)"
+    ],
+    "last_checked_date": "2008-02-12T00:00:00-05:00",
+    "main_docket": {
+      "id": 33047,
+      "docket_entries": [],
+      "docket_case_type": null,
+      "docket_year": 1980,
+      "docket_filing_number": 1086,
+      "is_main_docket": true,
+      "court": "Eastern District of Virginia",
+      "state": "Virginia",
+      "docket_office_number": "1",
+      "docket_number_manual": "80-1086-A",
+      "scales_html": null,
+      "recap_link": null,
+      "is_active": true
+    },
+    "name": "DeMier v. Gondles",
+    "never_filed": false,
+    "non_docket_case_number": "",
+    "non_docket_case_number_type": null,
+    "non_docket_case_number_type_other": "",
+    "order_end_year": 0,
+    "order_start_year": 1982,
+    "permanent_injunction": false,
+    "plaintiff_description": "All detainees brought to the Arlington County Detention Center who were strip-searched without reasonable cause until Virginia enacted a law that dramatically curtailed conditions where strip-searches are permitted.",
+    "plaintiff_type": [
+      {
+        "value": "Private Plaintiff"
+      }
+    ],
+    "prevailing_party": "Plaintiff",
+    "pro_se_status": "No",
+    "public_interest_lawyer": "Unknown",
+    "related_cases": [],
+    "relief_natures": [],
+    "relief_nature_other": "attorneys' fees",
+    "relief_sources": [
+      "Litigation"
+    ],
+    "settlement_agreement": [],
+    "settlement_judgment_date": null,
+    "settlement_judgment_year": null,
+    "special_collections": [
+      "Strip Search Cases"
+    ],
+    "special_case_type": [],
+    "state": "Virginia",
+    "summary": "<p>On November 12, 1980, two arrestees filed a 42 U.S.C. § 1983 class action lawsuit in the U.S. District Court for the Eastern District of Virginia in order to challenge the strip search policy of the Arlington County Sheriff's Office.  The two named plaintiffs had been arrested for petty crimes, one for playing a stereo too loudly, the other for allegedly writing obscene words on a traffic ticket.  Following their arrests, each was strip-searched pursuant to the Sheriff's Office policy of conducting strip searches of all detainees brought to the Arlington County Detention Center, regardless of the severity of the alleged offense or the anticipated duration of detention.  Plaintiffs alleged that the searches violated their constitutional rights and requested compensatory and injunctive relief, as well as class certification.</p><p>On December 31, 1980, the Sheriff's Office announced that it was temporarily stopping its blanket strip search policy.   Subsequently, in April 1981, the Virginia General Assembly passed a law which severely restricted the circumstances under which strip searches would be permitted.</p><p>Plaintiffs then moved to voluntarily dismiss their case, citing that their objective, of ending the unconstitutional strip-search practice, had been achieved.  They moved for and were awarded attorneys' fees in the amount of $ 16,368.07 by District Judge Albert V. Bryan, Jr.  The Arlington County Sheriff appealed the District Court's award of attorneys' fees, but the Fourth Circuit Court of Appeals affirmed the award.  DeMier v. Gondles, 676 F.2d 92 (4th Cir. 1982).</p><p></p>",
+    "summary_published_date": "2008-02-12T00:00:00-05:00",
+    "summary_short": null,
+    "summary_tiny": null,
+    "terminating_date": null,
+    "clearinghouse_link": "clearinghouse.net/case/10032",
+    "is_active": true,
+    "case_documents_url": "https://clearinghouse.net/api/v2/documents/?case=10032",
+    "case_dockets_url": "https://clearinghouse.net/api/v2/dockets/?case=10032",
+    "case_resources_url": "https://clearinghouse.net/api/v2/resources/?case=10032"
+  },
+  "documents": [
+    {
+      "date": "1982-01-28",
+      "date_is_estimate": false,
+      "date_not_available": false,
+      "description": null,
+      "document_source": "Google Scholar",
+      "document_status": "Coding Complete",
+      "document_type": "Order/Opinion",
+      "order_type": "Unknown",
+      "citation_paren": null,
+      "cite_1_page": 92,
+      "cite_1_reporter": "F.2d",
+      "cite_1_vol": 676,
+      "cite_2_page": null,
+      "cite_2_reporter": null,
+      "cite_2_vol": null,
+      "cite_3_page": 22252,
+      "cite_3_reporter": "U.S.App.LEXIS",
+      "cite_3_vol": 1982,
+      "citation_status": "Official citation found/coded",
+      "court": "U.S. Court of Appeals for the Fourth Circuit",
+      "no_title": false,
+      "party_types": [
+        "Court"
+      ],
+      "per_curium": false,
+      "is_core_document": true,
+      "id": 54317,
+      "file": "https://clearinghouse-umich-production.s3.amazonaws.com/media/doc/54317.pdf",
+      "title": "Opinion",
+      "text": "676 F.2d 92 (1982)\nLaurie DeMIER, Mark Weitzel, On their own behalf and on behalf of a class of similarly\nsituated individuals, Appellees,\nv.\nJames GONDLES, Sheriff of Arlington County, Appellant.\nNo. 81-1620.\nUnited States Court of Appeals, Fourth Circuit.\nArgued January 4, 1982.\nDecided January 28, 1982.\nClaude M. Hilton, Arlington, Va., for appellant.\nLeonard S. Rubenstein, Alexandria, Va., and Richard Crouch, Arlington, Va., for appellees.\n[*]\nBefore WINTER, Chief Judge, BUTZNER, Circuit Judge, and INGRAHAM, Senior Circuit Judge.\nINGRAHAM, Senior Circuit Judge.\nOn November 12, 1980, appellees filed this class action under 42 U.S.C. § 1983 challenging the strip search\npolicy of the Arlington County Sheriff's Office. Under that policy the Sheriff's Office conducted strip searches of all\ndetainees brought to the Arlington County Detention Center regardless of the severity of the alleged offense or\n93 the anticipated duration of detention. Appellee DeMier was arrested for *93 allegedly violating a local ordinance\nby playing a stereo too loudly; appellee Weitzel was arrested for allegedly writing obscene words on a traffic\nticket. Although low bail was set and appellees were awaiting immediate assistance in posting bail, both were\nsubjected to strip searches and placed in holding cells apart from the general jail population. Appellees sought\ncompensatory and injunctive relief.\nOn December 31, 1980, the Sheriff's Office announced a temporary cessation of the blanket strip search policy.\nOn April 1, 1981, the Virginia General Assembly enacted Va.Code § 19.2-59.1 which severely curtails the\ncircumstances in which strip searches are permitted. Thereafter, on April 24, appellees moved for voluntary\ndismissal under Fed.R.Civ.P. 41(a)(1), contending that the object of the suit had been achieved, and for an award\nof attorney fees under 42 U.S.C. § 1988. The district court granted appellees' motion and awarded fees of\n$16,368.07.\nSection 1988 permits the district court to award attorney's fees to the \"prevailing party.\" It is well established that\na party need not obtain a final judgment in order to \"prevail\" for purposes of the statute; a settlement, consent\ndecree, or other resolution of the underlying dispute short of formal adjudication may still support an award of\nfees. Maher v. Gagne, 448 U.S. 122, 129, 100 S.Ct. 2570, 65 L.Ed.2d 653 (1980); Young v. Kenley, 641 F.2d 192\n(4th Cir. 1981); Bonnes v. Long, 599 F.2d 1316 (4th Cir. 1979),after remand, 651 F.2d 214 (4th Cir. 1981). In\nparticular, it may be sufficient to show that \"a plaintiff's actions were a catalyst which caused a defendant to\nremedy his errant ways.\" Smith v. University of North Carolina, 632 F.2d 316, 347 (4th Cir. 1980) (cites omitted).\nIn Bonnes, we provided the following guidelines for determining whether a party has prevailed when the party\nrealizes some of the benefit sought in a manner short of a final judgment. First, the court must focus on the\ncondition that the fee claimant sought to change so as to gain a benefit or be relieved of a burden. With this\ncondition as a benchmark, the inquiry then becomes \"whether, as a quite practical matter the outcome, in\nwhatever form it is realized, is one to which the plaintiff fee claimant's efforts contributed in a significant way, and\nwhich does involve an actual conferral of benefit or relief from burden when measured against the benchmark\ncondition.\" 599 F.2d at 1319. The court below followed these guidelines precisely. It found that the benchmark\ncondition was the strip search policy; that this condition was changed by the temporary policy change announced\nin December 1980, which showed every indication of remaining permanent as of April 1981, particularly in light of\n\nthe new legislation; that this change represented conferral of a significant benefit on the appellees and the class\nthey purported to represent; and, most importantly, that \"the pendency of this suit made a significant contribution\nto changing the Sheriff's policy....\"\nThese findings, far from being clearly erroneous, are entirely consistent with the record and must be upheld. As\nthe district court noted, at the time this suit was filed the strip search policy had recently survived challenge in a\nseparate suit and the Sheriff had resolutely declared his intention to maintain the policy. According to the\nnumerous exhibits of newspaper articles and editorials submitted by appellees, this suit caused considerable\npublicity, both locally and nationwide, and \"increased political pressure\" regarding the policy. The conclusion\nappears inescapable that even if other complaints contributed to the change in policy, this suit was a major\ncontribution. It is equally apparent that the appellees will enjoy a benefit from the change that substantially\nachieves the results sought by their complaint. Attorney's fees were properly awarded.\nAppellant lastly complains that the award improperly includes an amount representing efforts spent by appellees'\ncounsel in lobbying for passage of Va.Code § 19.2-59.1. The district court thoroughly analyzed the fee request in\n94 light of the twelve factors specified in Barber v. Kimbrell's*94Inc., 577 F.2d 216, 226 (4th Cir. 1978),cert. denied,\n439 U.S. 934, 99 S.Ct. 329, 58 L.Ed.2d 330 (1979), and specifically took into consideration the effect of time\nspent on the legislation. We perceive no abuse of discretion in the district court's calculations.\nThe district court may entertain a further petition by appellees' counsel for fees associated with this appeal.\nAFFIRMED.\n[*] Honorable Joe M. Ingraham, Senior United States Circuit Judge for the Fifth Circuit, sitting by designation.\nSave trees - read court opinions online on Google Scholar.",
+      "document_type_other": null,
+      "external_url": "",
+      "ecf_number": null,
+      "clearinghouse_link": "clearinghouse.net/doc/54317"
+    },
+    {
+      "date": null,
+      "date_is_estimate": false,
+      "date_not_available": false,
+      "description": null,
+      "document_source": null,
+      "document_status": null,
+      "document_type": null,
+      "order_type": null,
+      "citation_paren": null,
+      "cite_1_page": null,
+      "cite_1_reporter": null,
+      "cite_1_vol": null,
+      "cite_2_page": null,
+      "cite_2_reporter": null,
+      "cite_2_vol": null,
+      "cite_3_page": null,
+      "cite_3_reporter": null,
+      "cite_3_vol": null,
+      "citation_status": null,
+      "court": null,
+      "no_title": false,
+      "party_types": [],
+      "per_curium": false,
+      "is_core_document": true,
+      "id": 120859,
+      "file": null,
+      "title": null,
+      "text": null,
+      "document_type_other": null,
+      "external_url": null,
+      "ecf_number": null,
+      "clearinghouse_link": "clearinghouse.net/doc/120859"
+    }
+  ],
+  "document_count": 2
+}

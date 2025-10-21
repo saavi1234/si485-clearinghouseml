@@ -1,0 +1,795 @@
+{
+  "case_id": 15668,
+  "fetched_at": "2025-10-20T22:57:18.970581",
+  "case_data": {
+    "attorney_orgs": [
+      "ACLU Affiliates (any)"
+    ],
+    "available_documents": [
+      "Trial Court Docket",
+      "Complaint (any)",
+      "Any published opinion"
+    ],
+    "case_defendants": [
+      {
+        "defendant_level": null,
+        "institution": "",
+        "institution_alt_state": null,
+        "institution_city": "",
+        "institution_county": null,
+        "name": "Arizona Health Care Containment System",
+        "defendant_level_other": "",
+        "is_active": true
+      }
+    ],
+    "case_ongoing": "No",
+    "case_status": "Approved",
+    "case_types": [
+      "Healthcare Access and Reproductive Issues",
+      "Public Benefits/Government Services"
+    ],
+    "cause_other": "",
+    "causes": [
+      "42 U.S.C. § 1983",
+      "Medicaid, 42 U.S.C §1396 (Title XIX of the Social Security Act)"
+    ],
+    "class_action_granted": "Not sought",
+    "class_action_sought": "No",
+    "closing_year": 2016,
+    "constitutional_clause": [
+      {
+        "value": "Due Process"
+      },
+      {
+        "value": "Equal Protection"
+      }
+    ],
+    "content_of_injunction": [],
+    "court": "District of Arizona",
+    "custom_issues": [],
+    "defendant_payment": "",
+    "defendant_type": [
+      {
+        "value": "Hospital/Health Department"
+      }
+    ],
+    "docket_status": "Complete as of retrieval date",
+    "facility_type": [
+      {
+        "value": "Non-government non-profit"
+      }
+    ],
+    "filing_date": "2016-07-14",
+    "filing_year": 2016,
+    "id": 15668,
+    "injunction_duration": "",
+    "issues": [
+      "General/Misc., Reproductive rights, Environmental Justice and Resources: Funding",
+      "Benefits (Source): Medicaid",
+      "General/Misc.: Public benefits (includes, e.g., in-state tuition, govt. jobs)",
+      "Reproductive rights: Contraception",
+      "Reproductive rights: Abortion",
+      "Discrimination Area: Disparate Treatment",
+      "Reproductive rights: Reproductive health care (including birth control, abortion, and others)"
+    ],
+    "last_checked_date": "2024-01-05T00:00:00-05:00",
+    "main_docket": {
+      "id": 29114,
+      "docket_entries": [
+        {
+          "row_number": 15,
+          "id": 9182102,
+          "entry_number": "23",
+          "date_filed": "2023-05-19T00:00:00-04:00",
+          "attachments": [],
+          "url": "https://www.courtlistener.com/docket/6339926/23/planned-parenthood-arizona-incorporated-v-betlach/",
+          "recap_pdf_url": "https://www.courtlistener.com/recap/gov.uscourts.azd.990288/gov.uscourts.azd.990288.23.0.pdf",
+          "pacer_doc_id": "025026363453",
+          "description": "ORDER - IT IS ORDERED the Joint Stipulation of Non-Enforcement (Doc. 22 ) is GRANTED. (See document for complete details). Signed by Senior Judge Roslyn O Silver on 5/19/2023. (SLQ) (Entered: 05/19/2023)"
+        },
+        {
+          "row_number": 0,
+          "id": 8679670,
+          "entry_number": "1",
+          "date_filed": "2016-07-14T00:00:00-04:00",
+          "attachments": [
+            {
+              "recap_id": 25481926,
+              "pacer_url": "https://ecf.azd.uscourts.gov/doc1/025016128706?caseid=990288",
+              "description": "Exhibit",
+              "attachment_number": 1
+            },
+            {
+              "recap_id": 25481927,
+              "pacer_url": "https://ecf.azd.uscourts.gov/doc1/025016128707?caseid=990288",
+              "description": "Civil Cover Sheet",
+              "attachment_number": 2
+            }
+          ],
+          "url": "https://www.courtlistener.com/docket/6339926/1/planned-parenthood-arizona-incorporated-v-betlach/",
+          "recap_pdf_url": null,
+          "pacer_doc_id": "025016128705",
+          "description": "COMPLAINT. Filing fee received: $ 400.00, receipt number 0970-13175472 filed by Eric Reuss, Planned Parenthood Arizona Incorporated, DeShawn Taylor, Desert Star Family Planning LLC, Unknown Parties. (Submitted by Laura Robertson) (Attachments: # 1 Exhibit, # 2 Civil Cover Sheet)(LAD) (Entered: 07/14/2016)"
+        },
+        {
+          "row_number": 11,
+          "id": 8679671,
+          "entry_number": "2",
+          "date_filed": "2016-07-14T00:00:00-04:00",
+          "attachments": [],
+          "url": "https://www.courtlistener.com/docket/6339926/2/planned-parenthood-arizona-incorporated-v-betlach/",
+          "recap_pdf_url": null,
+          "pacer_doc_id": "025016128727",
+          "description": "SUMMONS Submitted by Desert Star Family Planning LLC, Planned Parenthood Arizona Incorporated, Eric Reuss, DeShawn Taylor, Unknown Parties. (Submitted by Laura Robertson) (LAD) (Entered: 07/14/2016)"
+        },
+        {
+          "row_number": 20,
+          "id": 8679673,
+          "entry_number": "4",
+          "date_filed": "2016-07-14T00:00:00-04:00",
+          "attachments": [],
+          "url": "https://www.courtlistener.com/docket/6339926/4/planned-parenthood-arizona-incorporated-v-betlach/",
+          "recap_pdf_url": null,
+          "pacer_doc_id": "025016128833",
+          "description": "Filing fee paid, receipt number 0970-13175472. This case has been assigned to the Honorable Roslyn O Silver. All future pleadings or documents should bear the correct case number: CV-16-02337-PHX-ROS. Notice of Availability of Magistrate Judge to Exercise Jurisdiction form attached. (LAD) (Entered: 07/14/2016)"
+        },
+        {
+          "row_number": 23,
+          "id": 8679676,
+          "entry_number": "7",
+          "date_filed": "2016-07-15T00:00:00-04:00",
+          "attachments": [],
+          "url": "https://www.courtlistener.com/docket/6339926/7/planned-parenthood-arizona-incorporated-v-betlach/",
+          "recap_pdf_url": null,
+          "pacer_doc_id": "025016130428",
+          "description": "MOTION for Admission Pro Hac Vice as to attorney Jennifer K Lee by Desert Star Family Planning LLC, Eric Reuss, DeShawn Taylor, Unknown Parties. (Lee, Jennifer) (Entered: 07/15/2016)"
+        },
+        {
+          "row_number": 25,
+          "id": 8679678,
+          "entry_number": "9",
+          "date_filed": "2016-07-18T00:00:00-04:00",
+          "attachments": [],
+          "url": "https://www.courtlistener.com/docket/6339926/9/planned-parenthood-arizona-incorporated-v-betlach/",
+          "recap_pdf_url": null,
+          "pacer_doc_id": "025016138142",
+          "description": "MOTION for Admission Pro Hac Vice as to attorney Diana Salgado by Planned Parenthood Arizona Incorporated. (Salgado, Diana) (Entered: 07/18/2016)"
+        },
+        {
+          "row_number": 28,
+          "id": 8679681,
+          "entry_number": null,
+          "date_filed": "2016-07-19T00:00:00-04:00",
+          "attachments": [],
+          "url": "https://www.courtlistener.com",
+          "recap_pdf_url": null,
+          "pacer_doc_id": null,
+          "description": "PRO HAC VICE FEE PAID. $ 35, receipt number PHX174147 as to Jennifer Lee. This is a TEXT ENTRY ONLY. There is no PDF document associated with this entry. (BAS)"
+        },
+        {
+          "row_number": 2,
+          "id": 8679683,
+          "entry_number": "11",
+          "date_filed": "2016-07-20T00:00:00-04:00",
+          "attachments": [],
+          "url": "https://www.courtlistener.com/docket/6339926/11/planned-parenthood-arizona-incorporated-v-betlach/",
+          "recap_pdf_url": null,
+          "pacer_doc_id": "025016152963",
+          "description": "SERVICE EXECUTED filed by Desert Star Family Planning LLC, Planned Parenthood Arizona Incorporated, Eric Reuss, DeShawn Taylor, Unknown Parties, Unknown Party: Acceptance of Service re: Complaint, Summons, Plaintiffs' Corporate Disclosure Agreements, Notice of Availability of US Magistrate Judge to Exercise Jurisdiction, Court's July 15, 2016 Order concerning Rule 12 motions upon Matthew J. Devlin on behalf of Defendant Thomas Betlach on 07/20/2016. (Lee, Jennifer) (Entered: 07/20/2016)"
+        },
+        {
+          "row_number": 3,
+          "id": 8679684,
+          "entry_number": "12",
+          "date_filed": "2016-07-26T00:00:00-04:00",
+          "attachments": [],
+          "url": "https://www.courtlistener.com/docket/6339926/12/planned-parenthood-arizona-incorporated-v-betlach/",
+          "recap_pdf_url": null,
+          "pacer_doc_id": "025016178523",
+          "description": "MOTION for Admission Pro Hac Vice as to attorney Alyson Zureick on behalf of plaintiffs Desert Star Family Planning LLC, Planned Parenthood Arizona Incorporated, Eric Reuss, DeShawn Taylor, Unknown Parties, and Unknown Party. (BAS) (Entered: 07/26/2016)"
+        },
+        {
+          "row_number": 29,
+          "id": 8679685,
+          "entry_number": null,
+          "date_filed": "2016-07-26T00:00:00-04:00",
+          "attachments": [],
+          "url": "https://www.courtlistener.com",
+          "recap_pdf_url": null,
+          "pacer_doc_id": null,
+          "description": "Pro Hac Vice Fee Paid"
+        },
+        {
+          "row_number": 30,
+          "id": 8679686,
+          "entry_number": null,
+          "date_filed": "2016-07-26T00:00:00-04:00",
+          "attachments": [],
+          "url": "https://www.courtlistener.com",
+          "recap_pdf_url": null,
+          "pacer_doc_id": null,
+          "description": "PRO HAC VICE FEE PAID. $ 35, receipt number PHX174380 as to Alyson Zureick. This is a TEXT ENTRY ONLY. There is no PDF document associated with this entry. (BAS)"
+        },
+        {
+          "row_number": 32,
+          "id": 8679690,
+          "entry_number": null,
+          "date_filed": "2016-08-02T00:00:00-04:00",
+          "attachments": [],
+          "url": "https://www.courtlistener.com",
+          "recap_pdf_url": null,
+          "pacer_doc_id": null,
+          "description": "PRO HAC VICE FEE PAID. $ 35, receipt number PHX174674 as to Diana Salgado. This is a TEXT ENTRY ONLY. There is no PDF document associated with this entry. (BAS)"
+        },
+        {
+          "row_number": 6,
+          "id": 8679691,
+          "entry_number": "15",
+          "date_filed": "2016-08-04T00:00:00-04:00",
+          "attachments": [],
+          "url": "https://www.courtlistener.com/docket/6339926/15/planned-parenthood-arizona-incorporated-v-betlach/",
+          "recap_pdf_url": null,
+          "pacer_doc_id": "025016219241",
+          "description": "NOTICE of Appearance by Kathleen E Brody on behalf of Desert Star Family Planning LLC, Eric Reuss, DeShawn Taylor, Unknown Party. (Brody, Kathleen) (Entered: 08/04/2016)"
+        },
+        {
+          "row_number": 7,
+          "id": 8679692,
+          "entry_number": "16",
+          "date_filed": "2016-08-18T00:00:00-04:00",
+          "attachments": [
+            {
+              "recap_id": 156745448,
+              "pacer_url": "https://ecf.azd.uscourts.gov/doc1/025016274534?caseid=990288",
+              "description": "Text of Proposed Order",
+              "attachment_number": 1
+            }
+          ],
+          "url": "https://www.courtlistener.com/docket/6339926/16/planned-parenthood-arizona-incorporated-v-betlach/",
+          "recap_pdf_url": null,
+          "pacer_doc_id": "025016274533",
+          "description": "MOTION to Withdraw as Attorney Alyson Zureick by Desert Star Family Planning LLC, Planned Parenthood Arizona Incorporated, Eric Reuss, DeShawn Taylor, Unknown Parties, Unknown Party. (Attachments: # 1 Text of Proposed Order)(Zureick, Alyson) (Entered: 08/18/2016)"
+        },
+        {
+          "row_number": 8,
+          "id": 8679693,
+          "entry_number": "17",
+          "date_filed": "2016-08-22T00:00:00-04:00",
+          "attachments": [],
+          "url": "https://www.courtlistener.com/docket/6339926/17/planned-parenthood-arizona-incorporated-v-betlach/",
+          "recap_pdf_url": null,
+          "pacer_doc_id": "025016292267",
+          "description": "ORDER granting 16 Motion to Withdraw as Attorney. Attorney Alyson Zureickis withdrawn as counsel in this action. Signed by Senior Judge Roslyn O. Silver on 8/22/16.(CLB) (Entered: 08/22/2016)"
+        },
+        {
+          "row_number": 10,
+          "id": 8679695,
+          "entry_number": "19",
+          "date_filed": "2016-09-07T00:00:00-04:00",
+          "attachments": [],
+          "url": "https://www.courtlistener.com/docket/6339926/19/planned-parenthood-arizona-incorporated-v-betlach/",
+          "recap_pdf_url": null,
+          "pacer_doc_id": "025016353188",
+          "description": "ORDER granting 18 Stipulation of Dismissal. This case is dismissed without prejudice. See PDF for details. Signed by Senior Judge Roslyn O Silver on 9/6/16. (DXD) (Entered: 09/07/2016)"
+        },
+        {
+          "row_number": 14,
+          "id": 9182101,
+          "entry_number": "22",
+          "date_filed": "2023-05-18T00:00:00-04:00",
+          "attachments": [
+            {
+              "pdf_url": "https://www.courtlistener.com/recap/gov.uscourts.azd.990288/gov.uscourts.azd.990288.22.1.pdf",
+              "recap_id": 380209388,
+              "pacer_url": "https://ecf.azd.uscourts.gov/doc1/025026355905?caseid=990288",
+              "description": "Proposed Order Proposed Order",
+              "attachment_number": 1
+            }
+          ],
+          "url": "https://www.courtlistener.com/docket/6339926/22/planned-parenthood-arizona-incorporated-v-betlach/",
+          "recap_pdf_url": "https://www.courtlistener.com/recap/gov.uscourts.azd.990288/gov.uscourts.azd.990288.22.0.pdf",
+          "pacer_doc_id": "025026355904",
+          "description": "STIPULATION Joint Stipulation of Non-Enforcement by Thomas Betlach. (Attachments: # 1 Proposed Order Proposed Order)(McLaughlin, Jathan) (Entered: 05/18/2023)"
+        },
+        {
+          "row_number": 17,
+          "id": 9182104,
+          "entry_number": "25",
+          "date_filed": "2023-12-12T00:00:00-05:00",
+          "attachments": [],
+          "url": "https://www.courtlistener.com/docket/6339926/25/planned-parenthood-arizona-incorporated-v-betlach/",
+          "recap_pdf_url": null,
+          "pacer_doc_id": "025027112957",
+          "description": "NOTICE re: Lodging Proposed Form of Order by Thomas Betlach re: 24 Stipulation . (Attachments: # 1 Proposed Order Proposed Order)(McLaughlin, Jathan) (Entered: 12/12/2023)"
+        },
+        {
+          "row_number": 18,
+          "id": 10139300,
+          "entry_number": "26",
+          "date_filed": "2024-01-05T00:00:00-05:00",
+          "attachments": [],
+          "url": "https://www.courtlistener.com/docket/6339926/26/planned-parenthood-arizona-incorporated-v-betlach/",
+          "recap_pdf_url": "https://www.courtlistener.com/recap/gov.uscourts.azd.990288/gov.uscourts.azd.990288.26.0.pdf",
+          "pacer_doc_id": "025027194302",
+          "description": "ORDER granting 24 Joint Stipulation of Non-Enforcement. See attached document for complete details. Signed by Senior Judge Roslyn O Silver on 1/5/2024. (RMV) (Entered: 01/05/2024)"
+        },
+        {
+          "row_number": 21,
+          "id": 8679674,
+          "entry_number": "5",
+          "date_filed": "2016-07-14T00:00:00-04:00",
+          "attachments": [],
+          "url": "https://www.courtlistener.com/docket/6339926/5/planned-parenthood-arizona-incorporated-v-betlach/",
+          "recap_pdf_url": null,
+          "pacer_doc_id": "025016128906",
+          "description": "Summons Issued as to Thomas Betlach. (LAD). *** IMPORTANT: When printing the summons, select \"Document and stamps\" or \"Document and comments\" for the seal to appear on the document. (Entered: 07/14/2016)"
+        },
+        {
+          "row_number": 22,
+          "id": 8679675,
+          "entry_number": "6",
+          "date_filed": "2016-07-15T00:00:00-04:00",
+          "attachments": [],
+          "url": "https://www.courtlistener.com/docket/6339926/6/planned-parenthood-arizona-incorporated-v-betlach/",
+          "recap_pdf_url": null,
+          "pacer_doc_id": "025016130399",
+          "description": "MOTION for Admission Pro Hac Vice as to attorney Brigitte A Amiri by Desert Star Family Planning LLC, Eric Reuss, DeShawn Taylor, Unknown Parties. (Amiri, Brigitte) (Entered: 07/15/2016)"
+        },
+        {
+          "row_number": 26,
+          "id": 8679679,
+          "entry_number": null,
+          "date_filed": "2016-07-19T00:00:00-04:00",
+          "attachments": [],
+          "url": "https://www.courtlistener.com",
+          "recap_pdf_url": null,
+          "pacer_doc_id": null,
+          "description": "PRO HAC VICE FEE PAID. $ 35, receipt number PHX174146 as to Brigitte Amiri, Diana Salgado. This is a TEXT ENTRY ONLY. There is no PDF document associated with this entry. (BAS)"
+        },
+        {
+          "row_number": 27,
+          "id": 8679680,
+          "entry_number": null,
+          "date_filed": "2016-07-19T00:00:00-04:00",
+          "attachments": [],
+          "url": "https://www.courtlistener.com",
+          "recap_pdf_url": null,
+          "pacer_doc_id": null,
+          "description": "Pro Hac Vice Fee Paid"
+        },
+        {
+          "row_number": 31,
+          "id": 8679689,
+          "entry_number": null,
+          "date_filed": "2016-08-02T00:00:00-04:00",
+          "attachments": [],
+          "url": "https://www.courtlistener.com",
+          "recap_pdf_url": null,
+          "pacer_doc_id": null,
+          "description": "Pro Hac Vice Fee Paid"
+        },
+        {
+          "row_number": 9,
+          "id": 8679694,
+          "entry_number": "18",
+          "date_filed": "2016-09-01T00:00:00-04:00",
+          "attachments": [
+            {
+              "recap_id": 156745449,
+              "pacer_url": "https://ecf.azd.uscourts.gov/doc1/025016335427?caseid=990288",
+              "description": "Text of Proposed Order",
+              "attachment_number": 1
+            }
+          ],
+          "url": "https://www.courtlistener.com/docket/6339926/18/planned-parenthood-arizona-incorporated-v-betlach/",
+          "recap_pdf_url": null,
+          "pacer_doc_id": "025016335426",
+          "description": "STIPULATION of Dismissal without Prejudice and Agreement of Nonenforcement by Desert Star Family Planning LLC, Planned Parenthood Arizona Incorporated, Eric Reuss, DeShawn Taylor, Unknown Parties, Unknown Party. (Attachments: # 1 Text of Proposed Order)(Lee, Jennifer) (Entered: 09/01/2016)"
+        },
+        {
+          "row_number": 16,
+          "id": 9182103,
+          "entry_number": "24",
+          "date_filed": "2023-12-08T00:00:00-05:00",
+          "attachments": [],
+          "url": "https://www.courtlistener.com/docket/6339926/24/planned-parenthood-arizona-incorporated-v-betlach/",
+          "recap_pdf_url": null,
+          "pacer_doc_id": "025027102140",
+          "description": "STIPULATION by Thomas Betlach. (McLaughlin, Jathan) (Entered: 12/08/2023)"
+        },
+        {
+          "row_number": 1,
+          "id": 8679682,
+          "entry_number": "10",
+          "date_filed": "2016-07-19T00:00:00-04:00",
+          "attachments": [],
+          "url": "https://www.courtlistener.com/docket/6339926/10/planned-parenthood-arizona-incorporated-v-betlach/",
+          "recap_pdf_url": null,
+          "pacer_doc_id": null,
+          "description": "ORDER pursuant to General Order 09-08 granting 6 Motion for Admission Pro Hac Vice; granting 7 Motion for Admission Pro Hac Vice. Per the Court's Administrative Policies and Procedures Manual, applicant has five (5) days in which to register as a user of the Electronic Filing System. Registration to be accomplished via the court's website at www.azd.uscourts.gov. Counsel is advised that they are limited to two (2) additional e-mail addresses in their District of Arizona User Account. (BAS) (This is a TEXT ENTRY ONLY. There is no.pdf document associated with this entry.) (Entered: 07/19/2016)"
+        },
+        {
+          "row_number": 19,
+          "id": 8679672,
+          "entry_number": "3",
+          "date_filed": "2016-07-14T00:00:00-04:00",
+          "attachments": [],
+          "url": "https://www.courtlistener.com/docket/6339926/3/planned-parenthood-arizona-incorporated-v-betlach/",
+          "recap_pdf_url": null,
+          "pacer_doc_id": "025016128752",
+          "description": "Corporate Disclosure Statement by Desert Star Family Planning LLC, Planned Parenthood Arizona Incorporated, Eric Reuss, DeShawn Taylor, Unknown Parties. (LAD) (Entered: 07/14/2016)"
+        },
+        {
+          "row_number": 24,
+          "id": 8679677,
+          "entry_number": "8",
+          "date_filed": "2016-07-15T00:00:00-04:00",
+          "attachments": [],
+          "url": "https://www.courtlistener.com/docket/6339926/8/planned-parenthood-arizona-incorporated-v-betlach/",
+          "recap_pdf_url": null,
+          "pacer_doc_id": "025016131324",
+          "description": "ORDER that motions pursuant to Fed. R. Civ. P. 12(b) are discouraged if the defect can be cured by filing an amended pleading. The parties must meet and confer prior to the filing of such motions to determine whether it can be avoided. FURTHER ORDERED that Plaintiff(s) serve a copy of this Order upon Defendant(s) and file a notice of service. See attached Order for complete details. Signed by Senior Judge Roslyn O. Silver on 7/15/16. (CLB) (Entered: 07/15/2016)"
+        },
+        {
+          "row_number": 4,
+          "id": 8679687,
+          "entry_number": "13",
+          "date_filed": "2016-07-26T00:00:00-04:00",
+          "attachments": [],
+          "url": "https://www.courtlistener.com/docket/6339926/13/planned-parenthood-arizona-incorporated-v-betlach/",
+          "recap_pdf_url": null,
+          "pacer_doc_id": null,
+          "description": "ORDER pursuant to General Order 09-08 granting 12 Motion for Admission Pro Hac Vice. Per the Court's Administrative Policies and Procedures Manual, applicant has five (5) days in which to register as a user of the Electronic Filing System. Registration to be accomplished via the court's website at www.azd.uscourts.gov. Counsel is advised that they are limited to two (2) additional e-mail addresses in their District of Arizona User Account. (BAS) (This is a TEXT ENTRY ONLY. There is no.pdf document associated with this entry.) (Entered: 07/26/2016)"
+        },
+        {
+          "row_number": 5,
+          "id": 8679688,
+          "entry_number": "14",
+          "date_filed": "2016-07-29T00:00:00-04:00",
+          "attachments": [],
+          "url": "https://www.courtlistener.com/docket/6339926/14/planned-parenthood-arizona-incorporated-v-betlach/",
+          "recap_pdf_url": null,
+          "pacer_doc_id": null,
+          "description": "ORDER pursuant to General Order 09-08 granting 9 Motion for Admission Pro Hac Vice. Per the Court's Administrative Policies and Procedures Manual, applicant has five (5) days in which to register as a user of the Electronic Filing System. Registration to be accomplished via the court's website at www.azd.uscourts.gov. Counsel is advised that they are limited to two (2) additional e-mail addresses in their District of Arizona User Account. (BAS) (This is a TEXT ENTRY ONLY. There is no.pdf document associated with this entry.) (Entered: 07/29/2016)"
+        },
+        {
+          "row_number": 12,
+          "id": 8679696,
+          "entry_number": "20",
+          "date_filed": "2023-05-11T00:00:00-04:00",
+          "attachments": [],
+          "url": "https://www.courtlistener.com/docket/6339926/20/planned-parenthood-arizona-incorporated-v-betlach/",
+          "recap_pdf_url": "https://www.courtlistener.com/recap/gov.uscourts.azd.990288/gov.uscourts.azd.990288.20.0.pdf",
+          "pacer_doc_id": "025026330858",
+          "description": "NOTICE of Appearance by Jathan Paul McLaughlin on behalf of Thomas Betlach. (McLaughlin, Jathan) (Entered: 05/11/2023)"
+        },
+        {
+          "row_number": 13,
+          "id": 8679697,
+          "entry_number": "21",
+          "date_filed": "2023-05-15T00:00:00-04:00",
+          "attachments": [],
+          "url": "https://www.courtlistener.com/docket/6339926/21/planned-parenthood-arizona-incorporated-v-betlach/",
+          "recap_pdf_url": "https://www.courtlistener.com/recap/gov.uscourts.azd.990288/gov.uscourts.azd.990288.21.0.pdf",
+          "pacer_doc_id": "025026340880",
+          "description": "NOTICE of Appearance by Jared G Keenan on behalf of Desert Star Family Planning LLC, Planned Parenthood Arizona Incorporated, Eric Reuss, DeShawn Taylor, Unknown Parties, Unknown Party. (Keenan, Jared) (Entered: 05/15/2023)"
+        }
+      ],
+      "docket_case_type": "cv",
+      "docket_year": 2016,
+      "docket_filing_number": 2337,
+      "is_main_docket": true,
+      "court": "District of Arizona",
+      "state": "Arizona",
+      "docket_office_number": "2",
+      "docket_number_manual": "2:16-cv-02337-ROS",
+      "scales_html": "https://clearinghouse-umich-production.s3.amazonaws.com/media/docket-html/azd--2-16-cv-02337.html",
+      "recap_link": "https://www.courtlistener.com/docket/6339926/planned-parenthood-arizona-incorporated-v-betlach/",
+      "is_active": true
+    },
+    "name": "Planned Parenthood Arizona Inc. v. Betlach",
+    "never_filed": false,
+    "non_docket_case_number": "",
+    "non_docket_case_number_type": null,
+    "non_docket_case_number_type_other": "",
+    "order_end_year": null,
+    "order_start_year": null,
+    "permanent_injunction": false,
+    "plaintiff_description": "Two health care clinics, one obstetrician-gynecologist, and five Arizona Medicaid patients",
+    "plaintiff_type": [
+      {
+        "value": "Non-profit NON-religious organization"
+      }
+    ],
+    "prevailing_party": "Defendant",
+    "pro_se_status": "No",
+    "public_interest_lawyer": "Yes",
+    "related_cases": [],
+    "relief_natures": [
+      "Injunction / Injunctive-like Settlement"
+    ],
+    "relief_nature_other": "",
+    "relief_sources": [
+      "Settlement"
+    ],
+    "settlement_agreement": [
+      "Voluntary Dismissal"
+    ],
+    "settlement_judgment_date": null,
+    "settlement_judgment_year": null,
+    "special_collections": [
+      "Planned Parenthood Medicaid Litigation",
+      "Multi-LexSum (in sample)"
+    ],
+    "special_case_type": [],
+    "state": "Arizona",
+    "summary": "<p>On July 14, 2016, two health care clinics, an Arizona obstetrician-gynecologist, and five Arizona Medicaid patients filed this lawsuit in the United States District Court for the District of Arizona. The plaintiffs sued the Arizona Health Care Containment System under 42 U.S.C. &sect; 1983 for violations of the federal Medicaid statute and the Fourteenth Amendment of the U.S. Constitution. The plaintiffs asked the court for declaratory and injunctive relief enjoining the defendant from enforcing H.B. 2599.</p>\r\n<p>H.B. 2599 was signed into law on May 17, 2016. The Act empowered the defendant to exclude any entity that \"failed to segregate taxpayer dollars from abortions, including the use of taxpayer dollars for any overhead expenses attributable to abortions\" from participation in Arizona's Medicaid program.</p>\r\n<p>The plaintiffs claimed that the Act violated the Medicaid Act by denying Medicaid patients their right to receive care from a willing and qualified Medicaid provider of their choice. The plaintiffs also claimed that the Act further violated the Due Process Clause of the Fourteenth Amendment because it was impermissibly vague and retaliated against abortion providers. Finally, the plaintiffs alleged that the Act violated the Equal Protection Clause of the Fourteenth Amendment by singling out health care providers who exercise their constitutionally protected right of offering abortion services.</p>\r\n<p>On August 11, 2016, the defendant advised the plaintiffs that the defendant would put H.B. 2599 into effect only after the proper rulemaking process, which would likely take one to two years. The defendant would not enforce the rule until this process was complete. In response to the defendant's assurances, the plaintiff entered a stipulation of dismissal to the court on September 1, 2016. On September 7, 2016, Judge Roslyn Silver granted the dismissal without prejudice.</p>\r\n<p>On May 18, 2023, the parties filed a joint stipulation of non-enforcement. The defendants stated that there was an urgent need to issue emergency rules pursuant to H.B. 2599 in order to address providers engaging in unlawful activity. The parties agreed that these emergency rules cannot immediately be enforced against plaintiffs until final rules, that have a 60-day effective day period, are established. On January 5, 2024, the court granted the stipulation of non-enforcement, extending the non-enforcement period.</p>\r\n<p>As of January 2025, this case remains open for enforcement of the courts' non-enforcement order, but there has been no activity on the docket since January 2024.</p>",
+    "summary_published_date": "2025-01-03T16:04:45.836652-05:00",
+    "summary_short": "On July 14, 2016, two health care clinics, an Arizona obstetrician-gynecologist, and five Arizona Medicaid patients filed this lawsuit in the United States District Court for the District of Arizona. The plaintiffs sued the Arizona Health Care Containment System under 42 U.S.C. § 1983 for violations of the federal Medicaid statute and the Fourteenth Amendment of the U.S. Constitution. The plaintiffs asked the court for declaratory and injunctive relief enjoining the defendant from enforcing H.B. 2599. \r\n\r\nOn August 11, 2016, the defendant advised the plaintiffs that the defendant would put H.B. 2599 into effect only after the proper rule making process, which would likely take 1-2 years. In response to the defendant's assurances, the plaintiff entered a stipulation of dismissal to the court on September 1, 2016. On September 7, 2016 Judge Roslyn Silver granted the dismissal without prejudice.  On May 18, 2023, parties filed a joint stipulation of non-enforcement, agreeing that emergency rules related to H.B. 2599 would not be enforced against plaintiffs until final rules, effective after 60 days, are established. This was granted by the court on January 5, 2024.",
+    "summary_tiny": null,
+    "terminating_date": "2016-09-07",
+    "clearinghouse_link": "clearinghouse.net/case/15668",
+    "is_active": true,
+    "case_documents_url": "https://clearinghouse.net/api/v2/documents/?case=15668",
+    "case_dockets_url": "https://clearinghouse.net/api/v2/dockets/?case=15668",
+    "case_resources_url": "https://clearinghouse.net/api/v2/resources/?case=15668"
+  },
+  "documents": [
+    {
+      "date": "2023-05-18",
+      "date_is_estimate": false,
+      "date_not_available": false,
+      "description": "",
+      "document_source": "RECAP",
+      "document_status": "Coding Complete",
+      "document_type": "Settlement Agreement",
+      "order_type": null,
+      "citation_paren": null,
+      "cite_1_page": null,
+      "cite_1_reporter": null,
+      "cite_1_vol": null,
+      "cite_2_page": null,
+      "cite_2_reporter": null,
+      "cite_2_vol": null,
+      "cite_3_page": null,
+      "cite_3_reporter": null,
+      "cite_3_vol": null,
+      "citation_status": "Not applicable",
+      "court": "District of Arizona",
+      "no_title": false,
+      "party_types": [
+        "Defendant",
+        "Court",
+        "Plaintiff"
+      ],
+      "per_curium": false,
+      "is_core_document": true,
+      "id": 153647,
+      "file": "https://clearinghouse-umich-production.s3.amazonaws.com/media/doc/153647.pdf",
+      "title": "Joint Stipulation of Non-Enforcement",
+      "text": " \nCase 2:16-cv-02337-ROS   Document 22   Filed 05/18/23   Page 1 of 4\n1  LAW OFFICES \nBROENING OBERG WOODS & WILSON \n2  PROFESSIONAL CORPORATION \n2800 NORTH CENTRAL AVENUE  \n3  SUITE 1600 \nPHOENIX, ARIZONA  85004 \n4  TELEPHONE: (602) 271-7700 \nFACSIMILE:  (602) 258-7785 \n5  Jathan P. McLaughlin/Bar No. 028065 \nE-mail: jpm@bowwlaw.com \n6                    lmb@bowwlaw.com  \nJessica J. Kokal/Bar No. 029042 \n7     E-Mail: jjk@bowwlaw.com \n          mtd@bowwlaw.com \n8   \nAttorneys for Defendant Betlach \n9   \nIN THE UNITED STATES DISTRICT COURT \n10   \nFOR THE DISTRICT OF ARIZONA \n11   \nPlanned Parenthood Arizona, Inc.; et al.,  No.  2:16-CV-02337-ROS \n12     \nPlaintiffs,  JOINT STIPULATION OF NON-\n13    ENFORCEMENT  \nv.   \n14     \nThomas Betlach, Director, of the Arizona   \n15  Health Care Cost Containment System, in \nhis official capacity, \n16   \nDefendant. \n17 \n18  The parties, by their undersigned counsel of record, stipulate as follows:  \n19  1.  On May 17, 2016, Arizona Governor Doug Ducey signed into  law H.B. \n20  2599, codified at Ariz. Rev. Stat. § 36-2930.05 (“H.B. 2599”).  \n21  2.  On July 14, 2016, Plaintiffs filed a complaint challenging a provision of H.B. \n22  2599,  codified  at  Ariz.  Rev.  Stat.  §  36-2930.05(B)(6),  which  empowers  Defendant  to \n23  exclude from participation in Arizona’s Medicaid Program any “individual or entity” that \n24  “[f]ailed to segregate taxpayer dollars from abortions, including the use of taxpayer dollars \n25  for any overhead expenses attributable to abortions.” (“the segregation requirement” or \n26  “the Act”).  \n27  3.  H.B. 2599 also states that “[t]he Director shall adopt rules that prescribe \n28  procedures for determining the length of exclusion, appealing the exclusion determination \n\n \nCase 2:16-cv-02337-ROS   Document 22   Filed 05/18/23   Page 2 of 4\n1  and requesting reinstatement following an exclusion.” H.B. 2599(D), codified at Ariz. Rev. \n2  Stat. § 36-2930.05(D).  \n3  4.  H.B.  2599  went  into  effect  August  5,  2016  without  the  Director  having \n4  adopted any rules. Based on an agreement that Defendant would not enforce the statute \n5  until final rules take effect, on September 1, 2016, the parties filed a Stipulation to Dismiss \n6  Without Prejudice and Agreement of Nonenforcement [Doc. 18]. \n7  5.  That stipulation says, inter alia, that Defendant would not seek an immediate \n8  effective date of the regulations. \n9  6.  On September 7, 2016, the Court issued an Order granting the stipulation of \n10  dismissal without prejudice, and ordering Defendant to “not request an immediate effective \n11  date” of the rules.  The Court also retained jurisdiction to enforce the terms of its Order \n12  [Doc. 19]. \n13  7.  Defendant  has  informed  Plaintiffs  that  there  is  an  urgent  need  to  issue \n14  emergency  regulations  pursuant  to  H.B.  2599  to  exclude  unscrupulous  providers  for \n15  unlawful activity unrelated to Plaintiffs or Ariz. Rev. Stat. § 36-2930.05(B)(6). \n16  8.  The parties agree that Defendant is permitted to pursue that emergency rule \n17  making,  but  Defendant  agrees  that  those  emergency  rules,  and  H.B.  2599,  cannot  be \n18  enforced against Plaintiffs until final rules that have the usual 60 day effective date as \n19  provided by Ariz. Rev. Stat. § 41-1032 are promulgated pursuant to the parties’ September \n20  1, 2006 Stipulation and the Court’s September 7, 2016 Order.  \n21  9.  Defendant further agrees any steps, action, or efforts taken by Defendant to \n22  enforce the segregation requirement can be based only on Plaintiffs’ conduct 30 (thirty) \n23  days from the effective date of the final rules.  \n24  10.  Nothing in this order precludes the parties from jointly requesting the Court \n25  to modify any terms of this order.  \n26  // \n27  // \n28   \n2 \n\n \nCase 2:16-cv-02337-ROS   Document 22   Filed 05/18/23   Page 3 of 4\n1  11.  This Court shall retain jurisdiction to enforce the terms of this order. \n2 \nRESPECTFULLY SUBMITTED this 18th day of May, 2023. \n3   \nBROENING OBERG WOODS & WILSON, P.C. \n4   \n \n5  By: /s/ Jathan P. McLaughlin \nJathan P. McLaughlin \n6  Jessica J. Kokal \n2800 North Central Avenue, Suite 1600 \n7  Phoenix, Arizona 85004 \nAttorneys for Defendant Betlach \n8   \n \n9   \nAMERICAN CIVIL LIBERTIES UNION \n10  FOUNDATION OF ARIZONA   \n \n11   \nBy: /s/ Jared Keenan (with permission) \n12 \nJared Keenan  \n3707 North 7th Street, Ste. 235   \n13 \nPhoenix, Arizona 85014   \nAttorneys for Plaintiff Arizona Civil Liberties \n14  Union Foundation of Arizona \n \n15 \n \n16 \n17 \n18 \n19 \n20 \n21 \n22 \n23 \n24 \n25 \n26 \n27 \n28 \n3 \n\n \nCase 2:16-cv-02337-ROS   Document 22   Filed 05/18/23   Page 4 of 4\n1  CERTIFICATE OF SERVICE \n2  I hereby certify that on May 18, 2023, I electronically transmitted the foregoing with \n3  the Clerk of the Court using the CM/ECF system for filing. Notice of this filing will be sent \n4  by e-email to all parties by operation of the Court’s electronic filing system.   \n \n5   \n \n6   \n/s/ Lisa Black \n7 \n \n \n8 \n \n9 \n10 \n11 \n12 \n13 \n14 \n15 \n16 \n17 \n18 \n19 \n20 \n21 \n22 \n23 \n24 \n25 \n26 \n27 \n28 \n4 ",
+      "document_type_other": null,
+      "external_url": "https://www.courtlistener.com/docket/6339926/22/planned-parenthood-arizona-incorporated-v-betlach/",
+      "ecf_number": "22",
+      "clearinghouse_link": "clearinghouse.net/doc/153647"
+    },
+    {
+      "date": "2024-01-05",
+      "date_is_estimate": false,
+      "date_not_available": false,
+      "description": "",
+      "document_source": "RECAP",
+      "document_status": "Coding Complete",
+      "document_type": "Order/Opinion",
+      "order_type": "Consent Decree",
+      "citation_paren": null,
+      "cite_1_page": null,
+      "cite_1_reporter": null,
+      "cite_1_vol": null,
+      "cite_2_page": null,
+      "cite_2_reporter": null,
+      "cite_2_vol": null,
+      "cite_3_page": null,
+      "cite_3_reporter": null,
+      "cite_3_vol": null,
+      "citation_status": "No citation available",
+      "court": "District of Arizona",
+      "no_title": false,
+      "party_types": [
+        "Defendant",
+        "Court",
+        "Plaintiff"
+      ],
+      "per_curium": false,
+      "is_core_document": true,
+      "id": 153662,
+      "file": "https://clearinghouse-umich-production.s3.amazonaws.com/media/doc/153662.pdf",
+      "title": "Order on Stipulation",
+      "text": " \nCase 2:16-cv-02337-ROS     Document 26     Filed 01/05/24     Page 1 of 2\n \n \n \n1   \n2   \n3   \n4   \n5   \n6  IN THE UNITED STATES DISTRICT COURT \n7  FOR THE DISTRICT OF ARIZONA \n \n8 \n \n9  Planned Parenthood Arizona Incorporated, et  No. CV-16-02337-PHX-ROS \nal.,   \n10    ORDER  \nPlaintiffs,   \n11   \nv.  \n12   \nThomas Betlach, \n13   \nDefendant. \n \n14   \n15  Having considered the stipulation entered into by the parties (Doc. 24), and \n16  good cause appearing,  \n17  IT IS ORDERED the Joint Stipulation of Non-Enforcement (Doc. 24) is \n18  GRANTED.  \n19  IT IS FURTHER ORDERED: \n20  1.  This  Court’s  order  dated  September  6,  2016  (Doc.  19)  is  amended \n21 \npursuant to the parties’ stipulation (Doc. 24) to allow Defendant to promulgate final \n22 \nrules pursuant to H.B. 2599, to target unscrupulous providers for unlawful activity \n23 \nunrelated to Plaintiffs or A.R.S. § 36-2930.05(B)(6).   \n24 \n2.  Pursuant  to  the  parties’  stipulation,  for  purposes  of  interpreting \n25 \nA.R.S. § 36-2930.05(B)(6), “overhead expenses attributable to abortion” shall mean \n26 \nexpenses  that  are  directly  and  exclusively  attributable  to  abortion.    In  addition, \n27 \nPlaintiffs’ obligation to separate taxpayer dollars from overhead expenses attributable \n28 \nto abortion shall not apply to: (1) pursuant to Simat Corp. v. AHCCCS, 203 Ariz. 454, \n \n\n \nCase 2:16-cv-02337-ROS     Document 26     Filed 01/05/24     Page 2 of 2\n \n \n \n1  56 P.3d 28 (2002), payments intended to reimburse Plaintiffs for abortion services \n2  when the patient is an AHCCCS beneficiary and the victim of rape or incest, the \n3  abortion is necessary to save the patient’s life, or the abortion is medically necessary \n4  to preserve the patient’s health; or (2) payments for services which do not exceed \n5 \nPlaintiffs’ cost to provide the service, as discussed in Planned Parenthood Arizona, \n6 \nInc. v. Betlach, 899 F. Supp. 2d 868, 886-87 (D. Ariz. 2012). \n7 \n3.  Defendant has agreed that the terms of the stipulation will apply to any \n8 \nsuccessor.   \n9 \n4.  Nothing in this order precludes the parties from jointly requesting the \n10 \nCourt to modify any terms of this order. \n11 \n5.  This Court shall retain jurisdiction to enforce the terms of this order. \n12 \n  Dated this 5th day of January, 2024. \n13 \n \n14 \n \n15   \nHonorable Roslyn O. Silver \n16 \nSenior United States District Judge \n17   \n18   \n19   \n20 \n21 \n22 \n23 \n24 \n25 \n26 \n27 \n28 \n \n- 2 - ",
+      "document_type_other": null,
+      "external_url": "https://www.courtlistener.com/docket/6339926/26/planned-parenthood-arizona-incorporated-v-betlach/",
+      "ecf_number": "26",
+      "clearinghouse_link": "clearinghouse.net/doc/153662"
+    },
+    {
+      "date": "2016-09-07",
+      "date_is_estimate": false,
+      "date_not_available": false,
+      "description": null,
+      "document_source": "PACER [Public Access to Court Electronic Records]",
+      "document_status": "Coding Complete",
+      "document_type": "Docket",
+      "order_type": null,
+      "citation_paren": null,
+      "cite_1_page": null,
+      "cite_1_reporter": null,
+      "cite_1_vol": null,
+      "cite_2_page": null,
+      "cite_2_reporter": null,
+      "cite_2_vol": null,
+      "cite_3_page": null,
+      "cite_3_reporter": null,
+      "cite_3_vol": null,
+      "citation_status": "Not applicable",
+      "court": "District of Arizona",
+      "no_title": false,
+      "party_types": [
+        "Court"
+      ],
+      "per_curium": false,
+      "is_core_document": true,
+      "id": 86639,
+      "file": "https://clearinghouse-umich-production.s3.amazonaws.com/media/doc/86639.pdf",
+      "title": "Docket [PACER]",
+      "text": "Case: 2:16-cv-2337   As of: 03/13/2017 10:41 AM MST   1 of 6\nCLOSED,STD\nU.S. District Court\nDISTRICT OF ARIZONA (Phoenix Division)\nCIVIL DOCKET FOR CASE #: 2:16−cv−02337−ROS\nPlanned Parenthood Arizona Incorporated et al v. Betlach Date Filed: 07/14/2016\nAssigned to: Senior Judge Roslyn O Silver Date Terminated: 09/07/2016\nCause: 42:1983 Civil Rights Act Jury Demand: None\nNature of Suit: 440 Civil Rights: Other\nJurisdiction: Federal Question\nPlaintiff\nPlanned Parenthood Arizona represented by Daniel Benjamin Pasternak\nIncorporated Squire Patton Boggs (US) LLP − Phoenix,\nAZ\n1 E Washington St., Ste. 2700\nPhoenix, AZ 85004\n602−528−4000\nFax: 602−253−8129\nEmail: daniel.pasternak@squirepb.com\nLEAD ATTORNEY\nATTORNEY TO BE NOTICED\nDiana Salgado\nPlanned Parenthood Federation of America\n− New York, NY\n123 William St.\nNew York, NY 10038\n212−541−7800\nFax: 212−247−6811\nEmail: diana.salgado@ppfa.org\nLEAD ATTORNEY\nATTORNEY TO BE NOTICED\nLaura Lawless Robertson\nSquire Patton Boggs (US) LLP − Phoenix,\nAZ\n1 E Washington St., Ste. 2700\nPhoenix, AZ 85004\n602−528−4000\nFax: 602−253−8129\nEmail: laura.robertson@squirepb.com\nLEAD ATTORNEY\nATTORNEY TO BE NOTICED\nAlyson Zureick\nACLU − New York, NY\n125 Broad St., 18th Fl.\nNew York, NY 10004\n212−549−2633\nFax: 212−549−2651\nEmail: azureick@aclu.org\nTERMINATED: 08/22/2016\nATTORNEY TO BE NOTICED\nPlaintiff\nDesert Star Family Planning LLC represented by Alyson Zureick\n(See above for address)\nTERMINATED: 08/22/2016\nLEAD ATTORNEY\nATTORNEY TO BE NOTICED\nBrigitte Amiri\n\nCase: 2:16-cv-2337   As of: 03/13/2017 10:41 AM MST   2 of 6\nACLU − New York, NY\n125 Broad St., 18th Fl.\nNew York, NY 10004\n212−549−2633\nFax: 212−549−2651\nEmail: bamiri@aclu.org\nLEAD ATTORNEY\nATTORNEY TO BE NOTICED\nDaniel Joseph Pochoda\nACLU − Phoenix, AZ\nP.O. Box 17148\nPhoenix, AZ 85011\n602−650−1854\nFax: 602−650−1376\nEmail: dpochoda@acluaz.org\nLEAD ATTORNEY\nATTORNEY TO BE NOTICED\nJennifer Lee\nACLU − New York, NY\n125 Broad St., 18th Fl.\nNew York, NY 10004\n212−549−2633\nFax: 212−549−2651\nEmail: jlee@aclu.org\nLEAD ATTORNEY\nATTORNEY TO BE NOTICED\nKathleen E Brody\nACLU − Phoenix, AZ\nP.O. Box 17148\nPhoenix, AZ 85011\n602−650−1854\nFax: 602−650−1376\nEmail: kbrody@acluaz.org\nATTORNEY TO BE NOTICED\nPlaintiff\nDeShawn Taylor represented by Alyson Zureick\nM.D. (See above for address)\nTERMINATED: 08/22/2016\nLEAD ATTORNEY\nATTORNEY TO BE NOTICED\nBrigitte Amiri\n(See above for address)\nLEAD ATTORNEY\nATTORNEY TO BE NOTICED\nDaniel Joseph Pochoda\n(See above for address)\nLEAD ATTORNEY\nATTORNEY TO BE NOTICED\nJennifer Lee\n(See above for address)\nLEAD ATTORNEY\nATTORNEY TO BE NOTICED\nKathleen E Brody\n(See above for address)\nATTORNEY TO BE NOTICED\n\nCase: 2:16-cv-2337   As of: 03/13/2017 10:41 AM MST   3 of 6\nPlaintiff\nEric Reuss represented by Alyson Zureick\nM.D., M.P.H. (See above for address)\nTERMINATED: 08/22/2016\nLEAD ATTORNEY\nATTORNEY TO BE NOTICED\nBrigitte Amiri\n(See above for address)\nLEAD ATTORNEY\nATTORNEY TO BE NOTICED\nDaniel Joseph Pochoda\n(See above for address)\nLEAD ATTORNEY\nATTORNEY TO BE NOTICED\nJennifer Lee\n(See above for address)\nLEAD ATTORNEY\nATTORNEY TO BE NOTICED\nKathleen E Brody\n(See above for address)\nATTORNEY TO BE NOTICED\nPlaintiff\nUnknown Parties represented by Alyson Zureick\nnamed as Jane Does #2−5 (See above for address)\nTERMINATED: 08/22/2016\nLEAD ATTORNEY\nATTORNEY TO BE NOTICED\nBrigitte Amiri\n(See above for address)\nLEAD ATTORNEY\nATTORNEY TO BE NOTICED\nDaniel Joseph Pochoda\n(See above for address)\nLEAD ATTORNEY\nATTORNEY TO BE NOTICED\nJennifer Lee\n(See above for address)\nLEAD ATTORNEY\nATTORNEY TO BE NOTICED\nPlaintiff\nUnknown Party represented by Daniel Benjamin Pasternak\nnamed as Jane Doe #1 (See above for address)\nLEAD ATTORNEY\nATTORNEY TO BE NOTICED\nDiana Salgado\n(See above for address)\nLEAD ATTORNEY\nATTORNEY TO BE NOTICED\nLaura Lawless Robertson\n(See above for address)\nLEAD ATTORNEY\nATTORNEY TO BE NOTICED\n\nCase: 2:16-cv-2337   As of: 03/13/2017 10:41 AM MST   4 of 6\nAlyson Marie Zureick\nACLU − New York, NY\n125 Broad St., 18th Fl.\nNew York, NY 10004\n212−284−7351\nFax: 212−549−2651\nEmail: azureick@aclu.org\nTERMINATED: 08/22/2016\nATTORNEY TO BE NOTICED\nKathleen E Brody\n(See above for address)\nATTORNEY TO BE NOTICED\nV.\nDefendant\nThomas Betlach\nDirector, Arizona Health Care\nContainment System, in his official\ncapacity\nDate Filed # Docket Text\n07/14/2016 1  COMPLAINT. Filing fee received: $ 400.00, receipt number 0970−13175472 filed by\nEric Reuss, Planned Parenthood Arizona Incorporated, DeShawn Taylor, Desert Star\nFamily Planning LLC, Unknown Parties. (Submitted by Laura Robertson)\n(Attachments: # 1 Exhibit, # 2 Civil Cover Sheet)(LAD) (Entered: 07/14/2016)\n07/14/2016 2  SUMMONS Submitted by Desert Star Family Planning LLC, Planned Parenthood\nArizona Incorporated, Eric Reuss, DeShawn Taylor, Unknown Parties. (Submitted by\nLaura Robertson) (LAD) (Entered: 07/14/2016)\n07/14/2016 3  Corporate Disclosure Statement by Desert Star Family Planning LLC, Planned\nParenthood Arizona Incorporated, Eric Reuss, DeShawn Taylor, Unknown Parties.\n(LAD) (Entered: 07/14/2016)\n07/14/2016 4  Filing fee paid, receipt number 0970−13175472. This case has been assigned to the\nHonorable Roslyn O Silver. All future pleadings or documents should bear the correct\ncase number: CV−16−02337−PHX−ROS. Notice of Availability of Magistrate Judge\nto Exercise Jurisdiction form attached. (LAD) (Entered: 07/14/2016)\n07/14/2016 5  Summons Issued as to Thomas Betlach. (LAD). *** IMPORTANT: When printing the\nsummons, select \"Document and stamps\" or \"Document and comments\" for the seal to\nappear on the document. (Entered: 07/14/2016)\n07/15/2016 6  MOTION for Admission Pro Hac Vice as to attorney Brigitte A Amiri by Desert Star\nFamily Planning LLC, Eric Reuss, DeShawn Taylor, Unknown Parties. (Amiri,\nBrigitte) (Entered: 07/15/2016)\n07/15/2016 7  MOTION for Admission Pro Hac Vice as to attorney Jennifer K Lee by Desert Star\nFamily Planning LLC, Eric Reuss, DeShawn Taylor, Unknown Parties. (Lee, Jennifer)\n(Entered: 07/15/2016)\n07/15/2016 8  ORDER that motions pursuant to Fed. R. Civ. P. 12(b) are discouraged if the defect\ncan be cured by filing an amended pleading. The parties must meet and confer prior to\nthe filing of such motions to determine whether it can be avoided. FURTHER\nORDERED that Plaintiff(s) serve a copy of this Order upon Defendant(s) and file a\nnotice of service. See attached Order for complete details. Signed by Senior Judge\nRoslyn O. Silver on 7/15/16. (CLB) (Entered: 07/15/2016)\n07/18/2016 9  MOTION for Admission Pro Hac Vice as to attorney Diana Salgado by Planned\nParenthood Arizona Incorporated. (Salgado, Diana) (Entered: 07/18/2016)\n\nCase: 2:16-cv-2337   As of: 03/13/2017 10:41 AM MST   5 of 6\n07/19/2016 PRO HAC VICE FEE PAID. $ 35, receipt number PHX174146 as to Brigitte Amiri,\nDiana Salgado. This is a TEXT ENTRY ONLY. There is no PDF document associated\nwith this entry. (BAS) (Entered: 07/19/2016)\n07/19/2016 PRO HAC VICE FEE PAID. $ 35, receipt number PHX174147 as to Jennifer Lee.\nThis is a TEXT ENTRY ONLY. There is no PDF document associated with this entry.\n(BAS) (Entered: 07/19/2016)\n07/19/2016 10  ORDER pursuant to General Order 09−08 granting 6 Motion for Admission Pro Hac\nVice; granting 7 Motion for Admission Pro Hac Vice. Per the Court's Administrative\nPolicies and Procedures Manual, applicant has five (5) days in which to register as a\nuser of the Electronic Filing System. Registration to be accomplished via the court's\nwebsite at www.azd.uscourts.gov. Counsel is advised that they are limited to two (2)\nadditional e−mail addresses in their District of Arizona User Account. (BAS) (This is a\nTEXT ENTRY ONLY. There is no.pdf document associated with this entry.) (Entered:\n07/19/2016)\n07/20/2016 11  SERVICE EXECUTED filed by Desert Star Family Planning LLC, Planned\nParenthood Arizona Incorporated, Eric Reuss, DeShawn Taylor, Unknown Parties,\nUnknown Party: Acceptance of Service re: Complaint, Summons, Plaintiffs' Corporate\nDisclosure Agreements, Notice of Availability of US Magistrate Judge to Exercise\nJurisdiction, Court's July 15, 2016 Order concerning Rule 12 motions upon Matthew J.\nDevlin on behalf of Defendant Thomas Betlach on 07/20/2016. (Lee, Jennifer)\n(Entered: 07/20/2016)\n07/26/2016 12  MOTION for Admission Pro Hac Vice as to attorney Alyson Zureick on behalf of\nplaintiffs Desert Star Family Planning LLC, Planned Parenthood Arizona\nIncorporated, Eric Reuss, DeShawn Taylor, Unknown Parties, and Unknown Party.\n(BAS) (Entered: 07/26/2016)\n07/26/2016 PRO HAC VICE FEE PAID. $ 35, receipt number PHX174380 as to Alyson Zureick.\nThis is a TEXT ENTRY ONLY. There is no PDF document associated with this entry.\n(BAS) (Entered: 07/26/2016)\n07/26/2016 13  ORDER pursuant to General Order 09−08 granting 12 Motion for Admission Pro Hac\nVice. Per the Court's Administrative Policies and Procedures Manual, applicant has\nfive (5) days in which to register as a user of the Electronic Filing System. Registration\nto be accomplished via the court's website at www.azd.uscourts.gov. Counsel is\nadvised that they are limited to two (2) additional e−mail addresses in their District of\nArizona User Account. (BAS) (This is a TEXT ENTRY ONLY. There is no.pdf\ndocument associated with this entry.) (Entered: 07/26/2016)\n07/29/2016 14  ORDER pursuant to General Order 09−08 granting 9 Motion for Admission Pro Hac\nVice. Per the Court's Administrative Policies and Procedures Manual, applicant has\nfive (5) days in which to register as a user of the Electronic Filing System. Registration\nto be accomplished via the court's website at www.azd.uscourts.gov. Counsel is\nadvised that they are limited to two (2) additional e−mail addresses in their District of\nArizona User Account. (BAS) (This is a TEXT ENTRY ONLY. There is no.pdf\ndocument associated with this entry.) (Entered: 07/29/2016)\n08/02/2016 PRO HAC VICE FEE PAID. $ 35, receipt number PHX174674 as to Diana Salgado.\nThis is a TEXT ENTRY ONLY. There is no PDF document associated with this entry.\n(BAS) (Entered: 08/02/2016)\n08/04/2016 15  NOTICE of Appearance by Kathleen E Brody on behalf of Desert Star Family\nPlanning LLC, Eric Reuss, DeShawn Taylor, Unknown Party. (Brody, Kathleen)\n(Entered: 08/04/2016)\n08/18/2016 16  MOTION to Withdraw as Attorney Alyson Zureick by Desert Star Family Planning\nLLC, Planned Parenthood Arizona Incorporated, Eric Reuss, DeShawn Taylor,\nUnknown Parties, Unknown Party. (Attachments: # 1 Text of Proposed\nOrder)(Zureick, Alyson) (Entered: 08/18/2016)\n08/22/2016 17  ORDER granting 16 Motion to Withdraw as Attorney. Attorney Alyson Zureickis\nwithdrawn as counsel in this action. Signed by Senior Judge Roslyn O. Silver on\n8/22/16.(CLB) (Entered: 08/22/2016)\n\nCase: 2:16-cv-2337   As of: 03/13/2017 10:41 AM MST   6 of 6\n09/01/2016 18  STIPULATION of Dismissal without Prejudice and Agreement of Nonenforcement by\nDesert Star Family Planning LLC, Planned Parenthood Arizona Incorporated, Eric\nReuss, DeShawn Taylor, Unknown Parties, Unknown Party. (Attachments: # 1 Text of\nProposed Order)(Lee, Jennifer) (Entered: 09/01/2016)\n09/07/2016 19  ORDER granting 18 Stipulation of Dismissal. This case is dismissed without\nprejudice. See PDF for details. Signed by Senior Judge Roslyn O Silver on 9/6/16.\n(DXD) (Entered: 09/07/2016)",
+      "document_type_other": "",
+      "external_url": "",
+      "ecf_number": null,
+      "clearinghouse_link": "clearinghouse.net/doc/86639"
+    },
+    {
+      "date": null,
+      "date_is_estimate": false,
+      "date_not_available": false,
+      "description": null,
+      "document_source": null,
+      "document_status": null,
+      "document_type": null,
+      "order_type": null,
+      "citation_paren": null,
+      "cite_1_page": null,
+      "cite_1_reporter": null,
+      "cite_1_vol": null,
+      "cite_2_page": null,
+      "cite_2_reporter": null,
+      "cite_2_vol": null,
+      "cite_3_page": null,
+      "cite_3_reporter": null,
+      "cite_3_vol": null,
+      "citation_status": null,
+      "court": null,
+      "no_title": false,
+      "party_types": [],
+      "per_curium": false,
+      "is_core_document": true,
+      "id": 116190,
+      "file": null,
+      "title": null,
+      "text": null,
+      "document_type_other": null,
+      "external_url": null,
+      "ecf_number": null,
+      "clearinghouse_link": "clearinghouse.net/doc/116190"
+    },
+    {
+      "date": "2023-05-18",
+      "date_is_estimate": false,
+      "date_not_available": false,
+      "description": "",
+      "document_source": "RECAP",
+      "document_status": "Coding Complete",
+      "document_type": "Settlement Agreement",
+      "order_type": null,
+      "citation_paren": null,
+      "cite_1_page": null,
+      "cite_1_reporter": null,
+      "cite_1_vol": null,
+      "cite_2_page": null,
+      "cite_2_reporter": null,
+      "cite_2_vol": null,
+      "cite_3_page": null,
+      "cite_3_reporter": null,
+      "cite_3_vol": null,
+      "citation_status": "Not applicable",
+      "court": "District of Arizona",
+      "no_title": false,
+      "party_types": [
+        "Defendant",
+        "Plaintiff"
+      ],
+      "per_curium": false,
+      "is_core_document": true,
+      "id": 153646,
+      "file": "https://clearinghouse-umich-production.s3.amazonaws.com/media/doc/153646.pdf",
+      "title": "Joint Stipulation of Nonenforcement",
+      "text": " \nCase 2:16-cv-02337-ROS   Document 22   Filed 05/18/23   Page 1 of 4\n1  LAW OFFICES \nBROENING OBERG WOODS & WILSON \n2  PROFESSIONAL CORPORATION \n2800 NORTH CENTRAL AVENUE  \n3  SUITE 1600 \nPHOENIX, ARIZONA  85004 \n4  TELEPHONE: (602) 271-7700 \nFACSIMILE:  (602) 258-7785 \n5  Jathan P. McLaughlin/Bar No. 028065 \nE-mail: jpm@bowwlaw.com \n6                    lmb@bowwlaw.com  \nJessica J. Kokal/Bar No. 029042 \n7     E-Mail: jjk@bowwlaw.com \n          mtd@bowwlaw.com \n8   \nAttorneys for Defendant Betlach \n9   \nIN THE UNITED STATES DISTRICT COURT \n10   \nFOR THE DISTRICT OF ARIZONA \n11   \nPlanned Parenthood Arizona, Inc.; et al.,  No.  2:16-CV-02337-ROS \n12     \nPlaintiffs,  JOINT STIPULATION OF NON-\n13    ENFORCEMENT  \nv.   \n14     \nThomas Betlach, Director, of the Arizona   \n15  Health Care Cost Containment System, in \nhis official capacity, \n16   \nDefendant. \n17 \n18  The parties, by their undersigned counsel of record, stipulate as follows:  \n19  1.  On May 17, 2016, Arizona Governor Doug Ducey signed into  law H.B. \n20  2599, codified at Ariz. Rev. Stat. § 36-2930.05 (“H.B. 2599”).  \n21  2.  On July 14, 2016, Plaintiffs filed a complaint challenging a provision of H.B. \n22  2599,  codified  at  Ariz.  Rev.  Stat.  §  36-2930.05(B)(6),  which  empowers  Defendant  to \n23  exclude from participation in Arizona’s Medicaid Program any “individual or entity” that \n24  “[f]ailed to segregate taxpayer dollars from abortions, including the use of taxpayer dollars \n25  for any overhead expenses attributable to abortions.” (“the segregation requirement” or \n26  “the Act”).  \n27  3.  H.B. 2599 also states that “[t]he Director shall adopt rules that prescribe \n28  procedures for determining the length of exclusion, appealing the exclusion determination \n\n \nCase 2:16-cv-02337-ROS   Document 22   Filed 05/18/23   Page 2 of 4\n1  and requesting reinstatement following an exclusion.” H.B. 2599(D), codified at Ariz. Rev. \n2  Stat. § 36-2930.05(D).  \n3  4.  H.B.  2599  went  into  effect  August  5,  2016  without  the  Director  having \n4  adopted any rules. Based on an agreement that Defendant would not enforce the statute \n5  until final rules take effect, on September 1, 2016, the parties filed a Stipulation to Dismiss \n6  Without Prejudice and Agreement of Nonenforcement [Doc. 18]. \n7  5.  That stipulation says, inter alia, that Defendant would not seek an immediate \n8  effective date of the regulations. \n9  6.  On September 7, 2016, the Court issued an Order granting the stipulation of \n10  dismissal without prejudice, and ordering Defendant to “not request an immediate effective \n11  date” of the rules.  The Court also retained jurisdiction to enforce the terms of its Order \n12  [Doc. 19]. \n13  7.  Defendant  has  informed  Plaintiffs  that  there  is  an  urgent  need  to  issue \n14  emergency  regulations  pursuant  to  H.B.  2599  to  exclude  unscrupulous  providers  for \n15  unlawful activity unrelated to Plaintiffs or Ariz. Rev. Stat. § 36-2930.05(B)(6). \n16  8.  The parties agree that Defendant is permitted to pursue that emergency rule \n17  making,  but  Defendant  agrees  that  those  emergency  rules,  and  H.B.  2599,  cannot  be \n18  enforced against Plaintiffs until final rules that have the usual 60 day effective date as \n19  provided by Ariz. Rev. Stat. § 41-1032 are promulgated pursuant to the parties’ September \n20  1, 2006 Stipulation and the Court’s September 7, 2016 Order.  \n21  9.  Defendant further agrees any steps, action, or efforts taken by Defendant to \n22  enforce the segregation requirement can be based only on Plaintiffs’ conduct 30 (thirty) \n23  days from the effective date of the final rules.  \n24  10.  Nothing in this order precludes the parties from jointly requesting the Court \n25  to modify any terms of this order.  \n26  // \n27  // \n28   \n2 \n\n \nCase 2:16-cv-02337-ROS   Document 22   Filed 05/18/23   Page 3 of 4\n1  11.  This Court shall retain jurisdiction to enforce the terms of this order. \n2 \nRESPECTFULLY SUBMITTED this 18th day of May, 2023. \n3   \nBROENING OBERG WOODS & WILSON, P.C. \n4   \n \n5  By: /s/ Jathan P. McLaughlin \nJathan P. McLaughlin \n6  Jessica J. Kokal \n2800 North Central Avenue, Suite 1600 \n7  Phoenix, Arizona 85004 \nAttorneys for Defendant Betlach \n8   \n \n9   \nAMERICAN CIVIL LIBERTIES UNION \n10  FOUNDATION OF ARIZONA   \n \n11   \nBy: /s/ Jared Keenan (with permission) \n12 \nJared Keenan  \n3707 North 7th Street, Ste. 235   \n13 \nPhoenix, Arizona 85014   \nAttorneys for Plaintiff Arizona Civil Liberties \n14  Union Foundation of Arizona \n \n15 \n \n16 \n17 \n18 \n19 \n20 \n21 \n22 \n23 \n24 \n25 \n26 \n27 \n28 \n3 \n\n \nCase 2:16-cv-02337-ROS   Document 22   Filed 05/18/23   Page 4 of 4\n1  CERTIFICATE OF SERVICE \n2  I hereby certify that on May 18, 2023, I electronically transmitted the foregoing with \n3  the Clerk of the Court using the CM/ECF system for filing. Notice of this filing will be sent \n4  by e-email to all parties by operation of the Court’s electronic filing system.   \n \n5   \n \n6   \n/s/ Lisa Black \n7 \n \n \n8 \n \n9 \n10 \n11 \n12 \n13 \n14 \n15 \n16 \n17 \n18 \n19 \n20 \n21 \n22 \n23 \n24 \n25 \n26 \n27 \n28 \n4 ",
+      "document_type_other": null,
+      "external_url": "https://www.courtlistener.com/docket/6339926/22/planned-parenthood-arizona-incorporated-v-betlach/",
+      "ecf_number": "22",
+      "clearinghouse_link": "clearinghouse.net/doc/153646"
+    },
+    {
+      "date": "2016-07-14",
+      "date_is_estimate": false,
+      "date_not_available": false,
+      "description": null,
+      "document_source": "PACER [Public Access to Court Electronic Records]",
+      "document_status": "Coding Complete",
+      "document_type": "Complaint",
+      "order_type": null,
+      "citation_paren": null,
+      "cite_1_page": null,
+      "cite_1_reporter": null,
+      "cite_1_vol": null,
+      "cite_2_page": null,
+      "cite_2_reporter": null,
+      "cite_2_vol": null,
+      "cite_3_page": null,
+      "cite_3_reporter": null,
+      "cite_3_vol": null,
+      "citation_status": "Not applicable",
+      "court": "District of Arizona",
+      "no_title": false,
+      "party_types": [
+        "Plaintiff"
+      ],
+      "per_curium": false,
+      "is_core_document": true,
+      "id": 86641,
+      "file": "https://clearinghouse-umich-production.s3.amazonaws.com/media/doc/86641.pdf",
+      "title": " Complaint for Declaratory and Injunctive Relief",
+      "text": "Case 2:16-cv-02337-ROS   Document 1   Filed 07/14/16   Page 1 of 18\nJennifer Lee* DianaSalgado*\n1\nBrigitteAmiri* PlannedParenthoodFederationofAmerica\nAlyson Zureick* 434West 33rdStreet\n2\nAmericanCivil Liberties Union NewYork, NewYork10001\n3 Foundation (212)541-7800\n125BroadStreet diana.salgado@ppfa.org\n4\nNewYork, NewYork10004\n(212)549-2633 Daniel B.Pasternak(AZBar No.023751)\n5\njlee@aclu.org Laura Lawless Robertson (AZBarNo.023951)\nbamiri@aclu.org SquirePattonBoggs (US) LLP\n6\nazureick@aclu.org 1East WashingtonStreet,Suite2700\n7 Phoenix,Arizona85004\nDaniel Pochoda(AZBar No.021979) (602)528-4000\n8\nAmericanCivil Liberties Union daniel.pasternak@squirepb.com\nFoundationofArizona laura.robertson@squirepb.com\n9\n3707North7thStreet,Suite235\n10 Phoenix,Arizona85014 Attorneys for Plaintiffs PlannedParenthood\n(602)650-1854 of Arizona, Inc.andJane Doe#1\n11 dpochoda@acluaz.org\n12\nAttorneys for Plaintiffs Desert Star Family\nPlanning,LLC,DeShawnTaylor, M.D.,\n13\nEricReuss,M.D.,M.P.H,JaneDoes #2-5\n14\n*Applications for admissionpro hac\n15 viceforthcoming\n16\nIN THE UNITED STATES DISTRICT COURT\nFOR THE DISTRICT OF ARIZONA\n17\n18 Planned Parenthood Arizona, Inc.; Desert Star\nFamilyPlanning, LLC; Deshawn Taylor,\n19\nM.D.; Eric Reuss, M.D., M.P.H.; Jane Does\n20 #1-5,\n21 Civil Action No.\nPlaintiffs,\nv.\n22\nCOMPLAINT FOR\nDECLARATORY AND\n23 Thomas Betlach, Director, Arizona\nINJUNCTIVE RELIEF\nHealth Care Cost Containment System,\n24\nin his official capacity,\n25\nDefendant.\n26\n27\n28\n1\n010-8240-6455/1/AMERICAS\n\nCase 2:16-cv-02337-ROS   Document 1   Filed 07/14/16   Page 2 of 18\n1 Plaintiffs Planned Parenthood Arizona, Inc. (“PPAZ”), Desert Star Family\n2 Planning, LLC (“Desert Star”), DeShawn Taylor, M.D., and Eric Reuss, M.D., M.P.H.,\n3 (collectively, the “Provider Plaintiffs”), and Plaintiffs Jane Doe #1, Jane Doe #2, Jane Doe\n4 #3, Jane Doe #4, and Jane Doe #5 (collectively, the “Jane Doe Plaintiffs”) (collectively,\n5 with the Provider Plaintiffs, “Plaintiffs”), by and through their attorneys, bring this\n6 Complaint against Defendant Thomas Betlach in his official capacity as Director of the\n7 Arizona Health Care Cost Containment System (“AHCCCS”).\n8 INTRODUCTORY STATEMENT\n9 1. This civil action is brought pursuant to 42 U.S.C. § 1983 to vindicate rights\n10 secured by the federal Medicaid statutes as well as the Due Process and Equal Protection\n11 Clauses of the Fourteenth Amendment to the United States Constitution.\n12 2. Medicaid enrollees are guaranteed the right to receive covered services\n13 from the qualified provider of their choice by federal law. See 42 U.S.C. § 1396a(a)(23).\n14 In this case, the Provider Plaintiffs’ patients, including the Jane Doe Plaintiffs, choose to\n15 receive care from the Provider Plaintiffs — highly qualified medical providers that\n16 provide a range of reproductive health services, including abortion.\n17 3. On May 17, 2016, Arizona Governor Doug Ducey signed into law Arizona\n18 H.B. 2599, 2nd Regular Session, 52nd Legislature (2016). In direct violation of federal\n19 law, a provision of H.B. 2599, to be codified at ARIZ. REV. STAT. § 36-2930.02(B)(6)\n20 (“H.B. 2599” or “the Act”), attached hereto as Exhibit A, threatens to prevent the Provider\n21 Plaintiffs’ patients, including the Jane Doe Plaintiffs, from obtaining critical, ongoing care\n22 from the qualified providers of their choice.\n23 4. Specifically, the Act empowers AHCCCS, the Medicaid agency in Arizona,\n24 to exclude from participation in Arizona’s Medicaid program any “individual or entity”\n25 that “[f]ailed to segregate taxpayer dollars from abortions, including the use of taxpayer\n26 dollars for any overhead expenses attributable to abortions.” H.B. 2599. The federal\n27 Medicaid statutes do not permit Arizona to impose this requirement as a condition of\n28\n2\n010-8240-6455/1/AMERICAS\n\nCase 2:16-cv-02337-ROS   Document 1   Filed 07/14/16   Page 3 of 18\n1 participation in Medicaid. Unless enjoined, this impermissible requirement threatens to\n2 exclude the Provider Plaintiffs from the Medicaid program, thereby restricting their ability\n3 to provide — and their patients’, including the Jane Doe Plaintiffs’, ability to access —\n4 vital women’s health services.\n5 5. This is not the first time that Arizona has attempted to restrict the right of\n6 Medicaid participants to obtain health care from the qualified provider of their choice,\n7 simply because those providers also provide abortions. In 2012, Arizona enacted House\n8 Bill 2800 (“H.B. 2800”), 2nd Regular Session, 50th Legislature, codified at ARIZ. REV.\n9 STAT. § 35-196.05. H.B. 2800 prohibited any person or entity that performs abortions —\n10 other than in cases of rape, incest, or threats to the woman’s health or life — from\n11 participating in Arizona’s Medicaid program. Plaintiffs PPAZ, Dr. Reuss, and three Jane\n12 Doe plaintiffs challenged that law and sought injunctive and declaratory relief that H.B.\n13 2800 violated the Medicaid statutes and the United States Constitution.\n14 6. As a result, this Court enjoined the law, finding that “Arizona lacks [the]\n15 authority . . . [to] restrict a beneficiary’s right to select any qualified provider for reasons\n16 wholly unrelated to the provider’s ability to deliver Medicaid Services.” Planned\n17 Parenthood Ariz., Inc. v. Betlach, 922 F. Supp. 2d 858, 864 (D. Ariz. 2013). On appeal,\n18 the Ninth Circuit Court of Appeals agreed with the District Court that the “Arizona law\n19 violates [federal Medicaid law] by precluding Medicaid patients from using medical\n20 providers concededly qualified to perform family planning services to patients in Arizona\n21 generally, solely on the basis that those providers separately perform privately funded,\n22 legal, abortions.” Planned Parenthood Ariz., Inc. v. Betlach, 727 F.3d 960, 963 (9th Cir.\n23 2013), cert. denied, 134 S. Ct. 1283 (2014). Undeterred by these unambiguous rulings,\n24 Arizona enacted the instant Act as a thinly-veiled attempt to avoid the clear holding and\n25 reasoning in Betlach.\n26 7. As in Betlach, the Provider Plaintiffs are qualified to provide healthcare\n27 services to their Medicaid patients, including the Jane Doe Plaintiffs, who depend on them\n28\n3\n010-8240-6455/1/AMERICAS\n\nCase 2:16-cv-02337-ROS   Document 1   Filed 07/14/16   Page 4 of 18\n1 for that care. Yet once again, Arizona is attempting to bar the Provider Plaintiffs from\n2 participating in the Medicaid program simply because they provide legal abortion services\n3 to Arizona women.\n4 8. Accordingly, Plaintiffs seek declaratory and injunctive relief. The Act\n5 violates Section 1396a(a)(23) of the Medicaid Act because it threatens to prevent the\n6 Provider Plaintiffs’ patients, including the Jane Doe Plaintiffs, from obtaining medical\n7 care from their qualified provider of choice. The Act also violates the Provider Plaintiffs’\n8 due process rights under the Fourteenth Amendment because it does not give the Provider\n9 Plaintiffs fair notice of what they must do to comply with the Act’s terms, thus placing\n10 them at risk of arbitrary enforcement, and it also disqualifies Provider Plaintiffs from\n11 receiving government funds because they provide constitutionally protected abortions.\n12 Finally, the Act violates the Equal Protection Clause because it singles out for unfair\n13 treatment only Medicaid providers who provide constitutionally protected abortions.\n14 Because there is no adequate remedy at law for these ongoing harms, Plaintiffs require\n15 injunctive relief.\n16 9. The Act is scheduled to take effect on August 6, 2016. An injunction is\n17 required to ensure that the Act does not cause significant and irreparable harm to the\n18 Provider Plaintiffs and to their patients, including the Jane Doe Plaintiffs, who are at risk\n19 of losing their provider of choice, having their reproductive healthcare interrupted, and —\n20 particularly in certain underserved areas — being left with few or no alternative health\n21 care providers.\n22 I. JURISDICTION AND VENUE\n23 10. Subject matter jurisdiction is conferred on this Court by 28 U.S.C. §§ 1331\n24 and 1343.\n25 11. Plaintiffs’ claims for declaratory and injunctive relief are authorized by 28\n26 U.S.C. §§ 2201 and 2202, by Rules 57 and 65 of the Federal Rules of Civil Procedure, and\n27 by the general legal and equitable powers of this Court.\n28\n4\n010-8240-6455/1/AMERICAS\n\nCase 2:16-cv-02337-ROS   Document 1   Filed 07/14/16   Page 5 of 18\n1 12. Venue in this judicial district is proper under 28 U.S.C. § 1391.\n2 II. THE PARTIES\n3 A. Plaintiffs\n4 13. Plaintiff PPAZ is a not-for-profit corporation organized under the laws of\n5 Arizona. PPAZ brings this action on behalf of itself, its physicians who are Medicaid\n6 providers, and its Medicaid patients. PPAZ is the largest provider of reproductive health\n7 services in Arizona and operates eleven health centers throughout the state. For nearly 25\n8 years, PPAZ has participated in the Medicaid program, providing medical services to low-\n9 income enrollees, and has never been excluded from the Medicaid program. PPAZ\n10 provides comprehensive reproductive health services to women throughout Arizona,\n11 including pap smears, testing and treatment for sexually transmitted diseases, breast\n12 exams, HPV immunizations, and contraceptives. PPAZ also provides abortions at four of\n13 its health centers, and has received Medicaid reimbursements for certain medically\n14 necessary abortion services in accordance with state and federal law. For the 12-month\n15 period from June 1, 2014 through May 31, 2015, PPAZ provided services during more\n16 than 45,000 family planning visits, approximately 5,000 of which were for Medicaid\n17 patients.\n18 14. Plaintiff Desert Star is a private physician practice located in Phoenix,\n19 Arizona, which provides comprehensive family planning, well-woman care, basic men’s\n20 sexual health services, abortion services, and miscarriage management. Desert Star has\n21 served Medicaid patients since 2013, and has never been excluded from the Medicaid\n22 program. Desert Star has received Medicaid reimbursements for certain medically\n23 necessary abortion services in accordance with state and federal law. Plaintiff DeShawn\n24 Taylor, M.D., is Desert Star’s owner and medical director, and is a board-certified\n25 obstetrician-gynecologist licensed to practice medicine in Arizona. She has been a\n26 Medicaid provider since 2009 and has never been excluded from the Medicaid program.\n27\n28\n5\n010-8240-6455/1/AMERICAS\n\nCase 2:16-cv-02337-ROS   Document 1   Filed 07/14/16   Page 6 of 18\n1 Desert Star and Dr. Taylor sue on their own behalves and on behalf of their Medicaid\n2 patients.\n3 15. Plaintiff Eric Reuss, M.D., M.P.H., is a board-certified obstetrician-\n4 gynecologist licensed to practice medicine in Arizona. He has a private, solo, general\n5 obstetrics and gynecology practice, Scottsdale Obstetrics & Gynecology, P.C., in\n6 Scottsdale, Arizona. Dr. Reuss provides his patients with the full range of general\n7 obstetrics and gynecology care, including well-woman care; prenatal care; labor and\n8 delivery care; family planning services; and abortion care. Dr. Reuss has participated in\n9 the Medicaid program since 2001 and has never been excluded from the Medicaid\n10 program. Dr. Reuss sues on his own behalf and on behalf of his Medicaid patients.\n11 16. Each of the physician Provider Plaintiffs has professional medical licenses\n12 that theywish to preserve in good standing so that they maypractice their profession.\n13 17. Plaintiff Jane Doe #1 is an Arizona resident and Medicaid patient who has\n14 been a longtime patient of PPAZ, where she has received well-woman exams, STI\n15 screenings, and contraceptives. She wishes to continue to obtain her reproductive health\n16 care from PPAZ, including contraceptive counseling, contraception, and her well-woman\n17 exams. She sues on her own behalf.\n18 18. Plaintiff Jane Doe #2 is an Arizona resident and Medicaid patient who is\n19 currently pregnant and receiving prenatal care from Dr. Reuss and is due to be delivered\n20 by Dr. Reuss in September 2016. Leading up to her due date she will continue to have\n21 monthly, then bi-weekly, then weekly prenatal appointments. After her baby is born she\n22 intends to receive postnatal care from Dr. Reuss. She sues on her own behalf.\n23 19. Plaintiff Jane Doe #3 is an Arizona resident and Medicaid patient who is\n24 currently pregnant and receiving prenatal care from Dr. Reuss and is due to have her baby\n25 delivered by Dr. Reuss in November 2016. Leading up to her due date she will continue\n26 to have monthly, then bi-weekly, then weekly prenatal appointments. After her baby is\n27\n28\n6\n010-8240-6455/1/AMERICAS\n\nCase 2:16-cv-02337-ROS   Document 1   Filed 07/14/16   Page 7 of 18\n1 born she intends to receive postnatal and general gynecological care, including her well-\n2 woman exams, from Dr. Reuss. She sues on her own behalf.\n3 20. Plaintiff Jane Doe #4 is an Arizona resident and Medicaid patient who has\n4 been a longtime patient of Dr. Reuss, from whom she receives her annual well-woman\n5 exams, pap smears, STI testing, and prescriptions for birth control. Her last appointment\n6 with Dr. Reuss was in June 2016, and she plans to return in June 2017 for her next annual\n7 exam. She sues on her own behalf.\n8 21. Plaintiff Jane Doe #5 is an Arizona resident and Medicaid patient and has\n9 received care from Dr. Taylor at Desert Star in the past. She is in the process of enrolling\n10 in a different managed care organization so that she may obtain reproductive care from\n11 Desert Star in the future. She plans to obtain a well-woman exam at Desert Star this fall.\n12 She sues on her own behalf.\n13 22. Each of the Jane Doe Plaintiffs appears pseudonymously because of the\n14 private and personal nature of the medical care she receives, and she desires to assert her\n15 legal rights without having to disclose private medical information.\n16 B. Defendant\n17 23. Defendant Thomas J. Betlach is the Director of AHCCCS, the agency that\n18 administers Arizona’s Medicaid program, and which, under the Act, is authorized to\n19 terminate the Provider Plaintiffs’ participation in the Medicaid program and,\n20 consequently, prevent their patients, including the Jane Doe Plaintiffs, from obtaining\n21 covered health care services from their willing, qualified Medicaid provider of choice.\n22 Defendant Betlach is sued in his official capacity.\n23 III. FACTS\n24 A. The Medicaid Program\n25 24. The Medicaid program, established under Title XIX of the Social Security\n26 Act of 1935, 42 U.S.C. § 1396 et seq., pays for medical coverage provided to eligible\n27 people based upon their income. A State may elect whether to participate, but if it\n28\n7\n010-8240-6455/1/AMERICAS\n\nCase 2:16-cv-02337-ROS   Document 1   Filed 07/14/16   Page 8 of 18\n1 chooses to do so, it must comply with the requirements imposed by the Medicaid statutes,\n2 the applicable regulations, and the Secretary of the U.S. Department of Health and Human\n3 Services (“HHS”) in her administration of the Medicaid statute. See generally 42 U.S.C. §\n4 1396a(a)(1)–(83).\n5 25. To receive federal funding, a participating state must develop a “plan for\n6 medical assistance” and submit it to the Secretary of HHS for approval. 42 U.S.C.\n7 § 1396a(a).\n8 26. Among other requirements, the state plan must provide that: “[A]ny\n9 individual eligible for medical assistance … may obtain such assistance from any\n10 institution, agency, community pharmacy, or person, qualified to perform the service or\n11 services required … who undertakes to provide him such services.” 42\n12 U.S.C. § 1396a(a)(23)(A). This is known as the free choice of provider requirement.\n13 27. Congress has singled out family planning services for special additional\n14 protections to ensure freedom of choice of provider, specifically providing that, with\n15 respect to those services and with certain limited exceptions not applicable here, an\n16 individual’s enrollment “in a primary care case-management system … , a [M]edicaid\n17 managed care organization, or a similar entity shall not restrict the choice of the qualified\n18 person from whom the individual may receive [family planning] services.” 42 U.S.C.\n19 § 1396a(a)(23)(B); see also 42 C.F.R. § 431.51(b)(2) (same).\n20 28. For decades, Congress has attached a rider to HHS’s appropriations\n21 blocking the use of federal Medicaid funds for abortion, except in limited circumstances.\n22 See Consolidated Appropriations Act of 2016, Pub. L. No. 114-113, §§ 506-507, 129 Stat.\n23 2242, 2649 (2015). However, the Medicaid statutes do not prohibit entities that provide\n24 abortion services from receiving Medicaid funds to provide non-abortion services.\n25 29. Moreover, neither the Medicaid statutes nor the implementing regulations\n26 include an exception to the freedom of choice provision that would allow states to exclude\n27\n28\n8\n010-8240-6455/1/AMERICAS\n\nCase 2:16-cv-02337-ROS   Document 1   Filed 07/14/16   Page 9 of 18\n1 providers from participating in the Medicaid program based on those providers’ ability to\n2 segregate public funds.\n3 B. Implementation of the Medicaid Statutes\n4 30. For decades, the Centers for Medicare & Medicaid Services (“CMS”), the\n5 agency within HHS that administers Medicaid (and its predecessor organization), has\n6 repeatedly interpreted the “qualified” language in § 1396a(a)(23) to prohibit states from\n7 denying Medicaid participants access to a provider for reasons unrelated to the ability of\n8 that provider to perform Medicaid-covered services or to properly bill for those services,\n9 including reasons such as the scope of the medical services that the provider chooses to\n10 offer.\n11 31. CMS has explained that “[t]he purpose of the free choice provision is to\n12 allow [Medicaid] recipients the same opportunities to choose among available providers\n13 of covered health care and services as are normally offered to the general population.”\n14 CTRS. FOR MEDICARE & MEDICAID SERVS., CMS MANUALS PUBLICATION #45, STATE\n15 MEDICAIDMANUAL, § 2100.\n16 32. HHS has a long history of rejecting state plans that restrict the type of\n17 provider that can provide particular services. See, e.g., 53 Fed. Reg. 8699 (Mar. 16, 1988)\n18 (rejecting plan that would limit providers to “private nonprofit” organizations); 67 Fed.\n19 Reg. 79121 (Dec. 27, 2002) (noting disapproval of a state plan amendment that would\n20 have limited “beneficiary choice … by imposing standards that are not reasonably related\n21 to the qualifications of providers”). For example, in 2011, CMS rejected an Indiana plan\n22 that barred state agencies from contracting with or making grants to any entities that\n23 performed abortions because it violated the Medicaid freedom of choice provision. Letter\n24 from Donald M. Berwick, Adm’r., CMS, to Patricia Casanova, Dir., Ind. Office of\n25 Medicaid Policy and Planning (June 1, 2011),\n26 http://www.politico.com/static/PPM169_110601_indiana_letter.html.\n27\n28\n9\n010-8240-6455/1/AMERICAS\n\nCase 2:16-cv-02337-ROS   Document 1   Filed 07/14/16   Page 10 of 18\n1 33. CMS is permitted to waive § 1396a(a)(23) in demonstration projects\n2 approved under Social Security Act § 1115. However, such waivers cannot extend to the\n3 free choice of provider requirement as applied to family planning services. 42 U.S.C.\n4 § 1396a(a)(23)(B); see also 42 C.F.R. § 431.51(b)(2). Accordingly, CMS regularly rejects\n5 state requests to do so for familyplanning services.\n6 34. In just the last two years, CMS has rejected two such state requests: first in\n7 Pennsylvania, see Letter from Marilyn Tavenner, Adm’r, CMS, to Beverly Mackereth,\n8 Sec’y, Pa. Dep’t of Pub. Welfare (Aug. 28, 2014), http://www.medicaid.gov/Medicaid-\n9 CHIP-Program-Information/By-Topics/Waivers/1115/downloads/pa/pa-healthy-ca.pdf\n10 (“No waiver of freedom of choice is authorized for familyplanning providers.”); and more\n11 recently in Iowa, see Letter from Vikki Wachino, Dir., CMS, to Mikki Stier, Medicaid\n12 Dir., Iowa Dep’t of Human Servs. (July 31, 2015), http://www.medicaid.gov/Medicaid-\n13 CHIP-Program-Information/By-Topics/Waivers/1115/downloads/ia/ia-marketplace-\n14 choice-plan-ca.pdf (“No waiver of freedom of choice is authorized for family planning\n15 providers.”).\n16 35. Moreover, the federal government has repeatedly made clear to states,\n17 including Arizona, that attempts to exclude abortion providers from the Medicaid program\n18 are barred by the Medicaid statutes.\n19 36. In Betlach, the federal government filed an amicus brief in the appeal of the\n20 preliminary injunction barring Arizona from enforcing the 2012 defunding attempt. In its\n21 brief, the government explained that Arizona’s statute violated the free choice of provider\n22 requirement because it excluded qualified providers that perform abortions from the\n23 Medicaid program, and that providing abortions does not render a provider otherwise\n24 unqualified to provide Medicaid services. Brief for the United States, as Amicus Curiae\n25 Supporting Appellees, Planned Parenthood Ariz., Inc. v. Betlach, 727 F.3d 960 (9th Cir.\n26 2013) (No. 12-17558), 2013 WL 663789. The federal government filed a similar brief in\n27 the Fifth Circuit in a case challenging Louisiana’s attempt to exclude abortion providers\n28\n10\n010-8240-6455/1/AMERICAS\n\nCase 2:16-cv-02337-ROS   Document 1   Filed 07/14/16   Page 11 of 18\n1 from its Medicaid program. See Brief for the United States as Amicus Curiae, Planned\n2 Parenthood Gulf Coast, Inc. v. Gee, No. 15-30987 (5th Cir. 2016).\n3 37. In April 2016, after a wave of Medicaid defunding efforts of abortion\n4 providers by states across the country, CMS sent a letter to all State Medicaid Directors,\n5 including Defendant. CMS again made clear that the free choice of provider requirement\n6 limits a state’s authority to take action against a Medicaid provider unless the action\n7 relates to a provider’s “fitness” to provide covered services, meaning the provider’s\n8 “capability to perform the required services in a professionally competent, safe, legal, and\n9 ethical manner — or the ability of the provider to appropriately bill for those services.”\n10 Letter from Vikki Wachino, Dir. CMS to State Medicaid Directors (Apr. 19, 2016),\n11 https://www.medicaid.gov/federal-policy-guidance/downloads/smd16005.pdf.\n12 38. The letter further stated that proper reasons for such actions “may not\n13 include a desire to target a provider or set of providers for reasons unrelated to their fitness\n14 to perform covered services or the adequacy of their billing practices. The failure of a\n15 state to apply otherwise reasonable standards in an evenhanded manner may suggest such\n16 targeting.” Id. In addition, if a state takes an action against a provider that affects\n17 beneficiary access to the provider, this action “must be supported by evidence of fraud or\n18 criminal action, material non-compliance with relevant requirements, or material issues\n19 concerning the fitness of the provider to perform covered services or appropriately bill for\n20 them.” Id. As CMS made clear, “taking such action against a provider without such\n21 evidence would not be in compliance with the free choice of provider requirement.” Id.\n22 Every federal court, including the Ninth Circuit in Betlach, that has heard a challenge to a\n23 state’s action to bar abortion providers from their Medicaid program has held that states\n24 may not bar medical providers from their state Medicaid program on grounds unrelated to\n25 the providers’ willingness and ability to provide covered health services or properly bill\n26 for those services. See, e.g., Planned Parenthood of Ind., Inc. v. Comm’r of Ind. State\n27 Dep’t of Health, 699 F.3d 962, 977-80 (7th Cir. 2012), Planned Parenthood of Kan. and\n28\n11\n010-8240-6455/1/AMERICAS\n\nCase 2:16-cv-02337-ROS   Document 1   Filed 07/14/16   Page 12 of 18\n1 Mid-Mo. v. Mosier, No. 16-2284-JAR-GLR, 2016 WL 3597457 at *18-20 (D. Kan. July 5,\n2 2016); Planned Parenthood Gulf Coast, Inc. v. Kliebert, 141 F. Supp. 3d 604, 637-40\n3 (M.D. La. 2015); Planned Parenthood Se., Inc. v. Bentley, 141 F. Supp. 3d 1207, 1213-19\n4 (M.D. Ala. 2015); Planned Parenthood Ark. & E. Okla. v. Selig, No. 4:15-cv-00566-KGB\n5 (E.D. Ark. Oct. 5, 2015) (order granting plaintiff’s motion for preliminaryinjunction).\n6 C. The Act - H.B. 2599\n7 39. The Act requires medical providers to “segregate taxpayer dollars from\n8 abortions, including the use of taxpayer dollars for any overhead expenses attributable to\n9 abortions,” as a condition of participation in Arizona’s Medicaid program. ARIZ. REV.\n10 STAT. § 36-2930.02(B)(6) (effective Aug. 6, 2016). If a provider fails to comply with the\n11 segregation requirement, AHCCCS “in its sole discretion, may exclude [that provider]\n12 from participation” in the state Medicaid program. Id. Arizona law does not require\n13 providers of anyother medical procedure to segregate public funds in this manner.\n14 40. The Provider Plaintiffs have never been charged with or disciplined for\n15 using Medicaid funds to payfor non-Medicaid qualified abortions.\n16 41. The Act does not define the phrase “segregate taxpayer dollars from\n17 abortions, including the use of taxpayer dollars for any overhead expenses attributable to\n18 abortions,” nor does it explain how Medicaid providers are expected to comply with the\n19 provision.\n20 42. Moreover, Arizona law requires AHCCCS to reimburse Medicaid providers\n21 for abortion procedures when the patient is the victim of rape or incest, the abortion is\n22 necessary to save the patient’s life, or the abortion is medically necessary to preserve the\n23 patient’s health. See Simat Corp. v. AHCCCS, 203 Ariz. 454, 56 P.3d 28 (2002); ARIZ.\n24 REV. STAT. § 35-196.02(A). The Act does not explain how Medicaid providers are\n25 expected to “segregate taxpayer dollars from abortions” in these cases where the law\n26 requires AHCCCS to reimburse providers for abortion care.\n27\n28\n12\n010-8240-6455/1/AMERICAS\n\nCase 2:16-cv-02337-ROS   Document 1   Filed 07/14/16   Page 13 of 18\n1 43. Because the Act’s terms are unclear, it places Provider Plaintiffs at risk of\n2 arbitrary and discriminatory enforcement. This risk is particularly acute because Arizona\n3 has a long history of targeting abortion providers, like the Provider Plaintiffs, for unfair\n4 treatment: indeed, just since 2012, Arizona has passed no fewer than eight laws targeting\n5 such providers for unjustified regulation, scrutiny, and differential treatment from other\n6 medical providers.\n7 44. Furthermore, AHCCCS is empowered to enforce the Act with almost no\n8 notice to the Provider Plaintiffs. AHCCCS “has the right to terminate or suspend” the\n9 Provider Plaintiffs’ participation in the state Medicaid program “upon twenty-four (24)\n10 hours written notice when AHCCCS deems … the Provider fails to comply … with …\n11 State laws and regulations.” ARIZ. HEALTH CARE COST CONTAINMENT SYS., PROVIDER\n12 PARTICIPATION AGREEMENT (2014), https://www.azahcccs.gov/Plans\n13 Providers/Downloads/ProviderRegistration/ProviderPartAgreementForm.pdf.\n14 45. Because of the Act’s vague terms, counsel for the Provider Plaintiffs\n15 submitted a letter to AHCCCS on May 31, 2016, shortly after the Act was signed into law,\n16 seeking clarity as to the Act’s terms and AHCCCS’s interpretation of those terms. The\n17 letter also sought to confirm that no action would be taken to exclude any provider under\n18 the Act until additional guidance was provided. As of the date of filing this Complaint,\n19 counsel for Provider Plaintiffs has not received a response to that letter.\n20 D. The Impact of the Act on the Provider Plaintiffs and Their Patients\n21 46. The Act threatens to exclude the Provider Plaintiffs from the Medicaid\n22 program because of a requirement the state is prohibited byfederal law from imposing.\n23 47. Exclusion from the Medicaid program for cause carries potentially serious,\n24 negative consequences for the Provider Plaintiffs, particularly the individual physician\n25 providers who could suffer adverse actions against their professional licenses.\n26 48. Moreover, the Act places the Provider Plaintiffs’ patients, including the\n27 Jane Doe Plaintiffs, in a state of continual risk of being deprived of their choice of\n28\n13\n010-8240-6455/1/AMERICAS\n\nCase 2:16-cv-02337-ROS   Document 1   Filed 07/14/16   Page 14 of 18\n1 provider. Consequently, the Act undermines Medicaid patients’ rights to access the\n2 provider of their choice and their continuity of care, and threatens to constrict the\n3 availability of critical reproductive health services in Arizona.\n4 49. The need for publicly supported family planning services is great in\n5 Arizona. In 2013, an estimated 458,900 women in Arizona were in need of publicly\n6 supported family planning services. Guttmacher Inst., State Facts on Publicly Funded\n7 Family Planning Services: Arizona (2014),\n8 https://www.guttmacher.org/sites/default/files/factsheet/az_13.pdf. In 2010, 51% of\n9 pregnancies in Arizona were unintended, and nearly 65% of unplanned births in Arizona\n10 were publicly funded. Guttmacher Inst., State Facts About Unintended Pregnancy:\n11 Arizona (2016), https://www.guttmacher.org/sites/default/files/factsheet/az_18.pdf.\n12 Arizona also ranks eighteenth among fifty states in teen pregnancy rates. Kathryn Kost &\n13 Stanley Henshaw, U.S. Teenage Pregnancies, Births and Abortions, 2010: National and\n14 State Trends by Age, Race and Ethnicity, GUTTMACHER INSTITUTE (2014),\n15 https://www.guttmacher.org/sites/default/files/report_pdf/ustptrends10.pdf.\n16 50. In spite of the great needs, there are simply not enough providers of the\n17 critical care that the Provider Plaintiffs provide. Three of PPAZ’s eleven medical centers\n18 are in areas that the federal government has classified as “medically underserved” based\n19 on four variables: (1) the ratio of primary medical care physicians per 1,000 population,\n20 (2) the infant mortality rate, (3) the percentage of the population with incomes below the\n21 federal poverty level, and (4) the percentage of the population age 65 or older. See U.S.\n22 DEP’T OF HEALTH & HUM. SERVS., GUIDELINES FOR MUA AND MUP DESIGNATION\n23 (1995),http://www.hrsa.gov/shortage/mua/index.html.\n24 51. In addition, Desert Star and three of PPAZ’s centers are in areas classified\n25 as “low provider,” a designation based on similar criteria. See U.S. DEP’T OF HEALTH &\n26 HUM. SERVS., SHORTAGE DESIGNATION: HEALTH PROFESSIONAL SHORTAGE AREAS &\n27 MEDICALLYUNDERSERVEDAREAS/POPULATIONS, 2015, http://www.hrsa.gov/shortage/.\n28\n14\n010-8240-6455/1/AMERICAS\n\nCase 2:16-cv-02337-ROS   Document 1   Filed 07/14/16   Page 15 of 18\n1 52. If the Act is enforced against the Provider Plaintiffs, many of the Medicaid\n2 patients in these areas will have few or no alternative options and will find it difficult or\n3 impossible to access the high-quality reproductive health care services PPAZ and Desert\n4 Star provide. Medicaid patients who are unable to find an adequate alternative will not\n5 receive the medical services they need, an effect that could lead to higher rates of\n6 unintended pregnancies and transmission of sexual diseases.\n7 53. Even if other Medicaid providers were available, patients insured through\n8 Medicaid choose to receive their reproductive health care from the Provider Plaintiffs for\n9 a number of reasons. For example, some patients prefer to obtain care from the Provider\n10 Plaintiffs because they offer a wide range of high-quality reproductive health care services\n11 in a non-judgmental setting. In addition, other patients who are low-income prefer to seek\n12 care from those Provider Plaintiffs that are able to accommodate their scheduling\n13 constraints due to inflexible work schedules, childcare obligations, transportation\n14 challenges, and lack of childcare resources, by offering extended hours and walk-in\n15 appointments. Finally, patients who do not speak English prefer to obtain care from the\n16 Provider Plaintiffs that either have Spanish speaking staff or provide translator services,\n17 including for less commonlyencountered languages.\n18 54. The Act’s consequences loom particularly large for many of Dr. Reuss’s\n19 Medicaid patients who are pregnant and receiving ongoing prenatal care and intend to be\n20 delivered by Dr. Reuss and receive subsequent postnatal care. If the Act is enforced and\n21 Dr. Reuss is terminated as a Medicaid provider, these women may struggle to find an\n22 alternative obstetrician to accept them as a new patient, as many obstetricians will not\n23 accept new patients who are late in pregnancy.\n24 55. Another particularly vulnerable group would be those women in need of\n25 Medicaid-funded abortions because their pregnancy either is the result of rape or incest or\n26 poses certain risks to her health or life. If enforced, the Act would leave these women —\n27\n28\n15\n010-8240-6455/1/AMERICAS\n\nCase 2:16-cv-02337-ROS   Document 1   Filed 07/14/16   Page 16 of 18\n1 who are already in tragic circumstances — with no place to obtain a Medicaid-funded\n2 abortion.\n3\nIV. CLAIMS FOR RELIEF\n4\nCLAIM I\nMEDICAID ACT (TITLE XIX OF SOCIAL SECURITY ACT)\n5\n56. Plaintiffs herebyincorporate Paragraphs 1 through 55 above.\n6\n57. The Act violates Section 1396a(a)(23) of Title 42 of the United States Code\n7\nby denying the Provider Plaintiffs’ patients, including the Jane Doe Plaintiffs, the right to\n8\nchoose any willing, qualified healthcare provider under the Medicaid program.\n9\n58. Therefore, pursuant to 42 U.S.C. § 1983, this Court should declare the Act\n10\nillegal and preliminarily and permanentlyenjoin enforcement of the Act.\n11\n12 CLAIM II\nFOURTEENTH AMENDMENT DUE PROCESS – VAGUENESS\n13\n59. Plaintiffs herebyincorporate Paragraph 1 through 55 above.\n14\n60. The Act violates the Provider Plaintiffs’ Fourteenth Amendment rights to\n15\ndue process because it is impermissibly vague, fails to give fair notice of the conduct that\n16\nis required, and encourages arbitrary enforcement.\n17\n61. Therefore, pursuant to 42 U.S.C. § 1983, this Court should declare the Act\n18\nto be unconstitutional and should preliminarily and permanently enjoin enforcement of the\n19\nAct.\n20\nCLAIM III\n21 FOURTEENTH AMENDMENT EQUAL PROTECTION\n62. Plaintiffs herebyincorporate Paragraph 1 through 55 above.\n22\n63. The Act violates the Provider Plaintiffs’ Fourteenth Amendment rights by\n23\nsingling them out without adequate justification for unfavorable treatment because they\n24\nprovide a constitutionally protected health service.\n25\n26\n27\n28\n16\n010-8240-6455/1/AMERICAS\n\nCase 2:16-cv-02337-ROS   Document 1   Filed 07/14/16   Page 17 of 18\n1 64. Therefore, pursuant to 42 U.S.C. § 1983, this Court should declare the Act\n2 to be unconstitutional and should preliminarily and permanently enjoin enforcement of the\n3 Act.\nCLAIM IV\n4\nFOURTEENTH AMENDMENT DUE PROCESS –\n5 UNCONSTITUTIONAL CONDITION\n65. Plaintiffs herebyincorporate Paragraph 1 through 55 above.\n6\n66. The Act violates rights guaranteed to Provider Plaintiffs and their patients\n7\nby the Fourteenth Amendment of the U.S. Constitution because it denies certain\n8\ngovernment funds to the Provider Plaintiffs because of — and in retaliation for — their\n9\nexercise of their own constitutionallyprotected right to provide and their patients’ exercise\n10\nof the constitutional right to choose to have an abortion.\n11\n67. Therefore, pursuant to 42 U.S.C. § 1983, this Court should declare the Act\n12\nto be unconstitutional and should preliminarily and permanently enjoin enforcement of the\n13\nAct.\n14\nV. RELIEF REQUESTED\n15\nWHEREFORE, Plaintiffs request that this Court:\n16\n1. Issue a declaratory judgment that the Act violates the Medicaid statutes and\n17\nis therefore void and of no effect;\n18\n2. Issue a declaratory judgment that the Act violates the Due Process Clause\n19\nof the Fourteenth Amendment to the U.S. Constitution and is therefore void and of no\n20\neffect;\n21\n3. Issue a declaratory judgment that the Act violates the Equal Protection\n22\nClause of the Fourteenth Amendment to the U.S. Constitution and is therefore void and of\n23\nno effect;\n24\n4. Issue a declaratory judgment that the Act violates the Due Process Clause\n25\nof the Fourteenth Amendment to the U.S. Constitution and is therefore void and of no\n26\neffect;\n27\n28\n17\n010-8240-6455/1/AMERICAS\n\nCase 2:16-cv-02337-ROS   Document 1   Filed 07/14/16   Page 18 of 18\n1 5. Issue preliminary and permanent injunctive relief, without bond, restraining\n2 the enforcement, operation, and execution of the Act by enjoining Defendant, his agents,\n3 employees, appointees, delegatees, or successors from enforcing, threatening to enforce,\n4 or otherwise applying the provisions of the Act;\n5 6. Grant Plaintiffs attorneys’ fees, costs, and expenses pursuant to 42 U.S.C.\n6 § 1988; and\n7 7. Grant such further relief as this Court deems just and proper.\n8\nDATED: July14, 2016\n9\n10 /s/ Laura Lawless Robertson\nJennifer Lee* Daniel B. Pasternak\n11\nBrigitte Amiri* Laura Lawless Robertson\nAlyson Zureick* Squire Patton Boggs (US) LLP\n12\nAmerican Civil Liberties Union 1 East Washington Street, Suite 2700\n13 Foundation Phoenix, AZ 85004\n125 Broad Street, 18th Floor (602) 528-4000\n14\nNew York, NY 10004 daniel.pasternak@squirepb.com\n15 (212) 549-2633 laura.robertson@squirepb.com\njlee@aclu.org\n16\nbamiri@aclu.org\nazureick@aclu.org\n17\n18 Daniel Pochoda Diana Salgado*\nAmerican Civil Liberties Union Planned Parenthood Federation of America\n19\nFoundation of Arizona 434 W. 33rd Street,\n20 3707 N. 7th Street, Suite 235 New York, NY 10001\nPhoenix, AZ 85014 (212) 541-7800\n21\n(602) 650-1854 diana.salgado@ppfa.org\ndpochoda@acluaz.org\n22\nAttorneys for Plaintiffs Desert Star Family Attorneys for Plaintiffs Planned\n23 Planning, LLC, DeShawn Taylor, M.D., Parenthood of Arizona, Inc. and\nEric Reuss, M.D., M.P.H, Jane Does #2-5 Jane Doe #1\n24\n25 * Applications for admission pro\nhac vice forthcoming\n26\n27\n28\n18\n010-8240-6455/1/AMERICAS",
+      "document_type_other": "",
+      "external_url": "",
+      "ecf_number": "1",
+      "clearinghouse_link": "clearinghouse.net/doc/86641"
+    },
+    {
+      "date": "2016-09-07",
+      "date_is_estimate": false,
+      "date_not_available": false,
+      "description": null,
+      "document_source": "PACER [Public Access to Court Electronic Records]",
+      "document_status": "Coding Complete",
+      "document_type": "Order/Opinion",
+      "order_type": "Non-Decree",
+      "citation_paren": null,
+      "cite_1_page": null,
+      "cite_1_reporter": null,
+      "cite_1_vol": null,
+      "cite_2_page": null,
+      "cite_2_reporter": null,
+      "cite_2_vol": null,
+      "cite_3_page": null,
+      "cite_3_reporter": null,
+      "cite_3_vol": null,
+      "citation_status": "No citation available",
+      "court": "District of Arizona",
+      "no_title": false,
+      "party_types": [
+        "Court"
+      ],
+      "per_curium": false,
+      "is_core_document": true,
+      "id": 86643,
+      "file": "https://clearinghouse-umich-production.s3.amazonaws.com/media/doc/86643.pdf",
+      "title": " Order",
+      "text": " \nCase 2:16-cv-02337-ROS   Document 19   Filed 09/07/16   Page 1 of 2\n \n \n \n1   \n2   \n3   \n4   \n5   \n6  IN THE UNITED STATES DISTRICT COURT \n7  FOR THE DISTRICT OF ARIZONA \n \n8 \n \n9  Planned Parenthood Arizona Incorporated, et  No. CV-16-02337-PHX-ROS\nal.,   \n10    ORDER  \nPlaintiffs,   \n11   \nv.  \n12   \nThomas Betlach, \n13   \nDefendant. \n14   \n15    Pursuant to the Parties’ Stipulation of Dismissal without Prejudice and Agreement \n16  of Nonenforcement, \n17    IT IS ORDERED the stipulation (Doc. 18) is GRANTED. This case is dismissed \n18  without prejudice.  \n19    IT IS FURTHER ORDERED:  \n20    1.  Defendant or his successor shall not enforce H.B. 2599 as to Plaintiffs until \n21  regulations promulgated pursuant to H.B. 2599(D) take effect.  \n22    2.  A  representative  of  Defendant  shall  email  counsel,  Jennifer  Lee  at \n23  jlee@aclu.org,  and  Diana  Salgado  at  diana.salgado@ppfa.org,  to  advise  when  the \n24  proposed rules under H.B. 2599(D) are filed for public comment.  \n25    3.  Arizona Revised Statute 41-1032 provides that state administrative rules do not \n26  become effective until 60 days following the filing of the final rule with the Arizona \n27  Secretary  of  State  unless  an  immediate  effective  date  is  approved  by  the  Arizona \n28  Governor’s Regulatory Review Council. Defendant or any successor shall not request an \n \n\n \nCase 2:16-cv-02337-ROS   Document 19   Filed 09/07/16   Page 2 of 2\n \n \n \n1  immediate effective date. Nothing in this Order precludes Plaintiffs from challenging the \n2  final rules at any time.  \n3    4.  Any steps, actions, or efforts taken by Defendant or his successor to enforce \n4  H.B. 2599 as to Plaintiffs shall be based only on Plaintiffs’ conduct occurring on or after \n5  the effective date of the final rules.  \n6    5.  Neither party is a prevailing party pursuant to this Order. Should Plaintiffs file \n7  a related lawsuit to challenge and seek appropriate relief from the Segregation Provision \n8  and/or the final rules, and should Plaintiffs prevail in their challenge to the Segregation \n9  Provision and/or the final rules, nothing in this Order precludes Plaintiff from seeking \n10  attorneys’ fees, costs, and expenses for the prosecution of this lawsuit. Nothing in this \n11  Order precludes Defendant from objecting to any attorneys’ fees, costs, or expenses \n12  Plaintiffs may seek.  \n13    6.  Nothing in this Order precludes the parties from jointly requesting the Court to \n14  modify the terms of this Order.  \n15    7.  This Court shall retain jurisdiction to enforce the terms of this Order.  \n16    Dated this 6th day of September, 2016. \n17   \n18   \n19 \nHonorable Roslyn O. Silver\nSenior United States District Judge\n20 \n \n21 \n \n22 \n  \n23 \n \n24 \n \n25 \n  \n26   \n27 \n28 \n \n- 2 - ",
+      "document_type_other": "",
+      "external_url": "",
+      "ecf_number": "19",
+      "clearinghouse_link": "clearinghouse.net/doc/86643"
+    }
+  ],
+  "document_count": 7
+}

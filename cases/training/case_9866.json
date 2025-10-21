@@ -1,0 +1,207 @@
+{
+  "case_id": 9866,
+  "fetched_at": "2025-10-20T22:41:11.285634",
+  "case_data": {
+    "attorney_orgs": [],
+    "available_documents": [
+      "Any published opinion"
+    ],
+    "case_defendants": [
+      {
+        "defendant_level": null,
+        "institution": "",
+        "institution_alt_state": null,
+        "institution_city": "Burlington",
+        "institution_county": "Chittenden",
+        "name": "City of Burlington",
+        "defendant_level_other": "",
+        "is_active": true
+      },
+      {
+        "defendant_level": null,
+        "institution": "",
+        "institution_alt_state": null,
+        "institution_city": "Burlington",
+        "institution_county": "Chittenden",
+        "name": "City of Burlington Police Department",
+        "defendant_level_other": "",
+        "is_active": true
+      },
+      {
+        "defendant_level": null,
+        "institution": "",
+        "institution_alt_state": null,
+        "institution_city": "",
+        "institution_county": null,
+        "name": "State of Vermont Department of Corrections",
+        "defendant_level_other": "",
+        "is_active": true
+      }
+    ],
+    "case_ongoing": "No",
+    "case_status": "In Process (Public)",
+    "case_types": [
+      "Jail Conditions"
+    ],
+    "cause_other": "",
+    "causes": [
+      "42 U.S.C. § 1983"
+    ],
+    "class_action_granted": "Not sought",
+    "class_action_sought": "No",
+    "closing_year": 0,
+    "constitutional_clause": [
+      {
+        "value": "Unreasonable search and seizure"
+      }
+    ],
+    "content_of_injunction": [],
+    "court": "District of Vermont",
+    "custom_issues": [],
+    "defendant_payment": "",
+    "defendant_type": [],
+    "docket_status": "None",
+    "facility_type": [
+      {
+        "value": "Government-run"
+      }
+    ],
+    "filing_date": null,
+    "filing_year": 1986,
+    "id": 9866,
+    "injunction_duration": "",
+    "issues": [
+      "General/Misc.: Search policies",
+      "Affected Sex/Gender(s): Male",
+      "Policing: Strip search policy (policing)"
+    ],
+    "last_checked_date": "2007-06-27T00:00:00-04:00",
+    "main_docket": {
+      "id": 33213,
+      "docket_entries": [],
+      "docket_case_type": "cv",
+      "docket_year": 1986,
+      "docket_filing_number": 97,
+      "is_main_docket": true,
+      "court": "District of Vermont",
+      "state": "Vermont",
+      "docket_office_number": "2",
+      "docket_number_manual": "86-97",
+      "scales_html": null,
+      "recap_link": null,
+      "is_active": true
+    },
+    "name": "Walsh v. Franco",
+    "never_filed": false,
+    "non_docket_case_number": "",
+    "non_docket_case_number_type": null,
+    "non_docket_case_number_type_other": "",
+    "order_end_year": 0,
+    "order_start_year": 0,
+    "permanent_injunction": false,
+    "plaintiff_description": "Plaintiff underwent a strip and body cavity in the processing area of the Chittenden County Correctional Center following his arrest for unpaid parking tickets.",
+    "plaintiff_type": [],
+    "prevailing_party": "Plaintiff",
+    "pro_se_status": "Unknown",
+    "public_interest_lawyer": "Unknown",
+    "related_cases": [],
+    "relief_natures": [
+      "Unknown"
+    ],
+    "relief_nature_other": "",
+    "relief_sources": [
+      "Unknown"
+    ],
+    "settlement_agreement": [],
+    "settlement_judgment_date": null,
+    "settlement_judgment_year": null,
+    "special_collections": [
+      "Strip Search Cases"
+    ],
+    "special_case_type": [],
+    "state": "Vermont",
+    "summary": "<p>(This summary is temporary, while we research the case.) The plaintiff in this case was arrested for failure to pay parking tickets, a charge which was later aqcuited. However, during his arrest, the plaintiff was handcuffed and strip searched. Plaintiff brought this suit, alleging that a strip search under those circumstances violates the Fourth Amendment. This case is closed.</p>",
+    "summary_published_date": "2024-03-03T16:36:38.972161-05:00",
+    "summary_short": "",
+    "summary_tiny": null,
+    "terminating_date": null,
+    "clearinghouse_link": "clearinghouse.net/case/9866",
+    "is_active": true,
+    "case_documents_url": "https://clearinghouse.net/api/v2/documents/?case=9866",
+    "case_dockets_url": "https://clearinghouse.net/api/v2/dockets/?case=9866",
+    "case_resources_url": "https://clearinghouse.net/api/v2/resources/?case=9866"
+  },
+  "documents": [
+    {
+      "date": "1988-06-06",
+      "date_is_estimate": false,
+      "date_not_available": false,
+      "description": null,
+      "document_source": "Google Scholar",
+      "document_status": "Coding Complete",
+      "document_type": "Order/Opinion",
+      "order_type": "Unknown",
+      "citation_paren": null,
+      "cite_1_page": 66,
+      "cite_1_reporter": "F.2d",
+      "cite_1_vol": 849,
+      "cite_2_page": null,
+      "cite_2_reporter": null,
+      "cite_2_vol": null,
+      "cite_3_page": null,
+      "cite_3_reporter": null,
+      "cite_3_vol": null,
+      "citation_status": "Official citation found/coded",
+      "court": "U.S. Court of Appeals for the Second Circuit",
+      "no_title": false,
+      "party_types": [
+        "Court"
+      ],
+      "per_curium": false,
+      "is_core_document": true,
+      "id": 54319,
+      "file": "https://clearinghouse-umich-production.s3.amazonaws.com/media/doc/54319.pdf",
+      "title": "Opinion",
+      "text": "849 F.2d 66 (1988)\nDavid L. WALSH, Plaintiff-Appellee,\nv.\nJohn L. FRANCO, Jr.; City of Burlington; Police Chief William Burke; A. James Walton, Jr.;\nRichard Turner; City of Burlington Police Department; State of Vermont Department of\nCorrections, Defendants,\nA. James Walton, Jr., Richard Turner, and State of Vermont Department of Corrections,\nDefendants-Appellants.\nNo. 1068, Docket 87-9031.\nUnited States Court of Appeals, Second Circuit.\nArgued May 3, 1988.\nDecided June 6, 1988.\nDavid Rath, Hinesburg, Vt. (Carol H. Terwilliger, Kohn & Rath, Hinesburg, Vt., on the brief), for plaintiff-appellee.\n67 *67 Ronald A. Shems, Asst. Atty. Gen., Waterbury, Vt. (Jeffrey L. Amestoy, Atty. Gen., State of Vt., Donal F.\nHartman, Jr., Asst. Atty. Gen., Waterbury, Vt., on the brief) for defendants-appellants.\nBefore LUMBARD, OAKES and KEARSE, Circuit Judges.\nKEARSE, Circuit Judge:\nDefendants A. James Walton, Jr., former Commissioner of the Vermont Department of Corrections, Richard A.\nTurner, Superintendent of the Chittenden County Correctional Center (\"Chittenden\"), and the Vermont\nDepartment of Corrections appeal from so much of an order of the United States District Court for the District of\nVermont, Franklin S. Billings, Jr., Judge, as denied their motion to dismiss claims against them by plaintiff David\nL. Walsh, brought under 42 U.S.C. § 1983 (1982), asserting that following his arrest in connection with unpaid\nparking tickets, Walsh was subjected to an unconstitutional strip search and body cavity inspection at Chittenden.\nAppellants moved for summary judgment dismissing these claims on the ground that they were entitled to\nqualified immunity from liability. The court denied the motion on the ground that at the time of the acts complained\nof, the law was clearly established that indiscriminate strip searches of persons arrested for misdemeanors,\nabsent a reasonable suspicion that they conceal weapons or other contraband, violated the Fourth Amendment.\nOn appeal, appellants contend principally that the court should have granted them summary judgment because it\nwas objectively reasonable for them to believe that their blanket policy of strip-searching all arrestees was\nconstitutional. We reject their contentions and affirm the order of the district court.\nBACKGROUND\nMost of the pertinent events do not appear to be in dispute. Walsh was part-owner of a restaurant located on a\nprivate road in Burlington, Vermont. Though he had obtained an amendment of the city's parking ordinances to\nallow him to park service vehicles on that road, his vehicles were often given parking tickets. Prior to February\n1985, the city attorney routinely voided the tickets. Thereafter it was agreed that Walsh would contest the tickets\nin court.\nWalsh continued to receive parking tickets; he did not pay them, and he soon was issued a citation for failure to\npay six $5 tickets. He appeared at his March 28 arraignment and pleaded not guilty. Scheduled to reappear on\nApril 22, he moved to reschedule his appearance for after April 30. The court rescheduled it to April 29, but\nbecause the notice of hearing was sent to the wrong address, Walsh did not appear on April 29. A bench warrant\nwas therefore issued for his arrest.\n\nCity police officers executed the warrant on Sunday evening, May 5, 1985. Arriving at Walsh's home at about\n9:45 p.m., they informed him that he was under arrest and allowed him time to tell his family and change his\nclothes. Walsh was acquiescent until he and the officers arrived at the police car and he was informed that he\nwould have to be patted down and handcuffed. He became very upset at the prospect of being handcuffed and\ninsisted that his wife be called out to witness the proceedings. When the officers handcuffed Walsh without\nsummoning his wife, Walsh became agitated and refused to get into the car. A minor scuffle followed, but Walsh\ncalmed down when his wife and guests emerged from the house and a backup police car arrived.\nBecause the Vermont courts are closed on weekends, Walsh was taken to Chittenden for processing. Still \"visibly\nupset\" at being handcuffed, Walsh was processed in accordance with Chittenden's \"standard intake process,\"\nwhich included not only photographing and fingerprinting, but also a strip search and visual body cavity\nexamination. Although he again became agitated and verbally abusive at the prospect of the strip search, Walsh\nsubmitted to the search. While he was being processed, his wife arrived with $100 for bail, and Walsh was\nreleased without having left the processing area. At his eventual jury trial on the scofflaw charges, Walsh was\nacquitted.\n68 *68 Walsh commenced the present action against appellants and certain city officials in 1986 in state court, from\nwhich it was removed to the district court. He asserted that appellants were responsible for the strip-search policy\nat Chittenden and that the application of that policy to him violated his rights under the Fourth Amendment.\nAppellants moved for summary judgment dismissing the complaint against them on the ground that they were\nentitled to qualified immunity. In an Opinion and Order dated November 24, 1987, the district court denied the\nmotion, relying on Weber v. Dell, 804 F.2d 796 (2d Cir.1986),cert. denied,___ U.S. ___, 107 S.Ct. 3263, 97\nL.Ed.2d 762 (1987), which held that a strip search of a person arrested on misdemeanor charges is\nunconstitutional unless there is some reasonable basis for suspicion that the arrestee is concealing weapons or\nother contraband. The court stated that there was no reasonable basis for such suspicion in the present case\ngiven (a) the nature of the charges, (b) the fact that at Chittenden, Walsh's abuse had been strictly verbal, with no\nthreat of assault, and his verbal abuse had begun only when he was informed that he was to be strip-searched,\nand (c) the fact that the officials at Chittenden had not been informed of Walsh's prior resistance to being\nhandcuffed. The court noted that Weber had ruled that the constitutional prohibition against indiscriminate strip\nsearches of misdemeanor arrestees was clearly established in 1983, and concluded as follows:\nMr. Walsh was arrested and searched on May 5, 1985, nearly two years after the arrest and\nsearch of the plaintiff in Weber. What was clearly established in 1983, remains so in 1985 absent\ndecisions to the contrary. Finding no such intervening decisions, it is evident that the state\ndefendants violated established federal law. Thus, defendants are not entitled to qualified\nimmunity for the actions herein alleged.\nThis appeal followed.\nDISCUSSION\nOn appeal, appellants argue principally that because Chittenden houses misdemeanor arrestees along with its\ngeneral jail population, the district court should have granted them summary judgment on the ground that it was\nobjectively reasonable for them to believe that their blanket policy of conducting strip searches of all\nmisdemeanor arrestees was not unconstitutional. We have considered all of appellants' arguments on this\nappeal, and we conclude they are without merit.\nQualified or \"good faith\" immunity shields government officials performing discretionary functions from liability\n\"insofar as their conduct does not violate clearly established statutory or constitutional rights of which a\nreasonable person would have known.\" Harlow v. Fitzgerald, 457 U.S. 800, 818, 102 S.Ct. 2727, 2738, 73\nL.Ed.2d 396 (1982); see Procunier v. Navarette, 434 U.S. 555, 565, 98 S.Ct. 855, 861, 55 L.Ed.2d 24 (1978); \nWood v. Strickland, 420 U.S. 308, 322, 95 S.Ct. 992, 1000-01, 43 L.Ed.2d 214 (1975). Government officials are\ndeemed to have \"presumptive knowledge of and respect for `basic, unquestioned constitutional rights,'\" and may\nbe held liable for a violation of constitutional rights when they \"`knew or reasonably should have known'\" of the\n\nconstitutionally violative effect of their actions. Harlow v. Fitzgerald, 457 U.S. at 815, 102 S.Ct. at 2736-37\n(quoting Wood v. Strickland, 420 U.S. at 322, 95 S.Ct. at 1000-01) (emphasis in Harlow deleted). Thus, absent\nextraordinary circumstances, \"[i]f the law was clearly established, the immunity defense ordinarily should fail,\nsince a reasonably competent public official should know the law governing his conduct.\" Id. at 818-19, 102 S.Ct.\nat 2738-39.\nIn Weber v. Dell, 804 F.2d 796, which involved a strip search of a person arrested on misdemeanor charges of\nfalsely reporting a shooting and then resisting arrest, we held that\nthe Fourth Amendment precludes prison officials from performing strip/body cavity searches of\narrestees charged with misdemeanors or other minor offenses unless the officials have a\n69 reasonable *69 suspicion that the arrestee is concealing weapons or other contraband based on\nthe crime charged, the particular characteristics of the arrestee, and/or the circumstances of the\narrest.\nId. at 802. We rejected the contention that a policy of strip-searching every misdemeanor arrestee was justifiable\nbecause those arrestees were often housed among arraigned inmates, noting that the risk of a misdemeanor\narrestee's introducing contraband into the general jail population simply did not warrant a strip search of all\narrestees and that particularized suspicion is required for strip-searching any person arrested for a misdemeanor\nor other minor offense. Finally, we ruled that the defendant in Weber was not entitled to qualified immunity from\nliability for the unlawful search because the unconstitutionality of a policy of indiscriminate strip searches was\nclearly established in June 1983 when Weber was arrested. Id. at 803; see id. at 801 nn. 6-7 (surveying cases).\nThere have been no doctrinal developments altering the principles noted in Weber, and we therefore agree with\nthe district judge in the present case that at the time of Walsh's arrest in 1985, the unconstitutionality of a blanket\npolicy calling for strip searches of all misdemeanor arrestees was clearly established. Accordingly, appellants\nshould have known that their policy was unconstitutional, they are presumed to have known it, and they were not\nentitled to summary judgment upholding their immunity defense.\nIn seeking to avoid application to themselves of the principle that public officials should know the clearly\nestablished law, appellants argue that the analysis set forth in Robison v. Via, 821 F.2d 913 (2d Cir.1987),\nrequired acceptance of their qualified immunity defense if it was objectively reasonable for them to believe that a\nblanket policy of conducting strip searches was not unconstitutional. This argument misreads Robison.\nIn Robison, we outlined three ways in which an official could establish his entitlement to qualified immunity. First,\n\"the defense should be sustained if the court finds that it was not clear at the time of the official acts that the\ninterest asserted by the plaintiff was protected by a federal statute or the Constitution.\" Id. at 920. Second, \"even\nif the interest asserted by the plaintiff was clearly of a type generally protected by federal law, the defendant is\nentitled to immunity as a matter of law if it was not clear at the time of the acts at issue that an exception did not\npermit those acts.\" Id. at 921. Third, \"even if the contours of the plaintiff's federal rights and the official's\npermissible actions were clearly delineated at the time of the acts complained of, the defendant may enjoy\nqualified immunity if it was objectively reasonable for him to believe that his acts did not violate those rights.\" Id.\nThe first two methods discussed in Robison state, in essence, that the qualified immunity defense should be\nupheld if the law was not clearly delineated; they plainly have no applicability to the claims against appellants.\nThe third method does not help appellants in their quest for summary judgment.\nThe third Robison method does not, as appellants would have it, state that even if all the contours of the law are\nclearly established, state officials are entitled to immunity if they did not know of that clearly established law, for \nRobison did not purport to suggest any deviation from the prevailing rule that \"[t]he pertinent test in applying [the\nobjective good-faith] defense is whether the federal law violated was clearly established, ... not whether a\nreasonable person would have known of the law. Officials are held to have constructive knowledge of established\nlaw.\" Salahuddin v. Coughlin, 781 F.2d 24, 27 (2d Cir.1986) (emphasis added). Rather the thrust of the third\nmethod discussed in Robison is that even where the law is clearly established, the factual circumstances may be\nsuch that the officials have an objectively reasonable basis for believing that their acts do not violate that clearly\nestablished law. We held there that though it was clearly established that a parent has a general constitutional\n70 right to retain custody of his or her children, it was objectively reasonable on the facts in that *70 case for state\n\nofficials to believe that emergency circumstances justified removal of the children from their mother. See also \nAnderson v. Creighton, ___ U.S. ___, 107 S.Ct. 3034, 3039-40, 97 L.Ed.2d 523 (1987) (it may be objectively\nreasonable for officials to believe, albeit mistakenly, that, on the facts, search is supported by probable cause or\nexigent circumstances); Malley v. Briggs, 475 U.S. 335, 344-45, 106 S.Ct. 1092, 1098, 89 L.Ed.2d 271 (1986)\n(immunity lost \"[o]nly where the warrant application is so lacking in indicia of probable cause as to render official\nbelief in its existence unreasonable\").\nThus, the third Robison method is fact-specific and would preserve the qualified immunity defense for these\nappellants only if, in light of the clearly established rule that indiscriminate strip-searching of misdemeanor\narrestees is unconstitutional, it was objectively reasonable for the Chittenden officials to strip-search Walsh\nbecause of a particularized suspicion that he was concealing weapons or other contraband. The district court\nconcluded that appellants had not shown any reasonable basis for such a suspicion with regard to Walsh, and\nthe record tends to support this conclusion. Though appellants suggest that Walsh's behavior at Chittenden may\nhave been somewhat more agitated than the district court found, they do not, and on this record could not\nproperly, argue that the record regarding reasonable suspicions warranted summary judgment in their favor.\nCONCLUSION\nThe order of the district court denying appellants' motion for summary judgment is affirmed.\nSave trees - read court opinions online on Google Scholar.",
+      "document_type_other": null,
+      "external_url": "",
+      "ecf_number": null,
+      "clearinghouse_link": "clearinghouse.net/doc/54319"
+    },
+    {
+      "date": null,
+      "date_is_estimate": false,
+      "date_not_available": false,
+      "description": null,
+      "document_source": null,
+      "document_status": null,
+      "document_type": null,
+      "order_type": null,
+      "citation_paren": null,
+      "cite_1_page": null,
+      "cite_1_reporter": null,
+      "cite_1_vol": null,
+      "cite_2_page": null,
+      "cite_2_reporter": null,
+      "cite_2_vol": null,
+      "cite_3_page": null,
+      "cite_3_reporter": null,
+      "cite_3_vol": null,
+      "citation_status": null,
+      "court": null,
+      "no_title": false,
+      "party_types": [],
+      "per_curium": false,
+      "is_core_document": true,
+      "id": 121559,
+      "file": null,
+      "title": null,
+      "text": null,
+      "document_type_other": null,
+      "external_url": null,
+      "ecf_number": null,
+      "clearinghouse_link": "clearinghouse.net/doc/121559"
+    }
+  ],
+  "document_count": 2
+}

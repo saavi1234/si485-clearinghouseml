@@ -1,0 +1,662 @@
+{
+  "case_id": 12343,
+  "fetched_at": "2025-10-20T22:50:34.497704",
+  "case_data": {
+    "attorney_orgs": [],
+    "available_documents": [
+      "Trial Court Docket"
+    ],
+    "case_defendants": [
+      {
+        "defendant_level": null,
+        "institution": "",
+        "institution_alt_state": null,
+        "institution_city": "",
+        "institution_county": "Sonoma",
+        "name": "County of Sonoma",
+        "defendant_level_other": "",
+        "is_active": true
+      }
+    ],
+    "case_ongoing": "No",
+    "case_status": "Coding Complete",
+    "case_types": [
+      "Healthcare Access and Reproductive Issues",
+      "Jail Conditions"
+    ],
+    "cause_other": "",
+    "causes": [
+      "42 U.S.C. § 1983"
+    ],
+    "class_action_granted": "Granted",
+    "class_action_sought": "Yes",
+    "closing_year": 1994,
+    "constitutional_clause": [
+      {
+        "value": "Cruel and Unusual Punishment"
+      }
+    ],
+    "content_of_injunction": [
+      {
+        "value": "Monitor/Master"
+      }
+    ],
+    "court": "Northern District of California",
+    "custom_issues": [],
+    "defendant_payment": "$2,000,000 (atty fees)",
+    "defendant_type": [
+      {
+        "value": "Corrections"
+      }
+    ],
+    "docket_status": "Complete as of retrieval date",
+    "facility_type": [
+      {
+        "value": "Government-run"
+      }
+    ],
+    "filing_date": "1980-02-08",
+    "filing_year": 1980,
+    "id": 12343,
+    "injunction_duration": "",
+    "issues": [
+      "Jails, Prisons, Detention Centers, and Other Institutions: Crowding (General)",
+      "General/Misc.: Classification / placement",
+      "General/Misc.: Disciplinary procedures",
+      "General/Misc.: Food service / nutrition / hydration",
+      "Jails, Prisons, Detention Centers, and Other Institutions: Recreation / Exercise",
+      "Medical/Mental Health Care: Medical care, general",
+      "Medical/Mental Health Care: Mental health care, general",
+      "Medical/Mental Health Care: Suicide prevention",
+      "Policing: Excessive force",
+      "General/Misc.: Conditions of confinement"
+    ],
+    "last_checked_date": "2012-07-17T00:00:00-04:00",
+    "main_docket": {
+      "id": 30923,
+      "docket_entries": [
+        {
+          "row_number": 32,
+          "id": 1633657,
+          "entry_number": "913",
+          "date_filed": "1992-05-22T00:00:00-04:00",
+          "attachments": [],
+          "url": "nan",
+          "recap_pdf_url": null,
+          "pacer_doc_id": null,
+          "description": "STATUS REPORT by defendant Sonoma County (ab, COURT STAFF) (Entered: 05/22/1992)"
+        },
+        {
+          "row_number": 1,
+          "id": 1633626,
+          "entry_number": "885",
+          "date_filed": "1990-12-06T00:00:00-05:00",
+          "attachments": [],
+          "url": "nan",
+          "recap_pdf_url": null,
+          "pacer_doc_id": null,
+          "description": "ORDER by Judge Thelton E. Henderson that the order of 11/1/90 be modified. See file for exaxt text change.(cc: all counsel) (dm, COURT STAFF) (Entered: 12/07/1990)"
+        },
+        {
+          "row_number": 19,
+          "id": 1633644,
+          "entry_number": "900",
+          "date_filed": "1990-12-28T00:00:00-05:00",
+          "attachments": [],
+          "url": "nan",
+          "recap_pdf_url": null,
+          "pacer_doc_id": null,
+          "description": "BRIEF FILED, in opposition, by intervenor Dillingham Construct regarding motion and settlement agreement and enforcement of protective order [887−2] (dm, COURT STAFF) (Entered: 01/04/1991)"
+        },
+        {
+          "row_number": 3,
+          "id": 1633628,
+          "entry_number": null,
+          "date_filed": "1990-12-11T00:00:00-05:00",
+          "attachments": [],
+          "url": "nan",
+          "recap_pdf_url": null,
+          "pacer_doc_id": null,
+          "description": "RECEIVED order to associate in counsel submitted by defendant Sonoma County re: [886−1] (dm, COURT STAFF) (Entered: 12/12/1990)"
+        },
+        {
+          "row_number": 37,
+          "id": 1633662,
+          "entry_number": "919",
+          "date_filed": "1993-05-14T00:00:00-04:00",
+          "attachments": [],
+          "url": "nan",
+          "recap_pdf_url": null,
+          "pacer_doc_id": null,
+          "description": "LETTER dated 4/30/93 Dee Schilling to Judge Henderson re:Court's order of 4/1/93. (mq, COURT STAFF) (Entered: 05/19/1993)"
+        },
+        {
+          "row_number": 14,
+          "id": 1633639,
+          "entry_number": null,
+          "date_filed": "1990-12-18T00:00:00-05:00",
+          "attachments": [],
+          "url": "nan",
+          "recap_pdf_url": null,
+          "pacer_doc_id": null,
+          "description": "RECEIVED complaint by intervenor submitted by intervenor Dillingham Construct (dm, COURT STAFF) (Entered: 12/18/1990)"
+        },
+        {
+          "row_number": 26,
+          "id": 1633651,
+          "entry_number": "907",
+          "date_filed": "1991-11-04T00:00:00-05:00",
+          "attachments": [],
+          "url": "nan",
+          "recap_pdf_url": null,
+          "pacer_doc_id": null,
+          "description": "ORDER by Judge Thelton E. Henderson notifying parties of Court's intention to extend its jurisdiction until the new pod is completed. ( Date Entered: 11/5/91) (cc: all counsel) (dm, COURT STAFF) (Entered: 11/05/1991)"
+        },
+        {
+          "row_number": 16,
+          "id": 1633641,
+          "entry_number": "896",
+          "date_filed": "1990-12-19T00:00:00-05:00",
+          "attachments": [],
+          "url": "nan",
+          "recap_pdf_url": null,
+          "pacer_doc_id": null,
+          "description": "ORDER by Judge Thelton E. Henderson granting motion to intervene [894−1] ; All motions hrg 1/14/90 re motion for interpretation and enforcement of protective order by county of sonoma. (cc: all counsel) (dm, COURT STAFF) (Entered: 12/21/1990)"
+        },
+        {
+          "row_number": 24,
+          "id": 1633649,
+          "entry_number": "905",
+          "date_filed": "1991-01-18T00:00:00-05:00",
+          "attachments": [],
+          "url": "nan",
+          "recap_pdf_url": null,
+          "pacer_doc_id": null,
+          "description": "ORDER by Judge Thelton E. Henderson granting motion for protective order [887−1] denying motion and settlement agreement and enforcement of protective order [887−2] (cc: all counsel) (dm, COURT STAFF) (Entered: 01/22/1991)"
+        },
+        {
+          "row_number": 21,
+          "id": 1633646,
+          "entry_number": "902",
+          "date_filed": "1991-01-07T00:00:00-05:00",
+          "attachments": [],
+          "url": "nan",
+          "recap_pdf_url": null,
+          "pacer_doc_id": null,
+          "description": "REPLY MEMORANDUM by defendant Sonoma County in support of motion for protective order [887−1], of motion and settlement agreement and enforcement of protective order [887−2] (dm, COURT STAFF) (Entered: 01/08/1991)"
+        },
+        {
+          "row_number": 31,
+          "id": 1633656,
+          "entry_number": "912",
+          "date_filed": "1992-01-27T00:00:00-05:00",
+          "attachments": [],
+          "url": "nan",
+          "recap_pdf_url": null,
+          "pacer_doc_id": null,
+          "description": "ORDER: Cases C82−3767 TEH and C91−3227 TEH are related ( Date Entered: 1/28/92) (cc: all counsel) (ab, COURT STAFF) (Entered: 01/28/1992)"
+        },
+        {
+          "row_number": 18,
+          "id": 1633643,
+          "entry_number": "899",
+          "date_filed": "1990-12-28T00:00:00-05:00",
+          "attachments": [],
+          "url": "nan",
+          "recap_pdf_url": null,
+          "pacer_doc_id": null,
+          "description": "DECLARATION of James P. Wiezel, in opposition, by intervenor Dillingham Construct re motion for protective order [887−1], re motion and settlement agreement and enforcement of protective order [887−2] (dm, COURT STAFF) (Entered: 01/04/1991)"
+        },
+        {
+          "row_number": 25,
+          "id": 1633650,
+          "entry_number": "906",
+          "date_filed": "1991-08-14T00:00:00-04:00",
+          "attachments": [],
+          "url": "nan",
+          "recap_pdf_url": null,
+          "pacer_doc_id": null,
+          "description": "ORDER by Chief Judge Thelton E. Henderson that defendants shall complete occupation of the new jail by 10/18/91 or be fined $8,000.00 per day. Defendants shall commence plainning of the MADF expansion forthwith. ( Date Entered: 8/15/91) (cc: all counsel) (dm, COURT STAFF) (Entered: 08/15/1991)"
+        },
+        {
+          "row_number": 5,
+          "id": 1633630,
+          "entry_number": "888",
+          "date_filed": "1990-12-12T00:00:00-05:00",
+          "attachments": [],
+          "url": "nan",
+          "recap_pdf_url": null,
+          "pacer_doc_id": null,
+          "description": "MEMORANDUM by defendant Sonoma County in support of motion for protective order [887−1], of motion and settlement agreement and enforcement of protective order [887−2] (dm, COURT STAFF) (Entered: 12/12/1990)"
+        },
+        {
+          "row_number": 8,
+          "id": 1633633,
+          "entry_number": "891",
+          "date_filed": "1990-12-12T00:00:00-05:00",
+          "attachments": [],
+          "url": "nan",
+          "recap_pdf_url": null,
+          "pacer_doc_id": null,
+          "description": "REQUEST by defendant Sonoma County for judicial notice (dm, COURT STAFF) (Entered: 12/12/1990)"
+        },
+        {
+          "row_number": 15,
+          "id": 1633640,
+          "entry_number": null,
+          "date_filed": "1990-12-18T00:00:00-05:00",
+          "attachments": [],
+          "url": "nan",
+          "recap_pdf_url": null,
+          "pacer_doc_id": null,
+          "description": "RECEIVED order permitting intervention submitted by intervenor Dillingham Construct motion to intervene re: [894−1] (dm, COURT STAFF) (Entered: 12/18/1990)"
+        },
+        {
+          "row_number": 38,
+          "id": 1633663,
+          "entry_number": "920",
+          "date_filed": "1993-05-14T00:00:00-04:00",
+          "attachments": [],
+          "url": "nan",
+          "recap_pdf_url": null,
+          "pacer_doc_id": null,
+          "description": "ORDER by Judge Thelton E. Henderson the court will hear argument on other issues raised in the parties written responses to the Monitor's recomendation of 1/26/93, if the parties wish to address those issues. motions will be heard by 10:00 6/7/93 ; ( Date Entered: 5/19/93) (cc: all counsel) (mq, COURT STAFF) (Entered: 05/19/1993)"
+        },
+        {
+          "row_number": 36,
+          "id": 1633661,
+          "entry_number": "918",
+          "date_filed": "1993-04-01T00:00:00-05:00",
+          "attachments": [],
+          "url": "nan",
+          "recap_pdf_url": null,
+          "pacer_doc_id": null,
+          "description": "ORDER by Judge Thelton E. Henderson that the monitor's recommendations are adopted. see copy of order for details (mq, COURT STAFF) (Entered: 04/07/1993)"
+        },
+        {
+          "row_number": 6,
+          "id": 1633631,
+          "entry_number": "889",
+          "date_filed": "1990-12-12T00:00:00-05:00",
+          "attachments": [],
+          "url": "nan",
+          "recap_pdf_url": null,
+          "pacer_doc_id": null,
+          "description": "DECLARATION of Neil Baker by defendant Sonoma County re motion for protective order [887−1], re motion and settlement agreement and enforcement of protective order [887−2] (dm, COURT STAFF) (Entered: 12/12/1990)"
+        },
+        {
+          "row_number": 12,
+          "id": 1633637,
+          "entry_number": "894",
+          "date_filed": "1990-12-18T00:00:00-05:00",
+          "attachments": [],
+          "url": "nan",
+          "recap_pdf_url": null,
+          "pacer_doc_id": null,
+          "description": "MOTION to intervene filed by Dillingham Construction (dm, COURT STAFF) (Entered: 12/18/1990)"
+        },
+        {
+          "row_number": 20,
+          "id": 1633645,
+          "entry_number": "901",
+          "date_filed": "1991-01-04T00:00:00-05:00",
+          "attachments": [],
+          "url": "nan",
+          "recap_pdf_url": null,
+          "pacer_doc_id": null,
+          "description": "LETTER dated 1/4/91 with two corrected pages of brief of Intervenor Dillingham Construction in opposition to motion for interpretation and enforcement (dm, COURT STAFF) (Entered: 01/08/1991)"
+        },
+        {
+          "row_number": 34,
+          "id": 1633659,
+          "entry_number": "915",
+          "date_filed": "1993-02-02T00:00:00-05:00",
+          "attachments": [],
+          "url": "nan",
+          "recap_pdf_url": null,
+          "pacer_doc_id": null,
+          "description": "ORDER by Judge Thelton E. Henderson for parties to file a written response, including any objections, tothe Monitor's recomendantion and the experts report ( Date Entered: 2/4/93) (cc: all counsel) (mq, COURT STAFF) (Entered: 02/04/1993)"
+        },
+        {
+          "row_number": 29,
+          "id": 1633654,
+          "entry_number": "910",
+          "date_filed": "1991-12-16T00:00:00-05:00",
+          "attachments": [],
+          "url": "nan",
+          "recap_pdf_url": null,
+          "pacer_doc_id": null,
+          "description": "ORDER by Judge Thelton E. Henderson Cases C−80−0334 TEH, C−91−2814 CAL and C−91−2815 CAL are related ; Cases C−91−2814 and C−91−2815 are reassigned to Judge Thelton E. Henderson ( Date Entered: 12/17/91) (cc: all counsel) (mp, COURT STAFF) (Entered: 12/17/1991)"
+        },
+        {
+          "row_number": 35,
+          "id": 1633660,
+          "entry_number": "917",
+          "date_filed": "1993-02-23T00:00:00-05:00",
+          "attachments": [],
+          "url": "nan",
+          "recap_pdf_url": null,
+          "pacer_doc_id": null,
+          "description": "RESPONSE by Sonoma County to Monitor's recomendations (mq, COURT STAFF) (Entered: 03/01/1993)"
+        },
+        {
+          "row_number": 28,
+          "id": 1633653,
+          "entry_number": "909",
+          "date_filed": "1991-11-27T00:00:00-05:00",
+          "attachments": [],
+          "url": "nan",
+          "recap_pdf_url": null,
+          "pacer_doc_id": null,
+          "description": "DECLARATION by Mark Ihde on behalf of defendants re occupancy of main adult detention facility (dm, COURT STAFF) (Entered: 12/02/1991)"
+        },
+        {
+          "row_number": 10,
+          "id": 1633635,
+          "entry_number": "892",
+          "date_filed": "1990-12-12T00:00:00-05:00",
+          "attachments": [],
+          "url": "nan",
+          "recap_pdf_url": null,
+          "pacer_doc_id": null,
+          "description": "NOTICE by defendant Sonoma County of association of attorney James H. Wulfsberg, Jeffrey A. Sykes, Cindy Lee, Bennett E. Bolton (dm, COURT STAFF) (Entered: 12/13/1990)"
+        },
+        {
+          "row_number": 17,
+          "id": 1633642,
+          "entry_number": "897",
+          "date_filed": "1990-12-21T00:00:00-05:00",
+          "attachments": [],
+          "url": "nan",
+          "recap_pdf_url": null,
+          "pacer_doc_id": null,
+          "description": "PROOF OF SERVICE by intervenor Dillingham Construct of complaint in intervention (dm, COURT STAFF) (Entered: 12/26/1990)"
+        },
+        {
+          "row_number": 30,
+          "id": 1633655,
+          "entry_number": "911",
+          "date_filed": "1991-12-20T00:00:00-05:00",
+          "attachments": [],
+          "url": "nan",
+          "recap_pdf_url": null,
+          "pacer_doc_id": null,
+          "description": "MAIL [910−1] addressed to Chris Tarkington returned from Post Office (ab, COURT STAFF) (Entered: 12/23/1991)"
+        },
+        {
+          "row_number": 40,
+          "id": 1633665,
+          "entry_number": "922",
+          "date_filed": "1994-07-22T00:00:00-04:00",
+          "attachments": [],
+          "url": "nan",
+          "recap_pdf_url": null,
+          "pacer_doc_id": null,
+          "description": "JUDGMENT: by Judge Thelton E. Henderson that the case is dismissed with prejudice and all prior orders and judgments are of no further effect; each party is to bear its own costs to the extent not previously reimbursed (Date Entered: 7/27/94) (cc: all counsel) [3:80−cv−00334] (tn, COURT STAFF) (Entered: 07/27/1994)"
+        },
+        {
+          "row_number": 2,
+          "id": 1633627,
+          "entry_number": "886",
+          "date_filed": "1990-12-11T00:00:00-05:00",
+          "attachments": [],
+          "url": "nan",
+          "recap_pdf_url": null,
+          "pacer_doc_id": null,
+          "description": "MOTION by defendant Sonoma County for association in of counsel (dm, COURT STAFF) (Entered: 12/12/1990)"
+        },
+        {
+          "row_number": 22,
+          "id": 1633647,
+          "entry_number": "903",
+          "date_filed": "1991-01-07T00:00:00-05:00",
+          "attachments": [],
+          "url": "nan",
+          "recap_pdf_url": null,
+          "pacer_doc_id": null,
+          "description": "SUPPLEMENTAL DECLARATION of E. Bennett Bolton by defendant Sonoma County re motion for protective order [887−1], re motion and settlement agreement and enforcement of protective order [887−2] (dm, COURT STAFF) (Entered: 01/08/1991)"
+        },
+        {
+          "row_number": 23,
+          "id": 1633648,
+          "entry_number": "904",
+          "date_filed": "1991-01-10T00:00:00-05:00",
+          "attachments": [],
+          "url": "nan",
+          "recap_pdf_url": null,
+          "pacer_doc_id": null,
+          "description": "AMENDED PROOF OF SERVICE by defendant Sonoma County of reply memorandum and supplemental declaration (dm, COURT STAFF) Modified on 01/11/1991 (Entered: 01/11/1991)"
+        },
+        {
+          "row_number": 33,
+          "id": 1633658,
+          "entry_number": "914",
+          "date_filed": "1992-09-09T00:00:00-04:00",
+          "attachments": [],
+          "url": "nan",
+          "recap_pdf_url": null,
+          "pacer_doc_id": null,
+          "description": "STATUS REPORT by defendant Sonoma County (ab, COURT STAFF) (Entered: 09/10/1992)"
+        },
+        {
+          "row_number": 0,
+          "id": 1633625,
+          "entry_number": "1",
+          "date_filed": "1980-02-08T00:00:00-05:00",
+          "attachments": [],
+          "url": "nan",
+          "recap_pdf_url": null,
+          "pacer_doc_id": null,
+          "description": "COMPLAINT (Summons(es) issued) (dm, COURT STAFF) (Entered: 12/07/1990)"
+        },
+        {
+          "row_number": 4,
+          "id": 1633629,
+          "entry_number": "887",
+          "date_filed": "1990-12-12T00:00:00-05:00",
+          "attachments": [],
+          "url": "nan",
+          "recap_pdf_url": null,
+          "pacer_doc_id": null,
+          "description": "MOTION by defendant Sonoma County for protective order , and and settlement agreement and enforcement of protective order with Notice set for 1/14/91 @ 10:00 (dm, COURT STAFF) (Entered: 12/12/1990)"
+        },
+        {
+          "row_number": 7,
+          "id": 1633632,
+          "entry_number": "890",
+          "date_filed": "1990-12-12T00:00:00-05:00",
+          "attachments": [],
+          "url": "nan",
+          "recap_pdf_url": null,
+          "pacer_doc_id": null,
+          "description": "DECLARATION E. Bennett Bolton by defendant Sonoma County re motion for protective order [887−1], re motion and settlement agreement and enforcement of protective order [887−2] (dm, COURT STAFF) (Entered: 12/12/1990)"
+        },
+        {
+          "row_number": 9,
+          "id": 1633634,
+          "entry_number": null,
+          "date_filed": "1990-12-12T00:00:00-05:00",
+          "attachments": [],
+          "url": "nan",
+          "recap_pdf_url": null,
+          "pacer_doc_id": null,
+          "description": "RECEIVED proposed order submitted by defendant Sonoma County re: [887−1], re: [887−2] (dm, COURT STAFF) (Entered: 12/12/1990)"
+        },
+        {
+          "row_number": 11,
+          "id": 1633636,
+          "entry_number": "893",
+          "date_filed": "1990-12-13T00:00:00-05:00",
+          "attachments": [],
+          "url": "nan",
+          "recap_pdf_url": null,
+          "pacer_doc_id": null,
+          "description": "AMENDED PROOF OF SERVICE by defendant Sonoma County of motion for interpretation, mem in support, application to ass. in counsel, decl of Neil Baker, request for judicial notice, decl of E, Bennett Bolton, propposed order, order ass counsel. (dm, COURT STAFF) (Entered: 12/14/1990)"
+        },
+        {
+          "row_number": 13,
+          "id": 1633638,
+          "entry_number": "895",
+          "date_filed": "1990-12-18T00:00:00-05:00",
+          "attachments": [],
+          "url": "nan",
+          "recap_pdf_url": null,
+          "pacer_doc_id": null,
+          "description": "DECLARATION of James P. Wiezel by intervenor Dillingham Construct motion to intervene re motion to intervene [894−1] (dm, COURT STAFF) (Entered: 12/18/1990)"
+        },
+        {
+          "row_number": 39,
+          "id": 1633664,
+          "entry_number": "921",
+          "date_filed": "1993-08-04T00:00:00-04:00",
+          "attachments": [],
+          "url": "nan",
+          "recap_pdf_url": null,
+          "pacer_doc_id": null,
+          "description": "ORDER by Judge Thelton E. Henderson that the court's 4/1/93 order is modified and the court's extended jurisdiction over the limited issue of double celling will end on 7/15/94 (cc: all counsel) [see order for more info.] (tn, COURT STAFF) (Entered: 08/09/1993)"
+        },
+        {
+          "row_number": 27,
+          "id": 1633652,
+          "entry_number": "908",
+          "date_filed": "1991-11-04T00:00:00-05:00",
+          "attachments": [],
+          "url": "nan",
+          "recap_pdf_url": null,
+          "pacer_doc_id": null,
+          "description": "ORDER by Judge Thelton E. Henderson cancelling all federal release orders( Date Entered: 11/5/91) (cc: all counsel) (dm, COURT STAFF) (Entered: 11/05/1991)"
+        }
+      ],
+      "docket_case_type": "cv",
+      "docket_year": 1980,
+      "docket_filing_number": 334,
+      "is_main_docket": true,
+      "court": "Northern District of California",
+      "state": "California",
+      "docket_office_number": "3",
+      "docket_number_manual": "3:80-cv-00334",
+      "scales_html": "https://clearinghouse-umich-production.s3.amazonaws.com/media/docket-html/cand--3-80-cv-00334.html",
+      "recap_link": null,
+      "is_active": true
+    },
+    "name": "Cherco v. County of Sonoma",
+    "never_filed": false,
+    "non_docket_case_number": "",
+    "non_docket_case_number_type": null,
+    "non_docket_case_number_type_other": "",
+    "order_end_year": 0,
+    "order_start_year": 0,
+    "permanent_injunction": false,
+    "plaintiff_description": "prisoners at the Sonoma County Jail in Santa Rosa, California",
+    "plaintiff_type": [
+      {
+        "value": "Private Plaintiff"
+      }
+    ],
+    "prevailing_party": "Plaintiff",
+    "pro_se_status": "Unknown",
+    "public_interest_lawyer": "Unknown",
+    "related_cases": [],
+    "relief_natures": [
+      "Injunction / Injunctive-like Settlement"
+    ],
+    "relief_nature_other": "",
+    "relief_sources": [
+      "Settlement",
+      "Litigation"
+    ],
+    "settlement_agreement": [
+      "Court Approved Settlement or Consent Decree"
+    ],
+    "settlement_judgment_date": null,
+    "settlement_judgment_year": null,
+    "special_collections": [
+      "California Jail Population Caps"
+    ],
+    "special_case_type": [],
+    "state": "California",
+    "summary": "<p>On February 8, 1980, prisoners at the Sonoma County Jail in Santa Rosa filed a class action lawsuit in the U.S. District Court for the Northern District of California, San Francisco Division, against the County of Sonoma. The plaintiffs brought suit under 42 U.S.C. § 1983, challenging the constitutionality of their conditions of confinement. They sought declaratory and injunctive relief.  We have limited documentation of this case - only the docket is available to us, and it does not include entries for the first decade of litigation -- but we do have the following information:</p><p>The District Court appointed Thomas Lonergan as a monitor for this case in December 1982 and he served in that capacity until the Court dismissed the case in June 1994. <i>Madrid v. Gomez</i>, 889 F. Supp. 1146, 1282 n.231 (N.D. Cal. 1995).</p><p>In 1985, the parties reached a settlement. Lynn J. Lund, Mark J. Morrise & Alton Jordan, Nat'l Inst. of Corr., 136 Nebraska Jail Bulletin 9 (1997), <i>available at</i> http://www.ncc.ne.gov/pdf/jail_standards/jail_bulletins/136.pdf. It covered, among other things, disciplinary actions, classification decisions, medical treatment, mental health services (including use of force by staff, suicides, attempt suicides, and in-custody deaths), recreation, general living conditions, and adequacy of food, with the monitor tasked with ensuring compliance. Curricula Vitae of Patrick T. Maher, <i>available at</i> http://ca-sanbernardinoschools.civicplus.com/archives/152/June%2008%202011%20Agenda%20package.pdf. The Court also awarded the plaintiffs $2,000,000 in attorneys' fees. Lund et al., <i>supra</i>, at 9.</p><p>The docket informs us that construction of a new jail was also a part of the litigation: on August 14, 1991, the Court (Judge Thelton E. Henderson) ordered the County to complete occupation of the new jail by October 18 of that year or be fined $8,000 per day of lateness. The Court also issued an order regarding double celling, but the exact content of that order is unclear from the docket.</p><p>On June 22, 1994, the Court (Judge Henderson) dismissed the case with prejudice and declared all prior orders and judgments to be of no further effect, presumably because a new jail had been constructed and occupied.</p>",
+    "summary_published_date": "2012-08-21T00:00:00-04:00",
+    "summary_short": "On February 8, 1980, prisoners at the Sonoma County Jail in Santa Rosa filed a class action lawsuit in the U.S. District Court for the Northern District of California, San Francisco Division, against the County of Sonoma, challenging the constitutionality of their conditions of confinement. The parties settled in 1985, coming to an agreement covering disciplinary actions, classification decisions, medical treatment, mental health services (including use of force by staff, suicides, attempt suicides, and in-custody deaths), recreation, general living conditions, and adequacy of food. The Court dismissed the case in 1994.",
+    "summary_tiny": null,
+    "terminating_date": null,
+    "clearinghouse_link": "clearinghouse.net/case/12343",
+    "is_active": true,
+    "case_documents_url": "https://clearinghouse.net/api/v2/documents/?case=12343",
+    "case_dockets_url": "https://clearinghouse.net/api/v2/dockets/?case=12343",
+    "case_resources_url": "https://clearinghouse.net/api/v2/resources/?case=12343"
+  },
+  "documents": [
+    {
+      "date": "1994-07-22",
+      "date_is_estimate": false,
+      "date_not_available": false,
+      "description": null,
+      "document_source": "PACER [Public Access to Court Electronic Records]",
+      "document_status": "Coding Complete",
+      "document_type": "Docket",
+      "order_type": null,
+      "citation_paren": null,
+      "cite_1_page": null,
+      "cite_1_reporter": null,
+      "cite_1_vol": null,
+      "cite_2_page": null,
+      "cite_2_reporter": null,
+      "cite_2_vol": null,
+      "cite_3_page": null,
+      "cite_3_reporter": null,
+      "cite_3_vol": null,
+      "citation_status": "Not applicable",
+      "court": "Northern District of California",
+      "no_title": false,
+      "party_types": [
+        "Court"
+      ],
+      "per_curium": false,
+      "is_core_document": true,
+      "id": 43694,
+      "file": "https://clearinghouse-umich-production.s3.amazonaws.com/media/doc/43694.pdf",
+      "title": "Docket (PACER)",
+      "text": "Case: 3:80-cv-00334-TEH   As of: 07/17/2012 10:30 AM PDT   1 of 5\nCLOSED,RELATE\nU.S. District Court\nCalifornia Northern District (San Francisco)\nCIVIL DOCKET FOR CASE #: 3:80−cv−00334−TEH\nCherco v. Sonoma County Date Filed: 02/08/1980\nAssigned to: Judge Thelton E. Henderson Date Terminated: 08/30/1990\nDemand: $0 Jury Demand: None\nCause: 28:1331 Federal Question: Other Civil Rights Nature of Suit: 440 Civil Rights: Other\nJurisdiction: Federal Question\nPlaintiff\nLawrence Cherco\nPlaintiff\nDale McKay\nPlaintiff\nOscar Stevens\nPlaintiff\nCheryl Blay\nPlaintiff\nSean Dumas\nV.\nDefendant\nSonoma County represented by Bennett E. Bolton\nWulfsberg Reese &Sykes PC\nKaiser Center\n300 Lakeside Drive\n24th Floor\nOakland, CA 94612−3524\n(510) 835−9100\nLEAD ATTORNEY\nATTORNEY TO BE NOTICED\nCindy Lee ,\nLaw Offices of Cindy Lee\n14 Precita Avenue\nSan Francisco, CA 94110\n415−885−5800\nFax: 415−885−5809\nEmail: cinleelaw@gmail.com\nLEAD ATTORNEY\nATTORNEY TO BE NOTICED\nHarold James Wulfsberg\nWulfsberg, Reese &Sykes, PC\n300 Lakeside Drive 24th Floor\nOakland, CA 94612\n510−835−9100\nEmail: jwulfsberg@wulfslaw.com\nLEAD ATTORNEY\nATTORNEY TO BE NOTICED\nJeffrey A. Sykes\nWulfsberg Reese &Sykes PC\n\nCase: 3:80-cv-00334-TEH   As of: 07/17/2012 10:30 AM PDT   2 of 5\nKaiser Center\n300 Lakeside Drive\n24th Floor\nOakland, CA 94612−3524\n(510) 835−9100\nLEAD ATTORNEY\nATTORNEY TO BE NOTICED\nDefendant\nSonoma County Board of Supervisors\nDefendant\nBrian Kahn\nDefendant\nHelen Putnam\nDefendant\nHelen Rudee\nDefendant\nNick Esposti\nDefendant\nEric Koenigshoffer\nDefendant\nDonald Striepeke\nDefendant\nRoger McDermott\nIntervenor\nDillingham Construction N.A., Inc. represented by James Peter Wiezel\nSheppard Mullin Richter &Hampton\nFour Embarcadero Ctr\n17th Flr\nSan Francisco, CA 94111\n(415) 434−9100\nLEAD ATTORNEY\nATTORNEY TO BE NOTICED\nJesse B. Grove\nSheppard Mullin Richter &Hampton\nFour Embarcadero Ctr\n17th Flr\nSan Francisco, CA 94111\n(415) 434−9100\nLEAD ATTORNEY\nATTORNEY TO BE NOTICED\nWilliam Samuel Niece\nRalls &Niece LLP\n1700 S. El Camino Real\nSuite 215\nSan Mateo, CA 94402\n650.458.4042\nFax: 650.240.2250\nEmail: sniece@rallsniece.com\n\nCase: 3:80-cv-00334-TEH   As of: 07/17/2012 10:30 AM PDT   3 of 5\nLEAD ATTORNEY\nATTORNEY TO BE NOTICED\nDate Filed # Docket Text\n02/08/1980 1  COMPLAINT (Summons(es) issued) (dm, COURT STAFF) (Entered: 12/07/1990)\n12/06/1990 885  ORDER by Judge Thelton E. Henderson that the order of 11/1/90 be modified. See\nfile for exaxt text change.(cc: all counsel) (dm, COURT STAFF) (Entered:\n12/07/1990)\n12/11/1990 886  MOTION by defendant Sonoma County for association in of counsel (dm, COURT\nSTAFF) (Entered: 12/12/1990)\n12/11/1990 RECEIVED order to associate in counsel submitted by defendant Sonoma County\nre: [886−1] (dm, COURT STAFF) (Entered: 12/12/1990)\n12/12/1990 887  MOTION by defendant Sonoma County for protective order , and and settlement\nagreement and enforcement of protective order with Notice set for 1/14/91 @\n10:00 (dm, COURT STAFF) (Entered: 12/12/1990)\n12/12/1990 888  MEMORANDUM by defendant Sonoma County in support of motion for\nprotective order [887−1], of motion and settlement agreement and enforcement of\nprotective order [887−2] (dm, COURT STAFF) (Entered: 12/12/1990)\n12/12/1990 889  DECLARATION of Neil Baker by defendant Sonoma County re motion for\nprotective order [887−1], re motion and settlement agreement and enforcement of\nprotective order [887−2] (dm, COURT STAFF) (Entered: 12/12/1990)\n12/12/1990 890  DECLARATION E. Bennett Bolton by defendant Sonoma County re motion for\nprotective order [887−1], re motion and settlement agreement and enforcement of\nprotective order [887−2] (dm, COURT STAFF) (Entered: 12/12/1990)\n12/12/1990 891  REQUEST by defendant Sonoma County for judicial notice (dm, COURT STAFF)\n(Entered: 12/12/1990)\n12/12/1990 RECEIVED proposed order submitted by defendant Sonoma County re: [887−1],\nre: [887−2] (dm, COURT STAFF) (Entered: 12/12/1990)\n12/12/1990 892  NOTICE by defendant Sonoma County of association of attorney James H.\nWulfsberg, Jeffrey A. Sykes, Cindy Lee, Bennett E. Bolton (dm, COURT STAFF)\n(Entered: 12/13/1990)\n12/13/1990 893  AMENDED PROOF OF SERVICE by defendant Sonoma County of motion for\ninterpretation, mem in support, application to ass. in counsel, decl of Neil Baker,\nrequest for judicial notice, decl of E, Bennett Bolton, propposed order, order ass\ncounsel. (dm, COURT STAFF) (Entered: 12/14/1990)\n12/18/1990 894  MOTION to intervene filed by Dillingham Construction (dm, COURT STAFF)\n(Entered: 12/18/1990)\n12/18/1990 895  DECLARATION of James P. Wiezel by intervenor Dillingham Construct motion\nto intervene re motion to intervene [894−1] (dm, COURT STAFF) (Entered:\n12/18/1990)\n12/18/1990 RECEIVED complaint by intervenor submitted by intervenor Dillingham\nConstruct (dm, COURT STAFF) (Entered: 12/18/1990)\n12/18/1990 RECEIVED order permitting intervention submitted by intervenor Dillingham\nConstruct motion to intervene re: [894−1] (dm, COURT STAFF) (Entered:\n12/18/1990)\n12/19/1990 896  ORDER by Judge Thelton E. Henderson granting motion to intervene [894−1] ; All\nmotions hrg 1/14/90 re motion for interpretation and enforcement of protective\norder by county of sonoma. (cc: all counsel) (dm, COURT STAFF) (Entered:\n12/21/1990)\n12/21/1990 897  PROOF OF SERVICE by intervenor Dillingham Construct of complaint in\nintervention (dm, COURT STAFF) (Entered: 12/26/1990)\n\nCase: 3:80-cv-00334-TEH   As of: 07/17/2012 10:30 AM PDT   4 of 5\n12/27/1990 898  ANSWER by defendant Sonoma County to complaint in intervention of\nDillingham Construction (dm, COURT STAFF) (Entered: 01/04/1991)\n12/28/1990 899  DECLARATION of James P. Wiezel, in opposition, by intervenor Dillingham\nConstruct re motion for protective order [887−1], re motion and settlement\nagreement and enforcement of protective order [887−2] (dm, COURT STAFF)\n(Entered: 01/04/1991)\n12/28/1990 900  BRIEF FILED, in opposition, by intervenor Dillingham Construct regarding\nmotion and settlement agreement and enforcement of protective order [887−2]\n(dm, COURT STAFF) (Entered: 01/04/1991)\n01/04/1991 901  LETTER dated 1/4/91 with two corrected pages of brief of Intervenor Dillingham\nConstruction in opposition to motion for interpretation and enforcement (dm,\nCOURT STAFF) (Entered: 01/08/1991)\n01/07/1991 902  REPLY MEMORANDUM by defendant Sonoma County in support of motion for\nprotective order [887−1], of motion and settlement agreement and enforcement of\nprotective order [887−2] (dm, COURT STAFF) (Entered: 01/08/1991)\n01/07/1991 903  SUPPLEMENTAL DECLARATION of E. Bennett Bolton by defendant Sonoma\nCounty re motion for protective order [887−1], re motion and settlement agreement\nand enforcement of protective order [887−2] (dm, COURT STAFF) (Entered:\n01/08/1991)\n01/10/1991 904  AMENDED PROOF OF SERVICE by defendant Sonoma County of reply\nmemorandum and supplemental declaration (dm, COURT STAFF) Modified on\n01/11/1991 (Entered: 01/11/1991)\n01/18/1991 905  ORDER by Judge Thelton E. Henderson granting motion for protective order\n[887−1] denying motion and settlement agreement and enforcement of protective\norder [887−2] (cc: all counsel) (dm, COURT STAFF) (Entered: 01/22/1991)\n08/14/1991 906  ORDER by Chief Judge Thelton E. Henderson that defendants shall complete\noccupation of the new jail by 10/18/91 or be fined $8,000.00 per day. Defendants\nshall commence plainning of the MADF expansion forthwith. ( Date Entered:\n8/15/91) (cc: all counsel) (dm, COURT STAFF) (Entered: 08/15/1991)\n11/04/1991 907  ORDER by Judge Thelton E. Henderson notifying parties of Court's intention to\nextend its jurisdiction until the new pod is completed. ( Date Entered: 11/5/91) (cc:\nall counsel) (dm, COURT STAFF) (Entered: 11/05/1991)\n11/04/1991 908  ORDER by Judge Thelton E. Henderson cancelling all federal release orders( Date\nEntered: 11/5/91) (cc: all counsel) (dm, COURT STAFF) (Entered: 11/05/1991)\n11/27/1991 909  DECLARATION by Mark Ihde on behalf of defendants re occupancy of main\nadult detention facility (dm, COURT STAFF) (Entered: 12/02/1991)\n12/16/1991 910  ORDER by Judge Thelton E. Henderson Cases C−80−0334 TEH, C−91−2814\nCAL and C−91−2815 CAL are related ; Cases C−91−2814 and C−91−2815 are\nreassigned to Judge Thelton E. Henderson ( Date Entered: 12/17/91) (cc: all\ncounsel) (mp, COURT STAFF) (Entered: 12/17/1991)\n12/20/1991 911  MAIL [910−1] addressed to Chris Tarkington returned from Post Office (ab,\nCOURT STAFF) (Entered: 12/23/1991)\n01/27/1992 912  ORDER: Cases C82−3767 TEH and C91−3227 TEH are related ( Date Entered:\n1/28/92) (cc: all counsel) (ab, COURT STAFF) (Entered: 01/28/1992)\n05/22/1992 913  STATUS REPORT by defendant Sonoma County (ab, COURT STAFF) (Entered:\n05/22/1992)\n09/09/1992 914  STATUS REPORT by defendant Sonoma County (ab, COURT STAFF) (Entered:\n09/10/1992)\n02/02/1993 915  ORDER by Judge Thelton E. Henderson for parties to file a written response,\nincluding any objections, tothe Monitor's recomendantion and the experts report (\nDate Entered: 2/4/93) (cc: all counsel) (mq, COURT STAFF) (Entered:\n02/04/1993)\n\nCase: 3:80-cv-00334-TEH   As of: 07/17/2012 10:30 AM PDT   5 of 5\n02/23/1993 916  RESPONSE by Lawrence Cherco to Monitor's recomendation of 1/26/93 (mq,\nCOURT STAFF) (Entered: 03/01/1993)\n02/23/1993 917  RESPONSE by Sonoma County to Monitor's recomendations (mq, COURT\nSTAFF) (Entered: 03/01/1993)\n04/01/1993 918  ORDER by Judge Thelton E. Henderson that the monitor's recommendations are\nadopted. see copy of order for details (mq, COURT STAFF) (Entered: 04/07/1993)\n05/14/1993 919  LETTER dated 4/30/93 Dee Schilling to Judge Henderson re:Court's order of\n4/1/93. (mq, COURT STAFF) (Entered: 05/19/1993)\n05/14/1993 920  ORDER by Judge Thelton E. Henderson the court will hear argument on other\nissues raised in the parties written responses to the Monitor's recomendation of\n1/26/93, if the parties wish to address those issues. motions will be heard by 10:00\n6/7/93 ; ( Date Entered: 5/19/93) (cc: all counsel) (mq, COURT STAFF) (Entered:\n05/19/1993)\n08/04/1993 921  ORDER by Judge Thelton E. Henderson that the court's 4/1/93 order is modified\nand the court's extended jurisdiction over the limited issue of double celling will\nend on 7/15/94 (cc: all counsel) [see order for more info.] (tn, COURT STAFF)\n(Entered: 08/09/1993)\n07/22/1994 922  JUDGMENT: by Judge Thelton E. Henderson that the case is dismissed with\nprejudice and all prior orders and judgments are of no further effect; each party is\nto bear its own costs to the extent not previously reimbursed (Date Entered:\n7/27/94) (cc: all counsel) [3:80−cv−00334] (tn, COURT STAFF) (Entered:\n07/27/1994)",
+      "document_type_other": null,
+      "external_url": null,
+      "ecf_number": null,
+      "clearinghouse_link": "clearinghouse.net/doc/43694"
+    },
+    {
+      "date": null,
+      "date_is_estimate": false,
+      "date_not_available": false,
+      "description": null,
+      "document_source": null,
+      "document_status": null,
+      "document_type": null,
+      "order_type": null,
+      "citation_paren": null,
+      "cite_1_page": null,
+      "cite_1_reporter": null,
+      "cite_1_vol": null,
+      "cite_2_page": null,
+      "cite_2_reporter": null,
+      "cite_2_vol": null,
+      "cite_3_page": null,
+      "cite_3_reporter": null,
+      "cite_3_vol": null,
+      "citation_status": null,
+      "court": null,
+      "no_title": false,
+      "party_types": [],
+      "per_curium": false,
+      "is_core_document": true,
+      "id": 118576,
+      "file": null,
+      "title": null,
+      "text": null,
+      "document_type_other": null,
+      "external_url": null,
+      "ecf_number": null,
+      "clearinghouse_link": "clearinghouse.net/doc/118576"
+    }
+  ],
+  "document_count": 2
+}

@@ -1,0 +1,186 @@
+{
+  "case_id": 9971,
+  "fetched_at": "2025-10-20T22:40:10.244654",
+  "case_data": {
+    "attorney_orgs": [],
+    "available_documents": [
+      "Any published opinion"
+    ],
+    "case_defendants": [
+      {
+        "defendant_level": null,
+        "institution": "",
+        "institution_alt_state": null,
+        "institution_city": "",
+        "institution_county": null,
+        "name": "Village of Forest Park, Illinois",
+        "defendant_level_other": "",
+        "is_active": true
+      }
+    ],
+    "case_ongoing": "No",
+    "case_status": "Coding Complete",
+    "case_types": [
+      "Jail Conditions"
+    ],
+    "cause_other": "",
+    "causes": [
+      "42 U.S.C. § 1983"
+    ],
+    "class_action_granted": "Not sought",
+    "class_action_sought": "No",
+    "closing_year": null,
+    "constitutional_clause": [
+      {
+        "value": "Due Process"
+      }
+    ],
+    "content_of_injunction": [],
+    "court": "Northern District of Illinois",
+    "custom_issues": [],
+    "defendant_payment": "",
+    "defendant_type": [],
+    "docket_status": "None",
+    "facility_type": [
+      {
+        "value": "Government-run"
+      }
+    ],
+    "filing_date": "1979-03-26",
+    "filing_year": 1979,
+    "id": 9971,
+    "injunction_duration": "",
+    "issues": [
+      "Jails, Prisons, Detention Centers, and Other Institutions: Strip search policy (facilities)",
+      "Affected Sex/Gender(s): Female"
+    ],
+    "last_checked_date": "2007-07-18T00:00:00-04:00",
+    "main_docket": {
+      "id": 33107,
+      "docket_entries": [],
+      "docket_case_type": "cv",
+      "docket_year": 1979,
+      "docket_filing_number": 1192,
+      "is_main_docket": true,
+      "court": "Northern District of Illinois",
+      "state": "Illinois",
+      "docket_office_number": "1",
+      "docket_number_manual": "79-1192",
+      "scales_html": null,
+      "recap_link": null,
+      "is_active": true
+    },
+    "name": "Iskander v. Village of Forest Park",
+    "never_filed": false,
+    "non_docket_case_number": "",
+    "non_docket_case_number_type": null,
+    "non_docket_case_number_type_other": "",
+    "order_end_year": null,
+    "order_start_year": null,
+    "permanent_injunction": false,
+    "plaintiff_description": "Plaintiff arrested for shoplifting, detained and then strip searched.",
+    "plaintiff_type": [],
+    "prevailing_party": "Mixed",
+    "pro_se_status": "No",
+    "public_interest_lawyer": "No",
+    "related_cases": [],
+    "relief_natures": [
+      "Unknown"
+    ],
+    "relief_nature_other": "",
+    "relief_sources": [
+      "Unknown"
+    ],
+    "settlement_agreement": [],
+    "settlement_judgment_date": null,
+    "settlement_judgment_year": null,
+    "special_collections": [
+      "Strip Search Cases"
+    ],
+    "special_case_type": [],
+    "state": "Illinois",
+    "summary": "<p>This strip search case was brought in 1979 in the United States District Court for the Northern District of Illinois against a Zayre Department store and the Village of Forest Park. The plaintiff, represented by private counsel, claimed she was unlawfully detained, arrested and strip searched for alleged shoplifting.</p><p>After Plainitff's pendent state claims were dismissed, a jury returned a verdict including $40,000 in damages against Zayre and $10,000 against the City. Both Defendants appealed the district court (Judge Stanley J. Roszkowski) denials of their motions for j.n.o.v. the the United States Court of Appeals for the Seventh Circuit.  On October 5, 1982, the appellate court reversed the jury verdict and remanded for a new trial on plaintiff's strip search claim, and her other claims were dismissed. Because the Seventh Circuit Opinion,  Iskander v. Village of Forest Park, 690 F. 2d 126 (7th Cir. 1982) is the only document we have for this case, the disposition on remand is unknown.</p><p></p>",
+    "summary_published_date": "2012-03-22T00:00:00-04:00",
+    "summary_short": "",
+    "summary_tiny": null,
+    "terminating_date": null,
+    "clearinghouse_link": "clearinghouse.net/case/9971",
+    "is_active": true,
+    "case_documents_url": "https://clearinghouse.net/api/v2/documents/?case=9971",
+    "case_dockets_url": "https://clearinghouse.net/api/v2/dockets/?case=9971",
+    "case_resources_url": "https://clearinghouse.net/api/v2/resources/?case=9971"
+  },
+  "documents": [
+    {
+      "date": null,
+      "date_is_estimate": false,
+      "date_not_available": false,
+      "description": null,
+      "document_source": null,
+      "document_status": null,
+      "document_type": null,
+      "order_type": null,
+      "citation_paren": null,
+      "cite_1_page": null,
+      "cite_1_reporter": null,
+      "cite_1_vol": null,
+      "cite_2_page": null,
+      "cite_2_reporter": null,
+      "cite_2_vol": null,
+      "cite_3_page": null,
+      "cite_3_reporter": null,
+      "cite_3_vol": null,
+      "citation_status": null,
+      "court": null,
+      "no_title": false,
+      "party_types": [],
+      "per_curium": false,
+      "is_core_document": true,
+      "id": 121276,
+      "file": null,
+      "title": null,
+      "text": null,
+      "document_type_other": null,
+      "external_url": null,
+      "ecf_number": null,
+      "clearinghouse_link": "clearinghouse.net/doc/121276"
+    },
+    {
+      "date": "1982-10-05",
+      "date_is_estimate": false,
+      "date_not_available": false,
+      "description": null,
+      "document_source": "Google Scholar",
+      "document_status": "Approved",
+      "document_type": "Order/Opinion",
+      "order_type": "Unknown",
+      "citation_paren": null,
+      "cite_1_page": 126,
+      "cite_1_reporter": "F.2d",
+      "cite_1_vol": 690,
+      "cite_2_page": null,
+      "cite_2_reporter": null,
+      "cite_2_vol": null,
+      "cite_3_page": null,
+      "cite_3_reporter": null,
+      "cite_3_vol": null,
+      "citation_status": "Official citation found/coded",
+      "court": "U.S. Court of Appeals for the Seventh Circuit",
+      "no_title": false,
+      "party_types": [
+        "Court"
+      ],
+      "per_curium": false,
+      "is_core_document": true,
+      "id": 54059,
+      "file": "https://clearinghouse-umich-production.s3.amazonaws.com/media/doc/54059.pdf",
+      "title": "Opinion [USCA]",
+      "text": "690 F.2d 126 (1982)\nSoad R. ISKANDER, Plaintiff-Appellee,\nv.\nVILLAGE OF FOREST PARK and Zayre, Inc., Defendants-Appellants.\nNos. 81-2089, 81-2112.\nUnited States Court of Appeals, Seventh Circuit.\nArgued February 9, 1982.\nDecided October 5, 1982.\nRehearing and Rehearing Denied November 22, 1982.\n127 *127 Frederick W. Temple, Hubbard, Hubbard, O'Brien & Hall, Chicago, Ill., John J. Quan, O'Shea & Quan,\nForest Park, Ill., for defendants-appellants.\nJohn P. DeRose, DeRose & Russo, Oak Brook, Ill., for plaintiff-appellee.\nBefore PELL, Circuit Judge, FAIRCHILD, Senior Circuit Judge, and ESCHBACH, Circuit Judge.\nRehearing and Rehearing En Banc Denied November 22, 1982.\nESCHBACH, Circuit Judge.\nWhen attempting to exit a Zayre department store in Forest Park, Illinois, plaintiff-appellee was detained for\nalleged shoplifting by a store detective, who called local police. The officer dispatched to the scene arrested\nplaintiff on a misdemeanor theft charge and transported her to the police station where she was booked, strip\nsearched, and held in custody until her husband posted the necessary bond. Defendants-appellants Zayre, Inc.\nand the Village of Forest Park appeal from money judgments entered on jury verdicts against them in this § 1983\naction alleging that the detention, arrest, and strip search violated plaintiff's rights under the Fourteenth\nAmendment. For the reasons set forth below, we reverse the judgment against Zayre and remand for entry of\njudgment n. o. v. in favor of Zayre. As to Forest Park, we reverse in part, vacate in part, and remand for a new\ntrial.\nPlaintiff's complaint, a series of legal conclusions, alleges that her detention, arrest, and search incident to the\narrest on a shoplifting charge violated her Fourteenth Amendment rights. Plaintiff asserted claims under 42\nU.S.C. § 1983 in addition to pendent state law claims for false arrest and malicious prosecution. The pendent\nclaims were abandoned before trial. Named as defendants were the store detective who initially detained plaintiff,\nhis employer (Zayre, Inc.), the arresting officer, the police matron who allegedly conducted the strip search of\nplaintiff, and their employer (the Village of Forest Park). The jury returned a general verdict for plaintiff against the\nstore detective, the arresting officer, Zayre, and Forest Park, but rendered a verdict in favor of the police matron\nwhich plaintiff does not appeal. While $40,000 in damages labeled compensatory and $100 in nominally punitive\ndamages were assessed against Zayre and $10,000 in nominally compensatory damages were entered against\nForest Park, no damages were assessed against the store detective or the arresting officer, neither of whom has\nappealed. Both Zayre and Forest Park appeal the denials of their motions for judgment n. o. v. and their\nalternative motions for a new trial, asserting numerous grounds.\nIn reviewing the denials of appellants' motions for judgment n. o. v. we must determine if the evidence warranted\nsubmission of the case to the jury: viewing the evidence and reasonable inferences drawn therefrom in the light\nmost favorable to the appellee, we inquire whether the record is insufficient to support the verdict as a matter of\n128 law. E.g., Appleman v. United States, 338 F.2d 729, 730 (7th Cir. 1964),*128cert. denied,380 U.S. 956, 85 S.Ct.\n1090, 13 L.Ed.2d 972 (1965).\n\nZayre\nA recitation of the observations of the store detective which caused him to believe that plaintiff had stolen some\nmerchandise is unnecessary. Although the detective's testimony concerning his observations presents strong\nsupport for a probable cause arrest, for purposes of this appeal, we will assume, arguendo, that he lacked\nprobable cause for the detention. We further assume, arguendo, that the store detective was acting under color\n[1]\nof state law  and that his actions constituted a violation of plaintiff's rights under 42 U.S.C. § 1983. See\ngenerally Annot. 44 A.L.R.Fed. 225 (1979) (liability for false arrest under § 1983). The question before us is\nwhether there is any evidence upon which Zayre could be found liable under § 1983.\nInitially, it is clear that Zayre's liability may not be based merely on the employer-employee relationship between it\nand the store detective. \"Section 1983 will not support a claim based on a respondeat superior theory of liability.\" \nPolk Co. v. Dodson, 454 U.S. 312, 325, 102 S.Ct. 445, 453, 70 L.Ed.2d 509 (1981). See also Powe v. City of\nChicago, 664 F.2d 639, 649-51 (7th Cir. 1981); Duncan v. Duckworth, 644 F.2d 653, 655 (7th Cir. 1981); \nChapman v. Pickett, 586 F.2d 22, 27 (7th Cir. 1978); Fulton Market Cold Storage Co. v. Cullerton, 582 F.2d 1071,\n1083 (7th Cir. 1978),cert. denied,439 U.S. 1121, 99 S.Ct. 1033, 59 L.Ed.2d 82 (1979),disapproved on other\ngrounds, Fair Assessment in Real Estate Ass'n v. McNary, 454 U.S. 100, 102 S.Ct. 177, 70 L.Ed.2d 271 (1981); \nMcDonald v. Illinois, 557 F.2d 596, 601-02 (7th Cir.),cert. denied,434 U.S. 966, 98 S.Ct. 508, 54 L.Ed.2d 453\n(1977); Adams v. Pate, 445 F.2d 105, 107 n.2 (7th Cir. 1971). See generally Annot. 51 A.L.R.Fed. 285 (1981).\nMoreover, just as a municipal corporation is not vicariously liable upon a theory of respondeat superior for the\nconstitutional torts of its employees, Monell v. Department of Social Services, 436 U.S. 658, 694, 98 S.Ct. 2018,\n2037, 56 L.Ed.2d 611 (1978), a private corporation is not vicariously liable under § 1983 for its employees'\ndeprivations of others' civil rights. Powell v. Shopco Laurel Co., 678 F.2d 504 (4th Cir. 1982); Draeger v. Grand\nCentral, Inc., 504 F.2d 142, 145-46 (10th Cir. 1974) (alternative holding); Estate of Iodice v. Gimbels, Inc., 416\nF.Supp. 1054 (E.D.N.Y.1976); Weiss v. J. C. Penney Co., 414 F.Supp. 52 (N.D.Ill.1976). Contra Classon v.\nShopco Stores, Inc., 435 F.Supp. 1186, 1187-88 (E.D.Wisc.1977) (misinterpreting, in our view, the significance of\ncertain conclusory language in Adickes v. S. H. Kress and Co., 398 U.S. 144, 152, 90 S.Ct. 1598, 1605, 26\nL.Ed.2d 142 (1970), a case in which the vicarious liability issue appears not to have been raised).\nIn order to warrant submission of her case against Zayre to the jury, plaintiff had to show an \"impermissible\npolicy\" or a \"constitutionally forbidden\" rule or procedure of Zayre, Polk Co. v. Dodson, supra, 454 U.S. at 326,\n102 S.Ct. at 454, which was the \"moving force of the constitutional violation.\" Monell v. Department of Social\nServices, supra, 436 U.S. at 694, 98 S.Ct. at 2037. Even assuming that plaintiff proved that her detention by the\n129 store detective was without probable cause and invaded her civil rights, that single act of unconstitutional *129\nconduct does not support the inference that the conduct was pursuant to an impermissible Zayre policy. See \nPowe v. City of Chicago, supra, 664 F.2d at 650. Indeed, the only link between Zayre's policies and the store\ndetective's actions advanced by plaintiff is the conclusory testimony that he was acting in accordance with\nZayre's operating procedures pertaining to shoplifting suspects. This statement, however, is wholly insufficient to\nraise a triable issue of whether Zayre had an unconstitutional policy or custom. Walters v. City of Ocean Springs,\n626 F.2d 1317, 1323 n.3 (5th Cir. 1980). In short, the only Zayre policy which plaintiff points to in support of her\nverdict is Zayre's policy of detaining shoplifting suspects and calling the police. That entirely legitimate policy, of\ncourse, does not subject Zayre to liability.\nBecause the evidence was insufficient to warrant submission of plaintiff's case against Zayre to the jury, we\nreverse the district court's denial of Zayre's motion for judgment n. o. v. Moreover, upon our consideration of the\nrecord in this case, we remand the case to the district court for entry of judgment n. o. v. in favor of Zayre. See \nNeely v. Martin K. Eby Construction Co., 386 U.S. 317, 87 S.Ct. 1072, 18 L.Ed.2d 75 (1967).\nForest Park\nOur preceding analysis also disposes of plaintiff's claim against Forest Park concerning her putatively unlawful\narrest. There is no evidence suggesting that Forest Park had any impermissible policy which was a proximate\n\ncause of the assumed deprivation of her rights. Once again, the only official policy established 00 dispatching\n97\nofficers to the scene of an alleged shoplifting incident and in some cases effectuating arrests 00 is an entirely\n97\nlegitimate one which naturally does not subject the municipality to liability. Thus, we reverse the judgment against\nForest Park, in part, and remand for dismissal of plaintiff's § 1983 false arrest claim against it.\nThe evidence concerning the strip search of plaintiff, however, did warrant submission of that claim to the jury.\nConcerning that claim, not only did plaintiff testify that an unknown individual peered through a window at her\nwhen she was disrobed during the strip search, but further, plaintiff presented evidence showing that the Forest\nPark police department customarily conducted strip searches in a room with a window facing a corridor through\nwhich numerous individuals might be passing at any given time. While defendant presented conflicting evidence\nthat there was no window in the room where plaintiff was searched, plaintiff clearly met her burden of establishing\na jury question as to whether an impermissible official policy or custom was the source of the claimed\n[2]\nconstitutional violation.  Defendant's reliance on Bell v. Wolfish, 441 U.S. 520, 99 S.Ct. 1861, 60 L.Ed.2d 447\n(1979), in support of its strip search policy is unavailing in this case. Bell recognizes that even in cases where\nroutine strip searches are justified by legitimate security concerns, they nevertheless \"must be conducted in a\nreasonable manner.\" Id. at 560, 99 S.Ct. at 1885. Defendant naturally does not maintain that routine strip\nsearches may be conducted in a room open to the prying eyes of passing strangers consistent with the\nreasonableness requirement imposed on all searches under the Fourth Amendment, nor would such a contention\nbe entertained. See Logan v. Shealy, 660 F.2d 1007, 1014 (4th Cir. 1981),cert. denied sub nom., Clements v.\nLogan, 455 U.S. 942, 102 S.Ct. 1435, 71 L.Ed.2d 653 (1982).\n130 *130 It is therefore evident that plaintiff presented a triable claim concerning the strip search and defendant\nForest Park's motion for judgment n. o. v. was properly denied with respect to that claim. However, we agree with\ndefendant that an examination of the jury instructions in this case warrants vacating the judgment and remanding\nfor a new trial. We find a series of the instructions to be plain error which, taken together with the charge as a\nwhole under the circumstances of this case, seriously affected the fairness of the proceeding. See, e.g., \nCelanese Corp. v. Vandalia Warehouse Corp., 424 F.2d 1176, 1181 (7th Cir. 1970), 5A J. Moore & J. Lucas,\nMoore's Federal Practice ¶ 51.04 (1982). The instructions concerning the liability of defendant Forest Park were\npredicated on a theory of respondeat superior, which we have shown is rejected by the overwhelming weight of\nauthority in § 1983 cases. The court instructed the jury that defendants Zayre and Forest Park \"are corporations\nand can act only through their agents and employees. An act or omission of an agent or employee within the\nscope of his employment is the action or omission of the Defendant corporation.\" This principle was repeatedly\nstated to the jury as the controlling law; the jury was also instructed: \"A corporation is legally responsible for those\nacts or omissions of its agents made or performed within the scope of their employment.\" \"[The arresting officer\nand the police matron] were the agents of the Defendant Village of Forest Park at and before the time of this\noccurrence. Therefore any act or omission of the agents at that time was in law the act or omission of the\nDefendant Village of Forest Park.\" Indeed, the instructions not only were clearly erroneous because they\ninstructed the jury to find against Forest Park automatically once the liability of either of the agents was\nestablished, but further, stated the converse of the only basis upon which that municipal corporation could be\nheld liable under § 1983. The court instructed the jury that \"the fact that the agent's act was ... contrary to his\nemployer's instructions, or against the corporation's policies, will not relieve the corporation of responsibility for\nit.\" The foregoing instructions constitute plain error which affected the substantive rights of defendant and merit\nremand for a new trial.\nWe also observe that the jury instructions pertaining to defendant's policy of strip searching detainees were\ninadequate. In apparent response to plaintiff's counsel's repeated arguments in conference that the case of \nPeople v. Seymour, 80 Ill.App.3d 221, 35 Ill.Dec. 241, 398 N.E.2d 1191 (1979) stated the authoritative doctrine\nconcerning the reasonableness of the strip search policy in this case, the court refused defendants' instructions\n[3]\nconcerning the standard of reasonableness in this context. Compare defendants' instructions nos. 13 and 29\nwith Tikalsky v. City of Chicago, supra, at 11 n.10, 687 F.2d at 181 n.10. The trial judge, however, wisely declined\nplaintiff's invitation to hold that the strip search policy was unreasonable as a matter of law on the basis of \n131 Seymour, which was reversed by the Illinois Supreme Court in People v. Seymour, 84 Ill.2d 24, 35 Ill.Dec. *131\n241, 416 N.E.2d 1070 (1981), months prior to the trial below. While we do not necessarily endorse the precise\nwording of the proffered instructions in this case and, in fact, tend to agree with the district judge that the wording,\n\ndrawn from a judicial opinion, may be somewhat obscure to the average juror, it was nevertheless error merely to\ninstruct the jury on the issue of the strip search policy without providing it with any guidance as to the applicable\nstandards for determining reasonableness under the Fourth Amendment. We naturally cannot anticipate the\nnature of the evidence which will be adduced by the parties on retrial of this case concerning the strip search\nclaim, and thus we are in no position to indicate what type of instructions would be appropriate in the new trial.\nWe merely hold that the failure to instruct on the question of reasonableness was, on this record, error sufficient\nto require a new trial.\nLastly, we observe that the district court erred in instructing the jury, over Forest Park's objection, that the jury\ncould assess punitive damages against it. City of Newport v. Fact Concerts, Inc., 453 U.S. 247, 101 S.Ct. 2748,\n69 L.Ed.2d 616 (1981). While the jury did not label any of the damages assessed against Forest Park as punitive,\nthere is some merit to defendant's contention that given the size of the award and the emotional nature of the\nissue involved, the erroneous instruction may have prejudiced it. We need not decide, however, whether this\nerror would warrant a new trial if standing alone in this case, but note that this error further suggests a new trial is\nappropriate.\nAccordingly, in No. 81-2112 we hereby reverse the judgment against Zayre and remand for entry of judgment n.\no. v. in favor of Zayre; in No. 81-2089 we remand for dismissal with prejudice of plaintiff's § 1983 false arrest\nclaim and for a new trial on plaintiff's claim concerning the strip search.\n[1] We express no view concerning whether the Illinois Retail Theft Act, Ill.Rev.Stat. ch. 38, § 16A-5 (1981) (which\ndeclares lawful the detention of a person by a merchant who has reasonable grounds for believing the person\nhas committed retail theft) confers the mantle of state authority on parties to which it is applicable sufficient to\nsatisfy the \"color of law\" predicate to § 1983 liability. While there are cases which provide some support for\nplaintiff's position on this question (though plaintiff fails to cite them), see, e.g., Thompson v. McCoy, 425 F.Supp.\n407 (D.S.C.1976); DeCarlo v. Joseph Horne and Co., 251 F.Supp. 935 (W.D.Pa.1966), other cases to consider\nthe issue hold that such statutes merely create, or perhaps merely codify, a privilege against civil suits and do not\nimbue merchants with the requisite official character to impose § 1983 liability, see, e.g., Estate of Iodice v.\nGimbels, Inc., 416 F.Supp. 1054 (E.D.N.Y.1976); Battle v. Dayton-Hudson Corp., 399 F.Supp. 900 (D.Minn.1975).\n[2] It should be noted that plaintiff argues on appeal that defendant's blanket strip search policy is a basis for\nfinding a Fourth Amendment violation, while defendant maintains Bell v. Wolfish, 441 U.S. 520, 99 S.Ct. 1861, 60\nL.Ed.2d 447 (1979), precludes such a finding. In light of the fact that we uphold the district court's denial of\ndefendant's motion for judgment n. o. v. on the strip search claim for the reason stated in the text, and the fact we\nare remanding for new trial (see infra), we will not decide the merits of these contentions. We do note, however,\nthat Bell v. Wolfish is not \"the panacea the [Village] claims.\" Tikalsky v. City of Chicago, 687 F.2d 175 at 181 (7th\nCir. 1982). See generally Tinetti v. Wittke, 479 F.Supp. 486 (E.D.Wisc.1979),aff'd,620 F.2d 160 (7th Cir. 1980) (\nper curiam) (invalidating blanket policy of strip searching non-misdemeanor traffic violators unable to post cash\nbond).\n[3] Counsel informed us at oral argument that the tendered but refused instructions were lost below and hence\nare not contained in the record. Counsel for plaintiff, however, does not dispute that the following instructions\nwere indeed tendered and refused: \nIf you find that the searching policy of which plaintiff complains is rationally related to significant and legitimate\nsecurity concerns of the lock-up facility, then you must find that plaintiff's rights under the Fourth Amendment\nwere not violated.\nDef. Inst. No. 13.\nThe test of reasonableness of a search under the 14th Amendment is not capable of precise definition or\nmechanical application. In each case it requires a balancing of the need for the particular search against the\ninvasion of personal rights that the search entails.\nThus if after balancing the significant and legitimate security interests of the City against the private interest of the\nplaintiff, you determine that the searching policy of which the plaintiff complains is rationally relative [sic] to the\n\nsaid security interests of the lock-up facility, then you must find this search to be reasonable and not in violation\nof plaintiff's constitutional rights.\nDef. Ins. No. 29.\nSave trees - read court opinions online on Google Scholar.",
+      "document_type_other": null,
+      "external_url": "",
+      "ecf_number": null,
+      "clearinghouse_link": "clearinghouse.net/doc/54059"
+    }
+  ],
+  "document_count": 2
+}

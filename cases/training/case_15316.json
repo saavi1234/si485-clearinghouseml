@@ -1,0 +1,1184 @@
+{
+  "case_id": 15316,
+  "fetched_at": "2025-10-20T22:46:02.990433",
+  "case_data": {
+    "attorney_orgs": [],
+    "available_documents": [
+      "Trial Court Docket",
+      "Complaint (any)",
+      "Non-settlement Outcome"
+    ],
+    "case_defendants": [
+      {
+        "defendant_level": null,
+        "institution": "",
+        "institution_alt_state": null,
+        "institution_city": "",
+        "institution_county": null,
+        "name": "U.S. Department of Justice ",
+        "defendant_level_other": "",
+        "is_active": true
+      },
+      {
+        "defendant_level": null,
+        "institution": "",
+        "institution_alt_state": null,
+        "institution_city": "",
+        "institution_county": null,
+        "name": "U.S. Department of Education",
+        "defendant_level_other": "",
+        "is_active": true
+      },
+      {
+        "defendant_level": null,
+        "institution": "U.S. Department of Justice ",
+        "institution_alt_state": null,
+        "institution_city": "",
+        "institution_county": null,
+        "name": "U.S. Attorney General Loretta E. Lynch ",
+        "defendant_level_other": "",
+        "is_active": true
+      }
+    ],
+    "case_ongoing": "No",
+    "case_status": "Approved",
+    "case_types": [
+      "Public Accommodations/Contracting"
+    ],
+    "cause_other": "",
+    "causes": [
+      "Declaratory Judgment Act, 28 U.S.C. § 2201"
+    ],
+    "class_action_granted": "Not sought",
+    "class_action_sought": "No",
+    "closing_year": 2016,
+    "constitutional_clause": [
+      {
+        "value": "Federalism (including 10th Amendment)"
+      }
+    ],
+    "content_of_injunction": [],
+    "court": "Eastern District of North Carolina",
+    "custom_issues": [],
+    "defendant_payment": "",
+    "defendant_type": [],
+    "docket_status": "Complete as of retrieval date",
+    "facility_type": [],
+    "filing_date": "2016-05-09",
+    "filing_year": 2016,
+    "id": 15316,
+    "injunction_duration": "",
+    "issues": [
+      "LGBTQ+: LGBTQ+",
+      "Discrimination Basis: Sexual orientation",
+      "Discrimination Basis: Gender identity",
+      "Discrimination Basis: Sex discrimination",
+      "General/Misc.: Bathing and hygiene",
+      "Discrimination Area: Disparate Impact",
+      "Discrimination Area: Disparate Treatment",
+      "Discrimination Area: Accommodation / Leave",
+      "General/Misc.: Access to public accommodations - governmental",
+      "General/Misc.: Buildings",
+      "General/Misc.: Government services",
+      "General/Misc.: Bathrooms"
+    ],
+    "last_checked_date": "2018-11-07T00:00:00-05:00",
+    "main_docket": {
+      "id": 29316,
+      "docket_entries": [
+        {
+          "row_number": 0,
+          "id": 8693297,
+          "entry_number": "1",
+          "date_filed": "2016-05-09T00:00:00-04:00",
+          "attachments": [
+            {
+              "pdf_url": "https://www.courtlistener.com/recap/gov.uscourts.nced.149942.1.1.pdf",
+              "recap_id": 6146165,
+              "pacer_url": "https://ecf.nced.uscourts.gov/doc1/13104871480?caseid=149942",
+              "description": "Civil Cover Sheet",
+              "attachment_number": 1
+            },
+            {
+              "recap_id": 6146166,
+              "pacer_url": "https://ecf.nced.uscourts.gov/doc1/13104871481?caseid=149942",
+              "description": "Proposed Summons",
+              "attachment_number": 2
+            },
+            {
+              "recap_id": 6146167,
+              "pacer_url": "https://ecf.nced.uscourts.gov/doc1/13104871482?caseid=149942",
+              "description": "Proposed Summons",
+              "attachment_number": 3
+            },
+            {
+              "recap_id": 6146168,
+              "pacer_url": "https://ecf.nced.uscourts.gov/doc1/13104871483?caseid=149942",
+              "description": "Proposed Summons",
+              "attachment_number": 4
+            },
+            {
+              "recap_id": 6146169,
+              "pacer_url": "https://ecf.nced.uscourts.gov/doc1/13104871484?caseid=149942",
+              "description": "Proposed Summons",
+              "attachment_number": 5
+            }
+          ],
+          "url": "https://www.courtlistener.com/docket/4303708/1/mccrory-v-united-states-of-america/",
+          "recap_pdf_url": "https://www.courtlistener.com/recap/gov.uscourts.nced.149942.1.0.pdf",
+          "pacer_doc_id": "13104871479",
+          "description": "COMPLAINT against All Defendants ( Filing fee $ 400 receipt number 0417-3674980.), filed by Patrick L. McCrory, Frank Perry. (Attachments: # 1 Civil Cover Sheet, # 2 Proposed Summons, # 3 Proposed Summons, # 4 Proposed Summons, # 5 Proposed Summons) (Stewart, William) (Entered: 05/09/2016)"
+        },
+        {
+          "row_number": 11,
+          "id": 8693298,
+          "entry_number": "2",
+          "date_filed": "2016-05-09T00:00:00-04:00",
+          "attachments": [
+            {
+              "pdf_url": "https://www.courtlistener.com/recap/gov.uscourts.nced.149942.2.1.pdf",
+              "recap_id": 6146171,
+              "pacer_url": "https://ecf.nced.uscourts.gov/doc1/13104871679?caseid=149942",
+              "description": "Proposed Summons",
+              "attachment_number": 1
+            },
+            {
+              "recap_id": 6146172,
+              "pacer_url": "https://ecf.nced.uscourts.gov/doc1/13104871680?caseid=149942",
+              "description": "Proposed Summons",
+              "attachment_number": 2
+            },
+            {
+              "recap_id": 6146173,
+              "pacer_url": "https://ecf.nced.uscourts.gov/doc1/13104871681?caseid=149942",
+              "description": "Proposed Summons",
+              "attachment_number": 3
+            }
+          ],
+          "url": "https://www.courtlistener.com/docket/4303708/2/mccrory-v-united-states-of-america/",
+          "recap_pdf_url": null,
+          "pacer_doc_id": "13104871678",
+          "description": "Notice filed by Patrick L. McCrory, Frank Perry regarding 1 Complaint, Proposed Summons. (Attachments: # 1 Proposed Summons, # 2 Proposed Summons, # 3 Proposed Summons) (Stewart, William) (Entered: 05/09/2016)"
+        },
+        {
+          "row_number": 54,
+          "id": 8693303,
+          "entry_number": "7",
+          "date_filed": "2016-05-09T00:00:00-04:00",
+          "attachments": [],
+          "url": "https://www.courtlistener.com/docket/4303708/7/mccrory-v-united-states-of-america/",
+          "recap_pdf_url": null,
+          "pacer_doc_id": "13104871917",
+          "description": "Financial Disclosure Statement by Frank Perry (Stewart, William) (Entered: 05/09/2016)"
+        },
+        {
+          "row_number": 55,
+          "id": 8693304,
+          "entry_number": "8",
+          "date_filed": "2016-05-09T00:00:00-04:00",
+          "attachments": [],
+          "url": "https://www.courtlistener.com/docket/4303708/8/mccrory-v-united-states-of-america/",
+          "recap_pdf_url": "https://www.courtlistener.com/recap/gov.uscourts.nced.149942.8.0.pdf",
+          "pacer_doc_id": "13104872475",
+          "description": "Summonses Issued as to Vanita Gupta, Loretta E. Lynch, United States Department of Justice, and United States of America. Counsel is directed to print summonses and effect service. (Romine, L.) (Entered: 05/09/2016)"
+        },
+        {
+          "row_number": 60,
+          "id": 8693308,
+          "entry_number": null,
+          "date_filed": "2016-05-23T00:00:00-04:00",
+          "attachments": [],
+          "url": "https://www.courtlistener.com",
+          "recap_pdf_url": null,
+          "pacer_doc_id": null,
+          "description": "Text Order"
+        },
+        {
+          "row_number": 3,
+          "id": 8693310,
+          "entry_number": "12",
+          "date_filed": "2016-05-23T00:00:00-04:00",
+          "attachments": [],
+          "url": "https://www.courtlistener.com/docket/4303708/12/mccrory-v-united-states-of-america/",
+          "recap_pdf_url": null,
+          "pacer_doc_id": "13104893658",
+          "description": "Memorandum in Support regarding 11 MOTION to Consolidate Cases filed by Phil Berger, Tim Moore. (Duncan, Stuart) (Entered: 05/23/2016)"
+        },
+        {
+          "row_number": 6,
+          "id": 8693313,
+          "entry_number": "15",
+          "date_filed": "2016-05-23T00:00:00-04:00",
+          "attachments": [],
+          "url": "https://www.courtlistener.com/docket/4303708/15/mccrory-v-united-states-of-america/",
+          "recap_pdf_url": null,
+          "pacer_doc_id": "13104894241",
+          "description": "Notice of Appearance for non-district by Karl S. Bowers, Jr on behalf of Patrick L. McCrory, Frank Perry. (Bowers, Karl) (Entered: 05/23/2016)"
+        },
+        {
+          "row_number": 7,
+          "id": 8693314,
+          "entry_number": "16",
+          "date_filed": "2016-05-23T00:00:00-04:00",
+          "attachments": [],
+          "url": "https://www.courtlistener.com/docket/4303708/16/mccrory-v-united-states-of-america/",
+          "recap_pdf_url": null,
+          "pacer_doc_id": "13104894624",
+          "description": "Affidavit of Service for summons and complaint filed by Patrick L. McCrory served on USA on 5/13/2016. (Attachments: # 1 Exhibit A - usa-civil process clerk, # 2 Exhibit B - usa-usag) (Stewart, William) (Entered: 05/23/2016)"
+        },
+        {
+          "row_number": 8,
+          "id": 8693315,
+          "entry_number": "17",
+          "date_filed": "2016-05-23T00:00:00-04:00",
+          "attachments": [],
+          "url": "https://www.courtlistener.com/docket/4303708/17/mccrory-v-united-states-of-america/",
+          "recap_pdf_url": null,
+          "pacer_doc_id": "13104894644",
+          "description": "Affidavit of Service for summons and complaint filed by Patrick L. McCrory served on USDOJ on 5/13/2016. (Attachments: # 1 Exhibit A - DOJ-civil process, # 2 Exhibit B - USDOJ, # 3 Exhibit C - USDOJ - AG) (Stewart, William) (Entered: 05/23/2016)"
+        },
+        {
+          "row_number": 10,
+          "id": 8693317,
+          "entry_number": "19",
+          "date_filed": "2016-05-23T00:00:00-04:00",
+          "attachments": [],
+          "url": "https://www.courtlistener.com/docket/4303708/19/mccrory-v-united-states-of-america/",
+          "recap_pdf_url": null,
+          "pacer_doc_id": "13104894672",
+          "description": "Affidavit of Service for summons and complaint filed by Patrick L. McCrory served on Vanita Gupta - Asst AG on 5/13/2016. (Attachments: # 1 Exhibit A - Gupta - civil process, # 2 Exhibit B - Gupta - AG, # 3 Exhibit C- Gupta - USDOJ) (Stewart, William) (Entered: 05/23/2016)"
+        },
+        {
+          "row_number": 17,
+          "id": 8693323,
+          "entry_number": "25",
+          "date_filed": "2016-05-24T00:00:00-04:00",
+          "attachments": [],
+          "url": "https://www.courtlistener.com/docket/4303708/25/mccrory-v-united-states-of-america/",
+          "recap_pdf_url": null,
+          "pacer_doc_id": "13104896187",
+          "description": "Notice of Appearance for non-district by James A. Campbell on behalf of North Carolinians for Privacy. (Campbell, James) (Entered: 05/24/2016)"
+        },
+        {
+          "row_number": 18,
+          "id": 8693324,
+          "entry_number": "26",
+          "date_filed": "2016-05-24T00:00:00-04:00",
+          "attachments": [],
+          "url": "https://www.courtlistener.com/docket/4303708/26/mccrory-v-united-states-of-america/",
+          "recap_pdf_url": null,
+          "pacer_doc_id": "13104896190",
+          "description": "Notice of Appearance for non-district by Kristen K. Waggoner on behalf of North Carolinians for Privacy. (Waggoner, Kristen) (Entered: 05/24/2016)"
+        },
+        {
+          "row_number": 20,
+          "id": 8693326,
+          "entry_number": "28",
+          "date_filed": "2016-05-24T00:00:00-04:00",
+          "attachments": [],
+          "url": "https://www.courtlistener.com/docket/4303708/28/mccrory-v-united-states-of-america/",
+          "recap_pdf_url": null,
+          "pacer_doc_id": "13104896203",
+          "description": "Notice of Appearance for non-district by Jonathan Caleb Dalton on behalf of North Carolinians for Privacy. (Dalton, Jonathan) (Entered: 05/24/2016)"
+        },
+        {
+          "row_number": 21,
+          "id": 8693327,
+          "entry_number": "29",
+          "date_filed": "2016-05-24T00:00:00-04:00",
+          "attachments": [],
+          "url": "https://www.courtlistener.com/docket/4303708/29/mccrory-v-united-states-of-america/",
+          "recap_pdf_url": null,
+          "pacer_doc_id": "13104896209",
+          "description": "Notice of Appearance for non-district by David A. Cortman on behalf of North Carolinians for Privacy. (Cortman, David) (Entered: 05/24/2016)"
+        },
+        {
+          "row_number": 23,
+          "id": 8693328,
+          "entry_number": "30",
+          "date_filed": "2016-05-24T00:00:00-04:00",
+          "attachments": [],
+          "url": "https://www.courtlistener.com/docket/4303708/30/mccrory-v-united-states-of-america/",
+          "recap_pdf_url": null,
+          "pacer_doc_id": "13104896214",
+          "description": "Notice of Appearance for non-district by John Matthew Sharp on behalf of North Carolinians for Privacy. (Sharp, John) (Entered: 05/24/2016)"
+        },
+        {
+          "row_number": 24,
+          "id": 8693329,
+          "entry_number": "31",
+          "date_filed": "2016-05-25T00:00:00-04:00",
+          "attachments": [],
+          "url": "https://www.courtlistener.com/docket/4303708/31/mccrory-v-united-states-of-america/",
+          "recap_pdf_url": null,
+          "pacer_doc_id": "13104897060",
+          "description": "RESPONSE to Motion regarding 11 MOTION to Consolidate Cases filed by Patrick L. McCrory, Frank Perry. (Stewart, William) (Entered: 05/25/2016)"
+        },
+        {
+          "row_number": 28,
+          "id": 8693333,
+          "entry_number": "35",
+          "date_filed": "2016-06-09T00:00:00-04:00",
+          "attachments": [],
+          "url": "https://www.courtlistener.com/docket/4303708/35/mccrory-v-united-states-of-america/",
+          "recap_pdf_url": null,
+          "pacer_doc_id": "13104922339",
+          "description": "Notice of Appearance filed by Gene C. Schaerr on behalf of Phil Berger, Tim Moore. (Schaerr, Gene) (Entered: 06/09/2016)"
+        },
+        {
+          "row_number": 34,
+          "id": 8693338,
+          "entry_number": "40",
+          "date_filed": "2016-06-17T00:00:00-04:00",
+          "attachments": [],
+          "url": "https://www.courtlistener.com/docket/4303708/40/mccrory-v-united-states-of-america/",
+          "recap_pdf_url": null,
+          "pacer_doc_id": "13104936415",
+          "description": "RESPONSE to Motion regarding 22 MOTION to Consolidate Cases filed by Patrick L. McCrory, Frank Perry. (Stewart, William) (Entered: 06/17/2016)"
+        },
+        {
+          "row_number": 36,
+          "id": 8693340,
+          "entry_number": "42",
+          "date_filed": "2016-06-17T00:00:00-04:00",
+          "attachments": [],
+          "url": "https://www.courtlistener.com/docket/4303708/42/mccrory-v-united-states-of-america/",
+          "recap_pdf_url": null,
+          "pacer_doc_id": "13104937499",
+          "description": "RESPONSE in Support regarding 22 MOTION to Consolidate Cases filed by Phil Berger, Tim Moore. (Duncan, Stuart) (Entered: 06/17/2016)"
+        },
+        {
+          "row_number": 38,
+          "id": 8693342,
+          "entry_number": "44",
+          "date_filed": "2016-06-21T00:00:00-04:00",
+          "attachments": [],
+          "url": "https://www.courtlistener.com/docket/4303708/44/mccrory-v-united-states-of-america/",
+          "recap_pdf_url": null,
+          "pacer_doc_id": "13104941365",
+          "description": "Notice of Appearance filed by Robert C. Stephens on behalf of Patrick L. McCrory. (Stephens, Robert) (Entered: 06/21/2016)"
+        },
+        {
+          "row_number": 41,
+          "id": 8693345,
+          "entry_number": "47",
+          "date_filed": "2016-06-29T00:00:00-04:00",
+          "attachments": [],
+          "url": "https://www.courtlistener.com/docket/4303708/47/mccrory-v-united-states-of-america/",
+          "recap_pdf_url": null,
+          "pacer_doc_id": "13104960179",
+          "description": "RESPONSE in Opposition regarding 33 MOTION to Intervene filed by Patrick L. McCrory, Frank Perry. (Stewart, William) (Entered: 06/29/2016)"
+        },
+        {
+          "row_number": 42,
+          "id": 8693346,
+          "entry_number": "48",
+          "date_filed": "2016-07-12T00:00:00-04:00",
+          "attachments": [
+            {
+              "pdf_url": "https://www.courtlistener.com/recap/gov.uscourts.nced.149942.48.1.pdf",
+              "recap_id": 10811985,
+              "pacer_url": "https://ecf.nced.uscourts.gov/doc1/13104979363?caseid=149942",
+              "description": "Memorandum in Support of Motion to Dismiss",
+              "attachment_number": 1
+            },
+            {
+              "recap_id": 10811988,
+              "pacer_url": "https://ecf.nced.uscourts.gov/doc1/13104979364?caseid=149942",
+              "description": "Exhibit 1",
+              "attachment_number": 2
+            },
+            {
+              "recap_id": 10811992,
+              "pacer_url": "https://ecf.nced.uscourts.gov/doc1/13104979366?caseid=149942",
+              "description": "Exhibit 2",
+              "attachment_number": 3
+            },
+            {
+              "recap_id": 10811994,
+              "pacer_url": "https://ecf.nced.uscourts.gov/doc1/13104979367?caseid=149942",
+              "description": "Exhibit 3",
+              "attachment_number": 4
+            }
+          ],
+          "url": "https://www.courtlistener.com/docket/4303708/48/mccrory-v-united-states-of-america/",
+          "recap_pdf_url": "https://www.courtlistener.com/recap/gov.uscourts.nced.149942.48.0.pdf",
+          "pacer_doc_id": "13104979362",
+          "description": "MOTION to Dismiss filed by Vanita Gupta, Loretta E. Lynch, United States Department of Justice, United States of America. (Attachments: # 1 Memorandum in Support of Motion to Dismiss, # 2 Exhibit 1, # 3 Exhibit 2, # 4 Exhibit 3) (Amdur, Spencer) (Entered: 07/12/2016)"
+        },
+        {
+          "row_number": 45,
+          "id": 8693348,
+          "entry_number": "50",
+          "date_filed": "2016-07-18T00:00:00-04:00",
+          "attachments": [],
+          "url": "https://www.courtlistener.com/docket/4303708/50/mccrory-v-united-states-of-america/",
+          "recap_pdf_url": null,
+          "pacer_doc_id": "13104987427",
+          "description": "REPLY to Response to Motion regarding 33 MOTION to Intervene filed by Steven Glenn Johnson. (Romine, L.) (Entered: 07/18/2016)"
+        },
+        {
+          "row_number": 50,
+          "id": 10138901,
+          "entry_number": "55",
+          "date_filed": "2016-09-16T00:00:00-04:00",
+          "attachments": [],
+          "url": "https://www.courtlistener.com/docket/4303708/55/mccrory-v-united-states-of-america/",
+          "recap_pdf_url": "https://www.courtlistener.com/recap/gov.uscourts.nced.149942.55.0.pdf",
+          "pacer_doc_id": "13105084643",
+          "description": "Notice of Voluntary Dismissal filed by Patrick L. McCrory, Frank Perry as to All Defendants (Without Prejudice). (Stewart, William) (Entered: 09/16/2016)"
+        },
+        {
+          "row_number": 51,
+          "id": 10138902,
+          "entry_number": "56",
+          "date_filed": "2016-10-03T00:00:00-04:00",
+          "attachments": [],
+          "url": "https://www.courtlistener.com/docket/4303708/56/mccrory-v-united-states-of-america/",
+          "recap_pdf_url": null,
+          "pacer_doc_id": "13105105218",
+          "description": "Alter Judgment"
+        },
+        {
+          "row_number": 56,
+          "id": 8693305,
+          "entry_number": "9",
+          "date_filed": "2016-05-17T00:00:00-04:00",
+          "attachments": [
+            {
+              "recap_id": 6146181,
+              "pacer_url": "https://ecf.nced.uscourts.gov/doc1/13104886264?caseid=149942",
+              "description": "Text of Proposed Order",
+              "attachment_number": 1
+            }
+          ],
+          "url": "https://www.courtlistener.com/docket/4303708/9/mccrory-v-united-states-of-america/",
+          "recap_pdf_url": "https://www.courtlistener.com/recap/gov.uscourts.nced.149942.9.0.pdf",
+          "pacer_doc_id": "13104886263",
+          "description": "MOTION to Transfer Case (Unopposed) filed by Patrick L. McCrory, Frank Perry. (Attachments: # 1 Text of Proposed Order) (Stewart, William) (Entered: 05/17/2016)"
+        },
+        {
+          "row_number": 2,
+          "id": 8693309,
+          "entry_number": "11",
+          "date_filed": "2016-05-23T00:00:00-04:00",
+          "attachments": [
+            {
+              "recap_id": 6146184,
+              "pacer_url": "https://ecf.nced.uscourts.gov/doc1/13104893652?caseid=149942",
+              "description": "Text of Proposed Order",
+              "attachment_number": 1
+            }
+          ],
+          "url": "https://www.courtlistener.com/docket/4303708/11/mccrory-v-united-states-of-america/",
+          "recap_pdf_url": null,
+          "pacer_doc_id": "13104893651",
+          "description": "MOTION to Consolidate Cases filed by Phil Berger, Tim Moore. (Attachments: # 1 Text of Proposed Order) (Duncan, Stuart) (Entered: 05/23/2016)"
+        },
+        {
+          "row_number": 63,
+          "id": 10138903,
+          "entry_number": null,
+          "date_filed": "2016-10-24T00:00:00-04:00",
+          "attachments": [],
+          "url": "https://www.courtlistener.com",
+          "recap_pdf_url": null,
+          "pacer_doc_id": null,
+          "description": "Motion Submitted"
+        },
+        {
+          "row_number": 27,
+          "id": 8693332,
+          "entry_number": "34",
+          "date_filed": "2016-06-07T00:00:00-04:00",
+          "attachments": [],
+          "url": "https://www.courtlistener.com/docket/4303708/34/mccrory-v-united-states-of-america/",
+          "recap_pdf_url": "https://www.courtlistener.com/recap/gov.uscourts.nced.149942.34.0.pdf",
+          "pacer_doc_id": "13104919078",
+          "description": "ORDER denying 9 Motion to Transfer Case. Signed by District Judge Terrence W. Boyle on 6/7/2016. (Marsh, K) (Entered: 06/07/2016)"
+        },
+        {
+          "row_number": 58,
+          "id": 8693296,
+          "entry_number": null,
+          "date_filed": "2016-05-09T00:00:00-04:00",
+          "attachments": [],
+          "url": "https://www.courtlistener.com",
+          "recap_pdf_url": null,
+          "pacer_doc_id": null,
+          "description": "Notice of Deficiency"
+        },
+        {
+          "row_number": 22,
+          "id": 8693299,
+          "entry_number": "3",
+          "date_filed": "2016-05-09T00:00:00-04:00",
+          "attachments": [],
+          "url": "https://www.courtlistener.com/docket/4303708/3/mccrory-v-united-states-of-america/",
+          "recap_pdf_url": null,
+          "pacer_doc_id": "13104871707",
+          "description": "Notice of Appearance filed by William W. Stewart, Jr on behalf of Patrick L. McCrory. (Stewart, William) (Entered: 05/09/2016)"
+        },
+        {
+          "row_number": 53,
+          "id": 8693302,
+          "entry_number": "6",
+          "date_filed": "2016-05-09T00:00:00-04:00",
+          "attachments": [],
+          "url": "https://www.courtlistener.com/docket/4303708/6/mccrory-v-united-states-of-america/",
+          "recap_pdf_url": null,
+          "pacer_doc_id": "13104871914",
+          "description": "Financial Disclosure Statement by Patrick L. McCrory (Stewart, William) (Entered: 05/09/2016)"
+        },
+        {
+          "row_number": 59,
+          "id": 8693307,
+          "entry_number": null,
+          "date_filed": "2016-05-20T00:00:00-04:00",
+          "attachments": [],
+          "url": "https://www.courtlistener.com",
+          "recap_pdf_url": null,
+          "pacer_doc_id": null,
+          "description": "Motion Submitted"
+        },
+        {
+          "row_number": 4,
+          "id": 8693311,
+          "entry_number": "13",
+          "date_filed": "2016-05-23T00:00:00-04:00",
+          "attachments": [],
+          "url": "https://www.courtlistener.com/docket/4303708/13/mccrory-v-united-states-of-america/",
+          "recap_pdf_url": null,
+          "pacer_doc_id": "13104893661",
+          "description": "Notice of Appearance filed by Stuart K. Duncan on behalf of Phil Berger, Tim Moore. (Duncan, Stuart) (Entered: 05/23/2016)"
+        },
+        {
+          "row_number": 5,
+          "id": 8693312,
+          "entry_number": "14",
+          "date_filed": "2016-05-23T00:00:00-04:00",
+          "attachments": [],
+          "url": "https://www.courtlistener.com/docket/4303708/14/mccrory-v-united-states-of-america/",
+          "recap_pdf_url": null,
+          "pacer_doc_id": "13104893685",
+          "description": "Notice of Appearance filed by Robert D. Potter, Jr on behalf of Phil Berger, Tim Moore. (Potter, Robert) (Entered: 05/23/2016)"
+        },
+        {
+          "row_number": 12,
+          "id": 8693318,
+          "entry_number": "20",
+          "date_filed": "2016-05-24T00:00:00-04:00",
+          "attachments": [],
+          "url": "https://www.courtlistener.com/docket/4303708/20/mccrory-v-united-states-of-america/",
+          "recap_pdf_url": null,
+          "pacer_doc_id": "13104896156",
+          "description": "Notice of Appearance filed by Deborah J. Dewart on behalf of North Carolinians for Privacy. (Dewart, Deborah) (Entered: 05/24/2016)"
+        },
+        {
+          "row_number": 13,
+          "id": 8693319,
+          "entry_number": "21",
+          "date_filed": "2016-05-24T00:00:00-04:00",
+          "attachments": [],
+          "url": "https://www.courtlistener.com/docket/4303708/21/mccrory-v-united-states-of-america/",
+          "recap_pdf_url": null,
+          "pacer_doc_id": "13104896159",
+          "description": "Financial Disclosure Statement by North Carolinians for Privacy (Dewart, Deborah) (Entered: 05/24/2016)"
+        },
+        {
+          "row_number": 14,
+          "id": 8693320,
+          "entry_number": "22",
+          "date_filed": "2016-05-24T00:00:00-04:00",
+          "attachments": [
+            {
+              "recap_id": 6146196,
+              "pacer_url": "https://ecf.nced.uscourts.gov/doc1/13104896168?caseid=149942",
+              "description": "Text of Proposed Order",
+              "attachment_number": 1
+            }
+          ],
+          "url": "https://www.courtlistener.com/docket/4303708/22/mccrory-v-united-states-of-america/",
+          "recap_pdf_url": "https://www.courtlistener.com/recap/gov.uscourts.nced.149942.22.0.pdf",
+          "pacer_doc_id": "13104896167",
+          "description": "MOTION to Consolidate Cases filed by North Carolinians for Privacy. (Attachments: # 1 Text of Proposed Order) (Dewart, Deborah) (Entered: 05/24/2016)"
+        },
+        {
+          "row_number": 15,
+          "id": 8693321,
+          "entry_number": "23",
+          "date_filed": "2016-05-24T00:00:00-04:00",
+          "attachments": [],
+          "url": "https://www.courtlistener.com/docket/4303708/23/mccrory-v-united-states-of-america/",
+          "recap_pdf_url": null,
+          "pacer_doc_id": "13104896171",
+          "description": "Memorandum in Support regarding 22 MOTION to Consolidate Cases filed by North Carolinians for Privacy. (Dewart, Deborah) (Entered: 05/24/2016)"
+        },
+        {
+          "row_number": 16,
+          "id": 8693322,
+          "entry_number": "24",
+          "date_filed": "2016-05-24T00:00:00-04:00",
+          "attachments": [],
+          "url": "https://www.courtlistener.com/docket/4303708/24/mccrory-v-united-states-of-america/",
+          "recap_pdf_url": null,
+          "pacer_doc_id": "13104896181",
+          "description": "Notice of Appearance for non-district by Jeremy D. Tedesco on behalf of North Carolinians for Privacy. (Tedesco, Jeremy) (Entered: 05/24/2016)"
+        },
+        {
+          "row_number": 19,
+          "id": 8693325,
+          "entry_number": "27",
+          "date_filed": "2016-05-24T00:00:00-04:00",
+          "attachments": [],
+          "url": "https://www.courtlistener.com/docket/4303708/27/mccrory-v-united-states-of-america/",
+          "recap_pdf_url": null,
+          "pacer_doc_id": "13104896193",
+          "description": "Notice of Appearance for non-district by Joseph E. La Rue on behalf of North Carolinians for Privacy. (La Rue, Joseph) (Entered: 05/24/2016)"
+        },
+        {
+          "row_number": 25,
+          "id": 8693330,
+          "entry_number": "32",
+          "date_filed": "2016-05-26T00:00:00-04:00",
+          "attachments": [],
+          "url": "https://www.courtlistener.com/docket/4303708/32/mccrory-v-united-states-of-america/",
+          "recap_pdf_url": "https://www.courtlistener.com/recap/gov.uscourts.nced.149942.32.0.pdf",
+          "pacer_doc_id": "13104899956",
+          "description": "ORDER - Consolidation of case No. 5:16-CV-240-FL with this matter will be allowed if permitted by the judge to whom the General Assembly's case is currently assigned. The Court makes no determination as to the motion to consolidate filed by North Carolinians for Privacy, case No. 5:16-CV-245-FL, at this time. Signed by District Judge Terrence W. Boyle on 5/26/2016. The parties are reminded to read the attached order in its entirety. (Downing, L.) (Entered: 05/26/2016)"
+        },
+        {
+          "row_number": 26,
+          "id": 8693331,
+          "entry_number": "33",
+          "date_filed": "2016-06-06T00:00:00-04:00",
+          "attachments": [],
+          "url": "https://www.courtlistener.com/docket/4303708/33/mccrory-v-united-states-of-america/",
+          "recap_pdf_url": null,
+          "pacer_doc_id": "13104917507",
+          "description": "MOTION to Intervene filed by Steven Glenn Johnson. (Attachments: # 1 Proposed Complaint, # 2 Exhibit A - Correspondence and Oath of Office, # 3 Exhibit B - Document - Page 3 of 12, # 4 Exhibit C - Register of Deeds Document) (Marsh, K) (Entered: 06/07/2016)"
+        },
+        {
+          "row_number": 31,
+          "id": 8693336,
+          "entry_number": "38",
+          "date_filed": "2016-06-14T00:00:00-04:00",
+          "attachments": [],
+          "url": "https://www.courtlistener.com/docket/4303708/38/mccrory-v-united-states-of-america/",
+          "recap_pdf_url": null,
+          "pacer_doc_id": "13104931222",
+          "description": "Memorandum in Opposition regarding 22 MOTION to Consolidate Cases filed by Vanita Gupta, Loretta E. Lynch, United States Department of Justice, United States of America. (Amdur, Spencer) (Entered: 06/14/2016)"
+        },
+        {
+          "row_number": 32,
+          "id": 8693337,
+          "entry_number": "39",
+          "date_filed": "2016-06-16T00:00:00-04:00",
+          "attachments": [],
+          "url": "https://www.courtlistener.com/docket/4303708/39/mccrory-v-united-states-of-america/",
+          "recap_pdf_url": null,
+          "pacer_doc_id": "13104933275",
+          "description": "Notice of Appearance filed by Michael James on behalf of All Defendants. (James, Michael) (Entered: 06/16/2016)"
+        },
+        {
+          "row_number": 35,
+          "id": 8693339,
+          "entry_number": "41",
+          "date_filed": "2016-06-17T00:00:00-04:00",
+          "attachments": [],
+          "url": "https://www.courtlistener.com/docket/4303708/41/mccrory-v-united-states-of-america/",
+          "recap_pdf_url": null,
+          "pacer_doc_id": "13104936557",
+          "description": "REPLY to Response to Motion regarding 22 MOTION to Consolidate Cases filed by North Carolinians for Privacy. (Campbell, James) (Entered: 06/17/2016)"
+        },
+        {
+          "row_number": 39,
+          "id": 8693343,
+          "entry_number": "45",
+          "date_filed": "2016-06-27T00:00:00-04:00",
+          "attachments": [],
+          "url": "https://www.courtlistener.com/docket/4303708/45/mccrory-v-united-states-of-america/",
+          "recap_pdf_url": null,
+          "pacer_doc_id": "13104952787",
+          "description": "Memorandum in Opposition regarding 33 MOTION to Intervene of Steven Glenn Johnson filed by Vanita Gupta, Loretta E. Lynch, United States Department of Justice, United States of America. (Amdur, Spencer) (Entered: 06/27/2016)"
+        },
+        {
+          "row_number": 40,
+          "id": 8693344,
+          "entry_number": "46",
+          "date_filed": "2016-06-27T00:00:00-04:00",
+          "attachments": [],
+          "url": "https://www.courtlistener.com/docket/4303708/46/mccrory-v-united-states-of-america/",
+          "recap_pdf_url": null,
+          "pacer_doc_id": "13104953296",
+          "description": "AMENDED DOCUMENT by Vanita Gupta, Loretta E. Lynch, United States Department of Justice, United States of America. Amendment to 45 Memorandum in Opposition Amending Certificate of Service (Amdur, Spencer) (Entered: 06/27/2016)"
+        },
+        {
+          "row_number": 43,
+          "id": 8693347,
+          "entry_number": "49",
+          "date_filed": "2016-07-13T00:00:00-04:00",
+          "attachments": [],
+          "url": "https://www.courtlistener.com/docket/4303708/49/mccrory-v-united-states-of-america/",
+          "recap_pdf_url": null,
+          "pacer_doc_id": "13104980775",
+          "description": "ORDER regarding 48 MOTION to Dismiss. Plaintiffs' response to the motion shall be filed not later than July 22, 2016. Any reply by defendants shall be filed not later than July 26, 2016. A hearing will be held on the motion, if necessary, at Raleigh, North Carolina. The date and time will be set by separate notice. Signed by District Judge Terrence W. Boyle on 7/13/2016. (Romine, L.) (Entered: 07/13/2016)"
+        },
+        {
+          "row_number": 47,
+          "id": 8693350,
+          "entry_number": "52",
+          "date_filed": "2016-07-26T00:00:00-04:00",
+          "attachments": [],
+          "url": "https://www.courtlistener.com/docket/4303708/52/mccrory-v-united-states-of-america/",
+          "recap_pdf_url": null,
+          "pacer_doc_id": "13105002573",
+          "description": "REPLY to Response to Motion regarding 48 MOTION to Dismiss filed by Vanita Gupta, Loretta E. Lynch, United States Department of Justice, United States of America. (Amdur, Spencer) (Entered: 07/26/2016)"
+        },
+        {
+          "row_number": 1,
+          "id": 8693306,
+          "entry_number": "10",
+          "date_filed": "2016-05-17T00:00:00-04:00",
+          "attachments": [],
+          "url": "https://www.courtlistener.com/docket/4303708/10/mccrory-v-united-states-of-america/",
+          "recap_pdf_url": null,
+          "pacer_doc_id": "13104886348",
+          "description": "Memorandum in Support regarding 9 MOTION to Transfer Case (Unopposed) filed by Patrick L. McCrory, Frank Perry. (Attachments: # 1 Exhibit Complaint in USA v. State of NC, # 2 Exhibit Complaint in Carcano v. McCrory, # 3 Exhibit 1st Amended Complaint in Carcano v. McCrory, # 4 Supplement Landers v. Dawson (unpublished opinion), # 5 Supplement Calloway Golf v. Corp. Trade (unpublished opinion)) (Stewart, William) (Entered: 05/17/2016)"
+        },
+        {
+          "row_number": 52,
+          "id": 10138904,
+          "entry_number": "57",
+          "date_filed": "2017-01-19T00:00:00-05:00",
+          "attachments": [],
+          "url": "https://www.courtlistener.com/docket/4303708/57/mccrory-v-united-states-of-america/",
+          "recap_pdf_url": null,
+          "pacer_doc_id": "13105250395",
+          "description": "Order on Motion to Alter Judgment"
+        },
+        {
+          "row_number": 62,
+          "id": 8693354,
+          "entry_number": null,
+          "date_filed": "2016-09-13T00:00:00-04:00",
+          "attachments": [],
+          "url": "https://www.courtlistener.com",
+          "recap_pdf_url": null,
+          "pacer_doc_id": null,
+          "description": "Set/Reset Motion and M&R Hearings"
+        },
+        {
+          "row_number": 33,
+          "id": 8693300,
+          "entry_number": "4",
+          "date_filed": "2016-05-09T00:00:00-04:00",
+          "attachments": [],
+          "url": "https://www.courtlistener.com/docket/4303708/4/mccrory-v-united-states-of-america/",
+          "recap_pdf_url": "https://www.courtlistener.com/recap/gov.uscourts.nced.149942.4.0.pdf",
+          "pacer_doc_id": "13104871808",
+          "description": "Notice of Appearance filed by Frank J. Gordon on behalf of Patrick L. McCrory. (Gordon, Frank) (Entered: 05/09/2016)"
+        },
+        {
+          "row_number": 57,
+          "id": 8693295,
+          "entry_number": null,
+          "date_filed": "2016-05-09T00:00:00-04:00",
+          "attachments": [],
+          "url": "https://www.courtlistener.com",
+          "recap_pdf_url": null,
+          "pacer_doc_id": null,
+          "description": "Notice to Counsel"
+        },
+        {
+          "row_number": 29,
+          "id": 8693334,
+          "entry_number": "36",
+          "date_filed": "2016-06-13T00:00:00-04:00",
+          "attachments": [],
+          "url": "https://www.courtlistener.com/docket/4303708/36/mccrory-v-united-states-of-america/",
+          "recap_pdf_url": "https://www.courtlistener.com/recap/gov.uscourts.nced.149942/gov.uscourts.nced.149942.36.0.pdf",
+          "pacer_doc_id": "13104928831",
+          "description": "ORDER allowing Phil Berger's and Tim Moore's 11 Motion to Consolidate Cases. Signed by District Judge Terrence W. Boyle on 6/13/2016. (Romine, L.) (Entered: 06/13/2016)"
+        },
+        {
+          "row_number": 46,
+          "id": 8693349,
+          "entry_number": "51",
+          "date_filed": "2016-07-22T00:00:00-04:00",
+          "attachments": [],
+          "url": "https://www.courtlistener.com/docket/4303708/51/mccrory-v-united-states-of-america/",
+          "recap_pdf_url": null,
+          "pacer_doc_id": "13104998336",
+          "description": "RESPONSE in Opposition regarding 48 MOTION to Dismiss filed by Patrick L. McCrory, Frank Perry. (Attachments: # 1 Exhibit A - Charlotte Observer Article, # 2 Exhibit B - Remarks of Attorney General Lynch, # 3 Exhibit C - Order in Case No. 1:16-cv-00425-TDS-JEP (M.D.N.C.)) (Stewart, William) (Entered: 07/22/2016)"
+        },
+        {
+          "row_number": 44,
+          "id": 8693301,
+          "entry_number": "5",
+          "date_filed": "2016-05-09T00:00:00-04:00",
+          "attachments": [],
+          "url": "https://www.courtlistener.com/docket/4303708/5/mccrory-v-united-states-of-america/",
+          "recap_pdf_url": "https://www.courtlistener.com/recap/gov.uscourts.nced.149942.5.0.pdf",
+          "pacer_doc_id": "13104871816",
+          "description": "Notice of Appearance filed by Brennan Tyler Brooks on behalf of Patrick L. McCrory. (Brooks, Brennan) (Entered: 05/09/2016)"
+        },
+        {
+          "row_number": 9,
+          "id": 8693316,
+          "entry_number": "18",
+          "date_filed": "2016-05-23T00:00:00-04:00",
+          "attachments": [],
+          "url": "https://www.courtlistener.com/docket/4303708/18/mccrory-v-united-states-of-america/",
+          "recap_pdf_url": null,
+          "pacer_doc_id": "13104894658",
+          "description": "Affidavit of Service for summons and complaint filed by Patrick L. McCrory served on Loretta Lynch - AG on 5/13/2016. (Attachments: # 1 Exhibit A - Lynch - civil process, # 2 Exhibit B- Lynch - AG, # 3 Exhibit C- Lynch - USDOJ) (Stewart, William) (Entered: 05/23/2016)"
+        },
+        {
+          "row_number": 30,
+          "id": 8693335,
+          "entry_number": "37",
+          "date_filed": "2016-06-14T00:00:00-04:00",
+          "attachments": [],
+          "url": "https://www.courtlistener.com/docket/4303708/37/mccrory-v-united-states-of-america/",
+          "recap_pdf_url": null,
+          "pacer_doc_id": "13104931216",
+          "description": "Notice of Appearance filed by Spencer E. Amdur on behalf of All Defendants. (Amdur, Spencer) (Entered: 06/14/2016)"
+        },
+        {
+          "row_number": 37,
+          "id": 8693341,
+          "entry_number": "43",
+          "date_filed": "2016-06-20T00:00:00-04:00",
+          "attachments": [],
+          "url": "https://www.courtlistener.com/docket/4303708/43/mccrory-v-united-states-of-america/",
+          "recap_pdf_url": "https://www.courtlistener.com/recap/gov.uscourts.nced.149942/gov.uscourts.nced.149942.43.0.pdf",
+          "pacer_doc_id": "13104938485",
+          "description": "ORDER allowing North Carolinians for Privacy's 22 Motion to Consolidate Cases. Signed by District Judge Terrence W. Boyle on 6/20/2016. (Romine, L.) (Entered: 06/20/2016)"
+        },
+        {
+          "row_number": 61,
+          "id": 8693351,
+          "entry_number": null,
+          "date_filed": "2016-07-27T00:00:00-04:00",
+          "attachments": [],
+          "url": "https://www.courtlistener.com",
+          "recap_pdf_url": null,
+          "pacer_doc_id": null,
+          "description": "Motion Submitted"
+        },
+        {
+          "row_number": 48,
+          "id": 8693352,
+          "entry_number": "53",
+          "date_filed": "2016-09-01T00:00:00-04:00",
+          "attachments": [],
+          "url": "https://www.courtlistener.com/docket/4303708/53/mccrory-v-united-states-of-america/",
+          "recap_pdf_url": "https://www.courtlistener.com/recap/gov.uscourts.nced.149942/gov.uscourts.nced.149942.53.0.pdf",
+          "pacer_doc_id": "13105061961",
+          "description": "ORDER denying movant Johnson's 33 Motion to Intervene. Signed by District Judge Terrence W. Boyle on 9/1/2016. Certified copy sent to pro se movant via US Mail to 208 Nydegg Road, New Bern, NC 28562. (Romine, L.) (Entered: 09/01/2016)"
+        },
+        {
+          "row_number": 49,
+          "id": 8693353,
+          "entry_number": "54",
+          "date_filed": "2016-09-08T00:00:00-04:00",
+          "attachments": [],
+          "url": "https://www.courtlistener.com/docket/4303708/54/mccrory-v-united-states-of-america/",
+          "recap_pdf_url": null,
+          "pacer_doc_id": "13105071673",
+          "description": "NOTICE of Hearing on Motion 48 MOTION to Dismiss: Motion Hearing set for 9/29/2016 at 11:00 AM in Raleigh - 6th Floor Courtroom before District Judge Terrence W. Boyle. (Romine, L.) (Entered: 09/08/2016)"
+        }
+      ],
+      "docket_case_type": "cv",
+      "docket_year": 2016,
+      "docket_filing_number": 238,
+      "is_main_docket": true,
+      "court": "Eastern District of North Carolina",
+      "state": "North Carolina",
+      "docket_office_number": "5",
+      "docket_number_manual": "5:16-cv-00238",
+      "scales_html": "https://clearinghouse-umich-production.s3.amazonaws.com/media/docket-html/nced--5-16-cv-00238.html",
+      "recap_link": "https://www.courtlistener.com/docket/4303708/mccrory-v-united-states-of-america/",
+      "is_active": true
+    },
+    "name": "McCrory v. United States",
+    "never_filed": false,
+    "non_docket_case_number": "",
+    "non_docket_case_number_type": null,
+    "non_docket_case_number_type_other": "",
+    "order_end_year": null,
+    "order_start_year": null,
+    "permanent_injunction": false,
+    "plaintiff_description": "The North Carolina governor, Pat McCrory, and Secretary of the North Carolina Department of Public Safety.",
+    "plaintiff_type": [
+      {
+        "value": "State Plaintiff"
+      }
+    ],
+    "prevailing_party": "None Yet / None",
+    "pro_se_status": "No",
+    "public_interest_lawyer": "No",
+    "related_cases": [
+      {
+        "id": 15261,
+        "name": "Carcaño v. McCrory"
+      },
+      {
+        "id": 15345,
+        "name": "United States v. State of North Carolina"
+      },
+      {
+        "id": 15379,
+        "name": "North Carolinians for Privacy v. United States Department of Justice"
+      },
+      {
+        "id": 15381,
+        "name": "Berger v. United States Department of Justice"
+      }
+    ],
+    "relief_natures": [
+      "None"
+    ],
+    "relief_nature_other": "",
+    "relief_sources": [
+      "None"
+    ],
+    "settlement_agreement": [],
+    "settlement_judgment_date": "2016-09-16",
+    "settlement_judgment_year": 2016,
+    "special_collections": [
+      "Transgender Bathroom Access Cases",
+      "Multi-LexSum (in sample)"
+    ],
+    "special_case_type": [],
+    "state": "North Carolina",
+    "summary": "<p>This is one of several federal lawsuits addressing North Carolina Session Law 2016-3, House Bill 2 (HB2), which was passed on March 23, 2016.  For the others, see the <a href=\"https://www.clearinghouse.net/results.php?saveRef=pl&search=source%7Cgeneral%3BspecialCollection%7C43%3Borderby%7CfilingYear%3B\">case collection.</a></p><p>On May 9, 2016, North Carolina Governor Patrick McCrory and the Secretary of the North Carolina Department of Public Safety, filed this complaint in the Eastern District of North Carolina against the Attorney General of the United States, the Department of Justice, and the Department of Education. The plaintiff sought a declaratory judgement that NC House Bill 2 (known as “HB2”) did not violate Title VII of the Civil Rights Act or the Violence Against Women Act. HB2 required individuals to use the bathroom and changing facilities that corresponded to the biological sex listed on their birth certificates while in government buildings. It also prohibited municipalities in North Carolina from enacting anti-discrimination policies and removed the common-law and statutory right of action to enforce state anti-discrimination statutes in state courts. </p><p>This action was brought shortly after the plaintiff received a letter from the Justice Department, dated May 4, 2016, informing him that HB2 violated federal law. The letter stated that HB2 specifically violated Title VII of the Civil Rights Act of 1963, which forbids sex discrimination in employment; Title IX of the Educational Amendments Act of 1972, which forbids sex discrimination in education; and the Violence Against Women Reauthorization Act of 2013 (“VAWA”). The letter requested the plaintiff respond, stating he would remedy the violation and confirm that North Carolina would implement HB2. His response was due on May 9, 2016. In lieu of a response, this suit seeking declaratory judgement was filed. </p><p>That same day, the United States filed suit in the Middle District of North Carolina, naming Governor McCrory, the North Carolina Department of Public Safety, and the University of North Carolina and its Board of Governor as defendants. This complaint requested a declaratory judgment that HB2 was discriminatory under Title VII, VAWA, and Title IX of the Education Amendments of 1972. </p><p>In his complaint, the plaintiff argued that transgendered individuals weren’t a protected class under Title VII. In the alternative, even if the VAWA included gender identity as a protected class, he argued that HB2 wasn’t discriminatory, as it allowed accommodations for special circumstances that would include accommodations for transgender individuals. </p><p>For context, many people who identify as transgender either cannot afford or do not want to undergo sex reassignment surgery. In North Carolina, only those who undergo sex reassignment surgery can change the biological sex written on their birth certificates. At the time of HB2, the state legislation had changed the definition of sex in the state's anti-discrimination law to \"the physical condition of being male or female, which is stated on a person's birth certificate.” This limited definition of sex prevented transgendered North Carolinians from being legally viewed as a class of people vulnerable to sex discrimination. </p><p>On February 22, 2016, the Charlotte City Council had passed Ordinance 7056, which prohibited discrimination on the basis of sexual orientation or gender identity in public accommodations, passenger vehicles for hire, and city contractors. Trans citizens would be protected from discrimination under this ordinance. The ordinance was set to take effect on April 1, 2016. HB2 was passed and signed by the Governor between the passage of Ordinance 7056 and its intended date of effect. HB2’s passage meant that Charlotte’s city ordinance could not go into effect and that future municipal ordinances designed to protect trans citizens would also be prohibited from overriding state law. </p><p>In this case, on May 17, the plaintiff asked the court to transfer the case to the Middle District of North Carolina, where cases challenging HB2 had been filed by the ACLU and the DOJ. Those cases were <a href=\"https://www.clearinghouse.net/detail.php?id=15261\"><i>Carcano v. McCrory</i></a> and <a href=\"https://www.clearinghouse.net/detail.php?id=15345\"><i>United States v. State of North Carolina</i></a>. The court denied this motion to transfer on June 7, 2016, citing the rules of federal procedure and the case proceeded. </p><p>Two other cases were brought in this district by private parties against the DOJ on the same topic—<a href=\"https://www.clearinghouse.net/detail.php?id=15381\"><i>Berger v. United States Department of Justice</i></a> and <a href=\"https://www.clearinghouse.net/detail.php?id=15379\"><i>North Carolinians for Privacy v. United States Department of Justice</i></a>. The plaintiffs in these related cases, seeking to uphold the legal validity of HB2, filed motions for consolidation with this case, on May 23 and May 24, respectively. On June 13, Judge Terrence Boyle issued an order indicating that he would allow this case to be consolidated with <i>Berger</i> and, on June 29, the court also ordered <i>North Carolinians for Privacy</i> consolidated. </p><p>This latter consolidation was done after the plaintiff wrote in opposition to <i>North Carolinians for Privacy</i> consolidation with his. In his opposition, the plaintiff argued that their complaint dealt with Title IX, which pertained to the use of sex-segregated facilities by transgender students, which the plaintiffs claimed violated the constitutional rights of parents and children. In his opposition, the plaintiff opposed consolidation, arguing that his complaint was focused on the validity of HB2 as it pertained to changing facilities and restroom use in government facilities. </p><p>On September 16, 2016, plaintiffs filed a notice of voluntary dismissal of their claims, without prejudice, as to all defendants. In their notice of dismissal, they argued that the claims made in this lawsuit were now being asserted as counterclaims in the lawsuit brought by the United States in the Middle District Court of North Carolina. This counterclaim, the plaintiffs argued, also sought a declaratory judgement on the validity of HB2 and would sufficiently protect the State’s interest. The case is now closed.</p>",
+    "summary_published_date": "2018-11-12T00:00:00-05:00",
+    "summary_short": "After North Carolina passed a bill called HB2, which restricts the rights of transgender individuals to access public restrooms and changing facilities that are in accordance with their gender identities, the U.S. DOJ informed Governor Pat McCRoy of North Carolina that it considered the law in violation of Title VII of the Civil Rights Act, Title IX of the Education Amendment, and the Violence Against Women Act (VAWA). The DOJ asked Governor McCroy to indicate that he wouldn't enforce the law, but he declined to do so, and instead brought suit against the DOJ in the Eastern District Court of North Carolina asking to court for declaratory relief against the DOJ.",
+    "summary_tiny": null,
+    "terminating_date": "2016-09-16",
+    "clearinghouse_link": "clearinghouse.net/case/15316",
+    "is_active": true,
+    "case_documents_url": "https://clearinghouse.net/api/v2/documents/?case=15316",
+    "case_dockets_url": "https://clearinghouse.net/api/v2/dockets/?case=15316",
+    "case_resources_url": "https://clearinghouse.net/api/v2/resources/?case=15316"
+  },
+  "documents": [
+    {
+      "date": null,
+      "date_is_estimate": false,
+      "date_not_available": false,
+      "description": null,
+      "document_source": null,
+      "document_status": null,
+      "document_type": null,
+      "order_type": null,
+      "citation_paren": null,
+      "cite_1_page": null,
+      "cite_1_reporter": null,
+      "cite_1_vol": null,
+      "cite_2_page": null,
+      "cite_2_reporter": null,
+      "cite_2_vol": null,
+      "cite_3_page": null,
+      "cite_3_reporter": null,
+      "cite_3_vol": null,
+      "citation_status": null,
+      "court": null,
+      "no_title": false,
+      "party_types": [],
+      "per_curium": false,
+      "is_core_document": true,
+      "id": 116416,
+      "file": null,
+      "title": null,
+      "text": null,
+      "document_type_other": null,
+      "external_url": null,
+      "ecf_number": null,
+      "clearinghouse_link": "clearinghouse.net/doc/116416"
+    },
+    {
+      "date": "2016-06-20",
+      "date_is_estimate": false,
+      "date_not_available": false,
+      "description": null,
+      "document_source": "PACER [Public Access to Court Electronic Records]",
+      "document_status": "Coding Complete",
+      "document_type": "Order/Opinion",
+      "order_type": "Non-Decree",
+      "citation_paren": null,
+      "cite_1_page": null,
+      "cite_1_reporter": null,
+      "cite_1_vol": null,
+      "cite_2_page": null,
+      "cite_2_reporter": null,
+      "cite_2_vol": null,
+      "cite_3_page": null,
+      "cite_3_reporter": null,
+      "cite_3_vol": null,
+      "citation_status": "No citation available",
+      "court": "Eastern District of North Carolina",
+      "no_title": false,
+      "party_types": [
+        "Court"
+      ],
+      "per_curium": false,
+      "is_core_document": true,
+      "id": 99142,
+      "file": "https://clearinghouse-umich-production.s3.amazonaws.com/media/doc/99142.pdf",
+      "title": "Order",
+      "text": "IN THE UNITED STATES DISTRICT COURT \nFOR THE EASTERN DISTRICT OF NORTH CAROLINA \nWESTERN DIVISION \nNo. 5:16-CV-238-BO \nPATRICK L. MCCRORY, in his official  ) \ncapacity as Governor of the State of North  ) \nCarolina, and FRANK PERRY, in his  ) \nofficial capacity as Secretary, North  ) \nCarolina Department of Public Safety,  ) \n) \nPlaintiffs,  ) \n) \nv.  )  ORDER \n) \nUNITED STATES OF AMERICA, et al.,  ) \n) \nDefendants.  ) \nThis cause comes before the Court on a motion to consolidate pursuant to Rule 42 of the \nFederal Rules of Civil Procedure filed in this matter by the plaintiffs in North Carolinians for \nPrivacy v.  United States Dept. ofJ ustice, No. 5:16-CV-245-FL.  Plaintiffs in this action have \nresponded indicating they do not oppose consolidation.  [DE 40].  The federal defendants have \nresponded in opposition to the motion.  [DE 38].  Plaintiffs in Berger v.  United States Dept. of \nJustice, No. 5:16-CV-240-FL, whose motion to consolidate this Court recently allowed [DE 36], \nhave responded stating they do not oppose the motion to consolidate by North Carolinians for \nPrivacy.  [DE 42]. \nRule 42 provides for the consolidation of actions pending before a court if the actions \ninvolve common questions oflaw or fact.  Fed. R. Civ. P. 42(a).  The Court has broad discretion \nto consolidate cases pending in this district, AIS J  Ludwig Mowinckles Rederi v.  Tidewater \nConst. Co., 559 F.2d 928, 933 (4th Cir. 1977), and it does not require consent of the parties to do \n\nso.  See, e.g., Arnoldv. E. Air Lines, Inc., 681F.2d186, 191 (4th Cir. 1982) (discussing sua \nsponte consolidation); see also Conn. Gen. Life Ins. Co. v. Sun Life Assur. Co. ofC  an., 210 F.3d \n771, 774 (7th Cir. 2000) (consent of parties not required for consolidation).  In determining \nwhether to consolidate cases, a court considers the risks of prejudice and possible confusion \nagainst the risk of inconsistent adjudications of common factual and legal issues, as well as the \nburdens on the parties andjudicial resources.  Arnold, 681 F.2d at 193. \nHaving reviewed the complaints as well as the motion and responses thereto, and as \nfound previously in regard to the motion by the Berger plaintiffs, the Court finds these cases to \ninclude common factual and legal issues, that consolidation would not impose any undue burden \non the parties or witnesses in these matters, and that consolidation would further the efficient and \ntimely administration ofj ustice.  Therefore, the Court in its discretion ALLOWS the motion to \nconsolidate by North Carolinians for Privacy.  [DE 22]. \ntJ2_ \nSO ORDERED, this  day of June, 2016. \nw. \n\"\"~  13,~ \nif \nw.  ~ \nTERRENCE  BOYLE \nI \nUNITED STATES DISTRICT JUDGE \n2 ",
+      "document_type_other": "",
+      "external_url": "",
+      "ecf_number": "43",
+      "clearinghouse_link": "clearinghouse.net/doc/99142"
+    },
+    {
+      "date": "2017-01-19",
+      "date_is_estimate": false,
+      "date_not_available": false,
+      "description": null,
+      "document_source": "PACER [Public Access to Court Electronic Records]",
+      "document_status": "Coding Complete",
+      "document_type": "Docket",
+      "order_type": null,
+      "citation_paren": null,
+      "cite_1_page": null,
+      "cite_1_reporter": null,
+      "cite_1_vol": null,
+      "cite_2_page": null,
+      "cite_2_reporter": null,
+      "cite_2_vol": null,
+      "cite_3_page": null,
+      "cite_3_reporter": null,
+      "cite_3_vol": null,
+      "citation_status": "Not applicable",
+      "court": "Eastern District of North Carolina",
+      "no_title": false,
+      "party_types": [
+        "Court"
+      ],
+      "per_curium": false,
+      "is_core_document": true,
+      "id": 82356,
+      "file": "https://clearinghouse-umich-production.s3.amazonaws.com/media/doc/82356.pdf",
+      "title": "Docket [PACER]",
+      "text": "Case: 5:16-cv-238   As of: 11/03/2017 12:23 PM EDT   1 of 8\nCLOSED\nU.S. District Court\nEASTERN DISTRICT OF NORTH CAROLINA (Western Division)\nCIVIL DOCKET FOR CASE #: 5:16−cv−00238−BO\nMcCrory et al v. United States of America et al Date Filed: 05/09/2016\nAssigned to: District Judge Terrence W. Boyle Date Terminated: 09/19/2016\nrelated Cases:  5:16−cv−00240−FL Jury Demand: None\nNature of Suit: 442 Civil Rights: Jobs\n5:16−cv−00245−FL\nJurisdiction: U.S. Government Defendant\nCause: 28:2201 Declaratory Judgment\nMovant\nSen. Phil Berger represented by Stuart K. Duncan\nSchaerr Duncan LLP\n1717 K Street NW, Suite 900\nWashington, DC 20006\n202−714−9492\nEmail: KDuncan@Schaerr−Duncan.com\nLEAD ATTORNEY\nATTORNEY TO BE NOTICED\nGene C. Schaerr\nSchaerr Duncan LLP\n1717 K Street NW, Suite 900\nWashington, DC 20006\n202−787−1060\nEmail: GSchaerr@Schaerr−Duncan.com\nATTORNEY TO BE NOTICED\nRobert D. Potter , Jr.\nRobert D. Potter, Jr., Attorney at Law\n2820 Selwyn Avenue, #840\nCharlotte, NC 28209\n704−552−7742\nEmail: rdpotter@rdpotterlaw.com\nATTORNEY TO BE NOTICED\nMovant\nRep. Tim Moore represented by Stuart K. Duncan\n(See above for address)\nLEAD ATTORNEY\nATTORNEY TO BE NOTICED\nGene C. Schaerr\n(See above for address)\nATTORNEY TO BE NOTICED\nRobert D. Potter , Jr.\n(See above for address)\nATTORNEY TO BE NOTICED\nMovant\nNorth Carolinians for Privacy represented by Deborah J. Dewart\nDeborah J. Dewart, Attorney at Law\n620 E. Sabiston Dr.\nSwansboro, NC 28584−9674\n910−326−4554\nFax: 877−326−4585\nEmail: debcpalaw@earthlink.net\nLEAD ATTORNEY\nATTORNEY TO BE NOTICED\n\nCase: 5:16-cv-238   As of: 11/03/2017 12:23 PM EDT   2 of 8\nDavid A. Cortman\nAlliance Defending Freedom\n1000 Hurricane Shoals Road NE, Suite\nD−1100\nLawrenceville, GA 30043\n770−339−0774\nFax: 770−339−6744\nEmail: dcortman@ADFlegal.org\nATTORNEY TO BE NOTICED\nJames A. Campbell\nAlliance Defending Freedom\n15100 N. 90th St.\nScottsdale, AZ 85260\n480−444−0020\nFax: 480−444−0028\nEmail: jcampbell@adflegal.org\nATTORNEY TO BE NOTICED\nJeremy D. Tedesco\nAlliance Defending Freedom\n15100 North 90th Street\nScottsdale, AZ 85260\n480−444−0020\nFax: 480−444−0028\nEmail: jtedesco@adflegal.org\nATTORNEY TO BE NOTICED\nJohn Matthew Sharp\nAlliance Defending Freedom\n1000 Hurricane Shoals Road NE, Suite\nD−1100\nLawrenceville, GA 30043\n770−339−0774\nFax: 770−339−6744\nEmail: msharp@adflegal.org\nATTORNEY TO BE NOTICED\nJonathan Caleb Dalton\nAlliance Defending Freedom\n15100 North 90th Street\nScottsdale, AZ 85260\n480−444−0020\nFax: 480−444−0028\nEmail: cdalton@adflegal.org\nATTORNEY TO BE NOTICED\nJoseph E. La Rue\nAlliance Defending Freedom\n15100 North 90th Street\nScottsdale, AZ 85260\n480−444−0020\nFax: 480−444−0028\nEmail: jlarue@adflegal.org\nATTORNEY TO BE NOTICED\nKristen K. Waggoner\nAlliance Defending Freedom\n15100 N. 90th St.\nScottsdale, AZ 85260\n480−444−0020\nFax: 480−444−0028\nEmail: kwaggoner@adflegal.org\nATTORNEY TO BE NOTICED\n\nCase: 5:16-cv-238   As of: 11/03/2017 12:23 PM EDT   3 of 8\nMovant\nSteven Glenn Johnson represented by Steven Glenn Johnson\nTERMINATED: 09/01/2016 208 Nydegg Road\nNew Bern, NC 28562\nPRO SE\nPlaintiff\nPatrick L. McCrory represented by Brennan Tyler Brooks\nin his official capacity as Governor of the Thomas More Law Center\nState of North Carolina 24 Frank Lloyd Wright Drive Suite J 3200\nP.O. Box 393\nAnn Arbor, MI 48106\n336−707−8855\nFax: 734−930−7160\nEmail: tbrooks@thomasmore.org\nLEAD ATTORNEY\nATTORNEY TO BE NOTICED\nFrank J. Gordon\nMillberg Gordon Stewart PLLC\n1101 Haynes Street\nSuite 104\nRaleigh, NC 27604−1455\n(919)836−0090\nFax: (919)836−8027\nEmail: fgordon@mgsattorneys.com\nLEAD ATTORNEY\nATTORNEY TO BE NOTICED\nKarl S. Bowers , Jr.\nBowers Law Office LLC\nPost Office Box 50549\nColumbia, SC 29250\n803−753−1099\nEmail: butch@butchbowers.com\nLEAD ATTORNEY\nATTORNEY TO BE NOTICED\nRobert C. Stephens\nOffice of the Governor\n116 West Jones Street\nRaleigh, NC 27699\n919−814−2027\nFax: 919−715−2366\nEmail: bob.stephens@nc.gov\nATTORNEY TO BE NOTICED\nWilliam W. Stewart , Jr.\nMillberg, Gordon and Stewart, PLLC\n1101 Haynes Street, Suite 104\nRaleigh, NC 27604−1499\n919−836−0090\nFax: 919−836−8027\nEmail: bstewart@mgsattorneys.com\nATTORNEY TO BE NOTICED\nPlaintiff\nFrank Perry represented by Karl S. Bowers , Jr.\nin his official capacity as Secretary, (See above for address)\nNorth Carolina Department of Public LEAD ATTORNEY\nSafety ATTORNEY TO BE NOTICED\n\nCase: 5:16-cv-238   As of: 11/03/2017 12:23 PM EDT   4 of 8\nWilliam W. Stewart , Jr.\n(See above for address)\nATTORNEY TO BE NOTICED\nV.\nDefendant\nUnited States of America represented by Michael James\n310 New Bern Ave.\nSuite 800\nRaleigh, NC 27601\n919−856−4530\nEmail: Mike.James@usdoj.gov\nLEAD ATTORNEY\nATTORNEY TO BE NOTICED\nSpencer E. Amdur\nUnited States Department of Justice\nCivil Division, Federal Programs Branch\n20 Massachusetts Avenue, NW\nWashington, DC 20530\n212−616−7420\nFax: 202−616−8460\nEmail: spencer.amdur@usdoj.gov\nLEAD ATTORNEY\nATTORNEY TO BE NOTICED\nDefendant\nUnited States Department of Justice represented by Michael James\n(See above for address)\nLEAD ATTORNEY\nATTORNEY TO BE NOTICED\nSpencer E. Amdur\n(See above for address)\nLEAD ATTORNEY\nATTORNEY TO BE NOTICED\nDefendant\nLoretta E. Lynch represented by Michael James\nin her official capacity as United States (See above for address)\nAttorney General LEAD ATTORNEY\nATTORNEY TO BE NOTICED\nSpencer E. Amdur\n(See above for address)\nLEAD ATTORNEY\nATTORNEY TO BE NOTICED\nDefendant\nVanita Gupta represented by Michael James\nin her official capacity as Principal (See above for address)\nDeputy Assistant Attorney General LEAD ATTORNEY\nATTORNEY TO BE NOTICED\nSpencer E. Amdur\n(See above for address)\nLEAD ATTORNEY\nATTORNEY TO BE NOTICED\nDate Filed # Docket Text\n\nCase: 5:16-cv-238   As of: 11/03/2017 12:23 PM EDT   5 of 8\n05/09/2016 1  COMPLAINT against All Defendants ( Filing fee $ 400 receipt number\n0417−3674980.), filed by Patrick L. McCrory, Frank Perry. (Attachments: # 1 Civil\nCover Sheet, # 2 Proposed Summons, # 3 Proposed Summons, # 4 Proposed\nSummons, # 5 Proposed Summons) (Stewart, William) (Entered: 05/09/2016)\n05/09/2016 NOTICE OF DEFICIENCY regarding: Proposed summonses at 1 Complaint. Pursuant\nto Section B(3) of the CM/ECF Policy Manual available on the court's website, when\nusing fillable PDF forms, the court requires that these forms be \"flattened.\" Counsel is\ndirected to flatten and refile the proposed summonses using the event\n\"Notice−(other).\" (Felder, J) (Entered: 05/09/2016)\n05/09/2016 NOTICE to Counsel − All counsel should file a Notice of Appearance pursuant to\nLocal Civil Rule 5.2(a). (Felder, J) (Entered: 05/09/2016)\n05/09/2016 2  Notice filed by Patrick L. McCrory, Frank Perry regarding 1 Complaint, Proposed\nSummons. (Attachments: # 1 Proposed Summons, # 2 Proposed Summons, # 3\nProposed Summons) (Stewart, William) (Entered: 05/09/2016)\n05/09/2016 3  Notice of Appearance filed by William W. Stewart, Jr on behalf of Patrick L.\nMcCrory. (Stewart, William) (Entered: 05/09/2016)\n05/09/2016 4  Notice of Appearance filed by Frank J. Gordon on behalf of Patrick L. McCrory.\n(Gordon, Frank) (Entered: 05/09/2016)\n05/09/2016 5  Notice of Appearance filed by Brennan Tyler Brooks on behalf of Patrick L. McCrory.\n(Brooks, Brennan) (Entered: 05/09/2016)\n05/09/2016 6  Financial Disclosure Statement by Patrick L. McCrory (Stewart, William) (Entered:\n05/09/2016)\n05/09/2016 7  Financial Disclosure Statement by Frank Perry (Stewart, William) (Entered:\n05/09/2016)\n05/09/2016 8  Summonses Issued as to Vanita Gupta, Loretta E. Lynch, United States Department of\nJustice, and United States of America. Counsel is directed to print summonses and\neffect service. (Romine, L.) (Entered: 05/09/2016)\n05/17/2016 9  MOTION to Transfer Case (Unopposed) filed by Patrick L. McCrory, Frank Perry.\n(Attachments: # 1 Text of Proposed Order) (Stewart, William) (Entered: 05/17/2016)\n05/17/2016 10  Memorandum in Support regarding 9 MOTION to Transfer Case (Unopposed) filed by\nPatrick L. McCrory, Frank Perry. (Attachments: # 1 Exhibit Complaint in USA v.\nState of NC, # 2 Exhibit Complaint in Carcano v. McCrory, # 3 Exhibit 1st Amended\nComplaint in Carcano v. McCrory, # 4 Supplement Landers v. Dawson (unpublished\nopinion), # 5 Supplement Calloway Golf v. Corp. Trade (unpublished opinion))\n(Stewart, William) (Entered: 05/17/2016)\n05/20/2016 Motion Submitted to US District Judge Terrence W. Boyle: regarding 9 MOTION to\nTransfer Case (Unopposed). (Romine, L.) (Entered: 05/20/2016)\n05/23/2016 11  MOTION to Consolidate Cases filed by Phil Berger, Tim Moore. (Attachments: # 1\nText of Proposed Order) (Duncan, Stuart) (Entered: 05/23/2016)\n05/23/2016 12  Memorandum in Support regarding 11 MOTION to Consolidate Cases filed by Phil\nBerger, Tim Moore. (Duncan, Stuart) (Entered: 05/23/2016)\n05/23/2016 13  Notice of Appearance filed by Stuart K. Duncan on behalf of Phil Berger, Tim Moore.\n(Duncan, Stuart) (Entered: 05/23/2016)\n05/23/2016 14  Notice of Appearance filed by Robert D. Potter, Jr on behalf of Phil Berger, Tim\nMoore. (Potter, Robert) (Entered: 05/23/2016)\n05/23/2016 15  Notice of Appearance for non−district by Karl S. Bowers, Jr on behalf of Patrick L.\nMcCrory, Frank Perry. (Bowers, Karl) (Entered: 05/23/2016)\n05/23/2016 TEXT ORDER: Plaintiffs in later−filed, related case 5:16−CV−240−FL have filed in\nthis matter a motion to consolidate the two cases in the interests of judicial economy,\nefficient handling, and consistent resolution of common issues. DE 11 . The Court will\ndefer its ruling on the pending motion to transfer DE 9 in order to consider the motion\nto consolidate. Signed by District Judge Terrence W. Boyle on 5/23/2016. (Romine,\n\nCase: 5:16-cv-238   As of: 11/03/2017 12:23 PM EDT   6 of 8\nL.) (Entered: 05/23/2016)\n05/23/2016 16  Affidavit of Service for summons and complaint filed by Patrick L. McCrory served\non USA on 5/13/2016. (Attachments: # 1 Exhibit A − usa−civil process clerk, # 2\nExhibit B − usa−usag) (Stewart, William) (Entered: 05/23/2016)\n05/23/2016 17  Affidavit of Service for summons and complaint filed by Patrick L. McCrory served\non USDOJ on 5/13/2016. (Attachments: # 1 Exhibit A − DOJ−civil process, # 2\nExhibit B − USDOJ, # 3 Exhibit C − USDOJ − AG) (Stewart, William) (Entered:\n05/23/2016)\n05/23/2016 18  Affidavit of Service for summons and complaint filed by Patrick L. McCrory served\non Loretta Lynch − AG on 5/13/2016. (Attachments: # 1 Exhibit A − Lynch − civil\nprocess, # 2 Exhibit B− Lynch − AG, # 3 Exhibit C− Lynch − USDOJ) (Stewart,\nWilliam) (Entered: 05/23/2016)\n05/23/2016 19  Affidavit of Service for summons and complaint filed by Patrick L. McCrory served\non Vanita Gupta − Asst AG on 5/13/2016. (Attachments: # 1 Exhibit A − Gupta − civil\nprocess, # 2 Exhibit B − Gupta − AG, # 3 Exhibit C− Gupta − USDOJ) (Stewart,\nWilliam) (Entered: 05/23/2016)\n05/24/2016 20  Notice of Appearance filed by Deborah J. Dewart on behalf of North Carolinians for\nPrivacy. (Dewart, Deborah) (Entered: 05/24/2016)\n05/24/2016 21  Financial Disclosure Statement by North Carolinians for Privacy (Dewart, Deborah)\n(Entered: 05/24/2016)\n05/24/2016 22  MOTION to Consolidate Cases filed by North Carolinians for Privacy. (Attachments:\n# 1 Text of Proposed Order) (Dewart, Deborah) (Entered: 05/24/2016)\n05/24/2016 23  Memorandum in Support regarding 22 MOTION to Consolidate Cases filed by North\nCarolinians for Privacy. (Dewart, Deborah) (Entered: 05/24/2016)\n05/24/2016 24  Notice of Appearance for non−district by Jeremy D. Tedesco on behalf of North\nCarolinians for Privacy. (Tedesco, Jeremy) (Entered: 05/24/2016)\n05/24/2016 25  Notice of Appearance for non−district by James A. Campbell on behalf of North\nCarolinians for Privacy. (Campbell, James) (Entered: 05/24/2016)\n05/24/2016 26  Notice of Appearance for non−district by Kristen K. Waggoner on behalf of North\nCarolinians for Privacy. (Waggoner, Kristen) (Entered: 05/24/2016)\n05/24/2016 27  Notice of Appearance for non−district by Joseph E. La Rue on behalf of North\nCarolinians for Privacy. (La Rue, Joseph) (Entered: 05/24/2016)\n05/24/2016 28  Notice of Appearance for non−district by Jonathan Caleb Dalton on behalf of North\nCarolinians for Privacy. (Dalton, Jonathan) (Entered: 05/24/2016)\n05/24/2016 29  Notice of Appearance for non−district by David A. Cortman on behalf of North\nCarolinians for Privacy. (Cortman, David) (Entered: 05/24/2016)\n05/24/2016 30  Notice of Appearance for non−district by John Matthew Sharp on behalf of North\nCarolinians for Privacy. (Sharp, John) (Entered: 05/24/2016)\n05/25/2016 31  RESPONSE to Motion regarding 11 MOTION to Consolidate Cases filed by Patrick\nL. McCrory, Frank Perry. (Stewart, William) (Entered: 05/25/2016)\n05/26/2016 32  ORDER − Consolidation of case No. 5:16−CV−240−FL with this matter will be\nallowed if permitted by the judge to whom the General Assembly's case is currently\nassigned. The Court makes no determination as to the motion to consolidate filed by\nNorth Carolinians for Privacy, case No. 5:16−CV−245−FL, at this time. Signed by\nDistrict Judge Terrence W. Boyle on 5/26/2016. The parties are reminded to read the\nattached order in its entirety. (Downing, L.) (Entered: 05/26/2016)\n06/06/2016 33  MOTION to Intervene filed by Steven Glenn Johnson. (Attachments: # 1 Proposed\nComplaint, # 2 Exhibit A − Correspondence and Oath of Office, # 3 Exhibit B −\nDocument − Page 3 of 12, # 4 Exhibit C − Register of Deeds Document) (Marsh, K)\n(Entered: 06/07/2016)\n\nCase: 5:16-cv-238   As of: 11/03/2017 12:23 PM EDT   7 of 8\n06/07/2016 34  ORDER denying 9 Motion to Transfer Case. Signed by District Judge Terrence W.\nBoyle on 6/7/2016. (Marsh, K) (Entered: 06/07/2016)\n06/09/2016 35  Notice of Appearance filed by Gene C. Schaerr on behalf of Phil Berger, Tim Moore.\n(Schaerr, Gene) (Entered: 06/09/2016)\n06/13/2016 36  ORDER allowing Phil Berger's and Tim Moore's 11 Motion to Consolidate Cases.\nSigned by District Judge Terrence W. Boyle on 6/13/2016. (Romine, L.) (Entered:\n06/13/2016)\n06/14/2016 37  Notice of Appearance filed by Spencer E. Amdur on behalf of All Defendants.\n(Amdur, Spencer) (Entered: 06/14/2016)\n06/14/2016 38  Memorandum in Opposition regarding 22 MOTION to Consolidate Cases filed by\nVanita Gupta, Loretta E. Lynch, United States Department of Justice, United States of\nAmerica. (Amdur, Spencer) (Entered: 06/14/2016)\n06/16/2016 39  Notice of Appearance filed by Michael James on behalf of All Defendants. (James,\nMichael) (Entered: 06/16/2016)\n06/17/2016 40  RESPONSE to Motion regarding 22 MOTION to Consolidate Cases filed by Patrick\nL. McCrory, Frank Perry. (Stewart, William) (Entered: 06/17/2016)\n06/17/2016 41  REPLY to Response to Motion regarding 22 MOTION to Consolidate Cases filed by\nNorth Carolinians for Privacy. (Campbell, James) (Entered: 06/17/2016)\n06/17/2016 42  RESPONSE in Support regarding 22 MOTION to Consolidate Cases filed by Phil\nBerger, Tim Moore. (Duncan, Stuart) (Entered: 06/17/2016)\n06/20/2016 43  ORDER allowing North Carolinians for Privacy's 22 Motion to Consolidate Cases.\nSigned by District Judge Terrence W. Boyle on 6/20/2016. (Romine, L.) (Entered:\n06/20/2016)\n06/21/2016 44  Notice of Appearance filed by Robert C. Stephens on behalf of Patrick L. McCrory.\n(Stephens, Robert) (Entered: 06/21/2016)\n06/27/2016 45  Memorandum in Opposition regarding 33 MOTION to Intervene of Steven Glenn\nJohnson filed by Vanita Gupta, Loretta E. Lynch, United States Department of Justice,\nUnited States of America. (Amdur, Spencer) (Entered: 06/27/2016)\n06/27/2016 46  AMENDED DOCUMENT by Vanita Gupta, Loretta E. Lynch, United States\nDepartment of Justice, United States of America. Amendment to 45 Memorandum in\nOpposition Amending Certificate of Service (Amdur, Spencer) (Entered: 06/27/2016)\n06/29/2016 47  RESPONSE in Opposition regarding 33 MOTION to Intervene filed by Patrick L.\nMcCrory, Frank Perry. (Stewart, William) (Entered: 06/29/2016)\n07/12/2016 48  MOTION to Dismiss filed by Vanita Gupta, Loretta E. Lynch, United States\nDepartment of Justice, United States of America. (Attachments: # 1 Memorandum in\nSupport of Motion to Dismiss, # 2 Exhibit 1, # 3 Exhibit 2, # 4 Exhibit 3) (Amdur,\nSpencer) (Entered: 07/12/2016)\n07/13/2016 49  ORDER regarding 48 MOTION to Dismiss. Plaintiffs' response to the motion shall be\nfiled not later than July 22, 2016. Any reply by defendants shall be filed not later than\nJuly 26, 2016. A hearing will be held on the motion, if necessary, at Raleigh, North\nCarolina. The date and time will be set by separate notice. Signed by District Judge\nTerrence W. Boyle on 7/13/2016. (Romine, L.) (Entered: 07/13/2016)\n07/18/2016 50  REPLY to Response to Motion regarding 33 MOTION to Intervene filed by Steven\nGlenn Johnson. (Romine, L.) (Entered: 07/18/2016)\n07/22/2016 51  RESPONSE in Opposition regarding 48 MOTION to Dismiss filed by Patrick L.\nMcCrory, Frank Perry. (Attachments: # 1 Exhibit A − Charlotte Observer Article, # 2\nExhibit B − Remarks of Attorney General Lynch, # 3 Exhibit C − Order in Case No.\n1:16−cv−00425−TDS−JEP (M.D.N.C.)) (Stewart, William) (Entered: 07/22/2016)\n07/26/2016 52  REPLY to Response to Motion regarding 48 MOTION to Dismiss filed by Vanita\nGupta, Loretta E. Lynch, United States Department of Justice, United States of\nAmerica. (Amdur, Spencer) (Entered: 07/26/2016)\n\nCase: 5:16-cv-238   As of: 11/03/2017 12:23 PM EDT   8 of 8\n07/27/2016 Motions Submitted to US District Judge Terrence W. Boyle: 33 MOTION to Intervene\nand 48 MOTION to Dismiss. (Romine, L.) (Entered: 07/27/2016)\n09/01/2016 53  ORDER denying movant Johnson's 33 Motion to Intervene. Signed by District Judge\nTerrence W. Boyle on 9/1/2016. Certified copy sent to pro se movant via US Mail to\n208 Nydegg Road, New Bern, NC 28562. (Romine, L.) (Entered: 09/01/2016)\n09/08/2016 54  NOTICE of Hearing on Motion 48 MOTION to Dismiss: Motion Hearing set for\n9/29/2016 at 11:00 AM in Raleigh − 6th Floor Courtroom before District Judge\nTerrence W. Boyle. (Romine, L.) (Entered: 09/08/2016)\n09/13/2016 Reset Hearing as to 48 MOTION to Dismiss. Motion Hearing set forThursday\n9/22/2016 at 11:00 AM in Raleigh − 7th Floor − Courtroom 2 before District\nJudge Terrence W. Boyle. Change in date and courtroom (Romine, L.) (Entered:\n09/13/2016)\n09/16/2016 55  Notice of Voluntary Dismissal filed by Patrick L. McCrory, Frank Perry as to All\nDefendants (Without Prejudice). (Stewart, William) (Entered: 09/16/2016)\n09/29/2016 56  MOTION to Alter Judgment filed by Steven Glenn Johnson. (Stouch, L.) (Entered:\n10/03/2016)\n10/24/2016 Motion Submitted to District Judge Terrence W. Boyle: 56 MOTION to Alter\nJudgment. (Stouch, L.) (Entered: 10/24/2016)\n01/19/2017 57  ORDER denying 56 Motion to Alter Judgment. Signed by District Judge Terrence W.\nBoyle on 1/18/2017. Certified copy sent to Steven−Glenn: Johnson via US Mail to 208\nNydegg Road, New Bern, NC 28562. (Stouch, L.) (Entered: 01/19/2017)",
+      "document_type_other": "",
+      "external_url": "",
+      "ecf_number": null,
+      "clearinghouse_link": "clearinghouse.net/doc/82356"
+    },
+    {
+      "date": "2016-06-13",
+      "date_is_estimate": false,
+      "date_not_available": false,
+      "description": null,
+      "document_source": "PACER [Public Access to Court Electronic Records]",
+      "document_status": "Coding Complete",
+      "document_type": "Order/Opinion",
+      "order_type": "Non-Decree",
+      "citation_paren": null,
+      "cite_1_page": null,
+      "cite_1_reporter": null,
+      "cite_1_vol": null,
+      "cite_2_page": null,
+      "cite_2_reporter": null,
+      "cite_2_vol": null,
+      "cite_3_page": null,
+      "cite_3_reporter": null,
+      "cite_3_vol": null,
+      "citation_status": "No citation available",
+      "court": "Eastern District of North Carolina",
+      "no_title": false,
+      "party_types": [
+        "Court"
+      ],
+      "per_curium": false,
+      "is_core_document": true,
+      "id": 99140,
+      "file": "https://clearinghouse-umich-production.s3.amazonaws.com/media/doc/99140.pdf",
+      "title": "Order",
+      "text": "IN THE UNITED STATES DISTRICT COURT \nFOR THE EASTERN DISTRICT OF NORTH CAROLINA \nWESTERN DIVISION \nNo. 5:16-CV-238-BO \nPATRICK L. MCCRORY, in his official  ) \ncapacity as Governor ofthe State ofNorth  ) \nCarolina, and FRANK PERRY, in his  ) \nofficial capacity as Secretary, North  ) \nCarolina Department of Public Safety,  ) \n) \nPlaintiffs,  ) \n) \n)  ORDER \n~ \n) \nUNITED STATES OF AMERICA, eta/.,  ) \n) \nDefendants.  ) \nThis cause comes before the Court on a motion to consolidate pursuant to Rule 42 of the \nFederal Rules of Civil Procedure filed in this matter by the plaintiffs in Berger v.  United States \nDept. ofJ ustice, No. 5:16-CV-240-FL.  Plaintiffs in this action have responded indicating that \nthey do not oppose consolidation to the extent that it does not impede or interfere with transfer of \nthis action to the Middle District.1  [DE 31 ].  The motion to consolidate represents that the \nfederal defendants, who have not yet appeared in this action, oppose consolidation. \nRule 42 provides for the consolidation of actions pending before a court if the actions \ninvolve common questions of law or fact.  Fed. R. Civ. P. 42(a).  The Court has broad discretion \nto consolidate cases pending in this district, AIS J Ludwig Mowinckles Rederi v. Tidewater \nCanst. Co., 559 F.2d 928,933 (4th Cir. 1977), and it does not require consent ofthe parties to do \nso.  See, e.g., Arnoldv. E. Air Lines, Inc., 681 F.2d 186, 191 (4th Cir. 1982) (discussing sua \nsponte consolidation); see also Conn. Gen. Life Ins. Co. v. Sun Life Assur. Co. ofCan., 210 F.3d \n1 The Court has denied plaintiffs' motion to transfer.  [DE 34]. \n\n771,774 (7th Cir. 2000) (consent of parties not required for consolidation).  In determining \nwhether to consolidate cases, a court considers the risks of prejudice and possible confusion \nagainst the risk of inconsistent adjudications of common factual and legal issues, as well as the \nburden on the parties and judicial resources including the length of time required to conclude \nmultiple suits and the relative expense to all concerned.  Arnold, 681 F.2d at 193. \nThese cases include common factual and legal issues and the risk of inconsistent \njudgment outweighs any potential prejudice to the parties.  The Court further finds that \nconsolidation would not impose any undue burden on the parties or witnesses in these matters. \nAs sufficient time has passed to consider any reason to deny consolidation and no good reason \nexists, and in furtherance of the efficient and timely administration of justice, the Court in its \ndiscretion ALLOWS the motion to consolidate.  [DE 11]. \njJ_ \nSO ORDERED, this  day of June, 2016 . \n...  w./J...._h \n~~ \n-'\"' \nT RRENCE w. BOYLE  ~T \nUNITED STATES DISTRICT JUDGE \n2 ",
+      "document_type_other": "",
+      "external_url": "",
+      "ecf_number": "36",
+      "clearinghouse_link": "clearinghouse.net/doc/99140"
+    },
+    {
+      "date": "2016-05-09",
+      "date_is_estimate": false,
+      "date_not_available": false,
+      "description": null,
+      "document_source": "PACER [Public Access to Court Electronic Records]",
+      "document_status": "Coding Complete",
+      "document_type": "Complaint",
+      "order_type": null,
+      "citation_paren": null,
+      "cite_1_page": null,
+      "cite_1_reporter": null,
+      "cite_1_vol": null,
+      "cite_2_page": null,
+      "cite_2_reporter": null,
+      "cite_2_vol": null,
+      "cite_3_page": null,
+      "cite_3_reporter": null,
+      "cite_3_vol": null,
+      "citation_status": "Not applicable",
+      "court": "Eastern District of North Carolina",
+      "no_title": false,
+      "party_types": [
+        "Plaintiff"
+      ],
+      "per_curium": false,
+      "is_core_document": true,
+      "id": 82370,
+      "file": "https://clearinghouse-umich-production.s3.amazonaws.com/media/doc/82370.pdf",
+      "title": "Complaint",
+      "text": "UNITED STATES DISTRICT COURT \nEASTERN DISTRICT OF NORTH CAROLINA \nWESTERN DIVISION \n \n             \nPATRICK L. MCCRORY, in his official capacity   ) \nas Governor of the State of North Carolina,    ) \nand FRANK PERRY, in his official capacity   ) \nas Secretary, North Carolina Department of    ) \nPublic Safety,           ) \n              )  CASE NO. ___________________ \n  Plaintiffs,          ) \n              ) \n    vs.          )     \n              ) \nUNITED STATES OF AMERICA,      )             \nUNITED STATES DEPARTMENT      ) \nOF JUSTICE,  LORETTA E. LYNCH, in her  ) \nofficial capacity as United States Attorney    ) \nGeneral, and VANITA GUPTA, in her official  ) \ncapacity as Principal Deputy Assistant Attorney  ) \nGeneral,            ) \n              )    \n  Defendants.          ) \n \nCOMPLAINT FOR DECLARATORY JUDGMENT \n \nPlaintiffs Patrick L. McCrory, in his official capacity as Governor of the State of North \nCarolina (“Governor McCrory”), and Frank Perry, in his official capacity as Secretary, North \nCarolina  Department  of  Public  Safety  (“Secretary  Perry”),  (collectively  “plaintiffs”)  seek \ndeclaratory and injunctive relief against the United States of America (“United States”), the \nUnited States Department of Justice, Loretta Lynch, in her official capacity as United States \nAttorney General,  and Vanita Gupta, in her official capacity as Principal Deputy  Assistant \nAttorney General, for their radical reinterpretation of Title VII of the Civil Rights Act of 1964 \nwhich would prevent plaintiffs from protecting the bodily privacy rights of state employees \nwhile accommodating the needs of transgendered state employees.  The United States, through \nits Department of Justice (“Department”), by letters dated May 4, 2016, threatened legal action \nCase 5:16-cv-00238-BO   Document 1   Filed 05/09/16   Page 1 of 10\n\nagainst Governor McCrory, Secretary Perry, and others, because plaintiffs intend to follow North \nCarolina law requiring public agencies to generally limit use of multiple occupancy bathroom \nand changing facilities to persons of the same biological sex.  The Department contends that \nNorth Carolina’s common sense privacy policy constitutes a pattern or practice of discriminating \nagainst transgender employees in the terms and conditions of their employment because it does \nnot give employees an unfettered right to use the bathroom or changing facility of their choice \nbased on gender identity.  The Department’s position is a baseless and blatant overreach.  This is \nan attempt to unilaterally rewrite long-established federal civil rights laws in a manner that is \nwholly inconsistent with the intent of Congress and disregards decades of statutory interpretation \nby the Courts.  The overwhelming weight of legal authority recognizes that transgender status is \nnot a protected class under Title VII.  If the United States desires a new protected class under \nTitle VII, it must seek such action by the United States Congress.  In any event, North Carolina \nlaw allows plaintiffs to accommodate transgender employees while protecting the bodily privacy \nrights of other state employees, and nothing in Title VII prohibits such conduct or constitutes \ndiscrimination in the terms and conditions of employment of transgender employees.  Moreover, \nthe Department has similarly overreached in its interpretation of the Violence Against Women \nReauthorization Act of 2013 (“VAWA”).  Even if VAWA specifically includes gender identity \nas  a  protected  class,  the  North  Carolina  law  is  not  discriminatory  because  it  allows \naccommodations  based  on  special  circumstances,  including  but  not  limited  to  transgender \nindividuals.  \nPARTIES  \n1.  Plaintiff Patrick L. McCrory is the Governor of North Carolina.  Under North \nCarolina law, Governor McCrory is the chief executive authority for executive branch agencies \n  2 \nCase 5:16-cv-00238-BO   Document 1   Filed 05/09/16   Page 2 of 10\n\nwithin state government.  Complying with the demands made in defendants’ letter of May 4, \n2016,  would  prevent  Governor  McCrory  from  discharging  his  obligations  under  the  North \nCarolina Constitution.   \n2.  Plaintiff Frank Perry is the Secretary of the North Carolina Department of Public \nSafety (“DPS”).  Secretary Perry is the chief executive authority for DPS, which is an executive \nbranch  agency  reporting  to  Governor  McCrory.    Complying  with  the  demands  made  in \ndefendants’  letter  of  May  4,  2016,  would  prevent  Secretary  Perry  from  discharging  his \nobligations under North Carolina law.       \n3.  Defendant the United States, through its co-defendant the Department of Justice, \nhas  the  authority  to  bring  enforcement  actions  pursuant  to  Title  VII  and  VAWA.    The \nDepartment  has threatened to  bring such an enforcement  action against  the State of North \nCarolina and its officials.   \n4.  Defendant United States Department of Justice is a federal executive agency and \npossesses responsibility for enforcement of Title VII and VAWA. \n5.  Defendant Loretta E. Lynch is the current Attorney General of the United States \nand head of the United States Department of Justice.  She is sued in her official capacity only.  \n6.  Defendant Venita Gupta is a Principal Deputy Assistant Attorney General at the \nUnited States Department of Justice and head of the Civil Rights Division of the United States \nDepartment of Justice.  She has been delegated the responsibility to bring an enforcement action \nunder Title VII against the State of North Carolina.  She has been sued in her official capacity \nonly. \n \n \n  3 \nCase 5:16-cv-00238-BO   Document 1   Filed 05/09/16   Page 3 of 10\n\nJURISDICTION AND VENUE \n7.  In this action, plaintiffs seek a declaratory judgment pursuant to 28 U.S.C. § 2201, \net  seq., the Federal  Declaratory Judgment Act, and Rule 57 of the Federal  Rules of Civil \nProcedure.  The parties dispute whether plaintiffs’ implementation of North Carolina’s common \nsense bodily privacy law constitutes a violation of Title VII and VAWA.  \n8.  The Court has federal question jurisdiction pursuant to 28 U.S.C. § 1331.   \n9.  Venue is proper in this District under 28 U.S.C. § 1391(e) because the plaintiffs in \ntheir  official  capacities  are  residents  of  this  District,  specifically  Raleigh,  North  Carolina, \nplaintiffs have employees in this District, and substantially all of the events creating the dispute \nbetween the parties occurred in this District. \nFACTS \n10.  On March 23, 2016, the North Carolina General Assembly enacted the Public \nFacilities Privacy and Security Act (“the Act”).  The Act created common sense bodily privacy \nprotections for, among others, state employees, by requiring public agencies to require multiple \noccupancy bathroom or changing facilities to be designated for and only used by persons based \non their biological sex.  Biological sex is the physical condition of being male or female, and the \nAct notes that such condition is “stated on a person’s birth certificate.”  The Act also allows \naccommodations based on special circumstances.   \n11.  On April 12, 2016, Governor McCrory issued “Executive Order 93 to Protect \nPrivacy and Equality” (“EO 93”).  EO 93 expanded discrimination protections to state employees \non the basis of sexual orientation and gender identity, among others.  EO 93 also affirmed North \nCarolina law that cabinet agencies should require multiple occupancy bathroom or changing \nfacilities to be designated for and only used by persons based on their biological sex.  EO 93 also \n  4 \nCase 5:16-cv-00238-BO   Document 1   Filed 05/09/16   Page 4 of 10\n\nreaffirmed  North  Carolina  law  that  agencies  may  make  a  reasonable  accommodation  upon \nrequest  due  to  special  circumstances  and  directed  all  agencies  to  make  a  reasonable \naccommodation of a single occupancy restroom, locker room, or shower facility when readily \navailable and when practicable. \n12.  Upon information and belief, no transgender employee of the State of North \nCarolina  has  advanced  a  claim  that  the  state  employment  policy  as  outlined  above  is \ndiscriminatory under Title VII. \n13.  Upon information and belief, no person has advanced a claim that the law is \ndiscriminatory under VAWA. \n14.  Nonetheless, on May 4, 2016, the Department asserted in letters to Governor \nMcCrory and Secretary Perry that state law as outlined above constitutes a “pattern or practice” \nof discriminating against transgender state employees by denying such employees access to the \nbathroom or other changing facility of their chosen gender identity.   \n15.  In addition, the Department asserted that the North Carolina Department of Public \nSafety has violated the non-discrimination provision of VAWA. \n16.  The Department further threatened to “apply to [an] appropriate court for an order \nthat will ensure compliance with” the Department’s misguided interpretations of Title VII and \nVAWA.   \n17.  The Department’s threat is real but misplaced.  North Carolina does not treat \ntransgender employees differently from non-transgender employees.  All state employees are \nrequired to use the bathroom and changing facilities assigned to persons of their same biological \nsex, regardless of gender identity, or transgender status.   \n  5 \nCase 5:16-cv-00238-BO   Document 1   Filed 05/09/16   Page 5 of 10\n\n18.  Moreover, the overwhelming weight of authority has refused to expand Title VII \nprotections to transgender status absent Congressional action.  Courts consistently find that Title \nVII does not protect transgender or transsexuality per se.  See Etsitty v. Utah Transit Auth., 502 \nF.3d 1215, 1224 (10th Cir. 2007) (“Etsitty may not claim protection under Title VII based upon \nher transsexuality per se.”); Lopez v. River Oaks Imaging & Diagnostic Grp., Inc., 542 F. Supp. \n2d 653, 658 (S.D. Tex. April 3, 2008) (Atlas, J.) (acknowledging that “[c]ourts consistently find \nthat transgendered persons are not a protected class under Title VII per se”); Spearman v. Ford \nMotor Co., 231 F.3d 1080 (7th Cir. 2000) (“Congress intended the term ‘sex’ to mean ‘biological \nmale or biological female,’ and not one’s sexuality or sexual orientation.”); Oiler v. Winn-Dixie \nLouisiana, Inc., 2002 WL 31098541, at *6 (E.D. La. Sept. 16, 2002) (“[T]he phrase ‘sex’ has not \nbeen interpreted to include sexual identity or gender identity disorders.”); Ulane v. E. Airlines, \nInc., 742 F.2d 1081, 1084 (7th Cir. 1984) (“The words of Title VII do not outlaw discrimination \nagainst a person who has a sexual identity disorder….”); Sommers v. Budget Mktg., Inc., 667 \nF.2d  748,  750  (8th  Cir.  1982)  (“Because  Congress  has  not  shown  an  intention  to  protect \ntranssexuals, we hold that discrimination based on one’s transsexualism does not fall within the \nprotective purview of [Title VII].”) \n19.  In any event, even if transgender employees were covered by Title VII, plaintiffs \nintend, and are authorized under North Carolina law, to accommodate such individuals in the \nterms and conditions of their employment.  Title VII does not prohibit employers, including state \nemployers, from balancing the special circumstances posed by transgender employees with the \nright to bodily privacy held by non-transgender employees in the workplace.  Title VII allows \ngender specific regulations in the workplace.  See Finnie v. Lee Cnty., Miss., 907 F. Supp. 2d \n750,  772  (N.D.  Miss.  Jan.  17,  2012)  (Title  VII  “was  never  intended  to  interfere  in  the \n  6 \nCase 5:16-cv-00238-BO   Document 1   Filed 05/09/16   Page 6 of 10\n\npromulgation  and  enforcement  of  personal  appearance  regulations  by  private  employers.”); \nJackson v. Houston Gen. Ins. Co., 122 F.3d 1066, 1066 (5th Cir. 1997) (an employer does not \nviolate Title VII by imposing different  grooming and dress standards for male and female \nemployees); Nichols v. Azteca Rest. Enterprises, Inc., 256 F.3d 864, 878 n.7 (9th Cir. 2001) \n(“We  do  not  imply  that  all  gender-based  distinctions  are  actionable  under  Title  VII.    For \nexample, our decision does not imply that there is any violation of Title VII occasioned by \nreasonable regulations that require male and female employees to conform to different dress and \ngrooming standards”);  Jespersen v. Harrah’s Operating Co., Inc., 444 F.3d 1104, 1109-10 (9th \nCir.2006) (en banc) (holding that Harrah’s grooming standards requiring women to wear makeup \nand styled hair and men to dress conservatively was not discriminatory because the policy did \nnot impose unequal burdens on either sex); Willingham v. Macon Tel. Pub. Co., 507 F.2d 1084, \n1091-92 (5th Cir. 1975) (concluding that a grooming policy concerning hair length differences \nfor males and females did not constitute sex discrimination and noting that such a policy relates \n“more  closely  to  the  employer’s  choice  of  how  to  run  his  business  than  to  equality  of \nemployment opportunity”). \n20.  Plaintiffs desire to implement state employment policies that protect the bodily \nprivacy rights of state employees in bathroom and changing facilities.  Plaintiffs also desire to \naccommodate the needs of state employees based on special circumstances, including but not \nlimited to transgender employees.  Defendants instead threaten to force plaintiffs to implement \ntheir reinterpretation of Title VII and VAWA while ignoring the bodily privacy of plaintiffs’ \nemployees.  Such action by defendants threaten to expose plaintiffs to actual liability under Title \nVII, VAWA, and other provisions protecting the bodily privacy rights of employees in the \nworkplace. \n  7 \nCase 5:16-cv-00238-BO   Document 1   Filed 05/09/16   Page 7 of 10\n\n21.  There is an actual controversy between the parties concerning whether plaintiffs \nmay follow North Carolina law regarding bathroom and changing facility use.   \n22.  A declaratory judgment will serve a useful purpose in clarifying and settling the \nlegal issues, and will afford relief from uncertainty, insecurity, and controversy giving rise to the \nproceeding. \n23.  Plaintiffs and the State of North Carolina will suffer significant and irreparable \nharm unless this Court intervenes. \nCOUNT ONE: \nDECLARATION THAT PLAINTIFFS \nARE IN COMPLIANCE WITH TITLE VII \n \n24.  The allegations of paragraphs 1 through 23 are re-alleged and incorporated herein \nby reference.    \n25.  North  Carolina  does  not  treat  transgender  employees  differently  from  non-\ntransgender employees.  All state employees are required to use the bathroom and changing \nfacilities assigned to persons of their same biological sex, regardless of gender identity, or \ntransgendered status. \n26.  Therefore, Plaintiffs respectfully request a declaration that they are not violating \nTitle  VII  by  following  state  law  regarding  bathroom  and  changing  facility  use  by  state \nemployees. \nCOUNT TWO: \nDECLARATION THAT PLAINTIFFS \nARE IN COMPLIANCE WITH VAWA \n \n27.  The allegations of paragraphs 1 through 26 are re-alleged and incorporated herein \nby reference. \n  8 \nCase 5:16-cv-00238-BO   Document 1   Filed 05/09/16   Page 8 of 10\n\n28.  Even if VAWA specifically includes gender identity as a protected class, North \nCarolina  law  is  not  discriminatory  because  it  allows  accommodations  based  on  special \ncircumstances, including but not limited to transgender individuals.  \n29.  Therefore, Plaintiffs respectfully request a declaration that they are not violating \nVAWA by following state law regarding bathroom and changing facility use. \nDECLARATORY RELIEF \n  WHEREFORE, plaintiffs pray for judgment pursuant to 28 U.S.C. § 2201 declaring that: \n1.  Plaintiffs are not violating Title VII or VAWA by following state law regarding \nbathroom and changing facility use by state employees; \n2.  Plaintiffs are not violating Title VII or VAWA by following state law allowing \naccommodations under special circumstances for employees who need exceptions to state policy \nregarding bathroom and changing facility use by state employees; \n3.  Plaintiffs are not in violation of Title VII or VAWA; \n4.  That this dispute be resolved in favor of plaintiffs such that plaintiffs do not have \nto incur damages in the form of back pay, front pay, benefits, liability, and other associated costs; \n5.  That plaintiffs recover their fees and costs in this matter; and \n6.  Such other further relief as the Court deems just and proper. \nRespectfully submitted, \n \nBOWERS LAW OFFICE LLC \n \nBy:  /s/ Karl S. Bowers, Jr.     \nKarl S. Bowers, Jr.* \nFederal Bar #7716 \nP.O. Box 50549 \nColumbia, SC 29250 \nTelephone: (803) 260-4124 \nE-mail: butch@butchbowers.com  \n*appearing pursuant to Local Rule 83.1(e) \n  9 \nCase 5:16-cv-00238-BO   Document 1   Filed 05/09/16   Page 9 of 10\n\nCounsel  for  Governor  Patrick  L.  McCrory  and \nSecretary Frank Perry \n \n \nBy:  /s/ Robert C. Stephens       \nRobert C. Stephens (State Bar #4150) \nGeneral Counsel \nOffice of the Governor of North Carolina \n20301 Mail Service Center \nRaleigh, North Carolina 27699 \nTelephone: (919) 814-2027 \nFacsimile:  (919) 733-2120 \nE-mail: bob.stephens@nc.gov \n*appearing as Local Rule 83.1 Counsel \nCounsel for Governor Patrick L. McCrory \n           \n          MILLBERG GORDON STEWART PLLC   \n       \n          By:  /s/ William W. Stewart, Jr.     \n          William W. Stewart, Jr. (State Bar #21059) \n          Frank J. Gordon (State Bar #15871)  \n          B. Tyler Brooks (State Bar #37604) \n          1101 Haynes Street, Suite 104 \n          Raleigh, NC  27604 \n          Telephone: (919) 836-0090 \n          Fax:  (919) 836-8027 \n          Email: bstewart@mgsattorneys.com  \n            fgordon@mgsattorneys.com  \n            tbrooks@mgsattorneys.com     \nCounsel for Governor Patrick L. McCrory \n \n \n \nDated: May 9, 2016 \nRaleigh, North Carolina \n \n \n \n \n \n \n \n \n \n \n  10 \nCase 5:16-cv-00238-BO   Document 1   Filed 05/09/16   Page 10 of 10",
+      "document_type_other": "",
+      "external_url": "",
+      "ecf_number": "1",
+      "clearinghouse_link": "clearinghouse.net/doc/82370"
+    },
+    {
+      "date": "2016-05-04",
+      "date_is_estimate": false,
+      "date_not_available": false,
+      "description": null,
+      "document_source": null,
+      "document_status": "Coding Complete",
+      "document_type": "Notice of Investigation or Suit/Demand Letter",
+      "order_type": null,
+      "citation_paren": null,
+      "cite_1_page": null,
+      "cite_1_reporter": null,
+      "cite_1_vol": null,
+      "cite_2_page": null,
+      "cite_2_reporter": null,
+      "cite_2_vol": null,
+      "cite_3_page": null,
+      "cite_3_reporter": null,
+      "cite_3_vol": null,
+      "citation_status": "Not applicable",
+      "court": "No Court",
+      "no_title": false,
+      "party_types": [
+        "Defendant"
+      ],
+      "per_curium": false,
+      "is_core_document": true,
+      "id": 82565,
+      "file": "https://clearinghouse-umich-production.s3.amazonaws.com/media/doc/82565.pdf",
+      "title": "Notice to Gov. Pat McCrory [regarding violation of Civil Rights Act]",
+      "text": "U.S. Department of Justice \nCivil Rights Division \nWashington, D.C. 20530 \nMay 4, 2016 \nVia electronic and overnight mail \nGovernor Pat McCrory \nState ofNorth Carolina \nNorth Carolina Office of the Governor \n116 West Jones Street \nRaleigh, NC 27603-8001 \nDear Governor McCrory: \nThis letter is to inform you that the Department of Justice has determined that, as a result \nof compliance v..ith and implementation of North Carolina House Bill 2 (\"H.B. 2\"), both you and \nthe State of North Carolina (the \"State\") are in violation of Title VII of the Civil Rights Act of \n1964, as amended, 42 U.S.C. § 2000e, et seq. (\"Title VII\").  Specifically, the State is engaging in \na pattern or practice of discrimination against transgender state employees and both you, in your \nofficial capacity, and the State are engaging in a pattern or practice of resistance to the full \nenjoyment of Title VII rights by trans gender employees of public agencies. \nTitle VII prohibits an employer from discriminating against an individual on the basis of \nsex and from otherwise resisting the full enjoyment of Title VII rights. See 42 U.S.C. § 2000e-2. \nThe Supreme Court made clear in Price Waterhouse v. Hopkins that discrimination on the basis \nof\"sex\" includes differential treatment based on any \"sex-based considerationO.\" 490 U.S. 228, \n242 (1989) (plurality). Federal courts and administrative agencies have applied Title VII to \ndiscrimination against transgender individuals based on sex, including gender identity. See, e.g., \nGlenn v. Brumby, 663 F.Jd 1312, 1315-20 (11th Cir. 2011); Barnes v. City ofC  incinnati, 401 \nF.3d 729, 737 (6th Cir. 2005); Smith v. City ofSalem, 378 f.3d 566, 572-75 (6th Cir. 2004); \nSchroer v. Billington, 577 F. Supp. 2d 293, 303-08 (D.D.C. 2008); Macy v. Holder, Appeal No. \n0120120821, 2012 WL 1435995, at *4~ 11 (EEOC Apr. 20, 2012). \nAccess to sex-segregated restrooms and other workplace facilities consistent with gender \nidentity is a term, condition, or privilege of employment.  Denying such access to transgender \nindividuals, whose gender identity is different from their gender assigned at birth, while \naffording it to similarly situated non-transgender employees, violates Title Vll.  Significantly, \nthe U.S. Equal Employment Opportunity Commission ('\"EEOC\") recently addressed this very \nissue and held that 1\"(e]qual access to restrooms is a significant, basic condition of employment,' \nand that denying transgender individuals access to a restroom consistent with gender identity \ndiscriminates on the basis of sex in violation of Title VII.\"  Lusardi v. Dep't oft he Army, No. \n0120133395, 2015 WL 1607756, at *9 (EEOC Apr. 1, 2015).  And, in interpreting the analogous \n1 \nC.. · \n\nsex discrimination provision of Title IX of the Education Amendments of 1972,1 the United \nStates Court of Appeals for the Fourth Circuit held in G. G. v. Gloucester Cnty. Sch. Bd., No. 15-\n2056,2016 WL 1567467 at *11 (4th Cir. Apr. 19, 2016), that the Department of Education's \nguidance that educational institutions \"generally must treat transgender students consistent with \ntheir gender identity\" is entitled to \"controlling weight\" under Auer v. Robbins, 519 U.S. 452, \n461 (1997). \nH. B. 2, which took effect on March 23, 2016, is facially discriminatory against \ntransgender employees on the basis of sex because it treats transgender employees, whose gender \nidentity does not match their \"biological sex,\" as defined by H.B. 2,2 differently from similarly \nsituated non-transgender employees. Under H.B. 2, non-transgender state employees may access \nrestrooms and changing facilities that are consistent with their gender identity in public \nbuildings, while transgender state employees may not. \nH.B. 2 places similar restrictions on access to restrooms and changing facilities for all \npublic agencies3 in North Carolina, including, for example, all political subdivisions of the State. \nOn April 12, 2016, you issued Executive Order 93, reaffirming the applicability ofthis provision \nof H.B. 2 to all cabinet agencies.  By requiring compliance with H. B. 2, you and the State are \ntherefore resisting the full enjoyment of Title VII rights and discrinlinating against transgender \nemployees of public agencies by requiring those public agencies to comply with H. B. 2. \nBased upon the above, we have concluded that, in violation of Title VII, the State is \nengaged in a pattern or practice of discrimination against its employees and both you and the \nState are engaged in a pattern or practice of resistance to the full enjoyment of Title VII rights by \nemployees of public agencies. When the Attorney General of the United States has a reasonable \nbasis to believe that a state or person has engaged in a pattern or practice of discrimination in \nviolation of Title VII, she may apply to the appropriate court for an order that will ensure \ncompliance with Title VII.  See 42 U.S.C. § 2000e-6(a).  This responsibility has been delegated \nto the Principal Deputy Assistant Attorney General of the Civil Rights Division. \nPlease advise the Department, therefore, no later than close of business on May 9, 2016 \nwhether you will remedy these violations of Title VII, including by 9onfirming that the State will \nnot comply with or implement H.B. 2, and that it has notified employees of the State and public \nagencies that, consistent with federal law, they are permitted to access bathrooms and other \nfacilities consistent with their gender identity. \nWe further inform you that today the Department sent letters addressed to the North \nCarolina Department of Public Safety and the University ofNorth Carolina similarly notifying \n1 Courts consider often Title VII and Title IX precedent together when analyzing discrimination claims. See, e.g., \nFranklin v. Gwinnelt Cnty. Pub. Sch., 503 U.S. 60, 74 (1992); Jennings v. Univ. ofN .C., 482 F.3d 686, 695 (4th Cir. \n2007); Murray v. N.Y. Univ. Col/. ofD  entistry, 57 F.3d 243, 249 (2d Cir. 1995). \n2 H. B. 2 defines \"biological sex\" as the \"physical condition ofbcing male or female, which is stated on a person's \nbirth certificate.\" KC. Gen. Stat. 143· 760(a)( I). \n3 \"Public Agencies\" arc defined by the Act as including: executive branch agencies; all agencies, boards, offices, \nand departments under the direction and control of a member of the Council of State; units, as defined in N.C. Gen. \nStat. 159-7(b) (15); public authorities, as defined in N.C. Gen. Stat. 159-7(b )(I 0); local boards of education, the \njudicial and legislative branches, and any other political subdivision oftbc States. N.C. Gen. Stat. 143-760(a)(4). \n2 \n\nthem of our conclusion that they have engaged in violations of Title Vll, as well as violations of \nTitle IX and its implementing regulations, and the Violence Against Women Reauthorization Act \nof2013 (\"VAWA  '').  Courtesy copies of those letters are enclosed. \nIf you have questions about this letter, please contact Delora Kennebrew at (202) 514-\n3831/ Delora.Kennebrew@usdoj.gov. \nSincerely, \nVanita Gupta \nPrincipal Deputy Assistant Attorney General \n3 ",
+      "document_type_other": "",
+      "external_url": "https://assets.documentcloud.org/documents/2823498/Doj-Letter-Nc.pdf",
+      "ecf_number": null,
+      "clearinghouse_link": "clearinghouse.net/doc/82565"
+    }
+  ],
+  "document_count": 6
+}

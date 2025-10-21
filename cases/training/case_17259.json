@@ -1,0 +1,1181 @@
+{
+  "case_id": 17259,
+  "fetched_at": "2025-10-20T22:47:57.359448",
+  "case_data": {
+    "attorney_orgs": [
+      "ACLU Affiliates (any)"
+    ],
+    "available_documents": [
+      "Trial Court Docket",
+      "Complaint (any)",
+      "Non-settlement Outcome"
+    ],
+    "case_defendants": [
+      {
+        "defendant_level": null,
+        "institution": "U.S. Citizenship and Immigration Service",
+        "institution_alt_state": null,
+        "institution_city": "",
+        "institution_county": null,
+        "name": "U.S. Department of Homeland Security",
+        "defendant_level_other": "",
+        "is_active": true
+      }
+    ],
+    "case_ongoing": "No",
+    "case_status": "Approved",
+    "case_types": [
+      "Healthcare Access and Reproductive Issues",
+      "Immigration and/or the Border"
+    ],
+    "cause_other": "",
+    "causes": [
+      "Ex Parte Young (Federal) or Bivens",
+      "Administrative Procedure Act, 5 U.S.C. §§ 551 et seq.",
+      "Declaratory Judgment Act, 28 U.S.C. § 2201",
+      "Ex parte Young (federal or state officials)"
+    ],
+    "class_action_granted": "Not sought",
+    "class_action_sought": "No",
+    "closing_year": 2021,
+    "constitutional_clause": [
+      {
+        "value": "Equal Protection"
+      }
+    ],
+    "content_of_injunction": [],
+    "court": "District of Massachusetts",
+    "custom_issues": [],
+    "defendant_payment": "",
+    "defendant_type": [
+      {
+        "value": "Jurisdiction-wide"
+      }
+    ],
+    "docket_status": "Complete as of retrieval date",
+    "facility_type": [],
+    "filing_date": "2019-09-05",
+    "filing_year": 2019,
+    "id": 17259,
+    "injunction_duration": "",
+    "issues": [
+      "Medical/Mental Health Care: HIV/AIDS",
+      "Medical/Mental Health Care: Medical care, general",
+      "Disability and Disability Rights: Disability, unspecified",
+      "Immigration/Border: Temporary protected status",
+      "Immigration/Border: Undocumented immigrants - rights and duties",
+      "Immigration/Border: Work authorization - procedures",
+      "Immigration/Border: Status/Classification",
+      "Discrimination Basis: Disability (inc. reasonable accommodations)",
+      "Immigration/Border: Constitutional rights",
+      "Immigration/Border: Deportation - criteria",
+      "Immigration/Border: Deportation - procedure",
+      "Discrimination Basis: National origin discrimination",
+      "General/Misc.: Government services"
+    ],
+    "last_checked_date": "2021-07-13T00:00:00-04:00",
+    "main_docket": {
+      "id": 28195,
+      "docket_entries": [
+        {
+          "row_number": 31,
+          "id": 2063389,
+          "entry_number": "38",
+          "date_filed": "2020-07-01T01:00:00-04:00",
+          "attachments": [
+            {
+              "recap_id": 157191510,
+              "pacer_url": "https://ecf.mad.uscourts.gov/doc1/095010037223?caseid=213895",
+              "description": "Exhibit",
+              "attachment_number": 1
+            },
+            {
+              "recap_id": 157191511,
+              "pacer_url": "https://ecf.mad.uscourts.gov/doc1/095010037224?caseid=213895",
+              "description": "Text of Proposed Order",
+              "attachment_number": 2
+            }
+          ],
+          "url": "https://www.courtlistener.com/docket/16156133/38/rian-immigrant-center-v-cuccinelli/",
+          "recap_pdf_url": null,
+          "pacer_doc_id": "095010037222",
+          "description": "Consent MOTION for Leave to File Declaration Correcting Error in Prior Filing by Kenneth Cuccinelli, Kevin K. McAleenan, Michael J McCleary, Lori Pietropaoli, The Department of Homeland Security, Donald J Trump, U.S. Citizenship and Immigration Services. (Attachments: # 1 Exhibit, # 2 Text of Proposed Order)(Thorp, Galen) (Entered: 07/01/2020)"
+        },
+        {
+          "row_number": 9,
+          "id": 2063363,
+          "entry_number": "18",
+          "date_filed": "2020-02-05T01:00:00-05:00",
+          "attachments": [
+            {
+              "recap_id": 157191495,
+              "pacer_url": "https://ecf.mad.uscourts.gov/doc1/09509791595?caseid=213895",
+              "description": "Text of Proposed Order",
+              "attachment_number": 1
+            }
+          ],
+          "url": "https://www.courtlistener.com/docket/16156133/18/rian-immigrant-center-v-cuccinelli/",
+          "recap_pdf_url": null,
+          "pacer_doc_id": "09509791594",
+          "description": "Joint MOTION for Scheduling Order by Kenneth Cuccinelli, Kevin McAleenan, Secretary of the Department of Homeland Security, Transportation Security Administration, Michael J McCleary, Lori Pietropaoli, The Department of Homeland Security, Donald J Trump, U.S. Citizenship and Immigration Services. (Attachments: # 1 Text of Proposed Order)(Thorp, Galen) (Entered: 02/05/2020)"
+        },
+        {
+          "row_number": 35,
+          "id": 2063393,
+          "entry_number": "41",
+          "date_filed": "2020-07-06T01:00:00-04:00",
+          "attachments": [
+            {
+              "recap_id": 145129281,
+              "pacer_url": "https://ecf.mad.uscourts.gov/doc1/095010041620?caseid=213895",
+              "description": "Exhibit A",
+              "attachment_number": 1
+            },
+            {
+              "recap_id": 145129282,
+              "pacer_url": "https://ecf.mad.uscourts.gov/doc1/095010041621?caseid=213895",
+              "description": "Exhibit B",
+              "attachment_number": 2
+            },
+            {
+              "recap_id": 145129283,
+              "pacer_url": "https://ecf.mad.uscourts.gov/doc1/095010041622?caseid=213895",
+              "description": "Exhibit C",
+              "attachment_number": 3
+            },
+            {
+              "recap_id": 145129284,
+              "pacer_url": "https://ecf.mad.uscourts.gov/doc1/095010041623?caseid=213895",
+              "description": "Exhibit D",
+              "attachment_number": 4
+            }
+          ],
+          "url": "https://www.courtlistener.com/docket/16156133/41/rian-immigrant-center-v-cuccinelli/",
+          "recap_pdf_url": null,
+          "pacer_doc_id": "095010041619",
+          "description": "MEMORANDUM in Opposition re 35 MOTION for Leave to File Supplemental Record (Corrected) filed by Kenneth Cuccinelli, Kevin K. McAleenan, Michael J McCleary, Lori Pietropaoli, The Department of Homeland Security, Donald J Trump, U.S. Citizenship and Immigration Services. (Attachments: # 1 Exhibit A, # 2 Exhibit B, # 3 Exhibit C, # 4 Exhibit D)(Thorp, Galen) (Entered: 07/06/2020)"
+        },
+        {
+          "row_number": 0,
+          "id": 2063344,
+          "entry_number": "1",
+          "date_filed": "2019-09-05T01:00:00-04:00",
+          "attachments": [
+            {
+              "recap_id": 105353505,
+              "pacer_url": "https://ecf.mad.uscourts.gov/doc1/09509530111?caseid=213895",
+              "description": "Civil Cover Sheet",
+              "attachment_number": 1
+            },
+            {
+              "recap_id": 105353506,
+              "pacer_url": "https://ecf.mad.uscourts.gov/doc1/09509530112?caseid=213895",
+              "description": "Category Form",
+              "attachment_number": 2
+            },
+            {
+              "recap_id": 105353507,
+              "pacer_url": "https://ecf.mad.uscourts.gov/doc1/09509530113?caseid=213895",
+              "description": "Exhibit 1",
+              "attachment_number": 3
+            },
+            {
+              "recap_id": 105353508,
+              "pacer_url": "https://ecf.mad.uscourts.gov/doc1/09509530114?caseid=213895",
+              "description": "Exhibit 2",
+              "attachment_number": 4
+            }
+          ],
+          "url": "https://www.courtlistener.com/docket/16156133/1/rian-immigrant-center-v-cuccinelli/",
+          "recap_pdf_url": "https://www.courtlistener.com/recap/gov.uscourts.mad.213895/gov.uscourts.mad.213895.1.0.pdf",
+          "pacer_doc_id": "09509530110",
+          "description": "COMPLAINT against All Defendants Filing fee: $ 400, receipt number 0101-7861525 (Fee Status: Filing Fee paid), filed by Irish International Immigrant Center, Inc.. (Attachments: # 1 Civil Cover Sheet, # 2 Category Form, # 3 Exhibit 1, # 4 Exhibit 2)(Carroll, Robert) (Entered: 09/05/2019)"
+        },
+        {
+          "row_number": 52,
+          "id": 2063351,
+          "entry_number": "8",
+          "date_filed": "2019-09-11T01:00:00-04:00",
+          "attachments": [
+            {
+              "recap_id": 157191494,
+              "pacer_url": "https://ecf.mad.uscourts.gov/doc1/09509543694?caseid=213895",
+              "description": "Exhibit A- Certificate of Ira J. Levy",
+              "attachment_number": 1
+            }
+          ],
+          "url": "https://www.courtlistener.com/docket/16156133/8/rian-immigrant-center-v-cuccinelli/",
+          "recap_pdf_url": null,
+          "pacer_doc_id": "09509543693",
+          "description": "MOTION for Leave to Appear Pro Hac Vice for admission of Ira J. Levy Filing fee: $ 100, receipt number 0101-7872608 by Irish International Immigrant Center, Inc.. (Attachments: # 1 Exhibit A- Certificate of Ira J. Levy)(Carroll, Robert) (Entered: 09/11/2019)"
+        },
+        {
+          "row_number": 6,
+          "id": 2063359,
+          "entry_number": "15",
+          "date_filed": "2020-01-27T01:00:00-05:00",
+          "attachments": [
+            {
+              "recap_id": 157191496,
+              "pacer_url": "https://ecf.mad.uscourts.gov/doc1/09509774253?caseid=213895",
+              "description": "Text of Proposed Order (Plaintiff's Proposal)",
+              "attachment_number": 1
+            },
+            {
+              "recap_id": 157191497,
+              "pacer_url": "https://ecf.mad.uscourts.gov/doc1/09509774254?caseid=213895",
+              "description": "Text of Proposed Order (Defendants' Proposal)",
+              "attachment_number": 2
+            }
+          ],
+          "url": "https://www.courtlistener.com/docket/16156133/15/rian-immigrant-center-v-cuccinelli/",
+          "recap_pdf_url": null,
+          "pacer_doc_id": "09509774252",
+          "description": "STATUS REPORT Jointly Filed by Plaintiff and by Kenneth Cuccinelli, Kevin McAleenan, Secretary of the Department of Homeland Security, Transportation Security Administration, Michael J McCleary, Lori Pietropaoli, The Department of Homeland Security, Donald J Trump, U.S. Citizenship and Immigration Services. (Attachments: # 1 Text of Proposed Order (Plaintiff's Proposal), # 2 Text of Proposed Order (Defendants' Proposal))(Thorp, Galen) (Entered: 01/27/2020)"
+        },
+        {
+          "row_number": 7,
+          "id": 2063360,
+          "entry_number": "16",
+          "date_filed": "2020-01-28T01:00:00-05:00",
+          "attachments": [],
+          "url": "https://www.courtlistener.com/docket/16156133/16/rian-immigrant-center-v-cuccinelli/",
+          "recap_pdf_url": null,
+          "pacer_doc_id": null,
+          "description": "Judge Indira Talwani: ELECTRONIC ORDER entered: Electronic order administratively staying case for 30 days. The parties shall submit a jointly proposed briefing schedule for Defendants' anticipated motion to dismiss.(Kelly, Danielle) (Entered: 01/28/2020)"
+        },
+        {
+          "row_number": 12,
+          "id": 2063365,
+          "entry_number": "20",
+          "date_filed": "2020-02-28T01:00:00-05:00",
+          "attachments": [
+            {
+              "recap_id": 157191498,
+              "pacer_url": "https://ecf.mad.uscourts.gov/doc1/09509839601?caseid=213895",
+              "description": "Exhibit A",
+              "attachment_number": 1
+            },
+            {
+              "pdf_url": "https://www.courtlistener.com/recap/gov.uscourts.mad.213895/gov.uscourts.mad.213895.20.2_1.pdf",
+              "recap_id": 151339678,
+              "pacer_url": "https://ecf.mad.uscourts.gov/doc1/09509839602?caseid=213895",
+              "description": "Exhibit B",
+              "attachment_number": 2
+            },
+            {
+              "recap_id": 157191499,
+              "pacer_url": "https://ecf.mad.uscourts.gov/doc1/09509839603?caseid=213895",
+              "description": "Text of Proposed Order",
+              "attachment_number": 3
+            }
+          ],
+          "url": "https://www.courtlistener.com/docket/16156133/20/rian-immigrant-center-v-cuccinelli/",
+          "recap_pdf_url": "https://www.courtlistener.com/recap/gov.uscourts.mad.213895/gov.uscourts.mad.213895.20.0.pdf",
+          "pacer_doc_id": "09509839600",
+          "description": "MOTION to Dismiss by Kenneth Cuccinelli, Kevin K. McAleenan, Michael J McCleary, Lori Pietropaoli, The Department of Homeland Security, Donald J Trump, U.S. Citizenship and Immigration Services. (Attachments: # 1 Exhibit A, # 2 Exhibit B, # 3 Text of Proposed Order)(Thorp, Galen). Modified on 3/4/2020: Main document replaced to extract Memorandum in Support to properly file in separate entry. (Kelly, Danielle). (Entered: 02/28/2020)"
+        },
+        {
+          "row_number": 13,
+          "id": 2063366,
+          "entry_number": "21",
+          "date_filed": "2020-02-28T01:00:00-05:00",
+          "attachments": [],
+          "url": "https://www.courtlistener.com/docket/16156133/21/rian-immigrant-center-v-cuccinelli/",
+          "recap_pdf_url": null,
+          "pacer_doc_id": "09509840849",
+          "description": "NOTICE by Irish International Immigrant Center, Inc. Change of Party Name (Carroll, Robert) (Entered: 02/28/2020)"
+        },
+        {
+          "row_number": 18,
+          "id": 2063373,
+          "entry_number": "26",
+          "date_filed": "2020-04-02T01:00:00-04:00",
+          "attachments": [],
+          "url": "https://www.courtlistener.com/docket/16156133/26/rian-immigrant-center-v-cuccinelli/",
+          "recap_pdf_url": null,
+          "pacer_doc_id": "09509895286",
+          "description": "Joint MOTION for Extension of Time to April 17, 2020 & May 8, 2020 to File Response/Reply by Rian Immigrant Center.(Levy, Ira) (Entered: 04/02/2020)"
+        },
+        {
+          "row_number": 58,
+          "id": 2063375,
+          "entry_number": null,
+          "date_filed": "2020-04-03T01:00:00-04:00",
+          "attachments": [],
+          "url": "https://www.courtlistener.com",
+          "recap_pdf_url": null,
+          "pacer_doc_id": null,
+          "description": "Order on Motion for Extension of Time to File Response/Reply"
+        },
+        {
+          "row_number": 59,
+          "id": 2063378,
+          "entry_number": null,
+          "date_filed": "2020-04-20T01:00:00-04:00",
+          "attachments": [],
+          "url": "https://www.courtlistener.com",
+          "recap_pdf_url": null,
+          "pacer_doc_id": null,
+          "description": "Order on Motion for Extension of Time to File Response/Reply"
+        },
+        {
+          "row_number": 25,
+          "id": 2063381,
+          "entry_number": "32",
+          "date_filed": "2020-06-22T01:00:00-04:00",
+          "attachments": [
+            {
+              "recap_id": 157191504,
+              "pacer_url": "https://ecf.mad.uscourts.gov/doc1/095010019736?caseid=213895",
+              "description": "Exhibit A",
+              "attachment_number": 1
+            }
+          ],
+          "url": "https://www.courtlistener.com/docket/16156133/32/rian-immigrant-center-v-cuccinelli/",
+          "recap_pdf_url": null,
+          "pacer_doc_id": "095010019735",
+          "description": "Notice of Supplemental Authorities re 20 MOTION to Dismiss (Attachments: # 1 Exhibit A)(Thorp, Galen) (Entered: 06/22/2020)"
+        },
+        {
+          "row_number": 26,
+          "id": 2063382,
+          "entry_number": "33",
+          "date_filed": "2020-06-22T01:00:00-04:00",
+          "attachments": [
+            {
+              "recap_id": 157191505,
+              "pacer_url": "https://ecf.mad.uscourts.gov/doc1/095010020541?caseid=213895",
+              "description": "Exhibit A",
+              "attachment_number": 1
+            },
+            {
+              "recap_id": 157191506,
+              "pacer_url": "https://ecf.mad.uscourts.gov/doc1/095010020542?caseid=213895",
+              "description": "Exhibit B",
+              "attachment_number": 2
+            }
+          ],
+          "url": "https://www.courtlistener.com/docket/16156133/33/rian-immigrant-center-v-cuccinelli/",
+          "recap_pdf_url": null,
+          "pacer_doc_id": "095010020540",
+          "description": "MOTION for Leave to File Supplemental Record by Rian Immigrant Center. (Attachments: # 1 Exhibit A, # 2 Exhibit B)(Levy, Ira) (Entered: 06/22/2020)"
+        },
+        {
+          "row_number": 34,
+          "id": 2063391,
+          "entry_number": "40",
+          "date_filed": "2020-07-02T01:00:00-04:00",
+          "attachments": [
+            {
+              "recap_id": 157191512,
+              "pacer_url": "https://ecf.mad.uscourts.gov/doc1/095010038734?caseid=213895",
+              "description": "Exhibit - 3d Renaud Declaration",
+              "attachment_number": 1
+            }
+          ],
+          "url": "https://www.courtlistener.com/docket/16156133/40/rian-immigrant-center-v-cuccinelli/",
+          "recap_pdf_url": null,
+          "pacer_doc_id": "095010038733",
+          "description": "DECLARATION re 31 Reply to Response to Motion, (leave to file granted July 1, 2020) by Kenneth Cuccinelli, Kevin K. McAleenan, Michael J McCleary, Lori Pietropaoli, The Department of Homeland Security, Donald J Trump, U.S. Citizenship and Immigration Services. (Attachments: # 1 Exhibit - 3d Renaud Declaration)(Thorp, Galen) (Entered: 07/02/2020)"
+        },
+        {
+          "row_number": 39,
+          "id": 2063398,
+          "entry_number": "45",
+          "date_filed": "2020-11-16T01:00:00-05:00",
+          "attachments": [
+            {
+              "recap_id": 152949285,
+              "pacer_url": "https://ecf.mad.uscourts.gov/doc1/095010253473?caseid=213895",
+              "description": "Text of Proposed Order",
+              "attachment_number": 1
+            }
+          ],
+          "url": "https://www.courtlistener.com/docket/16156133/45/rian-immigrant-center-v-cuccinelli/",
+          "recap_pdf_url": null,
+          "pacer_doc_id": "095010253472",
+          "description": "Joint MOTION to Stay by Rian Immigrant Center. (Attachments: # 1 Text of Proposed Order)(Levy, Ira) (Entered: 11/16/2020)"
+        },
+        {
+          "row_number": 46,
+          "id": 2063405,
+          "entry_number": "51",
+          "date_filed": "2021-03-26T01:00:00-04:00",
+          "attachments": [],
+          "url": "https://www.courtlistener.com/docket/16156133/51/rian-immigrant-center-v-cuccinelli/",
+          "recap_pdf_url": null,
+          "pacer_doc_id": "095010457935",
+          "description": "NOTICE of Appearance by Srish Khakurel on behalf of Rian Immigrant Center (Khakurel, Srish) (Entered: 03/26/2021)"
+        },
+        {
+          "row_number": 48,
+          "id": 2063407,
+          "entry_number": "53",
+          "date_filed": "2021-04-20T01:00:00-04:00",
+          "attachments": [],
+          "url": "https://www.courtlistener.com/docket/16156133/53/rian-immigrant-center-v-cuccinelli/",
+          "recap_pdf_url": null,
+          "pacer_doc_id": "095010500111",
+          "description": "Judge Indira Talwani: ORDER entered. Order Extending Stay. Parties shall file a Joint Status Report on or before June 15, 2021. (Kelly, Danielle) (Entered: 04/20/2021)"
+        },
+        {
+          "row_number": 11,
+          "id": 2063345,
+          "entry_number": "2",
+          "date_filed": "2019-09-05T01:00:00-04:00",
+          "attachments": [],
+          "url": "https://www.courtlistener.com/docket/16156133/2/rian-immigrant-center-v-cuccinelli/",
+          "recap_pdf_url": null,
+          "pacer_doc_id": "09509530117",
+          "description": "CORPORATE DISCLOSURE STATEMENT by Irish International Immigrant Center, Inc.. (Carroll, Robert) (Entered: 09/05/2019)"
+        },
+        {
+          "row_number": 44,
+          "id": 2063348,
+          "entry_number": "5",
+          "date_filed": "2019-09-06T01:00:00-04:00",
+          "attachments": [],
+          "url": "https://www.courtlistener.com/docket/16156133/5/rian-immigrant-center-v-cuccinelli/",
+          "recap_pdf_url": null,
+          "pacer_doc_id": "09509534867",
+          "description": "NOTICE of Appearance by Adriana Lafaille on behalf of Irish International Immigrant Center, Inc. (Lafaille, Adriana) (Entered: 09/06/2019)"
+        },
+        {
+          "row_number": 50,
+          "id": 2063349,
+          "entry_number": "6",
+          "date_filed": "2019-09-07T01:00:00-04:00",
+          "attachments": [],
+          "url": "https://www.courtlistener.com/docket/16156133/6/rian-immigrant-center-v-cuccinelli/",
+          "recap_pdf_url": null,
+          "pacer_doc_id": "09509535674",
+          "description": "NOTICE of Appearance by Matthew Segal on behalf of Irish International Immigrant Center, Inc. (Segal, Matthew) (Entered: 09/07/2019)"
+        },
+        {
+          "row_number": 51,
+          "id": 2063350,
+          "entry_number": "7",
+          "date_filed": "2019-09-11T01:00:00-04:00",
+          "attachments": [
+            {
+              "recap_id": 157191493,
+              "pacer_url": "https://ecf.mad.uscourts.gov/doc1/09509543685?caseid=213895",
+              "description": "Exhibit A- Certificate of Rachel M. Walsh",
+              "attachment_number": 1
+            }
+          ],
+          "url": "https://www.courtlistener.com/docket/16156133/7/rian-immigrant-center-v-cuccinelli/",
+          "recap_pdf_url": null,
+          "pacer_doc_id": "09509543684",
+          "description": "MOTION for Leave to Appear Pro Hac Vice for admission of Rachel M. Walsh Filing fee: $ 100, receipt number 0101-7872586 by Irish International Immigrant Center, Inc.. (Attachments: # 1 Exhibit A- Certificate of Rachel M. Walsh)(Carroll, Robert) (Entered: 09/11/2019)"
+        },
+        {
+          "row_number": 1,
+          "id": 2063354,
+          "entry_number": "10",
+          "date_filed": "2019-09-23T01:00:00-04:00",
+          "attachments": [],
+          "url": "https://www.courtlistener.com/docket/16156133/10/rian-immigrant-center-v-cuccinelli/",
+          "recap_pdf_url": null,
+          "pacer_doc_id": "09509563138",
+          "description": "NOTICE of Appearance by Rayford A. Farquhar on behalf of Kenneth Cuccinelli, Kevin McAleenan, Secretary of the Department of Homeland Security, Transportation Security Administration, Michael J McCleary, Lori Pietropaoli, The Department of Homeland Security, Donald J Trump, U.S. Citizenship and Immigration Services (Farquhar, Rayford) (Entered: 09/23/2019)"
+        },
+        {
+          "row_number": 2,
+          "id": 2063355,
+          "entry_number": "11",
+          "date_filed": "2019-10-08T01:00:00-04:00",
+          "attachments": [],
+          "url": "https://www.courtlistener.com/docket/16156133/11/rian-immigrant-center-v-cuccinelli/",
+          "recap_pdf_url": null,
+          "pacer_doc_id": "09509592419",
+          "description": "NOTICE of Scheduling Conference. Scheduling Conference set for 11/5/2019 03:00 PM in Courtroom 9 before Judge Indira Talwani. (MacDonald, Gail) (Entered: 10/08/2019)"
+        },
+        {
+          "row_number": 3,
+          "id": 2063356,
+          "entry_number": "12",
+          "date_filed": "2019-10-29T01:00:00-04:00",
+          "attachments": [
+            {
+              "pdf_url": "https://www.courtlistener.com/recap/gov.uscourts.mad.213895/gov.uscourts.mad.213895.12.1.pdf",
+              "recap_id": 111938020,
+              "pacer_url": "https://ecf.mad.uscourts.gov/doc1/09509628033?caseid=213895",
+              "description": "Exhibit A",
+              "attachment_number": 1
+            },
+            {
+              "recap_id": 111938021,
+              "pacer_url": "https://ecf.mad.uscourts.gov/doc1/09509628034?caseid=213895",
+              "description": "Text of Proposed Order",
+              "attachment_number": 2
+            }
+          ],
+          "url": "https://www.courtlistener.com/docket/16156133/12/rian-immigrant-center-v-cuccinelli/",
+          "recap_pdf_url": "https://www.courtlistener.com/recap/gov.uscourts.mad.213895/gov.uscourts.mad.213895.12.0.pdf",
+          "pacer_doc_id": "09509628032",
+          "description": "Joint MOTION to Stay by Irish International Immigrant Center, Inc.. (Attachments: # 1 Exhibit A, # 2 Text of Proposed Order)(Carroll, Robert) (Entered: 10/29/2019)"
+        },
+        {
+          "row_number": 5,
+          "id": 2063358,
+          "entry_number": "14",
+          "date_filed": "2019-10-31T01:00:00-04:00",
+          "attachments": [],
+          "url": "https://www.courtlistener.com/docket/16156133/14/rian-immigrant-center-v-cuccinelli/",
+          "recap_pdf_url": null,
+          "pacer_doc_id": null,
+          "description": "ELECTRONIC NOTICE Canceling Hearing. Scheduling Conference set for 11/05/2019, is canceled. (MacDonald, Gail) (Entered: 10/31/2019)"
+        },
+        {
+          "row_number": 8,
+          "id": 2063362,
+          "entry_number": "17",
+          "date_filed": "2020-02-04T01:00:00-05:00",
+          "attachments": [],
+          "url": "https://www.courtlistener.com/docket/16156133/17/rian-immigrant-center-v-cuccinelli/",
+          "recap_pdf_url": null,
+          "pacer_doc_id": "09509787582",
+          "description": "NOTICE of Appearance by Galen N. Thorp on behalf of Kenneth Cuccinelli, Kevin McAleenan, Secretary of the Department of Homeland Security, Transportation Security Administration, Michael J McCleary, Lori Pietropaoli, The Department of Homeland Security, Donald J Trump, U.S. Citizenship and Immigration Services (Thorp, Galen) (Entered: 02/04/2020)"
+        },
+        {
+          "row_number": 10,
+          "id": 2063364,
+          "entry_number": "19",
+          "date_filed": "2020-02-07T01:00:00-05:00",
+          "attachments": [],
+          "url": "https://www.courtlistener.com/docket/16156133/19/rian-immigrant-center-v-cuccinelli/",
+          "recap_pdf_url": "https://www.courtlistener.com/recap/gov.uscourts.mad.213895/gov.uscourts.mad.213895.19.0.pdf",
+          "pacer_doc_id": "09509796981",
+          "description": "Judge Indira Talwani: ORDER entered: ALLOWING 18 Joint MOTION for Scheduling Order. Please see attached Order. (Kelly, Danielle) (Entered: 02/07/2020)"
+        },
+        {
+          "row_number": 16,
+          "id": 2063370,
+          "entry_number": "24",
+          "date_filed": "2020-03-19T01:00:00-04:00",
+          "attachments": [],
+          "url": "https://www.courtlistener.com/docket/16156133/24/rian-immigrant-center-v-cuccinelli/",
+          "recap_pdf_url": null,
+          "pacer_doc_id": "09509874818",
+          "description": "Consent MOTION for Extension of Time to April 3, 2020 to File Response/Reply by Rian Immigrant Center.(Carroll, Robert) (Entered: 03/19/2020)"
+        },
+        {
+          "row_number": 20,
+          "id": 2063376,
+          "entry_number": "28",
+          "date_filed": "2020-04-17T01:00:00-04:00",
+          "attachments": [],
+          "url": "https://www.courtlistener.com/docket/16156133/28/rian-immigrant-center-v-cuccinelli/",
+          "recap_pdf_url": null,
+          "pacer_doc_id": "09509918463",
+          "description": "Consent MOTION for Extension of Time to April 23, 2020 & May 14, 2020 to File Response/Reply by Rian Immigrant Center.(Levy, Ira) (Entered: 04/17/2020)"
+        },
+        {
+          "row_number": 21,
+          "id": 2063377,
+          "entry_number": "29",
+          "date_filed": "2020-04-20T01:00:00-04:00",
+          "attachments": [],
+          "url": "https://www.courtlistener.com/docket/16156133/29/rian-immigrant-center-v-cuccinelli/",
+          "recap_pdf_url": null,
+          "pacer_doc_id": null,
+          "description": "Judge Indira Talwani: ELECTRONIC ORDER entered granting 28 Motion for Extension of Time to File Response/Reply Responses due by 4/23/2020 Replies due by 5/14/2020. (Talwani, Indira) (Entered: 04/20/2020)"
+        },
+        {
+          "row_number": 23,
+          "id": 2063379,
+          "entry_number": "30",
+          "date_filed": "2020-04-23T01:00:00-04:00",
+          "attachments": [
+            {
+              "recap_id": 133997905,
+              "pacer_url": "https://ecf.mad.uscourts.gov/doc1/09509926648?caseid=213895",
+              "description": "Exhibit A",
+              "attachment_number": 1
+            }
+          ],
+          "url": "https://www.courtlistener.com/docket/16156133/30/rian-immigrant-center-v-cuccinelli/",
+          "recap_pdf_url": "https://www.courtlistener.com/recap/gov.uscourts.mad.213895/gov.uscourts.mad.213895.30.0.pdf",
+          "pacer_doc_id": "09509926647",
+          "description": "Opposition re 20 MOTION to Dismiss filed by Rian Immigrant Center. (Attachments: # 1 Exhibit A)(Levy, Ira) (Entered: 04/23/2020)"
+        },
+        {
+          "row_number": 24,
+          "id": 2063380,
+          "entry_number": "31",
+          "date_filed": "2020-05-14T01:00:00-04:00",
+          "attachments": [
+            {
+              "recap_id": 157191500,
+              "pacer_url": "https://ecf.mad.uscourts.gov/doc1/09509961801?caseid=213895",
+              "description": "Exhibit C",
+              "attachment_number": 1
+            },
+            {
+              "recap_id": 157191501,
+              "pacer_url": "https://ecf.mad.uscourts.gov/doc1/09509961802?caseid=213895",
+              "description": "Exhibit D",
+              "attachment_number": 2
+            },
+            {
+              "recap_id": 157191502,
+              "pacer_url": "https://ecf.mad.uscourts.gov/doc1/09509961803?caseid=213895",
+              "description": "Exhibit E",
+              "attachment_number": 3
+            }
+          ],
+          "url": "https://www.courtlistener.com/docket/16156133/31/rian-immigrant-center-v-cuccinelli/",
+          "recap_pdf_url": null,
+          "pacer_doc_id": "09509961800",
+          "description": "REPLY to Response to 20 MOTION to Dismiss filed by Kenneth Cuccinelli, Michael J McCleary, Lori Pietropaoli, The Department of Homeland Security, Donald J Trump, U.S. Citizenship and Immigration Services. (Attachments: # 1 Exhibit C, # 2 Exhibit D, # 3 Exhibit E)(Thorp, Galen) (Entered: 05/14/2020)"
+        },
+        {
+          "row_number": 28,
+          "id": 2063384,
+          "entry_number": "35",
+          "date_filed": "2020-06-23T01:00:00-04:00",
+          "attachments": [
+            {
+              "recap_id": 157191507,
+              "pacer_url": "https://ecf.mad.uscourts.gov/doc1/095010022844?caseid=213895",
+              "description": "Exhibit A",
+              "attachment_number": 1
+            },
+            {
+              "recap_id": 157191508,
+              "pacer_url": "https://ecf.mad.uscourts.gov/doc1/095010022845?caseid=213895",
+              "description": "Exhibit B",
+              "attachment_number": 2
+            }
+          ],
+          "url": "https://www.courtlistener.com/docket/16156133/35/rian-immigrant-center-v-cuccinelli/",
+          "recap_pdf_url": null,
+          "pacer_doc_id": "095010022843",
+          "description": "MOTION for Leave to File Supplemental Record (Corrected) by Rian Immigrant Center. (Attachments: # 1 Exhibit A, # 2 Exhibit B)(Levy, Ira) (Entered: 06/23/2020)"
+        },
+        {
+          "row_number": 29,
+          "id": 2063386,
+          "entry_number": "36",
+          "date_filed": "2020-06-26T01:00:00-04:00",
+          "attachments": [
+            {
+              "recap_id": 157191509,
+              "pacer_url": "https://ecf.mad.uscourts.gov/doc1/095010030165?caseid=213895",
+              "description": "Text of Proposed Order",
+              "attachment_number": 1
+            }
+          ],
+          "url": "https://www.courtlistener.com/docket/16156133/36/rian-immigrant-center-v-cuccinelli/",
+          "recap_pdf_url": null,
+          "pacer_doc_id": "095010030164",
+          "description": "Consent MOTION to Bifurcate Disposition of Defendants' Motion to Dismiss by Kenneth Cuccinelli, Kevin K. McAleenan, Michael J McCleary, Lori Pietropaoli, The Department of Homeland Security, Donald J Trump, U.S. Citizenship and Immigration Services. (Attachments: # 1 Text of Proposed Order)(Thorp, Galen) (Entered: 06/26/2020)"
+        },
+        {
+          "row_number": 38,
+          "id": 2063396,
+          "entry_number": "44",
+          "date_filed": "2020-11-09T01:00:00-05:00",
+          "attachments": [],
+          "url": "https://www.courtlistener.com/docket/16156133/44/rian-immigrant-center-v-cuccinelli/",
+          "recap_pdf_url": null,
+          "pacer_doc_id": null,
+          "description": "Judge Indira Talwani: ELECTRONIC ORDER entered ALLOWING 43 Motion for Extension of Time to November 16, 2020 to meet and confer, and file a Joint Status Report. (Kelly, Danielle) (Entered: 11/09/2020)"
+        },
+        {
+          "row_number": 41,
+          "id": 2063400,
+          "entry_number": "47",
+          "date_filed": "2021-02-16T01:00:00-05:00",
+          "attachments": [
+            {
+              "recap_id": 160920682,
+              "pacer_url": "https://ecf.mad.uscourts.gov/doc1/095010390170?caseid=213895",
+              "description": "Text of Proposed Order",
+              "attachment_number": 1
+            }
+          ],
+          "url": "https://www.courtlistener.com/docket/16156133/47/rian-immigrant-center-v-cuccinelli/",
+          "recap_pdf_url": null,
+          "pacer_doc_id": "095010390169",
+          "description": "STATUS REPORT Jointly Filed by Plaintiff and Defendants by Michael J McCleary, Lori Pietropaoli, The Department of Homeland Security, U.S. Citizenship and Immigration Services. (Attachments: # 1 Text of Proposed Order)(Thorp, Galen) (Entered: 02/16/2021)"
+        },
+        {
+          "row_number": 43,
+          "id": 2063402,
+          "entry_number": "49",
+          "date_filed": "2021-03-11T01:00:00-05:00",
+          "attachments": [],
+          "url": "https://www.courtlistener.com/docket/16156133/49/rian-immigrant-center-v-cuccinelli/",
+          "recap_pdf_url": null,
+          "pacer_doc_id": "095010432828",
+          "description": "MOTION to Withdraw Appearance by Oren N. Nimni (Nimni, Oren) Modified on 3/12/2021: Corrected event type & docket text to properly reflect document (Kelly, Danielle). (Entered: 03/11/2021)"
+        },
+        {
+          "row_number": 45,
+          "id": 2063403,
+          "entry_number": "50",
+          "date_filed": "2021-03-15T01:00:00-04:00",
+          "attachments": [],
+          "url": "https://www.courtlistener.com/docket/16156133/50/rian-immigrant-center-v-cuccinelli/",
+          "recap_pdf_url": null,
+          "pacer_doc_id": null,
+          "description": "Judge Indira Talwani: ELECTRONIC ORDER ALLOWING 49 Motion to Withdraw as Attorney. Attorney Oren N. Nimni terminated. (Kelly, Danielle) (Entered: 03/15/2021)"
+        },
+        {
+          "row_number": 49,
+          "id": 10144534,
+          "entry_number": "54",
+          "date_filed": "2021-06-15T00:00:00-04:00",
+          "attachments": [],
+          "url": "https://www.courtlistener.com/docket/16156133/54/rian-immigrant-center-v-cuccinelli/",
+          "recap_pdf_url": "https://www.courtlistener.com/recap/gov.uscourts.mad.213895/gov.uscourts.mad.213895.54.0.pdf",
+          "pacer_doc_id": "095010600013",
+          "description": "NOTICE of Voluntary Dismissal by Rian Immigrant Center (Walsh, Rachel) (Entered: 06/15/2021)"
+        },
+        {
+          "row_number": 57,
+          "id": 2063372,
+          "entry_number": null,
+          "date_filed": "2020-03-20T01:00:00-04:00",
+          "attachments": [],
+          "url": "https://www.courtlistener.com",
+          "recap_pdf_url": null,
+          "pacer_doc_id": null,
+          "description": "Order on Motion for Extension of Time to File Response/Reply"
+        },
+        {
+          "row_number": 40,
+          "id": 2063399,
+          "entry_number": "46",
+          "date_filed": "2020-11-17T01:00:00-05:00",
+          "attachments": [],
+          "url": "https://www.courtlistener.com/docket/16156133/46/rian-immigrant-center-v-cuccinelli/",
+          "recap_pdf_url": "https://www.courtlistener.com/recap/gov.uscourts.mad.213895/gov.uscourts.mad.213895.46.0.pdf",
+          "pacer_doc_id": "095010256550",
+          "description": "Judge Indira Talwani: ORDER entered. Order Staying Case. Parties shall file a Joint Status Report on or before February 16, 2021. (Kelly, Danielle) (Entered: 11/17/2020)"
+        },
+        {
+          "row_number": 55,
+          "id": 2063361,
+          "entry_number": null,
+          "date_filed": "2020-01-28T01:00:00-05:00",
+          "attachments": [],
+          "url": "https://www.courtlistener.com",
+          "recap_pdf_url": null,
+          "pacer_doc_id": null,
+          "description": "Order"
+        },
+        {
+          "row_number": 22,
+          "id": 2063346,
+          "entry_number": "3",
+          "date_filed": "2019-09-05T01:00:00-04:00",
+          "attachments": [],
+          "url": "https://www.courtlistener.com/docket/16156133/3/rian-immigrant-center-v-cuccinelli/",
+          "recap_pdf_url": null,
+          "pacer_doc_id": null,
+          "description": "ELECTRONIC NOTICE of Case Assignment. Judge Indira Talwani assigned to case. If the trial Judge issues an Order of Reference of any matter in this case to a Magistrate Judge, the matter will be transmitted to Magistrate Judge Jennifer C. Boal. (Finn, Mary) (Entered: 09/05/2019)"
+        },
+        {
+          "row_number": 33,
+          "id": 2063347,
+          "entry_number": "4",
+          "date_filed": "2019-09-05T01:00:00-04:00",
+          "attachments": [],
+          "url": "https://www.courtlistener.com/docket/16156133/4/rian-immigrant-center-v-cuccinelli/",
+          "recap_pdf_url": null,
+          "pacer_doc_id": "09509530252",
+          "description": "Summons Issued as to All Defendants. Counsel receiving this notice electronically should download this summons, complete one for each defendant and serve it in accordance with Fed.R.Civ.P. 4 and LR 4.1. Summons will be mailed to plaintiff(s) not receiving notice electronically for completion of service. (Currie, Haley) (Entered: 09/05/2019)"
+        },
+        {
+          "row_number": 53,
+          "id": 2063352,
+          "entry_number": "9",
+          "date_filed": "2019-09-12T01:00:00-04:00",
+          "attachments": [],
+          "url": "https://www.courtlistener.com/docket/16156133/9/rian-immigrant-center-v-cuccinelli/",
+          "recap_pdf_url": null,
+          "pacer_doc_id": null,
+          "description": "Judge Indira Talwani: ELECTRONIC ORDER entered ALLOWING 7 Motion for Leave to Appear Pro Hac Vice Added Rachel M. Walsh; ALLOWING 8 Motion for Leave to Appear Pro Hac Vice Added Ira J. Levy. Attorneys admitted Pro Hac Vice must register for electronic filing if the attorney does not already have an ECF account in this district. To register go to the Court website at www.mad.uscourts.gov. Select Case Information, then Electronic Filing (CM/ECF) and go to the CM/ECF Registration Form. (Vieira, Leonardo). (Entered: 09/12/2019)"
+        },
+        {
+          "row_number": 4,
+          "id": 2063357,
+          "entry_number": "13",
+          "date_filed": "2019-10-31T00:00:00-04:00",
+          "attachments": [],
+          "url": "https://www.courtlistener.com/docket/16156133/13/rian-immigrant-center-v-cuccinelli/",
+          "recap_pdf_url": "https://www.courtlistener.com/recap/gov.uscourts.mad.213895/gov.uscourts.mad.213895.13.0.pdf",
+          "pacer_doc_id": "09509631981",
+          "description": "Judge Indira Talwani: ORDER entered granting 12 Motion to Stay. (MacDonald, Gail) (Entered: 10/31/2019)"
+        },
+        {
+          "row_number": 32,
+          "id": 2063390,
+          "entry_number": "39",
+          "date_filed": "2020-07-02T01:00:00-04:00",
+          "attachments": [],
+          "url": "https://www.courtlistener.com/docket/16156133/39/rian-immigrant-center-v-cuccinelli/",
+          "recap_pdf_url": null,
+          "pacer_doc_id": null,
+          "description": "Judge Indira Talwani: ELECTRONIC ORDER: ALLOWING 38 Defendants' Consent Motion. Defendants are granted leave to file the Supplemental Declaration to correct error in prior filing; Counsel using the Electronic Case Filing System should now file the document for which leave to file has been granted in accordance with the CM/ECF Administrative Procedures. Counsel must include - Leave to file granted on (date of order)- in the caption of the document. (Kelly, Danielle) (Entered: 07/02/2020)"
+        },
+        {
+          "row_number": 62,
+          "id": 2063392,
+          "entry_number": null,
+          "date_filed": "2020-07-02T01:00:00-04:00",
+          "attachments": [],
+          "url": "https://www.courtlistener.com",
+          "recap_pdf_url": null,
+          "pacer_doc_id": null,
+          "description": "Order on Motion for Leave to File Document"
+        },
+        {
+          "row_number": 36,
+          "id": 2063394,
+          "entry_number": "42",
+          "date_filed": "2020-11-02T00:00:00-05:00",
+          "attachments": [],
+          "url": "https://www.courtlistener.com/docket/16156133/42/rian-immigrant-center-v-cuccinelli/",
+          "recap_pdf_url": "https://www.courtlistener.com/recap/gov.uscourts.mad.213895/gov.uscourts.mad.213895.42.0_1.pdf",
+          "pacer_doc_id": "095010229857",
+          "description": "Judge Indira Talwani: ORDER entered. MEMORANDUM AND ORDER.Defendants' Motion to Dismiss 20 is DENIED insofar as it contends that this action should be dismissed for mootness and Plaintiff's Motion for Leave to File Supplemental Record 35 is DENIED without prejudice. Counsel shall meet and confer and submit a joint status report within seven days as to whether they request supplemental briefing to address Department of Homeland Security v. Regents of the University of California, 140 S.Ct. 1891 (2020), and if so, shall include a proposed briefing schedule. (Kelly, Danielle) (Entered: 11/02/2020)"
+        },
+        {
+          "row_number": 37,
+          "id": 2063395,
+          "entry_number": "43",
+          "date_filed": "2020-11-06T01:00:00-05:00",
+          "attachments": [],
+          "url": "https://www.courtlistener.com/docket/16156133/43/rian-immigrant-center-v-cuccinelli/",
+          "recap_pdf_url": null,
+          "pacer_doc_id": "095010240324",
+          "description": "MOTION for Extension of Time to November 16, 2020 to meet and confer, and file a Joint Status Report by Rian Immigrant Center.(Levy, Ira) (Entered: 11/06/2020)"
+        },
+        {
+          "row_number": 42,
+          "id": 2063401,
+          "entry_number": "48",
+          "date_filed": "2021-02-17T01:00:00-05:00",
+          "attachments": [],
+          "url": "https://www.courtlistener.com/docket/16156133/48/rian-immigrant-center-v-cuccinelli/",
+          "recap_pdf_url": "https://www.courtlistener.com/recap/gov.uscourts.mad.213895/gov.uscourts.mad.213895.48.0.pdf",
+          "pacer_doc_id": "095010392259",
+          "description": "Judge Indira Talwani: ORDER entered. Order Extending Stay. Parties shall file a Joint Status Report on or before April 16, 2021. (Kelly, Danielle) (Entered: 02/17/2021)"
+        },
+        {
+          "row_number": 64,
+          "id": 2063404,
+          "entry_number": null,
+          "date_filed": "2021-03-15T01:00:00-04:00",
+          "attachments": [],
+          "url": "https://www.courtlistener.com",
+          "recap_pdf_url": null,
+          "pacer_doc_id": null,
+          "description": "Order on Motion to Withdraw as Attorney"
+        },
+        {
+          "row_number": 47,
+          "id": 2063406,
+          "entry_number": "52",
+          "date_filed": "2021-04-16T01:00:00-04:00",
+          "attachments": [],
+          "url": "https://www.courtlistener.com/docket/16156133/52/rian-immigrant-center-v-cuccinelli/",
+          "recap_pdf_url": null,
+          "pacer_doc_id": "095010497462",
+          "description": "STATUS REPORT Jointly Filed by Plaintiff and by The Department of Homeland Security, U.S. Citizenship and Immigration Services. (Attachments: # 1 Text of Proposed Order)(Thorp, Galen) (Entered: 04/16/2021)"
+        },
+        {
+          "row_number": 14,
+          "id": 2063367,
+          "entry_number": "22",
+          "date_filed": "2020-02-28T01:00:00-05:00",
+          "attachments": [],
+          "url": "https://www.courtlistener.com/docket/16156133/22/rian-immigrant-center-v-cuccinelli/",
+          "recap_pdf_url": null,
+          "pacer_doc_id": "09509848213",
+          "description": "MEMORANDUM in Support re 20 MOTION to Dismiss filed by Kenneth Cuccinelli, Kevin K. McAleenan, Michael J McCleary, Lori Pietropaoli, The Department of Homeland Security, Donald J Trump, U.S. Citizenship and Immigration Services.(Kelly, Danielle) (Entered: 03/04/2020)"
+        },
+        {
+          "row_number": 15,
+          "id": 2063368,
+          "entry_number": "23",
+          "date_filed": "2020-03-09T01:00:00-04:00",
+          "attachments": [],
+          "url": "https://www.courtlistener.com/docket/16156133/23/rian-immigrant-center-v-cuccinelli/",
+          "recap_pdf_url": null,
+          "pacer_doc_id": null,
+          "description": "Judge Indira Talwani: ELECTRONIC ORDER entered. ORDER LIFTING STAY. (Kelly, Danielle) (Entered: 03/09/2020)"
+        },
+        {
+          "row_number": 56,
+          "id": 2063369,
+          "entry_number": null,
+          "date_filed": "2020-03-09T01:00:00-04:00",
+          "attachments": [],
+          "url": "https://www.courtlistener.com",
+          "recap_pdf_url": null,
+          "pacer_doc_id": null,
+          "description": "Order Lifting Stay"
+        },
+        {
+          "row_number": 17,
+          "id": 2063371,
+          "entry_number": "25",
+          "date_filed": "2020-03-20T01:00:00-04:00",
+          "attachments": [],
+          "url": "https://www.courtlistener.com/docket/16156133/25/rian-immigrant-center-v-cuccinelli/",
+          "recap_pdf_url": null,
+          "pacer_doc_id": null,
+          "description": "Judge Indira Talwani: ELECTRONIC ORDER entered ALLOWING 24 Motion for Extension of Time to File Response/Reply. Plaintiff opposition extended to April 3, 2020. Defendants reply extended to April 17, 2020. (Kelly, Danielle) (Entered: 03/20/2020)"
+        },
+        {
+          "row_number": 19,
+          "id": 2063374,
+          "entry_number": "27",
+          "date_filed": "2020-04-03T01:00:00-04:00",
+          "attachments": [],
+          "url": "https://www.courtlistener.com/docket/16156133/27/rian-immigrant-center-v-cuccinelli/",
+          "recap_pdf_url": null,
+          "pacer_doc_id": null,
+          "description": "Judge Indira Talwani: ELECTRONIC ORDER entered ALLOWING 26 Joint Motion for Extension of Time to File Response/Reply. Plaintiff opposition extended to April 17, 2020. Defendants reply extended to May 8, 2020. (Kelly, Danielle) (Entered: 04/03/2020)"
+        },
+        {
+          "row_number": 27,
+          "id": 2063383,
+          "entry_number": "34",
+          "date_filed": "2020-06-23T01:00:00-04:00",
+          "attachments": [],
+          "url": "https://www.courtlistener.com/docket/16156133/34/rian-immigrant-center-v-cuccinelli/",
+          "recap_pdf_url": null,
+          "pacer_doc_id": null,
+          "description": "Judge Indira Talwani: ELECTRONIC ORDER: On June 22, 2020, the government filed a document entitled \"Notice of Subsequent Legal Development\" 32 in which the government requests that the court address the argument in the pending Motion to Dismiss 20 that Plaintiff's Complaint 1 be dismissed as moot before determining whether to request supplemental briefing as to the government's alternative arguments. Counsel for the government shall confer with Plaintiff's counsel as required under Local Rule 7.1 and advise the court as to whether Plaintiff assents to or opposes this request. Also on June 22, 2020, Plaintiff filed a Motion for Leave to Supplement the Record 33 . In the body of the motion, Plaintiff states that Defendants oppose the motion, but in the Local Rule 7.1 certificate, counsel certifies that opposing counsel consents to the motion. Plaintiff shall file a corrected Motion clarifying whether the motion is assented to or opposed. (Kelly, Danielle) (Entered: 06/23/2020)"
+        },
+        {
+          "row_number": 60,
+          "id": 2063385,
+          "entry_number": null,
+          "date_filed": "2020-06-23T01:00:00-04:00",
+          "attachments": [],
+          "url": "https://www.courtlistener.com",
+          "recap_pdf_url": null,
+          "pacer_doc_id": null,
+          "description": "Order"
+        },
+        {
+          "row_number": 30,
+          "id": 2063387,
+          "entry_number": "37",
+          "date_filed": "2020-06-29T01:00:00-04:00",
+          "attachments": [],
+          "url": "https://www.courtlistener.com/docket/16156133/37/rian-immigrant-center-v-cuccinelli/",
+          "recap_pdf_url": null,
+          "pacer_doc_id": null,
+          "description": "Judge Indira Talwani: ELECTRONIC ORDER GRANTING Defendants' Consent Motion to Bifurcate Disposition of Defendants Motion to Dismiss 36 . If the court does not dismiss this action as moot, Parties shall meet and confer and submit a joint status report within seven days of such order as to whether the parties request supplemental briefing to address Department of Homeland Security v. Regents of the University of California, No. 18-587, ___ S.Ct. ___, 2020 WL 3271746 (June 18, 2020), and if so, to propose a briefing schedule. (Kelly, Danielle) (Entered: 06/29/2020)"
+        },
+        {
+          "row_number": 61,
+          "id": 2063388,
+          "entry_number": null,
+          "date_filed": "2020-06-29T01:00:00-04:00",
+          "attachments": [],
+          "url": "https://www.courtlistener.com",
+          "recap_pdf_url": null,
+          "pacer_doc_id": null,
+          "description": "Order on Motion to Bifurcate"
+        },
+        {
+          "row_number": 63,
+          "id": 2063397,
+          "entry_number": null,
+          "date_filed": "2020-11-09T01:00:00-05:00",
+          "attachments": [],
+          "url": "https://www.courtlistener.com",
+          "recap_pdf_url": null,
+          "pacer_doc_id": null,
+          "description": "Order"
+        },
+        {
+          "row_number": 54,
+          "id": 2063353,
+          "entry_number": null,
+          "date_filed": "2019-09-12T01:00:00-04:00",
+          "attachments": [],
+          "url": "https://www.courtlistener.com",
+          "recap_pdf_url": null,
+          "pacer_doc_id": null,
+          "description": "Order on Motion for Leave to Appear"
+        }
+      ],
+      "docket_case_type": "cv",
+      "docket_year": 2019,
+      "docket_filing_number": 11880,
+      "is_main_docket": true,
+      "court": "District of Massachusetts",
+      "state": "Massachusetts",
+      "docket_office_number": "1",
+      "docket_number_manual": "1:19-cv-11880-IT",
+      "scales_html": "https://clearinghouse-umich-production.s3.amazonaws.com/media/docket-html/mad--1-19-cv-11880.html",
+      "recap_link": "https://www.courtlistener.com/docket/16156133/rian-immigrant-center-v-cuccinelli/",
+      "is_active": true
+    },
+    "name": "Irish International Immigrant Center, Inc. v. Cuccinelli",
+    "never_filed": false,
+    "non_docket_case_number": "",
+    "non_docket_case_number_type": null,
+    "non_docket_case_number_type_other": "",
+    "order_end_year": null,
+    "order_start_year": null,
+    "permanent_injunction": false,
+    "plaintiff_description": "The Irish International Immigrant Center, Inc., a nonprofit immigrant rights organization in Boston, Massachusetts.",
+    "plaintiff_type": [
+      {
+        "value": "Non-profit NON-religious organization"
+      }
+    ],
+    "prevailing_party": "None Yet / None",
+    "pro_se_status": "No",
+    "public_interest_lawyer": "Yes",
+    "related_cases": [],
+    "relief_natures": [
+      "None"
+    ],
+    "relief_nature_other": "",
+    "relief_sources": [
+      "None"
+    ],
+    "settlement_agreement": [],
+    "settlement_judgment_date": "2021-06-15",
+    "settlement_judgment_year": null,
+    "special_collections": [
+      "Trump 1.0 & 2.0 Immigration Enforcement Order Challenges",
+      "Multi-LexSum (in sample)",
+      "Trump Administration 1.0: Challenges to the Government"
+    ],
+    "special_case_type": [],
+    "state": "Massachusetts",
+    "summary": "<p>This case addressed the termination of an immigration program granting deferred action to seriously ill individuals.</p><p>The Irish International Immigrant Center (a.k.a. the Rian Immigration Center) filed this lawsuit in the U.S. District Court for the District of Massachusetts on September 5, 2019. The plaintiff sued U.S. Citizenship and Immigration Services (USCIS) and President Trump under the Administrative Procedure Act (APA) and the Declaratory Judgment Act. Plaintiff sought injunctive and declaratory relief claiming violations of the APA and the Fifth Amendment’s Equal Protection Clause. For decades, USCIS allowed people battling serious illnesses to request deferred action. In August 2019, the Trump Administration prohibited USCIS field offices from granting deferred action to the individuals who could ordinarily be protected by this program. The plaintiff alleged this prohibition was illegal. Plaintiff was represented by the ACLU of Massachusetts, Lawyers for Civil Rights, and private counsel. Judge Indira Talwani was assigned.</p><p>The parties jointly moved to stay the case on October 29, 2019. The parties sought a settlement or other nonjudicial resolution. The court granted the stay two days later. This followed the USCIS announcement that it would reinstate the deferred action program, but requests would only be granted “based on compelling facts and circumstances.”</p><p>Defendants filed a motion to dismiss on February 28, 2020. The defendants first argued that the court lacked subject-matter jurisdiction to review defendants' enforcement discretion. They also argued that the plaintiffs failed to state a claim under the Fifth Amendment. The motion was denied three days later. 2020 WL 6395575.</p><p>On June 15, 2021, plaintiff filed a notice of voluntary dismissal without prejudice regarding all claims in this case. As of July 13, 2021, no further reasoning was stated in the notice itself or on the <a href=”https://www.aclum.org/en/cases/rian-immigrant-center-v-cuccinelli”>ACLU of Massachusetts's website</a>. This case is now closed.</p>",
+    "summary_published_date": "2021-07-13T00:00:00-04:00",
+    "summary_short": "In September 2019, the Irish International Immigrant Center sued U.S. Citizenship & Immigration Services and President Trump. Plaintiff alleged defendants illegally terminated an immigration relief program that granted \"deferred action\" to seriously ill individuals and their families. Represented by the ACLU, the plaintiff sought injunctive and declaratory relief for violations of Equal Protection and the Administrative Procedure Act. The court granted a joint motion to stay the case on October 31, 2019, so parties could seek a nonjudicial resolution. This followed a USCUS announcement that the deferred action program would return but requests would only be granted “based on compelling facts and circumstances.” Plaintiff voluntarily dismissed the case without prejudice on June 15, 2021.",
+    "summary_tiny": "In Sept. 2019, the Irish International Immigrant Center and @ACLU challenged @USCIS and Pres. Trump for terminating an immigration program that \"deferred action\" to seriously ill individuals and their families. Plaintiff voluntarily dismissed in June 2021.",
+    "terminating_date": "2021-06-15",
+    "clearinghouse_link": "clearinghouse.net/case/17259",
+    "is_active": true,
+    "case_documents_url": "https://clearinghouse.net/api/v2/documents/?case=17259",
+    "case_dockets_url": "https://clearinghouse.net/api/v2/dockets/?case=17259",
+    "case_resources_url": "https://clearinghouse.net/api/v2/resources/?case=17259"
+  },
+  "documents": [
+    {
+      "date": null,
+      "date_is_estimate": false,
+      "date_not_available": false,
+      "description": null,
+      "document_source": null,
+      "document_status": null,
+      "document_type": null,
+      "order_type": null,
+      "citation_paren": null,
+      "cite_1_page": null,
+      "cite_1_reporter": null,
+      "cite_1_vol": null,
+      "cite_2_page": null,
+      "cite_2_reporter": null,
+      "cite_2_vol": null,
+      "cite_3_page": null,
+      "cite_3_reporter": null,
+      "cite_3_vol": null,
+      "citation_status": null,
+      "court": null,
+      "no_title": false,
+      "party_types": [],
+      "per_curium": false,
+      "is_core_document": true,
+      "id": 115072,
+      "file": null,
+      "title": null,
+      "text": null,
+      "document_type_other": null,
+      "external_url": null,
+      "ecf_number": null,
+      "clearinghouse_link": "clearinghouse.net/doc/115072"
+    },
+    {
+      "date": "2021-06-15",
+      "date_is_estimate": false,
+      "date_not_available": false,
+      "description": null,
+      "document_source": "PACER [Public Access to Court Electronic Records]",
+      "document_status": "Coding Complete",
+      "document_type": "Docket",
+      "order_type": null,
+      "citation_paren": null,
+      "cite_1_page": null,
+      "cite_1_reporter": null,
+      "cite_1_vol": null,
+      "cite_2_page": null,
+      "cite_2_reporter": null,
+      "cite_2_vol": null,
+      "cite_3_page": null,
+      "cite_3_reporter": null,
+      "cite_3_vol": null,
+      "citation_status": "Not applicable",
+      "court": "District of Massachusetts",
+      "no_title": false,
+      "party_types": [
+        "Court"
+      ],
+      "per_curium": false,
+      "is_core_document": true,
+      "id": 103141,
+      "file": "https://clearinghouse-umich-production.s3.amazonaws.com/media/doc/103141.pdf",
+      "title": "Docket",
+      "text": "STAYED \nUnited States District Court \nDistrict of Massachusetts (Boston) \nCIVIL DOCKET FOR CASE #: 1:19-cv-11880-IT \n   \nRian Immigrant Center v. Cuccinelli et al  Date Filed: 09/04/2019 \nAssigned to: Judge Indira Talwani  Jury Demand: None \nCause: 05:702 Administrative Procedure Act  Nature of Suit: 899 Other Statutes: \nAdministrative Procedures \nAct/Review or Appeal of Agency \nDecision \nJurisdiction: U.S. Government \nDefendant \nPlaintiff \nRian Immigrant Center  represented by Adriana Lafaille \nformerly known as  American Civil Liberties Union \nIrish International Immigrant Center,  211 Congress Street \nInc.  Boston, MA 02110 \n617-482-3170 \nEmail: alafaille@aclum.org \nLEAD ATTORNEY \nATTORNEY TO BE NOTICED \n \nMatthew Segal \nAmerican Civil Liberties Union \n211 Congress Street \nBoston, MA 02110 \n617-482-3170 \nFax: 617-451-0009 \nEmail: msegal@aclum.org \nLEAD ATTORNEY \nATTORNEY TO BE NOTICED \n \nRobert D. Carroll \nGoodwin Procter, LLP \n100 Northern Avenue \nBoston, MA 02210 \n617-570-1000 \nFax: 617-523-1231 \nEmail: rcarroll@goodwinlaw.com \nLEAD ATTORNEY \nATTORNEY TO BE NOTICED \n \n\nSrish Khakurel \nLawyers for Civil Rights \n61 Batterymarch Street \nBoston, MA 02110 \n617-371-7506 \nEmail: \nskhakurel@lawyersforcivilrights.org \nLEAD ATTORNEY \nATTORNEY TO BE NOTICED \n \nIra J. Levy \nGoodwin Procter LLP (NY) \nThe New York Times Building \n620 Eighth Avenue \nNew York, NY 10018-1405 \n(212) 813-8800 \nEmail: ilevy@goodwinlaw.com \nPRO HAC VICE \nATTORNEY TO BE NOTICED \n \nRachel M. Walsh \nGoodwin Procter LLP \nThree Embarcadero Center \nSan Francisco, CA 94111 \n(415) 733-6000 \nEmail: RWalsh@goodwinlaw.com \nPRO HAC VICE \nATTORNEY TO BE NOTICED \n     \n \n   \nV. \nDefendant     \nKenneth Cuccinelli  represented by Galen N. Thorp \nActing Director, U.S. Citizenship &  U.S. Department of Justice \nImmigration Services  1100 L Street NW \nWashington, DC 20530 \n(202) 514-4781 \nEmail: galen.thorp@usdoj.gov \nLEAD ATTORNEY \nATTORNEY TO BE NOTICED \n \nRayford A. Farquhar \nUnited States Attorney's Office \nJohn Joseph Moakley Federal \nCourthouse \n1 Courthouse Way \n\nSuite 9200 \nBoston, MA 02210 \n617-748-3100 \nFax: 617-748-3971 \nEmail: rayford.farquhar@usdoj.gov \nLEAD ATTORNEY \nATTORNEY TO BE NOTICED \n     \nDefendant     \nLori Pietropaoli  represented by Galen N. Thorp \nRegional Director, Northeast Region  (See above for address) \nU.S. Citizenship & Immigration  LEAD ATTORNEY \nServices  ATTORNEY TO BE NOTICED \n \nRayford A. Farquhar \n(See above for address) \nLEAD ATTORNEY \nATTORNEY TO BE NOTICED \n     \nDefendant     \nMichael J McCleary  represented by Galen N. Thorp \nDistrict Director, Boston Field  (See above for address) \nOffice, U.S. Citizenship &  LEAD ATTORNEY \nImmigration Services  ATTORNEY TO BE NOTICED \n \nRayford A. Farquhar \n(See above for address) \nLEAD ATTORNEY \nATTORNEY TO BE NOTICED \n     \nDefendant     \nU.S. Citizenship and Immigration  represented by Galen N. Thorp \nServices  (See above for address) \nLEAD ATTORNEY \nATTORNEY TO BE NOTICED \n \nRayford A. Farquhar \n(See above for address) \nLEAD ATTORNEY \nATTORNEY TO BE NOTICED \n     \nDefendant     \nKevin K. McAleenan  represented by Galen N. Thorp \nActing Secretary, Department of  (See above for address) \nHomeland Security  LEAD ATTORNEY \nATTORNEY TO BE NOTICED \n\n \nRayford A. Farquhar \n(See above for address) \nLEAD ATTORNEY \nATTORNEY TO BE NOTICED \n     \nDefendant     \nThe Department of Homeland  represented by Galen N. Thorp \nSecurity  (See above for address) \nLEAD ATTORNEY \nATTORNEY TO BE NOTICED \n \nRayford A. Farquhar \n(See above for address) \nLEAD ATTORNEY \nATTORNEY TO BE NOTICED \n     \nDefendant     \nDonald J Trump  represented by Galen N. Thorp \n(See above for address) \nLEAD ATTORNEY \nATTORNEY TO BE NOTICED \n \nRayford A. Farquhar \n(See above for address) \nLEAD ATTORNEY \nATTORNEY TO BE NOTICED \n     \n \nDate Filed  #  Docket Text \n09/05/2019  COMPLAINT against All Defendants Filing fee: $ 400, receipt \n1    number 0101-7861525 (Fee Status: Filing Fee paid), filed by Irish \nInternational Immigrant Center, Inc.. (Attachments: # 1 Civil Cover \nSheet, # 2 Category Form, # 3 Exhibit 1, # 4 Exhibit 2)(Carroll, \nRobert) (Entered: 09/05/2019) \n09/05/2019  2   CORPORATE DISCLOSURE STATEMENT by Irish International \nImmigrant Center, Inc.. (Carroll, Robert) (Entered: 09/05/2019) \n09/05/2019  3   ELECTRONIC NOTICE of Case Assignment. Judge Indira Talwani \nassigned to case. If the trial Judge issues an Order of Reference of \nany matter in this case to a Magistrate Judge, the matter will be \ntransmitted to Magistrate Judge Jennifer C. Boal. (Finn, Mary) \n(Entered: 09/05/2019) \n09/05/2019  4   Summons Issued as to All Defendants. Counsel receiving this notice \nelectronically should download this summons, complete one for \n\neach defendant and serve it in accordance with Fed.R.Civ.P. 4 \nand LR 4.1. Summons will be mailed to plaintiff(s) not receiving \nnotice electronically for completion of service. (Currie, Haley) \n(Entered: 09/05/2019) \n09/06/2019  5   NOTICE of Appearance by Adriana Lafaille on behalf of Irish \nInternational Immigrant Center, Inc. (Lafaille, Adriana) (Entered: \n09/06/2019) \n09/07/2019  6   NOTICE of Appearance by Matthew Segal on behalf of Irish \nInternational Immigrant Center, Inc. (Segal, Matthew) (Entered: \n09/07/2019) \n09/11/2019  7   MOTION for Leave to Appear Pro Hac Vice for admission of Rachel \nM. Walsh Filing fee: $ 100, receipt number 0101-7872586 by Irish \nInternational Immigrant Center, Inc.. (Attachments: # 1 Exhibit A- \nCertificate of Rachel M. Walsh)(Carroll, Robert) (Entered: \n09/11/2019) \n09/11/2019  8   MOTION for Leave to Appear Pro Hac Vice for admission of Ira J. \nLevy Filing fee: $ 100, receipt number 0101-7872608 by Irish \nInternational Immigrant Center, Inc.. (Attachments: # 1 Exhibit A- \nCertificate of Ira J. Levy)(Carroll, Robert) (Entered: 09/11/2019) \n09/12/2019  9   Judge Indira Talwani: ELECTRONIC ORDER \nentered ALLOWING 7 Motion for Leave to Appear Pro Hac Vice \nAdded Rachel M. Walsh; ALLOWING 8 Motion for Leave to \nAppear Pro Hac Vice Added Ira J. Levy. \nAttorneys admitted Pro Hac Vice must register for electronic \nfiling if the attorney does not already have an ECF account in \nthis district. To register go to the Court website at \nwww.mad.uscourts.gov. Select Case Information, then Electronic \nFiling (CM/ECF) and go to the CM/ECF Registration \nForm. (Vieira, Leonardo). (Entered: 09/12/2019) \n09/23/2019  10   NOTICE of Appearance by Rayford A. Farquhar on behalf of \nKenneth Cuccinelli, Kevin McAleenan, Secretary of the Department \nof Homeland Security, Transportation Security Administration, \nMichael J McCleary, Lori Pietropaoli, The Department of Homeland \nSecurity, Donald J Trump, U.S. Citizenship and Immigration \nServices (Farquhar, Rayford) (Entered: 09/23/2019) \n10/08/2019  11   NOTICE of Scheduling Conference. Scheduling Conference set for \n11/5/2019 03:00 PM in Courtroom 9 before Judge Indira Talwani. \n(MacDonald, Gail) (Entered: 10/08/2019) \n\n10/29/2019  Joint MOTION to Stay by Irish International Immigrant Center, Inc.. \n12   \n(Attachments: # 1  Exhibit A, # 2 Text of Proposed \nOrder)(Carroll, Robert) (Entered: 10/29/2019) \n10/31/2019 \n13    Judge Indira Talwani: ORDER entered granting 12  Motion to \nStay. (MacDonald, Gail) (Entered: 10/31/2019) \n10/31/2019  14   ELECTRONIC NOTICE Canceling Hearing. Scheduling Conference \nset for 11/05/2019, is canceled. (MacDonald, Gail) (Entered: \n10/31/2019) \n01/27/2020  15   STATUS REPORT Jointly Filed by Plaintiff and by Kenneth \nCuccinelli, Kevin McAleenan, Secretary of the Department of \nHomeland Security, Transportation Security Administration, Michael \nJ McCleary, Lori Pietropaoli, The Department of Homeland Security, \nDonald J Trump, U.S. Citizenship and Immigration Services. \n(Attachments: # 1 Text of Proposed Order (Plaintiff's Proposal), \n# 2 Text of Proposed Order (Defendants' Proposal))(Thorp, Galen) \n(Entered: 01/27/2020) \n01/28/2020  16   Judge Indira Talwani: ELECTRONIC ORDER entered: Electronic \norder administratively staying case for 30 days. The parties shall \nsubmit a jointly proposed briefing schedule for Defendants' \nanticipated motion to dismiss.(Kelly, Danielle) (Entered: 01/28/2020) \n02/04/2020  17   NOTICE of Appearance by Galen N. Thorp on behalf of Kenneth \nCuccinelli, Kevin McAleenan, Secretary of the Department of \nHomeland Security, Transportation Security Administration, Michael \nJ McCleary, Lori Pietropaoli, The Department of Homeland Security, \nDonald J Trump, U.S. Citizenship and Immigration Services (Thorp, \nGalen) (Entered: 02/04/2020) \n02/05/2020  18   Joint MOTION for Scheduling Order by Kenneth Cuccinelli, Kevin \nMcAleenan, Secretary of the Department of Homeland Security, \nTransportation Security Administration, Michael J McCleary, Lori \nPietropaoli, The Department of Homeland Security, Donald J Trump, \nU.S. Citizenship and Immigration Services. (Attachments: # 1 Text of \nProposed Order)(Thorp, Galen) (Entered: 02/05/2020) \n02/07/2020  Judge Indira Talwani: ORDER entered: ALLOWING 18 Joint \n19    MOTION for Scheduling Order. Please see attached Order. (Kelly, \nDanielle) (Entered: 02/07/2020) \n02/28/2020  20   MOTION to Dismiss by Kenneth Cuccinelli, Kevin K. McAleenan, \nMichael J McCleary, Lori Pietropaoli, The Department of Homeland \nSecurity, Donald J Trump, U.S. Citizenship and Immigration \nServices. (Attachments: # 1 Exhibit A, # 2  Exhibit B, # 3 Text of \n\nProposed Order)(Thorp, Galen). Modified on 3/4/2020: Main \ndocument replaced to extract Memorandum in Support to \nproperly file in separate entry. (Kelly, Danielle). (Entered: \n02/28/2020) \n02/28/2020  21   NOTICE by Irish International Immigrant Center, Inc. Change of \nParty Name (Carroll, Robert) (Entered: 02/28/2020) \n02/28/2020  22   MEMORANDUM in Support re 20 MOTION to Dismiss filed by \nKenneth Cuccinelli, Kevin K. McAleenan, Michael J McCleary, Lori \nPietropaoli, The Department of Homeland Security, Donald J Trump, \nU.S. Citizenship and Immigration Services.(Kelly, Danielle) \n(Entered: 03/04/2020) \n03/09/2020  23   Judge Indira Talwani: ELECTRONIC ORDER entered. ORDER \nLIFTING STAY. (Kelly, Danielle) (Entered: 03/09/2020) \n03/19/2020  24   Consent MOTION for Extension of Time to April 3, 2020 to File \nResponse/Reply by Rian Immigrant Center.(Carroll, Robert) \n(Entered: 03/19/2020) \n03/20/2020  25   Judge Indira Talwani: ELECTRONIC ORDER \nentered ALLOWING 24 Motion for Extension of Time to File \nResponse/Reply. Plaintiff opposition extended to April 3, 2020. \nDefendants reply extended to April 17, 2020. (Kelly, Danielle) \n(Entered: 03/20/2020) \n04/02/2020  26   Joint MOTION for Extension of Time to April 17, 2020 & May 8, \n2020 to File Response/Reply by Rian Immigrant Center.(Levy, Ira) \n(Entered: 04/02/2020) \n04/03/2020  27   Judge Indira Talwani: ELECTRONIC ORDER \nentered ALLOWING 26 Joint Motion for Extension of Time to File \nResponse/Reply. Plaintiff opposition extended to April 17, 2020. \nDefendants reply extended to May 8, 2020. (Kelly, Danielle) \n(Entered: 04/03/2020) \n04/17/2020  28   Consent MOTION for Extension of Time to April 23, 2020 & May \n14, 2020 to File Response/Reply by Rian Immigrant Center.(Levy, \nIra) (Entered: 04/17/2020) \n04/20/2020  29   Judge Indira Talwani: ELECTRONIC ORDER entered \ngranting 28 Motion for Extension of Time to File Response/Reply \nResponses due by 4/23/2020 Replies due by 5/14/2020. (Talwani, \nIndira) (Entered: 04/20/2020) \n04/23/2020  Opposition re 20 MOTION to Dismiss filed by Rian Immigrant \n30    Center. (Attachments: # 1 Exhibit A)(Levy, Ira) (Entered: \n04/23/2020) \n\n05/14/2020  31   REPLY to Response to 20 MOTION to Dismiss filed by Kenneth \nCuccinelli, Michael J McCleary, Lori Pietropaoli, The Department of \nHomeland Security, Donald J Trump, U.S. Citizenship and \nImmigration Services. (Attachments: # 1 Exhibit C, # 2 Exhibit D, \n# 3 Exhibit E)(Thorp, Galen) (Entered: 05/14/2020) \n06/22/2020  32   Notice of Supplemental Authorities re 20 MOTION to \nDismiss (Attachments: # 1 Exhibit A)(Thorp, Galen) (Entered: \n06/22/2020) \n06/22/2020  33   MOTION for Leave to File Supplemental Record by Rian Immigrant \nCenter. (Attachments: # 1 Exhibit A, # 2 Exhibit B)(Levy, Ira) \n(Entered: 06/22/2020) \n06/23/2020  34   Judge Indira Talwani: ELECTRONIC ORDER: On June 22, 2020, \nthe government filed a document entitled \"Notice of Subsequent \nLegal Development\" 32 in which the government requests that the \ncourt address the argument in the pending Motion to Dismiss 20 that \nPlaintiff's Complaint 1  be dismissed as moot before determining \nwhether to request supplemental briefing as to the government's \nalternative arguments. Counsel for the government shall confer with \nPlaintiff's counsel as required under Local Rule 7.1 and advise the \ncourt as to whether Plaintiff assents to or opposes this request. \nAlso on June 22, 2020, Plaintiff filed a Motion for Leave to \nSupplement the Record 33 . In the body of the motion, Plaintiff states \nthat Defendants oppose the motion, but in the Local Rule 7.1 \ncertificate, counsel certifies that opposing counsel consents to the \nmotion. Plaintiff shall file a corrected Motion clarifying whether the \nmotion is assented to or opposed. (Kelly, Danielle) (Entered: \n06/23/2020) \n06/23/2020  35   MOTION for Leave to File Supplemental Record (Corrected) by \nRian Immigrant Center. (Attachments: # 1 Exhibit A, # 2 Exhibit \nB)(Levy, Ira) (Entered: 06/23/2020) \n06/26/2020  36   Consent MOTION to Bifurcate Disposition of Defendants' Motion to \nDismiss by Kenneth Cuccinelli, Kevin K. McAleenan, Michael J \nMcCleary, Lori Pietropaoli, The Department of Homeland Security, \nDonald J Trump, U.S. Citizenship and Immigration Services. \n(Attachments: # 1 Text of Proposed Order)(Thorp, Galen) (Entered: \n06/26/2020) \n06/29/2020  37   Judge Indira Talwani: ELECTRONIC \nORDER GRANTING Defendants' Consent Motion to Bifurcate \nDisposition of Defendants Motion to Dismiss 36 . If the court does \nnot dismiss this action as moot, Parties shall meet and confer and \nsubmit a joint status report within seven days of such order as to \n\nwhether the parties request supplemental briefing to \naddress Department of Homeland Security v. Regents of the \nUniversity of California, No. 18-587, ___ S.Ct. ___, 2020 WL \n3271746 (June 18, 2020), and if so, to propose a briefing schedule. \n(Kelly, Danielle) (Entered: 06/29/2020) \n07/01/2020  38   Consent MOTION for Leave to File Declaration Correcting Error in \nPrior Filing by Kenneth Cuccinelli, Kevin K. McAleenan, Michael J \nMcCleary, Lori Pietropaoli, The Department of Homeland Security, \nDonald J Trump, U.S. Citizenship and Immigration Services. \n(Attachments: # 1 Exhibit, # 2 Text of Proposed Order)(Thorp, \nGalen) (Entered: 07/01/2020) \n07/02/2020  39   Judge Indira Talwani: ELECTRONIC \nORDER: ALLOWING 38 Defendants' Consent Motion. Defendants \nare granted leave to file the Supplemental Declaration to correct error \nin prior filing; \nCounsel using the Electronic Case Filing System should now file the \ndocument for which leave to file has been granted in accordance with \nthe CM/ECF Administrative Procedures. Counsel must include - \nLeave to file granted on (date of order)- in the caption of the \ndocument. (Kelly, Danielle) (Entered: 07/02/2020) \n07/02/2020  40   DECLARATION re 31 Reply to Response to Motion, (leave to file \ngranted July 1, 2020) by Kenneth Cuccinelli, Kevin K. McAleenan, \nMichael J McCleary, Lori Pietropaoli, The Department of Homeland \nSecurity, Donald J Trump, U.S. Citizenship and Immigration \nServices. (Attachments: # 1 Exhibit - 3d Renaud Declaration)(Thorp, \nGalen) (Entered: 07/02/2020) \n07/06/2020  41   MEMORANDUM in Opposition re 35 MOTION for Leave to \nFile Supplemental Record (Corrected) filed by Kenneth Cuccinelli, \nKevin K. McAleenan, Michael J McCleary, Lori Pietropaoli, The \nDepartment of Homeland Security, Donald J Trump, U.S. Citizenship \nand Immigration Services. (Attachments: # 1 Exhibit A, # 2 Exhibit \nB, # 3 Exhibit C, # 4 Exhibit D)(Thorp, Galen) (Entered: 07/06/2020) \n11/02/2020  Judge Indira Talwani: ORDER entered. MEMORANDUM AND \n42    ORDER.Defendants' Motion to Dismiss 20 is DENIED insofar as it \ncontends that this action should be dismissed for mootness and \nPlaintiff's Motion for Leave to File Supplemental Record 35 is \nDENIED without prejudice. Counsel shall meet and confer and \nsubmit a joint status report within seven days as to whether they \nrequest supplemental briefing to address Department of Homeland \nSecurity v. Regents of the University of California, 140 S.Ct. 1891 \n(2020), and if so, shall include a proposed briefing schedule. (Kelly, \nDanielle) (Entered: 11/02/2020) \n\n11/06/2020  43   MOTION for Extension of Time to November 16, 2020 to meet and \nconfer, and file a Joint Status Report by Rian Immigrant \nCenter.(Levy, Ira) (Entered: 11/06/2020) \n11/09/2020  44   Judge Indira Talwani: ELECTRONIC ORDER \nentered ALLOWING 43 Motion for Extension of Time to November \n16, 2020 to meet and confer, and file a Joint Status Report. (Kelly, \nDanielle) (Entered: 11/09/2020) \n11/16/2020  45   Joint MOTION to Stay by Rian Immigrant Center. (Attachments: \n# 1 Text of Proposed Order)(Levy, Ira) (Entered: 11/16/2020) \n11/17/2020  Judge Indira Talwani: ORDER entered. Order Staying Case. Parties \n46    shall file a Joint Status Report on or before February 16, 2021. \n(Kelly, Danielle) (Entered: 11/17/2020) \n02/16/2021  47   STATUS REPORT Jointly Filed by Plaintiff and Defendants by \nMichael J McCleary, Lori Pietropaoli, The Department of Homeland \nSecurity, U.S. Citizenship and Immigration Services. (Attachments: \n# 1 Text of Proposed Order)(Thorp, Galen) (Entered: 02/16/2021) \n02/17/2021  Judge Indira Talwani: ORDER entered. Order Extending Stay. \n48    Parties shall file a Joint Status Report on or before April 16, 2021. \n(Kelly, Danielle) (Entered: 02/17/2021) \n03/11/2021  49   MOTION to Withdraw Appearance by Oren N. Nimni (Nimni, Oren) \nModified on 3/12/2021: Corrected event type & docket text to \nproperly reflect document (Kelly, Danielle). (Entered: 03/11/2021) \n03/15/2021  50   Judge Indira Talwani: ELECTRONIC \nORDER ALLOWING 49 Motion to Withdraw as Attorney. Attorney \nOren N. Nimni terminated. (Kelly, Danielle) (Entered: 03/15/2021) \n03/26/2021  51   NOTICE of Appearance by Srish Khakurel on behalf of Rian \nImmigrant Center (Khakurel, Srish) (Entered: 03/26/2021) \n04/16/2021  52   STATUS REPORT Jointly Filed by Plaintiff and by The Department \nof Homeland Security, U.S. Citizenship and Immigration Services. \n(Attachments: # 1 Text of Proposed Order)(Thorp, Galen) (Entered: \n04/16/2021) \n04/20/2021  53   Judge Indira Talwani: ORDER entered. Order Extending Stay. \nParties shall file a Joint Status Report on or before June 15, 2021. \n(Kelly, Danielle) (Entered: 04/20/2021) \n06/15/2021  54   NOTICE of Voluntary Dismissal by Rian Immigrant Center (Walsh, \nRachel) (Entered: 06/15/2021) \n \n \n \n \n\n \nPACER Service Center \nTransaction Receipt \n       \n       \n06/16/2021 12:48:50 \nPACER  Client \nCRClearinghouse:2563377:0  Eric Gripp \nLogin:  Code: \nSearch  1:19-cv-\nDescription:  Docket Report \nCriteria:  11880-IT \nBillable \n7  Cost:  0.70 \nPages: \n       \n ",
+      "document_type_other": "",
+      "external_url": "",
+      "ecf_number": null,
+      "clearinghouse_link": "clearinghouse.net/doc/103141"
+    },
+    {
+      "date": "2019-09-05",
+      "date_is_estimate": false,
+      "date_not_available": false,
+      "description": null,
+      "document_source": "PACER [Public Access to Court Electronic Records]",
+      "document_status": "Coding Complete",
+      "document_type": "Complaint",
+      "order_type": null,
+      "citation_paren": null,
+      "cite_1_page": null,
+      "cite_1_reporter": null,
+      "cite_1_vol": null,
+      "cite_2_page": null,
+      "cite_2_reporter": null,
+      "cite_2_vol": null,
+      "cite_3_page": null,
+      "cite_3_reporter": null,
+      "cite_3_vol": null,
+      "citation_status": "Not applicable",
+      "court": "District of Massachusetts",
+      "no_title": false,
+      "party_types": [
+        "Plaintiff"
+      ],
+      "per_curium": false,
+      "is_core_document": true,
+      "id": 102902,
+      "file": "https://clearinghouse-umich-production.s3.amazonaws.com/media/doc/102902.pdf",
+      "title": "Complaint",
+      "text": "Case 1:19-cv-11880   Document 1   Filed 09/05/19   Page 1 of 25\nIN THE UNITED STATES DISTRICT COURT \nFOR THE DISTRICT OF MASSACHUSETTS \n____________________________________ \n) \nIRISH INTERNATIONAL    ) \nIMMIGRANT CENTER, INC.,  ) \n) \nPlaintiff,    ) \n)  C.A. No. ________________\nv.  ) \n) \nKENNETH THOMAS CUCCINELLI II,  ) \nActing Director, U.S. Citizenship &    ) \nImmigration Services,  ) \nLORI PIETROPAOLI,  ) \nRegional Director, Northeast Region   ) \nU.S. Citizenship & Immigration Services ) \nMICHAEL J. McCLEARY,  ) \nDirector, Boston Field Office,   ) \nU.S. Citizenship & Immigration Services, ) \nU.S. CITIZENSHIP AND IMMIGRATION ) \nSERVICES,  ) \nKEVIN K. McALEENAN,  ) \nActing Secretary, Department of Homeland  ) \nSecurity,  ) \nDEPARTMENT OF HOMELAND  ) \nSECURITY,  ) \nDONALD J. TRUMP,   ) \nPresident of the United States,   ) \n) \nDefendants.    ) \n) \nCOMPLAINT \n  \n\nCase 1:19-cv-11880   Document 1   Filed 09/05/19   Page 2 of 25\nINTRODUCTION \nThis lawsuit challenges the Trump Administration’s abrupt termination of a \nlongstanding government program that protects seriously ill people from deportation and death. \nThe Administration’s action is unconscionable. It is also illegal.  \nFor decades, the United States Customs and Immigration Services (“USCIS”) has \noperated a small but vital humanitarian program that allows immigrant families battling serious \nillnesses to request immigration relief in the form of “deferred action.” The program recognizes \nthat deporting seriously ill individuals and their families is in many cases tantamount to a death \nsentence. Deferred action does not grant immigration status to beneficiaries; it confers other \nbenefits, including an opportunity to apply for work authorization, the tolling of any accrual of \n“unlawful presence” that could bar future entry into the United States, and a measure of \nprotection against removal proceedings by U.S. Immigration and Customs Enforcement (“ICE”). \nThose protected by this program are in dire straits. They include the mother of a U.S. citizen \nbaby that has spent eight of the last ten months in the hospital; a ten-year-old girl with eye \ncancer; and a partially-immobilized 18-year-old boy with burns over 70% of his body. \nIn August 2019, the Trump Administration abruptly prohibited USCIS field \noffices from granting deferred action in cases of serious medical need, and has now put the lives \nof scores of medically fragile individuals at immense and immediate risk. In doing so, the \nAdministration provided no opportunity for notice-and-comment, or any other procedural \nprotection that is required under the Administrative Procedures Act (“APA”). Nor did the \nAdministration provide any rationale for its abrupt termination of the program, as required by \nlaw. \n2 \n  \n\nCase 1:19-cv-11880   Document 1   Filed 09/05/19   Page 3 of 25\nBut the reasons for the Administration’s actions are all too clear: they are part of \nan overarching anti-immigrant agenda that is driven by racial and ethnic animus, and in this case \nadditional animus against persons with disabilities.  Throughout his campaign and presidency, \nDefendant Trump has derided and stoked animus against immigrants of color. Defendant \nKenneth Cuccinelli, Acting Director of USCIS has similarly described undocumented \nimmigrants as invaders and recently claimed, just days before USCIS began sending denial \nletters to people seeking deferred action, that the Statue of Liberty’s famous exhortation to “give \nme your tired, your poor” refers to “people coming from Europe . . . .”  \nPlaintiff Irish International Immigrant Center, Inc. (the “IIIC”) is a nonprofit \norganization based in Boston, Massachusetts that serves clients in Massachusetts who seek \ndeferred action based on a serious medical need. At present, the IIIC represents individuals and \nfamilies in 19 such cases, including children seeking treatment for illnesses such as cancer, \ncerebral palsy, and muscular dystrophy—and the parents who care for them. Nearly all of the \nIIIC’s deferred action clients are people of color from countries in the Caribbean, Central and \nSouth America, and Africa.  \nThe elimination of USCIS’s deferred action program has harmed the IIIC and \nendangered its clients. Deferred action benefits non-citizens with serious illness, their families, \nand the families of U.S. citizen children with serious illness. Without deferred action, the IIIC’s \nclients face the prospect of returning to countries where their life-preserving care cannot be \ncontinued, or being placed in removal proceedings. Many of the IIIC’s clients have been forced \nto contemplate the possibility of leaving behind minor children in the United States so that they \ncan continue receiving essential care. USCIS’s decision has also wreaked havoc for the IIIC. The \norganization has not only dropped almost all other work in an effort to help save the lives of its \n3 \n  \n\nCase 1:19-cv-11880   Document 1   Filed 09/05/19   Page 4 of 25\nclients and their family members, but it will now be tasked with the years-long commitment of \nrepresenting these clients in complex immigration proceedings that will necessarily come at the \nexpense of the IIIC’s other work, all while losing funding tied to work that it can no longer take \non. \nBecause eliminating the authority of USCIS field offices to grant deferred action \nto individuals with dire medical needs is arbitrary, capricious, and based on impermissible \nanimus, it violates the APA and the Equal Protection guarantees of the U.S. Constitution. The \nIIIC therefore asks this Court to declare the termination of USCIS’s deferred-action program \nunlawful and enjoin its enforcement. \nJURISDICTION AND VENUE \nThis Court has jurisdiction under 28 U.S.C. §§ 1331 and 1343.   \nThis Court has authority to issue declaratory and injunctive relief under 28 U.S.C. \n§§ 2201 and 2202, 5 U.S.C. §§ 702-06, and the Court’s inherent equitable powers.\nVenue is proper in the District of Massachusetts under 28 U.S.C. § 1391(e)(1).  \nPARTIES \n  Plaintiff Irish International Immigrant Center, Inc. is a nonprofit organization \nbased in Boston, Massachusetts.  Founded by Irish immigrants in 1989, the IIIC provides \nservices for 3,500 immigrants and refugees from more than 120 countries every year. The IIIC \nempowers newcomers with legal and other services so they can reach stability, contribute to their \ncommunities, and flourish. As part of this work, the IIIC helps immigrant families with life-\n4 \n  \n\nCase 1:19-cv-11880   Document 1   Filed 09/05/19   Page 5 of 25\nthreatening illnesses apply for and secure deferred action status from USCIS.  See generally \nExhibit 1, Declaration of Anthony Marino.   \n  Defendant Kenneth Thomas Cuccinelli II is sued in his official capacity as Acting \nDirector of USCIS, a federal agency that is part of the Department of Homeland Security \n(“DHS”). As Acting Director, Mr. Cuccinelli is responsible for overseeing USCIS’s work, \nincluding its adjudication and policies regarding applications for deferred action and other \nimmigration benefits.  \n  Defendant Lori Pietropaolo is sued in her official capacity as Regional Director of \nUSCIS’s Northeast District, which includes the Boston field office. In that capacity, Ms. \nPietropaolo oversees the work of local USCIS Field Offices and, on information and belief, \nmakes decisions regarding deferred action in cases involving serious illness.  \n  Defendant Michael J. McCleary is sued in his official capacity as Director of the \nUSCIS Boston field office. In that capacity, Mr. McCleary oversees the work of the Boston field \noffice and, on information and belief, helps to make decisions regarding deferred action. \n  U.S. Citizenship and Immigration Services is an agency within the Department of \nHomeland Security that administers immigration benefits, including adjudicating requests for \ndeferred action based on serious illness.  \n  Defendant Kevin McAleenan is sued in his official capacity as Acting Secretary \nof the Department of Homeland Security. As DHS Acting Secretary, Mr. McAleenan is \nresponsible for the administration and enforcement of the immigration laws of the United States. \n  The Department of Homeland Security is a cabinet department of the United \nStates federal government with responsibility for, among other things, administering and \nenforcing the nation’s immigration laws. \n5 \n  \n\nCase 1:19-cv-11880   Document 1   Filed 09/05/19   Page 6 of 25\n  Donald J. Trump is sued in his official capacity as the President of the United \nStates. He is ultimately responsible for the policies of all federal agencies, including DHS. \nBACKGROUND \nI. USCIS Has Long Provided Deferred Action for Families Dependent on Critical\nMedical Treatment in the United States.\n  For decades, the U.S. Immigration and Naturalization Service (“INS”), followed \nby USCIS, has used deferred action to provide relief to individuals whose cases raise compelling \nhumanitarian concerns and to individuals whose removal is not in the best interests of the U.S. \ngovernment.1 Government regulations characterize deferred action as “an act of administrative \nconvenience to the government which gives some cases lower priority.” 8 C.F.R. \n§ 274a.12(c)(14).\n  INS and USCIS have for decades granted deferred action to noncitizens who are \nreceiving treatment in the United States for serious medical conditions, and their immediate \nfamily members. For example, deferred action has been available to non-citizens who are \nthemselves receiving medical treatment in the United States, and their immediate family \nmembers. USCIS also recognizes that someone may seek deferred action on their behalf or “for \nhis/her entire family unit.”2 For example, the noncitizen parents or guardians of a U.S. citizen \n1 Citizenship & Immigration Servs. Ombudsman, Dep’t of Homeland Sec., Deferred Action: \nRecommendations to Improve Transparency and Consistency in the USCIS Process 1-2 (July 11, \n2011), https://www.dhs.gov/xlibrary/assets/cisomb-combined-dar.pdf (citing INS Commissioner \nDoris Meissner, Exercising Prosecutorial Discretion, HQOPP 50/4 (Nov. 17, 2000) (“Meissner \nMem.”)). \n2 U.S. Citizenship & Immigration Servs., Standard Operating Procedures for Handling Deferred \nAction Requests at USCIS Field Offices 3 n.1 (Mar. 7, 2012) (“USCIS Standard Operating \nProcedures”). \n6 \n  \n\nCase 1:19-cv-11880   Document 1   Filed 09/05/19   Page 7 of 25\nchild with a serious medical illness might seek deferred action so that child can receive treatment \nin the United States.     \n  Recipients of deferred action can remain temporarily in the United States, \nreceiving a measure of protection from being placed in removal proceedings during the period of \nthe deferred action—usually two years. Additionally, they are eligible to apply for work \nauthorization, under 8 C.F.R. § 274a.12(c)(14), and they do not accrue unlawful presence under \n8 U.S.C. § 1182(a)(9)(B)(i), which could otherwise foreclose future immigration benefits. \nRecipients of deferred action are also eligible to receive certain benefits, including Social \nSecurity, retirement, and disability benefits, and, in certain states, benefits such as driver’s \nlicenses or unemployment insurance.3 Deferred action thus provides stability and comfort to \nthose benefiting from the program while they or a loved one undergoes serious and sometimes \nlife-saving medical treatment. \n  Upon creation of the DHS in 2003, the power to grant deferred action was \nformally delegated to USCIS, as well as ICE and U.S. Customs and Border Protection (“CBP”).4  \n  On information and belief, deferred action requests made by individuals and \nfamilies receiving treatment for serious illness are governed by USCIS’s 2012 “Standard \n3 See, e.g., 8 U.S.C. §§ 1611(b)(2)-(3), 1621(d).  \n4 Homeland Security Act of 2002, Pub. L. No. 107-296, § 442(c), 116 Stat. 2135, 2194 (2002); \nDep’t of Homeland Sec. Secretary Tom Ridge, Delegation to the Bureau of Citizenship and \nImmigration Services (June 5, 2003) (delegating authority to grant voluntary departure under \nsection 240B of the INA, 8 U.S.C. §1229c, and deferred action); see also U.S. Dep’t of Justice, \nImmigration & Naturalization Service Fact Sheet: Prosecutorial Discretion Guidelines (Nov. 28, \n2000). \n7 \n  \n\nCase 1:19-cv-11880   Document 1   Filed 09/05/19   Page 8 of 25\nOperating Procedures for Handling Deferred Action Requests at USCIS Field Offices,” which \napply to “all requests for deferred action . . . handled at USCIS Field Offices.”5   \n  Applications to USCIS for deferred action based on medical need follow uniform \nprocedures and involve individualized determinations. Applications are filed at local USCIS field \noffices. Each application is reviewed by a Field Office Director and/or District Director before a \nUSCIS Regional Director makes a final determination on behalf of the field office.   \n  Applications must be signed by the applicants and are expected to include an \nexplanation as to the basis for deferred action, including medical and other supporting \ndocumentation. USCIS recognizes that those requesting deferred action may provide extensive \nand sensitive “supporting documentation,” including but not limited to proof of identity and \nnationality, biographic information, “medical information, evidence of community and familial \nties and equities, conditions in the requestor’s country of origin, etc.”6  In the Boston field office, \nUSCIS provided a checklist to potential filers explaining the requirements for deferred action \napplications, including a detailed letter from the treating physician.  See Exhibit 2, Declaration of \nMahsa Khanbabai, ¶ 5 at Exhibit A. \n  Applicants for deferred action are fingerprinted, and USCIS must complete a list \nof required background checks on those individuals before approving a request.7  \nApplicants for deferred action may not have lawful immigration status. \n5 USCIS Standard Operating Procedures at 3. \n6 Id. at 3. Similarly, USCIS’s notice template for granting deferred action requires recipients “to \nnotify USCIS if [they] change [their] address” using a form that requires the recipients to \ndisclose not only their names and addresses, but also their dates of birth, nations of origin, and \nalien registration numbers. Id. at 9 (citing Form AR-11). \n7 Id. at 4-6. \n8 \n  \n\nCase 1:19-cv-11880   Document 1   Filed 09/05/19   Page 9 of 25\n  Under its Standard Operating Procedures, USCIS also rejects applications for \ndeferred action based on serious medical illness if the noncitizens are in removal proceedings or \nhave final orders of removal.8  \n  USCIS field office decisions to grant deferred action in cases involving serious \nillness are distinct from decisions against issuing a Notice to Appear for removal proceedings.9 \nThus, when USCIS denies deferred action to individuals who are not already in removal \nproceedings, its “non-grant” template directs USCIS’s field offices to state that “[d]enial of a \nrequest for deferred action does not necessarily mean that USCIS intends affirmatively to pursue \nyour removal.”10 But when individuals are already in removal proceedings, USCIS’s template \ndirects its field offices to tell the individuals to “direct your request for deferred action to \n[ICE].”11 \nII. The Irish International Immigrant Center Represents Numerous Individuals Who\nQualify for Deferred Action Due to Serious Medical Needs.\n  USCIS has long recognized that a request for deferred action, including deferred \naction due to serious medical needs, may be made by “an attorney or representative.”12 \n  The IIIC is a nonprofit that advocates for the rights of immigrants and provides \nlegal and other services for noncitizens.   \n  The IIIC employs a staff of six attorneys and two program associates who provide \nimmigration legal services.  The legal services provided by the IIIC include legal clinics serving \n8 Id. at 3-4, 12-13. \n9 See Meissner Mem.. \n10 USCIS Standard Operating Procedures at 11 (emphasis added). \n11 Id. at 13. \n12 Id. at 3 n.1. \n9 \n  \n\nCase 1:19-cv-11880   Document 1   Filed 09/05/19   Page 10 of 25\nmore than 2,000 individuals every year, forms assistance to more than 400 individuals per year \nin cases in which the IIIC does not enter an appearance, and direct representation of \napproximately 400 individuals at any given time who are filing applications for benefits before \nUSCIS.   \n  Many of the IIIC’s legal services are provided for a fee that is approximately 10% \nof that ordinarily charged by private attorneys for the same work.  For example, the IIIC \ncurrently charges $85 for an adjustment of status application for an asylee or refugee, and $350 \nfor representation in a complex citizenship application.  Many of the IIIC’s clients cannot pay \nthese fees and, as a result, pay no fees at all.  The IIIC technically assigns a $500 fee for deferred \naction cases, but it generally does not collect any fees at all.  In one instance, a client contributed \n$100.  In all others, the IIIC waived its fees and collected nothing from the clients.     \n  The IIIC’s legal services work aims to make legal advice and representation \navailable to as many people as possible.  These services thus focus on providing free or low-cost \nrepresentation to people who have affirmative avenues for seeking legal status, and making \ninformation and advice available to many others through thousands of free consultations \nprovided at the IIIC’s legal clinics every year.  Although the IIIC does sometimes represent \nclients who are detained and/or in removal proceedings, the IIIC’s experience with these cases \ndemonstrates that such matters can significantly monopolize the time of the attorneys involved \nand thus greatly diminish those attorneys’ ability to take on other clients or provide legal \nconsultations through the IIIC’s clinics. Due to the large time commitments involved in these \ncases, the IIIC has not customarily taken on clients who are in removal proceedings.  \n  Among its other cases, the IIIC represents individuals and families applying for \ndeferred action from USCIS as a result of a serious medical need.  These deferred action cases \n10 \n  \n\nCase 1:19-cv-11880   Document 1   Filed 09/05/19   Page 11 of 25\nhave come to the IIIC in a variety of ways, including through its walk-in clinics, partnerships \nwith area hospitals, and other referrals.  \n  More recently, in order to expand the IIIC’s ability to meet the needs of hospital \npatients for deferred action and other legal services, the IIIC has developed more formalized \npartnerships with two local hospitals that provide specific financial support for this work.  These \npartnerships allow the IIIC to deliver legal services to critically ill patients, including \nconsultations and representation for deferred action and other avenues of relief when available.  \n  This year the IIIC and its partners fundraised for its collaboration with area \nhospitals together, highlighting for prospective donors the critically ill patients that had been and \ncould be helped by the IIIC to obtain deferred action.  These partnerships are in their early \nstages, but new funding through these two medical partnerships in 2019 have accounted for the \ncost of approximately one half of an attorney’s salary.  \n  The 2019 funding allowed the IIIC to provide full representation to ten new \nclients who are patients at one of the two partner hospitals, including three who were seeking \ndeferred action based on a serious medical need.   \n  All told, the IIIC currently represents 19 individuals and families who have or are \nin the process of applying for or seeking to renew deferred action based on a serious medical \nneed.  \nThese families comprise 33 individuals, most of them people of color.  \n  Of these 19 deferred action cases, six involve Haitian families or individuals and \nfour involve families from the Dominican Republic. Five cases involve families or individuals \nfrom Central and South American countries; three cases involve African families or individuals. \nThe remaining client is a European national.  \n11 \n  \n\nCase 1:19-cv-11880   Document 1   Filed 09/05/19   Page 12 of 25\n  The IIIC has filed a new applications for deferred action as recently as August 16, \n2019, when it filed an application on behalf of a client with terminal breast cancer.  \n  The IIIC’s 19 deferred action cases mostly involve families of children with \nserious medical illnesses for which treatment is unavailable in the countries in which they or \ntheir parents were born.   \nAmong these clients are: \n The mother of a six-month-old U.S. citizen who suffered a neonatal stroke.\n The mother of a ten-month-old U.S. citizen who has been hospitalized eight of\nthose ten months with multiple complex diagnoses, including ambiguous\ngenitalia, corneal clouding, and autoimmune interopathy.\n A six-year-old with multiple diagnoses who is undergoing testing, is confined to a\nwheelchair, and uses a feeding tube, and his mother.\n The parents of a six-year-old U.S. citizen with more than 20 complex diagnoses\narising from premature birth, including developmental delays, chronic lung\ndisease, pulmonary hypertension, and encephalopathy (damage or disease to the\nbrain).\n A seven-year-old with a severe form of epilepsy involving multiple seizures a day\nand a risk of sudden death, and his mother and sibling.\n A ten-year-old blinded by eye cancer, and her mother.\n A 12-year-old with cerebral palsy who is confined to a wheelchair, suffers\nseizures, and is scheduled for major surgery later this month, and his parents.\n A 13-year-old with Duchenne’s Muscular Dystrophy, and his mother.\n A 16-year-old with cystic fibrosis and his parents.\n An 18-year-old with burns over 70% of his body and immobilized arms and\nhands, who has been undergoing reconstructive surgery in order to clear scar\ntissue obstructing his mouth and ears, and his mother.\n A 24-year-old suffering complications from a bone marrow transplant performed\nto treat his leukemia, and his parents and minor sibling.\n12 \n  \n\nCase 1:19-cv-11880   Document 1   Filed 09/05/19   Page 13 of 25\nAn adult with incurable breast cancer. \n  Before August 19, 2019, the IIIC represented nine of these individuals and \nfamilies in applications for deferred action for which the IIIC had not yet received a response. \nThese nine cases comprised two applications to renew deferred action and seven new \napplications.  \nThe IIIC was also preparing to file applications for three new families or \nindividuals. \n  The IIIC also represents seven individuals or families who have received deferred \naction that is set to expire in 2020. For example, in March 2020, deferred action will expire for \nthe family of the seven-year-old boy whose epilepsy is so severe that it results in multiple \nseizures a day and a risk of sudden death.  \nIII. USCIS Abruptly Terminated Deferred Action in Non-Military Cases.\n  On August 7, 2019, USCIS abruptly and without notice stopped its consideration \nof deferred action for non-military requestors.  \nUSCIS did not publicly announce its change in policy. \nNor, on information and belief, did it provide a reason for the change.  \nAround August 15, 2019, USCIS’ Boston field office began sending denial letters \nto deferred action applicants.  \n  The IIIC, on behalf of its clients, received the first of these letters on August 19, \n2019, from the USCIS Boston Field Office Director. Denial of applications for six additional \nclients followed, all of which were dated between August 15 and 22, 2019.  True and correct \ncopies of three of these letters with identifying information redacted are attached to Exhibit 1, the \nDeclaration of Anthony Marino, as Exhibits A-C.   \n13 \n  \n\nCase 1:19-cv-11880   Document 1   Filed 09/05/19   Page 14 of 25\n  These letters—using language identical to letters sent around the country—\ninformed noncitizens that deferred action had been denied because USCIS field offices “no \nlonger consider deferred action requests” in non-military cases.  \n  The letters further notified families that, because their presence in the United \nStates at the time they applied for deferred action was unlawful—a requirement for applying—\nthey are now “not authorized to remain the United States.” \nThe letters did not mention any alternative means of applying for deferred action. \n  To the contrary, they threatened: “If you fail to depart the United States within 33 \ndays of the date of this letter, USCIS may issue you a Notice to Appear and commence removal \nproceedings against you with the immigration court. This may result in your being removed from \nthe United States and found ineligible for a future visa or other U.S. immigration benefit.” \nUSCIS ended its deferred action program so abruptly that, in one case, it \nwithdrew a request for additional evidence that it had sent to one of the IIIC’s clients only three \nweeks earlier—telling the family to “disregard this request as USCIS will no longer process your \ndeferred action request.”13 In another case, where a family represented by the IIIC was scheduled \nfor an interview that was to take place five days after the denial notice was sent out, USCIS \ninformed them that “this interview is cancelled since USCIS will not process your deferred \naction request.”14 \n13 Ex. 1, Decl. of Anthony Marino, Ex. B. \n14 Id., Ex. C. \n14 \n\nCase 1:19-cv-11880   Document 1   Filed 09/05/19   Page 15 of 25\n  On August 26, 2019, USCIS told members of the press that “medical deferred \naction requests are now submitted to ICE for consideration,”15 as opposed to USCIS, as had been \npreviously done.     \n  Upon information and belief, ICE was not informed that USCIS would stop \nprocessing non-military deferred action requests, and on further information and belief, has no \nplans to take over the program. An ICE official stated, “ICE is not going to implement any sort \nof a program or procedure or policy to take over that function.”16 \n  On information and belief, ICE does not process applications for deferred action \nfor individuals who do not have final orders of removal. And every individual who was \npreviously eligible to obtain deferred action from USCIS based on medical need was not in \nremoval proceedings and did not have an order of removal.  \n  On September 2, 2019, after sustained public pressure, USCIS issued a press \nrelease stating that it was reopening “non-military deferred action cases that were pending on \nAugust 7.” The release further made clear that the program has been otherwise terminated. \n15 Shannon Dooling, After Receiving Denial Letters, Immigrants Fear End of Medical Deferral \nProgram, WBUR (Aug. 26, 2019), http://www.wbur.org/news/2019/08/26/medical-deferment-\nimmigration-program-ended. \n16 Shannon Dooling, Feds Can’t Agree on Which Agency — If Any — Handles Medical \nDeportation Deferrals, WBUR (Aug. 28, 2019), http://www.wbur.org/news/2019/08/28/ice-\nuscis-immigrants-medical-deferred-action.  \n15 \n  \n\nCase 1:19-cv-11880   Document 1   Filed 09/05/19   Page 16 of 25\nIV. USCIS’s Decision to Terminate Deferred Action Has Endangered the IIIC’s Clients\nand Directly Harmed the IIIC.\n  The termination of deferred action has caused immeasurable agony, distress, \nheartbreak, confusion, and fear for the IIIC’s clients.   \n  The IIIC’s clients who had not received letters notifying them of the termination \nsoon learned about the decision from their counsel at the IIIC, and from media reports.  \n  For many of the IIIC’s clients, the termination of deferred action is life \nthreatening, because they may no longer be able to receive care in the United States.  \n  For many of the IIIC’s clients, who are the family members of U.S. citizen \nchildren, USCIS’s decision raises untenable choices about whether to leave children alone in the \nUnited States to receive life-preserving care, or instead take them abroad to countries where their \nmedical conditions might quickly kill them.  \n  Many of the IIIC’s current or future clients would face substantial hindrances if \nthey were to attempt to bring litigation to vindicate their own interests with respect to deferred \naction. For example, the IIIC’s clients include children who cannot file suit on their own behalf, \nadults who are absorbed in important health care decisions and in the day-to-day needs of their \nchildren’s treatment, and families who are terrified of public attention and of any real or \nperceived dispute with the federal government, from whom they, by definition, wish to secure \nrelief. The IIIC’s clients also include adults who are unable to communicate and/or are \nterminally ill. \n  Meanwhile, the termination of deferred action has also had direct and substantial \nimpacts for the IIIC itself.  \n  Since learning of it, the IIIC’s limited staff has been almost entirely absorbed in \ncounseling, supporting, and advocating for affected families, at the expense of all other work.  \n16 \n  \n\nCase 1:19-cv-11880   Document 1   Filed 09/05/19   Page 17 of 25\n  IIIC staff attorneys have spent dozens of hours providing legal advice to affected \nindividuals and families, helping them to attempt to absorb and understand the news and \ndiscussing options and possible future scenarios with them. They have had to discuss the impact \nof USCIS’s decision with their clients’ health care providers in order to explain the possible \nramifications of the new policy in each case. And each time that new developments have \narisen—including USCIS’s contention that ICE would take over deferred action and USCIS’ \nSeptember 2, 2019 announcement that it would reopen certain cases—IIIC attorneys have had to \nexplain these shifts to their clients, medical providers, and others.  \n  The IIIC also determined that it was necessary to launch a public campaign. It \norganized a press conference, worked closely with clients who chose to make their stories public, \nand communicated with public officials, lawyers, community groups, religious leaders, and \nreporters. \n  By the week of August 26, 2019, the termination of deferred action was national \nnews; the IIIC’s Executive Director and Legal Director have been interviewed multiple times \nand quoted in dozens of media outlets.   \n  As a consequence of their time spent providing legal counsel to and advocating \nfor and alongside its deferred action clients, IIIC attorneys have postponed non-urgent work on \nother cases, cancelled appointments, suspended the scheduling of cases in which the IIIC \nprovides assistance with immigration forms, and stopped opening new full-representation cases. \n  In addition to impairing the IIIC’s ability to serve its mission of making low-cost \nlegal services available to more people, the IIIC’s inability to open new cases will immediately \nlead to hundreds of dollars of lost fee revenue associated with the full representation and form-\nassistance cases for which the IIIC charges a modest fee.  \n17 \n  \n\nCase 1:19-cv-11880   Document 1   Filed 09/05/19   Page 18 of 25\n  USCIS’s decision to terminate non-military deferred action will continue to harm \nthe IIIC in the long term.   \n  First, without deferred action for people with serious medical conditions, the \nIIIC’s continued representation of its deferred action clients and people who would be such \nclients—but for the termination of the program—will require substantial time commitments for \nyears to come. This will come at a heavy cost to the IIIC’s ability to take on other cases, harming \nboth its mission and ability to collect fees.  \n  Many, if not all, of the IIIC’s deferred action clients with serious medical \nconditions will be unable or unwilling to leave the life-preserving care that they or their children \nreceive in the United States, and will face the risk of being placed in removal proceedings either \nimmediately or after their deferred action status concludes. New prospective clients with serious \nmedical illness will similarly face such risks. On information and belief, the IIIC’s current and \nfuture clients will be able to seek deferred action status from ICE only if they go through \nremoval proceedings and are ordered removed.  \n  Representing its deferred action clients in removal proceedings is a years-long \ncommitment for the IIIC due to the significant expenditures of attorney time that each removal \ncase will require. Although the IIIC will continue to represent its deferred action clients in \nremoval proceedings if possible, that representation will come at a significant cost to the \norganization’s ability to take larger numbers of other cases, with consequences both for its \nmission, the community it serves, and for its generation of fees.  \n   Second, the termination of non-military deferred action is likely to lead to a loss \nof funding for the IIIC, including but not limited funding it receives from hospitals.   \n18 \n  \n\nCase 1:19-cv-11880   Document 1   Filed 09/05/19   Page 19 of 25\n  The IIIC has developed partnerships with hospitals, and receives funding that is a \ndirect result of its ability to represent clients facing serious illness in seeking deferred action \nbefore USCIS. If the IIIC is no longer able to take on these cases because deferred action for \npeople with serious medical conditions is unavailable, it is likely to lose some or all of the \nfunding that it receives from hospitals.  \nV. USCIS’s Decision Was Motived By Animus Based on Race and National Origin, and\nDisability.\n  On information and belief, the defendants’ decision to terminate USCIS’s non-\nmilitary deferred action program was a consequence of impermissible animus based on race, \nnational origin, and disability.   \n  Many of the Trump Administration’s immigration policies—from the decisions to \nrender one million noncitizens unlawfully present,17 to the calls for the elimination of “chain \nmigration,”18 to the policies obstructing citizenship for lawful permanent residents in the \n17  Adam Adelman, Trump Ends DACA Program, No New Applications Accepted, NBC News \n(Sept. 5, 2017), https://www.nbcnews.com/politics/immigration/trump-dreamers-daca-\nimmigration-announcement-n798686 (noting that termination of DACA affected as many as \n800,000 “Dreamers”); Nick Miroff & David Nakamura, 200,000 Salvadorans May Be Forced to \nLeave the U.S. as Trump Ends Immigration Protection, Wash. Post (Jan. 8, 2018), https:// \nwww.washingtonpost.com/world/national-security/trump-administration-to-end-provisional \n-residency-for-200000-salvadorans/2018/01/08/badfde90-f481-11e7-beb6-c8d48830c54d\n_story.html.\n18  Julie Bykowicz & Rebecca Ballhaus, Trump Revives Attack on Diversity Visa, “Chain \nMigration” in Speech, Wall St. J. (Feb. 23, 2018), https://www.wsj.com/articles/trump-revives \n-attack-on-diversity-visa-chain-migration-in-speech-1519410081; Nick Miroff, Family Ties\nDrive U.S. Immigration. Why Trump Wants to Break the “Chains,” Wash. Post. (Jan. 2, 2018),\nhttps://www.washingtonpost.com/world/national-security/how-chain-migration-became-a-target-\nin-trumps-immigration-agenda/2018/01/02/dd30e034-efdb-11e7-90ed-77167c6861f2_story.html\n(“Attorney General Jeff Sessions, Homeland Security Secretary Kirstjen Nielsen and other\nTrump Cabinet members have also hammered at ‘chain migration’ in recent weeks, calling it a\nthreat to American workers and national security.”).\n19 \n  \n\nCase 1:19-cv-11880   Document 1   Filed 09/05/19   Page 20 of 25\nmilitary19—can hardly be understood as means of protecting national security or controlling \nillegal immigration.  Instead, on information and belief, the Trump administration’s immigration \npolicies reflect a consistent desire to drive out immigrants of color and prevent non-white people \nfrom living in America or becoming American citizens.20 \n  President Trump’s statements provide ample evidence of this animus.  He has \nasked why the United States could not have more immigrants from Norway, a predominantly \nwhite country.21  While campaigning, he labeled Mexican immigrants as criminals and rapists22; \nas President, he has expressed a desire to reduce immigration from “shithole” countries such as \nHaiti, El Salvador, and African nations.23 President Trump declined to criticize white nationalist \ndemonstrators,24 told four American Congresswomen of color to “go back” to the countries they \n19  Jim Garamone, DoD Announces Policies Affecting Foreign Nationals Entering Military, U.S. \nDep’t of Def. (Oct. 13, 2017), https://www.defense.gov/News/Article/Article \n/1342430/dod-announces-policies-affecting-foreign-nationals-entering-military/. \n20 See generally Jayashri Srikantiah & Shirin Sinnar, White Nationalism as Immigration Policy, \nStan. L. Rev. (Mar. 2019), https://www.stanfordlawreview.org/online/white-nationalism-as-\nimmigration-policy/. \n21  Henrik Pryser Libell & Catherine Porter, From Norway to Haiti, Trump’s Comments Stir \nFresh Outrage, N.Y. Times (Jan. 11, 2018), http://www.nytimes.com/2018/01/11/world/trump \n-countries-haiti-africa.html.\n22  Katie Reilly, Here Are All the Times Donald Trump Insulted Mexico, Time (Aug. 31, 2016), \nhttp://www.time.com/4473972/donald-trump-mexico-meeting-insult/. \n23  Josh Dawsey, Trump Derides Protections for Immigrants from “Shithole” Countries, Wash. \nPost. (Jan. 12, 2018), http://www.washingtonpost.com/politics/trump-attacks-protections-for-\nimmigrants-from-shithole-countries-in-oval-office-meeting/2018/01/11/bfc0725c-f711-11e7 \n-91af-31ac729add94_story.html; Julie Hirschfeld Davis et al., Trump Alarms Lawmakers with\nDisparaging Words for Haiti and Africa, N.Y. Times (Jan. 11, 2018), http://www.nytimes.com\n/2018/01/11/us/politics/trump-shithole-countries.html.\n24  Glenn Thrush & Maggie Haberman, Trump Is Criticized for Not Calling Out White \nSupremacists, N.Y. Times (Aug. 12, 2017), http://www.nytimes.com/2017/08/12/us/trump \n-charlottesville-protest-nationalist-riot.html.\n20 \n  \n\nCase 1:19-cv-11880   Document 1   Filed 09/05/19   Page 21 of 25\ncame from,25 and pardoned an Arizona sheriff convicted of contempt of a judicial order requiring \nthat he cease racially profiling Latinos, calling the sheriff an “American patriot.”26 \n  President Trump has also specifically directed animus based on medical disability \nagainst non-white foreign nationals. He has falsely said that Haitians “all have AIDS.”27 He has \nfalsely claimed that immigrants crossing the southern border into the U.S. bring “large scale \ncrime and disease.”28  \n  Consistent with these various and overlapping forms of animus, in June 2019 \nMr. Cuccinelli was named as USCIS’s Acting Director. \n  Mr. Cuccinelli’s actions and statements concerning immigration provide further \nevidence of animus. He was a founding member of a group of state legislators that, in 2007, \n25 Mike DeBonis, et al., A Divided House Votes for Resolution Condemning Trump’s Racist \nRemarks, Wash. Post (July 17, 2019), http://www.washingtonpost.com/politics/trump-lashes-out-\nagain-at-minority-lawmakers-as-house-prepares-to-condemn-his-racist-\ntweets/2019/07/16/bca3afa4-a7b3-11e9-a3a6-ab670962db05_story.html. \n26 Julie Hirschfeld Davis & Maggie Haberman, Trump Pardons Joe Arpaio, Who Became Face \nof Crackdown on Illegal Immigration, N.Y. Times (Aug. 25, 2017), http://www.nytimes.com \n/2017/08/25/us/politics/joe-arpaio-trump-pardon-sheriff-arizona.html. \n27  Michael D. Shear & Julie Hirschfeld Davis, Stoking Fears, Trump Defied Bureaucracy to \nAdvance Immigration Agenda, N.Y. Times (Dec. 23, 2017), https://www.nytimes.com/2017 \n/12/23/us/politics/trump-immigration.html. \n28 Donald J. Trump (@realdonaldtrump), Twitter (Dec. 11, 2018, 7:12 AM), \nhttps://twitter.com/realDonaldTrump/status/1072464107784323072?s=20 (emphasis added); see \nalso Donald J. Trump (@realdonaldtrump), Twitter (July 6, 2015, 9:25 PM), \nhttps://twitter.com/realDonaldTrump/status/618229195181826049?s=20 (“In addition to the \ncriminals among the illegal aliens what about all the infectious diseases they brought to US”); \nDonald J. Trump (@realdonaldtrump), Twitter (Aug. 5, 2014, 8:55 AM) \nhttps://twitter.com/realDonaldTrump/status/496640747379388416?s=20 (“Our government now \nimports illegal immigrants and deadly diseases.”); Donald J. Trump (@realdonaldtrump), Twitter \n(Aug. 4, 2014, 7:51 PM), \nhttps://twitter.com/realDonaldTrump/status/496443427647942658?s=20 (“The bigger problem \nwith Ebola is all of the people coming into the U.S. from West Africa who may be infected with \nthe disease. STOP FLIGHTS!”).  \n21 \n  \n\nCase 1:19-cv-11880   Document 1   Filed 09/05/19   Page 22 of 25\ndescribed undocumented people as “foreign invaders” responsible for, among other things, \n“serious infectious diseases.”29 Since then, Mr. Cuccinelli has repeatedly accused immigrants of \ninvading the United States.30 \n  In August 2019, in his capacity as USCIS’s Acting Director, Mr. Cuccinelli made \npublic statements defending a new “public charge” rule published by DHS on August 14, 2019. \nThe new rule expands the factors that USCIS will consider when deeming someone ineligible for \nadmission or adjustment of status based on a perceived likelihood that they will become a \n“public charge.” \n  In his public statements, Mr. Cuccinelli defended the new public charge rule \nalong lines of race and national origin. Specifically, while acknowledging that America had in \nprior generations welcomed people lacking financial means, Mr. Cuccinelli argued that those \nwere “people coming from Europe, where they had class-based societies” and that today’s \nimmigrants must be able to take care of themselves.31 \n  Days after making these statements, USCIS mailed letters informing the IIIC’s \nclients, and countless others, that their requests for deferred action were denied because USCIS \nhad eliminated its deferred action program. \n29 Andrew Kaczynski, Trump Official Has Talked About Undocumented Immigrants as \n“Invaders” Since at Least 2007, CNN (Aug. 17, 2019), \nhttps://www.cnn.com/2019/08/17/politics/kfile-ken-cuccinelli-immigration-invasion-\nrhetoric/index.html. \n30 Id. \n31 Colby Itkowitz and Felicia Sonmez, ‘Who Can Stand on Their Own Two Feet’: Ken Cuccinelli \nEdits Famous Statue of Liberty Poem, Wash. Post (Aug. 13, 2019), at \nhttps://beta.washingtonpost.com/politics/who-can-stand-on-their-own-two-feet-ken-cuccinelli-\nedits-famous-statue-of-liberty-poem/2019/08/13/4cdddf62-bdcc-11e9-a5c6-\n1e74f7ec4a93_story.html. \n22 \n  \n\nCase 1:19-cv-11880   Document 1   Filed 09/05/19   Page 23 of 25\nCOUNT 1 – ADMINISTRATIVE PROCEDURE ACT  \n(Agency Action that is Arbitrary, Capricious, Not in Accordance with the Law, Without \nObservance of Procedure Required By Law, and Discriminatory) \nThe foregoing allegations are re-alleged and incorporated herein. \n  USCIS, which is overseen by Defendants, is a federal agency whose final actions \nare subject to judicial review under the Administrative Procedure Act.  5 U.S.C. § 551(1).  \nUnder the Administrative Procedures Act, a reviewing court shall “hold unlawful \nand set aside agency actions, findings, and conclusions found to be arbitrary, capricious, an \nabuse of discretion, or otherwise not in accordance with the law.”  5 U.S.C. § 706(2)(A). \n  The APA also requires that agency action that is substantive in nature follow \nnotice-and-comment procedures. 5 U.S.C. §§ 553, 706(2)(D).  \n  Defendants’ termination of USCIS’s non-military deferred action authority \neliminates authority that has been acknowledged for decades, without a reasoned basis, and is \narbitrary and capricious in violation of the APA.  \n  Although USCIS’s deferred action authority was developed through decades of \npractice, not through regulation, it has been acknowledged and ratified by regulation and statute. \nThe defendants’ termination of USCIS’s authority to grant deferred action in non-military cases \nbinds USCIS field offices to categorically deny all requests for deferred action based on serious \nmedical need. It is thus a substantive rule requiring notice-and-comment. \n  The defendants’ termination of USCIS’s deferred action program is also based on \nimpermissible animus, which is contrary to law. \n  The termination of USCIS’s authority to grant deferred action in non-military \ncases thus violates the APA. \n23 \n  \n\nCase 1:19-cv-11880   Document 1   Filed 09/05/19   Page 24 of 25\nCOUNT 2 – THE EQUAL PROTECTION GUARANTEE OF THE FIFTH \nAMENDMENT TO THE U.S. CONSTITUTION \n(Animus based on race, national origin, and disability) \nThe foregoing allegations are re-alleged and incorporated herein. \n  Plaintiff has a right under the Fifth Amendment to the U.S. Constitution to equal \nprotection of the laws.  \nOn information and belief, the defendants’ termination of deferred action was \nimpermissibly motivated by racial animus and animus based on national origin, in violation of \nthe Equal Protection Clause. Village of Arlington Heights v. Metro. Hous. Dev. Corp., 429 U.S. \n252, 265-266 (1977).  \n  On information and belief, the defendants’ termination of deferred action was \nimpermissibly motivated by animus against persons with disabilities, and cannot survive even \nrational basis review. See City of Cleburne v. Cleburne Living Ctr., 473 U.S. 432 (1985). \nREQUEST FOR RELIEF \nWherefore, the Irish International Immigrant Center respectfully requests that this Court: \n1. Vacate and set aside the defendants’ termination of USCIS field offices’ authority\nto grant deferred action in non-military cases, as well as any action taken by the defendants to \neffect that termination; \n2. Declare that all actions taken by the defendants to terminate USCIS field offices’\nauthority to grant deferred action in non-military cases are void and without legal force or effect; \n3. Declare that all actions taken by the defendants to terminate USCIS field offices’\nauthority to grant deferred action in non-military cases are arbitrary, capricious, an abuse of \ndiscretion, otherwise not in accordance with law, and without observance of procedure required \nby law, in violation of 5 U.S.C. §§ 702-706; \n24 \n  \n\nCase 1:19-cv-11880   Document 1   Filed 09/05/19   Page 25 of 25\n4. Declare that all actions taken by the defendants to terminate USCIS field offices’\nauthority to grant deferred action in non-military cases are in violation of the Constitution; \n5. Preliminarily and permanently enjoin the defendants, their agents, servants,\nemployees, attorneys, and all persons in active concert or participation with any of them, from \nimplementing or enforcing the termination of USCIS’s non-military deferred action program, \nand from taking any other action to terminate that program that is not in compliance with \napplicable law; and \n6. Grant any further relief this Court deems just and proper.\nDated: September 4, 2019 Respectfully submitted, \nIRISH INTERNATIONAL IMMIGRANT CENTER, \nBy  its attorneys, \n/s/  Robert D. Carroll\nRobert D. Carroll (BBO 662736) \nMatthew R. Segal (BBO 654489) \nGoodwin Procter LLP \nAdriana Lafaille (BBO 680210) \n100 Northern Avenue \nAmerican Civil Liberties Union  \nBoston, MA 02210 \nFoundation of Massachusetts, Inc. \nTel.: 617.570.1000 \n211 Congress Street \nBoston, MA 02110 \nIra J. Levy (Pro hac vice forthcoming) \nTel.:  617.482.3170 \nGoodwin Procter LLP \nmsegal@aclum.org \nThe New York Times Building \nalafaille@aclum.org\n620 Eight Avenue \nNew York, NY 10018 \nOren Nimni (BBO 691821) Lawyers \nTel.:  212.813.8800 \nfor Civil Rights\nILevy@goodwinlaw.com \n61 Batterymarch Street\nBoston, MA 02110\nRachel M. Walsh (Pro hac vice forthcoming) \nTel.: 617.988.0606\nGoodwin Procter LLP \nonimni@lawyersforcivilrights.org\nThree Embarcadero Center, 28th Floor \nSan Francisco, California  94111 \nAnthony M. Marino (BBO 680237)\nTel.: 415.733.6128 \n(application for admission pending) \nrwalsh@goodwinlaw.com \nIrish International Immigrant Center \n1 State Street, Suite 800\nAttorneys for Plaintiff the Irish International  \nBoston, MA 02109\nImmigrant Center \nTel.: 617.542.7654\namarino@iiicenter.org\n25 ",
+      "document_type_other": "",
+      "external_url": "",
+      "ecf_number": "1",
+      "clearinghouse_link": "clearinghouse.net/doc/102902"
+    }
+  ],
+  "document_count": 3
+}

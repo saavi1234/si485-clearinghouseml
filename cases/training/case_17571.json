@@ -1,0 +1,1558 @@
+{
+  "case_id": 17571,
+  "fetched_at": "2025-10-20T22:36:52.131374",
+  "case_data": {
+    "attorney_orgs": [],
+    "available_documents": [
+      "Trial Court Docket",
+      "Complaint (any)",
+      "Monetary Relief",
+      "Injunctive (or Injunctive-like) Relief",
+      "Any published opinion"
+    ],
+    "case_defendants": [
+      {
+        "defendant_level": null,
+        "institution": "",
+        "institution_alt_state": null,
+        "institution_city": "Chester",
+        "institution_county": "Delaware",
+        "name": "City of Chester",
+        "defendant_level_other": "",
+        "is_active": true
+      }
+    ],
+    "case_ongoing": "Yes",
+    "case_status": "Approved",
+    "case_types": [
+      "Policing"
+    ],
+    "cause_other": "",
+    "causes": [
+      "42 U.S.C. § 1983",
+      "State law",
+      "Declaratory Judgment Act, 28 U.S.C. § 2201",
+      "Ex parte Young (federal or state officials)"
+    ],
+    "class_action_granted": "Granted",
+    "class_action_sought": "Yes",
+    "closing_year": null,
+    "constitutional_clause": [
+      {
+        "value": "Due Process"
+      },
+      {
+        "value": "Due Process: Procedural Due Process"
+      },
+      {
+        "value": "Unreasonable search and seizure"
+      }
+    ],
+    "content_of_injunction": [],
+    "court": "Eastern District of Pennsylvania",
+    "custom_issues": [],
+    "defendant_payment": "$300,000",
+    "defendant_type": [
+      {
+        "value": "Law-enforcement"
+      }
+    ],
+    "docket_status": "Complete as of retrieval date",
+    "facility_type": [],
+    "filing_date": "2019-02-25",
+    "filing_year": 2019,
+    "id": 17571,
+    "injunction_duration": "",
+    "issues": [
+      "General/Misc.: Pattern or Practice",
+      "Policing: Strip search policy (policing)"
+    ],
+    "last_checked_date": "2023-04-13T00:00:00-04:00",
+    "main_docket": {
+      "id": 27921,
+      "docket_entries": [
+        {
+          "row_number": 83,
+          "id": 3385840,
+          "entry_number": null,
+          "date_filed": "2019-02-25T00:00:00-05:00",
+          "attachments": [],
+          "url": "https://www.courtlistener.com",
+          "recap_pdf_url": null,
+          "pacer_doc_id": null,
+          "description": "DEMAND for Trial by Jury by KENARD PITNEY. (jwl, )"
+        },
+        {
+          "row_number": 8,
+          "id": 3385856,
+          "entry_number": "17",
+          "date_filed": "2019-10-11T00:00:00-04:00",
+          "attachments": [],
+          "url": "https://www.courtlistener.com/docket/14949775/17/pitney-v-city-of-chester/",
+          "recap_pdf_url": null,
+          "pacer_doc_id": "153018301668",
+          "description": "ORDERED THAT DEFENDANT'S MOTION FOR EXTENSION OF TIME TO RESPOND TO PLAINTIFF'S MOTION TO AMEND THE COMPLAINT IS GRANTED. THE CITY OF CHESTER SHALL FILE A RESPONSE TO THE MOTION TO AMEND NOT LATER THAN 10/31/2019. SIGNED BY HONORABLE ROBERT F. KELLY ON 10/11/2019.10/15/2019 ENTERED AND COPIES E-MAILED.(sg, ) (Entered: 10/15/2019)"
+        },
+        {
+          "row_number": 22,
+          "id": 3385842,
+          "entry_number": "3",
+          "date_filed": "2019-04-18T00:00:00-04:00",
+          "attachments": [],
+          "url": "https://www.courtlistener.com/docket/14949775/3/pitney-v-city-of-chester/",
+          "recap_pdf_url": null,
+          "pacer_doc_id": "153017882683",
+          "description": "NOTICE of Appearance by NICHOLAS A. CUMMINS on behalf of CITY OF CHESTER, WILLIAM J. MURPHY, III with Jury Demand(CUMMINS, NICHOLAS) (Entered: 04/18/2019)"
+        },
+        {
+          "row_number": 44,
+          "id": 3385844,
+          "entry_number": "5",
+          "date_filed": "2019-05-01T00:00:00-04:00",
+          "attachments": [],
+          "url": "https://www.courtlistener.com/docket/14949775/5/pitney-v-city-of-chester/",
+          "recap_pdf_url": null,
+          "pacer_doc_id": "153017908454",
+          "description": "NOTICE of Hearing: A RULE 16 PRETRIAL PHONE CONFERENCE IS SET FOR 5/3/2019 AT 9:15 AM BEFORE HONORABLE ROBERT F. KELLY.(mr, ) (Entered: 05/01/2019)"
+        },
+        {
+          "row_number": 66,
+          "id": 3385846,
+          "entry_number": "7",
+          "date_filed": "2019-05-03T00:00:00-04:00",
+          "attachments": [],
+          "url": "https://www.courtlistener.com/docket/14949775/7/pitney-v-city-of-chester/",
+          "recap_pdf_url": null,
+          "pacer_doc_id": "153017918292",
+          "description": "Minute Entry for proceedings held before HONORABLE ROBERT F. KELLY Telephone Conference held on 5/3/2019 (sg, ) (Entered: 05/06/2019)"
+        },
+        {
+          "row_number": 81,
+          "id": 3385848,
+          "entry_number": "9",
+          "date_filed": "2019-08-01T00:00:00-04:00",
+          "attachments": [],
+          "url": "https://www.courtlistener.com/docket/14949775/9/pitney-v-city-of-chester/",
+          "recap_pdf_url": null,
+          "pacer_doc_id": "153018127118",
+          "description": "STIPULATION AND ORDER THAT ALL CLAIMS AGAINST DEFENDANT, POLICE OFFICER WILLIAM J. MURPHY, III ARE DISMISSED WITHOUT PREJUDICE.. SIGNED BY HONORABLE ROBERT F. KELLY ON 7/31/2019. 8/1/2019 ENTERED AND COPIES E-MAILED.(sg, ) (Entered: 08/01/2019)"
+        },
+        {
+          "row_number": 1,
+          "id": 3385849,
+          "entry_number": "10",
+          "date_filed": "2019-08-09T00:00:00-04:00",
+          "attachments": [
+            {
+              "recap_id": 157384615,
+              "pacer_url": "https://ecf.paed.uscourts.gov/doc1/153018148718?caseid=553542",
+              "description": "Proposed Order",
+              "attachment_number": 1
+            },
+            {
+              "recap_id": 157384639,
+              "pacer_url": "https://ecf.paed.uscourts.gov/doc1/153018148719?caseid=553542",
+              "description": "Certificate of Service",
+              "attachment_number": 2
+            }
+          ],
+          "url": "https://www.courtlistener.com/docket/14949775/10/pitney-v-city-of-chester/",
+          "recap_pdf_url": null,
+          "pacer_doc_id": "153018148717",
+          "description": "Joint MOTION for Extension of Time to File Dispositive Motions filed by KENARD PITNEY.. (Attachments: # 1 Proposed Order, # 2 Certificate of Service)(GECKLE, PATRICK) (Entered: 08/09/2019)"
+        },
+        {
+          "row_number": 5,
+          "id": 3385853,
+          "entry_number": "14",
+          "date_filed": "2019-10-03T00:00:00-04:00",
+          "attachments": [
+            {
+              "recap_id": 157387511,
+              "pacer_url": "https://ecf.paed.uscourts.gov/doc1/153018279779?caseid=553542",
+              "description": "Exhibit \"A\" Amended Complaint",
+              "attachment_number": 1
+            },
+            {
+              "recap_id": 157387539,
+              "pacer_url": "https://ecf.paed.uscourts.gov/doc1/153018279780?caseid=553542",
+              "description": "Proposed Order",
+              "attachment_number": 2
+            },
+            {
+              "recap_id": 157387560,
+              "pacer_url": "https://ecf.paed.uscourts.gov/doc1/153018279781?caseid=553542",
+              "description": "Certificate of Service",
+              "attachment_number": 3
+            }
+          ],
+          "url": "https://www.courtlistener.com/docket/14949775/14/pitney-v-city-of-chester/",
+          "recap_pdf_url": null,
+          "pacer_doc_id": "153018279778",
+          "description": "MOTION to Amend/Correct FOR LEAVE TO AMEND THECOMPLAINT filed by KENARD PITNEY.Memorandum. (Attachments: # 1 Exhibit \"A\" Amended Complaint, # 2 Proposed Order, # 3 Certificate of Service)(GECKLE, PATRICK) (Entered: 10/03/2019)"
+        },
+        {
+          "row_number": 10,
+          "id": 3385858,
+          "entry_number": "19",
+          "date_filed": "2019-10-30T00:00:00-04:00",
+          "attachments": [
+            {
+              "recap_id": 157391694,
+              "pacer_url": "https://ecf.paed.uscourts.gov/doc1/153018339744?caseid=553542",
+              "description": "Exhibit A-K",
+              "attachment_number": 1
+            },
+            {
+              "recap_id": 157391725,
+              "pacer_url": "https://ecf.paed.uscourts.gov/doc1/153018339745?caseid=553542",
+              "description": "Exhibit L part 1",
+              "attachment_number": 2
+            },
+            {
+              "recap_id": 157391749,
+              "pacer_url": "https://ecf.paed.uscourts.gov/doc1/153018339746?caseid=553542",
+              "description": "Exhibit L part 2",
+              "attachment_number": 3
+            },
+            {
+              "recap_id": 157391768,
+              "pacer_url": "https://ecf.paed.uscourts.gov/doc1/153018339747?caseid=553542",
+              "description": "Exhibit L part 3",
+              "attachment_number": 4
+            },
+            {
+              "recap_id": 157391787,
+              "pacer_url": "https://ecf.paed.uscourts.gov/doc1/153018339748?caseid=553542",
+              "description": "Exhibit M-N",
+              "attachment_number": 5
+            }
+          ],
+          "url": "https://www.courtlistener.com/docket/14949775/19/pitney-v-city-of-chester/",
+          "recap_pdf_url": null,
+          "pacer_doc_id": "153018339743",
+          "description": "MOTION for Summary Judgment filed by CITY OF CHESTER.Brief, Certificate of Service. (Attachments: # 1 Exhibit A-K, # 2 Exhibit L part 1, # 3 Exhibit L part 2, # 4 Exhibit L part 3, # 5 Exhibit M-N)(CUMMINS, NICHOLAS) (Entered: 10/30/2019)"
+        },
+        {
+          "row_number": 12,
+          "id": 3385859,
+          "entry_number": "20",
+          "date_filed": "2019-10-31T00:00:00-04:00",
+          "attachments": [],
+          "url": "https://www.courtlistener.com/docket/14949775/20/pitney-v-city-of-chester/",
+          "recap_pdf_url": null,
+          "pacer_doc_id": "153018344483",
+          "description": "RESPONSE in Opposition re 14 MOTION to Amend/Correct FOR LEAVE TO AMEND THECOMPLAINT filed by CITY OF CHESTER. (CUMMINS, NICHOLAS) (Entered: 10/31/2019)"
+        },
+        {
+          "row_number": 13,
+          "id": 3385860,
+          "entry_number": "21",
+          "date_filed": "2019-11-01T00:00:00-04:00",
+          "attachments": [],
+          "url": "https://www.courtlistener.com/docket/14949775/21/pitney-v-city-of-chester/",
+          "recap_pdf_url": null,
+          "pacer_doc_id": "153018345243",
+          "description": "MOTION for Leave to File Brief in Excess of Page Limit filed by CITY OF CHESTER.Certificate of Service.(CUMMINS, NICHOLAS) (Entered: 11/01/2019)"
+        },
+        {
+          "row_number": 15,
+          "id": 3385862,
+          "entry_number": "23",
+          "date_filed": "2019-11-05T00:00:00-05:00",
+          "attachments": [],
+          "url": "https://www.courtlistener.com/docket/14949775/23/pitney-v-city-of-chester/",
+          "recap_pdf_url": null,
+          "pacer_doc_id": "153018354569",
+          "description": "CORRESPONDENCE FROM ALAN M. FELDMAN, ESQ., DATED 11/5/2019.(rt) (Entered: 11/05/2019)"
+        },
+        {
+          "row_number": 16,
+          "id": 3385863,
+          "entry_number": "24",
+          "date_filed": "2019-11-05T00:00:00-05:00",
+          "attachments": [],
+          "url": "https://www.courtlistener.com/docket/14949775/24/pitney-v-city-of-chester/",
+          "recap_pdf_url": null,
+          "pacer_doc_id": "153018354787",
+          "description": "ORDER UPON CONSIDERATION OF THE PARTIES' JOINT LETTER REQUEST (DOC. NO. 23 ), IT IS HEREBY ORDERED THAT, PURSUANT TO THE PARTIES' AGREEMENT, MY DECISION ON PLAINTIFF'S MOTION TO AMEND (DOC. NO. 14 ) HIS COMPLAINT IS DEFERRED PENDING MY DECISION ON DEFENDANT'S MOTION FOR SUMMARY JUDGMENT (DOC. NO. 19 ).SIGNED BY HONORABLE PAUL S. DIAMOND ON 11/5/2019. 11/5/2019 ENTERED AND COPIES E-MAILED.(rt) (Entered: 11/05/2019)"
+        },
+        {
+          "row_number": 17,
+          "id": 3385864,
+          "entry_number": "25",
+          "date_filed": "2019-11-07T00:00:00-05:00",
+          "attachments": [
+            {
+              "recap_id": 157395352,
+              "pacer_url": "https://ecf.paed.uscourts.gov/doc1/153018361459?caseid=553542",
+              "description": "Proposed Order",
+              "attachment_number": 1
+            },
+            {
+              "recap_id": 157395370,
+              "pacer_url": "https://ecf.paed.uscourts.gov/doc1/153018361460?caseid=553542",
+              "description": "Certificate of Service",
+              "attachment_number": 2
+            }
+          ],
+          "url": "https://www.courtlistener.com/docket/14949775/25/pitney-v-city-of-chester/",
+          "recap_pdf_url": null,
+          "pacer_doc_id": "153018361458",
+          "description": "MOTION for Extension of Time to File Response/Reply as to 19 MOTION for Summary Judgment filed by KENARD PITNEY.. (Attachments: # 1 Proposed Order, # 2 Certificate of Service)(GECKLE, PATRICK) (Entered: 11/07/2019)"
+        },
+        {
+          "row_number": 21,
+          "id": 3385868,
+          "entry_number": "29",
+          "date_filed": "2019-11-25T00:00:00-05:00",
+          "attachments": [],
+          "url": "https://www.courtlistener.com/docket/14949775/29/pitney-v-city-of-chester/",
+          "recap_pdf_url": null,
+          "pacer_doc_id": "153018400760",
+          "description": "LETTER REQUEST FROM ALAN M. FELDMAN, ESQ., DATED 11/22/2019.SIGNED BY HONORABLE PAUL S. DIAMOND ON 11/25/2019. 11/25/2019 ENTERED AND COPIES E-MAILED.(rt) (Entered: 11/25/2019)"
+        },
+        {
+          "row_number": 84,
+          "id": 3385869,
+          "entry_number": null,
+          "date_filed": "2019-11-25T00:00:00-05:00",
+          "attachments": [],
+          "url": "https://www.courtlistener.com",
+          "recap_pdf_url": null,
+          "pacer_doc_id": null,
+          "description": "Exhibit"
+        },
+        {
+          "row_number": 24,
+          "id": 3385871,
+          "entry_number": "31",
+          "date_filed": "2019-11-26T00:00:00-05:00",
+          "attachments": [
+            {
+              "recap_id": 157398709,
+              "pacer_url": "https://ecf.paed.uscourts.gov/doc1/153018402930?caseid=553542",
+              "description": "Text of Proposed Order",
+              "attachment_number": 1
+            },
+            {
+              "recap_id": 157398738,
+              "pacer_url": "https://ecf.paed.uscourts.gov/doc1/153018402932?caseid=553542",
+              "description": "Exhibit",
+              "attachment_number": 2
+            },
+            {
+              "recap_id": 157398756,
+              "pacer_url": "https://ecf.paed.uscourts.gov/doc1/153018402934?caseid=553542",
+              "description": "Exhibit",
+              "attachment_number": 3
+            },
+            {
+              "recap_id": 157398781,
+              "pacer_url": "https://ecf.paed.uscourts.gov/doc1/153018402935?caseid=553542",
+              "description": "Exhibit",
+              "attachment_number": 4
+            },
+            {
+              "recap_id": 157398801,
+              "pacer_url": "https://ecf.paed.uscourts.gov/doc1/153018402936?caseid=553542",
+              "description": "Exhibit",
+              "attachment_number": 5
+            },
+            {
+              "recap_id": 157398826,
+              "pacer_url": "https://ecf.paed.uscourts.gov/doc1/153018402939?caseid=553542",
+              "description": "Exhibit",
+              "attachment_number": 6
+            },
+            {
+              "recap_id": 157398846,
+              "pacer_url": "https://ecf.paed.uscourts.gov/doc1/153018402940?caseid=553542",
+              "description": "Exhibit",
+              "attachment_number": 7
+            },
+            {
+              "recap_id": 157398865,
+              "pacer_url": "https://ecf.paed.uscourts.gov/doc1/153018402941?caseid=553542",
+              "description": "Exhibit",
+              "attachment_number": 8
+            },
+            {
+              "recap_id": 157398887,
+              "pacer_url": "https://ecf.paed.uscourts.gov/doc1/153018402942?caseid=553542",
+              "description": "Exhibit",
+              "attachment_number": 9
+            },
+            {
+              "recap_id": 157398911,
+              "pacer_url": "https://ecf.paed.uscourts.gov/doc1/153018402943?caseid=553542",
+              "description": "Exhibit",
+              "attachment_number": 10
+            },
+            {
+              "recap_id": 157398933,
+              "pacer_url": "https://ecf.paed.uscourts.gov/doc1/153018402944?caseid=553542",
+              "description": "Exhibit",
+              "attachment_number": 11
+            }
+          ],
+          "url": "https://www.courtlistener.com/docket/14949775/31/pitney-v-city-of-chester/",
+          "recap_pdf_url": null,
+          "pacer_doc_id": "153018402929",
+          "description": "Amended RESPONSE to Statement of Undisputed Material Facts re 19 MOTION for Summary Judgment filed by KENARD PITNEY. (Attachments: # 1 Text of Proposed Order, # 2 Exhibit, # 3 Exhibit, # 4 Exhibit, # 5 Exhibit, # 6 Exhibit, # 7 Exhibit, # 8 Exhibit, # 9 Exhibit, # 10 Exhibit, # 11 Exhibit)(FELDMAN, ALAN) Modified on 11/27/2019 (lisad, ). (Entered: 11/26/2019)"
+        },
+        {
+          "row_number": 25,
+          "id": 3385872,
+          "entry_number": "32",
+          "date_filed": "2019-11-27T00:00:00-05:00",
+          "attachments": [],
+          "url": "https://www.courtlistener.com/docket/14949775/32/pitney-v-city-of-chester/",
+          "recap_pdf_url": null,
+          "pacer_doc_id": "153018408350",
+          "description": "REPLY Brief in Support re 19 MOTION for Summary Judgment filed by CITY OF CHESTER. Certificate of Service. (CUMMINS, NICHOLAS) Modified on 12/2/2019 (lisad, ). (Entered: 11/27/2019)"
+        },
+        {
+          "row_number": 27,
+          "id": 3385874,
+          "entry_number": "34",
+          "date_filed": "2020-05-20T00:00:00-04:00",
+          "attachments": [],
+          "url": "https://www.courtlistener.com/docket/14949775/34/pitney-v-city-of-chester/",
+          "recap_pdf_url": "https://www.courtlistener.com/recap/gov.uscourts.paed.553542/gov.uscourts.paed.553542.34.0.pdf",
+          "pacer_doc_id": "153018772794",
+          "description": "ORDERED THAT DEFENDANTS MOTION FOR SUMMARY JUDGMENT IS DENIED. IT IS FURTHER ORDERED THAT DEFENDANTS SHALL RESPOND TO PLAINTIFF'S MOTION FOR LEAVE TO AMEND THE COMPLAINT NO LATER THAN 5/28/2020. SIGNED BY HONORABLE PAUL S. DIAMOND ON 5/20/2020. 5/21/2020 ENTERED AND COPIES E-MAILED.(sg, ) (Entered: 05/21/2020)"
+        },
+        {
+          "row_number": 29,
+          "id": 3385876,
+          "entry_number": "36",
+          "date_filed": "2020-05-27T00:00:00-04:00",
+          "attachments": [],
+          "url": "https://www.courtlistener.com/docket/14949775/36/pitney-v-city-of-chester/",
+          "recap_pdf_url": null,
+          "pacer_doc_id": "153018784552",
+          "description": "ORDERED THAT PLAINTIFF'S MOTION FOR LEAVE TO FILE AN AMENDED COMPLAINT IS GRANTED. THE CLERK OF COURT SHALL DOCKET PLAINTIFFS AMENDED COMPLAINT. DEFENDANTS SHALL MOVE, ANSWER, OR OTHERWISE REPLY BY 6/9/2020. IT IS FURTHER ORDERED THAT CLASS CERTIFICATION MOTIONS ARE DUE 8/7/2020. A HEARING ON CLASS CERTIFICATION WILL BE HELD ON FRIDAY, 8/28/2020 AT 1 PM IN COURTROOM 14A. SIGNED BY HONORABLE PAUL S. DIAMOND ON 5/27/2020.5/27/2020 ENTERED AND COPIES E-MAILED.(sg, ) (Entered: 05/27/2020)"
+        },
+        {
+          "row_number": 30,
+          "id": 3385877,
+          "entry_number": "37",
+          "date_filed": "2020-05-27T00:00:00-04:00",
+          "attachments": [],
+          "url": "https://www.courtlistener.com/docket/14949775/37/pitney-v-city-of-chester/",
+          "recap_pdf_url": null,
+          "pacer_doc_id": "153018784626",
+          "description": "AMENDED COMPLAINT against CITY OF CHESTER, JOHN DOE 1, JOHN DOE 2, filed by KENARD PITNEY.(sg, ) (Entered: 05/27/2020)"
+        },
+        {
+          "row_number": 31,
+          "id": 3385878,
+          "entry_number": "38",
+          "date_filed": "2020-06-01T00:00:00-04:00",
+          "attachments": [],
+          "url": "https://www.courtlistener.com/docket/14949775/38/pitney-v-city-of-chester/",
+          "recap_pdf_url": null,
+          "pacer_doc_id": "153018791563",
+          "description": "NOTICE of Appearance by ANDREW KEVIN MITNICK on behalf of KENARD PITNEY with Certificate of Service(MITNICK, ANDREW) (Entered: 06/01/2020)"
+        },
+        {
+          "row_number": 32,
+          "id": 3385879,
+          "entry_number": "39",
+          "date_filed": "2020-06-03T00:00:00-04:00",
+          "attachments": [],
+          "url": "https://www.courtlistener.com/docket/14949775/39/pitney-v-city-of-chester/",
+          "recap_pdf_url": null,
+          "pacer_doc_id": "153018798146",
+          "description": "MOTION to Amend/Correct 34 Order (Memorandum and/or Opinion),, Set Motion and R&R Deadlines/Hearings, to Certify for Appeal filed by CITY OF CHESTER.Brief, Certificate of Service.(CUMMINS, NICHOLAS) (Entered: 06/03/2020)"
+        },
+        {
+          "row_number": 34,
+          "id": 3385880,
+          "entry_number": "40",
+          "date_filed": "2020-06-03T00:00:00-04:00",
+          "attachments": [],
+          "url": "https://www.courtlistener.com/docket/14949775/40/pitney-v-city-of-chester/",
+          "recap_pdf_url": null,
+          "pacer_doc_id": "153018798459",
+          "description": "ORDER THAT PLAINTIFF SHALL RESPOND TO DEFENDANT'S MOTION TO AMEND ORDER TO CERTIFY FOR APPEAL BY 6/8/20 AT 12:00 P.M.; ETC.. SIGNED BY HONORABLE PAUL S. DIAMOND ON 6/3/20. 6/4/20 ENTERED AND E-MAILED.(JL ) (Entered: 06/04/2020)"
+        },
+        {
+          "row_number": 36,
+          "id": 3385882,
+          "entry_number": "42",
+          "date_filed": "2020-06-04T00:00:00-04:00",
+          "attachments": [],
+          "url": "https://www.courtlistener.com/docket/14949775/42/pitney-v-city-of-chester/",
+          "recap_pdf_url": null,
+          "pacer_doc_id": "153018799564",
+          "description": "NOTICE of Appearance by BRIAN H. LEINHAUSER on behalf of CITY OF CHESTER with Certificate of Service(LEINHAUSER, BRIAN) (Entered: 06/04/2020)"
+        },
+        {
+          "row_number": 37,
+          "id": 3385883,
+          "entry_number": "43",
+          "date_filed": "2020-06-08T00:00:00-04:00",
+          "attachments": [
+            {
+              "recap_id": 157408700,
+              "pacer_url": "https://ecf.paed.uscourts.gov/doc1/153018804034?caseid=553542",
+              "description": "Certificate of Service",
+              "attachment_number": 1
+            }
+          ],
+          "url": "https://www.courtlistener.com/docket/14949775/43/pitney-v-city-of-chester/",
+          "recap_pdf_url": null,
+          "pacer_doc_id": "153018804033",
+          "description": "RESPONSE in Opposition re 39 MOTION to Amend/Correct 34 Order (Memorandum and/or Opinion),, Set Motion and R&R Deadlines/Hearings, to Certify for Appeal filed by KENARD PITNEY. (Attachments: # 1 Certificate of Service)(FELDMAN, ALAN) (Entered: 06/08/2020)"
+        },
+        {
+          "row_number": 38,
+          "id": 3385884,
+          "entry_number": "44",
+          "date_filed": "2020-06-09T00:00:00-04:00",
+          "attachments": [],
+          "url": "https://www.courtlistener.com/docket/14949775/44/pitney-v-city-of-chester/",
+          "recap_pdf_url": null,
+          "pacer_doc_id": "153018808769",
+          "description": "STIPULATION TO PARTIAL DISMISSAL by CITY OF CHESTER, KENARD PITNEY. (sg, ) (Entered: 06/09/2020)"
+        },
+        {
+          "row_number": 42,
+          "id": 3385888,
+          "entry_number": "48",
+          "date_filed": "2020-06-29T00:00:00-04:00",
+          "attachments": [
+            {
+              "recap_id": 157412649,
+              "pacer_url": "https://ecf.paed.uscourts.gov/doc1/153018851342?caseid=553542",
+              "description": "Certificate of Service",
+              "attachment_number": 1
+            }
+          ],
+          "url": "https://www.courtlistener.com/docket/14949775/48/pitney-v-city-of-chester/",
+          "recap_pdf_url": null,
+          "pacer_doc_id": "153018851341",
+          "description": "MOTION to Compel Response to RFP filed by KENARD PITNEY.Certificate of Service. (Attachments: # 1 Certificate of Service)(FELDMAN, ALAN) (Entered: 06/29/2020)"
+        },
+        {
+          "row_number": 46,
+          "id": 3385891,
+          "entry_number": "51",
+          "date_filed": "2020-06-29T00:00:00-04:00",
+          "attachments": [],
+          "url": "https://www.courtlistener.com/docket/14949775/51/pitney-v-city-of-chester/",
+          "recap_pdf_url": null,
+          "pacer_doc_id": "153018852907",
+          "description": "*VACATED PER # 52 FILED 6/30/20* ORDER THAT DEFENDANT PROVIDE FULL AND COMPLETE RESPONSES TO PLAINTIFF'S REQUESTS FOR DOCUMENTS AND INITIAL DISCLOSURES NO LATER THAN 6/30/20, AT 5:00 PM. SIGNED BY HONORABLE PAUL S. DIAMOND ON 6/29/20.6/30/20 ENTERED AND COPIES E-MAILED.(amas, ) Modified on 7/1/2020 (lisad, ). (Entered: 06/30/2020)"
+        },
+        {
+          "row_number": 47,
+          "id": 3385892,
+          "entry_number": "52",
+          "date_filed": "2020-06-30T00:00:00-04:00",
+          "attachments": [],
+          "url": "https://www.courtlistener.com/docket/14949775/52/pitney-v-city-of-chester/",
+          "recap_pdf_url": null,
+          "pacer_doc_id": "153018854378",
+          "description": "ORDER THAT DEFENDANTS MOTION FOR EXTENSION OF TIME TO COMPLETE DISCOVERY IS GRANTED. THE 6/29/2020 ORDER IS VACATED. PLAINTIFF SHALL RESPOND TO ALL WRITTEN CLASS DISCOVERY REQUESTS BY 7/10/2020. CLASS CERTIFICATION MOTIONS DUE 8/17/2020. A HEARING ON CLASS CERTIFICATION WILL BE HELD ON 9/2/2020 AT 1:00 PM. ETC.. SIGNED BY HONORABLE PAUL S. DIAMOND ON 6/30/2020.6/30/2020 ENTERED AND COPIES E-MAILED.(sg, ) (Main Document 52 replaced on 6/30/2020) (sg, ). (Entered: 06/30/2020)"
+        },
+        {
+          "row_number": 56,
+          "id": 3385900,
+          "entry_number": "60",
+          "date_filed": "2020-09-10T00:00:00-04:00",
+          "attachments": [],
+          "url": "https://www.courtlistener.com/docket/14949775/60/pitney-v-city-of-chester/",
+          "recap_pdf_url": null,
+          "pacer_doc_id": "153019015854",
+          "description": "ORDERED THAT THE ABOVE-CAPTIONED CASE IS REFERRED TO UNITED STATES MAGISTRATE JUDGE TIMOTHY R. RICE FOR THE SCHEDULING OF A SETTLEMENT CONFERENCE. SIGNED BY HONORABLE PAUL S. DIAMOND ON 9/8/2020. 9/11/2020 ENTERED AND COPIES E-MAILED.(sg, ) Modified on 9/14/2020 (lisad, ). (Entered: 09/11/2020)"
+        },
+        {
+          "row_number": 57,
+          "id": 3385901,
+          "entry_number": "61",
+          "date_filed": "2020-09-16T00:00:00-04:00",
+          "attachments": [
+            {
+              "recap_id": 157423012,
+              "pacer_url": "https://ecf.paed.uscourts.gov/doc1/153019028668?caseid=553542",
+              "description": "Text of Proposed Order",
+              "attachment_number": 1
+            },
+            {
+              "recap_id": 157423045,
+              "pacer_url": "https://ecf.paed.uscourts.gov/doc1/153019028669?caseid=553542",
+              "description": "Exhibit",
+              "attachment_number": 2
+            }
+          ],
+          "url": "https://www.courtlistener.com/docket/14949775/61/pitney-v-city-of-chester/",
+          "recap_pdf_url": "https://www.courtlistener.com/recap/gov.uscourts.paed.553542/gov.uscourts.paed.553542.61.0.pdf",
+          "pacer_doc_id": "153019028667",
+          "description": "MOTION to Certify Class filed by KENARD PITNEY.Motion to Certify Class. (Attachments: # 1 Text of Proposed Order, # 2 Exhibit)(FELDMAN, ALAN) (Entered: 09/16/2020)"
+        },
+        {
+          "row_number": 59,
+          "id": 3385903,
+          "entry_number": "63",
+          "date_filed": "2020-09-24T00:00:00-04:00",
+          "attachments": [],
+          "url": "https://www.courtlistener.com/docket/14949775/63/pitney-v-city-of-chester/",
+          "recap_pdf_url": null,
+          "pacer_doc_id": "153019047732",
+          "description": "NOTICE of Appearance by ANDREW J. DAVIS on behalf of CITY OF CHESTER with Certificate of Service(DAVIS, ANDREW) (Entered: 09/24/2020)"
+        },
+        {
+          "row_number": 62,
+          "id": 3385906,
+          "entry_number": "66",
+          "date_filed": "2020-10-07T00:00:00-04:00",
+          "attachments": [],
+          "url": "https://www.courtlistener.com/docket/14949775/66/pitney-v-city-of-chester/",
+          "recap_pdf_url": null,
+          "pacer_doc_id": "153019081139",
+          "description": "REPLY to Response to Motion re 61 MOTION to Certify Class filed by KENARD PITNEY. (FELDMAN, ALAN) (Entered: 10/07/2020)"
+        },
+        {
+          "row_number": 71,
+          "id": 3385914,
+          "entry_number": "74",
+          "date_filed": "2021-01-27T00:00:00-05:00",
+          "attachments": [
+            {
+              "recap_id": 159176205,
+              "pacer_url": "https://ecf.paed.uscourts.gov/doc1/153019330292?caseid=553542",
+              "description": "Brief",
+              "attachment_number": 1
+            },
+            {
+              "recap_id": 159176206,
+              "pacer_url": "https://ecf.paed.uscourts.gov/doc1/153019330293?caseid=553542",
+              "description": "Exhibit A-F",
+              "attachment_number": 2
+            }
+          ],
+          "url": "https://www.courtlistener.com/docket/14949775/74/pitney-v-city-of-chester/",
+          "recap_pdf_url": "https://www.courtlistener.com/recap/gov.uscourts.paed.553542/gov.uscourts.paed.553542.74.0.pdf",
+          "pacer_doc_id": "153019330291",
+          "description": "Settlement Agreement filed by CITY OF CHESTER.Brief. (Attachments: # 1 Brief, # 2 Exhibit A-F)(LEINHAUSER, BRIAN) Modified on 1/28/2021 (lisad, ). (Entered: 01/27/2021)"
+        },
+        {
+          "row_number": 74,
+          "id": 3385917,
+          "entry_number": "77",
+          "date_filed": "2021-05-17T00:00:00-04:00",
+          "attachments": [],
+          "url": "https://www.courtlistener.com/docket/14949775/77/pitney-v-city-of-chester/",
+          "recap_pdf_url": null,
+          "pacer_doc_id": "153019601883",
+          "description": "Minute Entry for proceedings held before HONORABLE PAUL S. DIAMOND FAIRNESS HEARING held on 5/17/21. (JL ) (Entered: 05/18/2021)"
+        },
+        {
+          "row_number": 76,
+          "id": 3385919,
+          "entry_number": "79",
+          "date_filed": "2021-05-19T00:00:00-04:00",
+          "attachments": [],
+          "url": "https://www.courtlistener.com/docket/14949775/79/pitney-v-city-of-chester/",
+          "recap_pdf_url": null,
+          "pacer_doc_id": "153019606570",
+          "description": "ORDERED AS FOLLOWS: PLAINTIFFS MOTION FOR FINAL APPROVAL OF CLASS ACTION SETTLEMENT (DOC. NO. 76) AND MOTION TO CERTIFY CLASS (DOC. NO. 61) ARE GRANTED; PLAINTIFFS MOTION FOR ATTORNEYS FEES (DOC. NO. 76) IS GRANTED. COUNSEL IS AWARDED $275,000. CLASS REPRESENTATIVE PITNEY IS AWARDED A $25,000 INCENTIVE PAYMENT; ALL CLAIMS ASSERTED BY PLAINTIFFS AND THE CLASS AGAINST DEFENDANT ARE DISMISSED WITH PREJUDICE IN ACCORDANCE WITH THE TERMS OF THE SETTLEMENT AGREEMENT. THE CLERK OF COURT SHALL CLOSE THIS CASE. ETC.. SIGNED BY HONORABLE PAUL S. DIAMOND ON 5/18/2021.5/19/2021 ENTERED AND COPIES E-MAILED.(sg, ) (Entered: 05/19/2021)"
+        },
+        {
+          "row_number": 80,
+          "id": 10191916,
+          "entry_number": "82",
+          "date_filed": "2021-07-01T00:00:00-04:00",
+          "attachments": [],
+          "url": "https://www.courtlistener.com/docket/14949775/82/pitney-v-city-of-chester/",
+          "recap_pdf_url": null,
+          "pacer_doc_id": "153019703421",
+          "description": "Letter dated July 1, 2021 by CITY OF CHESTER. (LEINHAUSER, BRIAN) (Entered: 07/01/2021)"
+        },
+        {
+          "row_number": 73,
+          "id": 3385916,
+          "entry_number": "76",
+          "date_filed": "2021-05-10T00:00:00-04:00",
+          "attachments": [],
+          "url": "https://www.courtlistener.com/docket/14949775/76/pitney-v-city-of-chester/",
+          "recap_pdf_url": "https://www.courtlistener.com/recap/gov.uscourts.paed.553542/gov.uscourts.paed.553542.76.0.pdf",
+          "pacer_doc_id": "153019582320",
+          "description": "MOTION for Final Approval of Class Action Settlement, For an Award of Attorneys' Fees, and for Approval of Incentive Award to the Class Representative filed by KENARD PITNEY. Memorandum.(FELDMAN, ALAN) Modified on 5/11/2021 (tjd). (Entered: 05/10/2021)"
+        },
+        {
+          "row_number": 11,
+          "id": 3385841,
+          "entry_number": "2",
+          "date_filed": "2019-04-17T00:00:00-04:00",
+          "attachments": [
+            {
+              "recap_id": 157378845,
+              "pacer_url": "https://ecf.paed.uscourts.gov/doc1/153017877068?caseid=553542",
+              "description": "Certificate of Service for City of Chester",
+              "attachment_number": 1
+            },
+            {
+              "recap_id": 157378881,
+              "pacer_url": "https://ecf.paed.uscourts.gov/doc1/153017877069?caseid=553542",
+              "description": "Certificate of Service for William J. Murphy",
+              "attachment_number": 2
+            }
+          ],
+          "url": "https://www.courtlistener.com/docket/14949775/2/pitney-v-city-of-chester/",
+          "recap_pdf_url": null,
+          "pacer_doc_id": "153017877067",
+          "description": "WAIVER OF SERVICE Returned Executed by KENARD PITNEY. CITY OF CHESTER waiver sent on 3/1/2019, answer due 4/30/2019; WILLIAM J. MURPHY, III waiver sent on 3/1/2019, answer due 4/30/2019. (Attachments: # 1 Certificate of Service for City of Chester, # 2 Certificate of Service for William J. Murphy)(GECKLE, PATRICK) (Entered: 04/17/2019)"
+        },
+        {
+          "row_number": 19,
+          "id": 3385866,
+          "entry_number": "27",
+          "date_filed": "2019-11-20T00:00:00-05:00",
+          "attachments": [
+            {
+              "recap_id": 157395914,
+              "pacer_url": "https://ecf.paed.uscourts.gov/doc1/153018390746?caseid=553542",
+              "description": "Proposed Order",
+              "attachment_number": 1
+            },
+            {
+              "recap_id": 157395955,
+              "pacer_url": "https://ecf.paed.uscourts.gov/doc1/153018390747?caseid=553542",
+              "description": "Exhibit 1",
+              "attachment_number": 2
+            },
+            {
+              "recap_id": 157395972,
+              "pacer_url": "https://ecf.paed.uscourts.gov/doc1/153018390748?caseid=553542",
+              "description": "Exhibit 2",
+              "attachment_number": 3
+            },
+            {
+              "recap_id": 157395989,
+              "pacer_url": "https://ecf.paed.uscourts.gov/doc1/153018390749?caseid=553542",
+              "description": "Exhibit 3",
+              "attachment_number": 4
+            },
+            {
+              "recap_id": 157396006,
+              "pacer_url": "https://ecf.paed.uscourts.gov/doc1/153018390750?caseid=553542",
+              "description": "Exhibit 4",
+              "attachment_number": 5
+            },
+            {
+              "recap_id": 157396023,
+              "pacer_url": "https://ecf.paed.uscourts.gov/doc1/153018390751?caseid=553542",
+              "description": "Exhibit 5",
+              "attachment_number": 6
+            },
+            {
+              "recap_id": 157396043,
+              "pacer_url": "https://ecf.paed.uscourts.gov/doc1/153018390752?caseid=553542",
+              "description": "Exhibit 6",
+              "attachment_number": 7
+            },
+            {
+              "recap_id": 157396062,
+              "pacer_url": "https://ecf.paed.uscourts.gov/doc1/153018390753?caseid=553542",
+              "description": "Exhibit 7",
+              "attachment_number": 8
+            },
+            {
+              "recap_id": 157396086,
+              "pacer_url": "https://ecf.paed.uscourts.gov/doc1/153018390754?caseid=553542",
+              "description": "Exhibit 8",
+              "attachment_number": 9
+            },
+            {
+              "recap_id": 157396105,
+              "pacer_url": "https://ecf.paed.uscourts.gov/doc1/153018390755?caseid=553542",
+              "description": "Exhibit 9",
+              "attachment_number": 10
+            },
+            {
+              "recap_id": 157396125,
+              "pacer_url": "https://ecf.paed.uscourts.gov/doc1/153018390756?caseid=553542",
+              "description": "Exhibit 10",
+              "attachment_number": 11
+            },
+            {
+              "recap_id": 157396143,
+              "pacer_url": "https://ecf.paed.uscourts.gov/doc1/153018390757?caseid=553542",
+              "description": "Certificate of Service",
+              "attachment_number": 12
+            }
+          ],
+          "url": "https://www.courtlistener.com/docket/14949775/27/pitney-v-city-of-chester/",
+          "recap_pdf_url": null,
+          "pacer_doc_id": "153018390745",
+          "description": "RESPONSE to Statement of Undisputed Material Facts re 19 MOTION for Summary Judgment filed by KENARD PITNEY. (Attachments: # 1 Proposed Order, # 2 Exhibit 1, # 3 Exhibit 2, # 4 Exhibit 3, # 5 Exhibit 4, # 6 Exhibit 5, # 7 Exhibit 6, # 8 Exhibit 7, # 9 Exhibit 8, # 10 Exhibit 9, # 11 Exhibit 10, # 12 Certificate of Service)(GECKLE, PATRICK) Modified on 11/21/2019 (lisad, ). (Entered: 11/20/2019)"
+        },
+        {
+          "row_number": 67,
+          "id": 3385910,
+          "entry_number": "70",
+          "date_filed": "2020-10-29T00:00:00-04:00",
+          "attachments": [],
+          "url": "https://www.courtlistener.com/docket/14949775/70/pitney-v-city-of-chester/",
+          "recap_pdf_url": null,
+          "pacer_doc_id": "153019130862",
+          "description": "Pl. Memo re New Strip Search Policy. (FELDMAN, ALAN) Modified on 10/30/2020 (lisad, ). (Entered: 10/29/2020)"
+        },
+        {
+          "row_number": 82,
+          "id": 3385839,
+          "entry_number": null,
+          "date_filed": "2019-02-25T00:00:00-05:00",
+          "attachments": [],
+          "url": "https://www.courtlistener.com",
+          "recap_pdf_url": null,
+          "pacer_doc_id": null,
+          "description": "Summons Issued as to CITY OF CHESTER, WILLIAM J. MURPHY, III. Two Forwarded To: Counsel on 2/25/19 (jwl, )"
+        },
+        {
+          "row_number": 6,
+          "id": 3385854,
+          "entry_number": "15",
+          "date_filed": "2019-10-11T00:00:00-04:00",
+          "attachments": [],
+          "url": "https://www.courtlistener.com/docket/14949775/15/pitney-v-city-of-chester/",
+          "recap_pdf_url": null,
+          "pacer_doc_id": "153018298759",
+          "description": "MOTION for Extension of Time to File Response/Reply as to 14 MOTION to Amend/Correct FOR LEAVE TO AMEND THECOMPLAINT filed by CITY OF CHESTER.Certificate of Service.(CUMMINS, NICHOLAS) (Entered: 10/11/2019)"
+        },
+        {
+          "row_number": 72,
+          "id": 3385915,
+          "entry_number": "75",
+          "date_filed": "2021-02-03T00:00:00-05:00",
+          "attachments": [],
+          "url": "https://www.courtlistener.com/docket/14949775/75/pitney-v-city-of-chester/",
+          "recap_pdf_url": null,
+          "pacer_doc_id": "153019350111",
+          "description": "ORDERED AS FOLLOWS: THE TERMS OF THE PARTIES SETTLEMENT AGREEMENT ARE HEREBY CONDITIONALLY APPROVED, SUBJECT TO FURTHER CONSIDERATION THEREOF AT THE FINAL APPROVAL HEARING PROVIDED FOR BELOW. I FIND THAT THE SETTLEMENT IS WITHIN THE RANGE OF REASONABLENESS AND THAT NOTICE OF THE PROPOSED SETTLEMENT SHOULD BE GIVEN AS PROVIDED IN THIS ORDER. A HEARING ON FINAL SETTLEMENT APPROVAL (THE FINAL APPROVAL HEARING) IS HEREBY SCHEDULED TO BE HELD BEFORE THIS COURT, VIRTUALLY, ON MONDAY,MAY 17, 2021 AT 1 PM, TO CONSIDER THE FAIRNESS, THE REASONABLENESS, AND ADEQUACY OF THE PROPOSED SETTLEMENT, THE DISMISSAL WITH PREJUDICE OF THIS CLASS ACTION WITH RESPECT TO THE RELEASED PARTIES THAT IS THE DEFENDANT HEREIN, AND THE ENTRY OF FINAL JUDGMENT IN THIS CLASS ACTION.. SIGNED BY HONORABLE PAUL S. DIAMOND ON 2/3/2021. 2/4/2021 ENTERED AND COPIES E-MAILED.(sg, ) (Entered: 02/04/2021)"
+        },
+        {
+          "row_number": 28,
+          "id": 3385875,
+          "entry_number": "35",
+          "date_filed": "2020-05-22T00:00:00-04:00",
+          "attachments": [],
+          "url": "https://www.courtlistener.com/docket/14949775/35/pitney-v-city-of-chester/",
+          "recap_pdf_url": null,
+          "pacer_doc_id": "153018777258",
+          "description": "CORRESPONDENCE FROM NICHOLAS A. CUMMINS, DATED MAY 22, 2020, by CITY OF CHESTER (rt) (Entered: 05/22/2020)"
+        },
+        {
+          "row_number": 53,
+          "id": 3385898,
+          "entry_number": "58",
+          "date_filed": "2020-09-03T00:00:00-04:00",
+          "attachments": [],
+          "url": "https://www.courtlistener.com/docket/14949775/58/pitney-v-city-of-chester/",
+          "recap_pdf_url": null,
+          "pacer_doc_id": "153019001604",
+          "description": "ORDERED THAT THE PARTIES JOINTLY CONTACT JUDGE RICE'S CHAMBERS FORTHWITH TO SCHEDULE A SETTLEMENT CONFERENCE. SIGNED BY HONORABLE PAUL S. DIAMOND ON 9/3/2020. 9/3/2020 ENTERED AND COPIES E-MAILED.(sg, ) (Entered: 09/03/2020)"
+        },
+        {
+          "row_number": 7,
+          "id": 3385855,
+          "entry_number": "16",
+          "date_filed": "2019-10-11T00:00:00-04:00",
+          "attachments": [],
+          "url": "https://www.courtlistener.com/docket/14949775/16/pitney-v-city-of-chester/",
+          "recap_pdf_url": null,
+          "pacer_doc_id": "153018301462",
+          "description": "ORDER THAT THIS CASE IS REASSIGNED FROM HONORABLE ROBERT F. KELLY TO HONORABLE PAUL S. DIAMOND FOR ALL FURTHER PROCEEDINGS. SIGNED BY CLERK OF COURT KATE BARKMAN, CLERK OF COURT ON 10/11/2019. 10/15/2019 ENTERED AND COPIES E-MAILED.(nd, ) (Entered: 10/15/2019)"
+        },
+        {
+          "row_number": 20,
+          "id": 3385867,
+          "entry_number": "28",
+          "date_filed": "2019-11-22T00:00:00-05:00",
+          "attachments": [],
+          "url": "https://www.courtlistener.com/docket/14949775/28/pitney-v-city-of-chester/",
+          "recap_pdf_url": null,
+          "pacer_doc_id": null,
+          "description": "Plaintiff's Exhibit 1 (surveillance video) for Plaintiff's Response to Defendant's Motion to Summary Judgment. (Disk attached in envelope) (mbh, ) (Entered: 11/25/2019)"
+        },
+        {
+          "row_number": 54,
+          "id": 3385899,
+          "entry_number": "59",
+          "date_filed": "2020-09-10T00:00:00-04:00",
+          "attachments": [],
+          "url": "https://www.courtlistener.com/docket/14949775/59/pitney-v-city-of-chester/",
+          "recap_pdf_url": null,
+          "pacer_doc_id": "153019012867",
+          "description": "NOTICE of Hearing: SETTLEMENT CONFERENCE SET FOR SEPTEMBER 30, 2020 AT 9:30 AM BEFORE MAGISTRATE JUDGE TIMOTHY R. RICE VIA TELECONFERENCE.(dc) (Entered: 09/10/2020)"
+        },
+        {
+          "row_number": 49,
+          "id": 3385894,
+          "entry_number": "54",
+          "date_filed": "2020-07-22T00:00:00-04:00",
+          "attachments": [],
+          "url": "https://www.courtlistener.com/docket/14949775/54/pitney-v-city-of-chester/",
+          "recap_pdf_url": "https://www.courtlistener.com/recap/gov.uscourts.paed.553542/gov.uscourts.paed.553542.54.0.pdf",
+          "pacer_doc_id": "153018903166",
+          "description": "ORDER THAT PLAINTIFFS MOTION TO EXTEND SCHEDULING ORDER DEADLINES IS GRANTED. PARTIES SHALL COMPLETE ALL CLASS DISCOVERY BY 9/2/2020. PLAINTIFF SHALL FILE HIS CLASS CERTIFICATION MOTION BY 9/16/2020. A HEARING ON CLASS CERTIFICATION WILL BE HELD ON THURSDAY 1O/15/2020 AT 2:00 PM IN COURTROOM 14A. SIGNED BY HONORABLE PAUL S. DIAMOND ON 7/22/2020.7/22/2020 ENTERED AND COPIES E-MAILED.(sg, ) (Entered: 07/22/2020)"
+        },
+        {
+          "row_number": 58,
+          "id": 3385902,
+          "entry_number": "62",
+          "date_filed": "2020-09-22T00:00:00-04:00",
+          "attachments": [],
+          "url": "https://www.courtlistener.com/docket/14949775/62/pitney-v-city-of-chester/",
+          "recap_pdf_url": null,
+          "pacer_doc_id": "153019040315",
+          "description": "Minute Entry for proceedings held before MAGISTRATE JUDGE TIMOTHY R. RICE Pretrial Conference held on 9/22/2020. (sg, ) (Entered: 09/22/2020)"
+        },
+        {
+          "row_number": 61,
+          "id": 3385905,
+          "entry_number": "65",
+          "date_filed": "2020-10-01T00:00:00-04:00",
+          "attachments": [],
+          "url": "https://www.courtlistener.com/docket/14949775/65/pitney-v-city-of-chester/",
+          "recap_pdf_url": null,
+          "pacer_doc_id": "153019064708",
+          "description": "Minute Entry for proceedings held before MAGISTRATE JUDGE TIMOTHY R. RICE Settlement Conference held on 9/30/20. (amas, ) (Entered: 10/01/2020)"
+        },
+        {
+          "row_number": 79,
+          "id": 3765019,
+          "entry_number": "81",
+          "date_filed": "2021-06-30T00:00:00-04:00",
+          "attachments": [],
+          "url": "https://www.courtlistener.com/docket/14949775/81/pitney-v-city-of-chester/",
+          "recap_pdf_url": null,
+          "pacer_doc_id": "153019699563",
+          "description": "ORDER UPON CONSIDERATION OF PLAINTIFF'S LETTER (DOC. NO. 80 ), INFORMING ME THAT DEFENDANT HAS NOT CONFIRMED WHEN PAYMENT OF THE JUDGMENT WILL OCCUR, IT IS HEREBY ORDERED THAT DEFENDANT SHALL RESPOND TO THE LETTER NO LATER THAN TOMORROW, JULY 1, 2021 AT NOON. FAILURE TO COMPLY WITH THIS ORDER WILL RESULT IN THE IMPOSITION OF SANCTIONS.SIGNED BY HONORABLE PAUL S. DIAMOND ON 6/30/2021. 6/30/2021 ENTERED AND COPIES E-MAILED.(rt) (Entered: 06/30/2021)"
+        },
+        {
+          "row_number": 26,
+          "id": 3385873,
+          "entry_number": "33",
+          "date_filed": "2020-05-20T00:00:00-04:00",
+          "attachments": [],
+          "url": "https://www.courtlistener.com/docket/14949775/33/pitney-v-city-of-chester/",
+          "recap_pdf_url": "https://www.courtlistener.com/recap/gov.uscourts.paed.553542/gov.uscourts.paed.553542.33.0.pdf",
+          "pacer_doc_id": "153018772776",
+          "description": "MEMORANDUM AND/OR OPINION. SIGNED BY HONORABLE PAUL S. DIAMOND ON 5/20/2020. 5/21/2020 ENTERED AND COPIES E-MAILED.(sg, ) (Entered: 05/21/2020)"
+        },
+        {
+          "row_number": 35,
+          "id": 3385881,
+          "entry_number": "41",
+          "date_filed": "2020-06-04T00:00:00-04:00",
+          "attachments": [],
+          "url": "https://www.courtlistener.com/docket/14949775/41/pitney-v-city-of-chester/",
+          "recap_pdf_url": null,
+          "pacer_doc_id": "153018799554",
+          "description": "NOTICE of Appearance by DAVID J. MACMAIN on behalf of CITY OF CHESTER with Certificate of Service(MACMAIN, DAVID) (Entered: 06/04/2020)"
+        },
+        {
+          "row_number": 39,
+          "id": 3385885,
+          "entry_number": "45",
+          "date_filed": "2020-06-09T00:00:00-04:00",
+          "attachments": [],
+          "url": "https://www.courtlistener.com/docket/14949775/45/pitney-v-city-of-chester/",
+          "recap_pdf_url": null,
+          "pacer_doc_id": "153018808777",
+          "description": "ORDER THAT DEFENDANT'S MOTION TO AMEND ORDER TO CERTIFY APPEAL (DOC. 39 ) IS DENIED. SIGNED BY HONORABLE PAUL S. DIAMOND ON 6/9/2020.6/9/2020 ENTERED AND COPIES E-MAILED.(sg, ) (Entered: 06/09/2020)"
+        },
+        {
+          "row_number": 43,
+          "id": 3385889,
+          "entry_number": "49",
+          "date_filed": "2020-06-29T00:00:00-04:00",
+          "attachments": [],
+          "url": "https://www.courtlistener.com/docket/14949775/49/pitney-v-city-of-chester/",
+          "recap_pdf_url": null,
+          "pacer_doc_id": "153018852103",
+          "description": "MOTION for Extension of Time to Complete Discovery filed by CITY OF CHESTER.Certificate of Service.(LEINHAUSER, BRIAN) (Entered: 06/29/2020)"
+        },
+        {
+          "row_number": 50,
+          "id": 3385895,
+          "entry_number": "55",
+          "date_filed": "2020-08-11T00:00:00-04:00",
+          "attachments": [],
+          "url": "https://www.courtlistener.com/docket/14949775/55/pitney-v-city-of-chester/",
+          "recap_pdf_url": null,
+          "pacer_doc_id": "153018945446",
+          "description": "Statement from All Counsel regarding Class Discovery and Mediation by CITY OF CHESTER. (LEINHAUSER, BRIAN) (Entered: 08/11/2020)"
+        },
+        {
+          "row_number": 63,
+          "id": 3385907,
+          "entry_number": "67",
+          "date_filed": "2020-10-15T00:00:00-04:00",
+          "attachments": [],
+          "url": "https://www.courtlistener.com/docket/14949775/67/pitney-v-city-of-chester/",
+          "recap_pdf_url": null,
+          "pacer_doc_id": "153019099101",
+          "description": "Minute Entry for proceedings held before HONORABLE PAUL S. DIAMOND Status Conference held on 10/15/2020. (sg, ) (Entered: 10/15/2020)"
+        },
+        {
+          "row_number": 3,
+          "id": 3385851,
+          "entry_number": "12",
+          "date_filed": "2019-10-03T00:00:00-04:00",
+          "attachments": [],
+          "url": "https://www.courtlistener.com/docket/14949775/12/pitney-v-city-of-chester/",
+          "recap_pdf_url": null,
+          "pacer_doc_id": "153018279586",
+          "description": "NOTICE of Appearance by EDWARD S. GOLDIS on behalf of KENARD PITNEY (GOLDIS, EDWARD) (Entered: 10/03/2019)"
+        },
+        {
+          "row_number": 45,
+          "id": 3385890,
+          "entry_number": "50",
+          "date_filed": "2020-06-29T00:00:00-04:00",
+          "attachments": [],
+          "url": "https://www.courtlistener.com/docket/14949775/50/pitney-v-city-of-chester/",
+          "recap_pdf_url": "https://www.courtlistener.com/recap/gov.uscourts.paed.553542/gov.uscourts.paed.553542.50.0.pdf",
+          "pacer_doc_id": "153018852519",
+          "description": "RESPONSE to Motion re 48 MOTION to Compel Response to RFP filed by CITY OF CHESTER. (LEINHAUSER, BRIAN) (Entered: 06/29/2020)"
+        },
+        {
+          "row_number": 0,
+          "id": 3385838,
+          "entry_number": "1",
+          "date_filed": "2019-02-25T00:00:00-05:00",
+          "attachments": [],
+          "url": "https://www.courtlistener.com/docket/14949775/1/pitney-v-city-of-chester/",
+          "recap_pdf_url": null,
+          "pacer_doc_id": "153017752187",
+          "description": "COMPLAINT against CITY OF CHESTER, JOHN DOE 1, JOHN DOE 2, WILLIAM J. MURPHY, III ( Filing fee $ 400 receipt number 0313-13371963.), filed by KENARD PITNEY. (Attachments: # 1 Civil Cover Sheet, # 2 Designation Form, # 3 Case Management Track Form)(GECKLE, PATRICK) (Entered: 02/25/2019)"
+        },
+        {
+          "row_number": 60,
+          "id": 3385904,
+          "entry_number": "64",
+          "date_filed": "2020-09-30T00:00:00-04:00",
+          "attachments": [],
+          "url": "https://www.courtlistener.com/docket/14949775/64/pitney-v-city-of-chester/",
+          "recap_pdf_url": null,
+          "pacer_doc_id": "153019063428",
+          "description": "RESPONSE in Opposition re 61 MOTION to Certify Class filed by CITY OF CHESTER. (LEINHAUSER, BRIAN) (Entered: 09/30/2020)"
+        },
+        {
+          "row_number": 69,
+          "id": 3385912,
+          "entry_number": "72",
+          "date_filed": "2021-01-06T00:00:00-05:00",
+          "attachments": [],
+          "url": "https://www.courtlistener.com/docket/14949775/72/pitney-v-city-of-chester/",
+          "recap_pdf_url": null,
+          "pacer_doc_id": "153019285155",
+          "description": "Statement regarding update to proposed matter timeline by CITY OF CHESTER. (LEINHAUSER, BRIAN) (Entered: 01/06/2021)"
+        },
+        {
+          "row_number": 18,
+          "id": 3385865,
+          "entry_number": "26",
+          "date_filed": "2019-11-07T00:00:00-05:00",
+          "attachments": [],
+          "url": "https://www.courtlistener.com/docket/14949775/26/pitney-v-city-of-chester/",
+          "recap_pdf_url": null,
+          "pacer_doc_id": "153018362056",
+          "description": "ORDER UPON CONSIDERATION OF PLAINTIFF'S MOTION FOR EXTENSION OF TIME (DOC. NO. 25 ) TO RESPOND TO DEFENDANT'S MOTION FOR SUMMARY JUDGMENT (DOC. NO. 19 ), IT IS HEREBY ORDERED THAT PLAINTIFF'S MOTION IS GRANTED. PLAINTIFF SHALL RESPOND TO DEFENDANT'S MOTION FOR SUMMARY JUDGMENT BY NOVEMBER 20, 2019 AT 5:00 P.M.SIGNED BY HONORABLE PAUL S. DIAMOND ON 11/7/2019. 11/7/2019 ENTERED AND COPIES E-MAILED.(rt) (Entered: 11/07/2019)"
+        },
+        {
+          "row_number": 77,
+          "id": 3385847,
+          "entry_number": "8",
+          "date_filed": "2019-05-03T00:00:00-04:00",
+          "attachments": [],
+          "url": "https://www.courtlistener.com/docket/14949775/8/pitney-v-city-of-chester/",
+          "recap_pdf_url": null,
+          "pacer_doc_id": "153017918330",
+          "description": "SCHEDULING ORDER: DISCOVERY DUE BY 9/2/2019. DISPOSITIVE MOTIONS DUE BY 9/16/2019. ETC.. SIGNED BY HONORABLE ROBERT F. KELLY ON 5/3/2019. 5/6/2019 ENTERED AND COPIES E-MAILED.(sg, ) (Entered: 05/06/2019)"
+        },
+        {
+          "row_number": 4,
+          "id": 3385852,
+          "entry_number": "13",
+          "date_filed": "2019-10-03T00:00:00-04:00",
+          "attachments": [],
+          "url": "https://www.courtlistener.com/docket/14949775/13/pitney-v-city-of-chester/",
+          "recap_pdf_url": null,
+          "pacer_doc_id": "153018279609",
+          "description": "NOTICE of Appearance by ALAN FELDMAN on behalf of KENARD PITNEY (FELDMAN, ALAN) (Entered: 10/03/2019)"
+        },
+        {
+          "row_number": 70,
+          "id": 3385913,
+          "entry_number": "73",
+          "date_filed": "2021-01-13T00:00:00-05:00",
+          "attachments": [],
+          "url": "https://www.courtlistener.com/docket/14949775/73/pitney-v-city-of-chester/",
+          "recap_pdf_url": null,
+          "pacer_doc_id": "153019299952",
+          "description": "Statement regarding additional update to proposed matter timeline by CITY OF CHESTER. (LEINHAUSER, BRIAN) (Entered: 01/13/2021)"
+        },
+        {
+          "row_number": 52,
+          "id": 3385897,
+          "entry_number": "57",
+          "date_filed": "2020-09-03T00:00:00-04:00",
+          "attachments": [],
+          "url": "https://www.courtlistener.com/docket/14949775/57/pitney-v-city-of-chester/",
+          "recap_pdf_url": null,
+          "pacer_doc_id": "153019000610",
+          "description": "Letter to Honorable Paul S. Diamond by KENARD PITNEY.. (FELDMAN, ALAN) Modified on 9/8/2020 (lisad, ). (Entered: 09/03/2020)"
+        },
+        {
+          "row_number": 65,
+          "id": 3385909,
+          "entry_number": "69",
+          "date_filed": "2020-10-20T00:00:00-04:00",
+          "attachments": [],
+          "url": "https://www.courtlistener.com/docket/14949775/69/pitney-v-city-of-chester/",
+          "recap_pdf_url": null,
+          "pacer_doc_id": "153019109568",
+          "description": "SCHEDULING ORDER: THAT UPON CONSIDERATION OF THE PARTIES JOINT LETTER REGARDING UPCOMING EVENTS (DOC. NO. 68) IT IS ORDERED THAT THE FOLLOWING DEADLINES ARE APPROVED FOR THE PERIOD BETWEEN TODAY AND DECEMBER 31ST, 2020AS OUTLINED HEREIN. SIGNED BY HONORABLE PAUL S. DIAMOND ON 10/20/2020. 10/20/2020 ENTERED AND COPIES E-MAILED.(sg, ) (Entered: 10/20/2020)"
+        },
+        {
+          "row_number": 40,
+          "id": 3385886,
+          "entry_number": "46",
+          "date_filed": "2020-06-09T00:00:00-04:00",
+          "attachments": [],
+          "url": "https://www.courtlistener.com/docket/14949775/46/pitney-v-city-of-chester/",
+          "recap_pdf_url": null,
+          "pacer_doc_id": "153018808916",
+          "description": "ORDERED THAT THE PARTIES' PARTIAL STIPULATION TO DISMISS (DOC. 44 ) IS APPROVED AND ADOPTED AS OUTLINED HEREIN. SIGNED BY HONORABLE PAUL S. DIAMOND ON 6/9/2020. 6/9/2020 ENTERED AND COPIES E-MAILED.(sg, ) (Entered: 06/09/2020)"
+        },
+        {
+          "row_number": 33,
+          "id": 3385843,
+          "entry_number": "4",
+          "date_filed": "2019-04-30T00:00:00-04:00",
+          "attachments": [],
+          "url": "https://www.courtlistener.com/docket/14949775/4/pitney-v-city-of-chester/",
+          "recap_pdf_url": null,
+          "pacer_doc_id": "153017907980",
+          "description": "ANSWER to Complaint with Affirmative Defenses by CITY OF CHESTER, WILLIAM J. MURPHY, III.(CUMMINS, NICHOLAS) (Entered: 04/30/2019)"
+        },
+        {
+          "row_number": 2,
+          "id": 3385850,
+          "entry_number": "11",
+          "date_filed": "2019-08-12T00:00:00-04:00",
+          "attachments": [],
+          "url": "https://www.courtlistener.com/docket/14949775/11/pitney-v-city-of-chester/",
+          "recap_pdf_url": null,
+          "pacer_doc_id": "153018155535",
+          "description": "ORDERED THAT THE SCHEDULING ORDER IS AMENDED TO PROVIDE AS FOLLOWS, ALL DISCOVERY DUE BY 10/16/2019., DISPOSITIVE MOTIONS DUE BY 10/30/2019. ETC.. SIGNED BY HONORABLE ROBERT F. KELLY ON 8/12/2019. 8/13/2019 ENTERED AND COPIES E-MAILED.(sg, ) (Entered: 08/13/2019)"
+        },
+        {
+          "row_number": 9,
+          "id": 3385857,
+          "entry_number": "18",
+          "date_filed": "2019-10-15T00:00:00-04:00",
+          "attachments": [],
+          "url": "https://www.courtlistener.com/docket/14949775/18/pitney-v-city-of-chester/",
+          "recap_pdf_url": null,
+          "pacer_doc_id": "153018303653",
+          "description": "STANDING ORDER OUTLINED HEREIN.SIGNED BY HONORABLE PAUL S. DIAMOND ON 10/15/2019. 10/15/2019 ENTERED AND COPIES E-MAILED.(rt) (Entered: 10/15/2019)"
+        },
+        {
+          "row_number": 14,
+          "id": 3385861,
+          "entry_number": "22",
+          "date_filed": "2019-11-01T00:00:00-04:00",
+          "attachments": [],
+          "url": "https://www.courtlistener.com/docket/14949775/22/pitney-v-city-of-chester/",
+          "recap_pdf_url": null,
+          "pacer_doc_id": "153018347356",
+          "description": "ORDER UPON CONSIDERATION OF DEFENDANT'S MOTION FOR LEAVE TO EXCEED PAGE LIMIT (DOC. NO. 21 ), IT IS HEREBY ORDERED THAT DEFENDANT'S MOTION IS GRANTED.SIGNED BY HONORABLE PAUL S. DIAMOND ON 11/1/2019. 11/1/2019 ENTERED AND COPIES E-MAILED.(rt) (Entered: 11/01/2019)"
+        },
+        {
+          "row_number": 23,
+          "id": 3385870,
+          "entry_number": "30",
+          "date_filed": "2019-11-25T00:00:00-05:00",
+          "attachments": [],
+          "url": "https://www.courtlistener.com/docket/14949775/30/pitney-v-city-of-chester/",
+          "recap_pdf_url": null,
+          "pacer_doc_id": "153018402021",
+          "description": "ORDERED THAT PLAINTIFF'S REQUEST IS GRANTED. PLAINTIFF SHALL FILE ITS CORRECTED BRIEF FORTHWITH. SIGNED BY HONORABLE PAUL S. DIAMOND ON 11/25/2019. 11/26/2019 ENTERED AND COPIES E-MAILED.(sg, ) (Entered: 11/26/2019)"
+        },
+        {
+          "row_number": 48,
+          "id": 3385893,
+          "entry_number": "53",
+          "date_filed": "2020-07-21T00:00:00-04:00",
+          "attachments": [],
+          "url": "https://www.courtlistener.com/docket/14949775/53/pitney-v-city-of-chester/",
+          "recap_pdf_url": null,
+          "pacer_doc_id": "153018898232",
+          "description": "MOTION Extend Scheduling Order Deadlines filed by KENARD PITNEY.Certificate of Service.(FELDMAN, ALAN) (Entered: 07/21/2020)"
+        },
+        {
+          "row_number": 64,
+          "id": 3385908,
+          "entry_number": "68",
+          "date_filed": "2020-10-19T00:00:00-04:00",
+          "attachments": [],
+          "url": "https://www.courtlistener.com/docket/14949775/68/pitney-v-city-of-chester/",
+          "recap_pdf_url": null,
+          "pacer_doc_id": "153019106314",
+          "description": "Statement regarding Upcoming Events by CITY OF CHESTER. (LEINHAUSER, BRIAN) (Entered: 10/19/2020)"
+        },
+        {
+          "row_number": 68,
+          "id": 3385911,
+          "entry_number": "71",
+          "date_filed": "2020-10-29T00:00:00-04:00",
+          "attachments": [],
+          "url": "https://www.courtlistener.com/docket/14949775/71/pitney-v-city-of-chester/",
+          "recap_pdf_url": null,
+          "pacer_doc_id": "153019133308",
+          "description": "Memorandum Regarding New Strip Search Policy for Implementation. (LEINHAUSER, BRIAN) Modified on 10/30/2020 (lisad, ). (Entered: 10/29/2020)"
+        },
+        {
+          "row_number": 55,
+          "id": 3385845,
+          "entry_number": "6",
+          "date_filed": "2019-05-01T00:00:00-04:00",
+          "attachments": [],
+          "url": "https://www.courtlistener.com/docket/14949775/6/pitney-v-city-of-chester/",
+          "recap_pdf_url": null,
+          "pacer_doc_id": "153017909409",
+          "description": "STIPULATION AND ORDER THAT PLAINTIFF'S MONELL CLAIM AGAINST THE CITY OF CHESTER IS LIMITED ONLY TO THE ALLEGED POLICIES AND CUSTOMS OF THE CITY OF CHESTER WITH RESPECT TO THE STRIP SEARCHING OF DETAINEEDS. ALL OTHER GROUNDS FOR LIABILITY AGAINST THE CITY OF CHESTER ARE DISMISSED WITH PREJUDICE. PLAINTIFF'S CLAIM FOR PUNITIVIE DAMAGES AGAINST THE CITY OF CHESTER IS DISMISSED WITH PREJUDICE. PLAINTIFF'S CLAIMS FOR MALICIOUS PROSECUTION AND PENNSYLVANIA STATE LAW AGAINST ALL INDIVIDUAL DEFENDANTS ARE DISMISSED WITH PREJUDICE. SIGNED BY HONORABLE ROBERT F. KELLY ON 5/1/2019. 5/1/2019 ENTERED AND COPIES E-MAILED.(sg, ) (Entered: 05/01/2019)"
+        },
+        {
+          "row_number": 75,
+          "id": 3385918,
+          "entry_number": "78",
+          "date_filed": "2021-05-19T00:00:00-04:00",
+          "attachments": [],
+          "url": "https://www.courtlistener.com/docket/14949775/78/pitney-v-city-of-chester/",
+          "recap_pdf_url": null,
+          "pacer_doc_id": "153019606554",
+          "description": "ORDER I WILL APPROVE THE SETTLEMENT, WHICH IS FAIR, ADEQUATE, AND REASONABLE. I WILL ALSO APPROVE CLASS COUNSELS REQUEST FOR ATTORNEYS FEES, EXPENSES, AND INCENTIVE PAYMENTS. AN APPROPRIATE JUDGMENT FOLLOWS. SIGNED BY HONORABLE PAUL S. DIAMOND ON 5/18/2021. 5/19/2021 ENTERED AND COPIES E-MAILED.(sg, ) (Entered: 05/19/2021)"
+        },
+        {
+          "row_number": 41,
+          "id": 3385887,
+          "entry_number": "47",
+          "date_filed": "2020-06-09T00:00:00-04:00",
+          "attachments": [],
+          "url": "https://www.courtlistener.com/docket/14949775/47/pitney-v-city-of-chester/",
+          "recap_pdf_url": null,
+          "pacer_doc_id": "153018809125",
+          "description": "ANSWER to 37 Amended Complaint by CITY OF CHESTER.(CUMMINS, NICHOLAS) (Entered: 06/09/2020)"
+        },
+        {
+          "row_number": 51,
+          "id": 3385896,
+          "entry_number": "56",
+          "date_filed": "2020-08-11T00:00:00-04:00",
+          "attachments": [],
+          "url": "https://www.courtlistener.com/docket/14949775/56/pitney-v-city-of-chester/",
+          "recap_pdf_url": null,
+          "pacer_doc_id": "153018946084",
+          "description": "ORDER THAT DEFENDANT'S LETTER REQUEST (DOC. 55 ) TO EXTEND THE CLASS DISCOVERY DEADLINES IS DENIED. SIGNED BY HONORABLE PAUL S. DIAMOND ON 8/11/2020. 8/11/2020 ENTERED AND COPIES E-MAILED.(sg, ) (Entered: 08/11/2020)"
+        },
+        {
+          "row_number": 78,
+          "id": 3765018,
+          "entry_number": "80",
+          "date_filed": "2021-06-30T00:00:00-04:00",
+          "attachments": [],
+          "url": "https://www.courtlistener.com/docket/14949775/80/pitney-v-city-of-chester/",
+          "recap_pdf_url": null,
+          "pacer_doc_id": "153019699494",
+          "description": "CORRESPONDENCE FROM PATRICK G. GECKLE, ESQ., DATED 6/30/2021.(rt) (Entered: 06/30/2021)"
+        }
+      ],
+      "docket_case_type": "cv",
+      "docket_year": 2019,
+      "docket_filing_number": 799,
+      "is_main_docket": true,
+      "court": "Eastern District of Pennsylvania",
+      "state": "Pennsylvania",
+      "docket_office_number": "2",
+      "docket_number_manual": "2:19-cv-00799-PD",
+      "scales_html": "https://clearinghouse-umich-production.s3.amazonaws.com/media/docket-html/paed--2-19-cv-00799.html",
+      "recap_link": "https://www.courtlistener.com/docket/14949775/pitney-v-city-of-chester/",
+      "is_active": true
+    },
+    "name": "Pitney v. City of Chester",
+    "never_filed": false,
+    "non_docket_case_number": "",
+    "non_docket_case_number_type": null,
+    "non_docket_case_number_type_other": "",
+    "order_end_year": null,
+    "order_start_year": 2021,
+    "permanent_injunction": true,
+    "plaintiff_description": "A man who was arrested for a minor offense, subjected to a strip search without probable cause, and ultimately not charged with any crime.",
+    "plaintiff_type": [
+      {
+        "value": "Private Plaintiff"
+      }
+    ],
+    "prevailing_party": "Plaintiff",
+    "pro_se_status": "No",
+    "public_interest_lawyer": "No",
+    "related_cases": [],
+    "relief_natures": [
+      "Injunction / Injunctive-like Settlement",
+      "Attorneys fees",
+      "Damages"
+    ],
+    "relief_nature_other": "",
+    "relief_sources": [
+      "Settlement"
+    ],
+    "settlement_agreement": [
+      "Court Approved Settlement or Consent Decree"
+    ],
+    "settlement_judgment_date": "2021-05-19",
+    "settlement_judgment_year": 2021,
+    "special_collections": [
+      "Strip Search Cases",
+      "Multi-LexSum (in sample)"
+    ],
+    "special_case_type": [],
+    "state": "Pennsylvania",
+    "summary": "<p>The plaintiff in this case was strip-searched after being arrested for a minor offense. He was not suspected of possessing drugs or weapons, and he was ultimately not charged with any crime, but the City of Chester's policy allowed police to conduct strip searches on anyone they arrested. In this lawsuit, filed by private counsel on February 25, 2019, in the U.S. District Court for the Eastern District of Pennsylvania, the plaintiff named the City of Chester and three police officers as defendants. He alleged that under 42 U.S.C. &sect;1983 the city had violated his Fourth and Fourteenth Amendment rights, as well as his rights under Pennsylvania law. He sought compensatory damages, punitive damages, and attorney&rsquo;s fees and costs. The case was assigned to Judge Robert F. Kelly.</p>\r\n<p>On May 1, 2019, the plaintiff dismissed the majority of the claims in his complaint, stipulating that his Monell claim against the city would be limited to its policy and custom of strip searching detainees, and dismissing all other grounds for liability against the city (with prejudice), including his claim for punitive damages, his claim of malicious prosecution, and his state law claims. Three months later on August 1, he stipulated to the dismissal of one of the police officer defendants.</p>\r\n<p>The case was reassigned to Judge Paul S. Diamond in October 2019.</p>\r\n<p>The following year, on May 20, 2020, Judge Diamond denied the city&rsquo;s motion for summary judgment. The court held that it \"cannot conclude as a matter of law that the City&rsquo;s Policy comports with the Fourth Amendment.\" 461 F. Supp. 3d 173.</p>\r\n<p>On May 27, 2020, the plaintiff filed an amended complaint, seeking class certification of a class of individuals who were, like him, arrested on minor charges and strip-searched in spite of the police having no particularized suspicion that they were carrying drugs, weapons, or other contraband. The putative class included all such people arrested from March 1, 1995 until such date as injunctive relief would be granted. This expanded complaint sought class-wide compensatory and punitive damages, a declaration that the city had violated the constitutional and statutory rights of the class members, and preliminary and permanent injunctive relief. The proposed injunction would require the city to &ldquo;establish appropriate policies and procedures for when strip-searches may be lawfully carried out,&rdquo; and would prohibit the city from conducting strip searches in minor arrests without a particularized suspicion that the suspect was concealing drugs, weapons, or other contraband. The complaint also sought attorney&rsquo;s fees and costs under 42 U.S.C. &sect;1988.</p>\r\n<p>The plaintiff moved to certify the class on September 16, 2020. While that motion was pending, the parties engaged in settlement negotiations and reached an agreement on January 27, 2021. The City agreed to revise its strip search policies and establish a settlement fund to pay out members of the class. The city also agreed to pay $25,000 to the named plaintiff, $275,000 in attorneys&rsquo; fees, administrative fees for overseeing the settlement, and $100-$1000 to each additional member of the class depending on the facts of their case. Judge Diamond conditionally approved the settlement on February 3, 2021, and granted final approval and class certification on May 19, 2021. The court retained jurisdiction to oversee the settlement, but no significant action has since been taken.&nbsp;</p>",
+    "summary_published_date": "2023-06-04T15:28:44.893727-04:00",
+    "summary_short": "This is a class action lawsuit about Chester, Pennsylvania’s police policy allowing officers to strip-search anyone arrested, regardless of whether there is a suspicion that the arrestee is concealing drugs or weapons.  Alleging that the city’s policy was a violation of his rights under Pennsylvania law and the United States Constitution, the plaintiff filed this suit as an individual on February 25, 2019 in the U.S. District Court for the Eastern District of Pennsylvania.  In May 2020, he expanded his complaint to seek class certification for all people similarly arrested from 1995 onward. The City ultimately settled in January 2021 and agreed to revise its policies and pay $25,000 to the named plaintiff, $275,000 in attorneys’ fees, administrative fees for overseeing the settlement, and $100-$1000 to each additional member of the class. Since the court approved the settlement and class certification, no additional action has been taken in this case.",
+    "summary_tiny": "Plaintiff prevails in strip search case against @ChesterPolicePA. City pays more than $300,000.",
+    "terminating_date": null,
+    "clearinghouse_link": "clearinghouse.net/case/17571",
+    "is_active": true,
+    "case_documents_url": "https://clearinghouse.net/api/v2/documents/?case=17571",
+    "case_dockets_url": "https://clearinghouse.net/api/v2/dockets/?case=17571",
+    "case_resources_url": "https://clearinghouse.net/api/v2/resources/?case=17571"
+  },
+  "documents": [
+    {
+      "date": null,
+      "date_is_estimate": false,
+      "date_not_available": false,
+      "description": null,
+      "document_source": null,
+      "document_status": null,
+      "document_type": null,
+      "order_type": null,
+      "citation_paren": null,
+      "cite_1_page": null,
+      "cite_1_reporter": null,
+      "cite_1_vol": null,
+      "cite_2_page": null,
+      "cite_2_reporter": null,
+      "cite_2_vol": null,
+      "cite_3_page": null,
+      "cite_3_reporter": null,
+      "cite_3_vol": null,
+      "citation_status": null,
+      "court": null,
+      "no_title": false,
+      "party_types": [],
+      "per_curium": false,
+      "is_core_document": true,
+      "id": 114493,
+      "file": null,
+      "title": null,
+      "text": null,
+      "document_type_other": null,
+      "external_url": null,
+      "ecf_number": null,
+      "clearinghouse_link": "clearinghouse.net/doc/114493"
+    },
+    {
+      "date": "2020-05-27",
+      "date_is_estimate": false,
+      "date_not_available": false,
+      "description": null,
+      "document_source": "PACER [Public Access to Court Electronic Records]",
+      "document_status": "Coding Complete",
+      "document_type": "Complaint",
+      "order_type": null,
+      "citation_paren": null,
+      "cite_1_page": null,
+      "cite_1_reporter": null,
+      "cite_1_vol": null,
+      "cite_2_page": null,
+      "cite_2_reporter": null,
+      "cite_2_vol": null,
+      "cite_3_page": null,
+      "cite_3_reporter": null,
+      "cite_3_vol": null,
+      "citation_status": "Not applicable",
+      "court": "Eastern District of Pennsylvania",
+      "no_title": false,
+      "party_types": [
+        "Plaintiff"
+      ],
+      "per_curium": false,
+      "is_core_document": true,
+      "id": 107486,
+      "file": "https://clearinghouse-umich-production.s3.amazonaws.com/media/doc/107486.pdf",
+      "title": "Amended Class Action Complaint",
+      "text": "Case 2:19-cv-00799-PD   Document 37   Filed 05/27/20   Page 1 of 16\nIN THE UNITED STATES DISTRICT COURT \nFOR THE EASTERN DISTRICT OF PENNSYLVNIA \n \n \nKENARD PITNEY, Individually and            :  CIVIL ACTION \non behalf of a class of similarly            :   \nsituated individuals                                        : \n                                                                        : \n                v.          :  NO.  19-799 \n            : \nCITY OF CHESTER, et al.      :  JURY TRIAL DEMANDED \n \n \nAMENDED CLASS ACTION COMPLAINT \n \n  Plaintiff Kenard Pitney, individually and on behalf of a class of similarly situated \nindividuals, for his Complaint herein, alleges the following on information and belief, except as \nto the allegations concerning his individual claim which are asserted upon personal knowledge: \nINTRODUCTION \n1.  This is a class action brought to address the deprivation by the City of Chester \n(“defendant”) of rights secured to Kenard Pitney (“plaintiff”) and the proposed Class by the \nConstitution of the United States of America and the Constitution and laws of the \nCommonwealth of Pennsylvania.  Since 1995, the City of Chester has enforced an illegal, \nunlawful policy requiring that all individuals placed in a holding cell must be subjected to an \nillegal,  humiliating, degrading strip search, without any consideration of the nature of the crime, \nthe circumstances of the arrest, and the particular characteristics of the arrestee.  These strip \nsearches, which include a search of the arrestees’ genitalia, are conducted despite the lack of any \nsuspicion that the arrestee may be carrying contraband.   These policies are derived from the \nwritten procedures of the City of Chester and/or the City of Chester Police Department.  They \nalso stem from the defendant’s deliberate indifference to the rights of persons detained by the \ndefendant.   \n\nCase 2:19-cv-00799-PD   Document 37   Filed 05/27/20   Page 2 of 16\n2.  The policy of the City of Chester to force all individuals who are to be placed in a \nholding cell to be subjected to a humiliating strip search, including a search of the genitalia, \ndespite the fact that those individuals may not be held with any other arrestees and are often \nbeing held for only a matter of minutes while their paperwork is processed.   Critically, these \nindividuals are stripped searched even through there is no suspicion that they might be carrying \ncontraband and without any consideration of the nature of the crime charged, the circumstances \nof the arrest or the particular characteristics of the arrestee.  In short, every citizen who is placed \nin a holding cell, even if they are to be held alone without any contact with any other detainees \nand despite the fact that they may be arrested for the most minor of offenses, is subjected to a \nhumiliating strip search including the inspection of their genitalia . \n  3.  Plaintiff brings this action on behalf of himself and a class of individuals who \nwere not only strip searched after being arrested for minor offenses, but who were strip searched \neither (a) prior to an appearance before a judge or judicial officer with authority to release the \ndetainee and/or (b) without being given a reasonable opportunity to post bail.  These searches \nwere conducted despite the fact that the individuals were not going to be placed in the general \npopulation at a correctional facility.  Blanket searches conducted in this fashion constitute a \nviolation of the Constitutional rights of plaintiff and the class members he seeks to represent.  \nSpecifically, these actions - - which were carried out pursuant to defendant’s policy - - were \ntaken against the plaintiff in violation of his rights under the Fourth Amendment of the United \nStates’ Constitution.   \n  4.  Plaintiff seeks monetary damages individually and for each member of the \nproposed Class who have suffered from the wrongful actions of the defendant described herein, a \ndeclaration that defendant’s policies are unconstitutional and/or unlawful, and an injunction \n2 \n \n\nCase 2:19-cv-00799-PD   Document 37   Filed 05/27/20   Page 3 of 16\nprecluding defendant from continuing to violate the rights of the persons detained and/or placed \nin its custody. \nJURISDICTION \n  5.  This Court has jurisdiction over this action under the provisions of 28 U.S.C. \n§§1331, 1341 & 1343 because it is filed to obtain compensatory damages and injunctive relief \nfor the deprivation, under color of state law, of the rights of citizens of the United States secured \nby the Constitution and federal law pursuant to 42 U.S.C. §§ 1981 and 1983.  This Court also has \njurisdiction over this action under the provisions of 28 U.S.C. §2201, as it is filed to obtain \ndeclaratory relief relative to the constitutionality of the policies of a local government.  This \nCourt has supplemental jurisdiction over plaintiff’s pendant state law claims under 42 U.S.C. \n§1367(a) inasmuch as plaintiff‘s state law claims are so related to plaintiff’s federal claims that \nthey form part of the same case or controversy as the federal claims.  \n  6.  Venue is proper under 28 U.S.C. §1391(b)(2) because a substantial part of the \nevents or omissions giving rise to plaintiff’s and the class’ claims occurred within this judicial \ndistrict.   \nPARTIES \n  7.  Plaintiff Kenard Pitney is a resident of the Commonwealth of Pennsylvania and at \nall times relevant to this action was present in the City of Chester, Pennsylvania. \n  8.  Defendant, City of Chester, is a municipality of the Commonwealth of \nPennsylvania and owns, operates, manages, directs and controls the Chester Police Department.  \nAt all times relevant hereto, the City of Chester, as well as its agents, servants and employees, \nwas responsible for the policies, practices, supervision, implementation and conduct of all \nmatters pertaining to the Chester Police Department, as well as for the appointment, training, \n3 \n \n\nCase 2:19-cv-00799-PD   Document 37   Filed 05/27/20   Page 4 of 16\nsupervision and conduct of all Chester Police Department personnel.  In addition, at all relevant \ntimes, the City of Chester was responsible for enforcing the rules of the City of Chester and/or \nthe Chester Police Department and for ensuring the personnel employed by the City of Chester \nand the Chester Police Department obeyed the Constitution and laws of the United States and the \nCommonwealth of Pennsylvania.   \nCLASS ACTION ALLEGATIONS \n  9.  Plaintiff brings this action pursuant to Rules 23(a) and (b) of the Federal Rules of \nCivil Procedure on behalf of himself and a Class of similarly situated individuals who were \narrested for misdemeanors or other minor violations and who were unlawfully and \nunconstitutionally strip-searched upon being detained and/or placed into custody by defendant. \n  10.  Specifically, the Class that plaintiff seeks to represent with regard to claims \nbrought pursuant to violations of rights protected by the United States Constitution, the \nPennsylvania Constitution and other applicable laws is defined as follows: \nAll persons who have been (1) detained by and/or placed in the \ncustody of the Chester Police Department or any facility under the \nauthority of the City of Chester (2) as a result of being arrested \nand/or charged with non-indictable offenses such as: civil \nenforcement offenses, i.e., child support enforcement arrears, \ntraffic offenses, petty disorderly offenses, disorderly persons \noffenses, misdemeanors, contempt proceedings, failure to pay \nfinancial fines, penalties and/or costs in like matters as set forth \nabove; and/or failure to appear at any court proceedings on like \nmatters as set forth above; and (3) who were strip-searched upon \ntheir entry into detainment and/or custody and/or were strip-\nsearched prior to an appearance before a judge or judicial officer \nwho had the authority to release the person as referred to above \nfrom detainment and/or custody and/or (4) persons who appeared \nbefore a judge or judicial officer in the matters referred to above \nwho were not released from detainment and/or custody and who \nwere strip-searched as set forth above, and (5) the strip-search was \nconducted and/or performed according to the City of Chester’s \nblanket strip search policy, that is, without reasonable suspicion \nand/or probable cause based on objective and articulable facts that \n4 \n \n\nCase 2:19-cv-00799-PD   Document 37   Filed 05/27/20   Page 5 of 16\nthe aforesaid person or persons possessed controlled substances, \nweapons and/or other contraband.  The class includes persons who \nwere strip searched on or after March 1, 1995 and extends to the \ndate on which the City of Chester and the Chester Police \nDepartment are enjoined and/or cease to strip-search the class of \npersons referred to above. \n \n  11.  This Amended Complaint relates back to the original filing as it “asserts a claim . \n. . that arose out of the conduct, transaction or occurrence set out . . . in the original pleading” \nunder Fed.R.Civ.P. 15(c).  No new facts need to be pled from the Complaint as filed. \n  12.  This action has been brought and may properly be maintained as a class action \nunder federal law and satisfies the numerosity, commonality, typicality, and adequacy \nrequirements for maintaining a class action under Fed.R.Civ.P. 23(a). \n  13.  The members of the Class are so numerous as to render joinder impracticable.  \nUpon information and belief there have been thousands of citizens arrested for non-felony and/or \nminor offenses who were placed into the custody of the City of Chester - - most, if not all, of \nwhom are members of the proposed Class.  Upon information and belief, the size of the proposed \nClass totals thousands of individuals, some of whom have had their civil rights violated on \nmultiple occasions. \n  14.  Upon information and belief, joinder of all of these individuals is impracticable \nbecause of the large number of Class members and the fact that the Class members are likely \ndisbursed over a large geographical area, with some members presently residing outside of \nPennsylvania and this Judicial District.  Furthermore, upon information and belief, many \nmembers of the Class are low-income persons, may not speak English, and likely would have \ngreat difficulty pursuing their rights individually.  \n  15.  Common questions of law and fact exist as to all members of the Class that \npredominate over any questions that affect only individual members of the Class.  The \n5 \n \n\nCase 2:19-cv-00799-PD   Document 37   Filed 05/27/20   Page 6 of 16\npredominate common questions of law and fact include, without limitation, questions as to \nwhether the defendant’s written and/or de facto policies and practices of strip-searching \nindividuals who are charged with non-indictable charges or minor violations as defined in \nparagraph 10 when transferred to and/or placed into detention and/or custody of the City of \nChester, were illegal and/or  in violation of the Fourth, Eighth and Fourteenth Amendments to \nthe United States Constitution, the Pennsylvania Constitution, Pennsylvania law and/or other \napplicable law, and whether such written and/or de facto policy and practices existed during the \nClass period.   \n  16.  Plaintiff’s claims are typical of the claims of the members of the Class: Plaintiff \nand all members of the Class have sustained damages arising out of defendant’s course of \nconduct.  The harms suffered by plaintiff are typical of the harms suffered by the Class. \n  17.  The representative plaintiff has the requisite personal interest in the outcome of \nthis action and will fairly and adequately protect the interests of the Class.   \n  18.  The representative plaintiff has retained counsel with substantial experience in the \nprosecution of class actions and civil rights litigation.  Plaintiff’s counsel has the resources, \nexpertise, and experience to successfully prosecute this action against the City of Chester.  No \nconflicts exist between plaintiff and members of the Class, or between counsel and members of \nthe Class. \n  19.  This action seeks, in part, declaratory and injunctive relief.  As such, the plaintiff \nseeks class certification under Fed.R.Civ.P. 23(b)(2), in that all members of the proposed Class \nwere subjected to the same policies and acts of deliberate indifference.  In short, defendant City \nof Chester acted on grounds generally applicable to all members of the Class. \n6 \n \n\nCase 2:19-cv-00799-PD   Document 37   Filed 05/27/20   Page 7 of 16\n  20.  In addition to certification under Fed.R.Civ.P. 23(b)(2), and in the alternative, \nplaintiff seeks certification under Fed.R.Civ.P. 23(b)(3). \n  21.  A class action is superior to other available methods for the fair and efficient \nadjudication of this controversy, since joinder of all individual members of the Class is \nimpracticable given the large number of members of the Class and the fact that they are \ndisbursed over a large geographical area.  Furthermore, the expenses and burden of individual \nlitigation will make it difficult or impossible for individual members of the Class to redress the \nwrongs done to them.  The cost to the federal court system of adjudicating thousands of \nindividual cases would be enormous.  Individualized litigation would also magnify the delay and \nexpense to all parties and the court system.  By contrast, the conduct of this action as a class \naction in this District presents far fewer management difficulties, conserves the resources of the \nparties and the court system, and protects the rights of each member of the Class. \n  22.  Upon information and belief, there are no other actions pending to address the \ndefendant’s flagrant violation of the civil rights of thousands of individuals, even though upon \ninformation and belief the defendant has maintained its illegal practices for many years. \n  23.  As an alternative to certification under Fed.R.Civ.P. 23(b)(3), plaintiff also seeks \npartial certification under Fed.R.Civ.P. 23(c)(4).   \nFACTUAL ALLEGATIONS \nFacts Applicable To The Class Generally \n  24.  The Fourth Amendment of the United States Constitution prohibits government \nagencies and state officials, such as the defendant in this action and those it supervises, from \nperforming strip searches of arrestees who have been charged with misdemeanors or other minor \n7 \n \n\nCase 2:19-cv-00799-PD   Document 37   Filed 05/27/20   Page 8 of 16\ncrimes unless there is a reasonable suspicion that the arrestee is concealing a weapon, drugs, or \nother contraband.   \n  25.  The City of Chester has instituted a written and/or de facto policy, custom or \npractice of strip searching all individuals who enter its custody and/or are detained by the \ndefendant, regardless of the nature of the individual’s charged crime and without the presence of \nreasonable suspicion to believe the individual was concealing a weapon, drugs or other \ncontraband.   \n  26.  The City of Chester knows that it may not institute, enforce or permit enforcement \nof a policy or practice of conducting strip searches without the presence of particularized, \nreasonable suspicion.  This Court and the Federal Courts of Appeal have stated repeatedly that \nstate officials may not strip search individuals charged with misdemeanors or other minor \nviolations in the absence of particularized, reasonable suspicion. \n  27.  The defendant’s written and/or de facto policy, practice and custom mandating \nwholesale strip searches of all misdemeanor and minor violation arrestees has been promulgated, \neffectuated and/or enforced in bad faith and contrary to clearly established law.  A reasonable \nsuspicion to conduct a strip search may only emanate from particular circumstances antecedent \nto the search, such as the nature of the crime charged, a particular characteristic of the arrestee, \nand/or the circumstances of the arrest. \n  28.  The City of Chester has promulgated, implemented, enforced and/or failed to \nrectify a written and/or de facto policy, practice or custom of strip searching all individuals \nplaced into custody and/or detained by the defendant without any reasonable suspicion, or indeed \nsuspicion of any sort, that such individuals were concealing a weapon, drugs or other contraband.  \nThis written and/or de facto policy made the strip searching of pre-trial detainees routine; neither \n8 \n \n\nCase 2:19-cv-00799-PD   Document 37   Filed 05/27/20   Page 9 of 16\nthe nature of the offense charged, the characteristics of the arrestee, nor the circumstances of a \nparticular arrest were relevant to the enforcement of the policy, practice and custom of routine \nstrip searches.  The written and/or de facto policy, practice or custom of strip searching applied \nto all individuals “charged by the Chester Police, or any other law enforcement agency with a \nviolation of law which will require that person to be placed in a locked cell or having contact \nwith others in custody” with the limited exception of those transported to Chester Lockup “from \nanother confinement facility who has remained under guard for the entire period of transport.”   \n  29.  Pursuant to this written and/or de facto policy, each member of the Class, \nincluding the named plaintiff, was the victim of a routine strip search upon being placed into \ncustody and/or detained by the defendant.  These searches were conducted without inquiry into \nor establishment of reasonable suspicion to support a strip search, and in fact, such searches were \nnot supported by such a reasonable suspicion.  Strip searches were and are conducted for \nindividuals arrested for, among other innocuous offenses, driving while intoxicated, harassment \nand trespassing.   \n  30.  As a direct and proximate result of unlawful strip searches conducted pursuant to \nthis written and/or de facto policy, the victims of the unlawful strip searches - - that is, each \nmember of the Class, including the named plaintiff - - has suffered and will suffer psychological \nharm, pain, humiliation, suffering and mental anguish. \nFacts Applicable To The Named Plaintiff \n  31.  Plaintiff Kenard Pitney’s experiences are representative and corroborative of what \nmembers of the Class were subjected to.   \n  32.  As a detainee of the defendant, it is plaintiff Kenard Pitney’s Constitutional right \nto be free of unreasonable searches and seizures. \n9 \n \n\nCase 2:19-cv-00799-PD   Document 37   Filed 05/27/20   Page 10 of 16\n  33.   On or about May 18, 2018, plaintiff visited the Harrah’s Casino located in \nDelaware County, Pennsylvania. \n  34.  At approximately 9:30 p.m., plaintiff exited the casino and went to the valet in the \ncasino parking lot.  Plaintiff instructed the valet that he wanted to retrieve some items that he left \nin the car. \n  35.  Plaintiff then walked over to where his vehicle was parked and waited for the \nvalet to arrive with his keys so that plaintiff could retrieve his items. \n  36.  After waiting for a few minutes, a security guard from Harrah’s approached the \nplaintiff and advised him  that the valet was not going to give him the keys to his vehicle as the \nvalet believed it would be best for plaintiff to either call a cab or Uber, or make other \narrangements to get home. \n  37.  Plaintiff advised the security guard that he wished to call a friend to drive him \nhome.  However, he once again told the security guard that he needed to get belongings out of \nhis vehicle.  The security guard again refused to unlock plaintiff’s vehicle door.  Plaintiff then \nasked for a supervisor. \n  38.  Within a few minutes, a supervisor did arrive on the scene and the supervisor also \nrefused plaintiff’s request to gain entry to his vehicle.  Plaintiff then asked the supervisor to call \nthe police.   \n  39.  In approximately five minutes, officers from the Chester Police Department \narrived on the scene at which time plaintiff was talking on his cell phone.  When plaintiff \nrequested a few more minutes to speak with his fiancé to arrange a ride home the officers \nknocked plaintiff’s phone out of his hand and placed plaintiff in handcuffs before taking him to \nthe City of Chester police station, where he was handcuffed to a bench. \n10 \n \n\nCase 2:19-cv-00799-PD   Document 37   Filed 05/27/20   Page 11 of 16\n40.  Eventually, plaintiff was placed into a holding cell by himself and strip searched \nby one of defendant’s officers.  During the course of the strip search, plaintiff was required to \nremove his clothes, and hold up his genitals so that the officer could observe the same. \n41.  The strip search was done in public and, upon information and belief, a female \nofficer may have been allowed to observe the strip search through closed-circuit television. \n42.  After approximately one and half hours at the police station, plaintiff was released \nafter being given a summons for public intoxication. \n43.  On or about July 19, 2018, the summons was dismissed. \n44.  At no time did defendant or its officers have reasonable cause to believe that \nplaintiff was concealing a weapon, drugs or other contraband, but nevertheless strip-searched \nplaintiff in conformity with its unconstitutional policy. \nCOUNT ONE \nViolation Of The United States And Pennsylvania Constitutions Under The Color \nOf State Law–Unreasonable Searches  \n  45.  Plaintiff incorporates by reference and realleges each and every allegation stated \nin the preceding paragraphs, as if fully set forth herein. \n  46.  The Fourth Amendment of the United States Constitution protects citizens from \nunreasonable searches by law enforcement officers, and prevents officers from conducting strip \nsearches of individuals arrested for misdemeanors or other minor violations absent some \nparticularized suspicion that the individual in question possesses either weapons, drugs or other \ncontraband. \n  47.  The actions of defendant detailed above violated plaintiff’s and the Class’ rights \nunder the United States Constitution.  Simply put, it was not objectively reasonable for defendant \n11 \n \n\nCase 2:19-cv-00799-PD   Document 37   Filed 05/27/20   Page 12 of 16\nto strip search plaintiff and Class members based merely on their arrest for misdemeanor or other \nminor criminal charges. \n  48.  These unlawful strip searches were conducted pursuant to the policy, custom or \npractice of the City of Chester and/or the Chester Police Department.  As such, the City of \nChester is directly liable for the damages of the named plaintiff and the members of the Class. \n  49.  Upon information and belief, the City of Chester is responsible for establishing \nthe policies and procedures to be utilized by the Chester Police Department in detaining or \narresting individuals, and is responsible for the implementation of the strip-search policy and the \nunlawful practices described in this Complaint.  As such, the defendant is responsible for the \ndamages of the named plaintiff and members of the Class. \n  50.  The defendant knew that its strip search policy, practice or custom was illegal, \nand acted willfully, knowingly, and with specific intention to deprive plaintiff and members of \nthe class of their Constitutional rights.   \n  51.  This conduct of the City of Chester represents a violation of 42 U.S.C. § 1983, \ngiven that its actions were undertaken under the color of state law. \n  52.  As a direct and proximate result of the unconstitutional acts described above, \nplaintiff and members of the proposed Class have been irreparably injured and seek damages, as \nwell as declaratory and injunctive relief set out in the Prayer for Relief below. \nCOUNT TWO \nSupplemental State Law Claims  \n  53.  Plaintiff incorporates by reference and realleges each and every allegation stated \nin the preceding paragraphs, as if fully set forth herein. \n12 \n \n\nCase 2:19-cv-00799-PD   Document 37   Filed 05/27/20   Page 13 of 16\n  54.  The acts of the defendant constitute an illegal search and seizure and intentional \nand/or negligent infliction of emotional distress under the laws of the Commonwealth of \nPennsylvania, for which this Court has supplemental jurisdiction to hear and adjudicate these \nclaims. \n  55.  As a direct and proximate result of the unconstitutional acts as described above, \nplaintiffs have been irreparably injured and seek damages, as well as the declaratory and \ninjunctive relief set out in the Prayer for Relief below. \n \n \nCOUNT THREE \nDemand For Declaratory Judgment \n  56.  Plaintiff incorporates by reference and realleges each and every allegation stated \nin the preceding paragraphs, as if fully set forth herein. \n  57.  The policy, custom and/or practice of the City of Chester is clearly \nunconstitutional in that it is directing or conducting the strip search of all individuals taken into \ncustody and/or detained without any particularized suspicion that the individuals in question \npossess either weapons, drugs or other contraband. \n  58.  Plaintiff and the members of the Class request that this Court issue a declaratory \njudgment declaring the strip search policy of the City of Chester to be unconstitutional.   \nCOUNT FOUR \nDemand For Preliminary And Permanent Injunction \n59.  Plaintiff incorporates by reference and realleges each and every allegation stated \nin the preceding paragraphs, as if fully set forth herein. \n13 \n \n\nCase 2:19-cv-00799-PD   Document 37   Filed 05/27/20   Page 14 of 16\n  60.  The policy, custom and practice of the City of Chester is clearly unconstitutional \nin that it is directing or conducting the strip search of all individuals taken into custody and/or \ndetained without any particularized suspicion that the individuals in question possess either \nweapons, drugs or other contraband.   \n  61.  Upon information and belief, this policy is currently in place, with new and/or \nprospective members of the Class being subjected to the harms that have already been inflicted \nupon the named plaintiff and other members of the Class.   \n  62.  The continuing pattern of unlawfully strip-searching individuals charged with \nminor crimes will cause irreparable harm to the new and/or prospective members of the Class, \nfor which an adequate remedy does not exist at law. \n  63.  Plaintiff demands that the City of Chester immediately desist from strip searching \nindividuals placed into custody and/or detained by the defendant absent any particularized \nsuspicion that the individuals in question possess either weapons, drugs or other contraband, and \nseeks both a preliminary and permanent injunction from this Court ordering as much. \nDEMAND FOR TRIAL BY JURY \n  64.  Plaintiff hereby demands a trial by jury as to all issues. \n \nPRAYER FOR RELIEF \n \n  WHEREFORE, plaintiff Kenard Pitney, on behalf of himself and on behalf of a Class of \nothers similarly situated, requests that this Honorable Court enter judgment against defendant \nCity of Chester and grant them the following relief: \n    (a)  Enter or certify this action as a Class Action pursuant to Fed.R.Civ.P. 23, \nwith plaintiff as the Class representative; \n14 \n \n\nCase 2:19-cv-00799-PD   Document 37   Filed 05/27/20   Page 15 of 16\n    (b)  A judgment against the defendant on plaintiff’s causes of actions detailed \nherein, awarding compensatory damages to the named plaintiff and each member of the proposed \nClass in an amount to be determined by a jury and/or the Court on both an individual and Class-\nwide basis; \n    (c)  A judgment in favor of plaintiff and each member of the proposed Class \njudgment against the defendant for punitive damages, in an amount to be determined by a jury \nand/or the Court on both an individual and Class-wide basis; \n \n    (d)  A judgment in favor of plaintiff and each member of the proposed Class \nfor prejudgment interest; \n    (e)  Declaratory and injunctive relief to establish appropriate policies and \nprocedures for when strip-searches may be lawfully carried out; \n    (f)  A preliminary and permanent injunction enjoining defendant from \ncontinuing to strip search individuals charged with misdemeanors or minor crimes absent \nparticularized, reasonable suspicion that the arrestee/detainee subjected to the search is \nconcealing weapons, drugs or other contraband; \n    (g)  A monetary award for attorney’s fees and costs of this action, pursuant to \n42 U.S.C. §§ 1983 and 1988 and Fed.R.Civ.P. 23; and \n    (h)  Such other and further relief as the Court deems just and proper. \n \n   \n   \n \n \n \n \n \n15 \n \n\nCase 2:19-cv-00799-PD   Document 37   Filed 05/27/20   Page 16 of 16",
+      "document_type_other": "",
+      "external_url": "",
+      "ecf_number": "37",
+      "clearinghouse_link": "clearinghouse.net/doc/107486"
+    },
+    {
+      "date": "2019-02-25",
+      "date_is_estimate": false,
+      "date_not_available": false,
+      "description": null,
+      "document_source": "PACER [Public Access to Court Electronic Records]",
+      "document_status": "Coding Complete",
+      "document_type": "Complaint",
+      "order_type": null,
+      "citation_paren": null,
+      "cite_1_page": null,
+      "cite_1_reporter": null,
+      "cite_1_vol": null,
+      "cite_2_page": null,
+      "cite_2_reporter": null,
+      "cite_2_vol": null,
+      "cite_3_page": null,
+      "cite_3_reporter": null,
+      "cite_3_vol": null,
+      "citation_status": "Not applicable",
+      "court": "Eastern District of Pennsylvania",
+      "no_title": false,
+      "party_types": [
+        "Plaintiff"
+      ],
+      "per_curium": false,
+      "is_core_document": true,
+      "id": 107484,
+      "file": "https://clearinghouse-umich-production.s3.amazonaws.com/media/doc/107484.pdf",
+      "title": "Complaint",
+      "text": "Case 2:19-cv-00799-PD   Document 1   Filed 02/25/19   Page 1 of 11\nIN  THE  UNITED  STATES  DISTRICT  COURT \nFOR  THE  EASTERN  DISTRICT  OF  PENNSYLVANIA \nKENARD  PITNEY \n306  Landsende  Road \nDe~on,  PA  19333 \nvs. \nCI  Y  OF  CHESTER  Civil  Action  No. \n1  r est  Fourth  Street \nchr ster,  PA  19013 \nand \nPO~ICE OFFICER  WILLIAM  J.  MURPHY  III  JURY  TRIAL  DEMANDED \nBAPGE  NUMBER  841 \nIn~ividually and  as  a  police  officer \nfo  the  Ci ty  of  Chester \nc/  Chester  Pol ice  Department \n16l  East  7th  Street \nCh  ster,  PA  19013 \nand \nPO  ICE  OFFICER  JOHN  DOE  1 \nIn  ividually  and  as  a  police  officer \nfor  the  City  of  Chester \nc/o  Chester  Police  Department \n160  East  7th  Street \nChester,  PA  19013 \nI  and \nPdLICE  OFFICER  JOHN  DOE  2 \nI  dividually  and  as  a  police  officer \nf  r  the  City  of  Chester \nc  o  Chester  Police  Department \n1  0  East  7th  Street \nC  ester,  PA  19013 \nCOMPLAINT \nJurisdiction \n1.  This  action  is  brought  pursuant  to  42  U.S .C.  §1983. \nJ4risdiction  is  based  upon  28  U. S.C.  §§1331  and  1343  (1),  (3 ) ,  (4 ) \na  d  the  aforementioned  statutory  provision.  Plai ntiff  further \ni~vokes the  supplemental  jurisdiction  of  this  Court  pursuant  to  28 \nu s.c .  §1367(a)  to  hear  and  adjudicate  state  law  claims . \n1\n\nCase 2:19-cv-00799-PD   Document 1   Filed 02/25/19   Page 2 of 11\nParties \n2.  Plaintiff,  Kenard  Pitney,  is  a  resident  of  the \nCotmonwealth  of  Pennsylvania  and  at  all  times  relevant  to  this \nact ion  was  present  in  the  City  of  Chester,  Pennsylvania . \n3.  Defendant,  City  of  Chester,  is  a  municipality  of  the \nCo  onwealth  of  Pennsylvania  and  owns,  operates,  manages ,  directs \nan  controls  the  Chester  Police  Department  which  employs \nDe~endants,  Police  Officer  William  J .  Murphy  III  and  Police  Officer \nJof n  Doe  1  and  Police  Officer  John  Doe  2 . \n4.  Defendant,  Police  Officer  William  J .  Murphy  III ,  Badge \nNuf ber  841,  is  a  police  officer  for  the  Chester  Police  Department \nwhp  at  all  relevant  times  was  acting  under  color  of  state  law.  The \nDe  endant  officer  is  being  sued  in  his  i ndividual  capacity. \n5.  Defendant,  Police  Officer  John  Doe  1,  is  and  was  at  all \nti6es  a  police  officer  for  the  Chester  Police  Department,  and \nac  ing  under  color  of  state  law  and  within  the  scope  and  course  of \nhi s  employment .  The  Defendant  officer  is  being  sued  in  his \ni~dividual capacity. \n6.  Defendant,  Police  Officer  John  Doe  2,  is  and  was  at  all \nt'mes  a  pol ice  officer  for  the  Chester  Police  Department,  and \naoting  under  color  of  state  law  and  within  the  scope  and  course  of \nemployment .  The  Defendant  officer  is  being  sued  in  his \nh~s \ni~dividual capacity . \n7.  At  all  relevant  times ,  all  Defendants  were  acting  in \n2 \n\nCase 2:19-cv-00799-PD   Document 1   Filed 02/25/19   Page 3 of 11\nco  cert  and  conspiracy  and  their  actions  deprived  Kenard  Pitney  of \nhi~  constitutional  and  statutory  rights. \nFactual  Allegations \n8.  On  or  about  May  18,  2018  Plaintiff  visited  the  Harrah's \nino  located  in  Delaware  County,  Pennsylvania. \n9.  At  approximately  9:30p.m.  the  Plaintiff  exited  the  casino \nwent  to  the  valet  in  the  casino  parking  lot.  Plaintiff \ntructed  the  valet  that  he  wanted  to  retrieve  some  items  that  he \nleft  in  his  car . \n10.  Plaintiff  then  walked  over  to  where  his  vehicle  was  parked \nanb  waited  for  the  valet  to  arrive  with  his  keys  so  that  Plaintiff \nco  ld  retrieve  his  items . \n11.  After  waiting  for  a  few  minutes,  a  security  guard  from \nHarrah' s  approached  the  Plaintiff.  The  security  guard  advised \nPlaintiff  that  the  valet  was  not  going  to  give  him  the  keys  to  his \nas  the  valet  believed  it would  be  best  for  Plaintiff  to \nv~hicle \ne'ther  call  a  cab  or  uber  or  make  other  arrangements  to  get  home. \n12.  Plaintiff  then  advised  the  security  guard  that  he  would \ncJ11  a  friend  to  drive  him  home.  However,  he  once  again  told  the \ns~curity guard  that  he  needed  to  get  belongings  out  of  his  vehicle . \nTHe  security  guard  again  refused  to  unlock  Plaintiff's  vehicle. \nP~aintiff then  asked  f or  a  supervisor. \n13.  Within  a  few  minutes ,  a  supervisor  did  arrive  on  the  scene \nad the  supervisor  also  refused  Plaintiff's  request  to  gain  entry \n3 \n\nCase 2:19-cv-00799-PD   Document 1   Filed 02/25/19   Page 4 of 11\nto  his  vehicle. \n14.  Plaintiff  then  asked  the  supervisor  to  call  the  police . \n15.  In  approximately  5  minutes,  Defendant  Officer  Murphy \nan6 /or  Defendant  Officer  John  Doe  1  arrived  on  the  scene. \n16.  Defendant  Officer  Murphy  and/or  Defendant  Officer  John  Doe \nap  roached  Plaintiff  who  was  speaking  on  his  cell  phone  with  his \nncee  to  arrange  for  a  ride  home . \n17 .  Defendant  Officer  Murphy  and/or  Defendant  Officer  John  Doe \nanded  that  Plaintiff  give  the  officer  his  cell  phone . \n18 .  After  the  officer  demanded  Plaintiff's  cell  phone, \nPlaintiff  requested  a  few  more  minutes  to  speak  with  his  fiancee  to \narrange  a  ride  home . \n19.  However,  Defendant  Officer  Murphy  and/or  Defendant  Officer \nJohn  Doe  1  knocked  Plaintiff's  phone  out  of  his  hand.  Defendant \nOfficer  Murphy  and/or  Defendant  Officer  John  Doe  then  grabbed  the \nPlaintiff,  violently  dragged  him  towards  a  police  car  and  then \nthrew  him  belly  down  into  the  back  seat  of  the  police  car. \n20 .  Plaintiff  was  then  placed  in  handcuffs  and  taken  to  the \nCity  of  Chester  Police  station  where  he  was  handcuffed  to  a  bench. \n21.  Eventually,  Plaintiff  was  placed  into  a  holding  cell  and \nstrip  searched  by  Defendant  Officer  John  Doe  2.  During  the  course \no~ the  strip  search,  Plaintiff  was  required  to  remove  his  clothes, \nand  hold  up  his  genitals  so  that  Defendant  Police  Officer  John  Doe \n2  could  observe  the  same . \n4 \n\nCase 2:19-cv-00799-PD   Document 1   Filed 02/25/19   Page 5 of 11\n22.  The  strip  search  was  done  in  public  and  upon  information \nanp  belief  a  female  officer  may  have  been  allowed  to  observe  the \nst  ip  search  by  a  closed  circuit  television . \n23.  After  approximately  1~ hours  at  the  police  station, \nPlbintiff  was  released  after  being  given  a  summons  for  public \nin  oxication . \n24 .  On  or  about  July  19,  the  summons  was  dismissed. \n25 .  At  all  times  relevant  hereto,  Plaintiff  was  acting  in  a \nl~gal and  lawful  manner .  Plainti ff  did  not  engage  in  any  behavior \nw~ich violated  any  statute  or  ordinance  of  the  Commonwealth  of \nP~nnsylvania or  the  City  of  Chester . \n26 .  Neither  Defendant  Officer  Murphy  or  Defendant  Offi cers \nJ1hn  Doe  1  or  John  Doe  2  were  aware  of  any  facts  which  would  have \ng  ven  them  reasonable  suspicion,  much  less  probable  cause,  that \nPiaintiff  had  committed  any  crime  or  violated  any  statute  or \no  dinance  of  the  City  of  Chester  or  the  Commonwealth  of \nPynnsylvania. \n27 .  Upon  information  and  belief,  the  Defendant  City  of  Chester \nan  unconstitutional  policy  of  conducting  degrading,  humiliating \nahd  unconstituti onal  strip  searches  of  arrestees  and/or  detainees . \nM re  specifically,  the  City  of  Chester  has  an  unconsti tutional \nPf licy  of  authorizing  strip  searches  despite  having  no  reason  to \nbelieve  that  an  arrestee  and/or  an  detainee  may  be  concealing \nontraband. \n5 \n\nCase 2:19-cv-00799-PD   Document 1   Filed 02/25/19   Page 6 of 11\n28 .  At  no  time  did  Plaintiff  Kenard  Pitney  do  anything  to \nresist  the  orders  of  the  Defendant  police  offi cers  nor  did  he  do \nant thing  which  coul d  have  been  considered  a  threat  to  e i ther \nDe  endant  officer  or  to  anyone  else . \n29.  The  unlawful  and  unreasonable  use  of  force  in  this  case \nwere  the  direct  result  of  Defendants'  pattern,  practice,  and  custom \nof  subjecting  citizens  such  as  Kenard  Pitney  to  unreasonable  and \nexpessive  force  in  the  absence  of  any  legitimate  purpose . \n30 .  As  a  direct  and  proximate  result  of  the  actions  of \nDe  endant  Officer  William  J.  Murphy  III and  Defendant  Officer  John \nDo~  1,  and  Defendant  Officer  John  Doe  2,  Plaintiff,  Kenard  Pitney, \nsuffered  and  continues  to  suffer  physical  and  psychological  harm, \nand  suffering,  emotional  harm,  loss  of  liberty  ,  some  or  all \np~in \no4  which  may  be  permanent  as  well  as  financial  losses. \n31 .  As  a  direct  and  proximate  result  of  the  Defendants' \na9tions,  Plaintiff,  Kenard  Pitney,  was  deprived  of  his  rights  and \np~ivileges under  the  Fourth  and  Fourteenth  Amendments  to  the  United \nS~ates Constitution  and  in  particular,  the  right  to  be  free  from \ne1cessive  force ,  unreasonable  force ,  the  right  to  be  free  from \nf  lse  arrest ,  the  right  to  be  free  from  illegal  search  and \ns$izures,  the  right  t o  be  secure  in  his  person  and  property,  the \nright  to  be  free  from  malicious  prosecution  and  the  right  to  due \npt ocess  of  law.  Plaintiff  was  similarly  deprived  of  t he  right  not \nt~  be  a  victim  of  conspiracies  of  state  actors  to  violate  the \n6 \n\nCase 2:19-cv-00799-PD   Document 1   Filed 02/25/19   Page 7 of 11\naf  rementioned  clearly  established  rights . \n32.  The  acti ons  taken  by  the  Defendants  in  this  matter  were \nta  en  under  color  of  state  law.  Those  actions  are  not  limited  to \nthr  aforementioned  conduct. \n33.  Defendant  Officer  Willi am  J .  Murphy  and/or  Defendant \nOf  icer  John  Doe  1  and/or  Defendant  Officer  John  Doe  2  acted \nwi  lfully,  deliberately,  maliciously  or  with  reckless  disregard  of \nPl1intiff' s  constitutional  and  statutory  rights. \n34 .  The  conduct  of  Defendant  Officer  William  J .  Murphy  and/or \nDe  endant  Officer  John  Doe  1  and/or  Defendant  Officer  John  Doe  2 \nwa~ done  maliciously,  wantonly,  recklessly  and  with  an  intent  to \ninf ure  the  Plaintiff  and  with  an  intent  to  violate  his \ncopstitutional,  statutory  and  other  rights .  More  specifically,  the \nac  ions  of  Defendant  Officer  William  J .  Murphy  and/or  Defendant \nOf~icer John  Doe  1  and/or  Defendant  Officer  John  Doe  2  violated \nPlaintiff's  rights  guaranteed  by  the  Fourth  and  Fourteenth \nof  the  Uni ted  States  Constitution . \n~endments \nFIRST  CAUSE  OF  ACTION \nFEDERAL  CIVIL  RIGHTS  VIOLATIONS \n35.  Plaintiff  incorporates  by  reference  paragraphs  1  through \nof  the  instant  Complaint . \n36.  As  a  direct  and  proximate  resul t  of  all  of  the  Defendants' \ncqnduct,  commi tted  under  color  of  state  law,  Plaintiff,  Kenard \nPitney,  was  deprived  of  his  Fourth  Amendment  right  to  be  free  from \nu  reasonable  and  excessive  force ,  false  arrest,  illegal  search  and \n7 \n\nCase 2:19-cv-00799-PD   Document 1   Filed 02/25/19   Page 8 of 11\nse1' zure,  and  to  be  secure  in  his  person  and  property  and  he  was \ndeprived  of  his  Fourteenth  Amendment  rights  t o  be  free  from \ni cious  prosecution  and  he  was  denied  his  liberty  without  due \ncess  of  law .  As  a  result,  Plaintiff,  Kenard  Pitney,  suffered \ncontinues  to  suffer  harm  in  vi olation  of  his  rights  under  the \nlaws  of  t he  Constitution  of  the  United  States,  in  parti cular  t he \nF  urth  and  Fourteenth  Amendments  t hereof,  and  42  O.S .C.  §1983 . \n37 .  As  a  direct  and  proximate  result of  the  acts  of  all \nD, fendants,  Plaintiff,  Kenard  Pitney,  sustained  physical  injuries, \ne~otional harm,  loss  of  liberty  and  financial  losses,  all  to  his \nand  harm. \nd~triment \n38 .  Defendant,  City  of  Chester,  has  encouraged,  tolerated, \nr J tified  and  has  been  deliberately  indifferent  to  the  following \np4tterns,  practices  and  customs  and  t o  the  need  for  more  or \nd{fferent  training,  supervision,  i nvestigation  or  discipline  l n  the \nat eas  of: \na .  The  use  of  unreasonable  force,  excessive  force \ni l legal  search  and  seizure,  false  arrest,  malicious \nprosecution,  and  infliction  of  emotional  distress  by \npolice  officer; \nb .  The  proper  exercise  of  police  powers,  including \nbut  not  limited  t o  the  unreasonable  use  of  force ,  the \nexcessive  use  of  force,  illegal  search  and  seizure, \nfalse  arrest ,  malicious  prosecution,  infl i ction  of \n8 \n\nCase 2:19-cv-00799-PD   Document 1   Filed 02/25/19   Page 9 of 11\nemotional  distress ,  and  violation  of  citizens'  free \nspeech  rights,  particularly  in  connection  wit h \nperceived  challenges  to  police  authority; \nc .  The  monitoring  of  officers  whom  it  knew  or \nshould  have  known  were  suffering  from  emotional \nand/or  psychological  problems  that  impaired \nt heir  ability  to  function  as  officers; \nd .  The  failure  to  identify  and  take  remedial  or \ndisciplinary  action  against  police  officers  who \nwere  the  subject  of  prior  civilian  or  internal \ncomplaints  of  misconduct ; \ne.  Police  officers'  use  of  their  status  as  police \nofficers  to  employ  the  use  of  excessive  force, \nunreasonable  f orce,  illegal  search  and  seizure,  false \narrest,  mal icious  prosecution,  and  infliction  of \nemotional  distress  t o  achieve  ends  not  reasonably \nrelated  to  the  police  duties; \nf .  Police  officers'  use  of  the  authority  and  power \nof  their  office  for  personal  ends  and  t o \ni ntimidate ,  coerce,  and  threaten  citizens;  and \ng .  The  failure  of  police  officers  to  f ollow \nestablished  policies,  procedures,  directives , \nand  instructions  regarding  the  use  of  force  and \narrest  powers  under  such  circumstances  as \n9 \n\nCase 2:19-cv-00799-PD   Document 1   Filed 02/25/19   Page 10 of 11\npresented  herein. \n39 .  City  of  Chester  failed  to  properly  sanction  or  discipline \nicers,  who  were  aware  of  and  conceal  and/or  aid  violati ons  of \nstitutional  rights  of  citizens  that  other  City  of  Chester \ni ce  officers,  thereby  causing  and  encouragi ng  City  of  Chester \nice,  including  the  Defendant  officers  in  this  case,  to  violate \nrights  of  citizens  such  as  Kenard  Pitney. \n40 .  Defendants  have  by  the  above  described  actions  deprived \nPl  inti££,  Kenard  Pitney,  of  rights  secured  by  the  Fourth  and \nFourteenth  Amendments  to  the  United  States  Constituti on  in \nviolation  of  42  U.S.C.  §1983 . \nSECOND  CAUSE  OF  ACTION \nSUPPLEMENTAL  STATE  CLAIMS \n41 .  Plaintiff  incorporates  by  reference  paragraphs  1  through \nof  the  instant  Complaint . \n42 .  The  acts  of  the  individual  Defendants  in  this  cause  of \nal tion  constitute  excessive  force ,  unreasonable  force,  illegal \ns  arch  and  seizure,  false  arrest,  malicious  prosecution,  and \ni~tentional infliction  of  emotional  distress  under  the  laws  of  the \nC1mmonwealth  of  Pennsylvania  and  this  Court  has  supplemental \nj J risdiction  to  hear  and  adjudicate  these  claims. \nWHEREFORE,  Plaintiff  requests  the  following  relief: \na.  Compensatory  damages ; \nb .  Punitive  damages ; \nc.  Reasonable  attorney' s  fees  and  costs; \n10 \n\nCase 2:19-cv-00799-PD   Document 1   Filed 02/25/19   Page 11 of 11\nd .  Such  other  and  further  relief  as  appears \nr easonable  and  just;  and \ne .  A  jury  trial  as  to  each  Defendant  and  as  to \neach  count . \nPATRICK  G.  GECKLE,  LLC \n''--==-\nByo~ ~ \n~Patrick G.  Geckle \nAttorney  ID  No .  26718 \nPATRICK  G.  GECKLE,  LLC \n1515  Market  Street,  Ste .  1200 \nPhiladelphia,  PA  19102 \n(215)  735- 3326  - phone \n(215)  689- 2803  - fax \nEmail :  pgeckle@pgglaw .com \nCounsel  for  Plaintiff \n11 ",
+      "document_type_other": "",
+      "external_url": "",
+      "ecf_number": "1",
+      "clearinghouse_link": "clearinghouse.net/doc/107484"
+    },
+    {
+      "date": "2020-06-09",
+      "date_is_estimate": false,
+      "date_not_available": false,
+      "description": null,
+      "document_source": "PACER [Public Access to Court Electronic Records]",
+      "document_status": "Coding Complete",
+      "document_type": "Docket",
+      "order_type": null,
+      "citation_paren": null,
+      "cite_1_page": null,
+      "cite_1_reporter": null,
+      "cite_1_vol": null,
+      "cite_2_page": null,
+      "cite_2_reporter": null,
+      "cite_2_vol": null,
+      "cite_3_page": null,
+      "cite_3_reporter": null,
+      "cite_3_vol": null,
+      "citation_status": "Not applicable",
+      "court": "Eastern District of Pennsylvania",
+      "no_title": false,
+      "party_types": [
+        "Court"
+      ],
+      "per_curium": false,
+      "is_core_document": true,
+      "id": 106639,
+      "file": "https://clearinghouse-umich-production.s3.amazonaws.com/media/doc/106639.pdf",
+      "title": "Docket [PACER]",
+      "text": "Case: 2:19-cv-799   As of: 06/16/2020 09:08 PM EDT   1 of 6\nSTANDARD\nUnited States District Court\nEastern District of Pennsylvania (Philadelphia)\nCIVIL DOCKET FOR CASE #: 2:19−cv−00799−PD\nPITNEY v. CITY OF CHESTER et al Date Filed: 02/25/2019\nAssigned to: HONORABLE PAUL S. DIAMOND Jury Demand: Defendant\nDemand: $500,000 Nature of Suit: 440 Civil Rights: Other\nCause: 42:1983 Civil Rights Act Jurisdiction: Federal Question\nPlaintiff\nKENARD PITNEY represented by ALAN FELDMAN\nINDIVIDUALLY AND ON BEHALF OF FELDMAN SHEPHERD\nA CLASS OF SIMILARLY SITUATED WOHLGELERNTER & TANNE\nINDIVIDUALS 1845 WALNUT STREET\n21ST FLOOR\nPHILADELPHIA, PA 19103\n215−567−8300\nEmail: afeldman@feldmanshepherd.com\nATTORNEY TO BE NOTICED\nANDREW KEVIN MITNICK\nFELDMAN SHEPHERD\nWOHLGELERNTER TANNER\nWEINSTOCK DODIG, LLP\n1845 WALNUT STREET\n21ST FLOOR\nPHILADELPHIA, PA 19103\n215−567−8300\nFax: 215−567−8333\nEmail: amitnick@feldmanshepherd.com\nATTORNEY TO BE NOTICED\nEDWARD S. GOLDIS\nFELDMAN, SHEPHERD,\nWOHLGELERNTER & TANNER\n1845 WALNUT STREET\n21ST FLOOR\nPHILADELPHIA, PA 19103\n215−567−8300\nFax: 215−567−8333\nEmail: egoldis@feldmanshepherd.com\nATTORNEY TO BE NOTICED\nPATRICK G. GECKLE\nLAW OFFICES PATRICK G. GECKLE\nLLC\n1515 MARKET STREET, SUITE 1200\nPHILADELPHIA, PA 19102\n215−735−3326\nEmail: pgeckle@pgglaw.com\nATTORNEY TO BE NOTICED\nV.\nDefendant\nCITY OF CHESTER represented by DAVID J. MACMAIN\nTHE MACMAIN LAW GROUP LLC\n433 W. MARKET STREET\nSUITE 200\nWEST CHESTER, PA 19382\n484−318−7704\n\nCase: 2:19-cv-799   As of: 06/16/2020 09:08 PM EDT   2 of 6\nFax: 484−328−3996\nEmail: dmacmain@macmainlaw.com\nLEAD ATTORNEY\nATTORNEY TO BE NOTICED\nBRIAN H. LEINHAUSER\nMacMain, Connell & Leinhauser, LLC\n433 W. Market Street\nSuite 200\nWest Chester, PA 19382\n484−318−7106\nFax: 4843283996\nEmail: bleinhauser@macmainlaw.com\nATTORNEY TO BE NOTICED\nNICHOLAS A. CUMMINS\nBENNETT BRICKLIN & SALTZBURG,\nLLP\n1601 MARKET ST., 16TH FL\nPHILADELPHIA, PA 19103\n215−561−4300\nFax: 215−561−6661\nEmail: cummins@bbs−law.com\nATTORNEY TO BE NOTICED\nDefendant\nPOLICE OFFICER WILLIAM J. represented by NICHOLAS A. CUMMINS\nMURPHY, III (See above for address)\nBADGE NUMBER 841 INDIVIDUALLY TERMINATED: 08/01/2019\nAND AS A POLICE OFFICER FOR THE\nCITY OF CHESTER\nTERMINATED: 08/01/2019\nDefendant\nPOLICE OFFICER JOHN DOE 1\nINDIVIDUALLY AND AS A POLICE\nOFFICER FOR THE CITY OF\nCHESTER\nDefendant\nPOLICE OFFICER JOHN DOE 2\nINDIVIDUALLY AND AS A POLICE\nOFFICER FOR THE CITY OF\nCHESTER\nDate Filed # Docket Text\n02/25/2019 1  COMPLAINT against CITY OF CHESTER, JOHN DOE 1, JOHN DOE 2, WILLIAM\nJ. MURPHY, III ( Filing fee $ 400 receipt number 0313−13371963.), filed by\nKENARD PITNEY. (Attachments: # 1 Civil Cover Sheet, # 2 Designation Form, # 3\nCase Management Track Form)(GECKLE, PATRICK) (Entered: 02/25/2019)\n02/25/2019 Summons Issued as to CITY OF CHESTER, WILLIAM J. MURPHY, III. Two\nForwarded To: Counsel on 2/25/19 (jwl, ) (Entered: 02/25/2019)\n02/25/2019 DEMAND for Trial by Jury by KENARD PITNEY. (jwl, ) (Entered: 02/25/2019)\n04/17/2019 2  WAIVER OF SERVICE Returned Executed by KENARD PITNEY. CITY OF\nCHESTER waiver sent on 3/1/2019, answer due 4/30/2019; WILLIAM J. MURPHY,\nIII waiver sent on 3/1/2019, answer due 4/30/2019. (Attachments: # 1 Certificate of\nService for City of Chester, # 2 Certificate of Service for William J.\nMurphy)(GECKLE, PATRICK) (Entered: 04/17/2019)\n\nCase: 2:19-cv-799   As of: 06/16/2020 09:08 PM EDT   3 of 6\n04/18/2019 3  NOTICE of Appearance by NICHOLAS A. CUMMINS on behalf of CITY OF\nCHESTER, WILLIAM J. MURPHY, III with Jury Demand(CUMMINS,\nNICHOLAS) (Entered: 04/18/2019)\n04/30/2019 4  ANSWER to Complaint with Affirmative Defenses by CITY OF CHESTER,\nWILLIAM J. MURPHY, III.(CUMMINS, NICHOLAS) (Entered: 04/30/2019)\n05/01/2019 5  NOTICE of Hearing: A RULE 16 PRETRIAL PHONE CONFERENCE IS SET FOR\n5/3/2019 AT 9:15 AM BEFORE HONORABLE ROBERT F. KELLY.(mr, ) (Entered:\n05/01/2019)\n05/01/2019 6  STIPULATION AND ORDER THAT PLAINTIFF'S MONELL CLAIM AGAINST\nTHE CITY OF CHESTER IS LIMITED ONLY TO THE ALLEGED POLICIES\nAND CUSTOMS OF THE CITY OF CHESTER WITH RESPECT TO THE STRIP\nSEARCHING OF DETAINEEDS. ALL OTHER GROUNDS FOR LIABILITY\nAGAINST THE CITY OF CHESTER ARE DISMISSED WITH PREJUDICE.\nPLAINTIFF'S CLAIM FOR PUNITIVIE DAMAGES AGAINST THE CITY OF\nCHESTER IS DISMISSED WITH PREJUDICE. PLAINTIFF'S CLAIMS FOR\nMALICIOUS PROSECUTION AND PENNSYLVANIA STATE LAW AGAINST\nALL INDIVIDUAL DEFENDANTS ARE DISMISSED WITH PREJUDICE.\nSIGNED BY HONORABLE ROBERT F. KELLY ON 5/1/2019. 5/1/2019 ENTERED\nAND COPIES E−MAILED.(sg, ) (Entered: 05/01/2019)\n05/03/2019 7  Minute Entry for proceedings held before HONORABLE ROBERT F. KELLY\nTelephone Conference held on 5/3/2019 (sg, ) (Entered: 05/06/2019)\n05/03/2019 8  SCHEDULING ORDER: DISCOVERY DUE BY 9/2/2019. DISPOSITIVE\nMOTIONS DUE BY 9/16/2019. ETC.. SIGNED BY HONORABLE ROBERT F.\nKELLY ON 5/3/2019. 5/6/2019 ENTERED AND COPIES E−MAILED.(sg, )\n(Entered: 05/06/2019)\n08/01/2019 9  STIPULATION AND ORDER THAT ALL CLAIMS AGAINST DEFENDANT,\nPOLICE OFFICER WILLIAM J. MURPHY, III ARE DISMISSED WITHOUT\nPREJUDICE.. SIGNED BY HONORABLE ROBERT F. KELLY ON 7/31/2019.\n8/1/2019 ENTERED AND COPIES E−MAILED.(sg, ) (Entered: 08/01/2019)\n08/09/2019 10  Joint MOTION for Extension of Time to File Dispositive Motions filed by KENARD\nPITNEY.. (Attachments: # 1 Proposed Order, # 2 Certificate of Service)(GECKLE,\nPATRICK) (Entered: 08/09/2019)\n08/12/2019 11  ORDERED THAT THE SCHEDULING ORDER IS AMENDED TO PROVIDE AS\nFOLLOWS, ALL DISCOVERY DUE BY 10/16/2019., DISPOSITIVE MOTIONS\nDUE BY 10/30/2019. ETC.. SIGNED BY HONORABLE ROBERT F. KELLY ON\n8/12/2019. 8/13/2019 ENTERED AND COPIES E−MAILED.(sg, ) (Entered:\n08/13/2019)\n10/03/2019 12  NOTICE of Appearance by EDWARD S. GOLDIS on behalf of KENARD PITNEY\n(GOLDIS, EDWARD) (Entered: 10/03/2019)\n10/03/2019 13  NOTICE of Appearance by ALAN FELDMAN on behalf of KENARD PITNEY\n(FELDMAN, ALAN) (Entered: 10/03/2019)\n10/03/2019 14  MOTION to Amend/Correct FOR LEAVE TO AMEND THECOMPLAINT filed by\nKENARD PITNEY.Memorandum. (Attachments: # 1 Exhibit \"A\" Amended\nComplaint, # 2 Proposed Order, # 3 Certificate of Service)(GECKLE, PATRICK)\n(Entered: 10/03/2019)\n10/11/2019 15  MOTION for Extension of Time to File Response/Reply as to 14 MOTION to\nAmend/Correct FOR LEAVE TO AMEND THECOMPLAINT filed by CITY OF\nCHESTER.Certificate of Service.(CUMMINS, NICHOLAS) (Entered: 10/11/2019)\n10/11/2019 16  ORDER THAT THIS CASE IS REASSIGNED FROM HONORABLE ROBERT F.\nKELLY TO HONORABLE PAUL S. DIAMOND FOR ALL FURTHER\nPROCEEDINGS. SIGNED BY CLERK OF COURT KATE BARKMAN, CLERK\nOF COURT ON 10/11/2019. 10/15/2019 ENTERED AND COPIES E−MAILED.(nd,\n) (Entered: 10/15/2019)\n\nCase: 2:19-cv-799   As of: 06/16/2020 09:08 PM EDT   4 of 6\n10/11/2019 17  ORDERED THAT DEFENDANT'S MOTION FOR EXTENSION OF TIME TO\nRESPOND TO PLAINTIFF'S MOTION TO AMEND THE COMPLAINT IS\nGRANTED. THE CITY OF CHESTER SHALL FILE A RESPONSE TO THE\nMOTION TO AMEND NOT LATER THAN 10/31/2019. SIGNED BY\nHONORABLE ROBERT F. KELLY ON 10/11/2019.10/15/2019 ENTERED AND\nCOPIES E−MAILED.(sg, ) (Entered: 10/15/2019)\n10/15/2019 18  STANDING ORDER OUTLINED HEREIN.SIGNED BY HONORABLE PAUL S.\nDIAMOND ON 10/15/2019. 10/15/2019 ENTERED AND COPIES E−MAILED.(rt)\n(Entered: 10/15/2019)\n10/30/2019 19  MOTION for Summary Judgment filed by CITY OF CHESTER.Brief, Certificate of\nService. (Attachments: # 1 Exhibit A−K, # 2 Exhibit L part 1, # 3 Exhibit L part 2, # 4\nExhibit L part 3, # 5 Exhibit M−N)(CUMMINS, NICHOLAS) (Entered: 10/30/2019)\n10/31/2019 20  RESPONSE in Opposition re 14 MOTION to Amend/Correct FOR LEAVE TO\nAMEND THECOMPLAINT filed by CITY OF CHESTER. (CUMMINS, NICHOLAS)\n(Entered: 10/31/2019)\n11/01/2019 21  MOTION for Leave to File Brief in Excess of Page Limit filed by CITY OF\nCHESTER.Certificate of Service.(CUMMINS, NICHOLAS) (Entered: 11/01/2019)\n11/01/2019 22  ORDER UPON CONSIDERATION OF DEFENDANT'S MOTION FOR LEAVE TO\nEXCEED PAGE LIMIT (DOC. NO. 21 ), IT IS HEREBY ORDERED THAT\nDEFENDANT'S MOTION IS GRANTED.SIGNED BY HONORABLE PAUL S.\nDIAMOND ON 11/1/2019. 11/1/2019 ENTERED AND COPIES E−MAILED.(rt)\n(Entered: 11/01/2019)\n11/05/2019 23  CORRESPONDENCE FROM ALAN M. FELDMAN, ESQ., DATED 11/5/2019.(rt)\n(Entered: 11/05/2019)\n11/05/2019 24  ORDER UPON CONSIDERATION OF THE PARTIES' JOINT LETTER REQUEST\n(DOC. NO. 23 ), IT IS HEREBY ORDERED THAT, PURSUANT TO THE\nPARTIES' AGREEMENT, MY DECISION ON PLAINTIFF'S MOTION TO\nAMEND (DOC. NO. 14 ) HIS COMPLAINT IS DEFERRED PENDING MY\nDECISION ON DEFENDANT'S MOTION FOR SUMMARY JUDGMENT (DOC.\nNO. 19 ).SIGNED BY HONORABLE PAUL S. DIAMOND ON 11/5/2019.\n11/5/2019 ENTERED AND COPIES E−MAILED.(rt) (Entered: 11/05/2019)\n11/07/2019 25  MOTION for Extension of Time to File Response/Reply as to 19 MOTION for\nSummary Judgment filed by KENARD PITNEY.. (Attachments: # 1 Proposed Order,\n# 2 Certificate of Service)(GECKLE, PATRICK) (Entered: 11/07/2019)\n11/07/2019 26  ORDER UPON CONSIDERATION OF PLAINTIFF'S MOTION FOR EXTENSION\nOF TIME (DOC. NO. 25 ) TO RESPOND TO DEFENDANT'S MOTION FOR\nSUMMARY JUDGMENT (DOC. NO. 19 ), IT IS HEREBY ORDERED THAT\nPLAINTIFF'S MOTION IS GRANTED. PLAINTIFF SHALL RESPOND TO\nDEFENDANT'S MOTION FOR SUMMARY JUDGMENT BY NOVEMBER 20,\n2019 AT 5:00 P.M.SIGNED BY HONORABLE PAUL S. DIAMOND ON 11/7/2019.\n11/7/2019 ENTERED AND COPIES E−MAILED.(rt) (Entered: 11/07/2019)\n11/20/2019 27  RESPONSE to Statement of Undisputed Material Facts re 19 MOTION for Summary\nJudgment filed by KENARD PITNEY. (Attachments: # 1 Proposed Order, # 2 Exhibit\n1, # 3 Exhibit 2, # 4 Exhibit 3, # 5 Exhibit 4, # 6 Exhibit 5, # 7 Exhibit 6, # 8 Exhibit\n7, # 9 Exhibit 8, # 10 Exhibit 9, # 11 Exhibit 10, # 12 Certificate of\nService)(GECKLE, PATRICK) Modified on 11/21/2019 (lisad, ). (Entered:\n11/20/2019)\n11/22/2019 28  Plaintiff's Exhibit 1 (surveillance video) for Plaintiff's Response to Defendant's Motion\nto Summary Judgment. (Disk attached in envelope) (mbh, ) (Entered: 11/25/2019)\n11/25/2019 29  LETTER REQUEST FROM ALAN M. FELDMAN, ESQ., DATED\n11/22/2019.SIGNED BY HONORABLE PAUL S. DIAMOND ON 11/25/2019.\n11/25/2019 ENTERED AND COPIES E−MAILED.(rt) (Entered: 11/25/2019)\n11/25/2019 30  ORDERED THAT PLAINTIFF'S REQUEST IS GRANTED. PLAINTIFF SHALL\nFILE ITS CORRECTED BRIEF FORTHWITH. SIGNED BY HONORABLE PAUL\nS. DIAMOND ON 11/25/2019. 11/26/2019 ENTERED AND COPIES\n\nCase: 2:19-cv-799   As of: 06/16/2020 09:08 PM EDT   5 of 6\nE−MAILED.(sg, ) (Entered: 11/26/2019)\n11/26/2019 31  Amended RESPONSE to Statement of Undisputed Material Facts re 19 MOTION for\nSummary Judgment filed by KENARD PITNEY. (Attachments: # 1 Text of Proposed\nOrder, # 2 Exhibit, # 3 Exhibit, # 4 Exhibit, # 5 Exhibit, # 6 Exhibit, # 7 Exhibit, # 8\nExhibit, # 9 Exhibit, # 10 Exhibit, # 11 Exhibit)(FELDMAN, ALAN) Modified on\n11/27/2019 (lisad, ). (Entered: 11/26/2019)\n11/27/2019 32  REPLY Brief in Support re 19 MOTION for Summary Judgment filed by CITY OF\nCHESTER. Certificate of Service. (CUMMINS, NICHOLAS) Modified on 12/2/2019\n(lisad, ). (Entered: 11/27/2019)\n05/20/2020 33  MEMORANDUM AND/OR OPINION. SIGNED BY HONORABLE PAUL S.\nDIAMOND ON 5/20/2020. 5/21/2020 ENTERED AND COPIES E−MAILED.(sg, )\n(Entered: 05/21/2020)\n05/20/2020 34  ORDERED THAT DEFENDANTS MOTION FOR SUMMARY JUDGMENT IS\nDENIED. IT IS FURTHER ORDERED THAT DEFENDANTS SHALL RESPOND\nTO PLAINTIFF'S MOTION FOR LEAVE TO AMEND THE COMPLAINT NO\nLATER THAN 5/28/2020. SIGNED BY HONORABLE PAUL S. DIAMOND ON\n5/20/2020. 5/21/2020 ENTERED AND COPIES E−MAILED.(sg, ) (Entered:\n05/21/2020)\n05/22/2020 35  CORRESPONDENCE FROM NICHOLAS A. CUMMINS, DATED MAY 22, 2020,\nby CITY OF CHESTER (rt) (Entered: 05/22/2020)\n05/27/2020 36  ORDERED THAT PLAINTIFF'S MOTION FOR LEAVE TO FILE AN AMENDED\nCOMPLAINT IS GRANTED. THE CLERK OF COURT SHALL DOCKET\nPLAINTIFFS AMENDED COMPLAINT. DEFENDANTS SHALL MOVE,\nANSWER, OR OTHERWISE REPLY BY 6/9/2020. IT IS FURTHER ORDERED\nTHAT CLASS CERTIFICATION MOTIONS ARE DUE 8/7/2020. A HEARING ON\nCLASS CERTIFICATION WILL BE HELD ON FRIDAY, 8/28/2020 AT 1 PM IN\nCOURTROOM 14A. SIGNED BY HONORABLE PAUL S. DIAMOND ON\n5/27/2020.5/27/2020 ENTERED AND COPIES E−MAILED.(sg, ) (Entered:\n05/27/2020)\n05/27/2020 37  AMENDED COMPLAINT against CITY OF CHESTER, JOHN DOE 1, JOHN DOE\n2, filed by KENARD PITNEY.(sg, ) (Entered: 05/27/2020)\n06/01/2020 38  NOTICE of Appearance by ANDREW KEVIN MITNICK on behalf of KENARD\nPITNEY with Certificate of Service(MITNICK, ANDREW) (Entered: 06/01/2020)\n06/03/2020 39  MOTION to Amend/Correct 34 Order (Memorandum and/or Opinion),, Set Motion\nand R&R Deadlines/Hearings, to Certify for Appeal filed by CITY OF\nCHESTER.Brief, Certificate of Service.(CUMMINS, NICHOLAS) (Entered:\n06/03/2020)\n06/03/2020 40  ORDER THAT PLAINTIFF SHALL RESPOND TO DEFENDANT'S MOTION TO\nAMEND ORDER TO CERTIFY FOR APPEAL BY 6/8/20 AT 12:00 P.M.; ETC..\nSIGNED BY HONORABLE PAUL S. DIAMOND ON 6/3/20. 6/4/20 ENTERED\nAND E−MAILED.(JL ) (Entered: 06/04/2020)\n06/04/2020 41  NOTICE of Appearance by DAVID J. MACMAIN on behalf of CITY OF CHESTER\nwith Certificate of Service(MACMAIN, DAVID) (Entered: 06/04/2020)\n06/04/2020 42  NOTICE of Appearance by BRIAN H. LEINHAUSER on behalf of CITY OF\nCHESTER with Certificate of Service(LEINHAUSER, BRIAN) (Entered:\n06/04/2020)\n06/08/2020 43  RESPONSE in Opposition re 39 MOTION to Amend/Correct 34 Order (Memorandum\nand/or Opinion),, Set Motion and R&R Deadlines/Hearings, to Certify for Appeal filed\nby KENARD PITNEY. (Attachments: # 1 Certificate of Service)(FELDMAN, ALAN)\n(Entered: 06/08/2020)\n06/09/2020 44  STIPULATION TO PARTIAL DISMISSAL by CITY OF CHESTER, KENARD\nPITNEY. (sg, ) (Entered: 06/09/2020)\n\nCase: 2:19-cv-799   As of: 06/16/2020 09:08 PM EDT   6 of 6\n06/09/2020 45  ORDER THAT DEFENDANT'S MOTION TO AMEND ORDER TO CERTIFY\nAPPEAL (DOC. 39 ) IS DENIED. SIGNED BY HONORABLE PAUL S. DIAMOND\nON 6/9/2020.6/9/2020 ENTERED AND COPIES E−MAILED.(sg, ) (Entered:\n06/09/2020)\n06/09/2020 46  ORDERED THAT THE PARTIES' PARTIAL STIPULATION TO DISMISS (DOC.\n44 ) IS APPROVED AND ADOPTED AS OUTLINED HEREIN. SIGNED BY\nHONORABLE PAUL S. DIAMOND ON 6/9/2020. 6/9/2020 ENTERED AND\nCOPIES E−MAILED.(sg, ) (Entered: 06/09/2020)\n06/09/2020 47  ANSWER to 37 Amended Complaint by CITY OF CHESTER.(CUMMINS,\nNICHOLAS) (Entered: 06/09/2020)",
+      "document_type_other": "",
+      "external_url": "",
+      "ecf_number": null,
+      "clearinghouse_link": "clearinghouse.net/doc/106639"
+    },
+    {
+      "date": "2019-04-18",
+      "date_is_estimate": false,
+      "date_not_available": false,
+      "description": null,
+      "document_source": "PACER [Public Access to Court Electronic Records]",
+      "document_status": "Coding Complete",
+      "document_type": "Pleading / Motion / Brief",
+      "order_type": null,
+      "citation_paren": null,
+      "cite_1_page": null,
+      "cite_1_reporter": null,
+      "cite_1_vol": null,
+      "cite_2_page": null,
+      "cite_2_reporter": null,
+      "cite_2_vol": null,
+      "cite_3_page": null,
+      "cite_3_reporter": null,
+      "cite_3_vol": null,
+      "citation_status": "Not applicable",
+      "court": "Eastern District of Pennsylvania",
+      "no_title": false,
+      "party_types": [
+        "Defendant"
+      ],
+      "per_curium": false,
+      "is_core_document": true,
+      "id": 107485,
+      "file": "https://clearinghouse-umich-production.s3.amazonaws.com/media/doc/107485.pdf",
+      "title": "Entry of Appearance and Demand for Jury Trial",
+      "text": "Case 2:19-cv-00799-PD   Document 3   Filed 04/18/19   Page 1 of 1\n   \nIN THE UNITED STATES DISTRICT COURT \nFOR THE EASTERN DISTRICT OF PENNSYLVANIA \n \n   \nCIVIL ACTION – LAW \nKENARD PITNEY  : \n  v.  :   \n  :  NO. 2:19-cv-00799-RK \nCITY OF CHESTER  : \nAnd  : \n: \nPOLICE OFFICER WILLIAM J. \n:\nMURPHY, III \n: \nBADGE NUMBER 841 \nAnd \nPOLICE OFFICER JOHN DOE 1  \nAnd \nPOLICE OFFICE JOHN DOE 2 \n \n \n  ENTRY OF APPEARANCE AND DEMAND FOR JURY TRIAL \n \n \nTO THE PROTHONOTARY: \n \nKindly enter my appearance as counsel on behalf of defendants, City of Chester and \nOfficer William J. Murphy III, on whose behalf trial by jury of twelve (12) is hereby demanded. \n \n \nBENNETT, BRICKLIN & SALTZBURG LLC \n \n/s/ Nicholas A. Cummins   \nBy:                                                               \nNicholas A. Cummins \nAttorney I.D. No.  \n1601 Market Street, 16th Fl \nPhiladelphia, PA 19103 \nEmail: cummins@bbs-law.com \nAttorney for Defendants City of Chester and \nOfficer William J. Murphy III \nDate: April 18, 2019 ",
+      "document_type_other": "",
+      "external_url": "",
+      "ecf_number": "3",
+      "clearinghouse_link": "clearinghouse.net/doc/107485"
+    },
+    {
+      "date": "2021-01-27",
+      "date_is_estimate": false,
+      "date_not_available": false,
+      "description": "",
+      "document_source": "RECAP",
+      "document_status": "Coding Complete",
+      "document_type": "Settlement Agreement",
+      "order_type": "Consent Decree",
+      "citation_paren": null,
+      "cite_1_page": null,
+      "cite_1_reporter": null,
+      "cite_1_vol": null,
+      "cite_2_page": null,
+      "cite_2_reporter": null,
+      "cite_2_vol": null,
+      "cite_3_page": null,
+      "cite_3_reporter": null,
+      "cite_3_vol": null,
+      "citation_status": "Not applicable",
+      "court": "Eastern District of Pennsylvania",
+      "no_title": false,
+      "party_types": [
+        "Defendant",
+        "Plaintiff"
+      ],
+      "per_curium": false,
+      "is_core_document": true,
+      "id": 137594,
+      "file": "https://clearinghouse-umich-production.s3.amazonaws.com/media/doc/137594.pdf",
+      "title": "Settlement Agreement",
+      "text": "Case 2:19-cv-00799-PD   Document 74   Filed 01/27/21   Page 1 of 24\nIN THE UNITED STATES DISTRICT COURT\nFOR THE EASTERN DISTRICT OF PENNSYLVANIA\nKENARD PITNEY, both individually and  :\non behalf of a class of other similarly  :\nsituatedindividuals, :\n:\nPlaintiff, : CIVIL ACTION \n:\nv. : DOCKET NO. 2:19-cv-799\n:\nCITY OF CHESTER, :\n:\nDefendant. :\nSETTLEMENT AGREEMENT\nThe Plaintiff, Kenard Pitney(“Plaintiff” or “Pitney”), by and through his counsel, the \nLaw Offices of Patrick G. Geckle, LLC and Feldman Shepherd WohlgelernterTanner Weinstock \n& Dodig, LLP, (hereinafter “Class Counsel”), and the Defendant,City of Chester(“Defendant” \nor “City”)(jointly referred to as the “Parties”), by and through their counsel, hereby enter into \nthis Settlement Agreement providing, subject to the approval of the Court, for settlement of the \nclaims herein described against the Defendant.\nWHEREAS, Plaintifffiled the above-captioned class action lawsuit against the \nDefendant allegingthat Defendant had violated Plaintiff’s constitutional rights by illegally strip \nsearching him and others similarly situated upon entry into the cell block area of the City of \nChester Police Department.\nWHEREAS, Plaintifffurther alleges that the City has a uniform policy and practice of \nconducting strip searches on all detainees that enter the custody of the cell block area of the City \nof Chester Police Department, in violation of the U.S. Constitution.  Plaintiff contends that (1) \nthe City’s policy and practice of conducting blanket strip searches of detainees charged with \nmisdemeanors and other minor violations were violative of federal and state law protecting \n\nCase 2:19-cv-00799-PD   Document 74   Filed 01/27/21   Page 2 of 24\nagainst unreasonable searches,and (2) the City’s policy and practice of strip searching \nindividuals charged with misdemeanors and other minor violations were violative ofthe Fourth \nAmendment whenthe searches are conducted prior to the detainee having had an opportunity to \nbe arraigned and contest their detention.\nWHEREAS, Defendant has deniedand continues to deny Plaintiff’s claims, and \nDefendant denies any wrongdoing or liability of any kind to Plaintiffor to any members of the \nclass (as defined hereinafter).\nWHEREAS, the Parties to this Settlement Agreement have conducted and are continuing\nto conduct a thorough examination and investigation of the facts and law relating to the matters \nin this litigation and that such examination included documentary discovery in the course of the \nlitigation.\nWHEREAS, Defendant has concluded that settlement is desirable in order to avoid the \ntime, expense, and inherent uncertainties of defending protracted litigation and to resolve finally \nand completely all pending and potential claims of the Plaintiffand all members of the class \nrelating to alleged conduct involved in this litigation.\nWHEREAS, Plaintiffand Class Counsel recognize the costs and risks of prosecuting this \nlitigation, and believe that it is in their interest, and the interest of all Class Members, as defined \nbelow, to resolve this litigation,and any and all claims against Defendant, as well as all \nemployees of the City who may have devised, promulgated or enforced the policy or participated \nin the conduct that is the subject of this Settlement Agreement.\nWHEREAS, substantial, adversarial settlement negotiations have taken place between the \nParties, including settlement conferences conducted by United States Magistrate Judge Timothy \nR. Rice and former United States District Judge for the District of New JerseyStephen M. \n2\n\nCase 2:19-cv-00799-PD   Document 74   Filed 01/27/21   Page 3 of 24\nOrlofsky,and as a result, this Settlement Agreement has been reached, subject to the Court \napproval process set forth herein.\nWHEREAS,the Parties believe that this Settlement Agreement offers significant benefits \nto members of the proposed class and is fair, reasonable, adequate and in the best interest of \nputative class members.\nWHEREAS, this Settlement Agreement is made and entered into by and among \nDefendant and Plaintiff, individually and on behalf of a class (the “Class”) of similarly situated \npersons (the “Class Members”), defined, for settlement purposes, as:\nAll persons who have been (1) detained in a holding cell at the City of Chester \nPolice  Department  (2)  as  a  result  of  being  arrested  and/or  charged  with \nsummary  offenses,  civil  enforcement  offenses,  child  support  enforcement \narrears, traffic offenses, disorderly conduct offenses, contempt proceedings, \nnon-violent misdemeanor offenses in which a weapon was not utilized nor \nbrandished and/or no injury was caused to an individual, misdemeanors not \ninvolving drugs or controlled substances (exclusive of possession of a small \namount of marijuana for personal use), failure to pay financial fines, penalties \nand/or costs in like matters as set forth above; and/or failure to appear at any \ncourt proceedings on like matters as set forth above; and (3) who were strip-\nsearched upon their entry into detainment and/or custody and/or were strip-\nsearched prior to an appearance before a judge or judicial officer who had the \nauthority to release the person as referred to above from detainment and/or \ncustody; and (4) the strip search was conducted and/or performed pursuant to \nthe City of Chester’s strip search policy regardless of circumstances indicative \nof reasonable suspicion.\nThe Class Period commences on February 25, 2017and ends onDecember 9,2020.\nNOW, THEREFORE, it is hereby stipulated and agreed, by and between the undersigned \nas follows:\nI. DEFINITIONS\nAs used in this Settlement Agreement, the following terms shall have the meaning set \nforth below.  Where appropriate, terms used in the singular shall be deemed to include the plural \nand vice versa.\n3\n\nCase 2:19-cv-00799-PD   Document 74   Filed 01/27/21   Page 4 of 24\nA. Claim Form. “Claim Form” shall mean a form in substantially the same form as \nattached hereto as Exhibit A.\nB. Claims Period. “Claims Period” shall mean the time period during which claims \nmay be made by Class Members, extending from the Notice Date until the date one hundred \ntwenty (120)days thereafter, including weekends and holidays, provided that if the last day of \nthe Claims Period falls on a weekend or Federal holiday, then the end of the Claims Period shall \nbe the next following day that is not a weekend or Federal holiday.\nC. Class Counsel. “Class Counsel” shall mean: Law Offices of Patrick G. Geckle, \nLLC, Philadelphia, Pennsylvania, and Feldman Shepherd Wohlgelernter Tanner Weinstock & \nDodig, LLP, Philadelphia, Pennsylvania.\nD. Class Notice. “Class Notice” shall mean the Court-approved form of notice in \nsubstantially the same form as Exhibit B.\nE. Class Representative.“Class Representative” shall mean Plaintiff,Kenard Pitney.\nF. Class Settlement.“Class Settlement” shall mean the terms provided in this \nSettlement Agreement.\nG. Court. “Court” shall mean the United States District Court for the Eastern District \nof Pennsylvania,the Honorable Paul S. Diamondpresiding, or his duly appointed or designated \nsuccessor.\nH. Defendant. “Defendant” shall mean the City of Chester.\nI. Defendant’s Counsel. “Defendant’s Counsel” shall meanBennett, Bricklin, & \nSaltzburg, LLC, Philadelphia, Pennsylvania, and MacMain, Connell & Leinhauser, LLC, West \nChester,Pennsylvania.\n4\n\nCase 2:19-cv-00799-PD   Document 74   Filed 01/27/21   Page 5 of 24\nJ. Distribution Amount. “Distribution Amount” shall mean the amount paid to the \nclass members after the close of the class period and all individuals that file a claim are \nidentified.\nK. Effective Date. “Effective Date” shall mean the later of thirty (30)days from the \ndate on which the Settlement has been finally approved by the Court, or thirty(30)days from the \ndate on which any appeals from final approval are resolved.\nL. Final Approval Hearing. “Final Approval Hearing” shall mean the hearing at \nwhich the Court will consider and finally decide whether to enter the Final Judgment.\nM. Final Judgment. “Final Judgment” shall mean the Court Order that approves this\nSettlement Agreement, approves payment of attorneys’ fees and expenses, and makes such other \nfinal rulings as are contemplated by this Settlement Agreement, in substantially the same form as \nExhibit C.\nN. Litigation. “Litigation” shall mean the above-captioned lawsuit pending in the \nUnited States District Court for the Eastern District of Pennsylvaniaas Kenard Pitneyvs.City of \nChester, Docket No. 2:19-cv-799-PSD.\nO. Notice Program. “Notice Program” shall mean the program for disseminating the \nClass Notice to Class Members, including public dissemination of the Summary Notice, in \naccordance with the terms herein.\nP. Notice Date. “Notice Date” shall mean the date upon which Class Noticeis \nmailed to known Class Members in accordance with the terms herein.\nQ. Objection Date. “Objection Date” shall mean the date agreed upon by the Parties \nor otherwise ordered by the Court by which Class Members must submit any objection to the \n5\n\nCase 2:19-cv-00799-PD   Document 74   Filed 01/27/21   Page 6 of 24\nSettlement Agreement’s terms or provisions and submit any required statements, proof, or other \nmaterials and/or argument.\nR. Opt-Out Deadline. “Opt-Out Deadline” shall mean the date agreed upon by the \nPlaintiffand Defendant or otherwise ordered by the Court by which any Class Members who do \nnot wish to be included in the Class and participate in the Settlement must complete the acts \nnecessary to properly effect such election to opt out.\nS. Opt-Out List. “Opt-Out List” shall mean a written list prepared by the Settlement \nAdministrator of the names of all Class Members who submit timely Requests for Exclusion or \nOpt-Out Notices.\nT. Opt-Out Notice. “Opt-Out Notice” or “Opt-Out” shall mean a Request for \nExclusion.\nU. Parties. “Parties” shall mean the Plaintiffand Defendant.\nV. Plaintiff. “Plaintiff” shall mean Kenard Pitney.\nW. Preliminary Approval Order. “Preliminary Approval Order” shall mean the order \nof the Court preliminarily approving this Settlement Agreement and conditionally certifying a \nprovisional Class, in substantially the same form as Exhibit D.\nX. Release. “Release” shall mean the release described in Section VIIherein.\nY. Released Claims. “Released Claims” shall mean and include any and all claims \nor causes of action by or on behalf of any and all Class Members (and their predecessors, \nsuccessors, heirs, administrators, executors, agents, trustees, representatives, and assigns) that are \nreleased by the Release described in Section VIIherein.\nZ. Released Parties. “Released Parties” shall mean all persons or entities against \nwhom Released Claims will be released pursuant to the Release described in Section VIIherein.\n6\n\nCase 2:19-cv-00799-PD   Document 74   Filed 01/27/21   Page 7 of 24\nAA. Request for Exclusion. “Request for Exclusion” shall mean any request by any \nClass Member for exclusion from the Class in compliance with Section V herein.\nBB. Settlement. “Settlement” shall mean the agreement by the Plaintiffand Defendant\nto resolve the Litigation, the terms of which have been memorialized in this Settlement \nAgreement.\nCC. Settlement Administrator.  “Settlement Administrator” shall mean the qualified \nparty selected by the Plaintiffand Defendant and designated in the Preliminary Approval Order \nto administer the Settlement, including implementing the Notice Program and administeringthe \nSettlement Website.  Neither Plaintiffnor Defendant shall have any responsibility for any acts or \nomissions of the Settlement Administrator.  The parties have agreed to select Rust Consultingas \nthe Settlement Administrator.\nDD. Settlement Agreement. “Settlement Agreement” shall mean this Settlement \nAgreement, including any amendment hereto pursuant to Section X.Dhereof, and all the exhibits \nattached hereto.\nEE. Settlement Fund. “Settlement Fund” shall mean a fund, governed by terms to be \nagreed to between Class Counsel and Defendant’s Counsel, which shall be placed in an escrow \naccount and utilized to administer the monetary requirements of the Settlement. The Settlement \nFund will be established by Class Counsel and entitled the “City of ChesterQualified Settlement \nFund” and treated as trust fund monies under relevant Pennsylvaniaethical standards.\nFF. Settlement Amount. “Settlement Amount” shall mean theamount to be paid by \nor on behalf of the Defendant. The actual Settlement Amount will be calculated after the Claims \nPeriod has ended.\n7\n\nCase 2:19-cv-00799-PD   Document 74   Filed 01/27/21   Page 8 of 24\nGG. Settlement Website: The Settlement Administratorwill establish a website to \nprovide information about the settlement with a World Wide Web address of \nwww.cityofchesterstripsearch.com, or something substantially similar.\nHH. Strip Search. For purposes of this Settlement Agreement, “Strip Search” means \nthe contactless removal or rearrangement of clothing for the purpose of visual inspection of the \nperson's undergarments, buttocks, anus, genitals, and/or breasts, including but not limited to a \nvisual inspection taking place in an isolated cell within the City of Chester’s cell block area.\nII. Summary Notice. “Summary Notice” shall mean a notice in substantially the \nsame form as that which appears at Exhibit E.\nII. REQUIRED EVENTS\nA. Promptly after execution of this Settlement Agreement by all Parties:\n1. Class Counsel and Defendant’s Counsel shall use their best efforts to \ncause the Court to enter the Preliminary Approval Order and the Final Judgment in substantially \nthe forms attached hereto as Exhibits D and C, respectively.\n2. The Parties to the Settlement Agreement shall jointly move for entry of a \nPreliminary Approval Order in substantially the same form as Exhibit D, which by its terms \nshall:\na. Preliminarily approve the terms of the Settlement Agreement, \nincluding the certification of the Class for purposes of this Settlement Agreement, as within the \nrange of fair, reasonable and adequate settlements for purposes of issuing notice;\nb. Approve the contents of the Class Notice and methods in the \nNotice Plan;\nc. Schedule a Final Approval Hearing to review comments regarding \nthe proposed Class Settlement and to consider the fairness, reasonableness, and adequacy of the \n8\n\nCase 2:19-cv-00799-PD   Document 74   Filed 01/27/21   Page 9 of 24\nproposed Class Settlement and the application for an award of attorneys’ fees and reimbursement \nof expenses, and to consider whether the Court should issue a Final Judgment (in substantially \nthe same form as Exhibit C) approving the Class Settlement, granting Class Counsel’s \napplication for fees and expenses, granting the Incentive Award application of the Class \nRepresentative, and dismissing the Litigation with prejudice.\n3. Class Counsel and Defendant’s Counsel will use their best efforts, \nconsistent with the terms of this Settlement Agreement, to promptly obtain a Final Judgment.\n4. In the event that the Court fails to issue the Preliminary Approval Order or \nfails to issue the Final Judgment, Class Counsel and Defendant’s Counsel agree to use their best \nefforts, consistent with this Settlement Agreement, to cure any defect identified by the Court; \nprovided, however, that in no event shall Defendant be required to agree to any such cure that \nwould increase the cost or burden of the Settlement Agreement to such Defendant.\n5. The Parties acknowledge that prompt approval, consummation, and \nimplementation of the Settlement set forth in this Settlement Agreement are essential.  The \nParties shall cooperate with each other in good faith to carry out the purposes of and effectuate \nthis Settlement Agreement, shall promptly perform their respective obligations hereunder, and \nshall promptly take any and all actions and execute and deliver any and all additional documents \nand all other materials and/or information reasonably necessary or appropriate to carry out the \nterms of this Settlement Agreement and the transactions contemplated hereby. Any disputes \nregarding the Parties’ obligations under this paragraph shall be submitted for decision by the \nCourt, whichdecision shall be binding on the Parties.\nIII. SETTLEMENT TERMS\n1. The City of Chester Police Department has agreed to update its policies \nand directives related to strip searches, implementing a new Policy with a checklist review to \n9\n\nCase 2:19-cv-00799-PD   Document 74   Filed 01/27/21   Page 10 of 24\ndetermine whether reasonable suspicion exists to conduct future strip searches in accordance \nwith existinglaw.\n2. The City of Chesteracknowledges that it revised its strip search policies in \npart because of the institution and prosecution of this action.\nA. Settlement Fund\n1. Defendant will cause to be paid into the Settlement Fund aninitial sum \nidentified as necessary for administration of the claim as identified in paragraph 2and thereafter \npay all amounts necessary for final resolution of all claims made by Class Members in \naccordance with the provisions of this Settlement Agreement.\n2. Within thirty(30)days of the entry of the Preliminary Approval Order, \nDefendant shall pay into the Settlement Fund the amount of $50,000(the “Initial Contribution”) \nto be used by the Settlement and Website Administrators to cover the initial costs of Notice and \nadministration of the Settlement. If this full amount is not used, the balance will be applied to \nclaims that must be paid by the Defendant.  If the amount for administration exceeds the \nestimated $50,000, it will be paid by the Defendant.If, at any time, whether by order of any \ncourt or for any other reason, the Settlement does not become final, then any unspent money \nremaining from the Initial Contribution shall be returned to the City of Chester with no \nobligation on the part of any party to repay any portion of the money actually spent.  \n3. Defendant’s remaining monetary obligation will be deposited into the \nSettlement Fund by the Effective Date by either wire transfer or check.\n4. All administrative expenses, including the costs of Settlement \nadministration, website administration and the provision of notice to Class Members, as well as \n10\n\nCase 2:19-cv-00799-PD   Document 74   Filed 01/27/21   Page 11 of 24\nthe amounts awarded by the Court for attorneys’ fees and costs, andanincentive award to the \nClass Representative, will be paid into the Settlement Fund upon Order of the Court.  \nB. Settlement Administrator.\n1. The parties agreed to select Rust Consultingas the Settlement \nAdministrator.  Defendant shall pay the reasonable bill of Rust Consulting.  This Bill will be paid \nboth from the Initial Contribution and, if necessary, at the end of the settlement should sums be \ndue to Rust Consulting. In the event that the services of Rust Consultingrequire a payment of \nmore than $50,000.00, these fees will be paid at the end of the settlement Claims Period from the \nSettlement Fund.\n2. In the event that the expenses for claims administration detailed above are \nless than the $50,000 initial contribution, any excess monies will revert to the City of Chester.\nC. Payments to Class Members\n1. EachClass Member arrested and housed in the cell block area on a highest \ngradedoffense which constitutes a Summary,who submits a timely Claim Form will be entitled \nto receive $1,000.00, subject to the conditions set forth below.\n2. Each Class Member arrested and housed in the cell block area on a highest \ngraded offense which constitutes a Misdemeanor, except those misdemeanors involving drug \noffenses or violent offenses involving physical harm to an individual or use/possession of a \nweapon of any kind, who submits a timely Claim Form will be entitled to receive $400.00, \nsubject to the conditions set forth below.\n3. Each Class Member arrested and housed in the cell block area on a highest \ngraded offense constitutes misdemeanor possession of a small amount of marijuana for personal \n11\n\nCase 2:19-cv-00799-PD   Document 74   Filed 01/27/21   Page 12 of 24\nuse, who submits a timely Claim Form will be entitled to receive $100.00, subject to the \nconditions set forth below.\n4. No Class Member shall be entitled to more than his or her individual share \nof the Distribution Amount regardless of the number of times he or she has been booked and/or \nStrip Searched at the City of Chester Police Department.\n5. If a Class Member owes child support, or owe costs or fines owed as a \nresult of an adjudication by any of the Courts of the Commonwealth of Pennsylvania, their \npayment under this Settlement will be credited towards their child support debt or costs or fines \nowed. For example, if theyare entitled to a $400.00payment under this Settlement andowe \n$300.00in child support, costs and/or fines, $300.00of the $400.00will go towards satisfying \nthe child support, costs and/or fines obligation, and the Class Member will be paid the remaining \n$100.00balance.  Likewise, if a Class Member owes $1,000.00inchild support, costs and/or \nfines, the full $400.00will be creditedtowards the debt, reducing the total child support, costs \nand/or fines to $600.00.\n6. The City has the right to challenge individual claims but expects to use \nthis right reasonably and sparingly.\n7. No portion of the Distribution Amount shall be disbursed before the \nEffective Date.  \n8. The Parties acknowledge that Class Members have an important interest in \nbeing able to maintain their privacy in filing a claim on this class action settlement.  \nAccordingly, the identification of any class member making a claim shall be kept confidential \nand disclosed only to Class Counsel and Defendant’s Counsel, and shall be protected from public \ndisclosure, unless such disclosure is required by law or to address the validity of any claim.\n12\n\nCase 2:19-cv-00799-PD   Document 74   Filed 01/27/21   Page 13 of 24\nD. Attorneys’Fees and Expenses\n1. Class Counsel will petition the Court for an award of attorneys’ fees and \nexpenses.  Defendant shall not oppose Class Counsel’s application for anaward of fees and \nexpenses to the extent that it does not exceed $275,000.00,which is subject to the Court’s \nApproval, nor will Defendant oppose any appeal filed by Class Counsel relative to their \napplication for an award of attorneys’ fees, so long as such application for attorneys’ fees and \nexpenses conforms with the Settlement Agreement and is not in excess of $275,000.00.\nE. Additional Discovery\n1. Defendant will continue to cooperate in a timely and reasonable manner \nwith Class Counsel to determine class size and Class Members’ names and addresses.  Defendant\nwill provide Class Counsel and the Settlement Administratorwith the data maintained by the \nCity forthe purposes of assembling a class list. Defendant will also cooperate with Class \nCounsel for the purposes of obtaining any additional information needed to determine the \nidentity of the Class Members. Subject to applicable law, the Defendant will not object to \nproviding social security numbers or dates of birth for Class Members for the purposes of \nlocating absent Class Members.  \nIV. NOTIFICATION TO CLASS MEMBERS\nA. Responsibilities of the Settlement Administrator and Website Administrator\n1. The Settlement Administrator shall implement and administer the Notice \nProgram.\n2. The Settlement Administrator shall be responsible for, without limitation: \n(i) mailing the Class Notices; (ii) arranging for the publication of the Summary Notice; (iii) \nresponding to requests for a copy of the Class Notice; (iv) administering the Settlement Website; \n13\n\nCase 2:19-cv-00799-PD   Document 74   Filed 01/27/21   Page 14 of 24\n(v) otherwise administering the Notice Program; and (vi) distributing payments to the Class \nMembers.  The Notice Program shall comply with all requirements of applicable law.  The \nSettlement Administrator will maintain an appropriate insurance policy to protect against any \nviolation of its fiduciary duty to the Court, Class Members, or Class Counsel. \nB.  Notice \n1.  Notice will be provided to the Class by direct mailing of Class Notice and \na Claim Form to all individuals at their last known or readily ascertainable address and by \npublication in the Delaware County Daily Times on at least one (1) day per week for three (3) \nconsecutive weeks commencing on the Notice date, and on one occasion during the last ten (10) \ndays of the Claims Period.  The mailed notice will be provided in Spanish and English, and \nnewspaper advertisements will provide instruction that a Spanish copy of the notice will be \nprovided upon request. The Class Notice will also be disseminated by a limited television \nadvertising campaign.   \n2.  The Settlement Administrator shall also provide a copy of the Class \nNotice and Claim Form to anyone who requests notice through written communication to the \nSettlement Administrator, or through a toll-free telephone number to be established by the \nSettlement Administrator.  The Website Administrator will also provide downloadable copies of \nnotices, Claim Forms, court decisions and other information to Class Members through a \ndedicated internet website, www.cityofchesterstripsearch.com, or something substantially \nsimilar. \n3.  Defendant will cooperate in the Notice Program by providing Class \nCounsel and the Settlement Administrator with information necessary to affect notice to the \nClass including, but not limited to, cooperating with efforts to obtain the last known address of \n14 \n \n\nCase 2:19-cv-00799-PD   Document 74   Filed 01/27/21   Page 15 of 24\npotential Class Members from City records.  The Defendant will provide access to the list \ngenerated by the City regarding applicable intakes into the City cell block area during the Class \nperiod. \n    4.  Notice will also be provided to the Class by way of limited televised \nnotice campaign on cable television, with ads to run during the same weeks as the newspaper \nnotice detailed above.   \n5.  If, after the initial mailing, the Notice is returned as undeliverable, the \nSettlement Administrator will attempt to locate the Class Members by way of a national locator \ndatabase or service and, if another address is found, re-mail the Notice to that new address. \n6.  The Settlement Administrator shall provide an affidavit to the Court, with \na copy to Class Counsel and Defendant’s Counsel, attesting to the measures undertaken to \nprovide Notice of the Settlement, including the number of visitors and number of documents \ndownloaded from the Settlement Website.  The affidavit will be filed ten (10) days before the \ndate scheduled for Final Approval. \n7.  The Settlement Administrator (and any person retained by the Settlement \nAdministrator) shall sign a confidentiality agreement in a form agreed to by the Parties, which \nshall provide that the names, addresses and other information about specific Class Members \nand/or specific Class Members that is provided to it by Defendant, Class Counsel, or by \nindividual Class Members, shall be treated as confidential and shall be used only by the \nSettlement Administrator as required by this Settlement Agreement. \n8.  Class Counsel will, if appropriate, employ an interpreter on a per diem \nbasis to assist Class Members whose primary language is Spanish in filing claims under the \nsettlement.  The costs of this interpreter will be paid as an administrative cost. \n15 \n \n\nCase 2:19-cv-00799-PD   Document 74   Filed 01/27/21   Page 16 of 24\nV.  REQUESTS FOR EXCLUSION BY CLASS MEMBERS \nA.  The provisions of this paragraph shall apply to any Request for Exclusion.  Any \nClass Member may make a Request for Exclusion by mailing or delivering such request in \nwriting to the Settlement Administrator.  Any Request for Exclusion must be postmarked or \ndelivered not later than the Opt-Out Deadline.  Any Request for Exclusion shall state the name, \naddress and telephone number of the person requesting exclusion and contain a clear statement \ncommunicating that such person elects to be excluded from the Settlement, does not wish to be a \nClass Member, and elects to be excluded from any judgment entered pursuant to the Settlement. \nB.  Any Class Member who submits a timely Request for Exclusion may not file an \nobjection to the Settlement and shall be deemed to have waived any rights or benefits under this \nSettlement Agreement. \nC.  Not later than three (3) business days after the deadline for submission of \nRequests for Exclusion, the Settlement Administrator shall provide an Opt-Out List to Class \nCounsel and to Defendant’s Counsel together with copies of the Request for Exclusion.  Class \nCounsel and Defendant’s Counsel shall jointly report the names appearing on the Opt-Out List to \nthe Court at the time of the Final Approval Hearing. \nD.  Class Counsel agrees that they will not represent any individuals who opt-out \nfrom the Settlement in asserting claims against Defendant that are the subject of this agreement. \nVI.  OBJECTIONS BY CLASS MEMBERS \nA.  Any Class Member who wishes to be heard orally at the Final Approval Hearing, \nor who wishes for any objection to be considered, must file a written notice of objection by the \nObjection Date. Such objection shall state the name, address and telephone number of the person \nand provide proof of membership in the Class, as well as a detailed statement of each objection \n16 \n \n\nCase 2:19-cv-00799-PD   Document 74   Filed 01/27/21   Page 17 of 24\nasserted, including the grounds for objection and reasons for appearing and being heard, together \nwith any documents such person wishes to be considered in support of the objection. \nB.  The agreed-upon procedures and requirements for filing objections in connection \nwith the Final Approval Hearing are intended to ensure the efficient administration of justice and \nthe orderly presentation of any Class Members’ objections to the Settlement Agreement, in \naccordance with such Class Members’ due process rights.  The Preliminary Approval Order and \nClass Notice will require all Class Members who have any objections to file such notice of \nobjection or request to be heard with the Clerk of the Court, and serve by mail or hand delivery \nsuch notice of objection or request to be heard, including all papers or evidence in support \nthereof, upon one of the Class Counsel and Defendant’s Counsel, at the addresses set forth in the \nClass Notice, no later than the Objection Date.  The Preliminary Approval Order will further \nprovide that objectors who fail to properly or timely file their objections with the Clerk of the \nCourt, along with the required information and documentation set forth above, or to serve them \nas provided above shall not be heard during the Final Approval Hearing, nor shall their \nobjections be considered by the Court. \nC.  In accordance with law, only Class Members who object to the Settlement \npursuant to the terms immediately above may appeal any Final Judgment.  The proposed Final \nJudgment shall provide that any Class Member who wishes to appeal Final Judgment, which \nappeal will delay the distribution of the Settlement to the Class, shall post a bond with this Court \nin any amount to be determined by the Court as a condition of prosecuting such appeal. \nVII.  RELEASE, DISMISSAL OF ACTION, AND JURISDICTION OF COURT \nA.  By this Settlement Agreement and the following Release, Defendant, and all of its \nrespective affiliates, predecessors, successors and assigns, officers, agents, representatives, \ninsurers, attorneys and employees (the “Released Persons”), are released from any and all claims \n17 \n \n\nCase 2:19-cv-00799-PD   Document 74   Filed 01/27/21   Page 18 of 24\nor causes of action that were, could have been, or should have been asserted by the named \nPlaintiff or any member of the Class against the Released Persons, or any of them, based upon or \nrelated to the actions that are the subject of this Settlement Agreement. \nB.  This Settlement Agreement and Release does not affect the rights, if any, of Class \nMembers who timely and properly exclude themselves from the Settlement. \nC.  The administration and consummation of the Settlement as embodied in this \nSettlement Agreement shall be under the authority of the Court.  The Court shall retain \njurisdiction to protect, preserve, and implement the Settlement Agreement, including, but not \nlimited to, the Release.  The Court expressly retains jurisdiction in order to enter such further \norders as may be necessary or appropriate in administering and implementing the terms and \nprovisions of the Settlement Agreement, including, but not limited to, orders enjoining Class \nMembers from prosecuting claims that are released pursuant to the Settlement Agreement. \nD.  Upon the Effective Date:  (i) the Settlement Agreement shall be the exclusive \nremedy for any and all Released Claims of Class Members; (ii) the Released Parties shall not be \nsubject to liability or expense of any kind to any Class Members or their successors, predecessors \nor assigns except as set forth herein; and (iii) Class Members and their successors, predecessors \nand assigns shall be permanently barred from initiating, asserting, or prosecuting any and all \nReleased Claims against any Released Party in any federal or state court in the United States or \nany other tribunal. \nVIII.  INCENTIVE AWARDS TO CLASS REPRESENTATIVE \nA.  Given the efforts of the named Plaintiff on behalf of the Class, Defendant will not \noppose an application for an incentive award of $25,000.00 on behalf of Kenard Pitney, such \namount to be paid at the time of distribution to the Class Members that timely file a Claim Form. \nThis amount will be subject to the terms outlined in paragraph III.C.5, relating to child support, \n18 \n \n\nCase 2:19-cv-00799-PD   Document 74   Filed 01/27/21   Page 19 of 24\ncosts and fines obligations.  It is agreed between the Parties that Pitney provided substantial \nassistance to Class Counsel in the prosecution of this action. \nIX.  REPRESENTATIONS, WARRANTIES AND COVENANTS \nA.  Class Counsel, who are signatories hereof, represent and warrant that they have \nthe authority, on behalf of Plaintiff, to execute, deliver, and perform this Settlement Agreement \nand to consummate all of the transactions contemplated hereby.  This Settlement Agreement has \nbeen duly and validly executed and delivered by Class Counsel and Plaintiff and constitutes their \nlegal valid and binding obligation. \nB.  Defendant, through its undersigned attorneys, represents and warrants that it has \nthe authority to execute, deliver, and perform this Settlement Agreement and to consummate the \ntransactions contemplated hereby.  The execution, delivery and performance by Defendant of \nthis Settlement Agreement and the consummation by them of the actions contemplated hereby \nhave been duly authorized by all necessary corporate action on the part of Defendant.  This \nSettlement Agreement has been duly and validly executed and delivered by Defendant and \nconstitutes their legal, valid, and binding obligation. \nX.  MISCELLANEOUS PROVISIONS \nA.  This Settlement Agreement, and the exhibits and related documents hereto, are \nnot, and shall not at any time be construed or deemed to be, or to evidence, any admission \nagainst or concession by Defendant with respect to any wrongdoing, fault, or omission of any \nkind whatsoever, regardless of whether or not this Settlement Agreement results in entry of a \nFinal Judgment as contemplated herein.  Any payment of moneys, or any other action taken, by \nDefendant pursuant to any provision of this Settlement Agreement, shall not at any time be \nconstrued or deemed to be, or to evidence, any admission against or concession by Defendant \nwith respect to any wrongdoing, fault, or omission of any kind whatsoever, regardless of whether \n19 \n \n\nCase 2:19-cv-00799-PD   Document 74   Filed 01/27/21   Page 20 of 24\nor not this Settlement Agreement results in entry of a Final Judgment as contemplated herein.  \nDefendant denies any liability to Plaintiff and to all Members of the Class.  This provision shall \nsurvive the expiration or voiding of the Settlement Agreement. \nB.  This Settlement Agreement is entered into only for purposes of Settlement.  In the \nevent that the Effective Date does not occur for any reason or the Final Judgment is not entered, \nthen this Settlement Agreement, including any releases or dismissals hereunder, is canceled.  In \nthe event this Settlement Agreement is cancelled or deemed cancelled, no term or condition of \nthis Settlement Agreement, or any draft thereof, or of the discussion, negotiation, documentation \nor other part or aspect of the Parties’ settlement discussions shall have any effect, nor shall any \nsuch matter be admissible in evidence for any purpose, or used for any purposes whatsoever in \nthe Litigation or in any other litigation, and all Parties shall be restored to their prior rights \npositions as if the mediation had never occurred and the Settlement Agreement had not been \nentered into. \nC.  The headings of the sections and paragraphs of this Settlement Agreement are \nincluded for convenience only and shall not be deemed to constitute part of this Settlement \nAgreement or to affect its construction. \nD.  This Settlement Agreement, including all exhibits attached hereto, may not be \nmodified or amended except in writing signed by all of the Parties or their counsel. \nE.  This Settlement Agreement may be executed in one or more counterparts, each of \nwhich shall be deemed an original but all of which together shall constitute one and the same \ninstrument. \nF.  This Settlement Agreement shall be governed by and construed in accordance \nwith the substantive laws of the Commonwealth of Pennsylvania, without giving effect to any \n20 \n \n\nCase 2:19-cv-00799-PD   Document 74   Filed 01/27/21   Page 21 of 24\nchoice or conflict of law provision, or rule that would cause the application of the laws of any \nother jurisdiction. \nG.  Except as otherwise provided in this Settlement Agreement, each party to this \nSettlement Agreement shall bear his or its own costs of the Litigation. \nH.  If any clause, provision or paragraph of this Settlement Agreement shall, for any \nreason, be held illegal, invalid, or unenforceable, such illegality, invalidity, or unenforceability \nshall not affect any other clause, provision or paragraph of this Settlement Agreement, and this \nSettlement Agreement shall be construed and enforced as if such illegal, invalid, or \nunenforceable clause, paragraph, or other provisions had not been contained herein. \nI.  The Parties to this Settlement Agreement reserve the right, by agreement and \nsubject to the Court’s approval, to grant any reasonable extensions of time that might be \nnecessary to carry out any of the provisions of this Settlement Agreement. \nJ.  All applications for Court approval or Court orders required under this Settlement \nAgreement shall be made on notice to Plaintiff and Defendant. \nK.  The determination of the terms of, and the drafting of, this Settlement Agreement, \nincluding its exhibits, has been by mutual agreement after negotiation, with consideration by and \nparticipation of all Parties and their counsel.  Since this Settlement Agreement was drafted with \nthe participation of all Parties and their counsel, the presumption that ambiguities shall be \nconstrued against the drafter does not apply.  Each of the Parties was represented by competent \nand effective counsel throughout the course of settlement negotiations and in the drafting and \nexecution of this Settlement Agreement, and there was no disparity in bargaining power among \nthe Parties to this Settlement Agreement.  In entering into this Settlement Agreement, none of the \nParties relied on advice received from any other Party or any other Party’s counsel. \n21 \n \n\nCase 2:19-cv-00799-PD   Document 74   Filed 01/27/21   Page 22 of 24\nL.  Integrated Agreement \n1.  All of the exhibits to this Settlement Agreement are material and integral \nparts hereof and are fully incorporated herein by reference. \n2.  This Settlement Agreement and the exhibits thereto constitute the entire, \nfully integrated agreement among the Parties and cancel and supersede all prior written and \nunwritten agreements and understandings pertaining to the settlement of the Litigation. \nM.  Notice: \n1.  Any notice, request or instruction or other document to be given by any \nparty to this Settlement Agreement to any other party to this Settlement Agreement (other than \nclass notification) shall be in writing and delivered personally or sent by registered or certified \nmail, postage prepaid: \n•  If to Defendant to:  City of Chester c/o Brian H. Leinhauser, \nMacMain, Connell & Leinhauser, LLC, 433 W. Market Street, \nSuite 200, West Chester, PA 19382 AND c/o Nicholas Cummins, \nBennett, Bricklin, & Saltzburg LLC, West Tower, Centre Square, \n1500 Market Street, 32nd Floor, Philadelphia, PA 19103. \n \n•  If to Class Counsel or Plaintiff to:  Alan M. Feldman, Feldman \nShepherd Wohlgelernter Tanner Weinstock & Dodig, LLP, 1845 \nWalnut Street, 21st Floor, Philadelphia, PA 19103 AND Patrick \nGeckle, Law Offices of Patrick G. Geckle, LLC, 1515 Market \nStreet, Suite 1200, Philadelphia, PA 19102. \n \n \n \n \n \n \n \n \n \n \n \n \n \n22 \n \n\nCase 2:19-cv-00799-PD   Document 74   Filed 01/27/21   Page 23 of 24\nN. Dispute Resolution\n1. Except as otherwise provided herein, the Parties agree that any disputes \nregarding the terms and conditions of this Agreement, the Parties’ rights and obligations under\nthis Settlement Agreement, and/or the manner in which any issue or dispute arising under this \nSettlement Agreement, shall be resolvedby the Court.\nIN WITNESS WHEREOF, Plaintiffand Defendant and their respective counsel have \nexecuted this Settlement Agreement as of the date(s) indicated on the lines below.\n  \nDated: __________________________________\nPatrick G. Geckle\nLaw Offices of Patrick G. Geckle, LLC\n1515 Market Street, Suite 1200\nPhiladelphia, PA\nTelephone::221155--773355--33332266\n______________________________________________________\nAlan M. Feldman\nEdward S. Goldis\nAndrew K. Mitnick\nFeldman Shepherd Wohlgelernter \nTanner Weinstock & Dodig, LLP\n1845 Walnut Street, 21st Floor\nPhiladelphia, PA 19103\nTelephone: 215-567-8300\nATTORNEYS FOR PLAINTIFFAND\nTHE CLASS MEMBERS\nDated:  January 26, 2021 __________________________________\nDavid J. MacMain\nBrian H. Leinhauser\nAndrew J. Davis\nMacMain, Connell & Leinhauser, LLC\n433 W. Market Street, Suite 200\nWest Chester, PA 19382\nTelephone: 484-318-7802\n23\n\nCase 2:19-cv-00799-PD   Document 74   Filed 01/27/21   Page 24 of 24\n \n \n \n              /s/ Nicholas Cummins        \nNicholas Cummins \nBennett, Bricklin & Saltzburg LLC \n1500 Market Street, 32nd Floor \nPhiladelphia, PA 19102 \nTelephone: 215-561-4300  \n \n \nATTORNEYS FOR THE DEFENDANT \n \n \n \n \n \n24 \n ",
+      "document_type_other": null,
+      "external_url": "https://www.courtlistener.com/docket/14949775/74/pitney-v-city-of-chester/",
+      "ecf_number": "74",
+      "clearinghouse_link": "clearinghouse.net/doc/137594"
+    }
+  ],
+  "document_count": 6
+}

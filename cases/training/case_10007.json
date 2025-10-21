@@ -1,0 +1,202 @@
+{
+  "case_id": 10007,
+  "fetched_at": "2025-10-20T22:39:24.981249",
+  "case_data": {
+    "attorney_orgs": [],
+    "available_documents": [
+      "Any published opinion"
+    ],
+    "case_defendants": [
+      {
+        "defendant_level": null,
+        "institution": "Hennepin County Jail",
+        "institution_alt_state": null,
+        "institution_city": "",
+        "institution_county": "Hennepin",
+        "name": "Hennepin County",
+        "defendant_level_other": "",
+        "is_active": true
+      },
+      {
+        "defendant_level": null,
+        "institution": "",
+        "institution_alt_state": null,
+        "institution_city": "",
+        "institution_county": "Hennepin",
+        "name": "Hennepin County Sheriff's Department",
+        "defendant_level_other": "",
+        "is_active": true
+      }
+    ],
+    "case_ongoing": "No reason to think so",
+    "case_status": "Coding Complete",
+    "case_types": [
+      "Jail Conditions"
+    ],
+    "cause_other": "",
+    "causes": [
+      "42 U.S.C. § 1983"
+    ],
+    "class_action_granted": "Unknown",
+    "class_action_sought": "Yes",
+    "closing_year": null,
+    "constitutional_clause": [
+      {
+        "value": "Unreasonable search and seizure"
+      }
+    ],
+    "content_of_injunction": [],
+    "court": "District of Minnesota",
+    "custom_issues": [],
+    "defendant_payment": "",
+    "defendant_type": [],
+    "docket_status": "None",
+    "facility_type": [
+      {
+        "value": "Government-run"
+      }
+    ],
+    "filing_date": "1983-04-15",
+    "filing_year": 1983,
+    "id": 10007,
+    "injunction_duration": "",
+    "issues": [
+      "General/Misc.: Search policies",
+      "Jails, Prisons, Detention Centers, and Other Institutions: Strip search policy (facilities)",
+      "Affected Sex/Gender(s): Male",
+      "Affected Sex/Gender(s): Female"
+    ],
+    "last_checked_date": "2007-07-25T00:00:00-04:00",
+    "main_docket": {
+      "id": 33073,
+      "docket_entries": [],
+      "docket_case_type": "cv",
+      "docket_year": 1983,
+      "docket_filing_number": 468,
+      "is_main_docket": true,
+      "court": "District of Minnesota",
+      "state": "Minnesota",
+      "docket_office_number": "3",
+      "docket_number_manual": "3-83-468",
+      "scales_html": null,
+      "recap_link": null,
+      "is_active": true
+    },
+    "name": "Jane Does 1-100 v. Omodt",
+    "never_filed": false,
+    "non_docket_case_number": "",
+    "non_docket_case_number_type": null,
+    "non_docket_case_number_type_other": "",
+    "order_end_year": null,
+    "order_start_year": null,
+    "permanent_injunction": false,
+    "plaintiff_description": "Arrestees strip-searched Hennepin County, Minnesota Jail.",
+    "plaintiff_type": [
+      {
+        "value": "Private Plaintiff"
+      }
+    ],
+    "prevailing_party": "Unknown",
+    "pro_se_status": "Unknown",
+    "public_interest_lawyer": "Unknown",
+    "related_cases": [],
+    "relief_natures": [
+      "Unknown"
+    ],
+    "relief_nature_other": "",
+    "relief_sources": [
+      "Unknown"
+    ],
+    "settlement_agreement": [],
+    "settlement_judgment_date": "1987-03-13",
+    "settlement_judgment_year": null,
+    "special_collections": [
+      "Strip Search Cases"
+    ],
+    "special_case_type": [],
+    "state": "Minnesota",
+    "summary": "<p>In 1978, an individual arrested for a minor offense filed a 42 U.S.C. § 1983 class action lawsuit in the U.S. District Court for the District of Minnesota, challenging the constitutionality of the Hennepin County Jail strip search policy.</p><p>The District Court (Judge Paul A. Magnuson) dismissed the case, holding that it was time-barred by Minnesota's two-year statute of limitations for personal injury actions.  Plaintiff appealed to the U.S. Court of Appeals for the Eighth Circuit.  </p><p>On March 13, 1987, the Eighth Circuit (Judge George Gardner Fagg) reversed, holding that the law as it existed at the time Plaintiff's suit was filed required application of a six-year statute of limitations, thereby making Plaintiff's suit timely.  The Eighth Circuit refused to retroactively apply the U.S. Supreme Court case of Wilson v. Garcia, 471 U.S. 261 (1985), which changed the law governing personal injury statutes of limitations in § 1983 civil rights actions.  The Eighth Circuit thereby reversed the District Court's dismissal and remanded the case to the District Court for further proceedings.</p><p>There was no PACER docket available and we have no further information on this case.</p><p></p>",
+    "summary_published_date": "2008-02-17T00:00:00-05:00",
+    "summary_short": "",
+    "summary_tiny": null,
+    "terminating_date": null,
+    "clearinghouse_link": "clearinghouse.net/case/10007",
+    "is_active": true,
+    "case_documents_url": "https://clearinghouse.net/api/v2/documents/?case=10007",
+    "case_dockets_url": "https://clearinghouse.net/api/v2/dockets/?case=10007",
+    "case_resources_url": "https://clearinghouse.net/api/v2/resources/?case=10007"
+  },
+  "documents": [
+    {
+      "date": null,
+      "date_is_estimate": false,
+      "date_not_available": false,
+      "description": null,
+      "document_source": null,
+      "document_status": null,
+      "document_type": null,
+      "order_type": null,
+      "citation_paren": null,
+      "cite_1_page": null,
+      "cite_1_reporter": null,
+      "cite_1_vol": null,
+      "cite_2_page": null,
+      "cite_2_reporter": null,
+      "cite_2_vol": null,
+      "cite_3_page": null,
+      "cite_3_reporter": null,
+      "cite_3_vol": null,
+      "citation_status": null,
+      "court": null,
+      "no_title": false,
+      "party_types": [],
+      "per_curium": false,
+      "is_core_document": true,
+      "id": 121089,
+      "file": null,
+      "title": null,
+      "text": null,
+      "document_type_other": null,
+      "external_url": null,
+      "ecf_number": null,
+      "clearinghouse_link": "clearinghouse.net/doc/121089"
+    },
+    {
+      "date": "1987-03-13",
+      "date_is_estimate": false,
+      "date_not_available": false,
+      "description": null,
+      "document_source": "Google Scholar",
+      "document_status": "Coding Complete",
+      "document_type": "Order/Opinion",
+      "order_type": "Unknown",
+      "citation_paren": null,
+      "cite_1_page": 910,
+      "cite_1_reporter": "F.2d",
+      "cite_1_vol": 813,
+      "cite_2_page": null,
+      "cite_2_reporter": null,
+      "cite_2_vol": null,
+      "cite_3_page": null,
+      "cite_3_reporter": null,
+      "cite_3_vol": null,
+      "citation_status": "Official citation found/coded",
+      "court": "U.S. Court of Appeals for the Eighth Circuit",
+      "no_title": false,
+      "party_types": [
+        "Court"
+      ],
+      "per_curium": false,
+      "is_core_document": true,
+      "id": 54141,
+      "file": "https://clearinghouse-umich-production.s3.amazonaws.com/media/doc/54141.pdf",
+      "title": "Appellate Decision",
+      "text": "813 F.2d 910 (1987)\nJANE DOES 1-100, on behalf of themselves, and all others similarly situated, William H.,\nAppellant,\nv.\nDonald OMODT, Sheriff of Hennepin County, Minnesota; David T. Hile, Alan A. Moran, Max\nMoes 1-10, Max Moes 1-10, Hennepin County Deputy Sheriffs; Maxine Moes 1-10, Maxine\nMoes 1-10, Hennepin County Deputy Sheriffs, the County of Hennepin; Jeff Spartz, Randy\nJohnson, Richard Kremer, John Derus, Sam Sivanich, Mark Andrew, E.F. Robb, Jr., as\nHennepin County Commissioners; and Hennepin County, Minnesota, a political\nsubdivision, Appellees.\nNo. 86-5084.\nUnited States Court of Appeals, Eighth Circuit.\nSubmitted December 11, 1986.\nDecided March 13, 1987.\nBarry G. Reed, Minneapolis, Minn., for appellant.\nCharles F. Sweetland, Minneapolis, Minn., for appellees.\n911 *911 Before John R. GIBSON and FAGG, Circuit Judges, and HANSON,[*] Senior District Judge.\nFAGG, Circuit Judge.\nWilliam H. appeals from the district court's dismissal of his 42 U.S.C. § 1983 claim as time-barred.\nWilliam H. brought this action against Hennepin County and various of its officials and employees, claiming\nconstitutional violations in connection with a strip search conducted in July 1978 during William H.'s detention at\na county correctional facility. His lawsuit was started within the time allowed by Minnesota's six-year period of\nlimitations for statutory actions. See Minn. Stat. § 541.05 subd. 1(2). Application of this limitations period is in\nharmony with the rule then in place in this circuit that a state's statute of limitations for actions based on liability\ncreated by statute, rather than its personal injury statute of limitations, governed suits brought under 42 U.S.C. §\n1983. See Garmon v. Foust, 668 F.2d 400, 406 n. 11 (8th Cir.),cert. denied,456 U.S. 998, 102 S.Ct. 2283, 73\nL.Ed.2d 1294 (1982); see also Occhino v. United States, 686 F.2d 1302, 1308 (8th Cir.1982).\nIn 1985 the United States Supreme Court effectively overturned our rule in Garmon, holding personal injury\nstatutes of limitations should be applied in section 1983 actions. Wilson v. Garcia, 471 U.S. 261, 276, 105 S.Ct.\n1938, 1947, 85 L.Ed.2d 254 (1985). The district court held William H.'s claim was barred by the Minnesota two-\nyear statute of limitations applicable to his personal injury action, see Minn. Stat. § 541.07(1), giving retroactive\neffect to Wilson. The district court, however, made its ruling without the benefit of our decision in Ridgway v.\nWapello County, 795 F.2d 646 (8th Cir.1986). In light of Ridgway, we reverse.\nIn Wycoff v. Menke, 773 F.2d 983, 987 (8th Cir.1985),cert. denied,___ U.S. ___, 106 S.Ct. 1230, 89 L.Ed.2d 339\n(1986), this court held the rule announced in Wilson would apply retroactively to bar Wycoff's section 1983 claim.\nWycoff filed his action after the Iowa personal injury statute of limitations for his claim had already expired, and\nbefore our decision in Garmon. Id. In light of the unsettled law on this issue at the time Wycoff's cause of action\naccrued, we determined he \"could not reasonably have relied on a limitations period longer than two years in\nwaiting to file [his] claim[].\" Id. William H.'s case, however, does not follow this pattern and is not controlled by the\nretroactivity conclusion reached in Wycoff.\nThe issue of Wilson's retroactive application in circumstances more similar to William H.'s case was considered\nby this court in Ridgway. Ridgway's section 1983 complaint, unlike the plaintiff's in Wycoff, was not already\n\nprecluded at the time of the Garmon decision by Iowa's personal injury statute of limitations. Ridgway, 795 F.2d at\n647. Under those circumstances we declined to give retroactive effect to Wilson, concluding Ridgway was\nentitled to rely on Garmon's rule that in the absence of a specific limitations period for statutory actions, the\ngeneral limitations period would apply. Garmon, 668 F.2d at 405-06. Ridgway could thus look to Iowa's longer\ngeneral statute of limitations in determining when to file a claim. Ridgway, 795 F.2d at 647. Applying Wilson\nretroactively would have denied the plaintiff in Ridgway \"a cause of action that she had every reason to believe\nwas not time-barred when she filed suit.\" Id. at 648.\nWilliam H.'s case parallels the sequence of events in Ridgway with two exceptions. First, Minnesota, unlike Iowa,\nhas a six-year statute of limitations for actions based on statutory liability. See Minn. Stat. § 541.05 subd. 1(2).\nSecond, in determining the viability of William H.'s claim at the time of Garmon, the facts of his case require\nconsideration of his potential disability under the Minnesota tolling statute. See Minn. Stat. § 541.15(2) (running\nof limitations period is suspended for period of plaintiff's \"insanity\"). William H. claims the statute of limitations for\n912 his claim was suspended during a period of his confinement *912 for psychiatric treatment, thus maintaining the\nviability of his claim under the Minnesota personal injury statute of limitations at the time Garmon was decided.\nIf the statute of limitations was in fact tolled during this period, William H.'s claim had not yet expired (even under\nMinnesota's shorter personal injury limitations period) when Garmon was decided. Assuming William H. then held\na viable claim, the effect of Garmon was to permit him to rely on our statement, reconfirmed in Occhino, that\nwhere a period of limitations for statutory claims is specified under state law, that period would apply to section\n1983 cases. See Garmon, 668 F.2d at 406 n. 11; Occhino, 686 F.2d at 1308. Thus, under the six-year Minnesota\nstatute which he had reason to believe applied, William H. had approximately four additional years in which to file\nhis claim. William H. started his lawsuit within that four years and, under Ridgway, his claim is not barred by the\napplicable Minnesota statute of limitations.\nThe district court's dismissal of William H.'s section 1983 claim is reversed, and the case is remanded for further\nproceedings in light of this opinion.\n[*] The HONORABLE WILLIAM C. HANSON, Senior United States District Judge for the Northern and Southern\nDistricts of Iowa, sitting by designation.\nSave trees - read court opinions online on Google Scholar.",
+      "document_type_other": null,
+      "external_url": "",
+      "ecf_number": null,
+      "clearinghouse_link": "clearinghouse.net/doc/54141"
+    }
+  ],
+  "document_count": 2
+}

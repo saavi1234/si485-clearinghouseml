@@ -1,0 +1,187 @@
+{
+  "case_id": 9868,
+  "fetched_at": "2025-10-20T22:41:07.885362",
+  "case_data": {
+    "attorney_orgs": [],
+    "available_documents": [
+      "Any published opinion"
+    ],
+    "case_defendants": [
+      {
+        "defendant_level": null,
+        "institution": "Richardson Police Department",
+        "institution_alt_state": null,
+        "institution_city": "Richardson",
+        "institution_county": null,
+        "name": "City of Richardson",
+        "defendant_level_other": "",
+        "is_active": true
+      }
+    ],
+    "case_ongoing": "No",
+    "case_status": "Coding Complete",
+    "case_types": [
+      "Jail Conditions"
+    ],
+    "cause_other": "",
+    "causes": [
+      "42 U.S.C. § 1983"
+    ],
+    "class_action_granted": "Not sought",
+    "class_action_sought": "No",
+    "closing_year": 1988,
+    "constitutional_clause": [
+      {
+        "value": "Unreasonable search and seizure"
+      }
+    ],
+    "content_of_injunction": [],
+    "court": "Northern District of Texas",
+    "custom_issues": [],
+    "defendant_payment": "",
+    "defendant_type": [],
+    "docket_status": "None",
+    "facility_type": [
+      {
+        "value": "Government-run"
+      }
+    ],
+    "filing_date": "1985-08-26",
+    "filing_year": 1985,
+    "id": 9868,
+    "injunction_duration": "",
+    "issues": [
+      "General/Misc.: Search policies",
+      "Jails, Prisons, Detention Centers, and Other Institutions: Strip search policy (facilities)",
+      "Affected Sex/Gender(s): Female"
+    ],
+    "last_checked_date": "2007-07-05T00:00:00-04:00",
+    "main_docket": {
+      "id": 33211,
+      "docket_entries": [],
+      "docket_case_type": "cv",
+      "docket_year": 1985,
+      "docket_filing_number": 1679,
+      "is_main_docket": true,
+      "court": "Northern District of Texas",
+      "state": "Texas",
+      "docket_office_number": "3",
+      "docket_number_manual": "85-01679",
+      "scales_html": null,
+      "recap_link": null,
+      "is_active": true
+    },
+    "name": "Watt v. City of Richardson Police Department",
+    "never_filed": false,
+    "non_docket_case_number": "",
+    "non_docket_case_number_type": null,
+    "non_docket_case_number_type_other": "",
+    "order_end_year": 0,
+    "order_start_year": 0,
+    "permanent_injunction": false,
+    "plaintiff_description": "Lynda Watt was subjected to a strip search and a visual body cavity search after her arrest for failure to license her dog in the City of Richardson, Texas, while her friend was on the way to pay her bail.",
+    "plaintiff_type": [],
+    "prevailing_party": "Plaintiff",
+    "pro_se_status": "No",
+    "public_interest_lawyer": "No",
+    "related_cases": [],
+    "relief_natures": [
+      "Damages"
+    ],
+    "relief_nature_other": "",
+    "relief_sources": [
+      "Litigation"
+    ],
+    "settlement_agreement": [],
+    "settlement_judgment_date": null,
+    "settlement_judgment_year": null,
+    "special_collections": [
+      "Strip Search Cases"
+    ],
+    "special_case_type": [],
+    "state": "Texas",
+    "summary": "<p>A woman arrested for failure to license her dog in the City of Richmond Texas, who was strip searched, subjected to a cavity search, and jailed, filed this case in the U.S. District Court for the Northern District of Texas in 1987. The Court (Judge H. Sanders, Jr.) found that the city's strip search policy violated the Fourth Amendment on its face and as applied to the plaintiff.</p><p>On appeal, the U.S. Court of Appeals for the Fifth Circuit affirmed the lower court's decision, but held that while the city's policy was susceptible of constitutional scrutiny, strip search cases are best determined by case by case analysis. </p>",
+    "summary_published_date": "2012-08-14T00:00:00-04:00",
+    "summary_short": "A woman arrested for failure to license her dog in the City of Richmond Texas, who was strip searched, subjected to a cavity search, and jailed, filed this case in the U.S. District Court for the Northern District of Texas in 1987. The Court (Judge H. Sanders, Jr.) found that the city's strip search policy violated the Fourth Amendment on its face and as applied to the plaintiff.\r\n\r\nOn appeal, the U.S. Court of Appeals for the Fifth Circuit affirmed the lower court's decision, but held that while the city's policy was susceptible of constitutional scrutiny, strip search cases are best determined by case by case analysis. ",
+    "summary_tiny": null,
+    "terminating_date": null,
+    "clearinghouse_link": "clearinghouse.net/case/9868",
+    "is_active": true,
+    "case_documents_url": "https://clearinghouse.net/api/v2/documents/?case=9868",
+    "case_dockets_url": "https://clearinghouse.net/api/v2/dockets/?case=9868",
+    "case_resources_url": "https://clearinghouse.net/api/v2/resources/?case=9868"
+  },
+  "documents": [
+    {
+      "date": "1988-07-15",
+      "date_is_estimate": false,
+      "date_not_available": false,
+      "description": null,
+      "document_source": "Google Scholar",
+      "document_status": "Coding Complete",
+      "document_type": "Order/Opinion",
+      "order_type": "Non-Decree",
+      "citation_paren": null,
+      "cite_1_page": 195,
+      "cite_1_reporter": "F.2d",
+      "cite_1_vol": 849,
+      "cite_2_page": null,
+      "cite_2_reporter": null,
+      "cite_2_vol": null,
+      "cite_3_page": null,
+      "cite_3_reporter": null,
+      "cite_3_vol": null,
+      "citation_status": "Official citation found/coded",
+      "court": "U.S. Court of Appeals for the Fifth Circuit",
+      "no_title": false,
+      "party_types": [
+        "Court"
+      ],
+      "per_curium": false,
+      "is_core_document": true,
+      "id": 54303,
+      "file": "https://clearinghouse-umich-production.s3.amazonaws.com/media/doc/54303.pdf",
+      "title": "Opinion",
+      "text": "849 F.2d 195 (1988)\nLynda L. WATT, Plaintiff-Appellee,\nv.\nCITY OF RICHARDSON POLICE DEPARTMENT, Defendant-Appellant.\nNo. 87-1302.\nUnited States Court of Appeals, Fifth Circuit.\nJuly 15, 1988.\nD. Bradley Dickinson, Janetta S. Walls, M. Leigh Bartlett, Dallas, Tex., for defendant-appellant.\nDouglas A. Larson, Dallas, Tex., for plaintiff-appellee.\n[*]\nBefore GARWOOD and JONES, Circuit Judges, and BLACK , District Judge.\nEDITH H. JONES, Circuit Judge:\nLynda Watt was subjected to a strip search incident to her arrest for failure to license her dog in the City of\nRichardson, Texas. Understandably outraged by this incident, she filed a civil rights action pursuant to 42 U.S.C.\n§ 1983 and recovered damages against the city. The district court concluded that a portion of the city's policy\ngoverning the conduct of visual strip searches violated the fourth amendment on its face and as applied to Watt.\nOn appeal, the City of Richardson challenges only the district court's finding that the search was constitutionally\ninvalid. We affirm the judgment, because a strip search was unconstitutional under the facts here presented, but\n[1]\nwe do not invalidate the city's policy.\n196  BACKGROUND\n*196\nOn March 3, 1985, Lynda Watt, accompanied by her 5-year-old son, was stopped by Officer Watson of the\nRichardson Police Department for operating a motor vehicle with an expired inspection sticker. Upon being\ninformed that the automobile was borrowed from her mother's estate, Officer Watson decided only to issue a\nwarning to Watt. The results of a routine computer check on Watt revealed, however, an outstanding arrest\nwarrant issued for failure to register her dog in the City. Although this offense was punishable only by a fine,\nWatson was required to arrest Watt.\nWatt cooperated politely with Officer Watson during the initial period of her short custody. She did not appear to\nbe under the influence of drugs or alcohol. Watson's search of her purse revealed nothing unusual or suspicious.\nAt the police station, Watt volunteered the necessary booking information, including the admission that in 1974\nshe had been convicted of a minor drug offense. This conviction had not appeared in the police computer search\n[2]\nof her criminal record until she gave the police her surname from a previous marriage.  Watt underwent a pat-\ndown search.\nAt some point, Watt was informed that she must post a $160 cash bond, and not having the cash on hand, she\ncalled a neighbor to deliver the bond money and pick up her son from the police station. The police were aware\nthat Watt's release would shortly be forthcoming.\nWatt was then advised that because of her \"criminal history\" she must submit to a visual strip search pursuant to\nthe city's policy which pertained to any arrestee detained on a weapons, shoplifting or drug charge, or who had a\nhistory of any such offense. Watt reacted like a \"caged animal.\" Despite vigorous protests, she finally submitted\nto a strip search, including a visual body cavity inspection, by a female communications officer of the Richardson\nPolice Department. The search complied with city policy, in that it was performed in a holding cell barren of\nwindows or television cameras so that no one except the communications officer and her female trainee could\nobserve. The strip search, like the previous searches, was negative.\n\nWatt was placed in a jail cell for between five and ten minutes until she was released on bond. Approximately 54\nminutes elapsed between her arrest and release.\nANALYSIS\nAnalysis of the city's strip search policy and of the actual search conducted on Watt begins, and practically ends,\nwith the Supreme Court's decision in Bell v. Wolfish, 441 U.S. 520, 99 S.Ct. 1861, 60 L.Ed.2d 447 (1979). Not the\nleast significant of the Court's determinations in that case was its approval of a policy of a federal pretrial\ndetention center in New York City that required strip searches of all detainees after they received contact visits\nfrom outsiders. The Court found this policy a reasonable means to prevent and deter the smuggling of\ncontraband and weapons into the facility, where they could endanger both guards and prisoners. In so doing, it\nstruck the fourth amendment balance in favor of deference to prison authorities' views of institutional safety\nrequirements against the admittedly legitimate claims of inmates not to be searched in a humiliating and\ndegrading manner. The Court explained its conclusion as consistent with the customary standards of fourth\namendment jurisprudence:\nThe test of reasonableness under the Fourth Amendment is not capable of precise definition or\nmechanical application. In each case it requires a balancing of the need for the particular search\nagainst the invasion of personal rights that the search entails. Courts must consider the scope of\n197 the particular intrusion, the manner in which it is conducted, *197 the justification for initiating it,\nand the place in which it is conducted.\n441 U.S. at 558-559, 99 S.Ct. at 1884.\nFollowing Bell, the courts of appeals have upheld prison strip search policies governing inmates where justified\nby the demands of institutional security. See, e.g., Hay v. Waldron, 834 F.2d 481 (5th Cir.1988); Goff v. Nix, 803\nF.2d 358 (8th Cir.1986),cert. denied,___ U.S. ___, 108 S.Ct. 115, 98 L.Ed.2d 73 (1987); Arruda v. Fair, 710 F.2d\n886 (1st Cir.),cert. denied,464 U.S. 999, 104 S.Ct. 502, 78 L.Ed.2d 693 (1983). Searches of minor offense\narrestees who would be detained pending the posting of bond, often for short periods of time, have been\nscrutinized much more closely. Stewart v. Lubbock County, Texas, 767 F.2d 153 (5th Cir.1985),cert. denied,475\nU.S. 1066, 106 S.Ct. 1378, 89 L.Ed.2d 604 (1986); Giles v. Ackerman, 746 F.2d 614 (9th Cir.1984),cert. denied,\n471 U.S. 1053, 105 S.Ct. 2114, 85 L.Ed.2d 479 (1985); Mary Beth G. v. City of Chicago, 723 F.2d 1263 (7th\nCir.1983); Logan v. Shealy, 660 F.2d 1007 (4th Cir.1981),cert. denied sub nom. Clements v. Logan, 455 U.S.\n[3]\n942, 102 S.Ct. 1435, 71 L.Ed.2d 653 (1982).  Exemplary of these decisions is Stewart v. Lubbock County, 767\nF.2d 153, in which this court invalidated a blanket strip search policy that had ensnared plaintiffs arrested for\npublic intoxication and issuing a bad check. We held that, \"Because Lubbock County's strip search policy was\napplied to minor offenders awaiting bond when no reasonable suspicion existed that they as a category of\noffenders or individually might possess weapons or contraband,\" the policy violated the fourth amendment. \nStewart, 767 F.2d at 156 (emphasis added). The perhaps enigmatic phrase \"category of offenders\" was\nexplained more fully by a Ninth Circuit decision which, reaching the same result as that in Stewart, described the\nfourth amendment standard affirmatively:\n... we hold that arrestees charged with minor offenses may be subjected to a strip search only if\njail officials possess a reasonable suspicion that the individual arrestee is carrying or concealing\ncontraband. Reasonable suspicion may be based on such factors as the nature of the offense, the\narrestee's appearance and conduct, and the prior arrest record. (citations omitted)\nGiles, 746 F.2d at 617.\nThe Richardson strip search policy lies analytically between the prisoner and arrestee search cases, because it\nseeks to define the classes of offenders not yet incarcerated whose characteristics would suggest that they may\npose a threat to prison security if they are not subjected to strip search. Richardson Police Department General\nOrder 8.2-83 § II(b)(3) provides in pertinent part:\n\n3. A \"strip search\" will be conducted only on charges of narcotics, shop-lifting, weapons, and/or for\na criminal history of each above charge. On special circumstances an arresting officer may\nrequest a strip search but he should be ready to articulate his reasons for such a request. This\nsearch will be made in a restroom area of the jail. At no time will a strip search be conducted in\n[4]\nview of TV cameras or other officers of the opposite sex.\nWatt does not challenge the propriety of strip searches conducted prior to incarceration on charges of narcotics,\nshoplifting or weapons violations. Such a challenge would be fruitless. See, e.g., Lusby v. T.G. & Y. Stores, Inc.,\n749 F.2d 1423, 1434 (10th Cir.1984),vacated on other grounds,474 U.S. 805, 106 S.Ct. 40, 88 L.Ed.2d 33\n(1985); Giles, 746 F.2d 614; Dufrin v. Spreen, 712 F.2d 1084 (6th Cir.1983). Reasonableness under the fourth\n198 amendment must afford *198 police the right to strip search arrestees whose offenses posed the very threat of\nviolence by weapons or contraband drugs that they must curtail in prisons.\nThe issue on which Watt and the district court focused their attention was the validity of strip searches conducted\n[5]\nbecause of an arrestee's criminal history of any such charge.  The district court found the \"criminal history\"\nbasis for a strip search untenable because the policy could be applied \"regardless of the infraction for which the\narrest is made and no matter how ancient the `criminal history.'\" According to the district court, anyone arrested\nwith a criminal history on a named charge, regardless of the disposition of the case, is liable to be strip searched.\nEven the term \"criminal history\", according to the district court, was so vague that the court believed, contrary to\nthe defendants' testimony, it was not limited to convictions and arrests.\nAlthough, as will be seen, we conclude that Ms. Watt's criminal history did not justify her strip search, we\ndisagree with the district court's conclusion that the city's policy is too broad ever to justify strip searches of\npersons with a criminal history of narcotics, weapons or shoplifting violations. First, the wholesome principle that\nwe must not decide constitutional cases not presented to us commands that we construe the Richardson policy\n[6]\nas applied rather than on the basis of general hypotheticals.  For every possibly unconstitutional application of\nthe strip search policy that we or the district court could conceive, there is an equally compelling hypothetical in\nwhich a person's criminal history would strongly suggest the need for a strip search. It seems intuitively obvious,\nfor instance, that if the Richardson police arrested a suspect on a minor charge such as passing a bad check\nand, preparatory to placing him in their jail, found that he had been arrested previously and was then awaiting\ntrial on major narcotics trafficking charges, a strip search would be warranted. The policy is thus susceptible of\nconstitutional application. Conducting strip searches of arrestees who were found to have a history of weapons or\nshoplifting charges would also be justifiable in many instances. It is jurisprudentially sound, and consistent with \nBell's requirement of deference to law enforcement authorities, to construe this policy on a case-by-case basis, if\nnecessary, rather than to throw it out.\nSecond, unlike the district court, we discern sound reasoning behind the city's authorization of strip searches\nbased on criminal history. The municipal police chief testified that criminal history is relevant to a suspect's\npropensity to be involved in later offenses. Between 4,500 and 5,000 prisoners are booked into the Richardson\njail each year, and misdemeanor prisoners are occasionally housed with the felons because of a lack of space.\nPeople are continuously trying to smuggle drugs into the city jail. Thus, a suspect jailed even temporarily on a\nminor offense could have the opportunity, if not searched, to smuggle in weapons or contraband. Limiting the\nsearches generally to those offenders charged with or having a criminal history of narcotics, shoplifting or\nweapons charges is not an irrational attempt to foster jail security while restricting the scope of strip searches.\nThe police officers also pointed out that only the last arrest date is shown on the NCIC computerized criminal\nhistory available to police departments, and thus, in the majority of cases, they are unaware of the exact dates of\na suspect's criminal history. This imprecision, together with the wide range of possible prior offenses, makes it\n199 impossible to set a precise antecedent limit *199 on the criminal history that could justify a strip search. Unlike the\ndistrict court, however, we are unwilling to invalidate this part of the policy because of its inherent imprecision. We\nview this factor instead as counselling discretion on our part and on the part of the police. Bell met a similar\ncontention against the detention facility's strip search policy as follows:\n\nNor do we doubt, as the District Court noted, that on occasion a security guard may conduct the\nsearch in an abusive fashion.... Such an abuse cannot be condoned. The searches must be\nconducted in a reasonable manner ... (citation omitted)\n441 U.S. at 560, 99 S.Ct. at 1885.\nThe solution to unconstitutional application of the policy, we infer, lies in a case-by-case approach.\nTo conclude that a policy permitting strip searches based on an arrestee's prior criminal history is defensible in\nsome cases under the fourth amendment does not, of course, suggest that such strip searches are always\njustifiable. The caselaw cited above amply demonstrates the limits of permissible strip searches in individual\ncases. The arrestee's offense may be so minor, the prior criminal history so innocuous or ancient, and his or her\ncharacteristics so inconsistent with any rational fear that prison security is jeopardized as to undermine entirely\nthe reasonableness of a particular strip search. Such a search is undeniably offensive. Lynda Watt's case\nrepresents a catalogue of reasons not to conduct a strip search based on criminal history alone.\nNot only was she arrested on a very insubstantial offense, but the police also had no reason, until she offered the\nnecessary information to them, even to suspect that she might have been involved in a prior drug offense. Her\ncooperativeness, obvious sobriety, and rationality (until she was informed of the impending strip search) should\nhave been counted in her favor by the police, as well as her polite acquiescence in searches of her purse and\nexterior person. The venerable age of the prior conviction, the fact that it was expunged from her record following\nsuccessful completion of probation, and the lack of any intervening arrests should have detracted from the fear\nthat she could have been a recidivist.\nThere are, additionally, strong indications in the record that Ms. Watt need not have been incarcerated even for\nthe five or ten minutes that she endured in a cell, in which case no cause for a strip search arose. The police\nwere aware that her friend was on the way with bail money, and more importantly, to pick up her son. Although\nthe police officers testified that the certainty of making bail is always subject to question, we doubt that neighbors\nroutinely fail to retrieve children from the jail. The totality of the circumstances overwhelmingly vindicate the\ndistrict court's findings that Ms. Watt was not a likely smuggler of weapons or contraband into the jail, that she\nprobably should not even have been placed in a cell, and that prison security would not have been at all\njeopardized by the failure to conduct a strip search and visual body cavity search on her. This search was\ntherefore unconstitutional under the reasonableness standard of the fourth amendment and Bell.\nFor the foregoing reasons, the judgment of the district court is AFFIRMED.\n[*] District Judge of the Southern District of Texas, sitting by designation.\n[1] The liability and damages phases of the case were tried separately. After the liability determination by bench\ntrial, damages were assessed by a jury in the amount of $20,000 in compensatory damages and $20,000 for\nattorneys fees and costs.\n[2] On June 24, 1974, plaintiff entered a guilty plea to the offense of unlawfully obtaining phenmetrazine, a\ncontrolled substance, by use of a forged prescription. She was placed on two years probation, and after\ncompleting 16 months, the judgment was set aside and the indictment dismissed. Further, she was \"released\nfrom all penalties and disabilities resulting from the judgment of conviction in this case.\" Joint Pre-Trial Order\nStipulation 4.\n[3] Strip searches of prison employees and visitors have been held by some courts to require reasonable\nsuspicion under the fourth amendment. McDonell v. Hunter, 809 F.2d 1302 (8th Cir.1987); Security and Law\nEnforcement Employees, Dist. C. 82 v. Carey, 737 F.2d 187 (2d Cir.1984); Hunter v. Auger, 672 F.2d 668 (8th\nCir.1982); Weber v. Dell, 804 F.2d 796 (2d Cir.1986); Hill v. Bogans, 735 F.2d 391 (10th Cir.1984).\n[4] After the events leading to this action, the city's policy was amended to replace \"narcotics\" with \"violation of\nthe Controlled Substance Act.\"\n\n[5] Watt also contends that the literal interpretation of the city strip search policy only permits such intrusions if\nthe arrested person had a conjunctive history of narcotics, shoplifting and weapons charges. Although its\ngrammar is not entirely satisfactory, the policy would be rendered almost meaningless unless it permits a strip\nsearch for a history of any of such violations. The city so construed the policy, and we find its construction\nsensible.\n[6] In Tennessee v. Garner, 471 U.S. 1, 105 S.Ct. 1694, 85 L.Ed.2d 1 (1985), the Supreme Court declared\nunconstitutional only as applied a Tennessee statute authorizing the use of deadly force. 471 U.S. at 6, 105 S.Ct.\nat 1698.\nSave trees - read court opinions online on Google Scholar.",
+      "document_type_other": null,
+      "external_url": "",
+      "ecf_number": null,
+      "clearinghouse_link": "clearinghouse.net/doc/54303"
+    },
+    {
+      "date": null,
+      "date_is_estimate": false,
+      "date_not_available": false,
+      "description": null,
+      "document_source": null,
+      "document_status": null,
+      "document_type": null,
+      "order_type": null,
+      "citation_paren": null,
+      "cite_1_page": null,
+      "cite_1_reporter": null,
+      "cite_1_vol": null,
+      "cite_2_page": null,
+      "cite_2_reporter": null,
+      "cite_2_vol": null,
+      "cite_3_page": null,
+      "cite_3_reporter": null,
+      "cite_3_vol": null,
+      "citation_status": null,
+      "court": null,
+      "no_title": false,
+      "party_types": [],
+      "per_curium": false,
+      "is_core_document": true,
+      "id": 121551,
+      "file": null,
+      "title": null,
+      "text": null,
+      "document_type_other": null,
+      "external_url": null,
+      "ecf_number": null,
+      "clearinghouse_link": "clearinghouse.net/doc/121551"
+    }
+  ],
+  "document_count": 2
+}

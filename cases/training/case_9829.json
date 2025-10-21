@@ -1,0 +1,211 @@
+{
+  "case_id": 9829,
+  "fetched_at": "2025-10-20T22:42:00.814626",
+  "case_data": {
+    "attorney_orgs": [],
+    "available_documents": [
+      "Any published opinion"
+    ],
+    "case_defendants": [
+      {
+        "defendant_level": null,
+        "institution": "",
+        "institution_alt_state": null,
+        "institution_city": "North Platte",
+        "institution_county": null,
+        "name": "City of North Platte",
+        "defendant_level_other": "",
+        "is_active": true
+      },
+      {
+        "defendant_level": null,
+        "institution": "",
+        "institution_alt_state": null,
+        "institution_city": "",
+        "institution_county": "Lincoln",
+        "name": "Deputy Sheriffs of Lincoln County",
+        "defendant_level_other": "",
+        "is_active": true
+      },
+      {
+        "defendant_level": null,
+        "institution": "",
+        "institution_alt_state": null,
+        "institution_city": "North Platte",
+        "institution_county": null,
+        "name": "Police Officers of the City of North Platte",
+        "defendant_level_other": "",
+        "is_active": true
+      }
+    ],
+    "case_ongoing": "No",
+    "case_status": "Approved",
+    "case_types": [
+      "Jail Conditions"
+    ],
+    "cause_other": "",
+    "causes": [
+      "42 U.S.C. § 1983"
+    ],
+    "class_action_granted": "Not sought",
+    "class_action_sought": "No",
+    "closing_year": 0,
+    "constitutional_clause": [
+      {
+        "value": "Unreasonable search and seizure"
+      }
+    ],
+    "content_of_injunction": [],
+    "court": "District of Nebraska",
+    "custom_issues": [],
+    "defendant_payment": "",
+    "defendant_type": [],
+    "docket_status": "None",
+    "facility_type": [
+      {
+        "value": "Government-run"
+      }
+    ],
+    "filing_date": "1982-05-24",
+    "filing_year": 1982,
+    "id": 9829,
+    "injunction_duration": "",
+    "issues": [
+      "General/Misc.: Search policies",
+      "Affected Sex/Gender(s): Male",
+      "Policing: Strip search policy (policing)"
+    ],
+    "last_checked_date": "2007-06-22T00:00:00-04:00",
+    "main_docket": {
+      "id": 33252,
+      "docket_entries": [],
+      "docket_case_type": "cv",
+      "docket_year": 1982,
+      "docket_filing_number": 240,
+      "is_main_docket": true,
+      "court": "District of Nebraska",
+      "state": "Nebraska",
+      "docket_office_number": "8",
+      "docket_number_manual": "82-240",
+      "scales_html": null,
+      "recap_link": null,
+      "is_active": true
+    },
+    "name": "Jones v. Edwards",
+    "never_filed": false,
+    "non_docket_case_number": "",
+    "non_docket_case_number_type": null,
+    "non_docket_case_number_type_other": "",
+    "order_end_year": 0,
+    "order_start_year": 0,
+    "permanent_injunction": false,
+    "plaintiff_description": "Plaintiff was strip-searched after being arrested for failure to sign the summons regarding violation of the local leash law.",
+    "plaintiff_type": [
+      {
+        "value": "Private Plaintiff"
+      }
+    ],
+    "prevailing_party": "Plaintiff",
+    "pro_se_status": "Unknown",
+    "public_interest_lawyer": "No",
+    "related_cases": [],
+    "relief_natures": [
+      "Unknown"
+    ],
+    "relief_nature_other": "",
+    "relief_sources": [
+      "Unknown"
+    ],
+    "settlement_agreement": [],
+    "settlement_judgment_date": null,
+    "settlement_judgment_year": null,
+    "special_collections": [
+      "Strip Search Cases"
+    ],
+    "special_case_type": [],
+    "state": "Nebraska",
+    "summary": "<p>Plaintiff, an arrestee, filed a lawsuit under 42 U.S.C. § 1983 against Lincoln County and the City of North Platte, Nebraska in the United States Court for the District of Nebraska.  The plaintiff, represented by private counsel, claimed that his Fourth Amendment rights had been violated. Specifically, the plaintiff claimed that a strip search conducted without any reasonable suspicion of a security threat violated his constitutional rights.</p><p>On April 30, 1981, in the city of North Platte, Nebraska, the plaintiff was at home when an animal control officer came to his door and attempted to get him to sign an affidavit promising to appear in court for violation of a dog-leash ordinance. The plaintiff refused. The next day, the animal control officer returned with police officers and an arrest warrant. Plaintiff was arrested for failing to sign the affidavit and brought to the Lincoln County jail, where he was visually strip-searched in an alcove. </p><p>The District Court (Judge Warren K. Urbom) entered a judgment for the defendants following a jury verdict in defendants' favor. Plaintiff appealed.</p><p>On Aug. 20, 1985, Judge Gerald Heaney, writing for a Court of Appeals for the Eighth Circuit Panel (Judge Heaney, Judge Jesse Henly, Judge Theodore McMillian) ruled that the District Court had erred in denying Plaintiff's motion for Judgment Notwithstanding the Verdict. The Court entered an Order for judgment in the plaintiffs' favor, and remanded for consideration of compensatory damages. </p><p>We have no further information about the case on remand.</p>",
+    "summary_published_date": "2012-05-08T00:00:00-04:00",
+    "summary_short": "Plaintiff was successful in his Motion for Judgment Notwithstanding the Verdict for violation of his Fourth Amendment rights because he was strip-searched without reasonable suspicion of a security threat.",
+    "summary_tiny": null,
+    "terminating_date": null,
+    "clearinghouse_link": "clearinghouse.net/case/9829",
+    "is_active": true,
+    "case_documents_url": "https://clearinghouse.net/api/v2/documents/?case=9829",
+    "case_dockets_url": "https://clearinghouse.net/api/v2/dockets/?case=9829",
+    "case_resources_url": "https://clearinghouse.net/api/v2/resources/?case=9829"
+  },
+  "documents": [
+    {
+      "date": "1985-08-20",
+      "date_is_estimate": false,
+      "date_not_available": false,
+      "description": null,
+      "document_source": "Google Scholar",
+      "document_status": "Approved",
+      "document_type": "Order/Opinion",
+      "order_type": "Non-Decree",
+      "citation_paren": null,
+      "cite_1_page": 739,
+      "cite_1_reporter": "F.2d",
+      "cite_1_vol": 770,
+      "cite_2_page": null,
+      "cite_2_reporter": null,
+      "cite_2_vol": null,
+      "cite_3_page": null,
+      "cite_3_reporter": null,
+      "cite_3_vol": null,
+      "citation_status": "Official citation found/coded",
+      "court": "U.S. Court of Appeals for the Eighth Circuit",
+      "no_title": false,
+      "party_types": [
+        "Court"
+      ],
+      "per_curium": false,
+      "is_core_document": true,
+      "id": 54177,
+      "file": "https://clearinghouse-umich-production.s3.amazonaws.com/media/doc/54177.pdf",
+      "title": "Appellate Decision",
+      "text": "770 F.2d 739 (1985)\nMarlin E. JONES, Appellant,\nv.\nDouglas L. EDWARDS, S.S. (Scott) Gilster; Julian Jarvis; Robert Dawson; Danny R.\nKramer; Gordon D. Gilster, Sheriff of Lincoln County, Nebraska; and Lincoln County,\nNebraska, Appellees.\nThe City of North Platte, a Nebraska Municipal Corporation; Ronald Arnold; Hubert\nKlingsporn, individually and as Deputy Sheriffs of Lincoln County, Nebraska; Martin J.\nGutschenritter, individually and as Chief of Police of North Platte, Nebraska Police\nDepartment; Billy J. Lloyd; Rick M. Ryan, individually and as Police Officers of the City of\nNorth Platte, Nebraska.\nNo. 84-2569.\nUnited States Court of Appeals, Eighth Circuit.\nSubmitted May 16, 1985.\nDecided August 20, 1985.\nBeverly Evans Grenier, Lincoln, Neb., for appellant.\nFrank E. Piccolo, North Platte, Neb., for appellee.\nBefore HEANEY, Circuit Judge, HENLEY, Senior Circuit Judge, and McMILLIAN, Circuit Judge.\nHEANEY, Circuit Judge.\nMarlin E. Jones appeals from an adverse jury verdict in his suit under 42 U.S.C. § 1983 for alleged civil rights\nviolations by sheriffs, police officers, and jail personnel in North Platte, Nebraska. For reversal, Jones argues that\nthe district court erred in failing to grant his motion for judgment notwithstanding the verdict, in admitting certain\nprejudicial testimony, and in instructing the jury improperly. Because we find that the district court should have\n740 granted Jones's motion for judgment notwithstanding *740 the verdict, we need not consider his other\ncontentions.\nAt 7:00 a.m. on April 30, 1981, a North Platte, Nebraska animal control officer spotted a dog wandering at large.\nThe officer lived in the neighborhood and recognized the dog as Jones's dog Sam, from previous violations;\naccordingly, when Sam entered Jones's garage, the officer filled out a summons and complaint for Jones, citing\nhim for Sam's apparent violation of the local leash law. When the animal control officer knocked at Jones's door\nand asked for Jones's identification to complete the summons and complaint, Jones refused to sign the complaint\nand slammed the door after verbally abusing the officer. The officer radioed for police assistance; the assisting\nofficer accompanied the animal control officer to the door where the two explained to Jones that his signature\nwas not an admission of guilt, but simply a promise to appear in court. Again Jones was abusive and\nuncooperative, and slammed the door on the officers after threatening them with suit.\nThe officers consulted their superiors, filled out their reports, and presented the matter to the county attorney. The\ncounty attorney reviewed the information, and in following what is apparently regular procedure when citizens\ndecline to sign appearance bonds, presented an affidavit for an arrest warrant to the county judge, who issued\nthe warrant.\nThe next morning officers served Jones with the warrant between 7:00 and 7:45 a.m. Jones appeared at the door\nwearing only his trousers; when he read the warrant he became vulgar and abusive again. After arresting him for\nfailure to sign the summons, officers accompanied Jones upstairs for \"security reasons\" while he dressed and\n\nwent to the bathroom. Without further searching and without handcuffs, he was then taken to the county jail\nwhere he was charged with allowing the dog to run at large and with failure to license the dog.\nOn the way to and inside the jail, Jones became loud and abusive and, as his booking procedure progressed, he\ngrew increasingly profane and waved his arms about. Witnesses agreed that although Jones was angry, he made\nno attempt to abuse any officer physically. As a final step in the booking procedure, jail officials performed a non-\n[1]\ncontact visual strip search of Jones; one jailer stepped with Jones (who was nude) into a sheltered alcove  and\nvisually inspected Jones's anal and genital area. After the search, Jones was permitted to dress and he waited in\na minimum security cell until a friend posted his bail.\nDISCUSSION.\nIn reviewing a denial of a motion for judgment notwithstanding the verdict, we view the evidence in the light most\nfavorable to the non-moving party. Lackawanna Leather Co. v. Martin & Stewart, Ltd., 730 F.2d 1197, 1200 (8th\nCir.1984). In viewing the evidence in this manner, we\n(1) resolve direct factual conflicts in favor of the nonmovant, (2) assume as true all facts\nsupporting the nonmovant which the evidence tended to prove, (3) give the nonmovant the benefit\nof all reasonable inferences, and (4) deny the motion if the evidence so viewed would allow\nreasonable jurors to differ as to the conclusions that could be drawn.\nId., citing Dace v. ACF Industries, Inc., 722 F.2d 374, 375 (8th Cir.1983).\nInitially, we turn to the legal standard governing suspects' fourth amendment rights during strip searches or body\ncavity searches. In Bell v. Wolfish, 441 U.S. 520, 99 S.Ct. 1861, 60 L.Ed.2d 447 (1979), the Supreme Court\nconsidered whether pretrial detainees in New York's federal Metropolitan Correctional Center were protected\nfrom such searches by the fourth amendment. Although in the circumstances of that case the Supreme Court\napproved strip searches as reasonable in terms of the fourth amendment, id. at 558, 99 S.Ct. at 1884, it also\nelaborated a two-pronged test to assist courts in determining reasonableness in other cases. The Court held that\nthe fourth amendment's requirement of reasonableness\n741 *741 requires a balancing of the need for the particular search against the invasion of personal\nrights that the search entails. Courts must consider the scope of the particular intrusion, the\nmanner in which it is conducted, the justification for initiating it, and the place in which it is\nconducted.\nId. at 559, 99 S.Ct. at 1884.\nOther courts have applied the Bell test in strip search cases and found constitutional violations. In Mary Beth G.\nv. City of Chicago, 723 F.2d 1263, 1273 (7th Cir.1983), the Seventh Circuit determined that the city violated the\nfourth amendment by requiring strip searches of women arrested for misdemeanors and held in waiting cells\nwhere the searches were undertaken without regard to the charge or reason to suspect that the detainees\nconcealed weapons. That court adopted the Bell test and held that \"[t]he more intrusive the search, the closer\ngovernmental authorities must come to demonstrating probable cause for believing that the search will uncover\nthe objects for which the search is being conducted.\" Id. The Court based its finding of unreasonableness on the\nabsence of \"a reasonable suspicion by the authorities that either of the twin dangers of concealing weapons or\ncontraband existed.\" Id.\nSimiliarly, in Hill v. Bogans, 735 F.2d 391 (10th Cir.1984), the Tenth Circuit reversed a judgment on the fourth\namendment issue which had been decided against a traffic violator who sued over his strip search. Among other\n[2]\nfactors,  the Court considered that Hill was arrested at 7:30 a.m. for a traffic violation on his way to work and\nthat the offense was not associated with weapons or contraband. In reversing and remanding for a determination\nof damages, the Court relied on reasoning in Logan v. Shealy, 660 F.2d 1007, 1013 (4th Cir.1981): \"An\nindiscriminate strip search policy routinely applied to detainees * * * [for traffic offenses] along with all other\n\ndetainees cannot be constitutionally justified simply on the basis of administrative ease in attending to security\n[3]\nconsiderations.\"\nMost recently, in John Does 1-100 v. Ninneman, 612 F.Supp. 1069 (D.Minn.1985) United States District Judge\nEdward Devitt conducted a balancing test under Bell and concluded that a county sheriff violated the fourth\namendment rights of defendants who were strip searched after they were arrested for driving after revocation and\nfor failure to appear at a hearing related to child support.\nOur review of those and other cases considering the application of the Bell test to detainees charged with\nmisdemeanors convinces us that, on the facts of this case, the district court erred in failing to grant Jones's\nmotion for judgment notwithstanding the verdict. Under the first prong of the Bell test (the need for the search),\nwe note that Jones was arrested for failing to sign a summons and complaint arising from a leash law violation 00\n97\nhardly the sort of crime to inspire officers with the fear of introducing weapons or contraband into the holding cell.\nIn addition, officers had no other reason to suspect Jones was harboring these items: he was arrested early in\nthe morning at his home and was not suspected of other crimes. Officers were with him every moment after they\nread him the warrant; they watched him dress and go to the bathroom, thereby eliminating any chance that he\nmight have secreted a weapon on his person. Moreover, although the record suggests that Jones was\n742 uncooperative with officers, he was not charged with resisting arrest or with any sort of public *742 misconduct\nwhich might justify a more intrusive search. We also note that neither the officers nor the jailers attempted a less\nintrusive pat-down search, which would have detected the proscribed items they sought without infringing Jones's\nconstitutional protections. Thus, we find that the strip search was unjustified.\nThe second prong of the Bell test 00 the invasion of personal rights 00 also weighs in Jones's favor. The scope of\n97 97\nthe particular invasion was broad: Jones was nude and forced to display himself to the visual inspection of a\nstranger. Although the manner in which the search was conducted was not brutal, it was intrusive,\ndepersonalizing, and distasteful for Jones to be peremptorily subjected to this kind of search by a stranger in the\nalcove of the hallway. Finally, although the location of the search did not expose Jones to the scrutiny of other\njailers or passersby, this degree of privacy seems to have been entirely fortuitous; we suggest that where\nlegitimate security concerns justify this kind of search, jail officials should take precautions to insure that the\ndetainee's privacy is protected from exposure to others unconnected to the search. See Colo.Rev.Stat. §\n16-3-405(3) (\"Any strip search * * * shall be performed * * * on premises where the search cannot be observed by\npersons not physically conducting the search.\").\nAlthough we recognize that the security of detention facilities is an important concern of correction officials who\nare, in part, reponsible for the safety of their charges, we also recognize that security cannot justify the blanket\n[4]\ndeprivation of rights of the kind incurred here.  Accordingly, we find that the district court erred in failing to grant\nJones's motion for judgment notwithstanding the verdict, and we remand for determination of the proper\ndamages to remedy this constitutional deprivation. Because we find no suggestion of evil motive or intent nor of\nreckless or callous indifferences to the federally protected rights of others, see Smith v. Wade, 461 U.S. 30, 56,\n103 S.Ct. 1625, 1640, 75 L.Ed.2d 632 (1983), we decline to allow any award of punitive damages in this case\nand limit the district court's determination to the proper compensatory damages.\n[1] This alcove was apparently out of sight of others but unprotected by a screen or door.\n[2] The Court also considered that Hill was intermingled with the general jail population, that the search was a\nquick glance rather than a careful examination, and that the search was conducted in a semi-public area. Hill,\n735 F.2d at 394.\n[3] In Logan, a strip search of a woman charged with driving while intoxicated was \"conclusively shown to be\nunconstitutional\" under the Bell test. Logan, 660 F.2d at 1013. The Court based its reasoning on the fact that\nLogan was not intermingled with the general jail population, that her offense was not associated with weapons or\ncontraband, and that she had not been subjected to a pat-down search. Id. The case was reversed and\nremanded for a determination of proper damages by a jury.\n\n[4] Jones suggests that the district court's instructions to the jury entitled \"Affirmative Defense 00 Good Faith\" were\n97\ninappropriate. He argues that, by referring to the appellees' subjective knowledge or belief, the district court\ndeparted from recent Supreme Court decisions regarding qualified immunity. We agree and we conclude that\nappellees are not protected by qualified immunity in the circumstances of this case. \nIn Davis v. Scherer, ___ U.S. ___, 104 S.Ct. 3012, 82 L.Ed.2d 139 (1984), the Supreme Court declared that:\nUnder Harlow, officials \"are shielded from liability for civil damages insofar as their conduct does not violate\nclearly established statutory or constitutional rights of which a reasonable person would have known.\" Whether\nan official may prevail in his qualified immunity defense depends upon the \"objective reasonableness of [his]\nconduct as measured by reference to clearly established law.\" No other \"circumstances\" are relevant to the issue\nof qualified immunity.\nId. ___ U.S. at ___, 104 S.Ct. at 3018, 82 L.Ed.2d at 147 (citations and footnote omitted).\nWe hold that the fourth amendment's protection against the kind of search of which Jones complains was well-\nestablished at the time his search took place. Aside from the wording of the fourth amendment itself and the\nmany decisions of the Supreme Court limiting the authority of officials to search suspects, the Seventh Circuit\nhad already affirmed a district court's disapproval of a strip search of a motorist unsuspected of harboring\nweapons or contraband. Tinetti v. Wittke, 479 F.Supp. 486 (E.D.Wis.1979),aff'd,620 F.2d 160 (1980) (per\ncuriam). See also Morales v. United States, 406 F.2d 1298, 1299 (9th Cir.1969) (vaginal search at border was\nimproper absent \"clear indication appellant was possessing narcotics\"); Huguez v. United States, 406 F.2d 366,\n378-79 (9th Cir.1968) (intrusive rectal search at border was improper absent \"clear indication\" or \"plain\nsuggestion\" that Huguez carried narcotics in his rectal cavity); People v. Seymour, 398 N.E.2d 1191, 1197, 80\nIll.App.3d 221, 35 Ill.Dec. 241 (1979) (strip search invalidated under Illinois' constitutional provision similar to\nfourth amendment). See also generally P. Schuldiver, Visual Rape: A Look at the Dubious Legality of Strip\nSearches, 13 John Marshall L.Rev. 273 (1980).\nSave trees - read court opinions online on Google Scholar.",
+      "document_type_other": null,
+      "external_url": "",
+      "ecf_number": null,
+      "clearinghouse_link": "clearinghouse.net/doc/54177"
+    },
+    {
+      "date": null,
+      "date_is_estimate": false,
+      "date_not_available": false,
+      "description": null,
+      "document_source": null,
+      "document_status": null,
+      "document_type": null,
+      "order_type": null,
+      "citation_paren": null,
+      "cite_1_page": null,
+      "cite_1_reporter": null,
+      "cite_1_vol": null,
+      "cite_2_page": null,
+      "cite_2_reporter": null,
+      "cite_2_vol": null,
+      "cite_3_page": null,
+      "cite_3_reporter": null,
+      "cite_3_vol": null,
+      "citation_status": null,
+      "court": null,
+      "no_title": false,
+      "party_types": [],
+      "per_curium": false,
+      "is_core_document": true,
+      "id": 121663,
+      "file": null,
+      "title": null,
+      "text": null,
+      "document_type_other": null,
+      "external_url": null,
+      "ecf_number": null,
+      "clearinghouse_link": "clearinghouse.net/doc/121663"
+    }
+  ],
+  "document_count": 2
+}
