@@ -1,17 +1,17 @@
 # ML Implementation Specification
-## Document-Level Legal Tagging System (Simplified)
+## Document-Level Legal Tagging System
 
 ---
 
 ## 🎯 Project Overview
 
-Build a **simple, memory-efficient** machine learning system to automatically tag individual legal documents using human-tagged training data from the Civil Rights Clearinghouse database.
+Build a **memory-efficient** machine learning system to automatically tag individual legal documents using human-tagged training data from the Civil Rights Clearinghouse database.
 
 **Scope:** Document-level tagging ONLY (case-level tagging deferred for future implementation)
 
 **Key Constraints:**
 - Memory-safe processing (batch processing throughout)
-- Simple architecture (single model, straightforward pipeline)
+- Interpretable model architecture with comprehensive evaluation
 - Production-ready inference on new documents
 
 ---
@@ -36,7 +36,7 @@ For each document, we have:
 
 ---
 
-## 🏗️ Repository Structure (Simplified)
+## 🏗️ Repository Structure
 
 ```
 si485-clearinghouseml/
@@ -51,9 +51,10 @@ si485-clearinghouseml/
 │   └── production/               # Production cases (to predict)
 │
 ├── processed/                    # Processed data (created by pipeline)
-│   ├── documents_train.csv       # Training documents
-│   ├── documents_val.csv         # Validation documents
-│   ├── documents_test.csv        # Test documents
+│   ├── documents_all.csv         # All extracted documents
+│   ├── documents_train.pkl       # Training documents
+│   ├── documents_val.pkl         # Validation documents
+│   ├── documents_test.pkl        # Test documents
 │   └── vectorizers.pkl           # Saved text vectorizers
 │
 ├── model/                        # Saved trained model
@@ -64,20 +65,17 @@ si485-clearinghouseml/
 ├── src/                          # Source code
 │   ├── __init__.py
 │   ├── extract_documents.py      # Extract docs from JSONs (with batching)
+│   ├── eda.ipynb                 # Exploratory data analysis
 │   ├── process_features.py       # Text processing & vectorization
 │   ├── train_model.py            # Model training
-│   └── predict.py                # Make predictions
+│   ├── evaluate_model.py         # Test set evaluation
+│   └── predict.py                # Make predictions on production data
 │
-└── results/                      # Output predictions
-    └── predictions.csv           # Predicted tags for production docs
+└── results/                      # Output predictions and evaluations
+    ├── test_predictions.csv      # Test set predictions
+    ├── test_metrics.json         # Test set performance metrics
+    └── predictions.csv           # Production predictions
 ```
-
-**Key Simplifications:**
-- Single `model/` directory (not separate case/document)
-- No separate `experiments/` tracking (just save best model)
-- No `tests/` initially (focus on working implementation)
-- No complex script orchestration (simple Python files)
-- Flat `processed/` structure (not train/val/test subdirectories)
 
 ---
 
@@ -151,12 +149,18 @@ numpy==1.24.3
 # ML
 scikit-learn==1.3.0
 
+# Visualization (for EDA)
+matplotlib==3.7.2
+seaborn==0.12.2
+
 # Utilities
 tqdm==4.66.0
 joblib==1.3.2
-```
 
-**That's it!** Much simpler dependencies.
+# Jupyter (for EDA notebook)
+jupyter==1.0.0
+ipykernel==6.25.0
+```
 
 ---
 
@@ -293,6 +297,277 @@ if __name__ == '__main__':
 
 **Output:** `processed/documents_all.csv` with columns:
 - `case_id`, `doc_id`, `title`, `source`, `text`, `document_type`, `party_types`
+
+---
+
+### **Phase 2.5: Exploratory Data Analysis (EDA)**
+
+#### Step 2.5.1: Analyze Data Characteristics
+**File: `src/eda.ipynb`**
+
+**Purpose:** Understand data characteristics, distributions, and patterns before feature engineering. This analysis informs decisions about feature processing, model selection, and train/test split strategies.
+
+**Timing:** Perform EDA after document extraction (Phase 2) but before feature processing (Phase 3). This ensures you have all raw data in a usable format, but haven't yet committed to specific feature engineering decisions.
+
+**Key Analyses:**
+
+1. **Tag Distribution Analysis**
+   - Frequency of each `document_type` (check for class imbalance)
+   - Frequency of each `party_type` 
+   - Co-occurrence patterns (which `party_types` appear together frequently?)
+   - Missing tag analysis (how many documents have no tags?)
+
+2. **Document Characteristics**
+   - Text length distributions (title, source, text, combined)
+   - Number of documents per case
+   - Empty/null field analysis
+
+3. **Insights for Model Design**
+   - If documents are very long → might need different truncation strategy
+   - If tags are heavily imbalanced → might need class weights or sampling strategies
+   - If certain tags co-occur frequently → might inform model architecture or feature engineering
+
+**Notebook Structure:**
+```python
+# Cell 1: Setup
+import pandas as pd
+import numpy as np
+import matplotlib.pyplot as plt
+import seaborn as sns
+from pathlib import Path
+from collections import Counter
+import ast
+
+# Set style
+sns.set_style("whitegrid")
+plt.rcParams['figure.figsize'] = (12, 6)
+
+# Cell 2: Load Data
+df = pd.read_csv('../processed/documents_all.csv')
+print(f"Total documents: {len(df)}")
+print(f"Total cases: {df['case_id'].nunique()}")
+
+# Cell 3: Missing Data Analysis
+print("=== Missing Data Analysis ===")
+missing = df.isnull().sum()
+print(missing[missing > 0])
+
+# Documents with missing tags
+missing_doctype = df['document_type'].isnull().sum()
+missing_party = df['party_types'].isnull().sum()
+print(f"\nDocuments missing document_type: {missing_doctype} ({missing_doctype/len(df)*100:.1f}%)")
+print(f"Documents missing party_types: {missing_party} ({missing_party/len(df)*100:.1f}%)")
+
+# Cell 4: Document Type Distribution
+print("=== Document Type Distribution ===")
+doctype_counts = df['document_type'].value_counts()
+print(doctype_counts)
+
+plt.figure(figsize=(14, 6))
+doctype_counts.head(20).plot(kind='bar')
+plt.title('Top 20 Document Types by Frequency')
+plt.xlabel('Document Type')
+plt.ylabel('Count')
+plt.xticks(rotation=45, ha='right')
+plt.tight_layout()
+plt.show()
+
+# Check for imbalance
+print(f"\nMost common: {doctype_counts.iloc[0]} ({doctype_counts.iloc[0]/len(df)*100:.1f}%)")
+print(f"Least common: {doctype_counts.iloc[-1]}")
+print(f"Imbalance ratio: {doctype_counts.iloc[0] / doctype_counts.iloc[-1]:.1f}x")
+
+# Cell 5: Party Types Distribution
+print("=== Party Types Distribution ===")
+
+# Parse party_types (stored as string representation of list)
+def parse_party_types(val):
+    if pd.isna(val) or val == 'None':
+        return []
+    try:
+        return ast.literal_eval(val) if val else []
+    except:
+        return []
+
+df['party_list'] = df['party_types'].apply(parse_party_types)
+
+# Count individual party types
+all_parties = []
+for parties in df['party_list']:
+    all_parties.extend(parties)
+
+party_counts = Counter(all_parties)
+print(f"Unique party types: {len(party_counts)}")
+print("\nTop 15 party types:")
+for party, count in party_counts.most_common(15):
+    print(f"  {party}: {count}")
+
+# Visualize
+plt.figure(figsize=(14, 6))
+top_parties = dict(party_counts.most_common(15))
+plt.bar(top_parties.keys(), top_parties.values())
+plt.title('Top 15 Party Types by Frequency')
+plt.xlabel('Party Type')
+plt.ylabel('Count')
+plt.xticks(rotation=45, ha='right')
+plt.tight_layout()
+plt.show()
+
+# Cell 6: Party Type Co-occurrence
+print("=== Party Type Co-occurrence ===")
+
+# Find documents with multiple party types
+multi_party = df[df['party_list'].apply(len) > 1]
+print(f"Documents with multiple party types: {len(multi_party)} ({len(multi_party)/len(df)*100:.1f}%)")
+
+# Most common pairs
+from itertools import combinations
+pairs = []
+for parties in multi_party['party_list']:
+    if len(parties) >= 2:
+        pairs.extend(list(combinations(sorted(parties), 2)))
+
+pair_counts = Counter(pairs)
+print("\nTop 10 party type pairs:")
+for pair, count in pair_counts.most_common(10):
+    print(f"  {pair[0]} + {pair[1]}: {count}")
+
+# Cell 7: Text Length Analysis
+print("=== Text Length Analysis ===")
+
+# Calculate lengths
+df['title_len'] = df['title'].fillna('').astype(str).str.len()
+df['source_len'] = df['source'].fillna('').astype(str).str.len()
+df['text_len'] = df['text'].fillna('').astype(str).str.len()
+df['combined_len'] = df['title_len'] + df['source_len'] + df['text_len']
+
+# Statistics
+print("Length statistics:")
+print(df[['title_len', 'source_len', 'text_len', 'combined_len']].describe())
+
+# Visualize distributions
+fig, axes = plt.subplots(2, 2, figsize=(14, 10))
+
+axes[0, 0].hist(df['title_len'], bins=50, edgecolor='black')
+axes[0, 0].set_title('Title Length Distribution')
+axes[0, 0].set_xlabel('Characters')
+axes[0, 0].set_ylabel('Frequency')
+
+axes[0, 1].hist(df['source_len'], bins=50, edgecolor='black')
+axes[0, 1].set_title('Source Length Distribution')
+axes[0, 1].set_xlabel('Characters')
+
+axes[1, 0].hist(df['text_len'].clip(upper=50000), bins=50, edgecolor='black')
+axes[1, 0].set_title('Text Length Distribution (capped at 50k)')
+axes[1, 0].set_xlabel('Characters')
+axes[1, 0].set_ylabel('Frequency')
+
+axes[1, 1].hist(df['combined_len'].clip(upper=50000), bins=50, edgecolor='black')
+axes[1, 1].set_title('Combined Length Distribution (capped at 50k)')
+axes[1, 1].set_xlabel('Characters')
+
+plt.tight_layout()
+plt.show()
+
+# Check for very long documents
+print(f"\nDocuments > 10,000 chars: {(df['text_len'] > 10000).sum()} ({(df['text_len'] > 10000).sum()/len(df)*100:.1f}%)")
+print(f"Documents > 50,000 chars: {(df['text_len'] > 50000).sum()} ({(df['text_len'] > 50000).sum()/len(df)*100:.1f}%)")
+
+# Cell 8: Documents per Case
+print("=== Documents per Case ===")
+
+docs_per_case = df.groupby('case_id').size()
+print("Documents per case statistics:")
+print(docs_per_case.describe())
+
+plt.figure(figsize=(12, 5))
+plt.hist(docs_per_case, bins=50, edgecolor='black')
+plt.title('Distribution of Documents per Case')
+plt.xlabel('Number of Documents')
+plt.ylabel('Number of Cases')
+plt.axvline(docs_per_case.mean(), color='red', linestyle='--', label=f'Mean: {docs_per_case.mean():.1f}')
+plt.axvline(docs_per_case.median(), color='green', linestyle='--', label=f'Median: {docs_per_case.median():.1f}')
+plt.legend()
+plt.show()
+
+# Cell 9: Key Insights Summary
+print("=== KEY INSIGHTS FOR MODEL DESIGN ===\n")
+
+# Class imbalance
+max_class_ratio = doctype_counts.iloc[0] / doctype_counts.iloc[-1]
+if max_class_ratio > 10:
+    print(f"⚠️  HIGH CLASS IMBALANCE detected (ratio: {max_class_ratio:.1f}x)")
+    print("   → Consider: class weights, stratified sampling, or SMOTE")
+
+# Text length
+median_text_len = df['text_len'].median()
+p95_text_len = df['text_len'].quantile(0.95)
+if p95_text_len > 20000:
+    print(f"\n⚠️  LONG DOCUMENTS detected (95th percentile: {p95_text_len:.0f} chars)")
+    print(f"   → Current truncation at 10,000 chars may cut {(df['text_len'] > 10000).sum()} docs")
+    print(f"   → Consider: increasing MAX_TEXT_LENGTH or using document summarization")
+
+# Multi-label complexity
+avg_parties = df['party_list'].apply(len).mean()
+print(f"\n📊 Average party types per document: {avg_parties:.2f}")
+if avg_parties > 2:
+    print("   → Multi-label classification will be complex")
+
+# Missing data
+if missing_doctype > len(df) * 0.1:
+    print(f"\n⚠️  HIGH MISSING TAG RATE: {missing_doctype/len(df)*100:.1f}% documents missing document_type")
+    print("   → May significantly reduce training set size")
+
+print("\n✅ EDA Complete! Use these insights to configure feature processing.")
+```
+
+**Key Outputs:**
+- Tag distribution visualizations
+- Text length statistics and recommendations for truncation
+- Class imbalance warnings
+- Multi-label complexity assessment
+- Actionable insights for feature processing configuration
+
+#### Step 2.5.2: EDA Results and Config Updates
+
+**Analysis Results (from 11,546 extracted documents):**
+
+1. **Class Imbalance - SEVERE (4401:1 ratio)**
+   - Most common: "Order/Opinion" with 4,401 docs (38.1%)
+   - Least common: "FOIA Request" with 2 docs
+   - 6 classes have fewer than 3 instances
+   - **Impact:** Without correction, model would overpredict majority class
+
+2. **Text Length Distribution - OPTIMAL**
+   - 95th percentile: 10,000 characters (exactly our truncation limit)
+   - All documents already truncated during extraction
+   - No further adjustment needed
+
+3. **Multi-label Complexity - LOW**
+   - Average party types per document: 0.94
+   - Only 7.7% of documents have multiple party types
+   - Multi-label classification will be manageable
+
+4. **Missing Data - MODERATE**
+   - 12.6% missing document_type (1,453 docs)
+   - 16.7% missing party_types (1,923 docs)
+   - Training set will reduce to ~10,093 documents after filtering
+
+**Config Adjustments Made:**
+
+Updated `config.py` to handle severe class imbalance:
+
+```python
+# Model settings  
+MIN_TAG_FREQUENCY = 3        # Drop tags appearing < 3 times (handles rare classes)
+USE_CLASS_WEIGHTS = True     # Enable class weights to handle imbalance (4401:1 ratio)
+```
+
+**Rationale:**
+- `USE_CLASS_WEIGHTS = True` enables `class_weight='balanced'` in LogisticRegression
+- This penalizes mistakes on minority classes more heavily
+- Prevents model from just predicting "Order/Opinion" for everything
+- Expected to significantly improve performance on rare classes
 
 ---
 
@@ -496,7 +771,12 @@ def train_models():
     
     # Train document_type model
     print("\nTraining document_type classifier...")
-    model_doctype = LogisticRegression(max_iter=1000, random_state=Config.RANDOM_SEED)
+    class_weight = 'balanced' if Config.USE_CLASS_WEIGHTS else None
+    model_doctype = LogisticRegression(
+        max_iter=1000, 
+        random_state=Config.RANDOM_SEED,
+        class_weight=class_weight
+    )
     model_doctype.fit(X_train, train_data['y_document_type'])
     
     # Evaluate on validation
@@ -510,7 +790,11 @@ def train_models():
     # Train party_types model (multi-label)
     print("\nTraining party_types classifier...")
     model_party = OneVsRestClassifier(
-        LogisticRegression(max_iter=1000, random_state=Config.RANDOM_SEED)
+        LogisticRegression(
+            max_iter=1000, 
+            random_state=Config.RANDOM_SEED,
+            class_weight=class_weight
+        )
     )
     model_party.fit(X_train, train_data['y_party_types'])
     
@@ -554,6 +838,229 @@ if __name__ == '__main__':
     for k, v in metrics.items():
         print(f"  {k}: {v}")
 ```
+
+---
+
+### **Phase 4.5: Test Set Evaluation**
+
+#### Step 4.5.1: Evaluate Model on Test Set
+**File: `src/evaluate_model.py`**
+
+**Purpose:** Evaluate the trained model on held-out test data to assess real-world performance. This provides an unbiased estimate of how the model will perform on new, unseen documents.
+
+**Why Test Set Evaluation:**
+- Validation set was used during training for model selection
+- Test set provides final, unbiased performance metrics
+- Identifies overfitting or other generalization issues
+- Generates detailed performance reports for model assessment
+
+**Implementation:**
+```python
+import joblib
+import numpy as np
+import pandas as pd
+import json
+from sklearn.metrics import (
+    classification_report, 
+    accuracy_score, 
+    f1_score, 
+    precision_score, 
+    recall_score,
+    confusion_matrix,
+    hamming_loss
+)
+from config import Config
+
+def evaluate_on_test_set():
+    """
+    Evaluate trained models on test set and save detailed metrics.
+    """
+    
+    print("Loading models and test data...")
+    models = joblib.load(Config.MODEL_DIR / 'document_tagger.pkl')
+    encoders = joblib.load(Config.PROCESSED_DIR / 'label_encoders.pkl')
+    test_data = joblib.load(Config.PROCESSED_DIR / 'documents_test.pkl')
+    
+    X_test = test_data['X']
+    y_test_doctype = test_data['y_document_type']
+    y_test_party = test_data['y_party_types']
+    doc_ids = test_data['doc_ids']
+    
+    print(f"Test set size: {len(doc_ids)} documents")
+    
+    # ========== Document Type Evaluation ==========
+    print("\n" + "="*60)
+    print("EVALUATING DOCUMENT_TYPE CLASSIFIER")
+    print("="*60)
+    
+    y_pred_doctype = models['document_type'].predict(X_test)
+    y_pred_doctype_proba = models['document_type'].predict_proba(X_test)
+    
+    # Overall metrics
+    doctype_accuracy = accuracy_score(y_test_doctype, y_pred_doctype)
+    doctype_precision = precision_score(y_test_doctype, y_pred_doctype, average='weighted', zero_division=0)
+    doctype_recall = recall_score(y_test_doctype, y_pred_doctype, average='weighted', zero_division=0)
+    doctype_f1_weighted = f1_score(y_test_doctype, y_pred_doctype, average='weighted', zero_division=0)
+    doctype_f1_macro = f1_score(y_test_doctype, y_pred_doctype, average='macro', zero_division=0)
+    
+    print(f"\nOverall Metrics:")
+    print(f"  Accuracy:           {doctype_accuracy:.4f}")
+    print(f"  Precision (weighted): {doctype_precision:.4f}")
+    print(f"  Recall (weighted):    {doctype_recall:.4f}")
+    print(f"  F1 Score (weighted):  {doctype_f1_weighted:.4f}")
+    print(f"  F1 Score (macro):     {doctype_f1_macro:.4f}")
+    
+    # Per-class report
+    print("\nPer-Class Performance:")
+    class_names = encoders['document_type'].classes_
+    print(classification_report(
+        y_test_doctype, 
+        y_pred_doctype, 
+        target_names=class_names,
+        zero_division=0
+    ))
+    
+    # ========== Party Types Evaluation ==========
+    print("\n" + "="*60)
+    print("EVALUATING PARTY_TYPES CLASSIFIER")
+    print("="*60)
+    
+    y_pred_party = models['party_types'].predict(X_test)
+    
+    # Multi-label metrics
+    party_hamming = hamming_loss(y_test_party, y_pred_party)
+    party_precision_micro = precision_score(y_test_party, y_pred_party, average='micro', zero_division=0)
+    party_recall_micro = recall_score(y_test_party, y_pred_party, average='micro', zero_division=0)
+    party_f1_micro = f1_score(y_test_party, y_pred_party, average='micro', zero_division=0)
+    party_f1_macro = f1_score(y_test_party, y_pred_party, average='macro', zero_division=0)
+    party_f1_samples = f1_score(y_test_party, y_pred_party, average='samples', zero_division=0)
+    
+    # Subset accuracy (exact match)
+    subset_accuracy = np.mean([
+        np.array_equal(y_test_party[i], y_pred_party[i]) 
+        for i in range(len(y_test_party))
+    ])
+    
+    print(f"\nOverall Metrics:")
+    print(f"  Hamming Loss:         {party_hamming:.4f}")
+    print(f"  Subset Accuracy:      {subset_accuracy:.4f}")
+    print(f"  Precision (micro):    {party_precision_micro:.4f}")
+    print(f"  Recall (micro):       {party_recall_micro:.4f}")
+    print(f"  F1 Score (micro):     {party_f1_micro:.4f}")
+    print(f"  F1 Score (macro):     {party_f1_macro:.4f}")
+    print(f"  F1 Score (samples):   {party_f1_samples:.4f}")
+    
+    # Per-class report for party types
+    print("\nPer-Class Performance:")
+    party_names = encoders['party_types'].classes_
+    print(classification_report(
+        y_test_party, 
+        y_pred_party, 
+        target_names=party_names,
+        zero_division=0
+    ))
+    
+    # ========== Save Predictions ==========
+    print("\n" + "="*60)
+    print("SAVING TEST SET PREDICTIONS")
+    print("="*60)
+    
+    # Decode predictions
+    pred_doctype_labels = encoders['document_type'].inverse_transform(y_pred_doctype)
+    pred_party_labels = [
+        list(encoders['party_types'].inverse_transform([row])[0])
+        for row in y_pred_party
+    ]
+    
+    # Decode ground truth
+    true_doctype_labels = encoders['document_type'].inverse_transform(y_test_doctype)
+    true_party_labels = [
+        list(encoders['party_types'].inverse_transform([row])[0])
+        for row in y_test_party
+    ]
+    
+    # Get prediction confidence (max probability for document_type)
+    pred_confidence = np.max(y_pred_doctype_proba, axis=1)
+    
+    # Create results DataFrame
+    results_df = pd.DataFrame({
+        'doc_id': doc_ids,
+        'true_document_type': true_doctype_labels,
+        'predicted_document_type': pred_doctype_labels,
+        'doctype_confidence': pred_confidence,
+        'doctype_correct': y_test_doctype == y_pred_doctype,
+        'true_party_types': [str(p) for p in true_party_labels],
+        'predicted_party_types': [str(p) for p in pred_party_labels],
+        'party_exact_match': [
+            np.array_equal(y_test_party[i], y_pred_party[i])
+            for i in range(len(y_test_party))
+        ]
+    })
+    
+    # Save predictions CSV
+    output_csv = Config.RESULTS_DIR / 'test_predictions.csv'
+    results_df.to_csv(output_csv, index=False)
+    print(f"Saved predictions to: {output_csv}")
+    
+    # ========== Save Metrics JSON ==========
+    metrics = {
+        'test_set_size': len(doc_ids),
+        'document_type': {
+            'accuracy': float(doctype_accuracy),
+            'precision_weighted': float(doctype_precision),
+            'recall_weighted': float(doctype_recall),
+            'f1_weighted': float(doctype_f1_weighted),
+            'f1_macro': float(doctype_f1_macro),
+            'num_classes': len(class_names),
+            'classes': list(class_names)
+        },
+        'party_types': {
+            'hamming_loss': float(party_hamming),
+            'subset_accuracy': float(subset_accuracy),
+            'precision_micro': float(party_precision_micro),
+            'recall_micro': float(party_recall_micro),
+            'f1_micro': float(party_f1_micro),
+            'f1_macro': float(party_f1_macro),
+            'f1_samples': float(party_f1_samples),
+            'num_classes': len(party_names),
+            'classes': list(party_names)
+        }
+    }
+    
+    output_json = Config.RESULTS_DIR / 'test_metrics.json'
+    with open(output_json, 'w') as f:
+        json.dump(metrics, f, indent=2)
+    print(f"Saved metrics to: {output_json}")
+    
+    # ========== Summary ==========
+    print("\n" + "="*60)
+    print("EVALUATION SUMMARY")
+    print("="*60)
+    print(f"✅ Test set evaluation complete!")
+    print(f"   - Document Type Accuracy: {doctype_accuracy:.1%}")
+    print(f"   - Party Types Subset Accuracy: {subset_accuracy:.1%}")
+    print(f"   - Results saved to: {Config.RESULTS_DIR}")
+    
+    return metrics
+
+if __name__ == '__main__':
+    Config.create_dirs()
+    metrics = evaluate_on_test_set()
+```
+
+**Outputs:**
+1. **`results/test_predictions.csv`**: Detailed predictions for each test document
+   - Columns: `doc_id`, `true_document_type`, `predicted_document_type`, `doctype_confidence`, `doctype_correct`, `true_party_types`, `predicted_party_types`, `party_exact_match`
+   
+2. **`results/test_metrics.json`**: Comprehensive performance metrics
+   - Accuracy, precision, recall, F1 scores
+   - Per-class performance statistics
+   - Both document_type and party_types metrics
+
+**When to Run:**
+- After Phase 4 (model training) completes
+- Before Phase 5 (production predictions)
+- Use test metrics to decide if model is production-ready
 
 ---
 
@@ -645,7 +1152,7 @@ if __name__ == '__main__':
 
 ---
 
-## 🚀 Complete Workflow (Simple Commands)
+## 🚀 Complete Workflow
 
 ### Step 1: Setup (one time)
 ```bash
@@ -658,19 +1165,39 @@ python src/extract_documents.py
 ```
 **Output:** `processed/documents_all.csv`
 
-### Step 3: Process Features & Split Data
+### Step 3: Exploratory Data Analysis
+```bash
+jupyter notebook src/eda.ipynb
+```
+**Analyze:**
+- Tag distributions and class imbalance
+- Text length characteristics
+- Multi-label complexity
+- Missing data patterns
+
+**Use insights to adjust `config.py` if needed (e.g., MAX_TEXT_LENGTH, MIN_TAG_FREQUENCY)**
+
+### Step 4: Process Features & Split Data
 ```bash
 python src/process_features.py
 ```
 **Output:** `processed/documents_train.pkl`, `documents_val.pkl`, `documents_test.pkl`, `vectorizers.pkl`, `label_encoders.pkl`
 
-### Step 4: Train Model
+### Step 5: Train Model
 ```bash
 python src/train_model.py
 ```
 **Output:** `model/document_tagger.pkl`, `model/metadata.json`
 
-### Step 5: Make Predictions on Production Cases
+### Step 6: Evaluate on Test Set
+```bash
+python src/evaluate_model.py
+```
+**Output:** `results/test_predictions.csv`, `results/test_metrics.json`
+
+**Review test metrics to ensure model is production-ready before deploying!**
+
+### Step 7: Make Predictions on Production Cases
 ```bash
 python src/predict.py
 ```
@@ -678,17 +1205,25 @@ python src/predict.py
 
 ---
 
-## � Expected Performance
+## 📈 Expected Performance
 
-**Targets for Document-Level Tags:**
-- `document_type`: Accuracy > 70%, F1 > 0.65
-- `party_types`: F1 (micro) > 0.60
+**Performance Targets:**
+- `document_type`: Accuracy > 70%, F1 (weighted) > 0.65
+- `party_types`: Subset Accuracy > 50%, F1 (micro) > 0.60
+
+**Performance Analysis:**
+- Use validation metrics during training for model selection
+- Use test metrics for final performance assessment
+- Compare test vs. validation performance to check for overfitting
+- Review per-class metrics to identify problematic categories
 
 **If performance is poor:**
-1. Check class distribution (are some tags very rare?)
-2. Increase `MAX_FEATURES` in config (more vocabulary)
-3. Try different model (e.g., Random Forest instead of Logistic Regression)
-4. Add more training data
+1. **Check EDA findings**: Review class distribution and data quality issues
+2. **Adjust features**: Increase `MAX_FEATURES` for larger vocabulary, try different n-gram ranges
+3. **Handle imbalance**: Use class weights, SMOTE, or stratified sampling
+4. **Try different models**: Random Forest, XGBoost, or neural networks
+5. **Feature engineering**: Add document length, source indicators, or other metadata features
+6. **Add more training data**: Collect additional labeled cases
 
 ---
 
@@ -712,15 +1247,16 @@ python src/predict.py
 
 ## 🎯 Future Enhancements (Optional)
 
-**After getting this working, consider:**
+**After completing the core pipeline, consider:**
 
-1. **Add Test Set Evaluation**: Create a script to evaluate on test set
-2. **Add Case-Level Tagging**: Extend to predict case-level tags
-3. **Better Models**: Try Random Forest, XGBoost for better accuracy
-4. **Feature Engineering**: Add document length, source indicators, etc.
-5. **Hyperparameter Tuning**: Use GridSearchCV to optimize model params
-6. **Confidence Scores**: Output prediction probabilities for quality control
-7. **Web Interface**: Build simple Flask app for interactive tagging
+1. **Add Case-Level Tagging**: Extend to predict case-level tags (aggregating document predictions)
+2. **Advanced Models**: Try Random Forest, XGBoost, or transformer models for better accuracy
+3. **Feature Engineering**: Add document length, source indicators, named entity features, etc.
+4. **Hyperparameter Tuning**: Use GridSearchCV or Optuna to optimize model parameters
+5. **Confidence Scores**: Add prediction probability thresholds for quality control
+6. **Active Learning**: Identify low-confidence predictions for manual review
+7. **Web Interface**: Build Flask or Streamlit app for interactive tagging
+8. **Model Monitoring**: Track model performance over time on production data
 
 ---
 
@@ -730,8 +1266,13 @@ python src/predict.py
 - [ ] Create `requirements.txt`
 - [ ] Update `.gitignore`
 - [ ] Create `src/extract_documents.py`
+- [ ] Run extraction and verify `documents_all.csv`
+- [ ] Create and run `src/eda.ipynb` (analyze data characteristics)
+- [ ] Adjust config based on EDA insights
 - [ ] Create `src/process_features.py`
 - [ ] Create `src/train_model.py`
+- [ ] Create `src/evaluate_model.py`
+- [ ] Review test metrics (ensure model is production-ready)
 - [ ] Create `src/predict.py`
 - [ ] Test complete pipeline end-to-end
 - [ ] Document results in README
@@ -740,4 +1281,4 @@ python src/predict.py
 
 **End of Specification**
 
-This simplified spec focuses on **one goal**: predicting document-level tags with memory-safe processing. Everything else is deferred for future implementation.
+This specification provides a comprehensive document-level tagging pipeline with proper data analysis, model evaluation, and production deployment capabilities.
