@@ -1,0 +1,228 @@
+{
+  "case_id": 10141,
+  "fetched_at": "2025-10-22T00:11:14.873323",
+  "case_data": {
+    "attorney_orgs": [
+      "U.S. Dept. of Justice Civil Rights Division"
+    ],
+    "available_documents": [
+      "Trial Court Docket"
+    ],
+    "case_defendants": [
+      {
+        "defendant_level": null,
+        "institution": "",
+        "institution_alt_state": null,
+        "institution_city": "",
+        "institution_county": null,
+        "name": "Security State Bank of Pecos",
+        "defendant_level_other": "",
+        "is_active": true
+      }
+    ],
+    "case_ongoing": "No",
+    "case_status": "Coding Complete",
+    "case_types": [
+      "Fair Housing/Lending/Insurance"
+    ],
+    "cause_other": "",
+    "causes": [
+      "Equal Credit Opportunity Act (ECOA), 15 U.S.C. § 1691"
+    ],
+    "class_action_granted": "Not sought",
+    "class_action_sought": "No",
+    "closing_year": 1995,
+    "constitutional_clause": [],
+    "content_of_injunction": [],
+    "court": "Western District of Texas",
+    "custom_issues": [],
+    "defendant_payment": "",
+    "defendant_type": [],
+    "docket_status": "Complete as of retrieval date",
+    "facility_type": [],
+    "filing_date": "1995-10-18",
+    "filing_year": 1995,
+    "id": 10141,
+    "injunction_duration": "",
+    "issues": [
+      "General/Misc., Reproductive rights, Environmental Justice and Resources: Funding"
+    ],
+    "last_checked_date": "2007-08-02T00:00:00-04:00",
+    "main_docket": {
+      "id": 34421,
+      "docket_entries": [
+        {
+          "row_number": 0,
+          "id": 1847433,
+          "entry_number": null,
+          "date_filed": "1995-10-18T00:00:00-04:00",
+          "attachments": [],
+          "url": "nan",
+          "recap_pdf_url": null,
+          "pacer_doc_id": null,
+          "description": "Case assigned to Honorable Edward C. Prado (wg) (Entered: 10/18/1995)"
+        },
+        {
+          "row_number": 3,
+          "id": 1847436,
+          "entry_number": null,
+          "date_filed": "1995-10-18T00:00:00-04:00",
+          "attachments": [],
+          "url": "nan",
+          "recap_pdf_url": null,
+          "pacer_doc_id": null,
+          "description": "Case closed (fe) (Entered: 10/18/1995)"
+        },
+        {
+          "row_number": 2,
+          "id": 1847435,
+          "entry_number": "2",
+          "date_filed": "1995-10-18T00:00:00-04:00",
+          "attachments": [],
+          "url": "nan",
+          "recap_pdf_url": null,
+          "pacer_doc_id": null,
+          "description": "STIPULATED JUDGMENT for United States against Security S.B. Pecos in the sum of $500,000, to be distributed as contained in said Judgment. Within 30 days after entry of this Stipulated Judgment, Defendant shall pay $10,000 by check payable to the USA as a civil money penalty. This action is DISMISSED without prejudice to the right of either party to approach the Court regarding matters of noncompliance with the terms of this Judgment. Each party to this litigation will bear its own costs. (fe) (Entered: 10/18/1995)"
+        },
+        {
+          "row_number": 1,
+          "id": 1847434,
+          "entry_number": "1",
+          "date_filed": "1995-10-18T00:00:00-04:00",
+          "attachments": [],
+          "url": "nan",
+          "recap_pdf_url": null,
+          "pacer_doc_id": null,
+          "description": "Complaint filed. (wg) (Entered: 10/18/1995)"
+        }
+      ],
+      "docket_case_type": "cv",
+      "docket_year": 1995,
+      "docket_filing_number": 996,
+      "is_main_docket": true,
+      "court": "Western District of Texas",
+      "state": "Texas",
+      "docket_office_number": "5",
+      "docket_number_manual": "SA95CA0996",
+      "scales_html": "https://clearinghouse-umich-production.s3.amazonaws.com/media/docket-html/txwd--5-95-cv-00996.html",
+      "recap_link": null,
+      "is_active": true
+    },
+    "name": "United States v. Security State Bank of Pecos",
+    "never_filed": false,
+    "non_docket_case_number": "",
+    "non_docket_case_number_type": null,
+    "non_docket_case_number_type_other": "",
+    "order_end_year": null,
+    "order_start_year": null,
+    "permanent_injunction": false,
+    "plaintiff_description": "United States Department of Justice Housing and Civil Enforcement Section",
+    "plaintiff_type": [
+      {
+        "value": "U.S. Dept of Justice plaintiff"
+      }
+    ],
+    "prevailing_party": "Plaintiff",
+    "pro_se_status": "No",
+    "public_interest_lawyer": "Yes",
+    "related_cases": [],
+    "relief_natures": [
+      "Damages"
+    ],
+    "relief_nature_other": "",
+    "relief_sources": [
+      "Settlement"
+    ],
+    "settlement_agreement": [
+      "Confession of Judgment"
+    ],
+    "settlement_judgment_date": "1995-10-18",
+    "settlement_judgment_year": null,
+    "special_collections": [],
+    "special_case_type": [],
+    "state": "Texas",
+    "summary": "<p>The Department of Justice filed suit against Defendant-lender in the U.S. District Court for the Northern District of Texas on October 18, 1995, alleging violations of the Equal Credit Opportunity Act, 15 U.S.C. §§ 1691-1691f. The District Court entered a stipulated judgment the same day, assessing a $500,000 penalty against the Defendant-lender and a $10,000 fine.</p><p>We have no other information about this case.</p><p></p>",
+    "summary_published_date": "2008-06-02T00:00:00-04:00",
+    "summary_short": null,
+    "summary_tiny": null,
+    "terminating_date": "1995-10-18",
+    "clearinghouse_link": "clearinghouse.net/case/10141",
+    "is_active": true,
+    "case_documents_url": "https://clearinghouse.net/api/v2/documents/?case=10141",
+    "case_dockets_url": "https://clearinghouse.net/api/v2/dockets/?case=10141",
+    "case_resources_url": "https://clearinghouse.net/api/v2/resources/?case=10141"
+  },
+  "documents": [
+    {
+      "date": "1995-10-18",
+      "date_is_estimate": false,
+      "date_not_available": false,
+      "description": null,
+      "document_source": "PACER [Public Access to Court Electronic Records]",
+      "document_status": "Coding Complete",
+      "document_type": "Docket",
+      "order_type": null,
+      "citation_paren": null,
+      "cite_1_page": null,
+      "cite_1_reporter": null,
+      "cite_1_vol": null,
+      "cite_2_page": null,
+      "cite_2_reporter": null,
+      "cite_2_vol": null,
+      "cite_3_page": null,
+      "cite_3_reporter": null,
+      "cite_3_vol": null,
+      "citation_status": "Not applicable",
+      "court": "Western District of Texas",
+      "no_title": false,
+      "party_types": [
+        "Court"
+      ],
+      "per_curium": false,
+      "is_core_document": true,
+      "id": 25721,
+      "file": "https://clearinghouse-umich-production.s3.amazonaws.com/media/doc/25721.pdf",
+      "title": "Docket (PACER)",
+      "text": "CM/ECF LIVE - U.S. District Court:txwd - Docket Report https://ecf.txwd.uscourts.gov/cgi-bin/DktRpt.pl?861015082415355-L_3...\nCLOSED\nU.S. District Court [LIVE]\nWestern District of Texas (San Antonio)\nCIVIL DOCKET FOR CASE #: 5:95-cv-00996-ECP\nUnited States v. Security S.B. Pecos Date Filed: 10/18/1995\nAssigned to: Honorable Edward C. Prado Date Terminated: 10/18/1995\nDemand: $0 Jury Demand: None\nCause: 15:1691 Equal Credit Opportunity Act Nature of Suit: 440 Civil Rights: Other\nJurisdiction: U.S. Government Plaintiff\nPlaintiff\nUnited States of America represented by Brian F. Heffernan \nHousing & Civil Enf. Section \nP.O. Box 65998 \nWashington, DC 20035-5998 \n(202) 514-4746 \nLEAD ATTORNEY \nATTORNEY TO BE NOTICED\nRaymond A. Nowak \nAttorney at Law \n7870 Broadway \nBldg. B, Suite 201 \nSan Antonio, TX 78209 \n(210) 912-2705 \nFax: 210/826-0363 \nEmail: ray.nowak@sbcglobal.net \nLEAD ATTORNEY \nATTORNEY TO BE NOTICED\nS. E. Pietrafesa \nU.S. Department of Justice \nHousing & Civil Enforcement Section \nP.O. Box 65998 \nWashington, DC 20035-5998 \nLEAD ATTORNEY \nATTORNEY TO BE NOTICED\nV.\nDefendant\nSecurity State Bank of Pecos represented by William M. Kerr \nKerr, Fitzgerald & Kerr \nP.O. Drawer 511 \nMidland, TX 79702 \n(432) 683-5291 \n1 of 2 7/9/2007 2:19 PM\n\nCM/ECF LIVE - U.S. District Court:txwd - Docket Report https://ecf.txwd.uscourts.gov/cgi-bin/DktRpt.pl?861015082415355-L_3...\nLEAD ATTORNEY \nATTORNEY TO BE NOTICED\nDate Filed # Docket Text\n10/18/1995   Case assigned to Honorable Edward C. Prado (wg) (Entered: 10/18/1995)\n10/18/1995 1 Complaint filed. (wg) (Entered: 10/18/1995)\n10/18/1995 2 STIPULATED JUDGMENT for United States against Security S.B. Pecos in the \nsum of $500,000, to be distributed as contained in said Judgment. Within 30 days \nafter entry of this Stipulated Judgment, Defendant shall pay $10,000 by check \npayable to the USA as a civil money penalty. This action is DISMISSED without \nprejudice to the right of either party to approach the Court regarding matters of \nnoncompliance with the terms of this Judgment. Each party to this litigation will \nbear its own costs. (fe) (Entered: 10/18/1995)\n10/18/1995   Case closed (fe) (Entered: 10/18/1995)\nPACER Service Center\nTransaction Receipt\n07/09/2007 14:19:25\nPACER \nhs0328 Client Code: clearinghouse \nLogin:\nDocket  Search \nDescription: 5:95-cv-00996-ECP\nReport Criteria:\nBillable Pages: 1 Cost: 0.08\n2 of 2 7/9/2007 2:19 PM",
+      "document_type_other": null,
+      "external_url": null,
+      "ecf_number": null,
+      "clearinghouse_link": "clearinghouse.net/doc/25721"
+    },
+    {
+      "date": null,
+      "date_is_estimate": false,
+      "date_not_available": false,
+      "description": null,
+      "document_source": null,
+      "document_status": null,
+      "document_type": null,
+      "order_type": null,
+      "citation_paren": null,
+      "cite_1_page": null,
+      "cite_1_reporter": null,
+      "cite_1_vol": null,
+      "cite_2_page": null,
+      "cite_2_reporter": null,
+      "cite_2_vol": null,
+      "cite_3_page": null,
+      "cite_3_reporter": null,
+      "cite_3_vol": null,
+      "citation_status": null,
+      "court": null,
+      "no_title": false,
+      "party_types": [],
+      "per_curium": false,
+      "is_core_document": true,
+      "id": 122660,
+      "file": null,
+      "title": null,
+      "text": null,
+      "document_type_other": null,
+      "external_url": null,
+      "ecf_number": null,
+      "clearinghouse_link": "clearinghouse.net/doc/122660"
+    }
+  ],
+  "document_count": 2
+}

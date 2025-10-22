@@ -1,0 +1,452 @@
+{
+  "case_id": 441,
+  "fetched_at": "2025-10-22T00:04:48.591163",
+  "case_data": {
+    "attorney_orgs": [
+      "Jerome N. Frank Legal Services Organization (Yale)"
+    ],
+    "available_documents": [
+      "Trial Court Docket",
+      "Any published opinion"
+    ],
+    "case_defendants": [
+      {
+        "defendant_level": null,
+        "institution": "",
+        "institution_alt_state": null,
+        "institution_city": "",
+        "institution_county": null,
+        "name": "Connecticut Department of Mental Retardation",
+        "defendant_level_other": "",
+        "is_active": true
+      },
+      {
+        "defendant_level": null,
+        "institution": "",
+        "institution_alt_state": null,
+        "institution_city": "Middletown",
+        "institution_county": null,
+        "name": "Connecticut Valley Hospital",
+        "defendant_level_other": "",
+        "is_active": true
+      }
+    ],
+    "case_ongoing": "No",
+    "case_status": "Approved",
+    "case_types": [
+      "Intellectual Disability (Facility)"
+    ],
+    "cause_other": "",
+    "causes": [
+      "42 U.S.C. § 1983"
+    ],
+    "class_action_granted": "Granted",
+    "class_action_sought": "Yes",
+    "closing_year": 1993,
+    "constitutional_clause": [
+      {
+        "value": "Due Process"
+      },
+      {
+        "value": "Equal Protection"
+      }
+    ],
+    "content_of_injunction": [],
+    "court": "District of Connecticut",
+    "custom_issues": [],
+    "defendant_payment": "",
+    "defendant_type": [],
+    "docket_status": "Incomplete",
+    "facility_type": [
+      {
+        "value": "Government-run"
+      }
+    ],
+    "filing_date": "1989-08-15",
+    "filing_year": 1989,
+    "id": 441,
+    "injunction_duration": "",
+    "issues": [
+      "General/Misc.: Individualized planning",
+      "General/Misc.: Reassessment and care planning",
+      "Jails, Prisons, Detention Centers, and Other Institutions: Restraints (chemical)",
+      "Jails, Prisons, Detention Centers, and Other Institutions: Restraints (physical)",
+      "Jails, Prisons, Detention Centers, and Other Institutions: Confinement/isolation",
+      "Disability and Disability Rights: Intellectual/developmental disability, unspecified"
+    ],
+    "last_checked_date": "2006-10-26T00:00:00-04:00",
+    "main_docket": {
+      "id": 42629,
+      "docket_entries": [
+        {
+          "row_number": 17,
+          "id": 1715727,
+          "entry_number": "116",
+          "date_filed": "1993-12-03T00:00:00-05:00",
+          "attachments": [],
+          "url": "nan",
+          "recap_pdf_url": null,
+          "pacer_doc_id": null,
+          "description": "JOINT STATUS REPORT by Larry Mihalcik, Brian Lensink, Michael Hogan, Audrey Bell (Smith, S.) (Entered: 12/07/1993)"
+        },
+        {
+          "row_number": 15,
+          "id": 1715725,
+          "entry_number": "114",
+          "date_filed": "1993-12-03T00:00:00-05:00",
+          "attachments": [],
+          "url": "nan",
+          "recap_pdf_url": null,
+          "pacer_doc_id": null,
+          "description": "MOTION by Larry Mihalcik, Audrey Bell to Dismiss claim for monetary relief (Smith, S.) (Entered: 12/07/1993)"
+        },
+        {
+          "row_number": 18,
+          "id": 1715728,
+          "entry_number": null,
+          "date_filed": "1993-12-03T00:00:00-05:00",
+          "attachments": [],
+          "url": "nan",
+          "recap_pdf_url": null,
+          "pacer_doc_id": null,
+          "description": "ENDORSEMENT granting [114-1] motion to Dismiss claim for monetary relief. The damages claim is dismiss. ( signed by Judge Peter C. Dorsey ) (Smith, S.) (Entered: 12/08/1993)"
+        },
+        {
+          "row_number": 16,
+          "id": 1715726,
+          "entry_number": "115",
+          "date_filed": "1993-12-03T00:00:00-05:00",
+          "attachments": [],
+          "url": "nan",
+          "recap_pdf_url": null,
+          "pacer_doc_id": null,
+          "description": "MEMORANDUM in support of [114-1] motion to Dismiss claim for monetary relief by Audrey Bell, Larry Mihalcik (Smith, S.) (Entered: 12/07/1993)"
+        },
+        {
+          "row_number": 2,
+          "id": 1715712,
+          "entry_number": "106",
+          "date_filed": "1992-01-13T00:00:00-05:00",
+          "attachments": [],
+          "url": "nan",
+          "recap_pdf_url": null,
+          "pacer_doc_id": null,
+          "description": "LETTER dated 1/8/92 by Brian R. Lensink, Audrey Bell RE: STATUS (Former Employee) (Entered: 01/14/1992)"
+        },
+        {
+          "row_number": 10,
+          "id": 1715720,
+          "entry_number": null,
+          "date_filed": "1993-03-12T00:00:00-05:00",
+          "attachments": [],
+          "url": "nan",
+          "recap_pdf_url": null,
+          "pacer_doc_id": null,
+          "description": "ENDORSEMENT/ORDER [110-1] stipulation ordered accordingly ( signed by Judge Peter C. Dorsey ) (Former Employee) (Entered: 03/17/1993)"
+        },
+        {
+          "row_number": 4,
+          "id": 1715714,
+          "entry_number": "107",
+          "date_filed": "1992-03-20T00:00:00-05:00",
+          "attachments": [],
+          "url": "nan",
+          "recap_pdf_url": null,
+          "pacer_doc_id": null,
+          "description": "STATUS REPORT by Larry Mihalcik, Audrey Bell (Former Employee) (Entered: 03/20/1992)"
+        },
+        {
+          "row_number": 14,
+          "id": 1715724,
+          "entry_number": "113",
+          "date_filed": "1993-12-01T00:00:00-05:00",
+          "attachments": [],
+          "url": "nan",
+          "recap_pdf_url": null,
+          "pacer_doc_id": null,
+          "description": "MEMORANDUM by Larry Mihalcik in support of [112-1] motion for Order dismissing claim for monetary relief by Larry Mihalcik (Former Employee) (Entered: 12/03/1993)"
+        },
+        {
+          "row_number": 1,
+          "id": 1715711,
+          "entry_number": null,
+          "date_filed": "1991-11-25T00:00:00-05:00",
+          "attachments": [],
+          "url": "nan",
+          "recap_pdf_url": null,
+          "pacer_doc_id": null,
+          "description": "ENDORSEMENT granting [105-1] letter, reset Status Report deadline to 1/6/92 ( signed by Judge Peter C. Dorsey ) (Former Employee) (Entered: 11/26/1991)"
+        },
+        {
+          "row_number": 13,
+          "id": 1715723,
+          "entry_number": "112",
+          "date_filed": "1993-12-01T00:00:00-05:00",
+          "attachments": [],
+          "url": "nan",
+          "recap_pdf_url": null,
+          "pacer_doc_id": null,
+          "description": "MOTION by Larry Mihalcik for Order dismissing claim for monetary relief (Brief Due 12/22/93 ) (Former Employee) (Entered: 12/03/1993)"
+        },
+        {
+          "row_number": 12,
+          "id": 1715722,
+          "entry_number": "111",
+          "date_filed": "1993-09-13T00:00:00-04:00",
+          "attachments": [],
+          "url": "nan",
+          "recap_pdf_url": null,
+          "pacer_doc_id": null,
+          "description": "ORDER, RE: STATUS/SETTLEMENT REPORT reset Status Report deadline to 12/1/93 ( signed by Judge Peter C. Dorsey ) (Former Employee) (Entered: 09/13/1993)"
+        },
+        {
+          "row_number": 6,
+          "id": 1715716,
+          "entry_number": "108",
+          "date_filed": "1992-05-18T00:00:00-04:00",
+          "attachments": [],
+          "url": "nan",
+          "recap_pdf_url": null,
+          "pacer_doc_id": null,
+          "description": "STATUS REPORT by Larry Mihalcik, Audrey Bell (Former Employee) (Entered: 05/18/1992)"
+        },
+        {
+          "row_number": 0,
+          "id": 1715710,
+          "entry_number": "105",
+          "date_filed": "1991-11-25T00:00:00-05:00",
+          "attachments": [],
+          "url": "nan",
+          "recap_pdf_url": null,
+          "pacer_doc_id": null,
+          "description": "LETTER dated 11/19/91 by Larry Mihalcik, Audrey Bell re: satatus of case (Former Employee) (Entered: 11/26/1991)"
+        },
+        {
+          "row_number": 11,
+          "id": 1715721,
+          "entry_number": null,
+          "date_filed": "1993-05-13T00:00:00-04:00",
+          "attachments": [],
+          "url": "nan",
+          "recap_pdf_url": null,
+          "pacer_doc_id": null,
+          "description": "Case closed as of 3/12/93 (Graham, T.) (Entered: 05/13/1993)"
+        },
+        {
+          "row_number": 3,
+          "id": 1715713,
+          "entry_number": null,
+          "date_filed": "1992-01-13T00:00:00-05:00",
+          "attachments": [],
+          "url": "nan",
+          "recap_pdf_url": null,
+          "pacer_doc_id": null,
+          "description": "ENDORSEMENT on letter #106. Counsel shall report on the status of settlement on/or before 3/20/92. In the future, such reporting shall not be done in letter form, but in pleading form, the original to be filed with the clerk's office. ( signed by Judge Peter C. Dorsey ) (Former Employee) (Entered: 01/14/1992)"
+        },
+        {
+          "row_number": 5,
+          "id": 1715715,
+          "entry_number": null,
+          "date_filed": "1992-03-26T00:00:00-05:00",
+          "attachments": [],
+          "url": "nan",
+          "recap_pdf_url": null,
+          "pacer_doc_id": null,
+          "description": "ENDORSEMENT [107-1] report submitted, set Status Report deadline to 5/15/92 ( signed by Judge Peter C. Dorsey ) (Former Employee) (Entered: 03/26/1992)"
+        },
+        {
+          "row_number": 8,
+          "id": 1715718,
+          "entry_number": "110",
+          "date_filed": "1993-03-05T00:00:00-05:00",
+          "attachments": [],
+          "url": "nan",
+          "recap_pdf_url": null,
+          "pacer_doc_id": null,
+          "description": "STIPULATION by Larry Mihalcik, Brian R. Lensink, Michael F. Hogan, Elizabeth Dole, Audrey Bell to resolve all outstanding issues and controversies in accordance with the terms and conditions set forth. (Former Employee) Modified on 05/13/1993 (Entered: 03/17/1993)"
+        },
+        {
+          "row_number": 9,
+          "id": 1715719,
+          "entry_number": null,
+          "date_filed": "1993-03-12T00:00:00-05:00",
+          "attachments": [],
+          "url": "nan",
+          "recap_pdf_url": null,
+          "pacer_doc_id": null,
+          "description": "ENDORSEMENT granting [109-1] joint motion, The stipulation is approved. The Clerk shall close this file as resolved by agreement of the parties subject to their respective further rights as stipulated. They shall report the status of the matters as per the understanding of the parties on or before 6/30/93 and each six (6) months thereafter until the parties agree that further reports are unnecessary. reset Status Report deadline to 6/30/93 ( signed by Judge Peter C. Dorsey ) (Former Employee) (Entered: 03/17/1993)"
+        },
+        {
+          "row_number": 7,
+          "id": 1715717,
+          "entry_number": "109",
+          "date_filed": "1993-03-05T00:00:00-05:00",
+          "attachments": [],
+          "url": "nan",
+          "recap_pdf_url": null,
+          "pacer_doc_id": null,
+          "description": "JOINT MOTION for approval of stipulation and order by Larry Mihalcik, Brian R. Lensink, Michael F. Hogan, Audrey Bell (Brief Due 3/26/93 ) (Former Employee) (Entered: 03/08/1993)"
+        }
+      ],
+      "docket_case_type": "cv",
+      "docket_year": 1989,
+      "docket_filing_number": 529,
+      "is_main_docket": true,
+      "court": "District of Connecticut",
+      "state": "Connecticut",
+      "docket_office_number": "2",
+      "docket_number_manual": "89-529",
+      "scales_html": "https://clearinghouse-umich-production.s3.amazonaws.com/media/docket-html/ctd--2-89-cv-00529.html",
+      "recap_link": null,
+      "is_active": true
+    },
+    "name": "Mihalcik v. Lensink",
+    "never_filed": false,
+    "non_docket_case_number": "",
+    "non_docket_case_number_type": null,
+    "non_docket_case_number_type_other": "",
+    "order_end_year": null,
+    "order_start_year": null,
+    "permanent_injunction": false,
+    "plaintiff_description": "All persons with mental retardation who were or would be patients at Connecticut Valley Hospital.",
+    "plaintiff_type": [],
+    "prevailing_party": "Plaintiff",
+    "pro_se_status": "No",
+    "public_interest_lawyer": "Yes",
+    "related_cases": [],
+    "relief_natures": [
+      "Injunction / Injunctive-like Settlement"
+    ],
+    "relief_nature_other": "",
+    "relief_sources": [
+      "Settlement"
+    ],
+    "settlement_agreement": [
+      "Court Approved Settlement or Consent Decree"
+    ],
+    "settlement_judgment_date": null,
+    "settlement_judgment_year": null,
+    "special_collections": [],
+    "special_case_type": [],
+    "state": "Connecticut",
+    "summary": "<p>On August 15, 1989, two patients at the Connecticut Valley Hospital, a state mental institution in Middletown, Connecticut, filed a class action lawsuit on behalf of all persons with intellectual disabilities who were or would be patients at the Hospital.  The plaintiffs, represented by Yale Legal Services, filed the suit in the U.S. District Court for the District of Connecticut, was brought against the Connecticut Department of Mental Retardation under 42 U.S.C. § 1983.  </p><p>The plaintiffs claimed that the State violated their constitutional rights by subjecting them to physical and chemical restraints and placing them in seclusion.  They further alleged that the State failed to provide structured behavioral programs and treatment, and that it had ignored state probate court orders to do so.  </p><p>The defendants filed a Motion to Dismiss.  On March 9, 1990, the court (Judge Peter C. Dorsey) denied the defendants' motion.  Mihalcik v. Lensink, 732 F. Supp. 299 (D. Conn. 1990).  </p><p>According to the PACER docket, on March 5, 1993, the parties filed a Joint Motion for Approval of Stipulation and Order resolving all outstanding issues in the case.  On March 12, 1993, the court (Judge Dorsey) approved the Order and ordered the case to be dismissed the same day.  The parties were ordered to continue to submit status reports to the court every six months.  </p><p>We have only the opinion and a few docket entries in the file so we have no further information on this case.</p><p></p>",
+    "summary_published_date": "2006-07-17T00:00:00-04:00",
+    "summary_short": "",
+    "summary_tiny": null,
+    "terminating_date": null,
+    "clearinghouse_link": "clearinghouse.net/case/441",
+    "is_active": false,
+    "case_documents_url": "https://clearinghouse.net/api/v2/documents/?case=441",
+    "case_dockets_url": "https://clearinghouse.net/api/v2/dockets/?case=441",
+    "case_resources_url": "https://clearinghouse.net/api/v2/resources/?case=441"
+  },
+  "documents": [
+    {
+      "date": "2005-10-26",
+      "date_is_estimate": false,
+      "date_not_available": false,
+      "description": null,
+      "document_source": null,
+      "document_status": "Approved",
+      "document_type": "Docket",
+      "order_type": null,
+      "citation_paren": null,
+      "cite_1_page": null,
+      "cite_1_reporter": null,
+      "cite_1_vol": null,
+      "cite_2_page": null,
+      "cite_2_reporter": null,
+      "cite_2_vol": null,
+      "cite_3_page": null,
+      "cite_3_reporter": null,
+      "cite_3_vol": null,
+      "citation_status": "Not applicable",
+      "court": "District of Connecticut",
+      "no_title": false,
+      "party_types": [
+        "Court"
+      ],
+      "per_curium": false,
+      "is_core_document": true,
+      "id": 2017,
+      "file": "https://clearinghouse-umich-production.s3.amazonaws.com/media/doc/2017.pdf",
+      "title": "Docket",
+      "text": "SDSD District Version 1.3 - Docket Report Page 1of 4\n \nCLOSED\n  \nU.S. District Court \nDistrict of Connecticut (Hartford) \nCIVIL DOCKET FOR CASE #: 2:89-cv-00529-PCD \n   \nMihalcik, et al v. Lensink, et al  Date Filed: 08/15/1989 \nAssigned to: Judge Peter C. Dorsey  Jury Demand: None \nDemand: $0  Nature of Suit: 440 Civil Rights: Other\nCause: No cause code entered Jurisdiction: U.S. Government \nDefendant\nPlaintiff\nLarry Mihalcik  represented by Carroll Lee Lucht  \nJerome N. Frank Legal Services \nOrganization  \nYale Law School  \nPO Box 209090  \nNew Haven, CT 06520-9090  \n203-432-4800  \nEmail: carroll.lucht@yale.edu  \nLEAD ATTORNEY  \nATTORNEY TO BE NOTICED \n \nJ. L. Pottenger, Jr.  \nJerome N. Frank Legal Services \nOrganization  \nYale Law School  \nPO Box 209090  \nNew Haven, CT 06520-9090  \n203-432-4800  \nLEAD ATTORNEY  \nATTORNEY TO BE NOTICED \n \nJean Koh Peters  \nJerome N. Frank Legal Services \nOrganization  \nYale Law School  \nPO Box 209090  \nNew Haven, CT 06520-9090  \n203-432-4800  \nLEAD ATTORNEY  \nATTORNEY TO BE NOTICED \n \nStephen Wizner  \nJerome N. Frank Legal Services \nOrganization  \nPO Box 209090  \nNew Haven,, CT 06520-9090  \nhttps://ecf.ctd.uscourts.gov/cgi-bin/DktRpt.pl?927832529877731-L_280_0-1 10/26/2005\n\nSDSD District Version 1.3 - Docket Report Page 2of 4\n203-432-4800  \nLEAD ATTORNEY  \nATTORNEY TO BE NOTICED\nPlaintiff\nAudrey Bell \n \nV. \nDefendant\nBrian R. Lensink  represented by James P. Welsh  \nDirector-Legal & Govt Affairs  \nDept. of Mental Retardation  \n460 Capitol Ave.  \nHartford, CT 06106  \n860-418-6085  \nFax: 860-418-6009  \nEmail: james.welsh@po.state.ct.us  \nLEAD ATTORNEY  \nATTORNEY TO BE NOTICED\nDefendant\nMichael F. Hogan  represented by Jane D. Comerford  \nAttorney General's Office  \nUniversity of Connecticut Health \nCenter  \n263 Farmington Ave.  \nFarmington, CT 06030-3803  \n860-679-1114  \nEmail: comerford@adp.uchc.edu  \nLEAD ATTORNEY  \nATTORNEY TO BE NOTICED \n \nPaul J. Lahey  \nAttorney General's Office  \nHealth & Human Services  \n55 Elm St., Po Box 120  \nHartford, CT 06101  \n860-808-5318  \nLEAD ATTORNEY  \nATTORNEY TO BE NOTICED\nDefendant\nElizabeth Dole  \nTERMINATED: 02/04/1991 \n \nDate Filed  #  Docket Text \n11/25/1991 105 LETTER dated 11/19/91 by Larry Mihalcik, Audrey Bell re: satatus of \nhttps://ecf.ctd.uscourts.gov/cgi-bin/DktRpt.pl?927832529877731-L_280_0-1 10/26/2005\n\nSDSD District Version 1.3 - Docket Report Page 3of 4\ncase (Former Employee) (Entered: 11/26/1991)\n11/25/1991   ENDORSEMENT granting [105-1] letter, reset Status Report deadline to \n1/6/92 ( signed by Judge Peter C. Dorsey ) (Former Employee) (Entered: \n11/26/1991)\n01/13/1992 106 LETTER dated 1/8/92 by Brian R. Lensink, Audrey Bell RE: STATUS \n(Former Employee) (Entered: 01/14/1992)\n01/13/1992   ENDORSEMENT on letter #106. Counsel shall report on the status of \nsettlement on/or before 3/20/92. In the future, such reporting shall not be \ndone in letter form, but in pleading form, the original to be filed with the \nclerk's office. ( signed by Judge Peter C. Dorsey ) (Former Employee) \n(Entered: 01/14/1992)\n03/20/1992 107 STATUS REPORT by Larry Mihalcik, Audrey Bell (Former Employee) \n(Entered: 03/20/1992)\n03/26/1992   ENDORSEMENT [107-1] report submitted, set Status Report deadline to \n5/15/92 ( signed by Judge Peter C. Dorsey ) (Former Employee) \n(Entered: 03/26/1992)\n05/18/1992 108 STATUS REPORT by Larry Mihalcik, Audrey Bell (Former Employee) \n(Entered: 05/18/1992)\n03/05/1993 109 JOINT MOTION for approval of stipulation and order by Larry \nMihalcik, Brian R. Lensink, Michael F. Hogan, Audrey Bell (Brief Due \n3/26/93 ) (Former Employee) (Entered: 03/08/1993)\n03/05/1993 110 STIPULATION by Larry Mihalcik, Brian R. Lensink, Michael F. Hogan, \nElizabeth Dole, Audrey Bell to resolve all outstanding issues and \ncontroversies in accordance with the terms and conditions set forth. \n(Former Employee) Modified on 05/13/1993 (Entered: 03/17/1993)\n03/12/1993   ENDORSEMENT granting [109-1] joint motion, The stipulation is \napproved. The Clerk shall close this file as resolved by agreement of the \nparties subject to their respective further rights as stipulated. They shall \nreport the status of the matters as per the understanding of the parties on \nor before 6/30/93 and each six (6) months thereafter until the parties \nagree that further reports are unnecessary. reset Status Report deadline to \n6/30/93 ( signed by Judge Peter C. Dorsey ) (Former Employee) \n(Entered: 03/17/1993)\n03/12/1993   ENDORSEMENT/ORDER [110-1] stipulation ordered accordingly \n( signed by Judge Peter C. Dorsey ) (Former Employee) (Entered: \n03/17/1993)\n05/13/1993   Case closed as of 3/12/93 (Graham, T.) (Entered: 05/13/1993)\n09/13/1993 111 ORDER, RE: STATUS/SETTLEMENT REPORT reset Status Report \ndeadline to 12/1/93 ( signed by Judge Peter C. Dorsey ) (Former \nEmployee) (Entered: 09/13/1993)\n12/01/1993 112 MOTION by Larry Mihalcik for Order dismissing claim for monetary \nhttps://ecf.ctd.uscourts.gov/cgi-bin/DktRpt.pl?927832529877731-L_280_0-1 10/26/2005\n\nSDSD District Version 1.3 - Docket Report Page 4of 4\nrelief (Brief Due 12/22/93 ) (Former Employee) (Entered: 12/03/1993)\n12/01/1993 113 MEMORANDUM by Larry Mihalcik in support of [112-1] motion for \nOrder dismissing claim for monetary relief by Larry Mihalcik (Former \nEmployee) (Entered: 12/03/1993)\n12/03/1993 114 MOTION by Larry Mihalcik, Audrey Bell to Dismiss claim for monetary \nrelief (Smith, S.) (Entered: 12/07/1993)\n12/03/1993 115 MEMORANDUM in support of [114-1] motion to Dismiss claim for \nmonetary relief by Audrey Bell, Larry Mihalcik (Smith, S.) (Entered: \n12/07/1993)\n12/03/1993 116 JOINT STATUS REPORT by Larry Mihalcik, Brian Lensink, Michael \nHogan, Audrey Bell (Smith, S.) (Entered: 12/07/1993)\n12/03/1993   ENDORSEMENT granting [114-1] motion to Dismiss claim for \nmonetary relief. The damages claim is dismiss. ( signed by Judge Peter \nC. Dorsey ) (Smith, S.) (Entered: 12/08/1993)\n \n \nPACER Service Center\nTransaction Receipt\n10/26/2005 18:11:25\nPACER Login: hs0328 Client Code:\nDescription: Docket Report Search Criteria: 2:89-cv-00529-PCD\nBillable Pages: 2 Cost: 0.16\nhttps://ecf.ctd.uscourts.gov/cgi-bin/DktRpt.pl?927832529877731-L_280_0-1 10/26/2005",
+      "document_type_other": null,
+      "external_url": "",
+      "ecf_number": null,
+      "clearinghouse_link": "clearinghouse.net/doc/2017"
+    },
+    {
+      "date": "1990-03-09",
+      "date_is_estimate": false,
+      "date_not_available": false,
+      "description": null,
+      "document_source": "Google Scholar",
+      "document_status": "Approved",
+      "document_type": "Order/Opinion",
+      "order_type": "Non-Decree",
+      "citation_paren": null,
+      "cite_1_page": 299,
+      "cite_1_reporter": "F.Supp.",
+      "cite_1_vol": 732,
+      "cite_2_page": null,
+      "cite_2_reporter": null,
+      "cite_2_vol": null,
+      "cite_3_page": null,
+      "cite_3_reporter": null,
+      "cite_3_vol": null,
+      "citation_status": "Official citation found/coded",
+      "court": "District of Connecticut",
+      "no_title": false,
+      "party_types": [
+        "Court"
+      ],
+      "per_curium": false,
+      "is_core_document": true,
+      "id": 54435,
+      "file": "https://clearinghouse-umich-production.s3.amazonaws.com/media/doc/54435.pdf",
+      "title": "Ruling on Motions to Dismiss",
+      "text": "732 F.Supp. 299 (1990)\nLarry MIHALCIK, et al.\nv.\nBrian R. LENSINK, et al.\nCiv. No. H-89-529 (PCD).\nUnited States District Court, D. Connecticut.\nMarch 9, 1990.\n300 *300 J.L. Pottenger, Jr., Stephen Wizner, Mary McCarthy, Jean Koh Peters, and Jerome N. Frank, Legal Services\nOrganization, New Haven, Conn., for plaintiffs.\nPatricia A. Gerner, Paul J. Lahey, James P. Welsh, Asst. Attys. Gen., Hartford, Conn., and Carl J. Schuman, Asst.\nU.S. Atty., New Haven, Conn., for defendants.\nRULING ON MOTIONS TO DISMISS\nDORSEY, District Judge.\nPlaintiffs, two current Connecticut Valley Hospital (\"CVH\") patients, sue \"on behalf of all persons with mental\nretardation who are, were, or in the future will be patients at CVH,\" a state mental institution located in\nMiddletown. Amended Complaint, ¶ 1. Plaintiffs' motion for class certification has been stayed pending resolution\nof defendants' motions to dismiss. Plaintiffs allege violations of Section 123(a) of the Developmental Disabilities\nAssistance and Bill of Rights Act, 42 U.S.C. § 6023(a), and their Fourteenth Amendment rights to substantive due\nprocess and equal protection.\nDefendants are Brian R. Lensink, the Commissioner of the Connecticut Department of Mental Retardation\n(\"DMR\"), individually and in his official capacity; Michael F. Hogan, Commissioner of the Connecticut Department\nof Mental Health (\"DMH\"), individually and in his official capacity; and Louis W. Sullivan, M.D., Secretary of the\nUnited States Department of Health and Human Services, in his official capacity only. Defendants Lensink and\nHogan have moved to dismiss plaintiffs' amended complaint for failure to state a claim upon which relief can be\ngranted. Rule 12(b)(6), Fed.R.Civ.P. Since the motions are identical in nearly all respects, this ruling will address\nboth.\nFacts\nThe following facts are alleged in plaintiffs' amended complaint and are taken as true for the purposes of the\nmotions at bar. Miree v. DeKalb County, 433 U.S. 25, 27 n. 2, 97 S.Ct. 2490, 2492 n. 2, 53 L.Ed.2d 557 (1977).\nLarry Mihalcik is twenty-eight with a diagnosis of moderate mental retardation with behavioral symptoms. He has\nbeen a patient at CVH for ten years. Prior to his commitment, he was able to feed, dress and bathe himself.\nSince his confinement, hospital reviews allegedly document a profound decrease in overall functioning.\nMoreover, it is alleged that Mr. Mihalcik has been repeatedly subjected to physical and chemical restraints and\nplaced in seclusion.\nIn June 1988, an interdisciplinary team from DMR and DMH recommended that Mr. Mihalcik be placed in a group\nhome and that he be taught basic living skills. The Middletown Probate Court, in January 1989, found that Mr.\nMihalcik was in immediate need of a structured behavioral program and ordered him to an appropriate residential\nplacement. To date, that order had not been obeyed.\n\nAudrey Bell is thirty-seven and has been a resident of CVH for 18 years. Ms. Bell is diagnosed as autistic,\nretarded and non-verbal. Staff recommendations, including communication therapists or behavior modification\nstrategies have never been implemented, and to date no social worker or recreational therapist was assigned to\n301 Ms. Bell's ward. Until 1988, no case management services were provided for Ms. Bell *301 by the DMR. She is\ncurrently on the case load of a DMR worker.\nAfter finding that Ms. Bell's placement at CVH was inappropriate, in October of 1988, the Middletown Probate\nCourt ordered Ms. Bell's immediate placement in a community setting. In February 1989, DMR reported that Ms.\nBell would not receive community placement in fiscal 1989 or 1990. To date DMR had not obeyed the Probate\nCourt order.\nI.\nThe state defendants argue that plaintiffs fail to state claims against them under 42 U.S.C. § 1983 absent\nallegations of any specific acts or omissions of the defendant Commissioners. Defendants contend that there is\nno claim they knew the plaintiffs nor that they were personally involved in the treatment decisions.\nA claim under § 1983 requires allegations of defendants' personal involvement in the violations. Williams v. Smith,\n781 F.2d 319, 323 (2d Cir.1986). Respondeat superior does not suffice and a plaintiff must show some personal\nresponsibility as to each defendant. Duchesne v. Sugarman, 566 F.2d 817, 830 (2d Cir.1977). The complaint\ncannot rely on broad and conclusory allegations but must contain \"specific allegations of fact which indicate a\ndeprivation of constitutional rights.\" Alfaro Motors, Inc. v. Ward, 814 F.2d 883, 887 (2d Cir.1987) (a defendant\nmust be personally involved in the alleged deprivation to be held liable).\nPersonal involvement can be shown: (1) by direct participation in the alleged deprivation; (2) by failing to remedy\na violation after learning of it; (3) by creating an unconstitutional policy, practice or custom or allowing such to\ncontinue; or (4) by being grossly negligent in managing subordinates who caused the unlawful condition or event.\nWilliams, 781 F.2d at 323-24 (citations omitted).\nPlaintiffs' amended complaint includes detailed factual allegations which adequately meet the pleading\nrequirements of personal involvement outlined in Williams v. Smith. Plaintiffs assert that they are subject to\nunsafe conditions and undue restraint and that their basic living skills have deteriorated. They have also alleged\nthat defendants had knowledge of the conditions under which they lived and took no action to remedy those\nconditions. Furthermore, plaintiffs have alleged facts which may show that defendants have promoted\nunconstitutional practices, including physical and chemical restraint, failure to implement professional judgment\nwith regard to plaintiffs' placements and recommended services, and the failure to provide plaintiffs with individual\ntreatment plans (\"ITP\"). The complaint, read broadly and with all reasonable inferences drawn in plaintiffs' favor,\nwould reasonably permit an inference that defendants, as Commissioners, had sufficient knowledge of, created,\nacquiesced in, or have, are or will fail to correct or prevent the alleged constitutional deprivations so as to be\npersonally involved for § 1983 purposes.\nIn reviewing a complaint in the face of a motion to dismiss, \"the issue is not whether the plaintiff will prevail on the\nmerits but whether the claimant is entitled to offer evidence to support the claims.\" Scheuer v. Rhodes, 416 U.S.\n232, 236, 94 S.Ct. 1683, 1686, 40 L.Ed.2d 90 (1974). The question of defendants' personal involvement in\nalleged § 1983 violations turns on factual determinations. Williams, 781 F.2d at 323. Defendants are not entitled\nto dismissal.\nII.\nDefendants contend that the amended complaint fails to allege the necessary state-of-mind requirements for the\nasserted constitutional violations. The particular state-of-mind requirement depends on the specific constitutional\nright the plaintiff claims the defendant violated.\n\nA. Equal Protection claim\nIn Count V, plaintiffs allege a failure to have ITPs in effect or to provide plaintiffs with services consistent with\n302 such plans while others similarly situated are provided with services in accordance *302 with an ITP. Denial of\nsuch services is alleged to have no rational basis and thus violates the equal protection clause. Defendants\nargue that this count fails to allege intentional discrimination.\nAn equal protection claim requires a showing that he or she has been the victim of intentional discrimination. \nBatson v. Kentucky, 476 U.S. 79, 106 S.Ct. 1712, 90 L.Ed.2d 69 (1986). The Supreme Court, in Massachusetts v.\nFeeney, 442 U.S. 256, 99 S.Ct. 2282, 60 L.Ed.2d 870 (1979), described the requisite discriminatory purpose as\n\"more than intent as volition or intent as awareness of consequences. It implies that the decision maker ...\nselected or reaffirmed a particular course of action at least in part `because of,' not merely `in spite of,' its\nadverse effects upon an identifiable group.\" Id. at 279, 99 S.Ct. at 2296. Proof of discriminatory intent \"demands\na sensitive inquiry into such circumstantial and direct evidence of intent as may be available.\" Arlington Heights v.\nMetropolitan Housing Development Corp., 429 U.S. 252, 266, 97 S.Ct. 555, 564, 50 L.Ed.2d 450 (1977).\n\"The first step in any equal protection claim is to establish that a recognizable, distinct class is `singled out for\ndifferent treatment under the laws as written or as applied.'\" Gann v. Schramm, 606 F.Supp. 1442, 1447\n(D.Del.1985), quoting Castaneda v. Partida, 430 U.S. 482, 494, 97 S.Ct. 1272, 1280, 51 L.Ed.2d 498 (1977). The\nclassification need not be racially based00the equal protection clause may be applied to strike down any\n97\nclassification \"not rationally related to a legitimate government purpose.\" Thurman v. City of Torrington, 595\nF.Supp. 1521, 1526 (D.Conn.1984). Plaintiffs must allege that they were and are the victims of purposeful\ndiscrimination, either because of membership in a protected class or due to irrational or arbitrary classification\nunrelated to legitimate state objectives. See, e.g., Sherrell v. City of Longview, 683 F.Supp. 1108, 1116 (E.D.\nTex.1987).\nPlaintiffs allege defendants' authority with respect to plaintiffs programming, that they knew plaintiffs were not and\nare not being treated in accordance with ITPs although others with mental retardation, who are not confined in\nmental hospitals, receive services pursuant to ITPs. Plaintiffs claim that defendants have no rational basis for the\nfailure to provide appropriate services to persons with mental retardation at CVH. Whether the state defendants,\nwho are alleged to have the authority to provide services in accordance with ITPS, acted with a level of\ndiscriminatory purpose necessary to constitute a violation of the equal protection clause cannot be decided on\nthe face of the pleadings. Defendants' motions to dismiss plaintiffs' equal protection claims are denied because\ndefendants have not shown that plaintiffs will not be able to prove facts to support this claim.\nB. Due Process claim\nThe state defendants also challenge plaintiffs' substantive due process claim arguing that the amended complaint\n[1]\nfails to allege that they acted recklessly, with deliberate indifference , or intentionally to deprive them of their\nliberty interests. The court finds defendants arguments as to this point to be without merit and the cases cited in\nsupport of their position to be inapposite.\nIn Youngberg v. Romeo, 457 U.S. 307, 102 S.Ct. 2452, 73 L.Ed.2d 28 (1982), the Supreme Court held that\nmentally retarded individuals confined to a state institution had a constitutionally protected liberty interest in\nconditions of reasonable care and safety, freedom from unreasonable bodily restraint, as well as such minimally\nadequate training that will ensure these interests. Id. at 324, 102 S.Ct. at 2462. The proper standard for\n303 determining whether *303 the state has adequately protected such rights is whether \"professional judgment has\nbeen exercised.\" Id. at 321, 102 S.Ct. at 2461. \"[L]iability may be imposed only when the decision by a\nprofessional is such a substantial departure from accepted professional judgment, practice, or standards as to\ndemonstrate that the person responsible actually did not base the decision on such a judgment.\" Id. at 323, 102\nS.Ct. at 2462. \"Plaintiffs have the constitutional right to minimally adequate habilitation ... which will tend to\nrender unnecessary the use of chemical restraint, shackles, solitary confinement, locked wards, or prolonged\nisolation from one's normal community.\" Thomas S. by Brooks v. Flaherty, 699 F.Supp. 1178, 1200-01\n\n(W.D.N.C.1988). They also have \"a constitutional right to habilitation which is minimally adequate to maintain\nbasic self-care skills.\" Id. at 1201; see also Youngberg, 457 U.S. at 327, 102 S.Ct. at 2464 (\"such training as is\nreasonably necessary to prevent a person's pre-existing self-care skills from deteriorating\"). The question is \"not\nwhat treatment was actually provided, but whether the treatment decision was professionally made and falls\nwithin the scope of professional acceptability.\" Woe v. Cuomo, 729 F.2d 96, 105 (2d Cir.),cert. denied,469 U.S.\n936, 105 S.Ct. 339, 83 L.Ed.2d 274 (1984).\nPlaintiffs have specifically alleged the state defendants' knowledge of the needs of the individual plaintiffs as\nevidenced by recommendations of professionals at CVH as well as by the Probate Court's orders. Defendants'\nfailure to act, based on professional judgment, in light of this evidence allegedly resulted in the denial of plaintiffs'\ndue process rights to receive training which will ensure their safety, freedom from undue restraint and prevent the\ndeterioration of basic self-care skills.\nAlthough the decisions of professionals are \"presumptively valid\", Youngberg, 457 U.S. at 323, 102 S.Ct. at 2462,\ndefendants have not shown, from the face of the amended complaint, that plaintiffs can prove no facts to support\ntheir claim that defendants failed to exercise their professional judgment. Therefore, defendants' motions to\ndismiss plaintiffs' due process claims are denied.\nIII.\nDefendants next move to dismiss Count III which alleges that the state defendants violated Section 123(a) of the\nDevelopmental Disability Act (\"DDA\"), 42 U.S.C. § 6023(a), which conditions the receipt of federal funding on the\ndevelopment of individual habilitation plans for persons who receive treatment through programs funded by DDA\nmoney. Defendants contend that the DDA does not create rights enforceable by a developmentally disabled\nindividual in a § 1983 action and that, moreover, neither the DMR nor the DMH receive funds under the DDA.\nIn Maine v. Thiboutot, 448 U.S. 1, 100 S.Ct. 2502, 65 L.Ed.2d 555 (1980), the Supreme Court held that § 1983\nprovides a mechanism to enforce violations of federal statutes as well as constitutional violations. Two exceptions\nhave developed to the general rule. The first exception is that no action under § 1983 is available if Congress did\nnot intend the statute in question to create individually enforceable rights. Pennhurst State School and Hospital v.\nHalderman, 451 U.S. 1, 101 S.Ct. 1531, 67 L.Ed.2d 694 (1981) (\"Pennhurst I\"). Secondly, if Congress creates\nexclusive remedies for the enforcement of a statute, private enforcement under § 1983 is precluded. Middlesex\nCounty Sewerage Auth. v. National Sea Clammers Ass'n, 453 U.S. 1, 20, 101 S.Ct. 2615, 2626, 69 L.Ed.2d 435\n(1981). \"[I]f there is a state deprivation of a `right' secured by a federal statute, § 1983 provides a remedial cause\nof action unless the state actor demonstrates by express provision or other specific evidence from the statute\nitself that Congress intended to foreclose such private enforcement.\" Wright v. Roanoke Redevelopment &\nHousing Auth., 479 U.S. 418, 423, 107 S.Ct. 766, 776, 93 L.Ed.2d 781 (1987).\nThe Supreme Court addressed the issue of whether there is a § 1983 action based on alleged violations of the\nDDA in Pennhurst I. In that case, mentally retarded residents of a Pennsylvania hospital brought suit under the\n304 \"Bill of Rights\" provision of the DDA, 42 U.S.C. §§ 6010(1) *304 and (2) [recodified at 42 U.S.C. §§ 6009(1) and\n(2)] which states that developmentally disabled persons \"have a right to appropriate treatment, services, and\nhabilitation\" provided \"in the setting that is least restrictive of the person's personal liberty.\"\nPlaintiffs were held to have no cause of action under § 6010 of the DDA which did not create substantive rights\nbut was a statement of \"findings\" and expressed a Congressional preference for certain treatment. Pennhurst I,\n451 U.S. at 19, 101 S.Ct. at 1541. The Court carefully distinguished between the DDA's Bill of Rights section (§\n6010), cited by the Pennhurst I plaintiffs, and its funding sections (§ 6011, now § 6023, cited by the plaintiffs here,\nand § 6012). \"When Congress intended to impose conditions on the grant of federal funds, as in §§ ... 6011 [and]\n6012 ..., it proved capable of doing so in clear terms.\" Id. at 23, 101 S.Ct. at 1543. In marked contrast to the\nDDA's funding sections, § 6010 does not contain language suggesting that it is a condition on the receipt of\nfederal funds. Id. at 13, 101 S.Ct. at 1537. Rather, § 6010 illustrates the congressional \"distinction between\n`encouragement' of state programs and the imposition of binding obligations on the states.\" Id. at 27, 101 S.Ct. at\n1545.\n\nContrary to the contention of the state defendants here, the Supreme Court did not preclude the possibility of\nstatutory liability arising from violations of other sections of the DDA. The district court in Jose P. v. Ambach, 557\nF.Supp. 1230, 1234 (E.D.N.Y.1983), noted that the Supreme Court in Pennhurst I \"assumed ... that the statute's\nexpress conditions on funding created substantive rights.\" Likewise the district court in Gieseking v. Schafer, 672\nF.Supp. 1249, 1260 (W.D.Mo.1987), held that Congress intended to create \"rights\", enforceable under § 1983, in\ndevelopmentally disabled individuals as to the express conditions on the receipt of federal funds in § 6023(a).\nRather than merely providing the states with assistance for habilitation services, Congress was noted to have\nexpressly conditioned the receipt of funds on the existence of a system of protection and advocacy of the rights\nof the developmentally disabled. Id. at 1259. Such a provision illustrated Congress' contemplation of enforcement\nof the rights of persons receiving treatment. Id.\nNo evidence that Congress intended to create exclusive remedies within the statute, and thus bar a § 1983\naction, has been found or cited. Unlike the enforcement scheme in Middlesex County Sewerage Authority v.\nNational Sea Clammers, 453 U.S. 1, 101 S.Ct. 2615, 69 L.Ed.2d 435 (1981), DDA does not authorize\nenforcement suits by government officials or private citizens. \"[T]he [DDA] does not provide any enforcement\nprovision for private parties.\" Gieseking, 672 F.Supp. at 1261. As plaintiffs' claim against the state defendants\nunder the DDA does not fall within either exception to the general rule in Maine v. Thiboutot, plaintiffs are entitled\nto maintain their claim for the alleged deprivation of their substantive rights secured by the DDA.\nDefendants also contend that Count III fails to state a claim because neither the DMR nor the DMH receive funds\nunder DDA and therefore cannot be held responsible under § 6023(a) of DDA which applies to each program\n\"which receives funds under the states allotment.\" Defendants thus have converted their motions to dismiss, in\npart into motions for summary judgment under Fed.R.Civ.P. 56(b) attaching an affidavit alleging certain facts. The\ncourt's function in considering a motion for summary judgment is only to determine whether a question of material\nfact exists which requires a full trial. Heyman v. Commerce & Indus. Ins. Co., 524 F.2d 1317, 1319-20 (2d\nCir.1975).\nThe affidavit of the Director of the State Planning Council on Developmental Disabilities, the administrative body\nresponsible for the disbursement of the state's allotment under DDA, states that there are presently no programs\nof either the DMR or the DMH that are receiving funds under the DDA. Plaintiffs' opposing affidavit indicates that\n305 the DMR may have received funding within the last two years under the DDA and that both the DMR and *305\nthe DMH may receive DDA funds for \"case management\" in 1990 and 1991. See Gieseking, 672 F.Supp. at 1254\n.\nPlaintiffs here have requested damages in compensation for past violations of their rights, as well as injunctive\nrelief against future violations. On the basis of the pleadings and affidavits presented, summary judgment cannot\nbe granted because an issue of material fact exists concerning past and future allocations of DDA funds to both\nthe DMR and DMH which cannot be resolved without further development of the record.\nIV.\nDefendants next assert that plaintiffs claims under § 1983 for acts prior to August 15, 1987 are barred by the\nstatute of limitations.\nAs clarified by the Supreme Court in Owens v. Okure, 488 U.S. 235, 109 S.Ct. 573, 102 L.Ed.2d 594 (1989), the\napplicable statute of limitations for a § 1983 action for personal injuries is the general or residual statute of the\nappropriate state. In this action, defendant accurately notes and plaintiffs agree that under Connecticut Law,\nConn.Gen.Stat. § 52-584, plaintiffs' claims for damages are restricted to acts subsequent to August 15, 1987.\nV.\nFinally, defendants claim that plaintiffs' § 1983 claims for damages are barred by the Eleventh Amendment.\n\nThe Eleventh Amendment prohibits suits against the state by its own citizens as well as non-residents seeking a\nretroactive award which requires payment of funds from the state treasury. See, e.g., Edelman v. Jordan, 415\nU.S. 651, 677, 94 S.Ct. 1347, 1362, 39 L.Ed.2d 662 (1974); McClary v. O'Hare, 786 F.2d 83, 89 (2d Cir.1986).\nSuit against a public servant in his official capacity imposes liability on the state and thus the state itself is the real\nparty in interest. See, e.g., Kentucky v. Graham, 473 U.S. 159, 169, 105 S.Ct. 3099, 3107, 87 L.Ed.2d 114 (1985)\n. While Congress can abrogate the protections of the Eleventh Amendment, no such authorization is found in §\n1983. Minotti v. Lensink, 798 F.2d 607, 609 (2d Cir.1986),cert. denied,482 U.S. 906, 107 S.Ct. 2484, 96 L.Ed.2d\n376 (1987).\nThe immunity granted in the Eleventh Amendment does not extend, however, to state officers sued for damages\nin their individual capacity. While plaintiffs' damage claims against the state officials in their official capacity are\nbarred, the Eleventh Amendment immunity does not constitute grounds for dismissal of the damage claims\nbrought against the state defendants in their individual capacities.\nSummary\n1. Defendants' Motions to Dismiss plaintiffs' claims for failure to state claims under § 1983 and the\nDevelopmental Disabilities Act, 42 U.S.C. § 6023(a) are denied.\n2. Defendants' Motions to Dismiss are granted with respect to plaintiffs' claims for damages under § 1983 for acts\nprior to August 15, 1987 which are barred by the statute of limitations.\n3. Defendants' Motions to Dismiss all damage claims against the state defendants in their official capacities is\ngranted as such claims are barred by the defendants' Eleventh Amendment immunity.\n4. Defendants shall submit any objections to plaintiffs' motion for class certification within ten days of the date of\nthis order. Plaintiffs may respond within five days thereafter. Discovery shall be completed on or before June 29,\n1990. All dispositive motions to be filed by July 27, 1990.\nSO ORDERED.\n[1] The Supreme Court in Youngberg v. Romeo held that it was error to apply the deliberate indifference standard\ndeveloped under the Eighth Amendment when considering the due process rights of retarded persons\ninvoluntarily committed. 457 U.S. at 312 n. 11, 102 S.Ct. at 2456 n. 11. Such persons are \"entitled to more\nconsiderate treatment and conditions of confinement than criminals whose conditions are designed to punish.\" Id.\nat 322, 102 S.Ct. at 2461, citing Estelle v. Gamble, 429 U.S. 97, 104, 97 S.Ct. 285, 291, 50 L.Ed.2d 251 (1976).\nSave trees - read court opinions online on Google Scholar.",
+      "document_type_other": null,
+      "external_url": "",
+      "ecf_number": null,
+      "clearinghouse_link": "clearinghouse.net/doc/54435"
+    },
+    {
+      "date": null,
+      "date_is_estimate": false,
+      "date_not_available": false,
+      "description": null,
+      "document_source": null,
+      "document_status": null,
+      "document_type": null,
+      "order_type": null,
+      "citation_paren": null,
+      "cite_1_page": null,
+      "cite_1_reporter": null,
+      "cite_1_vol": null,
+      "cite_2_page": null,
+      "cite_2_reporter": null,
+      "cite_2_vol": null,
+      "cite_3_page": null,
+      "cite_3_reporter": null,
+      "cite_3_vol": null,
+      "citation_status": null,
+      "court": null,
+      "no_title": false,
+      "party_types": [],
+      "per_curium": false,
+      "is_core_document": true,
+      "id": 128711,
+      "file": null,
+      "title": null,
+      "text": null,
+      "document_type_other": null,
+      "external_url": null,
+      "ecf_number": null,
+      "clearinghouse_link": "clearinghouse.net/doc/128711"
+    }
+  ],
+  "document_count": 3
+}

@@ -1,0 +1,302 @@
+{
+  "case_id": 5636,
+  "fetched_at": "2025-10-22T00:07:47.678131",
+  "case_data": {
+    "attorney_orgs": [
+      "EEOC"
+    ],
+    "available_documents": [
+      "Trial Court Docket",
+      "Monetary Relief",
+      "Injunctive (or Injunctive-like) Relief"
+    ],
+    "case_defendants": [
+      {
+        "defendant_level": null,
+        "institution": null,
+        "institution_alt_state": null,
+        "institution_city": "Redmond, WA",
+        "institution_county": null,
+        "name": "Teijin Seiki America ",
+        "defendant_level_other": null,
+        "is_active": true
+      }
+    ],
+    "case_ongoing": "No",
+    "case_status": "Coding Complete",
+    "case_types": [
+      "Equal Employment"
+    ],
+    "cause_other": "",
+    "causes": [
+      "Title VII (including PDA), 42 U.S.C.  § 2000e"
+    ],
+    "class_action_granted": "Not sought",
+    "class_action_sought": "No",
+    "closing_year": 2002,
+    "constitutional_clause": [],
+    "content_of_injunction": [
+      {
+        "value": "Discrimination Prohibition"
+      },
+      {
+        "value": "Retaliation Prohibition"
+      },
+      {
+        "value": "Develop anti-discrimination policy"
+      },
+      {
+        "value": "Post/Distribute Notice of Rights / EE Law"
+      },
+      {
+        "value": "Provide antidiscrimination training"
+      },
+      {
+        "value": "Reporting"
+      }
+    ],
+    "court": "Western District of Washington",
+    "custom_issues": [],
+    "defendant_payment": "85000",
+    "defendant_type": [],
+    "docket_status": "Complete as of retrieval date",
+    "facility_type": [],
+    "filing_date": "2000-03-16",
+    "filing_year": 2000,
+    "id": 5636,
+    "injunction_duration": "30",
+    "issues": [
+      "Discrimination Basis: Sex discrimination",
+      "Discrimination Basis: Race discrimination",
+      "Affected Race(s): Asian/Pacific Islander",
+      "Affected Sex/Gender(s): Female",
+      "Discrimination Basis: National origin discrimination",
+      "General/Misc.: Retaliation",
+      "Discrimination Area: Disparate Treatment",
+      "Discrimination Area: Harassment / Hostile Work Environment",
+      "Discrimination Area: Discharge / Constructive Discharge / Layoff",
+      "EEOC-centric: Direct Suit on Merits"
+    ],
+    "last_checked_date": "2007-05-21T00:00:00-04:00",
+    "main_docket": {
+      "id": 37516,
+      "docket_entries": [
+        {
+          "row_number": 3,
+          "id": 1259168,
+          "entry_number": "4",
+          "date_filed": "2000-04-03T00:00:00-04:00",
+          "attachments": [],
+          "url": "nan",
+          "recap_pdf_url": null,
+          "pacer_doc_id": null,
+          "description": "CONSENT DECREE by Judge Robert S. Lasnik by stipulation of the parties, this lawsuit is dismissed with prejudice and without costs; case termed (cc: counsel, Judge, GG, Jgm. Book) Entered on: 4/3/00 (VK) (Entered: 04/03/2000)"
+        },
+        {
+          "row_number": 2,
+          "id": 1259167,
+          "entry_number": null,
+          "date_filed": "2000-03-30T00:00:00-05:00",
+          "attachments": [],
+          "url": "nan",
+          "recap_pdf_url": null,
+          "pacer_doc_id": null,
+          "description": "LODGED ORDER: consent decree and order dismissing action (RS) (Entered: 03/31/2000)"
+        },
+        {
+          "row_number": 0,
+          "id": 1259165,
+          "entry_number": "1",
+          "date_filed": "2000-03-16T00:00:00-05:00",
+          "attachments": [],
+          "url": "nan",
+          "recap_pdf_url": null,
+          "pacer_doc_id": null,
+          "description": "COMPLAINT JURY TRIAL DEMANDED (Summons(es) issued) Receipt # fee waived (PM) (Entered: 03/21/2000)"
+        },
+        {
+          "row_number": 1,
+          "id": 1259166,
+          "entry_number": "2",
+          "date_filed": "2000-03-21T00:00:00-05:00",
+          "attachments": [],
+          "url": "nan",
+          "recap_pdf_url": null,
+          "pacer_doc_id": null,
+          "description": "RETURN OF SERVICE of summons and complaint executed upon defendant Teijin Seiki America on 3/16/00 (KERR) (Entered: 03/23/2000)"
+        }
+      ],
+      "docket_case_type": "cv",
+      "docket_year": 2000,
+      "docket_filing_number": 439,
+      "is_main_docket": true,
+      "court": "Western District of Washington",
+      "state": "Washington",
+      "docket_office_number": "2",
+      "docket_number_manual": "2:00-cv-00439-RSL ",
+      "scales_html": "https://clearinghouse-umich-production.s3.amazonaws.com/media/docket-html/wawd--2-00-cv-00439.html",
+      "recap_link": null,
+      "is_active": true
+    },
+    "name": "EEOC v. TEIJIN SEIKI AMERICA, INC.",
+    "never_filed": false,
+    "non_docket_case_number": "",
+    "non_docket_case_number_type": null,
+    "non_docket_case_number_type_other": "",
+    "order_end_year": 2002,
+    "order_start_year": 2000,
+    "permanent_injunction": false,
+    "plaintiff_description": "Equal Employment Opportunity Commission, on behalf of one or more workers.",
+    "plaintiff_type": [
+      {
+        "value": "Private Plaintiff"
+      },
+      {
+        "value": "EEOC Plaintiff"
+      }
+    ],
+    "prevailing_party": "Plaintiff",
+    "pro_se_status": "No",
+    "public_interest_lawyer": "Yes",
+    "related_cases": [],
+    "relief_natures": [
+      "Injunction / Injunctive-like Settlement",
+      "Damages"
+    ],
+    "relief_nature_other": "",
+    "relief_sources": [
+      "Settlement"
+    ],
+    "settlement_agreement": [
+      "Court Approved Settlement or Consent Decree"
+    ],
+    "settlement_judgment_date": "2000-04-03",
+    "settlement_judgment_year": null,
+    "special_collections": [
+      "EEOC Study — in sample"
+    ],
+    "special_case_type": [],
+    "state": "Washington",
+    "summary": "<p>The Seattle District Office of the EEOC brought this Title VII suit against Teijin Seiki America in March 2000, in the U.S. District Court for the Western District of Washington. The complaint alleged that the defendant discriminated and harassed the charging party, a Japanese woman in her thirties, on the basis of national origin, race, and sex and also retaliated against her for complaining of the discrimination. The court entered a consent decree in April 2000.   </p><p>The consent decree required the defendant to refrain from discrimination, carry out anti-discrimination policies and procedures, institute training on employment discrimination, report bi-annually to the EEOC on the implementation of the consent decree, post notice of the consent decree, and pay the charging party $56,667 (and $28,333 to the charging party's counsel).</p><p></p>",
+    "summary_published_date": "2007-05-31T00:00:00-04:00",
+    "summary_short": null,
+    "summary_tiny": null,
+    "terminating_date": "2002-10-01",
+    "clearinghouse_link": "clearinghouse.net/case/5636",
+    "is_active": true,
+    "case_documents_url": "https://clearinghouse.net/api/v2/documents/?case=5636",
+    "case_dockets_url": "https://clearinghouse.net/api/v2/dockets/?case=5636",
+    "case_resources_url": "https://clearinghouse.net/api/v2/resources/?case=5636"
+  },
+  "documents": [
+    {
+      "date": null,
+      "date_is_estimate": false,
+      "date_not_available": false,
+      "description": null,
+      "document_source": null,
+      "document_status": null,
+      "document_type": null,
+      "order_type": null,
+      "citation_paren": null,
+      "cite_1_page": null,
+      "cite_1_reporter": null,
+      "cite_1_vol": null,
+      "cite_2_page": null,
+      "cite_2_reporter": null,
+      "cite_2_vol": null,
+      "cite_3_page": null,
+      "cite_3_reporter": null,
+      "cite_3_vol": null,
+      "citation_status": null,
+      "court": null,
+      "no_title": false,
+      "party_types": [],
+      "per_curium": false,
+      "is_core_document": true,
+      "id": 126771,
+      "file": null,
+      "title": null,
+      "text": null,
+      "document_type_other": null,
+      "external_url": null,
+      "ecf_number": null,
+      "clearinghouse_link": "clearinghouse.net/doc/126771"
+    },
+    {
+      "date": "2000-04-03",
+      "date_is_estimate": false,
+      "date_not_available": false,
+      "description": null,
+      "document_source": "PACER [Public Access to Court Electronic Records]",
+      "document_status": "Coding Complete",
+      "document_type": "Docket",
+      "order_type": null,
+      "citation_paren": null,
+      "cite_1_page": null,
+      "cite_1_reporter": null,
+      "cite_1_vol": null,
+      "cite_2_page": null,
+      "cite_2_reporter": null,
+      "cite_2_vol": null,
+      "cite_3_page": null,
+      "cite_3_reporter": null,
+      "cite_3_vol": null,
+      "citation_status": "Not applicable",
+      "court": "Western District of Washington",
+      "no_title": false,
+      "party_types": [
+        "Court"
+      ],
+      "per_curium": false,
+      "is_core_document": true,
+      "id": 15998,
+      "file": "https://clearinghouse-umich-production.s3.amazonaws.com/media/doc/15998.pdf",
+      "title": "Docket (PACER)",
+      "text": "WAWD CM/ECF Version 3.0.4 - Docket Report Page 1of 2\nCLOSED, JURYDEMAND\nU.S. District Court \nUnited States District Court for the Western District of Washington (Seattle) \nCIVIL DOCKET FOR CASE #: 2:00-cv-00439-RSL \n   \nEEOC v. Teijin Seiki America  Date Filed: 03/16/2000 \nAssigned to: Hon Robert S. Lasnik  Date Terminated: 04/03/2000 \nDemand: $0  Jury Demand: Plaintiff \nCause: 42:2000e Job Discrimination (Employment) Nature of Suit: 442 Civil Rights: Jobs \nJurisdiction: U.S. Government Plaintiff\nPlaintiff\nEqual Employment Opportunity  represented by A Luis Lucero, Jr  \nCommission  EQUAL EMPLOYMENT \nOPPORTUNITY COMMISSION  \nSEATTLE DISTRICT OFFICE  \n909 FIRST AVE  \nSTE 400  \nSEATTLE, WA 98104-1061  \n206-220-6883  \nEmail: LUIS.LUCERO@EEOC.GOV \nLEAD ATTORNEY  \nATTORNEY TO BE NOTICED\n \nV. \nDefendant\nTeijin Seiki America Inc  represented by Steven R Peltin  \nKIRKPATRICK & LOCKHART \nPRESTON GATES ELLIS  \n925 FOURTH AVE  \nSTE 2900  \nSEATTLE, WA 98104-1158  \n206-623-7580  \nFax: FAX 623-7022  \nEmail: stevep@prestongates.com  \nLEAD ATTORNEY  \nATTORNEY TO BE NOTICED\n \nDate Filed  #  Docket Text \n03/16/2000 1 COMPLAINT JURY TRIAL DEMANDED (Summons(es) issued) \nReceipt # fee waived (PM) (Entered: 03/21/2000)\n03/21/2000 2 RETURN OF SERVICE of summons and complaint executed upon \ndefendant Teijin Seiki America on 3/16/00 (KERR) (Entered: \n03/23/2000)\nhttps://ecf.wawd.uscourts.gov/cgi-bin/DktRpt.pl?297779089759161-L_353_0-1 5/21/2007\n\nWAWD CM/ECF Version 3.0.4 - Docket Report Page 2of 2\n03/24/2000 3 RETURN OF SERVICE of summons and complaint executed upon \ndefendant Teijin Seiki America on 3/16/00 (KERR) (Entered: \n03/28/2000)\n03/30/2000   LODGED ORDER: consent decree and order dismissing action (RS) \n(Entered: 03/31/2000)\n04/03/2000 4 CONSENT DECREE by Judge Robert S. Lasnik by stipulation of the \nparties, this lawsuit is dismissed with prejudice and without costs; case \ntermed (cc: counsel, Judge, GG, Jgm. Book) Entered on: 4/3/00 (VK) \n(Entered: 04/03/2000)\n \n \nPACER Service Center\nTransaction Receipt\n05/21/2007 08:01:56\nPACER Login: hs0328 Client Code: EEOC \nDescription: Docket Report Search Criteria: 2:00-cv-00439-RSL \nBillable Pages: 1 Cost: 0.08\nhttps://ecf.wawd.uscourts.gov/cgi-bin/DktRpt.pl?297779089759161-L_353_0-1 5/21/2007",
+      "document_type_other": null,
+      "external_url": null,
+      "ecf_number": null,
+      "clearinghouse_link": "clearinghouse.net/doc/15998"
+    },
+    {
+      "date": "2000-04-03",
+      "date_is_estimate": false,
+      "date_not_available": false,
+      "description": null,
+      "document_source": null,
+      "document_status": "Coding Complete",
+      "document_type": "Order/Opinion",
+      "order_type": "Consent Decree",
+      "citation_paren": null,
+      "cite_1_page": null,
+      "cite_1_reporter": null,
+      "cite_1_vol": null,
+      "cite_2_page": null,
+      "cite_2_reporter": null,
+      "cite_2_vol": null,
+      "cite_3_page": null,
+      "cite_3_reporter": null,
+      "cite_3_vol": null,
+      "citation_status": "No citation available",
+      "court": "Western District of Washington",
+      "no_title": false,
+      "party_types": [
+        "Court",
+        "Defendant",
+        "Plaintiff"
+      ],
+      "per_curium": false,
+      "is_core_document": true,
+      "id": 15999,
+      "file": "https://clearinghouse-umich-production.s3.amazonaws.com/media/doc/15999.pdf",
+      "title": "Proposed Consent Decree and Order Dismissing Action",
+      "text": "ORIG, NAL \n~D \nTHE HONORABLE ROBERT S  LASNIK \n__ ENTERED \n2  \"\"\"*'\"\"-F: \n__ \nWD·~~E.D \n~\",,--_RECEIVED \n3 \nAPR  3 2000 \ni-tm  MR \nMAR  3 0 \n4 \nA-'  ,\\1 r,. I· \nn .. \\':i-!!<' ,; '~\"  ;i'.'  AT SEATIlE \n5  BY  Wf:S1LHN U:S,,\\lC; Of-'  ,Ul.l ,'-) \"  -;'  Br  Wf.STC£RLENR KD IUS.TSR. IDCITS TORFIC TW CAOSHUJRNTG TON \nDEPUTY \n6 \n7  IN THE UNITED STATES DISTRICT COURT \nFOR THE WESTERN DISTRICT OF WASHINGTON \n8  .  AT SEATTLE \n9 \nEQUAL EMPLOYMENT OPPORTUNITY \n10  COMMlSSION,  CIVIL NO. COO-439L \n11  Plaintiff,  PROPOSED CONSENT DECREE \nAND ORDER DISMISSING ACTION \n12  v. \n13  TEIJIN SEIKI AMERICA, INC, \n--FilED  _  ENTERED \n-- LODGED _  RECEIVED \n14  Defendant. \nAPR  3 2000 \n15 \nC  I\\T iiEATTlE \n16  WEsTEl£RK ••s . otsTAICT COURT \n1.  INTRODUCTION  BY  Rfof DISfRtct OF WASHINGTON \nO\"PlJlY \n17 \nI.  This action originated with a discrimination charge filed by Atsuko Hatakeyama with \n18 \nthe Equal Employment Opportunity Commission (\"EEOC or the Commission\") on December 2, \n19 \n1999.  Ms. Hatakeyama alleged that Teijin Seiki America, Inc. (\"Teijin or defendant\") discriminated \n20 \nagainst Ms. Hatakeyama based upon her race and national origin (Japanese) and sex (female) in \n21 \nviolation of Title VII of the Civil Rights Act of 1964, 42 USC § 2000e, et seq. (\"Title VII\") \n22 \nMs. Hatakeyama further alleged that when she complained about the unlawful discrimination, she \n23 \nwas retaliated against and ultimately terminated from her employment.  A copy of the charge is \n24 \nattached to this consent decree as Exhibit I. \n25 \n26 \nEQC.4.L EMPJ,OYlvffiNT OPPORTUNITY Cm.1MISSION \nSeattle Dlstncl Office \nFederal Ollice Huildmg \nCONSENT DECREE - I  909 FIrst Avenue, ::iwte 400 \nSeattle, WA 98104-1061 \nTelephone (206) 220·6883 \nFax (206) 220.R911 \nTDD (206) 220-6882 \n\n2  On February 23,2000, the EEOC issued a Letter of Determination with a finding of \n2 \nreasonable cause that Teijin violated Title VII by discriminating against Ms. Hatakeyama on the \n3 \nbasis of her race, national origin and sex and by retaliating against and ultimately terminating her \n4 \nwhen she complained of the discrimination.  A copy of the Letter of Determination is attached to this \n5 \nconsent decree as Exhibit 2. \n6 \n3.  The Commission flied this lawsuit on March 16, 2000 in the United States District \n7 \nCourt for the Western District of Washington at Seattle.  The complaint alleges that Teijin violated \n8 \nTitle VII by discriminating against Ms. Hatakeyama based upon her race and national origin \n9 \n(Japanese) and sex (female) in violation of Title VII.  The complaint further alleged that when \n10 \nMs. Hatakeyama complained about the unlawful discrimination, she was retaliated against and \n11 \nultimately terminated from her employment  Ms. Hatakeyama also filed a separate lawsuit against \n12 \nTeijin that claims violations of other statutes. \n13 \n4.  Defendant denied the allegations of discrimination and retaliation in the EEOC's \n14 \ncomplaint and in Ms. Hatakeyama' s separate lawsuit and asserted several affirmative defenses. \n15 \n5.  The parties want to conclude fully and fmally all claims arising out ofEEOe's \n16 \ncomplaint and the charge of discrimination filed with EEOC by Atsuko Hatakeyama.  They enter \n17 \ninto this Consent Decree to further the objectives of equal employment as set forth in Title VII. \n18 \nII.  NONADMISSION OF LIABILITY AND NONDETERMINATION BY THE COURT \n19 \n6.  This Consent Decree is not an adjudication or finding on the merits of this case and \n20 \nshall not be construed as an admission by defendant of a violation of Title VII or of any other law. \n21 \nTTl  JURISDICTION AND VENUE \n22 \n7.  Jurisdiction of this Court is invoked pursuant to 28 U.SC §§ 451,1331,1337,1343 \n23 \nand 1345.  This action is authorized pursuant to Sections 706(f)(l) and (3) of Title VII of the Civil \n24 \nRights Act of 1964, as amended, 42 US.C §§ 2000e-5(f)(l) and (3), and Section 102 of the Civil \n25 \nRights Act of 1991,42 U.SC § 1981a.  The employment practices alleged to be unlawful in the \n26 \nEQUAL Et.{Pj OYVlENT OPPORTL'NITY COMlvflssrON \nSl::attk DIstrict Office \nFc:cieral OfHce BUIldmg \nCONSENT DECREE - 2  909 First Avenue, SUite 400 \nSeattle, WA 9& 104-1 06\\ \nTelephone (206) 220-6883 \nFax (206) 220·~9\\1 \nTDD (206) 22()-~iS82 \n\ncomplaint filed herein occurred within the jurisdiction of the United States District Court for the \n2 \nWestern District of Washington. \n3 \nIV.  SETTLEMENT SCOPE \n4 \n8.  This consent decree is the final and complete resolution of all allegations of unlawful \n5 \nemployment practices contained in Ms. Hatakeyama's discrimination charge, in the EEOC's \n6 \nadministrative determinations, and in the complaint filed herein, including all claims by the parties \n7 \nfor attorney fees and costs. \n8 \nV  MONETARY RELIEF \n9 \n9.  In settlement of this lawsuit and Ms. Hatakeyama's separate lawsuit, Teijin agrees to \n10 \npay Atsuko Hatakeyama $56,667, less applicable withholding required by law, and $28,333 to \n11  \nHatakeyama's private counsel.  Teijin agrees to provide the settlement proceeds to \n12 \nMs. Hatakeyama's private counsel, Michael Subit, at the following address  Frank, Rosen, Freed & \n13 \nRoberts, 705 Second Avenue, Suite #1200, Seattle, Washington, 98104 within ten business days of \n14 \nfiling this Consent Decree. \n15 \nVI  AFFIRMATIVE AND OTHER RELIEF \n16 \nA  General Provisions \n17 \n10.  Teijin reaffirms its commitment to comply with Title VIT  In furtherance of this \n18 \ncommitment, it will monitor the affirmative obligations of this Consent Decree. \n19 \n11.  Teijin will not retaliate against any employee for making a charge of discrimination \n20 \nor for testifying, assisting, or participating in any investigation, proceeding, or hearing associated \n21 \nwith this action. \n22 \n12.  Teijin, its officers, agents, and employees will not engage in practices which \n23 \nunlawfully discriminate against employees on the basis of race, national origin and sex and \n24 \nretaliation.  In recognition or its obligations under Title VII, Teijin will institute the policies and \n2S \npractices set forth below. \n26 \nEQl:AI, ElIAPLOYMENT OPPORTUNITY COr-...{II..11SSrON \nSeattle nl~tnct Office \nFederal Office Buildmg. \nCONSENT DECREE - 3  909 Fir:;t Avenue. Suite 400 \nSeattle, \\\\'A 98104·1061 \nTelephone (206) 220-6883 \nFax (206) 220_8911 \nTDD (206) 220-6882 \n\nB.  Anti-Discrimination Policies and Procedures \n2 \n13.  Pursuant to this Consent Decree, Teijin shall carry out anti-discrimination policies, \n3 \nprocedures and training for employees, supervisors and management personnel and will provide \n4 \nequal employment opportunities for all employees  As set out below, Teijin will train its managers \n5 \nand supervisors on its Equal Employment Opportunity (EEO) policies and how those policies define \n6 \nand identify what constitutes employment discrimination. \n7 \n14.  Teijin will distribute a written copy of its EEO policy to all present and future \n8 \nemployees, both management and non-management.  Teijin will provide EEOC with a written copy \n9 \nof its EEO policy as part of its first semi-annual report as provided in paragraph 17 below. \n10 \nC.  Training \n11 \n15.  Within 120 days after entry of this Consent Decree, Teijin, through the assistance of \n12 \noutside sources, will develop and present to all managers and supervisors a minimum of six hours of \n13 \ntraining on employment discrimination.  The EEOC will have an opportunity to review the training \n14 \nmaterials prior to the training date. \n15 \n16.  Teijin will notify the EEOC of the completion of the training and will specify the \n16 \nnames and job titles of the employees who participated in and completed the training as part of its \n17 \nfirst semi-annual report to the EEOC. \n18 \nD.  Reporting \n19 \n17.  Teijin shall report in writing and in affidavit form to the EEOC on a semi-annual \n20 \nbasis, beginning six months from the date of the entry of this decree, and thereafter every six months \n21 \nfor the duration of the decree the following information: \n22 \na.  Certification of the completion of six hours of training and list of attendees; (first \n23  report only) \n24 \nb.  Certification that its EEO policy has been distributed to all  current and newly hired \nemployees; \n25 \n26 \nEQL'J\\j, EMPLOY/I.1E:IT OPPORTENITY COMMISSIOl' \nSeattle DlstncL Office \nFederal Office Blllldmg \nCONSENT DECREE  - 4  909 First Avenue, !:illite 400 \nSeattle. WA 98]04·1061 \nhlephonc (206) 220-68~3 \nFax (206) 220-8911 \nTDD 12(6) 220-6882 \n\nc.  A list of any changes, modifications, revocations or revisions to its EEO policies and \nprocedures which concern or affect the subject of discrimination based on race, national origin, sex, \n2 \nor retaliation. \n3 \nd.  A summary of complaints of discrimination based on national origin, if any, filed by \nemployees working at Teijin and the resolution of each complaint, and \n4 \n5  e.  A statement listing the other provisions of this decree that defendant is required to \nperform and certifying that Teijin has complied with the terms of the decree.  IfTeijin has not \n6 \ncomplied with any term of the decree, the statement will specify the areas of noncompliance, the \nreason for the noncompliance, and the steps taken to bring the defendant into compliance. \n7 \nE.  Posting \n8 \nIS.  The company will post a notice, attached as Exhibit 3 to this consent decree.  The \n9 \nnotice shall be posted on a centrally located bulletin board at Teijin's offices for the duration of the \n10 \nconsent decree. \nII \nVII.  ENFORCEMENT \n12 \n19.  If the EEOC determines that Teijin has not complied with the terms of this decree, the \n13 \nEEOC will provide written notification ofthe alleged breach to Teijin.  The EEOC will not petition \n14 \nthe court for enforcement of the decree for at least thirty (30) days after providing written \n15 \nnotification of the alleged breach.  The 30-day period following the written notice shall be used by \n16 \nthe parties for good faith efforts to resolve the dispute. \n17 \nVIII  RETENTION OF JURISDICTION \n18 \n20.  The United States District Court for the Western District of Washington shall retain \n19 \njurisdiction over this matter for the duration of the decree. \n20 \nIX.  DURATION AND TERMINATION \n21 \n21.  This decree shall be in effect for two and one-half years beginning April I, 2000 and \n22 \nending October 1,2002.  If the EEOC petitions the court for breach of the decree, and the court finds \n23 \nTeijin to be in violation of the terms of the decree, the court may extend the duration of the decree. \n24 \n25 \n26 \nEQl:Al. ElvlPLOYMENTOPPORTlTh\"lTY COM.\\USSION \nSeattle Dlstrlcl Office \nFederal Office BUIlding \nCONSENT DECREE  - 5  <)09 Flr.';t Avenue, Suite 400 \nSeaUll:, WA 98104-1061 \nTelephone (2U6) 220-6883 \nFax (2CN5) 220_89\\1 \nTDD (206) 220_6882 \n\nX  CONCLUSION \n2 \n22.  The parties are not bound by any provision of this decree until it is signed by \n3 \nauthorized representatives of each party and entered by the court. \n4 \n7r&vJ\"-. \n5  Dated this __- ,,2\"-'.Lj_f1_-.- _ day of  . 2000. \n6  A  LUIS LUCERO, JR  C GREGORY STEW ART \nRegional Attorney  General Counsel \n7 \nCLAIRE CORDON  GWENDOLYN YOUNG REAMS \n8  Supervisory Trial Attorney  Associate General Counsel \n9  LISA MORELLI GU ARNERO \nSenior Trial Attorney \n10 \nEQUAL EMPLOYMENT  EQUAL EMPLOYMENT \n11  OPPORTUNITY COMMISSION  OPPORTUNITY COMMISSION \n12  Seattle District Office  Office of the General Counsel \n909 First Avenue, Suite 400  1801 \"L\" Street, N. W. \n13  Seattle, Washington  98104  Washington, D.C  20507 \nTelephone (206) 220-6917  Telephone (202) 663-4702 \n14 \nBY~U''-- ~1A'-\"./L1'T' \n15 \nAttorney for Plaintiff \n16 \nSTE~IN,ESQ \n17 \n,~ \nBY. \n18 \nAttorney for Defendant \n19 \nPRESTON, GATES & ELLIS \n20  701 Fifth Avenue \nSuite 5000 \n21  Seattle, W A 98104-7078 \nTelephone:  (206) 467-2703 \n22 \n23 \n24 \n25 \n26 \nEQUAL EMPLOYMENT OPPORTUNITY CO!v1!vlISSION \nS~~ltlc DIstrict Office \nFederal Office BUIlding \nCONSENT DECREE  - 6  909 First Avenue, Suite 400 \nSenttle, WA 98104-1061 \nTelephone (206) 22Q·61l83 \nFax (206) 220·891 \\ \nIDD (206) 220_6882 \n\nORDER APPROVING CONSENT DECREE \n2  The Court having considered the foregoing stipulated agreement of the parties, \n3  IT IS HEREBY ORDERED THAT the foregoing consent decree be, and the same hereby is, \n4  approved as the final decree of this Court in full settlement of this action.  This lawsuit is hereby \n5  dismissed with prejudice and without costs or attorneys' fees to any party.  The Court retains \n6  jurisdiction of this matter for purposes of enforcing the consent decree approved herein. \ntjMA \n7  3ed \nDATED this  day of  ,2000. \n8 \n9 \nUNITED STATES DISTRICT runGE \n10 \n11 \n12 \n13 \n14 \n15 \n16 \n17 \n18 \n19 \n20 \n21 \n22 \n23 \n24 \n25 \n26 \n!~QIAL f..JlAPLOYMENT OPPORnJNITY COIvfJl.1!SSION \nSeattle lJlstnct OfflC~ \nFederal Office Building \nCONSENT DECREE - 7  909 Fnst Avenue, SUite 400 \nSeattle, V<lA  98\\04·W6J \nr..;k-phone (206) 221)..6883 \nFail (206) 220-8911 \nTOO (206) 220_6882 \n\nNOTICE TO ALL EMPLOYEES \n2  This notice is being posted pursuant to an agreement between Teijin Seiki America, Inc. and \nthe U. S  Equal Employment Opportunity Commission, entered as the result of a settlement of a \n3  lawsuit pending in the federal district court for the Western District of Washington at Seattle, Civil \nNo. COO-439L. \n4 \nTitle VII of the Civil Rights Act of 1964, as amended, the Age Discrimination in \n5  Employment Act of 1967, the Equal Pay Act of 1963, and the Americans with Disabilities Act of \n1990 are enforced by the EEOC and require the following: \n6 \nThat there be no discrimination against any employee or applicant for employment because \n7  ofthe employee's race, sex, color, religion, national origin, age (over age 40), or disability \nwith respect to hiring, firing, compensation, or other terms, conditions or privileges of \n8  employment. \n9  It is an unlawful employment practice for an employer to retaliate against any employees or \napplicants for employment because they have opposed a practice or because they have made \n10  a charge, testified, assisted, or participated in any manner in an investigation, proceeding, or \nhearing under these statutes. \nII \nTeijin will institute a training program to train its managers regarding the requirements of the \n12  above statutes, with particular emphasis on race, national origin, sex and retaliation discrimination. \n13  Teijin has posted this notice because the company supports and will comply with these \nfederal laws in all respects and will not take any retaliatory action against employees because they \n14  have exercised their rights under the law. \n15  DATED _________________  \n16  Teijin Seiki America, Inc. by \n17 \n18 \n19 \n20 \n21 \n22 \n23 \n24 \n25 \n26 \nEQUAL E)\"fI'LOYl\\.fENT OPPORTID1ITY COl\\.flv1IS~rON \nScaltie D1.~IT1't Office \nhderal Ofilcc: Buddmg \nCONSENT DECREE - 8  909 Fmt Avenue, SUIte 400 \nS~attle, WA 98104-1061 \nTelephone (20G) 220-688:; \nFax (20G) 220-8911 \nTOO (206) 220-681l2 \n\n( \nCHAprr: OF DISCRIMINATION  \" ,  \"C,ENCY  CHARGE  NUW8ER \n0 \nc.  FE?A \nThl.  for. 1~ .rreet.d .y Uu Prl  ~  Act  Qf  1~1~; S •• PriYlcy Act  Stat ••• nt  00  EEoc  I-iR(]/rc {))t~ \nco~}.tLnq thIs  1'01\"., \nSeattle  Office  of  Civil  Ri~\\hts  and  EEOC \nSlat~ or local Agl!'ncy, if any \nHAtilE  (Indic ... '~ IItr .• It• .• Mr• . )  HOWE  TELE?HO·NE U(Jcludc \"~Jj COde} \n425-882-8079 \nAtsuko  Hatakevama  I \nST9R4EE0T1  A-O4O RE1SS7 8th  Plo  N.E.  RCIeTdYm,  SoTnATdE,  AHWOA   ZIP 9C8OC0E5  2  ;AT~ 26;'59 \nNAMED  IS  THE  EMPLOYER,  LASOR  ORGANIZATiON,  EMPLOYI.IENT  AGENCY  APPRENTICESHIP  COMMITTEE, \nSTATE  OR  LOCAL  GOVERNMENT  AGENCY  WHO  DISCRIIM  INATED  AGAINST  lJE  fIr .arr:- 'I'liln ant:  113' b~/a ... ) \nNAWf  HUYSER  OF  eYPLOYEES I  yE.aaERS  ) TELEPHONE (Jncludt: Are. Cod~) \nTeij in  Seiki  America  Inc.  40  425- 602-8400 \nI \nSTREET  \"OORESS  CITY,  STATE  AND  ztp  COCE  COUNT'!' \n17770  N.E.  78th  Plo  Redmond,  WA  98052  King \n~\"E  TELEPHONE  H'JWSER (Include A.rc4  Cock) \nTeij in  Seiki  Inc.  50(}t- 425- 602-840I0  \nSTREET  \"OORESS  CITY,  sr .... TE  AHO  lIP  CODE  COUNTY \n17770  N.E.  78th  Plo  Redmond,  WA  98052  King \n• \n~USe OF  OISCRIMHlATlOH  a.t.SEO  OH  'Clu~'c~ .. ppropr1. .. '~ barre,;;  DATE  OISCRlylHATIOH  TOOK  P~ACE \n~RACE  o COLOR  @SEX  o RELICION  ~ NATION\"'~ ORIGIN  EARLIEST  LA'rESr \n.@ RET AU ArION  DACE  D OISADILITY  [J OTHER /Spt!r:lfy)  8\"/ 7 /  95  9  I  27( 99 \nD \nCONTIHUIHG  ~CTIOH \nTHE  PARTICULARS  ARE  (Ir ttdrlHlonllll 'P4C# 1 .. Q.t!dt!d,  .. \".~h t!~'r ..  '\"~~C(')).' \nSee  attached  sworn  statement  of Atsuko  Hatakeyama. \n~  -\n~ I want  thls charg4  fUed W!tll both the EEOC  and  the State 0  NOTARY  - (When  necassary 10r St~te and  Local Raqu1r .. ,nts) \nlocal AQ.ncy.  1t  any.  I _111 advlae the agenci.s 11  I change .y \naddres1  or  talephone nu.blr and cooperata rully w1th  th~~ 1n  th~  I  I.w'ur or .(fir_ that  I ha ... ~ .\"ea.tJ  th~ .bov~ char~. aM tnat \nproces,inll' ot .V  Ch.r~. in accord~nce with th.ir proc~dur's.  1t 15 true to the best or .y knOWledge.  lnfQrIIl.3. UOI1  and  belhf. \nI declare und.r p.~ty 01  perjury that the ror,~olng 1s true  SIGNATURE  OF  COMPLAINANT \nand  corr.ct_ \n~/( a~C'------\nSUBSCRIBED  AND  SWORN  TO  BEfORE  ME  THIS  DATE \n(D~y, .onth, and  y.~rJ ......  . \nJ';{-D?-P9  r-VUIDIT  1 \nOile.  \"\"'.'1  Char.g lnQ P-.rty  (Sl.rn.wrd  \"\"'\" \n:tOC 'UHW 5  I\"\"'· \n-f.. \n\nDECLARATION OF ATSUKO HATAKEY AMA \nI, Atsuko Ilatakeyama, declare and statc as follows: \n1.  On August 7, 1995, I was hired as Administrative Assistant to tbe Engineering \nDepartment at TSA's corporate headquarters.  At the time of my hire, my direct supervisor was \nPaul Gates, Director of Engincering. \n2.  Beginning in or around September 1995, Alan Habe, TSA's Sales Manager, \nrepeatedly made inappropriate, inSUlting, and harassing comments to me because of my race, sex \nand national origin.  Mr. I-Iabe frequently made derogatory comments that I was an unmarried \nJapanese woman in her 30s.  He told me 1 should return to Japan to do \"house things.\"  Mr. Habe \nalso lold me I would end up in an \"old people's home\" alone if! did not marry soon.  Mr. Habe \ninsinuated lhatl had frequent sex pminers and boyfriends.  Mr. Habe also frequently commented \non my physical appearance and clothes. \n3  I promptly repolied Mr. Habe's harassing and discriminatory comments to Mr. \n(,ates but he took no remedial action. \n4.  In January 1996, Manual Tarsha replaced Mr. Gates as Dircctor of Engineering \nand Ms. Halakcyama's supervisor.  1 reported Mr. Habe's harassing comments to Mr. Tarsha. \n:VIr. Tarsha counseled Mr. Habe about his comments but no formal disciplinary action was taken \nagainst Mr. Habc. \n5.  From January 1996 llntil September 1997, Mr. Habe continually malic derogalury \nC0I11111cnls to me about being an ullmarried Japanese woman in her 305 \"\\lorking in Americ(l. \n6.  On September 15,  1997, 1 foulld \"lip marks\"'on a smallmirrOf in her cubicle that I \nthink Mr.  Habl.' had left as a kiss  my mirror  I reported the incidcntlO Mr.  rarsha. \n011 \n\n7.  Mr. Tarsha reported the situation to TSA President Hank Ogawa and Director of \nAdministration Yasuji Miki.  Mr. Ogawa replied that I had to be tough and had to Icam to take it. \nI-Ie told Mr. Tarsha that I was suffering from pre-menstrual syndrome or was unstable. \n8.  On October 3,1997, Mr. Ogawa told me, after 1 complained about another \nunrelated workplace issue, that he did not want problems in his company.  He told me that Mr. \nHabe worked very hard and did his job well.  He specifically told me that he was uncomf0l1ahie \nwith Illy report of finding lip marks on my mirror and that 1 should forget about what happened \nand keep quiet. \n9.  In November 1997, Mr. Tarsha gave me an \"above average\" performance review. \nlle specifically wrote that 1 was in a \"difficult situation\" as a Japanese national and stated I was \nsuffering from differential treatment. \n10.  In December 1997, I traveled to TSJ headquarters in Japan.  I delivered a letter \nfrom Mr. Tarsha to then-TSJ President Tobari specifically demanding he implement a training \nprogram to improve the Company's treatment of its women employees in general and Ms. \nHatakcyama in particular.  Mr. Tarsha informed Mr. Tobari that the Company needed to leam \n\"the traditions and laws pertaining to the treatment and interaction with women in the U.S.\" \nII.  During their meeting, Mr. Tobari and I discllsscd the harassing and discriminatory \ntreatment I was experiencing in the Company.  Mr. Tobari promised to talk to Mr. Ogawa about \ncorrective action and personally apologize for the Company's actions. \n12  While I was in .lapan, TSJ's Director of Marketing, Mr. Toda told me that the \nCompany should not have hired her.  He said single Japanese women should not he working and \nsaid he \\vorried that Japanese WOlnen were hccOllling \"Amencanized.\" \n2 \n\n13  When Mr. Ogawa learned that I had reported the harassment and discrimination \non account of sex, race, and national origin J was experiencing, he embarked upon a course of \nretaliation against me.  In or around January 1998, \\Ilr. Ogawa told  another TSA manager thatl \nwas \"the problem.\" \n14.  In early March 1998, I found an impression ofa penis on her cubicle mirror. \nrepotted this incident to Mr. Tarsha.  Mr. Miki rejected Mr. Tarsha's advice to contact the police \nand bring in an outside investigator.  [nstead, Mr. Miki said hc would handle it himself and took \npossession of the mirror. \n15.  At Mr. Tarsha's insistence, TSA employees underwent sexual harassment training \nin March 1998.  After the training Mr. Ogawa said to Mr. Tarsha that the best solution to the \nproblem was not to hire women.  Mr. Tarsha responded that Mr. Ogawa that his statements were \ndiscriminatory and that he had not learned anything trom the training. \n16.  In or around March 1998, I received a telephone call at home where all I heard \nwas heavy breathing. \n17.  Although Mr. Ogawa repeatedly stated in writing that TSA managers needed to \nundergo additional sexual harassment training, such training was not conducted. \n18.  In or around April 1998, my visa came up for renewal.  Mr. Ogawa initially \nrefused to renew it.  Mr. Tarsha informed him that the Company's action could appear to be \nretaliation for her reports of harassment.  Mr. Ogawa still refused to sign the visa, but ultimately \nauthorized Mr. Tarsha to ~ign it. \n19.  Even after the sexual harassment training conducted in March 1998, r was still \ncontinually subjected to a hostile work environment and discrimination in the terms and \nconditions of her employment based on her race, national origin and sex.  !vir. Habe continued to \n3 \n\nmake ridiculing comments that [ was an unmalTied Japanese woman.  Moreover, I was \nrepeatedly given demeaning work beneath her training and experience because I was a Japanese \n\\votnan. \n20.  In November 1998, Mr. Tarsha was removed as Director of Engineering. Before \nhis tem1ination, Mr. Tarsha prepared a favorable pcrfom1ancc review for me but TSA \nmanagement refused to give jt to me. \n2[.  Alier Mr. Tarsha's removal, I reported to Kai Vu, who was Mr. Tarsha's \nreplacement as Director of Engineering, and Mark Nishimura, an engineering manager.  Like Mr. \nHabe, Mr. Nishimura made derogatory comments to me because I was an unmarried Japanese \nwoman.  Although I again complained, TSA management took no remedial action. \n22.  Throughout late 1998 and early 1999, Mr. Habe repeatedly told my co-workers \nthat I was \"dangerous\" and had a \"bad reputation.\"  As a result my co-workers ostracized me. \n23  As a direct result of my discriminatory and harassing work environment I \nexperienced severe emotional distress.  By 1999 the cumulative ciTeet of years of harassment \ncompelled me to usc some of my sick leave.  Al all times, I used  sick leave in compliance with \nTSA policies and at no time did I take sick leave in excess of the allotment to which I was \nentitled under TSA policies. \n24.  In August 1999 I received a critical performance review from Mr. Nishimura. \nThe review ordered me to improve my attendance and denied me a bOllus and salary increase \n011 \nthe purported basis orpoor allendance. \n25.  On September 27,1999, TSA terminated my employment. \n4 \n\n26.  On Octoher 21,1999, in response to my request for a signed written statement of \nthe reasons for my discharge, Mr. Miki claimed that the sale reason that my employment was \nterminated was my \"continued pattern orpaor attendance, despite repeated warnings.\" \nI declare under penalty of perjury that the foregoing is true and correct to the best ormy \nknow ledge. \n9£. .. \nId -c2 - ~~~ \nDate  Atusko Hatakeyama \n5 \n\nU.S. EQUAL I·:MPLOYMENT OPPORTU.'lITY COMMISSION \nSell tile Uistrict Office  Federal Office lluilding \n9(Jl} Fir:;t Avenue, Suite 400 \nFEB  2:; 2000 \nSeattle, WA98to4-1061 \n(206) 220-6883 \nTTY (206) 220-6882 \nFAX (206) 220-6911 \nEEOC Charge :-io.jXO;\\()()2(d \nAtsuko Hatakeyal11a  Charging Party \n940J-41nth pl. NF \nRedmond, WA 98052 \nTeijin Seiko America, Inc.  Respondent \n17770 NE 78th PI. \nRedmond. W A 98052 \nDI·rFRMINAnON \nUnder the authoritv vested in me by the Commission. I issue the following determination as to \nthe merits of the subject charge likd under Title VII of the Civil Rights Act of 1964, as amended \n(Title VII). \nAll requirements III I' coverage have ken meL  Charging Party alleged that she was discriminated \nagainst in violation \"frillc VII, in that she was subjected to on going harassment from male co \nworkers and managns because of her gellder. female and her national origin, Japanese.  When \nshe reported the hara~SlllCllt, the action t<lLLll V'ias not appropriate or effective 10 stop the \nbehavior.  Charging Ital\"\\y Illl,ther alleges :;he was retaliated against tor her complaints of \nharassment and uililllately discharged. \nDuring the investig'ltioll, all relevant. avallahle witnesses were interviewed, and all relevant \ndocuments were reviewed.  I have considered all the evidence disclosed during the investigation \nand determined that Iherc is reas(lIl,Ji)lc calise to believe that lhere is a violation oCTitle VII with \nregard to Charging Party's allegation ofharllssment, retaliation and discharge. \nUpon finding that there is rl'ason to bel iev'e that violations have occurred, the Commission \nattempts to eliminate the alleged unlawl'ul practices hy inJ\"ormal methods ofconciliation. \nThere1ore. the C()lllll1i~~ion Ill)',,\\;' invites the parties to join \\\\:ilh it ill reaching ujllSl resolution of \nthis matter.  The COllltlllSsiull will also cccisidcr compensatorv and punitive damages under the \nCivil Rights Act oi' I yl) I, \nEXHIEIT \n£ \n\nIrthe Respomkni deelincs to disCLJSS settkillent or WhCI1, li)r any other r\"ason, a settlement \nacceptable to the oi'licc ilircci<lr is not uhl\"ined, the Director will inform the parties and advise \nthem of the COlirt ,'nl'l['CCmCIll alternative, available to aggrieved persons and the Commission, \nA Commission rel'rescntatlH' willl'olitael each party in the ncar future to kgin conciliation, \nOn behalf oCthe Commissioll \nfEB  232000 \n~,F--'~ \n(,HE 1\\-1,  LEINO \nDistrict Director \nce: Michael C  Slihi t \nFRANK ROSI.I'. I,IU,TI) ROIlLRTS, LLP \nSuite 200 Hod\"e BlIildillt; \n705 Second I\\\\cnllc \nn \nSeattle, WA  I 04-1 729 \nSteve R, Pcitin \nJanet S, Chung \nPRESTON (JAilS LLI,IS, LLI' \n701 Fifth Avenue, Suite SOOO \nSeattle, W i\\ ()o 104-70n ",
+      "document_type_other": "",
+      "external_url": "",
+      "ecf_number": "4",
+      "clearinghouse_link": "clearinghouse.net/doc/15999"
+    }
+  ],
+  "document_count": 3
+}

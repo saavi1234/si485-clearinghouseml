@@ -1,0 +1,443 @@
+{
+  "case_id": 43833,
+  "fetched_at": "2025-10-22T00:38:23.596681",
+  "case_data": {
+    "attorney_orgs": [
+      "U.S. Dept. of Justice Civil Rights Division"
+    ],
+    "available_documents": [
+      "Trial Court Docket",
+      "Complaint (any)",
+      "Injunctive (or Injunctive-like) Relief"
+    ],
+    "case_defendants": [
+      {
+        "defendant_level": null,
+        "institution": "",
+        "institution_alt_state": null,
+        "institution_city": "",
+        "institution_county": "Lorain",
+        "name": "Lorain County",
+        "defendant_level_other": "",
+        "is_active": true
+      }
+    ],
+    "case_ongoing": "No",
+    "case_status": "Approved",
+    "case_types": [
+      "Election/Voting Rights"
+    ],
+    "cause_other": "",
+    "causes": [
+      "Voting Rights Act, section 203 (language minority provision), 52 U.S.C. § 10503  (previously 42 U.S.C. § 1973aa-1a)"
+    ],
+    "class_action_granted": "Not sought",
+    "class_action_sought": "No",
+    "closing_year": 2014,
+    "constitutional_clause": [
+      {
+        "value": "Due Process"
+      },
+      {
+        "value": "Due Process: Procedural Due Process"
+      }
+    ],
+    "content_of_injunction": [
+      {
+        "value": "Hire"
+      },
+      {
+        "value": "Discrimination Prohibition"
+      },
+      {
+        "value": "Develop anti-discrimination policy"
+      },
+      {
+        "value": "Reporting"
+      },
+      {
+        "value": "Recordkeeping"
+      },
+      {
+        "value": "Training"
+      },
+      {
+        "value": "Voting Process Changes"
+      }
+    ],
+    "court": "Northern District of Ohio",
+    "custom_issues": [],
+    "defendant_payment": "",
+    "defendant_type": [
+      {
+        "value": "Jurisdiction-wide"
+      }
+    ],
+    "docket_status": "Complete as of retrieval date",
+    "facility_type": [],
+    "filing_date": "2011-10-06",
+    "filing_year": 2011,
+    "id": 43833,
+    "injunction_duration": "29",
+    "issues": [
+      "General/Misc.: Language access/needs",
+      "Discrimination Basis: Language discrimination",
+      "Affected Language(s), Affected National Origin/Ethnicity(s): Spanish",
+      "Voting: Voting: Physical/Effective Access",
+      "Voting: Election administration",
+      "Discrimination Area: Disparate Impact",
+      "Discrimination Area: Disparate Treatment",
+      "Voting: Voting: General & Misc."
+    ],
+    "last_checked_date": "2022-12-30T00:00:00-05:00",
+    "main_docket": {
+      "id": 56776,
+      "docket_entries": [
+        {
+          "row_number": 0,
+          "id": 9056572,
+          "entry_number": "1",
+          "date_filed": "2011-10-07T00:00:00-04:00",
+          "attachments": [],
+          "url": "https://www.courtlistener.com/docket/38480641/1/united-states-v-lorain-county/",
+          "recap_pdf_url": null,
+          "pacer_doc_id": "14105813336",
+          "description": "Complaint with Memorandum of Agreement against All Defendants.. Filed by United States of America. (Attachments: # 1 Civil Cover Sheet) (Heyer, Michelle) (Entered: 10/07/2011)"
+        },
+        {
+          "row_number": 3,
+          "id": 9056573,
+          "entry_number": "2",
+          "date_filed": "2011-10-07T00:00:00-04:00",
+          "attachments": [],
+          "url": "https://www.courtlistener.com/docket/38480641/2/united-states-v-lorain-county/",
+          "recap_pdf_url": null,
+          "pacer_doc_id": "14105813379",
+          "description": "Joint Motion for extension of time to answer and for Appointment of Federal Observers filed by Paul R. Adams, Anthony B. Giardini, Helen W. Hurst, Lorain County, Lorain County Board of Elections, Robert G. Rousseau, Thomas J. Smith, Plaintiff United States of America. Related document(s) 1 . (Heyer, Michelle) (Entered: 10/07/2011)"
+        },
+        {
+          "row_number": 12,
+          "id": 9056575,
+          "entry_number": null,
+          "date_filed": "2011-10-07T00:00:00-04:00",
+          "attachments": [],
+          "url": "https://www.courtlistener.com",
+          "recap_pdf_url": null,
+          "pacer_doc_id": null,
+          "description": "Random Assignment of Magistrate Judge pursuant to Local Rule 3.1. In the event of a referral, case will be assigned to Magistrate Judge McHargh. (C,BA)"
+        },
+        {
+          "row_number": 5,
+          "id": 9056577,
+          "entry_number": "4",
+          "date_filed": "2011-10-07T00:00:00-04:00",
+          "attachments": [],
+          "url": "https://www.courtlistener.com/docket/38480641/4/united-states-v-lorain-county/",
+          "recap_pdf_url": null,
+          "pacer_doc_id": "14105813483",
+          "description": "Magistrate Consent Form issued. No summons provided, no summons issued. (C,BA) (Entered: 10/07/2011)"
+        },
+        {
+          "row_number": 8,
+          "id": 9056580,
+          "entry_number": "7",
+          "date_filed": "2012-02-22T00:00:00-05:00",
+          "attachments": [],
+          "url": "https://www.courtlistener.com/docket/38480641/7/united-states-v-lorain-county/",
+          "recap_pdf_url": null,
+          "pacer_doc_id": "14106047443",
+          "description": "Notice of Filing of Federal Observer Reports for the November 8, 2011 General Election filed by United States of America. (Attachments: # 1 Appendix Declaration of Service, # 2 Appendix Observer Report 1 of 5, # 3 Appendix Observer Report 2 of 5, # 4 Appendix Observer Report 3 of 5, # 5 Appendix Observer Report 4 of 5, # 6 Appendix Observer Report 5 of 5)(Culliton, Katherine) (Entered: 02/22/2012)"
+        },
+        {
+          "row_number": 10,
+          "id": 9056582,
+          "entry_number": "9",
+          "date_filed": "2013-02-05T00:00:00-05:00",
+          "attachments": [],
+          "url": "https://www.courtlistener.com/docket/38480641/9/united-states-v-lorain-county/",
+          "recap_pdf_url": null,
+          "pacer_doc_id": "14106630980",
+          "description": "Notice of Filing of Federal Observer Reports for the November 6 2012 General Election filed by United States of America. (Attachments: # 1 Exhibit Observer Report Black River Landing, # 2 Exhibit Observer Report General Johnny Wilson School, # 3 Exhibit Observer Report Larkmoor School, # 4 Exhibit Observer Report Lorain High Annex, # 5 Exhibit Observer Report Mt. Zion, # 6 Exhibit Observer Report Sacred Heart, # 7 Exhibit Observer Report Shiloh Missionary Baptist Church, # 8 Exhibit Observer Report St. Cyril and Methodius Church, # 9 Exhibit Observer Report St. Peter and Paul Lutheran Church)(Heyer, Michelle) (Entered: 02/05/2013)"
+        },
+        {
+          "row_number": 1,
+          "id": 9056583,
+          "entry_number": "10",
+          "date_filed": "2014-02-03T00:00:00-05:00",
+          "attachments": [],
+          "url": "https://www.courtlistener.com/docket/38480641/10/united-states-v-lorain-county/",
+          "recap_pdf_url": null,
+          "pacer_doc_id": "14107172508",
+          "description": "Notice of Filing of Federal Observer Reports filed by All Plaintiffs. (Attachments: # 1 Exhibit Black River Landing Observer Report, # 2 Exhibit Sacred Heart Chapel Observer Report, # 3 Exhibit St Cyril and Methodius Church Observer Report, # 4 Exhibit Mt Zion Missionary Baptist Church Observer Report, # 5 Exhibit Shiloh Mission Baptist Church Observer Report, # 6 Exhibit Lorain High Annex Observer Report, # 7 Exhibit General Johnnie Wilson School Observer Report)(Heyer, Michelle) (Entered: 02/03/2014)"
+        },
+        {
+          "row_number": 2,
+          "id": 10167032,
+          "entry_number": "11",
+          "date_filed": "2014-03-28T00:00:00-04:00",
+          "attachments": [],
+          "url": "https://www.courtlistener.com/docket/38480641/11/united-states-v-lorain-county/",
+          "recap_pdf_url": null,
+          "pacer_doc_id": "14107253580",
+          "description": "Notice of Dismissal Under FRCP 41(a)(1) (A) filed by United States of America. (Mellett, Timothy) (Entered: 03/28/2014)"
+        },
+        {
+          "row_number": 11,
+          "id": 9056574,
+          "entry_number": null,
+          "date_filed": "2011-10-07T00:00:00-04:00",
+          "attachments": [],
+          "url": "https://www.courtlistener.com",
+          "recap_pdf_url": null,
+          "pacer_doc_id": null,
+          "description": "Judge Solomon Oliver, Jr assigned to case. (C,BA)"
+        },
+        {
+          "row_number": 4,
+          "id": 9056576,
+          "entry_number": "3",
+          "date_filed": "2011-10-07T00:00:00-04:00",
+          "attachments": [],
+          "url": "https://www.courtlistener.com/docket/38480641/3/united-states-v-lorain-county/",
+          "recap_pdf_url": null,
+          "pacer_doc_id": "14105813445",
+          "description": "Proposed Order Extending Time to Answer and Appointing Federal Observers filed by All Parties. Related document(s) 2 . (Heyer, Michelle) (Entered: 10/07/2011)"
+        },
+        {
+          "row_number": 6,
+          "id": 9056578,
+          "entry_number": "5",
+          "date_filed": "2011-10-07T00:00:00-04:00",
+          "attachments": [],
+          "url": "https://www.courtlistener.com/docket/38480641/5/united-states-v-lorain-county/",
+          "recap_pdf_url": "https://www.courtlistener.com/recap/gov.uscourts.ohnd.181036/gov.uscourts.ohnd.181036.5.0.pdf",
+          "pacer_doc_id": "14105813496",
+          "description": "Joint Settlement Notice Memorandum of Agreement filed by All Parties. (Heyer, Michelle) (Entered: 10/07/2011)"
+        },
+        {
+          "row_number": 7,
+          "id": 9056579,
+          "entry_number": "6",
+          "date_filed": "2011-10-07T00:00:00-04:00",
+          "attachments": [],
+          "url": "https://www.courtlistener.com/docket/38480641/6/united-states-v-lorain-county/",
+          "recap_pdf_url": null,
+          "pacer_doc_id": "14105813889",
+          "description": "Order granting 2 Joint Motion of the parties extending time to answer until 4/20/2014 or 20 days following a motion by either party; and that the appointment of federal observers by the Director of the Office of Personnel Management is authorized for Lorain County, Ohio, for elections administered by the Lorain County Board of Elections, pursuant to Section 3(a) of the Voting Rights Act, 42 U.S.C. ยง 1973a(a), through 3/30/2014. This action shall be administratively closed subject to being reopened upon motion of either party. Signed by Judge Solomon Oliver, Jr on 10/7/2011. (D,M) (Entered: 10/07/2011)"
+        },
+        {
+          "row_number": 9,
+          "id": 9056581,
+          "entry_number": "8",
+          "date_filed": "2012-04-18T00:00:00-04:00",
+          "attachments": [],
+          "url": "https://www.courtlistener.com/docket/38480641/8/united-states-v-lorain-county/",
+          "recap_pdf_url": null,
+          "pacer_doc_id": "14106149868",
+          "description": "Notice of Filing of Federal Observer Reports for the March 6, 2012 Primary Election filed by United States of America. (Attachments: # 1 Appendix Declaration of Service, # 2 Appendix Sacred Heart Observer Report, # 3 Appendix Southview MS Observer Report, # 4 Appendix General Johnny Wilson School Observer Report, # 5 Appendix Saint Cyril & Methodius Church Observer Report, # 6 Appendix Mt. Zion Missionary Baptist Church Observer Report, # 7 Appendix Black River Landing (Port Authority) Observer Report, # 8 Appendix St. Peter and Paul Church Observer Report, # 9 Appendix Shiloh Missionary Baptist Church Report)(Culliton, Katherine) (Entered: 04/18/2012)"
+        }
+      ],
+      "docket_case_type": "cv",
+      "docket_year": 2011,
+      "docket_filing_number": 2122,
+      "is_main_docket": true,
+      "court": "Northern District of Ohio",
+      "state": "Ohio",
+      "docket_office_number": "1",
+      "docket_number_manual": "1:11-cv-0212",
+      "scales_html": null,
+      "recap_link": "https://www.courtlistener.com/docket/38480641/united-states-v-lorain-county/",
+      "is_active": true
+    },
+    "name": "United States v. Lorain County",
+    "never_filed": false,
+    "non_docket_case_number": "",
+    "non_docket_case_number_type": null,
+    "non_docket_case_number_type_other": "",
+    "order_end_year": 2014,
+    "order_start_year": 2011,
+    "permanent_injunction": false,
+    "plaintiff_description": "U.S. Department of Justice",
+    "plaintiff_type": [
+      {
+        "value": "U.S. Dept of Justice plaintiff"
+      }
+    ],
+    "prevailing_party": "Plaintiff",
+    "pro_se_status": "No",
+    "public_interest_lawyer": "Yes",
+    "related_cases": [],
+    "relief_natures": [
+      "Injunction / Injunctive-like Settlement"
+    ],
+    "relief_nature_other": "",
+    "relief_sources": [
+      "Settlement"
+    ],
+    "settlement_agreement": [
+      "Court Approved Settlement or Consent Decree",
+      "Voluntary Dismissal"
+    ],
+    "settlement_judgment_date": "2011-10-07",
+    "settlement_judgment_year": 2011,
+    "special_collections": [],
+    "special_case_type": [],
+    "state": "Ohio",
+    "summary": "<p>This is a case about the protection of voting rights of Spanish-speakers in Ohio who have limited English proficiency. The United States Department of Justice (DOJ) filed this action in the U.S. District Court for the Northern District of Ohio on October 6, 2011, against the Lorain County Board of Elections (BOE). The government alleged violations of Section 4(e) of the Voting Rights Act because the BOE failed to provide ballot and voting information in Spanish and did not hire bilingual poll workers to assist during elections. As such, the DOJ sought declaratory and injunctive relief. The case was assigned to Judge Solomon Oliver, Jr.</p>\r\n<p>The next day, on October 7, the parties filed a joint settlement agreement. The agreement required that the BOE provide, in Spanish, information about all stages of the electoral process pertaining to elections and the procedure for registering to vote. The BOE also agreed to provide bilingual instructions on voting machines and information about bilingual absentee and provisional ballots. The BOE was further required to appoint a Bilingual Election Program Coordinator and to recruit and hire bilingual poll workers for any elections. The agreement also requested that the court enter an order allowing for the appointment of federal observers that would be allowed access to all elections in Lorain County. The BOE was charged with evaluating the efficacy of all bilingual election programs after each election cycle.&nbsp;</p>\r\n<p>The agreement was set to terminate on March 30, 2014, provided that the BOE achieved substantial compliance with the agreement during the two previous election cycles. The appointed observers filed reports on the general and primary elections in 2012 and 2013. Pursuant to these reports, on March 28, 2014, the DOJ voluntarily dismissed the case.&nbsp;</p>",
+    "summary_published_date": "2023-03-15T02:16:28.834321-04:00",
+    "summary_short": "This is a case about the protection of voting rights of Spanish-speakers in Lorain County, Ohio. The Department of Justice filed this action in the U.S. District Court for the Northern District of Ohio on October 6, 2011. The case alleged violations of the Voting Rights Act Section 4(e). On October 7, 2011, a consent decree was entered, which required the Lorain County Board of Elections to permanently provide Spanish-language election materials. The final consent decree was terminated on March 28, 2014, and the case was voluntarily dismissed.",
+    "summary_tiny": null,
+    "terminating_date": "2014-03-28",
+    "clearinghouse_link": "clearinghouse.net/case/43833",
+    "is_active": true,
+    "case_documents_url": "https://clearinghouse.net/api/v2/documents/?case=43833",
+    "case_dockets_url": "https://clearinghouse.net/api/v2/dockets/?case=43833",
+    "case_resources_url": "https://clearinghouse.net/api/v2/resources/?case=43833"
+  },
+  "documents": [
+    {
+      "date": "2011-10-07",
+      "date_is_estimate": false,
+      "date_not_available": false,
+      "description": "",
+      "document_source": null,
+      "document_status": "Coding Complete",
+      "document_type": "Order/Opinion",
+      "order_type": "Consent Decree",
+      "citation_paren": null,
+      "cite_1_page": null,
+      "cite_1_reporter": null,
+      "cite_1_vol": null,
+      "cite_2_page": null,
+      "cite_2_reporter": null,
+      "cite_2_vol": null,
+      "cite_3_page": null,
+      "cite_3_reporter": null,
+      "cite_3_vol": null,
+      "citation_status": "No citation available",
+      "court": "Northern District of Ohio",
+      "no_title": false,
+      "party_types": [
+        "Court"
+      ],
+      "per_curium": false,
+      "is_core_document": true,
+      "id": 134862,
+      "file": "https://clearinghouse-umich-production.s3.amazonaws.com/media/doc/134862.pdf",
+      "title": "Order Extending Time to Answer and Interlocutory Order Authorizing Appointment of Federal Observers",
+      "text": " Case: 1:11-cv-02122-SO  Doc #: 6  Filed:  10/07/11  1 of 2.  PageID #: 34\n\n Case: 1:11-cv-02122-SO  Doc #: 6  Filed:  10/07/11  2 of 2.  PageID #: 35",
+      "document_type_other": null,
+      "external_url": "",
+      "ecf_number": "6",
+      "clearinghouse_link": "clearinghouse.net/doc/134862"
+    },
+    {
+      "date": "2011-10-06",
+      "date_is_estimate": false,
+      "date_not_available": false,
+      "description": "",
+      "document_source": null,
+      "document_status": "Coding Complete",
+      "document_type": "Complaint",
+      "order_type": null,
+      "citation_paren": null,
+      "cite_1_page": null,
+      "cite_1_reporter": null,
+      "cite_1_vol": null,
+      "cite_2_page": null,
+      "cite_2_reporter": null,
+      "cite_2_vol": null,
+      "cite_3_page": null,
+      "cite_3_reporter": null,
+      "cite_3_vol": null,
+      "citation_status": "Not applicable",
+      "court": "Northern District of Ohio",
+      "no_title": false,
+      "party_types": [
+        "Plaintiff"
+      ],
+      "per_curium": false,
+      "is_core_document": true,
+      "id": 134863,
+      "file": "https://clearinghouse-umich-production.s3.amazonaws.com/media/doc/134863.pdf",
+      "title": "Complaint",
+      "text": "Case: 1:11-cv-02122-SO  Doc #: 1  Filed:  10/07/11  1 of 5.  PageID #: 1\n\nCase: 1:11-cv-02122-SO  Doc #: 1  Filed:  10/07/11  2 of 5.  PageID #: 2\n\nCase: 1:11-cv-02122-SO  Doc #: 1  Filed:  10/07/11  3 of 5.  PageID #: 3\n\nCase: 1:11-cv-02122-SO  Doc #: 1  Filed:  10/07/11  4 of 5.  PageID #: 4\n\nCase: 1:11-cv-02122-SO  Doc #: 1  Filed:  10/07/11  5 of 5.  PageID #: 5",
+      "document_type_other": null,
+      "external_url": "",
+      "ecf_number": "1",
+      "clearinghouse_link": "clearinghouse.net/doc/134863"
+    },
+    {
+      "date": null,
+      "date_is_estimate": false,
+      "date_not_available": false,
+      "description": null,
+      "document_source": null,
+      "document_status": null,
+      "document_type": null,
+      "order_type": null,
+      "citation_paren": null,
+      "cite_1_page": null,
+      "cite_1_reporter": null,
+      "cite_1_vol": null,
+      "cite_2_page": null,
+      "cite_2_reporter": null,
+      "cite_2_vol": null,
+      "cite_3_page": null,
+      "cite_3_reporter": null,
+      "cite_3_vol": null,
+      "citation_status": null,
+      "court": null,
+      "no_title": false,
+      "party_types": [],
+      "per_curium": false,
+      "is_core_document": true,
+      "id": 134804,
+      "file": null,
+      "title": null,
+      "text": null,
+      "document_type_other": null,
+      "external_url": null,
+      "ecf_number": null,
+      "clearinghouse_link": "clearinghouse.net/doc/134804"
+    },
+    {
+      "date": "2011-10-06",
+      "date_is_estimate": false,
+      "date_not_available": false,
+      "description": "",
+      "document_source": "RECAP",
+      "document_status": "Coding Complete",
+      "document_type": "Settlement Agreement",
+      "order_type": null,
+      "citation_paren": null,
+      "cite_1_page": null,
+      "cite_1_reporter": null,
+      "cite_1_vol": null,
+      "cite_2_page": null,
+      "cite_2_reporter": null,
+      "cite_2_vol": null,
+      "cite_3_page": null,
+      "cite_3_reporter": null,
+      "cite_3_vol": null,
+      "citation_status": "Not applicable",
+      "court": "Northern District of Ohio",
+      "no_title": false,
+      "party_types": [
+        "Defendant",
+        "Plaintiff"
+      ],
+      "per_curium": false,
+      "is_core_document": true,
+      "id": 134852,
+      "file": "https://clearinghouse-umich-production.s3.amazonaws.com/media/doc/134852.pdf",
+      "title": "Memorandum of Agreement Between the United States of America and Lorain County, Ohio Regarding Compliance with Section 4(e) of the Voting Rights Act",
+      "text": "Case: 1:11-cv-02122-SO  Doc #: 5  Filed:  10/07/11  1 of 17.  PageID #: 17\n\nCase: 1:11-cv-02122-SO  Doc #: 5  Filed:  10/07/11  2 of 17.  PageID #: 18\n\nCase: 1:11-cv-02122-SO  Doc #: 5  Filed:  10/07/11  3 of 17.  PageID #: 19\n\nCase: 1:11-cv-02122-SO  Doc #: 5  Filed:  10/07/11  4 of 17.  PageID #: 20\n\nCase: 1:11-cv-02122-SO  Doc #: 5  Filed:  10/07/11  5 of 17.  PageID #: 21\n\nCase: 1:11-cv-02122-SO  Doc #: 5  Filed:  10/07/11  6 of 17.  PageID #: 22\n\nCase: 1:11-cv-02122-SO  Doc #: 5  Filed:  10/07/11  7 of 17.  PageID #: 23\n\nCase: 1:11-cv-02122-SO  Doc #: 5  Filed:  10/07/11  8 of 17.  PageID #: 24\n\nCase: 1:11-cv-02122-SO  Doc #: 5  Filed:  10/07/11  9 of 17.  PageID #: 25\n\nCase: 1:11-cv-02122-SO  Doc #: 5  Filed:  10/07/11  10 of 17.  PageID #: 26\n\nCase: 1:11-cv-02122-SO  Doc #: 5  Filed:  10/07/11  11 of 17.  PageID #: 27\n\nCase: 1:11-cv-02122-SO  Doc #: 5  Filed:  10/07/11  12 of 17.  PageID #: 28\n\nCase: 1:11-cv-02122-SO  Doc #: 5  Filed:  10/07/11  13 of 17.  PageID #: 29\n\nCase: 1:11-cv-02122-SO  Doc #: 5  Filed:  10/07/11  14 of 17.  PageID #: 30\n\nCase: 1:11-cv-02122-SO  Doc #: 5  Filed:  10/07/11  15 of 17.  PageID #: 31\n\nCase: 1:11-cv-02122-SO  Doc #: 5  Filed:  10/07/11  16 of 17.  PageID #: 32\n\nCase: 1:11-cv-02122-SO  Doc #: 5  Filed:  10/07/11  17 of 17.  PageID #: 33",
+      "document_type_other": null,
+      "external_url": "https://www.courtlistener.com/docket/38480641/5/united-states-v-lorain-county/",
+      "ecf_number": "5",
+      "clearinghouse_link": "clearinghouse.net/doc/134852"
+    }
+  ],
+  "document_count": 4
+}

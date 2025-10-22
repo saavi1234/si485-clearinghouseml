@@ -1,0 +1,512 @@
+{
+  "case_id": 5770,
+  "fetched_at": "2025-10-22T00:07:49.035121",
+  "case_data": {
+    "attorney_orgs": [
+      "EEOC"
+    ],
+    "available_documents": [
+      "Trial Court Docket",
+      "Monetary Relief",
+      "Injunctive (or Injunctive-like) Relief"
+    ],
+    "case_defendants": [
+      {
+        "defendant_level": null,
+        "institution": null,
+        "institution_alt_state": null,
+        "institution_city": "Bemidji, Minnesota",
+        "institution_county": null,
+        "name": "Target Stores, Inc.",
+        "defendant_level_other": null,
+        "is_active": true
+      },
+      {
+        "defendant_level": null,
+        "institution": null,
+        "institution_alt_state": null,
+        "institution_city": "",
+        "institution_county": null,
+        "name": "Target Stores, Inc.",
+        "defendant_level_other": null,
+        "is_active": true
+      }
+    ],
+    "case_ongoing": "No",
+    "case_status": "Coding Complete",
+    "case_types": [
+      "Equal Employment"
+    ],
+    "cause_other": "",
+    "causes": [
+      "Americans with Disabilities Act (ADA), 42 U.S.C. §§ 12111 et seq."
+    ],
+    "class_action_granted": "Not sought",
+    "class_action_sought": "No",
+    "closing_year": 2006,
+    "constitutional_clause": [],
+    "content_of_injunction": [
+      {
+        "value": "Expungement of Employment Record"
+      },
+      {
+        "value": "Develop anti-discrimination policy"
+      },
+      {
+        "value": "Post/Distribute Notice of Rights / EE Law"
+      },
+      {
+        "value": "Provide antidiscrimination training"
+      },
+      {
+        "value": "Reporting"
+      },
+      {
+        "value": "Recordkeeping"
+      },
+      {
+        "value": "Monitoring"
+      }
+    ],
+    "court": "District of Minnesota",
+    "custom_issues": [],
+    "defendant_payment": "95000",
+    "defendant_type": [],
+    "docket_status": "Complete as of retrieval date",
+    "facility_type": [],
+    "filing_date": "2001-09-06",
+    "filing_year": 2001,
+    "id": 5770,
+    "injunction_duration": "36",
+    "issues": [
+      "Discrimination Basis: Disability (inc. reasonable accommodations)",
+      "Discrimination Area: Disparate Treatment",
+      "Discrimination Area: Accommodation / Leave",
+      "EEOC-centric: Direct Suit on Merits",
+      "EEOC-centric: Private Party intervened in EEOC suit"
+    ],
+    "last_checked_date": "2007-07-31T00:00:00-04:00",
+    "main_docket": {
+      "id": 37368,
+      "docket_entries": [
+        {
+          "row_number": 0,
+          "id": 1947455,
+          "entry_number": "1",
+          "date_filed": "2001-09-06T00:00:00-04:00",
+          "attachments": [],
+          "url": "nan",
+          "recap_pdf_url": null,
+          "pacer_doc_id": null,
+          "description": "COMPLAINT - Summons issued. Assigned to Judge John R. Tunheim per 440 Civil Rights list and referred to Magistrate Judge Franklin L. Noel, fee waived 6pg(s) (DFL) (Entered: 09/11/2001)"
+        },
+        {
+          "row_number": 2,
+          "id": 1947457,
+          "entry_number": "3",
+          "date_filed": "2001-09-27T00:00:00-04:00",
+          "attachments": [],
+          "url": "nan",
+          "recap_pdf_url": null,
+          "pacer_doc_id": null,
+          "description": "ORIGINAL SUMMONS AND RETURN OF SERVICE executed upon defendant Target Stores, Inc. on 9/18/01 2pg(s) (DFL) (Entered: 10/02/2001)"
+        },
+        {
+          "row_number": 7,
+          "id": 1947462,
+          "entry_number": "7",
+          "date_filed": "2001-11-26T00:00:00-05:00",
+          "attachments": [],
+          "url": "nan",
+          "recap_pdf_url": null,
+          "pacer_doc_id": null,
+          "description": "REPORT OF RULE 26(f) MEETING 5pg(s) (DFL) (Entered: 11/28/2001)"
+        },
+        {
+          "row_number": 6,
+          "id": 1947461,
+          "entry_number": "6",
+          "date_filed": "2001-10-29T00:00:00-05:00",
+          "attachments": [],
+          "url": "nan",
+          "recap_pdf_url": null,
+          "pacer_doc_id": null,
+          "description": "NOTICE OF PRETRIAL CONFERENCE ( Magistrate Judge Arthur J. Boylan / 10/29/1) pretrial conference set for 9:30 a.m. on 12/3/01; Rule report ddl set for 11/26/01 (4pg(s) (cc: all counsel) (DDB) (Entered: 10/31/2001)"
+        },
+        {
+          "row_number": 5,
+          "id": 1947460,
+          "entry_number": "5",
+          "date_filed": "2001-10-17T00:00:00-04:00",
+          "attachments": [],
+          "url": "nan",
+          "recap_pdf_url": null,
+          "pacer_doc_id": null,
+          "description": "ANSWER by dft 4pg(s) (PAK) (Entered: 10/20/2001)"
+        },
+        {
+          "row_number": 9,
+          "id": 1947464,
+          "entry_number": "10",
+          "date_filed": "2002-02-01T00:00:00-05:00",
+          "attachments": [],
+          "url": "nan",
+          "recap_pdf_url": null,
+          "pacer_doc_id": null,
+          "description": "MEMORANDUM by movant in support of its motion to intervene [9-1]. (3pg(s) (DDB) (Entered: 02/08/2002)"
+        },
+        {
+          "row_number": 11,
+          "id": 1947466,
+          "entry_number": "11",
+          "date_filed": "2002-02-14T00:00:00-05:00",
+          "attachments": [],
+          "url": "nan",
+          "recap_pdf_url": null,
+          "pacer_doc_id": null,
+          "description": "MINUTES:( Magistrate Judge Arthur J. Boylan / ) Suzanne Strombaugh's motion for leave to intervene. Stipulation signed, hearing stricken. (1pg(s) (DDB) (Entered: 02/15/2002)"
+        },
+        {
+          "row_number": 12,
+          "id": 1947467,
+          "entry_number": "13",
+          "date_filed": "2002-02-26T00:00:00-05:00",
+          "attachments": [],
+          "url": "nan",
+          "recap_pdf_url": null,
+          "pacer_doc_id": null,
+          "description": "INTERVENOR'S COMPLAINT by movant Suzanne Stombaugh - Jury Trial Demanded. 6pg(s) (PAK) (Entered: 02/28/2002)"
+        },
+        {
+          "row_number": 3,
+          "id": 1947458,
+          "entry_number": null,
+          "date_filed": "2001-10-11T00:00:00-04:00",
+          "attachments": [],
+          "url": "nan",
+          "recap_pdf_url": null,
+          "pacer_doc_id": null,
+          "description": "NOTICE by defendant Target Stores, Inc. of association of counsel Donald M Lewis, Joseph George Schmitt (MMC) (Entered: 10/11/2001)"
+        },
+        {
+          "row_number": 10,
+          "id": 1947465,
+          "entry_number": "12",
+          "date_filed": "2002-02-12T00:00:00-05:00",
+          "attachments": [],
+          "url": "nan",
+          "recap_pdf_url": null,
+          "pacer_doc_id": null,
+          "description": "STIPULATION FOR INTERVENTION OF SUZANNE STOMBAUGH AND ORDER ( Magistrate Judge Arthur J. Boylan ) that 1. S. Stombaugh is granted leave to intervene in this action & 2. S. Stombaugh will file her Intervenor's Complaint (Exhibit 1) on or before 3/1/2 [9-1]. (2pg(s) +EXHIBIT (cc: all counsel) (DDB) (Entered: 02/15/2002)"
+        },
+        {
+          "row_number": 1,
+          "id": 1947456,
+          "entry_number": "2",
+          "date_filed": "2001-09-21T00:00:00-04:00",
+          "attachments": [],
+          "url": "nan",
+          "recap_pdf_url": null,
+          "pacer_doc_id": null,
+          "description": "ORDER OF RECUSAL ( Judge John R. Tunheim / 9/21/01) Case reassigned to Judge Donovan W. Frank per 440 Civil Rights List , Case referred to Magistrate Judge Arthur J. Boylan 1pg(s) (cc: all counsel) (DFL) (Entered: 09/26/2001)"
+        },
+        {
+          "row_number": 8,
+          "id": 1947463,
+          "entry_number": "9",
+          "date_filed": "2002-02-01T00:00:00-05:00",
+          "attachments": [],
+          "url": "nan",
+          "recap_pdf_url": null,
+          "pacer_doc_id": null,
+          "description": "MOTION by movant to intervene ( to Magistrate Judge Arthur J. Boylan ) ret. at 1:30 p.m. on 2/14/2. (9pg(s) (DDB) (Entered: 02/08/2002)"
+        },
+        {
+          "row_number": 17,
+          "id": 1947472,
+          "entry_number": "17",
+          "date_filed": "2002-10-04T00:00:00-04:00",
+          "attachments": [],
+          "url": "nan",
+          "recap_pdf_url": null,
+          "pacer_doc_id": null,
+          "description": "AMENDED PRETRIAL SCHEDULING ORDER ( Magistrate Judge Arthur J. Boylan / 10/4/2) discovery set for 7/1/03; non-dispositive motions set for 8/1/03; dispositive motions set for 10/15/03; ready for trial set for 11/14/03 (4pg(s) (cc: all counsel) (DDB) (Entered: 10/08/2002)"
+        },
+        {
+          "row_number": 4,
+          "id": 1947459,
+          "entry_number": "4",
+          "date_filed": "2001-10-11T00:00:00-04:00",
+          "attachments": [],
+          "url": "nan",
+          "recap_pdf_url": null,
+          "pacer_doc_id": null,
+          "description": "STIPULATION AND ORDER ( Magistrate Judge Arthur J. Boylan ) that the time for the defts to answer or otherwise respond to the complaint shall be extended. The answer or other responsive pleading shall be served on or before Wednesday, Oct 17, 2001. (2pg(s)(cc: all counsel) (DDB) (Entered: 10/16/2001)"
+        },
+        {
+          "row_number": 13,
+          "id": 1947468,
+          "entry_number": "14",
+          "date_filed": "2002-03-19T00:00:00-05:00",
+          "attachments": [],
+          "url": "nan",
+          "recap_pdf_url": null,
+          "pacer_doc_id": null,
+          "description": "ANSWER TO INTERVENOR COMPLAINT by Target Stores, Inc. 5pg(s) (DFL) (Entered: 03/21/2002)"
+        },
+        {
+          "row_number": 14,
+          "id": 1947469,
+          "entry_number": "15",
+          "date_filed": "2002-06-28T00:00:00-04:00",
+          "attachments": [],
+          "url": "nan",
+          "recap_pdf_url": null,
+          "pacer_doc_id": null,
+          "description": "MOTION by parties to amend pretrial scheduling order ( to Magistrate Judge Arthur J. Boylan ) (2pg(s) (DDB) (Entered: 07/02/2002)"
+        },
+        {
+          "row_number": 15,
+          "id": 1947470,
+          "entry_number": "16",
+          "date_filed": "2002-06-28T00:00:00-04:00",
+          "attachments": [],
+          "url": "nan",
+          "recap_pdf_url": null,
+          "pacer_doc_id": null,
+          "description": "AMENDED PRETRIAL SCHEDULING ORDER ( Magistrate Judge Arthur J. Boylan / 6/28/2) discovery set for 3/3/03; non-dispositive motions set for 4/1/03; dispositive motions set for 6/16/03; ready for trial set for 7/14/03 (2pg(s) (cc: all counsel) (DDB) (Entered: 07/02/2002)"
+        },
+        {
+          "row_number": 16,
+          "id": 1947471,
+          "entry_number": "18",
+          "date_filed": "2002-10-03T00:00:00-04:00",
+          "attachments": [],
+          "url": "nan",
+          "recap_pdf_url": null,
+          "pacer_doc_id": null,
+          "description": "MINUTES:( Magistrate Judge Arthur J. Boylan / ) TELEPHONE CONFERENCE RE: Proposed Amended Scheduling Order. Motion to extend scheduling order dates - granted. (1pg(s) (DDB) (Entered: 10/10/2002)"
+        },
+        {
+          "row_number": 18,
+          "id": 1947473,
+          "entry_number": "19",
+          "date_filed": "2003-02-04T00:00:00-05:00",
+          "attachments": [],
+          "url": "nan",
+          "recap_pdf_url": null,
+          "pacer_doc_id": null,
+          "description": "CONSENT DECREE AND ORDER ( Judge Donovan W. Frank ) that the court shall retain jurisdiction for the purpose of enforcing this decree and entry of such further orders as may be necessary or appropriate for the same period of time, except that, if any party has, prior to the expiration of the three year period, commenced proceedings to compel compliance, this court will retain jurisdiction of the action until all issues to such compliance proceedings have been resolved; at the end of the three year period, or as soon as all enforcement issues have been resolved, whichever occurs last, this court will dissolve the consent decree and will dismiss this action with prejudice and without further motion by any party termination notice 9pg(s) (cc: all counsel) (DFL) (Entered: 02/10/2003)"
+        }
+      ],
+      "docket_case_type": "cv",
+      "docket_year": 2001,
+      "docket_filing_number": 1646,
+      "is_main_docket": true,
+      "court": "District of Minnesota",
+      "state": "Minnesota",
+      "docket_office_number": "0",
+      "docket_number_manual": "0:01-cv-01646-DWF-AJB",
+      "scales_html": "https://clearinghouse-umich-production.s3.amazonaws.com/media/docket-html/mnd--0-01-cv-01646.html",
+      "recap_link": null,
+      "is_active": true
+    },
+    "name": "EEOC v. TARGET STORES, INC.",
+    "never_filed": false,
+    "non_docket_case_number": "",
+    "non_docket_case_number_type": null,
+    "non_docket_case_number_type_other": "",
+    "order_end_year": 2006,
+    "order_start_year": 2003,
+    "permanent_injunction": false,
+    "plaintiff_description": "Equal Employment Opportunity Commission, on behalf of one or more workers.",
+    "plaintiff_type": [
+      {
+        "value": "Private Plaintiff"
+      },
+      {
+        "value": "EEOC Plaintiff"
+      }
+    ],
+    "prevailing_party": "Plaintiff",
+    "pro_se_status": "No",
+    "public_interest_lawyer": "Yes",
+    "related_cases": [],
+    "relief_natures": [
+      "Injunction / Injunctive-like Settlement",
+      "Damages"
+    ],
+    "relief_nature_other": "",
+    "relief_sources": [
+      "Settlement"
+    ],
+    "settlement_agreement": [
+      "Court Approved Settlement or Consent Decree"
+    ],
+    "settlement_judgment_date": "2003-02-04",
+    "settlement_judgment_year": null,
+    "special_collections": [
+      "EEOC Study — in sample"
+    ],
+    "special_case_type": [],
+    "state": "Minnesota",
+    "summary": "<p>In September 2001, the Milwaukee District Office of the EEOC brought this lawsuit against Target Stores, Inc. in the U.S. District Court for the District of Minnesota.  We do not have a copy of the complaint; therefore, the exact allegations are unknown.  However, the consent decree indicates the EEOC alleged the defendant discriminated against the complainant, an employee with multiple sclerosis, by failing to make reasonable accommodation for the complainant in violation of the Americans with Disabilities Act.  The complainant intervened in the lawsuit in February 2002.  Following several changes of the trail date, the parties settled the lawsuit through a consent decree in February 2003.</p><p>The three year consent decree required the defendant to: report complaints to the EEOC, certify defendant has an anti-discrimination and anti-harassment policy as well as a policy for responding to requests for reasonable accommodations from employees, keep records of complaints, permit the EEOC to monitor the facilities and training sessions, expunge complainant's employment record of reference to the lawsuit, post and distribute notice of employee rights, provide annual training, and agree to both comply with the Americans with Disabilities Act and maintain the confidentiality of its employees' medical information. </p><p></p>",
+    "summary_published_date": "2007-11-06T00:00:00-05:00",
+    "summary_short": null,
+    "summary_tiny": null,
+    "terminating_date": "2006-02-04",
+    "clearinghouse_link": "clearinghouse.net/case/5770",
+    "is_active": true,
+    "case_documents_url": "https://clearinghouse.net/api/v2/documents/?case=5770",
+    "case_dockets_url": "https://clearinghouse.net/api/v2/dockets/?case=5770",
+    "case_resources_url": "https://clearinghouse.net/api/v2/resources/?case=5770"
+  },
+  "documents": [
+    {
+      "date": "2003-02-04",
+      "date_is_estimate": false,
+      "date_not_available": false,
+      "description": null,
+      "document_source": "PACER [Public Access to Court Electronic Records]",
+      "document_status": "Coding Complete",
+      "document_type": "Docket",
+      "order_type": null,
+      "citation_paren": null,
+      "cite_1_page": null,
+      "cite_1_reporter": null,
+      "cite_1_vol": null,
+      "cite_2_page": null,
+      "cite_2_reporter": null,
+      "cite_2_vol": null,
+      "cite_3_page": null,
+      "cite_3_reporter": null,
+      "cite_3_vol": null,
+      "citation_status": "Not applicable",
+      "court": "District of Minnesota",
+      "no_title": false,
+      "party_types": [
+        "Court"
+      ],
+      "per_curium": false,
+      "is_core_document": true,
+      "id": 26911,
+      "file": "https://clearinghouse-umich-production.s3.amazonaws.com/media/doc/26911.pdf",
+      "title": "Docket (PACER)",
+      "text": "CM/ECF - District of Minnesota - Live - Docket Report https://ecf.mnd.uscourts.gov/cgi-bin/DktRpt.pl?104592968708018-L_9...\nCLOSED\n  U.S. District Court\nDistrict of Minnesota (DMN)\nCIVIL DOCKET FOR CASE #: 0:01-cv-01646-DWF-AJB\nEEOC v. Target Stores, Inc. Date Filed: 09/06/2001\nAssigned to: Judge Donovan W. Frank Jury Demand: None\nReferred to: Magistrate Judge Arthur J. Boylan Nature of Suit: 440 Civil Rights: Other\nDemand: $0 Jurisdiction: Federal Question\nCause: 42:12101 Americans with Disabilities Act\nPlaintiff\nEqual Employment Opportunity  represented by Jean P Kamp \nCommission Equal Employment Opportunity \nCommission \n310 W Wisconsin Ave Ste 800 \nMilwaukee, WI 53203-2292 \n414-297-1860 \nFax: 414-297-3146 \nEmail: jean.kamp@eeoc.gov \nLEAD ATTORNEY \nATTORNEY TO BE NOTICED\nLaurie A Vasichek \nEqual Employment Opportunity \nCommission \n330 S 2nd Ave Ste 430 \nMinneapolis, MN 55401-2224 \n612-335-4040 \nFax: 612-335-4044 \nEmail: laurie.vasichek@eeoc.gov \nLEAD ATTORNEY \nATTORNEY TO BE NOTICED\nV.\nDefendant\nTarget Stores, Inc. represented by Donald M Lewis \nHalleland Lewis Nilan & Johnson \n600 U.S. Bank Plaza South \n220 South Sixth Street \nMpls, MN 55402 \n612-338-1838 \nFax: 612-338-7858 \nEmail: dlewis@halleland.com \nLEAD ATTORNEY \nATTORNEY TO BE NOTICED\n1 of 4 7/31/2007 12:59 PM\n\nCM/ECF - District of Minnesota - Live - Docket Report https://ecf.mnd.uscourts.gov/cgi-bin/DktRpt.pl?104592968708018-L_9...\nJoseph G Schmitt \nHalleland Lewis Nilan & Johnson \n220 6th St S Ste 600 \nMpls, MN 55402 \n612-338-1838 \nFax: 612-338-7858 \nEmail: jschmitt@halleland.com \nLEAD ATTORNEY \nATTORNEY TO BE NOTICED\nMovant\nSuzanne Stombaugh represented by Susan Anderson McKay \nMcKay Law Office \n11359 Windrow Dr \nEden Prairie, MN 55344 \n952-914-0284 \nEmail: smckay1@mn.rr.com \nLEAD ATTORNEY \nATTORNEY TO BE NOTICED\nDate Filed # Docket Text\n09/06/2001 1 COMPLAINT - Summons issued. Assigned to Judge John R. Tunheim per 440 \nCivil Rights list and referred to Magistrate Judge Franklin L. Noel, fee waived \n6pg(s) (DFL) (Entered: 09/11/2001)\n09/21/2001 2 ORDER OF RECUSAL ( Judge John R. Tunheim / 9/21/01) Case reassigned to \nJudge Donovan W. Frank per 440 Civil Rights List , Case referred to Magistrate \nJudge Arthur J. Boylan 1pg(s) (cc: all counsel) (DFL) (Entered: 09/26/2001)\n09/27/2001 3 ORIGINAL SUMMONS AND RETURN OF SERVICE executed upon \ndefendant Target Stores, Inc. on 9/18/01 2pg(s) (DFL) (Entered: 10/02/2001)\n10/11/2001   NOTICE by defendant Target Stores, Inc. of association of counsel Donald M \nLewis, Joseph George Schmitt (MMC) (Entered: 10/11/2001)\n10/11/2001 4 STIPULATION AND ORDER ( Magistrate Judge Arthur J. Boylan ) that the \ntime for the defts to answer or otherwise respond to the complaint shall be \nextended. The answer or other responsive pleading shall be served on or before \nWednesday, Oct 17, 2001. (2pg(s)(cc: all counsel) (DDB) (Entered: 10/16/2001)\n10/17/2001 5 ANSWER by dft 4pg(s) (PAK) (Entered: 10/20/2001)\n10/29/2001 6 NOTICE OF PRETRIAL CONFERENCE ( Magistrate Judge Arthur J. Boylan / \n10/29/1) pretrial conference set for 9:30 a.m. on 12/3/01; Rule report ddl set for \n11/26/01 (4pg(s) (cc: all counsel) (DDB) (Entered: 10/31/2001)\n11/26/2001 7 REPORT OF RULE 26(f) MEETING 5pg(s) (DFL) (Entered: 11/28/2001)\n2 of 4 7/31/2007 12:59 PM\n\nCM/ECF - District of Minnesota - Live - Docket Report https://ecf.mnd.uscourts.gov/cgi-bin/DktRpt.pl?104592968708018-L_9...\n12/03/2001 8 PRETRIAL SCHEDULING ORDER ( Magistrate Judge Arthur J. Boylan / \n12/3/1) discovery set for 11/1/02; amend pleadings & adding parties is set for \n2/1/02; non-dispositive motions set for 12/1/02; dispositive motions set for \n1/15/03; ready for trial set for 5/15/03. (2pg(s) (cc: counsel) (DDB) (Entered: \n12/04/2001)\n02/01/2002 9 MOTION by movant to intervene ( to Magistrate Judge Arthur J. Boylan ) ret. at \n1:30 p.m. on 2/14/2. (9pg(s) (DDB) (Entered: 02/08/2002)\n02/01/2002 10 MEMORANDUM by movant in support of its motion to intervene [9-1]. (3pg(s) \n(DDB) (Entered: 02/08/2002)\n02/12/2002 12 STIPULATION FOR INTERVENTION OF SUZANNE STOMBAUGH AND \nORDER ( Magistrate Judge Arthur J. Boylan ) that 1. S. Stombaugh is granted \nleave to intervene in this action & 2. S. Stombaugh will file her Intervenor's \nComplaint (Exhibit 1) on or before 3/1/2 [9-1]. (2pg(s) +EXHIBIT (cc: all \ncounsel) (DDB) (Entered: 02/15/2002)\n02/14/2002 11 MINUTES:( Magistrate Judge Arthur J. Boylan / ) Suzanne Strombaugh's motion \nfor leave to intervene. Stipulation signed, hearing stricken. (1pg(s) (DDB) \n(Entered: 02/15/2002)\n02/26/2002 13 INTERVENOR'S COMPLAINT by movant Suzanne Stombaugh - Jury Trial \nDemanded. 6pg(s) (PAK) (Entered: 02/28/2002)\n03/19/2002 14 ANSWER TO INTERVENOR COMPLAINT by Target Stores, Inc. 5pg(s) \n(DFL) (Entered: 03/21/2002)\n06/28/2002 15 MOTION by parties to amend pretrial scheduling order ( to Magistrate Judge \nArthur J. Boylan ) (2pg(s) (DDB) (Entered: 07/02/2002)\n06/28/2002 16 AMENDED PRETRIAL SCHEDULING ORDER ( Magistrate Judge Arthur J. \nBoylan / 6/28/2) discovery set for 3/3/03; non-dispositive motions set for 4/1/03; \ndispositive motions set for 6/16/03; ready for trial set for 7/14/03 (2pg(s) (cc: all \ncounsel) (DDB) (Entered: 07/02/2002)\n10/03/2002 18 MINUTES:( Magistrate Judge Arthur J. Boylan / ) TELEPHONE \nCONFERENCE RE: Proposed Amended Scheduling Order. Motion to extend \nscheduling order dates - granted. (1pg(s) (DDB) (Entered: 10/10/2002)\n10/04/2002 17 AMENDED PRETRIAL SCHEDULING ORDER ( Magistrate Judge Arthur J. \nBoylan / 10/4/2) discovery set for 7/1/03; non-dispositive motions set for 8/1/03; \ndispositive motions set for 10/15/03; ready for trial set for 11/14/03 (4pg(s) (cc: \nall counsel) (DDB) (Entered: 10/08/2002)\n02/04/2003 19 CONSENT DECREE AND ORDER ( Judge Donovan W. Frank ) that the court \nshall retain jurisdiction for the purpose of enforcing this decree and entry of such \nfurther orders as may be necessary or appropriate for the same period of time, \nexcept that, if any party has, prior to the expiration of the three year period, \ncommenced proceedings to compel compliance, this court will retain jurisdiction \nof the action until all issues to such compliance proceedings have been resolved; \nat the end of the three year period, or as soon as all enforcement issues have been \nresolved, whichever occurs last, this court will dissolve the consent decree and \nwill dismiss this action with prejudice and without further motion by any party \ntermination notice 9pg(s) (cc: all counsel) (DFL) (Entered: 02/10/2003)\n3 of 4 7/31/2007 12:59 PM\n\nCM/ECF - District of Minnesota - Live - Docket Report https://ecf.mnd.uscourts.gov/cgi-bin/DktRpt.pl?104592968708018-L_9...\nPACER Service Center\nTransaction Receipt\n07/31/2007 12:58:26\nPACER  Client \nhs0328 eeoc \nLogin: Code:\nDocket  Search \nDescription: 0:01-cv-01646-DWF-AJB\nReport Criteria:\nBillable \n2 Cost: 0.16\nPages:\n4 of 4 7/31/2007 12:59 PM",
+      "document_type_other": null,
+      "external_url": null,
+      "ecf_number": null,
+      "clearinghouse_link": "clearinghouse.net/doc/26911"
+    },
+    {
+      "date": "2003-01-15",
+      "date_is_estimate": false,
+      "date_not_available": false,
+      "description": null,
+      "document_source": null,
+      "document_status": "Coding Complete",
+      "document_type": "Press Release",
+      "order_type": null,
+      "citation_paren": null,
+      "cite_1_page": null,
+      "cite_1_reporter": null,
+      "cite_1_vol": null,
+      "cite_2_page": null,
+      "cite_2_reporter": null,
+      "cite_2_vol": null,
+      "cite_3_page": null,
+      "cite_3_reporter": null,
+      "cite_3_vol": null,
+      "citation_status": "Not applicable",
+      "court": "No Court",
+      "no_title": false,
+      "party_types": [
+        "Plaintiff"
+      ],
+      "per_curium": false,
+      "is_core_document": true,
+      "id": 26913,
+      "file": "https://clearinghouse-umich-production.s3.amazonaws.com/media/doc/26913.pdf",
+      "title": "EEOC Press Release: \"Target Corp. to Pay $95,000, Implement Training for Failure to Accommodate Disabled Worker\"",
+      "text": "TARGET CORP. TO PAY $95,000, IMPLEMENT TRAINING FOR F... http://www.eeoc.gov/press/1-15-03-b.html\nThe U.S. Equal Employment Opportunity Commission\nFOR IMMEDIATE RELEASE               CONTACT: For EEOC\nJanuary 15, 2003                             Jean Kamp\n                                             Regional Attorney\n                                             (414) 297-1860\n                                             Laurie Vasichek\n                                             Senior Trial Attorney\n                                             (612) 335-4061\n                                        TTY: (612) 335-4045\n                                             For Plaintiff-Intervenor\n                                             Susan McKay, Esq.\n                                             (952) 914-0284\nTARGET CORP. TO PAY $95,000, IMPLEMENT TRAINING \nFOR FAILURE TO ACCOMMODATE DISABLED WORKER\nMINNEAPOLIS - The U.S. Equal Employment Opportunity Commission (EEOC) today announced the settlement of\na disability discrimination lawsuit filed under Title I of the Americans with Disabilities Act of 1990 (ADA) against\nTarget Corporation for $95,000 to be paid to Susan Stombaugh, an employee who formerly worked in a Target\nstore in Bemidji, Minn.\nThe EEOC's lawsuit said that Target failed to provide a reasonable accommodation to Ms. Stombaugh, a qualified\nemployee with multiple sclerosis, when it refused to transfer her to a vacant position after her disability interfered\nwith her ability to perform her current job. Additionally, the EEOC contended that a Target supervisor had\ndisclosed information regarding her disability to another prospective employer. Target denied liability.\nIn addition to the monetary payment to the employee, Target agreed in the Consent Decree to abide by the terms\nof the ADA, provide training to its management personnel, maintain records as required by federal law, and\ncontinue to maintain its anti-harassment policy. The Consent Decree has been filed in the litigation of EEOC v. \nTarget Stores, Civ. No. 01-1646 DWF/AJB, in the United States District Court for the District of Minnesota. The\nEEOC filed suit after exhausting its conciliation efforts to reach a voluntary pre-litigation settlement.\n\"The ADA requires that an employer make reasonable accommodations for the disabilities of its qualified\nemployees, and that it keep medical information about its employees confidential,\" said Chester V. Bailey, the\nEEOC's District Director in Milwaukee. \"All the parties to this Consent Decree had a common goal - to make sure\nthat the law was followed and that the situation giving rise to this suit would not recur. We encourage other\ncompanies to be proactive in promoting an environment where persons are judged on their merits, and not upon\nmyths and stereotypes about their disabilities.\"\nMs. Stombaugh said she was pleased to resolve the matter and to continue working at Target:\n\"I really enjoy my job at Target. I have not experienced any problems since leaving my former store, and my\nsupervisors and coworkers have worked hard to assist and accommodate me in my current position,\" she said.\nLaurie A. Vasichek, Senior Trial Attorney in the Minneapolis EEOC office, stated: \"Many employers are not aware\nthat the ADA prohibits them from discussing their employees' medical condition with people checking references.\nIn this settlement, Target takes steps to prevent such disclosures, and other employers should follow its lead.\"\nVasichek also noted that ADA charges filed nationwide with the EEOC comprise about 20% of the agency's annual\ncaseload. Nearly 16,000 disability discrimination charges under the ADA were filed with the EEOC in Fiscal Year\n2002 (which ended on September 30, 2002).\nThe EEOC enforces Title VII of the Civil Rights Act of 1964, as amended, which prohibits employment\ndiscrimination based on race, color, religion, sex or national origin; the Age Discrimination in Employment Act; the\nEqual Pay Act; Title I of the Americans with Disabilities Act which prohibits disability discrimination against\nemployees in the private sector and state and local governments; certain prohibitions in the Rehabilitation Act\nagainst discrimination affecting individuals with disabilities in the federal sector; and certain sections of the Civil\nRights Act of 1991. Further information about the EEOC is available on the agency's Web site at www.eeoc.gov.\nThis page was last modified on January 15, 2003.\n1 of 2 7/31/2007 1:01 PM\n\nTARGET CORP. TO PAY $95,000, IMPLEMENT TRAINING FOR F... http://www.eeoc.gov/press/1-15-03-b.html\n Return to Home Page\n2 of 2 7/31/2007 1:01 PM",
+      "document_type_other": null,
+      "external_url": null,
+      "ecf_number": null,
+      "clearinghouse_link": "clearinghouse.net/doc/26913"
+    },
+    {
+      "date": "2003-02-04",
+      "date_is_estimate": false,
+      "date_not_available": false,
+      "description": null,
+      "document_source": "PACER [Public Access to Court Electronic Records]",
+      "document_status": "Coding Complete",
+      "document_type": "Settlement Agreement",
+      "order_type": "Consent Decree",
+      "citation_paren": null,
+      "cite_1_page": null,
+      "cite_1_reporter": null,
+      "cite_1_vol": null,
+      "cite_2_page": null,
+      "cite_2_reporter": null,
+      "cite_2_vol": null,
+      "cite_3_page": null,
+      "cite_3_reporter": null,
+      "cite_3_vol": null,
+      "citation_status": "Not applicable",
+      "court": "District of Minnesota",
+      "no_title": false,
+      "party_types": [
+        "Court",
+        "Defendant",
+        "Plaintiff",
+        "Plaintiff-Intervenor"
+      ],
+      "per_curium": false,
+      "is_core_document": true,
+      "id": 26912,
+      "file": "https://clearinghouse-umich-production.s3.amazonaws.com/media/nonpublic/doc/26912.pdf",
+      "title": "Consent Decree",
+      "text": "Case 0:01-cv-01646-DWF-AJB     Document 19     Filed 02/04/2003     Page 1 of 9(cid:10)\nIN THE UNITED STATES DISTRlCT COURT \nFOR THE DISTRlCT OF MINNESOTA \n'\\ \n./ \nEQUAL EMPLOYMENT OPPORTUNITY \nCOMMISSION, \nPlaintiff, \nand \nSUZANNE STOMBAUGH, \nIntervening Plaintiff, \nv.  Civ. No. 01-1646 DWF/AJB \nTARGET STORES, INC., \nDefendant. \nCONSENT DECREE \nThis action was filed by the Equal Employment Opportunity Commission (\"EEOC\") on \nSeptember 1, 200l.  In its complaint, the EEOC alleges that Deiendant, Target Stores, Inc., \n(\"Defendant\") discriminated against Suzanne Stombaugh by failing and refusing to provide \nStombaugh reasonable accommodation for her disability, multiple sclerosis, and disclosed \nStombaugh's disability to a prospective employer, in violation of the ADA.  Stombaugh \nintervened in the action. \nDefendant denies that it has committed any of the violations alleged by the EEOC and \nStombaugh.  The EEOC, Defendant, and Stombaugh (hereinafter referred to as lithe parties\") \nhave agreed to settle these claims in order to reach an amicable resolution ofthis matter and \navoid further litigation. The terms of the agreement are set forth below. \n1.  Monetarv Relief \nA.  Settlement Amount \nfEB  0 4 2003 \nFILED \nF!ICHARO':'::\"'o.~SLETTEN.\"\"\"\"'--C-LERK--\nJUDGMENT ENro_  __  \nDEPU1Y CLERK ___  \n\nCase 0:01-cv-01646-DWF-AJB     Document 19     Filed 02/04/2003     Page 2 of 9(cid:10)\nDefendant agrees to settle this case for $95,000 (Ninety-Five Thousand Dollars) and to \nmail checks payable to Suzanne Stombaugh and her attorney, Susan McKay, as described below \ntotaling that amount. The checks shall be sent by certified mail, return receipt requested, to \nStombaugh's attorney, Susan McKay, and a copy of the checks shall be mailed simultaneously to \nthe undersigned counsel for the EEOC.  The payment is payable within ten calendar days after \nthis Consent Decree is approved by the Court or as otherwise agreed between Stombaugh and \nDefendant. \nThe parties stipulate that they have allocated the settlement amount into separate payment \ncategories in recognition of the underlying claims.  Defendant agrees to pay Stombaugh $25,000 \nin back pay, and $70,000 in compensatory damages. \nAll of the employer's share of required withholdings, such as Social Security, shall be \npaid by Defendant. Neither the EEOC nor Defendant make any representation, or assume any \nresponsibility for any tax liability, assessments, interest, penalties and/or costs that Stombaugh \nmayor may not incur on such payments under local, state and/or federal law. \nII.  Non-Monetary Terms \nA.  Compliance with the ADA \nDeiendant agrees that it will provide reasonable accommodations to quallt1ed mdiVIduals \nwith disabilities as required by the Americans With Disabilities Act, 42 U.S.C. 12101, et seq.  It \nalso agrees that it will maintain the confidentiality of its employees' medical information as \nrequired by the Act, 42 U.S.C. 12112 . \nB.  Impact Upon the EEOC's Processing \nThe EEOC does not waive or in any manner limit its right to process or seek relief in any \nother charge or investigation based upon allegations not included in the above-captioned case. \n2 \n\nCase 0:01-cv-01646-DWF-AJB     Document 19     Filed 02/04/2003     Page 3 of 9(cid:10)\nC.  Training \nDefendant shall provide annual training on disability discrimination to all of its \nsupervisors, managers and administrators in its Bemidji, MN, facility.  This training will also \ninstruct all employees on the policies and procedures of reporting, responding to and \ninvestigating claims of disability discrimination including those relating to reasonable \naccommodation and maintenance of confidentiality of medical information.  Within 45 days, the \nDefendant shall pruvidt: a l;Upy uf the proposed training materials to the EEOC, which shall be \npermitted to comment on the materials.  A representative from the EEOC shall be permitted to \nattend the training as a silent observer.  The EEOC representative will not identify \nhimself/herself as a representative of the EEOC.  Defendant shall also certify to the EEOC that it \nprovides same or similar training to supervisors, managers and administrators in its other stores \nin the United States on an annual or bi-annual basis. \nD.  Creation and Dissemination of Anti-Discrimination Policy \nDefendant shall certify to the EEOC that it has an anti-discrimination and anti-harassment \npolicy.  Such policy will specifically outline procedures for reporting and investigating \ncomplaints of disability discrimination, and will include the names of persons to whom \ndiscrimination complaints should be made.  Ifno such policy exists, Defendant shall create such \na policy within 30 days.  This policy shall be disseminated to all staff. \nE.  Creation and Dissemination of Policy for Responding to Requests for Reasonable \nAccommodation \nDefendant shall certify to the EEOC that it has a policy for responding to requests for \nreasonable accommodation from employees.  It will instruct its managers in Defendant's Bemidji \nfacility on the policy, and take reasonable steps to assure compliance with the policy by its \n3 \n\nCase 0:01-cv-01646-DWF-AJB     Document 19     Filed 02/04/2003     Page 4 of 9(cid:10)\nmanagers. \nF.  Posting of Notice \nDefendant agrees to post the notice (Exhibit A hereto) in its Bemidji facility in a clear and \nconspicuous location customarily used for the posting of employee notices.  Defendant agrees to \npost this notice within five calendar days of approval of this Consent Decree by the Court. \nG.  Removal of References to EEOC Charge/Lawsuit  from Personnel File \nDefendant shall remove from Stombaugh' personnel file any record or indication that \nrelates to her charge filed with the EEOC, the investigation, litigation, or resolution of the \ncharge. \nH.  Record-keeping and Reporting \nFor three years from the date of this Consent Decree, Defendant shall document and \nmaintain records related to every complaint that it or any manager or supervisor receives from \nany employee alleging disability discrimination at its Bemidji store(s).  During this period, \nDefendant shall also provide the EEOC with semi-annual reports, with the first report being due \nfive months after the Final Order.  Defendant shall provide the Commission with a report every \nsix months thereafter throughout the term of this Decree.  The reports shall include the following \ninformation for each such complaint known to Defendant: the name. address. telephone number, \nand social security number of all employees at Defendant's facility, if any, who, during the \nreporting period, complained either verbally or in writing about disability discrimination; the \ndate and nature of each complaint; the identity of each person to whom each complaint was \nmade; and the action taken by Defendant in response to each complaint.  Finally, the EEOC may \ninspect Defendant's premises, interview employees and examine and copy documents in its \nBemidji facility.  The EEOC shall give written notice one week prior to COIning on the premises \n4 \n\nCase 0:01-cv-01646-DWF-AJB     Document 19     Filed 02/04/2003     Page 5 of 9(cid:10)\nfor inspection. \nI.  Enforcement of Consent Decree \nIf at any time during the duration of this Consent Decree, the EEOC believes that a \nviolation of this Decree has occurred, prior to exercising its right to move to compel \nenforcement, the EEOC shall give written notice detailing the perceived violation to Defendant. \nDefendant shall have thirty (30) days from receipt of written notice to investigate and respond in \nwriting to the allegation that a violation has occurred.  Thereafter, the parties shall have a period \nof thirty (30) days, or such additional period as may be agreed upon in writing by them, in which \nto engage in negotiation and conciliation regarding any alleged violation before the EEOC may \nmove to compel compliance. \nJ.  Certification to the EEOC \nWithin 10 calendar days following compliance with the posting, training and \ncreation/dissemination of anti-discrimination policy provisions of this Consent Decree, \nDefendant will notify the EEOC of such compliance through a letter from an appropriate \nrepresentative. \nK.  Costs and Fees \nThe parties waive their costs and fees. \nL.  Enforcement of Terms of Consent Decree and Jurisdiction \nThe affirmative obligations under this Consent Decree shall be effective and binding \nupon the parties for the period of three calendar years from its final approval by the Court.  This \nCourt shall retain jurisdiction of this action for the purpose of enforcing this Decree and entry of \nsuch further orders as may be necessary or appropriate for the same period of time, except that, if \nany party has, priur tu the expiratiun uf the three year periud, cUUlHlenced proceedings tu cumpel \n5 \n\nCase 0:01-cv-01646-DWF-AJB     Document 19     Filed 02/04/2003     Page 6 of 9(cid:10)\ncompliance, this Court will retain jurisdiction of the action until all issues relating to such \ncompliance proceedings have been resolved.  At the end of the three year period, or as soon as all \nenforcement issues (if any) have been resolved, whichever occurs last, this Court will dissolve \nthe Consent Decree and will dismiss this action with prejudice without further motion by any \nparty. \nI have read the foregoing Consent Decree, and accept and agree to the provisions \ncontained therein. \n/ \n/ \nJean  . Kamp  Date \nRe  lOnal Attorney \nUAL EMPLOYMENT OPPORTUNITY \nCOMMISSION \nMilwaukee District Office \n310 W. Wisconsin Avenue, Suite 800 \nMilwaukee, WI 53203 \n(414)  97-1860 \nv\"Laurie A. Vasichek (#171438) \nSenior Trial Attorney \nEQUAL EMPLOYMENT OPPORTUNITY \nCOMMISSION \nMinneapolis Area Office \n330 Second Avenue South, Suite 430 \nMinneapolis, Minnesota 55401 \n(612) 335-4047 \n6 \n\nCase 0:01-cv-01646-DWF-AJB     Document 19     Filed 02/04/2003     Page 7 of 9(cid:10)\nSusan McKay (#205515  Date \nMcKAY LAW OFFICE \n11359 Windrow Drive \nEden Prairie, Minnesota 55344 \n(952) 914-0284 \nATTORNEY FOR PLAINTIFF-INTERVENOR SUZANNE STOMBAUGH \nDo  Id  . Lewis (#62844) \nJo  h  . Schmitt (#231447) \nH  LLELAND LEWIS NILAN \nSIPKINS & JOHNSON P.A. \nPillsbury Center South \n220 South Sixth Street \nMinneapolis, Minnesota 55402 \n(612) 338-1838 \nATTORNEYS FOR DEFENDANT TARGET STORES, INC. \n7 \n\nCase 0:01-cv-01646-DWF-AJB     Document 19     Filed 02/04/2003     Page 8 of 9(cid:10)\nORDER \nthi3..A  J \nSO ORDERED  day of  ;::: Iv  ,2003. \nHon. Donovan  :-:Fra1:'IR  ~ \nUnited States Judge/' \n8 \n\nCase 0:01-cv-01646-DWF-AJB     Document 19     Filed 02/04/2003     Page 9 of 9(cid:10)\nNOTICE TO EMPLOYEES \nEQUAL EMPLOYMENT OPPORTUNITY \nCOMMISSION, \nPlaintiff, \nand \nSUZANNE STOMBAUGH, \nIntervening Plaintiff, \nv.  eiV. No. 01-1646 DWF/AJB \nTARGET STORES, INC., \nDefendant. \nThis Notice is being posted pursuant to an agreement between the U.S. Equal Employment \nOpportunity Commission (EEOC), Suzanne Stombaugh and Target Stores, Inc.  A charge was filed with \nthe EEOC alleging that Target Stores, Inc. violated the Americans With Disabilities Act by \ndiscriminating against an employee.  Although Target Stores, Inc. contends that it did not intend to \ndiscriminate against any employee, as part of the agreement, Target Stores, Inc. has agreed to take the \nfollowing steps: \n1.  Without admitting any violation of the law in the past, Target Stores, Inc. agrees not to engage in \nany type of discrimination prohibited by the ADA. \n2.  Target Stores, Inc. will provide training to its supervisors, managers, and administrators with \nregard to its policies forbidding any such discrimination. \n3.  Target Stores, Inc. will disseminate its anti-discrimination to all of its employees outlining that \ndiscrimination on the basis of disability, is prohibited. \n4.  Target Stores, Inc., will pay the employee a monetary settlement. \nThe EEOC enforces Title VII, which prohibits job discrimination based on race, color, religion, \nsex or national origin, the Age Discrimination in Employment Act, the Equal Pay Act, prohibitions \nagainst discrimination against individuals with disabilities in the federal sector, sections of the Civil \nRights Act of 1991, and Title I of the Americans with Disabili .  ct, which prohibits discrimination \nagainst people with disabilities in the private sector and state and loc  governments. The'  . \noffice of the EEOC is located at 330 Second Avenue South,  uite 430,  inneapolis  5540 \noffice is open from 8:00 a.m. to 4:30 p.m., Monday through Frtay. Pe sons intereste  ~~~~i!§:= \nEEOC may do so either by visiting or writing or by calling (611' 335-4 40. \n~1 J  J-OD) \nl \nHon. Donovan W. \"'~I1'\\-U:'--~ \nUnited States Judge \nEXHIBIT A ",
+      "document_type_other": null,
+      "external_url": null,
+      "ecf_number": "19",
+      "clearinghouse_link": "clearinghouse.net/doc/26912"
+    },
+    {
+      "date": null,
+      "date_is_estimate": false,
+      "date_not_available": false,
+      "description": null,
+      "document_source": null,
+      "document_status": null,
+      "document_type": null,
+      "order_type": null,
+      "citation_paren": null,
+      "cite_1_page": null,
+      "cite_1_reporter": null,
+      "cite_1_vol": null,
+      "cite_2_page": null,
+      "cite_2_reporter": null,
+      "cite_2_vol": null,
+      "cite_3_page": null,
+      "cite_3_reporter": null,
+      "cite_3_vol": null,
+      "citation_status": null,
+      "court": null,
+      "no_title": false,
+      "party_types": [],
+      "per_curium": false,
+      "is_core_document": true,
+      "id": 125959,
+      "file": null,
+      "title": null,
+      "text": null,
+      "document_type_other": null,
+      "external_url": null,
+      "ecf_number": null,
+      "clearinghouse_link": "clearinghouse.net/doc/125959"
+    }
+  ],
+  "document_count": 4
+}

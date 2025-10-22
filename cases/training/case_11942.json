@@ -1,0 +1,400 @@
+{
+  "case_id": 11942,
+  "fetched_at": "2025-10-22T00:16:44.546700",
+  "case_data": {
+    "attorney_orgs": [
+      "U.S. Dept. of Justice Civil Rights Division"
+    ],
+    "available_documents": [
+      "Trial Court Docket",
+      "Complaint (any)",
+      "Monetary Relief",
+      "Injunctive (or Injunctive-like) Relief"
+    ],
+    "case_defendants": [
+      {
+        "defendant_level": null,
+        "institution": "",
+        "institution_alt_state": null,
+        "institution_city": "",
+        "institution_county": null,
+        "name": "Bouchon Limited Family Partnership",
+        "defendant_level_other": "",
+        "is_active": true
+      }
+    ],
+    "case_ongoing": "No",
+    "case_status": "Approved",
+    "case_types": [
+      "Fair Housing/Lending/Insurance"
+    ],
+    "cause_other": "",
+    "causes": [
+      "Fair Housing Act/Fair Housing Amendments Act (FHAA), 42 U.S.C. §§ 3601 et seq."
+    ],
+    "class_action_granted": "Not sought",
+    "class_action_sought": "No",
+    "closing_year": 2015,
+    "constitutional_clause": [],
+    "content_of_injunction": [
+      {
+        "value": "Discrimination Prohibition"
+      },
+      {
+        "value": "Develop anti-discrimination policy"
+      },
+      {
+        "value": "Comply with advertising/recruiting requirements"
+      },
+      {
+        "value": "Implement complaint/dispute resolution process"
+      },
+      {
+        "value": "Reporting"
+      },
+      {
+        "value": "Recordkeeping"
+      }
+    ],
+    "court": "Eastern District of Louisiana",
+    "custom_issues": [],
+    "defendant_payment": "60,000",
+    "defendant_type": [
+      {
+        "value": "Multi-family housing provider"
+      }
+    ],
+    "docket_status": "Complete as of retrieval date",
+    "facility_type": [],
+    "filing_date": "2011-08-29",
+    "filing_year": 2011,
+    "id": 11942,
+    "injunction_duration": "48",
+    "issues": [
+      "Discrimination Basis: Race discrimination",
+      "Affected Race(s): Black",
+      "Discrimination Area: Disparate Treatment",
+      "Discrimination Area: Housing Sales/Rental",
+      "General/Misc.: Housing"
+    ],
+    "last_checked_date": "2017-11-14T00:00:00-05:00",
+    "main_docket": {
+      "id": 31252,
+      "docket_entries": [
+        {
+          "row_number": 0,
+          "id": 8817444,
+          "entry_number": "1",
+          "date_filed": "2011-08-29T00:00:00-04:00",
+          "attachments": [
+            {
+              "recap_id": 207367424,
+              "pacer_url": "https://ecf.laed.uscourts.gov/doc1/08505371184?caseid=147479",
+              "description": "Civil Cover Sheet",
+              "attachment_number": 1
+            }
+          ],
+          "url": "https://www.courtlistener.com/docket/12789863/1/united-states-v-bouchon/",
+          "recap_pdf_url": "https://www.courtlistener.com/recap/gov.uscourts.laed.147479/gov.uscourts.laed.147479.1.0_1.pdf",
+          "pacer_doc_id": "08505371183",
+          "description": "COMPLAINT against Betty Bouchon, Bouchon Limited Family Partnership, Sapphire Corporation (Filed on behalf of USA - Filing Fee not required) filed by United States of America. (Attachments: # 1 Civil Cover Sheet)(Gutierrez, Sandra) Modified on 8/31/2011 to edit text (cab). (Entered: 08/29/2011)"
+        },
+        {
+          "row_number": 1,
+          "id": 8817445,
+          "entry_number": "2",
+          "date_filed": "2011-08-29T00:00:00-04:00",
+          "attachments": [],
+          "url": "https://www.courtlistener.com/docket/12789863/2/united-states-v-bouchon/",
+          "recap_pdf_url": null,
+          "pacer_doc_id": "08505371247",
+          "description": "***DEFICIENT*** SETTLEMENT AGREEMENT by United States (Keveney, Sean) Modified on 8/31/2011 (cab). (Entered: 08/29/2011)"
+        },
+        {
+          "row_number": 2,
+          "id": 8817446,
+          "entry_number": "3",
+          "date_filed": "2011-08-30T00:00:00-04:00",
+          "attachments": [],
+          "url": "https://www.courtlistener.com/docket/12789863/3/united-states-v-bouchon/",
+          "recap_pdf_url": null,
+          "pacer_doc_id": null,
+          "description": "Initial Case Assignment to Judge Kurt D. Engelhardt and Magistrate Judge Daniel E. Knowles, III. (cl, ) (Entered: 08/30/2011)"
+        },
+        {
+          "row_number": 3,
+          "id": 8817447,
+          "entry_number": "4",
+          "date_filed": "2011-08-31T00:00:00-04:00",
+          "attachments": [],
+          "url": "https://www.courtlistener.com/docket/12789863/4/united-states-v-bouchon/",
+          "recap_pdf_url": null,
+          "pacer_doc_id": "08505376347",
+          "description": "EXPARTE/CONSENT MOTION to Approve Consent Judgment by United States of America. (Attachments: # 1 Proposed Order)(Keveney, Sean) (Entered: 08/31/2011)"
+        },
+        {
+          "row_number": 4,
+          "id": 8817448,
+          "entry_number": "5",
+          "date_filed": "2011-09-02T00:00:00-04:00",
+          "attachments": [],
+          "url": "https://www.courtlistener.com/docket/12789863/5/united-states-v-bouchon/",
+          "recap_pdf_url": null,
+          "pacer_doc_id": "08505379623",
+          "description": "ORDER granting 4 Motion to Approve Consent Judgment as stated within document. Signed by Judge Kurt D. Engelhardt on 9/2/2011. (cab) (Entered: 09/02/2011)"
+        },
+        {
+          "row_number": 5,
+          "id": 10130240,
+          "entry_number": "6",
+          "date_filed": "2011-09-07T00:00:00-04:00",
+          "attachments": [],
+          "url": "https://www.courtlistener.com/docket/12789863/6/united-states-v-bouchon/",
+          "recap_pdf_url": null,
+          "pacer_doc_id": "08505386853",
+          "description": "ORDER - IT IS ORDERED that the Clerk of Court mark this action CLOSED for statistical purposes, and IT IS FURTHER ORDERED that the Court shall retain jurisdiction and that the case shall be restored to the trial docket upon motion of a party if circumstances change. This order shall not prejudice the rights of the parties to this litigation as stated within document. Signed by Judge Kurt D. Engelhardt on 9/7/2011.(cab) (Entered: 09/07/2011)"
+        }
+      ],
+      "docket_case_type": "cv",
+      "docket_year": 2011,
+      "docket_filing_number": 2157,
+      "is_main_docket": true,
+      "court": "Eastern District of Louisiana",
+      "state": "Louisiana",
+      "docket_office_number": "2",
+      "docket_number_manual": "2:11-cv-02157-KDE-DEK",
+      "scales_html": "https://clearinghouse-umich-production.s3.amazonaws.com/media/docket-html/laed--2-11-cv-02157.html",
+      "recap_link": "https://www.courtlistener.com/docket/12789863/united-states-v-bouchon/",
+      "is_active": true
+    },
+    "name": "United States v. Bouchon",
+    "never_filed": false,
+    "non_docket_case_number": "",
+    "non_docket_case_number_type": null,
+    "non_docket_case_number_type_other": "",
+    "order_end_year": 2015,
+    "order_start_year": 2011,
+    "permanent_injunction": false,
+    "plaintiff_description": "United States Department of Justice",
+    "plaintiff_type": [
+      {
+        "value": "U.S. Dept of Justice plaintiff"
+      }
+    ],
+    "prevailing_party": "Plaintiff",
+    "pro_se_status": "No",
+    "public_interest_lawyer": "Yes",
+    "related_cases": [],
+    "relief_natures": [
+      "Injunction / Injunctive-like Settlement",
+      "Damages"
+    ],
+    "relief_nature_other": "civil penalty",
+    "relief_sources": [
+      "Settlement"
+    ],
+    "settlement_agreement": [
+      "Court Approved Settlement or Consent Decree"
+    ],
+    "settlement_judgment_date": null,
+    "settlement_judgment_year": null,
+    "special_collections": [
+      "Multi-LexSum (in sample)"
+    ],
+    "special_case_type": [],
+    "state": "Louisiana",
+    "summary": "<p>On August 29, 2011, the United States Department of Justice filed suit under the Fair Housing Act, 42 U.S.C. §§3601, in the United States District Court for the Eastern District of Louisiana, against owners, operators and managers of a 16-unit apartment building in New Orleans, Louisiana. The DOJ alleged that testing completed by the Greater New Orleans Fair Housing Action Center revealed that the defendants had engaged in a pattern and practice of rental discrimination on the basis of race or color. Specifically, the complaint alleged that defendants refused to return phone calls from prospective renters who were African-American, but did return phone calls from prospective white renters, and otherwise made units unavailable to persons of color. The U.S. sought injunctive, declaratory, and monetary relief as well as civil penalties.</p><p>Settlement negotiations preceded the lawsuit, and the parties filed a proposed settlement concurrently with the complaint.  On September 02, 2011, the Court (Judge Kurt D. Engelhardt) approved that four-year Consent Order.  The decree covered all properties in which the defendants have any ownership or management interest; in addition to generally prohibiting discrimination, it required development and posting of non-discrimination policies, prominent posting of availability of units with the Equal Housing Opportunity slogan, explicit anti-discrimination notices in all advertising, and training of all employees.   The settlement also provided for a system of recordkeeping to insure people of color were not being turned away, and maintenance of a timely updated list of available units.</p><p>Defendants paid $50,000 to the Greater New Orleans Fair Housing Action Center and $10,000 as a civil penalty.  The case terminated on September 07, 2011.</p>",
+    "summary_published_date": "2016-02-07T00:00:00-05:00",
+    "summary_short": "The Department of Justice filed suit under the Fair Housing Act against the owners, operators, and managers of a 16-unit apartment building in New Orleans, Louisiana. The DOJ alleged that defendants had engaged in a pattern and practice of rental discrimination on the basis of race or color. The parties reached a settlement which covered all properties in which the defendants have any ownership or management interest; in addition to generally prohibiting discrimination, it required development and posting of non-discrimination policies, prominent posting of availability of units with the Equal Housing Opportunity slogan, explicit anti-discrimination notices in all advertising, and training of all employees.   The settlement also provided for a system of recordkeeping to insure people of color were not being turned away, and maintenance of a timely updated list of available units.",
+    "summary_tiny": null,
+    "terminating_date": "2015-09-02",
+    "clearinghouse_link": "clearinghouse.net/case/11942",
+    "is_active": true,
+    "case_documents_url": "https://clearinghouse.net/api/v2/documents/?case=11942",
+    "case_dockets_url": "https://clearinghouse.net/api/v2/dockets/?case=11942",
+    "case_resources_url": "https://clearinghouse.net/api/v2/resources/?case=11942"
+  },
+  "documents": [
+    {
+      "date": null,
+      "date_is_estimate": false,
+      "date_not_available": false,
+      "description": null,
+      "document_source": null,
+      "document_status": null,
+      "document_type": null,
+      "order_type": null,
+      "citation_paren": null,
+      "cite_1_page": null,
+      "cite_1_reporter": null,
+      "cite_1_vol": null,
+      "cite_2_page": null,
+      "cite_2_reporter": null,
+      "cite_2_vol": null,
+      "cite_3_page": null,
+      "cite_3_reporter": null,
+      "cite_3_vol": null,
+      "citation_status": null,
+      "court": null,
+      "no_title": false,
+      "party_types": [],
+      "per_curium": false,
+      "is_core_document": true,
+      "id": 118958,
+      "file": null,
+      "title": null,
+      "text": null,
+      "document_type_other": null,
+      "external_url": null,
+      "ecf_number": null,
+      "clearinghouse_link": "clearinghouse.net/doc/118958"
+    },
+    {
+      "date": "2011-08-29",
+      "date_is_estimate": false,
+      "date_not_available": false,
+      "description": null,
+      "document_source": "PACER [Public Access to Court Electronic Records]",
+      "document_status": "Approved",
+      "document_type": "Complaint",
+      "order_type": null,
+      "citation_paren": null,
+      "cite_1_page": null,
+      "cite_1_reporter": null,
+      "cite_1_vol": null,
+      "cite_2_page": null,
+      "cite_2_reporter": null,
+      "cite_2_vol": null,
+      "cite_3_page": null,
+      "cite_3_reporter": null,
+      "cite_3_vol": null,
+      "citation_status": "Not applicable",
+      "court": "Eastern District of Louisiana",
+      "no_title": false,
+      "party_types": [
+        "Plaintiff"
+      ],
+      "per_curium": false,
+      "is_core_document": true,
+      "id": 40776,
+      "file": "https://clearinghouse-umich-production.s3.amazonaws.com/media/doc/40776.pdf",
+      "title": "Complaint",
+      "text": "Case 2:11-cv-02157   Document 1    Filed 08/29/11   Page 1 of 6 \nUNITED STATES mSTRIC'f COUR'JI' \nFOR THE EASTERN DISTRICT OF LOUISIANA \nCIVIL COMPLAINT \nUnited States,  ) \n) \nPlaintiff,  ) \n) \n) \nVB,  )  CASE NO, ~ ___  \n) \nBetty Bauchan, Bouehon Limited Famlly  ) \nPartnership, und Sapphire Corp\"  ) \n) \nDefendants,  ) \nThe United States of Amel'iea alk,sc.: \nI,  This action is brought to enforce the Fail' Housing Act, Title VlII of the Civil Rights Act \nof 1968, as amended by the Fall' Housing Amendments Act of 1988, 42 U.s,C, §§ 3601 \net seq, \n2,  This emu'! has,iudsdiction ovor this aotion p\\1l'suunt to 28 U,S,C, §§ 1331 und 1345 and \n42 U.s,C, §.  3614.,  Venue is prOPel' under 28 U,S,C, § 1391(b) (IS the claims alleged \nherein arose in the Eastern District of Louisiana, \n3,  TIle Bauchan Limited Family Pmtnership own,~ a sixteen\"unit apartment building locat~d \nat 4919 Canal SITeet, New Orleans, Louisiana. 1110 Bouchon Limited Family Partnership \noffers apm'lments in that building for rent.  Those ttpm'!menls are dwellings within tile \nmeaning oflhe Fail' HOllsing Act, 42 U.S.C. § 3602(b). \n4.  Defendant Bouchon Limited Family Partnership is a Louisiana paltnel'ship with its \n\nCase 2:11-cv-02157   Document 1    Filed 08/29/11   Page 2 of 6 \nprincipal place of business in Metairie, Louisiana. \n5.  Defendant Snpphlre COl'Poration is a Louisiana corporation with its pdncipal place of \nbusiness in Metairie, Louisiana.  Defendant Sapphire Corporation is the general paliner \nof the Bouchon Limited Family Partnership. \n6.  Defendani Betty Bouchon is a limited pmtnel' in the Boucholl Limited Family \nPartnership, and manages and operates the sixteen-unit apartment building located at \n4919 Canal Street, New Orleans, Louisiana on behalf ohhe Bouchon Limited Family \nPartnership, \n7,  Defendant Bouchon Limited Family Partnership has the right to direet and control \n, \nDefendant Betty Bouch()ll's actions  and operator of the apartment building \n~IS m~llager \nlocated at 4919 Canal Street, New Orleans, Louisltma, \n8.  Wh.llc acting with the actual Ot' apparent mlthority of the 13otlchon Limited Fmnily \nPurtnership, Betty Bouchon showed and alTered fot, rent an apartment located in the \nsixteen-unit apartment building located at 4919 Canal Street, New Orleans, Louisiana. \n9,  The Greater New Orleans PHil' I-lousing Action Center conducted a series ohests in \nSeptember 2009 to ovaluate the Defendants' compliance with the Fair Housing Act, \nTesting is the simulation of a housing transaction that compares responses given by \nhousing providers to different types of home\"seckel's to determine whether illegal \ndiscrimination is occurring,  'nle testing undertaken by the (Jt'cater New Orleans Fair \nHousing Action Center revealed that Defendant Betty Bouchon engaged in \nhousing practices that discdminate all the basis of race 01' color at the sixteen\"unit \napartment building located at 4919 Canal Street, New Orleans, Louisiana, \n2 \n\nCase 2:11-cv-02157   Document 1    Filed 08/29/11   Page 3 of 6 \n10.  The testing conduoted by the Greater New Orleans Fail' Housing Action Centel' \nrevealed that Defendant Betty Bouchan refused to retul'l1 phone oalls from prospective \nAfrica11-American renters, but did return phone cails from prospective white renters.  The \ntesting further revealed that Defelld~U1t Betty Bouchon made statements to prospective \nwhite rel1tel'.~ Indioating that she would not rent to African Americans.  The testing further \nrevetlled that Betty Bouchon indicated to an African-American prospective tenant tbat a \nunit in the sixteen-unit apaltment building located at 4919 Canal Street, New \nOrleans, Louisiana was not available fbI' rent when it wns, in fact, availabl(), \n11,  By the conduot set forth above, Defendants Betty Bouchon and the Bouchon Family \nLimited Pm1nership have: \nB.  Refused to negotiate for the rental of, 01' otherwise made unavailable or denied a \ndwelling to a person on the basis of !'aoe or coloI', in violation of Section 804(a) of \nthe Fail' Housing Act, 42 U.S.C. § 3604(a); \nb.  Discriminated in the terms, conditions, or privileges of rental of a dwelling \nbecause afmco 01' color, in violation of Section 804(b) of the Fail' HOllsing Act, \n42 U.S.C. § 3604(b); \no.  Made statements with respect to the sale 01' rental of dwellings that indioate a \npl'eference, limitation, 01' discriminlltion based Oil race or color, in violation of \nSection 804(0) ofthe Fair Housing Act, 42 U.S.C. § 3604(c); tllld \nd.  Represented because of race 01' color that a dwelling is not available for \ninspection or rental when suoh dwelling is in fact so available, in violation of \nSection 804(d) ofthe Fair Housing Act, 42 U.S.C. § 3604(d). \n12.  Tbe discriminatory actions of Defendunts Belty BOllCholl and the Bouchon Family \n\nCase 2:11-cv-02157   Document 1    Filed 08/29/11   Page 4 of 6 \nLimited Partnership were intentional, willful, and taken in  disregard of the requlrement~ \nof the Fair Housing Aot, \n13,  The conduct of Defendants Betty Bouchon and the Bouchan Family Limited Pmtnership \nset forth above constitutes: \na,  A pattern 01' practice of resistance to the full onj oyment ofl'ights granted by the \nFair HO\\lSing Act, 42 U,S,C, §§ 3601·3619; \n01' \nb,  A denial to a gl'OUp of per SOilS of rights granted by the Fair HOllsing Aot, \n42 U,S,C, §§ 3601-3619, which denial raiscs an issue of gencl'al public \nimportance, \n14,  Persons who may have been the victims of Defendants Betty Bouchon and the Bouchon \nFamily Limited Partnership's discriminatory housing practices are aggrieved persons as \ndefined in 42 U.s,C, § 3602(1), and may have suffered injuries as El result of the conduct \ndescribed above, \n15,  The discriminatory actions of Defendunts Betty Bouchon and the Bouchon Family \nLimited Pm'tnership were intentional, willful, and taken in disregard of the requirements \nofthe Fail' Housing Act. \nWHEREFORE, the United States pJ'ays that the court cnter an ORDER that: \n1,  Declal'es that Defendants Betty Bouoholl and the Bouchon Family Limited Partnership's \nconduct, as alleged herein, violates the Fail' I-lousing Act; \n2,  Enjoins Defendants Betty Bouchon and the Bouchon Family Limited Partnership, their \noff:lcers, employees, agents, successors and all other persons in active concert 01' \npurticipation with thom, from fU11her: \n4 \n\nCase 2:11-cv-02157   Document 1    Filed 08/29/11   Page 5 of 6 \nfl,  Refusing 10 rent, aftor Ihe mtudng of a bona fide o1'for, 01' refusing to negotiate for \nthe rental of, or otherwise make unavailabJe ot' deny, a dwelling to any person \nbecause of race  color; \n01' \nb,  Discriminating against any person ill the ler111s, conditions,  privileges of reutaJ \n01' \nof a dwelling beoause of race or color; \nc,  Repnlscnting to any person because of race or coloI' that any dwelling is not \navailable for iuspectiou, sale or rental when such dwelling is in fact so available; \nd,  Dlscrimlnatlng on the basis ohace against i\\ny persollin tU1y aspect of the rental \nof dwellings, pursuant to 42 U,S,C, § 3614(d)(J)(A); and \ne,  Failing 01' refusing to take such steps that may be necessary to prevent the \nrecurrence of any discriminatory conduct ill the futuro and to eliminate, to the \nextent practicable. the effects oflhe Defendants' unlawful housing practices, \n4,  Awm'ds monetary damages, pmsuant to 42 U.S,C, § 3614(d)(1)(B), to all persons harmed \nby Defendants Betty Blluchon and the Bouchon FtU11ily Limited Pmtncrship's \ndisoriminatory practices; and \n5,  Assesses a oivil penalty against Defendants Betty B01.1(:holl und the Bouchon Family \nLimited Partnership in an amount authorized by 42 U.s,C. § 36l4(d)(J)(C), to vindicate \nthe public interest. \n\nCase 2:11-cv-02157   Document 1    Filed 08/29/11   Page 6 of 6 \nThe United States ft1l1her prays for such additional relief as the interests of jl1stice may reql1ire. \n-¥-t--\nDated:  2011 \nERIC H. HOLDER, 11'. \nAttorney General \nG.-\ncs.~ \n£ \nJIM LETTEN  THOMAS E. PEREZ  • \nUnited States' Attorney  Assistant Attorney General \nEastern Distdct of Louisiana  Civil Rights Division \nS  STEVEN H. ROSENBAUM \nAssistant U.S. Attorney  Chief \n650 Poydras Street, 16th Floor \nNew Orleans, LOl1isiana 70130 \nPhone: (504) 680-3000 \nFax: (504) 680-3186 \nRE  \"eCA B. BOND \nDeputy Chief' \nSEAN R. KBVENEY \nTdal Attol'llcy \nHousing arid Civil Enforcement Section \nCivil Rights Division \nU.S. Department of Justice \n950 Pennsylvania Ave., N.W. \nNorthwestern Building, 7th Floor \nWashington, D.C. 20530 \nPhone:  (202) 514-4838 \nFax:  (202) 514-1116 \nsean.l·.keveney@usdoj.gov \n6 ",
+      "document_type_other": null,
+      "external_url": null,
+      "ecf_number": "1",
+      "clearinghouse_link": "clearinghouse.net/doc/40776"
+    },
+    {
+      "date": "2011-09-02",
+      "date_is_estimate": false,
+      "date_not_available": false,
+      "description": null,
+      "document_source": "PACER [Public Access to Court Electronic Records]",
+      "document_status": "Approved",
+      "document_type": "Settlement Agreement",
+      "order_type": "Consent Decree",
+      "citation_paren": null,
+      "cite_1_page": null,
+      "cite_1_reporter": null,
+      "cite_1_vol": null,
+      "cite_2_page": null,
+      "cite_2_reporter": null,
+      "cite_2_vol": null,
+      "cite_3_page": null,
+      "cite_3_reporter": null,
+      "cite_3_vol": null,
+      "citation_status": "Not applicable",
+      "court": "Eastern District of Louisiana",
+      "no_title": false,
+      "party_types": [
+        "Plaintiff",
+        "Defendant",
+        "Court"
+      ],
+      "per_curium": false,
+      "is_core_document": true,
+      "id": 40778,
+      "file": "https://clearinghouse-umich-production.s3.amazonaws.com/media/doc/40778.pdf",
+      "title": "Consent Order",
+      "text": "Case 2:11-cv-02157-KDE-DEK   Docu  m  ent 5    Filed 09/02/11   Page 1 of 27 \n \n \n \n  UNITED STATES DISTRICT COURT  \n  FOR THE EASTERN DISTRICT OF LOUISIANA  \n \n   \n                                                 \n                                                                     \nUnited States,  ) \n  ) \nPlaintiff,  ) \n) \n) \nvs.  )  CASE NO. 11-cv-2157 \n) \nBetty Bouchon, Bouchon Limited Family  ) \nPartnership, and Sapphire Corp.,  ) \n)   \nDefendants.  ) \n \n \n \nCONSENT ORDER AMONG THE UNITED STATES AND  \nBETTY BOUCHON, THE BOUCHON LIMITED FAMILY PARTNERSHIP,   \nAND THE SAPPHIRE CORPORATION  \n \n \nI. INTRODUCTION \n \n1. \t  This action was filed by the United States to enforce the Fair Housing Act, Title VIII of \nthe Civil Rights Act of 1968, as amended by the Fair Housing Amendments Act of 1988, \n42 U.S.C. §§ 3601 et seq. The United States alleges that Betty Bouchon, the Bouchon \nLimited Family Partnership, and the Sapphire Corporation (collectively “Defendants”) \nhave engaged in a pattern or practice of discrimination on the basis of race or color and/or \na denial of rights to a group of persons that raises an issue of public importance, in \nviolation of 42 U.S.C. § 3614, in the rental of dwelling units that the Defendants own, \n1 \n \n\nCase 2:11-cv-02157-KDE-DEK   Docu  m  ent 5    Filed 09/02/11   Page 2 of 27 \n \n \nmanage, and/or operate at 4919 Canal Street, New Orleans, Louisiana.  This agreement is \nentered into among the United States and the Defendants, Betty Bouchon, the Bouchon \nLimited Family Partnership, and the Sapphire Corporation. \n2.\t   The United States alleges that Defendants have refused to negotiate for the rental of, or \notherwise made unavailable or denied housing to persons because of race or color, in \nviolation of 42 U.S.C. § 3604(a); discriminated against persons in the terms, conditions \nor privileges of rental, or in the provision of services or facilities in connection \ntherewith, because of race or color, in violation of 42 U.S.C. § 3604(b); (c) made \nstatements that expressed explicitly an intent to discriminate in the rental of dwellings  \non the basis of race or color; and (d) discriminated by representing to persons because of \nrace or color that dwellings were not available for inspection or rent when such \ndwellings were in fact so available, in violation of 42 U.S.C. § 3604(d).   \n3. \t  This Court has jurisdiction over this action pursuant to 28 U.S.C. §§ 1331 and 1345 and \n  42 U.S.C. § 3614.  Venue is proper under 28 U.S.C. § 1391(b) as the claims alleged \n  herein arose in the Eastern District of Louisiana. \n4. \t  The Bouchon Limited Family Partnership owns a sixteen-unit apartment building located \n  at 4919 Canal Street, New Orleans, Louisiana.  The Bouchon Limited Family Partnership \n  offers apartments in that building for rent.  Those apartments are dwellings within the \n  meaning of the Fair Housing Act, 42 U.S.C. § 3602(b). \n5. \t  Defendant Bouchon Limited Family Partnership is a Louisiana partnership with its \n  principal place of business in Metairie, Louisiana. \n2  \n \n\nCase 2:11-cv-02157-KDE-DEK   Docu  m  ent 5    Filed 09/02/11   Page 3 of 27 \n \n \n6.\t   Defendant Sapphire Corporation is a Louisiana corporation with its principal place of  \n  business in Metairie, Louisiana.  Defendant Sapphire Corporation is the general partner \n  of the Bouchon Limited Family Partnership. \n7.\t   Defendant Betty Bouchon is a limited partner in the Bouchon Limited Family \n  Partnership, and manages and operates the sixteen-unit apartment building located at \n  4919 Canal Street, New Orleans, Louisiana on behalf of the Bouchon Limited Family \nPartnership. \n8.\t   Defendant Bouchon Limited Family Partnership has the right to direct and control \n  Defendant Betty Bouchon’s actions as manager and operator of the apartment building \n  located at 4919 Canal Street, New Orleans, Louisiana. \n9.\t   While acting with the actual or apparent authority of the Bouchon Limited Family \n  Partnership, Betty Bouchon showed and offered for rent apartments located in the \n  sixteen-unit apartment building located at 4919 Canal Street, New Orleans, Louisiana. \n10.\t   The Greater New Orleans Fair Housing Action Center conducted a series of tests in \n  September 2009 to evaluate the Defendants’ compliance with the Fair Housing Act.  \n  Testing is the simulation of a housing transaction that compares responses given by \n  housing providers to different types of home-seekers to determine whether illegal \n  discrimination is occurring.  The testing undertaken by the Greater New Orleans Fair \n  Housing Action Center revealed that Defendant Betty Bouchon engaged in \n  housing practices that discriminate on the basis of race or color at the sixteen-unit \n  apartment building located at 4919 Canal Street, New Orleans, Louisiana.  \n3  \n \n\nCase 2:11-cv-02157-KDE-DEK   Docu  m  ent 5    Filed 09/02/11   Page 4 of 27 \n \n \n11. \t  The testing conducted by the Greater New Orleans Fair Housing Action Center \n  revealed that Defendant Betty Bouchon refused to return phone calls from prospective \n  African-American renters, but did return phone calls from prospective white renters.  The \n  testing further revealed that Defendant Betty Bouchon made statements to prospective \n  white renters indicating that she would not rent to African Americans.  The testing further \n  revealed that Betty Bouchon indicated to an African-American prospective tenant that a \n  unit in the sixteen-unit apartment building located at 4919 Canal Street, New \n  Orleans, Louisiana was not available for rent when it was, in fact, available.  \n12. \t  The Defendants deny the allegations in the United States’ Complaint.  \n13. \t  The United States and the Defendants have agreed that to avoid protracted and costly \nlitigation, this lawsuit should be resolved without a trial.  Therefore, the parties consent to \nthe entry of this Consent Order, as shown by the signatures below. \nACCORDINGLY, it is hereby ADJUDGED, ORDERED and ORDERD: \nII. GENERAL INJUNCTION \n14. \t  Defendants, and all other persons in active concert or participation with then, are \nenjoined, with respect to the rental or sale of dwellings,1 from: \n  a. \t Refusing to rent or sell a dwelling, refusing or failing to provide or offer  \n    information about a dwelling, refusing to negotiate for the rental or sale of  \n    a dwelling, or otherwise making unavailable or denying a dwelling to any  \n    person because of race or color;  \n                                                 \n1  The term “dwellings” has the meaning set out in the Fair Housing Act, 42 U.S.C. §3602(b).  \n4  \n \n\nCase 2:11-cv-02157-KDE-DEK   Docu  m  ent 5    Filed 09/02/11   Page 5 of 27 \n \n \n  b. \t Discriminating against any person in the terms, conditions, or privileges of \n    the rental or sale of a dwelling, or in the provision of services or facilities  \n    in connection therewith, because of race or color;  \n  c. \t Making any statement, oral or written, in connection with the rental or sale \n    of a dwelling, that expresses or indicates any preference, limitation, or   \n    discrimination, or an intent to make any such preference, limitation, or  \n    discrimination, on the basis of race or color; and \n    d. \t Representing to persons because of race or color that any dwelling is not  \n    available  for inspection, rent, or sale when such dwelling is, in fact, so  \navailable.  \n15. \t  The provisions of Paragraph 14 apply to: (a) all residential dwellings offered for rent or \nsale in which Defendants have, or in the future acquire, an ownership or management  \ninterest; (b) all dwellings offered for rent or sale where Defendants act in any way as an \nagent for the owner(s) thereof; and (c) any dwelling from which Defendants are to \nreceive any portion of the proceeds of the sale or rental thereof.  Attached as Appendix A \nhereto is a list of all dwellings in which Defendants have an ownership or management  \ninterest; serve(s) as an agent for the owner(s) of; or from which the Defendant(s) is to \nreceive any portion of the proceeds of the sale or rental thereof as of the date of this \nOrder (“Subject Properties”).  Defendants certify under penalty of perjury that Appendix \nA is an accurate and complete list of currently covered dwellings.  \n5  \n \n\nCase 2:11-cv-02157-KDE-DEK   Docu  m  ent 5    Filed 09/02/11   Page 6 of 27 \n \n \nIII. NONDISCRIMINATION POLICY  \n16.\t   Upon entry of this Consent Order, Defendants shall implement the Nondiscrimination \nPolicy appearing at Appendix B at the Subject Properties. \n17. \t  Within 15 days of the entry of the Consent Order, Defendants shall distribute the \nNondiscrimination Policy to all of their current tenants, employees, agents, and anyone \nacting under the direction of the Defendant(s), who has responsibility for showing, \nrenting, managing, or operating any and all dwelling units at the Subject Properties.  \nDefendants shall review this policy, along with a question and answer session, with each \nemployee, agent, or anyone acting under their direction, on an annual basis thereafter.    \n18. \t  Within 15 days of the entry of this Consent Order, Defendants shall take the following \nsteps to notify the public of their Nondiscrimination Policy: \n  a. \t Prominently post at all rental offices that Defendant(s) currently or   \n    subsequently use for the rental of dwellings, a fair housing sign no   \n    smaller than ten (10) inches by fourteen (14) inches that indicates that all  \n    apartments are available for rent on a nondiscriminatory basis.  A poster \n    that comports with 24 C.F.R. Part 110 will satisfy this requirement; \n  b. \t Whenever any dwelling unit at any of the Subject Properties is available  \n    for rent, the Defendant(s) shall prominently post an easily readable “For  \n    Rent” or “Vacancy” sign or notice at the apartment building in which the  \n    dwelling unit is available. The sign or notice shall include the slogan  \n    “Equal Housing Opportunity” and/or the fair housing logo.  Such slogan \n6  \n \n\nCase 2:11-cv-02157-KDE-DEK   Docu  m  ent 5    Filed 09/02/11   Page 7 of 27 \n \n \n    and logo shall be prominently displayed and easily readable; \n  c. \t Include the words “Equal Housing Opportunity” and/or the fair housing  \n    logo in all rental advertising conducted by Defendants, or their agents or  \n    employees, in newspapers, flyers, handouts, telephone directories and  \n   other  written materials; on radio, television, internet or other media  \n    broadcasts; and on all billboards, signs, pamphlets, brochures and other  \n   prom otional literature, provided that this requirement does not compel  \n    Defendants to advertise in any of these media, but does require    \n    compliance with this provision whenever Defendants so advertise.  The \n    words and/or logo shall be prominently placed and easily readable; \n    d. \t Include the following phrase in the standard rental application and the  \n    standard  rental agreement used for rental dwelling units in boldface type,  \n      using letters of equal or greater size to those of the text in the body of the  \n    docum ent: \nWe are an equal housing opportunity provider. We do \nnot discriminate on the basis of race, color, sex, \nnational origin, religion, disability or familial status \n(having children under age 18). \nIV. TRAINING \n19. \t  Within 30 days of the entry of this Consent Order, Defendants shall provide a copy of \nthis Order to its agents and employees involved in showing, renting, managing, or \noperating any dwelling unit at the Subject Properties.  Defendants shall secure a signed \nstatement from each such agent or employee acknowledging that he or she has received \n7  \n \n\nCase 2:11-cv-02157-KDE-DEK   Docu  m  ent 5    Filed 09/02/11   Page 8 of 27 \n \n \nand read the Consent Order and the Nondiscrimination Policy, has had the opportunity to \nhave questions about the Consent Order and Nondiscrimination Policy answered, and \nagrees to abide by the relevant provisions of the Consent Order and the Policy.  This \nstatement shall be in the form of Appendix C. \n20. \t  During the term of this Consent Order, within 30 days after each new agent or employee \nbecomes involved in showing, renting, or managing units at the Subject Properties, \nDefendants shall provide a copy of this Consent Order and the Nondiscrimination Policy \nto each such agent or employee and secure a signed statement from each agent or \nemployee acknowledging that he or she has received and read the Consent Order and the \nNondiscrimination Policy, has had the opportunity to have questions about the Consent \nOrder and Nondiscrimination Policy answered, and agrees to abide by the relevant \nprovisions of the Consent Order and the policy.  This statement shall be in the form of  \nAppendix C. \n21. \t  Within 90 days from the date of entry of this Consent Order, Defendants and their \nmanagers, agents, and employees shall undergo in-person training on the Fair Housing \nAct, with specific emphasis on discrimination on the basis of race or color.  The training \nshall be conducted by an independent, qualified third party, approved in advance by the \nUnited States, and any expenses associated with this training shall be borne by \nDefendants. Each individual who receives the training shall execute the Certificate of  \nTraining and Receipt of Consent Order, appearing at Appendix D. \n22.\t   At a minimum, the training required in the preceding paragraph shall consist of the \n8  \n \n\nCase 2:11-cv-02157-KDE-DEK   Docu  m  ent 5    Filed 09/02/11   Page 9 of 27 \n \n \nfollowing: \n    a. \t Instruction on the requirements of all applicable federal and state    \n    housing  discrimination laws; and \n  b. \t A question and answer session for the purpose of reviewing the foregoing  \nareas.  \n23.\t   All persons responsible for renting, managing, and/or operating dwelling units at the \nSubject Properties must receive the fair housing training, described in Paragraphs 21 and \n22, within 90 days of entry of this Consent Order or within 30 days of beginning their \nwork as manager(s), whichever shall occur later.  \nV. NONDISCRIMINATORY STANDARDS AND PROCEDURES FOR \nSHOWING AVAILABLE DWELLING UNITS TO PROSPECTIVE TENANTS  \n24. \t  Within 30 days from the date of entry of this Consent Order, Defendants shall develop \nand submit to the United States, with respect to Subject Properties, objective, uniform, \nnon-discriminatory standards and procedures for informing persons about and showing \navailable dwelling units to prospective tenants.  Such standards and procedures shall be \napproved by the United States in advance of their implementation and shall be consistent \nwith the provisions of this Section. Within 5 days of when the United States approves the \nstandards and procedures, Defendants shall implement and prominently display them in  \nany office where there is rental activity and/or personal contact with applicants.  \nDefendants shall make available a copy of these standards and procedures upon request \nto any applicant for the rental of a dwelling. For the duration of this Consent Order, these \nstandards and procedures may be modified only if written notice is given to counsel for \n9  \n \n\nCase 2:11-cv-02157-KDE-DEK   Docu m  ent 5    Filed 09/02/11   Page 10 of 27 \n \n \nthe United States 30 days before the proposed modifications are to take effect and the \nUnited States makes no objection thereto. \n25.\t   The nondiscriminatory standards and procedures discussed in Paragraph 24, above, shall \ninclude the use of the following documents, which Defendants shall update as new \ninformation becomes available, and retain for the duration of the Consent Order: \na.  G\tuest Cards: Defendants shall ensure that, for all prospective tenants who  \n      inquire in person about dwelling units, a Guest Card is completed, either  \n      by the prospective tenant and/or the Defendants, that contains: \ni. \t The date of the prospective tenant’s visit and, when the prospective \n      tenant agrees to provide the information, the prospective tenant’s  \n      name, address, daytime, and evening telephone numbers; \nii. \t  The race of the prospective tenant, based on the good-faith \n  observation of Defendants or their employee or agent; \niii. \t  The apartment size the prospective tenant requests and the date on \n  which the prospective tenant wishes to move;  \niv. \t Whether the prospective tenant filled out an application; \nv. \t Whether the prospective tenant was invited to see available \n  dwelling units and the address and unit number of each one shown \n  and, if not shown, an explanation why not; and \nvi. \t The names of all employees/agents who assisted the prospective \ntenant.  \n10  \n \n\nCase 2:11-cv-02157-KDE-DEK   Docu m  ent 5    Filed 09/02/11   Page 11 of 27 \n \n \nb.  Ph\t one Logs: Defendants shall ensure that, for all prospective tenants who  \n    inquire  by telephone about dwelling units, the Defendants shall maintain a \n      phone log that contains the following information: \ni. \t         The date of the prospective tenant’s phone call and, when the  \n     prospective  tenant agrees to provide the information, and the  \n     prospective  tenant’s name and  telephone number(s); \nii. \t        The date and time on which the prospective tenant is going to  \n  view the apartment; \niii. \t       The apartment size the prospective tenant requests and the date on \n  which the prospective tenant wishes to move;  \niv. \t       Whether the prospective tenant was invited to see available \n  dwelling units, and if not invited, an explanation why not; and \nv. \t        The names of all employees/agents who assisted the prospective  \ntenant.  \nc.  A\tvailability List: Defendants shall ensure that they maintain and timely  \n      update an Availability List that includes the addresses and unit numbers of \n      all dwelling units known to be available or reasonably expected to be  \n      available for rental within 30 days, including the date either    \n      Defendant or Defendant’s agent was first informed each would be   \n      available for rental and the first date it would be available for rental or  \n      occupancy by a new tenant. Defendants, their agents, and their employees \n11  \n \n\nCase 2:11-cv-02157-KDE-DEK   Docu m  ent 5    Filed 09/02/11   Page 12 of 27 \n \n \n    shall  share the complete information on the Availability List with each  \n      person who visits or calls to inquire about the availability of dwelling  \n      units.   \nd.  \tRental Applications: Defendants, their agents, and their employees shall \n  provide and process rental applications on a non-discriminatory basis and \n  shall maintain all rental applications, whether deemed complete or \n  incomplete, and any correspondence about the availability of dwelling \nunits.   \ne.  \tWaiting Lists: Defendants, their agents, and their employees shall \n  maintain waiting lists in a non-discriminatory manner and develop \n  uniform standards for selecting individuals from the list, whether formally \n  or informally maintained. \nVI. COMPLIANCE TESTING  \n26.\t   The United States may take steps to monitor Defendants’ compliance with this Consent \nOrder including, but not limited to, conducting fair housing tests at any office(s) or \nlocations at which the Defendant(s) conduct rental activities. \nVII. REPORTING AND DOCUMENT RETENTION REQUIREMENTS  \n27.\t   Defendants shall, no later than 15 days after occurrence, provide to the United States \nnotification and documentation of the following events:1  \n                                                 \n1 All documents or other communications required by this Consent Order to be sent to counsel \nfor the United States shall be sent by commercial (non-USPS) overnight delivery service \naddressed as follows: Chief, Housing and Civil Enforcement Section, Civil Rights Division, \n12  \n \n\nCase 2:11-cv-02157-KDE-DEK   Docu m  ent 5    Filed 09/02/11   Page 13 of 27 \n \n \na. \t Any change to the rules or practices regarding the nondiscrimination \n  policy discussed in Paragraph 16-18 or the nondiscriminatory standards \n  and procedures discussed in Paragraphs 24 and 25; \nb. \t Notice of the acquisition of an indirect or direct ownership, financial, or \n  management interest in any additional dwelling(s) for rent; \nc. \t Proof of notification of the nondiscrimination policy described in \n  paragraphs 16-18, including executed copies of the Acknowledgment \n  forms, appearing at Appendix B, and a list of the names and addresses for \n  all tenants to whom the policy was provided;  \nd. \t Any written or oral complaint against any of the Defendants, or any of  \n  Defendants’ agents or employees, regarding discrimination in housing.  If \n  the complaint is written, the Defendant(s) shall provide a copy of it with \n  the notification.  The notification shall include the full details of the \n  complaint, including the complainant’s name, address, and telephone \n  number.  The Defendant(s) shall also promptly provide the United States \n  all information it may request concerning any such complaint and shall \n  inform the United States within 15 days of the substance of any \n  resolution of such complaint; and  \n                                                                                                                                                             \nUnited States Department of Justice, 1800 G Street N.W., Suite 7002, Washington, D.C. 20006, \nAttn: DJ 175-32-213, or as otherwise directed by the United States.  Facsimile transmissions \nshall be sent to (202) 514-1116. \n13 \n \n\nCase 2:11-cv-02157-KDE-DEK   Docu m  ent 5    Filed 09/02/11   Page 14 of 27 \n \n \ne. \t Any advertisements published in local newspapers pursuant to Paragraph  \n18. \n28.\t   Within 90 days of the date of entry of this Consent Order, and every 6 months thereafter \nfor the duration of this Consent Order, Defendants shall deliver to counsel for the United \nStates a report containing information about their compliance efforts during the preceding \nreporting period, including but not limited to: \n    a. \t Executed copies of Appendices C and D; \nb.  No\t tification and documentation of the adoption and implementation of the \n    nondiscrim inatory standards and procedures discussed in Paragraphs 16- \n18; \n    c. \t Photographs of each office in which rental activity is conducted, showing  \n      the fair housing signs and Nondiscrimination Standards and Procedures,  \n    pursuant  to Section III of  this Order; \n    d. \t Copies of rental applications guest cards, availability lists, rental    \n    applications,  and other information recorded by any means related to any  \n    inquiries  regarding the availability of rental dwellings, maintained   \n      pursuant to Section V of this Order;    \n    e. \t A list of all rental properties in which Defendants or their members have  \n      an ownership or management interest, in whole or in part, including the  \n      street address, the number of rental units at each property, and a    \n      description of the interest in the property; and  \n14  \n \n\nCase 2:11-cv-02157-KDE-DEK   Docu m  ent 5    Filed 09/02/11   Page 15 of 27 \n \n \n    f. \t Notification of any purchase, inheritance, or acquisition of dwellings  \n    pursuant  to Section X of this Order. \n  In addition to the reports required above, the Defendants shall submit a final report to \n  the United States no later than 30 days before the expiration of this Order. \n29.\t   During the period in which this Consent Order is in effect, Defendants shall preserve all \nrecords that are the source of, contain, or relate to any of the information pertinent to their \nobligations under this Order, including, but not limited to, all guest cards, availability \nlists, waiting lists, rental applications, leases, rental roll ledgers, and occupancy lists.  \nUpon reasonable notice to counsel for Defendants, representatives of the United States \nshall be permitted to inspect and copy all such records at any and all reasonable times or, \nupon request by the United States, Defendants shall provide copies of such documents.  \nVIII. COMPENSATION OF VICTIMS \n30. \t Within 30 days after the entry of this Consent Order, Defendants shall send to counsel for \n  the Greater New Orleans Fair Housing Action Center, via overnight delivery, a check \n  made payable to the Greater New Orleans Fair Housing Action Center (“GNOFHAC”) in \n  the amount of  $50,000 for the purpose of compensating the Greater New Orleans Fair \n  Housing Action Center. \n31. \t GNOFHAC and the Defendants shall execute mutual agreements releasing one another \n  from all claims that have been brought, or could have been brought, arising from  \n  GNOFHAC’s fair-housing testing of the Defendants and any subsequent statements \n  GNOFHAC or its agents or employees made relating to that testing. \n15  \n \n\nCase 2:11-cv-02157-KDE-DEK   Docu m  ent 5    Filed 09/02/11   Page 16 of 27 \n \n \nIX. CIVIL PENALTY  \n32. \t Within 30 days after the entry of this Consent Order, Defendant Betty Bouchon shall pay \n  a total of $10,000 to the United States as a civil penalty, pursuant to 42. U.S.C.  \n  § 3614(d)(1)(C). This payment shall be delivered to counsel for the United States in the \n  form of a cashier’s check payable to the “United States Treasury.” \n33. \t Within 30 days after the entry of this Consent Order, Defendants Bouchon Limited \n  Family Partnership and the Sapphire Corporation shall pay a combined total of $10,000  \n  to the United States as a civil penalty, pursuant to 42. U.S.C. § 3614(d)(1)(C).  This \n  payment shall be delivered to counsel for the United States in the form of a cashier’s \n  check payable to the “United States Treasury.”  \nX.  ACQUISITION OR TRANSFER OF INTEREST IN DWELLINGS \n34. \t If at any time during the term of this Order Defendants acquires an ownership, \nmanagement, or other financial interest in, either in whole or in part, or are engaged to act \nin any way as an agent for the owner(s) of any other residential dwelling to be offered for \nrent or sale in addition to those listed in Exhibit A, the Defendants shall notify the United \nStates in writing at least 30 days before completion of the transaction, providing the name  \nand address of the property. That property shall be subject to the provisions of this Order \nfor its duration.  In addition, within 15 days following completion of the transaction, \nDefendant shall provide the United States a statement specifying the nature of \nDefendant’s interest in the property and stating whether the property will be offered for \nrent or sale, and a copy of the documents memorializing the transaction. \n16  \n \n\nCase 2:11-cv-02157-KDE-DEK   Docu m  ent 5    Filed 09/02/11   Page 17 of 27 \n \n \n35. \t If at any time during the term of this Order Defendant(s) decides to sell or otherwise \ntransfer the entirety of his interest in any dwelling covered hereunder, he shall take the \nfollowing steps: Upon sale of Defendant(s)’ interest in a dwelling covered under this \nOrder in an arm’s-length transaction and compliance with the provisions of Sections VIII \nand IX of this Order, the new owner of the property shall have no obligations under this \nOrder. For the purposes of this Order, an arm’s-length transaction is defined as a \ntransaction that has been arrived at in the marketplace between independent, non-\naffiliated persons or entities, unrelated by blood or marriage, with opposing economic  \ninterests regarding that transaction.  \n36. \t If any transfer of Defendant’s interest in any dwelling covered by this Order is not an  \narm’s-length transaction, Defendant and the new owner(s) shall remain jointly and \nseverally liable for any violations of this Order for its duration. \nXI. NON-COMPLIANCE WITH CONSENT ORDER  \n37. \t By agreeing to entry of this Consent Order, the United States and Defendant agree that in \nthe event Defendant engages in any future violation(s) of the Fair Housing Act, such \nviolation(s) shall constitute a “subsequent violation” pursuant to 42 U.S.C. § 3614(d)(1) \n(C)(ii). This provision applies to any future violation, whether resolved voluntarily or \nthrough judicial proceedings.  \n38. \t The Court shall retain jurisdiction for the duration of this Consent Order to enforce its \nterms, after which time the case shall be dismissed with prejudice.  The United States \nmay move the Court to extend the duration of the Consent Order in the event of \n17  \n \n\nCase 2:11-cv-02157-KDE-DEK   Docu m  ent 5    Filed 09/02/11   Page 18 of 27 \n \n \nnoncompliance, whether intentional or not, with any of its terms, or if it believes the \ninterests of justice so require.  \n39. \t The parties shall endeavor in good faith to resolve informally any differences regarding \ninterpretation of and compliance with this Consent Order prior to bringing such matters \nto the Court for resolution. However, in the event the United States contends that there \nhas been a failure by Defendant, whether willful or otherwise, to perform in a timely \nmanner any act required by this Consent Order or otherwise to act in conformance with \nany provision thereof, the United States may move this Court to impose any remedy \nauthorized by law or equity, including, but not limited to, an order requiring performance \nof such act or deeming such act to have been performed, and an award of any damages, \ncosts, and reasonable attorneys’ fees which may have been occasioned by the violation or \nfailure to perform.  \nXII. TIME FOR PERFORMANCE \n40. \t This Order shall be in effect for a period of 4 years from the date of its entry, subject to \nthe provisions of Paragraphs 38 and 41, after which time the case shall be dismissed with \nprejudice. \n41. \t Any time limits for performance imposed by this Order may be extended by mutual \nwritten agreement of the parties.  The other provisions of this Order may be modified by \nwritten agreement of the parties or by motion to the Court.  If the modification is by \nwritten agreement of the parties, then such modification will be effective upon filing of \nthe written agreement with the Court, and shall remain in effect for the duration of the \n18  \n \n\nCase 2:11-cv-02157-KDE-DEK  Document 5  Filed 09/02/11  Page 19 of 27 \nOrder or until such time as the Court indicates through written order that it has not \napproved the modification. \nXIII. COSTS OF LITIGATION \n42.   Each party to this litigation will bear its own costs and attorneys’ fees associated with this \nlitigation. \nDated: ________, 2011    ______________________________________________________  \n        United  SSttaatteess  DDiissttrriicctt  JJuuddggee  \n19  \n\nCase 2:11-cv-02157-KDE-DEK   Docu m  ent 5    Filed 09/02/11   Page 20 of 27 \n \n \nFor the United States: \n \nJIM LETTEN       THOMAS  E. PEREZ \nUnited States’ Attorney         Assistant Attorney General \nEastern District of Louisiana     Civil  Rights Division \n       \n         \n               \n              ___s/ Sean R. Keveney______________   \nTOM WATSON       STEVE N  H.  ROSENBAUM \nCivil Chief    Chief  \nSANDRA E.  GUTIERREZ      REBE CCA B. BOND \nAssistant U.S. Attorney      Deputy  Chief \nHale Boggs Federal Building       SEAN R. KEVENEY \n500 Poydras Street, Suite B-210      Trial Attorney \nNew Orleans, Louisiana 70130      Housing and Civil Enforcement Section \n  Phone: (504) 680-3000        Civil Rights Division \nFax: (504) 680-3186          U.S. Department of Justice \n        950  Pennsylvania Ave., N.W. \n        Northwestern  Building, 7th Floor \n        Washington,  D.C. 20530 \n        Phone:   (202) 514-4838 \n        Fax:   (202) 514-1116 \nsean.r.keveney@usdoj.gov \n \n20  \n \n\nCase 2:11-cv-02157-KDE-DEK   Docu m  ent 5    Filed 09/02/11   Page 21 of 27 \n \n \nFor Betty Bouchon: \n \n__s/ Betty Bouchon______ \nBetty Bouchon \n \n \n__s/ Michael G. Gaffney___ \nMichael G. Gaffney \nHurndon & Gaffney, A Law Corporation \n631 St. Charles Avenue \nNew Orleans, Louisiana 70130 \n21  \n \n\nCase 2:11-cv-02157-KDE-DEK   Docu m  ent 5    Filed 09/02/11   Page 22 of 27 \n \n \nFor the Bouchon Limited Family Partnership: \n \n \n__s/ Betty Bouchon______ \nBetty Bouchon \nBouchon Limited Family Partnership \n \n \n \n__s/ Michael G. Gaffney___ \nMichael G. Gaffney \nHurndon & Gaffney, A Law Corporation \n631 St. Charles Avenue \nNew Orleans, Louisiana 70130 \n22  \n \n\nCase 2:11-cv-02157-KDE-DEK   Docu m  ent 5    Filed 09/02/11   Page 23 of 27 \n \n \nFor the Sapphire Corporation: \n \n__s/ Betty Bouchon______ \nBetty Bouchon \nSapphire Corporation \n \n \n \n__s/ Michael G. Gaffney___ \nMichael G. Gaffney \nHurndon & Gaffney, A Law Corporation \n631 St. Charles Avenue \nNew Orleans, Louisiana 70130 \n23  \n \n\nCase 2:11-cv-02157-KDE-DEK   Docu m  ent 5    Filed 09/02/11   Page 24 of 27 \n \n \nAPPENDIX A  \n \n1.  4919 Canal Street, New Orleans, Louisiana \n24  \n \n\nCase 2:11-cv-02157-KDE-DEK   Docu m  ent 5    Filed 09/02/11   Page 25 of 27 \n \n \nAPPENDIX   B   \nNONDISCRIMINATION POLICY   \n \n  It is the policy of the Bouchon Limited Family Partnership and the Sapphire Corporation \nto comply with Title VIII of the Civil Rights Act of 1968, as amended, commonly known as the \nFair Housing Act, by ensuring that apartments are available to all persons without regard to race, \ncolor, religion, national origin, disability, familial status, or sex.  This policy means that, among \nother things, the Bouchon Limited Family Partnership and the Sapphire Corporation and all their \nagents and employees with the responsibility for renting, managing, or administering any \ndwelling units must not discriminate in any aspect of the rental of dwellings against qualified \napplicants or tenants because of race or color.  Such agents and employees may not: \n \n  A. \t Refuse to rent, refuse to negotiate for the rental of, or otherwise make unavailable \nor deny, a dwelling to any person because of race, color, religion, national origin, \ndisability, familial status, or sex; \n \n  B. \t Discriminate against any person in the terms, conditions or privileges of rental of \na dwelling, or in the provision of services or facilities in connection therewith, \nbecause of race, color, religion, national origin, disability, familial status, or sex; \n \n  C. \t Make, print, or publish, or cause to be made, printed, or published any notice, \nstatement, or advertisement, with respect to the rental of a dwelling that indicates \nany preference, limitation, or discrimination based on race, color, religion,  \nnational origin, disability, familial status, or sex; or  \n \n  D. \t Represent to persons because of race,  color, religion, national origin, disability, \nfamilial status, or sex that any dwelling is not available for inspection or rental \nwhen such dwelling is in fact so available.  \n \n  Any agent or employee who fails to comply with this Nondiscrimination Policy will be \nsubject to appropriate disciplinary action.  Any action taken by an agent or employee that results \nin unequal service to, treatment of, or behavior toward tenants or actual or potential applicants on \nthe basis of race, color, religion, national origin, disability, familial status, or sex may constitute \na violation of state and federal fair housing laws.  Any tenant or applicant who believes that any \nof the above policies have been violated by any owner, agent, or employee may contact the U.S. \nDepartment of Housing and Urban Development at 1-888-799-2085, or the U.S. Department of \nJustice at 1-800-896-7743 or 202-514-4713. \n25  \n \n\nCase 2:11-cv-02157-KDE-DEK   Docu m  ent 5    Filed 09/02/11   Page 26 of 27 \n \n \nAPPENDIX C   \n \nACKNOWLEDGMENT OF RECEIPT OF CONSENT ORDER   \n \n  I acknowledge that on  , 20  , I was provided copies of the \nConsent Order entered by the Court in United States v Betty Bouchon, et. al, Civil Action No. \n__________  (E.D. La.), and the Nondiscrimination Policy adopted by the Defendants pursuant \nthereto. I have read and understand these documents and have had my questions about these \ndocuments answered.  I understand my legal responsibilities and shall comply with those \nresponsibilities. \n \n \n          _________________________________                                                      \n          Signature   \n \n          _________________________________                                                      \n          Print Name  \n \n                                                                                                    \n  _________________________________     \n      Job  Title/Position  \n \n          _________________________________                                                  \n          Date   \n \n \n \n26  \n \n\nCase 2:11-cv-02157-KDE-DEK   Docu m  ent 5    Filed 09/02/11   Page 27 of 27 \n \n \nAPPENDIX D  \n \nEMPLOYEE TRAINING ACKNOWLEDGMENT  \n \n  I acknowledge that on  , 20  , I received ________ \nminutes of in-person training on the requirements of the Fair Housing Act. \n \n          _________________________________                                                      \n          Signature     \n \n          _________________________________                                                      \n          Print Name    \n \n                                                                                                    \n  _________________________________     \n      Job  Title/Position  \n \n          _________________________________                                                  \n          Date   \n \n \n27  \n ",
+      "document_type_other": null,
+      "external_url": null,
+      "ecf_number": "5",
+      "clearinghouse_link": "clearinghouse.net/doc/40778"
+    },
+    {
+      "date": "2011-09-07",
+      "date_is_estimate": false,
+      "date_not_available": false,
+      "description": null,
+      "document_source": "PACER [Public Access to Court Electronic Records]",
+      "document_status": "Approved",
+      "document_type": "Docket",
+      "order_type": null,
+      "citation_paren": null,
+      "cite_1_page": null,
+      "cite_1_reporter": null,
+      "cite_1_vol": null,
+      "cite_2_page": null,
+      "cite_2_reporter": null,
+      "cite_2_vol": null,
+      "cite_3_page": null,
+      "cite_3_reporter": null,
+      "cite_3_vol": null,
+      "citation_status": "Not applicable",
+      "court": "Eastern District of Louisiana",
+      "no_title": false,
+      "party_types": [
+        "Court"
+      ],
+      "per_curium": false,
+      "is_core_document": true,
+      "id": 40780,
+      "file": "https://clearinghouse-umich-production.s3.amazonaws.com/media/doc/40780.pdf",
+      "title": "Docket",
+      "text": "Case: 2:11-cv-2157     As of: 01/01/2012 09:04 PM CST      1 of 2 \nCLOSED, STAYED\nU. S. District Court\nEastern District of Louisiana (New Orleans)\nCIVIL DOCKET FOR CASE #: 2:11−cv−02157−KDE−DEK\nUnited States of America v. Bouchon et al Date Filed: 08/29/2011\nAssigned to: Judge Kurt D. Engelhardt Date Terminated: 09/07/2011\nReferred to: Magistrate Judge Daniel E. Knowles, III Jury Demand: None\nCause: 42:3601 Fair Housing Act Nature of Suit: 443 Civil Rights:\nAccommodations\nJurisdiction: U.S. Government Plaintiff\nPlaintiff\nUnited States of America represented by Sean R. Keveney\nU. S. Department of Justice (Civil Rights\nDivision)\nHousing and Civil Enforcement Section\n950 Pennsylvania Ave., NW\nWashington, DC 20530\n202−514−4838\nFax: 202−514−1116\nEmail: sean.r.keveney@usdoj.gov\nLEAD ATTORNEY\nATTORNEY TO BE NOTICED\nSandra Ema Gutierrez\nU. S. Attorney's Office (New Orleans)\n650 Poydras St.\nSuite 1600\nNew Orleans, LA 70130\n504−680−3000\nEmail: Sandra.Gutierrez@usdoj.gov\nATTORNEY TO BE NOTICED\nSteven H. Rosenbaum\nU. S. Department of Justice\nP. O. Box 66128\nWashington, DC 20035−6128\n202−305−1238\nATTORNEY TO BE NOTICED\nThomas E. Perez\nU. S. Department of Justice\nCriminal, Civil Rights Division\n10th &Penn. Ave., N. W.\nP. O. Box 66018\nWashington, DC 20035−6018\n(202) 514−4138\nATTORNEY TO BE NOTICED\nV.\nDefendant\nBetty Bouchon\nDefendant\nBouchon Limited Family Partnership\nDefendant\nSapphire Corporation\n\nCase: 2:11-cv-2157     As of: 01/01/2012 09:04 PM CST      2 of 2 \nDate Filed # Docket Text\n08/29/2011 1  COMPLAINT against Betty Bouchon, Bouchon Limited Family Partnership,\nSapphire Corporation (Filed on behalf of USA − Filing Fee not required) filed by\nUnited States of America. (Attachments: # 1 Civil Cover Sheet)(Gutierrez, Sandra)\nModified on 8/31/2011 to edit text (cab). (Entered: 08/29/2011)\n08/29/2011 2  ***DEFICIENT*** SETTLEMENT AGREEMENT by United States (Keveney,\nSean) Modified on 8/31/2011 (cab). (Entered: 08/29/2011)\n08/30/2011 3  Initial Case Assignment to Judge Kurt D. Engelhardt and Magistrate Judge Daniel\nE. Knowles, III. (cl, ) (Entered: 08/30/2011)\n08/31/2011 4  EXPARTE/CONSENT MOTION to Approve Consent Judgment by United States\nof America. (Attachments: # 1 Proposed Order)(Keveney, Sean) (Entered:\n08/31/2011)\n09/02/2011 5  ORDER granting 4 Motion to Approve Consent Judgment as stated within\ndocument. Signed by Judge Kurt D. Engelhardt on 9/2/2011. (cab) (Entered:\n09/02/2011)\n09/07/2011 6  ORDER − IT IS ORDERED that the Clerk of Court mark this action CLOSED for\nstatistical purposes, and IT IS FURTHER ORDERED that the Court shall retain\njurisdiction and that the case shall be restored to the trial docket upon motion of a\nparty if circumstances change. This order shall not prejudice the rights of the\nparties to this litigation as stated within document. Signed by Judge Kurt D.\nEngelhardt on 9/7/2011.(cab) (Entered: 09/07/2011)",
+      "document_type_other": null,
+      "external_url": null,
+      "ecf_number": null,
+      "clearinghouse_link": "clearinghouse.net/doc/40780"
+    },
+    {
+      "date": "2011-08-29",
+      "date_is_estimate": false,
+      "date_not_available": false,
+      "description": null,
+      "document_source": "U.S. Department of Justice, Civil Rights Division, Housing and Civil Enforcement",
+      "document_status": "Coding Complete",
+      "document_type": "Press Release",
+      "order_type": null,
+      "citation_paren": null,
+      "cite_1_page": null,
+      "cite_1_reporter": null,
+      "cite_1_vol": null,
+      "cite_2_page": null,
+      "cite_2_reporter": null,
+      "cite_2_vol": null,
+      "cite_3_page": null,
+      "cite_3_reporter": null,
+      "cite_3_vol": null,
+      "citation_status": "Not applicable",
+      "court": "No Court",
+      "no_title": false,
+      "party_types": [
+        "Plaintiff"
+      ],
+      "per_curium": false,
+      "is_core_document": true,
+      "id": 43836,
+      "file": "https://clearinghouse-umich-production.s3.amazonaws.com/media/doc/43836.pdf",
+      "title": "Justice Department Obtains $70,000 Settlement in Housing Discrimination Lawsuit Against New Orleans Landlords",
+      "text": "9/4/12  US Justice: Print Friendly Version \nHOJJ  »  rie:fing Roo1  »  Justice News \nJUSTICE NEWS \nDepartment of Justice \nOffice of Public Affairs \nFOR IMMEDIATE RELEASE  Monday, August 29, 2011 \nJustice Department Obtains $7o,ooo Settlement in Housing \nDiscrimination Lawsuit Against New Orleans Landlords \nWASHINGTON -The Justice Department announced today that New Orleans landlords Betty Bouch on, the \nBouchon Limited Family Partnership and Sapphire Corp., have agreed to pay $70,000 in damages and civil penalties \nto settle a lawsuit alleging they unlawfully denied housing to African-American prospective renters at a 16-unit \napartment building located in New Orleans. The settlement must still be approved by the U.S. District Court for the \nEastern District of Louisiana. \n\"In these challenging economic times, it is more important than ever that all Americans be able to rent or buy \nhousing they can afford, and not face discrimination because of the color of their skin,\" said Thomas E. Perez, \nAssistant Attorney General for Civil Rights. ''This settlement demonstrates the Department's commitment to \nensuring equal housing opportunity for persons in the city of New Orleans and throughout the United States.\" \n\"The right of all of our citizens to enjoy fair and equal access to housing opportunities is guaranteed by our laws,\" \nsaid U.S. Attorney for the Eastern District of Louisiana Jim Letten. \"The U.S. Department of Justice is committed to \nfiercely protecting those rights in order to insure the quality oflife all Americans deserve.  I am once again grateful to \nAssistant Attorney General Tom Perez and the Civil Rights Division for their partnership in this and other critical \nendeavors in defending these precious civil rights.\" \nThe settlement would resolve a lawsuit filed today by the department alleging that the defendants discriminated \nagainst African-Americans seeking housing at the apartment building in violation oft he federal Fair Housing Act \nThe allegations are based on fair-housing testing conducted by the Greater New Orleans Fair Housing Action Center \n(GNOFHAC). The lawsuit alleges that the building manager, Betty Bouch on, failed to return phone calls from \nAfrican-American testers while returning phone calls from white testers, made statements to white testers indicating \nthat she would not rent to African-Americans, and falsely told an African-American tester than an apartment was \nnot available for rent when in fact it was available. \nUnder the terms of the settlement, the defendants will pay $so,ooo to GNOFHAC and a total of $2o,ooo in civil \npenalties to the United States. The settlement also requires the defendants to adopt non-discriminatorypolicies and \nprocedures, keep detailed records of inquiries from prospective tenants and of rental transactions, and submit \nperiodic reports over the four year tenn of the settlement GNOFHAC filed a separate lawsuit, which is pending in the \nU.S. District Court for the Eastern District of Louisiana. \nFighting illegal housing discrimination is a top priority of the Justice Department The federal Fair Housing Act \nprohibits discrimination in housing based on race, color, religion, national origin, sex, disability and familial status. \nMore information about the Civil Rights Division and the laws it enforces is available at \nIndividuals who believe that they may have been victims ofh  ousing discrimination should call the Housing \nDiscrimination Tip Line at 1-800-896-7743, mailbox number 9998 or e-mail the Justice Department at \n. Individuals who believe they may have been victims of housing discrimination may also \ncontact HUD at 1-Boo-669-9777.  Further information about the Fair Housing Act is available at \nor at \n11-1109  Civil Rights Division \nwww.justice.gov/printf/Print0ut2.jsp  l/1 ",
+      "document_type_other": null,
+      "external_url": "http://www.justice.gov/opa/pr/2011/August/11-crt-1109.html",
+      "ecf_number": null,
+      "clearinghouse_link": "clearinghouse.net/doc/43836"
+    }
+  ],
+  "document_count": 5
+}

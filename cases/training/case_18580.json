@@ -1,0 +1,589 @@
+{
+  "case_id": 18580,
+  "fetched_at": "2025-10-22T00:36:05.613622",
+  "case_data": {
+    "attorney_orgs": [
+      "NDRN/Protection & Advocacy Organizations"
+    ],
+    "available_documents": [
+      "Trial Court Docket",
+      "Complaint (any)"
+    ],
+    "case_defendants": [
+      {
+        "defendant_level": null,
+        "institution": "Outagamie County Department of Health and Human Services",
+        "institution_alt_state": null,
+        "institution_city": "",
+        "institution_county": null,
+        "name": "Outagamie County Department of Health and Human Services",
+        "defendant_level_other": "",
+        "is_active": true
+      }
+    ],
+    "case_ongoing": "No",
+    "case_status": "Approved",
+    "case_types": [
+      "Disability Rights"
+    ],
+    "cause_other": "",
+    "causes": [
+      "Developmental Disabilities Assistance and Bill of Rights Act, 42 U.S.C. § 15001 et seq.",
+      "Protection and Advocacy for Individuals with Mental Illness (PAIMI) Act, 42 U.S.C. § 10801",
+      "Protection and Advocacy of Individual Rights (PAIR), 29 U.S.C. § 794e"
+    ],
+    "class_action_granted": "Not sought",
+    "class_action_sought": "No",
+    "closing_year": 2017,
+    "constitutional_clause": [],
+    "content_of_injunction": [],
+    "court": "Eastern District of Wisconsin",
+    "custom_issues": [],
+    "defendant_payment": "",
+    "defendant_type": [
+      {
+        "value": "Hospital/Health Department"
+      }
+    ],
+    "docket_status": "Complete as of retrieval date",
+    "facility_type": [],
+    "filing_date": "2017-02-08",
+    "filing_year": 2017,
+    "id": 18580,
+    "injunction_duration": "",
+    "issues": [
+      "Disability and Disability Rights: Mental impairment",
+      "Disability and Disability Rights: P&A access authority",
+      "Disability and Disability Rights: P&A Associational Standing"
+    ],
+    "last_checked_date": "2017-09-21T00:00:00-04:00",
+    "main_docket": {
+      "id": 26891,
+      "docket_entries": [
+        {
+          "row_number": 21,
+          "id": 10150993,
+          "entry_number": null,
+          "date_filed": "2017-09-21T00:00:00-04:00",
+          "attachments": [],
+          "url": "https://www.courtlistener.com",
+          "recap_pdf_url": null,
+          "pacer_doc_id": null,
+          "description": "Notice of Electronic Filing Error"
+        },
+        {
+          "row_number": 0,
+          "id": 8556887,
+          "entry_number": "1",
+          "date_filed": "2017-02-08T00:00:00-05:00",
+          "attachments": [
+            {
+              "recap_id": 130348650,
+              "pacer_url": "https://ecf.wied.uscourts.gov/doc1/20303317688?caseid=76182",
+              "description": "Exhibit DRW letter to Blom August 17, 2016",
+              "attachment_number": 1
+            },
+            {
+              "recap_id": 130348651,
+              "pacer_url": "https://ecf.wied.uscourts.gov/doc1/20303317689?caseid=76182",
+              "description": "Exhibit DCF letter to DRW August 29, 2016",
+              "attachment_number": 2
+            },
+            {
+              "recap_id": 130348652,
+              "pacer_url": "https://ecf.wied.uscourts.gov/doc1/20303317690?caseid=76182",
+              "description": "Exhibit DRW letter to Blom October 14, 2016",
+              "attachment_number": 3
+            },
+            {
+              "recap_id": 130348653,
+              "pacer_url": "https://ecf.wied.uscourts.gov/doc1/20303317691?caseid=76182",
+              "description": "Exhibit DRW letter to Blom November 8, 2016",
+              "attachment_number": 4
+            },
+            {
+              "recap_id": 130348654,
+              "pacer_url": "https://ecf.wied.uscourts.gov/doc1/20303317692?caseid=76182",
+              "description": "Exhibit DRW letter to Guidote November 14, 2016",
+              "attachment_number": 5
+            },
+            {
+              "recap_id": 130348655,
+              "pacer_url": "https://ecf.wied.uscourts.gov/doc1/20303317693?caseid=76182",
+              "description": "Exhibit DRW letter to Guidote November 30, 2016",
+              "attachment_number": 6
+            },
+            {
+              "recap_id": 130348656,
+              "pacer_url": "https://ecf.wied.uscourts.gov/doc1/20303317694?caseid=76182",
+              "description": "Exhibit DRW letter to Guidote December 19, 2016",
+              "attachment_number": 7
+            },
+            {
+              "recap_id": 130348657,
+              "pacer_url": "https://ecf.wied.uscourts.gov/doc1/20303317695?caseid=76182",
+              "description": "Exhibit Guidote letter to DRW December 21, 2016",
+              "attachment_number": 8
+            },
+            {
+              "recap_id": 130348658,
+              "pacer_url": "https://ecf.wied.uscourts.gov/doc1/20303317696?caseid=76182",
+              "description": "Exhibit Guidote Letter to DRW January 6, 2017",
+              "attachment_number": 9
+            },
+            {
+              "recap_id": 130348659,
+              "pacer_url": "https://ecf.wied.uscourts.gov/doc1/20303317697?caseid=76182",
+              "description": "Exhibit DRW letter to Guidote January 12, 2017",
+              "attachment_number": 10
+            },
+            {
+              "recap_id": 130348660,
+              "pacer_url": "https://ecf.wied.uscourts.gov/doc1/20303317698?caseid=76182",
+              "description": "Exhibit DRW letter to Guidote February 6, 2017",
+              "attachment_number": 11
+            },
+            {
+              "recap_id": 130348661,
+              "pacer_url": "https://ecf.wied.uscourts.gov/doc1/20303317699?caseid=76182",
+              "description": "Exhibit DRW letter to Guidote February 6, 2017",
+              "attachment_number": 12
+            },
+            {
+              "recap_id": 130348662,
+              "pacer_url": "https://ecf.wied.uscourts.gov/doc1/20303317783?caseid=76182",
+              "description": "Civil Cover Sheet",
+              "attachment_number": 13
+            }
+          ],
+          "url": "https://www.courtlistener.com/docket/13401722/1/disability-rights-wisconsin-inc-v-blom/",
+          "recap_pdf_url": "https://www.courtlistener.com/recap/gov.uscourts.wied.76182/gov.uscourts.wied.76182.1.0_1.pdf",
+          "pacer_doc_id": "20303317687",
+          "description": "COMPLAINT against All Defendants by Disability Rights Wisconsin Inc. ( Filing Fee PAID $400 receipt number 0757-2514936) (Attachments: # 1 Exhibit DRW letter to Blom August 17, 2016, # 2 Exhibit DCF letter to DRW August 29, 2016, # 3 Exhibit DRW letter to Blom October 14, 2016, # 4 Exhibit DRW letter to Blom November 8, 2016, # 5 Exhibit DRW letter to Guidote November 14, 2016, # 6 Exhibit DRW letter to Guidote November 30, 2016, # 7 Exhibit DRW letter to Guidote December 19, 2016, # 8 Exhibit Guidote letter to DRW December 21, 2016, # 9 Exhibit Guidote Letter to DRW January 6, 2017, # 10 Exhibit DRW letter to Guidote January 12, 2017, # 11 Exhibit DRW letter to Guidote February 6, 2017, # 12 Exhibit DRW letter to Guidote February 6, 2017)(Hagopian, Mitchell) (Additional attachment(s) added on 2/8/2017: # 13 Civil Cover Sheet) (lls). Modified filer on 2/8/2017 (lh)."
+        },
+        {
+          "row_number": 19,
+          "id": 8556889,
+          "entry_number": null,
+          "date_filed": "2017-02-08T00:00:00-05:00",
+          "attachments": [],
+          "url": "https://www.courtlistener.com",
+          "recap_pdf_url": null,
+          "pacer_doc_id": null,
+          "description": "NOTICE Regarding assignment of this matter to Chief Judge William C Griesbach; Consent/refusal forms for Magistrate Judge Jones to be filed within 21 days; the consent/refusal form is available on our website; pursuant to Civil Local Rule 7.1 a disclosure statement is to be filed upon the first filing of any paper and should be filed now if not already filed. (lls)"
+        },
+        {
+          "row_number": 10,
+          "id": 8556890,
+          "entry_number": "2",
+          "date_filed": "2017-02-08T00:00:00-05:00",
+          "attachments": [],
+          "url": "https://www.courtlistener.com/docket/13401722/2/disability-rights-wisconsin-inc-v-blom/",
+          "recap_pdf_url": null,
+          "pacer_doc_id": "20303318081",
+          "description": "DISCLOSURE Statement by Disability Rights Wisconsin Inc. (Hagopian, Mitchell)"
+        },
+        {
+          "row_number": 11,
+          "id": 8556891,
+          "entry_number": "3",
+          "date_filed": "2017-02-08T00:00:00-05:00",
+          "attachments": [],
+          "url": "https://www.courtlistener.com/docket/13401722/3/disability-rights-wisconsin-inc-v-blom/",
+          "recap_pdf_url": null,
+          "pacer_doc_id": "20303318084",
+          "description": "Refusal to Jurisdiction by US Magistrate Judge by Disability Rights Wisconsin Inc. (Hagopian, Mitchell)"
+        },
+        {
+          "row_number": 13,
+          "id": 8556893,
+          "entry_number": "5",
+          "date_filed": "2017-02-19T00:00:00-05:00",
+          "attachments": [],
+          "url": "https://www.courtlistener.com/docket/13401722/5/disability-rights-wisconsin-inc-v-blom/",
+          "recap_pdf_url": null,
+          "pacer_doc_id": "20303325880",
+          "description": "WAIVER OF SERVICE Returned Executed by Rosemary Davis - Waiver sent on 2/10/2017. (Hagopian, Mitchell)"
+        },
+        {
+          "row_number": 14,
+          "id": 8556894,
+          "entry_number": "6",
+          "date_filed": "2017-02-19T00:00:00-05:00",
+          "attachments": [],
+          "url": "https://www.courtlistener.com/docket/13401722/6/disability-rights-wisconsin-inc-v-blom/",
+          "recap_pdf_url": null,
+          "pacer_doc_id": "20303325883",
+          "description": "WAIVER OF SERVICE Returned Executed by Thomas Nelson - Waiver sent on 2/10/2017. (Hagopian, Mitchell)"
+        },
+        {
+          "row_number": 15,
+          "id": 8556895,
+          "entry_number": "7",
+          "date_filed": "2017-02-19T00:00:00-05:00",
+          "attachments": [],
+          "url": "https://www.courtlistener.com/docket/13401722/7/disability-rights-wisconsin-inc-v-blom/",
+          "recap_pdf_url": null,
+          "pacer_doc_id": "20303325886",
+          "description": "WAIVER OF SERVICE Returned Executed by Outagamie County - Waiver sent on 2/10/2017. (Hagopian, Mitchell)"
+        },
+        {
+          "row_number": 16,
+          "id": 8556896,
+          "entry_number": "8",
+          "date_filed": "2017-04-10T00:00:00-04:00",
+          "attachments": [],
+          "url": "https://www.courtlistener.com/docket/13401722/8/disability-rights-wisconsin-inc-v-blom/",
+          "recap_pdf_url": null,
+          "pacer_doc_id": "20303365893",
+          "description": "NOTICE of Appearance by Remzy D Bitar on behalf of All Defendants. Attorney(s) appearing: Remzy D. Bitar (Bitar, Remzy)"
+        },
+        {
+          "row_number": 17,
+          "id": 8556897,
+          "entry_number": "9",
+          "date_filed": "2017-04-10T00:00:00-04:00",
+          "attachments": [],
+          "url": "https://www.courtlistener.com/docket/13401722/9/disability-rights-wisconsin-inc-v-blom/",
+          "recap_pdf_url": null,
+          "pacer_doc_id": "20303365899",
+          "description": "ANSWER to 1 Complaint with Jury Demand by All Defendants.(Schmid, Samantha)"
+        },
+        {
+          "row_number": 2,
+          "id": 8556899,
+          "entry_number": "11",
+          "date_filed": "2017-05-19T00:00:00-04:00",
+          "attachments": [],
+          "url": "https://www.courtlistener.com/docket/13401722/11/disability-rights-wisconsin-inc-v-blom/",
+          "recap_pdf_url": null,
+          "pacer_doc_id": "20303397629",
+          "description": "Joint REPORT of Rule 26(f) Plan by All Defendants. (Alexy, Paul)"
+        },
+        {
+          "row_number": 3,
+          "id": 8556900,
+          "entry_number": "12",
+          "date_filed": "2017-05-19T00:00:00-04:00",
+          "attachments": [],
+          "url": "https://www.courtlistener.com/docket/13401722/12/disability-rights-wisconsin-inc-v-blom/",
+          "recap_pdf_url": null,
+          "pacer_doc_id": "20303397747",
+          "description": "NOTICE of Appearance by Paul E Alexy on behalf of All Defendants. Attorney(s) appearing: Paul E. Alexy (Alexy, Paul)"
+        },
+        {
+          "row_number": 4,
+          "id": 8556901,
+          "entry_number": "13",
+          "date_filed": "2017-05-26T00:00:00-04:00",
+          "attachments": [],
+          "url": "https://www.courtlistener.com/docket/13401722/13/disability-rights-wisconsin-inc-v-blom/",
+          "recap_pdf_url": null,
+          "pacer_doc_id": "20303405084",
+          "description": "Minute Entry for proceedings held before Chief Judge William C Griesbach: Rule 16 Telephone Scheduling Conference held on 5/26/2017. Plaintiff's Rule 26(a) Disclosures to be exchanged by 6/15/2017, Defendants Rule 26(a) Disclosures to be exchanged by 6/30/2017, Amended Pleadings due by 7/21/2017, Discovery due by 9/1/2017, Plaintiff's Expert Witness List due by 7/31/2017, Defendants Expert Witness List due by 9/29/2017, Motions due by 10/13/2017. (Tape #052617) (mac) (Entered: 05/30/2017)"
+        },
+        {
+          "row_number": 5,
+          "id": 8556902,
+          "entry_number": "14",
+          "date_filed": "2017-05-30T00:00:00-04:00",
+          "attachments": [],
+          "url": "https://www.courtlistener.com/docket/13401722/14/disability-rights-wisconsin-inc-v-blom/",
+          "recap_pdf_url": null,
+          "pacer_doc_id": "20303405087",
+          "description": "SCHEDULING ORDER signed by Chief Judge William C Griesbach on 5/30/2017. (cc: all counsel)(Griesbach, William)"
+        },
+        {
+          "row_number": 7,
+          "id": 8556904,
+          "entry_number": "16",
+          "date_filed": "2017-09-20T00:00:00-04:00",
+          "attachments": [],
+          "url": "https://www.courtlistener.com/docket/13401722/16/disability-rights-wisconsin-inc-v-blom/",
+          "recap_pdf_url": "https://www.courtlistener.com/recap/gov.uscourts.wied.76182/gov.uscourts.wied.76182.16.0.pdf",
+          "pacer_doc_id": "20303494357",
+          "description": "STIPULATION of Dismissal by Disability Rights Wisconsin Inc. (Hagopian, Mitchell)"
+        },
+        {
+          "row_number": 8,
+          "id": 8556905,
+          "entry_number": "17",
+          "date_filed": "2017-09-20T00:00:00-04:00",
+          "attachments": [],
+          "url": "https://www.courtlistener.com/docket/13401722/17/disability-rights-wisconsin-inc-v-blom/",
+          "recap_pdf_url": null,
+          "pacer_doc_id": "20303494360",
+          "description": "PROPOSED Proposed dismissal order filed by Disability Rights Wisconsin Inc. (Hagopian, Mitchell)"
+        },
+        {
+          "row_number": 20,
+          "id": 10150992,
+          "entry_number": null,
+          "date_filed": "2017-09-21T00:00:00-04:00",
+          "attachments": [],
+          "url": "https://www.courtlistener.com",
+          "recap_pdf_url": null,
+          "pacer_doc_id": null,
+          "description": "NOTICE of Electronic Filing Error re 17 Proposed Document filed by Disability Rights Wisconsin Inc; Proposed Orders should be e-filed as an attachment to the stipulation or motion and NOT e-filed as a separate document. Please ensure that the proposed order has been emailed to the proposed email box for the assigned judge in Word or WordPerfect format. This document does not need to be re-filed; Please refer to the policies and procedures for electronic case filing and the user manual found at www.wied.uscourts.gov (mac)"
+        },
+        {
+          "row_number": 18,
+          "id": 8556888,
+          "entry_number": null,
+          "date_filed": "2017-02-08T00:00:00-05:00",
+          "attachments": [],
+          "url": "https://www.courtlistener.com",
+          "recap_pdf_url": null,
+          "pacer_doc_id": null,
+          "description": "Notice of Judge Assignment"
+        },
+        {
+          "row_number": 12,
+          "id": 8556892,
+          "entry_number": "4",
+          "date_filed": "2017-02-19T00:00:00-05:00",
+          "attachments": [],
+          "url": "https://www.courtlistener.com/docket/13401722/4/disability-rights-wisconsin-inc-v-blom/",
+          "recap_pdf_url": null,
+          "pacer_doc_id": "20303325877",
+          "description": "WAIVER OF SERVICE Returned Executed by Melissa Blom - Waiver sent on 2/10/2017. (Hagopian, Mitchell)"
+        },
+        {
+          "row_number": 1,
+          "id": 8556898,
+          "entry_number": "10",
+          "date_filed": "2017-05-10T00:00:00-04:00",
+          "attachments": [],
+          "url": "https://www.courtlistener.com/docket/13401722/10/disability-rights-wisconsin-inc-v-blom/",
+          "recap_pdf_url": null,
+          "pacer_doc_id": "20303389757",
+          "description": "NOTICE of Hearing: Rule 16 Telephone Scheduling Conference set for 5/26/2017 at 09:20 AM before Chief Judge William C Griesbach. The court will initiate the call. Counsel are to provide the telephone number at which they can be reached (direct dial preferred) at least two days prior to the telephone conference. In the event counsel are unavailable at the scheduled time of the telephone conference, the conference may be rescheduled and counsel may be required to appear in person. Please provide your telephone number to the Office of the Clerk at wied_clerks_gb@wied.uscourts.gov(cc: all counsel)(mac)"
+        },
+        {
+          "row_number": 6,
+          "id": 8556903,
+          "entry_number": "15",
+          "date_filed": "2017-09-20T00:00:00-04:00",
+          "attachments": [],
+          "url": "https://www.courtlistener.com/docket/13401722/15/disability-rights-wisconsin-inc-v-blom/",
+          "recap_pdf_url": "https://www.courtlistener.com/recap/gov.uscourts.wied.76182/gov.uscourts.wied.76182.15.0.pdf",
+          "pacer_doc_id": "20303494352",
+          "description": "LETTER from Disability Rights Wisconsin to Judge Griesbach. (Hagopian, Mitchell)"
+        },
+        {
+          "row_number": 9,
+          "id": 10150994,
+          "entry_number": "18",
+          "date_filed": "2017-09-21T00:00:00-04:00",
+          "attachments": [],
+          "url": "https://www.courtlistener.com/docket/13401722/18/disability-rights-wisconsin-inc-v-blom/",
+          "recap_pdf_url": null,
+          "pacer_doc_id": "20303494715",
+          "description": "ORDER DISMISSING CASE with prejudice and without costs to any party, signed by Chief Judge William C Griesbach on 9/21/2017. (cc: all counsel)(Griesbach, William)"
+        }
+      ],
+      "docket_case_type": "cv",
+      "docket_year": 2017,
+      "docket_filing_number": 183,
+      "is_main_docket": true,
+      "court": "Eastern District of Wisconsin",
+      "state": "Wisconsin",
+      "docket_office_number": "1",
+      "docket_number_manual": "1:17-cv-00183",
+      "scales_html": "https://clearinghouse-umich-production.s3.amazonaws.com/media/docket-html/wied--1-17-cv-00183.html",
+      "recap_link": "https://www.courtlistener.com/docket/13401722/disability-rights-wisconsin-inc-v-blom/",
+      "is_active": true
+    },
+    "name": "Disability Rights Wisconsin, Inc. v. Blom",
+    "never_filed": false,
+    "non_docket_case_number": "",
+    "non_docket_case_number_type": null,
+    "non_docket_case_number_type_other": "",
+    "order_end_year": null,
+    "order_start_year": null,
+    "permanent_injunction": false,
+    "plaintiff_description": "Protection and advocacy organization",
+    "plaintiff_type": [
+      {
+        "value": "Non-profit NON-religious organization"
+      }
+    ],
+    "prevailing_party": "Plaintiff",
+    "pro_se_status": "No",
+    "public_interest_lawyer": "Yes",
+    "related_cases": [],
+    "relief_natures": [
+      "Injunction / Injunctive-like Settlement"
+    ],
+    "relief_nature_other": "",
+    "relief_sources": [
+      "Settlement"
+    ],
+    "settlement_agreement": [
+      "Private Settlement Agreement",
+      "Voluntary Dismissal"
+    ],
+    "settlement_judgment_date": "2017-09-20",
+    "settlement_judgment_year": 2017,
+    "special_collections": [],
+    "special_case_type": [],
+    "state": "Wisconsin",
+    "summary": "<p>This is a case about a protection and advocacy (P&amp;A) agency&rsquo;s records access authority. On February 8, 2017, Disability Rights Wisconsin filed this lawsuit in the U.S. District Court for the Eastern District of Wisconsin. Disability Rights Wisconsin filed this lawsuit against Melissa Blom and Rosemary Davis in their personal and official capacities as Outagamie County (County) Department of Health and Human Services employees, and Thomas Nelson in his personal and official capacity as Outagamie County Executive. Disability Rights Wisconsin alleged that the County violated the Protection and Advocacy for Individuals with Mental Illness Act, Developmental Disabilities Assistance and Bill of Rights Act, and Protection and Advocacy for Individual Rights Act (P&amp;A Acts) when they denied them access to death investigation records of a child in the county. Judge William C. Griesbach presided over this matter.&nbsp;</p>\r\n<p>This lawsuit began after Disability Rights Wisconsin learned from media reports in August 2016 that a fourteen-year-old with spinal muscular atrophy planned on ending her life by entering hospice care. Disability Rights Wisconsin contacted multiple county agencies, including Outagamie County, requesting they investigate the situation, but received no response from Outagamie County directly. In September 2022, Disability Rights Wisconsin learned that the child died in a hospice facility. Disability Rights Wisconsin then received a complaint of alleged neglect in her death from her biological father, and subsequently requested death investigation records from the County in October 2016. After ignoring multiple requests, the County denied Disability Rights Wisconsin&rsquo;s requests citing state confidentiality laws. Disability Rights Wisconsin then filed this lawsuit.</p>\r\n<p>On September 20, 2017, the parties reached a private settlement agreement not entered into the court record. The court dismissed the case on September 21, 2017.&nbsp;</p>",
+    "summary_published_date": "2024-08-26T10:03:52.513096-04:00",
+    "summary_short": "This is a case about a protection and advocacy (P&A) agency’s records access authority. On February 8, 2017, Disability Rights Wisconsin filed this lawsuit in the U.S. District Court for the Eastern District of Wisconsin. Disability Rights Wisconsin filed this lawsuit against Melissa Blom and Rosemary Davis in their personal and official capacities as Outagamie County (County) Department of Health and Human Services employees, and Thomas Nelson in his personal and official capacity as Outagamie County Executive. Disability Rights Wisconsin alleged that the County violated the Protection and Advocacy for Individuals with Mental Illness Act, Developmental Disabilities Assistance and Bill of Rights Act, and Protection and Advocacy for Individual Rights Act (P&A Acts) when they denied them access to death investigation records of a child in the county. Judge William C. Griesbach presided over this matter. On September 20, 2017, the parties reached a private settlement agreement not entered into the court record. The court dismissed the case on September 21, 2017.",
+    "summary_tiny": null,
+    "terminating_date": "2017-09-21",
+    "clearinghouse_link": "clearinghouse.net/case/18580",
+    "is_active": true,
+    "case_documents_url": "https://clearinghouse.net/api/v2/documents/?case=18580",
+    "case_dockets_url": "https://clearinghouse.net/api/v2/dockets/?case=18580",
+    "case_resources_url": "https://clearinghouse.net/api/v2/resources/?case=18580"
+  },
+  "documents": [
+    {
+      "date": "2017-09-20",
+      "date_is_estimate": false,
+      "date_not_available": false,
+      "description": "",
+      "document_source": "PACER [Public Access to Court Electronic Records]",
+      "document_status": "Coding Complete",
+      "document_type": "Pleading / Motion / Brief",
+      "order_type": null,
+      "citation_paren": null,
+      "cite_1_page": null,
+      "cite_1_reporter": null,
+      "cite_1_vol": null,
+      "cite_2_page": null,
+      "cite_2_reporter": null,
+      "cite_2_vol": null,
+      "cite_3_page": null,
+      "cite_3_reporter": null,
+      "cite_3_vol": null,
+      "citation_status": "Not applicable",
+      "court": "Eastern District of Wisconsin",
+      "no_title": false,
+      "party_types": [
+        "Defendant",
+        "Plaintiff"
+      ],
+      "per_curium": false,
+      "is_core_document": true,
+      "id": 147062,
+      "file": "https://clearinghouse-umich-production.s3.amazonaws.com/media/doc/147062.pdf",
+      "title": "Stipulation for Dismissal of All Claims",
+      "text": "IN THE UNITED STATES DISTRICT COURT \nFOR THE EASTERN DISTRICT OF WISCONSIN \n \nDISABILITY RIGHTS WISCONSIN, INC. \n                                      Plaintiff,        \nCASE NO. 1:17-cv-183-WCG \n               \nv. \n \nMELISSA BLOM, ROSEMARY DAVIS,  \nTHOMAS NELSON, and OUTAGAMIE COUNTY  \n      Defendants. \n \nSTIPULATION FOR DISMISSAL OF ALL CLAIMS  \n \n  The Plaintiff, Disability Rights Wisconsin, Inc., by its attorney Mitchell Hagopian, and \nthe defendants Melissa Blom, Rosemary Davis, Thomas Nelson, and Outagamie County, by their \nattorneys Arenz, Molter, Macy, Riffle & Larson, S.C., hereby stipulate to the dismissal of all \nclaims in the above-captioned matter in their entirety on the merits and with prejudice and \nwithout cost to any party. \nDated this 20th day of September 2017. \nDisability Rights Wisconsin, Inc.    ARENZ, MOLTER, MACY, RIFFLE &   \n            LARSON, S.C. \nAttorneys for Defendants, Melissa Blom, Rosemary \nDavis, Thomas Nelson, and Outagamie County \n \n \nBy:  /s/ Mitchell Hagopian                By:  /s/ Paul E. Alexy       \n  MITCHELL HAGOPIAN      PAUL E. ALEXY \n  State Bar No. 1000181      State Bar No: 1013810 \n  Disability Rights Wisconsin, Inc.    720 N. East Avenue \n  131 W. Wilson St., Suite 700     Waukesha, WI 53186 \n  Madison, WI  53703        O: (262) 548-1340 \n  O: (608) 267-0214        F:  (262) 548-9211 \n  F:  (608) 267-0368        palexy@ammr.net  \n  mitchh@drwi.org         ",
+      "document_type_other": null,
+      "external_url": "https://www.courtlistener.com/docket/13401722/16/disability-rights-wisconsin-inc-v-blom/",
+      "ecf_number": "16",
+      "clearinghouse_link": "clearinghouse.net/doc/147062"
+    },
+    {
+      "date": null,
+      "date_is_estimate": false,
+      "date_not_available": false,
+      "description": null,
+      "document_source": null,
+      "document_status": null,
+      "document_type": null,
+      "order_type": null,
+      "citation_paren": null,
+      "cite_1_page": null,
+      "cite_1_reporter": null,
+      "cite_1_vol": null,
+      "cite_2_page": null,
+      "cite_2_reporter": null,
+      "cite_2_vol": null,
+      "cite_3_page": null,
+      "cite_3_reporter": null,
+      "cite_3_vol": null,
+      "citation_status": null,
+      "court": null,
+      "no_title": false,
+      "party_types": [],
+      "per_curium": false,
+      "is_core_document": true,
+      "id": 113481,
+      "file": null,
+      "title": null,
+      "text": null,
+      "document_type_other": null,
+      "external_url": null,
+      "ecf_number": null,
+      "clearinghouse_link": "clearinghouse.net/doc/113481"
+    },
+    {
+      "date": "2017-02-08",
+      "date_is_estimate": false,
+      "date_not_available": false,
+      "description": "",
+      "document_source": "PACER [Public Access to Court Electronic Records]",
+      "document_status": "Coding Complete",
+      "document_type": "Complaint",
+      "order_type": null,
+      "citation_paren": null,
+      "cite_1_page": null,
+      "cite_1_reporter": null,
+      "cite_1_vol": null,
+      "cite_2_page": null,
+      "cite_2_reporter": null,
+      "cite_2_vol": null,
+      "cite_3_page": null,
+      "cite_3_reporter": null,
+      "cite_3_vol": null,
+      "citation_status": "Not applicable",
+      "court": "Eastern District of Wisconsin",
+      "no_title": false,
+      "party_types": [
+        "Plaintiff"
+      ],
+      "per_curium": false,
+      "is_core_document": true,
+      "id": 147060,
+      "file": "https://clearinghouse-umich-production.s3.amazonaws.com/media/doc/147060.pdf",
+      "title": "Complaint",
+      "text": "IN THE UNITED STATES DISTRICT COURT \nFOR THE EASTERN DISTRICT OF WISCONSIN \n                                                                   \nDISABILITY RIGHTS WISCONSIN, INC. \n \n    Plaintiff, \n \n  v. \n                  Case No.  \nMELISSA  BLOM,  Manager,  Children,  Youth  and \nFamilies Division Outagamie County Department of \nHealth  and  Human  Services,  in  her  official  and \nindividual capacities;  \n \nROSEMARY DAVIS, Director, Outagamie County \nDepartment of Health and Human Services, in her \nofficial and individual capacities; \n \nTHOMAS NELSON, County Executive, Outagamie \nCounty, in his official and individual capacities; \n \nand \n \nOUTAGAMIE COUNTY. \n \n \n    Defendants. \n \n                                                                   \n  COMPLAINT \n                                                                   \n \nI.  INTRODUCTION \n \n1.  Plaintiff  Disability  Rights  Wisconsin,  Inc.  (hereafter  DRW)  brings  this  action \nchallenging the defendants’ refusal to acknowledge its authority under the Protection and Advocacy \nfor individuals with Developmental Disabilities requirement of the  Developmental Disabilities \nAssistance and Bill of Rights Act of 2000, (hereafter PADD Act), 42 U.S.C. § 15001 et seq, and the \nProtection and Advocacy Individual Rights Act (hereafter PAIR Act) 29 U.S.C. § 794e, and to \n1 \n \nCase 1:17-cv-00183-WCG   Filed 02/08/17   Page 1 of 21   Document 1\n\nprovide access to documents relating to an investigation into the death of J. B., as requested pursuant \nto those authorities. \n2.  DRW is the protection and advocacy system (hereafter P & A) for the state of \nWisconsin.  According to the PADD and PAIR Acts, DRW is authorized, as one of its responsibilities \nas the P & A for Wisconsin, to conduct investigations of possible abuse, neglect, injury or death of \nindividuals with developmental and other disabilities.  This investigatory authority is triggered when \nDRW determines there is probable cause to believe that an individual with developmental or other \ndisability may have been subject to abuse, neglect, injury or death.  When conducting investigations \ninto deaths of individuals with developmental or other disability, the PADD and PAIR Acts empower \nDRW to have access to all records of that individual as well as reports prepared by any agencies or \nstaff persons charged with investigating reports of incidents of abuse, neglect, injury or death.  \n3.  In July of 2016 DRW became aware that a 14-year-old girl J. B. with a severe \ndisability was planning to end her own life by declining medical treatment and entering a hospice \nfacility.  In August of 2016 DRW requested that the appropriate county children’s protective services \nagency conduct an investigation into what appeared to be the planned suicide of J. B.  In September \nof 2016, DRW learned that J. B. had died while an inpatient at a hospice facility. In October of 2016 \nDRW received a complaint from J. B.’s biological father that J.  B. had died as a result of neglect.  \n4.  In October of 2016 DRW began an investigation into the death of J. B. by requesting, \namong other information, copies of any child protective services investigation completed by the \nOutagamie County Department of Health and Human Services.  DRW’s requests were ignored by \ndefendant Melissa Blom.  DRW then requested the intervention of the Outagamie County Corporation \nCounsel’s office.  That request was initially ignored as well.  Ultimately, however, Corporation \nCounsel Joseph Guidote denied DRW’s request for copies of the information.  This action follows.    \n2 \n \nCase 1:17-cv-00183-WCG   Filed 02/08/17   Page 2 of 21   Document 1\n\n \n5.  DRW’s ability to complete a thorough, effective and timely investigation of the death \nof J. B. has been substantially impaired and delayed by the defendants’ refusal to produce the \nrequested records.  \n \n6.  Defendants’ refusal to produce the records constitutes a violation of state and federal \nlaw, including as stated below.  \n \nI.  JURISDICTION AND VENUE \n \n7.  This action is authorized by 28 U.S.C. §§ 2201-02, 29 U.S.C § 794e, 42 U.S.C. § \n15043(a)(2)(A)(i) and 42 U.S.C. § 1983.  This Court has jurisdiction over this action pursuant to 28 \nU.S.C. §§ 1331 and 1343(3). \n \n8.  Venue is appropriate in this district pursuant to 28 U.S.C. § 1391(b).  All Defendants, \nupon information and belief, reside in this district, are employed by Outagamie County, a county \nlocated wholly within this district, and J. B. died in a facility located in this district.   \n \nII.  STATUTORY ENTITLEMENT \n \n9.  The  findings  and  purposes  of  the  United  States  Congress,  in  passing  the \nDevelopmental Disabilities Assistance and Bill of Rights Act of 2000, 42 U.S.C. § 15001 et seq, \ninclude, as set forth in 42 U.S.C. § 15001(a)(5), \nindividuals with developmental disabilities are at greater risk than the general population of \nabuse, neglect, financial and sexual exploitation, and the violation of their legal and human \nrights; \n \n3 \n \nCase 1:17-cv-00183-WCG   Filed 02/08/17   Page 3 of 21   Document 1\n\n10.  Congress’s purpose in creating the protection and advocacy system for people with \ndevelopmental  disabilities  was  “to  protect  the  legal  and  human  rights  of  individuals  with \ndevelopmental disabilities.” 42 U.S.C. § 15041(b)(2). \n11.  Congress specified the investigatory authority of the protection and advocacy system \nin 42 U.S.C. § 15043(a): \n(1) the State shall have in effect a system to protect and advocate the rights of individuals with \ndevelopmental disabilities; \n \n(2) such system shall-- \n    … \n(B) have the authority to investigate incidents of abuse and neglect of individuals with \ndevelopmental disabilities if the incidents are reported to the system or if there is probable \ncause to believe that the incidents occurred; \n    … \n(I) have access to all records of-- \n \n(i)  any individual with a developmental disability who is a client of the system if \nsuch individual, or the legal guardian, conservator, or other legal representative \nof such individual, has authorized the system to have such access; \n \n(ii)  any individual with a developmental disability, in a situation in which-- \n \n(I) the individual, by reason of such individual's mental or physical condition, \nis unable to authorize the system to have such access; \n \n(II) the individual does not have a legal guardian, conservator, or other legal \nrepresentative, or the legal guardian of the individual is the State; and \n \n(III) a complaint has been received by the system about the individual with \nregard to the status or treatment of the individual or, as a result of monitoring \nor other activities, there is probable cause to believe that such individual has \nbeen subject to abuse or neglect; and \n \n    (iii) any individual with a developmental disability, in a situation in which-- \n \n(I)  the  individual  has  a  legal  guardian,  conservator,  or  other  legal \nrepresentative; \n \n(II) a complaint has been received by the system about the individual with \nregard to the status or treatment of the individual or, as a result of monitoring \n4 \n \nCase 1:17-cv-00183-WCG   Filed 02/08/17   Page 4 of 21   Document 1\n\nor other activities, there is probable cause to believe that such individual has \nbeen subject to abuse or neglect; \n \n(III) such representative has been contacted by such system, upon receipt of the \nname and address of such representative; \n \n(IV) such system has offered assistance to such representative to resolve the \nsituation; and \n \n(V) such representative has failed or refused to act on behalf of the individual; \n \n12.  Per 42 U.S.C. § 15043(c), records to which the P &A is granted access include: \n(1)  a report prepared or received by any staff at any location at which services, \nsupports, or other assistance is provided to individuals with developmental \ndisabilities; \n \n(2)  a report prepared by an agency or staff person charged with investigating \nreports of incidents of abuse or neglect, injury, or death occurring at such \nlocation, that describes such incidents and the steps taken to investigate such \nincidents; and \n \n(3)  a discharge planning record. \n \n \n13.  Per 29 U.S.C. § 794e(f) the P & A has the same access to records of people with \ndisabilities as it has to the records of people with developmental disabilities: \n(f) Application \nIn order to receive assistance under this section, an eligible system shall submit an application \nto the Commissioner, at such time, in such form and manner, and containing such information \nand assurances as the Commissioner determines necessary to meet the requirements of this \nsection, including assurances that the eligible system will— \n \n(1) have in effect a system to protect and advocate the rights of individuals with \ndisabilities \n \n(2)  have the same general authorities, including the authority to access records and \nprogram income, as are set forth in subtitle C of title I of the Developmental \nDisabilities Assistance and Bill of Rights Act of 2000; \n \n \n5 \n \nCase 1:17-cv-00183-WCG   Filed 02/08/17   Page 5 of 21   Document 1\n\n14.  Federal regulations implementing the PADD Act and applicable to the PAIR Act, \nfurther specify P & A access to records as set forth in 45 C.F.R. § 1326(b)(2): \n2) Reports prepared by a Federal, State or local governmental agency, or a private \norganization charged with investigating incidents of abuse or neglect, injury or death. \nThe organizations whose reports are subject to this requirement include, but are not \nlimited to, agencies in the foster care systems, developmental disabilities systems, \nprison and jail systems, public and private educational systems, emergency shelters, \ncriminal and civil law enforcement agencies such as police departments, agencies \noverseeing juvenile justice facilities, juvenile detention facilities, all pre– and post–\nadjudication juvenile facilities, State and Federal licensing and certification agencies, \nand  private  accreditation  organizations  such  as  the  Joint  Commission  on  the \nAccreditation of Health Care Organizations or by medical care evaluation or peer \nreview committees, regardless of whether they are protected by federal or state law. \nThe reports subject to this requirement describe any or all of the following: \n \n(i)  The incidents of abuse, neglect, injury, and/or death; \n \n(ii)  The steps taken to investigate the incidents; \n \n(iii)  Reports and records, including personnel records, prepared or maintained \nby the service provider in connection with such reports of incidents; or, \n \n(iv)  Supporting information that was relied upon in creating a report including \nall information and records that describe persons who were interviewed, \nphysical and documentary evidence that was reviewed, and the related \ninvestigative findings; \n \n \n15.   Federal regulations implementing the PADD Act further define “Legal guardian, \nConservator and Legal representative” as set forth in 45 C.F.R. § 1326(b)(2): \nLegal  guardian,  Conservator,  and  Legal  representative.  The  terms  “legal  guardian,” \n“conservator,” and “legal representative” all mean a parent of a minor, unless the State has \nappointed another legal guardian under applicable State law, or an individual appointed \nand regularly reviewed by a State court or agency empowered under State law to appoint \nand  review  such  officers,  and  having  authority  to  make  all  decisions  on  behalf  of \nindividuals with developmental disabilities. It does not include persons acting only as a \nrepresentative payee, persons acting only to handle financial payments, executors and \nadministrators of estates, attorneys or other persons acting on behalf of an individual with \ndevelopmental disabilities only in individual legal matters, or officials or their designees \nresponsible for the provision of services, supports, and other assistance to an individual \nwith developmental disabilities. \n \n6 \n \nCase 1:17-cv-00183-WCG   Filed 02/08/17   Page 6 of 21   Document 1\n\n16.  The Wisconsin statute authorizing P & A access to records allows the P & A to access \nrecords without first consulting a parent when “there is otherwise probable cause to believe that the \npatient has been subject to abuse or neglect by a parent or guardian.” Wis. Stat. § 51.30(4)(b)18.e. \nIII.  PARTIES \n17.  Plaintiff DRW (formerly known as the Wisconsin Coalition for Advocacy) is a \nWisconsin non-stock corporation that has been designated by the State of Wisconsin to protect and \nadvocate on behalf of people with disabilities pursuant to federal law. Because the State of \nWisconsin receives federal funds under the Developmental Disabilities Assistance Bill of Rights \nAct, §§ 42 U.S.C .15001 et seq, it is required to “have in effect a system to protect and advocate \nthe rights of individuals with developmental disabilities[.]” 42 U.S.C. § 15043(a).  Under 29 \nU.S.C. § 794e, each state is also required to have in place a system “to protect the legal and human \nrights of individuals with disabilities” who “are ineligible for protection and advocacy programs \n[under PADD] because the individuals do not have a developmental disability.”  DRW was \ndesignated by Gov. Anthony S. Earl’s Executive Order #19 in 1983 to be that system. DRW has a \nmandate and authority to investigate abuse and neglect of people with disabilities in the State of \nWisconsin under these laws. DRW spends considerable time and resources investigating abuse \nand neglect at various institutions providing care and treatment to people with developmental \ndisabilities as well as of incidents of such abuse or neglect that occur in community-based settings.  \n18.  Defendant  Melissa  Blom  is  the  Manager  of  the  Children,  Youth  and \nFamilies Division (hereafter CYFD) of the Outagamie County Department of Health and Human \nServices.  According to “The Guide to the Outagamie County Department of Health and Human \nServices,” available at the Outagamie County website at: \n7 \n \nCase 1:17-cv-00183-WCG   Filed 02/08/17   Page 7 of 21   Document 1\n\n http://www.outagamie.org/modules/showdocument.aspx?documentid=126, the CYFD “Receives \nconcerns regarding the welfare of children and assesses allegations of abuse/neglect of children. \nMakes safety determinations regarding children and offers information and resources to families. \nMakes referrals to Juvenile Court or other services when appropriate.” See “Guide” at p. 26.  Upon \ninformation and belief, Melissa Blom resides within the jurisdiction of this Court. \n19.  Defendant Rosemary Davis is the Director of the Outagamie County Department \nof Health and Human Services and has authority over decisions made by the CYFD regarding \nchild welfare, compliance with federal law and release of information and records.  Wis. Stats. § \n48.56. Upon information and belief, Rosemary Davis resides within the jurisdiction of this Court. \n20.  Defendant Thomas Nelson is the County Executive for Outagamie County and has \nauthority over the Outagamie County Department of Health and Human Services regarding \ncompliance with federal law and release of information and records. Wis. Stats. § 59.17(2). Upon \ninformation and belief, Thomas Nelson resides within the jurisdiction of this Court.  \n21.  Defendant Outagamie County is a governmental body corporate organized under the \nlaws of the State of Wisconsin, Wis. Stats. Ch. 59.  The Outagamie County Department of Health and \nHuman Services is an agency created and operated by Outagamie County. Its principal office location \nis in Outagamie County at 401 South Elm Street, Appleton, Wisconsin. \nIV.  FACTS \n22.  In July of 2016 DRW became aware that J. B., a fourteen-year-old girl, with a \ncondition known as spinal muscular atrophy had been the subject of a prom-like event known as “J.’s \nLast Dance.” According to media reports this was billed as J. B.’s “last dance” because of her \nexpressed intent to seek hospice services following the prom.   It was her stated intent to discontinue \nher “ventilator” and eventually die from, presumably, respiratory failure.   \n8 \n \nCase 1:17-cv-00183-WCG   Filed 02/08/17   Page 8 of 21   Document 1\n\n23.  In U-Tube videos of J. B.  (aired following the “last dance” which occurred on July \n27,  2016) she was articulate, smiling and fully engaged in her environment and with the people \naround her.  She showed no evidence of being dependent on a ventilator.  Other videos indicated that \nher respiration assistance was in the form of a BiPAP machine, a far less intrusive intervention than \na ventilator.   \n24.  According to media reports and U-Tube videos, J. B. had planned on transferring to \nhospice care in early August (immediately following the “last dance”) but then indicated she was \npostponing the transfer until September because that was when her friends would return to school.  \n25.   According to media reports, J. B.’s mother, Jennifer B., was a nurse and was \nsupportive of her daughter’s decision to use hospice services as a means of ending her life.  Her \nmother appeared to be taking no action to stop, what was, for all practical purposes, her daughter’s \nsuicide.  \n26.  Wisconsin has not adopted the so-called “mature minor doctrine” which would have \nallowed J. B. to individually determine whether or not she wanted to accept or decline life-sustaining \nmedical treatment. In the absence of the “mature minor doctrine,” decisions relating to J. B.’s health \nwere the legal responsibility of her parents.    \n27.  In the Wisconsin Children’s Code “neglect” is defined as the “failure, refusal or \ninability on the part of a caregiver, for reasons other than poverty, to provide necessary care, food, \nclothing, medical or dental care or shelter so as to seriously endanger the physical health of the child.” \nWis. Stats. § 48.02(12g). \n28.  On August 17, 2016, based on those media reports and applicable law, DRW \ncontacted three county human services departments (Outagamie, Winnebago, and Calumet counties) \nwith children’s protective services responsibility and requested that any or all of them investigate J. \n9 \n \nCase 1:17-cv-00183-WCG   Filed 02/08/17   Page 9 of 21   Document 1\n\nB.’s situation to determine whether what was happening would be neglect as defined by the Wisconsin \nChildren’s Code.  A copy of a letter composed by Disabled Parents Rights was attached to DRW’s \nletter. The letter was sent to three counties because the City of Appleton straddles three counties and \nit was unclear which county was J. B.’s county of residency.  DRW also sent a copy of the letter to \nEloise Anderson, Secretary of the Wisconsin Department of Children and Families (hereafter DCF).  \nA copy of DRW’s August 17, 2016 letter is incorporated and attached as Exhibit A. \n29.  DRW received no response to this letter from any of the county CPS agencies. \n30.  By letter to DRW dated August 29, 2016, John Touhy, Director of the Bureau of \nRegional Operations for DCF, acknowledged receipt of DRW’s August 17, 2016 letter and indicated \nthat the letter from Disabled Parents Rights had been previously received and “forwarded by DCF to \nOutagamie County as a CPS report.”  A copy of DCF’s letter of August 29, 2016 is incorporated and \nattached as Exhibit B. \n31.  On September 22, 2016 DRW received notice that J. B. had died in a hospice facility \nearlier on September 22, 2016.  \n32.  On October 14, 2016 DRW received a complaint of neglect in the death of J. B. from \nher biological father, Lamar Jones.  \n33.  On October 14, 2016, DRW faxed a letter to Melissa Blom, the Manager of the \nChildren, Youth and Families Division of the Outagamie County Department of Health and \nHuman Services requesting a complete copy of any investigative report her division conducted on \nJ.  B.,  together  with  copies  of  any  supporting  information  gathered  in  the  course  of  that \ninvestigation, including investigator notes and interview transcripts, recordings or summaries and, \nto the extent not covered by the foregoing request, all documents that fell within the purview of 45 \nC.F.R. § 1386.25(b).  The letter was accompanied by a release of information signed by Lamar \n10 \n \nCase 1:17-cv-00183-WCG   Filed 02/08/17   Page 10 of 21   Document 1\n\nJones. A copy of DRW’s letter of October 14, 2016 to Ms. Blom is incorporated and attached as \nExhibit C.  \n34.  Similar  letters  were  sent  to  the  child  protective  services  agencies  in  Calumet, \nWinnebago and Sheboygan Counties.  \n35.  Ms. Blom did not respond to DRW’s letter of October 14, 2016. \n36.  DRW received responses from the other three CPS agencies.   \n37.  On November 8, 2016, DRW faxed a letter to defendant Blom and repeated its request \nfor records. In that letter DRW requested that defendant Blom contact DRW or have the Corporation \nCounsel for the county contact DRW. A copy of the November 8, 2016 letter (without attachments) \nto Ms. Blom is incorporated and attached as Exhibit D. \n38.  Ms. Blom did not respond to the letter of November 8, 2016.  \n39.  On November 14, 2016, DRW faxed a letter to Joseph Guidote, Corporation Counsel \nfor Outagamie County, and repeated its request to access the information requested in the letters to \nBlom of October 14, 2016 and November 8, 2016. The November 14, 2016 letter had copies of \nDRW’s earlier correspondence to defendant Blom attached to it (Exhibits C and D). A copy of the \nNovember 14, 2016 letter (without attachments) to Mr. Guidote is incorporated and attached as \nExhibit E.  \n40.  On or about November 15 or 16, 2016, DRW received a telephone call from a staff \nperson  with  the  Outagamie  County  Corporation  Counsel  office  acknowledging  receipt  of  the \nNovember 14, 2016 letter and indicating that Corporation Counsel Guidote was out of the office for \nseveral days and would respond upon his return to the office.   \n41.  Corporation Counsel Guidote never responded to the letter of November 14, 2016. \n11 \n \nCase 1:17-cv-00183-WCG   Filed 02/08/17   Page 11 of 21   Document 1\n\n42.  On November 30, 2016, DRW Faxed another letter to Corporation Counsel Guidote \nagain requesting that the requested records be produced. A copy of the November 30, 2016 letter to \nMr. Guidote is incorporated and attached as Exhibit F. \n43.  The letter of November 30, 2016 was never responded to. \n44.  On December 19, 2016, DRW faxed another letter Corporation Counsel Guidote \nagain requesting that the requested records be produced.  DRW also told Mr. Guidote that he had until \nthe close of business on Friday December 21, 2016 to respond or DRW would assume, based on his \nfailure to respond to its earlier letters, that he was not representing Outagamie County in the matter, \nand would contact Outagamie County Executive Thomas Nelson directly. A copy of the December \n19, 2016 letter to Mr. Guidote is incorporated and attached as Exhibit G. \n45.  On December 21, 2016, DRW received a faxed letter from Mr. Guidote in which he \nstated that he would respond to DRW’s request by January 6, 2017. A copy of the December 21, 2016 \nletter from Joseph Guidote is incorporated and attached as Exhibit H. \n46.  On January 11, 2017 DRW received via U.S. Mail a letter dated January 6, 2017 and \npostmarked January 9, 2017 from Mr. Guidote in which he informed DRW that he was denying its \nrequest for records.  In that letter he wrote, in part: \nWis. Stat. 48.981(7) (2015-2016) requires us to keep child protection records confidential \nunless there is an enumerated exception.  There does not appear to be an exception under the \nstatute that would allow disclosure in this instance.  While I respect the authority of Disability \nRights Wisconsin to gather evidence related to treatment records, Outagamie County never \nprovided treatment or rehabilitation services to J. B..  Thus, the county does not have any \ntreatment records in its possession that are available to your organization under Wis. Stat. § \n51.30(4)(b)(18).[sic] \n \nA copy of the January 6, 2017 letter from Joseph Guidote is incorporated and attached as Exhibit I.  \n \n47.    On January 12, 2017, DRW faxed a letter to Mr. Guidote responding to and \nspecifically refuting the authorities cited in his January 6, 2017 letter.  DRW again requested the \n12 \n \nCase 1:17-cv-00183-WCG   Filed 02/08/17   Page 12 of 21   Document 1\n\nrecords and informed Mr. Guidote that it was commencing preparation of a lawsuit to enforce its \naccess right and attached a copy of this Court’s ruling in Wisconsin Coalition for Advocacy v. Busby, \nwhich held that WCA (DRW’s former name) was entitled to have access to the Winnebago County \nCoroner’s report on the death of a person with a disability stemming from a mental illness. The legal \nauthorities underlying that decision are the same as relied upon in this case.   \n48.  The January 12, 2017 letter informed Mr. Guidote that production of the records \nbefore the filing of a lawsuit could prevent Outagamie County from incurring liability for its denial. \nA copy of the January 12, 2017 letter is incorporated and attached as Exhibit J. \n49.  DRW has received no further correspondence from Mr. Guidote or the defendants.   \n50.  On February 6, 2017 DRW faxed a copy of this complaint to Joseph Guidote and \ninformed him that the complaint would be filed after 24 hours had elapsed unless the requested \ndocuments were produced. A copy of the February 6, 2017 letter to Mr. Guidote is incorporated and \nattached as Exhibit K.  \n51.  Mr. Guidote’s office responded to that letter by informing DRW that Mr. Guidote was \nunavailable until 12:00 pm on February 7, 2017. \n52.  Later on February 6, 2017 DRW faxed a letter to Mr. Guidote informing him that \nDRW would delay filing the complaint until 9:00 am on February 8, 2017. A copy of the second \nFebruary 6, 2017 letter to Mr. Guidote is incorporated and attached as Exhibit L.  \n53.  Mr. Guidote did not respond to that letter.  \n54.  Other entities, including the facility in which J. B. died, have responded to our requests \nfor information either by producing the requested records or, in the case of other county child \nprotective service agencies, by confirming that they had conducted no investigation and had no reports \nor records to produce.   \n13 \n \nCase 1:17-cv-00183-WCG   Filed 02/08/17   Page 13 of 21   Document 1\n\n55.  DRW has determined there is probable cause to believe that neglect was a factor in J. \nB.’s death. \n56.  DRW was asked by J. B.’s biological father to investigate his daughter’s death.  \n57.  DRW’s ability to conduct its investigation into the death of J. B. has been significantly \nhampered by the defendants’ denial of access to the records and reports in their possession. \n58.  DRW has been required to devote staff time and effort to repeated attempts to obtain \naccess, thereby incurring expense and damages which would not have been incurred if defendant had \ncomplied with DRW’s statutory access rights.  DRW has thereby lost the opportunity to serve other \nclients and to address protection and advocacy services to other issues, further affecting DRW’s \nallocation of staff resources and causing expense and damages to DRW which would not have been \nincurred if defendant had complied with DRW’s statutory access rights. \nV.  COUNT ONE \nClaim for Relief Under 42 U.S.C. § 15043  \n59.  Plaintiff realleges the allegations contained in paragraphs 1-57 of this Complaint as if \nfully set forth herein. \n60.  J. B. was an “individual with a developmental disability” eligible for DRW’s services, \npursuant to 42 U.S.C. §§ 15002(8) and 15043(a)(2)I.   \n61.  J. B. died in a hospice facility which is a “location at which services, supports, or other \nassistance is provided to individuals with developmental disabilities.” 42 U.S.C. § 15043(c)(1). \n62.  CYFD is an agency “charged with investigating reports of incidents of abuse or \nneglect, injury, or death occurring at such location.” 42 U.S.C. § 15043(c)(2). \n14 \n \nCase 1:17-cv-00183-WCG   Filed 02/08/17   Page 14 of 21   Document 1\n\n63.  Any  report  created  by,  and  supporting  information  relied  upon  by,  CYFD  are \n“individual records” to which DRW is entitled to access under 42 U.S.C. § 15043(a)(2) and (c) and \n45 C.FR. § 1326.25(b). \n64.  Because DRW was investigating a death, it was entitled to receive these individual \nrecords within 24 hours of requesting them.  42 U.S.C. § 15043(a)(2)(J)(ii) and 45 C.FR. § \n1326.25(c)(1). \n65.  Defendants initially ignored DRW’s multiple requests for these records and ultimately \ndenied DRW’s request.  \n66.  Defendants denial of DRW’s authority to promptly access J. B.’s records under the \nPADD Act and related regulations prevents DRW from fully performing its statutory duty to \ninvestigate  incidents  of  suspected  abuse,  neglect  or  death  of  individuals  with  developmental \ndisabilities.  \n67.  Plaintiff has no adequate remedy at law. \n68.  Defendant’s actions and inactions in refusing to promptly provide DRW with all the \nrecords it has requested relating to the investigation of the death of J. B. violate DRW’s statutory \nrights under the PADD Act, 42 U.S.C. § 15043. \nVI.  COUNT TWO \nClaim for relief under 29 U.S.C. § 794e \n69.  Plaintiff realleges the allegations contained in paragraphs 1-68 of this Complaint as if \nfully set forth herein. \n70.  If J.B. was not an individual with a developmental disability, she was an individual \nwith a disability under 29 U.S.C. § 794e. \n15 \n \nCase 1:17-cv-00183-WCG   Filed 02/08/17   Page 15 of 21   Document 1\n\n71.  DRW is entitled to the same access to J. B.’s records under 29 U.S.C. § 794e as it is \nunder 42 U.S.C. § 15043. \n72.  Defendants denial of DRW’s authority to promptly access J. B.’s records under the \nPAIR  Act  and  related  regulations  prevents  DRW  from  fully  performing  its statutory  duty  to \ninvestigate incidents of suspected abuse, neglect or death of individuals with disabilities.  \n73.  Plaintiff has no adequate remedy at law. \n74.  Defendants’ actions and inactions in refusing to promptly provide DRW with all the \nrecords it has requested relating to the investigation of the death of J. B. violate DRW’s statutory \nrights under the PAIR Act, 29 U.S.C. § 794e. \nVII.  COUNT THREE \nClaim for relief under 42 U.S.C. § 1983 against defendant Blom \n75.  Plaintiff realleges the allegations contained in paragraphs 1-74 of this Complaint as if \nfully set forth herein. \n76.  Count two is brought against defendant Melissa Blom in her official capacity as \nManager of the Outagamie County Department of Health and Human Services CYFD and in her \nindividual capacity.  \n77.  Defendant’s actions, inactions, practices, policies and procedures, as set forth herein, \nviolate DRW’s statutory rights under the PADD Act, 42 U.S.C. § 15043 or the PAIR Act, 29 U.S.C. \n§ 794e.   \n78.  Defendant’s actions, inactions, practices, policies and procedures, as asserted herein, \nwere undertaken under color of law. \n79.  Defendant’s actions, inactions, practices, policies and procedures, as asserted herein, \nin refusing to comply with DRW’s statutory rights were undertaken knowingly, intentionally or with \n16 \n \nCase 1:17-cv-00183-WCG   Filed 02/08/17   Page 16 of 21   Document 1\n\ndeliberate indifference and willful and callous disregard of DRW’s rights under the PADD Act, 42 \nU.S.C. § 15043 or the PAIR Act, 29 U.S.C. § 794e.  \n80.  Due to the violation of DRW’s statutory rights by defendant’s actions, inactions, \npractices, policies and procedures, as asserted herein, DRW has suffered immediate and irreparable \nharm. \n81.  Due to defendant’s refusal to promptly allow access to the requested records, DRW \nhas been required to devote staff time and effort to repeated attempts to obtain access, thereby \nincurring expense and damages which would not have been incurred if defendant had complied with \nDRW’s statutory access rights.  DRW has thereby lost the opportunity to serve other clients and to \ndevote protection and advocacy resources and services to other issues, further affecting DRW’s \nallocation of staff resources and causing expense and damages to DRW which would not have been \nincurred if defendant had complied with DRW’s statutory access rights.  \nVIII.  COUNT FOUR \nClaim for relief under 42 U.S.C. § 1983 against defendant Davis \n82.  Plaintiff realleges the allegations contained in paragraphs 1-81 of this Complaint as if \nfully set forth herein. \n83.  Count three is brought against defendant Rosemary Davis in her official capacity as \nDirector of the Outagamie County Department of Health and Human Services and in her indivdual \ncapacity.  \n84.  Defendant Davis has ultimate authority over whether divisions of the Outagamie \nCounty DHHS respond to requests for information by the P & A.  \n17 \n \nCase 1:17-cv-00183-WCG   Filed 02/08/17   Page 17 of 21   Document 1\n\n85.  Defendant’s actions, inactions, practices, policies and procedures, as set forth herein, \nviolate DRW’s statutory rights under the PADD Act, 42 U.S.C. § 15043 or the PAIR Act, 29 U.S.C. \n§ 794e.  \n86.  Defendant’s actions, inactions, practices, policies and procedures, as asserted herein, \nwere undertaken under color of law. \n87.  Defendant’s actions, inactions, practices, policies and procedures, as asserted herein, \nin refusing to comply with DRW’s statutory rights were undertaken knowingly, intentionally or with \ndeliberate indifference and willful and callous disregard of DRW’s rights under the PADD Act, 42 \nU.S.C. § 15043 or the PAIR Act, 29 U.S.C. § 794e.  \n88.  Due to the violation of DRW’s statutory rights by defendant’s actions, inactions, \npractices, policies and procedures, as asserted herein, DRW has suffered immediate and irreparable \nharm. \n89.  Due to defendant’s refusal to promptly allow access to the requested records, DRW \nhas been required to devote staff time and effort to repeated attempts to obtain access, thereby \nincurring expense and damages which would not have been incurred if defendant had complied with \nDRW’s statutory access rights.  DRW has thereby lost the opportunity to serve other clients and to \ndevote protection and advocacy resources and services to other issues, further affecting DRW’s \nallocation of staff resources and causing expense and damages to DRW which would not have been \nincurred if defendant had complied with DRW’s statutory access rights.  \nIX.  COUNT FIVE \nClaim for relief under 42 U.S.C. § 1983 against defendant Nelson \n90.  Plaintiff realleges the allegations contained in paragraphs 1-89 of this Complaint as if \nfully set forth herein. \n18 \n \nCase 1:17-cv-00183-WCG   Filed 02/08/17   Page 18 of 21   Document 1\n\n91.  Count three is brought against defendant Thomas Nelson in his official capacity as \nCounty Executive of Outagamie County and in his individual capacity.  \n92.  Defendant Nelson has ultimate authority over whether departments of Outagamie \nCounty government respond to requests for information by the P & A made pursuant to Federal law.  \n93.  Defendant’s actions, inactions, practices, policies and procedures, as set forth herein, \nviolate DRW’s statutory rights under the PADD Act, 42 U.S.C. § 15043 or the PAIR Act, 29 U.S.C. \n§ 794e.  \n94.  Defendant’s actions, inactions, practices, policies and procedures, as asserted herein, \nwere undertaken under color of law. \n95.  Defendant’s actions, inactions, practices, policies and procedures, as asserted herein, \nin refusing to comply with DRW’s statutory rights were undertaken knowingly, intentionally or with \ndeliberate indifference and willful and callous disregard of DRW’s rights under the PADD Act, 42 \nU.S.C. § 15043 or the PAIR Act, 29 U.S.C. § 794e.  \n96.  Due to the violation of DRW’s statutory rights by defendant’s actions, inactions, \npractices, policies and procedures, as asserted herein, DRW has suffered immediate and irreparable \nharm. \n97.  Due to defendant’s refusal to promptly allow access to the requested records, DRW \nhas been required to devote staff time and effort to repeated attempts to obtain access, thereby \nincurring expense and damages which would not have been incurred if defendant had complied with \nDRW’s statutory access rights.  DRW has thereby lost the opportunity to serve other clients and to \ndevote protection and advocacy resources and services to other issues, further affecting DRW’s \nallocation of staff resources and causing expense and damages to DRW which would not have been \nincurred if defendant had complied with DRW’s statutory access rights.  \n19 \n \nCase 1:17-cv-00183-WCG   Filed 02/08/17   Page 19 of 21   Document 1\n\nX.  PRAYER FOR RELIEF \nWHEREFORE, plaintiff requests: \n(a)    that the Court exercise jurisdiction over this action; \n(b)  that the Court declare that the plaintiff has the right to have access to the requested \nrecords under either the PADD or PAIR Acts; \n(c)    that the Court find that the defendant’s actions or inactions violate the PADD or PAIR \nActs; \n(d)  that the Court enjoin the defendants, their successors and any other person acting in \nconcert with a defendant or the successor of defendant from \ni.  Failing to provide to DRW any report, document, or other record relating to J. \nB., including those related to her death and any investigation thereof; or \nrelating to any other person who is DRW’s client or whose records DRW is \nauthorized to have access to under the PADD Act, PAIR Act or other federal \nlaw; and \nii.  Otherwise interfering with any investigation of abuse and neglect authorized \nunder the PADD Act, PAIR Act or other federal law.  \n(e)   That the Court enter a judgment, pursuant to 42 U.S.C § 1983 and 42 U.S.C. § \n1988(b), awarding attorneys fees, costs and expenses incurred by or on behalf of the plaintiff \nin prosecution of this action; \n(f)   That the Court enter a judgment, pursuant to 42 U.S.C. § 1983, awarding DRW \ndamages in the amount of $10,000; and \n(g)    That the Court issue such other relief as may be just, equitable and appropriate.  \n \n20 \n \nCase 1:17-cv-00183-WCG   Filed 02/08/17   Page 20 of 21   Document 1\n\n  Dated this 8th day of February, 2017. \n  s/ Mitchell Hagopian \n  _______________________________ \n  Mitchell Hagopian \n  Wisconsin Bar No. 1000181 \n   \n  Disability Rights Wisconsin, Inc. \n  131 W. Wilson St. \n  Suite 700 \n  Madison. WI 53703 \n \n  (608) 267-0214 (phone) \n  (608) 267-0368 (fax) \n  mitchh@drwi.org \n \n21 \n \nCase 1:17-cv-00183-WCG   Filed 02/08/17   Page 21 of 21   Document 1",
+      "document_type_other": null,
+      "external_url": "https://www.courtlistener.com/docket/13401722/1/disability-rights-wisconsin-inc-v-blom/",
+      "ecf_number": "1",
+      "clearinghouse_link": "clearinghouse.net/doc/147060"
+    },
+    {
+      "date": "2017-09-20",
+      "date_is_estimate": false,
+      "date_not_available": false,
+      "description": "",
+      "document_source": "PACER [Public Access to Court Electronic Records]",
+      "document_status": "Coding Complete",
+      "document_type": "Pleading / Motion / Brief",
+      "order_type": null,
+      "citation_paren": null,
+      "cite_1_page": null,
+      "cite_1_reporter": null,
+      "cite_1_vol": null,
+      "cite_2_page": null,
+      "cite_2_reporter": null,
+      "cite_2_vol": null,
+      "cite_3_page": null,
+      "cite_3_reporter": null,
+      "cite_3_vol": null,
+      "citation_status": "Not applicable",
+      "court": "Eastern District of Wisconsin",
+      "no_title": false,
+      "party_types": [
+        "Defendant",
+        "Plaintiff"
+      ],
+      "per_curium": false,
+      "is_core_document": true,
+      "id": 147061,
+      "file": "https://clearinghouse-umich-production.s3.amazonaws.com/media/doc/147061.pdf",
+      "title": "Re: DRW v. Blom, et al, U.S.D.C (E.D.WI) Case No. 17-CV-00183 WCG",
+      "text": "",
+      "document_type_other": null,
+      "external_url": "https://www.courtlistener.com/docket/13401722/15/disability-rights-wisconsin-inc-v-blom/",
+      "ecf_number": "15",
+      "clearinghouse_link": "clearinghouse.net/doc/147061"
+    }
+  ],
+  "document_count": 4
+}

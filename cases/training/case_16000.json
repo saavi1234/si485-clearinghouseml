@@ -1,0 +1,345 @@
+{
+  "case_id": 16000,
+  "fetched_at": "2025-10-22T00:26:47.900713",
+  "case_data": {
+    "attorney_orgs": [],
+    "available_documents": [
+      "Trial Court Docket",
+      "Complaint (any)"
+    ],
+    "case_defendants": [
+      {
+        "defendant_level": null,
+        "institution": "",
+        "institution_alt_state": null,
+        "institution_city": "",
+        "institution_county": null,
+        "name": "U.S. Department of the Army",
+        "defendant_level_other": "",
+        "is_active": true
+      }
+    ],
+    "case_ongoing": "No",
+    "case_status": "Approved",
+    "case_types": [
+      "Presidential/Gubernatorial Authority"
+    ],
+    "cause_other": "",
+    "causes": [
+      "Administrative Procedure Act, 5 U.S.C. §§ 551 et seq.",
+      "FOIA (Freedom of Information Act), 5 U.S.C. § 552"
+    ],
+    "class_action_granted": "Not sought",
+    "class_action_sought": "No",
+    "closing_year": 2017,
+    "constitutional_clause": [],
+    "content_of_injunction": [],
+    "court": "District of District of Columbia",
+    "custom_issues": [],
+    "defendant_payment": "",
+    "defendant_type": [],
+    "docket_status": "Complete as of retrieval date",
+    "facility_type": [],
+    "filing_date": "2017-07-10",
+    "filing_year": 2017,
+    "id": 16000,
+    "injunction_duration": "",
+    "issues": [],
+    "last_checked_date": "2019-03-11T00:00:00-04:00",
+    "main_docket": {
+      "id": 28918,
+      "docket_entries": [
+        {
+          "row_number": 8,
+          "id": 8666889,
+          "entry_number": null,
+          "date_filed": "2017-07-11T00:00:00-04:00",
+          "attachments": [],
+          "url": "https://www.courtlistener.com",
+          "recap_pdf_url": null,
+          "pacer_doc_id": null,
+          "description": "Case Assigned/Reassigned"
+        },
+        {
+          "row_number": 4,
+          "id": 8666890,
+          "entry_number": "5",
+          "date_filed": "2017-07-13T00:00:00-04:00",
+          "attachments": [],
+          "url": "https://www.courtlistener.com/docket/6087596/5/public-citizen-inc-v-united-states-department-of-the-army/",
+          "recap_pdf_url": null,
+          "pacer_doc_id": "04506134874",
+          "description": "ORDER ESTABLISHING PROCEDURES FOR CASES ASSIGNED TO JUDGE COLLEEN KOLLAR-KOTELLY. Signed by Judge Colleen Kollar-Kotelly on 7/13/2017. (DM) (Entered: 07/13/2017)"
+        },
+        {
+          "row_number": 5,
+          "id": 8666891,
+          "entry_number": "6",
+          "date_filed": "2017-07-19T00:00:00-04:00",
+          "attachments": [],
+          "url": "https://www.courtlistener.com/docket/6087596/6/public-citizen-inc-v-united-states-department-of-the-army/",
+          "recap_pdf_url": null,
+          "pacer_doc_id": "04506146110",
+          "description": "Case randomly reassigned to Judge Royce C. Lamberth. Judge Colleen Kollar-Kotelly is no longer assigned to the case. (ztnr) (Entered: 07/21/2017)"
+        },
+        {
+          "row_number": 0,
+          "id": 8666884,
+          "entry_number": "1",
+          "date_filed": "2017-07-10T00:00:00-04:00",
+          "attachments": [
+            {
+              "recap_id": 20843551,
+              "pacer_url": "https://ecf.dcd.uscourts.gov/doc1/04506130356?caseid=187846",
+              "description": "Civil Cover Sheet",
+              "attachment_number": 1
+            },
+            {
+              "recap_id": 20843553,
+              "pacer_url": "https://ecf.dcd.uscourts.gov/doc1/04506130357?caseid=187846",
+              "description": "Summons",
+              "attachment_number": 2
+            },
+            {
+              "recap_id": 20843557,
+              "pacer_url": "https://ecf.dcd.uscourts.gov/doc1/04506130358?caseid=187846",
+              "description": "Summons",
+              "attachment_number": 3
+            },
+            {
+              "recap_id": 20843560,
+              "pacer_url": "https://ecf.dcd.uscourts.gov/doc1/04506130359?caseid=187846",
+              "description": "Summons",
+              "attachment_number": 4
+            }
+          ],
+          "url": "https://www.courtlistener.com/docket/6087596/1/public-citizen-inc-v-united-states-department-of-the-army/",
+          "recap_pdf_url": "https://www.courtlistener.com/recap/gov.uscourts.dcd.187846.1.0.pdf",
+          "pacer_doc_id": "04506130355",
+          "description": "COMPLAINT for Declaratory and Injunctive Relief against UNITED STATES DEPARTMENT OF THE ARMY ( Filing fee $ 400 receipt number 0090-5025461) filed by PUBLIC CITIZEN, INC. (Attachments: # 1 Civil Cover Sheet, # 2 Summons, # 3 Summons, # 4 Summons)(Sherman, Sean) (Entered: 07/10/2017)"
+        },
+        {
+          "row_number": 1,
+          "id": 8666885,
+          "entry_number": "2",
+          "date_filed": "2017-07-10T00:00:00-04:00",
+          "attachments": [],
+          "url": "https://www.courtlistener.com/docket/6087596/2/public-citizen-inc-v-united-states-department-of-the-army/",
+          "recap_pdf_url": null,
+          "pacer_doc_id": "04506130523",
+          "description": "NOTICE OF RELATED CASE by PUBLIC CITIZEN, INC.. Case related to Case No. 17cv1320. (Sherman, Sean) (Entered: 07/10/2017)"
+        },
+        {
+          "row_number": 2,
+          "id": 8666886,
+          "entry_number": "3",
+          "date_filed": "2017-07-10T00:00:00-04:00",
+          "attachments": [],
+          "url": "https://www.courtlistener.com/docket/6087596/3/public-citizen-inc-v-united-states-department-of-the-army/",
+          "recap_pdf_url": null,
+          "pacer_doc_id": "04506130677",
+          "description": "LCvR 7.1 CERTIFICATE OF DISCLOSURE of Corporate Affiliations and Financial Interests by PUBLIC CITIZEN, INC.. (Sherman, Sean) (Entered: 07/10/2017)"
+        },
+        {
+          "row_number": 7,
+          "id": 8666887,
+          "entry_number": null,
+          "date_filed": "2017-07-10T00:00:00-04:00",
+          "attachments": [],
+          "url": "https://www.courtlistener.com",
+          "recap_pdf_url": null,
+          "pacer_doc_id": null,
+          "description": "Case Assigned to Judge Colleen Kollar-Kotelly. (md)"
+        },
+        {
+          "row_number": 3,
+          "id": 8666888,
+          "entry_number": "4",
+          "date_filed": "2017-07-11T00:00:00-04:00",
+          "attachments": [],
+          "url": "https://www.courtlistener.com/docket/6087596/4/public-citizen-inc-v-united-states-department-of-the-army/",
+          "recap_pdf_url": null,
+          "pacer_doc_id": "04506132293",
+          "description": "SUMMONS (3) Issued Electronically as to UNITED STATES DEPARTMENT OF THE ARMY, U.S. Attorney and U.S. Attorney General (Attachments: # 1 Notice of Consent) (md) (Entered: 07/11/2017)"
+        },
+        {
+          "row_number": 6,
+          "id": 10140089,
+          "entry_number": "7",
+          "date_filed": "2017-07-25T00:00:00-04:00",
+          "attachments": [],
+          "url": "https://www.courtlistener.com/docket/6087596/7/public-citizen-inc-v-united-states-department-of-the-army/",
+          "recap_pdf_url": "https://www.courtlistener.com/recap/gov.uscourts.dcd.187846.7.0.pdf",
+          "pacer_doc_id": "04506150948",
+          "description": "NOTICE of Voluntary Dismissal by PUBLIC CITIZEN, INC. (Sherman, Sean) (Entered: 07/25/2017)"
+        }
+      ],
+      "docket_case_type": "cv",
+      "docket_year": 2017,
+      "docket_filing_number": 1355,
+      "is_main_docket": true,
+      "court": "District of District of Columbia",
+      "state": "District of Columbia",
+      "docket_office_number": "1",
+      "docket_number_manual": "1:17-cv-01355",
+      "scales_html": "https://clearinghouse-umich-production.s3.amazonaws.com/media/docket-html/dcd--1-17-cv-01355.html",
+      "recap_link": "https://www.courtlistener.com/docket/6087596/public-citizen-inc-v-united-states-department-of-the-army/",
+      "is_active": true
+    },
+    "name": "Public Citizen v. U.S. Department of the Army",
+    "never_filed": false,
+    "non_docket_case_number": "",
+    "non_docket_case_number_type": null,
+    "non_docket_case_number_type_other": "",
+    "order_end_year": null,
+    "order_start_year": null,
+    "permanent_injunction": false,
+    "plaintiff_description": "Public Citizen is a nonprofit consumer advocacy organization.",
+    "plaintiff_type": [
+      {
+        "value": "Non-profit NON-religious organization"
+      }
+    ],
+    "prevailing_party": "None Yet / None",
+    "pro_se_status": "No",
+    "public_interest_lawyer": "Yes",
+    "related_cases": [],
+    "relief_natures": [
+      "None"
+    ],
+    "relief_nature_other": "",
+    "relief_sources": [
+      "None"
+    ],
+    "settlement_agreement": [
+      "Voluntary Dismissal"
+    ],
+    "settlement_judgment_date": null,
+    "settlement_judgment_year": null,
+    "special_collections": [
+      "Multi-LexSum (in sample)",
+      "Trump Administration 1.0: Challenges to the Government"
+    ],
+    "special_case_type": [],
+    "state": "District of Columbia",
+    "summary": "<p>On July 10, 2017, Public Citizen filed this lawsuit in the U.S. District Court for the District of Columbia. The plaintiff sued the U.S. Department of the Army (Army) under the Privacy Act and, in the alternative, the Administrative Procedure Act. Public Citizen, represented by the Public Citizen Litigation Group, sought declaratory and injunctive relief as well as attorneys’ fees and costs. The case was first assigned to Judge Colleen Kollar-Kotelly but was then randomly assigned to Judge Royce C. Lamberth on July 19, 2017.</p><p>Public Citizen filed this lawsuit to enjoin what it believed to be ongoing and imminent violations of the Privacy Act. The Privacy Act prohibits any agency from collecting, using, maintaining, or disseminating records describing how any individual exercises rights guaranteed by the First Amendment. Public Citizen was concerned that many states would soon submit protected information to the Army as requested by the Vice Chair of the Presidential Advisory Commission on Election Integrity, a temporary commission established on May 11, 2017, by President Donald Trump's executive order 13799. Public Citizen claimed that, by accepting the protected information, the Army would violate the Privacy Act’s prohibition on collecting such information. According to Public Citizen, if the Army allowed the Commission to download the information, the Army would violate the Act’s prohibition on disseminating the information.</p><p>On the same day the complaint was filed, Public Citizen filed a notice of a related case. The case, <i><a href=\"https://www.clearinghouse.net/detail.php?id=15959\">Electronic Privacy Information Center v. Pres. Advisory Comm’n on Election Integrity</a></i>, grew out of the same event.</p><p>Without receiving an answer from the Army or any dispositive motion, Public Citizen voluntarily dismissed the case without prejudice on July 25, 2017 when the Commission <a href=\"https://www.epic.org/privacy/litigation/voter/epic-v-commission/\">announced that it would no longer use the SAFE system to collect voter data</a>. </p><p>The case is now closed.</p>",
+    "summary_published_date": "2019-03-10T00:00:00-05:00",
+    "summary_short": "This 2017 lawsuit was filed by Public Citizen, Inc. in the  U.S. District Court for the District of Columbia. Public Citizen brought the case to prevent ongoing and imminent violations of the Privacy Act. Public Citizen alleged that the Army would violate the Act by receiving \r\n and disseminating protected information regarding individuals' exercise of First Amendment Rights. Without precedent, Public Citizen voluntarily dismissed the case.",
+    "summary_tiny": null,
+    "terminating_date": null,
+    "clearinghouse_link": "clearinghouse.net/case/16000",
+    "is_active": true,
+    "case_documents_url": "https://clearinghouse.net/api/v2/documents/?case=16000",
+    "case_dockets_url": "https://clearinghouse.net/api/v2/dockets/?case=16000",
+    "case_resources_url": "https://clearinghouse.net/api/v2/resources/?case=16000"
+  },
+  "documents": [
+    {
+      "date": null,
+      "date_is_estimate": false,
+      "date_not_available": false,
+      "description": null,
+      "document_source": null,
+      "document_status": null,
+      "document_type": null,
+      "order_type": null,
+      "citation_paren": null,
+      "cite_1_page": null,
+      "cite_1_reporter": null,
+      "cite_1_vol": null,
+      "cite_2_page": null,
+      "cite_2_reporter": null,
+      "cite_2_vol": null,
+      "cite_3_page": null,
+      "cite_3_reporter": null,
+      "cite_3_vol": null,
+      "citation_status": null,
+      "court": null,
+      "no_title": false,
+      "party_types": [],
+      "per_curium": false,
+      "is_core_document": true,
+      "id": 115460,
+      "file": null,
+      "title": null,
+      "text": null,
+      "document_type_other": null,
+      "external_url": null,
+      "ecf_number": null,
+      "clearinghouse_link": "clearinghouse.net/doc/115460"
+    },
+    {
+      "date": "2017-07-25",
+      "date_is_estimate": false,
+      "date_not_available": false,
+      "description": null,
+      "document_source": "PACER [Public Access to Court Electronic Records]",
+      "document_status": "Coding Complete",
+      "document_type": "Docket",
+      "order_type": null,
+      "citation_paren": null,
+      "cite_1_page": null,
+      "cite_1_reporter": null,
+      "cite_1_vol": null,
+      "cite_2_page": null,
+      "cite_2_reporter": null,
+      "cite_2_vol": null,
+      "cite_3_page": null,
+      "cite_3_reporter": null,
+      "cite_3_vol": null,
+      "citation_status": "Not applicable",
+      "court": "District of District of Columbia",
+      "no_title": false,
+      "party_types": [
+        "Court"
+      ],
+      "per_curium": false,
+      "is_core_document": true,
+      "id": 97232,
+      "file": "https://clearinghouse-umich-production.s3.amazonaws.com/media/doc/97232.pdf",
+      "title": "Docket [PACER]",
+      "text": "Case: 1:17-cv-1355   As of: 06/11/2018 03:15 PM EDT   1 of 1\nCLOSED,TYPE−D\nU.S. District Court\nDistrict of Columbia (Washington, DC)\nCIVIL DOCKET FOR CASE #: 1:17−cv−01355−RCL\nPUBLIC CITIZEN, INC. v. UNITED STATES DEPARTMENT Date Filed: 07/10/2017\nOF THE ARMY Date Terminated: 07/26/2017\nAssigned to: Judge Royce C. Lamberth Jury Demand: None\n Case:  1:17−cv−01398−RCL Nature of Suit: 890 Other Statutory\nCause: 05:552 Right to Privacy Act Actions\nJurisdiction: Federal Question\nPlaintiff\nPUBLIC CITIZEN, INC. represented by Sean M. Sherman\nPUBLIC CITIZEN LITIGATION\nGROUP\n1600 20th Street, NW\nWashington, DC 20009\n(202) 588−7739\nEmail: ssherman@citizen.org\nATTORNEY TO BE NOTICED\nV.\nDefendant\nUNITED STATES DEPARTMENT OF\nTHE ARMY\nDate Filed # Docket Text\n07/10/2017 1  COMPLAINT for Declaratory and Injunctive Relief against UNITED STATES\nDEPARTMENT OF THE ARMY ( Filing fee $ 400 receipt number 0090−5025461)\nfiled by PUBLIC CITIZEN, INC. (Attachments: # 1 Civil Cover Sheet, # 2 Summons,\n# 3 Summons, # 4 Summons)(Sherman, Sean) (Entered: 07/10/2017)\n07/10/2017 2  NOTICE OF RELATED CASE by PUBLIC CITIZEN, INC.. Case related to Case No.\n17cv1320. (Sherman, Sean) (Entered: 07/10/2017)\n07/10/2017 3  LCvR 7.1 CERTIFICATE OF DISCLOSURE of Corporate Affiliations and Financial\nInterests by PUBLIC CITIZEN, INC.. (Sherman, Sean) (Entered: 07/10/2017)\n07/10/2017 Case Assigned to Judge Colleen Kollar−Kotelly. (md) (Entered: 07/11/2017)\n07/11/2017 4  SUMMONS (3) Issued Electronically as to UNITED STATES DEPARTMENT OF\nTHE ARMY, U.S. Attorney and U.S. Attorney General (Attachments: # 1 Notice of\nConsent) (md) (Entered: 07/11/2017)\n07/13/2017 5  ORDER ESTABLISHING PROCEDURES FOR CASES ASSIGNED TO JUDGE\nCOLLEEN KOLLAR−KOTELLY. Signed by Judge Colleen Kollar−Kotelly on\n7/13/2017. (DM) (Entered: 07/13/2017)\n07/19/2017 6  Case randomly reassigned to Judge Royce C. Lamberth. Judge Colleen Kollar−Kotelly\nis no longer assigned to the case. (ztnr) (Entered: 07/21/2017)\n07/25/2017 7  NOTICE of Voluntary Dismissal by PUBLIC CITIZEN, INC. (Sherman, Sean)\n(Entered: 07/25/2017)",
+      "document_type_other": "",
+      "external_url": "",
+      "ecf_number": null,
+      "clearinghouse_link": "clearinghouse.net/doc/97232"
+    },
+    {
+      "date": "2017-07-10",
+      "date_is_estimate": false,
+      "date_not_available": false,
+      "description": null,
+      "document_source": "PACER [Public Access to Court Electronic Records]",
+      "document_status": "Coding Complete",
+      "document_type": "Complaint",
+      "order_type": null,
+      "citation_paren": null,
+      "cite_1_page": null,
+      "cite_1_reporter": null,
+      "cite_1_vol": null,
+      "cite_2_page": null,
+      "cite_2_reporter": null,
+      "cite_2_vol": null,
+      "cite_3_page": null,
+      "cite_3_reporter": null,
+      "cite_3_vol": null,
+      "citation_status": "Not applicable",
+      "court": "District of District of Columbia",
+      "no_title": false,
+      "party_types": [
+        "Plaintiff"
+      ],
+      "per_curium": false,
+      "is_core_document": true,
+      "id": 97236,
+      "file": "https://clearinghouse-umich-production.s3.amazonaws.com/media/doc/97236.pdf",
+      "title": "Complaint for Declaratory and Injunctive Relief",
+      "text": "Case 1:17-cv-01355-CKK   Document 1   Filed 07/10/17   Page 1 of 7\n \nIN THE UNITED STATES DISTRICT COURT \nFOR THE DISTRICT OF COLUMBIA \n____________________________________ \n            ) \nPUBLIC CITIZEN, INC.,      ) \n  1600 20th Street NW     ) \n  Washington, DC 20009,    )   \n            ) \nPlaintiff,    )  Civil Action No. \n            )  \n    v.        )   \n            )   \nUNITED STATES DEPARTMENT    ) \nOF THE ARMY,         ) \n104 Army Pentagon,      ) \nRoom 2E724        ) \nWashington, DC 20310,    ) \n          ) \n      Defendant.    ) \n                  ) \n \nCOMPLAINT FOR DECLARATORY AND INJUNCTIVE RELIEF \n \n1.  This action is brought to enjoin ongoing and imminent violations of the Privacy Act \nby the United States Department of the Army (Army). The Privacy Act prohibits any agency from \ncollecting, using, maintaining, or disseminating records describing how any individual exercises \nrights guaranteed by the First Amendment. At the request of the Vice Chair of the Presidential \nAdvisory Commission on Election Integrity (Commission), many states will soon submit, and at \nleast one already has submitted, such information to the Army. By accepting this data, the Army \nwill violate the Privacy Act’s prohibition on collecting such information; if the Army allows the \nCommission to download this data, it will violate the Privacy Act’s prohibition on disseminating \nthis information. Furthermore, once the Commission downloads this information from the Army, \nthere will be no remedy at law for the Army’s violation of the Privacy Act. Therefore, Public \nCitizen, on behalf of its members, sues to enjoin the Army from collecting, using, maintaining, or \ndisseminating this data, in violation of the Privacy Act.    \n \n \n\nCase 1:17-cv-01355-CKK   Document 1   Filed 07/10/17   Page 2 of 7\nJURISDICTION AND VENUE \n2.  This Court has jurisdiction under 28 U.S.C. § 1331, 5 U.S.C. § 552a(g)(1)(D), and \n5 U.S.C. § 702. Venue is proper under 5 U.S.C. § 552a(g)(5) and 28 U.S.C. § 1391. \nPARTIES \n3.  Plaintiff Public Citizen, Inc., is a non-profit consumer advocacy organization with \nmembers and supporters nationwide. Public Citizen engages in research, advocacy, media activity, \nand  litigation  related  to,  among  other  things,  government  accountability  and  protection  of \nconsumer rights. Public Citizen brings this suit on behalf of its members who are upset by the \ncollection of data describing how they exercise rights guaranteed by the First Amendment, and \nwho have fear and anxiety related to how the Commission intends to use the information, including \ntheir voting histories and political affiliations.  \n4.  Defendant Army is an agency of the federal government of the United States. The \nArmy maintains systems of records subject to the Privacy Act.  \nSTATUTORY FRAMEWORK \n5.  Section (e)(7) of the Privacy Act mandates that an agency “maintain no record \ndescribing  how  any  individual  exercises  rights  guaranteed  by  the  First  Amendment  unless \nexpressly authorized by statute or by the individual about whom the record is maintained or unless \npertinent  to  and  within  the  scope  of  an  authorized  law  enforcement  activity.”  5  U.S.C. \n§ 552a(e)(7).  This prohibition applies to any agency that maintains any system of records, even if \nthe specific record is not incorporated into a system of records. See Gerlich v. U.S. Dep’t of Justice, \n711 F.3d 161, 169 (D.C. Cir. 2013); Albright v. United States, 631 F.2d 915, 919 (D.C. Cir. 1980). \n6.  The Privacy  Act  defines  a “record” as “any item,  collection, or grouping of \ninformation about an individual that is maintained by an agency, including, but not limited to, his \n2 \n \n\nCase 1:17-cv-01355-CKK   Document 1   Filed 07/10/17   Page 3 of 7\neducation, financial transactions, medical history, and criminal or employment history and that \ncontains his name, or the identifying number, symbol, or other identifying particular assigned to \nthe individual, such as a finger or voice print or a photograph.” 5 U.S.C. § 552a(a)(4).  \n7.  The Privacy Act defines “maintain” as “maintain, collect, use, or disseminate.” Id. \n§ 552a(a)(3). \n8.  The Privacy Act incorporates the definition of “agency” found in the Freedom of \nInformation Act, id. § 552a(a)(1), which in turn defines “agency” as “any executive department, \nmilitary  department,  Government  corporation,  Government  controlled  corporation,  or  other \nestablishment in the executive branch of the Government (including the Executive Office of the \nPresident), or any independent regulatory agency.” Id. § 552(f).  \nFACTUAL BACKGROUND \n9.  The Commission was established by executive order on May 11, 2017. Exec. Order \nNo. 13799, 82 Fed. Reg. 22,389 (May 11, 2017).  \n10.  Under Executive Order 13799, the Commission is directed to “study the registration \nand voting processes used in Federal elections” and “submit a report to the President that identifies \n… (a) those laws, rules, policies, activities, strategies, and practices that enhance the American \npeople’s confidence in the integrity of the voting processes used in Federal elections; (b) those \nlaws, rules, policies, activities, strategies, and practices that undermine the American people’s \nconfidence in the integrity of the voting processes used in Federal elections; and (c) those \nvulnerabilities in voting systems and practices used for Federal elections that could lead to \nimproper voter registrations and improper voting, including fraudulent voter registrations and \nfraudulent voting.”  \n11.  The Commission charter mirrors the substantive terms of Executive Order 13799. \n3 \n \n\nCase 1:17-cv-01355-CKK   Document 1   Filed 07/10/17   Page 4 of 7\n12.  Executive Order 13799 names the Vice President as the Chair of the Commission, \n“which shall be composed of not more than 15 additional members.” Id. Additional members are \nappointed by the President, and the Vice President may select a Vice Chair of the Commission \nfrom among the members. Id. Vice President Pence has named Kansas Secretary of State Kris \nKobach to serve as Vice Chair of the Commission.  \n13.  On June 28, 2017, Vice Chair Kobach sent a letter to the Secretaries of State for all \n50 states and the District of Columbia requesting data from state voter rolls. The data requested \nincludes political party and voter history from 2006 onwards (collectively, the Protected Records), \nas well as full name, address, date of birth, last 4 digits of social security number, active/inactive \nvoter status, cancelled voter status, information regarding any felony conviction, information \nregarding voter registration in another state, information regarding military status, and  information \nregarding overseas citizenship. The Vice Chair noted that “any documents that are submitted to \nthe full Commission will also be made available to the public.” The letter provided that responses \nshould be submitted by July 14, 2017, “electronically to ElectionIntegrityStaff@ovp.eop.gov or \nby utilizing the Safe Access File Exchange (‘SAFE’), … a secure FTP site the federal government \nuses for transferring large data files.”  \n14.  On July 5, 2017, in response to litigation initiated by the Electronic Privacy \nInformation Center (EPIC) in the United States District Court for the District of Columbia \nchallenging the Commission’s requests for the records (EPIC v. Presidential Advisory Commission \non Election Integrity, No. 17-1320), Vice Chair Kobach submitted a declaration stating that the \nrecords would be submitted through SAFE, and that only narrative responses would be submitted \nby email. The declaration clarified that the only “documents” that would be made publicly \navailable would be the narrative responses. It also stated that “[w]ith respect to voter roll data, the \n4 \n \n\nCase 1:17-cv-01355-CKK   Document 1   Filed 07/10/17   Page 5 of 7\nCommission intends to de-identify any such data prior to any public release of documents.” Vice \nChair Kobach also stated that no state had yet provided information through SAFE.  \n15.  On July 6, 2017, Vice Chair Kobach submitted a second declaration answering \nquestions posed by the judge in EPIC. In his declaration, Vice Chair Kobach explained that the \nSAFE website is operated by the United States Army Aviation and Missile Research Development \nand Engineering Center (AMRDEC), a component of the Army. Vice Chair Kobach further \nexplained that states will upload the records to SAFE, and the Commission staff will download the \nrecords from the website onto White House computers.  \n16.  Some Secretaries of States and other state officials have stated that they will not \ncomply with the request; others have stated that they will provide the information requested by the \nCommission if not prohibited by their states’ laws. Others have not publicly responded.  \n17.  On, July 7, 2017, attorneys for the government stated in a hearing in the EPIC case \nthat on July 6, 2017, Arkansas had uploaded voter data to SAFE, where it is being stored. \n18.  Once the Protected Records are downloaded into the White House computers by \nthe Commission, there will be no adequate remedy available for the violations of the Privacy Act. \nFIRST CLAIM FOR RELIEF \n(Privacy Act) \n19.  The Privacy Act permits suit when an agency “fails to comply with  any  … \nprovision of this section, or any rule promulgated thereunder, in such a way as to have an adverse \neffect on an individual.” 5 U.S.C. § 552a(g)(1)(D).  \n20.  The Protected Records constitute records describing how individuals exercise their \nrights guaranteed by the First Amendment.  \n21.  The Protected Records are not within the scope of any authorized law enforcement \nactivity. \n5 \n \n\nCase 1:17-cv-01355-CKK   Document 1   Filed 07/10/17   Page 6 of 7\n22.  Under the Privacy Act, the Army cannot collect, use, maintain, or disseminate the \nProtected Records.    \n23.  Plaintiff’s members are adversely affected by the Army’s violation of the Privacy \nAct.  \n24.  Once the Protected Records have been provided to the Commission, plaintiff will \nbe unable to remedy its continuing harm and thus will suffer irreparable harm absent an injunction. \n25.  Plaintiff is entitled to relief enjoining the Army from collecting, maintaining, and \ndisseminating the Protected Records and directing the Army to expunge any Protected Records \nthat are in its possession or come into its possession. \nSECOND CLAIM FOR RELIEF \n(Administrative Procedure Act) \n26.  The Administrative Procedure Act (APA) provides that a reviewing court may set \naside final agency actions that are “arbitrary, capricious, an abuse of discretion, or otherwise not \nin accordance with law.” 5 U.S.C. § 706(2)(A).  \n27.  The Army’s decision to collect, maintain, and disseminate the Protected Records in \nviolation of the Privacy Act is a final agency action that is not in accordance with law.  \n28.  Once the Protected Records have been provided to the Commission, plaintiff will \nbe unable to remedy its continuing harm and thus will suffer irreparable harm absent an injunction. \n29.  If relief is unavailable under the Privacy Act, plaintiff is entitled to declaratory and \ninjunctive relief under 5 U.S.C. § 706 enjoining the Army from collecting, maintaining, and \ndisseminating the Protected Records and directing the Army to expunge any Protected Records \nthat are in its possession or come into its possession.  \n6 \n \n\nCase 1:17-cv-01355-CKK   Document 1   Filed 07/10/17   Page 7 of 7\nPRAYER FOR RELIEF \nWherefore, plaintiff requests that this Court: \nA.  Declare that the defendant’s maintenance of the Protected Records violates the \nPrivacy Act and, in the alternative, the APA;   \nB.  Enjoin  the  Army  from  collecting,  maintaining,  using,  or  disseminating  the \nProtected Records; \nC.  Order the Army to expunge all Protected Records collected prior to entry of the \nCourt’s order; \nD.  Award plaintiff its costs and reasonable attorney fees; and \nE.  Grant all other appropriate relief. \n \nDated: July 10, 2017      Respectfully submitted, \n \n        /s/ Sean M. Sherman      \nSean M. Sherman  \n(D.C. Bar No. 1046357) \nAdina H. Rosenbaum \n(D.C. Bar No. 490928) \nPublic Citizen Litigation Group \n1600 20th Street NW \nWashington, DC 20009 \n(202) 588-1000 \nCounsel for Plaintiff Public Citizen, Inc. \n \n7 \n ",
+      "document_type_other": "",
+      "external_url": "",
+      "ecf_number": "1",
+      "clearinghouse_link": "clearinghouse.net/doc/97236"
+    }
+  ],
+  "document_count": 3
+}

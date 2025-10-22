@@ -1,0 +1,671 @@
+{
+  "case_id": 46727,
+  "fetched_at": "2025-10-22T00:47:14.701397",
+  "case_data": {
+    "attorney_orgs": [],
+    "available_documents": [
+      "Trial Court Docket",
+      "Complaint (any)"
+    ],
+    "case_defendants": [
+      {
+        "defendant_level": null,
+        "institution": "",
+        "institution_alt_state": "- United States (national) -",
+        "institution_city": "",
+        "institution_county": null,
+        "name": "National Oceanic and Atmospheric Administration",
+        "defendant_level_other": "",
+        "is_active": true
+      },
+      {
+        "defendant_level": null,
+        "institution": "",
+        "institution_alt_state": "- United States (national) -",
+        "institution_city": "",
+        "institution_county": null,
+        "name": "U.S. Department of Commerce",
+        "defendant_level_other": "",
+        "is_active": true
+      }
+    ],
+    "case_ongoing": "Yes",
+    "case_status": "Coding Complete",
+    "case_types": [
+      "Presidential/Gubernatorial Authority",
+      "Environmental Justice"
+    ],
+    "cause_other": "",
+    "causes": [
+      "Administrative Procedure Act, 5 U.S.C. §§ 551 et seq."
+    ],
+    "class_action_granted": "Not sought",
+    "class_action_sought": "No",
+    "closing_year": null,
+    "constitutional_clause": [
+      {
+        "value": "Federalism (including 10th Amendment)"
+      },
+      {
+        "value": "Spending/Appropriations Clauses"
+      },
+      {
+        "value": "Separation of Powers"
+      },
+      {
+        "value": "Take Care Clause"
+      }
+    ],
+    "content_of_injunction": [],
+    "court": "District of Maine",
+    "custom_issues": [],
+    "defendant_payment": "",
+    "defendant_type": [
+      {
+        "value": "Jurisdiction-wide"
+      }
+    ],
+    "docket_status": "Complete as of retrieval date",
+    "facility_type": [],
+    "filing_date": "2025-06-17",
+    "filing_year": 2025,
+    "id": 46727,
+    "injunction_duration": "",
+    "issues": [
+      "General/Misc., Reproductive rights, Environmental Justice and Resources: Funding",
+      "LGBTQ+: LGBTQ+",
+      "Environmental Justice and Resources: Threatened/endangered fauna"
+    ],
+    "last_checked_date": "2025-06-23T00:00:00-04:00",
+    "main_docket": {
+      "id": 61895,
+      "docket_entries": [
+        {
+          "row_number": 24,
+          "id": 10327747,
+          "entry_number": null,
+          "date_filed": "2025-08-29T00:00:00-04:00",
+          "attachments": null,
+          "url": "https://www.courtlistener.com",
+          "recap_pdf_url": null,
+          "pacer_doc_id": null,
+          "description": "Order on Motion for Extension of Time to Answer"
+        },
+        {
+          "row_number": 22,
+          "id": 10327746,
+          "entry_number": null,
+          "date_filed": "2025-08-15T00:00:00-04:00",
+          "attachments": null,
+          "url": "https://www.courtlistener.com",
+          "recap_pdf_url": null,
+          "pacer_doc_id": null,
+          "description": "Order on Motion for Extension of Time to Answer"
+        },
+        {
+          "row_number": 26,
+          "id": 10350523,
+          "entry_number": null,
+          "date_filed": "2025-09-12T00:00:00-04:00",
+          "attachments": null,
+          "url": "https://www.courtlistener.com",
+          "recap_pdf_url": null,
+          "pacer_doc_id": null,
+          "description": "Order on Motion for Extension of Time to Answer"
+        },
+        {
+          "row_number": 0,
+          "id": 10159134,
+          "entry_number": "1",
+          "date_filed": "2025-06-17T00:00:00-04:00",
+          "attachments": [
+            {
+              "pdf_url": "https://www.courtlistener.com/recap/gov.uscourts.med.68378/gov.uscourts.med.68378.1.1.pdf",
+              "recap_id": 443106304,
+              "pacer_url": "https://ecf.med.uscourts.gov/doc1/09103519860?caseid=68378",
+              "description": "Exhibit A: Grant Termination Letter",
+              "attachment_number": 1
+            },
+            {
+              "recap_id": 443106305,
+              "pacer_url": "https://ecf.med.uscourts.gov/doc1/09103519861?caseid=68378",
+              "description": "Exhibit B: Notice of Funding Opportunity",
+              "attachment_number": 2
+            },
+            {
+              "recap_id": 443106306,
+              "pacer_url": "https://ecf.med.uscourts.gov/doc1/09103519862?caseid=68378",
+              "description": "Exhibit C: Updated Narrative and Summary for DMR Grant Application",
+              "attachment_number": 3
+            },
+            {
+              "recap_id": 443106307,
+              "pacer_url": "https://ecf.med.uscourts.gov/doc1/09103519863?caseid=68378",
+              "description": "Exhibit D: Notice of Award",
+              "attachment_number": 4
+            },
+            {
+              "pdf_url": "https://www.courtlistener.com/recap/gov.uscourts.med.68378/gov.uscourts.med.68378.1.5.pdf",
+              "recap_id": 443106308,
+              "pacer_url": "https://ecf.med.uscourts.gov/doc1/09103519864?caseid=68378",
+              "description": "Exhibit E: Secretary Rollins Letter to Governor Mills",
+              "attachment_number": 5
+            },
+            {
+              "recap_id": 443106309,
+              "pacer_url": "https://ecf.med.uscourts.gov/doc1/09103519865?caseid=68378",
+              "description": "Exhibit F: SOM v. USDA Settlement Agreement",
+              "attachment_number": 6
+            },
+            {
+              "recap_id": 443106310,
+              "pacer_url": "https://ecf.med.uscourts.gov/doc1/09103519866?caseid=68378",
+              "description": "Exhibit G: Notice of Award with Termination Endorsement",
+              "attachment_number": 7
+            },
+            {
+              "recap_id": 443106311,
+              "pacer_url": "https://ecf.med.uscourts.gov/doc1/09103519867?caseid=68378",
+              "description": "Exhibit H: NOAA Coastal Habitat Restoration and Resilience Grants Funding Notic",
+              "attachment_number": 8
+            },
+            {
+              "pdf_url": "https://www.courtlistener.com/recap/gov.uscourts.med.68378/gov.uscourts.med.68378.1.9.pdf",
+              "recap_id": 443106312,
+              "pacer_url": "https://ecf.med.uscourts.gov/doc1/09103519868?caseid=68378",
+              "description": "Exhibit I: Letter to Senator Collins",
+              "attachment_number": 9
+            }
+          ],
+          "url": "https://www.courtlistener.com/docket/70574375/1/state-of-maine-v-national-oceanic-and-atmospheric-administration/",
+          "recap_pdf_url": "https://www.courtlistener.com/recap/gov.uscourts.med.68378/gov.uscourts.med.68378.1.0.pdf",
+          "pacer_doc_id": "09103519859",
+          "description": "COMPLAINT against LAURA GRIMM, HOWARD LUTNICK, NATIONAL OCEANIC AND ATMOSPHERIC ADMINISTRATION, UNITED STATES DEPARTMENT OF COMMERCE PAYMENT OF FILING FEE DUE WITHIN 48 HOURS. IF FILING FEE IS BEING PAID WITH A CREDIT CARD COUNSEL ARE INSTRUCTED TO LOGIN TO CMECF AND DOCKET Case Opening Filing Fee Paid FOUND IN THE Complaints and Other Initiating Documents CATEGORY. CHECK PAYMENTS DUE WITHIN 48 HOURS., filed by STATE OF MAINE, MAINE DEPARTMENT OF MARINE RESOURCES. (Service of Process Deadline 9/15/2025) Fee due by 6/23/2025. (Attachments: # 1 Exhibit A: Grant Termination Letter, # 2 Exhibit B: Notice of Funding Opportunity, # 3 Exhibit C: Updated Narrative and Summary for DMR Grant Application, # 4 Exhibit D: Notice of Award, # 5 Exhibit E: Secretary Rollins Letter to Governor Mills, # 6 Exhibit F: SOM v. USDA Settlement Agreement, # 7 Exhibit G: Notice of Award with Termination Endorsement, # 8 Exhibit H: NOAA Coastal Habitat Restoration and Resilience Grants Funding Notice, # 9 Exhibit I: Letter to Senator Collins)(lcb) (Entered: 06/18/2025)"
+        },
+        {
+          "row_number": 14,
+          "id": 10159137,
+          "entry_number": "4",
+          "date_filed": "2025-06-18T00:00:00-04:00",
+          "attachments": [],
+          "url": "https://www.courtlistener.com/docket/70574375/4/state-of-maine-v-national-oceanic-and-atmospheric-administration/",
+          "recap_pdf_url": null,
+          "pacer_doc_id": "09103519975",
+          "description": "NOTICE of Appearance by JASON ANTON on behalf of STATE OF MAINE, MAINE DEPARTMENT OF MARINE RESOURCES (ANTON, JASON) (Entered: 06/18/2025)"
+        },
+        {
+          "row_number": 15,
+          "id": 10319162,
+          "entry_number": "5",
+          "date_filed": "2025-08-06T00:00:00-04:00",
+          "attachments": null,
+          "url": "https://www.courtlistener.com/docket/70574375/5/state-of-maine-v-national-oceanic-and-atmospheric-administration/",
+          "recap_pdf_url": null,
+          "pacer_doc_id": "09103546623",
+          "description": "CERTIFICATE OF SERVICE by MAINE DEPARTMENT OF MARINE RESOURCES, STATE OF MAINE re 3 Summons Issued,, (Attachments: # 1 Proof of Service, # 2 Proof of Service, # 3 Proof of Service, # 4 Proof of Service, # 5 Proof of Service)(DAFOE, JACK) (Entered: 08/06/2025)"
+        },
+        {
+          "row_number": 16,
+          "id": 10319163,
+          "entry_number": "6",
+          "date_filed": "2025-08-14T00:00:00-04:00",
+          "attachments": null,
+          "url": "https://www.courtlistener.com/docket/70574375/6/state-of-maine-v-national-oceanic-and-atmospheric-administration/",
+          "recap_pdf_url": null,
+          "pacer_doc_id": "09103550995",
+          "description": "NOTICE of Appearance by JOHN G. OSBORN on behalf of All Defendants (OSBORN, JOHN) (Entered: 08/14/2025)"
+        },
+        {
+          "row_number": 2,
+          "id": 10319168,
+          "entry_number": "11",
+          "date_filed": "2025-09-10T00:00:00-04:00",
+          "attachments": null,
+          "url": "https://www.courtlistener.com/docket/70574375/11/state-of-maine-v-national-oceanic-and-atmospheric-administration/",
+          "recap_pdf_url": null,
+          "pacer_doc_id": "09103565530",
+          "description": "MOTION for Leave to File a Motion in Excess of 20 Pages by LAURA GRIMM, HOWARD LUTNICK, NATIONAL OCEANIC AND ATMOSPHERIC ADMINISTRATION, UNITED STATES DEPARTMENT OF COMMERCE Responses due by 10/1/2025. (OSBORN, JOHN) (Entered: 09/10/2025)"
+        },
+        {
+          "row_number": 21,
+          "id": 10319169,
+          "entry_number": null,
+          "date_filed": "2025-08-06T00:00:00-04:00",
+          "attachments": null,
+          "url": "https://www.courtlistener.com",
+          "recap_pdf_url": null,
+          "pacer_doc_id": null,
+          "description": "Set Answer Deadline for LAURA GRIMM, HOWARD LUTNICK, NATIONAL OCEANIC AND ATMOSPHERIC ADMINISTRATION, UNITED STATES DEPARTMENT OF COMMERCE: Answer due by 8/25/2025. (slg)"
+        },
+        {
+          "row_number": 4,
+          "id": 10343910,
+          "entry_number": "13",
+          "date_filed": "2025-09-12T00:00:00-04:00",
+          "attachments": null,
+          "url": "https://www.courtlistener.com/docket/70574375/13/state-of-maine-v-national-oceanic-and-atmospheric-administration/",
+          "recap_pdf_url": null,
+          "pacer_doc_id": null,
+          "description": "ORDER granting 11 Motion for Leave to File Brief in Excess of Page Limits. By MAGISTRATE JUDGE KAREN FRINK WOLF. (WOLF, KAREN) (Entered: 09/12/2025)"
+        },
+        {
+          "row_number": 5,
+          "id": 10343911,
+          "entry_number": "14",
+          "date_filed": "2025-09-12T00:00:00-04:00",
+          "attachments": null,
+          "url": "https://www.courtlistener.com/docket/70574375/14/state-of-maine-v-national-oceanic-and-atmospheric-administration/",
+          "recap_pdf_url": null,
+          "pacer_doc_id": null,
+          "description": "ORDER granting 12 Motion for Extension of Time to Answer. Response to Plaintiffs' Complaint due September 19, 2025. By MAGISTRATE JUDGE KAREN FRINK WOLF. (WOLF, KAREN) (Entered: 09/12/2025)"
+        },
+        {
+          "row_number": 6,
+          "id": 10343912,
+          "entry_number": "15",
+          "date_filed": "2025-09-19T00:00:00-04:00",
+          "attachments": null,
+          "url": "https://www.courtlistener.com/docket/70574375/15/state-of-maine-v-national-oceanic-and-atmospheric-administration/",
+          "recap_pdf_url": null,
+          "pacer_doc_id": "09103571764",
+          "description": "MOTION to Dismiss for Lack of Jurisdiction by LAURA GRIMM, HOWARD LUTNICK, NATIONAL OCEANIC AND ATMOSPHERIC ADMINISTRATION, UNITED STATES DEPARTMENT OF COMMERCE Responses due by 10/10/2025. (Attachments: # 1 Exhibit A - APHA v. NIH District Court Judgment, # 2 Exhibit B - APHA v. NIH District Court Oral Ruling)(OSBORN, JOHN) (Entered: 09/19/2025)"
+        },
+        {
+          "row_number": 27,
+          "id": 10350524,
+          "entry_number": null,
+          "date_filed": "2025-09-12T00:00:00-04:00",
+          "attachments": null,
+          "url": "https://www.courtlistener.com",
+          "recap_pdf_url": null,
+          "pacer_doc_id": null,
+          "description": "Order on Motion for Leave to File"
+        },
+        {
+          "row_number": 7,
+          "id": 10352479,
+          "entry_number": "16",
+          "date_filed": "2025-09-25T00:00:00-04:00",
+          "attachments": null,
+          "url": "https://www.courtlistener.com/docket/70574375/16/state-of-maine-v-national-oceanic-and-atmospheric-administration/",
+          "recap_pdf_url": null,
+          "pacer_doc_id": "09103574696",
+          "description": "Unopposed MOTION to Extend Time 7 days and for Enlargement of Page Limits by MAINE DEPARTMENT OF MARINE RESOURCES, STATE OF MAINE Responses due by 10/16/2025. (DAFOE, JACK). Added MOTION for Enlargement of Page Limits on 9/25/2025 (slg). (Entered: 09/25/2025)"
+        },
+        {
+          "row_number": 8,
+          "id": 10352480,
+          "entry_number": "17",
+          "date_filed": "2025-09-25T00:00:00-04:00",
+          "attachments": null,
+          "url": "https://www.courtlistener.com/docket/70574375/17/state-of-maine-v-national-oceanic-and-atmospheric-administration/",
+          "recap_pdf_url": null,
+          "pacer_doc_id": null,
+          "description": "ORDER granting 16 Motion to Extend Time; granting 16 Motion to Exceed Page Limits. Plaintiffs' opposition to Motion to Dismiss due October 17, 2025, with a 30 page limit. By MAGISTRATE JUDGE KAREN FRINK WOLF. (WOLF, KAREN) (Entered: 09/25/2025)"
+        },
+        {
+          "row_number": 29,
+          "id": 10352481,
+          "entry_number": null,
+          "date_filed": "2025-09-25T00:00:00-04:00",
+          "attachments": null,
+          "url": "https://www.courtlistener.com",
+          "recap_pdf_url": null,
+          "pacer_doc_id": null,
+          "description": "Order on Motion for Miscellaneous Relief 1 AND Order on Motion to Extend Time"
+        },
+        {
+          "row_number": 13,
+          "id": 10159136,
+          "entry_number": "3",
+          "date_filed": "2025-06-18T00:00:00-04:00",
+          "attachments": [],
+          "url": "https://www.courtlistener.com/docket/70574375/3/state-of-maine-v-national-oceanic-and-atmospheric-administration/",
+          "recap_pdf_url": null,
+          "pacer_doc_id": "09103519874",
+          "description": "Summons Issued as to LAURA GRIMM, HOWARD LUTNICK, NATIONAL OCEANIC AND ATMOSPHERIC ADMINISTRATION, UNITED STATES DEPARTMENT OF COMMERCE. Counsel shall print the embossed summons and effect service in the manner in accordance with Fed.R.Civ.P.4. Note-If you are using Version 6 of Adobe Acrobat, be sure the PRINT WHAT field is set to DOCUMENTS AND COMMENTS (Click File, then Print to check this setting). (Attachments: # 1 Summons for Laura Grimm, # 2 Summons for U.S. Department of Commerce, # 3 Summons for Howard Lutnick)(lcb) (Entered: 06/18/2025)"
+        },
+        {
+          "row_number": 20,
+          "id": 10200292,
+          "entry_number": null,
+          "date_filed": "2025-06-24T00:00:00-04:00",
+          "attachments": [],
+          "url": "https://www.courtlistener.com",
+          "recap_pdf_url": null,
+          "pacer_doc_id": null,
+          "description": "Filing Fee Received: Amount Paid: $405. Receipt Number: 3127371. Method of Payment: Credit Card. Purpose of Payment: Case Filing Fee. Date Paid: 6/18/2025 (slg)"
+        },
+        {
+          "row_number": 18,
+          "id": 10319165,
+          "entry_number": "8",
+          "date_filed": "2025-08-15T00:00:00-04:00",
+          "attachments": null,
+          "url": "https://www.courtlistener.com/docket/70574375/8/state-of-maine-v-national-oceanic-and-atmospheric-administration/",
+          "recap_pdf_url": null,
+          "pacer_doc_id": null,
+          "description": "ORDER granting 7 Motion for Extension of Time to Answer. Answer or other response to Plaintiffs' Complaint due September 8, 2025. By MAGISTRATE JUDGE KAREN FRINK WOLF. (WOLF, KAREN) (Entered: 08/15/2025)"
+        },
+        {
+          "row_number": 28,
+          "id": 10343913,
+          "entry_number": null,
+          "date_filed": "2025-09-12T00:00:00-04:00",
+          "attachments": null,
+          "url": "https://www.courtlistener.com",
+          "recap_pdf_url": null,
+          "pacer_doc_id": null,
+          "description": "Reset Answer Deadline for LAURA GRIMM, HOWARD LUTNICK, NATIONAL OCEANIC AND ATMOSPHERIC ADMINISTRATION, UNITED STATES DEPARTMENT OF COMMERCE: Answer due by 9/19/2025. (slg)"
+        },
+        {
+          "row_number": 32,
+          "id": 10365943,
+          "entry_number": null,
+          "date_filed": "2025-10-02T00:00:00-04:00",
+          "attachments": null,
+          "url": "https://www.courtlistener.com",
+          "recap_pdf_url": null,
+          "pacer_doc_id": null,
+          "description": "Order on Motion to Stay"
+        },
+        {
+          "row_number": 9,
+          "id": 10365938,
+          "entry_number": "18",
+          "date_filed": "2025-10-01T00:00:00-04:00",
+          "attachments": null,
+          "url": "https://www.courtlistener.com/docket/70574375/18/state-of-maine-v-national-oceanic-and-atmospheric-administration/",
+          "recap_pdf_url": "https://www.courtlistener.com/recap/gov.uscourts.med.68378/gov.uscourts.med.68378.18.0.pdf",
+          "pacer_doc_id": "09103577696",
+          "description": "MOTION to Stay in Light of Lapse in Appropriations by LAURA GRIMM, HOWARD LUTNICK, NATIONAL OCEANIC AND ATMOSPHERIC ADMINISTRATION, UNITED STATES DEPARTMENT OF COMMERCE Responses due by 10/22/2025. (OSBORN, JOHN) (Entered: 10/01/2025)"
+        },
+        {
+          "row_number": 23,
+          "id": 10319170,
+          "entry_number": null,
+          "date_filed": "2025-08-15T00:00:00-04:00",
+          "attachments": null,
+          "url": "https://www.courtlistener.com",
+          "recap_pdf_url": null,
+          "pacer_doc_id": null,
+          "description": "Reset Answer Deadline for LAURA GRIMM, HOWARD LUTNICK, NATIONAL OCEANIC AND ATMOSPHERIC ADMINISTRATION, UNITED STATES DEPARTMENT OF COMMERCE per order no. 8: Answer due by 9/8/2025. (clp)"
+        },
+        {
+          "row_number": 25,
+          "id": 10319171,
+          "entry_number": null,
+          "date_filed": "2025-09-02T00:00:00-04:00",
+          "attachments": null,
+          "url": "https://www.courtlistener.com",
+          "recap_pdf_url": null,
+          "pacer_doc_id": null,
+          "description": "Reset Answer Deadline for LAURA GRIMM, HOWARD LUTNICK, NATIONAL OCEANIC AND ATMOSPHERIC ADMINISTRATION, UNITED STATES DEPARTMENT OF COMMERCE: Answer due by 9/15/2025. (slg)"
+        },
+        {
+          "row_number": 3,
+          "id": 10343909,
+          "entry_number": "12",
+          "date_filed": "2025-09-11T00:00:00-04:00",
+          "attachments": null,
+          "url": "https://www.courtlistener.com/docket/70574375/12/state-of-maine-v-national-oceanic-and-atmospheric-administration/",
+          "recap_pdf_url": null,
+          "pacer_doc_id": "09103566470",
+          "description": "Consent MOTION to Extend Time to File Answer re 1 Complaint,,,, by LAURA GRIMM, HOWARD LUTNICK, NATIONAL OCEANIC AND ATMOSPHERIC ADMINISTRATION, UNITED STATES DEPARTMENT OF COMMERCE Responses due by 10/2/2025. (OSBORN, JOHN) (Entered: 09/11/2025)"
+        },
+        {
+          "row_number": 12,
+          "id": 10365940,
+          "entry_number": "20",
+          "date_filed": "2025-10-02T00:00:00-04:00",
+          "attachments": null,
+          "url": "https://www.courtlistener.com/docket/70574375/20/state-of-maine-v-national-oceanic-and-atmospheric-administration/",
+          "recap_pdf_url": null,
+          "pacer_doc_id": null,
+          "description": "ORDER granting 18 Motion to Stay. The stay is without prejudice to the Plaintiff requesting that the stay be lifted if in place for more than 30 days. By MAGISTRATE JUDGE KAREN FRINK WOLF. (WOLF, KAREN) (Entered: 10/02/2025)"
+        },
+        {
+          "row_number": 31,
+          "id": 10365942,
+          "entry_number": null,
+          "date_filed": "2025-10-01T00:00:00-04:00",
+          "attachments": null,
+          "url": "https://www.courtlistener.com",
+          "recap_pdf_url": null,
+          "pacer_doc_id": null,
+          "description": "Reset Deadlines as to 18 MOTION to Stay in Light of Lapse in Appropriations Per Judge Wolf: Responses due by 10/6/2025. No reply permitted. (slg)"
+        },
+        {
+          "row_number": 30,
+          "id": 10365941,
+          "entry_number": null,
+          "date_filed": "2025-09-26T00:00:00-04:00",
+          "attachments": null,
+          "url": "https://www.courtlistener.com",
+          "recap_pdf_url": null,
+          "pacer_doc_id": null,
+          "description": "Reset Deadlines as to 15 MOTION to Dismiss for Lack of Jurisdiction: Responses due by 10/17/2025. (slg)"
+        },
+        {
+          "row_number": 11,
+          "id": 10159135,
+          "entry_number": "2",
+          "date_filed": "2025-06-17T00:00:00-04:00",
+          "attachments": [],
+          "url": "https://www.courtlistener.com/docket/70574375/2/state-of-maine-v-national-oceanic-and-atmospheric-administration/",
+          "recap_pdf_url": null,
+          "pacer_doc_id": "09103519871",
+          "description": "CIVIL COVER SHEET. (lcb) (Entered: 06/18/2025)"
+        },
+        {
+          "row_number": 17,
+          "id": 10319164,
+          "entry_number": "7",
+          "date_filed": "2025-08-15T00:00:00-04:00",
+          "attachments": null,
+          "url": "https://www.courtlistener.com/docket/70574375/7/state-of-maine-v-national-oceanic-and-atmospheric-administration/",
+          "recap_pdf_url": null,
+          "pacer_doc_id": "09103551559",
+          "description": "Consent MOTION to Extend Time to File Answer re 1 Complaint by LAURA GRIMM, HOWARD LUTNICK, NATIONAL OCEANIC AND ATMOSPHERIC ADMINISTRATION, UNITED STATES DEPARTMENT OF COMMERCE Responses due by 9/5/2025. (OSBORN, JOHN) Modified on 8/15/2025 to clean up text (slg). (Entered: 08/15/2025)"
+        },
+        {
+          "row_number": 19,
+          "id": 10319166,
+          "entry_number": "9",
+          "date_filed": "2025-08-29T00:00:00-04:00",
+          "attachments": null,
+          "url": "https://www.courtlistener.com/docket/70574375/9/state-of-maine-v-national-oceanic-and-atmospheric-administration/",
+          "recap_pdf_url": null,
+          "pacer_doc_id": "09103559209",
+          "description": "Consent MOTION to Extend Time to File Answer by LAURA GRIMM, HOWARD LUTNICK, NATIONAL OCEANIC AND ATMOSPHERIC ADMINISTRATION, UNITED STATES DEPARTMENT OF COMMERCE Responses due by 9/19/2025. (OSBORN, JOHN) (Entered: 08/29/2025)"
+        },
+        {
+          "row_number": 1,
+          "id": 10319167,
+          "entry_number": "10",
+          "date_filed": "2025-08-29T00:00:00-04:00",
+          "attachments": null,
+          "url": "https://www.courtlistener.com/docket/70574375/10/state-of-maine-v-national-oceanic-and-atmospheric-administration/",
+          "recap_pdf_url": null,
+          "pacer_doc_id": null,
+          "description": "ORDER granting 9 Motion for Extension of Time to Answer By MAGISTRATE JUDGE DAVID M. COHEN. (COHEN, DAVID) (Entered: 08/29/2025)"
+        },
+        {
+          "row_number": 10,
+          "id": 10365939,
+          "entry_number": "19",
+          "date_filed": "2025-10-02T00:00:00-04:00",
+          "attachments": null,
+          "url": "https://www.courtlistener.com/docket/70574375/19/state-of-maine-v-national-oceanic-and-atmospheric-administration/",
+          "recap_pdf_url": "https://www.courtlistener.com/recap/gov.uscourts.med.68378/gov.uscourts.med.68378.19.0.pdf",
+          "pacer_doc_id": "09103578548",
+          "description": "RESPONSE to Motion re 18 MOTION to Stay in Light of Lapse in Appropriations filed by MAINE DEPARTMENT OF MARINE RESOURCES, STATE OF MAINE. Reply due by 10/16/2025. (DAFOE, JACK) (Entered: 10/02/2025)"
+        }
+      ],
+      "docket_case_type": "cv",
+      "docket_year": 2025,
+      "docket_filing_number": 324,
+      "is_main_docket": true,
+      "court": "District of Maine",
+      "state": "Maine",
+      "docket_office_number": "1",
+      "docket_number_manual": "1:25-cv-00324",
+      "scales_html": null,
+      "recap_link": "https://www.courtlistener.com/docket/70574375/state-of-maine-v-national-oceanic-and-atmospheric-administration/",
+      "is_active": true
+    },
+    "name": "State of Maine v. National Oceanic and Atmospheric Administration",
+    "never_filed": false,
+    "non_docket_case_number": "",
+    "non_docket_case_number_type": null,
+    "non_docket_case_number_type_other": "",
+    "order_end_year": null,
+    "order_start_year": null,
+    "permanent_injunction": false,
+    "plaintiff_description": "The state of Maine and one of its agencies, the Maine Department of Natural Resources.",
+    "plaintiff_type": [
+      {
+        "value": "State Plaintiff"
+      }
+    ],
+    "prevailing_party": "None Yet / None",
+    "pro_se_status": "No",
+    "public_interest_lawyer": "No",
+    "related_cases": [],
+    "relief_natures": [
+      "None yet"
+    ],
+    "relief_nature_other": "",
+    "relief_sources": [
+      "None yet"
+    ],
+    "settlement_agreement": [],
+    "settlement_judgment_date": null,
+    "settlement_judgment_year": null,
+    "special_collections": [
+      "Trump Administration 2.0: Challenges to the Government",
+      "Trump Administration 2.0: Challenges to the Government"
+    ],
+    "special_case_type": [],
+    "state": "Maine",
+    "summary": "<p>This case challenged the Trump Administration&rsquo;s termination of a $9 million federal grant awarded to the state of Maine for a project to restore tidal salt marsh habitat and protect coastal infrastructure from flooding. The administration provided no explanation for the termination of the grant; plaintiffs alleged it was in retaliation against Maine&rsquo;s policies protecting the civil rights of transgender people. NOAA only terminated funding for this project, not for any other similar grants; additionally, even after its termination of Maine&rsquo;s grant, NOAA continued to advertise that federal funding was available for like projects. Plaintiffs alleged the Trump Administration&rsquo;s termination of the grant violated the Administrative Procedure Act, the Separation of Powers, the Take Care Clause, the Appropriations Clause, and the Tenth Amendment.</p>\r\n<p>On June 17, 2025, the state of Maine and the Maine Department of Natural Resources filed this lawsuit in the U.S. District Court of Maine. The lawsuit named the National Oceanic and Atmospheric Administration and its Administrator, as well as the U.S. Department of Commerce and its Secretary, as defendants. Plaintiffs sought declaratory and injunctive relief and attorneys&rsquo; fees. The case was assigned to Judge Nancy Torresen.</p>\r\n<p>On September 19, NOAA moved to dismiss the case. Before the plaintiff's response, the government was granted its motion to stay proceedings due to the impending government shutdown on October 2.&nbsp;</p>\r\n<p>This case is ongoing.</p>",
+    "summary_published_date": "2025-10-20T20:21:43.277169-04:00",
+    "summary_short": "This case challenged Trump's termination of a $9 million federal grant awarded to  Maine for an environmental project. Plaintiffs alleged the termination was retaliation against Maine’s policies protecting the civil rights of transgender people, and that the Trump Administration had thus violated the Administrative Procedure Act, the Separation of Powers, the Take Care Clause, the Appropriations Clause, and the Tenth Amendment. On June 17, 2025, the state of Maine and the Maine Department of Natural Resources filed this lawsuit in the U.S. District Court of Maine. The lawsuit named the National Oceanic and Atmospheric Administration and its Administrator, as well as the U.S. Department of Commerce and its Secretary, as defendants. Plaintiffs sought declaratory and injunctive relief and attorneys’ fees.",
+    "summary_tiny": null,
+    "terminating_date": null,
+    "clearinghouse_link": "clearinghouse.net/case/46727",
+    "is_active": true,
+    "case_documents_url": "https://clearinghouse.net/api/v2/documents/?case=46727",
+    "case_dockets_url": "https://clearinghouse.net/api/v2/dockets/?case=46727",
+    "case_resources_url": "https://clearinghouse.net/api/v2/resources/?case=46727"
+  },
+  "documents": [
+    {
+      "date": "2025-10-01",
+      "date_is_estimate": false,
+      "date_not_available": false,
+      "description": "",
+      "document_source": "RECAP",
+      "document_status": "Coding Complete",
+      "document_type": "Pleading / Motion / Brief",
+      "order_type": null,
+      "citation_paren": null,
+      "cite_1_page": null,
+      "cite_1_reporter": null,
+      "cite_1_vol": null,
+      "cite_2_page": null,
+      "cite_2_reporter": null,
+      "cite_2_vol": null,
+      "cite_3_page": null,
+      "cite_3_reporter": null,
+      "cite_3_vol": null,
+      "citation_status": "Not applicable",
+      "court": "District of Maine",
+      "no_title": false,
+      "party_types": [
+        "Defendant"
+      ],
+      "per_curium": false,
+      "is_core_document": true,
+      "id": 163919,
+      "file": "https://clearinghouse-umich-production.s3.amazonaws.com/media/doc/163919.pdf",
+      "title": "Motion for Stay in Light of Lapse of Appropriations",
+      "text": "Case 1:25-cv-00324-NT     Document 18     Filed 10/01/25     Page 1 of 3    PageID #: 250\nUNITED STATES DISTRICT COURT \nFOR THE DISTRICT OF MAINE \nSTATE OF MAINE, et al.         \n         \n    Plaintiffs,                \n                 \nv.              No.: 1:25-cv-00324-NT \n               \nNATIONAL OCEANIC AND ATMOSPHERIC   \nADMINISTRATION; LAURA GRIMM, in Her       \nOfficial Capacity as Chief of Staff performing the \nduties of Under Secretary of Commerce for \nOceans and Atmosphere and NOAA \nAdministrator; UNITED STATES \nDEPARTMENT OF COMMERCE; and \nHOWARD LUTNICK, in His Official Capacity as \nSecretary of Commerce,   \n           \n    Defendants.   \n \nMOTION FOR STAY IN LIGHT OF LAPSE OF APPROPRIATIONS \n \n  The Government hereby moves for a stay of all deadlines in the above-captioned \nmatter: \n1.  As of the date of this filing, it appears that the appropriations act that had \nbeen funding the Department of Justice will expire and that appropriations to the \nDepartment of Justice will lapse. It is unknown when funding will be restored by \nCongress.  \n2.  Absent an appropriation, Department of Justice attorneys are prohibited \nfrom working, even on a voluntary basis, except in the very limited circumstances, \nincluding “emergencies involving the safety of human life or the protection of property.” \n31 U.S.C. § 1342.  \n3.  Undersigned counsel therefore requests a stay of the above-captioned \nmatter until Congress has restored appropriations to the Department of Justice.  \n1 \n \n\nCase 1:25-cv-00324-NT     Document 18     Filed 10/01/25     Page 2 of 3    PageID #: 251\n4.  If this motion for a stay is granted, undersigned counsel will notify the \ncourt as soon as Congress has appropriated funds for the Department of Justice. The \nGovernment requests that, at that point, all current deadlines for the parties be \nextended commensurate with the duration of the lapse in appropriations.  \nWHEREFORE, with great regret for any disruption caused to the Court and the \nother litigants, the Government hereby moves for a stay of this matter until Department \nof Justice attorneys are permitted to resume their usual civil litigation functions. \n \nDated:  October 1, 2025        Respectfully Submitted, \n \nCRAIG M. WOLFF \n              Acting United States Attorney \n  \nBy:  /s/ John G. Osborn \nJohn G. Osborn \nAssistant United States Attorney \nU.S. Attorney’s Office \n100 Middle Street  \nPortland, ME 04101 \n(207) 780-3257 \n              John.Osborn2@usdoj.gov \n2 \n \n\nCase 1:25-cv-00324-NT     Document 18     Filed 10/01/25     Page 3 of 3    PageID #: 252\nCERTIFICATE OF SERVICE \n \n  I hereby certify that on October 1, 2025, I electronically filed the foregoing using \nthe CM/ECF system, which will send an electronic notification of such filing to all \ncounsel of record. \n \n \n              Respectfully Submitted, \n \nCRAIG M. WOLFF \n              Acting United States Attorney \n  \nBy:  /s/ John G. Osborn \nJohn G. Osborn \nAssistant United States Attorney \nU.S. Attorney’s Office \n100 Middle Street  \nPortland, ME 04101 \n(207) 780-3257 \n              John.Osborn2@usdoj.gov \n \n3 \n ",
+      "document_type_other": null,
+      "external_url": "https://www.courtlistener.com/docket/70574375/18/state-of-maine-v-national-oceanic-and-atmospheric-administration/",
+      "ecf_number": "18",
+      "clearinghouse_link": "clearinghouse.net/doc/163919"
+    },
+    {
+      "date": null,
+      "date_is_estimate": false,
+      "date_not_available": false,
+      "description": null,
+      "document_source": null,
+      "document_status": null,
+      "document_type": null,
+      "order_type": null,
+      "citation_paren": null,
+      "cite_1_page": null,
+      "cite_1_reporter": null,
+      "cite_1_vol": null,
+      "cite_2_page": null,
+      "cite_2_reporter": null,
+      "cite_2_vol": null,
+      "cite_3_page": null,
+      "cite_3_reporter": null,
+      "cite_3_vol": null,
+      "citation_status": null,
+      "court": null,
+      "no_title": false,
+      "party_types": [],
+      "per_curium": false,
+      "is_core_document": true,
+      "id": 161428,
+      "file": null,
+      "title": null,
+      "text": null,
+      "document_type_other": null,
+      "external_url": null,
+      "ecf_number": null,
+      "clearinghouse_link": "clearinghouse.net/doc/161428"
+    },
+    {
+      "date": "2025-06-17",
+      "date_is_estimate": false,
+      "date_not_available": false,
+      "description": "",
+      "document_source": "RECAP",
+      "document_status": "Coding Complete",
+      "document_type": "Complaint",
+      "order_type": null,
+      "citation_paren": null,
+      "cite_1_page": null,
+      "cite_1_reporter": null,
+      "cite_1_vol": null,
+      "cite_2_page": null,
+      "cite_2_reporter": null,
+      "cite_2_vol": null,
+      "cite_3_page": null,
+      "cite_3_reporter": null,
+      "cite_3_vol": null,
+      "citation_status": "Not applicable",
+      "court": "District of Maine",
+      "no_title": false,
+      "party_types": [
+        "Plaintiff"
+      ],
+      "per_curium": false,
+      "is_core_document": true,
+      "id": 161429,
+      "file": "https://clearinghouse-umich-production.s3.amazonaws.com/media/doc/161429.pdf",
+      "title": "Complaint",
+      "text": "Case 1:25-cv-00324-NT     Document 1     Filed 06/17/25     Page 1 of 25    PageID #: 1\nUNITED STATES DISTRICT COURT \nFOR THE DISTRICT OF MAINE \n \n \nSTATE OF MAINE and       ) \nMAINE DEPARTMENT OF MARINE   ) \nRESOURCES,        )             \n            ) \n            ) \n                  Plaintiffs,        ) \n            ) \n    v.        )  Civil Action No. ______________ \n            ) \nNATIONAL OCEANIC AND     ) \nATMOSPHERIC ADMINISTRATION;  ) \nLAURA GRIMM, in Her Official Capacity  ) \nas Chief of Staff performing the duties of   ) \nUnder Secretary of Commerce for Oceans  )  \nand Atmosphere and NOAA Administrator;  ) \nUNITED STATES DEPARTMENT   ) \nOF COMMERCE; and       ) \nHOWARD LUTNICK, in His Official   ) \nCapacity as Secretary of Commerce,   )   \n            ) \n                  Defendants.      ) \n \n \nCOMPLAINT \n(INJUNCTIVE RELIEF SOUGHT) \n \nINTRODUCTION \n1.  In this lawsuit, the State of Maine and the Maine Department of Marine Resources \n(“DMR”) challenge the National Oceanic and Atmospheric Administration’s (“NOAA”) \ntermination of a $9 million federal grant awarded to DMR for Transformational Habitat \nRestoration and Connectivity in Downeast Maine, a project to restore tidal salt marsh \nhabitat  and  protect  coastal  infrastructure  from  flooding  in  an  underserved  region \n(“Project”).  NOAA, an agency within the United States Department of Commerce, \nterminated the grant pursuant to 2 C.F.R. § 200.340(a)(4), purportedly because the Project \n\nCase 1:25-cv-00324-NT     Document 1     Filed 06/17/25     Page 2 of 25    PageID #: 2\n“no longer effectuates the program goals or agency priorities.”  See Ex. A at 1 (citing 2 \nC.F.R. § 200.340(a)(4)).   \n2.  NOAA has not offered any explanation of why the Project no longer effectuates program \ngoals or agency priorities.  Indeed, upon information and belief, NOAA has not terminated \nfunding for at least seventeen other salt marsh restoration projects under the same federal \ngrant program, and NOAA continues to publicly espouse the benefits of these projects.  \nFurther, even after terminating the Project grant, NOAA publicized the availability of \nsimilar funding and invited applications for similar coastal and  estuarine restoration \nprojects.  The Project grant has been singled out for termination.    \n3.  Despite NOAA’s lack of explanation for the termination, context strongly suggests that the \nProject grant was terminated for a reason entirely unrelated to the Project’s merits.  The \nbackdrop for NOAA’s otherwise inexplicable decision is the State of Maine’s ongoing \ndispute with the Trump Administration over Title IX of the Civil Rights Law of 1964 and \nthe participation of transgender girls and women on girls’ and women’s teams in school \nathletic programs.  The absence of any reasoned explanation for NOAA’s funding decision, \nthe timing of the decision, and the fact that the Project grant is the only salt marsh \nrestoration grant to be terminated strongly suggest that NOAA’s decision is a punitive or \ncoercive salvo in this ongoing dispute, entirely unrelated to salt marsh restoration or NOAA \npriorities. \n4.  By unreasonably singling out the Project grant; by terminating funding without providing \na reasoned explanation; by failing to comply with and acting beyond the authority provided \nto NOAA by the regulations governing grant termination; by pretextually terminating a \ngrant for habitat restoration and coastal resilience as a means of punishing or coercing the \n2 \n \n\nCase 1:25-cv-00324-NT     Document 1     Filed 06/17/25     Page 3 of 25    PageID #: 3\nState of  Maine  in  connection with an unrelated policy dispute; and/or by impliedly \nredefining its agency priorities in a way that is  inconsistent with the Congressional \nappropriation under which the Project grant was awarded, NOAA’s decision was arbitrary \nand capricious and outside its legal authority; violated the Administrative Procedure Act \n(“APA”), 5 U.S.C. §§ 701-706; violated the Appropriations and Take Care clauses of the \nUnited States Constitution, U.S. Const. art. I, § 9, cl. 7; id. art. II, § 3; violated the Tenth \nAmendment to the United States Constitution, U.S. Const. amend. X; and constituted an \nunlawful ultra vires action. \nJURISDICTION AND VENUE \n \n5.  This Court has subject matter jurisdiction pursuant to 28 U.S.C. § 1331 because this action \narises under the laws of the United States, including the APA. \n6.  Jurisdiction over Plaintiffs’ APA claims lies with this Court because Plaintiffs are “seeking \nfunds to which [they are] allegedly entitle[d], rather than money in compensation for the \nlosses, whatever they may be, that [Plaintiffs] will suffer or ha[ve] suffered by virtue of the \nwithholding of those funds.”  Bowen v. Massachusetts, 487 U.S. 879, 895 (1988) (internal \nquotation marks omitted).  That is, jurisdiction in this Court is proper because Plaintiffs’ \nclaims constitute an equitable action for specific relief rather than an action for “money \ndamages.”  See id. at 893-94; Dep’t of Educ. v. California, 145 S. Ct. 966, 968 (2025).   \n7.   Plaintiffs do not base their claims on a contractual relationship with NOAA or ask this \nCourt  to  interpret  and  enforce—or  even  review—the  terms  and  conditions  of  any \ncontractual agreement or grant.  Rather, Plaintiffs simply ask this Court to interpret \ngoverning federal law.  See Woonasquatucket River Watershed Council v. U.S. Dep’t of \nAgric., --- F. Supp. 3d ----, 2025 WL 1116157, at *13 (D.R.I. Apr. 15, 2025).   \n3 \n \n\nCase 1:25-cv-00324-NT     Document 1     Filed 06/17/25     Page 4 of 25    PageID #: 4\n8.  Venue is proper in this district pursuant to 28 U.S.C. §§ 1391(b)(2), (e)(1).  Defendants are \nUnited States agencies and officer of the United States sued in their official capacities.  The \nState of Maine and the Maine Department of Marine Resources are residents of this district, \nand a substantial part of the events or omissions giving rise to this Complaint occurred and \ncontinues to occur within the District of Maine. \nPARTIES \n9.  The State of Maine is a sovereign state of the United States of America and is represented \nby Attorney General Aaron M. Frey.   \n10. The Maine Department of Marine Resources is a state agency established “to conserve and \ndevelop marine and estuarine resources; to conduct and sponsor scientific research; to \npromote and develop the Maine coastal fishing industries; to advise and cooperate with \nlocal, state, and federal officials concerning activities in coastal waters; and to implement, \nadminister, and enforce the laws and regulation necessary for these purposes.”  12 M.R.S. \n§ 6021 (2024).   \n11. The Maine Attorney General is authorized to pursue this action on behalf of the State of \nMaine and the Maine Department of Marine Resources pursuant to 5 M.R.S. § 191 (2024).   \n12. Defendant United States Department of Commerce (“USDOC”) is a cabinet agency within \nthe executive branch of the United States government. \n13. Defendant NOAA is an agency within USDOC with a mission to “understand and predict \nchanges in climate, weather, ocean, and coasts, to share that knowledge and information \nwither others, and to conserve and manage coastal and marine ecosystems and resources.”1 \n \n1  NOAA, About our agency, https://www.noaa.gov/about-our-agency (last visited May 28, 2025). \n4 \n \n\nCase 1:25-cv-00324-NT     Document 1     Filed 06/17/25     Page 5 of 25    PageID #: 5\n14. Defendant Howard Lutnick is the Secretary of Commerce and is the highest-ranking \nofficial of the USDOC.  He is sued in his official capacity. \n15. Defendant Laura Grimm is Chief of Staff performing the duties of Under Secretary of \nCommerce for Oceans and Atmosphere and NOAA Administrator.  She is sued in her \nofficial capacity as NOAA’s highest-ranking official. \nFACTUAL ALLEGATIONS \n \nNOAA’s Transformational Habitat Restoration and  \nCoastal Resilience Grant Program \n \n16. In 2021, Congress appropriated funds for NOAA in the Infrastructure Investment and Jobs \nAct (also known as the Bipartisan Infrastructure Law) and the Inflation Reduction Act to \npromote habitat restoration and coastal resilience.  Among other appropriations, Congress \nprovided as follows: \n•  $491,000,000 shall be for contracts, grants, and cooperative agreements to \nprovide funding and technical assistance for purposes of restoring marine, \nestuarine, coastal, or Great Lakes ecosystem habitat, or constructing or \nprotecting  ecological  features  that  protect  coastal  communities  from \nflooding or coastal storms; \n \n•  $207,000,000 shall be for habitat restoration projects . . .; [and] \n \n•  $400,000,000 shall be for restoring fish passage by removing in-stream \nbarriers and providing technical assistance . . . . \n \nInfrastructure Investment and Jobs Act, Pub. L. 117-58, 135 Stat. 429, 1355 (2021). \n \n17. Pursuant  to  these  appropriations,  NOAA  implemented  the  Transformational  Habitat \nRestoration and Coastal Resilience grant program within the NOAA Fisheries Office of \nHabitat Conservation, a program charged with “[p]rotecting and restoring habitat to sustain \n5 \n \n\nCase 1:25-cv-00324-NT     Document 1     Filed 06/17/25     Page 6 of 25    PageID #: 6\nfisheries,  recover  protected  species,  and  maintain  resilient  coastal  communities  and \necosystems.”2  The grant program provides funding for projects that  \nwill have a transformative impact for coastal communities and tribes across \nthe country.  They will help sustain our nation’s fisheries, make significant \nstrides in the recovery of threatened and endangered species, and help \nprotect coastal communities and ecosystems from the impacts of climate \nchange.  They will support efforts such as reconnecting rivers to their \nhistoric floodplains, outplanting corals to rebuild reefs, building living \nshorelines that protect coasts from erosion and sea level rise, and more.3  \n \n18. The Notice of Funding Opportunity issued by NOAA further described the grant program \nas follows: \nThis funding opportunity seeks habitat restoration projects that enhance \ncoastal resilience. . . . Strengthening coastal resilience means preparing and \nadapting coastal communities to mitigate the impacts of, and more quickly \nrecover after, extreme weather events such as hurricanes, coastal storms, \nand flooding, as well as longer-term climate hazards, such as sea level rise.  \nHabitat restoration and natural and nature-based infrastructure are critical \nto  doing  so,  by  protecting  lives  and  property;  sustaining  commercial, \nrecreational, and subsistence fishing; recovering threatened and endangered \nspecies; and maintaining and fostering vibrant coastal economies.  This \nfunding opportunity . . . aims to fund projects that support the overarching \ngoal of enhancing coastal resilience.   \n \nEx. B at 2. \n \nThe Project: Transformational Habitat Restoration  \nand Connectivity in Downeast Maine  \n \n19. On  June  10,  2024,  DMR  applied  for  funding  from  the  grant  program  for  the \nTransformational Habitat Restoration and Connectivity in Downeast Maine project in the \ntowns of Addison and Columbia, located in Washington County.  Specifically, DMR \n \n2  NOAA Fisheries, About Us: Office of Habitat Conservation, https://www.fisheries.noaa.gov/about/office-habitat-     \nconservation (last visited May 28, 2025). \n \n3 NOAA Fisheries, Transformational Habitat Restoration and Coastal Resilience Grants, \nhttps://www.fisheries.noaa.gov/grant/transformational-habitat-restoration-and-coastal-resilience-grants (last visited \nMay 28, 2025). \n6 \n \n\nCase 1:25-cv-00324-NT     Document 1     Filed 06/17/25     Page 7 of 25    PageID #: 7\napplied for funding to replace a failing road crossing on the West Branch Pleasant River, \nelevate the road, and relocate water and septic systems associated with that crossing.  The \nroad crossing is an impediment to tidal flow and fish passage, and it is vulnerable to \nflooding during high precipitation events.  As outlined in DMR’s application, the Project \nis part of a larger effort to restore tidal flow, “ecosystem services[,] and natural functions \nof the fresh and saltwater habitats in the West Branch Pleasant River,” which is “one of \nDMR’s highest priority restoration projects in Downeast Maine.”  Ex. C at 1.4  \n20. In the application, DMR explained that the Project will \n \nbenefit[]  several  commercially  and  recreationally  important \nspecies . . . such as striped bass, Atlantic cod, pollock, hake, bluefish, \nflounder, American lobster, alewife, blueback herring, American shad, \nrainbow smelt, and American eel.  Th[e] project will also benefit NOAA \nSpecies in the Spotlight Endangered Atlantic salmon and Endangered \nSpecies Act-listed Atlantic and shortnose sturgeon . . . . Washington \nCounty, Maine, is one of the most fisheries-dependent regions along the \nEast Coast of the United States. . . . The towns in the project area are not \nonly  dependent  on  fisheries  but  are  also  critically  underserved \ncommunities. \n \n  Id. at 2. \n \n21. DMR further explained that the Project will enhance the community resilience of the \naffected towns: \nAddison and Columbia are also ranked as ‘most vulnerable’ in Maine’s \nCoastal Risk Explorer that shows social vulnerability to sea level rise in \ncoastal communities.  Both projects will enhance community resilience \nthrough flood mitigation, reducing risk of catastrophic structural failure, \nand improved water quality.  Community resilience will also be supported \nthrough population increases of important harvested species in the region, \nand the associated ecological resilience that results from fish population \nimprovement and habitat restoration. \n \n  Id. \n \n \n4 The attached exhibit is DMR’s updated narrative and project summary, which was revised to exclude a project that \nwas part of the initial application but not part of the eventual grant award. \n7 \n \n\nCase 1:25-cv-00324-NT     Document 1     Filed 06/17/25     Page 8 of 25    PageID #: 8\n22. On August 15, 2024, DMR received a Notice of Award from NOAA allocating $9 million \nin federal funds for the Project.5  Ex. D  at 1-3. \nPresident Trump Targets the State of Maine Over Transgender Policy \n23. Donald J. Trump was sworn in as President of the United States on January 20, 2025.  \nShortly  thereafter,  he  issued  a  series  of  Executive  Orders  regarding  the  federal \ngovernment’s definition of “sex” and the participation of transgender girls and women in \nschool sports.  On February 5, 2025, President Trump issued Executive Order 14201, \nentitled “Keeping Men Out of Women’s Sports,” which stated, inter alia, “it is the policy \nof the United States to rescind all funds from educational programs that deprive women \nand girls of fair athletic opportunities, which results in the endangerment, humiliation, and \nsilencing of women and girls and deprives them of privacy” and directed, “[a]ll executive \ndepartments and agencies (agencies) shall review grants to educational programs and, \nwhere  appropriate,  rescind  funding  to  programs  that  fail  to  comply  with  the  policy \nestablished in this order.”6 \n24. On February 20, 2025, President Trump stated at a gathering of Republican governors that \nhe “heard men are still playing in Maine,” apparently referring to transgender girls and \nwomen participating in school sports.  He continued: “[W]ell, I hate to tell you this, but \nwe’re not going to give them any federal money.  They are still saying we want men to \n \n5 The award number is NA24NMFX463C0066-T1-01. \n \n6 Exec. Order No. 14201, Keeping Men Out of Women’s Sports (Feb. 5, 2025), \nhttps://www.whitehouse.gov/presidential-actions/2025/02/keeping-men-out-of-womens-sports (last visited May \n28, 2025). \n \n8 \n \n\nCase 1:25-cv-00324-NT     Document 1     Filed 06/17/25     Page 9 of 25    PageID #: 9\nplay in women’s sports, and I cannot believe that they’re doing that . . . so, we’re not going \nto give them any federal funding—none whatsoever—until they clean that up.”7   \n25. The next day, on February 21, 2025, President Trump addressed a group of governors, \nincluding  Maine  Governor  Janet  Mills,  at  a  meeting  of  the  National  Governors \nAssociation.8   \n26. President  Trump  asked  Governor  Mills  whether  she  was  going  to  comply  with  his \nExecutive Order prohibiting the participation of transgender girls and women in school \nsports.  Governor Mills responded: “I’m complying with state and federal law.”  President \nTrump responded:  “Well, we are the federal law.  You’d better do it.  You’d better do it, \nbecause you’re not going to get any federal funding at all if you don’t.”  Governor Mills \nresponded:  “See you in court.”  President Trump then said: “I look forward to that—that \nshould be a real easy one.”9 \n27. Subsequently, President Trump stated that he “need[s] a full throated apology from the \nGovernor herself, and a statement that she will never make such an unlawful challenge to \nthe Federal Government again, before this case can be settled.”10   \n28. On February 27, 2025, six days after President Trump threatened Governor Mills with the \ntermination of federal funding, the Acting Social Security Administrator emailed his staff \n \n7 Watch: Trump speaks to Republican governors, Feb. 20, 2025, 45:36-46:11, https://thehill.com/video-clips/5155659-\nwatch-live-donald-trump-republican-governors-association/ (last visited May 28, 2025). \n \n8  See Trump administration orders investigation after Gov. Mills publicly defies president over transgender policy, \nPortland Press Herald, Feb. 21, 2025, https://www.pressherald.com/2025/02/21/trump-threatens-to-cut-federal-\nfunding-to-maine-over-transgender-athlete-policy (last visited May 28, 2025). \n \n9  Id. \n \n10   See Trump presses Maine governor for ‘full throated apology’ after transgender athlete spat, The Hill, Mar. 22, \n2025, https://thehill.com/homenews/lgbtq/5208797-donald-trump-maine-governor-transgender-sports-policy \n(last visited May 28, 2025).   \n \n9 \n \n\nCase 1:25-cv-00324-NT     Document 1     Filed 06/17/25     Page 10 of 25    PageID #: 10\nregarding  terminating  the  State  of  Maine’s  contracts  with  the  Social  Security \nAdministration.  A staff member warned that “[t]erminating the contracts would result in \nimproper payments and potential for identity theft.”  The Administrator responded: “Please \ncancel the contracts.  While our improper payments will go up, and fraudsters may \ncompromise identities, no money will go from the public trust to a petulant child,” referring \nto Governor Mills.11 \n29. When asked to comment on the Administrator’s actions, a White House spokesman stated:   \nGovernor Mills would rather cater to the anti-science and anti-women \nlunatics  of  the  transgender  movement  than  uphold  her  constitutional \nobligations to the laws of her state, and more importantly the Constitution.  \nPresident Trump has been clear in his demands and the ball is in the \nGovernor’s court.  Choosing the rights of men who want to dominate \nwomen’s  sports  over  the  rights  of  vulnerable  women  and  girls  while \nblatantly ignoring federal law will not end well for the Governor and the \npeople of Maine deserve better.12 \n \n30. On April 2, 2025, Governor Mills received a letter from Secretary of Agriculture Brooke \nRollins freezing United States Department of Agriculture (“USDA”) funds based on the \nState of Maine’s purported non-compliance with Title IX, 20 U.S.C. § 1681 et seq.  See \nEx. E. \n31. The April 2, 2025, letter began by stating: \nYou cannot openly violate federal law against discrimination in education \nand expect federal funding to continue unabated.  Your defiance of federal \nlaw  has  cost  your  state,  which  is  bound  by  Title  IX  in  educational \nprogramming.  Today, I am freezing Maine’s federal funds for certain \nadministrative and technological functions in schools.  This is only the  \n \n \n11  See  Letter  from  Rep.  Connolly  to  Leland  Dudek,  Acting Administrator,  U.S.  Soc.  Sec.  Admin.,  Apr. 1, \n2025,https://oversightdemocrats.house.gov/sites/evo-subsites/democrats-oversight.house.gov/files/evo-media-\ndocument/2025-04-01-gec-to-ssa-dudek-re-maine.pdf (last visited May 28, 2025).   \n \n12  See Emails Confirm Social Security Administration Canceled Maine Contracts as Political Payback, The \nHuffington Post, Apr. 2, 2025, https://www.huffpost.com/entry/janet-mills-social-security-maine-leland-\ndudek_n_67ed2d99e4b0b937ab8f135c (last visited May 28, 2025). \n10 \n \n\nCase 1:25-cv-00324-NT     Document 1     Filed 06/17/25     Page 11 of 25    PageID #: 11\nbeginning, though you are free to end it at any time by protecting women \nand girls in compliance with federal law. \n \nId. at 1 (emphasis added). \n \n32. The April 2, 2025, letter also stated that “USDA has launched a full review of grants \nawarded by the Biden Administration to the Maine Department of Education,” that “[m]any \nof these grants appear to be wasteful, redundant, or otherwise against the priorities of the \nTrump Administration,” and that “USDA will not extend the Biden Administration’s \nbloated bureaucracy and will instead focus on a Department that is farmer-first and without \na leftist social agenda.”  Id. at 1-2. \n33. In an April 16, 2025, press conference announcing the filing of a Title IX suit against the \nMaine Department of Education by the United States Department of Justice, United States \nAttorney General Pam Bondi stated in part: \nWe want to get states to comply with us, that’s what this is about. . . . We’ve \nstripped grants from Maine through other departments and we are going to \ncontinue to fight for women.13   \n \n34. The USDA’s freeze of funds to the State of Maine was the subject of a separate lawsuit in \nthe District of Maine.  On April 11, 2025, the district court granted the State of Maine’s \nMotion for  Temporary Restraining Order and ordered USDA to release federal funding to \nthe State.  Maine v. U.S. Dep’t of Agric., 1:25-cv-00131-JAW, 2025 WL 1088946, at *31 \n(D. Me. Apr. 11, 2025).  The matter was subsequently settled.  Under the settlement, USDA \nagreed to “refrain from freezing, terminating, or otherwise interfering with the State of \nMaine’s  access  to  [USDA]  funds  .  .  .  without  first  following  all  legally  required \nprocedures.”  Ex. F at 3.   \n \n13  C-SPAN, Attorney General Bondi Announces Lawsuit Against Maine, Apr. 16, 2025, 2:25-2:50, https://www.c-\nspan.org/program/news-conference/attorney-general-bondi-announces-lawsuit-against-maine/658667(emphasis \nadded) (last visited May 28, 2025). \n11 \n \n\nCase 1:25-cv-00324-NT     Document 1     Filed 06/17/25     Page 12 of 25    PageID #: 12\n35. Upon information and belief, additional federal grant funding in Maine unrelated to school \nsports has been suspended or terminated in recent months on the basis of purported non-\ncompliance with Title IX.   \nNOAA Terminates the Project Grant While Continuing  \nto Fund Other Program Grants \n \n36. Days after Governor Mills received the letter freezing USDA funds, DMR received a letter \nfrom Timothy Carrington, Acting Director, NOAA Grants Management Division.  The \none-page letter dated April 9, 2025, informed DMR that “[USDOC] will cease funding \nTransformational  Habitat  Restoration  and  Connectivity  in  Downeast  Maine  award \n[sic] . . .  through  [NOAA],  pursuant  to  to  [sic]  Section  200.340  of  the  2  C.F.R.”   \nEx. A at 1.  \n37. The April 9, 2025, letter’s entire explanation for terminating the $9 million grant was as \nfollows: \nAs part of efforts to streamline and reduce the cost and size of the Federal \nGovernment, [USDOC] is reprioritizing funding and staff to support only \nthose  activities  directly  related  to  its  current  programmatic  goals  and \nmission priorities.  After careful review of this award, the Department has \ndetermined that Transformational Habitat Restoration and Connectivity in \nDowneast Maine activities are no longer aligned with effectuating those \nundertaking,  nor  relevant  to  the  current  focus  of  the  Administration’s \nobjectives.  Specifically, NOAA has concluded that the initial planning and \ndesign for this project is an overuse of taxpayer dollars.  The stated goal and \ndescription of the program—restoration of salt marsh and related effects—\nfalls outside of the current direction NOAA is taking regarding habitat \nrestoration at this time.  The program also appears to be better suited for \nanother governmental entity, whether state or federal.   \n \n  Id. \n \n38. The April 9, 2025, letter stated that the decision to “cease funding” for the Project was not \nmade pursuant to the specific terms and conditions of the grant but rather pursuant to 2 \nC.F.R. § 200.340(a)(4), which provides that a federal award may be terminated “to the \n12 \n \n\nCase 1:25-cv-00324-NT     Document 1     Filed 06/17/25     Page 13 of 25    PageID #: 13\nextent authorized by law, if an award no longer effectuates the program goals or agency \npriorities.”  See Ex. A at 1. \n39. All federal funds for the Project were terminated as of April 9, 2025.  See id.; Ex. G at 4. \n40. Despite NOAA’s statement that the “restoration of salt marsh and related effects” no longer \naligns with the agency’s “focus” or “current direction,” Ex. A at 1, Plaintiffs assert, on \ninformation  and  belief,  that  the  Project  grant  under  the  Transformational  Habitat \nRestoration and Coastal Resilience program is the only such salt marsh restoration grant \nthat has been terminated. \n41. To date, “NOAA has run two rounds of the Transformational Habitat Restoration and \nCoastal  Resilience  funding  opportunity  under  the  Bipartisan  Infrastructure  Law  and \nInflation Reduction Act.  In the first round of funding, NOAA awarded more than $265 \nmillion in funding for thirty-eight projects.  In the second round of  funding, NOAA \nrecommended nearly $220 million in funding for thirty-two projects.”14  \n42. Since terminating the grant for the Project, NOAA has continued to fund—and publicly \nespouse  the  benefits  of—projects  outside  of  Maine  that  are  funded  under  the \nTransformational Habitat Restoration and Coastal Resilience grant program, including \nprojects to restore salt marshes as a means of restoring habitat and improving coastal \nresilience.  See, e.g., NOAA Fisheries, Habitat Restoration Under the Infrastructure \nInvestment  and  Jobs  Act,  https://www.fisheries.noaa.gov/national/habitat-\nconservation/habitat-restoration-under-infrastructure-investment-and-jobs-act (last visited \nMay 28, 2025) (stating that “NOAA’s Office of Habitat Conservation is making a historic \n \n14  NOAA Fisheries, Transformational Habitat Restoration and Coastal Resilience Projects Selected for Funding, \nhttps://www.fisheries.noaa.gov/national/habitat-conservation/transformational-habitat-restoration-and-coastal-\nresilience-projects (last visited May 28, 2025). \n13 \n \n\nCase 1:25-cv-00324-NT     Document 1     Filed 06/17/25     Page 14 of 25    PageID #: 14\nimpact  to  restore  coastal  habitats  and  support  communities  across  the  country”  and \nhighlighting “[n]early $220 million for 32 grants selected through the Transformational \nHabitat Restoration and Coastal Resilience funding opportunity” in the second round of \nfunding  and  “[m]ore  than  $265  million  for  38  awards  selected  through  the \nTransformational Habitat Restoration and Coastal Resilience funding opportunity” in the \nfirst  round);  NOAA  Fisheries,  Transformational  Habitat  Restoration  and  Coastal \nResilience Projects Selected for Funding, https://www.fisheries.noaa.gov/national/habitat-\nconservation/transformational-habitat-restoration-and-coastal-resilience-projects  (last \nvisited May 28, 2025) (“These projects [funded under the grant program] span a broad \nrange of habitats and restoration techniques.  They will reconnect rivers to their historic \nfloodplains, outplant corals to rebuild reefs, restore salt marshes that protect coasts from \nerosion and sea level rise, and more.”); id. (highlighting seven active salt marsh restoration \nprojects funded by the Transformational Habitat Restoration and Coastal Resilience \nprogram).   \n43. NOAA also has continued to publicly espouse the importance of salt marshes and salt \nmarsh restoration efforts.  On March 21, 2025, NOAA dedicated a feature story on its \nwebsite, “Marsh Madness,” to “keeping score of all the ways marsh habitat play an \nimportant role in the protection and restoration work we do for communities, fish, and \nwildlife” and highlighting efforts to protect and restore coastal wetlands, “a pivotal part of \nthe  natural  system,  providing  tremendous  benefits  for  coastal  ecosystems  and \ncommunities.”15 \n \n15   NOAA Fisheries, Marsh Madness, Mar. 1, 2025, https://www.fisheries.noaa.gov/feature-story/marsh-madness \n(last visited May 28, 2025).   \n14 \n \n\nCase 1:25-cv-00324-NT     Document 1     Filed 06/17/25     Page 15 of 25    PageID #: 15\n44. Further, NOAA just recently solicited applications, with an application deadline of May \n12,  2025,  for  “Coastal  Habitat  and  Resilience  Grants  for  Tribes  and  Underserved \nCommunities, Under [Bipartisan Infrastructure Law] Round 3.”  Grants will be awarded to \nsupport “capacity building, meaningful engagement, and restoration project activities that \nenhance resilience of . . . underserved communities and have the greatest potential to lead \nto habitat restoration in coastal, estuarine, marine, and Great Lakes areas.”  Ex. H at 3. \nNOAA’s Termination of the Project Grant \nWill Harm the State of Maine and the Affected Communities \n \n45. NOAA’s termination of the Project grant will have a significant impact on Plaintiffs’ \nefforts to restore the ecosystem services and natural functions of the fresh and saltwater \nhabitats in the  West Branch Pleasant River  and to improve coastal resilience in an \nunderserved region.  Although DMR has funding for other aspects of the larger West \nBranch Pleasant River restoration project, the agency does not have available funding for \nthe critical component that was to be funded by the NOAA grant.   \n46. Of particular concern is the fact that the Addison Road crossing, the replacement of which \nwould have been funded by the grant, is in “critical” condition according to the Maine \nDepartment of Transportation’s rating system.  Specifically, the crossing’s culverts have \nfailed, creating a large sag in the roadway, weakening the shoulder, and compromising the \nfooting of a guardrail.  DMR predicts that failure of this road crossing in conjunction with \nrising sea levels and intense coastal storms will increase emergency response times for the \naffected towns, threatening public health and safety.  \n47. Indeed, in a May 1, 2025, letter to Senator Susan Collins asking her to assist with restoring \nthe grant, state legislators representing the affected towns wrote “to provide information \n15 \n \n\nCase 1:25-cv-00324-NT     Document 1     Filed 06/17/25     Page 16 of 25    PageID #: 16\nfrom our constituents on how [the grant termination] will harm our communities in Maine,” \nand stated: \nThe grant funded the replacement of the failing road crossing of Bells Brook \non Addison Road, significant road raising, and relocating drinking and \nseptic infrastructure in Addison and Columbia, Maine.  We understand that \nthe  Maine  Department  of  Transportation  has  inspected  the  crossing \nstructure and concluded it is in critical condition and needs to be replaced.  \nIn  addition,  we  know  from  our  constituents  that  this  road  crossing \nexperiences significant flooding repeatedly, including during two back-to-\nback storms that hit our communities in January [of 2024].  In fact, during \nthe storms last year, a constituent lost her life in the flooding. \n \nEx. I at 1. \n48. The legislators further explained: \nThe towns in the project area are not only dependent on fisheries but are \nalso critically underserved communities.  Addison and Columbia are ranked \nas “most vulnerable” in Maine’s Coastal Risk Explorer that shows social \nvulnerability to sea level rise in coastal communities.  This grant would \nincrease the communities’ ability to connect with important transportation \nroutes during flooding and high tide events, protect the safety of residents, \nreduce the risk of  catastrophic structural failure of the Addison Road \ncrossing, and improve water quality.  Community resilience will also be \nsupported through population increases of important harvested species in \nthe region, and the associated ecological resilience that results from fish \npopulation improvement and habitat restoration. \n \n  Id. \nCAUSES OF ACTION \nCount I – Violation of the Administrative Procedure Act:  \nArbitrary and Capricious Action \n \n49. Plaintiffs incorporate by reference the foregoing paragraphs of this Complaint as if set forth \nherein. \n50. Defendants’ termination of grant funding for the Transformational Habitat Restoration \nand Connectivity in Downeast Maine project constitutes final agency action subject to \nreview under the APA.  5 U.S.C. § 704. \n16 \n \n\nCase 1:25-cv-00324-NT     Document 1     Filed 06/17/25     Page 17 of 25    PageID #: 17\n51. The APA requires that a court “hold unlawful and set aside agency action, findings, and \nconclusions found to be . . . arbitrary, capricious, [or] an abuse of discretion.”  Id. \n§ 706(2)(A).  \n52. Agency action is arbitrary or capricious where it is not “reasonable and reasonably \nexplained.”  FCC v. Prometheus Radio Project, 592 U.S. 414, 423 (2021).  An agency \nmust therefore provide “a satisfactory explanation for its action[,] including a rational \nconnection between the facts found and the choice made.”  Motor Vehicle Mfrs. Ass’n of \nthe U.S., Inc. v. State Farm Mut. Auto. Ins. Co., 463 U.S. 29, 43 (1983) (internal quotation \nmarks omitted).   \n53. Defendants’ termination of the Project grant was arbitrary and capricious.  Defendants did \nnot provide a reasoned explanation or support for their contention that the Project meets \nthe regulatory criteria for termination, specifically, that the Project “no longer effectuates \nthe program goals or agency priorities.”  2 C.F.R. § 200.340(a)(4).  Per the Office of \nManagement  and  Budget  itself,  this  provision  does  not  authorize  arbitrary  grant \nterminations.  See Guidance for Grants and Agreements, 85 Fed. Reg. 49,506, 49,509 (Aug. \n13, 2020).   \n54. The lack of a reasoned explanation is especially damning because, as outlined above, \nNOAA continues to fund at least seventeen other salt marsh restoration projects under the \nTransformational Habitat Restoration and Coastal Resilience grant program, promote the \nprogram’s  benefits  and  importance,  and  solicit  applications  for  new  grant  awards.  \nDefendants did not provide any explanation at all as to why the Project is the sole salt \nmarsh  restoration  project  that  “no  longer  effectuates  the  program  goals  or  agency \npriorities.”  See Ex. A at 1 (citing 2 C.F.R. § 200.340(a)(4)).  If anything, the Project falls \n17 \n \n\nCase 1:25-cv-00324-NT     Document 1     Filed 06/17/25     Page 18 of 25    PageID #: 18\nwithin the core of NOAA’s aptly titled Transformational Habitat Restoration and Coastal \nResilience grant program.    \n55. Given that NOAA has continued to publicly espouse the benefits of salt marsh restoration \nand  coastal  resilience  projects  and  to  fund  such  projects  in  other  states,  its  action \nterminating  the  grant  funding  for  such  a  project  is  straightforwardly  arbitrary  and \ncapricious.   \n56. Similarly, Defendants did not provide any reasoned explanation of why the Project alone \nof  all  salt  marsh  restoration  projects  funded  under  the  Transformational  Habitat \nRestoration and Coastal Resilience grant program “is an overuse of taxpayer dollars”; how \n“the initial planning and design for this project” is specifically objectionable; or why such \na concern about initial planning and design costs warrants termination of the entire award.  \nSee Ex. A at 1. \n57. Further, “the disconnect between the decision made and the explanation given”; the \nevidence discussed above demonstrating NOAA’s anomalous treatment of the Project vis-\nà-vis other salt marsh restoration projects; and the backdrop of President Trump’s ongoing \nefforts to use federal funding decisions to punish and/or coerce the State of Maine based \non its purported violation of Title IX; demonstrate that Defendants’ purported reasons for \nterminating  the  grant  were  “contrived”  and  pretextual,  thereby  violating  the  APA’s \nreasoned explanation requirement.  See Dep’t of Com. v. New York, 588 U.S. 752, 785 \n(2019).   \nCount II – Violation of the Administrative Procedure Act: \nAction Contrary to Grant Termination Regulations \n \n58. Plaintiffs incorporate by reference the foregoing paragraphs of this Complaint as if set forth \nherein. \n18 \n \n\nCase 1:25-cv-00324-NT     Document 1     Filed 06/17/25     Page 19 of 25    PageID #: 19\n59. The APA requires that a court “hold unlawful and set aside agency action, findings, and \nconclusions found to be . . . not in accordance with law.”  5 U.S.C. § 706(2)(A).  \n60. The regulations governing grant termination provide that a federal agency may terminate \na grant only under certain specific circumstances, including “to the extent authorized by \nlaw, if an award no longer effectuates the program goals or agency priorities.  2 C.F.R. \n§ 200.340(a)(4).  These regulations further provide that upon initiating a grant termination, \n“the Federal agency must provide the recipient with an opportunity to object and provide \ninformation challenging the action.”  2 C.F.R. § 200.342.  \n61. By terminating the Project grant purportedly because the Project “no longer effectuates the \nprogram goals or agency priorities”—when the Project falls within the heartland of the \nCongressional appropriation supporting NOAA’s Transformational Habitat Restoration \nand Coastal Resilience grant program—Defendants acted contrary to the regulations \nenumerating and restricting the bases for grant termination.  2 C.F.R. § 200.340(a)(4). \n62. By terminating the Project grant in a manner that violates the United States Constitution \nand otherwise constitutes unlawful action (as outlined and further described in this Count \nand in Counts I and III-VI), Defendants acted contrary to the requirement in the grant \ntermination regulations that an award may be terminated because it no longer aligns with \nagency priorities only “to the extent authorized by law.”  Id. \n63. By terminating the Project grant without providing Plaintiffs with “an opportunity to object \nand  provide  information  challenging  the  action,”  Defendants  acted  contrary  to  the \nrequirements of the grant termination regulations.  2 C.F.R. § 200.342. \n \n \n19 \n \n\nCase 1:25-cv-00324-NT     Document 1     Filed 06/17/25     Page 20 of 25    PageID #: 20\nCount III – Violation of the Administrative Procedure Act: \nAction in Excess of Agency Authority \n \n64. Plaintiffs incorporate by reference the foregoing paragraphs of this Complaint as if set forth \nherein. \n65. The APA requires that a court “hold unlawful and set aside agency action, findings, and \nconclusions found to be . . . in excess of statutory jurisdiction, authority, or limitations, or \nshort of statutory right.”  5 U.S.C. § 706(2)(C). \n66. By terminating the Project grant to punish and/or coerce the State of Maine based on its \npurported violation of Title IX, Defendants acted in excess of their legal authority to \nterminate federal awards under 2 C.F.R. § 200.340. \n67. By terminating the Project grant to punish and/or coerce the State of Maine based on its \npurported violation of Title IX, Defendants unlawfully assumed the role of agencies \ncharged with enforcing Title IX and therefore acted in excess of their legal authority.16 \n \nCount IV – Violation of the United States Constitution: \nUsurping the Legislative Function, Violation of the Separation of Powers, Appropriations \nClause, Take Care Clause \n \n68. Plaintiffs incorporate by reference the foregoing paragraphs of this Complaint as if set forth \nherein. \n69. The Appropriations Clause provides that “[n]o Money shall be drawn from the Treasury, \nbut in Consequence of Appropriations made by Law.”  U.S. Const. art. I, § 9, cl. 7.   \n \n16  Title IX authorizes federal agencies that provide financial assistance to educational programs or activities to enforce \nits provisions.  20 U.S.C. § 1682.  However, any federal action to terminate federal financial assistance based on \na purported Title IX violation is subject to statutory process and protections for state entities receiving that financial \nassistance, including a right to judicial review.  Id. §§ 1682-83.  Even if NOAA were authorized to enforce Title \nIX—and it is not—the agency failed to follow the statutorily required processes and afford Plaintiffs the statutory \nprotections provided by law. \n20 \n \n\nCase 1:25-cv-00324-NT     Document 1     Filed 06/17/25     Page 21 of 25    PageID #: 21\n70. The Take Care Clause provides that the executive must “take Care that the Laws be \nfaithfully executed.”  U.S. Const. art. II, § 3. \n71. It is well-established that “[o]ur Constitution gives Congress control over the public fisc.”  \nConsumer Fin. Prot. Bureau v. Cmty. Fin. Servs. Ass’n of Am., Ltd., 601 U.S. 416, 420 \n(2024); see also id. at 431 (“By the time of the Constitutional Convention, the principle of \nlegislative  supremacy  over  fiscal  matters  engendered  little  debate  and  created  no \ndisagreement.  It was uncontroversial that the powers to raise and disburse public money \nwould reside in the Legislative Branch.”).   \n72. The Appropriations Clause is a “straightforward and explicit command” that “no money \ncan be paid out of the Treasury unless it has been appropriated by an act of Congress.”  Off. \nof Pers. Mgmt. v. Richmond, 496 U.S. 414, 424 (1990) (quoting Cincinnati Soap Co. v. \nUnited States, 301 U.S. 308, 321 (1937)).   \n73. Once money has been appropriated by Congress, the Executive cannot unilaterally amend \nor cancel such appropriations.  See Train v. City of New York, 420 U.S. 35, 43-44 (1975); \nIn re Aiken Cnty., 725 F.3d 255, 261 n.1 (D.C. Cir. 2013); 2 U.S.C. § 683 (“Any amount \nof budget authority proposed [by the President] to be rescinded . . . shall be made available \nfor obligation unless, within the prescribed 45-day period, the Congress has completed \naction on a recission bill . . . .”).  \n74. Rather, it is the Executive’s duty to disburse appropriated funds consistent with the \nappropriation and governing law.  U.S. Const. art. II, § 3.  \n75. The Executive violates the Appropriations and Take Care Clauses when it attempts to \nunilaterally amend, cancel, undermine, or otherwise decline to execute duly enacted \nCongressional appropriations.  See Train, 420 U.S. at 43-44 ; In re Aiken Cnty., 725 F.3d \n21 \n \n\nCase 1:25-cv-00324-NT     Document 1     Filed 06/17/25     Page 22 of 25    PageID #: 22\nat 261 n.1; In re United Mine Workers of Am. Int’l Union, 190 F.3d 545, 551 (D.C. Cir. \n1999) (“Needless to say, the President is without authority to set aside congressional \nlegislation by executive order . . . .”); Kendall v. United States, 37 U.S. 524, 613 (1838) \n(rejecting the argument that by charging the President with faithful execution of laws, the \nTake Care Clause “implies a power to forbid their execution”); City & Cnty. of San \nFrancisco v. Trump, 897 F.3d 1225, 1234 (9th Cir. 2018) (“[T]he President’s duty to \nenforce the laws necessarily extends to appropriations.”); Youngstown Sheet & Tube Co. \nv. Sawyer, 343 U.S. 579, 637 (1952) (“When the President takes measures incompatible \nwith the expressed or implied will of Congress, his power is at its lowest ebb . . . .”) \n(Jackson, J., concurring). \n76. The Project falls within the heartland of the Congressional appropriation at issue, in that \nthe appropriation is directed to “restoring . . . coastal . . . habitat, . . . [and] protect[ing] \ncoastal communities from flooding or coastal storms.”  Infrastructure Investment and Jobs \nAct, Pub. L. 117-58, 135 Stat. 429, 1355 (2021).  NOAA has no authority to unilaterally \namend the purpose of this appropriation.  \n77. NOAA’s termination of the Project grant as being inconsistent with program goals or \nagency priorities is accordingly an unlawful infringement upon Congress’s power to \nappropriate public funds for specific purposes and a violation of the executive branch’s \nobligation to administer the law in a manner consistent with Congressional appropriation, \nbecause the termination implies an unlawful redefinition of NOAA priorities that is \ninconsistent with that appropriation. \n \n \n22 \n \n\nCase 1:25-cv-00324-NT     Document 1     Filed 06/17/25     Page 23 of 25    PageID #: 23\nCount V – Violation of the United States Constitution: \nTenth Amendment \n \n78. Plaintiffs incorporate by reference the foregoing paragraphs of this Complaint as if set forth \nherein. \n79. The Tenth Amendment to the United States Constitution provides, “The powers not \ndelegated to the United States by the Constitution, nor prohibited by it to the States, are \nreserved to the States respectively, or to the people.”  U.S. Const. amend. X.   \n80. The Tenth Amendment bars the federal government from placing conditions on grants that \n“are properly viewed as a means of pressuring the States to accept policy changes.”  Nat’l \nFed’n of Indep. Bus. v. Sebelius, 567 U.S. 519, 580 (2012).   \n81. States must also receive fair notice of the terms that apply to the disbursement of funds to \nthem.  See Pennhurst State Sch. & Hosp. v. Halderman, 451 U.S. 1, 17, 25 (1981); Nat’l \nFed’n of Indep. Bus., 567 U.S. at 583-84.   \n82. Defendants’ termination of the Project grant to punish and/or coerce the State of Maine in \nresponse to an unrelated policy dispute, and contrary to the terms upon which the funds \nwere appropriated and awarded, therefore violates the Tenth Amendment to the United \nStates Constitution. \nCount VI – Ultra Vires Action \n83. Plaintiffs incorporate by reference the foregoing paragraphs of this Complaint as if set forth \nherein. \n84. By terminating the Project grant to punish and/or coerce the State of Maine based on its \npurported violation of Title IX, Defendants acted beyond the bounds of their authority and \nhave transgressed the foundational precept that the government cannot “under the pretext \n23 \n \n\nCase 1:25-cv-00324-NT     Document 1     Filed 06/17/25     Page 24 of 25    PageID #: 24\nof executing its powers” act “for the accomplishment of objects not intrusted to the \ngovernment.”  McCulloch v. Maryland, 17 U.S. 316, 423 (1819). \n85. By terminating the Project grant to punish and/or coerce the State of Maine based on its \npurported violation of Title IX, Defendants acted beyond the bounds of their authority to \nmanage federal funds appropriated by Congress for the express purpose of supporting \ncoastal habitat restoration and coastal resilience efforts. \nPRAYER FOR RELIEF \nPlaintiffs State of Maine and the Maine Department of Marine Resources request that the \nCourt: \nA.  Pursuant to 5 U.S.C. § 706 and 28 U.S.C. § 2202, vacate and set aside Defendants’ action \nterminating  the  grant  awarded  to  the  Department  of  Marine  Resources  for  the \nTransformational Habitat Restoration and Connectivity in Downeast Maine project; \nB.  Pursuant to 28 U.S.C. § 2201, issue a judicial declaration that Defendants’ termination of \nthe grant violated the APA; \nC.  Pursuant to 28 U.S.C. § 2201, issue a judicial declaration that Defendants’ termination of \nthe grant violated the regulations governing grant termination; \nD.  Pursuant to 28 U.S.C. § 2201, issue a judicial declaration that Defendants’ termination of \nthe  grant  violated  the  Appropriations  and  Take  Care  clauses  of  the  United  States \nConstitution; \nE.  Pursuant to 28 U.S.C. § 2201, issue a judicial declaration that Defendants’ termination of \nthe grant violated the Tenth Amendment to the United States Constitution; \nF.  Pursuant to 28 U.S.C. § 2201, issue a judicial declaration that Defendants’ termination of \nthe grant was an unlawful ultra vires action; \n24 \n \n\nCase 1:25-cv-00324-NT     Document 1     Filed 06/17/25     Page 25 of 25    PageID #: 25\nG.  Permanently enjoin Defendants from terminating or otherwise impeding access to grant \nfunds for the Transformational Habitat Restoration and Connectivity in Downeast Maine \nproject without following all legally required procedures; \nH.  Award the State of Maine and the Maine Department of Marine Resources their reasonable \nfees, costs, and expenses, including attorney’s fees, pursuant to 28 U.S.C. § 2412; and \nI.  Grant other such relief as this Court deems just and proper. \n \nDated: June 17, 2025       Respectfully submitted, \n \n            AARON M. FREY \n            Attorney General \n \n/s/ Jack Dafoe     \n            JACK DAFOE \n            Assistant Attorney General \n            jack.dafoe@maine.gov \n \nJASON ANTON \nAssistant Attorney General \njason.anton@maine.gov \n \nOffice of the Attorney General \nSix State House Station \nAugusta, ME 04333 \nTelephone: (207) 626-8800 \n25 \n ",
+      "document_type_other": null,
+      "external_url": "https://www.courtlistener.com/docket/70574375/1/state-of-maine-v-national-oceanic-and-atmospheric-administration/",
+      "ecf_number": "1",
+      "clearinghouse_link": "clearinghouse.net/doc/161429"
+    }
+  ],
+  "document_count": 3
+}

@@ -1,0 +1,328 @@
+{
+  "case_id": 11179,
+  "fetched_at": "2025-10-22T00:13:37.894670",
+  "case_data": {
+    "attorney_orgs": [],
+    "available_documents": [
+      "Trial Court Docket",
+      "Injunctive (or Injunctive-like) Relief"
+    ],
+    "case_defendants": [
+      {
+        "defendant_level": null,
+        "institution": "",
+        "institution_alt_state": null,
+        "institution_city": "",
+        "institution_county": null,
+        "name": "Illinois Department of Children and Family Services",
+        "defendant_level_other": "",
+        "is_active": true
+      }
+    ],
+    "case_ongoing": "No",
+    "case_status": "Approved",
+    "case_types": [
+      "Child Welfare"
+    ],
+    "cause_other": "Social Security Act",
+    "causes": [
+      "42 U.S.C. § 1983"
+    ],
+    "class_action_granted": "Granted",
+    "class_action_sought": "Yes",
+    "closing_year": 1997,
+    "constitutional_clause": [
+      {
+        "value": "Due Process"
+      }
+    ],
+    "content_of_injunction": [
+      {
+        "value": "Reporting"
+      }
+    ],
+    "court": "Northern District of Illinois",
+    "custom_issues": [
+      "Expansion of visitation rights",
+      "Attorney fees for plaintiff"
+    ],
+    "defendant_payment": "",
+    "defendant_type": [],
+    "docket_status": "Incomplete",
+    "facility_type": [],
+    "filing_date": "1984-11-20",
+    "filing_year": 1984,
+    "id": 11179,
+    "injunction_duration": "24",
+    "issues": [
+      "General/Misc.: Parents (visitation, involvement)"
+    ],
+    "last_checked_date": "2012-07-10T00:00:00-04:00",
+    "main_docket": {
+      "id": 31870,
+      "docket_entries": [
+        {
+          "row_number": 1,
+          "id": 1677297,
+          "entry_number": "287",
+          "date_filed": "1996-12-04T00:00:00-05:00",
+          "attachments": [],
+          "url": "nan",
+          "recap_pdf_url": null,
+          "pacer_doc_id": null,
+          "description": "ORDER regarding motion to withdraw attorneys Laurene Heybach and Richard Wheelock [286−1] (eav) (Entered: 12/05/1996)"
+        },
+        {
+          "row_number": 0,
+          "id": 1677296,
+          "entry_number": "286",
+          "date_filed": "1996-12-04T00:00:00-05:00",
+          "attachments": [],
+          "url": "nan",
+          "recap_pdf_url": null,
+          "pacer_doc_id": null,
+          "description": "AMENDED MOTION by plaintiffs for leave to withdraw attorneys Laurene Heybach and Richard Wheelock (eav) (Entered: 12/05/1996)"
+        },
+        {
+          "row_number": 4,
+          "id": 1677300,
+          "entry_number": "290",
+          "date_filed": "1997-02-13T00:00:00-05:00",
+          "attachments": [],
+          "url": "nan",
+          "recap_pdf_url": null,
+          "pacer_doc_id": null,
+          "description": "MINUTE ORDER of 2/13/97 by Hon. Paul E. Plunkett : Defendant's motion for leave to substitute counsel is granted. [289−1] Leave is granted to Christina M. Tchen and her colleagues at Skadden, Arps, Slate, meagher &Flom to withdraw as counsel for defendant and leave is granted to Assistant Attorney General Barbara L. Greenspan, Danielle Steimel, and Nancy Hall−Walker to file their appearance as substitute counsel for defendant. Telephoned notice (eav) (Entered: 02/14/1997)"
+        },
+        {
+          "row_number": 2,
+          "id": 1677298,
+          "entry_number": "288",
+          "date_filed": "1996-12-04T00:00:00-05:00",
+          "attachments": [],
+          "url": "nan",
+          "recap_pdf_url": null,
+          "pacer_doc_id": null,
+          "description": "MINUTE ORDER of 12/4/96 by Hon. Wayne R. Andersen : Agreed motion to withdraw is granted. [286−1] Enter agreed order. The Legal Assistance Foundation of Chicago \"LAFC\" and its attorneys Laurene M. Heybach and Richard Wheelock as of the date of this order are no longer counsel for the class. LAFC and its attorneys shall continue as counsel of record solely for the following purposes: (a) pursuing and collecting attorneys fees and costs owed to LAFC for legal assistance, as may be permitted by law; (b) representing individuals and participating in non−adversarial activities in accordance with 45 C.F.R. Section 1617.2 (effective 01/01/97). Mailed notice (eav) (Entered: 12/05/1996)"
+        },
+        {
+          "row_number": 3,
+          "id": 1677299,
+          "entry_number": "289",
+          "date_filed": "1997-02-06T00:00:00-05:00",
+          "attachments": [],
+          "url": "nan",
+          "recap_pdf_url": null,
+          "pacer_doc_id": null,
+          "description": "MOTION by defendant to substitute attorneys Nancy K. Hall−Walker, Barbara L. Greenspan, Danielle J. Steimel and substitute pursuant to Fed. R. Civ. P. 25(d)(1) Jess McDonald is the current Director of DCFS ; Notice of motion (Temporarily unavailable for docketing) (eav) (Entered: 02/14/1997)"
+        },
+        {
+          "row_number": 5,
+          "id": 1677301,
+          "entry_number": "291",
+          "date_filed": "1997-02-13T00:00:00-05:00",
+          "attachments": [],
+          "url": "nan",
+          "recap_pdf_url": null,
+          "pacer_doc_id": null,
+          "description": "ATTORNEY APPEARANCE for defendant Jess McDonald by Nancy K. Hall−Walker, Barbara L. Greenspan, Danielle J. Steimel with Rule 39 Affidavit (eav) (Entered: 02/14/1997)"
+        }
+      ],
+      "docket_case_type": "cv",
+      "docket_year": 1984,
+      "docket_filing_number": 10054,
+      "is_main_docket": true,
+      "court": "Northern District of Illinois",
+      "state": "Illinois",
+      "docket_office_number": "1",
+      "docket_number_manual": "84-C-10054",
+      "scales_html": "https://clearinghouse-umich-production.s3.amazonaws.com/media/docket-html/ilnd--1-84-cv-10054.html",
+      "recap_link": null,
+      "is_active": true
+    },
+    "name": "Bates v. Johnson",
+    "never_filed": false,
+    "non_docket_case_number": "",
+    "non_docket_case_number_type": null,
+    "non_docket_case_number_type_other": "",
+    "order_end_year": 1991,
+    "order_start_year": 1989,
+    "permanent_injunction": false,
+    "plaintiff_description": "Parents and guardians of children in custody of the Illinois Department of Children and Family Services.",
+    "plaintiff_type": [
+      {
+        "value": "Private Plaintiff"
+      }
+    ],
+    "prevailing_party": "Plaintiff",
+    "pro_se_status": "No",
+    "public_interest_lawyer": "Yes",
+    "related_cases": [],
+    "relief_natures": [
+      "Injunction / Injunctive-like Settlement"
+    ],
+    "relief_nature_other": "",
+    "relief_sources": [
+      "Litigation"
+    ],
+    "settlement_agreement": [],
+    "settlement_judgment_date": null,
+    "settlement_judgment_year": null,
+    "special_collections": [],
+    "special_case_type": [],
+    "state": "Illinois",
+    "summary": "<p>On November 20, 1984, parents and guardians of children in custody of the Illinois Department of Children and Family Services (DCFS)  filed a class action lawsuit against DCFS under 42 U.S.C. § 1983 and the Social Security Act in the U.S. District Court for the Northern District of Illinois, Eastern Division. Plaintiffs, represented by attorneys from the Loyola Childlaw Clinic, the Family Defense Center, the Law Project of the Chicago Coalition for the Homeless, and the Legal Assistance Foundation of Chicago asked the court for injunctive relief, challenging Defendants' one hour per month visitation limit as a violation of the Social Security Act and the First, Ninth, and Fourteenth Amendments of the United States Constitution.  </p><p>Just prior to a determination on Defendant's motion to dismiss, the parties entered into a consent decree which expanded the visitation policy. Under the consent decree, entered June 5, 1986, Defendant agreed to allow weekly visits between Plaintiffs and their children, to provide Plaintiffs' counsel with statistical information regarding visitation plans, to provide notice to class members regarding the visitation policy, and to periodically remind caseworkers of the updated visitation policy. The decree was to remain in effect for a two year period.</p><p>On March 16, 1987, Plaintiffs filed a Motion for Contempt alleging that Defendant had violated virtually every provision of the decree. Defendants did not deny the allegations, and in February of 1989 refused to agree to a new consent decree to resolve the contempt motion. </p><p>Plaintiffs next asked the court to enter an emergency order establishing a six-year period during which Defendant would be required to implement weekly visitation. Plaintiffs also sought the appointment of a special master to monitor Defendant's compliance with the decree and to submit periodic reports to the court, imposition of various penalty payments for any future non-compliance, and reimbursement of Plaintiffs' attorney fees and costs.</p><p>Defendant agreed that Plaintiffs were entitled to attorney's fees incurred in bringing the contempt motion, but argued that because DCFS had a unilateral right to abandon its visitation policy and adopt a new rule, its principal obligation under the decree was terminated.  Plaintiffs' only option was to file a new action. Defendant further argued that compliance with Plaintiffs' proposed new consent order was beyond its capability, and would interfere with DCFS's management of its limited resources and with its potential obligations under other pending litigation. Defendant also argued that imposition of the Proposed Order would be an impermissible modification of the terms of the decree. The Court rejected Defendant's arguments and specifically found that Defendant had acted in bad faith. Nevertheless, the court was unwilling to impose the detailed order suggested by Plaintiffs. </p><p>On June 29, 1989, the District Court (Judge Paul E. Plunkett) devised and imposed its own sanctions. These required Defendant to reimburse Plaintiffs for all reasonable attorney fees and costs incurred in all of Plaintiffs' efforts to implement the consent decree, extended the original decree for a period of two years, required Defendant to report to the court within 60 days, and required Defendant to designate a liaison whom Plaintiffs could contact regarding any problems in securing Defendant's compliance with the decree. The case ended upon expiration of the extended decree.</p><p></p>",
+    "summary_published_date": "2012-07-09T00:00:00-04:00",
+    "summary_short": "On November 20, 1984, parents and guardians of children in custody of the Illinois DCFS filed a class action lawsuit against the agency under the Social Security Act and 42 U.S.C. § 1983. The parties entered into a consent decree on June 5, 1986, which among other things, expanded the visitation policy of Defendant. Virtually every provision of the consent decree was violated by Defendant, however, leading Plaintiffs to request that the court enter an emergency order. The court imposed its own sanctions, which included an extension of the original decree for a period of two years. The case ended upon expiration of the extended decree.",
+    "summary_tiny": null,
+    "terminating_date": null,
+    "clearinghouse_link": "clearinghouse.net/case/11179",
+    "is_active": true,
+    "case_documents_url": "https://clearinghouse.net/api/v2/documents/?case=11179",
+    "case_dockets_url": "https://clearinghouse.net/api/v2/dockets/?case=11179",
+    "case_resources_url": "https://clearinghouse.net/api/v2/resources/?case=11179"
+  },
+  "documents": [
+    {
+      "date": null,
+      "date_is_estimate": false,
+      "date_not_available": false,
+      "description": null,
+      "document_source": null,
+      "document_status": null,
+      "document_type": null,
+      "order_type": null,
+      "citation_paren": null,
+      "cite_1_page": null,
+      "cite_1_reporter": null,
+      "cite_1_vol": null,
+      "cite_2_page": null,
+      "cite_2_reporter": null,
+      "cite_2_vol": null,
+      "cite_3_page": null,
+      "cite_3_reporter": null,
+      "cite_3_vol": null,
+      "citation_status": null,
+      "court": null,
+      "no_title": false,
+      "party_types": [],
+      "per_curium": false,
+      "is_core_document": true,
+      "id": 119587,
+      "file": null,
+      "title": null,
+      "text": null,
+      "document_type_other": null,
+      "external_url": null,
+      "ecf_number": null,
+      "clearinghouse_link": "clearinghouse.net/doc/119587"
+    },
+    {
+      "date": "1989-06-29",
+      "date_is_estimate": false,
+      "date_not_available": false,
+      "description": null,
+      "document_source": null,
+      "document_status": "Approved",
+      "document_type": "Order/Opinion",
+      "order_type": "Litigated Decree",
+      "citation_paren": null,
+      "cite_1_page": null,
+      "cite_1_reporter": null,
+      "cite_1_vol": null,
+      "cite_2_page": 75954,
+      "cite_2_reporter": "WL",
+      "cite_2_vol": 1989,
+      "cite_3_page": 7658,
+      "cite_3_reporter": "U.S.Dist.LEXIS",
+      "cite_3_vol": 1989,
+      "citation_status": "WL/LEXIS only: No official citation available",
+      "court": "Northern District of Illinois",
+      "no_title": false,
+      "party_types": [
+        "Court"
+      ],
+      "per_curium": false,
+      "is_core_document": true,
+      "id": 33212,
+      "file": "https://clearinghouse-umich-production.s3.amazonaws.com/media/doc/33212.pdf",
+      "title": "Memorandum Opinion and Order",
+      "text": "IN THE UNITED STATES DISTRICT COURT\nFOR THE NORTHERN DISTRICT OF ILLINOIS\nEASTERN DIVISION\nGAIL BATES, on her own behalf\nand DEBORAH SAUNDERS, on her\nown behalf; and on the behalf\nof others similarly situated,\nPlaintiffs,\nV.\nNo. 84 C 10054\nGORDON JOHNSON, Director, Hon. Paul E. Plunkett\nIllinois Department of Children\nand Family Services,\nDefendant.\nMEMORANDUM OPINION AND ORDER\nBackground\nOn November 20, 1984, Plaintiffs Gail Bates and Deborah\nSaunders filed a class action lawsuit against Gordon Johnson,\nDirector of the Illinois Department of Children and Family\nServices (\"DCFS\"). Plaintiffs sued on behalf of all parents and\nguardians whose children are in the temporary custody of DCFS or\nunder DCFS guardianship under a service plan which has the goal\nof returning the children to the custody of their parents. The\ncomplaint alleged that Defendant's adherence to a one hour per\nmonth visitation policy for class members and their children was\nin violation of the Social Security Act and applicable federal\nregulations, and the First, Ninth and Fourteenth Amendments of\nthe United States Constitution. Plaintiffs also alleged that\nDefendant had failed to provide notice and a hearing prior to\nenforcement of administrative determinations affecting visitation\n1\n—(cid:9) APPENDIX 4\n\npolicies, thus violating the Social Security Act and the due\nprocess clause.\nDefendant filed a motion to dismiss, but prior to a\ndetermination on the motion the parties entered into a consent\ndecree. The Agreed Order entered by this court on June 5, 1986\nstated that DCFS visitation policy \"prior to the filing of this\nsuit and at the time of this agreement\" is as follows. \"Parents\nand guardians of children under DCFS temporary custody, or under\nDCFS guardianship with a goal of return home, are expected and\nencouraged to visit their children weekly unless there is\ndocumentation to the contrary in the case/record.\" (Agreed Order,\nPara. 3(a)) In the event supervision of such visits is required,\nit can be done by relatives, foster parents, residential care\nproviders, homemakers, volunteers or other service providers.\n(Id. at 3(d)) Visitation plans are to be established within three\ndays of initial placement (or ten days for emergency placements),\nand visits are to begin within two weeks of DCFS's assumption of\ntemporary custody or guardianship. (Id. at 3(f-g)) The visitation\nplan is to be included in the service plan for the child and\nfamily. (Id. at 3(h))\nThe terms of the decree provided that Defendant was also to\nmake available to Plaintiffs' counsel statistical information\nregarding visitation plans and copies of final administrative\ndecisions (Para. 5-6), provide notice to class members regarding\nthe visitation policy and their appeal rights (Para. 8), and see\nto it that caseworkers were reminded periodically of the\nWA\n\npublished policies on visitations and appeals (Para. 9). The\ndecree also provided that any class member aggrieved by a DCFS\ndecision relating to her or his service plan could invoke a three\nstep review and appeal process. (Para. 7)\nThe Order also contained the following provision regarding\nenforcement and modification of this policy:\nmaintain \n[D]efendant agrees to  and enforce the policy\nstated in paragraph 3 herein throughout Illinois,\nexcept that no provision herein. precludes defendant\nfrom modifying this policy. If DCFS officially proposes\na change of its policy as set forth in paragraph 3\nherein at any time between the date this order is\nentered and the two year anniversary of such date, then\nprior to the time such regulation is officially\nadopted, DCFS will comply with the Illinois\nAdministrative Procedure Act, . . . and, in addition,\nagrees to* appear before this Court to discuss the\nnature and extent of the proposed changes. The entry of\nthis Agreed Order will not prejudice the rights of\nplaintiffs and class members to reassert the claims\nmade in the complaint herein in the event the DCFS\npolicy set forth in paragraph 3 is changed or modified\nin accordance with the Illinois Administrative\nProcedure Act . . . .\n(Agreed Order, Para. 4)\nThe decree was to remain in force for a two-year period.\n(Para. 13) Despite the fact that it bound Defendant only to\nfollow policies which purportedly were already in effect at the\ntime of the lawsuit's filing, Defendant wholly failed to live up\nto its obligations under the decree. On March 16, 1987,\nPlaintiffs filed a Motion for Contempt alleging that Defendant\nhad violated the terms of the decree by failing to do the\nfollowing:\n1) notify class members of their visitation rights;\n2) grant weekly visits to class members;\n3) provide visits in the home;\n3\n\nf\n4) provide transportation for class members who could\nnot afford this cost;\n5) ensure an appeal for adverse decisions affecting\nvisitation;\n6) notify or train caseworkers on plaintiffs' rights to\nvisitation; and\n9) establish visitation plans within 3 or 10 days of\nplacement as required by the Order.\nMotion for Contempt at 6-20. Defendant never filed a response to\nthe motion or requested a hearing, and Plaintiffs then embarked\non a long and frustrating series of attempts to obtain discovery\nfrom Defendant. Magistrate Rosemond issued numerous discovery\norders, and on April 6, 1988 ordered Defendant to pay Plaintiffs\n$9,621.00 in attorney fees incurred in attempting to obtain\ndiscovery.\nOn September 14, 1988 (a year and a half after the filing of\nthe Motion for Contempt and over two years after the entry of the\ndecree), 1 Defendant stipulated that at the time of the filing of\nthe Motion for Contempt it was not in compliance with the Agreed\nOrder. On September 21, 1988, Defendant stipulated that it had\nnot been in compliance with the Order at any time since its\nentry. 2 The stipulation also stated that the parties \"are\ncurrently in negotiations so as to ensure compliance with the\nAgreed Order.\"\nIn February 1989, Defendant informed Plaintiffs that it\n'In light of the progress (or lack thereof) of the\nlitigation following entry of the decree, the court extended its\njurisdiction beyond the two years originally provided for.\n2plaintiff stipulated that there had, however, been some\nimprovement in the providing of weekly visitation to class\nmembers.\n4\n\nwould not agree to a new consent decree to resolve the contempt\nmotion because of the possible impact of such a decree on other\nsuits filed against Defendant in 1988. Thus, we are now laced\nwith determining appropriate contempt sanctions to be assessed\nagainst a Defendant who entered into a consent decree over three\nyears ago, but, as Defendant itself acknowledges, from the very\noutset has failed to live up to its agreement.\nDiscussion\nPlaintiffs ask the court to enter an order establishing a\nsix-year period during which Defendant must enforce a policy of\nweekly visitation. They have submitted a lengthy Proposed Order\nwhich spells out more specifically than the original decree the\ndetails of implementing such a policy and the attendant\nrequirements such as notice to the class. Plaintiffs also seek\nthe following sanctions:\n1) the appointment of a special master to monitor\nDefendant's compliance with the decree and submit\nperiodic reports to the court;\n2) the imposition of various penalty payments for any\nfuture non-compliance;\n3) reimbursement of Plaintiffs' attorney fees and costs\nincurred in bringing the contempt motion.\nDefendant agrees that Plaintiffs are entitled to reasonable\nattorney fees incurred in bringing the contempt motion, but\nargues that the only additional sanction should be a revival of\nPlaintiffs' right to litigate the merits of this case. In\nsanctions, \nvociferously opposing further  Defendant repeatedly\ninsists that\nDCFS had the unilateral right to abandon its visitation\npolicy and adopt a new rule, thus ending its principal\n5\n\nobligation under the decree. If this occurred, the\nplaintiffs could elect to litigate their original\nclaim.\nDefendant further argues that compliance with Plaintiffs'\nProposed Order is beyond DCFS' capability, and would interfere\nwith DCFS management of its limited resources and with its\npotential obligations under other pending litigation. Defendant\nargues, finally, that imposition of the Proposed Order would be\nan impermissible modification of the terms of the decree, and\nthat Plaintiffs' claims are \"not well-founded.\"\nThe court is extremely disturbed by the position Defendant\nhas taken. Over three years ago, Defendant chose to forego its\nright to litigate the claims pending against it and instead to\nenter into a court-approved agreement providing that it would\nabide by what it claimed was already its official policy\nregarding parental:visitation. During those three years,\nDefendant has done little to actually make that policy a reality.\nIt has never, however, asked this court for a modification of the\ndecree on grounds that changed circumstances prevented it from\nliving up to its obligations. Instead, Defendant continually\nstrung Plaintiffs along, apparently hoping to be the victor in a\nwar of attrition.\nThe court finds it incredible that Defendant would now\nrespond to a contempt motion by arguing that Plaintiffs' legal\nclaims have thin support. Defendant settled those claims by\nentering into the decree, and cannot now be heard to complain\nthat they lack merit. Defendant's argument that we should not tie\n6\n\nits hands because it faces litigation on other fronts is also\nwrong-headed; Defendant in effect bought off Plaintiffs' claims\nby agreeing to an order in 1986, and surely cannot escape its\nobligations to Plaintiffs simply because competing demands were\nlater made by others. We are similarly unreceptive to Defendant's\nplea that \"full compliance with plaintiffs' interpretation of the\noriginal Bates decree would have been impossible.\" (Johnson Aff.\nat 2) As earlier stated, Defendant never sought modification of\nthe decree on these grounds. Neither did Defendant avail itself\nof the provision allowing it to propose and adopt changes to its\nprofessed policy in accord with the Illinois Administrative\nProcedure Act. We also point out that Defendant's argument is\nsomewhat ironic, given that the decree stipulated that it simply\nbound Defendant to abide by its own existing policies.\nThe court can only conclude that Defendant entered into the\ndecree in order to simply get Plaintiffs off its back, yet never\nseriously intended to live up to it. We do not take kindly to\nwhat we perceive to be three years of bad faith conduct, conduct\nwhich was in blatant contravention of a court order. We find\nDefendant's suggestion that the appropriate remedy is revival of\nPlaintiff's right to litigate to be ludicrous. Plaintiffs were\npromised two years of compliance with the decree, but have not\nreceived even so much as a minute of compliance. Revival of\nPlaintiffs' right to litigate was the stipulated remedy if\nDefendant chose to modify its policy in accord with the Illinois\nAdministrative Procedure Act and after notifying this court of\n7\n\nthe proposed changes; it is not the appropriate remedy  for three\nyears of bad faith noncompliance.\nAt the same time, the court is unwilling to impose the\ndetailed order suggested by Plaintiffs. The court finds that the\ntwin purposes of civil contempt sanctions -- to compensate(cid:9) .\nplaintiffs for injury due to noncompliance and compel obedience\nto the court's order3 -- can best be served by imposition of the\nfollowing sanctions.\n1) Defendant is to reimburse Plaintiffs for all\nreasonable attorney fees and costs incurred in all of\nPlaintiffs' efforts to implement the consent decree\n(including, \ne.g., negotiations).\n2) The original decree is to continue in force for a\nperiod of two years from the date of entry of this\norder.\n3) Defendant is to report to this court in 60 days. If\nDefendant is not in compliance with the decree at that\ntime, the court shall impose further sanctions, which\nmay include monetary penalties.\n4) Defendant is to designate a liaison whom Plaintiffs\nmay contact regarding any problems in securing\nDefendant's compliance with the decree.\nIf the parties disagree on the proper interpretation of the\ndecree, such disputes are to be taken before Magistrate Rosemond.\nIf Plaintiffs believe, however, that Defendant is not making a\ngood faith effort to comply with the terms of the decree, they\nshall come before this court.\n3See Commodity Futures Trading Commission v. Premex, 655\nF.2d 779, 785 (7th Cir. 1981).\n8\n\nENTER:\nHo orable Paul E. Plunkett\nDistrict Court Judge\nDated: ",
+      "document_type_other": null,
+      "external_url": "",
+      "ecf_number": null,
+      "clearinghouse_link": "clearinghouse.net/doc/33212"
+    },
+    {
+      "date": "1997-02-13",
+      "date_is_estimate": false,
+      "date_not_available": false,
+      "description": null,
+      "document_source": "PACER [Public Access to Court Electronic Records]",
+      "document_status": "Approved",
+      "document_type": "Docket",
+      "order_type": null,
+      "citation_paren": null,
+      "cite_1_page": null,
+      "cite_1_reporter": null,
+      "cite_1_vol": null,
+      "cite_2_page": null,
+      "cite_2_reporter": null,
+      "cite_2_vol": null,
+      "cite_3_page": null,
+      "cite_3_reporter": null,
+      "cite_3_vol": null,
+      "citation_status": "Not applicable",
+      "court": "Northern District of Illinois",
+      "no_title": false,
+      "party_types": [
+        "Court"
+      ],
+      "per_curium": false,
+      "is_core_document": true,
+      "id": 33213,
+      "file": "https://clearinghouse-umich-production.s3.amazonaws.com/media/doc/33213.pdf",
+      "title": "Docket [PACER]",
+      "text": "Case: 1:84-cv-10054     As of: 01/01/2009 06:39 PM CST(cid:10)     1 of 4(cid:10)\nTERMED\nUnited States District Court\nNorthern District of Illinois − CM/ECF LIVE, Ver 3.2.2 (Chicago)\nCIVIL DOCKET FOR CASE #: 1:84−cv−10054\nBates, et al v. McDonald, et al Date Filed: 11/28/1984\nAssigned to: Honorable Paul E. Plunkett Date Terminated: 01/11/1985\nDemand: $0 Jury Demand: None\nCause: 42:1983 Civil Rights Act Nature of Suit: 444 Civil Rights: Welfare\nJurisdiction: Federal Question\nSpecial Master\nBrandon F Greene represented by Brandon F Greene\nRehabilitation Institute\nDiv. of College of Human Resources\nSouthern IL Univ. at Carbondale\nCarbondale, IL 62901−4609\nPRO SE\nPlaintiff\nGail Bates represented by Bruce A. Boyer\nLoyola University School of Law\nLoyola Childlaw Clinic\n16 East Pearson Street\nChicago , IL\n(312)915−7927\nEmail: bboyer@luc.edu\nLEAD ATTORNEY\nATTORNEY TO BE NOTICED\nDiane L. Redleaf\nFamily Defense Center\n725 S. Wells St.,\n#702\nChicago , IL 60607\n(312) 356−3202\nFax: 356−3203\nEmail: dredleaf@redleaflawyer.com\nLEAD ATTORNEY\nATTORNEY TO BE NOTICED\nLaurene Marie Heybach\nThe Law Project of the Chicago Coalition\nfor the Homeless\n1325 South Wabash Avenue\nSuite 205\nChicago , IL 60605\nTERMINATED: 12/04/1996\nATTORNEY TO BE NOTICED\nNancy Katz\nLegal Assistance Foundation of Chicago\n407 South Dearborn Street\nSuite 350\nChicago , IL 60605\n(312) 427−5200\nRichard M. Wheelock\nLegal Assistance Foundation of Chicago\n111 West Jackson Boulevard\nThird Floor\nChicago , IL 60604\n\nCase: 1:84-cv-10054     As of: 01/01/2009 06:39 PM CST(cid:10)     2 of 4(cid:10)\n(312) 341−1070\nEmail: wheelock@lafchicago.org\nTERMINATED: 12/04/1996\nPlaintiff\nDeborah Saunders represented by Bruce A. Boyer\non her own behalf and on the behalf of (See above for address)\nothers similarly situated LEAD ATTORNEY\nATTORNEY TO BE NOTICED\nDiane L. Redleaf\n(See above for address)\nLEAD ATTORNEY\nATTORNEY TO BE NOTICED\nLaurene Marie Heybach\n(See above for address)\nTERMINATED: 12/04/1996\nATTORNEY TO BE NOTICED\nNancy Katz\n(See above for address)\nRichard M. Wheelock\n(See above for address)\nTERMINATED: 12/04/1996\nV.\nDefendant\nGordon Johnson represented by Margaret E. Coughlan\nDirector, Illinois Department of Children Martin R. Rothenberg, Ltd.\nand Family Services 30 West Monroe Street\nTERMINATED: 02/06/1997 10th Floor\nChicago , IL 60603\n(312)236−2305\nLEAD ATTORNEY\nATTORNEY TO BE NOTICED\nSusan Getzendanner\nSkadden, Arps, Slate, Meagher &Flom\n333 West Wacker Drive\nSuite 2100\nChicago , IL 60606\n(312) 407−0700\nTERMINATED: 02/13/1997\nLEAD ATTORNEY\nATTORNEY TO BE NOTICED\nCharles F. Smith , Jr.\nSkadden Arps Slate Meagher &Flom, LLP\nCH\n333 West Wacker Drive\nSuite 2100\nChicago , IL 60606\n(312) 407−0700\nEmail: cfsmith@skadden.com\nTERMINATED: 02/13/1997\nChristina M. Tchen\nSkadden Arps Slate Meagher &Flom, LLP\nCH\n333 West Wacker Drive\n\nCase: 1:84-cv-10054     As of: 01/01/2009 06:39 PM CST(cid:10)     3 of 4(cid:10)\nSuite 2100\nChicago , IL 60606\n(312) 407−0700\nFax: (312) 407−0411\nEmail: ttchen@skadden.com\nTERMINATED: 02/13/1997\nGary Michael Griffin\nIllinois Attorney General's Office\n100 West Randolph Street\n13th Floor\nChicago , IL 60601\n(312)814−3650\nFax: (312)814−4425\nEmail: ggriffin@atg.state.il.us\nTERMINATED: 02/13/1997\nHilary K. Krane\nSkadden, Arps, Slate, Meagher &Flom\n333 West Wacker Drive\nSuite 2100\nChicago , IL 60606\n(312) 407−0707\nTERMINATED: 02/13/1997\nPaula J. Giroux\nIllinois Attorney General's Office\n100 West Randolph Street\n12th Floor\nChicago , IL 60601\n(312) 814−3000\nTERMINATED: 02/13/1997\nATTORNEY TO BE NOTICED\nDefendant\nJess McDonald represented by Nancy K. Hall−Walker\nis the current Director of DCFS Illinois Attorney General's Office\n100 West Randolph Street\n12th Floor\nChicago , IL 60601\n(312) 814−3000\nLEAD ATTORNEY\nATTORNEY TO BE NOTICED\nBarbara Lynn Greenspan\nAttorney General's Office\n100 West Randolph Street\nSuite 4−600\nChicago , IL 60601\n(312)814−7087\nEmail: barbara.greenspan@illinois.gov\nATTORNEY TO BE NOTICED\nDanielle Jenkins Steimel\nOffice of the Attorney General\n100 West Randolph Street\n13th Floor\nChicago , IL 60601\n(312) 814−7087\nEmail: dsteimel@idcfs.state.il.us\nATTORNEY TO BE NOTICED\nIntervenor\nMichael Zuber\n\nCase: 1:84-cv-10054     As of: 01/01/2009 06:39 PM CST(cid:10)     4 of 4(cid:10)\nDate Filed # Docket Text\n12/04/1996 286  AMENDED MOTION by plaintiffs for leave to withdraw attorneys\nLaurene Heybach and Richard Wheelock (eav) (Entered: 12/05/1996)\n12/04/1996 287  ORDER regarding motion to withdraw attorneys Laurene Heybach and\nRichard Wheelock [286−1] (eav) (Entered: 12/05/1996)\n12/04/1996 288  MINUTE ORDER of 12/4/96 by Hon. Wayne R. Andersen : Agreed\nmotion to withdraw is granted. [286−1] Enter agreed order. The Legal\nAssistance Foundation of Chicago \"LAFC\" and its attorneys Laurene M.\nHeybach and Richard Wheelock as of the date of this order are no longer\ncounsel for the class. LAFC and its attorneys shall continue as counsel of\nrecord solely for the following purposes: (a) pursuing and collecting\nattorneys fees and costs owed to LAFC for legal assistance, as may be\npermitted by law; (b) representing individuals and participating in\nnon−adversarial activities in accordance with 45 C.F.R. Section 1617.2\n(effective 01/01/97). Mailed notice (eav) (Entered: 12/05/1996)\n02/06/1997 289  MOTION by defendant to substitute attorneys Nancy K. Hall−Walker,\nBarbara L. Greenspan, Danielle J. Steimel and substitute pursuant to Fed.\nR. Civ. P. 25(d)(1) Jess McDonald is the current Director of DCFS ;\nNotice of motion (Temporarily unavailable for docketing) (eav) (Entered:\n02/14/1997)\n02/13/1997 290  MINUTE ORDER of 2/13/97 by Hon. Paul E. Plunkett : Defendant's\nmotion for leave to substitute counsel is granted. [289−1] Leave is granted\nto Christina M. Tchen and her colleagues at Skadden, Arps, Slate,\nmeagher &Flom to withdraw as counsel for defendant and leave is\ngranted to Assistant Attorney General Barbara L. Greenspan, Danielle\nSteimel, and Nancy Hall−Walker to file their appearance as substitute\ncounsel for defendant. Telephoned notice (eav) (Entered: 02/14/1997)\n02/13/1997 291  ATTORNEY APPEARANCE for defendant Jess McDonald by Nancy K.\nHall−Walker, Barbara L. Greenspan, Danielle J. Steimel with Rule 39\nAffidavit (eav) (Entered: 02/14/1997)",
+      "document_type_other": null,
+      "external_url": null,
+      "ecf_number": null,
+      "clearinghouse_link": "clearinghouse.net/doc/33213"
+    },
+    {
+      "date": "1989-06-30",
+      "date_is_estimate": false,
+      "date_not_available": false,
+      "description": null,
+      "document_source": "Westlaw",
+      "document_status": "Deleted",
+      "document_type": "Order/Opinion",
+      "order_type": "Unknown",
+      "citation_paren": null,
+      "cite_1_page": null,
+      "cite_1_reporter": null,
+      "cite_1_vol": null,
+      "cite_2_page": 75954,
+      "cite_2_reporter": "WL",
+      "cite_2_vol": 1989,
+      "cite_3_page": null,
+      "cite_3_reporter": null,
+      "cite_3_vol": null,
+      "citation_status": null,
+      "court": null,
+      "no_title": false,
+      "party_types": [],
+      "per_curium": false,
+      "is_core_document": true,
+      "id": 33214,
+      "file": "https://clearinghouse-umich-production.s3.amazonaws.com/media/doc/33214.pdf",
+      "title": "Memorandum Opinion and Order",
+      "text": "  \nOnly the Westlaw citation is currently available.  required, it can be done by relatives, foster parents, \nUnited States District Court, N.D. Illinois, Eastern  residential care providers, homemakers, volunteers or \nDivision.  other service providers. (Id. at 3(d)) Visitation plans \nGail BATES, on her own behalf and Deborah  are  to  be  established  within  three  days  of  initial \nSaunders, on her own behalf, and on the behalf of  placement (or ten days for emergency placements), \nothers similarly situated, Plaintiffs,  and visits are to begin within two weeks of DCFS's \nv.  assumption of temporary custody or guardianship. \nGordon JOHNSON, Director, Illinois Department of  (Id. at 3(f-g)) The visitation plan is to be included in \nChildren and Family Services, Defendant.  the service plan for the child and family. (Id. at 3(h)) \nNo. 84 C 10054.   \n  The terms of the decree provided that Defendant was \nJune 30, 1989.  also to make available to Plaintiffs' counsel statistical \n  information regarding visitation plans and copies of \nMEMORANDUM OPINION AND ORDER  final  administrative  decisions  (Para.  5-6),  provide \n  notice  to  class  members  regarding  the  visitation \npolicy and their appeal rights (Para. 8), and see to it \nPLUNKETT, District Judge. \nthat caseworkers were reminded periodically of the \n \npublished policies on visitations and appeals (Para. \nBackground \n9). The decree also provided that any class member \n \naggrieved by a DCFS decision relating to her or his \n*1 On November 20, 1984, Plaintiffs Gail Bates and  service plan could invoke a three step review and \nDeborah Saunders filed a class action lawsuit against  appeal process. (Para. 7) \nGordon Johnson, Director of the Illinois Department   \nof Children and Family Services (“DCFS”). Plaintiffs \nThe Order also contained the following provision \nsued on behalf of all parents and guardians whose \nregarding  enforcement  and  modification  of  this \nchildren are in the temporary custody of DCFS or \npolicy: \nunder DCFS guardianship under a service plan which \n \nhas the goal of returning the children to the custody \n[D]efendant agrees to maintain and enforce the policy \nof  their  parents.  The  complaint  alleged  that \nstated  in  paragraph  3  herein  throughout  Illinois, \nDefendant's  adherence  to  a  one  hour  per  month \nexcept that no provision herein precludes defendant \nvisitation policy for class members and their children \nfrom  modifying  this  policy.  If  DCFS  officially \nwas  in  violation  of  the  Social  Security  Act  and \nproposes  a  change  of  its  policy  as  set  forth  in \napplicable federal regulations, and the First, Ninth \nparagraph 3 herein at any time between the date this \nand  Fourteenth  Amendments of the United States \norder is entered and the two year anniversary of such \nConstitution. Plaintiffs also alleged that Defendant \ndate,  then  prior  to  the  time  such  regulation  is \nhad failed to provide notice and a hearing prior to \nofficially  adopted,  DCFS  will  comply  with  the \nenforcement  of  administrative  determinations \nIllinois  Administrative  Procedure  Act,  ...  and,  in \naffecting visitation policies, thus violating the Social \naddition, agrees to appear before this Court to discuss \nSecurity Act and the due process clause. \nthe nature and extent of the proposed changes. The \n \nentry of this Agreed Order will not prejudice the \nDefendant filed a motion to dismiss, but prior to a \nrights of plaintiffs and class members to reassert the \ndetermination on the motion the parties entered into a \nclaims made in the complaint herein in the event the \nconsent decree. The Agreed Order entered by this \nDCFS policy set forth in paragraph 3 is changed or \ncourt on June 5, 1986 stated that DCFS visitation \nmodified  in  accordance  with  the  Illinois \npolicy “prior to the filing of this suit and at the time \nAdministrative Procedure Act.... \nof  this  agreement”  is  as  follows.  “Parents  and \n \nguardians  of  children  under  DCFS  temporary \n*2 (Agreed Order, Para. 4) \ncustody, or under DCFS guardianship with a goal of \n \nreturn home, are expected and encouraged to visit \ntheir children weekly unless there is documentation  The decree was to remain in force for a two-year \nto the contrary in the case/record.”  (Agreed Order,  period.  (Para.  13)  Despite  the  fact  that  it  bound \nPara. 3(a)) In the event supervision of such visits is  Defendant only to follow policies which purportedly \n \n\n  \nwere already in effect at the time of the lawsuit's  determining  appropriate  contempt  sanctions  to  be \nfiling,  Defendant  wholly  failed  to  live  up  to  its  assessed  against  a  Defendant  who  entered  into  a \nobligations under the decree. On March 16, 1987,  consent  decree  over  three  years  ago,  but,  as \nPlaintiffs filed a Motion for Contempt alleging that  Defendant itself acknowledges, from the very outset \nDefendant had violated the terms of the decree by  has failed to live up to its agreement. \nfailing to do the following:   \n  Discussion \n1) notify class members of their visitation rights;   \n  Plaintiffs ask the court to enter an order establishing a \n2) grant weekly visits to class members;  six-year period during which Defendant must enforce \n  a policy of weekly visitation. They have submitted a \n3) provide visits in the home;  lengthy  Proposed  Order  which  spells  out  more \n  specifically than the original decree the details of \nimplementing  such  a  policy  and  the  attendant \n4)  provide  transportation  for  class  members  who \nrequirements such as notice to the class. Plaintiffs \ncould not afford this cost; \nalso seek the following sanctions: \n \n \n5) ensure an appeal for adverse decisions affecting \n1) the appointment of a special master to monitor \nvisitation; \nDefendant's compliance with the decree and submit \n \nperiodic reports to the court; \n6) notify or train caseworkers on plaintiffs' rights to \n \nvisitation; and \n2) the imposition of various penalty payments for any \n \nfuture non-compliance; \n9) establish visitation plans within 3 or 10 days of \n \nplacement as required by the Order. \n3) reimbursement of Plaintiffs' attorney fees and costs \n \nincurred in bringing the contempt motion. \nMotion for Contempt at 6-20. Defendant never filed a \n \nresponse to the motion or requested a hearing, and \n*3 Defendant agrees that Plaintiffs are entitled to \nPlaintiffs then embarked on a long and frustrating \nreasonable  attorney  fees  incurred  in  bringing  the \nseries  of  attempts  to  obtain  discovery  from \ncontempt motion, but argues that the only additional \nDefendant. Magistrate Rosemond issued numerous \nsanction should be a revival of Plaintiffs' right to \ndiscovery  orders,  and  on  April  6,  1988  ordered \nlitigate  the  merits  of  this  case.  In  vociferously \nDefendant to pay Plaintiffs $9,621.00 in attorney fees \nopposing  further  sanctions,  Defendant  repeatedly \nincurred in attempting to obtain discovery. \ninsists that \n \n \nOn September 14, 1988 (a year and a half after the \nDCFS  had  the  unilateral  right  to  abandon  its \nfiling of the Motion for Contempt and over two years \nafter the entry of the decree),FN1 Defendant stipulated  visitation policy and adopt a new rule, thus ending its \nprincipal obligation under the decree. If this occurred, \nthat  at  the  time  of  the  filing  of  the  Motion  for \nthe  plaintiffs  could  elect  to  litigate  their  original \nContempt it was not in compliance with the Agreed \nclaim. \nOrder. On September 21, 1988, Defendant stipulated \n \nthat it had not been in compliance with the Order at \nany time since its entry.FN2   The stipulation also  Defendant  further  argues  that  compliance  with \nstated that the parties “are currently in negotiations so  Plaintiffs'  Proposed  Order  is  beyond  DCFS' \nas to ensure compliance with the Agreed Order.”  capability,  and  would  interfere  with  DCFS' \n  management  of  its  limited  resources  and  with  its \npotential obligations under other pending litigation. \nIn February 1989, Defendant informed Plaintiffs that \nDefendant  argues,  finally,  that  imposition  of  the \nit would not agree to a new consent decree to resolve \nProposed  Order  would  be  an  impermissible \nthe contempt motion because of the possible impact \nmodification of the terms of the decree, and that \nof  such  a  decree  on  other  suits  filed  against \nPlaintiffs' claims are “not well-founded.” \nDefendant in 1988. Thus, we are now faced with \n \n\n  \n  as a minute of compliance. Revival of Plaintiffs' right \nThe  court  is  extremely  disturbed  by  the  position  to litigate was the stipulated remedy if Defendant \nDefendant  has  taken.  Over  three  years  ago,  chose to modify its policy in accord with the Illinois \nDefendant chose to forego its right to litigate the  Administrative Procedure Act and after notifying this \nclaims pending against it and instead to enter into a  court  of  the  proposed  changes;  it  is  not  the \ncourt-approved  agreement  providing  that  it  would  appropriate  remedy  for  three  years  of  bad  faith \nabide  by  what  it  claimed  was  already  its  official  noncompliance. \npolicy  regarding  parental  visitation.  During  those   \nthree  years,  Defendant  has  done  little  to  actually  *4 At the same time, the court is unwilling to impose \nmake that policy a reality. It has never, however,  the detailed order suggested by Plaintiffs. The court \nasked this court for a modification of the decree on  finds  that  the  twin  purposes  of  civil  contempt \ngrounds  that  changed  circumstances  prevented  it  sanctions-to compensate plaintiffs for injury due to \nfrom living up to its obligations. Instead, Defendant  noncompliance and compel obedience to the court's \ncontinually strung Plaintiffs along, apparently hoping  order FN3-can best be served by imposition of the \nto be the victor in a war of attrition.  following sanctions. \n   \nThe court finds it incredible that Defendant would  1)  Defendant  is  to  reimburse  Plaintiffs  for  all \nnow respond to a contempt motion by arguing that  reasonable attorney fees and costs incurred in all of \nPlaintiffs' legal claims have thin support. Defendant  Plaintiffs' efforts to implement the consent decree \nsettled those claims by entering into the decree, and  (including, e.g., negotiations). \ncannot now be heard to complain that they lack merit.   \nDefendant's argument that we should not tie its hands  2) The original decree is to continue in force for a \nbecause  it  faces  litigation  on  other  fronts  is  also  period of two years from the date of entry of this \nwrong-headed;  Defendant  in  effect  bought  off  order. \nPlaintiffs' claims by agreeing to an order in 1986, and   \nsurely  cannot  escape  its  obligations  to  Plaintiffs \n3) Defendant is to report to this court in 60 days. If \nsimply because competing demands were later made \nDefendant is not in compliance with the decree at that \nby  others.  We  are  similarly  unreceptive  to \ntime, the court shall impose further sanctions, which \nDefendant's plea that “full compliance with plaintiffs' \nmay include monetary penalties. \ninterpretation of the original Bates decree would have \n \nbeen  impossible.”   (Johnson  Aff.  at  2)  As  earlier \n4) Defendant is to designate a liaison whom Plaintiffs \nstated, Defendant never sought modification of the \nmay  contact  regarding  any  problems  in  securing \ndecree on these grounds. Neither did Defendant avail \nDefendant's compliance with the decree. \nitself of the provision allowing it to propose and \n \nadopt changes to its professed policy in accord with \nthe Illinois Administrative Procedure Act. We also  If the parties disagree on the proper interpretation of \npoint  out  that  Defendant's  argument  is  somewhat  the  decree,  such  disputes  are  to  be  taken  before \nironic, given that the decree stipulated that it simply  Magistrate Rosemond. If Plaintiffs believe, however, \nbound  Defendant  to  abide  by  its  own  existing  that Defendant is not making a good faith effort to \npolicies.  comply with the terms of the decree, they shall come \n  before this court. \n \nThe court can only conclude that Defendant entered \ninto the decree in order to simply get Plaintiffs off its  FN1.  In  light  of  the  progress  (or  lack \nback, yet never seriously intended to live up to it. We  thereof) of the litigation following entry of \ndo not take kindly to what we perceive to be three  the decree, the court extended its jurisdiction \nyears of bad faith conduct, conduct which was in  beyond the two years originally provided \nblatant  contravention  of  a  court  order.  We  find  for. \nDefendant's suggestion that the appropriate remedy is   \nrevival of Plaintiff's right to litigate to be ludicrous.  FN2.  Plaintiff  stipulated  that  there  had, \nPlaintiffs were promised two years of compliance  however,  been  some  improvement  in  the \nwith the decree, but have not received even so much  providing  of  weekly  visitation  to  class \n \n\n  \nmembers. \n \nFN3.     See  Commodity  Futures  Trading \nCommission v. Premex, 655 F.2d 779, 785 \n(7th Cir.1981). \n \nN.D.Ill.,1989. \nBates v. Johnson \nNot Reported in F.Supp., 1989 WL 75954 (N.D.Ill.) \n \nEND OF DOCUMENT \n \n ",
+      "document_type_other": null,
+      "external_url": "",
+      "ecf_number": null,
+      "clearinghouse_link": "clearinghouse.net/doc/33214"
+    }
+  ],
+  "document_count": 4
+}

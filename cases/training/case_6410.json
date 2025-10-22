@@ -1,0 +1,339 @@
+{
+  "case_id": 6410,
+  "fetched_at": "2025-10-22T00:08:10.656310",
+  "case_data": {
+    "attorney_orgs": [
+      "EEOC"
+    ],
+    "available_documents": [
+      "Trial Court Docket"
+    ],
+    "case_defendants": [
+      {
+        "defendant_level": null,
+        "institution": null,
+        "institution_alt_state": null,
+        "institution_city": "",
+        "institution_county": null,
+        "name": "San Francisco Newspaper Agency ",
+        "defendant_level_other": null,
+        "is_active": true
+      }
+    ],
+    "case_ongoing": "No",
+    "case_status": "Coding Complete",
+    "case_types": [
+      "Equal Employment"
+    ],
+    "cause_other": "",
+    "causes": [],
+    "class_action_granted": "Not sought",
+    "class_action_sought": "No",
+    "closing_year": 1998,
+    "constitutional_clause": [],
+    "content_of_injunction": [],
+    "court": "Northern District of California",
+    "custom_issues": [],
+    "defendant_payment": "",
+    "defendant_type": [],
+    "docket_status": "Complete as of retrieval date",
+    "facility_type": [],
+    "filing_date": "1997-05-28",
+    "filing_year": 1997,
+    "id": 6410,
+    "injunction_duration": "",
+    "issues": [
+      "Discrimination Area: Disparate Treatment",
+      "EEOC-centric: Direct Suit on Merits"
+    ],
+    "last_checked_date": "2007-06-06T00:00:00-04:00",
+    "main_docket": {
+      "id": 36662,
+      "docket_entries": [
+        {
+          "row_number": 7,
+          "id": 1586213,
+          "entry_number": null,
+          "date_filed": "1997-10-02T00:00:00-04:00",
+          "attachments": [],
+          "url": "nan",
+          "recap_pdf_url": null,
+          "pacer_doc_id": null,
+          "description": "REFERRAL: referring case for settlement to Mag. Judge Phyllis J. Hamilton [4:97-cv-01989] (judi, COURT STAFF) (Entered: 10/02/1997)"
+        },
+        {
+          "row_number": 9,
+          "id": 1586215,
+          "entry_number": "8",
+          "date_filed": "1997-10-06T00:00:00-04:00",
+          "attachments": [],
+          "url": "nan",
+          "recap_pdf_url": null,
+          "pacer_doc_id": null,
+          "description": "LETTER to Judge Armstrong dated 10/2/97 from attorney Lindbergh Porter Jr. re: San Francisco Newspaper Agency has agreed to an early settlement [4:97-cv-01989] (mmr, COURT STAFF) (Entered: 10/06/1997)"
+        },
+        {
+          "row_number": 3,
+          "id": 1586209,
+          "entry_number": "5",
+          "date_filed": "1997-09-22T00:00:00-04:00",
+          "attachments": [],
+          "url": "nan",
+          "recap_pdf_url": null,
+          "pacer_doc_id": null,
+          "description": "Joint CASE MANAGEMENT STATEMENT and PROPOSED ORDER filed. [4:97-cv-01989] (mmr, COURT STAFF) (Entered: 09/23/1997)"
+        },
+        {
+          "row_number": 5,
+          "id": 1586211,
+          "entry_number": "7",
+          "date_filed": "1997-10-01T00:00:00-04:00",
+          "attachments": [],
+          "url": "nan",
+          "recap_pdf_url": null,
+          "pacer_doc_id": null,
+          "description": "MINUTES: ( C/R not reported) ( Hearing Date: 10/1/97) Telephonic Case Management Conference held , referring case for settlement to Mag. Judge Phyllis J. Hamilton , referring case for discovery to Magistrate Judge James Larson [4:97-cv-01989] (mmr, COURT STAFF) (Entered: 10/02/1997)"
+        },
+        {
+          "row_number": 11,
+          "id": 1586217,
+          "entry_number": "11",
+          "date_filed": "1997-12-17T00:00:00-05:00",
+          "attachments": [],
+          "url": "nan",
+          "recap_pdf_url": null,
+          "pacer_doc_id": null,
+          "description": "MINUTES: ( C/R not reported) ( Hearing Date: 12/17/97) Settlement Conference before Magistrate Judge Hamilton held on 12/17/97, case settled [4:97-cv-01989] (mmr, COURT STAFF) (Entered: 12/24/1997)"
+        },
+        {
+          "row_number": 10,
+          "id": 1586216,
+          "entry_number": "10",
+          "date_filed": "1997-12-10T00:00:00-05:00",
+          "attachments": [],
+          "url": "nan",
+          "recap_pdf_url": null,
+          "pacer_doc_id": null,
+          "description": "CLERK'S NOTICE Case Management Conference set for 12/11/97 is moved to 11:15 a.m. on 1/14/98 telephonically [4:97-cv-01989] (mmr, COURT STAFF) (Entered: 12/11/1997)"
+        },
+        {
+          "row_number": 6,
+          "id": 1586212,
+          "entry_number": null,
+          "date_filed": "1997-10-02T00:00:00-04:00",
+          "attachments": [],
+          "url": "nan",
+          "recap_pdf_url": null,
+          "pacer_doc_id": null,
+          "description": "REFERRAL: referring case for discovery to Magistrate Judge James Larson [4:97-cv-01989] (judi, COURT STAFF) (Entered: 10/02/1997)"
+        },
+        {
+          "row_number": 0,
+          "id": 1586206,
+          "entry_number": "1",
+          "date_filed": "1997-05-28T00:00:00-04:00",
+          "attachments": [],
+          "url": "nan",
+          "recap_pdf_url": null,
+          "pacer_doc_id": null,
+          "description": "COMPLAINT Summons(es) issued; Fee status ex entered on 5/28/97 in the amount of $ ex (); jury demand [4:97-cv-01989] (cg, COURT STAFF) (Entered: 05/30/1997)"
+        },
+        {
+          "row_number": 12,
+          "id": 1586218,
+          "entry_number": "12",
+          "date_filed": "1998-01-27T00:00:00-05:00",
+          "attachments": [],
+          "url": "nan",
+          "recap_pdf_url": null,
+          "pacer_doc_id": null,
+          "description": "ORDER by Judge Saundra B. Armstrong dismissing case upon notification of settlement; appeal filing ddl 2/27/98 ( Date Entered: 1/28/98) (cc: all counsel) [4:97-cv-01989] (mmr, COURT STAFF) (Entered: 01/28/1998)"
+        },
+        {
+          "row_number": 1,
+          "id": 1586207,
+          "entry_number": "2",
+          "date_filed": "1997-05-28T00:00:00-04:00",
+          "attachments": [],
+          "url": "nan",
+          "recap_pdf_url": null,
+          "pacer_doc_id": null,
+          "description": "ORDER RE COURT PROCEDURE and SCHEDULE by Judge Saundra B. Armstrong : Proof of service to be filed by 7/14/97 ; counsels' case management statement to be filed by 9/22/97 ; initial case management conference will be held 3:00 10/1/97 . (cc: all counsel) (cg, COURT STAFF) (Entered: 05/30/1997)"
+        },
+        {
+          "row_number": 2,
+          "id": 1586208,
+          "entry_number": "4",
+          "date_filed": "1997-07-23T00:00:00-04:00",
+          "attachments": [],
+          "url": "nan",
+          "recap_pdf_url": null,
+          "pacer_doc_id": null,
+          "description": "ANSWER by defendant SF Newspaper Agency to complaint [1-1] [4:97-cv-01989] (cg, COURT STAFF) (Entered: 07/25/1997)"
+        },
+        {
+          "row_number": 4,
+          "id": 1586210,
+          "entry_number": "6",
+          "date_filed": "1997-09-26T00:00:00-04:00",
+          "attachments": [],
+          "url": "nan",
+          "recap_pdf_url": null,
+          "pacer_doc_id": null,
+          "description": "CLERK'S NOTICE Case Management Conference set for 10/1/97 at 3:00 pm has been moved to 3:30 pm on 10/1/97 [4:97-cv-01989] (mmr, COURT STAFF) (Entered: 10/01/1997)"
+        },
+        {
+          "row_number": 8,
+          "id": 1586214,
+          "entry_number": "9",
+          "date_filed": "1997-10-02T00:00:00-04:00",
+          "attachments": [],
+          "url": "nan",
+          "recap_pdf_url": null,
+          "pacer_doc_id": null,
+          "description": "Notice of Settlement Conference and Settlement Conference ORDER by Mag. Judge Phyllis J. Hamilton Settlement conf. (Mag) set for 1:30 pm on 12/17/97 before Magistrate Judge Hamilton at 450 Golden Gate Ave, Courtroom A 15th floor, San Francisco, CA ( Date Entered: 10/8/97) (cc: all counsel) [4:97-cv-01989] (cp, COURT STAFF) (Entered: 10/08/1997)"
+        },
+        {
+          "row_number": 13,
+          "id": 1586219,
+          "entry_number": "13",
+          "date_filed": "1998-06-01T00:00:00-04:00",
+          "attachments": [],
+          "url": "nan",
+          "recap_pdf_url": null,
+          "pacer_doc_id": null,
+          "description": "Request and ORDER by Judge Saundra B. Armstrong dismissing case with prejudice; appeal filing ddl 7/2/98 ( Date Entered: 6/1/98) (cc: all counsel) [4:97-cv-01989] (mmr, COURT STAFF) (Entered: 06/02/1998)"
+        }
+      ],
+      "docket_case_type": "cv",
+      "docket_year": 1997,
+      "docket_filing_number": 1989,
+      "is_main_docket": true,
+      "court": "Northern District of California",
+      "state": "California",
+      "docket_office_number": "4",
+      "docket_number_manual": "4:97-cv-01989-SBA",
+      "scales_html": "https://clearinghouse-umich-production.s3.amazonaws.com/media/docket-html/cand--4-97-cv-01989.html",
+      "recap_link": null,
+      "is_active": true
+    },
+    "name": "EEOC v. San Fransisco Newspaper Agency",
+    "never_filed": false,
+    "non_docket_case_number": "",
+    "non_docket_case_number_type": null,
+    "non_docket_case_number_type_other": "",
+    "order_end_year": null,
+    "order_start_year": 1998,
+    "permanent_injunction": false,
+    "plaintiff_description": "Equal Employment Opportunity Commission, on behalf of one or more workers.",
+    "plaintiff_type": [
+      {
+        "value": "EEOC Plaintiff"
+      }
+    ],
+    "prevailing_party": "Plaintiff",
+    "pro_se_status": "No",
+    "public_interest_lawyer": "Yes",
+    "related_cases": [],
+    "relief_natures": [
+      "Unknown"
+    ],
+    "relief_nature_other": "",
+    "relief_sources": [
+      "Settlement"
+    ],
+    "settlement_agreement": [
+      "Voluntary Dismissal"
+    ],
+    "settlement_judgment_date": null,
+    "settlement_judgment_year": null,
+    "special_collections": [
+      "EEOC Study — in sample"
+    ],
+    "special_case_type": [],
+    "state": "California",
+    "summary": "<p>In May 1997, the San Francisco office of the EEOC brought this suit against San Francisco Newspaper Agency in the U.S. District Court for the California Northern District. The parties settled in December 1997 during a settlement conference, and the court dismissed the case in June 1998. Because the docket is the only accessible document, there is no more information available pertaining to the nature of the suit or the consent decree.</p><p></p>",
+    "summary_published_date": "2007-07-23T00:00:00-04:00",
+    "summary_short": null,
+    "summary_tiny": null,
+    "terminating_date": null,
+    "clearinghouse_link": "clearinghouse.net/case/6410",
+    "is_active": true,
+    "case_documents_url": "https://clearinghouse.net/api/v2/documents/?case=6410",
+    "case_dockets_url": "https://clearinghouse.net/api/v2/dockets/?case=6410",
+    "case_resources_url": "https://clearinghouse.net/api/v2/resources/?case=6410"
+  },
+  "documents": [
+    {
+      "date": "1998-06-01",
+      "date_is_estimate": false,
+      "date_not_available": false,
+      "description": null,
+      "document_source": "PACER [Public Access to Court Electronic Records]",
+      "document_status": "Coding Complete",
+      "document_type": "Docket",
+      "order_type": null,
+      "citation_paren": null,
+      "cite_1_page": null,
+      "cite_1_reporter": null,
+      "cite_1_vol": null,
+      "cite_2_page": null,
+      "cite_2_reporter": null,
+      "cite_2_vol": null,
+      "cite_3_page": null,
+      "cite_3_reporter": null,
+      "cite_3_vol": null,
+      "citation_status": "Not applicable",
+      "court": "Northern District of California",
+      "no_title": false,
+      "party_types": [
+        "Court"
+      ],
+      "per_curium": false,
+      "is_core_document": true,
+      "id": 20090,
+      "file": "https://clearinghouse-umich-production.s3.amazonaws.com/media/doc/20090.pdf",
+      "title": "Docket (PACER)",
+      "text": "CAND-ECF - Docket Report https://ecf.cand.uscourts.gov/cgi-bin/DktRpt.pl?789819291855864-L_3...\nCLOSED, ICMS, REFDIS\nU.S. District Court\nCalifornia Northern District (Oakland)\nCIVIL DOCKET FOR CASE #: 4:97-cv-01989-SBA\nEEOC v. SF Newspaper Agency Date Filed: 05/28/1997\nAssigned to: Hon. Saundra Brown Armstrong Date Terminated: 01/27/1998\nReferred to: Magistrate Judge James Larson Jury Demand: Plaintiff\nDemand: $0 Nature of Suit: 442 Civil Rights: Jobs\nCause: 42:1983 Civil Rights Act Jurisdiction: U.S. Government Plaintiff\nPlaintiff\nEqual Employment Opportunity  represented by Peter A. Janiak \nCommission EEOC \nSan Francisco District Office \n350 Embarcadero Street \nSuite 500 \nSan Francisco, CA 94105 \n415-625-5600 \nLEAD ATTORNEY \nATTORNEY TO BE NOTICED\nV.\nDefendant\nSan Francisco Newspaper Agency represented by Lindbergh Porter, Jr. \nLittler Mendelson, PC \n650 California Street \n22nd Floor \nSan Francisco, CA 94108 \n415-433-1940 \nFax: 415-399-8490 \nEmail: lporter@littler.com \nLEAD ATTORNEY \nATTORNEY TO BE NOTICED\nDate Filed # Docket Text\n05/28/1997 1 COMPLAINT Summons(es) issued; Fee status ex entered on 5/28/97 in the \namount of $ ex (); jury demand [4:97-cv-01989] (cg, COURT STAFF) (Entered: \n05/30/1997)\n05/28/1997 2 ORDER RE COURT PROCEDURE and SCHEDULE by Judge Saundra B. \nArmstrong : Proof of service to be filed by 7/14/97 ; counsels' case management \nstatement to be filed by 9/22/97 ; initial case management conference will be held \n3:00 10/1/97 . (cc: all counsel) (cg, COURT STAFF) (Entered: 05/30/1997)\n1 of 3 6/6/2007 12:10 PM\n\nCAND-ECF - Docket Report https://ecf.cand.uscourts.gov/cgi-bin/DktRpt.pl?789819291855864-L_3...\n07/11/1997 3 WAIVER OF SERVICE by defendant SF Newspaper Agency served on 6/30/97 \nin response to the Request for Waiver sent on 5/29/97 [4:97-cv-01989] (kk, \nCOURT STAFF) (Entered: 07/12/1997)\n07/23/1997 4 ANSWER by defendant SF Newspaper Agency to complaint [1-1] \n[4:97-cv-01989] (cg, COURT STAFF) (Entered: 07/25/1997)\n09/22/1997 5 Joint CASE MANAGEMENT STATEMENT and PROPOSED ORDER filed. \n[4:97-cv-01989] (mmr, COURT STAFF) (Entered: 09/23/1997)\n09/26/1997 6 CLERK'S NOTICE Case Management Conference set for 10/1/97 at 3:00 pm has \nbeen moved to 3:30 pm on 10/1/97 [4:97-cv-01989] (mmr, COURT STAFF) \n(Entered: 10/01/1997)\n10/01/1997 7 MINUTES: ( C/R not reported) ( Hearing Date: 10/1/97) Telephonic Case \nManagement Conference held , referring case for settlement to Mag. Judge \nPhyllis J. Hamilton , referring case for discovery to Magistrate Judge James \nLarson [4:97-cv-01989] (mmr, COURT STAFF) (Entered: 10/02/1997)\n10/02/1997   REFERRAL: referring case for discovery to Magistrate Judge James Larson \n[4:97-cv-01989] (judi, COURT STAFF) (Entered: 10/02/1997)\n10/02/1997   REFERRAL: referring case for settlement to Mag. Judge Phyllis J. Hamilton \n[4:97-cv-01989] (judi, COURT STAFF) (Entered: 10/02/1997)\n10/02/1997 9 Notice of Settlement Conference and Settlement Conference ORDER by Mag. \nJudge Phyllis J. Hamilton Settlement conf. (Mag) set for 1:30 pm on 12/17/97 \nbefore Magistrate Judge Hamilton at 450 Golden Gate Ave, Courtroom A 15th \nfloor, San Francisco, CA ( Date Entered: 10/8/97) (cc: all counsel) \n[4:97-cv-01989] (cp, COURT STAFF) (Entered: 10/08/1997)\n10/06/1997 8 LETTER to Judge Armstrong dated 10/2/97 from attorney Lindbergh Porter Jr. \nre: San Francisco Newspaper Agency has agreed to an early settlement \n[4:97-cv-01989] (mmr, COURT STAFF) (Entered: 10/06/1997)\n12/10/1997 10 CLERK'S NOTICE Case Management Conference set for 12/11/97 is moved to \n11:15 a.m. on 1/14/98 telephonically [4:97-cv-01989] (mmr, COURT STAFF) \n(Entered: 12/11/1997)\n12/17/1997 11 MINUTES: ( C/R not reported) ( Hearing Date: 12/17/97) Settlement Conference \nbefore Magistrate Judge Hamilton held on 12/17/97, case settled [4:97-cv-01989] \n(mmr, COURT STAFF) (Entered: 12/24/1997)\n01/27/1998 12 ORDER by Judge Saundra B. Armstrong dismissing case upon notification of \nsettlement; appeal filing ddl 2/27/98 ( Date Entered: 1/28/98) (cc: all counsel) \n[4:97-cv-01989] (mmr, COURT STAFF) (Entered: 01/28/1998)\n06/01/1998 13 Request and ORDER by Judge Saundra B. Armstrong dismissing case with \nprejudice; appeal filing ddl 7/2/98 ( Date Entered: 6/1/98) (cc: all counsel) \n[4:97-cv-01989] (mmr, COURT STAFF) (Entered: 06/02/1998)\nPACER Service Center\n2 of 3 6/6/2007 12:10 PM\n\nCAND-ECF - Docket Report https://ecf.cand.uscourts.gov/cgi-bin/DktRpt.pl?789819291855864-L_3...\nTransaction Receipt\n06/06/2007 09:43:36\nPACER \nhs0328 Client Code: eeoc \nLogin:\nDocket  Search \nDescription: 4:97-cv-01989-SBA\nReport Criteria:\nBillable Pages: 2 Cost: 0.16\n3 of 3 6/6/2007 12:10 PM",
+      "document_type_other": null,
+      "external_url": null,
+      "ecf_number": null,
+      "clearinghouse_link": "clearinghouse.net/doc/20090"
+    },
+    {
+      "date": null,
+      "date_is_estimate": false,
+      "date_not_available": false,
+      "description": null,
+      "document_source": null,
+      "document_status": null,
+      "document_type": null,
+      "order_type": null,
+      "citation_paren": null,
+      "cite_1_page": null,
+      "cite_1_reporter": null,
+      "cite_1_vol": null,
+      "cite_2_page": null,
+      "cite_2_reporter": null,
+      "cite_2_vol": null,
+      "cite_3_page": null,
+      "cite_3_reporter": null,
+      "cite_3_vol": null,
+      "citation_status": null,
+      "court": null,
+      "no_title": false,
+      "party_types": [],
+      "per_curium": false,
+      "is_core_document": true,
+      "id": 124968,
+      "file": null,
+      "title": null,
+      "text": null,
+      "document_type_other": null,
+      "external_url": null,
+      "ecf_number": null,
+      "clearinghouse_link": "clearinghouse.net/doc/124968"
+    }
+  ],
+  "document_count": 2
+}

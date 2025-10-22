@@ -1,0 +1,523 @@
+{
+  "case_id": 13152,
+  "fetched_at": "2025-10-22T00:19:47.412996",
+  "case_data": {
+    "attorney_orgs": [],
+    "available_documents": [
+      "Trial Court Docket",
+      "Complaint (any)"
+    ],
+    "case_defendants": [
+      {
+        "defendant_level": null,
+        "institution": "",
+        "institution_alt_state": null,
+        "institution_city": "Waterville",
+        "institution_county": null,
+        "name": "Colby College",
+        "defendant_level_other": "",
+        "is_active": true
+      }
+    ],
+    "case_ongoing": "No",
+    "case_status": "Approved",
+    "case_types": [
+      "Education"
+    ],
+    "cause_other": "",
+    "causes": [
+      "Title IX of the Education Amendments of 1972, 20 U.S.C. §§ 1681 et seq."
+    ],
+    "class_action_granted": "Not sought",
+    "class_action_sought": "No",
+    "closing_year": 2004,
+    "constitutional_clause": [],
+    "content_of_injunction": [
+      {
+        "value": "Discrimination Prohibition"
+      }
+    ],
+    "court": "District of Maine",
+    "custom_issues": [],
+    "defendant_payment": "",
+    "defendant_type": [
+      {
+        "value": "College/University"
+      }
+    ],
+    "docket_status": "Complete as of retrieval date",
+    "facility_type": [
+      {
+        "value": "Non-government non-profit"
+      }
+    ],
+    "filing_date": "2003-06-06",
+    "filing_year": 2003,
+    "id": 13152,
+    "injunction_duration": "",
+    "issues": [
+      "Discrimination Basis: Sex discrimination",
+      "Affected Sex/Gender(s): Female",
+      "Discrimination Area: Sports"
+    ],
+    "last_checked_date": "2014-01-28T00:00:00-05:00",
+    "main_docket": {
+      "id": 30525,
+      "docket_entries": [
+        {
+          "row_number": 9,
+          "id": 8754546,
+          "entry_number": "2",
+          "date_filed": "2003-06-09T00:00:00-04:00",
+          "attachments": [],
+          "url": "https://www.courtlistener.com/docket/11709718/2/bonner-v-colby-college-president/",
+          "recap_pdf_url": null,
+          "pacer_doc_id": "091044954",
+          "description": "NOTICE of Appearance Pro Hac Vice by SAMUEL J. SCHILLER on behalf of REBECCA AVRUTIN, WENDY BONNER, HEATHER M DEVITO, ADRIENNE LECLAIR, KRISTIN PUTNAM (err, ) (Entered: 06/11/2003)"
+        },
+        {
+          "row_number": 10,
+          "id": 8754548,
+          "entry_number": "3",
+          "date_filed": "2003-06-27T00:00:00-04:00",
+          "attachments": [],
+          "url": "https://www.courtlistener.com/docket/11709718/3/bonner-v-colby-college-president/",
+          "recap_pdf_url": null,
+          "pacer_doc_id": "091059425",
+          "description": "MOTION to Dismiss Count II of Complaint by COLBY COLLEGE, PRESIDENT, COLBY COLLEGE, TRUSTEES OF with incorporated memo.Responses due by 7/18/2003. (jgw, ) (Entered: 07/01/2003)"
+        },
+        {
+          "row_number": 11,
+          "id": 8754549,
+          "entry_number": "4",
+          "date_filed": "2003-06-30T00:00:00-04:00",
+          "attachments": [],
+          "url": "https://www.courtlistener.com/docket/11709718/4/bonner-v-colby-college-president/",
+          "recap_pdf_url": null,
+          "pacer_doc_id": "091066430",
+          "description": "ANSWER to Complaint by COLBY COLLEGE, PRESIDENT, COLBY COLLEGE, TRUSTEES OF.(jgw, ) (Entered: 07/02/2003)"
+        },
+        {
+          "row_number": 12,
+          "id": 8754550,
+          "entry_number": "5",
+          "date_filed": "2003-07-03T00:00:00-04:00",
+          "attachments": [],
+          "url": "https://www.courtlistener.com/docket/11709718/5/bonner-v-colby-college-president/",
+          "recap_pdf_url": null,
+          "pacer_doc_id": "091066498",
+          "description": "SCHEDULING ORDER: Discovery due by 11/5/2003. Motions due by 11/12/2003. Ready for Trial on 3/9/2004. By Judge MARGARET J. KRAVCHUK. (jgw, ) (Entered: 07/03/2003)"
+        },
+        {
+          "row_number": 13,
+          "id": 8754551,
+          "entry_number": "6",
+          "date_filed": "2003-07-03T00:00:00-04:00",
+          "attachments": [],
+          "url": "https://www.courtlistener.com/docket/11709718/6/bonner-v-colby-college-president/",
+          "recap_pdf_url": null,
+          "pacer_doc_id": "091042750",
+          "description": "ACKNOWLEDGEMENT OF SERVICE Executed as to COLBY COLLEGE, PRESIDENT served on 6/23/2003; COLBY COLLEGE, TRUSTEES OF served on 6/23/2003 Acknowledgement filed by REBECCA AVRUTIN ; WENDY BONNER ; HEATHER M DEVITO ; ADRIENNE LECLAIR ; KRISTIN PUTNAM. (jgw, ) (Entered: 07/09/2003)"
+        },
+        {
+          "row_number": 14,
+          "id": 8754552,
+          "entry_number": "7",
+          "date_filed": "2003-07-07T00:00:00-04:00",
+          "attachments": [],
+          "url": "https://www.courtlistener.com/docket/11709718/7/bonner-v-colby-college-president/",
+          "recap_pdf_url": null,
+          "pacer_doc_id": "091042758",
+          "description": "NOTICE of Appearance Pro Hac Vice by RAY YASSER on behalf of REBECCA AVRUTIN, WENDY BONNER, HEATHER M DEVITO, ADRIENNE LECLAIR, KRISTIN PUTNAM (jgw, ) (Entered: 07/09/2003)"
+        },
+        {
+          "row_number": 15,
+          "id": 8754553,
+          "entry_number": "8",
+          "date_filed": "2003-07-15T00:00:00-04:00",
+          "attachments": [],
+          "url": "https://www.courtlistener.com/docket/11709718/8/bonner-v-colby-college-president/",
+          "recap_pdf_url": null,
+          "pacer_doc_id": "091066147",
+          "description": "RESPONSE to Motion re 3 MOTION to Dismiss Count II of Complaint filed by REBECCA AVRUTIN, WENDY BONNER, HEATHER M DEVITO, ADRIENNE LECLAIR, KRISTIN PUTNAM.Reply due by 7/28/2003. (bld) (Entered: 07/15/2003)"
+        },
+        {
+          "row_number": 16,
+          "id": 8754555,
+          "entry_number": "9",
+          "date_filed": "2003-08-01T00:00:00-04:00",
+          "attachments": [],
+          "url": "https://www.courtlistener.com/docket/11709718/9/bonner-v-colby-college-president/",
+          "recap_pdf_url": null,
+          "pacer_doc_id": "091060686",
+          "description": "CONSENT to Jurisdiction by US Magistrate Judge by REBECCA AVRUTIN, WENDY BONNER, COLBY COLLEGE, PRESIDENT, COLBY COLLEGE, TRUSTEES OF, HEATHER M DEVITO, ADRIENNE LECLAIR, KRISTIN PUTNAM. Case reassigned to Magistrate Judge MARGARET J. KRAVCHUK. (jgw, ) (Entered: 08/01/2003)"
+        },
+        {
+          "row_number": 19,
+          "id": 8754556,
+          "entry_number": null,
+          "date_filed": "2003-09-23T00:00:00-04:00",
+          "attachments": [],
+          "url": "https://www.courtlistener.com",
+          "recap_pdf_url": null,
+          "pacer_doc_id": null,
+          "description": "Oral MOTION to Amend Scheduling Order To extend all deadlines thirty days for settlement negotiation purposes by COLBY COLLEGE, PRESIDENT.Responses due by 10/14/2003. (cwp, )"
+        },
+        {
+          "row_number": 1,
+          "id": 8754557,
+          "entry_number": "10",
+          "date_filed": "2003-09-23T00:00:00-04:00",
+          "attachments": [],
+          "url": "https://www.courtlistener.com/docket/11709718/10/bonner-v-colby-college-president/",
+          "recap_pdf_url": null,
+          "pacer_doc_id": "091071854",
+          "description": "Minute Entry for proceedings held before Judge MARGARET J. KRAVCHUK : Motion Hearing held re Oral MOTION to Amend Scheduling Order To extend all deadlines thirty days for settlement negotiation purposes filed by COLBY COLLEGE, PRESIDENT. Report and Amended Scheduling Order to follow. (cwp, ) (Entered: 09/23/2003)"
+        },
+        {
+          "row_number": 2,
+          "id": 8754558,
+          "entry_number": "11",
+          "date_filed": "2003-09-23T00:00:00-04:00",
+          "attachments": [],
+          "url": "https://www.courtlistener.com/docket/11709718/11/bonner-v-colby-college-president/",
+          "recap_pdf_url": null,
+          "pacer_doc_id": null,
+          "description": "Oral MOTION to Amend Scheduling Order to extend remaining deadlines by 30 days by REBECCA AVRUTIN, WENDY BONNER, COLBY COLLEGE, PRESIDENT, COLBY COLLEGE, TRUSTEES OF, HEATHER M DEVITO, ADRIENNE LECLAIR, KRISTIN PUTNAM. (err, ) (Entered: 09/25/2003)"
+        },
+        {
+          "row_number": 3,
+          "id": 8754559,
+          "entry_number": "12",
+          "date_filed": "2003-09-23T00:00:00-04:00",
+          "attachments": [],
+          "url": "https://www.courtlistener.com/docket/11709718/12/bonner-v-colby-college-president/",
+          "recap_pdf_url": null,
+          "pacer_doc_id": "091047027",
+          "description": "AMENDED SCHEDULING ORDER: Discovery due by 12/5/2003. Motions due by 12/12/2003. Ready for Trial on 3/9/2004. By Judge MARGARET J. KRAVCHUK. (err, ) (Entered: 09/25/2003)"
+        },
+        {
+          "row_number": 20,
+          "id": 8754560,
+          "entry_number": null,
+          "date_filed": "2003-09-23T00:00:00-04:00",
+          "attachments": [],
+          "url": "https://www.courtlistener.com",
+          "recap_pdf_url": null,
+          "pacer_doc_id": null,
+          "description": "REPORT OF TELEPHONE CONFERENCE OF COUNSEL AND ORDER granting 11 Motion to Amend Scheduling Order. (See Pleading No. 12 to view document.) By Judge MARGARET J. KRAVCHUK. (err, )"
+        },
+        {
+          "row_number": 4,
+          "id": 8754561,
+          "entry_number": "13",
+          "date_filed": "2003-12-09T00:00:00-05:00",
+          "attachments": [],
+          "url": "https://www.courtlistener.com/docket/11709718/13/bonner-v-colby-college-president/",
+          "recap_pdf_url": null,
+          "pacer_doc_id": "091084290",
+          "description": "Unopposed MOTION to Extend Time 60 day time to file stipulation of dismissal after negotiation of dispositive agreement by COLBY COLLEGE, PRESIDENT, COLBY COLLEGE, TRUSTEES OF.Responses due by 12/30/2003. (CROUTER, JERROL) (Entered: 12/09/2003)"
+        },
+        {
+          "row_number": 5,
+          "id": 8754562,
+          "entry_number": "14",
+          "date_filed": "2003-12-09T00:00:00-05:00",
+          "attachments": [],
+          "url": "https://www.courtlistener.com/docket/11709718/14/bonner-v-colby-college-president/",
+          "recap_pdf_url": null,
+          "pacer_doc_id": null,
+          "description": "ORDER granting without objection 13 Motion to Extend Time to file stipulation of dismissal and entering the following procedural order: Counsel having advised the Court on December 9, 2003 that settlement has been effected by mutual agreement of the parties herein, it is hereby ORDERED that counsel shall complete the settlement of this matter within sixty (60) days of this date and cause to be filed on or before February 9, 2004 a stipulation of dismissal of this matter with prejudice and without costs. By Judge MARGARET J. KRAVCHUK. (KRAVCHUK, MARGARET) (Entered: 12/09/2003)"
+        },
+        {
+          "row_number": 6,
+          "id": 8754564,
+          "entry_number": "15",
+          "date_filed": "2004-02-06T00:00:00-05:00",
+          "attachments": [],
+          "url": "https://www.courtlistener.com/docket/11709718/15/bonner-v-colby-college-president/",
+          "recap_pdf_url": null,
+          "pacer_doc_id": "0910303632",
+          "description": "Unopposed MOTION to Extend Time 10 days to File Stipulation of Dismissal by COLBY COLLEGE, TRUSTEES OF.Responses due by 2/27/2004. (HEWEY, MELISSA) (Entered: 02/06/2004)"
+        },
+        {
+          "row_number": 22,
+          "id": 8754566,
+          "entry_number": null,
+          "date_filed": "2004-02-06T00:00:00-05:00",
+          "attachments": [],
+          "url": "https://www.courtlistener.com",
+          "recap_pdf_url": null,
+          "pacer_doc_id": null,
+          "description": "***Reset Deadlines : Stipulation of Dismissal due by 2/19/2004.(bld)"
+        },
+        {
+          "row_number": 8,
+          "id": 10135048,
+          "entry_number": "17",
+          "date_filed": "2004-02-19T00:00:00-05:00",
+          "attachments": [],
+          "url": "https://www.courtlistener.com/docket/11709718/17/bonner-v-colby-college-president/",
+          "recap_pdf_url": null,
+          "pacer_doc_id": "091066942",
+          "description": "STIPULATION of Dismissal by COLBY COLLEGE, TRUSTEES OF. (HEWEY, MELISSA) (Entered: 02/19/2004)"
+        },
+        {
+          "row_number": 0,
+          "id": 8754545,
+          "entry_number": "1",
+          "date_filed": "2003-06-09T00:00:00-04:00",
+          "attachments": [],
+          "url": "https://www.courtlistener.com/docket/11709718/1/bonner-v-colby-college-president/",
+          "recap_pdf_url": "https://www.courtlistener.com/recap/gov.uscourts.med.28859/gov.uscourts.med.28859.1.0.pdf",
+          "pacer_doc_id": "0910270804",
+          "description": "COMPLAINT against COLBY COLLEGE, PRESIDENT, COLBY COLLEGE, TRUSTEES OF, DOES 1-50 Filing fee $ 150, receipt number 47152., filed by REBECCA AVRUTIN, WENDY BONNER, HEATHER M DEVITO, ADRIENNE LECLAIR, KRISTIN PUTNAM. (Service of Process Deadline 10/7/2003)(drm, ) (Entered: 06/10/2003)"
+        },
+        {
+          "row_number": 17,
+          "id": 8754547,
+          "entry_number": null,
+          "date_filed": "2003-06-27T00:00:00-04:00",
+          "attachments": [],
+          "url": "https://www.courtlistener.com",
+          "recap_pdf_url": null,
+          "pacer_doc_id": null,
+          "description": "***Case Reassigned to Judge JOHN A. WOODCOCK. Judge GEORGE Z. SINGAL no longer assigned to the case.(err, )"
+        },
+        {
+          "row_number": 18,
+          "id": 8754554,
+          "entry_number": null,
+          "date_filed": "2003-07-31T00:00:00-04:00",
+          "attachments": [],
+          "url": "https://www.courtlistener.com",
+          "recap_pdf_url": null,
+          "pacer_doc_id": null,
+          "description": "ORDER/ENDORSEMENT granting 3 Motion to Dismiss Ct. II By Judge JOHN A. WOODCOCK JR. (bld)"
+        },
+        {
+          "row_number": 21,
+          "id": 8754563,
+          "entry_number": null,
+          "date_filed": "2003-12-10T00:00:00-05:00",
+          "attachments": [],
+          "url": "https://www.courtlistener.com",
+          "recap_pdf_url": null,
+          "pacer_doc_id": null,
+          "description": "***Set Deadlines : Stipulation of Dismissal due by 2/9/2004.(bld, )"
+        },
+        {
+          "row_number": 7,
+          "id": 8754565,
+          "entry_number": "16",
+          "date_filed": "2004-02-06T00:00:00-05:00",
+          "attachments": [],
+          "url": "https://www.courtlistener.com/docket/11709718/16/bonner-v-colby-college-president/",
+          "recap_pdf_url": null,
+          "pacer_doc_id": null,
+          "description": "ORDER granting without objection 15 Motion to Extend Time. The parties have until February 19, 2004, to file their stipulation of dismissal. By Judge MARGARET J. KRAVCHUK. (KRAVCHUK, MARGARET) (Entered: 02/06/2004)"
+        }
+      ],
+      "docket_case_type": "cv",
+      "docket_year": 2003,
+      "docket_filing_number": 103,
+      "is_main_docket": true,
+      "court": "District of Maine",
+      "state": "Maine",
+      "docket_office_number": "1",
+      "docket_number_manual": "1:03-cv-00103",
+      "scales_html": "https://clearinghouse-umich-production.s3.amazonaws.com/media/docket-html/med--1-03-cv-00103.html",
+      "recap_link": "https://www.courtlistener.com/docket/11709718/bonner-v-colby-college-president/",
+      "is_active": true
+    },
+    "name": "Bonner v. Colby College",
+    "never_filed": false,
+    "non_docket_case_number": "",
+    "non_docket_case_number_type": null,
+    "non_docket_case_number_type_other": "",
+    "order_end_year": 2004,
+    "order_start_year": 2004,
+    "permanent_injunction": false,
+    "plaintiff_description": "High school students claim denial of equal treatment and benefits accompanying opportunity to participate in athletics based on gender; including funding, supplies, travel, and coaching.",
+    "plaintiff_type": [
+      {
+        "value": "Private Plaintiff"
+      }
+    ],
+    "prevailing_party": "Plaintiff",
+    "pro_se_status": "No",
+    "public_interest_lawyer": "No",
+    "related_cases": [],
+    "relief_natures": [
+      "Injunction / Injunctive-like Settlement"
+    ],
+    "relief_nature_other": "",
+    "relief_sources": [
+      "Settlement"
+    ],
+    "settlement_agreement": [
+      "Voluntary Dismissal"
+    ],
+    "settlement_judgment_date": null,
+    "settlement_judgment_year": null,
+    "special_collections": [],
+    "special_case_type": [],
+    "state": "Maine",
+    "summary": "<p>On June 6, 2003, four female students filed a lawsuit in the United States District Court for the District of Maine under Title IX of the Education Amendment of 1972 and the Equal Protection Clause of the Fourteenth Amendment against Colby College. The plaintiffs, represented by private counsel, claimed that the College violated their rights to participate in athletics based on their sex. Specifically, the plaintiffs claimed that Colby College provided male athletes with more funding, newer equipment, more coaching, and a better locker room. The plaintiffs sought injunctive relief and attorney's fees.</p><p>On June 23, 2003, Colby College moved to dismiss the Equal Protection claim on the basis that, as a private college, they were not a state actor and therefore could not be sued under 48 USC 1983. On July 31, 2003, the Court (Judge John Woodcock, Jr.) granted the defendant's motion.</p><p>On February 19, 2004, the parties reached a settlement and stipulated to dismissal of the action with prejudice. While the settlement agreement was not filed, new reports state the Colby College agreed to adjust coaching assignments, remodel the women's locker room, and maintain policies and practices to ensure equivalent programs for men's and women's teams.</p><p></p>",
+    "summary_published_date": "2014-02-22T00:00:00-05:00",
+    "summary_short": "On June 6, 2003, female students filed a lawsuit against Colby College under Title IX and the Equal Protection Clause. They claimed that the school discriminated against female athletes by failing to provide them with the same treatment and benefits provided to male athletes. Colby College agreed to remedy the discrimination and the plaintiffs voluntarily dismissed the case on February 19, 2004.",
+    "summary_tiny": null,
+    "terminating_date": "2004-02-19",
+    "clearinghouse_link": "clearinghouse.net/case/13152",
+    "is_active": true,
+    "case_documents_url": "https://clearinghouse.net/api/v2/documents/?case=13152",
+    "case_dockets_url": "https://clearinghouse.net/api/v2/dockets/?case=13152",
+    "case_resources_url": "https://clearinghouse.net/api/v2/resources/?case=13152"
+  },
+  "documents": [
+    {
+      "date": null,
+      "date_is_estimate": false,
+      "date_not_available": false,
+      "description": null,
+      "document_source": null,
+      "document_status": null,
+      "document_type": null,
+      "order_type": null,
+      "citation_paren": null,
+      "cite_1_page": null,
+      "cite_1_reporter": null,
+      "cite_1_vol": null,
+      "cite_2_page": null,
+      "cite_2_reporter": null,
+      "cite_2_vol": null,
+      "cite_3_page": null,
+      "cite_3_reporter": null,
+      "cite_3_vol": null,
+      "citation_status": null,
+      "court": null,
+      "no_title": false,
+      "party_types": [],
+      "per_curium": false,
+      "is_core_document": true,
+      "id": 117933,
+      "file": null,
+      "title": null,
+      "text": null,
+      "document_type_other": null,
+      "external_url": null,
+      "ecf_number": null,
+      "clearinghouse_link": "clearinghouse.net/doc/117933"
+    },
+    {
+      "date": "2004-02-19",
+      "date_is_estimate": false,
+      "date_not_available": false,
+      "description": null,
+      "document_source": "PACER [Public Access to Court Electronic Records]",
+      "document_status": "Coding Complete",
+      "document_type": "Settlement Agreement",
+      "order_type": "Non-Decree",
+      "citation_paren": null,
+      "cite_1_page": null,
+      "cite_1_reporter": null,
+      "cite_1_vol": null,
+      "cite_2_page": null,
+      "cite_2_reporter": null,
+      "cite_2_vol": null,
+      "cite_3_page": null,
+      "cite_3_reporter": null,
+      "cite_3_vol": null,
+      "citation_status": "No citation available",
+      "court": "District of Maine",
+      "no_title": false,
+      "party_types": [
+        "Plaintiff",
+        "Defendant"
+      ],
+      "per_curium": false,
+      "is_core_document": true,
+      "id": 62378,
+      "file": "https://clearinghouse-umich-production.s3.amazonaws.com/media/doc/62378.pdf",
+      "title": "Stipulation of Dismissal",
+      "text": "Case 1:03-cv-00103-MJK   Document 17   Filed 02/19/04   Page 1 of 3    PageID #: 45\n \nUNITED STATES DISTRICT COURT \nFOR THE DISTRICT OF MAINE \n \n \nWENDY BONNER, KRISTIN PUTNAM,  ) \nHEATHER DeVITO, ADRIENNE LeCLAIR,  ) \nand REBECCA AVRUTIN       ) \n              )     \n      Plaintiffs      ) \n              )  Case No. 03-CV-103-B-K \n  v.            ) \n              ) \nTHE PRESIDENT AND TRUSTEES OF  ) \nCOLBY COLLEGE, and Does 1-50    ) \n              ) \n      Defendants      ) \n \nSTIPULATION OF DISMISSAL \n \n  The parties hereby stipulate to dismissal of this action, pursuant to Fed. R. Civ. P. \n41(a)(1), with prejudice. \n \nDATED:  February 19, 2004    SCHILLER LAW FIRM \n \n                         \n            /s/ Samuel J. Schiller \nSamuel J. Schiller \n            Oklahoma Bar Association #016067 \n            Tennessee Attonrey Registration #021810 \n            Suite 200, 4113 Cumby Road \nSuite 2000 \nCookeville, TN  38501 \n(931) 528-5050 \n \n\nCase 1:03-cv-00103-MJK   Document 17   Filed 02/19/04   Page 2 of 3    PageID #: 46\n \n \n             \n  /s/ Eugene Coughlin \n            Eugene Coughlin \n            Vafiades, Brountas & Kominsky, LLP \n            Key Plaza \n            23 Water Street \n            P.O. Box 919 \n            Bangor, ME  04402-0919 \n            (207) 947-6915 \n \n \n \nAttorneys for Plaintiffs \n \n \n \n \n            /s/ Melissa A. Hewey   \n            Jerrol Crouter \n            Melissa A. Hewey \n            Drummond Woodsum & MacMahon \n245 Commercial Street     \nP.O. Box 9781 \nPortland, Maine 04104-5081 \nTel: (207) 772-1941 \n \nAttorneys for Defendant \n \n \n \nCERTIFICATE OF SERVICE \n \n  I hereby certify that on February 19, 2004, I electronically filed this \nassented to motion for 10 day extension of time to file stipulation of dismissal with the \nClerk of Courts using CM/ECF system which will send notification of such filing(s) to \nthe following:  Eugene Couglin, Esq. and  Samuel Schiller, Esq.  \n      /s/ Melissa A. Hewey \n  2 \n\nCase 1:03-cv-00103-MJK   Document 17   Filed 02/19/04   Page 3 of 3    PageID #: 47\n \nDrummond Woodsum & MacMahon \n245 Commercial Street \nP.O. Box 9781 \nPortland, ME  04104-5081 \nTel:  (207) 772-1941 \nFax:  (207) 772-3267 \nmhewey@dwmlaw.com \n \n  3 ",
+      "document_type_other": null,
+      "external_url": "",
+      "ecf_number": "17",
+      "clearinghouse_link": "clearinghouse.net/doc/62378"
+    },
+    {
+      "date": "2003-06-09",
+      "date_is_estimate": false,
+      "date_not_available": false,
+      "description": null,
+      "document_source": "PACER [Public Access to Court Electronic Records]",
+      "document_status": "Coding Complete",
+      "document_type": "Complaint",
+      "order_type": null,
+      "citation_paren": null,
+      "cite_1_page": null,
+      "cite_1_reporter": null,
+      "cite_1_vol": null,
+      "cite_2_page": null,
+      "cite_2_reporter": null,
+      "cite_2_vol": null,
+      "cite_3_page": null,
+      "cite_3_reporter": null,
+      "cite_3_vol": null,
+      "citation_status": "Not applicable",
+      "court": "District of Maine",
+      "no_title": false,
+      "party_types": [
+        "Plaintiff"
+      ],
+      "per_curium": false,
+      "is_core_document": true,
+      "id": 61201,
+      "file": "https://clearinghouse-umich-production.s3.amazonaws.com/media/doc/61201.pdf",
+      "title": "Complaint",
+      "text": "Case 1:03-cv-00103-MJK   Document 1   Filed 06/09/03   Page 1 of 15    PageID #: 1\nUUNNIITTEEDD  SSTTAATTEESS  DDIISSTTRRIICCTT  CCOOUURRTT   tt..   ,,\"\"~~__     ..''....  ..\"\"....    cc::  ::  ..rr..  ''  \"\"\"\"  11TT--   '',,..  IIEE''  ii    \nFFOORR  TTHHEE  DDIISSTTRRIICCTT  OOFF  MMAAIINNEE   ~~  ii''~~,,  ::  ~~   ~~-- ~~>>  ~~  ;;''~~))\\\\  ~~  ~~  --~~  \nWWEENNDDYY  BBOONNNNEERR;;  KKRRIISSTTIINN  PPUUTTNNAAMM;;   ))  \nHHEEAATTHHEERR  MM..  DDeeVVIITTOO;;   ))  \n. \n. \nAADDRRIIEENNNNEE  LLeeCCLLAAIIRR;;  aanndd   ))   ~~. '  ..  ....  ;; ',  \nRREEBBEECCCCAA  AA  VVRRUUTTIINN;;   ))  \n))  \nPPllaaiinnttiiffffss,,   ))  \n))  \nvv..   ))   CCaassee  NNoo..  0033  ............  CCVV--llooaa  --BB--55  \n))  \n))  \nTTHHEE  PPRREESSIIDDEENNTT  AANNDD  TTRRUUSSTTEEEESS  OOFF   ))   IINNJJUUNNCCTTIIVVEE  RREELLIIEEFF  SSOOUUGGHHTT  \nCCOOLLBBYY  CCOOLLLLEEGGEE;;   ))  \naanndd  DDooeess  11  tthhrroouugghh  5500,,   ))  \n))  \nDDeeffeennddaannttss..   ))  \nCCOOMMPPLLAAIINNTT  \nTThhee  aabboovvee--ccaappttiioonneedd  PPllaaiinnttiiffffss  rreessppeeccttffuullllyy  ffiillee  tthhiiss  CCoommppllaaiinntt  aaggaaiinnsstt  DDeeffeennddaannttss,,  \nTThhee  PPrreessiiddeenntt  aanndd  TTrruusstteeeess  ooff  CCoollbbyy  CCoolllleeggee;;  aanndd  DDooeess  11  tthhrroouugghh  5500,,  aanndd  aalllleeggee  aass  ffoolllloowwss::  \nSSTTAATTEEMMEENNTT  OOFF  TTHHEE  CCAASSEE  \n11..   TThhiiss  aaccttiioonn  iiss  ppoosseedd  ffoorr  ddeeccllaarraattoorryy  aanndd  iinnjjuunnccttiivvee  rreelliieeff..   DDeeffeennddaannttss  hhaavvee  \nvviioollaatteedd  ((11))  TTiittllee  IIXX  ooff  tthhee  EEdduuccaattiioonn  AAmmeennddmmeenntt  ooff  11997722,,2200  UU..SS..CC..  §§11668811  eett  sseeqq..  ((\"\"TTiittllee  \nIIXX\"\"))  aanndd  tthhee  rreegguullaattiioonnss   aaddoopptteedd  tthheerreettoo,,   aanndd  ((22))  tthhee  EEqquuaall  PPrrootteeccttiioonn  CCllaauussee  ooff  tthhee  \nFFoouurrtteeeenntthh  AAmmeennddmmeenntt  ttoo  tthhee  UUnniitteedd  SSttaatteess  CCoonnssttiittuuttiioonn  aanndd  4422  UU..SS..CC..  §§11998833,,  bbyy  iilllleeggaallllyy  \nddeennyyiinngg  PPllaaiinnttiiffffss  tthhee  eeqquuaall  ttrreeaattmmeenntt  aanndd  bbeenneeffiittss  tthhaatt  mmuusstt  nneecceessssaarriillyy  aaccccoommppaannyy  aann  eeqquuaall  \nooppppoorrttuunniittyy  ttoo  ppaarrttiicciippaattee  iinn  aatthhlleettiiccss..  \n\nCase 1:03-cv-00103-MJK   Document 1   Filed 06/09/03   Page 2 of 15    PageID #: 2\n22..   DDeeffeennddaannttss''   ddeenniiaall   ooff   eeqquuaall   ttrreeaattmmeenntt   aanndd   bbeenneeffiittss   ccoonnssttiittuutteess  iilllleeggaall  \nddiissccrriimmiinnaattiioonn  aaggaaiinnsstt  tthhee  ppllaaiinnttiiffffss  bbaasseedd  ssoolleellyy  oonn  tthheeiirr  ggeennddeerr..   SSppeecciiffiiccaallllyy,,  DDeeffeennddaannttss  \n,,hhaavvee  ddiissccrriimmiinnaatteedd  aaggaaiinnsstt  tthhee  PPllaaiinnttiiffffss  iinn  tthhee  ffoolllloowwiinngg  aarreeaass::   ((11))  ffuunnddiinngg  ooff  aatthhlleettiiccss;;  ((22))  \neeqquuiippmmeenntt  aanndd  ssuupppplliieess;;  ((33))  ttrraavveell  aanndd  ppeerr  ddiieemm;;  ((44  ))  ooppppoorrttuunniittyy  ttoo  rreecceeiivvee  ccooaacchhiinngg;;  aanndd  ((55))  \npprroovviissiioonn  ooff  lloocckkeerr  rroooommss..  \n33..   TThhiiss  aaccttiioonn  sseeeekkss  ttoo  rreeddrreessss  tthhee  ddeepprriivvaattiioonn  ooff  tthhee  nnaammeedd  PPllaaiinnttiiffffss''  rriigghhttss  ttoo  \nrreecceeiivvee  tthhee  eeqquuaall  ttrreeaattmmeenntt  aanndd  bbeenneeffiittss  wwhhiicchh  mmuusstt   nneecceessssaarriillyy  aaccccoommppaannyy  aann  eeqquuaall  \nooppppoorrttuunniittyy  ttoo  ppaarrttiicciippaattee..   TThhiiss  aaccttiioonn  sseeeekkss  aa  ddeeccllaarraattoorryy  jjuuddggmmeenntt  tthhaatt  DDeeffeennddaannttss  hhaavvee  \nvviioollaatteedd  tthhee  PPllaaiinnttiiffffss''  rriigghhttss  uunnddeerr  ffeeddeerraall  llaaww  aanndd  tthhee  UUnniitteedd  SSttaatteess  CCoonnssttiittuuttiioonn..  TThhiiss  \naaccttiioonn   ffuurrtthheerr   sseeeekkss   aann   iinnjjuunnccttiioonn   rreeqquuiirriinngg   DDeeffeennddaannttss   ttoo   iimmmmeeddiiaatteellyy   cceeaassee   tthheeiirr  \nddiissccrriimmiinnaattoorryy  pprraaccttiicceess  aanndd  ttoo  rreemmeeddyy  tthhee  eeffffeeccttss  ooff  tthheeiirr  ddiissccrriimmiinnaattoorryy  pprraaccttiicceess  aanndd  ttoo  \nrreemmeeddyy  tthhee  eeffffeeccttss  ooff  tthheeiirr  ddiissccrriimmiinnaattoorryy  ccoonndduucctt..  \n44..   PPllaaiinnttiiffffss  sseeeekk  iinnjjuunnccttiivvee  rreelliieeff  wwhhiicchh,,   aammoonngg  ootthheerr  tthhiinnggss,,   rreeqquuiirreess  tthhaatt  \nDDeeffeennddaannttss  pprroovviiddee  tthhee  PPllaaiinnttiiffffss  wwiitthh  eeqquuaall  ttrreeaattmmeenntt  aanndd  bbeenneeffiittss  aass  CCoollbbyy  CCoolllleeggee  aallrreeaaddyy  \npprroovviiddeess  ttoo  iittss  mmeennss''  aatthhlleettiicc  tteeaammss..  \nJJUURRIISSDDIICCTTIIOONN  AANNDD  VVEENNUUEE  \n55..   TThhee  PPllaaiinnttiiffffss''   ffiirrsstt   ccllaaiimm  aarriisseess   uunnddeerr  2200  UU..SS..CC..   §§11668811,,   eett  sseeqq..   aanndd  iittss  \niinntteerrpprreettiinngg  rreegguullaattiioonnss..   JJuurriissddiiccttiioonn  iiss  ccoonnffeerrrreedd  oonn  tthhiiss  CCoouurrtt  bbyy  2288  UU..SS..CC..   §§§§   11333311,,  \n11334433((aa))((33)),,  aanndd  11334433((aa))((44))..  \n22  \n\nrr  \nCase 1:03-cv-00103-MJK   Document 1   Filed 06/09/03   Page 3 of 15    PageID #: 3\n66..   TThhee  PPllaaiinnttiiffffss''  sseeccoonndd  ccllaaiimm  aarriisseess  uunnddeerr  tthhee  EEqquuaall  PPrrootteeccttiioonn  CCllaauussee  ooff  tthhee  \nFFoouurrtteeeenntthh  AAmmeennddmmeenntt  oofftt  hhee  UUnniitteedd  SSttaatteess  CCoonnssttiittuuttiioonn  aanndd  4422  UU..SS..CC..  §§11998833..  JJuurriissddiiccttiioonn  \niiss  ccoonnffeerrrreedd  oonn  tthhiiss  CCoouurrtt  bbyy  2288  UU..SS..CC..  §§§§  11333311,,  11334433((aa))((33)),,  aanndd  11334433((aa))((44))..  \n77..   JJuurriissddiiccttiioonn  ffoorr  ddeeccllaarraattoorryy  aanndd  ootthheerr  rreelliieeff  iiss  iinnvvookkeedd  ppuurrssuuaanntt  ttoo  2288  UU..SS..CC..  \n§§§§  22220011((aa))  aanndd  22220022..  \n88..   VVeennuuee  iiss  pprrooppeerr  ppuurrssuuaanntt  ttoo  2288  UU..SS..CC..   §§11339911((bb))..   TThheessee  ccllaaiimmss  aarroossee  iinn  \nWWaatteerrvviillllee,,  MMaaiinnee,,  wwhhiicchh  iiss  wwiitthhiinn  tthhee  jjuurriissddiiccttiioonn  ooff  tthhiiss  CCoouurrtt..  \nTTHHEE  PPAARRTTIIEESS  \n99..   PPllaaiinnttiiffff  WWeennddyy  BBoonnnneerr  iiss  aa  ssoopphhoommoorree  aatt  CCoollbbyy  CCoolllleeggee..  WWeennddyy  iiss  aa  ttaalleenntteedd  \naatthhlleettee  wwhhoo  ppaarrttiicciippaatteess  iinn  ffiieelldd  hhoocckkeeyy,,  bbaasskkeettbbaallll  aanndd  ssooffttbbaallll..  SShhee  hhaass  eenndduurreedd  tthhee  uunneeqquuaall  \nttrreeaattmmeenntt  aanndd  bbeenneeffiittss  ddiirreecctteedd  bbyy  TThhee  PPrreessiiddeenntt  aanndd  TTrruusstteeeess  ooff  CCoollbbyy  CCoolllleeggee  ttoowwaarrdd  iittss  \nffeemmaallee  aatthhlleetteess  aass  ccoommppaarreedd  ttoo  iittss  mmaallee  aatthhlleetteess..   DDuurriinngg  tthhee  sscchhooooll  yyeeaarr,,  WWeennddyy  rreessiiddeess  iinn  \nWWaatteerrvviillllee,,  MMaaiinnee..   AA  ssuubbssttaannttiiaall  ppaarrtt  ooff  tthhee  eevveennttss  oorr  oommiissssiioonnss  ggiivviinngg  rriissee  ttoo  tthhiiss  llaawwssuuiitt  \nooccccuurrrreedd  iinn  KKeennnneebbeecc  CCoouunnttyy,,  MMaaiinnee,,  wwhhiicchh  iiss  wwiitthhiinn  tthhee  jjuurriissddiiccttiioonn  ooff  tthhiiss  CCoouurrtt..  \n1100..   PPllaaiinnttiiffff  KKrriissttiinn  PPuuttnnaamm  iiss  aa  ssoopphhoommoorree  aatt  CCoollbbyy  CCoolllleeggee..   KKrriissttiinn  iiss  aa  ttaalleenntteedd  \naatthhlleettee  wwhhoo  ppaarrttiicciippaatteess  iinn  ffiieelldd  hhoocckkeeyy  aanndd  iiccee  hhoocckkeeyy..   SShhee  hhaass  eenndduurreedd  tthhee  uunneeqquuaall  \nttrreeaattmmeenntt  aanndd  bbeenneeffiittss  ddiirreecctteedd  bbyy  TThhee  PPrreessiiddeenntt  aanndd  TTrruusstteeeess  ooff  CCoollbbyy  CCoolllleeggee  ttoowwaarrdd  iittss  \nffeemmaallee  aatthhlleetteess  aass  ccoommppaarreedd  ttoo  iittss  mmaallee  aatthhlleetteess..   DDuurriinngg  tthhee  sscchhooooll  yyeeaarr,,  KKrriissttiinn  rreessiiddeess  iinn  \n33  \n\nII  \nii   Case 1:03-cv-00103-MJK   Document 1   Filed 06/09/03   Page 4 of 15    PageID #: 4\nWWaatteerrvviillllee,,  MMaaiinnee..   AA  ssuubbssttaannttiiaall  ppaarrtt  ooff  tthhee  eevveennttss  oorr  oommiissssiioonnss  ggiivviinngg  rriissee  ttoo  tthhiiss  llaawwssuuiitt  \nooccccuurrrreedd  iinn  KKeennnneebbeecc  CCoouunnttyy,,  MMaaiinnee,,  wwhhiicchh  iiss  wwiitthhiinn  tthhee  jjuurriissddiiccttiioonn  ooff  tthhiiss  CCoouurrtt..  \n1111..   PPllaaiinnttiiffff  HHeeaatthheerr  MM..  DDeeVViittoo  iiss  aa  ssoopphhoommoorree  aatt  CCoollbbyy  CCoolllleeggee..   HHeeaatthheerr  iiss  aa  \nttaalleenntteedd  aatthhlleettee  wwhhoo  ppaarrttiicciippaatteess  iinn  iiccee  hhoocckkeeyy..   SShhee  hhaass  eenndduurreedd  tthhee  uunneeqquuaall  ttrreeaattmmeenntt  aanndd  \nbbeenneeffiittss  ddiirreecctteedd  bbyy  TThhee  PPrreessiiddeenntt  aanndd  TTrruusstteeeess  ooff  CCoollbbyy  CCoolllleeggee  ttoowwaarrdd  iittss  ffeemmaallee  aatthhlleetteess  \naass  ccoommppaarreedd  ttoo  iittss  mmaallee  aatthhlleetteess..   DDuurriinngg  tthhee  sscchhooooll  yyeeaarr,,  HHeeaatthheerr  rreessiiddeess  iinn  WWaatteerrvviillllee,,  \nMMaaiinnee..   AA  ssuubbssttaannttiiaall  ppaarrtt  ooff  tthhee  eevveennttss  oorr  oommiissssiioonnss  ggiivviinngg  rriissee  ttoo  tthhiiss  llaawwssuuiitt  ooccccuurrrreedd  iinn  \nKKeennnneebbeecc  CCoouunnttyy,,  MMaaiinnee,,  wwhhiicchh  iiss  wwiitthhiinn  tthhee  jjuurriissddiiccttiioonn  ooff  tthhiiss  CCoouurrtt..  \n1122..   PPllaaiinnttiiffff  AAddrriieennnnee  LLeeCCllaaiirr  iiss  aa  ssoopphhoommoorree  aatt  CCoollbbyy  CCoolllleeggee..   AAddrriieennnnee  iiss  aa  \nttaalleenntteedd  aatthhlleettee  wwhhoo  ppaarrttiicciippaatteess  iinn  ffiieelldd  hhoocckkeeyy..  SShhee  hhaass  eenndduurreedd  tthhee  uunneeqquuaall  ttrreeaattmmeenntt  aanndd  \nbbeenneeffiittss  ddiirreecctteedd  bbyy  TThhee  PPrreessiiddeenntt  aanndd  TTrruusstteeeess  ooff  CCoollbbyy  CCoolllleeggee  ttoowwaarrdd  iittss  ffeemmaallee  aatthhlleetteess  \naass  ccoommppaarreedd  ttoo  iittss  mmaallee  aatthhlleetteess..   DDuurriinngg  tthhee  sscchhooooll  yyeeaarr,,  AAddrriieennnnee  rreessiiddeess  iinn  WWaatteerrvviillllee,,  \nMMaaiinnee..   AA  ssuubbssttaannttiiaall  ppaarrtt  ooff  tthhee  eevveennttss  oorr  oommiissssiioonnss  ggiivviinngg  rriissee  ttoo  tthhiiss  llaawwssuuiitt  ooccccuurrrreedd  iinn  \nKKeennnneebbeecc  CCoouunnttyy,,  MMaaiinnee,,  wwhhiicchh  iiss  wwiitthhiinn  tthhee  jjuurriissddiiccttiioonn  ooff  tthhiiss  CCoouurrtt..  \n1133..   PPllaaiinnttiiffff  RReebbeeccccaa  AAvvrruuttiinn  iiss  aa  jjuunniioorr  aatt  CCoollbbyy  CCoolllleeggee..   RReebbeeccccaa  iiss  aa  ttaalleenntteedd  \naatthhlleettee  wwhhoo  ppaarrttiicciippaatteess  iinn  llaaccrroossssee..   SShhee  hhaass  eenndduurreedd  tthhee  uunneeqquuaall  ttrreeaattmmeenntt  aanndd  bbeenneeffiittss  \nddiirreecctteedd  bbyy  TThhee  PPrreessiiddeenntt  aanndd  TTrruusstteeeess  ooff  CCoollbbyy  CCoolllleeggee  ttoowwaarrdd  iittss  ffeemmaallee  aatthhlleetteess  aass  \nccoommppaarreedd  ttoo  iittss  mmaallee  aatthhlleetteess..  DDuurriinngg  tthhee  sscchhooooll  yyeeaarr,,  RReebbeeccccaa  rreessiiddeess  iinn  WWaatteerrvviillllee,,  MMaaiinnee..  \nAA  ssuubbssttaannttiiaall  ppaarrtt  oofftt  hhee  eevveennttss  oorr  oommiissssiioonnss  ggiivviinngg  rriissee  ttoo  tthhiiss  llaawwssuuiitt  ooccccuurrrreedd  iinn  KKeennnneebbeecc  \nCCoouunnttyy,,  MMaaiinnee,,  wwhhiicchh  iiss  wwiitthhiinn  tthhee  jjuurriissddiiccttiioonn  ooff  tthhiiss  CCoouurrtt..  \n44  \n\nrr~~~~~~~~~~OO~~------\"\"-- \"\"~~------\"\"--......  ------••••..  ------------~~--------------------------------------------------------------~~  \nCase 1:03-cv-00103-MJK   Document 1   Filed 06/09/03   Page 5 of 15    PageID #: 5\n1144..   DDeeffeennddaanntt,,  TThhee  PPrreessiiddeenntt  aanndd  TTrruusstteeeess  ooff  CCoollbbyy  CCoolllleeggee,,  iiss  aauutthhoorriizzeedd  uunnddeerr  \nMMaaiinnee  llaaww  ttoo  ooppeerraattee  aa  ccoolllleeggee,,  wwhheerree  tthhee  PPllaaiinnttiiffffss  aarree  ssttuuddeennttss..  TThheerreeffoorree,,  CCoollbbyy  CCoolllleeggee''ss  \nuu..ss..cc..  \nccoonndduucctt  iiss  ccoonnssiiddeerreedd  ssttaattee  aaccttiioonn  uunnddeerr  4422   §§11998833..   DDeeffeennddaanntt,,  CCoollbbyy  CCoolllleeggee,,  iiss  \nllooccaatteedd  iinn  WWaatteerrvviillllee,,  MMaaiinnee,,  aanndd  aa  ssuubbssttaannttiiaall  ppaarrtt  ooff  tthhee  eevveennttss  oorr  oommiissssiioonnss  ggiivviinngg  rriissee  ttoo  \ntthhiiss  llaawwssuuiitt  ooccccuurrrreedd  iinn  KKeennnneebbeecc  CCoouunnttyy,,  wwhhiicchh  iiss  wwiitthhiinn  tthhee  jjuurriissddiiccttiioonn  ooff  tthhiiss  CCoouurrtt..  \nSSiinnccee  tthhee  ppaassssaaggee  ooff  TTiittllee  IIXX,,  CCoollbbyy  CCoolllleeggee  hhaass  rreecceeiivveedd  aanndd  ccoonnttiinnuueess  ttoo  rreecceeiivvee  ffeeddeerraall  \nffiinnaanncciiaall  aassssiissttaannccee  aanndd  tthhee  bbeenneeffiittss  tthheerreeffrroomm..   TThheerreeffoorree,,  aallll  pprrooggrraammss  aatt  CCoollbbyy  CCoolllleeggee,,  \niinncclluuddiinngg  aatthhlleettiiccss,,  aarree  ssuubbjjeecctt  ttoo  tthhee  rreeqquuiirreemmeennttss  ooff  TTiittllee  IIXX..  \n1155..   TThhee  nnaammeedd  PPllaaiinnttiiffffss  aarree  iiggnnoorraanntt  ooff  tthhee  ttrruuee  nnaammeess  aanndd  ccaappaacciittiieess  ooff  DDooeess  11--\n5500,,  bbuutt  bbeelliieevvee  tthheemm  ttoo  bbee  eemmppllooyyeeeess  oorr  aaggeennttss  ooff  CCoollbbyy  CCoolllleeggee  oorr  TThhee  PPrreessiiddeenntt  aanndd  \nTTrruusstteeeess  ooff  CCoollbbyy  CCoolllleeggee..  PPllaaiinnttiiffffss  wwiillll  sseeeekk  ttoo  aammeenndd  tthhiiss  CCoommppllaaiinntt  ttoo  sseett  ffoorrtthh  tthheeiirr  ttrruuee  \nnnaammeess  aanndd  ccaappaacciittiieess  wwhheenn  tthheeyy  aarree  aasscceerrttaaiinneedd..  PPllaaiinnttiiffffss  aarree  iinnffoorrmmeedd  aanndd  bbeelliieevvee,,  aanndd  oonn  \ntthhaatt  bbaassiiss  aalllleeggee,,  tthhaatt  eeaacchh  ooff  tthheessee  ffiiccttiittiioouussllyy  nnaammeedd  ddeeffeennddaannttss  iiss  rreessppoonnssiibbllee  iinn  ssoommee  \nmmaannnneerr  ffoorr  tthhee  ddiissccrriimmiinnaattoorryy  aaccttiioonnss  pprriimmaarriillyy  ccoonndduucctteedd  iinn  KKeennnneebbeecc  CCoouunnttyy,,  MMaaiinnee,,  \naalllleeggeedd  hheerreeiinn,,  aanndd  tthhaatt  eeaacchh  iiss  aa  rreessiiddeenntt  ooff  tthhee  SSttaattee  ooff  MMaaiinnee  aanndd  tthhuuss  iiss  ssuubbjjeecctt  ttoo  tthhee  \njjuurriissddiiccttiioonn  ooff  tthhiiss  CCoouurrtt..  \nGGEENNEERRAALL  AALLLLEEGGAATTIIOONNSS  \nTTHHEE  RREEQQUUIIRREEMMEENNTTSS  OOFF  TTIITTLLEE  IIXX  \n1166..   TTiittllee  IIXX,,  eennaacctteedd  iinn  11997722,,  pprroovviiddeess  iinn  rreelleevvaanntt  ppaarrtt::  \n55  \n\nCase 1:03-cv-00103-MJK   Document 1   Filed 06/09/03   Page 6 of 15    PageID #: 6\nNNoo  ppeerrssoonn  iinn  tthhee  UUnniitteedd  SSttaatteess  sshhaallll,,  oonn  tthhee  bbaassiiss  ooff  sseexx,,  bbee  eexxcclluuddeedd  \nffrroomm  ppaarrttiicciippaattiioonn  iinn,,  bbee  ddeenniieedd  tthhee  bbeenneeffiittss  ooff,,  oorr  bbee  ssuubbjjeecctteedd  ttoo  \nddiissccrriimmiinnaattiioonn   uunnddeerr   aannyy   eedduuccaattiioonn  pprrooggrraamm   oorr   aaccttiivviittyy   rreecceeiivviinngg  \nFFeeddeerraall  ffiinnaanncciiaall  aassssiissttaannccee..  \n2200  UU..SS..CC..  §§  11668811((aa))..  TThhee  CCiivviill  RRiigghhttss  RReessttoorraattiioonn  AAcctt  ooff  11998877  mmaaddee  CCoonnggrreessss''  iinntteenntt  ppllaaiinn  \ntthhaatt  \"\"pprrooggrraamm  oorr  aaccttiivviittyy,,\"\"  aass  uusseedd  iinn  TTiittllee  IIXX,,  aapppplliieess  ttoo  aannyy  pprrooggrraamm  oorr  aaccttiivviittyy  ssoo  lloonngg  aass  \naannyy  ppaarrtt  ooff  tthhee  ppuubblliicc  iinnssttiittuuttiioonn  rreecceeiivveess  ffeeddeerraall  ffiinnaanncciiaall  aassssiissttaannccee..   2200  UU..SS..CC..  §§   11668877..  \nTThhuuss,,  CCoollbbyy  CCoolllleeggee  iiss  ssuubbjjeecctt  ttoo  TTiittllee  IIXX  eevveenn  iiff  nnoonnee  ooff  tthhee  ffuunnddiinngg  ffoorr  eeiitthheerr  iittss  ffeemmaalleess''  \noorr  mmaalleess''  aatthhlleettiicc  pprrooggrraammss  ccoommeess  ssppeecciiffiiccaallllyy  ffrroomm  ffeeddeerraall  ssoouurrcceess..  \n1177..   IInn  11997755,,  tthhee  DDeeppaarrttmmeenntt  ooffHH   eeaalltthh,,  EEdduuccaattiioonn  aanndd  WWeellffaarree  ((tthhee  pprreeddeecceessssoorr  ooff  \ntthhee  UUnniitteedd  SSttaatteess  DDeeppaarrttmmeenntt  ooff  EEdduuccaattiioonn  ((\"\"DDOOEE\"\"))))  aaddoopptteedd  rreegguullaattiioonnss  iinntteerrpprreettiinngg  TTiittllee  \nIIXX..   TThheessee  rreegguullaattiioonnss  aarree  ccooddiiffiieedd  aatt  3344  CC..FF..RR..  PPaarrtt  110066..  ((tthhee  \"\"RReegguullaattiioonnss\"\"))..  \n1188..   WWiitthh  rreeggaarrdd  ttoo  aatthhlleettiicc  pprrooggrraammss,,  §§  110066..4411((aa))  ooff  3344  CC..FF..RR..  pprroovviiddeess  tthhaatt  \niinntteerrccoolllleeggiiaattee  aatthhlleettiiccss  aarree  iinncclluuddeedd  wwiitthhiinn  tthhee  \"\"pprrooggrraamm  oorr  aaccttiivviittyy\"\"  rreeqquuiirreemmeennttss  ooff  TTiittllee  \nIIXX::  \nNNoo  ppeerrssoonn  sshhaallll,,  oonn  tthhee  bbaassiiss  ooff  sseexx,,  bbee  eexxcclluuddeedd  ffrroomm  ppaarrttiicciippaattiioonn  iinn,,  \nbbee  ddeenniieedd  tthhee  bbeenneeffiittss  ooff,,  bbee  ttrreeaatteedd  ddiiffffeerreennttllyy  ffrroomm  aannootthheerr  ppeerrssoonn  oorr  \nootthheerrwwiissee   bbee   ddiissccrriimmiinnaatteedd   aaggaaiinnsstt   iinn   aannyy   iinntteerrsscchhoollaassttiicc,,  \niinntteerrccoolllleeggiiaattee,,  cclluubb  oorr  iinnttrraammuurraall  aatthhlleettiiccss  ooffffeerreedd  bbyy  aa  rreecciippiieenntt  ......  \n66  \n\nCase 1:03-cv-00103-MJK   Document 1   Filed 06/09/03   Page 7 of 15    PageID #: 7\n1199..   3344  CC..FF..RR..  §§  110066..4411((cc))  ssppeecciiffiieess  tteenn  ((1100))  ffaaccttoorrss  tthhaatt  aarree  ttoo  bbee  ccoonnssiiddeerreedd  iinn  tthhee  \nddeetteerrmmiinnaattiioonn  ooff  eeqquuaall  aatthhlleettiicc  ooppppoorrttuunniittyy::  \n11..   WWhheetthheerr  tthhee  sseelleeccttiioonn  ooff  ssppoorrttss  aanndd  lleevveellss  ooff  ccoommppeettiittiioonn  eeffffeeccttiivveellyy  \naaccccoommmmooddaattee  tthhee  iinntteerreesstt  aanndd  aabbiilliittiieess  ooff  mmeemmbbeerrss  ooff  bbootthh  sseexxeess;;  \n22..   TThhee  pprroovviissiioonn  ooff  eeqquuiippmmeenntt  aanndd  ssuupppplliieess;;  \n33..   SScchheedduulliinngg  ooff  ggaammeess  aanndd  pprraaccttiiccee  ttiimmee;;  \n44..   TTrraavveell  aanndd  ppeerr  ddiieemm  aalllloowwaannccee;;  \n55..   OOppppoorrttuunniittyy  ttoo  rreecceeiivvee  ccooaacchhiinngg  aanndd  aaccaaddeemmiicc  ttuuttoorriinngg;;  \n66..   AAssssiiggnnmmeenntt  aanndd  ccoommppeennssaattiioonn  ooff  ccooaacchheess  aanndd  ttuuttoorrss;;  \n77..   PPrroovviissiioonn  ooff  lloocckkeerr  rroooommss,,  pprraaccttiiccee  aanndd  ccoommppeettiittiivvee  ffaacciilliittiieess;;  \n88..   PPrroovviissiioonn  ooff  mmeeddiiccaall  aanndd  ttrraaiinniinngg  ffaacciilliittiieess  aanndd  sseerrvviicceess;;  \n99..   PPrroovviissiioonn  ooff  hhoouussiinngg  aanndd  ddiinniinngg  ffaacciilliittiieess  aanndd  sseerrvviicceess;;  aanndd  \n1100..   PPuubblliicciittyy..  \nAAnnootthheerr  ffaaccttoorr  ttoo  bbee  ccoonnssiiddeerreedd  iiss  aa  sscchhooooll''ss  \"\"ffaaiilluurree  ttoo  pprroovviiddee  nneecceessssaarryy  ffuunnddss  ffoorr  tteeaammss  \nffoorr  oonnee  sseexx..\"\"   [[dd..  \n2200..   IInn  11997799,,  tthhee  OOffffiiccee  ooff  CCiivviill  RRiigghhttss  ooff  tthhee  DDeeppaarrttmmeenntt  ooff  EEdduuccaattiioonn  ((\"\"OOCCRR\"\"))  \niissssuueedd  aa  ppoolliiccyy  iinntteerrpprreettaattiioonn  ooff  TTiittllee  IIXX  aanndd  tthhee  RReegguullaattiioonnss..   TThhiiss  ppoolliiccyy  iinntteerrpprreettaattiioonn  iiss  \nffoouunndd  aatt  4444  FFeedd..  RReegg..  7711441133  ((11997799))  ((tthhee  \"\"PPoolliiccyy  IInntteerrpprreettaattiioonn\"\"))..  \n2211..   TThhee  PPoolliiccyy  IInntteerrpprreettaattiioonn  pprroovviiddeess  tthhaatt,,  iinn  oorrddeerr  ttoo  ccoommppllyy  wwiitthh  TTiittllee  IIXX  aanndd  \n3344  CC..FF..RR..  §§  110066..4411((cc)),,  sscchhoooollss  mmuusstt  pprroovviiddee  eeqquuaall  aatthhlleettiicc  ooppppoorrttuunniittiieess  iinn  tthhrreeee  ggeenneerraall  \n77  \n\nCase 1:03-cv-00103-MJK   Document 1   Filed 06/09/03   Page 8 of 15    PageID #: 8\naarreeaass::  ((11))  aawwaarrddiinngg  ooffss  cchhoollaarrsshhiippss  ((aaiimmeedd  pprriimmaarriillyy  aatt  pprroobblleemmss  aatt  tthhee  iinntteerrccoolllleeggiiaattee  lleevveell));;  \n((22))  ppaarrttiicciippaattiioonn  ooppppoorrttuunniittiieess  ((iinncclluuddiinngg  bbootthh  tthhee  nnuummbbeerr  ooff  ooppppoorrttuunniittiieess  aanndd  wwhheetthheerr  tthhee  \nsseelleeccttiioonn  ooff  ssppoorrttss  aanndd  tthhee  lleevveell  ooff  ccoommppeettiittiioonn  eeffffeeccttiivveellyy  aaccccoommmmooddaattee  tthhee  iinntteerreessttss  aanndd  \naabbiilliittiieess  ooff  mmeemmbbeerrss  ooff  bbootthh  sseexxeess));;  aanndd  ((33))  ttrreeaattmmeenntt  aanndd  bbeenneeffiittss..   4444  FFeedd..  RReegg..  aatt  7711441144..  \n2222..   UUnnddeerr  bbootthh  tthhee  RReegguullaattiioonnss  aanndd  tthhee  PPoolliiccyy  IInntteerrpprreettaattiioonn,,  ccoommpplliiaannccee  iinn  tthhee  \naarreeaa  ooff  eeqquuaall  ttrreeaattmmeenntt  aanndd  bbeenneeffiittss  iiss  aasssseesssseedd  bbaasseedd  oonn  aann  oovveerraallll  ccoommppaarriissoonn  ooff  tthhee  mmaallee  \naanndd  ffeemmaallee  aatthhlleettiicc  pprrooggrraammss,,  iinncclluuddiinngg  aann  aannaallyyssiiss  ooff  ffaaccttoorrss  ((22))  tthhrroouugghh  ((1100))  ooff3344  CC..FF..RR..  \n§§  110066..4411((cc))  lliisstteedd  aabboovvee  aanndd  aann  aannaallyyssiiss  ooff  wwhheetthheerr  tthhee  nneecceessssaarryy  ffuunnddss  aarree  pprroovviiddeedd  ffoorr  \ntteeaammss  ooff  bbootthh  sseexxeess..  \n2233..   TThhee  RReegguullaattiioonnss  rreeqquuiirree  tthhaatt  ssppoonnssoorrss  ooff  iinntteerrccoolllleeggiiaattee  aanndd//oorr  ootthheerr  sscchhooooll--\nssppoonnssoorreedd  aatthhlleettiiccss  ((ssuucchh  aass  CCoollbbyy  CCoolllleeggee))  ttaakkee  ssuucchh  rreemmeeddiiaall  aaccttiioonnss  aass  aarree  nneecceessssaarryy  ttoo  \noovveerrccoommee  tthhee  eeffffeeccttss  ooff  ggeennddeerr  ddiissccrriimmiinnaattiioonn  iinn  vviioollaattiioonn  ooff  TTiittllee  IIXX..   SSeeee  3344  CC..FF..RR..  §§  \n110066..33((aa))..   OOnn  iinnffoonnnnaattiioonn  aanndd  bbeelliieeff,,  CCoollbbyy  CCoolllleeggee  hhaass  nnoott  ttaakkeenn  aapppprroopprriiaattee  rreemmeeddiiaall  \naaccttiioonnss  ttoo  iinnssuurree  eeqquuaall  ttrreeaattmmeenntt  aanndd  bbeenneeffiittss  ffoorr  iittss  ffeemmaallee  aatthhlleetteess  aass  ccoommppaarreedd  ttoo  iittss  mmaallee  \naatthhlleetteess..  \n2244..   TThhee  RReegguullaattiioonnss  ffuurrtthheerr  rreeqquuiirree  tthhaatt  ssppoonnssoorrss  ooff  iinntteerrccoolllleeggiiaattee  aanndd//oorr  ootthheerr  \nsscchhooooll--ssppoonnssoorreedd  aatthhlleettiiccss  ccoommppllyy  wwiitthh  tthhee  RReegguullaattiioonnss  wwiitthhiinn  tthhrreeee  yyeeaarrss  ooff  tthheeiirr  eeffffeeccttiivvee  \nddaattee  ((wwhhiicchh  wwaass  JJuullyy  2211,,  11997755))..   NNooww,,  mmoorree  tthhaann  ttwweennttyy--sseevveenn  ((2277))  yyeeaarrss  llaatteerr,,  CCoollbbyy  \nCCoolllleeggee  iiss  ssttiillll  nnoott  iinn  ffuullll  ccoommpplliiaannccee  wwiitthh  TTiittllee  IIXX..  \n88  \n\n~~   ..--~~  ......  ~~..----..--....  -- ........  -- ....--   ..--..,,--------------------------------------------------------------\nCase 1:03-cv-00103-MJK   Document 1   Filed 06/09/03   Page 9 of 15    PageID #: 9\nTTHHEE  UU..SS..  CCOONNSSTTIITTUUTTIIOONN  \n2255..   TThhee  FFoouurrtteeeenntthh  AAmmeennddmmeenntt  ttoo  tthhee  UUnniitteedd  SSttaatteess  CCoonnssttiittuuttiioonn  rreeqquuiirreess  tthhaatt  aa  \nssttaattee  sshhaallll  nnoott  \"\"ddeennyy  ttoo  aannyy  ppeerrssoonn  wwiitthhiinn  iittss  jjuurriissddiiccttiioonn  tthhee  eeqquuaall  pprrootteeccttiioonn  ooff  tthhee  llaawwss..\"\"  \n2266..   UUnnddeerr  4422  UU..SS..CC..  §§  11998833,,  DDeeffeennddaannttss  mmaayy  bbee  hheelldd  lliiaabbllee  ffoorr  tthheeiirr  aaccttiioonnss  iinn  \nvviioollaattiinngg  PPllaaiinnttiiffffss''  rriigghhttss  uunnddeerr  tthhee  FFoouurrtteeeenntthh  AAmmeennddmmeenntt..  \nIINNJJUUNNCCTTIIVVEE  RREELLIIEEFF  \n2277..   PPllaaiinnttiiffffss   aarree   eennttiittlleedd   ttoo   iinnjjuunnccttiivvee   rreelliieeff  ttoo   eenndd   DDeeffeennddaannttss''   uunneeqquuaall,,  \nddiissccrriimmiinnaattoorryy,,  aanndd  uunnllaawwffuull  ttrreeaattmmeenntt  ooff  ffeemmaallee  ssttuuddeenntt  aatthhlleetteess..   BBeeccaauussee  ooff  DDeeffeennddaannttss''  \naaccttss  aanndd  oommiissssiioonnss,,  PPllaaiinnttiiffffss  ccoonnttiinnuuee  ttoo  bbee  ddeepprriivveedd  ooff  tthhee  rriigghhttss  gguuaarraanntteeeedd  ttoo  tthheemm  bbyy  tthhee  \nUUnniitteedd  SSttaatteess  CCoonnssttiittuuttiioonn  aanndd  tthhee  llaawwss  ooff  tthhee  UUnniitteedd  SSttaatteess..  FFaaiilluurree  ttoo  ggrraanntt  tthhee  iinnjjuunnccttiivvee  \nrreelliieeff  rreeqquueesstteedd  wwiillll  rreessuulltt  iinn  iirrrreeppaarraabbllee  hhaarrmm  ttoo  PPllaaiinnttiiffffss  iinn  tthhaatt  PPllaaiinnttiiffffss''  FFoouurrtteeeenntthh  \nAAmmeennddmmeenntt  rriigghhttss  wwiillll  bbee  vviioollaatteedd  aanndd  tthhaatt  PPllaaiinnttiiffffss  wwiillll  nneevveerr  bbee  aabbllee  ttoo  ppaarrttiicciippaattee  iinn  \niinntteerrccoolllleeggiiaattee  aanndd//oorr  ootthheerr  sscchhooooll--ssppoonnssoorreedd  aatthhlleettiiccss  oonn  aann  eeqquuaall  bbaassiiss  wwiitthh  tthheeiirr  mmaallee  \nccllaassssmmaatteess,,  iiff  aatt  aallll..   AAccccoorrddiinnggllyy,,  PPllaaiinnttiiffffss  ddoo  nnoott  hhaavvee  aann  aaddeeqquuaattee  rreemmeeddyy  aatt  llaaww  ffoorr  tthhiiss  \nhhaarrmm..   TThhiiss  tthhrreeaatteenneedd  hhaarrmm  ffaarr  oouuttwweeiigghhss  aannyy  ppoossssiibbllee  hhaarrmm  tthhaatt  ggrraannttiinngg  iinnjjuunnccttiivvee  rreelliieeff  \nmmiigghhtt  ccaauussee  DDeeffeennddaannttss..   FFiinnaallllyy,,  tthhee  iinnjjuunnccttiivvee  rreelliieeff  ssoouugghhtt  wwoouulldd  iinn  nnoo  wwaayy  ddiisssseerrvvee  tthhee  \nppuubblliicc  iinntteerreesstt  bbuutt,,  oonn  tthhee  ccoonnttrraarryy,,  wwoouulldd  pprreevveenntt  ddiissccrriimmiinnaattiioonn  bbaasseedd  oonn  ggeennddeerr  aanndd  wwoouulldd  \npprroommoottee  tthhee  ggooaall  ooff  ffuullll  eeqquuaalliittyy  bbeeffoorree  tthhee  llaaww..  \n99  \n\nCase 1:03-cv-00103-MJK   Document 1   Filed 06/09/03   Page 10 of 15    PageID #: 10\nAATTTTOORRNNEEYYSS''  FFEEEESS  \n2288..   PPllaaiinnttiiffffss  hhaavvee  bbeeeenn  rreeqquuiirreedd  ttoo  rreettaaiinn  tthhee  uunnddeerrssiiggnneedd  aattttoorrnneeyyss  ttoo  pprroosseeccuuttee  \ntthhiiss  aaccttiioonn..  PPllaaiinnttiiffffss  aarree  eennttiittlleedd  ttoo  rreeccoovveerr  rreeaassoonnaabbllee  aattttoorrnneeyyss''  ffeeeess  aanndd  ccoossttss  ppuurrssuuaanntt  ttoo  \n4422  UU..SS..CC..  §§  11998888..  \nFFIIRRSSTT  CCLLAAIIMM  FFOORR  RREELLIIEEFF::   TTIITTLLEE  IIXX((UUnneegguuaall  TTrreeaattmmeenntt  aanndd  BBeenneeffiittss))  \n2299..   PPllaaiinnttiiffffss  rreeaalllleeggee   aanndd  iinnccoorrppoorraattee  hheerreeiinn  bbyy  tthhiiss  rreeffeerreennccee  ppaarraaggrraapphhss   11  \ntthhrroouugghh  2288  iinncclluussiivvee  ooff  tthhiiss  CCoommppllaaiinntt..  \n3300..   CCoollbbyy  CCoolllleeggee,,  bbyy  iittss  ccoonndduucctt,,  hhaass  iilllleeggaallllyy  vviioollaatteedd  TTiittllee  IIXX  bbyy  ddiissccrriimmiinnaattiinngg  \naaggaaiinnsstt  ffeemmaallee  ssttuuddeennttss,,  iinncclluuddiinngg  tthhee  PPllaaiinnttiiffffss,,  bbyy,,  aammoonngg  ootthheerr  tthhiinnggss,,  ffaaiilliinngg  ttoo  pprroovviiddee  \nffeemmaallee  aatthhlleetteess  aatt  CCoollbbyy  CCoolllleeggee  wwiitthh  tthhee  ssaammee  ttrreeaattmmeenntt  aanndd  bbeenneeffiittss  wwhhiicchh  aarree  ccoommppaarraabbllee  \nttoo  tthhee  ttrreeaattmmeenntt  aanndd  bbeenneeffiittss  pprroovviiddeedd  ttoo  mmaallee  aatthhlleetteess..  \n3311..   OOnn  iinnffoorrmmaattiioonn  aanndd  bbeelliieeff,,  PPllaaiinnttiiffffss  aalllleeggee  tthhaatt  CCoollbbyy  CCoolllleeggee  hhaass  ffaaiilleedd  ttoo  \nccoommppllyy  wwiitthh  TTiittllee  IIXX  bbyy  ffaaiilliinngg  ttoo  pprroovviiddee  PPllaaiinnttiiffffss  wwiitthh  ccoommppaarraabbllee  ttrreeaattmmeenntt  aanndd  bbeenneeffiittss  \niinncclluuddiinngg,,  bbuutt  nnoott  lliimmiitteedd  ttoo,,  tthhee  ffoolllloowwiinngg  aarreeaass::  \n((11))   CCoollbbyy  CCoolllleeggee  ffuunnddss  aatthhlleettiiccss  iinn  aa  mmaannnneerr  tthhaatt  ddiissccrriimmiinnaatteess  aaggaaiinnsstt  \nPPllaaiinnttiiffffss  aanndd  ootthheerr  ffeemmaallee  aatthhlleetteess..  \n((22))   CCoollbbyy   CCoolllleeggee  pprroovviiddeess   mmaallee   aatthhlleetteess   wwiitthh   nneewweerr  eeqquuiippmmeenntt   aanndd  \nssuupppplliieess  tthhaatt  aarree  ooffbb  eetttteerr  qquuaalliittyy  tthhaann  tthhoossee  pprroovviiddeedd  ttoo  ffeemmaallee  aatthhlleetteess..  \nFFoorr  eexxaammppllee,,  tthhee  wwoommeenn''ss  llaaccrroossssee  tteeaamm  iiss   iissssuueedd  tthhee  mmeenn''ss  oolldd  \n1100  \n\n________________  ..__  ....--  ____..  ..  __..  ______..  __   ______________________________________________==     __________________  \n~~~~~~~~~~__oo~~~~~~__..   ~~  \nCase 1:03-cv-00103-MJK   Document 1   Filed 06/09/03   Page 11 of 15    PageID #: 11\nffoooottbbaallll  bbaaggss  ffoorr  ttrraavveell..   AAss  aann  aaddddiittiioonnaall  eexxaammppllee,,  iinn  ssoommee  ccaasseess,,  tthhee  \nmmeenn''ss  tteeaammss  rreecceeiivvee  nneeww  uunniiffoorrmmss  mmoorree  ffrreeqquueennttllyy  tthhaann  tthhee  wwoommeenn''ss  \ntteeaammss,,  aanndd  tthhee  wwoommeenn''ss  uunniiffoorrmmss  aarree  oofftteenn  ssoo  oolldd  tthhaatt  tthhee  wwoommeenn  bbuuyy  \nuunniiffoorrmm  iitteemmss  wwiitthh  tthheeiirr  oowwnn  mmoonneeyy..   IInn  aaddddiittiioonn,,  wwoommeenn''ss  tteeaammss  ddoo  \nnnoott  rreecceeiivvee  eeqquuiivvaalleenntt  bbeenneeffiitt  ooff  aann  eeqquuiippmmeenntt  mmaannaaggeerr  aass  ccoommppaarreedd  \nttoo  mmeenn''ss  tteeaammss..  \n((33))   PPllaaiinnttiiffffss  aanndd  ootthheerr  ffeemmaallee  aatthhlleetteess  rreecceeiivvee  iinnffeerriioorr  ttrreeaattmmeenntt  iinn  rreeggaarrdd  \nttoo  ttrraavveell  aanndd  ppeerr  ddiieemm..  FFoorr  eexxaammppllee,,  tthhee  hhootteell  rroooommss  aarree  mmoorree  ccrraammppeedd  \nffoorr  ffeemmaallee  aatthhlleetteess  aass  ccoommppaarreedd  ttoo  mmaallee  aatthhlleetteess..   IInn  aaddddiittiioonn,,  ffoooottbbaallll  \nppllaayyeerrss  rreecceeiivvee  mmoorree  aanndd  bbeetttteerr  mmeeaallss  aass   ccoommppaarreedd  ttoo  aannyy  ffeemmaallee  \naatthhlleetteess..  \n((44   ))   PPllaaiinnttiiffffss  aanndd  ootthheerr  ffeemmaallee  aatthhlleetteess  hhaavvee  ffeewweerr  ooppppoorrttuunniittiieess  ttoo  rreecceeiivvee  \nccooaacchhiinngg   aass   ccoommppaarreedd  ttoo   tthhee   mmaallee   aatthhlleetteess   aatt   CCoollbbyy   CCoolllleeggee..   IInn  \nppaarrttiiccuullaarr,,  tthheerree  aarree  ttwwoo  hheeaadd  ccooaacchheess  aatt  CCoollbbyy  CCoolllleeggee  ccooaacchhiinngg  ffoouurr  \nsseeppaarraattee  mmaajjoorr  ffeemmaallee  ssppoorrttss..   OOnnee  ccooaacchheess  ffiieelldd  hhoocckkeeyy  aanndd  llaaccrroossssee,,  \nwwhhiillee  tthhee  ootthheerr  ccooaacchheess  iiccee  hhoocckkeeyy  aanndd  ssoocccceerr..   SSiinnccee  mmaallee  tteeaammss  hhaavvee  \naa  sseeppaarraattee  hheeaadd  ccooaacchh  ffoorr  vviirrttuuaallllyy  eevveerryy  ssppoorrtt,,  ffeemmaallee  aatthhlleetteess  rreecceeiivvee  \nlleessss  aatttteennttiioonn  ffrroomm  tthheeiirr  hheeaadd  ccooaacchh  aass  ccoommppaarreedd  ttoo  mmaallee  aatthhlleetteess  iinn  \nrreeggaarrdd  ttoo  ssuucchh  iissssuueess  aass  rreeccrruuiittiinngg,,  pprreesseeaassoonn  pprreeppaarraattiioonn,,  ooffff--sseeaassoonn  \nttrraaiinniinngg,,  aanndd  ppllaayyeerr  aaccaaddeemmiiccss..  \n1111  \n\nCase 1:03-cv-00103-MJK   Document 1   Filed 06/09/03   Page 12 of 15    PageID #: 12\n((55))   CCoollbbyy  CCoolllleeggee  ssuupppplliieess  mmoorree  lloocckkeerr  rroooomm  ssppaaccee  ooff  ssuuppeerriioorr  qquuaalliittyy,,  \nwwiitthh  ssuuppeerriioorr  aacccceessss,,  ttoo  mmaallee  aatthhlleetteess  aass  ccoommppaarreedd  ttoo  ffeemmaallee  aatthhlleetteess..  \n3322..   TThhee  iimmbbaallaannccee  iinn  tthhee  ttrreeaattmmeenntt  ooff  ffeemmaallee  aanndd  mmaallee  aatthhlleetteess  aatt  CCoollbbyy  CCoolllleeggee,,  \naass  ddeettaaiilleedd  aabboovvee,,  ddeemmoonnssttrraatteess  CCoollbbyy  CCoolllleeggee''ss  iilllleeggaall  ffaaiilluurree  ttoo  ccoommppllyy  wwiitthh  TTiittllee  IIXX..  \n3333..   CCoollbbyy  CCoolllleeggee''ss  ccoonndduucctt  hhaass  ppeerrssiisstteedd  ddeessppiittee  tthhee  mmaannddaatteess  oofftt  hhee  RReegguullaattiioonnss,,  \nppaarrttiiccuullaarrllyy  3344  CC..FF..RR  §§§§  110066..33((aa))  aanndd  110066..4411((cc)),,  ((dd)),,  aanndd  tthhee  PPoolliiccyy  IInntteerrpprreettaattiioonn..  \n3344..   CCoollbbyy  CCoolllleeggee''ss  ccoonndduucctt  vviioollaatteess  2200  UU..SS..CC..  §§  11668811  eett  sseeqq..,,  aass  iinntteerrpprreetteedd  bbyy  \n3344  CC..FF..RR..  §§§§  110066..3311  aanndd  110066..4411  aanndd  tthhee  PPoolliiccyy  IInntteerrpprreettaattiioonn  tthheerreeooff..  \nSSEECCOONNDD  CCLLAAIIMM  FFOORR  RREELLIIEEFF::   EEQQUUAALL  PPRROOTTEECCTTIIOONN  \n3355..   PPllaaiinnttiiffffss  rreeaalllleeggee  aanndd   iinnccoorrppoorraattee  hheerreeiinn  bbyy  tthhiiss   rreeffeerreennccee  ppaarraaggrraapphhss   11  \ntthhrroouugghh  3344  iinncclluussiivvee  ooff  tthhiiss  CCoommppllaaiinntt..  \n3366..   DDeeffeennddaannttss,,  bbyy  tthheeiirr  ffaaiilluurree  ttoo  pprroovviiddee  ffeemmaallee  aatthhlleetteess  wwiitthh  tthhee  ssaammee  ttrreeaattmmeenntt  \naanndd  bbeenneeffiittss  aass  tthhee  mmaallee  aatthhlleetteess  ((aass  ddeettaaiilleedd  aabboovvee)),,  hhaavvee  iilllleeggaallllyy  ddiissccrriimmiinnaatteedd  aaggaaiinnsstt  \nffeemmaallee  ssttuuddeennttss,,  iinncclluuddiinngg  tthhee  PPllaaiinnttiiffffss,,  oonn  tthhee  bbaassiiss  ooff  ggeennddeerr,,  aanndd  hhaavvee  iilllleeggaallllyy  ddeepprriivveedd  \ntthheemm  ooff  tthheeiirr  rriigghhttss  ttoo  eeqquuaall  pprrootteeccttiioonn  sseeccuurreedd  bbyy  tthhee  FFoouurrtteeeenntthh  AAmmeennddmmeenntt  ttoo  tthhee  UUnniitteedd  \nSSttaatteess  CCoonnssttiittuuttiioonn..  \n3377..   DDeeffeennddaannttss  hhaavvee  iilllleeggaallllyy  ffaaiilleedd  ttoo  rreemmeeddyy  tthhee  uunneeqquuaall  ttrreeaattmmeenntt  aanndd  bbeenneeffiittss  \nrreecceeiivveedd  bbyy  CCoollbbyy  CCoolllleeggee''ss  ffeemmaallee  aatthhlleetteess  aass  ccoommppaarreedd  ttoo  mmaallee  aatthhlleetteess..   TThheerreeffoorree,,  \nDDeeffeennddaannttss''  aaccttiioonnss  ccoonnssttiittuuttee  aa  ddiissrreeggaarrdd  ffoorr  PPllaaiinnttiiffffss''  ccoonnssttiittuuttiioonnaall  rriigghhttss..  \n1122  \n\n__  ......~~  ..----..--....  --------..------------..--..--------------------------------------------------------------~~  \nCase 1:03-cv-00103-MJK   Document 1   Filed 06/09/03   Page 13 of 15    PageID #: 13\n3388..   SSeeccttiioonn  11998833  ooff  TTiittllee  4422  ooff  tthhee  UUnniitteedd  SSttaatteess  CCooddee  pprroovviiddeess,,  iinn  ppaarrtt::  \"\"EEvveerryy  \nppeerrssoonn  wwhhoo,,  uunnddeerr  ccoolloorr  ooff  aannyy  ssttaattuuttee,,  oorrddiinnaannccee,,  rreegguullaattiioonn,,  ccuussttoomm,,  oorr  uussaaggee,,  ooff  aannyy  SSttaattee  \noorr  TTeerrrriittoorryy  oorr  tthhee  DDiissttrriicctt  ooff  CCoolluummbbiiaa  ssuubbjjeeccttss,,  oorr  ccaauusseess  ttoo  bbee  ssuubbjjeecctteedd,,  aannyy  cciittiizzeenn  ooff  tthhee  \nUUnniitteedd  SSttaatteess  oorr  ootthheerr  ppeerrssoonn  wwiitthhiinn  tthhee  jjuurriissddiiccttiioonn  tthheerreeooff  ttoo  tthhee  ddeepprriivvaattiioonn  ooff  aannyy  rriigghhttss,,  \npprriivviilleeggeess,,  oorr  iimmmmuunniittiieess  sseeccuurreedd  bbyy  tthhee  CCoonnssttiittuuttiioonn  aanndd  llaawwss,,  sshhaallll  bbee  lliiaabbllee  ttoo  tthhee  ppaarrttyy  \niinnjjuurreedd  iinn  aann  aaccttiioonn  aatt  llaaww,,  ssuuiitt  iinn  eeqquuiittyy,,  oorr  ootthheerr  pprrooppeerr  pprroocceeeeddiinngg  ffoorr  rreeddrreessss  ........  \"\"  \n3399..   WWhheenn  DDeeffeennddaannttss  eennggaaggeedd  iinn  tthhee  iimmpprrooppeerr  aaccttiioonnss  ddeessccrriibbeedd  aabboovvee,,  tthheeyy  wweerree  \naaccttiinngg  uunnddeerr  ccoolloorr  ooff  llaaww  ffoorr  ppuurrppoosseess  ooff  tthhee  EEqquuaall  PPrrootteeccttiioonn  CCllaauussee  ooff  tthhee  UUnniitteedd  SSttaatteess  \nCCoonnssttiittuuttiioonn  aanndd  4422  UU..SS..CC..  §§  11998833..   UUnnddeerr  tthhiiss  sseeccttiioonn,,  eeaacchh  ooff  tthhee  iinnddiivviidduuaall  DDeeffeennddaannttss  \niiss   lliiaabbllee   ffoorr   vviioollaattiioonnss   ooff  tthhee   PPllaaiinnttiiffffss''   ccoonnssttiittuuttiioonnaall   rriigghhttss   uunnddeerr   tthhee   FFoouurrtteeeenntthh  \nAAmmeennddmmeenntt..  \nRREELLIIEEFF  RREEQQUUEESSTTEEDD  \nWWHHEERREEFFOORREE,,  oonn  eeaacchh  ooff  tthheeiirr  ccllaaiimmss,,  PPllaaiinnttiiffffss  rreessppeeccttffuullllyy  pprraayy  tthhaatt  tthhiiss  CCoouurrtt::  \nAA..   EEnntteerr   aann   oorrddeerr   ddeeccllaarriinngg   tthhaatt   DDeeffeennddaannttss   hhaavvee   eennggaaggeedd   iinn   aa   ppaasstt   aanndd  \nccoonnttiinnuuiinngg  ppaatttteerrnn  aanndd  pprraaccttiiccee  ooff  ddiissccrriimmiinnaattiioonn  aaggaaiinnsstt  ffeemmaallee  ssttuuddeennttss  oonn  \ntthhee  bbaassiiss  ooff  ggeennddeerr  iinn  vviioollaattiioonn  ooff  TTiittllee  IIXX  aanndd  tthhee  rreegguullaattiioonnss  pprroommuullggaatteedd  \ntthheerreeuunnddeerr   ((iinncclluuddiinngg   uunneeqquuaall   ttrreeaattmmeenntt   aanndd   bbeenneeffiittss)),,   aanndd   tthhee   EEqquuaall  \nPPrrootteeccttiioonn   CCllaauussee   ooff  tthhee   FFoouurrtteeeenntthh   AAmmeennddmmeenntt   ttoo   tthhee   UUnniitteedd   SSttaatteess  \nCCoonnssttiittuuttiioonn..  \n1133  \n\nCase 1:03-cv-00103-MJK   Document 1   Filed 06/09/03   Page 14 of 15    PageID #: 14\nBB..   IIssssuuee  aa  ppeennnnaanneenntt  iinnjjuunnccttiioonn  ((aa))  rreessttrraaiinniinngg  DDeeffeennddaannttss  aanndd  tthheeiirr  ooffffiicceerrss,,  \naaggeennttss,,  eemmppllooyyeeeess,,  ssuucccceessssoorrss,,  aanndd  aannyy  ootthheerr  ppeerrssoonnss  aaccttiinngg  iinn  ccoonncceerrtt  wwiitthh  \ntthheemm,,  ffrroomm  ccoonnttiinnuuiinngg  ttoo  mmaaiinnttaaiinn  pprraaccttiicceess  aanndd  ppoolliicciieess  ooff  ddiissccrriimmiinnaattiioonn  \naaggaaiinnsstt  ffeemmaallee  ssttuuddeennttss  oonn  tthhee  bbaassiiss  ooff  ggeennddeerr,,  aanndd  ((bb))  rreeqquuiirriinngg  DDeeffeennddaannttss,,  \niimmmmeeddiiaatteellyy  uuppoonn  iissssuuaannccee  ooff  tthhee  iinnjjuunnccttiivvee  oorrddeerr,,  ttoo  aaddoopptt  aanndd  iimmpplleemmeenntt  aa  \nbbuuddggeett  aanndd  ppllaann  wwhhiicchh  ccoorrrreeccttss  aanndd  rreemmeeddiiaatteess  DDeeffeennddaannttss''  vviioollaattiioonn  ooff  TTiittllee  \nIIXX  aanndd  tthhee  FFoouurrtteeeenntthh  AAmmeennddmmeenntt..   SSuucchh  aa  ppllaann  sshhoouulldd  iinncclluuddee,,  aammoonngg  ootthheerr  \ntthhiinnggss,,  pprroovviiddiinngg  ffeemmaallee  aatthhlleetteess  wwiitthh  ttrreeaattmmeenntt  aanndd  bbeenneeffiittss  ccoommppaarraabbllee  ttoo  \ntthhoossee  pprroovviiddeedd  ttoo  mmaallee  aatthhlleetteess..  \nCC..   GGrraanntt  aann  eexxppeeddiitteedd  hheeaarriinngg  aanndd  rruulliinngg  oonn  tthhee  ppeennnnaanneenntt  iinnjjuunnccttiioonn  rreeqquueesstt  iinn  \nBB  aabboovvee..  \nDD..   AAwwaarrdd  PPllaaiinnttiiffffss  tthheeiirr  rreeaassoonnaabbllee  aattttoorrnneeyyss''  ffeeeess   aanndd  ccoossttss  ppuurrssuuaanntt  ttoo  4422  \nUU..SS..CC..  §§  11998888..  \nEE..   OOrrddeerr  ssuucchh  ootthheerr  aanndd  ffuurrtthheerr  rreelliieeff  aass  tthhee  CCoouurrtt  ddeeeemmss  aapppprroopprriiaattee..  \nFF..   DDeessiiggnnaattee  tthhaatt  tthhee  ttrriiaall  ttaakkee  ppllaaccee  bbeeffoorree  tthhee  UUnniitteedd  SSttaatteess  DDiissttrriicctt  CCoouurrtt  iinn  \nBBaannggoorr,,  MMaaiinnee..  \n1144  \n\nCase 1:03-cv-00103-MJK   Document 1   Filed 06/09/03   Page 15 of 15    PageID #: 15\nRReessppeeccttffuullllyy  ssuubbmmiitttteedd,,  \nSSCCHHIILLLLEERR  LLAAWW  FFIIRRMM  \nIILLLLEERR,,  \nOOkkllaahhoommaa  BBaarr  AAssssoocciiaattiioonn  ##001166006677  \nTTeennnneesssseeee  AAttttoorrnneeyy  RReeggiissttrraattiioonn  ##002211881100  \nRRAAYYYYAASSSSEERR,,  \nOOkkllaahhoommaa  BBaarr  AAssssoocciiaattiioonn  ##000099994444  \nSSuuiittee  220000,,44111133  CCuummbbyy  RRooaadd  \nCCooookkeevviillllee,,  TTNN  3388550011  \nTTeelleepphhoonnee::  ((993311))  552288--55005500  \nFFaaxx::  ((993311))  552288--55005511  \n((..  \nttuu~~   ((((~~~~  \nEEUUGGiiNNEE  CC..  CCOOUUGGHHLLIINN  \nBBaarr  NNuummbbeerr::  339933  \nVVaaffiiaaddeess,,  BBrroouunnttaass  &&  KKoommiinnsskkyy,,  LLLLPP  \nKKeeyy  PPllaazzaa,,  2233  WWaatteerr  SSttrreeeett  \nPP..  OO..  BBooxx  991199  \nBBaannggoorr,,  MMEE  0044440022--00991199  \nTTeelleepphhoonnee::  ((220077))  994477--66991155  \nAAttttoorrnneeyyss//oorr  PPllaaiinnttiiffffss  \nFF::\\\\CCoollbbyy\\\\CCoommppllaaiinntt  --CCoollbbyy  CCoolllleeggee..wwppdd  \n1155  ",
+      "document_type_other": null,
+      "external_url": "",
+      "ecf_number": "1",
+      "clearinghouse_link": "clearinghouse.net/doc/61201"
+    },
+    {
+      "date": "2004-02-19",
+      "date_is_estimate": false,
+      "date_not_available": false,
+      "description": null,
+      "document_source": "PACER [Public Access to Court Electronic Records]",
+      "document_status": "Coding Complete",
+      "document_type": "Docket",
+      "order_type": null,
+      "citation_paren": null,
+      "cite_1_page": null,
+      "cite_1_reporter": null,
+      "cite_1_vol": null,
+      "cite_2_page": null,
+      "cite_2_reporter": null,
+      "cite_2_vol": null,
+      "cite_3_page": null,
+      "cite_3_reporter": null,
+      "cite_3_vol": null,
+      "citation_status": "Not applicable",
+      "court": "District of Maine",
+      "no_title": false,
+      "party_types": [
+        "Court"
+      ],
+      "per_curium": false,
+      "is_core_document": true,
+      "id": 60830,
+      "file": "https://clearinghouse-umich-production.s3.amazonaws.com/media/doc/60830.pdf",
+      "title": "Docket [Pacer]",
+      "text": "Case: 1:03-cv-00103-MJK   As of: 01/28/2014 10:02 AM EST   1 of 4\nCLOSED,STANDARD\nU.S. District Court\nDistrict of Maine (Bangor)\nCIVIL DOCKET FOR CASE #: 1:03−cv−00103−MJK\nBONNER et al v. COLBY COLLEGE, PRESIDENT et al Date Filed: 06/09/2003\nAssigned to: MAGISTRATE JUDGE MARGARET J. Date Terminated: 02/20/2004\nKRAVCHUK Jury Demand: None\nCause: 28:1331 Federal Question: Other Civil Rights Nature of Suit: 440 Civil Rights: Other\nJurisdiction: Federal Question\nPlaintiff\nWENDY BONNER represented by EUGENE C. COUGHLIN\nVAFIADES, BROUNTAS &KOMINSKY\n23 WATER STREET\nP. O. BOX 919\nBANGOR, ME 04402−0919\n(207) 947−6915\nEmail: ecc@vbk.com\nLEAD ATTORNEY\nATTORNEY TO BE NOTICED\nSAMUEL J. SCHILLER\nSCHILLER LAW FIRM\n4113 CUMBY ROAD\nSUITE 2000\nCOOKEVILLE, TN 38501\n931−528−5050\nEmail: sjs@schillerlawfirm.com\nLEAD ATTORNEY\nATTORNEY TO BE NOTICED\nRAY YASSER\nSCHILLER LAW FIRM\n4113 CUMBY ROAD\nSUITE 2000\nCOOKEVILLE, TN 38501\n(931) 528−5050\nATTORNEY TO BE NOTICED\nPlaintiff\nKRISTIN PUTNAM represented by EUGENE C. COUGHLIN\n(See above for address)\nLEAD ATTORNEY\nATTORNEY TO BE NOTICED\nSAMUEL J. SCHILLER\n(See above for address)\nLEAD ATTORNEY\nATTORNEY TO BE NOTICED\nRAY YASSER\n(See above for address)\nATTORNEY TO BE NOTICED\nPlaintiff\nHEATHER M DEVITO represented by EUGENE C. COUGHLIN\n(See above for address)\nLEAD ATTORNEY\nATTORNEY TO BE NOTICED\nSAMUEL J. SCHILLER\n\nCase: 1:03-cv-00103-MJK   As of: 01/28/2014 10:02 AM EST   2 of 4\n(See above for address)\nLEAD ATTORNEY\nATTORNEY TO BE NOTICED\nRAY YASSER\n(See above for address)\nATTORNEY TO BE NOTICED\nPlaintiff\nADRIENNE LECLAIR represented by EUGENE C. COUGHLIN\n(See above for address)\nLEAD ATTORNEY\nATTORNEY TO BE NOTICED\nSAMUEL J. SCHILLER\n(See above for address)\nLEAD ATTORNEY\nATTORNEY TO BE NOTICED\nRAY YASSER\n(See above for address)\nATTORNEY TO BE NOTICED\nPlaintiff\nREBECCA AVRUTIN represented by EUGENE C. COUGHLIN\n(See above for address)\nLEAD ATTORNEY\nATTORNEY TO BE NOTICED\nSAMUEL J. SCHILLER\n(See above for address)\nLEAD ATTORNEY\nATTORNEY TO BE NOTICED\nRAY YASSER\n(See above for address)\nATTORNEY TO BE NOTICED\nV.\nDefendant\nCOLBY COLLEGE, PRESIDENT represented by JERROL A. CROUTER\nDRUMMOND WOODSUM\n84 MARGINAL WAY\nSUITE 600\nPORTLAND, ME 04101−2480\n207−772−1941\nEmail: jcrouter@dwmlaw.com\nLEAD ATTORNEY\nATTORNEY TO BE NOTICED\nMELISSA A. HEWEY\nDRUMMOND WOODSUM\n84 MARGINAL WAY\nSUITE 600\nPORTLAND, ME 04101−2480\n207−772−1941\nEmail: mhewey@dwmlaw.com\nATTORNEY TO BE NOTICED\nDefendant\nCOLBY COLLEGE, TRUSTEES OF represented by\n\nCase: 1:03-cv-00103-MJK   As of: 01/28/2014 10:02 AM EST   3 of 4\nJERROL A. CROUTER\n(See above for address)\nLEAD ATTORNEY\nATTORNEY TO BE NOTICED\nMELISSA A. HEWEY\n(See above for address)\nATTORNEY TO BE NOTICED\nDefendant\nDOES 1−50\nDate Filed # Docket Text\n06/09/2003 1  COMPLAINT against COLBY COLLEGE, PRESIDENT, COLBY COLLEGE,\nTRUSTEES OF, DOES 1−50 Filing fee $ 150, receipt number 47152., filed by\nREBECCA AVRUTIN, WENDY BONNER, HEATHER M DEVITO,\nADRIENNE LECLAIR, KRISTIN PUTNAM. (Service of Process Deadline\n10/7/2003)(drm, ) (Entered: 06/10/2003)\n06/09/2003 2  NOTICE of Appearance Pro Hac Vice by SAMUEL J. SCHILLER on behalf of\nREBECCA AVRUTIN, WENDY BONNER, HEATHER M DEVITO,\nADRIENNE LECLAIR, KRISTIN PUTNAM (err, ) (Entered: 06/11/2003)\n06/27/2003 ***Case Reassigned to Judge JOHN A. WOODCOCK. Judge GEORGE Z.\nSINGAL no longer assigned to the case.(err, ) (Entered: 06/30/2003)\n06/27/2003 3  MOTION to Dismiss Count II of Complaint by COLBY COLLEGE, PRESIDENT,\nCOLBY COLLEGE, TRUSTEES OF with incorporated memo.Responses due by\n7/18/2003. (jgw, ) (Entered: 07/01/2003)\n06/30/2003 4  ANSWER to Complaint by COLBY COLLEGE, PRESIDENT, COLBY\nCOLLEGE, TRUSTEES OF.(jgw, ) (Entered: 07/02/2003)\n07/03/2003 5  SCHEDULING ORDER: Discovery due by 11/5/2003. Motions due by\n11/12/2003. Ready for Trial on 3/9/2004. By Judge MARGARET J. KRAVCHUK.\n(jgw, ) (Entered: 07/03/2003)\n07/03/2003 6  ACKNOWLEDGEMENT OF SERVICE Executed as to COLBY COLLEGE,\nPRESIDENT served on 6/23/2003; COLBY COLLEGE, TRUSTEES OF served\non 6/23/2003 Acknowledgement filed by REBECCA AVRUTIN ; WENDY\nBONNER ; HEATHER M DEVITO ; ADRIENNE LECLAIR ; KRISTIN\nPUTNAM. (jgw, ) (Entered: 07/09/2003)\n07/07/2003 7  NOTICE of Appearance Pro Hac Vice by RAY YASSER on behalf of REBECCA\nAVRUTIN, WENDY BONNER, HEATHER M DEVITO, ADRIENNE\nLECLAIR, KRISTIN PUTNAM (jgw, ) (Entered: 07/09/2003)\n07/15/2003 8  RESPONSE to Motion re 3 MOTION to Dismiss Count II of Complaint filed by\nREBECCA AVRUTIN, WENDY BONNER, HEATHER M DEVITO,\nADRIENNE LECLAIR, KRISTIN PUTNAM.Reply due by 7/28/2003. (bld)\n(Entered: 07/15/2003)\n07/31/2003 ORDER/ENDORSEMENT granting 3 Motion to Dismiss Ct. II By Judge JOHN\nA. WOODCOCK JR. (bld) (Entered: 08/01/2003)\n08/01/2003 9  CONSENT to Jurisdiction by US Magistrate Judge by REBECCA AVRUTIN,\nWENDY BONNER, COLBY COLLEGE, PRESIDENT, COLBY COLLEGE,\nTRUSTEES OF, HEATHER M DEVITO, ADRIENNE LECLAIR, KRISTIN\nPUTNAM. Case reassigned to Magistrate Judge MARGARET J. KRAVCHUK.\n(jgw, ) (Entered: 08/01/2003)\n09/23/2003 Oral MOTION to Amend Scheduling Order To extend all deadlines thirty days for\nsettlement negotiation purposes by COLBY COLLEGE, PRESIDENT.Responses\ndue by 10/14/2003. (cwp, ) (Entered: 09/23/2003)\n\nCase: 1:03-cv-00103-MJK   As of: 01/28/2014 10:02 AM EST   4 of 4\n09/23/2003 10  Minute Entry for proceedings held before Judge MARGARET J. KRAVCHUK :\nMotion Hearing held re Oral MOTION to Amend Scheduling Order To extend all\ndeadlines thirty days for settlement negotiation purposes filed by COLBY\nCOLLEGE, PRESIDENT. Report and Amended Scheduling Order to follow. (cwp,\n) (Entered: 09/23/2003)\n09/23/2003 11  Oral MOTION to Amend Scheduling Order to extend remaining deadlines by 30\ndays by REBECCA AVRUTIN, WENDY BONNER, COLBY COLLEGE,\nPRESIDENT, COLBY COLLEGE, TRUSTEES OF, HEATHER M DEVITO,\nADRIENNE LECLAIR, KRISTIN PUTNAM. (err, ) (Entered: 09/25/2003)\n09/23/2003 12  AMENDED SCHEDULING ORDER: Discovery due by 12/5/2003. Motions due\nby 12/12/2003. Ready for Trial on 3/9/2004. By Judge MARGARET J.\nKRAVCHUK. (err, ) (Entered: 09/25/2003)\n09/23/2003 REPORT OF TELEPHONE CONFERENCE OF COUNSEL AND ORDER\ngranting 11 Motion to Amend Scheduling Order. (See Pleading No. 12 to view\ndocument.) By Judge MARGARET J. KRAVCHUK. (err, ) (Entered: 09/25/2003)\n12/09/2003 13  Unopposed MOTION to Extend Time 60 day time to file stipulation of dismissal\nafter negotiation of dispositive agreement by COLBY COLLEGE, PRESIDENT,\nCOLBY COLLEGE, TRUSTEES OF.Responses due by 12/30/2003. (CROUTER,\nJERROL) (Entered: 12/09/2003)\n12/09/2003 14  ORDER granting without objection 13 Motion to Extend Time to file stipulation of\ndismissal and entering the following procedural order: Counsel having advised the\nCourt on December 9, 2003 that settlement has been effected by mutual agreement\nof the parties herein, it is hereby ORDERED that counsel shall complete the\nsettlement of this matter within sixty (60) days of this date and cause to be filed on\nor before February 9, 2004 a stipulation of dismissal of this matter with prejudice\nand without costs. By Judge MARGARET J. KRAVCHUK. (KRAVCHUK,\nMARGARET) (Entered: 12/09/2003)\n12/10/2003 ***Set Deadlines : Stipulation of Dismissal due by 2/9/2004.(bld, ) (Entered:\n12/10/2003)\n02/06/2004 15  Unopposed MOTION to Extend Time 10 days to File Stipulation of Dismissal by\nCOLBY COLLEGE, TRUSTEES OF.Responses due by 2/27/2004. (HEWEY,\nMELISSA) (Entered: 02/06/2004)\n02/06/2004 16  ORDER granting without objection 15 Motion to Extend Time. The parties have\nuntil February 19, 2004, to file their stipulation of dismissal. By Judge\nMARGARET J. KRAVCHUK. (KRAVCHUK, MARGARET) (Entered:\n02/06/2004)\n02/06/2004 ***Reset Deadlines : Stipulation of Dismissal due by 2/19/2004.(bld) (Entered:\n02/06/2004)\n02/19/2004 17  STIPULATION of Dismissal by COLBY COLLEGE, TRUSTEES OF. (HEWEY,\nMELISSA) (Entered: 02/19/2004)",
+      "document_type_other": null,
+      "external_url": "",
+      "ecf_number": null,
+      "clearinghouse_link": "clearinghouse.net/doc/60830"
+    }
+  ],
+  "document_count": 4
+}

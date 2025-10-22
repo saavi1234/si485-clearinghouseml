@@ -1,0 +1,480 @@
+{
+  "case_id": 46847,
+  "fetched_at": "2025-10-22T00:47:41.139064",
+  "case_data": {
+    "attorney_orgs": [],
+    "available_documents": [
+      "Trial Court Docket",
+      "Complaint (any)"
+    ],
+    "case_defendants": [
+      {
+        "defendant_level": null,
+        "institution": "",
+        "institution_alt_state": "- United States (national) -",
+        "institution_city": "",
+        "institution_county": null,
+        "name": "U.S. Department of the Interior",
+        "defendant_level_other": "",
+        "is_active": true
+      },
+      {
+        "defendant_level": null,
+        "institution": "",
+        "institution_alt_state": "- United States (national) -",
+        "institution_city": "",
+        "institution_county": null,
+        "name": "U.S. Bureau of Land Management",
+        "defendant_level_other": "",
+        "is_active": true
+      }
+    ],
+    "case_ongoing": "Yes",
+    "case_status": "Approved",
+    "case_types": [
+      "Environmental Justice"
+    ],
+    "cause_other": "",
+    "causes": [
+      "Administrative Procedure Act, 5 U.S.C. §§ 551 et seq.",
+      "National Environmental Protection Act,  42 U.S.C. §§ 4321–4370f"
+    ],
+    "class_action_granted": "Not sought",
+    "class_action_sought": "No",
+    "closing_year": null,
+    "constitutional_clause": [],
+    "content_of_injunction": [],
+    "court": "District of Utah",
+    "custom_issues": [],
+    "defendant_payment": "",
+    "defendant_type": [],
+    "docket_status": "Complete as of retrieval date",
+    "facility_type": [],
+    "filing_date": "2025-08-07",
+    "filing_year": 2025,
+    "id": 46847,
+    "injunction_duration": "",
+    "issues": [
+      "Environmental Justice and Resources: Groundwater",
+      "Environmental Justice and Resources: Threatened/endangered flora",
+      "Environmental Justice and Resources: Environmental Impact Statements"
+    ],
+    "last_checked_date": "2025-10-07T00:00:00-04:00",
+    "main_docket": {
+      "id": 62091,
+      "docket_entries": [
+        {
+          "row_number": 5,
+          "id": 10175980,
+          "entry_number": "2",
+          "date_filed": "2025-08-07T00:00:00-04:00",
+          "attachments": [],
+          "url": "https://www.courtlistener.com/docket/71051491/2/southern-utah-wilderness-alliance-v-united-states-department-of-the/",
+          "recap_pdf_url": "https://www.courtlistener.com/recap/gov.uscourts.utd.158317/gov.uscourts.utd.158317.2.0.pdf",
+          "pacer_doc_id": "18306980121",
+          "description": "CORPORATE DISCLOSURE STATEMENT under FRCP 7.1 filed by Plaintiff Southern Utah Wilderness Alliance. (Larsen, Hanna) (Entered: 08/07/2025)"
+        },
+        {
+          "row_number": 9,
+          "id": 10175984,
+          "entry_number": "6",
+          "date_filed": "2025-08-07T00:00:00-04:00",
+          "attachments": [],
+          "url": "https://www.courtlistener.com/docket/71051491/6/southern-utah-wilderness-alliance-v-united-states-department-of-the/",
+          "recap_pdf_url": "https://www.courtlistener.com/recap/gov.uscourts.utd.158317/gov.uscourts.utd.158317.6.0.pdf",
+          "pacer_doc_id": "18306980541",
+          "description": "Summons Issued Electronically as to Adam G Suess. Instructions to Counsel:1. Click on the document number.2. If you are prompted for an ECF login, enter your 'Attorney' login to CM/ECF.3. Print the issued summons for service. (kop) (Entered: 08/07/2025)"
+        },
+        {
+          "row_number": 2,
+          "id": 10363157,
+          "entry_number": "11",
+          "date_filed": "2025-09-30T00:00:00-04:00",
+          "attachments": null,
+          "url": "https://www.courtlistener.com/docket/71051491/11/southern-utah-wilderness-alliance-v-united-states-department-of-the/",
+          "recap_pdf_url": "https://www.courtlistener.com/recap/gov.uscourts.utd.158317/gov.uscourts.utd.158317.11.0.pdf",
+          "pacer_doc_id": "18307040878",
+          "description": "NOTICE of Appearance by Shannon Boylan on behalf of Michael D Gates, Adam G Suess, United States Bureau of Land Management, United States Department of the Interior (Boylan, Shannon)"
+        },
+        {
+          "row_number": 7,
+          "id": 10175982,
+          "entry_number": "4",
+          "date_filed": "2025-08-07T00:00:00-04:00",
+          "attachments": [],
+          "url": "https://www.courtlistener.com/docket/71051491/4/southern-utah-wilderness-alliance-v-united-states-department-of-the/",
+          "recap_pdf_url": "https://www.courtlistener.com/recap/gov.uscourts.utd.158317/gov.uscourts.utd.158317.4.0.pdf",
+          "pacer_doc_id": "18306980523",
+          "description": "Summons Issued Electronically as to United States Bureau of Land Management. Instructions to Counsel:1. Click on the document number.2. If you are prompted for an ECF login, enter your 'Attorney' login to CM/ECF.3. Print the issued summons for service. (kop) (Entered: 08/07/2025)"
+        },
+        {
+          "row_number": 8,
+          "id": 10175983,
+          "entry_number": "5",
+          "date_filed": "2025-08-07T00:00:00-04:00",
+          "attachments": [],
+          "url": "https://www.courtlistener.com/docket/71051491/5/southern-utah-wilderness-alliance-v-united-states-department-of-the/",
+          "recap_pdf_url": "https://www.courtlistener.com/recap/gov.uscourts.utd.158317/gov.uscourts.utd.158317.5.0.pdf",
+          "pacer_doc_id": "18306980529",
+          "description": "Summons Issued Electronically as to Michael D Gates. Instructions to Counsel:1. Click on the document number.2. If you are prompted for an ECF login, enter your 'Attorney' login to CM/ECF.3. Print the issued summons for service. (kop) (Entered: 08/07/2025)"
+        },
+        {
+          "row_number": 6,
+          "id": 10175981,
+          "entry_number": "3",
+          "date_filed": "2025-08-07T00:00:00-04:00",
+          "attachments": [
+            {
+              "pdf_url": "https://www.courtlistener.com/recap/gov.uscourts.utd.158317/gov.uscourts.utd.158317.3.1.pdf",
+              "recap_id": 448396781,
+              "pacer_url": "https://ecf.utd.uscourts.gov/doc1/18306980186?caseid=158317",
+              "description": "BLM Summons",
+              "attachment_number": 1
+            },
+            {
+              "pdf_url": "https://www.courtlistener.com/recap/gov.uscourts.utd.158317/gov.uscourts.utd.158317.3.2.pdf",
+              "recap_id": 448396782,
+              "pacer_url": "https://ecf.utd.uscourts.gov/doc1/18306980187?caseid=158317",
+              "description": "Suess Summons",
+              "attachment_number": 2
+            },
+            {
+              "pdf_url": "https://www.courtlistener.com/recap/gov.uscourts.utd.158317/gov.uscourts.utd.158317.3.3.pdf",
+              "recap_id": 448396783,
+              "pacer_url": "https://ecf.utd.uscourts.gov/doc1/18306980188?caseid=158317",
+              "description": "Gates Summons",
+              "attachment_number": 3
+            },
+            {
+              "pdf_url": "https://www.courtlistener.com/recap/gov.uscourts.utd.158317/gov.uscourts.utd.158317.3.4.pdf",
+              "recap_id": 448396784,
+              "pacer_url": "https://ecf.utd.uscourts.gov/doc1/18306980189?caseid=158317",
+              "description": "AG Summons",
+              "attachment_number": 4
+            },
+            {
+              "pdf_url": "https://www.courtlistener.com/recap/gov.uscourts.utd.158317/gov.uscourts.utd.158317.3.5.pdf",
+              "recap_id": 448396785,
+              "pacer_url": "https://ecf.utd.uscourts.gov/doc1/18306980190?caseid=158317",
+              "description": "USAO Summons",
+              "attachment_number": 5
+            }
+          ],
+          "url": "https://www.courtlistener.com/docket/71051491/3/southern-utah-wilderness-alliance-v-united-states-department-of-the/",
+          "recap_pdf_url": "https://www.courtlistener.com/recap/gov.uscourts.utd.158317/gov.uscourts.utd.158317.3.0.pdf",
+          "pacer_doc_id": "18306980185",
+          "description": "Requested Summons as to All Defendants. (Attachments: # 1 BLM Summons, # 2 Suess Summons, # 3 Gates Summons, # 4 AG Summons, # 5 USAO Summons)(Larsen, Hanna) (Entered: 08/07/2025)"
+        },
+        {
+          "row_number": 13,
+          "id": 10175979,
+          "entry_number": null,
+          "date_filed": "2025-08-07T00:00:00-04:00",
+          "attachments": [],
+          "url": "https://www.courtlistener.com",
+          "recap_pdf_url": null,
+          "pacer_doc_id": null,
+          "description": "Judge David Barlow added. Case number will now read 2:25-cv-00657-DBB. Please make changes to document captions accordingly. (kop)"
+        },
+        {
+          "row_number": 10,
+          "id": 10175985,
+          "entry_number": "7",
+          "date_filed": "2025-08-07T00:00:00-04:00",
+          "attachments": [],
+          "url": "https://www.courtlistener.com/docket/71051491/7/southern-utah-wilderness-alliance-v-united-states-department-of-the/",
+          "recap_pdf_url": "https://www.courtlistener.com/recap/gov.uscourts.utd.158317/gov.uscourts.utd.158317.7.0.pdf",
+          "pacer_doc_id": "18306980587",
+          "description": "Summons Issued Electronically as to Pamela Bondi. Instructions to Counsel:1. Click on the document number.2. If you are prompted for an ECF login, enter your 'Attorney' login to CM/ECF.3. Print the issued summons for service. (kop) (Entered: 08/07/2025)"
+        },
+        {
+          "row_number": 11,
+          "id": 10175986,
+          "entry_number": "8",
+          "date_filed": "2025-08-07T00:00:00-04:00",
+          "attachments": [],
+          "url": "https://www.courtlistener.com/docket/71051491/8/southern-utah-wilderness-alliance-v-united-states-department-of-the/",
+          "recap_pdf_url": "https://www.courtlistener.com/recap/gov.uscourts.utd.158317/gov.uscourts.utd.158317.8.0.pdf",
+          "pacer_doc_id": "18306980593",
+          "description": "Summons Issued Electronically as to Felice John Viti, Acting U.S. Attorney for the District of Utahc/o Civil Process Clerk. Instructions to Counsel:1. Click on the document number.2. If you are prompted for an ECF login, enter your 'Attorney' login to CM/ECF.3. Print the issued summons for service. (kop) (Entered: 08/07/2025)"
+        },
+        {
+          "row_number": 14,
+          "id": 10368951,
+          "entry_number": null,
+          "date_filed": "2025-10-06T00:00:00-04:00",
+          "attachments": null,
+          "url": "https://www.courtlistener.com",
+          "recap_pdf_url": null,
+          "pacer_doc_id": null,
+          "description": "Case Stayed per General Order 25-005. (alf)"
+        },
+        {
+          "row_number": 15,
+          "id": 10370839,
+          "entry_number": null,
+          "date_filed": "2025-10-07T00:00:00-04:00",
+          "attachments": null,
+          "url": "https://www.courtlistener.com",
+          "recap_pdf_url": null,
+          "pacer_doc_id": null,
+          "description": "Order Referring Case to Magistrate Judge"
+        },
+        {
+          "row_number": 3,
+          "id": 10365809,
+          "entry_number": "12",
+          "date_filed": "2025-10-01T00:00:00-04:00",
+          "attachments": null,
+          "url": "https://www.courtlistener.com/docket/71051491/12/southern-utah-wilderness-alliance-v-united-states-department-of-the/",
+          "recap_pdf_url": null,
+          "pacer_doc_id": null,
+          "description": "NOTICE OF AVAILABILITY OF JUDICIAL SETTLEMENT CONFERENCE. For the benefit of the public and the bar, the District of Utah offers judicial settlement conference as an alternative for dispute resolution assistance in all civil cases and bankruptcy adversary proceedings. The court offers this alternative because, when compared with litigation, it can resolve a dispute faster, at less expense, and with solutions that are better able to meet the parties' needs and interests. Parties may file a stipulated motion for judicial settlement conference. A form motion is available on the court's website. Notice e-mailed or mailed to Defendants Michael D Gates, Adam G Suess, United States Bureau of Land Management, United States Department of the Interior, Plaintiff Southern Utah Wilderness Alliance. (alf)"
+        },
+        {
+          "row_number": 4,
+          "id": 10370838,
+          "entry_number": "13",
+          "date_filed": "2025-10-07T00:00:00-04:00",
+          "attachments": null,
+          "url": "https://www.courtlistener.com/docket/71051491/13/southern-utah-wilderness-alliance-v-united-states-department-of-the/",
+          "recap_pdf_url": null,
+          "pacer_doc_id": null,
+          "description": "ORDER REFERRING CASE to Magistrate Judge Jared C. Bennett under 28:636 (b)(1)(A), Magistrate Judge to hear and determine all nondispositive pretrial matters. No attached document. Signed by Judge David Barlow on 10/7/25. (he)"
+        },
+        {
+          "row_number": 12,
+          "id": 10199129,
+          "entry_number": "9",
+          "date_filed": "2025-08-11T00:00:00-04:00",
+          "attachments": [],
+          "url": "https://www.courtlistener.com/docket/71051491/9/southern-utah-wilderness-alliance-v-united-states-department-of-the/",
+          "recap_pdf_url": "https://www.courtlistener.com/recap/gov.uscourts.utd.158317/gov.uscourts.utd.158317.9.0.pdf",
+          "pacer_doc_id": "18306982716",
+          "description": "Summons Issued Electronically as to United States Department of the Interior. Instructions to Counsel: 1. Click on the document number. 2. If you are prompted for an ECF login, enter your 'Attorney' login to CM/ECF. 3. Print the issued summons for service. (kop)"
+        },
+        {
+          "row_number": 1,
+          "id": 10303700,
+          "entry_number": "10",
+          "date_filed": "2025-09-09T00:00:00-04:00",
+          "attachments": null,
+          "url": "https://www.courtlistener.com/docket/71051491/10/southern-utah-wilderness-alliance-v-united-states-department-of-the/",
+          "recap_pdf_url": "https://www.courtlistener.com/recap/gov.uscourts.utd.158317/gov.uscourts.utd.158317.10.0.pdf",
+          "pacer_doc_id": "18307016331",
+          "description": "SUMMONS Returned Executed. Filed by Southern Utah Wilderness Alliance. Summons as to All Defendants. (Attachments: (1) Exhibit Certified Mail Receipts)(Larsen, Hanna)"
+        },
+        {
+          "row_number": 0,
+          "id": 10175978,
+          "entry_number": "1",
+          "date_filed": "2025-08-07T00:00:00-04:00",
+          "attachments": [
+            {
+              "pdf_url": "https://www.courtlistener.com/recap/gov.uscourts.utd.158317/gov.uscourts.utd.158317.1.1.pdf",
+              "recap_id": 448376868,
+              "pacer_url": "https://ecf.utd.uscourts.gov/doc1/18306979808?caseid=158317",
+              "description": "Exhibit 1 - 2019 ROD",
+              "attachment_number": 1
+            },
+            {
+              "pdf_url": "https://www.courtlistener.com/recap/gov.uscourts.utd.158317/gov.uscourts.utd.158317.1.2.pdf",
+              "recap_id": 448376869,
+              "pacer_url": "https://ecf.utd.uscourts.gov/doc1/18306979809?caseid=158317",
+              "description": "Exhibit 2 - 2019 EIS",
+              "attachment_number": 2
+            },
+            {
+              "pdf_url": "https://www.courtlistener.com/recap/gov.uscourts.utd.158317/gov.uscourts.utd.158317.1.3.pdf",
+              "recap_id": 448376870,
+              "pacer_url": "https://ecf.utd.uscourts.gov/doc1/18306979810?caseid=158317",
+              "description": "Exhibit 3 - 2025 Mining Plan",
+              "attachment_number": 3
+            },
+            {
+              "pdf_url": "https://www.courtlistener.com/recap/gov.uscourts.utd.158317/gov.uscourts.utd.158317.1.4.pdf",
+              "recap_id": 448376871,
+              "pacer_url": "https://ecf.utd.uscourts.gov/doc1/18306979811?caseid=158317",
+              "description": "Exhibit 4 - Peak Minerals Presentation",
+              "attachment_number": 4
+            },
+            {
+              "pdf_url": "https://www.courtlistener.com/recap/gov.uscourts.utd.158317/gov.uscourts.utd.158317.1.5.pdf",
+              "recap_id": 448376872,
+              "pacer_url": "https://ecf.utd.uscourts.gov/doc1/18306979812?caseid=158317",
+              "description": "Exhibit 5 - 2025 Scoping Comments",
+              "attachment_number": 5
+            },
+            {
+              "pdf_url": "https://www.courtlistener.com/recap/gov.uscourts.utd.158317/gov.uscourts.utd.158317.1.6.pdf",
+              "recap_id": 448376873,
+              "pacer_url": "https://ecf.utd.uscourts.gov/doc1/18306979813?caseid=158317",
+              "description": "Exhibit 6 - 2025 DNA",
+              "attachment_number": 6
+            },
+            {
+              "pdf_url": "https://www.courtlistener.com/recap/gov.uscourts.utd.158317/gov.uscourts.utd.158317.1.7.pdf",
+              "recap_id": 448376874,
+              "pacer_url": "https://ecf.utd.uscourts.gov/doc1/18306979814?caseid=158317",
+              "description": "Exhibit 7 - 2025 DNA Letter",
+              "attachment_number": 7
+            },
+            {
+              "pdf_url": "https://www.courtlistener.com/recap/gov.uscourts.utd.158317/gov.uscourts.utd.158317.1.8.pdf",
+              "recap_id": 448376875,
+              "pacer_url": "https://ecf.utd.uscourts.gov/doc1/18306979815?caseid=158317",
+              "description": "Exhibit 8 - 2025 DNA DR",
+              "attachment_number": 8
+            },
+            {
+              "pdf_url": "https://www.courtlistener.com/recap/gov.uscourts.utd.158317/gov.uscourts.utd.158317.1.9.pdf",
+              "recap_id": 448376876,
+              "pacer_url": "https://ecf.utd.uscourts.gov/doc1/18306979816?caseid=158317",
+              "description": "Exhibit 9 - BLM NEPA Handbook",
+              "attachment_number": 9
+            },
+            {
+              "pdf_url": "https://www.courtlistener.com/recap/gov.uscourts.utd.158317/gov.uscourts.utd.158317.1.10.pdf",
+              "recap_id": 448376877,
+              "pacer_url": "https://ecf.utd.uscourts.gov/doc1/18306979817?caseid=158317",
+              "description": "Civil Cover Sheet",
+              "attachment_number": 10
+            }
+          ],
+          "url": "https://www.courtlistener.com/docket/71051491/1/southern-utah-wilderness-alliance-v-united-states-department-of-the/",
+          "recap_pdf_url": "https://www.courtlistener.com/recap/gov.uscourts.utd.158317/gov.uscourts.utd.158317.1.0.pdf",
+          "pacer_doc_id": "18306979807",
+          "description": "COMPLAINT for Declaratory and Injunctive Relief against All Defendants (Filing fee $ 405, receipt number AUTDC-5512320) filed by Southern Utah Wilderness Alliance. (Attachments: # 1 Exhibit 1 - 2019 ROD, # 2 Exhibit 2 - 2019 EIS, # 3 Exhibit 3 - 2025 Mining Plan, # 4 Exhibit 4 - Peak Minerals Presentation, # 5 Exhibit 5 - 2025 Scoping Comments, # 6 Exhibit 6 - 2025 DNA, # 7 Exhibit 7 - 2025 DNA Letter, # 8 Exhibit 8 - 2025 DNA DR, # 9 Exhibit 9 - BLM NEPA Handbook, # 10 Civil Cover Sheet) (Larsen, Hanna) (Entered: 08/07/2025)"
+        }
+      ],
+      "docket_case_type": "cv",
+      "docket_year": 2025,
+      "docket_filing_number": 657,
+      "is_main_docket": true,
+      "court": "District of Utah",
+      "state": "Utah",
+      "docket_office_number": "2",
+      "docket_number_manual": "2:25-cv-00657",
+      "scales_html": null,
+      "recap_link": "https://www.courtlistener.com/docket/71051491/southern-utah-wilderness-alliance-v-united-states-department-of-the/",
+      "is_active": true
+    },
+    "name": "Southern Utah Wilderness Alliance v. United States Department of the Interior",
+    "never_filed": false,
+    "non_docket_case_number": "",
+    "non_docket_case_number_type": null,
+    "non_docket_case_number_type_other": "",
+    "order_end_year": null,
+    "order_start_year": null,
+    "permanent_injunction": false,
+    "plaintiff_description": "A non-profit environmental membership organization dedicated to the preservation of wilderness and wild places in Utah",
+    "plaintiff_type": [
+      {
+        "value": "Non-profit NON-religious organization"
+      }
+    ],
+    "prevailing_party": "None Yet / None",
+    "pro_se_status": "No",
+    "public_interest_lawyer": "No",
+    "related_cases": [],
+    "relief_natures": [
+      "None yet"
+    ],
+    "relief_nature_other": "",
+    "relief_sources": [
+      "None yet"
+    ],
+    "settlement_agreement": [],
+    "settlement_judgment_date": null,
+    "settlement_judgment_year": null,
+    "special_collections": [
+      "Trump Administration 2.0: Challenges to the Government",
+      "Trump Administration 2.0: Challenges to the Government"
+    ],
+    "special_case_type": [],
+    "state": "Utah",
+    "summary": "<p>This case challenged the Bureau of Land Management&rsquo;s (BLM) 2019 approval of nearly 125,000 acres for potash mining in Utah&rsquo;s secluded West Desert, known as the Sevier Playa Potash (SPP) Project, along with the agency&rsquo;s subsequent 2025 approval of a modified version of the SPP Project. The Southern Utah Wilderness Alliance (SUWA), a non-profit environmental membership organization dedicated to preserving wilderness and wild places in Utah, first filed suit in 2023, challenging the 2019 approval of the SPP Project (S. Utah Wilderness All. v. U.S. Dep&rsquo;t of the Interior, Case No. 2:23-cv-00492). The court dismissed that case without prejudice in 2024 after Peak Minerals, the company behind the potash mining plan, submitted an amended proposal to the BLM. In 2025, BLM approved the revised project through a Determination of NEPA Adequacy (DNA), concluding that the 2019 environmental analysis was still sufficient.&nbsp;</p>\r\n<p>On August 7, 2025, SUWA filed this lawsuit in the U.S. District Court for the District of Utah against the U.S. Department of the Interior, the Acting Assistant Secretary for Land and Minerals Management, the BLM and its West Desert District Manager. The plaintiffs alleged violations of the National Environmental Policy Act (NEPA) and the Administrative Procedure Act. Represented by private counsel, SUWA sought declaratory and injunctive relief to set aside the approvals and halt the project. The case was assigned to Judge David Barlow.</p>\r\n<p>In their complaint, plaintiffs argued that BLM&rsquo;s 2019 Record of Decision (ROD) and Environmental Impact Statement (EIS) failed to take the required &ldquo;hard look&rdquo; at the SPP Project's impacts on groundwater, dark night skies, migratory birds, air quality, the area&rsquo;s &ldquo;wild and remote nature,&rdquo; and its &ldquo;scenic vistas, and had not assessed cumulative groundwater impacts from the related Pine Valley Project, which draws from the same aquifer. They also alleged that BLM failed to analyze effects on dark night skies in the Great Basin National Heritage Area and inadequately considered the project&rsquo;s cumulative impacts on regional air quality. The plaintiffs also contended that BLM improperly relied on a Determination of NEPA Adequacy to approve the modified 2025 mining plan &ndash; which extended the project&rsquo;s lifespan and increased its production capacity &ndash; without conducting a new environmental review, as allegedly required. Additionally, plaintiffs asserted that BLM ignored new scientific evidence submitted by SUWA, including a hydrogeologist&rsquo;s report that identified flaws in the 2019 EIS groundwater analysis. Plaintiffs further argued that BLM&rsquo;s reliance on the original, legally deficient EIS rendered the agency&rsquo;s decision-making process arbitrary and capricious, in violation of the Administrative Procedure Act.</p>\r\n<p>On October 6, 2025, the case was stayed pursuant to General Order 25-005.</p>\r\n<p>This case is ongoing.&nbsp;</p>",
+    "summary_published_date": "2025-10-20T15:23:27.943339-04:00",
+    "summary_short": "This case challenged the Bureau of Land Management’s (BLM) approval of nearly 125,000 acres for potash mining in Utah’s West Desert—the Sevier Playa Potash (SPP) Project—and BLM’s subsequent 2025 approval of a modified version of the project. The Southern Utah Wilderness Alliance (SUWA), an environmental group dedicated to preserving Utah wilderness, first sued in 2023 over the original project approval. That case was dismissed after Peak Minerals, the mining company, revised its proposal. In 2025, BLM approved the new plan using a Determination of NEPA Adequacy (DNA), relying on a 2019 environmental analysis.\r\n\r\nOn August 7, 2025, SUWA sued again in U.S. District Court for the District of Utah, alleging BLM violated the National Environmental Policy Act (NEPA) and Administrative Procedure Act. SUWA claimed BLM failed to sufficiently analyze impacts on groundwater, migratory birds, air quality, scenic vistas, and refused to consider new scientific evidence or the cumulative effects from a related project. Plaintiffs also argued that BLM unlawfully relied on the 2019 Environmental Impact Statement (EIS) and DNA for the expanded mining plan, calling the agency’s decision arbitrary and capricious. The case was assigned to Judge David Barlow.\r\n\r\nOn October 6, 2025, this case was stayed the case under General Order 25-005.\r\n\r\nThis case is ongoing.",
+    "summary_tiny": null,
+    "terminating_date": null,
+    "clearinghouse_link": "clearinghouse.net/case/46847",
+    "is_active": true,
+    "case_documents_url": "https://clearinghouse.net/api/v2/documents/?case=46847",
+    "case_dockets_url": "https://clearinghouse.net/api/v2/dockets/?case=46847",
+    "case_resources_url": "https://clearinghouse.net/api/v2/resources/?case=46847"
+  },
+  "documents": [
+    {
+      "date": null,
+      "date_is_estimate": false,
+      "date_not_available": false,
+      "description": null,
+      "document_source": null,
+      "document_status": null,
+      "document_type": null,
+      "order_type": null,
+      "citation_paren": null,
+      "cite_1_page": null,
+      "cite_1_reporter": null,
+      "cite_1_vol": null,
+      "cite_2_page": null,
+      "cite_2_reporter": null,
+      "cite_2_vol": null,
+      "cite_3_page": null,
+      "cite_3_reporter": null,
+      "cite_3_vol": null,
+      "citation_status": null,
+      "court": null,
+      "no_title": false,
+      "party_types": [],
+      "per_curium": false,
+      "is_core_document": true,
+      "id": 162495,
+      "file": null,
+      "title": null,
+      "text": null,
+      "document_type_other": null,
+      "external_url": null,
+      "ecf_number": null,
+      "clearinghouse_link": "clearinghouse.net/doc/162495"
+    },
+    {
+      "date": "2025-08-07",
+      "date_is_estimate": false,
+      "date_not_available": false,
+      "description": "",
+      "document_source": "RECAP",
+      "document_status": "Coding Complete",
+      "document_type": "Complaint",
+      "order_type": null,
+      "citation_paren": null,
+      "cite_1_page": null,
+      "cite_1_reporter": null,
+      "cite_1_vol": null,
+      "cite_2_page": null,
+      "cite_2_reporter": null,
+      "cite_2_vol": null,
+      "cite_3_page": null,
+      "cite_3_reporter": null,
+      "cite_3_vol": null,
+      "citation_status": "Not applicable",
+      "court": "District of Utah",
+      "no_title": false,
+      "party_types": [
+        "Plaintiff"
+      ],
+      "per_curium": false,
+      "is_core_document": true,
+      "id": 162496,
+      "file": "https://clearinghouse-umich-production.s3.amazonaws.com/media/doc/162496.pdf",
+      "title": "Complaint for Declaratory and Injunctive Relief",
+      "text": "Case 2:25-cv-00657     Document 1     Filed 08/07/25     PageID.1     Page 1 of 24\nStephen H.M. Bloch (UT #7813) \nHanna Larsen (UT #18458) \nSOUTHERN UTAH WILDERNESS ALLIANCE \n425 East 100 South \nSalt Lake City, UT 84111 \n(801) 486-3161 \nsteve@suwa.org \nhanna@suwa.org \n \nAttorneys for Plaintiff \nSouthern Utah Wilderness Alliance \n \n \nIN THE UNITED STATES DISTRICT COURT  \nFOR THE DISTRICT OF UTAH, CENTRAL DIVISION \n \n   \nSOUTHERN UTAH WILDERNESS   \nALLIANCE,   \n   \nPlaintiff,   \n   \nv.  COMPLAINT FOR DECLARATORY \n  AND INJUNCTIVE RELIEF \n \nUNITED STATES DEPARTMENT OF   \nTHE INTERIOR, UNITED STATES  Case No. 2:25-cv-00657 \nBUREAU OF LAND MANAGEMENT,   \nADAM G. SUESS, in his official capacity as  Judge \nActing Assistant Secretary for Land and \nMinerals Management, and MICHAEL D. \nGATES, in his official capacity as Bureau of \nLand Management West Desert District \nManager. \nDefendants. \n \n \nINTRODUCTION \n1.  Pursuant to District of Utah Local Civil Rule 7.4, Plaintiff Southern Utah \nWilderness Alliance (“SUWA”) seeks judicial review of defendant Bureau of Land \n\nCase 2:25-cv-00657     Document 1     Filed 08/07/25     PageID.2     Page 2 of 24\nManagement’s (“BLM”) 2019 decision to approve nearly 125,000 acres of potash mining in \nUtah’s remote West Desert, known as the Sevier Playa Potash (“SPP”) Project, as well as the \nagency’s 2025 decision to approve a modification of the SPP Project. BLM approved the \nmodified SPP Project using an administrative procedure known as a Determination of NEPA \nAdequacy (“DNA”) that erroneously concluded BLM’s 2019 environmental analysis of the SPP \nProject sufficiently analyzed the modified project. \n2.  Sitting between the Cricket Mountains to the east and the House Range and Notch \nPeak Wilderness Study Area (“WSA”) to the west, the 125,000-acre Sevier Lake is located in a \nremote and largely undisturbed area of Utah’s West Desert; an area that is currently entirely \ndevoid of light or noise pollution. Like the Great Salt Lake, Sevier Lake is a highly saline \nterminal lake and a remnant of Lake Bonneville. Although it is fed by the Sevier River, upstream \nwater diversions cause Sevier Lake to be largely dry during certain times of the year. When \nSevier Lake contains surface waters, as it does during high precipitation years, it supports \nimportant stop-over habitat for the millions of migratory birds in the Pacific Flyway. \n2 \n \n\nCase 2:25-cv-00657     Document 1     Filed 08/07/25     PageID.3     Page 3 of 24\n \nLooking east toward the Cricket Mountains – surface water provides key stopover habitat for migratory birds \ntraveling the Pacific Flyway. © Ray Bloxham/SUWA \n \n \nTaken from the House Range – this setting gives visitors a feeling of solitude and remoteness unparalleled in most \nof the United States. © SUWA \n3 \n \n\nCase 2:25-cv-00657     Document 1     Filed 08/07/25     PageID.4     Page 4 of 24\n \n3.  Over the past several decades, light pollution throughout the United States has \nincreased due to urbanization and industrialization, making it more difficult to observe celestial \nobjects that are only visible when skies are dark. The SPP Project is located within the Great \nBasin National Heritage Area (“GBNHA”). The GBNHA is very remote from most light \npollution sources, making it the largest contiguous region of dark skies in the United States.1 \nIndeed, dark night skies are one of the GBNHA’s most significant natural resources that set the \nregion apart of other areas. \n4.  Sevier Lake, and the groundwater system that supports it, is part of the Great Salt \nLake Desert groundwater flow system. Within this system, groundwater generally flows south to \nnorth through a series of interconnected aquifers underneath the Pine and Wah Wah Valleys and \nthe Sevier Lake Playa before ultimately reaching the Fish Springs Valley and sustaining the \ngroundwater-dependent ecosystems in the Fish Springs National Wildlife Refuge. \n5.  On August 27, 2019, former Assistant Secretary for Lands and Minerals \nManagement Joseph R. Balash2 signed the Record of Decision (“ROD”) that originally approved \nthe SPP Project as described in Peak Minerals, Inc.’s (“Peak Minerals”) 3 2019 mining plan and  \nconsidered in an environmental impact statement (“EIS”) that analyzed the SPP Project’s \n \n1 Congress established the GBNHA in 2006. See Great Basin National Heritage Area, Nat’l Park \nServ. (last updated April 3, 2024), https://www.nps.gov/places/great-basin-national-heritage-\narea.htm; About the Great Basin National Heritage Area, Great Basin Heritage Area P’ship, \nhttps://greatbasinheritage.org/about/ (last visited Aug. 6, 2025).   \n2 As of the date of filing this complaint, the position for Assistant Secretary for Land and \nMinerals Management is vacant. Acting Assistant Secretary for Land and Minerals Management \nAdam G. Suess is named in lieu of former Assistant Secretary Balash.  \n3 At the time the ROD was issued, Peak Minerals, Inc. was doing business as Crystal Peak \nMinerals (“CPM”) and is referred to as such throughout BLM documents.  \n4 \n \n\nCase 2:25-cv-00657     Document 1     Filed 08/07/25     PageID.5     Page 5 of 24\nimpacts on various natural resources.4 The 2019 ROD is final and subject to this Court’s review \npursuant to the Administrative Procedure Act (“APA”), 5 U.S.C. § 706. As explained below, \nBLM’s analysis was flawed and SUWA seeks the Court’s review under the APA for the \nagency’s violations of the National Environmental Policy Act (“NEPA”). \n6.  BLM’s 2019 ROD authorized Peak Minerals to conduct large-scale surface \nmining operations and develop rights-of-way (“ROWs”) across the entire Sevier Lake bed and \non nearby public lands (95 percent of the Peak Minerals’ leased lands are administered by BLM). \nAs contemplated by the 2019 mining plan and EIS, the Project was anticipated to last thirty-two \nyears and expected to produce approximately 372,000 tons per year of sulfate of potash (“SOP”). \nTo support such a large-scale operation, BLM’s decision authorized the construction of extensive \non- and off-lease facilities including evaporation ponds, dikes, roads, powerlines, a processing \nplant, and a rail loadout. \n7.  SUWA initially filed suit over the 2019 EIS and ROD in 2023.5 That suit was \ndismissed in 2024 without prejudice prior to resolution on the merits after Peak Minerals \nsubmitted a proposed amended mining plan to BLM that was intended to replace and supersede \nthe 2019 mining plan on which BLM based its 2019 ROD. The company’s proposed amended \nmining plan went through several iterations before being approved by BLM in 2025 (“2025 \nmining plan,” attached as Ex. 3). \n \n4 Bureau of Land Mgmt., Sevier Playa Potash Project Record of Decision, 3 (Aug. 2019) (“SPP \nProject ROD”) (attached as Ex. 1); see generally Bureau of Land Mgmt., Sevier Playa Potash \nProject Final Environmental Impact Statement (July 2019) (“2019 EIS”) (attached as Ex. 2). \n5 See generally S. Utah Wilderness All. v. U.S. Dep’t of the Interior, 2:23-cv-00492 (D. Utah).  \n5 \n \n\nCase 2:25-cv-00657     Document 1     Filed 08/07/25     PageID.6     Page 6 of 24\n8.  Peak Minerals’ proposed 2025 mining plan differed from the 2019 mining plan in \nseveral respects: \na.  Project Lifespan: The 2019 mining plan contemplated a 32-year lifespan for \nthe entire SPP Project. However, the 2025 mining plan divides the project into \nmultiple phases and predicts a 25-year initial phase. Although not expressly \nstated in the 2025 mining plan, Peak Minerals has publicly stated that it now \nexpects the SPP Project to last at least 50 years.6 Future phases are not \ndetailed in the 2025 mining plan and would require subsequent approval by \nBLM.  \nb.  Expected Product Output: The 2019 mining plan estimated that approximately \n372,000 short tons of SOP would be mined annually, totaling about 10.2 \nmillion short tons of SOP produced over the life of the mine. Phase 1 of the \n2025 mining plan estimates an average production of 215,000 short tons of \nSOP annually with a total output of 5.235 million short tons during Phase 1. \nPeak Minerals further predicts that, with the implementation of future phases, \nthe SPP Project could produce a total of 474,000 short tons/year.7 Thus, once \nthe SPP Project is at full-scale operating capacity, nearly 25% more SOP will \nbe mined per year than what was analyzed in the 2019 EIS.  \n \n6 See Peak Minerals, Inc., Sevier Playa Sulphate of Potash (SOP) Project Q2 2025, 5, 15 (June \n20, 2025) (attached as Ex. 4) (“Peak Minerals Presentation”). \n7 Peak Minerals Presentation at 9, 15 (stating that with a Phase 2 expansion, SOP would be \nproduced at a rate of 474 ktpa [kilo tons per annum], which is equivalent to 474,000 short tons \nper year). \n6 \n \n\nCase 2:25-cv-00657     Document 1     Filed 08/07/25     PageID.7     Page 7 of 24\nc.  Project Surface Disturbance: The 2019 mining plan would have resulted in \n114,073 acres of on-playa disturbance and 1,821 acres of off-playa \ndisturbance, while the 2025 mining plan (Phase 1) anticipates 46,472 acres of \non-playa disturbance and 1,490 acres of off-playa disturbance.8  \n9.  The industrial development described in the 2025 mining plan will eliminate the \nwild and remote nature of Sevier Lake and the surrounding lands, significantly impair important \nhabitat for migratory birds, and drastically affect important resource values including scarce \ngroundwater, dark night skies, and visual resources. \n10.  BLM originally announced its intention to analyze the proposed 2025 mining plan \nin a supplemental environmental assessment (“EA”) and held a public scoping period from \nFebruary 11, 2025 to March 27, 2025. SUWA submitted scoping comments (attached as Ex. 5) \nthat, among other things, urged BLM to consider: \n (1) analyzing the SPP Project, as modified by the 2025 mining plan, in a supplemental \nEIS;  \n(2) using its analysis to cure the legal deficiencies with the 2019 EIS and ROD as \noriginally alleged in SUWA’s 2023 lawsuit; and  \n(3) taking a hard look at impacts to resources such as climate, water, migratory birds, and \ndark night skies.   \n11.  However, on or around April 14, 2025, BLM stopped the EA process and instead \nproceeded to approve the 2025 mining plan through a DNA (attached as Ex. 6). By definition, a \n \n8 Subsequent phases are expected to utilize the full playa so overall surface disturbance for the \nlife of the SPP Project is likely to be similar to that expected in the 2019 mining plan. \n7 \n \n\nCase 2:25-cv-00657     Document 1     Filed 08/07/25     PageID.8     Page 8 of 24\nDNA is not a new NEPA analysis and thus BLM’s approval decision relied entirely on the \nenvironmental analysis conducted to support the SPP Project’s 2019 EIS. Although BLM did not \nsolicit public comments on the DNA, SUWA sent a letter to BLM on May 19, 2025 (attached as \nEx. 7) explaining why BLM’s use of the DNA in this instance was improper considering the \n2019 EIS’s legal flaws. Additionally, SUWA submitted a technical report from a certified \nhydrogeologist (included in Ex. 7) that explained why the groundwater analysis in the 2019 EIS \nwas inaccurate and could not be relied on to fully analyze the SPP Project’s groundwater \nimpacts.  \n12.  On June 10, 2025, Michael Gates, BLM West Desert District Manager, signed the \ndecision record (“2025 DNA DR,” attached as Ex. 8) that approved Peak Minerals’ 2025 mining \nplan according to the conclusions made in the DNA. The DNA did not cure the 2019 EIS’s \nNEPA violations that SUWA previously sued over and has since repeatedly pointed out in \ncomments submitted to BLM. Furthermore, BLM did not consider the new information \nsubmitted by SUWA in May 2025 which demonstrates that the 2019 EIS inadequately analyzed \nthe SPP Project’s groundwater impacts, including the cumulative effects from other foreseeable \nprojects like the Pine Water Supply Project (“Pine Valley Project” or PVP”).9  \n13.  In short, BLM used the DNA to circumvent the necessary supplemental \nenvironmental analysis and quickly approve a modified version of the Sevier Lake Project that, \nin doing so, violated NEPA and the APA.  \n \n \n9 The PVP has also been referred to as the “West Desert Water Supply and Conservation Project” \nand the “Pine Valley Groundwater Development Pipeline Project.”  \n8 \n \n\nCase 2:25-cv-00657     Document 1     Filed 08/07/25     PageID.9     Page 9 of 24\nJURISDICTION AND VENUE \n14.  This Court has jurisdiction over this action pursuant to 28 U.S.C. § 1331 (federal \nquestion); 28 U.S.C. §§ 2201-2202 (declaratory and injunctive relief); and the Administrative \nProcedure Act (“APA”) 5 U.S.C. §§ 701-706.  \n15.  Venue is proper in this Court under 28 U.S.C. § 1391(e) because it is where a \nsubstantial part of the events or omissions giving rise to the claims occurred and the federal \npublic lands at issue are situated in this district. \nPARTIES \n16.  Plaintiff SOUTHERN UTAH WILDERNESS ALLIANCE is a non-profit \nenvironmental membership organization. Founded in 1983, SUWA is dedicated to the \npreservation of the outstanding wilderness and wild places found throughout Utah and the \nmanagement of wilderness-quality lands in their natural state for the benefit of all Americans. \nSUWA is headquartered in Salt Lake City, Utah. SUWA members use and enjoy BLM-managed \nlands throughout Utah for a variety of purposes, including recreation, wildlife viewing, cultural \nappreciation, and aesthetic appreciation, including the public lands threatened by the SPP \nProject. SUWA members also have an interest in seeing BLM comply with the requirements of \nfederal environmental laws like NEPA which ensures that BLM will at least make fully informed \nif not environmentally sound decisions. \n17.  For years, SUWA and its members have worked to protect wilderness-quality and \nwild public lands in Utah because, inter alia, those areas support environmental values of \nsignificant importance including air quality, migratory birds and other wildlife, visual resources, \nand water resources. This includes places like the Notch Peak wilderness study area and Red \n9 \n \n\nCase 2:25-cv-00657     Document 1     Filed 08/07/25     PageID.10     Page 10 of 24\nCanyon and Black Hills proposed wilderness areas. Thus, SUWA and its staff and members have \ndirect interests in the SPP Project challenged in this action. \n18.  SUWA’s staff and members regularly use and enjoy the public lands that will be \nimpacted by the SPP Project for a variety of purposes, including hiking, recreation, photography, \nwildlife viewing, solitude, and aesthetic appreciation of the surrounding area’s natural and wild \nvalues; and intend to continue doing so.  \n19.  SUWA members Ray Bloxham, Jack Hanley, and Talitha McGuire have spent \nconsiderable time visiting and working to protect the lands including and surrounding the SPP \nProject, including the Notch Peak, King Top and Wah Wah Mountain WSAs.10 Mr. Bloxham has \nhiked in the Cricket Mountains, Red Canyon, Black Hills and the Notch Peak WSA, from which \nhe can see the Sevier Lake bed and the lands that will be directly disturbed and impacted by the \napproved SPP Project. When Mr. Bloxham visits these areas, he enjoys the vastness and \nemptiness of the Sevier Lake bed, especially when it has standing water that provides spectacular \nreflections of clouds and surrounding land features. Mr. Hanley ran SUWA’s volunteer \nstewardship projects in the Swasey Mountain, Notch Peak, Wah Wah Mountain, King Top \nWSAs from 2018 to 2023. Since 2023, Ms. McGuire has also run stewardship projects in the \nSwasey Mountain, Notch Peak, Howell Peak, and Wah Wah Mountain WSAs. The impacts of \nthe SPP Project will be felt on and adjacent to the lakebed itself, as well as in places like the \nNotch Peak, King Top and Howell Peak WSAs by increased light pollution, as well as dust and \nnoise, generated by project operations even when the lakebed is not directly in view.  \n \n10 The Notch Peak, King Top, Wah Wah Mountain WSAs are, among others, currently proposed \nfor wilderness designation in America’s Red Rock Wilderness Act, H.R. 2467, S. 1193 (119th \nCongress).  \n10 \n \n\nCase 2:25-cv-00657     Document 1     Filed 08/07/25     PageID.11     Page 11 of 24\n20.  Mr. Bloxham, Mr. Hanley, and Ms. McGuire intend to continue visiting the \nSevier Lake bed and surrounding BLM-managed lands. For example, Mr. Bloxham has plans to \nvisit the Sevier Lake area in the fall of 2025 when he intends to drive along the western reaches \nof the lakebed to travel between the House Range and the Wah Wah Mountains, as well as \nrecreate and sightsee in the Cricket Mountains along the eastern side of Sevier Lake. Ms. \nMcGuire expects to conduct future stewardship projects on the wilderness-quality lands \nsurrounding Sevier Lake.  \n21.   SUWA participated extensively in BLM’s processes for approving the 2019 \nROD and the 2025 DNA DR and has exhausted all legally required administrative remedies \nbefore bringing this action. \n22.  BLM’s violations of NEPA and the APA in approving the SPP Project’s 2019 \nROD and 2025 DNA DR have already and will continue to injure the interests of SUWA and its \nstaff and members. The relief sought herein would redress these injuries. SUWA has no other \nadequate remedy at law.   \n23.  Defendant UNITED STATES DEPARTMENT OF THE INTERIOR is \nresponsible for overseeing the management of approximately five hundred million acres of \nfederal public land across the United States, including those managed by BLM in Utah, for a \nvariety of competing resources, including the protection of the natural and human environment.  \n24.  Defendant UNITED STATES BUREAU OF LAND MANAGEMENT is a \nfederal agency within the Department of the Interior and manages approximately twenty-three \nmillion acres in Utah. BLM manages the public lands in and around the SPP Project area in \naccordance with the Federal Land Policy and Management Act, NEPA, their implementing \n11 \n \n\nCase 2:25-cv-00657     Document 1     Filed 08/07/25     PageID.12     Page 12 of 24\nregulations and relevant policies, and other requirements of law. BLM is the agency responsible \nfor drafting and issuing the 2019 EIS, 2019 ROD, 2025 DNA, and 2025 DNA DR.  \n25.  Defendant ADAM G. SUESS is sued in his official capacity as Acting Assistant \nSecretary for Land and Minerals Management. Mr. Suess oversees programs within the \nDepartment of Interior associated with public land management and minerals leasing and \noperations on public lands, including such programs administered by BLM. The Assistant \nSecretary for Land and Minerals Management approved the 2019 EIS and ROD.  \n26.  Defendant MICHAEL D. GATES is sued in his official capacity as BLM’s West \nDesert District Manager. Mr. Gates oversees projects and programs that take place within BLM’s \nWest Desert District. The SPP Project is one such project. Mr. Gates approved the 2025 DNA \nand 2025 DNA DR. \nLEGAL FRAMEWORK \nI.  Administrative Procedure Act \n27.  Judicial review of agency actions under NEPA and its implementing regulations \nand policies is governed by the APA, which provides judicial review for “[a] person suffering \nlegal wrong because of agency action, or adversely affected or aggrieved by agency action \nwithin the meaning of a relevant statute.” 5 U.S.C. § 702. Review is limited to “final agency \naction for which there is no other adequate remedy in a court.” Id. § 704.  \n28.  Under the APA, a reviewing court “shall…hold unlawful and set aside agency \naction, findings, and conclusions found to be…arbitrary, capricious, an abuse of discretion, or \notherwise not in accordance with law.” 5 U.S.C. § 706(2)(A). Agency actions may also be set \naside where the action is “without observance of procedure required by law.” Id. § 706(2)(D).  \n12 \n \n\nCase 2:25-cv-00657     Document 1     Filed 08/07/25     PageID.13     Page 13 of 24\nII.  National Environmental Policy Act \n29.  Congress enacted NEPA “to promote efforts which will prevent or eliminate \ndamage to the environment.” 42 U.S.C. § 4321 (2019).11 NEPA is our nation’s “basic charter for \nprotection of the environment.” 40 C.F.R. § 1500.1(a) (2019). It has two primary objectives: (1) \nto foster informed decision-making by requiring agencies to consider the environmental impacts \nof their proposed actions, and (2) to ensure that agencies inform the public that they have \nconsidered environmental consequences in their decision-making. Id. § 1500.1(c) (2019).  \n30.  NEPA “ensures that the agency, in reaching its decision, will have available, and \nwill carefully consider, detailed information concerning significant environmental effects.” \nRobertson v. Methow Valley Citizens Council, 490 U.S. 332, 349 (1989). Thus, NEPA requires \nthat federal agencies prepare an EIS for all “major federal actions significantly affecting the \nquality of the human environment,” 42 U.S.C. § 4332(2)(C) (2019), to ensure fully informed \ndecision-making and provide for public participation in environmental analysis and decision-\nmaking processes. 40 C.F.R. § 1500.1(b)-(c) (2019). NEPA and its implementing regulations \nrequire, among other things, that an EIS fully explore and consider all reasonable alternatives to \nthe proposed action, id. § 1502.14(a) (2019), and analyze the short- and long-term effects of each \nalternative. Id. §§ 1502.16 (2019), 1508.7 (2019), 1508.8 (2019), 1508.27(a) (2019). This \n \n11 Since the 2019 EIS and ROD were approved, Congress has amended NEPA several times. See, \ne.g., Pub L. No. 118-5 (June 3, 2023); Pub. L. No. 119-21 (July 4, 2025). On April 11, 2025, the \nCouncil on Environmental Quality (“CEQ”) revoked its NEPA regulations. See generally 90 \nFed. Reg. 10610 (Feb. 25, 2025). However, because the SPP Project’s EIS and ROD were issued \nin 2019, all citations to NEPA’s statutory and regulatory provisions with respect to the 2019 EIS \nand ROD are to the versions in effect in 2019 and identified accordingly. See Ctr. for Biological \nDiversity v. U.S. Dep’t of the Interior, 72 F.4th 1166, 1178 n.6 (10th Cir. 2023). Citations to \nNEPA’s statutory provisions in effect at the time of the 2025 DR are likewise identified \naccordingly.  \n13 \n \n\nCase 2:25-cv-00657     Document 1     Filed 08/07/25     PageID.14     Page 14 of 24\ninformation must be made available to agency officials and the public “before decisions are \nmade and before actions are taken.” 40 C.F.R. § 1500.1(b) (2019).  \nIII.  Determinations of NEPA Adequacy \n31.  When assessing a proposed action, DOI’s regulations implementing NEPA allow \nBLM to rely entirely on an existing environmental analysis prepared pursuant to NEPA if, “with \nsupporting appropriate documentation,” BLM determines “that it adequately assesses the \nenvironmental effects of the proposed action and reasonable alternatives.” 43 C.F.R. § \n46.120(c).12  \n32.  In other words, BLM may use “non-NEPA procedures,” such as a DNA, “to \ndetermine whether new NEPA documentation is required.” Pennaco Energy Inc. v. U.S. Dep’t of \nthe Interior, 377 F.3d 1147, 1162 (10th Cir. 2004); see also Bureau of Land Mgmt. H-1790-1 \nNational Environmental Policy Act Handbook, 130 (2008) (“BLM NEPA Handbook”) (attached \nas Ex. 9) (explaining that a DNA is “an interim step in the BLM’s internal analysis process that \nconcludes that a proposed action is adequately analyzed in an existing document.”).  \n33.  When using a DNA, BLM “must include an evaluation of whether new \ncircumstances, new information or changes in the action or its impacts not previously analyzed \nmay result in significantly different environmental effects.” 43 C.F.R. § 46.120(c); see also BLM \nNEPA Handbook at 22 (explaining that a DNA is used to “evaluate new circumstances or \n \n12 DOI’s implementing NEPA regulations were revoked on July 3, 2025. See generally 90 Fed. \nReg. 29498 (July 3, 2025). However, they were in effect when BLM issued the 2025 DNA DR \non June 10, 2025. As such, they may be cited and relied upon. See Ctr. for Biological Diversity, \n72 F.4th at 1178 n.6. \n14 \n \n\nCase 2:25-cv-00657     Document 1     Filed 08/07/25     PageID.15     Page 15 of 24\ninformation prior to the issuance of a decision to determine whether [BLM] need[s] to prepare a \nnew or supplemental analysis.”).  \n34.  If BLM concludes that it may rely on a prior NEPA document to authorize a \nproposed action, the responsible official documents that conclusion in a DNA DR.  \n35.  In 2023, Congress amended NEPA to expressly identify when an agency must \nprepare an environmental document for a proposed action as well as the four exceptions to \npreparing such an environmental document. Notably, relying on an existing environmental \nanalysis that purports to adequately assess the proposed action’s environmental effects and \nreasonable alternatives is not one of the exceptions. See 42 U.S.C. § 4336(a). This amendment \nwas finalized before BLM prepared the 2025 DNA and 2025 DNA DR. \nFIRST CAUSE OF ACTION \nViolation of NEPA and the APA: Failure to Take a Hard Look at Environmental Impacts in the \n2019 EIS \n36.  SUWA incorporates by reference all preceding paragraphs. \n37.  NEPA and its implementing regulations require BLM to take a “hard look” at the \nenvironmental impacts of proposed actions. 42 U.S.C. § 4332(2)(C)(i) (2019). \n38.  Direct impacts are those impacts “caused by the action and [that] occur at the \nsame time and place.” 40 C.F.R. § 1508.5(a) (2019). \n39.  Indirect impacts are “caused by the action and are later in time or farther removed \nin distance but are still reasonably foreseeable.” 40 C.F.R. § 1508.8(b) (2019). \n40.  Cumulative impacts are “the impact[s] on the environment which result[] from the \nincremental impact of the action when added to other past, present, and reasonably foreseeable \nfuture actions regardless of what agency (Federal or non-Federal) or person undertakes such \n15 \n \n\nCase 2:25-cv-00657     Document 1     Filed 08/07/25     PageID.16     Page 16 of 24\nother actions. Cumulative impacts can result from individually minor but collectively significant \nactions taking place over a period of time.” 40 C.F.R. § 1508.7 (2019). \n41.  Furthermore, NEPA requires BLM consider in its analysis “[b]oth short- and \nlong-term effects.” 40 C.F.R. § 1508.27(a) (2019). \n42.  Throughout the SPP Project’s NEPA process, SUWA submitted extensive \ncomments highlighting potential project impacts on a number of environmental resources \nincluding, but not limited to, water (ground water and water quality), climate, air quality, visual \nresources, dark night skies, and migratory birds.  \n43.  BLM failed to take a hard look at the direct, indirect, and cumulative impacts of \napproving the Proposed Action on the aforementioned resources.  \n44.  For example, BLM failed to analyze the impacts of a reasonably foreseeable \nfuture action—the Pine Valley Project— on groundwater resources even though it would pump \nwater from the same regional aquifer as the proposed freshwater supply for the SPP Project. \nInstead, BLM entirely deferred this analysis to a later date, in the Pine Valley Project EIS, also \nbeing prepared by the agency. BLM also failed to take a hard look at the SPP Project’s impacts \nto water quantity and quality where it discharges at Fish Springs National Wildlife Refuge, an \nacknowledged part of the regional aquifer system. \n45.  Additionally, the SPP Project is located within the GBNHA, which is known for \nand encompasses the largest contiguous region of dark skies in the United States. Yet BLM did \nnot include any analysis (let alone a hard look analysis) at the SPP Project’s impacts to dark \nnight skies, even though BLM had identified dark night skies as an issue to analyze in the 2019 \nEIS and SUWA raised dark night sky concerns in its comments on the 2019 EIS.  \n16 \n \n\nCase 2:25-cv-00657     Document 1     Filed 08/07/25     PageID.17     Page 17 of 24\n46.  BLM’s failure to analyze these impacts violates NEPA, its implementing \nregulations, and is arbitrary, capricious, or otherwise not in accordance with law in violation of \nthe APA. 5 U.S.C. § 706(2). \nSECOND CAUSE OF ACTION \nViolation of NEPA and the APA: Failure to Conduct an Environmental Analysis for the 2025 \nMining Plan \n47.  SUWA incorporates by reference all preceding paragraphs. \n48.  BLM erred and violated NEPA when it concluded that it could authorize the \namended mining project via a DNA.  \n49.  BLM is required to prepare an environmental document (either an EA or an \nEIS)13 with respect to a proposed action unless (1) “the proposed action is not a final agency \naction;” (2) the proposed action is categorically excluded pursuant to one of BLM/DOI’s \ncategorical exclusions; (3) the preparation of an environmental document would “clearly and \nfundamentally conflict” with another provision of law; or (4) the proposed action “is a \nnondiscretionary action with respect to which such agency does not have authority to take \nenvironmental factors into consideration in determining whether to take the proposed action.” 42 \nU.S.C. § 4336(a)(1)-(4) (2025).  \n50.  BLM must prepare an EA with respect to a proposed action “that does not have a \nreasonably foreseeable significant effect on the quality of the human environment, or if the \nsignificance of such effect is unknown.” 42 U.S.C. § 4336(b)(2) (2025). An EIS is required for \n \n13 “Environmental document” is defined as “an environmental impact statement, an \nenvironmental assessment, or a finding of no significant impact.” 42 U.S.C. § 4336e(5) (2025).  \n17 \n \n\nCase 2:25-cv-00657     Document 1     Filed 08/07/25     PageID.18     Page 18 of 24\nproposed actions “that [have] a reasonably foreseeable significant effect on the quality of the \nhuman environment.” Id. § 4336(b)(1) (2025).  \n51.  When there is an existing environmental analysis that is relevant to the proposed \naction, the new environmental document, as required by 42 U.S.C. § 4336(a) (2025), may serve \nas a supplement to the existing environmental analysis. See Marsh v. Or. Nat. Res. Council, 490 \nU.S. 360, 374 (1989) (“[i]f there remains major Federal action to occur, and if the new \ninformation is sufficient to show that the remaining action will affect the quality of the human \nenvironment in a significant manner or to a significant extent not already considered, a \nsupplemental [environmental analysis] must be prepared.”). This is particularly relevant when \nthe proposed action is an amendment or revision to a plan or permit. See Norton v. S. Utah \nWilderness All., 542 U.S. 55, 73 (2004); Greater Yellowstone Coal. v. Tidwell, 572 F.3d 1115, \n1123 (10th Cir. 2009) (analogizing approval of a Forest Service permit to approval of a land use \nplan, and observing that amending the permit could constitute a major federal action \nnecessitating further NEPA analysis). \n52.  When deciding whether to evaluate the new information in a supplemental \nenvironmental analysis, BLM must make a “reasoned decision based on its evaluation of the \nsignificance—or lack of significance—of the new information.” Marsh, 490 U.S. at 378. \n53.  In this instance, none of the environmental document exemptions apply to the \nSPP Project’s 2025 mining plan and a DNA does not meet the definition of an environmental \ndocument. Therefore, to comply with NEPA, BLM was required to prepare either an EA or an \nEIS analyzing the environmental effects of the proposed 2025 mining plan prior to approving the \n18 \n \n\nCase 2:25-cv-00657     Document 1     Filed 08/07/25     PageID.19     Page 19 of 24\nplan. That analysis should have included an evaluation of new information pertaining to \ngroundwater impacts. \n54.  BLM’s own actions confirmed that the agency recognized the need to analyze the \nproposed 2025 mining plan in a new environmental document because BLM first intended to \nanalyze the proposal in an EA and held a public scoping period to inform and support its \nanalysis. Yet BLM did not follow through with finalizing the EA. Furthermore, as alleged in the \nFourth Cause of Action, there is new information relevant to the SPP Project’s impacts on \ngroundwater and, by extension, the surrounding environment that demonstrate potentially \nsignificant effects not previously considered. When explaining why it believed the 2019 EIS \nwater analysis adequately covered the 2025 mining plan, BLM did not address these potential \nimpacts. Instead, it conclusively stated that “[d]isagreements between the modeling efforts exist, \nhowever the provided results of the regional model and the modeling used for the 2019 FEIS do \nnot warrant additional or new modeling efforts for the mine plan modification.” 2025 DNA at \n16. BLM did not provide any reasoning for this conclusion.  \n55.  BLM’s failure to analyze the proposed 2025 mining plan in an environmental \ndocument (EA or EIS) violates NEPA and arbitrary, capricious, or otherwise not in accordance \nwith law in violation of the APA. 5 U.S.C. § 706(2). \nTHIRD CAUSE OF ACTION \nViolation of 43 C.F.R. § 46.120 and the APA: Arbitrary Reliance on an Existing, Unlawful \nNEPA Document \n56.  SUWA incorporates by reference all preceding paragraphs.  \n57.  Assuming NEPA, as amended by 42 U.S.C. § 4336, does not preclude the use of a \nDNA, DOI’s implementing NEPA regulations encourage BLM to utilize existing NEPA analyses \n19 \n \n\nCase 2:25-cv-00657     Document 1     Filed 08/07/25     PageID.20     Page 20 of 24\n(or information contained therein) when assessing a proposed action and its alternatives. 43 \nC.F.R. § 46.120(a).14 However, BLM may only do so if “the existing NEPA analyses include \ndata and assumptions appropriate for the analysis at hand.” Id. § 46.120(b). Further, an existing \nNEPA analysis may be used “in its entirety” to approve a proposed action only if, with \n“appropriate supporting documentation,” BLM concludes that the existing analysis “adequately \nassesses the environmental effects of the proposed action and reasonable alternatives.” Id. § \n46.120(c).  \n58.  Here, BLM approved the 2025 mining plan (thereby modifying the SPP Project) \nafter determining that the environmental analysis contained in the 2019 EIS “fully cover[ed]” the \nenvironmental effects of the proposed 2025 mining plan such that the 2025 DNA “constitute[d] \nBLM’s compliance with the requirements of the NEPA.” 2025 DNA at 19.  \n59.  BLM made this determination despite being on notice that the 2019 EIS violates \nNEPA in several aspects, as first alleged in SUWA’s prior litigation over the 2019 EIS and ROD \n(and realleged in the First Cause of Action of this Complaint).  \n60.  By definition, the 2025 DNA could not cure these NEPA violations because the \ndocument does not contain new NEPA analysis and does not constitute a hard look at the SPP’s \nimpacts.  \n61.  Because the 2019 EIS failed to take a hard look at the impacts of the SPP Project, \nthe 2025 DNA and 2025 DNA DR violate 43 C.F.R. § 46.120. Consequently, BLM’s decision to \n \n14 43 C.F.R. § 46.120 was promulgated prior to the passage and enactment of 42 U.S.C. § 4336, \nwhich added the requirement that proposed actions be analyzed in an environmental document.. \n20 \n \n\nCase 2:25-cv-00657     Document 1     Filed 08/07/25     PageID.21     Page 21 of 24\nauthorize the 2025 mining plan is arbitrary, capricious, or otherwise not in accordance of law in \nviolation of the APA. 5 U.S.C. § 706(2).  \nFOURTH CAUSE OF ACTION \nViolation of NEPA and the APA: Failure to Consider New Scientific Information Before \nAuthorizing the 2025 Mining Plan \n62.  SUWA incorporates by reference all preceding paragraphs. \n63.  NEPA requires that BLM ensure the “scientific integrity” of an environmental \ndocument. 42 U.S.C. § 4332(2)(D) (2025). In doing so, the agency must “make use of reliable \ndata and resources.” Id. § 4332(2)(E) (2025).  \n64.  Assuming NEPA, as amended by 42 U.S.C. § 4336, does not preclude the use of a \nDNA, when determining whether an existing NEPA analysis adequately covers a proposed \naction, BLM must evaluate “whether new circumstances, new information or changes in the \naction or its impacts not previously analyzed may result in significantly different environmental \neffects.” 43 C.F.R. § 46.120(c) (emphases added).15  \n65.  The third NEPA Adequacy criterion assessed in the 2025 DNA asks “[i]s existing \nanalysis adequate in light of any new information or circumstances…?” 2025 DNA at 13. In \nresponse, BLM stated “[y]es, no new information or circumstances have arisen that would \nsubstantially change the analysis of the [2025 mining plan],” and goes on to explain why suitable \nhabitat for the monarch butterfly (an Endangered Species Act candidate species) and developing \na Native American Graves Protection and Repatriation Act Plan of Action would not \nsubstantially change BLM’s analysis of the 2025 mining plan. Id. BLM provides no further \ndiscussion of any other resource value. \n \n15 See supra footnote 14. \n21 \n \n\nCase 2:25-cv-00657     Document 1     Filed 08/07/25     PageID.22     Page 22 of 24\n66.  Prior to BLM’s release of the 2025 DNA DR, SUWA provided supplemental \ninformation to BLM regarding the SPP Project’s potential impacts on groundwater. Specifically, \nSUWA submitted a technical memorandum prepared by a Utah Professional Geologist with \nexpertise in hydrogeology of the Great Basin region, including the Sevier Desert (where the SPP \nProject is located). That memorandum reviewed existing literature, methodology and conclusions \nof BLM’s water resources analysis in the 2019 EIS, the proposed 2025 mining plan, and the \nindustry-standard Great Basin Carbonate and Alluvial Aquifer System (“GBCAAS”) model to \nrun a water simulation that mirrored the simulation BLM relied on to analyze groundwater \nimpacts in the 2019 EIS.  \n67.  The GBCAAS model was specifically developed by the United States Geological \nSurvey to model groundwater flow for the Great Salt Lake Desert Flow System, which includes \naquifers underlying the Sevier Desert. It is widely recognized as an important tool for analyzing \ngroundwater management scenarios in the region. Nonetheless, BLM did not use the GBCAAS \nmodel to evaluate the SPP Project’s groundwater impacts. Instead, BLM’s contractor created its \nown model that was based on unrealistic assumptions, resulting in an overly narrow project study \narea that underestimated resource impacts. For instance, and contrary to the GBCAAS modeling \nresults, BLM’s groundwater model did not identify important impacts such as changes to Fish \nSprings Valley, groundwater head losses (i.e., the loss of surface water at springs), and the 100+ \nyear post-project recovery of groundwater levels. Consequently, BLM’s water resources analysis \nin the 2019 EIS is inaccurate and underestimates the full range of effects from the SPP Project to \ngroundwater resources. \n22 \n \n\nCase 2:25-cv-00657     Document 1     Filed 08/07/25     PageID.23     Page 23 of 24\n68.  Although BLM was aware of the GBCAAS model at the time it conducted its \nanalysis, it did not explain why it declined to use the GBCAAS model and instead created its \nown model. \n69.  In its response to the third NEPA Adequacy criterion, BLM did not acknowledge \nthe new and additional information contained in the technical memorandum provided by SUWA, \nlet alone address how its findings demonstrated significantly different environmental effects \nfrom those analyzed in the 2019 EIS.  \n70.  Consequently, BLM has failed to “ensure the scientific integrity” of the 2019 EIS \nbefore relying on it to approve the 2025 mining plan, “make use of reliable data and resources,” \nand evaluate whether the new information provided in the technical memorandum and/or impacts \nnot previously analyzed “may result in significantly different environmental effects.” 42 U.S.C. \n§§ 4332(2)(D), (E) (2025); 43 C.F.R. § 46.120(c). \n71.  These failures violate NEPA, its implementing regulations, and are arbitrary, \ncapricious, or otherwise not in accordance with law in violation of the APA. 5 U.S.C. § 706(2). \nPRAYER FOR RELIEF \nWHEREFORE, SUWA respectfully requests that this Court enter judgment in its favor \nand against Defendants and provide the following relief: \n1.  Declare that Defendants have violated NEPA, its implementing regulations, and \nthe APA by approving the 2019 ROD and 2025 DNA DR; \n2.  Declare unlawful and set aside the 2019 EIS, 2019 ROD, 2025 DNA, and 2025 \nDNA DR; \n23 \n \n\nCase 2:25-cv-00657     Document 1     Filed 08/07/25     PageID.24     Page 24 of 24\n3.  Enjoin Defendants from taking any actions pursuant to the 2019 EIS, 2019 ROD, \n2025 DNA, or 2025 DNA DR until they have complied with NEPA, its implementing \nregulations, and the APA; \n4.  Retain continuing jurisdiction of this matter until Defendants fully remedy the \nviolations of law complained of herein; \n5.  Award Plaintiff the costs it has incurred in pursuing this action, including \nattorneys’ fees, as authorized by the Equal Access to Justice Act, 28 U.S.C. § 2412(d), and any \nother applicable provisions; and \n6.  Grant other such relief the Court deems just and proper.  \nRespectfully submitted this 7th day of August, 2025. \n \n/s/ Hanna Larsen     \nStephen H.M. Bloch  \nHanna Larsen  \n \nAttorneys for Plaintiff Southern Utah \nWilderness Alliance \n \n24 \n ",
+      "document_type_other": null,
+      "external_url": "https://www.courtlistener.com/docket/71051491/1/southern-utah-wilderness-alliance-v-united-states-department-of-the/",
+      "ecf_number": "1",
+      "clearinghouse_link": "clearinghouse.net/doc/162496"
+    }
+  ],
+  "document_count": 2
+}

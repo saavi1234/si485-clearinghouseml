@@ -1,0 +1,507 @@
+{
+  "case_id": 6420,
+  "fetched_at": "2025-10-22T00:08:20.861037",
+  "case_data": {
+    "attorney_orgs": [
+      "EEOC"
+    ],
+    "available_documents": [
+      "Trial Court Docket",
+      "Monetary Relief",
+      "Injunctive (or Injunctive-like) Relief"
+    ],
+    "case_defendants": [
+      {
+        "defendant_level": null,
+        "institution": null,
+        "institution_alt_state": null,
+        "institution_city": "",
+        "institution_county": null,
+        "name": "TruMack Assembly, LLC",
+        "defendant_level_other": null,
+        "is_active": true
+      }
+    ],
+    "case_ongoing": "No",
+    "case_status": "Coding Complete",
+    "case_types": [
+      "Equal Employment"
+    ],
+    "cause_other": "",
+    "causes": [
+      "Title VII (including PDA), 42 U.S.C.  § 2000e"
+    ],
+    "class_action_granted": "Not sought",
+    "class_action_sought": "No",
+    "closing_year": 2003,
+    "constitutional_clause": [],
+    "content_of_injunction": [
+      {
+        "value": "Discrimination Prohibition"
+      },
+      {
+        "value": "Retaliation Prohibition"
+      },
+      {
+        "value": "Post/Distribute Notice of Rights / EE Law"
+      },
+      {
+        "value": "Provide antidiscrimination training"
+      },
+      {
+        "value": "Reporting"
+      }
+    ],
+    "court": "Eastern District of Michigan",
+    "custom_issues": [],
+    "defendant_payment": "20000",
+    "defendant_type": [],
+    "docket_status": "Complete as of retrieval date",
+    "facility_type": [],
+    "filing_date": "2001-09-28",
+    "filing_year": 2001,
+    "id": 6420,
+    "injunction_duration": "18",
+    "issues": [
+      "Discrimination Basis: Sex discrimination",
+      "Affected Sex/Gender(s): Female",
+      "Discrimination Area: Disparate Treatment",
+      "Discrimination Area: Harassment / Hostile Work Environment",
+      "Discrimination Area: Discharge / Constructive Discharge / Layoff",
+      "EEOC-centric: Direct Suit on Merits"
+    ],
+    "last_checked_date": "2007-06-07T00:00:00-04:00",
+    "main_docket": {
+      "id": 36652,
+      "docket_entries": [
+        {
+          "row_number": 10,
+          "id": 1725137,
+          "entry_number": "10",
+          "date_filed": "2002-09-16T00:00:00-04:00",
+          "attachments": [],
+          "url": "nan",
+          "recap_pdf_url": null,
+          "pacer_doc_id": null,
+          "description": "ORDER by Judge Marianne O. Battani with stipulation, re-setting deadline for response to motion for summary judgment [8-1] for 9/20/02 [EOD Date: 9/17/02] (LD) (Entered: 09/17/2002)"
+        },
+        {
+          "row_number": 2,
+          "id": 1725129,
+          "entry_number": "2",
+          "date_filed": "2001-11-30T00:00:00-05:00",
+          "attachments": [],
+          "url": "nan",
+          "recap_pdf_url": null,
+          "pacer_doc_id": null,
+          "description": "AFFIRMATIVE defenses by defendant TruMack Assembly (wb) (Entered: 12/03/2001)"
+        },
+        {
+          "row_number": 7,
+          "id": 1725134,
+          "entry_number": "7",
+          "date_filed": "2002-04-30T00:00:00-04:00",
+          "attachments": [],
+          "url": "nan",
+          "recap_pdf_url": null,
+          "pacer_doc_id": null,
+          "description": "WITNESS list by plaintiff EEOC (LD) (Entered: 05/02/2002)"
+        },
+        {
+          "row_number": 5,
+          "id": 1725132,
+          "entry_number": "5",
+          "date_filed": "2002-02-15T00:00:00-05:00",
+          "attachments": [],
+          "url": "nan",
+          "recap_pdf_url": null,
+          "pacer_doc_id": null,
+          "description": "PRETRIAL scheduling order by Judge Marianne O. Battani - setting deadline for lay witness list for 4/30/02 , setting deadline for discovery for 6/30/02 , setting deadline for filing dispositive motions for 8/15/02; final pretrial conference month November 2002; trial term January/February 2003 (LD) (Entered: 02/20/2002)"
+        },
+        {
+          "row_number": 16,
+          "id": 1725144,
+          "entry_number": "16",
+          "date_filed": "2003-05-09T00:00:00-04:00",
+          "attachments": [],
+          "url": "nan",
+          "recap_pdf_url": null,
+          "pacer_doc_id": null,
+          "description": "ORDER by Judge Marianne O. Battani with stipulation that case is dismissed [EOD Date: 5/13/03] (LB) (Entered: 05/13/2003)"
+        },
+        {
+          "row_number": 14,
+          "id": 1725141,
+          "entry_number": "14",
+          "date_filed": "2002-12-18T00:00:00-05:00",
+          "attachments": [],
+          "url": "nan",
+          "recap_pdf_url": null,
+          "pacer_doc_id": null,
+          "description": "NOTICE of setting final pretrial conference for 1:00 on 1/13/03 and setting deadline for proposed joint final pretrial statement for 1/9/03 (LB) (Entered: 12/19/2002)"
+        },
+        {
+          "row_number": 0,
+          "id": 1725126,
+          "entry_number": "1",
+          "date_filed": "2001-09-28T00:00:00-04:00",
+          "attachments": [],
+          "url": "nan",
+          "recap_pdf_url": null,
+          "pacer_doc_id": null,
+          "description": "COMPLAINT; jury demand - Receipt # USA (LD) (Entered: 10/03/2001)"
+        },
+        {
+          "row_number": 13,
+          "id": 1725140,
+          "entry_number": "13",
+          "date_filed": "2002-10-03T00:00:00-04:00",
+          "attachments": [],
+          "url": "nan",
+          "recap_pdf_url": null,
+          "pacer_doc_id": null,
+          "description": "ORDER by Judge Marianne O. Battani denying motion for summary judgment [8-1] [EOD Date 10/3/02] (LD) (Entered: 10/03/2002)"
+        },
+        {
+          "row_number": 11,
+          "id": 1725138,
+          "entry_number": "12",
+          "date_filed": "2002-09-27T00:00:00-04:00",
+          "attachments": [],
+          "url": "nan",
+          "recap_pdf_url": null,
+          "pacer_doc_id": null,
+          "description": "REPLY by defendant TruMack Assembly to response to motion for summary judgment [8-1] with attachment and proof of service (LD) (Entered: 10/01/2002)"
+        },
+        {
+          "row_number": 12,
+          "id": 1725139,
+          "entry_number": null,
+          "date_filed": "2002-10-02T00:00:00-04:00",
+          "attachments": [],
+          "url": "nan",
+          "recap_pdf_url": null,
+          "pacer_doc_id": null,
+          "description": "MOTION hearing held on motion for summary judgment by TruMack Assembly [8-1] - disposition: denied - Judge Marianne O. Battani - Court Reporter: Allen Burnham (mp) (Entered: 10/02/2002)"
+        },
+        {
+          "row_number": 15,
+          "id": 1725143,
+          "entry_number": "15",
+          "date_filed": "2003-05-09T00:00:00-04:00",
+          "attachments": [],
+          "url": "nan",
+          "recap_pdf_url": null,
+          "pacer_doc_id": null,
+          "description": "CONSENT decree entered by Judge Marianne O. Battani with attachment [EOD Date: 5/13/03] (LB) (Entered: 05/13/2003)"
+        },
+        {
+          "row_number": 3,
+          "id": 1725130,
+          "entry_number": "3",
+          "date_filed": "2001-12-04T00:00:00-05:00",
+          "attachments": [],
+          "url": "nan",
+          "recap_pdf_url": null,
+          "pacer_doc_id": null,
+          "description": "NOTICE re Rule 26(f) Plan and setting scheduling conference for 2/11/02 (LD) (Entered: 12/05/2001)"
+        },
+        {
+          "row_number": 6,
+          "id": 1725133,
+          "entry_number": "6",
+          "date_filed": "2002-04-30T00:00:00-04:00",
+          "attachments": [],
+          "url": "nan",
+          "recap_pdf_url": null,
+          "pacer_doc_id": null,
+          "description": "WITNESS list by defendant TruMack Assembly - with proof of service (LD) (Entered: 05/02/2002)"
+        },
+        {
+          "row_number": 9,
+          "id": 1725136,
+          "entry_number": "9",
+          "date_filed": "2002-08-21T00:00:00-04:00",
+          "attachments": [],
+          "url": "nan",
+          "recap_pdf_url": null,
+          "pacer_doc_id": null,
+          "description": "NOTICE of setting hearing on motion for summary judgment [8-1] for 1:30 on 10/2/02 (LD) (Entered: 08/22/2002)"
+        },
+        {
+          "row_number": 4,
+          "id": 1725131,
+          "entry_number": "4",
+          "date_filed": "2002-01-09T00:00:00-05:00",
+          "attachments": [],
+          "url": "nan",
+          "recap_pdf_url": null,
+          "pacer_doc_id": null,
+          "description": "DISCOVERY plan jointly filed pursuant to Fed. R. Civ. P. 26(f) (LD) (Entered: 01/11/2002)"
+        },
+        {
+          "row_number": 8,
+          "id": 1725135,
+          "entry_number": "8",
+          "date_filed": "2002-08-15T00:00:00-04:00",
+          "attachments": [],
+          "url": "nan",
+          "recap_pdf_url": null,
+          "pacer_doc_id": null,
+          "description": "MOTION by defendant TruMack Assembly for summary judgment with brief, atatchment A-K and proof of service (LD) Modified on 08/20/2002 (Entered: 08/20/2002)"
+        },
+        {
+          "row_number": 1,
+          "id": 1725128,
+          "entry_number": "2",
+          "date_filed": "2001-11-30T00:00:00-05:00",
+          "attachments": [],
+          "url": "nan",
+          "recap_pdf_url": null,
+          "pacer_doc_id": null,
+          "description": "ANSWER by defendant TruMack Assembly to complaint [1-1] with proof of service; jury demand (wb) (Entered: 12/03/2001)"
+        }
+      ],
+      "docket_case_type": "cv",
+      "docket_year": 2001,
+      "docket_filing_number": 60201,
+      "is_main_docket": true,
+      "court": "Eastern District of Michigan",
+      "state": "Michigan",
+      "docket_office_number": "5",
+      "docket_number_manual": "01-60201",
+      "scales_html": "https://clearinghouse-umich-production.s3.amazonaws.com/media/docket-html/mied--5-01-cv-60201.html",
+      "recap_link": null,
+      "is_active": true
+    },
+    "name": "EEOC v. Trumack Assembly",
+    "never_filed": false,
+    "non_docket_case_number": "",
+    "non_docket_case_number_type": null,
+    "non_docket_case_number_type_other": "",
+    "order_end_year": 2004,
+    "order_start_year": 2003,
+    "permanent_injunction": false,
+    "plaintiff_description": "Equal Employment Opportunity Commission, on behalf of one or more workers.",
+    "plaintiff_type": [
+      {
+        "value": "EEOC Plaintiff"
+      }
+    ],
+    "prevailing_party": "Plaintiff",
+    "pro_se_status": "No",
+    "public_interest_lawyer": "Yes",
+    "related_cases": [],
+    "relief_natures": [
+      "Injunction / Injunctive-like Settlement",
+      "Damages"
+    ],
+    "relief_nature_other": "",
+    "relief_sources": [
+      "Settlement"
+    ],
+    "settlement_agreement": [
+      "Court Approved Settlement or Consent Decree"
+    ],
+    "settlement_judgment_date": "2003-05-09",
+    "settlement_judgment_year": null,
+    "special_collections": [
+      "EEOC Study — in sample"
+    ],
+    "special_case_type": [],
+    "state": "Michigan",
+    "summary": "<p>In September 2001, the EEOC district office in Detroit, Michigan brought this action against TruMack Assembly, LLC in the U.S. District Court for the Eastern District of Michigan.  The EEOC alleged that the defendant violated Title VII of the Civil Rights Act of 1964 when the charging party's supervisors created and maintained a sexually hostile work environment, resulting in her constructive discharge.  </p><p>After a failed defense motion for summary judgment, the parties settled and a consent decree was entered in May 2003. The defendant agreed to pay the aggrieved party $20,000, refrain from retaliating and discriminating on the basis of sex, post an EEO notice, post all applicable EEO laws, and provide EEO training to its staff.</p><p></p>",
+    "summary_published_date": "2007-07-25T00:00:00-04:00",
+    "summary_short": null,
+    "summary_tiny": null,
+    "terminating_date": "2003-05-09",
+    "clearinghouse_link": "clearinghouse.net/case/6420",
+    "is_active": true,
+    "case_documents_url": "https://clearinghouse.net/api/v2/documents/?case=6420",
+    "case_dockets_url": "https://clearinghouse.net/api/v2/dockets/?case=6420",
+    "case_resources_url": "https://clearinghouse.net/api/v2/resources/?case=6420"
+  },
+  "documents": [
+    {
+      "date": "2003-05-09",
+      "date_is_estimate": false,
+      "date_not_available": false,
+      "description": null,
+      "document_source": "PACER [Public Access to Court Electronic Records]",
+      "document_status": "Coding Complete",
+      "document_type": "Docket",
+      "order_type": null,
+      "citation_paren": null,
+      "cite_1_page": null,
+      "cite_1_reporter": null,
+      "cite_1_vol": null,
+      "cite_2_page": null,
+      "cite_2_reporter": null,
+      "cite_2_vol": null,
+      "cite_3_page": null,
+      "cite_3_reporter": null,
+      "cite_3_vol": null,
+      "citation_status": "Not applicable",
+      "court": "Eastern District of Michigan",
+      "no_title": false,
+      "party_types": [
+        "Court"
+      ],
+      "per_curium": false,
+      "is_core_document": true,
+      "id": 20433,
+      "file": "https://clearinghouse-umich-production.s3.amazonaws.com/media/doc/20433.pdf",
+      "title": "Docket (PACER)",
+      "text": "CM/ECF - U.S. District Court:mied - Docket Report https://ecf.mied.uscourts.gov/cgi-bin/DktRpt.pl?978339517844569-L_3...\nCLOSED, PJK\nU.S. District Court\nEastern District of Michigan (Ann Arbor)\nCIVIL DOCKET FOR CASE #: 5:01-cv-60201-MOB\nEEOC v. TruMack Assembly Date Filed: 09/28/2001\nAssigned to: Judge Marianne O Battani Date Terminated: 05/09/2003\nDemand: $0 Jury Demand: Both\nNature of Suit: 442 Civil Rights: Jobs\nJurisdiction: U.S. Government Plaintiff\nPlaintiff\nEqual Employment Opportunity  represented by Adele Rapport \nCommission Equal Employment Opportunity \nCommission \n477 Michigan Avenue \nRoom 865 \nDetroit, MI 48226 \n313-226-5670 \nEmail: Adele.Rapport@eeoc.gov \nLEAD ATTORNEY \nATTORNEY TO BE NOTICED\nRobert K. Dawkins \nEqual Employment Opportunities \nCommission \n477 Michigan Avenue \nSuite 865 \nDetroit, MI 48226 \n313-226-4600 \nFax: 313-226-2778 \nEmail: robert.dawkins@eeoc.gov \nLEAD ATTORNEY \nATTORNEY TO BE NOTICED\nTammy C. Klein \nEqual Employment Opportunity \nCommission \n477 Michigan Avenue \nSuite 865 \nDetroit, MI 48226 \n313-226-6701 \nFax: 313-226-5673 \nEmail: Tammy.Klein@eeoc.gov \nLEAD ATTORNEY \nATTORNEY TO BE NOTICED\n1 of 3 6/7/2007 11:34 AM\n\nCM/ECF - U.S. District Court:mied - Docket Report https://ecf.mied.uscourts.gov/cgi-bin/DktRpt.pl?978339517844569-L_3...\nV.\nDefendant\nTruMack Assembly, L. L. C. represented by Avery K. Williams \nWilliams Acosta \n535 Griswold \nSuite 1000 \nDetroit, MI 48226-3692 \n313-963-3873 \nEmail: Awilliams@williamsacosta.com \nLEAD ATTORNEY \nATTORNEY TO BE NOTICED\nDate Filed # Docket Text\n09/28/2001 1 COMPLAINT; jury demand - Receipt # USA (LD) (Entered: 10/03/2001)\n11/30/2001 2 ANSWER by defendant TruMack Assembly to complaint [1-1] with proof of \nservice; jury demand (wb) (Entered: 12/03/2001)\n11/30/2001 2 AFFIRMATIVE defenses by defendant TruMack Assembly (wb) (Entered: \n12/03/2001)\n12/04/2001 3 NOTICE re Rule 26(f) Plan and setting scheduling conference for 2/11/02 (LD) \n(Entered: 12/05/2001)\n01/09/2002 4 DISCOVERY plan jointly filed pursuant to Fed. R. Civ. P. 26(f) (LD) (Entered: \n01/11/2002)\n02/15/2002 5 PRETRIAL scheduling order by Judge Marianne O. Battani - setting deadline for \nlay witness list for 4/30/02 , setting deadline for discovery for 6/30/02 , setting \ndeadline for filing dispositive motions for 8/15/02; final pretrial conference \nmonth November 2002; trial term January/February 2003 (LD) (Entered: \n02/20/2002)\n04/30/2002 6 WITNESS list by defendant TruMack Assembly - with proof of service (LD) \n(Entered: 05/02/2002)\n04/30/2002 7 WITNESS list by plaintiff EEOC (LD) (Entered: 05/02/2002)\n08/15/2002 8 MOTION by defendant TruMack Assembly for summary judgment with brief, \natatchment A-K and proof of service (LD) Modified on 08/20/2002 (Entered: \n08/20/2002)\n08/21/2002 9 NOTICE of setting hearing on motion for summary judgment [8-1] for 1:30 on \n10/2/02 (LD) (Entered: 08/22/2002)\n09/16/2002 10 ORDER by Judge Marianne O. Battani with stipulation, re-setting deadline for \nresponse to motion for summary judgment [8-1] for 9/20/02 [EOD Date: 9/17/02] \n(LD) (Entered: 09/17/2002)\n2 of 3 6/7/2007 11:34 AM\n\nCM/ECF - U.S. District Court:mied - Docket Report https://ecf.mied.uscourts.gov/cgi-bin/DktRpt.pl?978339517844569-L_3...\n09/23/2002 11 RESPONSE by plaintiff EEOC to motion for summary judgment [8-1] with brief, \nexhibits and proof of service (LD) (Entered: 09/24/2002)\n09/27/2002 12 REPLY by defendant TruMack Assembly to response to motion for summary \njudgment [8-1] with attachment and proof of service (LD) (Entered: 10/01/2002)\n10/02/2002   MOTION hearing held on motion for summary judgment by TruMack Assembly \n[8-1] - disposition: denied - Judge Marianne O. Battani - Court Reporter: Allen \nBurnham (mp) (Entered: 10/02/2002)\n10/03/2002 13 ORDER by Judge Marianne O. Battani denying motion for summary judgment \n[8-1] [EOD Date 10/3/02] (LD) (Entered: 10/03/2002)\n12/18/2002 14 NOTICE of setting final pretrial conference for 1:00 on 1/13/03 and setting \ndeadline for proposed joint final pretrial statement for 1/9/03 (LB) (Entered: \n12/19/2002)\n05/09/2003 15 CONSENT decree entered by Judge Marianne O. Battani with attachment [EOD \nDate: 5/13/03] (LB) (Entered: 05/13/2003)\n05/09/2003 16 ORDER by Judge Marianne O. Battani with stipulation that case is dismissed \n[EOD Date: 5/13/03] (LB) (Entered: 05/13/2003)\nPACER Service Center\nTransaction Receipt\n06/07/2007 12:37:04\nPACER \nhs0328 Client Code:\nLogin:\nDocket  Search \nDescription: 5:01-cv-60201-MOB\nReport Criteria:\nBillable \n2 Cost: 0.16\nPages:\n3 of 3 6/7/2007 11:34 AM",
+      "document_type_other": null,
+      "external_url": null,
+      "ecf_number": null,
+      "clearinghouse_link": "clearinghouse.net/doc/20433"
+    },
+    {
+      "date": null,
+      "date_is_estimate": false,
+      "date_not_available": false,
+      "description": null,
+      "document_source": null,
+      "document_status": null,
+      "document_type": null,
+      "order_type": null,
+      "citation_paren": null,
+      "cite_1_page": null,
+      "cite_1_reporter": null,
+      "cite_1_vol": null,
+      "cite_2_page": null,
+      "cite_2_reporter": null,
+      "cite_2_vol": null,
+      "cite_3_page": null,
+      "cite_3_reporter": null,
+      "cite_3_vol": null,
+      "citation_status": null,
+      "court": null,
+      "no_title": false,
+      "party_types": [],
+      "per_curium": false,
+      "is_core_document": true,
+      "id": 124940,
+      "file": null,
+      "title": null,
+      "text": null,
+      "document_type_other": null,
+      "external_url": null,
+      "ecf_number": null,
+      "clearinghouse_link": "clearinghouse.net/doc/124940"
+    },
+    {
+      "date": "2003-05-09",
+      "date_is_estimate": false,
+      "date_not_available": false,
+      "description": null,
+      "document_source": null,
+      "document_status": "Coding Complete",
+      "document_type": "Order/Opinion",
+      "order_type": null,
+      "citation_paren": null,
+      "cite_1_page": null,
+      "cite_1_reporter": null,
+      "cite_1_vol": null,
+      "cite_2_page": null,
+      "cite_2_reporter": null,
+      "cite_2_vol": null,
+      "cite_3_page": null,
+      "cite_3_reporter": null,
+      "cite_3_vol": null,
+      "citation_status": "No citation available",
+      "court": "Eastern District of Michigan",
+      "no_title": false,
+      "party_types": [
+        "Court"
+      ],
+      "per_curium": false,
+      "is_core_document": true,
+      "id": 20457,
+      "file": "https://clearinghouse-umich-production.s3.amazonaws.com/media/doc/20457.pdf",
+      "title": "Stipulation and Order of Dismissal [in part]",
+      "text": "UNITED  STATES  DISTRICT COURT \nEASTERN  DISTRICT  OF  MICHIGAN \nSOUTHERN DIVISION \nEQUAL  EMPLOYMENT OPPORTUNITY \nCOMMISSION, \nCase No.  01-G0201AA \nPlaintiff, \nHon.  Marianne  O,  Battan \nUS.  District Court  Judge \nTRUMACK ASSEMBLY,  L.L.C., \nDefendant. \n  \nADELE  RAPPORT  (P44833)  AVERY K.  WILLIAMS  (P3473 \nROBERT K.  DAWKINS  (P38289)  Williams Acoustag?.C.  & \nTAMMY  C.  KLEIN  (P60256)  Attorneys  for Defettiant=s.  \nEqual  Employment  Opportunity Commission  660  Woodward  Axe,  Suitt2430 \nAttorneys  for Plaintiff  Detroit,  Michigarasa26  |, \nPatrick V.  McNamara Building  (313)  963-- 3873  PBaO,   < \n477  Michigan  Avenue,  Room  865  o \na  u \n \nDetroit,  Michigan  48226  s\no Ww \n(313)  226-5673  n\nu tT \n  \nSTIPULATION  AND  ORDER  OF DISMISSAL \nPURSUANT TO  TERMS  OF CONSENT  DECREE \nPlaintiff and  Defendant hereby stipulate  to  dismissal  of the above-referenced « \npursuant to  the  terms  of the  Consent Decree  which  has been  filed with this  Court. \nRespectfully submitted, \n   \nArsAo YnCm  \n         \nTAMMY.  KLEIN  (P60256)  AVERY K. WILLIAMS (23473 \n  Equal  Exaployment Opportunity Commission  Williams Acosta,  PLLC \n477  Michigan  Ave., Room  865  660  Woodward Ave.,  Suite  2430 \nDetroit,  Michigan  48226  Detroit,  Michigan 48226 \n(313)  226-5673  (313)  963-3873  | \nDated:  April  29,  2003 \n\\\n  \nORDER \nIt  is  hereby  ordered  that  EEOC  v,  TruMack  Assembly,  L.L.C.,  Civil  Action No.  01 \n60201 AA,  be  dismissed  pursuant  to  the terms  of the  Consent Deerce  filed  in this  matter. \nIT  IS  SO  ORDERED: \n|  0.  hes \nHONORABLE MARIANNE  0.  BATTANI \nUS.  District  Court  Judge \nDATE:  ¢9  MAY  2003\n",
+      "document_type_other": "",
+      "external_url": "",
+      "ecf_number": "16",
+      "clearinghouse_link": "clearinghouse.net/doc/20457"
+    },
+    {
+      "date": "2003-05-09",
+      "date_is_estimate": false,
+      "date_not_available": false,
+      "description": null,
+      "document_source": null,
+      "document_status": "Coding Complete",
+      "document_type": "Order/Opinion",
+      "order_type": "Consent Decree",
+      "citation_paren": null,
+      "cite_1_page": null,
+      "cite_1_reporter": null,
+      "cite_1_vol": null,
+      "cite_2_page": null,
+      "cite_2_reporter": null,
+      "cite_2_vol": null,
+      "cite_3_page": null,
+      "cite_3_reporter": null,
+      "cite_3_vol": null,
+      "citation_status": "Not applicable",
+      "court": "Eastern District of Michigan",
+      "no_title": false,
+      "party_types": [
+        "Court",
+        "Defendant",
+        "Plaintiff"
+      ],
+      "per_curium": false,
+      "is_core_document": true,
+      "id": 20454,
+      "file": "https://clearinghouse-umich-production.s3.amazonaws.com/media/doc/20454.pdf",
+      "title": "Consent Decree",
+      "text": "..  \n·  -\nORIGINAL \n..... -\n..  ...... \nUNITED STATES DISTRICT COURT \nEASTERN DISTRICT OF MICHIGAN \nSOUTHERN DIVISION \nEQUAL EMPLOYMENT OPPORTUNITY \nCOMMISSION, \n\\ \nCase No. 01-60201AA \nPlaintiff, \nv.  Hon. Marianne O. Battani \nU.S. District Court Judge \nTRUMACK ASSEMBLY, L.L.C., \n--n \nDefendant.  ::1:>z0  \n::z~  I \n--------------------------~/  rn \n:I>~ \n;:on \no \nADELE RAPPORT (P44833)  AVERY K. WILLIAMS5~34731D) \ng \nROBERT K. DAWKINS (P38289)  Williams Acosta, PLLCO  W \nTAMMY C. KLEIN (P60256)  Attorneys for Defendants ~  ~ \nEqual Employment Opportunity Commission  660 Woodward Ave., Suite 2430 \nAttorneys for Plaintiff  Detroit, Michigan 48226 \nPatrick V. McNamara Building  (313) 963-3873 \n477 Michigan Avenue, Room 865 \nDetroit, Michigan 48226 \n(313) 226-5673 \nCONSENT DECREE \nOn September 30, 2001, this matter was commenced by the United States Equal Employment \nOpportunity Commission (the \"Commission\") against TruMack Assembly, L.L.C.,  (\"Defendant\" or \n\"TruMack\") on behalf of the Charging Party, Tonya Edwards (\"Charging Party\" or \"Edwards\"). The \nCommission's Complaint alleged that Edwards was sexually harassed by her supervisor and SUbjected \nto a hostile work environment.  In addition, the Complaint alleged that Edwards had also been \ndischarged because of her sex and as a culmination of the harassment she had been subjected to by \n\nher supervisor.  TruMack rcsponded to the Complaint and denied all of the substantive allegations \nregarding alleged discriminatory conduct. \nFINAL DISPOSITION \n1.  Through  this  Consent  Decree,  (\"Decree\")  the  Commission,  on  behalf of Tonya \nEdwards and TruMack Assembly, L.L.C., desire to forever resolve all issues raised, presented or \njoined in Civil Action Number 01-60201AA, without the burden, expense and potential delay of \nfurthcr litigation of all issucs set forth in this lawsuit, and intend to be bound by the promises made \nherein. \nSTIPULATED FACTS \n2.  The Parties stipulate and agree that the EEOC is the agency of the United States \ngovernment authorized to investigate allegations of unlawful employment discrimination, to bring \ncivil actions to prohibit unlawful employment practices and to seck relief for individuals affected by \nthe practices complained of in this lawsuit. \n3.  TruMack Assembly is an employer engaged in an industry affecting commerce within \nthe meaning of Section 701 (g) and (h) of Title VII of the Civil Rights Act of 1964, as amended, 42 \nU.S.C.  2000e(g) and  (h).  TruMack had at least  fifteen  (15)  employees for  twenty (20)  or more \ncalendar weeks during the relevant time period. \n4.  Pursuant to Title VII, the Parties acknowledge the jurisdiction of the United States \nDistrict Court for the Eastern District of Michigan over the subject matter and Parties to this case for \nthe purpose of entcring this Decree, and, if necessary, enforcing the provisions ofthis Decree. \n5.  Venue is appropriate in the Eastern District of Michigan, Southern Division.  For \npurposes of this Decree and proceedings related to this Decree only, TruMack agrees that all statutory \nconditions precedent to the institution of this lawsuit have been fulfilled. \n2 \n\nMONETARY SETTLEMENT \n6.  TruMack  Assembly  agrces  to  pay  Tonya  Edwards  Twenty  Thousand  Dollars \n($20,000.00), within ten (! 0) days of the acceptance and signing of this Decree.  Payment of all \napplicable federal, state and local taxes including, but not limited to any FICA and/or Social Security \ntaxes on the monetary amount set forth above shall be the sole responsibility of Edwards.  TruMack \nwill issue a Form 1099 to her as required by the IRS.  The funds are to be paid directly to Tonya \nEdwards, via Ccrtificd Mail, at 5826 Charles, Detroit, Michigan 48212, with a copy of the chcck sent \nto Adele Rapport, Regional Attorney, United States Equal Employment Opportunity Commission, \n477 Michigan Avenue, Room 865, Detroit, Michigan 48226. \nNON-DiSCRIMINA nON \n7.  TruMack Assembly, its officers, agents, employees, successors, assigns and all persons \nin active concert of participation with it, shall comply with the provisions of Title VII of the Civil \nRights Act of 1964, as amended, and agree that it will not discriminate against any and all individuals \nwho work for TruMack Assembly. \nNON-RETAUATION \n8.  TruMack Assembly, tllrough its directors, officers, agents, successors, assigns and \nemployces, will not retaliate against any person known to it who participated or cooperated in the \ninvestigation and civil action by the EEOC of Charge of Discrimination No: 230A01495, filcd under \nTitle VII of the Civil Rights Act of 1964, as amended. \nDISPUTE RESOLUTION AND COMPLIANCE \n9.  The Parties agree that this Court shall retain jurisdiction and will have all available \nequitable powers, including injunctive relief, to enforce this Decree.  Upon motion of cither Party, the \nCourt may schcdulc a hearing for the purpose of reviewing compliance of this Decree.  The Parties \n3 \n\nshall engage in a good faith effort to resolve any dispute as to compliance prior to seeking review by \nthe Court, and shall be required to give notice to each other ten (10) days before moving for such \nreview.  If such review is  deemed necessary by either Party, discovery will be conducted in an \nexpedited fashion.  More specifically, documents and other discovery materials shall be exchanged \namongst the Parties within five (5) days of Notice. \nPOSTING OF NOTICE \n10.  TruMack Assembly shall post a mutually agreeable Notice, attached as Attachment A, \nin at least one (1) conspicuous location at its Detroit, Michigan facility for a period of eighteen (18) \nmonths.  In addition,  TruMack will continue to  post all  employment discrimination Notices as \nrequired by applicable law at all times in one (1) conspicuous place at its Detroit, Michigan location. \nNON-ADMISSION OF LIABILITY \n11.  TruMack Assembly has denied all allegations set forth in Civil Action Number 01-\n60201AA, along with any and all inferences of wrongdoing, and neither its consent to the entry of this \nDecree, nor any of the terms or conditions set forth herein, including, but not limited to paragraphs 7 \nand 8 above, shall constitute an adjudication or finding on the merits of the case or be construed as an \nadmission of liability, wrongdoing, guilt, and/or violation of federal law, which TruMack Assembly \nexpressly denies. \nAI.LOCATION OF COST \n12.  The Parties agree to pay their respective costs and attorneys fees associated with the \ndrafting and enforcement of this Decree. \nSEVERABILITY CI.AUSE \n4 \n\n13.  If any provision of this Decree is found  to  be unenforceable by a Court, only the \nspecific provision in question shall be affected and the other enforceable provisions shall remain in \nfull force. \nTRAINING \n14.  TruMaek Assembly agrees to continue to provide the training program described on \nExhibit B with the addition of a specific section on Trumack's procedure for reporting any alleged \nharassment or sex discrimination.  TruMack will certify that all of its then current management staff \nemployees, including officers, managers, supervisors, human resources personnel and labor personnel \nhave completed the training program within one (1) year of the signing and entry of this Decree. \nNotice shall be provided to Adele Rapport, Regional Attorney, United States Equal Employment \nOpportunity Commission, 477 Michigan Avenue, Room 865, Detroit, Michigan 48226, within thirty \n(30) days of the completion of such training. \nENTIRE AGREEMENT \n15.  This Decree constitutes the entire agreement and commitments of the Parties.  Any \nmodifications to this agreement must be mutually agreed upon in writing and signed by the Parties \nhereto. \nRespectfully submitted, \nh'P-\" \n~ \nADELE RAPPOR  44833)  AVRYldhLLIAMS (P34731) \nROBERT DAWKI  S (P38289)  Williams Acosta, PLLC \nTAMMY KLEIN (P60256)  660 Woodward Ave., Suite 2430 \nEqual Employment Opportunity Commission  Detroit, Michigan 48226 \n5 \n\n477 Michigan Ave., Room 865  (313) 963-3873 \nDetroit, Michigan 48226 \n(313) 226-5673 \nIT IS SO ORDERED: \nl09 MAY  2UD3 \nDATE \n6 \n\nATTACHMENT A \nNOTICE \nThis Notice is being posted to infolm you of your rights guaranteed by federal law under \nTitle VII of the Civil Rights Act of 1964, as amended, (\"Title VII\").  Title VII prohibits \ndiscrimination against any employee on the basis of sex, including sexual harassment, race, age, \nnational origin and religion with regard to any telm or condition of employment.  Title VII also \nprohibits retaliation against employees who engage in protected activity, which includcs filing \ncharges of discrimination with the United States Equal Employment Opportunity Commission \n(\"EEOC\") or state administrative agencies, participating in the Commission's investigation \nprocess, or otherwise opposing unlawful discrimination. \nThe United Statcs Equal Employment Opportunity Commission is the federal agency \nwhich investigates charges of unlawful employment discrimination and, if necessary, brings \nlawsuits in federal court to enforce the provisions of Title VII.  Any employee who believes that \nhe or she is the victim of discrimination or retaliation may file a charge of discrimination with \ntile U.S. Equal Employment Opportunity Commission. \nTRUMACK ASSEMBLY, L.L.C, supports and will comply with this federal law in all \nrespects and cannot take any action against any employee because ofthe exercise of rights under \nthese laws.  In addition, TRUMACK ASSEMBLY has an anti harassmcnt policy and any \nemployec who believes that he/she has been the victim ofharassmcnt is cncouraged to take the \nfirst step and discuss the mattcr with a member of the I-Iuman Resource Dcpartment. ",
+      "document_type_other": "",
+      "external_url": "",
+      "ecf_number": "15",
+      "clearinghouse_link": "clearinghouse.net/doc/20454"
+    },
+    {
+      "date": "2002-10-03",
+      "date_is_estimate": false,
+      "date_not_available": false,
+      "description": null,
+      "document_source": null,
+      "document_status": "Coding Complete",
+      "document_type": "Order/Opinion",
+      "order_type": null,
+      "citation_paren": null,
+      "cite_1_page": null,
+      "cite_1_reporter": null,
+      "cite_1_vol": null,
+      "cite_2_page": null,
+      "cite_2_reporter": null,
+      "cite_2_vol": null,
+      "cite_3_page": null,
+      "cite_3_reporter": null,
+      "cite_3_vol": null,
+      "citation_status": "No citation available",
+      "court": "Eastern District of Michigan",
+      "no_title": false,
+      "party_types": [
+        "Court"
+      ],
+      "per_curium": false,
+      "is_core_document": true,
+      "id": 20443,
+      "file": "https://clearinghouse-umich-production.s3.amazonaws.com/media/doc/20443.pdf",
+      "title": "Order Denying Motion for Summary Judgment",
+      "text": "UNITED STATES DISTRICT COURT \nEASTERN DISTRICT OF MICHIGAN \nSOUTHERN DIVISION \nu.s. \nEQUAL EMPLOYMENT OPPORTUNITY \nCOMMISSION,  ~  ~ \nCASE NO. 01-60201  ...., \n-......,  0  ., \nPlaintiff.  HON. MARIANNE O. BATfANI ~  -r \nv.  ;;:;-i  ,  rn \n;po:::: \nw \n::UO \n1>  0 \nTRUMACK ASSEMBLY, L.L.C,  C0 l0- i \n:00c :  :.:.:  \nDefendant.  ::<J  W \n--------------------------,  -I  ....I \nORDER DENYING MOTION FOR SUMMARY JUDGMENT \nPending before the Court is Defendant's Motion for Summary Judgment. (Doc. #8-\n1).  For reasons more fully stated on the record at a hearing held on October 2, 2002, that \nmotion is hereby DENIED. \no. \nMAINE  BATIANI \nUNITED STATES DISTRICT JUDGE \nCERTIFICATE OF SERVICE \nCopies of this Order were mailed to Tammy Klein and Avery K. Williams on this \ndate by ordinary mail. \n11JwL~ \nDeputy C  rk ",
+      "document_type_other": "",
+      "external_url": "",
+      "ecf_number": "13",
+      "clearinghouse_link": "clearinghouse.net/doc/20443"
+    }
+  ],
+  "document_count": 5
+}

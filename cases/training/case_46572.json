@@ -1,0 +1,1379 @@
+{
+  "case_id": 46572,
+  "fetched_at": "2025-10-22T00:46:26.312649",
+  "case_data": {
+    "attorney_orgs": [],
+    "available_documents": [
+      "Trial Court Docket",
+      "Complaint (any)"
+    ],
+    "case_defendants": [
+      {
+        "defendant_level": null,
+        "institution": "",
+        "institution_alt_state": "- United States (national) -",
+        "institution_city": "",
+        "institution_county": null,
+        "name": "United States",
+        "defendant_level_other": "",
+        "is_active": true
+      },
+      {
+        "defendant_level": null,
+        "institution": "",
+        "institution_alt_state": null,
+        "institution_city": "",
+        "institution_county": "District of Columbia",
+        "name": "Central Intelligence Agency",
+        "defendant_level_other": "",
+        "is_active": true
+      },
+      {
+        "defendant_level": null,
+        "institution": "",
+        "institution_alt_state": null,
+        "institution_city": "",
+        "institution_county": "District of Columbia",
+        "name": "Department of Defenese",
+        "defendant_level_other": "",
+        "is_active": true
+      },
+      {
+        "defendant_level": null,
+        "institution": "",
+        "institution_alt_state": null,
+        "institution_city": "",
+        "institution_county": "District of Columbia",
+        "name": "Office of the Director of National Intelligence",
+        "defendant_level_other": "",
+        "is_active": true
+      }
+    ],
+    "case_ongoing": "Yes",
+    "case_status": "Approved",
+    "case_types": [
+      "Presidential/Gubernatorial Authority"
+    ],
+    "cause_other": "",
+    "causes": [
+      "Administrative Procedure Act, 5 U.S.C. §§ 551 et seq."
+    ],
+    "class_action_granted": "Not sought",
+    "class_action_sought": "No",
+    "closing_year": null,
+    "constitutional_clause": [
+      {
+        "value": "Due Process"
+      },
+      {
+        "value": "Due Process: Procedural Due Process"
+      },
+      {
+        "value": "Freedom of speech/association"
+      }
+    ],
+    "content_of_injunction": [],
+    "court": "District of District of Columbia",
+    "custom_issues": [],
+    "defendant_payment": "",
+    "defendant_type": [
+      {
+        "value": "Jurisdiction-wide"
+      }
+    ],
+    "docket_status": "Complete as of retrieval date",
+    "facility_type": [],
+    "filing_date": "2025-05-05",
+    "filing_year": 2025,
+    "id": 46572,
+    "injunction_duration": "",
+    "issues": [
+      "General/Misc.: Access to lawyers or judicial system"
+    ],
+    "last_checked_date": "2025-06-30T00:00:00-04:00",
+    "main_docket": {
+      "id": 61624,
+      "docket_entries": [
+        {
+          "row_number": 6,
+          "id": 9800346,
+          "entry_number": "15",
+          "date_filed": "2025-05-28T00:00:00-04:00",
+          "attachments": [
+            {
+              "pdf_url": "https://www.courtlistener.com/recap/gov.uscourts.dcd.280276/gov.uscourts.dcd.280276.15.1.pdf",
+              "recap_id": 440970678,
+              "pacer_url": "https://ecf.dcd.uscourts.gov/doc1/045011414710?caseid=280276",
+              "description": "Exhibit Proposed Amicus Brief",
+              "attachment_number": 1
+            },
+            {
+              "recap_id": 440970679,
+              "pacer_url": "https://ecf.dcd.uscourts.gov/doc1/045011414711?caseid=280276",
+              "description": "Exhibit Text of Proposed Order",
+              "attachment_number": 2
+            }
+          ],
+          "url": "https://www.courtlistener.com/docket/70139392/15/zaid-v-executive-office-of-the-president/",
+          "recap_pdf_url": null,
+          "pacer_doc_id": "045011414709",
+          "description": "Unopposed MOTION for Leave to File Amicus Brief by First Amendment Scholars. (Attachments: # 1 Exhibit Proposed Amicus Brief, # 2 Exhibit Text of Proposed Order)(Schulz, David) (Entered: 05/28/2025)"
+        },
+        {
+          "row_number": 17,
+          "id": 9885392,
+          "entry_number": "25",
+          "date_filed": "2025-06-12T00:00:00-04:00",
+          "attachments": [
+            {
+              "pdf_url": "https://www.courtlistener.com/recap/gov.uscourts.dcd.280276/gov.uscourts.dcd.280276.25.1.pdf",
+              "recap_id": 442742297,
+              "pacer_url": "https://ecf.dcd.uscourts.gov/doc1/045011445037?caseid=280276",
+              "description": "",
+              "attachment_number": 1
+            }
+          ],
+          "url": "https://www.courtlistener.com/docket/70139392/25/zaid-v-executive-office-of-the-president/",
+          "recap_pdf_url": null,
+          "pacer_doc_id": "045011445036",
+          "description": "Unopposed MOTION for Leave to File Amicus Brief by WHISTLEBLOWER AID. (Attachments: # 1 Exhibit Amicus Brief, # 2 Text of Proposed Order)(Bakaj, Andrew) (Entered: 06/12/2025)"
+        },
+        {
+          "row_number": 12,
+          "id": 9841168,
+          "entry_number": "20",
+          "date_filed": "2025-05-29T00:00:00-04:00",
+          "attachments": [
+            {
+              "recap_id": 441770052,
+              "pacer_url": "https://ecf.dcd.uscourts.gov/doc1/045011417438?caseid=280276",
+              "description": "Exhibit Amicus Brief",
+              "attachment_number": 1
+            },
+            {
+              "pdf_url": "https://www.courtlistener.com/recap/gov.uscourts.dcd.280276/gov.uscourts.dcd.280276.20.2.pdf",
+              "recap_id": 441770053,
+              "pacer_url": "https://ecf.dcd.uscourts.gov/doc1/045011417439?caseid=280276",
+              "description": "Text of Proposed Order",
+              "attachment_number": 2
+            }
+          ],
+          "url": "https://www.courtlistener.com/docket/70139392/20/zaid-v-executive-office-of-the-president/",
+          "recap_pdf_url": null,
+          "pacer_doc_id": "045011417437",
+          "description": "Unopposed MOTION for Leave to File Amicus Brief by GOVERNMENT ACCOUNTABILITY PROJECT. (Attachments: # 1 Exhibit Amicus Brief, # 2 Text of Proposed Order)(Connell, Elisabeth) (Entered: 05/29/2025)"
+        },
+        {
+          "row_number": 3,
+          "id": 9800341,
+          "entry_number": "12",
+          "date_filed": "2025-05-22T00:00:00-04:00",
+          "attachments": [
+            {
+              "recap_id": 440457872,
+              "pacer_url": "https://ecf.dcd.uscourts.gov/doc1/045011404438?caseid=280276",
+              "description": "Text of Proposed Order",
+              "attachment_number": 1
+            }
+          ],
+          "url": "https://www.courtlistener.com/docket/70139392/12/zaid-v-executive-office-of-the-president/",
+          "recap_pdf_url": "https://www.courtlistener.com/recap/gov.uscourts.dcd.280276/gov.uscourts.dcd.280276.12.0.pdf",
+          "pacer_doc_id": "045011404437",
+          "description": "Joint STATUS REPORT by MARK S. ZAID. (Attachments: # 1 Text of Proposed Order)(Lowell, Abbe) (Entered: 05/22/2025)"
+        },
+        {
+          "row_number": 47,
+          "id": 9755535,
+          "entry_number": null,
+          "date_filed": "2025-05-06T00:00:00-04:00",
+          "attachments": [],
+          "url": "https://www.courtlistener.com",
+          "recap_pdf_url": null,
+          "pacer_doc_id": null,
+          "description": "Case Assigned to Judge Amir H. Ali. (zmtm)"
+        },
+        {
+          "row_number": 20,
+          "id": 9900905,
+          "entry_number": "28",
+          "date_filed": "2025-06-13T00:00:00-04:00",
+          "attachments": [],
+          "url": "https://www.courtlistener.com/docket/70139392/28/zaid-v-executive-office-of-the-president/",
+          "recap_pdf_url": "https://www.courtlistener.com/recap/gov.uscourts.dcd.280276/gov.uscourts.dcd.280276.28.0.pdf",
+          "pacer_doc_id": "045011447119",
+          "description": "NOTICE of Appearance by Eric R. Olson on behalf of LAW FIRM PARTNERS UNITED INC. (Olson, Eric) (Entered: 06/13/2025)"
+        },
+        {
+          "row_number": 60,
+          "id": 10388801,
+          "entry_number": null,
+          "date_filed": "2025-06-17T00:00:00-04:00",
+          "attachments": null,
+          "url": "https://www.courtlistener.com",
+          "recap_pdf_url": null,
+          "pacer_doc_id": null,
+          "description": ".Order AND ~Util - Set/Reset Hearings"
+        },
+        {
+          "row_number": 11,
+          "id": 9671267,
+          "entry_number": "2",
+          "date_filed": "2025-05-05T00:00:00-04:00",
+          "attachments": [],
+          "url": "https://www.courtlistener.com/docket/70139392/2/zaid-v-executive-office-of-the-president/",
+          "recap_pdf_url": null,
+          "pacer_doc_id": "045011366500",
+          "description": "NOTICE of Appearance by Margaret Donovan on behalf of MARK S. ZAID (Donovan, Margaret) (Entered: 05/05/2025)"
+        },
+        {
+          "row_number": 22,
+          "id": 9671268,
+          "entry_number": "3",
+          "date_filed": "2025-05-05T00:00:00-04:00",
+          "attachments": [],
+          "url": "https://www.courtlistener.com/docket/70139392/3/zaid-v-executive-office-of-the-president/",
+          "recap_pdf_url": null,
+          "pacer_doc_id": "045011366611",
+          "description": "SEALED DOCUMENT filed by MARK S. ZAID(This document is SEALED and only available to authorized persons.)(Lowell, Abbe) (Entered: 05/05/2025)"
+        },
+        {
+          "row_number": 48,
+          "id": 9755536,
+          "entry_number": null,
+          "date_filed": "2025-05-06T00:00:00-04:00",
+          "attachments": [],
+          "url": "https://www.courtlistener.com",
+          "recap_pdf_url": null,
+          "pacer_doc_id": null,
+          "description": "Case Assigned/Reassigned"
+        },
+        {
+          "row_number": 33,
+          "id": 9755537,
+          "entry_number": "4",
+          "date_filed": "2025-05-06T00:00:00-04:00",
+          "attachments": [
+            {
+              "recap_id": 439889738,
+              "pacer_url": "https://ecf.dcd.uscourts.gov/doc1/045011367744?caseid=280276",
+              "description": "Notice and Consent",
+              "attachment_number": 1
+            }
+          ],
+          "url": "https://www.courtlistener.com/docket/70139392/4/zaid-v-executive-office-of-the-president/",
+          "recap_pdf_url": null,
+          "pacer_doc_id": "045011367743",
+          "description": "SUMMONS (6) Issued Electronically as to All Defendants. (Attachments: # 1 Notice and Consent)(zmtm) (Entered: 05/06/2025)"
+        },
+        {
+          "row_number": 42,
+          "id": 9755540,
+          "entry_number": "5",
+          "date_filed": "2025-05-06T00:00:00-04:00",
+          "attachments": [],
+          "url": "https://www.courtlistener.com/docket/70139392/5/zaid-v-executive-office-of-the-president/",
+          "recap_pdf_url": null,
+          "pacer_doc_id": "045011368101",
+          "description": "REQUEST FOR SUMMONS TO ISSUE to the U.S. Attorney and U.S. Attorney General filed by MARK S. ZAID. (Attachments: # 1 Summons to U.S. Attorney)(Lowell, Abbe) (Entered: 05/06/2025)"
+        },
+        {
+          "row_number": 44,
+          "id": 9755542,
+          "entry_number": "7",
+          "date_filed": "2025-05-15T00:00:00-04:00",
+          "attachments": [],
+          "url": "https://www.courtlistener.com/docket/70139392/7/zaid-v-executive-office-of-the-president/",
+          "recap_pdf_url": null,
+          "pacer_doc_id": "045011389372",
+          "description": "STANDING ORDER. The parties are ordered to comply with the directives set forth in the attached standing order. Signed by Judge Amir H. Ali on 5/15/2025. (lcaha2) (Entered: 05/15/2025)"
+        },
+        {
+          "row_number": 45,
+          "id": 9755543,
+          "entry_number": "8",
+          "date_filed": "2025-05-15T00:00:00-04:00",
+          "attachments": [],
+          "url": "https://www.courtlistener.com/docket/70139392/8/zaid-v-executive-office-of-the-president/",
+          "recap_pdf_url": null,
+          "pacer_doc_id": "045011389789",
+          "description": "RETURN OF SERVICE/AFFIDAVIT of Summons and Complaint Executed as to the United States Attorney. Date of Service Upon United States Attorney on 5/6/2025. Answer due for ALL FEDERAL DEFENDANTS by 7/5/2025. (Attachments: # 1 Exhibit Proof of Service - USAO-DC)(Donovan, Margaret) (Entered: 05/15/2025)"
+        },
+        {
+          "row_number": 1,
+          "id": 9766688,
+          "entry_number": "10",
+          "date_filed": "2025-05-21T00:00:00-04:00",
+          "attachments": [],
+          "url": "https://www.courtlistener.com/docket/70139392/10/zaid-v-executive-office-of-the-president/",
+          "recap_pdf_url": null,
+          "pacer_doc_id": "045011401493",
+          "description": "NOTICE of Appearance by David A. Kolansky on behalf of MARK S. ZAID (Kolansky, David) (Entered: 05/21/2025)"
+        },
+        {
+          "row_number": 52,
+          "id": 9766690,
+          "entry_number": null,
+          "date_filed": "2025-05-21T00:00:00-04:00",
+          "attachments": [],
+          "url": "https://www.courtlistener.com",
+          "recap_pdf_url": null,
+          "pacer_doc_id": null,
+          "description": "MINUTE ORDER. The Court is in receipt of Plaintiff's 9 motion for preliminary injunction. The parties are directed to meet, confer, and file a joint status report proposing a briefing schedule by 6:00 p.m. on May 22, 2025. Signed by Judge Amir H. Ali on 5/21/2025. (lcaha2)"
+        },
+        {
+          "row_number": 5,
+          "id": 9800345,
+          "entry_number": "14",
+          "date_filed": "2025-05-28T00:00:00-04:00",
+          "attachments": [],
+          "url": "https://www.courtlistener.com/docket/70139392/14/zaid-v-executive-office-of-the-president/",
+          "recap_pdf_url": null,
+          "pacer_doc_id": "045011413014",
+          "description": "Unopposed MOTION for Leave to File Amicus Brief by PAST PRESIDENTS OF DC BAR ET AL.. (Attachments: # 1 Exhibit Amicus Brief, # 2 Appendix List of Amici, # 3 Text of Proposed Order)(Ferster, Andrea) (Entered: 05/28/2025)"
+        },
+        {
+          "row_number": 18,
+          "id": 9900901,
+          "entry_number": "26",
+          "date_filed": "2025-06-13T00:00:00-04:00",
+          "attachments": [],
+          "url": "https://www.courtlistener.com/docket/70139392/26/zaid-v-executive-office-of-the-president/",
+          "recap_pdf_url": null,
+          "pacer_doc_id": "045011446140",
+          "description": "NOTICE of Appearance by Stephen Craig Leckar on behalf of Aaron H. Caplan (Leckar, Stephen) (Entered: 06/13/2025)"
+        },
+        {
+          "row_number": 25,
+          "id": 9900911,
+          "entry_number": "32",
+          "date_filed": "2025-06-16T00:00:00-04:00",
+          "attachments": [],
+          "url": "https://www.courtlistener.com/docket/70139392/32/zaid-v-executive-office-of-the-president/",
+          "recap_pdf_url": null,
+          "pacer_doc_id": "045011449815",
+          "description": "MOTION for Leave to Appear Pro Hac Vice :Attorney Name- Christopher Mattei, Filing fee $ 100, receipt number ADCDC-11757868. Fee Status: Fee Paid. by MARK S. ZAID. (Attachments: # 1 Exhibit Declaration of Christopher Mattei, # 2 Exhibit Certificate of Good Standing, # 3 Text of Proposed Order)(Donovan, Margaret) (Entered: 06/16/2025)"
+        },
+        {
+          "row_number": 59,
+          "id": 9929338,
+          "entry_number": null,
+          "date_filed": "2025-06-17T00:00:00-04:00",
+          "attachments": [],
+          "url": "https://www.courtlistener.com",
+          "recap_pdf_url": null,
+          "pacer_doc_id": null,
+          "description": "MINUTE ORDER. The Court will hold a motion hearing on Plaintiff's 9 motion for preliminary injunction and Defendants' 22 motion to dismiss on June 27, 2025, at 1:30 p.m. in Courtroom 19. Each party will be given an opportunity to make submissions on the motions. A public access line will be provided for the hearing: the toll-free number is 833-990-9400, and the Meeting ID is 771021014. Persons remotely accessing court proceedings are reminded of the general prohibition against photographing, recording, and rebroadcasting of court proceedings. See In re: Prohibition on Photographing, Recording, Broadcasting, and Livestreaming Judicial Proceedings, Standing Order 24-31 (JEB) (Sept. 18, 2024). Signed by Judge Amir H. Ali on 6/17/2025. (lcaha2)"
+        },
+        {
+          "row_number": 28,
+          "id": 9952191,
+          "entry_number": "35",
+          "date_filed": "2025-06-23T00:00:00-04:00",
+          "attachments": [],
+          "url": "https://www.courtlistener.com/docket/70139392/35/zaid-v-executive-office-of-the-president/",
+          "recap_pdf_url": null,
+          "pacer_doc_id": "045011470387",
+          "description": "REQUEST FOR LEAVE TO FILE REVIEW. The attached document requires leave to file: JASON GOODMAN'S MOTION to ALTER JUDGMENT. Reason(s): Filer is not a party to the case. (mg) (Entered: 06/26/2025)"
+        },
+        {
+          "row_number": 29,
+          "id": 9969474,
+          "entry_number": "36",
+          "date_filed": "2025-06-27T00:00:00-04:00",
+          "attachments": [],
+          "url": "https://www.courtlistener.com/docket/70139392/36/zaid-v-executive-office-of-the-president/",
+          "recap_pdf_url": null,
+          "pacer_doc_id": "045011473139",
+          "description": "NOTICE of Appearance by Joshua Gabriel Kolb on behalf of All Plaintiffs (Kolb, Joshua) (Main Document 36 replaced on 6/28/2025) (mg). (Entered: 06/27/2025)"
+        },
+        {
+          "row_number": 62,
+          "id": 9969476,
+          "entry_number": null,
+          "date_filed": "2025-06-27T00:00:00-04:00",
+          "attachments": [],
+          "url": "https://www.courtlistener.com",
+          "recap_pdf_url": null,
+          "pacer_doc_id": null,
+          "description": "Motion Hearing"
+        },
+        {
+          "row_number": 63,
+          "id": 9969477,
+          "entry_number": null,
+          "date_filed": "2025-06-27T00:00:00-04:00",
+          "attachments": [],
+          "url": "https://www.courtlistener.com",
+          "recap_pdf_url": null,
+          "pacer_doc_id": null,
+          "description": "MINUTE ORDER granting 32 motion for leave to appear pro hac vice. Attorney Christopher Mattei is hereby admitted pro hac vice to appear in this matter. Counsel should register for e-filing via PACER and file a notice of appearance pursuant to LCvR 83.6(a). Click for instructions. Signed by Judge Amir H. Ali on 6/27/2025. (lcaha2)"
+        },
+        {
+          "row_number": 64,
+          "id": 9969478,
+          "entry_number": null,
+          "date_filed": "2025-06-27T00:00:00-04:00",
+          "attachments": [],
+          "url": "https://www.courtlistener.com",
+          "recap_pdf_url": null,
+          "pacer_doc_id": null,
+          "description": "Minute Entry for proceedings held before Judge Amir H. Ali: Motion Hearing held on 6/27/2025 re 9 Motion for Preliminary Injunction and 22 Motion to Dismiss. Oral arguments heard. (Court Reporter: Sonja Reeves) (zalh)"
+        },
+        {
+          "row_number": 31,
+          "id": 10018987,
+          "entry_number": "38",
+          "date_filed": "2025-06-30T00:00:00-04:00",
+          "attachments": [
+            {
+              "recap_id": 444248496,
+              "pacer_url": "https://ecf.dcd.uscourts.gov/doc1/045011476807?caseid=280276",
+              "description": "Susman Godfrey v. EOP et al., Memorandum Opinion",
+              "attachment_number": 1
+            },
+            {
+              "recap_id": 444248497,
+              "pacer_url": "https://ecf.dcd.uscourts.gov/doc1/045011476808?caseid=280276",
+              "description": "Susman Godfrey v. EOP et al., Order",
+              "attachment_number": 2
+            }
+          ],
+          "url": "https://www.courtlistener.com/docket/70139392/38/zaid-v-executive-office-of-the-president/",
+          "recap_pdf_url": null,
+          "pacer_doc_id": "045011476806",
+          "description": "NOTICE OF SUPPLEMENTAL AUTHORITY by MARK S. ZAID (Attachments: # 1 Susman Godfrey v. EOP et al., Memorandum Opinion, # 2 Susman Godfrey v. EOP et al., Order)(Lowell, Abbe) (Entered: 06/30/2025)"
+        },
+        {
+          "row_number": 66,
+          "id": 10018989,
+          "entry_number": null,
+          "date_filed": "2025-07-01T00:00:00-04:00",
+          "attachments": [],
+          "url": "https://www.courtlistener.com",
+          "recap_pdf_url": null,
+          "pacer_doc_id": null,
+          "description": "MINUTE ORDER re 13 Request for Leave to File Review. Leave to file is granted. The Clerk is directed to file the attached document on the public docket. The motion for leave to file amicus brief is held in abeyance. Signed by Judge Amir H. Ali on 7/1/2025. (lcaha2)"
+        },
+        {
+          "row_number": 32,
+          "id": 10018990,
+          "entry_number": "39",
+          "date_filed": "2025-07-01T00:00:00-04:00",
+          "attachments": [],
+          "url": "https://www.courtlistener.com/docket/70139392/39/zaid-v-executive-office-of-the-president/",
+          "recap_pdf_url": null,
+          "pacer_doc_id": "045011480741",
+          "description": "MOTION for Leave to File Amicus Brief by JASON GOODMAN. (Attachments: # 1 Proposed Amicus Brief, # 2 Text of Proposed Order)(mg) (Entered: 07/01/2025)"
+        },
+        {
+          "row_number": 37,
+          "id": 10371111,
+          "entry_number": "43",
+          "date_filed": "2025-09-29T00:00:00-04:00",
+          "attachments": null,
+          "url": "https://www.courtlistener.com/docket/70139392/43/zaid-v-executive-office-of-the-president/",
+          "recap_pdf_url": null,
+          "pacer_doc_id": "045011662130",
+          "description": "NOTICE OF WITHDRAWAL OF APPEARANCE as to GOVERNMENT ACCOUNTABILITY PROJECT. Attorney Elisabeth Connell terminated. (Attachments: # 1 Affidavit, # 2 Exhibit)(Connell, Elisabeth) (Entered: 09/29/2025)"
+        },
+        {
+          "row_number": 69,
+          "id": 10371117,
+          "entry_number": null,
+          "date_filed": "2025-10-08T00:00:00-04:00",
+          "attachments": null,
+          "url": "https://www.courtlistener.com",
+          "recap_pdf_url": null,
+          "pacer_doc_id": null,
+          "description": "MINUTE ORDER. The Court is in receipt of Plaintiff's 44 motion for status conference. The parties shall meet and confer regarding Plaintiff's proposal to proceed to summary judgment and/or amend the complaint. By October 15, 2025, the parties shall file a joint status report addressing those issues and proposed next steps, including whether the pending preliminary injunction and motion to dismiss briefing should be converted to summary judgment briefing, or a timeline for new or supplemental briefing. The Court will determine whether to hold a status conference after receiving the parties' joint status report. Signed by Judge Amir H. Ali on 10/8/2025. (lcaha2)"
+        },
+        {
+          "row_number": 71,
+          "id": 10379216,
+          "entry_number": null,
+          "date_filed": "2025-10-10T00:00:00-04:00",
+          "attachments": null,
+          "url": "https://www.courtlistener.com",
+          "recap_pdf_url": null,
+          "pacer_doc_id": null,
+          "description": "Order on Motion to Stay"
+        },
+        {
+          "row_number": 41,
+          "id": 10380614,
+          "entry_number": "47",
+          "date_filed": "2025-10-15T00:00:00-04:00",
+          "attachments": null,
+          "url": "https://www.courtlistener.com/docket/70139392/47/zaid-v-executive-office-of-the-president/",
+          "recap_pdf_url": "https://www.courtlistener.com/recap/gov.uscourts.dcd.280276/gov.uscourts.dcd.280276.47.0.pdf",
+          "pacer_doc_id": "045011692348",
+          "description": "Joint STATUS REPORT by MARK S. ZAID. (Donovan, Margaret) (Entered: 10/15/2025)"
+        },
+        {
+          "row_number": 73,
+          "id": 10380617,
+          "entry_number": null,
+          "date_filed": "2025-10-17T00:00:00-04:00",
+          "attachments": null,
+          "url": "https://www.courtlistener.com",
+          "recap_pdf_url": null,
+          "pacer_doc_id": null,
+          "description": "MINUTE ORDER. The Court will hold a status conference via teleconference on October 20, 2025, at 3:00 p.m. The parties should be prepared to discuss the issues raised in the 47 joint status report. Signed by Judge Amir H. Ali on 10/17/2025. (lcaha3)"
+        },
+        {
+          "row_number": 53,
+          "id": 10388800,
+          "entry_number": null,
+          "date_filed": "2025-05-22T00:00:00-04:00",
+          "attachments": null,
+          "url": "https://www.courtlistener.com",
+          "recap_pdf_url": null,
+          "pacer_doc_id": null,
+          "description": ".Order AND ~Util - Set/Reset Deadlines"
+        },
+        {
+          "row_number": 74,
+          "id": 10388802,
+          "entry_number": null,
+          "date_filed": "2025-10-17T00:00:00-04:00",
+          "attachments": null,
+          "url": "https://www.courtlistener.com",
+          "recap_pdf_url": null,
+          "pacer_doc_id": null,
+          "description": ".Order AND ~Util - Set/Reset Hearings"
+        },
+        {
+          "row_number": 75,
+          "id": 10388803,
+          "entry_number": null,
+          "date_filed": "2025-10-20T00:00:00-04:00",
+          "attachments": null,
+          "url": "https://www.courtlistener.com",
+          "recap_pdf_url": null,
+          "pacer_doc_id": null,
+          "description": "Status Conference"
+        },
+        {
+          "row_number": 34,
+          "id": 10026002,
+          "entry_number": "40",
+          "date_filed": "2025-07-08T00:00:00-04:00",
+          "attachments": [],
+          "url": "https://www.courtlistener.com/docket/70139392/40/zaid-v-executive-office-of-the-president/",
+          "recap_pdf_url": null,
+          "pacer_doc_id": "045011493341",
+          "description": "TRANSCRIPT OF MOTION HEARING before Judge Amir H. Ali held on June 27, 2025; Page Numbers: 1-91. Date of Issuance: July 8, 2025. Court Reporter/Transcriber Sonja L. Reeves, RDR, CRR, Telephone number (202) 354-3246, Transcripts may be ordered by submitting the Transcript Order FormFor the first 90 days after this filing date, the transcript may be viewed at the courthouse at a public terminal or purchased from the court reporter referenced above. After 90 days, the transcript may be accessed via PACER. Other transcript formats, (multi-page, condensed, CD or ASCII) may be purchased from the court reporter.NOTICE RE REDACTION OF TRANSCRIPTS: The parties have twenty-one days to file with the court and the court reporter any request to redact personal identifiers from this transcript. If no such requests are filed, the transcript will be made available to the public via PACER without redaction after 90 days. The policy, which includes the five personal identifiers specifically covered, is located on our website at www.dcd.uscourts.gov. Redaction Request due 7/29/2025. Redacted Transcript Deadline set for 8/8/2025. Release of Transcript Restriction set for 10/6/2025.(Reeves, Sonja) (Entered: 07/08/2025)"
+        },
+        {
+          "row_number": 50,
+          "id": 9755539,
+          "entry_number": null,
+          "date_filed": "2025-05-06T00:00:00-04:00",
+          "attachments": [],
+          "url": "https://www.courtlistener.com",
+          "recap_pdf_url": null,
+          "pacer_doc_id": null,
+          "description": "NOTICE OF NEW CASE ERROR The following error(s) need correction: Missing summonses- U.S. government. When naming a U.S. government agent or agency as a defendant, you must supply a summons for each defendant & two additional summonses for the U.S. Attorney & U.S. Attorney General. Please submit using the event Request for Summons to Issue. (zmtm)"
+        },
+        {
+          "row_number": 43,
+          "id": 9755541,
+          "entry_number": "6",
+          "date_filed": "2025-05-06T00:00:00-04:00",
+          "attachments": [],
+          "url": "https://www.courtlistener.com/docket/70139392/6/zaid-v-executive-office-of-the-president/",
+          "recap_pdf_url": null,
+          "pacer_doc_id": "045011368934",
+          "description": "SUMMONS (2) Issued Electronically as to U.S. Attorney and U.S. Attorney General (mg) (Entered: 05/06/2025)"
+        },
+        {
+          "row_number": 51,
+          "id": 9766687,
+          "entry_number": null,
+          "date_filed": "2025-05-21T00:00:00-04:00",
+          "attachments": [],
+          "url": "https://www.courtlistener.com",
+          "recap_pdf_url": null,
+          "pacer_doc_id": null,
+          "description": "Status Report Order"
+        },
+        {
+          "row_number": 2,
+          "id": 9766689,
+          "entry_number": "11",
+          "date_filed": "2025-05-21T00:00:00-04:00",
+          "attachments": [],
+          "url": "https://www.courtlistener.com/docket/70139392/11/zaid-v-executive-office-of-the-president/",
+          "recap_pdf_url": null,
+          "pacer_doc_id": "045011401612",
+          "description": "NOTICE of Appearance by Richard Lawson on behalf of All Defendants (Lawson, Richard) (Entered: 05/21/2025)"
+        },
+        {
+          "row_number": 54,
+          "id": 9800343,
+          "entry_number": null,
+          "date_filed": "2025-05-22T00:00:00-04:00",
+          "attachments": [],
+          "url": "https://www.courtlistener.com",
+          "recap_pdf_url": null,
+          "pacer_doc_id": null,
+          "description": "MINUTE ORDER. The Court is in receipt of the parties' 12 joint status report. The Court adopts the following briefing schedule: Defendants shall file a consolidated opposition to Plaintiff's 9 motion for preliminary injunction and opening Rule 12 motion by May 30, 2025. Plaintiff shall file a consolidated reply in support of the motion for preliminary injunction and opposition to the Rule 12 motion by June 13, 2025. Defendants shall file a reply in support of the Rule 12 motion by June 20, 2025. Signed by Judge Amir H. Ali on 5/22/2025. (lcaha2)"
+        },
+        {
+          "row_number": 4,
+          "id": 9800344,
+          "entry_number": "13",
+          "date_filed": "2025-05-26T00:00:00-04:00",
+          "attachments": [],
+          "url": "https://www.courtlistener.com/docket/70139392/13/zaid-v-executive-office-of-the-president/",
+          "recap_pdf_url": null,
+          "pacer_doc_id": "045011412266",
+          "description": "REQUEST FOR LEAVE TO FILE REVIEW. The attached document requires leave to file: JASON GOODMAN'S MOTION for Leave to File Amicus Brief. Reason(s): Filer is not a party to the case. (Attachments: # 1 Proposed Amicus Brief, # 2 Text of Proposed Order) (mg) (Entered: 05/28/2025)"
+        },
+        {
+          "row_number": 9,
+          "id": 9800347,
+          "entry_number": "18",
+          "date_filed": "2025-05-28T00:00:00-04:00",
+          "attachments": [],
+          "url": "https://www.courtlistener.com/docket/70139392/18/zaid-v-executive-office-of-the-president/",
+          "recap_pdf_url": null,
+          "pacer_doc_id": "045011414903",
+          "description": "REQUEST FOR LEAVE TO FILE REVIEW. The attached document requires leave to file: JASON GOODMAN'S MOTION for Judicial Forfeiture. Reason(s): Filer is not a party to the case. (mg) (Main Document 18 replaced on 5/29/2025) (mg). (Entered: 05/29/2025)"
+        },
+        {
+          "row_number": 7,
+          "id": 9841165,
+          "entry_number": "16",
+          "date_filed": "2025-05-29T00:00:00-04:00",
+          "attachments": [],
+          "url": "https://www.courtlistener.com/docket/70139392/16/zaid-v-executive-office-of-the-president/",
+          "recap_pdf_url": null,
+          "pacer_doc_id": "045011414840",
+          "description": "NOTICE of Appearance by David A. Schulz on behalf of First Amendment Scholars (Schulz, David) (Entered: 05/29/2025)"
+        },
+        {
+          "row_number": 8,
+          "id": 9841166,
+          "entry_number": "17",
+          "date_filed": "2025-05-29T00:00:00-04:00",
+          "attachments": [],
+          "url": "https://www.courtlistener.com/docket/70139392/17/zaid-v-executive-office-of-the-president/",
+          "recap_pdf_url": null,
+          "pacer_doc_id": "045011414855",
+          "description": "NOTICE of Appearance by Andrea C. Ferster on behalf of PAST PRESIDENTS OF DC BAR ET AL. (Ferster, Andrea) (Main Document 17 replaced on 5/29/2025) (mg). (Entered: 05/29/2025)"
+        },
+        {
+          "row_number": 13,
+          "id": 9841169,
+          "entry_number": "21",
+          "date_filed": "2025-05-29T00:00:00-04:00",
+          "attachments": [],
+          "url": "https://www.courtlistener.com/docket/70139392/21/zaid-v-executive-office-of-the-president/",
+          "recap_pdf_url": null,
+          "pacer_doc_id": "045011417454",
+          "description": "NOTICE of Appearance by Elisabeth Connell on behalf of GOVERNMENT ACCOUNTABILITY PROJECT (Connell, Elisabeth) (Entered: 05/29/2025)"
+        },
+        {
+          "row_number": 14,
+          "id": 9880250,
+          "entry_number": "22",
+          "date_filed": "2025-05-30T00:00:00-04:00",
+          "attachments": [
+            {
+              "pdf_url": "https://www.courtlistener.com/recap/gov.uscourts.dcd.280276/gov.uscourts.dcd.280276.22.1.pdf",
+              "recap_id": 441370862,
+              "pacer_url": "https://ecf.dcd.uscourts.gov/doc1/045011420371?caseid=280276",
+              "description": "Memorandum in Support",
+              "attachment_number": 1
+            },
+            {
+              "pdf_url": "https://www.courtlistener.com/recap/gov.uscourts.dcd.280276/gov.uscourts.dcd.280276.22.2.pdf",
+              "recap_id": 441370864,
+              "pacer_url": "https://ecf.dcd.uscourts.gov/doc1/045011420372?caseid=280276",
+              "description": "Text of Proposed Order",
+              "attachment_number": 2
+            }
+          ],
+          "url": "https://www.courtlistener.com/docket/70139392/22/zaid-v-executive-office-of-the-president/",
+          "recap_pdf_url": "https://www.courtlistener.com/recap/gov.uscourts.dcd.280276/gov.uscourts.dcd.280276.22.0.pdf",
+          "pacer_doc_id": "045011420370",
+          "description": "MOTION to Dismiss by EXECUTIVE OFFICE OF THE PRESIDENT. (Attachments: # 1 Memorandum in Support, # 2 Text of Proposed Order)(Lawson, Richard) (Entered: 05/30/2025)"
+        },
+        {
+          "row_number": 15,
+          "id": 9885390,
+          "entry_number": "23",
+          "date_filed": "2025-06-12T00:00:00-04:00",
+          "attachments": [
+            {
+              "pdf_url": "https://www.courtlistener.com/recap/gov.uscourts.dcd.280276/gov.uscourts.dcd.280276.23.1.pdf",
+              "recap_id": 442742362,
+              "pacer_url": "https://ecf.dcd.uscourts.gov/doc1/045011443606?caseid=280276",
+              "description": "Declaration",
+              "attachment_number": 1
+            }
+          ],
+          "url": "https://www.courtlistener.com/docket/70139392/23/zaid-v-executive-office-of-the-president/",
+          "recap_pdf_url": "https://www.courtlistener.com/recap/gov.uscourts.dcd.280276/gov.uscourts.dcd.280276.23.0.pdf",
+          "pacer_doc_id": "045011443605",
+          "description": "MOTION for Leave to Appear Pro Hac Vice :Attorney Name- Eric R. Olson, Filing fee $ 100, receipt number ADCDC-11752160. Fee Status: Fee Paid. by LAW FIRM PARTNERS UNITED INC.. (Attachments: # 1 Declaration)(Citron, Eric) (Entered: 06/12/2025)"
+        },
+        {
+          "row_number": 56,
+          "id": 9900904,
+          "entry_number": null,
+          "date_filed": "2025-06-13T00:00:00-04:00",
+          "attachments": [],
+          "url": "https://www.courtlistener.com",
+          "recap_pdf_url": null,
+          "pacer_doc_id": null,
+          "description": "MINUTE ORDER granting 23 motion for leave to appear pro hac vice. Attorney Eric R. Olson is hereby admitted pro hac vice to appear in this matter. Counsel should register for e-filing via PACER and file a notice of appearance pursuant to LCvR 83.6(a). Click for instructions. Signed by Judge Amir H. Ali on 6/13/2025. (lcaha2)"
+        },
+        {
+          "row_number": 57,
+          "id": 9900909,
+          "entry_number": null,
+          "date_filed": "2025-06-16T00:00:00-04:00",
+          "attachments": [],
+          "url": "https://www.courtlistener.com",
+          "recap_pdf_url": null,
+          "pacer_doc_id": null,
+          "description": "Notice of Provisional/Government Not Certified Status"
+        },
+        {
+          "row_number": 26,
+          "id": 9952190,
+          "entry_number": "33",
+          "date_filed": "2025-06-20T00:00:00-04:00",
+          "attachments": [],
+          "url": "https://www.courtlistener.com/docket/70139392/33/zaid-v-executive-office-of-the-president/",
+          "recap_pdf_url": null,
+          "pacer_doc_id": "045011461450",
+          "description": "REPLY to opposition to motion re 22 Motion to Dismiss filed by CENTRAL INTELLIGENCE AGENCY, DEFENSE COUNTERINTELLIGENCE AND SECURITY AGENCY, DEPARTMENT OF DEFENSE, EXECUTIVE OFFICE OF THE PRESIDENT, OFFICE OF THE DIRECTOR OF NATIONAL INTELLIGENCE, UNITED STATES OF AMERICA. (Lawson, Richard) (Entered: 06/20/2025)"
+        },
+        {
+          "row_number": 30,
+          "id": 10018986,
+          "entry_number": "37",
+          "date_filed": "2025-06-30T00:00:00-04:00",
+          "attachments": [],
+          "url": "https://www.courtlistener.com/docket/70139392/37/zaid-v-executive-office-of-the-president/",
+          "recap_pdf_url": null,
+          "pacer_doc_id": "045011475996",
+          "description": "NOTICE of Appearance by Christopher Mattei on behalf of MARK S. ZAID (Mattei, Christopher) (Entered: 06/30/2025)"
+        },
+        {
+          "row_number": 35,
+          "id": 10154235,
+          "entry_number": "41",
+          "date_filed": "2025-07-09T00:00:00-04:00",
+          "attachments": [],
+          "url": "https://www.courtlistener.com/docket/70139392/41/zaid-v-executive-office-of-the-president/",
+          "recap_pdf_url": null,
+          "pacer_doc_id": "045011496165",
+          "description": "MOTION for Leave to Appear Pro Hac Vice :Attorney Name- George Croner, Filing fee $ 100, receipt number ADCDC-11807951. Fee Status: Fee Paid. by MARK S. ZAID. (Attachments: # 1 Exhibit Declaration of George Croner, # 2 Exhibit Certificate of Good Standing, # 3 Text of Proposed Order)(Donovan, Margaret) (Entered: 07/09/2025)"
+        },
+        {
+          "row_number": 68,
+          "id": 10371116,
+          "entry_number": null,
+          "date_filed": "2025-10-08T00:00:00-04:00",
+          "attachments": null,
+          "url": "https://www.courtlistener.com",
+          "recap_pdf_url": null,
+          "pacer_doc_id": null,
+          "description": "Status Report Order"
+        },
+        {
+          "row_number": 70,
+          "id": 10371118,
+          "entry_number": null,
+          "date_filed": "2025-10-08T00:00:00-04:00",
+          "attachments": null,
+          "url": "https://www.courtlistener.com",
+          "recap_pdf_url": null,
+          "pacer_doc_id": null,
+          "description": "MINUTE ORDER granting 41 motion for leave to appear pro hac vice. Attorney George Croner is hereby admitted pro hac vice to appear in this matter. Counsel should register for e-filing via PACER and file a notice of appearance pursuant to LCvR 83.6(a). Click for instructions. Signed by Judge Amir H. Ali on 10/8/2025. (lcaha2)"
+        },
+        {
+          "row_number": 10,
+          "id": 9841167,
+          "entry_number": "19",
+          "date_filed": "2025-05-29T00:00:00-04:00",
+          "attachments": [],
+          "url": "https://www.courtlistener.com/docket/70139392/19/zaid-v-executive-office-of-the-president/",
+          "recap_pdf_url": "https://www.courtlistener.com/recap/gov.uscourts.dcd.280276/gov.uscourts.dcd.280276.19.0.pdf",
+          "pacer_doc_id": "045011416568",
+          "description": "NOTICE of Filing (Physical Exhibit - Exhibit 6) by MARK S. ZAID re 9 Motion for Preliminary Injunction,, (Donovan, Margaret) (Entered: 05/29/2025)"
+        },
+        {
+          "row_number": 38,
+          "id": 10371112,
+          "entry_number": "44",
+          "date_filed": "2025-10-07T00:00:00-04:00",
+          "attachments": null,
+          "url": "https://www.courtlistener.com/docket/70139392/44/zaid-v-executive-office-of-the-president/",
+          "recap_pdf_url": "https://www.courtlistener.com/recap/gov.uscourts.dcd.280276/gov.uscourts.dcd.280276.44.0.pdf",
+          "pacer_doc_id": "045011679697",
+          "description": "MOTION for Status Conference by MARK S. ZAID. (Attachments: # 1 Text of Proposed Order)(Donovan, Margaret) (Entered: 10/07/2025)"
+        },
+        {
+          "row_number": 55,
+          "id": 9900902,
+          "entry_number": null,
+          "date_filed": "2025-06-13T00:00:00-04:00",
+          "attachments": [],
+          "url": "https://www.courtlistener.com",
+          "recap_pdf_url": null,
+          "pacer_doc_id": null,
+          "description": "Order on Motion for Leave to Appear Pro Hac Vice"
+        },
+        {
+          "row_number": 40,
+          "id": 10380613,
+          "entry_number": "46",
+          "date_filed": "2025-10-15T00:00:00-04:00",
+          "attachments": null,
+          "url": "https://www.courtlistener.com/docket/70139392/46/zaid-v-executive-office-of-the-president/",
+          "recap_pdf_url": null,
+          "pacer_doc_id": "045011692123",
+          "description": "NOTICE of Appearance by Abhishek Kambli on behalf of All Defendants (Kambli, Abhishek) (Entered: 10/15/2025)"
+        },
+        {
+          "row_number": 19,
+          "id": 9900903,
+          "entry_number": "27",
+          "date_filed": "2025-06-13T00:00:00-04:00",
+          "attachments": [
+            {
+              "pdf_url": "https://www.courtlistener.com/recap/gov.uscourts.dcd.280276/gov.uscourts.dcd.280276.27.1.pdf",
+              "recap_id": 442742316,
+              "pacer_url": "https://ecf.dcd.uscourts.gov/doc1/045011446162?caseid=280276",
+              "description": "",
+              "attachment_number": 1
+            }
+          ],
+          "url": "https://www.courtlistener.com/docket/70139392/27/zaid-v-executive-office-of-the-president/",
+          "recap_pdf_url": null,
+          "pacer_doc_id": "045011446161",
+          "description": "Unopposed MOTION for Leave to File Amicus Brief by Aaron H. Caplan. (Attachments: # 1 Exhibit Amicus Brief of Professor Aaron H. Caplan Regarding Attainder, # 2 Text of Proposed Order)(Leckar, Stephen) (Entered: 06/13/2025)"
+        },
+        {
+          "row_number": 36,
+          "id": 10200936,
+          "entry_number": "42",
+          "date_filed": "2025-08-06T00:00:00-04:00",
+          "attachments": [
+            {
+              "pdf_url": "https://www.courtlistener.com/recap/gov.uscourts.dcd.280276/gov.uscourts.dcd.280276.42.1_1.pdf",
+              "recap_id": 448227872,
+              "pacer_url": "https://ecf.dcd.uscourts.gov/doc1/045011549388?caseid=280276",
+              "description": "Exhibit Supplemental Declaration of Mark S. Zaid",
+              "attachment_number": 1
+            },
+            {
+              "recap_id": 448227873,
+              "pacer_url": "https://ecf.dcd.uscourts.gov/doc1/045011549389?caseid=280276",
+              "description": "Text of Proposed Order",
+              "attachment_number": 2
+            }
+          ],
+          "url": "https://www.courtlistener.com/docket/70139392/42/zaid-v-executive-office-of-the-president/",
+          "recap_pdf_url": "https://www.courtlistener.com/recap/gov.uscourts.dcd.280276/gov.uscourts.dcd.280276.42.0.pdf",
+          "pacer_doc_id": "045011549387",
+          "description": "MOTION for Leave to File Supplemental Facts by MARK S. ZAID. (Attachments: # 1 Exhibit Supplemental Declaration of Mark S. Zaid, # 2 Text of Proposed Order)(Donovan, Margaret) (Entered: 08/06/2025)"
+        },
+        {
+          "row_number": 39,
+          "id": 10376734,
+          "entry_number": "45",
+          "date_filed": "2025-10-10T00:00:00-04:00",
+          "attachments": null,
+          "url": "https://www.courtlistener.com/docket/70139392/45/zaid-v-executive-office-of-the-president/",
+          "recap_pdf_url": "https://www.courtlistener.com/recap/gov.uscourts.dcd.280276/gov.uscourts.dcd.280276.45.0.pdf",
+          "pacer_doc_id": "045011685174",
+          "description": "MOTION to Stay by CENTRAL INTELLIGENCE AGENCY, DEFENSE COUNTERINTELLIGENCE AND SECURITY AGENCY, DEPARTMENT OF DEFENSE, EXECUTIVE OFFICE OF THE PRESIDENT, OFFICE OF THE DIRECTOR OF NATIONAL INTELLIGENCE, UNITED STATES OF AMERICA. (Lawson, Richard) (Entered: 10/10/2025)"
+        },
+        {
+          "row_number": 49,
+          "id": 9755538,
+          "entry_number": null,
+          "date_filed": "2025-05-06T00:00:00-04:00",
+          "attachments": [],
+          "url": "https://www.courtlistener.com",
+          "recap_pdf_url": null,
+          "pacer_doc_id": null,
+          "description": "Notice of Error- New Case"
+        },
+        {
+          "row_number": 46,
+          "id": 9766686,
+          "entry_number": "9",
+          "date_filed": "2025-05-21T00:00:00-04:00",
+          "attachments": [
+            {
+              "recap_id": 440280677,
+              "pacer_url": "https://ecf.dcd.uscourts.gov/doc1/045011401156?caseid=280276",
+              "description": "Memorandum in Support",
+              "attachment_number": 1
+            },
+            {
+              "pdf_url": "https://www.courtlistener.com/recap/gov.uscourts.dcd.280276/gov.uscourts.dcd.280276.9.2.pdf",
+              "recap_id": 440280678,
+              "pacer_url": "https://ecf.dcd.uscourts.gov/doc1/045011401157?caseid=280276",
+              "description": "Declaration of Plaintiff Mark Zaid",
+              "attachment_number": 2
+            },
+            {
+              "pdf_url": "https://www.courtlistener.com/recap/gov.uscourts.dcd.280276/gov.uscourts.dcd.280276.9.3.pdf",
+              "recap_id": 440280679,
+              "pacer_url": "https://ecf.dcd.uscourts.gov/doc1/045011401158?caseid=280276",
+              "description": "Declaration of Marc Polymeropolous",
+              "attachment_number": 3
+            },
+            {
+              "recap_id": 440280680,
+              "pacer_url": "https://ecf.dcd.uscourts.gov/doc1/045011401159?caseid=280276",
+              "description": "Exhibit Expert Report of J. William Leonard",
+              "attachment_number": 4
+            },
+            {
+              "pdf_url": "https://www.courtlistener.com/recap/gov.uscourts.dcd.280276/gov.uscourts.dcd.280276.9.5.pdf",
+              "recap_id": 440280681,
+              "pacer_url": "https://ecf.dcd.uscourts.gov/doc1/045011401160?caseid=280276",
+              "description": "Exhibit 1",
+              "attachment_number": 5
+            },
+            {
+              "pdf_url": "https://www.courtlistener.com/recap/gov.uscourts.dcd.280276/gov.uscourts.dcd.280276.9.6.pdf",
+              "recap_id": 440280682,
+              "pacer_url": "https://ecf.dcd.uscourts.gov/doc1/045011401161?caseid=280276",
+              "description": "Exhibit 2",
+              "attachment_number": 6
+            },
+            {
+              "recap_id": 440280683,
+              "pacer_url": "https://ecf.dcd.uscourts.gov/doc1/045011401162?caseid=280276",
+              "description": "Exhibit 3",
+              "attachment_number": 7
+            },
+            {
+              "recap_id": 440280684,
+              "pacer_url": "https://ecf.dcd.uscourts.gov/doc1/045011401163?caseid=280276",
+              "description": "Exhibit 4",
+              "attachment_number": 8
+            },
+            {
+              "recap_id": 440280685,
+              "pacer_url": "https://ecf.dcd.uscourts.gov/doc1/045011401164?caseid=280276",
+              "description": "Exhibit 5",
+              "attachment_number": 9
+            },
+            {
+              "recap_id": 440280686,
+              "pacer_url": "https://ecf.dcd.uscourts.gov/doc1/045011401165?caseid=280276",
+              "description": "Exhibit 6",
+              "attachment_number": 10
+            },
+            {
+              "recap_id": 440280687,
+              "pacer_url": "https://ecf.dcd.uscourts.gov/doc1/045011401166?caseid=280276",
+              "description": "Exhibit 7",
+              "attachment_number": 11
+            },
+            {
+              "recap_id": 440280688,
+              "pacer_url": "https://ecf.dcd.uscourts.gov/doc1/045011401167?caseid=280276",
+              "description": "Exhibit 8",
+              "attachment_number": 12
+            },
+            {
+              "recap_id": 440280689,
+              "pacer_url": "https://ecf.dcd.uscourts.gov/doc1/045011401168?caseid=280276",
+              "description": "Exhibit 9",
+              "attachment_number": 13
+            },
+            {
+              "recap_id": 440280690,
+              "pacer_url": "https://ecf.dcd.uscourts.gov/doc1/045011401169?caseid=280276",
+              "description": "Exhibit 10",
+              "attachment_number": 14
+            },
+            {
+              "recap_id": 440280691,
+              "pacer_url": "https://ecf.dcd.uscourts.gov/doc1/045011401170?caseid=280276",
+              "description": "Exhibit 11",
+              "attachment_number": 15
+            },
+            {
+              "recap_id": 440280692,
+              "pacer_url": "https://ecf.dcd.uscourts.gov/doc1/045011401171?caseid=280276",
+              "description": "Exhibit 12",
+              "attachment_number": 16
+            },
+            {
+              "recap_id": 440280693,
+              "pacer_url": "https://ecf.dcd.uscourts.gov/doc1/045011401172?caseid=280276",
+              "description": "Exhibit 13",
+              "attachment_number": 17
+            },
+            {
+              "recap_id": 440280694,
+              "pacer_url": "https://ecf.dcd.uscourts.gov/doc1/045011401173?caseid=280276",
+              "description": "Exhibit 14",
+              "attachment_number": 18
+            },
+            {
+              "pdf_url": "https://www.courtlistener.com/recap/gov.uscourts.dcd.280276/gov.uscourts.dcd.280276.9.19.pdf",
+              "recap_id": 440280695,
+              "pacer_url": "https://ecf.dcd.uscourts.gov/doc1/045011401174?caseid=280276",
+              "description": "Text of Proposed Order",
+              "attachment_number": 19
+            }
+          ],
+          "url": "https://www.courtlistener.com/docket/70139392/9/zaid-v-executive-office-of-the-president/",
+          "recap_pdf_url": "https://www.courtlistener.com/recap/gov.uscourts.dcd.280276/gov.uscourts.dcd.280276.9.0_1.pdf",
+          "pacer_doc_id": "045011401155",
+          "description": "MOTION for Preliminary Injunction by MARK S. ZAID. (Attachments: # 1 Memorandum in Support, # 2 Declaration of Plaintiff Mark Zaid, # 3 Declaration of Marc Polymeropolous, # 4 Exhibit Expert Report of J. William Leonard, # 5 Exhibit 1, # 6 Exhibit 2, # 7 Exhibit 3, # 8 Exhibit 4, # 9 Exhibit 5, # 10 Exhibit 6, # 11 Exhibit 7, # 12 Exhibit 8, # 13 Exhibit 9, # 14 Exhibit 10, # 15 Exhibit 11, # 16 Exhibit 12, # 17 Exhibit 13, # 18 Exhibit 14, # 19 Text of Proposed Order)(Lowell, Abbe) (Entered: 05/21/2025)"
+        },
+        {
+          "row_number": 16,
+          "id": 9885391,
+          "entry_number": "24",
+          "date_filed": "2025-06-12T00:00:00-04:00",
+          "attachments": [],
+          "url": "https://www.courtlistener.com/docket/70139392/24/zaid-v-executive-office-of-the-president/",
+          "recap_pdf_url": null,
+          "pacer_doc_id": "045011444720",
+          "description": "NOTICE of Appearance by Andrew Peter Bakaj on behalf of WHISTLEBLOWER AID (Bakaj, Andrew) (Entered: 06/12/2025)"
+        },
+        {
+          "row_number": 21,
+          "id": 9900906,
+          "entry_number": "29",
+          "date_filed": "2025-06-13T00:00:00-04:00",
+          "attachments": [
+            {
+              "pdf_url": "https://www.courtlistener.com/recap/gov.uscourts.dcd.280276/gov.uscourts.dcd.280276.29.1.pdf",
+              "recap_id": 442742319,
+              "pacer_url": "https://ecf.dcd.uscourts.gov/doc1/045011447126?caseid=280276",
+              "description": "Exhibit Amicus Brief",
+              "attachment_number": 1
+            },
+            {
+              "recap_id": 442742433,
+              "pacer_url": "https://ecf.dcd.uscourts.gov/doc1/045011447127?caseid=280276",
+              "description": "Text of Proposed Order",
+              "attachment_number": 2
+            }
+          ],
+          "url": "https://www.courtlistener.com/docket/70139392/29/zaid-v-executive-office-of-the-president/",
+          "recap_pdf_url": "https://www.courtlistener.com/recap/gov.uscourts.dcd.280276/gov.uscourts.dcd.280276.29.0.pdf",
+          "pacer_doc_id": "045011447125",
+          "description": "Unopposed MOTION for Leave to File Amicus Brief by LAW FIRM PARTNERS UNITED INC.. (Attachments: # 1 Exhibit Amicus Brief, # 2 Text of Proposed Order)(Olson, Eric) (Entered: 06/13/2025)"
+        },
+        {
+          "row_number": 24,
+          "id": 9900908,
+          "entry_number": "31",
+          "date_filed": "2025-06-13T00:00:00-04:00",
+          "attachments": [
+            {
+              "recap_id": 442742462,
+              "pacer_url": "https://ecf.dcd.uscourts.gov/doc1/045011448099?caseid=280276",
+              "description": "Exhibit 15",
+              "attachment_number": 1
+            },
+            {
+              "recap_id": 442742463,
+              "pacer_url": "https://ecf.dcd.uscourts.gov/doc1/045011448100?caseid=280276",
+              "description": "Text of Proposed Order (Amended)",
+              "attachment_number": 2
+            }
+          ],
+          "url": "https://www.courtlistener.com/docket/70139392/31/zaid-v-executive-office-of-the-president/",
+          "recap_pdf_url": "https://www.courtlistener.com/recap/gov.uscourts.dcd.280276/gov.uscourts.dcd.280276.31.0.pdf",
+          "pacer_doc_id": "045011448098",
+          "description": "REPLY to opposition to motion re 9 Motion for Preliminary Injunction,, filed by MARK S. ZAID. (Attachments: # 1 Exhibit 15, # 2 Text of Proposed Order (Amended))(Lowell, Abbe) (Entered: 06/13/2025)"
+        },
+        {
+          "row_number": 58,
+          "id": 9900910,
+          "entry_number": null,
+          "date_filed": "2025-06-16T00:00:00-04:00",
+          "attachments": [],
+          "url": "https://www.courtlistener.com",
+          "recap_pdf_url": null,
+          "pacer_doc_id": null,
+          "description": "RESOLVED.....NOTICE of Provisional/Government Not Certified Status re 24 NOTICE of Appearance by Andrew Peter Bakaj on behalf of WHISTLEBLOWER AID (Bakaj, Andrew).Your attorney renewal/government certification has not been received. As a result, your membership with the U.S. District & Bankruptcy Courts for the District of Columbia is not in good standing, and you are not permitted to file. Pursuant to Local Civil Rule 83.9, you must immediately correct your membership status by following the appropriate instructions on this page of our website: https://www.dcd.uscourts.gov/attorney-renewal. Please be advised that the presiding judge in this case has been notified that you are currently not in good standing to file in this court. Renewal Due by 6/23/2025. (zapb) Modified on 6/17/2025 (zapb)."
+        },
+        {
+          "row_number": 61,
+          "id": 9969475,
+          "entry_number": null,
+          "date_filed": "2025-06-27T00:00:00-04:00",
+          "attachments": [],
+          "url": "https://www.courtlistener.com",
+          "recap_pdf_url": null,
+          "pacer_doc_id": null,
+          "description": "Order on Motion for Leave to Appear Pro Hac Vice"
+        },
+        {
+          "row_number": 65,
+          "id": 10018988,
+          "entry_number": null,
+          "date_filed": "2025-07-01T00:00:00-04:00",
+          "attachments": [],
+          "url": "https://www.courtlistener.com",
+          "recap_pdf_url": null,
+          "pacer_doc_id": null,
+          "description": "Order on Leave to File Review"
+        },
+        {
+          "row_number": 67,
+          "id": 10371115,
+          "entry_number": null,
+          "date_filed": "2025-10-08T00:00:00-04:00",
+          "attachments": null,
+          "url": "https://www.courtlistener.com",
+          "recap_pdf_url": null,
+          "pacer_doc_id": null,
+          "description": "Order on Motion for Leave to Appear Pro Hac Vice"
+        },
+        {
+          "row_number": 72,
+          "id": 10376737,
+          "entry_number": null,
+          "date_filed": "2025-10-10T00:00:00-04:00",
+          "attachments": null,
+          "url": "https://www.courtlistener.com",
+          "recap_pdf_url": null,
+          "pacer_doc_id": null,
+          "description": "MINUTE ORDER. Defendants' 45 motion for a stay of briefing schedule in light of lapse of appropriations is denied. The parties remain subject to the Court's prior order to file a joint status report by October 15, 2025. Signed by Judge Amir H. Ali on 10/10/2025. (lcaha2)"
+        },
+        {
+          "row_number": 0,
+          "id": 9671266,
+          "entry_number": "1",
+          "date_filed": "2025-05-05T00:00:00-04:00",
+          "attachments": [
+            {
+              "pdf_url": "https://www.courtlistener.com/recap/gov.uscourts.dcd.280276/gov.uscourts.dcd.280276.1.1.pdf",
+              "recap_id": 438557061,
+              "pacer_url": "https://ecf.dcd.uscourts.gov/doc1/045011366409?caseid=280276",
+              "description": "Civil Cover Sheet",
+              "attachment_number": 1
+            },
+            {
+              "pdf_url": "https://www.courtlistener.com/recap/gov.uscourts.dcd.280276/gov.uscourts.dcd.280276.1.2.pdf",
+              "recap_id": 438557062,
+              "pacer_url": "https://ecf.dcd.uscourts.gov/doc1/045011366410?caseid=280276",
+              "description": "Summons",
+              "attachment_number": 2
+            },
+            {
+              "pdf_url": "https://www.courtlistener.com/recap/gov.uscourts.dcd.280276/gov.uscourts.dcd.280276.1.3.pdf",
+              "recap_id": 438557063,
+              "pacer_url": "https://ecf.dcd.uscourts.gov/doc1/045011366411?caseid=280276",
+              "description": "Summons",
+              "attachment_number": 3
+            },
+            {
+              "pdf_url": "https://www.courtlistener.com/recap/gov.uscourts.dcd.280276/gov.uscourts.dcd.280276.1.4.pdf",
+              "recap_id": 438557064,
+              "pacer_url": "https://ecf.dcd.uscourts.gov/doc1/045011366412?caseid=280276",
+              "description": "Summons",
+              "attachment_number": 4
+            },
+            {
+              "pdf_url": "https://www.courtlistener.com/recap/gov.uscourts.dcd.280276/gov.uscourts.dcd.280276.1.5.pdf",
+              "recap_id": 438557065,
+              "pacer_url": "https://ecf.dcd.uscourts.gov/doc1/045011366413?caseid=280276",
+              "description": "Summons",
+              "attachment_number": 5
+            },
+            {
+              "pdf_url": "https://www.courtlistener.com/recap/gov.uscourts.dcd.280276/gov.uscourts.dcd.280276.1.6.pdf",
+              "recap_id": 438557066,
+              "pacer_url": "https://ecf.dcd.uscourts.gov/doc1/045011366414?caseid=280276",
+              "description": "Summons",
+              "attachment_number": 6
+            },
+            {
+              "pdf_url": "https://www.courtlistener.com/recap/gov.uscourts.dcd.280276/gov.uscourts.dcd.280276.1.7.pdf",
+              "recap_id": 438557067,
+              "pacer_url": "https://ecf.dcd.uscourts.gov/doc1/045011366415?caseid=280276",
+              "description": "Summons",
+              "attachment_number": 7
+            }
+          ],
+          "url": "https://www.courtlistener.com/docket/70139392/1/zaid-v-executive-office-of-the-president/",
+          "recap_pdf_url": "https://www.courtlistener.com/recap/gov.uscourts.dcd.280276/gov.uscourts.dcd.280276.1.0.pdf",
+          "pacer_doc_id": "045011366408",
+          "description": "COMPLAINT against All Defendants ( Filing fee $ 405 receipt number ADCDC-11667027) filed by MARK S. ZAID. (Attachments: # 1 Civil Cover Sheet, # 2 Summons, # 3 Summons, # 4 Summons, # 5 Summons, # 6 Summons, # 7 Summons)(Lowell, Abbe) (Attachment 1 replaced on 5/6/2025) (zmtm). (Entered: 05/05/2025)"
+        },
+        {
+          "row_number": 23,
+          "id": 9900907,
+          "entry_number": "30",
+          "date_filed": "2025-06-13T00:00:00-04:00",
+          "attachments": [
+            {
+              "pdf_url": "https://www.courtlistener.com/recap/gov.uscourts.dcd.280276/gov.uscourts.dcd.280276.30.1.pdf",
+              "recap_id": 442742438,
+              "pacer_url": "https://ecf.dcd.uscourts.gov/doc1/045011448094?caseid=280276",
+              "description": "Exhibit 15",
+              "attachment_number": 1
+            },
+            {
+              "recap_id": 442742439,
+              "pacer_url": "https://ecf.dcd.uscourts.gov/doc1/045011448095?caseid=280276",
+              "description": "Text of Proposed Order (Amended)",
+              "attachment_number": 2
+            }
+          ],
+          "url": "https://www.courtlistener.com/docket/70139392/30/zaid-v-executive-office-of-the-president/",
+          "recap_pdf_url": "https://www.courtlistener.com/recap/gov.uscourts.dcd.280276/gov.uscourts.dcd.280276.30.0.pdf",
+          "pacer_doc_id": "045011448093",
+          "description": "Memorandum in opposition to re 22 MOTION to Dismiss filed by MARK S. ZAID. (Attachments: # 1 Exhibit 15, # 2 Text of Proposed Order (Amended))(Lowell, Abbe) (Entered: 06/13/2025)"
+        },
+        {
+          "row_number": 27,
+          "id": 9957304,
+          "entry_number": "34",
+          "date_filed": "2025-06-25T00:00:00-04:00",
+          "attachments": [],
+          "url": "https://www.courtlistener.com/docket/70139392/34/zaid-v-executive-office-of-the-president/",
+          "recap_pdf_url": "https://www.courtlistener.com/recap/gov.uscourts.dcd.280276/gov.uscourts.dcd.280276.34.0.pdf",
+          "pacer_doc_id": "045011468355",
+          "description": "NOTICE of Appearance by Michael Kenneth Velchik on behalf of All Defendants (Velchik, Michael) (Entered: 06/25/2025)"
+        }
+      ],
+      "docket_case_type": "cv",
+      "docket_year": 2025,
+      "docket_filing_number": 1365,
+      "is_main_docket": true,
+      "court": "District of District of Columbia",
+      "state": "District of Columbia",
+      "docket_office_number": "1",
+      "docket_number_manual": "1:25-cv-01365",
+      "scales_html": null,
+      "recap_link": "https://www.courtlistener.com/docket/70139392/zaid-v-executive-office-of-the-president/",
+      "is_active": true
+    },
+    "name": "Zaid v. Executive Office of the President",
+    "never_filed": false,
+    "non_docket_case_number": "",
+    "non_docket_case_number_type": null,
+    "non_docket_case_number_type_other": "",
+    "order_end_year": null,
+    "order_start_year": null,
+    "permanent_injunction": false,
+    "plaintiff_description": "Attorney active in national security and whistleblower representation requiring a security clearance",
+    "plaintiff_type": [],
+    "prevailing_party": "None Yet / None",
+    "pro_se_status": "No",
+    "public_interest_lawyer": "Yes",
+    "related_cases": [],
+    "relief_natures": [
+      "None yet"
+    ],
+    "relief_nature_other": "",
+    "relief_sources": [
+      "None yet"
+    ],
+    "settlement_agreement": [],
+    "settlement_judgment_date": null,
+    "settlement_judgment_year": null,
+    "special_collections": [
+      "Trump Administration 2.0: Challenges to the Government",
+      "Trump Administration 2.0: Challenges to the Government"
+    ],
+    "special_case_type": [],
+    "state": "District of Columbia",
+    "summary": "<p>This case challenged President Trump's usage of a presidential memorandum to retaliate against certain named individuals, including plaintiff, by revoking their security clearances. Plaintiff, an attorney specializing in national security law, spent over three decades representing federal employees, contractors, or whistleblowers who were harmed by or being investigated by the U.S. government. Plaintiff's clients were often members of law enforcement, the military, or the intelligence community; his representation of these clients thus required access to classified information. Plaintiff alleged that Trump's memorandum revoking that access, and its implementation by various U.S. government agencies, violated the Administrative Procedure Act, the First Amendment, and due process.</p>\r\n<p>On May 5, 2025, plaintiff filed this lawsuit in the U.S. District Court for the District of Columbia against the United States of America, the Executive Office of the President, the Department of Defense, the Defense Counterintelligence and Security Agency, the Central Intelligence Agency, and the Office of the Director of National Intelligence. Plaintiff sought a declaration that Trump's memorandum was unconstitutional both on its face and as applied; an injunction preventing further implementation of Trump's memorandum against plaintiff; a hearing clearing plaintiff's name; and attorneys' fees. The case was assigned to District Judge Amir H. Ali.</p>\r\n<p>On May 21, 2025, plaintiff filed a motion for a preliminary injunction, arguing that the gravity of the First Amendment interests at stake and the severity of the economic damage to his business justified injunctive relief to prevent irreparable harm. On May 30, 2025, defendants filed a motion to dismiss the case, contending that Trump's decision to revoke a security clearance was not reviewable by the courts and that courts may not enjoin the President.</p>\r\n<p>Oral arguments on both motions were held on June 27, 2025. The court's rulings on each are pending.</p>\r\n<p>This case is ongoing.</p>",
+    "summary_published_date": "2025-07-01T09:46:39.499102-04:00",
+    "summary_short": "On May 5, 2025, an attorney specializing in national security law brought this lawsuit challenging a presidential memorandum and subsequent agency action withdrawing his security clearance.",
+    "summary_tiny": null,
+    "terminating_date": null,
+    "clearinghouse_link": "clearinghouse.net/case/46572",
+    "is_active": true,
+    "case_documents_url": "https://clearinghouse.net/api/v2/documents/?case=46572",
+    "case_dockets_url": "https://clearinghouse.net/api/v2/dockets/?case=46572",
+    "case_resources_url": "https://clearinghouse.net/api/v2/resources/?case=46572"
+  },
+  "documents": [
+    {
+      "date": "2025-05-05",
+      "date_is_estimate": false,
+      "date_not_available": false,
+      "description": "",
+      "document_source": "RECAP",
+      "document_status": "Coding Complete",
+      "document_type": "Complaint",
+      "order_type": null,
+      "citation_paren": null,
+      "cite_1_page": null,
+      "cite_1_reporter": null,
+      "cite_1_vol": null,
+      "cite_2_page": null,
+      "cite_2_reporter": null,
+      "cite_2_vol": null,
+      "cite_3_page": null,
+      "cite_3_reporter": null,
+      "cite_3_vol": null,
+      "citation_status": "Not applicable",
+      "court": "District of District of Columbia",
+      "no_title": false,
+      "party_types": [
+        "Plaintiff"
+      ],
+      "per_curium": false,
+      "is_core_document": true,
+      "id": 159986,
+      "file": "https://clearinghouse-umich-production.s3.amazonaws.com/media/doc/159986.pdf",
+      "title": "Complaint for Declaratory and Injunctive Relief",
+      "text": "Case 1:25-cv-01365     Document 1     Filed 05/05/25     Page 1 of 29\nUNITED STATES DISTRICT COURT \nDISTRICT OF COLUMBIA \n \n \nMARK S. ZAID, ESQ.1 \n \n  Plaintiff, \n \n  v. \n \nEXECUTIVE OFFICE OF THE PRESIDENT  \n1600 Pennsylvania Avenue, N.W. \nWashington, D.C. 20500 \n \n   and \n \nDEPARTMENT OF DEFENSE \n1000 Defense Pentagon \nWashington, D.C. 20301 \n \n   and \n \nDEFENSE COUNTERINTELLIGENCE AND \nSECURITY AGENCY  Civil Action No. 25- _______ \nBuilding 600, 10th Street \nFort Meade, Maryland 20755 \n \n   and \n \nCENTRAL INTELLIGENCE AGENCY \nWashington, D.C. 20505 \n \n   and  \n \nOFFICE OF THE DIRECTOR OF \nNATIONAL INTELLIGENCE \n1500 Tysons McLean Drive \nMcLean, Virginia 22102 \n \n    and  \n \n \n \n \n \n1 Pursuant to Local Civil Rule 5.1(c)(1), the Plaintiff’s residential address is being filed under seal \nwith the Court in a separate Notice of Filing. \n\nCase 1:25-cv-01365     Document 1     Filed 05/05/25     Page 2 of 29\nTHE UNITED STATES OF AMERICA \nWashington, D.C. 20500 \n \n    Defendants. \n \n \nCOMPLAINT FOR DECLARATORY AND INJUNCTIVE RELIEF \n \n  Plaintiff Mark S. Zaid, Esq. (“Mr. Zaid”), by and through his attorneys, hereby brings this \nComplaint against the Executive Office of the President, the Department of Defense, the Defense \nCounterintelligence and Security Agency, the Central Intelligence Agency, the Office of the Director \nof National Intelligence, and the United States of America to challenge the unlawful revocation of \nhis security clearance.   \nNATURE OF THE ACTION \n1.  Mr. Zaid is an attorney who specializes in national security law.  Through his law \nfirm, Mark S. Zaid, P.C., without regard to party or politics, he represents intelligence, law \nenforcement  and  military  officers,  defense  contractors,  whistleblowers  and  others  who  have \ngrievances with or have been wronged or are being investigated by agencies of the United States \nGovernment.  Over the past three decades, up through and including the date of this filing, his \nrepresentation of these clients often requires access to classified information of various levels.  As \nhe has never been employed by the federal government, his interactions with the security clearance \nadjudication process have only ever been in the context of accessing information necessary for his \nclients’ legal representations.   \n2.  On March 22, 2025, for improper political retribution, President Donald J. Trump \ndirected the summary revocation of security clearances for a group of individuals, including \nspecifically Mr. Zaid, through a Presidential Memorandum titled, “Rescinding Security Clearances \nand  Access  to  Classified  Information  from  Specified  Individuals”  (the  “Rescinding  Security \nClearances Memorandum” or the “Memorandum”).  The immediate effect of the revocation has been \n  2 \n\nCase 1:25-cv-01365     Document 1     Filed 05/05/25     Page 3 of 29\nthat Mr. Zaid can no longer represent current or future clients in matters where doing so requires \naccess to classified information.  President Trump’s actions, and the actions of the Departments or \nAgencies that have complied with the President’s directive, have directly injured Mr. Zaid and his \nclients by undermining his ability to continue to represent them and zealously advocate on their \nbehalf in the national security arena.  For certain present and prospective clients, Mr. Zaid may not \nbe permitted to continue to or ever represent them.  President Trump has also directly injured \nPlaintiff’s current and future clients by depriving them of their constitutional right to legal counsel \nand to petition the court or federal agencies, which are injuries that Mr. Zaid pursues here on their \nbehalf. \n3.  This case is about methods and process.  More specifically, there were no methods \nand there was no process.  Instead, the Rescinding Security Clearances Memorandum is a dangerous, \nunconstitutional retaliation by the President of the United States against his perceived political \nenemies as well as his actual legal adversaries which eschews any semblance of due process.  \nPresident Trump’s directive to summarily revoke Plaintiff’s security clearance has thus far been \nblindly implemented by at least three federal agencies – the Central Intelligence Agency, the \nDepartment of Defense, and the Office of the Director of National Intelligence.  To date, Mr.  Zaid \nhas received none of the procedural protections afforded to cleared individuals facing denial or \nrevocation.  He brings valid claims here notwithstanding the normal deference given to decisions \nconcerning the granting, denial or revocation of security clearances.  Indeed, what has befallen Mr. \nZaid, for exercising his constitutional rights and for enabling his clients to exercise their own, is no \ndifferent than if Defendants had blanketly revoked the clearances of a person or group because of \nsome other protected category, such as race, gender or ethnicity.  \n4.  By implementing the Memorandum, Defendants have strayed far afield of any \ndeference granted to them by existing case law.  Instead, they have launched a bald-faced attack on \n  3 \n\nCase 1:25-cv-01365     Document 1     Filed 05/05/25     Page 4 of 29\na sacred constitutional guarantee: the right to petition the court or federal agencies on behalf of \nclients.  An attack on this right is especially insidious because it jeopardizes Mr. Zaid’s ability to \npursue and represent the rights of others without fear of retribution.   \nJURISDICTION AND VENUE \n \n5.  This Court has subject matter jurisdiction under 28 U.S.C. § 1331 because Mr. Zaid’s \ncauses of action arise under the Constitution and laws of the United States.    \n6.  This Court has authority to enter a declaratory judgment and to provide injunctive \nrelief pursuant to Rules 57 and 64 of the Federal Rules of Civil Procedure, 28 U.S.C. §§ 2201-2202, \nthe All Writs Act, and the Court’s inherent equitable powers.  \n7.  Sovereign immunity for non-monetary relief is waived under 5 U.S.C. § 702, which \nentitles Mr. Zaid to relief when Defendants acted unconstitutionally and beyond statutory authority. \n8.  Venue is appropriate in this judicial district under 28 U.S.C. § 1391(b) and (e). \nPARTIES \n \n9.  Mr. Zaid is an attorney based in Washington, D.C.  For nearly 35 years, his practice \nhas focused on national security law, First Amendment claims, and government accountability.  \nSince 1993, he has represented countless clients from across the political spectrum, particularly in \nfederal court.  As a result, he has been involved in many high-profile lawsuits and other legal \nproceedings, including against both Republican and Democrat administrations.  As discussed in \nfurther detail below, Mr. Zaid’s cases frequently require him to access classified information, \nincluding up to Top Secret/Sensitive Compartmented Information (“TS/SCI”), in order to properly \nrepresent his clients.  In other words, he is often retained as and specifically sought after because he \nis “cleared counsel.” \n10.  Defendant Executive Office of the President is headquartered in Washington, D.C., \nand is an agency within the meaning of 5 U.S.C. § 702. \n  4 \n\nCase 1:25-cv-01365     Document 1     Filed 05/05/25     Page 5 of 29\n11.  Defendant Department of Defense (“DoD”) is headquartered in Washington, D.C., \nand is an agency within the meaning of 5 U.S.C. § 702.  DoD controls its subordinate agency \nDefendant Defense Security and Counterintelligence Agency (“DSCA”), which is headquartered in \nFort Meade, Maryland. \n12.  Defendant Central Intelligence Agency (“CIA”) is headquartered in Washington, \nD.C., and is an agency within the meaning of 5 U.S.C. § 702. \n13.  Defendant Office of the Director of National Intelligence (“ODNI”) is headquartered \nin McLean, Virginia, and is an agency within the meaning of 5 U.S.C. § 702. \n14.  Defendant United States of America is responsible for the exercise of state action by \nthe other named Defendants.  Furthermore, given the number of past, current, and future activities \nby Mr. Zaid that have been impacted by the Rescinding Security Clearances Memorandum, the \nUnited States of America is included as a Defendant to ensure the relief ordered by the Court will \napply government-wide. \nFACTS \n \nSecurity Clearances \n15.  Over the past three months, the issue of security clearances has arisen in connection \nwith several matters before this District.  Specifically, President Trump has used security clearances \nas a weapon on a mass scale since his January 20, 2025, inauguration to punish his perceived political \nenemies by handicapping their ability to engage with the government and pursue their livelihood.   \n16.  Over  the  past  half  century,  the  United  States  Government’s  security  clearance \nprocesses have evolved from the arbitrary discretion of a select few leaders within the Executive \nBranch to a structured, due process-driven system implemented separately across agencies.  The \nprior discretionary-based system was revamped in the wake of Greene v. McElroy, 360 U.S. 474 \n(1959), which struck down a clearance revocation that lacked due process.  The ruling prompted \n  5 \n\nCase 1:25-cv-01365     Document 1     Filed 05/05/25     Page 6 of 29\nprocedural reforms first memorialized in President Dwight D. Eisenhower’s Executive Order 10865 \n(“Safeguarding Classified Information Within Industry”), which outlined due process procedures for \ndefense contractors who require security clearances.  After decades of agencies’ tinkering with the \nguardrails of Executive Order 10865, President William J. Clinton issued Executive Order 12968 in \n1995 (“Access to Classified Information”) to “establish[] a uniform Federal personnel security \nprogram” still in use today. \n17.  Executive Orders 10865 and 12968 remain the central authorities governing access \nto classified information within the current national security apparatus.  In sum, they establish that \neligibility to access classified information should be based on loyalty to the United States, good \ncharacter, trustworthiness, and sound judgment.   \n18.  The tenets of Executive Orders 10865 and 12968 were refined by Executive Order \n13467, issued by George W. Bush in 2008 (“Reforming Processes Related to Suitability for \nGovernment Employment, Fitness for Contractor Employees, and Eligibility for Access to Classified \nNational Security Information”).  Over the years, agencies have published their own directives in \nlight of these Executive Orders.  For example, in 2002, the Department of Defense published DoD \nDirective 5220.06, “Defense Industrial Personnel Security Clearance Review Program,” which \n“update[d] policy, responsibilities, and procedures” for implementing Executive Order 10865.  In \n2008, ODNI published the Intelligence Community Policy Guidance Number 704.3, “Denial or \nRevocation of Access to Sensitive Compartmented Information, Other Controlled Access Program \nInformation, and Appeals Processes.”  And in 2017, ODNI relied on these Executive Orders to issue \nthe National Security Adjudicative Guidelines (“SEAD-4”), which “applies to any executive branch \nagency authorized or designated to conduct adjudications” for classified access. \n19.  SEAD-4 requires that an individual’s access to classified information be “clearly \nconsistent with the national security interests” of the United States.  It intends for the adjudicative \n  6 \n\nCase 1:25-cv-01365     Document 1     Filed 05/05/25     Page 7 of 29\nprocess to be an examination of the “whole-person,” meaning an examination of “a sufficient \nperiod and careful weighing  of  a  number  of  variables  of  an  individual’s  life,”  to  calculate \nwhether the person can be trusted with national security matters.  The adjudicative policy is clear \nthat each “case must be judged on its own merits.”  \n20.  In adjudicating a clearance, the  following thirteen specific areas are considered: \nallegiance to the United States; foreign influence; foreign preference; sexual behavior; personal \nconduct; financial considerations; alcohol consumption; drug involvement and substance misuse; \npsychological conditions; criminal conduct; handling protected information; outside activities; and \nuse of information technology.   \n21.  As is currently being litigated in cases involving the mass suspensions of law firm \nemployees’ security clearances, clearance decisions must be individualized.2  Blanket or “group” \nsuspensions or revocations run headlong into the safeguards enacted to avoid the discredited and \narbitrary McCarthy-era practices. \nAttorney Mark Zaid \n22.  Mr.  Zaid  is  a  Washington,  D.C.-based  attorney  who  specializes  in  complex \nadministrative and litigation matters primarily relating to national security, international law, foreign \nsovereign and diplomatic immunity, the Freedom of Information Act, and the Privacy Act.  His cases \noften involve representing federal employees, service members’, and contractors’ challenges to \nimpending denials or revocations of their security clearances, under both Republican and Democrat \nadministrations. \n \n2 See Memorandum Op., Perkins Coie LLP v. U.S. Dep’t of Just., C.A. No. 25-cv-00716-BAH, Dkt. \n185 at 37-43 and 74–77 (May 2, 2025) (discussing other Executive Orders targeting American law \nfirms and blanket suspensions of firm employees’ security clearances, including those against \nemployees of Covington & Burling LLP, Jenner & Block LLP, and Wilmer Cutler Pickering Hale \nand Dorr LLP).  \n  7 \n\nCase 1:25-cv-01365     Document 1     Filed 05/05/25     Page 8 of 29\n23.  In addition to his representation of current and former federal employees, Mr. Zaid \nhas testified as an expert before, or provided testimony to, a variety of governmental bodies \nincluding the Senate Committees on Judiciary and Homeland Security and Governmental Affairs, \nthe  House  Committees  on  Judiciary,  Homeland  Security,  Oversight  and  Accountability,  the \nDepartment of Energy, the Public Interest Declassification Board and the Assassination Records \nReview Board.  \n24.  Mr. Zaid has had authorized access to classified information since approximately \n1995, upon his first completion of an SF-86.3  During that initial time frame, Mr. Zaid’s clearances \nwere based on individual agency decisions granted on a case-by-case basis and did not require the \ncompletion of a full-scale background investigation.  \n25.  Defendant CIA, whose clandestine employees Mr. Zaid frequently represents, calls \nthese types of clearances “Limited Security Access” approvals. These types of approvals are \nequivalent to interim Secret clearances but are not subject to reciprocity from other agencies.  As \npart of this process, Mr. Zaid has executed countless lawyer-specific non-disclosure agreements \n(“NDAs”).  Mr. Zaid has regularly accessed classified information through Defendant CIA’s Limited \nSecurity Access approvals since approximately 1999, up through and including the time at which \nhis clearance was unlawfully revoked here.   \n \n3 The SF-86 is a national security questionnaire used to initiate background investigations for \nsecurity clearances. The document has been modified over the years Mr. Zaid has completed it; the \nquestions  are  now  categorized  into  the  thirteen  topics  identified  in  SEAD-4’s  Adjudicative \nGuidelines. \n  8 \n\nCase 1:25-cv-01365     Document 1     Filed 05/05/25     Page 9 of 29\n26.  Mr. Zaid’s first fully approved security clearance—meaning, a clearance supported \nby a background investigation—was in or around 2002 and handled through the Department of \nJustice’s (“DOJ”) Federal Bureau of Investigation (“FBI”) after Defendants CIA and DoD were \nordered by a federal judge to process him for access to classified information as part of ongoing \nrepresentation of a client in litigation.  As a result, he was granted a “Secret” clearance.  \n27.  DOJ’s  Office  of  Security  oversaw  Mr.  Zaid’s  clearance,  mostly  connected  to \nclassified  litigation,  through  on  or  about  2019.    Between  2002  and  2019,  DOJ  would  often \nreciprocally certify Mr. Zaid’s clearance to other agencies so he could attend classified briefings or \notherwise converse in an interagency environment.  This would include, but not be limited to, \ncertifying Mr. Zaid’s clearance eligibility to federal agencies’ Offices of Inspectors General.  \n28.  At various times between 2003 and 2024, Mr. Zaid was authorized access to TS/SCI \nmaterial by both the FBI and the Department of Homeland Security (“DHS”) on a case-by-case \nbasis.  In 2020, during President Trump’s first administration, Mr. Zaid’s access eligibility was \nincreased to TS/SCI as part of his representation of a DHS whistleblower.   \n29.  When an individual no longer requires access to classified information, they are \nsupposed to be debriefed and “read out” of their security access.  For DHS, Mr. Zaid was last \ndebriefed and read out of SCI in November 2024.  However, upon information and belief, DHS did \nnot finalize Mr. Zaid’s “read out” in the Scattered Castles system until March 10, 2025.4   \n30.  Since being granted a security clearance in or around 2002, Mr. Zaid has never had \nhis eligibility suspended or revoked.  He has successfully passed multiple background investigations \nduring Republican and Democrat administrations and been adjudicated trustworthy. \n \n4 Scattered Castles is an Intelligence Community database and repository used to verify personnel \nsecurity access and visit certifications. \n  9 \n\nCase 1:25-cv-01365     Document 1     Filed 05/05/25     Page 10 of 29\n31.  In summary, Mr. Zaid has been a practicing attorney for over thirty years and for \nmost of his professional career he has maintained authorized access to classified information.  \nIndeed, far from being a security risk, he has established himself and has been recognized by legal \nand  non-legal  entities  as  a  leader  in  the  legal  community  and  in  the  national  security  field \nspecifically.  His area of expertise, the sine qua non of which is his ability to analyze classified \nnational security information, has made him a highly sought-after attorney for complex national \nsecurity cases.5  A brief review of his considerable qualifications follows: \n(a) A 1992 graduate and Associate Editor of the Law Review of Albany Law School of \nUnion University in New York, Mr. Zaid completed his undergraduate education cum \nlaude in 1989 at the University of Rochester, New York, with honors in Political Science \nand high honors in History.  He is a member of the Bars of New York State, Connecticut, \nthe District of Columbia, Maryland, and numerous federal courts;  \n(b) For over 20 years, he has instructed Continuing Legal Education classes for the District \nof Columbia Bar Association and other jurisdictions including on “The Basics of Filing \nand Litigating Freedom of Information/Privacy Act Requests” (since 2003), “Defending \nSecurity Clearances” (since 2006) and “Handling Federal Whistleblower Cases” (since \n2016);  \n(c) Since 2009, he has been named a Washington, D.C., Super Lawyer every year (including \nbeing  profiled)  and  he  is  repeatedly  named  a  “Best  Lawyer”  in  Washingtonian \nMagazine’s bi-annual designation for his national security or whistleblower work.  The \nMagazine also named him one of D.C.’s 250 (2021) and 500 Most Influential People \n(2022 & 2023), respectively, for national security/legal intelligentsia.  In 2022, the \n \n5 As the National Law Journal once wrote, “if Agent Mulder [of the X-Files] ever needed a lawyer, \nZaid would be his man.”  \n  10 \n\nCase 1:25-cv-01365     Document 1     Filed 05/05/25     Page 11 of 29\nmagazine awarded him the status of “Lawyer Lifetime Achievement Member”;  \n(d) In 2020, the Washington Metropolitan Employment Lawyer’s Association named him \n“Attorney of the Year” for his work on the Intelligence Community Whistleblower’s \ncase; \n(e) In 2024, Forbes Magazine announced him as one of the top 200 lawyers in the United \nStates on their inaugural ranking list;  \n(f) He has taught as an adjunct professor at Johns Hopkins University in the Global Security \nStudies program from 2014 – 2023, and at Texas A&M’s George H.W. Bush School of \nGovernment & Public Service since 2024, where he teaches on national security issues. \nHe also serves on the Executive Board at the Center for Ethics and the Rule of Law at \nthe  University  of  Pennsylvania’s  Annenberg  Public  Policy  Center \n(https://www.penncerl.org/),  and  on  the  Advisory  Board  of  the  International  Spy \nMuseum (https://www.spymuseum.org/);  \n(g) In 2017, Mr. Zaid co-founded Whistleblower Aid (https://whistlebloweraid.org/), a non-\nprofit law firm that provides pro bono legal representation to whistleblowers, particularly \nin the national security arena and sometimes in a classified arena, and where he serves as \nlegal counsel; \n(h) From 2014-2016, he served as a Member appointed by the Archivist of the United States \nto the Freedom of Information Act Advisory Committee;  \n(i)  Mr. Zaid is also the Executive Director and founder of the James Madison Project, a \nWashington, D.C.-based organization with the primary purpose of educating the public \non issues relating to intelligence gathering and operations, secrecy policies, national \nsecurity and government wrongdoing; and, \n(j)  Mr. Zaid has been formally recognized by both state and federal courts as an expert \n  11 \n\nCase 1:25-cv-01365     Document 1     Filed 05/05/25     Page 12 of 29\nrelated to national security matters, particularly prepublication review challenges and \nsecurity clearances.  For example, since 2024, Mr. Zaid has served, at the request of the \nPresiding Judge of the Dallas County Probate Court, as an expert witness for a probate \ncase involving security clearances and facility clearances.6  \n32.  Mr. Zaid’s career is notable both for the depth of contributions to the national security \nfield as well as its breadth.  Mr. Zaid has prominently represented clients across the political \nspectrum, including both Democrat and Republican Members of Congress, and whistleblowers in \nevery  administration  since  President  William  J.  Clinton.  Notable  cases  have  included  his \nrepresentation of the CIA whistleblowers involved in the Benghazi, Libya attack during their 2013-\n2015 Congressional testimony (which also involved cooperation with DOJ as part of criminal \nprosecutions where the clients were witnesses and working closely with then-Congressman Devin \nNunes (R-CA)), the Republican National Committee, several Cabinet officials during President \nTrump’s first administration, and media entities such as the Daily Caller, Daily Beast, Politico and \nWall Street Journal, to name just a few.  Of his aggressive commitment to nonpartisanship, the \nAmerican Bar Association Journal once wrote, “Zaid is an equal opportunity thorn out to pierce the \nsides of suit jackets bearing both elephants and donkeys on the lapels.” \n33.  In short, Mr. Zaid is an excellent national security attorney and an objectively \nengaged, nonpartisan citizen.  His significant experience and qualifications make him remarkably \nvaluable as counsel to current and former federal employees who require legal advice.  As a lawyer \n \n6 Additional examples include in 2017, when Mr. Zaid was designated as an expert on security and \nfacility clearances in Skipper v. Skipper, Case No. 13-C-16-107613 (Howard County Circuit Court) \nand in 2018, he was designated as an expert for classification and prepublication national security \nreview matters in Bissonnette v. Podlaski et al., No. 1:15-CV-00334-SLC, 2018 WL 2688583, at \n*23 (N.D. Ind. June 5, 2018).  He has also provided expert advice in multiple matters involving \nindividuals’  security  clearances,  including  for  criminal  matters  in  state  and  county  courts  in \nMaryland, Virginia, and California, and in a civil matter in the United States District Court for the \nDistrict of Columbia. \n  12 \n\nCase 1:25-cv-01365     Document 1     Filed 05/05/25     Page 13 of 29\nwell-versed in suing the United States Government, he is no stranger to identifying overreach and \nexposing the abuse of power.  And that is exactly why he is being targeted now. \nMr. Zaid and the Trump Administrations \n34.  In  September  2019,  Mr.  Zaid  began  representing  a  whistleblower  within  the \nIntelligence Community (“IC Whistleblower”) who had five weeks earlier filed a complaint with the \nODNI’s Office of Inspector General regarding President Trump’s interactions with Ukrainian \nPresident Volodymyr Zelensky.  This complaint ultimately led to the first impeachment of President \nTrump, although Mr. Zaid’s legal representation of the IC Whistleblower did not involve advocating \nfor any specific outcome. \n35.  Since 2017, Mr. Zaid has handled cases involving Mr. Trump and his Administration \nmuch in the same manner as he had with other Presidential administrations.  But it was not until the \n2019 IC Whistleblower matter that Mr. Zaid  apparently came onto President Trump’s radar, \nimmediately sparking his ire and that of his loyalists both inside and outside the government.  \n36.  In the aftermath of Mr. Zaid’s role as legal counsel becoming public, President Trump \ncalled him a “sleazeball.”  The President’s comments occurred at a televised political rally in \nLouisiana in November 2019, along with his displaying a photo of someone said to be Mr. Zaid.  \nThe political attacks on Mr. Zaid by President Trump and right-wing media prompted one of the \nPresident’s devotees to send Mr. Zaid an email stating that “traitors must die miserable deaths” and \nthat he and other of President Trump’s followers “will hunt you down and bleed you out.”  The \nthreat was fully prosecuted by President Trump’s DOJ and the individual served over a year in jail \nas a result. \n  13 \n\nCase 1:25-cv-01365     Document 1     Filed 05/05/25     Page 14 of 29\n37.  Days after the Louisiana rally, President Trump spoke to reporters at the White House \nabout the impeachment witness: “The whistleblower, because of that, should be revealed. And his \nlawyer, who said the worst things possibly two years ago, he should be sued and maybe for treason. \nMaybe for treason, but he should be sued. His lawyer is a disgrace.” \n38.  Notwithstanding President Trump’s public attacks on Mr. Zaid, the first Trump \nAdministration never initiated any adverse action against Mr. Zaid’s security clearance.  In fact, by \n2020, Mr. Zaid was processed and approved by DHS for access to TS/SCI — an even higher level \nof security clearance than he had held in 2019 — for his role representing a client in another high-\nprofile whistleblower case.  He continued to utilize TS/SCI clearance for various cases through 2024.  \nThe Presidential Memorandum dated March 22, 2025 and Related Events \n39.  Despite an entire Presidential administration having come and gone since President \nTrump had last publicly targeted Mr. Zaid, on February 8, 2025, the New York Post reported on \nPresident Trump’s stated intent to conduct a mass revocation of security clearances for a wide-\nranging  set  of  current  and  former  government  employees,  identifying  Mr.  Zaid  by  his  2019 \nrepresentation of the IC Whistleblower.7   \n40.  This pledge took place less than three weeks after the January 20, 2025 inauguration, \nand only four days after Mr. Zaid filed a lawsuit suing the Trump Administration on behalf of a \ngroup of FBI personnel who had investigated the deadly January 6, 2021 attack by President Trump’s \nsupporters on the United States Capitol to prevent the congressional certification of the 2020 \nelection.  That lawsuit sought to protect the identities of FBI personnel from being released publicly. \n41.  Approximately one month later, on March 10, 2025, Director of National Intelligence \nTulsi Gabbard published the following statement on social media platform X: \n \n7 Miranda Devine, Trump stripping the security clearances of numerous antagonists — including \nNY AG Letitia James, DA Alvin Bragg, New York Post (Feb. 8, 2025). \n  14 \n\nCase 1:25-cv-01365     Document 1     Filed 05/05/25     Page 15 of 29\n\nCase 1:25-cv-01365     Document 1     Filed 05/05/25     Page 16 of 29\nFiona Hill, Alexander Vindman, Joseph R. Biden Jr., and any other member of \nJoseph R. Biden Jr.’s family.  Therefore, I hereby direct every executive department \nand agency head to take all additional action as necessary and consistent with \nexisting law to revoke any active security clearances held by the aforementioned \nindividuals and to immediately rescind their access to classified information.  I also \ndirect all executive department and agency heads to revoke unescorted access to \nsecure  United  States  Government  facilities  from  these  individuals. \n \nThis action includes, but is not limited to, receipt of classified briefings, such as the \nPresident’s Daily Brief, and access to classified information held by any member \nof the Intelligence Community by virtue of the named individuals’ previous tenure \nin the Congress. \n \nIn the event that any of the named individuals received a security clearance by \nvirtue of their employment with a private entity, the United States Government \nentity that granted the security clearance should inform the private entity that these \nindividuals’  ability  to  access  classified  information  has  been  revoked.  \n \nThis memorandum is not intended to, and does not, create any right or benefit, \nsubstantive or procedural, enforceable at law or in equity by any party against the \nUnited States, its departments, agencies, or entities, its officers, employees, or \nagents, or any other person. \n \n45.  On information and belief, Mr. Zaid appears to be the only individual specifically \nnamed in the first paragraph of the directive who has never held a security clearance as a federal or \nstate employee or ever worked in any political capacity as an attorney (other than perhaps some \nunnamed Biden family member).  In other words, his basis for a security clearance throughout the \nentirety of his professional life has been through his legal representation of clients.   \n46.  Notably,  the  Rescinding  Security  Clearances  Memorandum  actually  directs  the \nrevocation of the named individuals’ security clearances.10  This is in contrast to the lawsuits \nrecently filed in this District, where employees of plaintiff law firms are subject to the temporary \nsuspension of clearances pending a review by the relevant agency heads.11   \n \n10  In  an  apparent  misunderstanding  of  nomenclature,  the  Memorandum  also  references  the \n“rescission” of security clearances.  Context suggests that the Memorandum’s author(s) intended \n“rescission” to be synonymous with “revocation.” \n \n11 On May 2, 2025, Judge Beryl Howell ruled that an Executive Order suspending Perkins Coie’s \n \n  16 \n\nCase 1:25-cv-01365     Document 1     Filed 05/05/25     Page 17 of 29\n47.  On  or  about  April  3,  2025,  Mr.  Zaid  received  a  one-page,  three-paragraph \nmemorandum from DCSA with the subject line “Revocation of Personnel Security Clearance \nEligibility.”  The DSCA document cites the March 22, 2025 Presidential Memorandum and states \nas follows: \nThe  [March  22,  2025  Memorandum]  directs  every  executive  department  and \nagency head to take all additional action as necessary and consistent with existing \nlaw to revoke any active security clearances held by you, and by other individuals \nidentified or described in the [Memorandum]. \nPursuant to that direction, DCSA has revoked the security clearance held by you. \nThe revocation action has been annotated in our system of record for personnel \nclearances. \n \n48.  The third paragraph then directs the reader to a whitehouse.gov website which \ndisplays the Rescinding Security Clearances Memorandum.  The letter is signed by the Division \nChief, Adjudication and Vetting Services.   \n49.  On or about April 9, 2025, Mr. Zaid received a one-page, one-paragraph letter from \nthe Central Intelligence Agency’s Office of General Counsel.  There is no subject line for the \ncorrespondence.  The single substantive paragraph states as follows: \nI am  writing  regarding  the  Presidential  Memorandum  entitled  “Rescinding \nSecurity  Clearances and  Access  to  Classified  Information  from  Specified \nIndividuals,”  available  at  https://www.whitehouse.gov/presidential-\nactions/2025/03/rescinding-security-clearances-and-access-to-classified-\ninformation-from-specified  individuals.  As  you  are  aware,  you  were \nspecifically identified by the White House in this memo. Pursuant to this memo, \nthe Agency is required to “revoke any active security clearances ...  and to \nimmediately  rescind  []  access  to  classified  information”  for  the  named \nindividuals. Accordingly,  you are no longer personally permitted  access to \nclassified information in any ongoing matters that you are currently involved in \nwith the Agency.  You may continue to represent any current or future clients \nas you deem appropriate, but you cannot gain access to or make use of classified \ninformation in connection with such representations. To the extent necessary \n \nclearances via “a publicly announced general policy governing security clearances for any member \nof a class of people—here, the class consists of employees of plaintiff” was “constitutionally suspect \non multiple bases” and thus permanently enjoined.  See Memorandum Op., Perkins Coie LLP v. U.S. \nDep’t of Just., C.A. No. 25-cv-00716-BAH, Dkt. 185 at 37–43 (May 2, 2025) (emphasis in original).  \n  17 \n\nCase 1:25-cv-01365     Document 1     Filed 05/05/25     Page 18 of 29\nand appropriate, you are still permitted escorted access to Agency facilities and \nmay review unclassified materials. \n \n50.  The letter is signed by the Deputy General Counsel for Litigation and Investigations.  \nThis particular action has a cascading adverse effect on Mr. Zaid’s ability to represent other current \nclients given that classified information he previously learned through authorized representations \nbenefits victims of Anomalous Health Incidents whom he has represented, including as lawful \nwhistleblowers,  dating  back  a  decade.12    Moreover,  restricting  Mr.  Zaid’s  ability  to  act  on \ninformation  he  already  knows  is  a  constructive  severance  of  his  ongoing  attorney-client \nrelationships, as he could not possibly uphold his ethical obligations to zealously represent his clients \nwhile also ignoring crucial information relevant to their cases.  The CIA’s letter thus goes even \nbeyond what the Executive Memorandum ordered by improperly punishing Mr. Zaid for his lawful \nrepresentation of clients. See Tom Rogan, Trump runs defense for deep state with Mark Zaid \nclearance  revocation,  Washington  Examiner  (February  11,  2025),  available  at: \nhttps://www.washingtonexaminer.com/opinion/beltway-confidential/3316191/trump-runs-defense-\ndeep-state-mark-zaid-clearance-revocation/. \n51.  On April 23, 2025, Mr. Zaid received an email from ODNI’s Office of Inspector \nGeneral that stated he was denied access to a client’s classified complaint, which he has previously \naccessed and remains a critical part of an ongoing case, because ODNI Security determined “(U) \nPursuant to Presidential direction issued on 22 March 2025 (attached), the individuals listed therein, \nno longer have a security clearance, are not authorized for access to classified information, and do \nnot have unescorted access to ODNI facilities.”  This client is referred to herein as John Doe-1. \n \n12 Anomalous Health Incidents, sometimes referred to as “Havana Syndrome,” are unexplained \nhealth issues and symptoms experienced by government employees, often during or following an \nassignment abroad. \n  18 \n\nCase 1:25-cv-01365     Document 1     Filed 05/05/25     Page 19 of 29\n52.  On May 1, 2025, Director Gabbard followed up her March 10 X post by discussing \nthe Government’s revocation of Mr. Zaid’s security clearance during a sit-down interview with \nreporter Megyn Kelly on The Megyn Kelly Show.  Director Gabbard referenced Mr. Zaid by name \ndirectly as among “a number of other people” whose clearances have been revoked, while laughing \nabout it with Ms. Kelly and agreeing it was “fun.”13 \n53.  Defendant ODNI then issued a press release14 on May 2, 2025, which Director \nGabbard shared on X as well, which noted that she revoked security clearances of “numerous \nindividuals who abused public trust for political purposes.”15  A click of the hyperlink on the press \nrelease directs back to Director Gabbard’s original tweet of March 10, 2025, as referenced in \nparagraph 40, which identifies Mr. Zaid as one of the targeted individuals. \n54.  In sum, Mr. Zaid currently represents multiple clients for whom he now cannot access \nrelevant classified information as part of his effective and zealous representation.  Defendants \nactions have thus obstructed ongoing attorney-client relationships in active matters where the federal \ngovernment is adverse to those clients.  Furthermore, Mr. Zaid is routinely contacted by individuals \nwho seek to retain his legal services in matters (criminal, civil and administrative) that require access \nto classified information.  Mr. Zaid must advise these potential clients that, as a result of Defendants’ \nactions, his representation will be limited – and may not even be permitted as a matter of law \n(particularly where the prospective client’s affiliation to agencies such as CIA is covert) until the \nMemorandum is found unconstitutional or the agencies’ actions are otherwise rescinded.   \n \n13 “Tulsi Gabbard on Investigating the Leaks, Fighting the Deep State, and Whether She’ll Run in \n2028,” The Megyn Kelly Show (May 1, 2025), https://www.youtube.com/watch?v=6tFyUP0TgrM.   \n \n14 ODNI News Release No. 08-25, https://www.dni.gov/index.php/newsroom/press-releases/press-\nreleases-2025/4069-pr-08-25 (May 2, 2025). \n \n15 https://x.com/DNIGabbard/status/1918333364970365134?s=19. \n  19 \n\nCase 1:25-cv-01365     Document 1     Filed 05/05/25     Page 20 of 29\nCOUNT ONE \nViolation of the Administrative Procedure Act \n(Against All Agency Defendants: Department of Defense; Defense Counterintelligence and \nSecurity Agency; Central Intelligence Agency; Office of the Director of National Intelligence) \n \n55.  Mr. Zaid hereby realleges and incorporates all allegations in the above paragraphs as \nif fully set forth herein.   \n56.  Under  the  Administrative  Procedure  Act,  a  court  shall  “compel  agency  action \nunlawfully withheld or unreasonably delayed” and “hold unlawful and set aside agency action found \nto be . . . arbitrary, capricious, an abuse of discretion, or otherwise not in accordance with law . . . \ncontrary to constitutional right, power, privilege, or immunity . . . [or] . . . without observance of \nprocedure required by law.” 5 U.S.C. § 706(1) and (2)(A), (B) and (D). \n57.  The  Defendants  failed  to  abide  by  the  requirements  imposed  through  binding \nregulations and Executive Orders to include, but not limited to, Executive Order 10865, Executive \nOrder 12968, Executive Order 13467, SEAD-4, Intelligence Community Policy Guidance 704-3 and \nDoD Directive 5220.6. Each of these and other legally binding provisions require comprehensive \nand detailed explanations to be provided to Mr. Zaid prior to clearance revocation so that he may \nhave an opportunity to respond.  \n58.  By taking direct action against Mr. Zaid for exercising his basic rights and carrying \nout his proper function as counsel and a zealous advocate for his clients, Defendants’ have engaged \nin blatant political retribution and textbook “arbitrary and capricious” conduct.  See 5 U.S.C. \n§ 706(2)(A).  Defendants have given no reasoned or legitimate explanation for their conduct, and \nignored all procedural interests implicated by their actions.   \n59.  Defendants’ refusal to adhere to mandated agency processes and procedures violate \nthe Administrative Procedures Act.  Their actions and inactions have already harmed and continue \nto harm Mr. Zaid. \n  20 \n\nCase 1:25-cv-01365     Document 1     Filed 05/05/25     Page 21 of 29\nCOUNT TWO \nViolation of the Fifth Amendment (Procedural Due Process) \n(Against All Defendants) \n \n60.  Mr. Zaid hereby realleges and incorporates all allegations in the above paragraphs as \nif fully set forth herein. \n61.  When an individual is summarily denied a security clearance in a way that impairs \nhis livelihood, that individual must be provided an opportunity to review and rebut the evidence that \ncaused the injury. This has been the policy of the United States Government, to include every United \nStates President, for nearly seven decades.  \n62.  Defendants’ summary revocation of Mr. Zaid’s clearance provided none of the \nprocedural safeguards guaranteed to him through the Fifth Amendment, Executive Order 10865, \nExecutive Order 12968, Executive Order 13467, DoD Directive 5220.6, and SEAD-4.  Instead, the \nTrump Administration ignored more than a half-century’s worth of development and refinement of \nmeaningful, thoughtfully constructed security clearance adjudication processes carefully crafted by \nnational security experts and concerned government leaders.  \n63.  Apparently without even a passing thought of whether it was constitutional to do so, \nDefendants replaced the hard-fought, due process-based methods and procedures that have existed \nfor decades by conducting a summary revocation of Mr. Zaid’s security clearance.  They did so via \na New York Post interview, a social media post, and a Presidential Memorandum relying on nothing \nmore than an opaque reference to the “national interest” as opposed to a national security interest.   \n64.  None of the statements of the President quoted in the New York Post article, the social \nmedia posting from and latest media appearance by Director Tulsi Gabbard, the March 22, 2025 \nRescinding Security Clearances Memorandum, the April 3, 2025, DCSA letter, the April 9, 2025, \nCIA letter, or the April 23, 2025 ODNI email provide any meaningful information that would enable \nMr. Zaid to respond to the allegations contained therein.  Indeed, there are no substantive allegations \n  21 \n\nCase 1:25-cv-01365     Document 1     Filed 05/05/25     Page 22 of 29\ncontained in any of these writings.   \n65.  As evident from the text of the letters quoted supra, the agencies issued final \nrevocations of Mr. Zaid’s clearance in reflexive response to the Rescinding Security Clearances \nMemorandum and without adhering to even a modicum of their own procedures and methods, as set \nout in, for example, Executive Orders 10865 and 12968, DoD Directive 5220.6, and  SEAD-4.  Thus, \nthe Rescinding Security Clearances Memorandum is unconstitutional as applied to Mr. Zaid. \n66.  The Memorandum itself is also unconstitutional on its face.  It is not possible for \nagencies to act “consistent with existing law” while also automatically revoking the clearance of the \nindividuals listed in the directive.  Acting consistent with the law and issuing a summary revocation \nare mutually exclusive concepts, and the entire directive is unconstitutional on its face.  \n67.  Defendants’ constitutional due process violations have already harmed and continue \nto harm Mr. Zaid.   \nCOUNT THREE \nViolation of the First Amendment (Speech, Association, Petition) \n(Against All Defendants) \n \n68.  Mr. Zaid hereby realleges and incorporates all allegations in the above paragraphs as \nif fully set forth herein. \n69.  The First Amendment guarantees all citizens “the freedom of speech” and the right \n“to petition the Government for a redress of grievances.”  U.S. Const. amend. I.   \n70.  The Presidential Memorandum and ensuing agency actions violate the foundational \nconcepts of citizens’ right to interact with their government in two ways.   \n71.  First, as to Mr. Zaid’s current clients whose cases require his access to classified \ninformation,  Defendants  have  directly  obstructed  their  ability  to  continue  their  actions  and \ncommunicate with cleared counsel.  Mr. Zaid has standing to assert this First Amendment claim both \non his own behalf and on behalf of his existing clients based on their attorney-client relationships.  \n  22 \n\nCase 1:25-cv-01365     Document 1     Filed 05/05/25     Page 23 of 29\nOn the issue of restricting clients’ access to cleared counsel, it is helpful to envision this case at scale: \nif Defendants’ baseless revocations of security clearances is denied review or otherwise upheld by \nthe courts, this clears the path for limitless, large-scale summary clearance revocations of any cleared \ncounsel who take positions opposed to the Trump Administration.   \n72.  The effect of this is as predictable as it is frightening: individuals seeking to challenge \nthe Government will be constructively denied competent counsel to do so.  In the instant case, the \nrevocation of a security clearance for an attorney of Mr. Zaid’s caliber is particularly deleterious.  \nThe Trump Administration is seeking to neutralize  someone viewed  as an adversarial threat.  \nThrough their summary revocation of his clearance, Defendants have found a way to take Mr. Zaid \noff the ever-expanding chess board of their ongoing litigation battles.  Their actions also prevent him \nfrom representing clients within federal agencies, like John Doe-1, who are lawful whistleblowers \nor whom the Trump Administration is targeting for discipline or termination.   \n73.  Second, the summary revocation of Mr. Zaid’s security clearance is an overt sanction \nof his good-faith representation of clients.  Mr. Zaid’s only interactions with classified information \nhave come from his lawful and government authorized representation of plaintiffs, defendants, and \nwitnesses involved in administrative, legislative or judicial proceedings.  In other words, there is no \nindication  that  the  revocation  is  a  response  to  anything  other  than  his  proper  and  ethical \nrepresentation of clients.  The Petition Clause does not allow the President or his agencies to punish \nMr. Zaid or his clients simply because they have engaged in lawsuits or otherwise participated in \nlegal proceedings against the Government. \n74.  Defendants’ violations of the First Amendment have already harmed and continue to \nharm Mr. Zaid. \n \n \n  23 \n\nCase 1:25-cv-01365     Document 1     Filed 05/05/25     Page 24 of 29\nCOUNT FOUR \nViolation of the Fifth Amendment (Vagueness) \n(Against All Defendants) \n \n75.  Mr. Zaid hereby realleges and incorporates all allegations in the above paragraphs as \nif fully set forth herein. \n76.  A federal law is unconstitutionally vague in the context of Fifth Amendment Due \nProcess Requirements if it fails to provide a person of ordinary intelligence fair notice of what is \nprohibited, or if it is so standardless that it authorizes or encourages seriously discriminatory \nenforcement.  \n77.  A Presidential Memorandum, like an Executive Order, is subject to judicial review.   \n78.  The  March  22,  2025  Rescinding  Security  Clearances  Memorandum  is \nunconstitutionally vague and violates the Fifth Amendment’s Due Process Clause.  It provides no \nexplanation for the revocation of security clearances, other than asserting the revocations would be \nin the “national interest.”  The variety of interpretations of what the Trump Administration deems to \nbe in the “national interest” is nothing short of limitless.   \n79.  The guiding principle for security clearance adjudication is, of course, national \nsecurity.  That the Memorandum deliberately elected to forego any reliance on a national security \njustification further underscores how problematic the directive is.  By relying on “national interest,” \nDefendants test the waters for engaging in large-scale, arbitrary and discriminatory security clearance \nrevocations based on the whims of a single Executive.  Under the guise of an undefined “national \ninterest,” Defendants could, for example, seek to rescind the security clearances of all registered \nDemocratic voters, or all contributors (as noted by the Federal Election Commission) to the 2024 \npresidential campaign of Mr. Trump’s opponent Kamala D. Harris.    \n80.  The intentionally obscure language within the Memorandum provides none of the \nlisted individuals with any information on either the purpose or process behind the revocations.  \n  24 \n\nCase 1:25-cv-01365     Document 1     Filed 05/05/25     Page 25 of 29\nFurther, it provides none of the other estimated millions of Americans who hold security clearances \nany information with which they may ascertain how to avoid such a summary revocation.  It cites no \ncompelling government interest and includes no indicators that it is narrowly tailored to meet any \npurported interest.   \n81.  By extension, the agencies’ implementations of the Memorandum thus far have done \nlittle more than cite directly, and only, to the Memorandum.  Their actions are similarly deficient. \n82.  Defendants’ violations of the Fifth Amendment have already harmed and continue \nto harm Mr. Zaid. \nCOUNT FIVE \nViolation of the Fifth Amendment (Right to Counsel) \n(Against All Defendants) \n \n83.  Mr. Zaid hereby realleges and incorporates all allegations in the above paragraphs as \nif fully set forth herein. \n84.  The Fifth Amendment protects both lawyers’ and clients’ due-process rights in \nestablishing and maintaining attorney-client relationships, including the client’s right to choose \ncounsel and the lawyer’s corresponding right to maintain that representation free from arbitrary or \nunjustified governmental interference.  See U.S. Dep’t of Labor v. Triplett, 494 U.S. 715, 721 (1990). \n85.  Mr. Zaid will be functionally unable to carry out his duties as an attorney for his \nclients whose representations require classified access, for example, like John Doe-1.   \n86.  The Rescinding Security Clearances Memorandum includes no valid stated reasons \nor legitimate government interest for interfering with his ongoing client relationships, other than a \nmeaningless reference to the “national interest.” \n87.  The Memorandum’s restrictions therefore infringe the rights of both Mr. Zaid as a \nlawyer and his clients under the Fifth Amendment. \n  25 \n\nCase 1:25-cv-01365     Document 1     Filed 05/05/25     Page 26 of 29\n88.  Defendants’ violations of the Fifth Amendment have already harmed and continue \nto harm Mr. Zaid and his clients. \nCOUNT SIX \nBill of Attainder \n(Against Executive Office of the President) \n \n89.  Mr. Zaid hereby realleges and incorporates all allegations in the above paragraphs as \nif fully set forth herein. \n90.  The Bill of Attainder Clause of the United States Constitution states that “No Bill of \nAttainder . . . shall be passed [by Congress],” U.S. Const. art. I, § 9.  This applies equally to the \nExecutive Branch, as it would be unfathomable that “the authors of the Constitution, who outlawed \nthe bill of attainder, inadvertently endowed the executive with power to engage in the same tyrannical \npractices that had made the bill such an odious institution.”  Joint Anti-Fascist Refugee Comm. v. \nMcGrath, 341 U.S. 123, 144 (1951) (Black, J., concurring).   \n91.  Defendants’ actions here amount to a constitutionally prohibited Bill of Attainder, \nprohibited under the Due Process Clause of the Fifth Amendment as a “deprivation[] of liberty \nwithout  due  process  of  law.”    The  revocation  of  Mr.  Zaid’s  security  clearance  was  directed \nspecifically towards him as an identifiable individual, summarily determined his guilt, inflicted \npunishment and deprived him of his livelihood, and did so without any of the procedural due process \nMr. Zaid is entitled to.  On these points: \na.  The March 22, 2025 Rescinding Security Clearances Memorandum identified Mr. Zaid \nby name along with 14 other named individuals.  President Trump directed agencies to \ntake  specific,  final  action  against  Mr.  Zaid.    Rescinding  Security  Clearances \nMemorandum, ¶ 1 (“Therefore, I hereby direct every executive department and agency \nhead to take all additional action as necessary and consistent with existing law to revoke \nany  active  security  clearances  held  by  the  aforementioned  individuals  and  to \n  26 \n\nCase 1:25-cv-01365     Document 1     Filed 05/05/25     Page 27 of 29\nimmediately rescind their access to classified information.”)  \nb.  That final action—revocation of his security clearance—is tantamount to a finding of \n“guilt” in the context of security clearance adjudicative processes.   \nc.  President Trump’s individualized targeting of Mr. Zaid has inflicted punishment.  Mr. \nZaid  can  no  longer  represent  clients  in  accordance  with  his  ethical  obligations.  \nMoreover, the public pronouncements of his unfitness to hold a clearance have damaged \nhis reputation and livelihood as a national security lawyer. \nd.  As outlined above, with the stroke of a pen, Mr. Zaid was deprived of decades’ worth of \nwell-developed due process rights afforded to all other security clearance holders.  He \nhas thus been found “guilty” and without a “trial.”  \n92.  Mr. Zaid brings this stand-alone Bill of Attainder claim to directly contest this \nunconstitutional unilateral action by the Executive Office of the President not otherwise authorized \nby Congress.   \n   \n  27 \n\nCase 1:25-cv-01365     Document 1     Filed 05/05/25     Page 28 of 29\nREQUEST FOR RELIEF \n \n   WHEREFORE, Mr. Zaid requests that this Court: \n \nA. Declare the March 22, 2025 Presidential Memorandum “Rescinding Security Clearances \nand  Access  to  Classified  Information  from  Specified  Individuals”  as  facially \nunconstitutional; \nB.  Declare the March 22, 2025 Presidential Memorandum “Rescinding Security Clearances \nand Access to Classified Information from Specified Individuals” as unconstitutional as \napplied to Mr. Zaid; \nC.  Enjoin any further implementation of the Memorandum’s directives as to Mr. Zaid; \nD. Rescind the Defendants’ revocation of Mr. Zaid’s security clearance;  \nE.  Require the Defendants to provide appropriate procedural and substantive due process as \nto Mr. Zaid; \nF.  Require the Defendants to conduct a name-clearing hearing for Mr. Zaid; \nG.  Award Mr. Zaid his costs and reasonable attorneys’ fees incurred in this action; and, \n \nH.  Award other relief as the Court deems just. \n \n \n \n \n \n \n \n \n \n  28 \n\nCase 1:25-cv-01365     Document 1     Filed 05/05/25     Page 29 of 29\nDated: May 5, 2025  \n \n \n/s/ Abbe David Lowell    /s/ Norman L. Eisen___________ \nAbbe David Lowell (D.C. Bar # 358651)  Norman L. Eisen (D.C. Bar # 435051) \nLOWELL & ASSOCIATES, PLLC  DEMOCRACY DEFENDERS FUND  \n1250 H Street, N.W., 2nd Fl.  600 Pennsylvania Avenue, SE, #15180 \nWashington, DC 20005  Washington, D.C. 20003 \nTel: 202-964-6110  Tel: (202) 594-9958 \nFax: 202-964-6116  norman@statedemocracydefenders.org \nalowellpublicoutreach@lowellandassociates.com   \n   \n/s/ Margaret M. Donovan                                  /s/ Kevin T. Carroll________ \nMargaret M. Donovan (D.C. Bar # CT0026)  Kevin T. Carroll (D.C. Bar # 1021479) \nChristopher M. Mattei (pro hac vice forthcoming) 1751 Pinnacle Drive \nKOSKOFF, KOSKOFF & BIEDER, PC  Tysons, VA 22102 \n350 Fairfield Ave., Suite 501  Tel: 718-791-5761 \nBridgeport, CT 06604  kevintcarroll@hotmail.com \nTel: (203) 336-4421   \nFax: (203) 368-3244 \nmdonovan@koskoff.com \ncmattei@koskoff.com  \n \n/s/ George W. Croner___________  /s/ D.E. Wilson, Jr.___________ \nGeorge W. Croner (pro hac vice forthcoming)  D.E. Wilson, Jr. (D.C. Bar # 932178) \nKOHN, SWIFT & GRAF, P.C.  LANKFORD & REED, PLLC \n1600 Market Street, Suite 2500  120 North St. Asaph Street \nPhiladelphia, PA 19103  Alexandria, VA. 22314 \nTel: 215-238-1700  Tel: 703.299.5000  \ngcroner@kohnswift.com  ewilson@LRfirm.net \n \n/s/ Eugene R. Fidell_____________   \nEugene R. Fidell (D.C. Bar # 112003) \nFELDESMAN LEIFER LLP \n1129 20th Street NW, Ste. 400 \nWashington, D.C., 20036 \nTel: 202-466-8960 \nefidell@feldesman.com \n \n   \n   \n  Counsel for Plaintiff Mark Zaid, Esq. \n \n  29 ",
+      "document_type_other": null,
+      "external_url": "https://www.courtlistener.com/docket/70139392/1/zaid-v-executive-office-of-the-president/",
+      "ecf_number": "1",
+      "clearinghouse_link": "clearinghouse.net/doc/159986"
+    },
+    {
+      "date": null,
+      "date_is_estimate": false,
+      "date_not_available": false,
+      "description": null,
+      "document_source": null,
+      "document_status": null,
+      "document_type": null,
+      "order_type": null,
+      "citation_paren": null,
+      "cite_1_page": null,
+      "cite_1_reporter": null,
+      "cite_1_vol": null,
+      "cite_2_page": null,
+      "cite_2_reporter": null,
+      "cite_2_vol": null,
+      "cite_3_page": null,
+      "cite_3_reporter": null,
+      "cite_3_vol": null,
+      "citation_status": null,
+      "court": null,
+      "no_title": false,
+      "party_types": [],
+      "per_curium": false,
+      "is_core_document": true,
+      "id": 159984,
+      "file": null,
+      "title": null,
+      "text": null,
+      "document_type_other": null,
+      "external_url": null,
+      "ecf_number": null,
+      "clearinghouse_link": "clearinghouse.net/doc/159984"
+    }
+  ],
+  "document_count": 2
+}

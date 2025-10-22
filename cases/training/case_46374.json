@@ -1,0 +1,748 @@
+{
+  "case_id": 46374,
+  "fetched_at": "2025-10-22T00:45:23.368513",
+  "case_data": {
+    "attorney_orgs": [],
+    "available_documents": [
+      "Trial Court Docket",
+      "Complaint (any)",
+      "Injunctive (or Injunctive-like) Relief",
+      "Any published opinion"
+    ],
+    "case_defendants": [
+      {
+        "defendant_level": null,
+        "institution": "",
+        "institution_alt_state": "- United States (national) -",
+        "institution_city": "",
+        "institution_county": null,
+        "name": "Department of Defense",
+        "defendant_level_other": "",
+        "is_active": true
+      },
+      {
+        "defendant_level": null,
+        "institution": "",
+        "institution_alt_state": "- United States (national) -",
+        "institution_city": "",
+        "institution_county": null,
+        "name": "General Services Administration",
+        "defendant_level_other": "",
+        "is_active": true
+      }
+    ],
+    "case_ongoing": "No",
+    "case_status": "Coding Complete",
+    "case_types": [
+      "Labor Rights",
+      "Public Benefits/Government Services",
+      "Public Accommodations/Contracting"
+    ],
+    "cause_other": "",
+    "causes": [
+      "Administrative Procedure Act, 5 U.S.C. §§ 551 et seq.",
+      "Declaratory Judgment Act, 28 U.S.C. § 2201"
+    ],
+    "class_action_granted": "Not sought",
+    "class_action_sought": "No",
+    "closing_year": 2025,
+    "constitutional_clause": [],
+    "content_of_injunction": [
+      {
+        "value": "Preliminary relief granted"
+      },
+      {
+        "value": "National / Universal injunction"
+      }
+    ],
+    "court": "District of District of Columbia",
+    "custom_issues": [],
+    "defendant_payment": "",
+    "defendant_type": [
+      {
+        "value": "Jurisdiction-wide"
+      }
+    ],
+    "docket_status": "Complete as of retrieval date",
+    "facility_type": [],
+    "filing_date": "2025-04-09",
+    "filing_year": 2025,
+    "id": 46374,
+    "injunction_duration": "",
+    "issues": [
+      "General/Misc.: Public benefits (includes, e.g., in-state tuition, govt. jobs)",
+      "General/Misc.: Government services"
+    ],
+    "last_checked_date": "2025-08-01T00:00:00-04:00",
+    "main_docket": {
+      "id": 61315,
+      "docket_entries": [
+        {
+          "row_number": 8,
+          "id": 10216614,
+          "entry_number": "17",
+          "date_filed": "2025-05-08T00:00:00-04:00",
+          "attachments": null,
+          "url": "https://www.courtlistener.com/docket/69864612/17/north-americas-building-trades-unions-v-department-of-defense/",
+          "recap_pdf_url": "https://www.courtlistener.com/recap/gov.uscourts.dcd.279330/gov.uscourts.dcd.279330.17.0.pdf",
+          "pacer_doc_id": "045011373414",
+          "description": "NOTICE OF SUPPLEMENTAL AUTHORITY by DEPARTMENT OF DEFENSE, STEPHEN EHIKIAN, GENERAL SERVICES ADMINISTRATION, PETER B. HEGSETH (Attachments: # 1 Exhibit)(Kurland, Benjamin) (Entered: 05/08/2025)"
+        },
+        {
+          "row_number": 10,
+          "id": 9941989,
+          "entry_number": "19",
+          "date_filed": "2025-05-16T00:00:00-04:00",
+          "attachments": [],
+          "url": "https://www.courtlistener.com/docket/69864612/19/north-americas-building-trades-unions-v-department-of-defense/",
+          "recap_pdf_url": "https://www.courtlistener.com/recap/gov.uscourts.dcd.279330/gov.uscourts.dcd.279330.19.0.pdf",
+          "pacer_doc_id": "045011392146",
+          "description": "MEMORANDUM OPINION granting 5 Motion for Preliminary Injunction. See document for details. Signed by Judge Rudolph Contreras on 05/16/2025. (lcrc2) (Entered: 05/16/2025)"
+        },
+        {
+          "row_number": 22,
+          "id": 9526592,
+          "entry_number": null,
+          "date_filed": "2025-04-09T00:00:00-04:00",
+          "attachments": [],
+          "url": "https://www.courtlistener.com",
+          "recap_pdf_url": null,
+          "pacer_doc_id": null,
+          "description": "Case Assigned/Reassigned"
+        },
+        {
+          "row_number": 13,
+          "id": 10007584,
+          "entry_number": "21",
+          "date_filed": "2025-06-23T00:00:00-04:00",
+          "attachments": [
+            {
+              "recap_id": 443528019,
+              "pacer_url": "https://ecf.dcd.uscourts.gov/doc1/045011463612?caseid=279330",
+              "description": "Memorandum in Support",
+              "attachment_number": 1
+            },
+            {
+              "recap_id": 443528022,
+              "pacer_url": "https://ecf.dcd.uscourts.gov/doc1/045011463613?caseid=279330",
+              "description": "Text of Proposed Order",
+              "attachment_number": 2
+            }
+          ],
+          "url": "https://www.courtlistener.com/docket/69864612/21/north-americas-building-trades-unions-v-department-of-defense/",
+          "recap_pdf_url": null,
+          "pacer_doc_id": "045011463611",
+          "description": "MOTION to Dismiss for Lack of Jurisdiction by DEPARTMENT OF DEFENSE, STEPHEN EHIKIAN, GENERAL SERVICES ADMINISTRATION, PETER B. HEGSETH. (Attachments: # 1 Memorandum in Support, # 2 Text of Proposed Order)(Kurland, Benjamin) (Entered: 06/23/2025)"
+        },
+        {
+          "row_number": 14,
+          "id": 10201687,
+          "entry_number": "22",
+          "date_filed": "2025-07-07T00:00:00-04:00",
+          "attachments": [],
+          "url": "https://www.courtlistener.com/docket/69864612/22/north-americas-building-trades-unions-v-department-of-defense/",
+          "recap_pdf_url": "https://www.courtlistener.com/recap/gov.uscourts.dcd.279330/gov.uscourts.dcd.279330.22.0.pdf",
+          "pacer_doc_id": "045011488008",
+          "description": "NOTICE of Voluntary Dismissal by BALTIMORE-D.C. METRO BUILDING AND CONTRUCTION TRADES COUNCIL, NORTH AMERICA'S BUILDING TRADES UNIONS (Newman, Jonathan) (Entered: 07/07/2025)"
+        },
+        {
+          "row_number": 17,
+          "id": 9732969,
+          "entry_number": "5",
+          "date_filed": "2025-04-10T00:00:00-04:00",
+          "attachments": [
+            {
+              "recap_id": 436200729,
+              "pacer_url": "https://ecf.dcd.uscourts.gov/doc1/045011314260?caseid=279330",
+              "description": "Memorandum in Support",
+              "attachment_number": 1
+            },
+            {
+              "recap_id": 436200730,
+              "pacer_url": "https://ecf.dcd.uscourts.gov/doc1/045011314261?caseid=279330",
+              "description": "Declaration Sean McGarvey Declaration",
+              "attachment_number": 2
+            },
+            {
+              "recap_id": 436200732,
+              "pacer_url": "https://ecf.dcd.uscourts.gov/doc1/045011314262?caseid=279330",
+              "description": "Exhibit A to McGarvey Decl",
+              "attachment_number": 3
+            },
+            {
+              "recap_id": 436200733,
+              "pacer_url": "https://ecf.dcd.uscourts.gov/doc1/045011314263?caseid=279330",
+              "description": "Exhibit B to McGarvey Decl",
+              "attachment_number": 4
+            },
+            {
+              "recap_id": 436200734,
+              "pacer_url": "https://ecf.dcd.uscourts.gov/doc1/045011314264?caseid=279330",
+              "description": "Exhibit C to McGarvey Decl",
+              "attachment_number": 5
+            },
+            {
+              "recap_id": 436200735,
+              "pacer_url": "https://ecf.dcd.uscourts.gov/doc1/045011314265?caseid=279330",
+              "description": "Exhibit D to McGarvey Decl",
+              "attachment_number": 6
+            },
+            {
+              "recap_id": 436200736,
+              "pacer_url": "https://ecf.dcd.uscourts.gov/doc1/045011314266?caseid=279330",
+              "description": "Exhibit E to McGarvey Decl",
+              "attachment_number": 7
+            },
+            {
+              "recap_id": 436200737,
+              "pacer_url": "https://ecf.dcd.uscourts.gov/doc1/045011314267?caseid=279330",
+              "description": "Exhibit F to McGarvey Decl",
+              "attachment_number": 8
+            },
+            {
+              "recap_id": 436200738,
+              "pacer_url": "https://ecf.dcd.uscourts.gov/doc1/045011314268?caseid=279330",
+              "description": "Exhibit G to McGarvey Decl",
+              "attachment_number": 9
+            },
+            {
+              "recap_id": 436200739,
+              "pacer_url": "https://ecf.dcd.uscourts.gov/doc1/045011314269?caseid=279330",
+              "description": "Declaration Akerman Declaration",
+              "attachment_number": 10
+            },
+            {
+              "recap_id": 436200741,
+              "pacer_url": "https://ecf.dcd.uscourts.gov/doc1/045011314270?caseid=279330",
+              "description": "Exhibit A to Akerman Decl",
+              "attachment_number": 11
+            },
+            {
+              "recap_id": 436200742,
+              "pacer_url": "https://ecf.dcd.uscourts.gov/doc1/045011314271?caseid=279330",
+              "description": "Exhibit B to Akerman Decl",
+              "attachment_number": 12
+            },
+            {
+              "recap_id": 436200743,
+              "pacer_url": "https://ecf.dcd.uscourts.gov/doc1/045011314272?caseid=279330",
+              "description": "Text of Proposed Order",
+              "attachment_number": 13
+            }
+          ],
+          "url": "https://www.courtlistener.com/docket/69864612/5/north-americas-building-trades-unions-v-department-of-defense/",
+          "recap_pdf_url": null,
+          "pacer_doc_id": "045011314259",
+          "description": "MOTION for Preliminary Injunction by BALTIMORE-D.C. METRO BUILDING AND CONTRUCTION TRADES COUNCIL, NORTH AMERICA'S BUILDING TRADES UNIONS. (Attachments: # 1 Memorandum in Support, # 2 Declaration Sean McGarvey Declaration, # 3 Exhibit A to McGarvey Decl, # 4 Exhibit B to McGarvey Decl, # 5 Exhibit C to McGarvey Decl, # 6 Exhibit D to McGarvey Decl, # 7 Exhibit E to McGarvey Decl, # 8 Exhibit F to McGarvey Decl, # 9 Exhibit G to McGarvey Decl, # 10 Declaration Akerman Declaration, # 11 Exhibit A to Akerman Decl, # 12 Exhibit B to Akerman Decl, # 13 Text of Proposed Order)(Newman, Jonathan) (Entered: 04/10/2025)"
+        },
+        {
+          "row_number": 11,
+          "id": 9526594,
+          "entry_number": "2",
+          "date_filed": "2025-04-09T00:00:00-04:00",
+          "attachments": [],
+          "url": "https://www.courtlistener.com/docket/69864612/2/north-americas-building-trades-unions-v-department-of-defense/",
+          "recap_pdf_url": null,
+          "pacer_doc_id": "045011311136",
+          "description": "SUMMONS (6) Issued Electronically as to All Defendants, U.S. Attorney and U.S. Attorney General (Attachments: # 1 Notice and Consent)(znmw) (Entered: 04/09/2025)"
+        },
+        {
+          "row_number": 15,
+          "id": 9526595,
+          "entry_number": "3",
+          "date_filed": "2025-04-09T00:00:00-04:00",
+          "attachments": [],
+          "url": "https://www.courtlistener.com/docket/69864612/3/north-americas-building-trades-unions-v-department-of-defense/",
+          "recap_pdf_url": null,
+          "pacer_doc_id": "045011311826",
+          "description": "NOTICE of Appearance by Jonathan David Newman on behalf of All Plaintiffs (Newman, Jonathan) (Main Document 3 replaced on 4/9/2025) (znmw). (Entered: 04/09/2025)"
+        },
+        {
+          "row_number": 16,
+          "id": 9526596,
+          "entry_number": "4",
+          "date_filed": "2025-04-09T00:00:00-04:00",
+          "attachments": [],
+          "url": "https://www.courtlistener.com/docket/69864612/4/north-americas-building-trades-unions-v-department-of-defense/",
+          "recap_pdf_url": null,
+          "pacer_doc_id": "045011312142",
+          "description": "NOTICE of Appearance by Lucas Robert Jason Aubrey on behalf of BALTIMORE-D.C. METRO BUILDING AND CONTRUCTION TRADES COUNCIL, NORTH AMERICA'S BUILDING TRADES UNIONS (Aubrey, Lucas) (Main Document 4 replaced on 4/10/2025) (znmw). (Entered: 04/09/2025)"
+        },
+        {
+          "row_number": 12,
+          "id": 9941990,
+          "entry_number": "20",
+          "date_filed": "2025-06-05T00:00:00-04:00",
+          "attachments": [
+            {
+              "recap_id": 441789211,
+              "pacer_url": "https://ecf.dcd.uscourts.gov/doc1/045011430362?caseid=279330",
+              "description": "Text of Proposed Order",
+              "attachment_number": 1
+            }
+          ],
+          "url": "https://www.courtlistener.com/docket/69864612/20/north-americas-building-trades-unions-v-department-of-defense/",
+          "recap_pdf_url": null,
+          "pacer_doc_id": "045011430361",
+          "description": "Consent MOTION for Extension of Time to File Answer by DEPARTMENT OF DEFENSE, STEPHEN EHIKIAN, GENERAL SERVICES ADMINISTRATION, PETER B. HEGSETH. (Attachments: # 1 Text of Proposed Order)(Kurland, Benjamin) (Entered: 06/05/2025)"
+        },
+        {
+          "row_number": 30,
+          "id": 9941992,
+          "entry_number": null,
+          "date_filed": "2025-06-05T00:00:00-04:00",
+          "attachments": [],
+          "url": "https://www.courtlistener.com",
+          "recap_pdf_url": null,
+          "pacer_doc_id": null,
+          "description": "MINUTE ORDER granting 20 Motion for Extension of Time: It is hereby ORDERED that Defendants shall respond to Plaintiffs' Complaint on or before June 23, 2025. SO ORDERED. Signed by Judge Rudolph Contreras on 06/05/2025. (lcrc2)"
+        },
+        {
+          "row_number": 21,
+          "id": 10216606,
+          "entry_number": "9",
+          "date_filed": "2025-04-24T00:00:00-04:00",
+          "attachments": null,
+          "url": "https://www.courtlistener.com/docket/69864612/9/north-americas-building-trades-unions-v-department-of-defense/",
+          "recap_pdf_url": null,
+          "pacer_doc_id": "045011343813",
+          "description": "RETURN OF SERVICE/AFFIDAVIT of Summons and Complaint Executed on United States Attorney General. Date of Service Upon United States Attorney General 4/18/2025. (Demree, Jacob) (Entered: 04/24/2025)"
+        },
+        {
+          "row_number": 1,
+          "id": 10216607,
+          "entry_number": "10",
+          "date_filed": "2025-04-24T00:00:00-04:00",
+          "attachments": null,
+          "url": "https://www.courtlistener.com/docket/69864612/10/north-americas-building-trades-unions-v-department-of-defense/",
+          "recap_pdf_url": null,
+          "pacer_doc_id": "045011343889",
+          "description": "RETURN OF SERVICE/AFFIDAVIT of Summons and Complaint Executed. DEPARTMENT OF DEFENSE served on 4/17/2025 (Demree, Jacob) (Entered: 04/24/2025)"
+        },
+        {
+          "row_number": 25,
+          "id": 9732967,
+          "entry_number": null,
+          "date_filed": "2025-04-10T00:00:00-04:00",
+          "attachments": [],
+          "url": "https://www.courtlistener.com",
+          "recap_pdf_url": null,
+          "pacer_doc_id": null,
+          "description": "Notice of Provisional/Government Not Certified Status"
+        },
+        {
+          "row_number": 19,
+          "id": 10216604,
+          "entry_number": "7",
+          "date_filed": "2025-04-15T00:00:00-04:00",
+          "attachments": null,
+          "url": "https://www.courtlistener.com/docket/69864612/7/north-americas-building-trades-unions-v-department-of-defense/",
+          "recap_pdf_url": null,
+          "pacer_doc_id": "045011325611",
+          "description": "Consent MOTION for Extension of Time to File Response/Reply to Plaintiffs' Motion for Preliminary Injunction by DEPARTMENT OF DEFENSE, STEPHEN EHIKIAN, GENERAL SERVICES ADMINISTRATION, PETER B. HEGSETH. (Attachments: # 1 Text of Proposed Order)(Kurland, Benjamin) (Entered: 04/15/2025)"
+        },
+        {
+          "row_number": 2,
+          "id": 10216608,
+          "entry_number": "11",
+          "date_filed": "2025-04-24T00:00:00-04:00",
+          "attachments": null,
+          "url": "https://www.courtlistener.com/docket/69864612/11/north-americas-building-trades-unions-v-department-of-defense/",
+          "recap_pdf_url": null,
+          "pacer_doc_id": "045011343901",
+          "description": "RETURN OF SERVICE/AFFIDAVIT of Summons and Complaint Executed. STEPHEN EHIKIAN served on 4/21/2025 (Demree, Jacob) (Entered: 04/24/2025)"
+        },
+        {
+          "row_number": 3,
+          "id": 10216609,
+          "entry_number": "12",
+          "date_filed": "2025-04-24T00:00:00-04:00",
+          "attachments": null,
+          "url": "https://www.courtlistener.com/docket/69864612/12/north-americas-building-trades-unions-v-department-of-defense/",
+          "recap_pdf_url": null,
+          "pacer_doc_id": "045011343908",
+          "description": "RETURN OF SERVICE/AFFIDAVIT of Summons and Complaint Executed. GENERAL SERVICES ADMINISTRATION served on 4/21/2025 (Demree, Jacob) (Entered: 04/24/2025)"
+        },
+        {
+          "row_number": 4,
+          "id": 10216610,
+          "entry_number": "13",
+          "date_filed": "2025-04-24T00:00:00-04:00",
+          "attachments": null,
+          "url": "https://www.courtlistener.com/docket/69864612/13/north-americas-building-trades-unions-v-department-of-defense/",
+          "recap_pdf_url": null,
+          "pacer_doc_id": "045011343916",
+          "description": "RETURN OF SERVICE/AFFIDAVIT of Summons and Complaint Executed. PETER B. HEGSETH served on 4/17/2025 (Demree, Jacob) (Entered: 04/24/2025)"
+        },
+        {
+          "row_number": 5,
+          "id": 10216611,
+          "entry_number": "14",
+          "date_filed": "2025-04-25T00:00:00-04:00",
+          "attachments": null,
+          "url": "https://www.courtlistener.com/docket/69864612/14/north-americas-building-trades-unions-v-department-of-defense/",
+          "recap_pdf_url": "https://www.courtlistener.com/recap/gov.uscourts.dcd.279330/gov.uscourts.dcd.279330.14.0.pdf",
+          "pacer_doc_id": "045011348437",
+          "description": "Memorandum in opposition to re 5 MOTION for Preliminary Injunction filed by DEPARTMENT OF DEFENSE, STEPHEN EHIKIAN, GENERAL SERVICES ADMINISTRATION, PETER B. HEGSETH. (Attachments: # 1 Declaration, # 2 Exhibit, # 3 Text of Proposed Order)(Kurland, Benjamin) (Entered: 04/25/2025)"
+        },
+        {
+          "row_number": 6,
+          "id": 10216612,
+          "entry_number": "15",
+          "date_filed": "2025-04-30T00:00:00-04:00",
+          "attachments": null,
+          "url": "https://www.courtlistener.com/docket/69864612/15/north-americas-building-trades-unions-v-department-of-defense/",
+          "recap_pdf_url": null,
+          "pacer_doc_id": "045011356362",
+          "description": "NOTICE of Appearance by Erich H. Lange on behalf of BALTIMORE-D.C. METRO BUILDING AND CONTRUCTION TRADES COUNCIL, NORTH AMERICA'S BUILDING TRADES UNIONS (Lange, Erich) (Entered: 04/30/2025)"
+        },
+        {
+          "row_number": 7,
+          "id": 10216613,
+          "entry_number": "16",
+          "date_filed": "2025-05-02T00:00:00-04:00",
+          "attachments": null,
+          "url": "https://www.courtlistener.com/docket/69864612/16/north-americas-building-trades-unions-v-department-of-defense/",
+          "recap_pdf_url": null,
+          "pacer_doc_id": "045011362925",
+          "description": "REPLY to opposition to motion re 5 Motion for Preliminary Injunction,, filed by BALTIMORE-D.C. METRO BUILDING AND CONTRUCTION TRADES COUNCIL, NORTH AMERICA'S BUILDING TRADES UNIONS. (Newman, Jonathan) (Entered: 05/02/2025)"
+        },
+        {
+          "row_number": 27,
+          "id": 10216615,
+          "entry_number": null,
+          "date_filed": "2025-04-16T00:00:00-04:00",
+          "attachments": null,
+          "url": "https://www.courtlistener.com",
+          "recap_pdf_url": null,
+          "pacer_doc_id": null,
+          "description": "MINUTE ORDER granting 7 Motion for Extension of Time: It is hereby ORDERED that Defendants shall respond to Plaintiffs' motion for preliminary injunction on or before April 25, 2025 and Plaintiffs shall file a reply in support of their motion on or before May 2, 2025. SO ORDERED. Signed by Judge Rudolph Contreras on 04/16/2025. (lcrc2)"
+        },
+        {
+          "row_number": 28,
+          "id": 10228806,
+          "entry_number": null,
+          "date_filed": "2025-04-16T00:00:00-04:00",
+          "attachments": null,
+          "url": "https://www.courtlistener.com",
+          "recap_pdf_url": null,
+          "pacer_doc_id": null,
+          "description": "Order on Motion for Extension of Time to File Response/Reply"
+        },
+        {
+          "row_number": 29,
+          "id": 9941991,
+          "entry_number": null,
+          "date_filed": "2025-06-05T00:00:00-04:00",
+          "attachments": [],
+          "url": "https://www.courtlistener.com",
+          "recap_pdf_url": null,
+          "pacer_doc_id": null,
+          "description": "Order on Motion for Extension of Time to Answer"
+        },
+        {
+          "row_number": 0,
+          "id": 9526591,
+          "entry_number": "1",
+          "date_filed": "2025-04-09T00:00:00-04:00",
+          "attachments": [
+            {
+              "recap_id": 435845284,
+              "pacer_url": "https://ecf.dcd.uscourts.gov/doc1/045011310784?caseid=279330",
+              "description": "Exhibit Exhibit A",
+              "attachment_number": 1
+            },
+            {
+              "recap_id": 435845285,
+              "pacer_url": "https://ecf.dcd.uscourts.gov/doc1/045011310785?caseid=279330",
+              "description": "Exhibit Exhibit B",
+              "attachment_number": 2
+            },
+            {
+              "recap_id": 435845286,
+              "pacer_url": "https://ecf.dcd.uscourts.gov/doc1/045011310786?caseid=279330",
+              "description": "Exhibit Exhibit C",
+              "attachment_number": 3
+            },
+            {
+              "recap_id": 435845287,
+              "pacer_url": "https://ecf.dcd.uscourts.gov/doc1/045011310787?caseid=279330",
+              "description": "Civil Cover Sheet Civil Cover Sheet",
+              "attachment_number": 4
+            },
+            {
+              "recap_id": 435845288,
+              "pacer_url": "https://ecf.dcd.uscourts.gov/doc1/045011310788?caseid=279330",
+              "description": "Summons Summons to Attorney General",
+              "attachment_number": 5
+            },
+            {
+              "recap_id": 435845289,
+              "pacer_url": "https://ecf.dcd.uscourts.gov/doc1/045011310789?caseid=279330",
+              "description": "Summons Summons to Department of Defense",
+              "attachment_number": 6
+            },
+            {
+              "recap_id": 435845290,
+              "pacer_url": "https://ecf.dcd.uscourts.gov/doc1/045011310790?caseid=279330",
+              "description": "Summons Summons to Stephen Ehikian",
+              "attachment_number": 7
+            },
+            {
+              "recap_id": 435845291,
+              "pacer_url": "https://ecf.dcd.uscourts.gov/doc1/045011310791?caseid=279330",
+              "description": "Summons Summons to General Services Administration",
+              "attachment_number": 8
+            },
+            {
+              "recap_id": 435845292,
+              "pacer_url": "https://ecf.dcd.uscourts.gov/doc1/045011310792?caseid=279330",
+              "description": "Summons Summons to Peter B. Hegseth",
+              "attachment_number": 9
+            },
+            {
+              "recap_id": 435845293,
+              "pacer_url": "https://ecf.dcd.uscourts.gov/doc1/045011310793?caseid=279330",
+              "description": "Summons Summons to U.S. Attorney for the District of Columbia",
+              "attachment_number": 10
+            }
+          ],
+          "url": "https://www.courtlistener.com/docket/69864612/1/north-americas-building-trades-unions-v-department-of-defense/",
+          "recap_pdf_url": "https://www.courtlistener.com/recap/gov.uscourts.dcd.279330/gov.uscourts.dcd.279330.1.0.pdf",
+          "pacer_doc_id": "045011310783",
+          "description": "COMPLAINT against DEPARTMENT OF DEFENSE, STEPHEN EHIKIAN, GENERAL SERVICES ADMINISTRATION, PETER B. HEGSETH ( Filing fee $ 405 receipt number ADCDC-11601324) filed by NORTH AMERICA'S BUILDING TRADES UNIONS, Baltimore-D.C. Metro Building and Construction Trades Council. (Attachments: # 1 Exhibit Exhibit A, # 2 Exhibit Exhibit B, # 3 Exhibit Exhibit C, # 4 Civil Cover Sheet Civil Cover Sheet, # 5 Summons Summons to Attorney General, # 6 Summons Summons to Department of Defense, # 7 Summons Summons to Stephen Ehikian, # 8 Summons Summons to General Services Administration, # 9 Summons Summons to Peter B. Hegseth, # 10 Summons Summons to U.S. Attorney for the District of Columbia)(Demree, Jacob) (Attachment 4 replaced on 4/9/2025) (znmw). (Entered: 04/09/2025)"
+        },
+        {
+          "row_number": 23,
+          "id": 9526593,
+          "entry_number": null,
+          "date_filed": "2025-04-09T00:00:00-04:00",
+          "attachments": [],
+          "url": "https://www.courtlistener.com",
+          "recap_pdf_url": null,
+          "pacer_doc_id": null,
+          "description": "Case Assigned to Judge Rudolph Contreras. (znmw)"
+        },
+        {
+          "row_number": 26,
+          "id": 9732968,
+          "entry_number": null,
+          "date_filed": "2025-04-10T00:00:00-04:00",
+          "attachments": [],
+          "url": "https://www.courtlistener.com",
+          "recap_pdf_url": null,
+          "pacer_doc_id": null,
+          "description": "RESOLVED.....NOTICE of Provisional/Government Not Certified Status re 3 NOTICE of Appearance by Jonathan David Newman on behalf of All Plaintiffs (Newman, Jonathan) (Main Document 3 replaced on 4/9/2025) (znmw)..Your attorney renewal/government certification has not been received. As a result, your membership with the U.S. District & Bankruptcy Courts for the District of Columbia is not in good standing, and you are not permitted to file. Pursuant to Local Civil Rule 83.9, you must immediately correct your membership status by following the appropriate instructions on this page of our website: https://www.dcd.uscourts.gov/attorney-renewal. Please be advised that the presiding judge in this case has been notified that you are currently not in good standing to file in this court. Renewal Due by 4/17/2025. (zapb) 4/10/2025 (zapb)."
+        },
+        {
+          "row_number": 18,
+          "id": 10216603,
+          "entry_number": "6",
+          "date_filed": "2025-04-15T00:00:00-04:00",
+          "attachments": null,
+          "url": "https://www.courtlistener.com/docket/69864612/6/north-americas-building-trades-unions-v-department-of-defense/",
+          "recap_pdf_url": null,
+          "pacer_doc_id": "045011325596",
+          "description": "NOTICE of Appearance by Benjamin S. Kurland on behalf of All Defendants (Kurland, Benjamin) (Entered: 04/15/2025)"
+        },
+        {
+          "row_number": 20,
+          "id": 10216605,
+          "entry_number": "8",
+          "date_filed": "2025-04-24T00:00:00-04:00",
+          "attachments": null,
+          "url": "https://www.courtlistener.com/docket/69864612/8/north-americas-building-trades-unions-v-department-of-defense/",
+          "recap_pdf_url": null,
+          "pacer_doc_id": "045011343790",
+          "description": "RETURN OF SERVICE/AFFIDAVIT of Summons and Complaint Executed as to the United States Attorney. Date of Service Upon United States Attorney on 4/9/2025. Answer due for ALL FEDERAL DEFENDANTS by 6/8/2025. (Demree, Jacob) (Entered: 04/24/2025)"
+        },
+        {
+          "row_number": 24,
+          "id": 9732966,
+          "entry_number": null,
+          "date_filed": "2025-04-10T00:00:00-04:00",
+          "attachments": [],
+          "url": "https://www.courtlistener.com",
+          "recap_pdf_url": null,
+          "pacer_doc_id": null,
+          "description": "NOTICE of Provisional/Government Not Certified Status re 3 NOTICE of Appearance by Jonathan David Newman on behalf of All Plaintiffs (Newman, Jonathan) (Main Document 3 replaced on 4/9/2025) (znmw)..Your attorney renewal/government certification has not been received. As a result, your membership with the U.S. District & Bankruptcy Courts for the District of Columbia is not in good standing, and you are not permitted to file. Pursuant to Local Civil Rule 83.9, you must immediately correct your membership status by following the appropriate instructions on this page of our website: https://www.dcd.uscourts.gov/attorney-renewal. Please be advised that the presiding judge in this case has been notified that you are currently not in good standing to file in this court. Renewal Due by 4/17/2025. (zapb)"
+        },
+        {
+          "row_number": 9,
+          "id": 9941988,
+          "entry_number": "18",
+          "date_filed": "2025-05-16T00:00:00-04:00",
+          "attachments": [],
+          "url": "https://www.courtlistener.com/docket/69864612/18/north-americas-building-trades-unions-v-department-of-defense/",
+          "recap_pdf_url": "https://www.courtlistener.com/recap/gov.uscourts.dcd.279330/gov.uscourts.dcd.279330.18.0_1.pdf",
+          "pacer_doc_id": "045011392143",
+          "description": "ORDER granting 5 Motion for Preliminary Injunction. See document for details. Signed by Judge Rudolph Contreras on 05/16/2025. (lcrc2) (Entered: 05/16/2025)"
+        }
+      ],
+      "docket_case_type": "cv",
+      "docket_year": 2025,
+      "docket_filing_number": 1070,
+      "is_main_docket": true,
+      "court": "District of District of Columbia",
+      "state": "District of Columbia",
+      "docket_office_number": "1",
+      "docket_number_manual": "1:25-cv-01070",
+      "scales_html": null,
+      "recap_link": "https://www.courtlistener.com/docket/69864612/north-americas-building-trades-unions-v-department-of-defense/",
+      "is_active": true
+    },
+    "name": "North America's Building Trades Unions v. Department of Defense",
+    "never_filed": false,
+    "non_docket_case_number": "",
+    "non_docket_case_number_type": null,
+    "non_docket_case_number_type_other": "",
+    "order_end_year": null,
+    "order_start_year": null,
+    "permanent_injunction": false,
+    "plaintiff_description": "The plaintiffs are two labor organizations. North America's Building Trades Unions (NABTU) is composed of national and international unions and many state and local building trades councils that represent more than three million workers. Baltimore-DC Metro Building and Construction Trades Council is a local trades council chartered by NABTU that operates in Maryland, Washington, DC, and Northern Virginia.",
+    "plaintiff_type": [
+      {
+        "value": "Private Plaintiff"
+      }
+    ],
+    "prevailing_party": "Defendant",
+    "pro_se_status": "No",
+    "public_interest_lawyer": "No",
+    "related_cases": [],
+    "relief_natures": [
+      "Preliminary injunction / Temp. restraining order"
+    ],
+    "relief_nature_other": "",
+    "relief_sources": [
+      "Litigation"
+    ],
+    "settlement_agreement": [],
+    "settlement_judgment_date": null,
+    "settlement_judgment_year": null,
+    "special_collections": [
+      "Trump Administration 2.0: Challenges to the Government",
+      "Trump Administration 2.0: Challenges to the Government"
+    ],
+    "special_case_type": [],
+    "state": "District of Columbia",
+    "summary": "<p>This case challenged memoranda issued by the Trump Administration's Department of Defense (DoD) and General Services Administration (GSA) in February 2025. These memoranda allowed large-scale construction projects to bypass the requirements of Executive Order 14,063, which President Biden signed in 2022. This executive order required agencies to ensure that contractors or subcontractors involved in large-scale construction projects negotiate or enter into a project labor agreement (PLA) with a labor organization, but the memoranda stated that contractors no longer needed to meet these requirements. While President Trump repealed a separate executive order that promoted the use of PLAs, he did not rescind President Biden's executive order.&nbsp;</p>\r\n<p>On April 9, 2025, labor organizations made up of national and local trade unions and councils filed a lawsuit against the DoD and the GSA in the U.S. District Court for the District of Columbia. Represented by private counsel, the organizations claimed that the memoranda contradicted President Biden's executive order, were arbitrary and capricious under the Administrative Procedure Act, and therefore were unlawful. The plaintiffs sought a declaratory judgment that the memoranda were unlawful, both a preliminary and permanent injunction to prevent the defendants from enforcing them, and the recovery of court costs.</p>\r\n<p>The case was assigned to District Judge Rudolph Contreras. On the plaintiffs' motion, Judge Contreras issued a preliminary injunction on May 16, 2025. 783 F.Supp.3d 290. The judge found that the plaintiffs were likely to succeed on their APA claims because the memoranda issued by the defendants did not meet the requirements of President Biden's executive order and did not provide an appropriate justification for deviating from it. Therefore, Judge Contreras issued a preliminary injunction that set aside the memoranda in their entirety. 2025 WL 1423610.</p>\r\n<p>On June 23, the defendants filed a motion to dismiss, arguing that the court did not have jurisdiction over the case. However, on July 7, the plaintiffs moved to voluntarily dismiss the case.&nbsp;</p>\r\n<p>The case is closed.&nbsp;</p>",
+    "summary_published_date": "2025-10-15T15:41:17.488624-04:00",
+    "summary_short": "On April 9, 2025, two labor organizations that represented workers in negotiations with contractors in large-scale federal construction projects sued, alleging that memoranda recently released by the Department of Defense and the General Services Administration were unlawful. The plaintiffs argued that the memoranda violated Executive Order 14,063, which was signed by President Biden in 2022. The executive order required agencies involved in large-scale construction projects to ensure that contractors entered into a project labor agreement with a labor organization such as the plaintiffs in this case. The case was assigned to District Judge Rudolph Contreras, who issued a preliminary injunction on May 16, 2025, finding that the plaintiffs had shown that they would likely prevail on their claim that the memoranda were unlawful under the Administrative Procedure Act. However, on July 7, 2025, the plaintiffs moved to voluntarily dismiss the case. \r\nThe case is closed.",
+    "summary_tiny": null,
+    "terminating_date": "2025-07-07",
+    "clearinghouse_link": "clearinghouse.net/case/46374",
+    "is_active": true,
+    "case_documents_url": "https://clearinghouse.net/api/v2/documents/?case=46374",
+    "case_dockets_url": "https://clearinghouse.net/api/v2/dockets/?case=46374",
+    "case_resources_url": "https://clearinghouse.net/api/v2/resources/?case=46374"
+  },
+  "documents": [
+    {
+      "date": "2025-04-09",
+      "date_is_estimate": false,
+      "date_not_available": false,
+      "description": "Complaint",
+      "document_source": "PACER [Public Access to Court Electronic Records]",
+      "document_status": "Coding Complete",
+      "document_type": "Complaint",
+      "order_type": null,
+      "citation_paren": null,
+      "cite_1_page": null,
+      "cite_1_reporter": null,
+      "cite_1_vol": null,
+      "cite_2_page": null,
+      "cite_2_reporter": null,
+      "cite_2_vol": null,
+      "cite_3_page": null,
+      "cite_3_reporter": null,
+      "cite_3_vol": null,
+      "citation_status": "Not applicable",
+      "court": "District of District of Columbia",
+      "no_title": false,
+      "party_types": [
+        "Plaintiff"
+      ],
+      "per_curium": false,
+      "is_core_document": true,
+      "id": 158425,
+      "file": "https://clearinghouse-umich-production.s3.amazonaws.com/media/doc/158425.pdf",
+      "title": "Complaint for Declaratory and Injunctive Relief",
+      "text": "Case 1:25-cv-01070     Document 1     Filed 04/09/25     Page 1 of 23\n \nIN THE UNITED STATES DISTRICT COURT \nFOR THE DISTRICT OF COLUMBIA \nNorth America’s Building \nTrades Unions, \n  815 16th Street, N.W. \n  Suite 600 \n  Washington, D.C. 20006, \nBaltimore-D.C. Metro Building \nand Construction Trades \nCouncil, \n5829 Allentown Road \nCamp Springs, MD, \n        Plaintiffs, \n   v. \nDepartment of Defense, \n  1000 Defense Pentagon \n  Washington, D.C. 20301,  No. 25-cv-1070 \nPeter B. Hegseth, in his official \ncapacity as Secretary of Defense, \n  1000 Defense Pentagon \n  Washington, D.C. 20301, \nGeneral Services \nAdministration, \n  1800 F Street, N.W. \n  Washington, D.C. 20006, and \nStephen Ehikian, in his official \ncapacity as Acting Administrator of \nGeneral Services, \n  1800 F Street, N.W. \n  Washington, D.C. 20006, \n        Defendants. \nCOMPLAINT FOR DECLARATORY AND INJUNCTIVE RELIEF \nINTRODUCTION \n1.  The Department of Defense and the General Services Administration \n \n\nCase 1:25-cv-01070     Document 1     Filed 04/09/25     Page 2 of 23\nhave taken it upon themselves to ignore a binding Executive Order concerning the \nconstruction  of  their  large-scale  construction  projects,  causing  Plaintiff  North \nAmerica’s Building Trades Unions (“NABTU”) and its affiliated chartered building \nand construction trades councils, including Plaintiff Baltimore-DC Metro Building \nand Construction Trades Council, irreparable harm.     \n2.  Executive Order 14063, 87 Fed. Reg. 7,363 (Feb. 9, 2024), provides that \n“agencies shall require every contractor or subcontractor engaged in construction on \n[a large-scale construction] project to agree, for that project, to negotiate or become a \nparty to a project labor agreement with one or more appropriate labor organizations.”  \nId. at 7,364.  A senior official may grant an exception to those requirements “for a \nparticular contract” if certain circumstances exist and it does so no later than the \nsolicitation date.  Id.     \n3.  Although promulgated by President Biden, Executive Order 14063 has \nnot been revoked.  Upon taking office, President Trump revoked 67 Executive Orders \nand 11 Presidential Memoranda issued by President Biden.  See Executive Order \n14148, titled “Initial Recissions of Harmful Executive Orders and Actions,” 90 Fed. \nReg. 8,237 (Jan. 28, 2025).  Absent from the list of 78 revoked Executive Orders and \nPresidential Memoranda, and absent from every other Executive Order issued by \nPresident Trump, is Executive Order 14063.  Therefore, Executive Order 14063 \nremains  binding  on  federal  agencies.    Yet,  the  Department  of  Defense  and  the \nGeneral  Services  Administration  have  said  that  they  will  not  comply  with  its \nrequirements and that they have instructed their contracting officers to take actions \n2 \n\nCase 1:25-cv-01070     Document 1     Filed 04/09/25     Page 3 of 23\ndirectly contrary to Executive Order 14063. \n4.  Those agencies have issued memoranda overriding Executive Order \n14063’s project labor agreement (“PLA”) requirement for entire classes of projects.  \nThe Department of Defense’s memorandum did not provide any reasoning.  And the \nGeneral Services Administration’s memorandum, though framed as an application of \nthe order’s exceptions, excepted all Land Ports of Entry construction projects, rather \nthan apply the exceptions on a case-by-case basis “for a particular contract” as \nrequired by the order and its implementing regulations.  That memorandum relied \non  nonbinding  precedent  that  the  U.S.  Department  of  Justice  has  said  did  not \noverturn the requirements of Executive Order 14063.   \n5.  The Administrative Procedure Act requires that courts “hold unlawful \nand set aside agency action” that is “arbitrary, capricious, an abuse of discretion, or \notherwise not in accordance with law.”  5 U.S.C. § 706(2) & (A). \n6.  Because the Defendants’ memoranda are contrary to the plain language \nof  Executive  Order  14063  and  its  implementing  regulations,  and  because  the \nDepartment  of  Defense’s  memorandum  is  not  supported  by  any  reasoning \nwhatsoever, the memoranda are unlawful and should be set aside. \nJURISDICTION AND VENUE \n7.  This Court has jurisdiction under 28 U.S.C. § 1331 because the claims \nalleged in this Complaint arise under the Administrative Procedure Act, 5 U.S.C. \n§ 702. \n8.  Venue is proper in this Court under 28 U.S.C. § 1391(e)(1).  Defendants \nare agencies and officers of agencies of the United States acting in their official \n3 \n\nCase 1:25-cv-01070     Document 1     Filed 04/09/25     Page 4 of 23\ncapacity.  The memoranda that gave rise to the claims were issued from the District \nof Columbia, Defendants maintain principal offices in the District of Columbia, and \nNABTU resides in the District of Columbia. \nPARTIES \n9.  Plaintiff NABTU is a labor organization composed of fourteen national \nand international unions and over 330 provincial, state, and local building and \nconstruction trades councils that NABTU charters, that together represent more than \nthree million workers.  NABTU is also known as the Building and Construction \nTrades Department of the AFL-CIO, but its governing Constitution authorizes it to \ndo  business  as  NABTU.    NABTU  has  challenged  past  actions  with  respect  to \nExecutive Orders that concern project labor agreements.  Bldg. & Constr. Trades \nDep’t, AFL-CIO v. Allbaugh, 295 F.3d 28 (D.C. Cir. 2002).  NABTU brings this action \nin its own right and on behalf of its member labor organizations and chartered state \nand local councils. \n10.  Plaintiff Baltimore-DC Metro Building and Construction Trades Council \nis a local council chartered by NABTU, and is a labor organization composed of 28 \nlocal building and construction trades unions in the Maryland, Washington, D.C., and \nNorthern  Virginia  areas.    The  Baltimore-DC  Building  and  Construction  Trades \nCouncil  works to  secure  improved  wages,  hours and  working  conditions  for  the \nconstruction  workers  it  represents  through  the  process  of  collective  bargaining \nincluding the negotiation of project labor agreements.   \n11.  Defendant Department of Defense (“DOD”) is an executive department \nof the United States.  10 U.S.C. § 111(a). \n4 \n\nCase 1:25-cv-01070     Document 1     Filed 04/09/25     Page 5 of 23\n12.  Defendant Peter B. Hegseth is the Secretary of Defense and is head of \nDOD.  10 U.S.C. § 113(a)(1).  He is sued in his official capacity. \n13.  Defendant General Services Administration (“GSA”) is an agency in the \nexecutive branch of the federal government.  40 U.S.C. § 301. \n14.  Defendant Stephen Ehikian is the Acting Administrator of General \nServices and is head of the GSA.  40 U.S.C. § 302(a).  He is sued in his official capacity. \nFACTS \nI.  Project  Labor  Agreements  Have  Been  Used  for  Decades  to \nAccommodate  the  Unique  Needs  of  Large  Construction  Projects, \nIncluding Federal Government Projects.  \n15.  PLAs are comprehensive collective bargaining agreements negotiated \nbetween building and construction trades unions, like NABTU and its chartered \ncouncils, and owners, contractors, and/or construction managers. \n16.  Congress authorized the use of PLAs under Sections 8(e) and (f) of the \nNational Labor Relations Act, 29 U.S.C. § 158(e), (f).  Section 8(f) allows unions and \nemployers in the construction industry to enter into prehire agreements that will \napply  after  the  employer  hires  workers  and  begins  construction.    Section  8(e) \ngenerally prohibits agreements that limit the entities with which an employer may \ndo business, but it contains a construction-industry proviso that permits agreements \nto limit work on a construction project to contractors that agree to be bound by the \nPLA. \n17.  In  the  construction industry,  contractors  often  hire  employees  on a \nshort-term  basis,  and  contracts  are  commonly  let  to  multiple  contractors  and \nsubcontractors, each performing part of the job.  PLAs accommodate these issues by \n5 \n\nCase 1:25-cv-01070     Document 1     Filed 04/09/25     Page 6 of 23\nestablishing  a  single  labor  relations  structure  that  applies  to  all  contractors, \nsubcontractors, and employees operating on the construction project for the project’s \nduration.  \n18.  PLAs  set  standard  work  rules,  establish  various  forums  for \ncommunication and coordination, and prevent work stoppages with no-strike, no-\nlockout  provisions  and  speedy  dispute-resolution  mechanisms.    They  also  set \nstandard pay and benefit rates for each trade and address labor supply issues through \nprovisions that commit the signatory unions to use their job referral procedures.  By \nrequiring all contractors to be bound by a single labor contract, PLAs ensure that \nwork rules and conditions on a construction project are standardized, eliminating the \nnumerous conflicting practices of the individual contractors.  \n19.  PLAs have been used in both the public and private sector for decades.  \nThe federal government has used PLAs to systematize labor relations on its large and \ncomplex construction projects since at least 1938.  See, e.g., U.S. Gen. Acct. Off., \nGAO/GGD-98-82, Project Labor Agreements: The Extent of Their Use and Related \nInformation 4 (1998) (tracing the use of PLAs on federal and other publicly funded \nprojects back to the construction of the Grand Coulee Dam in Washington State in \n1938 and the Shasta Dam in California in 1940).1    \nII.  Executive Order 14063 Requires Agencies to Use PLAs on Large-Scale \nConstruction Projects, with Case-by-Case Exceptions. \n20.  Many Presidents in recent history have issued executive orders and \n \n1   https://www.gao.gov/assets/ggd-98-82.pdf (last visited Apr. 1, 2025). \n6 \n\nCase 1:25-cv-01070     Document 1     Filed 04/09/25     Page 7 of 23\ndirectives with respect to the use of PLAs by the Federal Government.  Executive \nOrder 12818, 57 Fed. Reg. 48,713 (Oct. 28, 1992) (issued by President George H.W. \nBush); Executive Order 12836, 58 Fed. Reg. 7,045 (Feb. 3, 1993) (issued by President \nClinton); Presidential Memorandum of June 5, 1997 (issued by President Clinton); \nExecutive Order 13202, 66 Fed. Reg. 11,225 (Feb. 22, 2001), amended by Executive \nOrder 13208, 66 Fed. Reg. 18,717 (Apr. 11, 2001) (issued by President George W. \nBush); and Executive Order 13502, 74 Fed. Reg. 6,985 (Feb. 11, 2009) (issued by \nPresident Obama).     \n21.  On February 4, 2022, President Biden issued Executive Order 14063, \ntitled “Use of Project Labor Agreements for Federal Construction Projects.”  87 Fed. \nReg. 7,363 (Feb. 9, 2022). \n22.  Executive Order 14063 applies to “large-scale construction projects,” \nwhich Section 2(c) of the order defines as domestic federal construction projects “for \nwhich the total estimated cost of the construction contract to the Federal Government \nis $35 million or more.”  87 Fed. Reg. at 7,363. \n23.  In accordance with Section 3 of Executive Order 14063, agencies must \n“require every contractor or subcontractor engaged in construction on [a large-scale \nconstruction] project to agree, for that project, to negotiate or become a party to a \nproject labor agreement with one or more appropriate labor organizations.”  87 Fed. \nReg. at 7,364. \n24.  Section 4 provides several requirements for PLAs negotiated under the \norder: \n7 \n\nCase 1:25-cv-01070     Document 1     Filed 04/09/25     Page 8 of 23\na.  They  must  “bind  all  contractors  and  subcontractors  on  the \nconstruction project;” \nb.  They  must  “allow  all  contractors  and  subcontractors  on  the \nconstruction project to compete for contracts and subcontracts \nwithout regard to whether they are otherwise parties to collective \nbargaining agreements;” \nc.  They must “contain guarantees against strikes, lockouts, and \nsimilar job disruptions;” \nd.  They  must  contain  “effective,  prompt,  and  mutually  binding \nprocedures for resolving labor disputes;” \ne.  They  must  “provide  other  mechanisms  for  labor-management \ncooperation on matters of mutual interest and concern, including \nproductivity, quality of work, safety, and health;” and \nf.  They must “fully conform to all statutes, regulations, Executive \nOrders, and Presidential Memoranda.” \n87 Fed. Reg. at 7,364. \n25.  Under Section 5 of the order, agencies “may grant an exception” from \nthe PLA requirement “for a particular contract by, no later than the solicitation date, \nproviding  a  specific  written  explanation”  of  why  one  or  more  enumerated \ncircumstances “exists with respect to that contract.”  Those circumstances are: \na.  “Requiring a project labor agreement on the project would not \nadvance  the  Federal  Government’s  interests  in  achieving \n8 \n\nCase 1:25-cv-01070     Document 1     Filed 04/09/25     Page 9 of 23\neconomy  and  efficiency  in  Federal  procurement,”  given  the \nduration and complexity of the project, the number of trades \ninvolved  on  the  project,  the  number  of  contractors  or \nsubcontractors able to perform the specialized construction work, \nany “unusual and compelling urgency” that would make a PLA \n“impracticable,”  or  other  similar  factors  enumerated  in \nregulations or guidance issued pursuant to the order; \nb.  “[R]equiring  a  project  labor  agreement  on  the  project  would \nsubstantially reduce the number of potential bidders so as to \nfrustrate  full  and  open  competition,”  based  on  an  “inclusive \nmarket analysis;” and \nc.  “Requiring  a  project  labor  agreement  on  the  project  would \notherwise be inconsistent with statutes, regulations, Executive \nOrders, or Presidential Memoranda.” \n87 Fed. Reg. at 7,364. \n26.  Section 8(a) of Executive Order 14063 required the FAR Council to \npropose and adopt regulations implementing the order.  87 Fed. Reg. at 7,365. \n27.  The FAR Council proposed those regulations on August 19, 2022.  See \nFederal  Acquisition  Regulation:  Use  of  Project  Labor  Agreements  for  Federal \nConstruction Projects, 87 Fed. Reg. 51,044 (Aug. 19, 2022).  After the public comment \nperiod, the FAR Council issued a final rule on December 22, 2023, implementing \nExecutive  Order  14063,  effective  January  22,  2024.    See  Federal  Acquisition \n9 \n\nCase 1:25-cv-01070     Document 1     Filed 04/09/25     Page 10 of 23\nRegulations: Use of Project Labor Agreements for Federal Construction Projects, 88 \nFed. Reg. 88,708 (Dec. 22, 2023) (codified at FAR pts. 1, 7, 22, 36, and 52). \n28.  The implementing regulations require agencies to “require use of project \nlabor agreements for contractors and subcontractors” on large-scale construction \nprojects, “unless an exception . . . applies.”  FAR 22.503(b), 48 C.F.R. § 22.503(b).  The \nrequirements and exceptions in the final rule mirrored the language in the order.  See \nFAR 22.504, 48 C.F.R. § 22.504.  As explained in the FAR Council’s preamble to the \nfinal rule, the exceptions are intended to be applied on a “case-by-case” basis.  88 Fed. \nReg. at 88,712, 88,715, 88,717, 88,719. \n29.  In accordance with Section 8(b) of Executive Order 14063, 87 Fed. Reg. \nat  7,365,  the  Office  of  Management  and  Budget  (“OMB”)  issued  guidance  on \nDecember 18, 2023, concerning exceptions to the PLA requirement and reporting.  A \ntrue and correct copy of that guidance is attached hereto as Exhibit A.  \n30.  The  OMB  guidance  memorandum  explains  that  “[a]gencies  should \nensure they are taking full advantage of PLAs on large-scale construction contracts.”  \nUnder  the  order  and  the  FAR  rule,  “agencies  are  required  to:  (1)  conduct  and \ndocument inclusive market research for all large-scale construction projects and \nrequire PLAs unless an exception applies, (2) ensure that any exception is approved \nby  the  senior  procurement  executive  (SPE),  and  (3)  report  PLA  activity  and \nexceptions with supporting explanation of exceptions to OMB.” \n31.  As explained in the OMB memorandum, the market analysis “must be \ncontemporaneous  on  a  project-specific  basis.”    The  memorandum  explains  that \n10 \n\nCase 1:25-cv-01070     Document 1     Filed 04/09/25     Page 11 of 23\nagencies  must  “identify  both  union  and  non-unionized  contractors  that  may  be \ninterested in participating in the competition,” since “participation in a competition \nwith  a  PLA  should  not  put  [non-unionized  contractors]  at  a  competitive \ndisadvantage.” \n32.  The OMB memorandum’s template for reporting on PLA requirement \nexceptions refers to specific “solicitation number[s]” and “solicitation date[s].”  There \nis no reference to a “class exception” or any similar method for overriding Executive \nOrder 14063 for entire classes of projects. \nIII.  NABTU and Its Local Council Affiliates, Including the Baltimore-DC \nMetro Building and Construction Trades Council, Enter into PLAs on \nProjects Covered by the Executive Order. \n33.  NABTU and its chartered local councils enter into hundreds of PLAs in \nthe public and private sector  each year setting forth the terms of conditions of \nemployment for particular construction projects.   \n34.  NABTU and its chartered local councils are, and would continue to be, \nsignatory to many PLAs that are directly affected by Executive Order 14063 and the \nmemoranda discussed below.  \n35.  NABTU itself is signatory to a PLA on a $137 million project awarded \nunder Executive Order 14063 involving construction of canals awarded by Defendant \nDOD, U.S. Army Corps of Engineers, in connection with its multi-billion dollar Indian \nRiver Lagoon-South project in Florida.   \n36.  NABTU  chartered  affiliate  San  Antonio  Building  and  Construction \nTrades Council is signatory to a PLA covering a $238 million project to construct a \ntraining complex at Lackland Air Force solicited by Defendant DOD, U.S. Army \n11 \n\nCase 1:25-cv-01070     Document 1     Filed 04/09/25     Page 12 of 23\nCorps of Engineers; NABTU chartered affiliate Seattle Building and Construction \nTrades Council is signatory to a PLA to construct a $657 million fish passage facility \nfor the Howard  Hanson Dam solicited by Defendant DOD, U.S. Army Corps of \nEngineers; NABTU chartered affiliate El Paso Building and Construction Trades \nCouncil is signatory to a PLA for a $71 million construction and expansion of the \nrailyard  at  Fort  Bliss,  Texas  solicited  by  Defendant  DOD,  U.S.  Army  Corps  of \nEngineers; NABTU chartered affiliate Western Wisconsin Building and Construction \nTrades Council is signatory to a PLA for the construction of a $55 million Collective \nTraining Officers Quarters project at Fort McCoy solicited by Defendant DOD, U.S. \nArmy Corps of Engineers; NABTU chartered affiliate Central Pennsylvania Building \nand Construction Trades Council is signatory to a PLA for a $37 million project to \nconstruct the Letterkenny Munitions Center solicited by Defendant DOD, U.S. Army \nCorps  of  Engineers;  and  NABTU  chartered  affiliate  Minneapolis  Building  and \nConstruction Trades  Council  is signatory  to  a PLA for  a $30  million  project  to \nconstruct the Maintenance/Renovation Army Reserves Building at Fort Snelling, \nMinnesota, solicited by Defendant DOD, U.S. Army Corps of Engineers.   \n37.  Plaintiff and NABTU chartered affiliate Baltimore-DC Metro Building \nand Construction Trades Council is signatory to a PLA for a $38 million renovation \nof an aircraft hangar at Joint Base Andrews solicited by Defendant DOD with a PLA \nrequirement under the Executive Order and to a PLA for a $46 million renovation of \nBuilding 154 at the Naval Support Facility, Indian Head, Maryland, which was also \nsolicited by Defendant DOD with a PLA requirement.  \n12 \n\nCase 1:25-cv-01070     Document 1     Filed 04/09/25     Page 13 of 23\n38.  The examples in paragraphs 36 and 37 are but a few examples of PLAs \nentered into by NABTU and/or its chartered affiliate state and local building and \nconstruction trades councils for projects covered by Executive Order 14063.  NABTU \nand its charted affiliate state and local building and construction trades councils \nwould continue to negotiate and enter into PLAs solicited pursuant to Executive \nOrder 14063, but for the Defendants’ unlawful actions in refusing to comply with \nExecutive Order 14063.   \nIV.  Defendants Issue Memoranda that Override Executive Order 14063. \nA.  Department of Defense \n39.  On February 7, 2025, John M. Tenaglia, Principal Director, Defense \nPricing, Contracting, and Acquisition Policy, for the Office of the Under Secretary of \nDefense,  Acquisition  and  Sustainment,  issued  a  memorandum  titled  “Class \nDeviation — Waiver of Project Labor Agreement Requirements” (hereinafter “DOD \nMemorandum”).  A true and correct copy of the DOD Memorandum is attached hereto \nas Exhibit B. \n40.  Under  FAR  1.404,  48  C.F.R.  § 1.404,  agencies can implement  class \ndeviations from FAR requirements “when necessary to meet the specific needs and \nrequirements of [the]  agency,”  but  they may  not  do  so if  the  class  deviation  is \n“precluded by law, executive order, or regulation.”  FAR 1.402, 48 C.F.R. § 1.402. \n41.  The DOD Memorandum directs that its “contracting officers shall not \nuse project labor agreements for large-scale construction projects,” and “[c]ontracting \nofficers shall amend solicitations to remove project labor agreement requirements.”  \nThe  class  deviation  was  “[e]ffective  immediately”  and  “remains  in  effect  until \n13 \n\nCase 1:25-cv-01070     Document 1     Filed 04/09/25     Page 14 of 23\nrescinded.” \n42.  DOD did not provide any reasoning for why the class deviation was \nnecessary. \n43.  As a result of the DOD Memorandum, DOD is not only refusing to \nrequire PLAs on any of its projects, even though Executive Order 14063 remains in \neffect  and  requires  PLAs  on  all  large-scale  construction  projects,  but  DOD  is \nprohibiting its contracting officers from using PLAs on any large-scale construction \nproject. \nB.  General Services Administration \n44.  On February 12, 2025, Jeffrey A. Koses, Senior Procurement Executive \nfor the Office of Acquisition Policy issued a memorandum titled “Class Exception to \nRequiring a Project Labor Agreement for Land Ports of Entry” (hereinafter “GSA \nMemorandum”).  A true and correct copy of the GSA Memorandum is attached hereto \nas Exhibit C. \n45.  The  GSA  Memorandum  “grant[s]  a  ‘class  exception’”  from  the  PLA \nrequirements “for all Land Port of Entry (LPOE) construction projects.”  The term \n“class exception” is not found in Executive Order 14063, its implementing FAR \nregulations, or the OMB guidance memorandum. \n46.  Contrary  to  the  plain  language  of  Executive  Order  14063,  its \nimplementing  FAR  regulations,  and the OMB  guidance  memorandum,  the GSA \nMemorandum  does  not  evaluate  whether  exceptions  apply  to  “particular” \nconstruction projects on a “case-by-case” basis.  Instead, it concludes that “multiple \nconditions exist continually on GSA LPOE projects” that merit exceptions, “and there \n14 \n\nCase 1:25-cv-01070     Document 1     Filed 04/09/25     Page 15 of 23\nis no expectation that these conditions will end.”  The GSA Memorandum does not \nrefer to any single construction project as evidence for its broad conclusions that \n“including a PLA requirement for projects in remote rural locations, without strong \nexisting union presence, causes delays,” or that “the very limited labor pool and even \nlower unionization rates” “along the Northern and Southern borders” will likely cause \na “substantial reduction in the number of potential offers and a substantial increase \nin price for future projects.” \n47.  The GSA Memorandum also links to a contractor association’s press \nrelease on the Court of Federal Claims’ decision in MVL USA, Inc. v. United States, \n174 Fed. Cl. 437, 2025 U.S. Claims LEXIS 20 (Jan. 21, 2025).  In that case, several \nconstruction companies filed bid protests, arguing that the FAR PLA requirements \nviolate the Competition in Contracting Act.  The court agreed but did not enjoin the \nFAR  provisions  or  Executive  Order  14063.    The  Department  of  Justice  filed  a \nresponse on February 24, 2025, in opposition to the plaintiffs’ motion for a permanent \ninjunction.  In that response, the Department of Justice stated that the U.S. Court of \nFederal Claims “did not hold that E.O. 14,603 and the regulations implementing it \nfacially  violate  [the Competition  in  Contracting  Act],  but  instead  held  that  the \nagencies’ application of those regulations to seven specific procurements violates [the \nCompetition in Contracting Act].” And the Department of Justice recognized that \nExecutive Order 14063 and its implementing regulations contain an exception to the \nPLA mandate when requiring a PLA for a project would be inconsistent with a \nstatute, such as the Competition in Contracting Act.  Therefore, the Department of \n15 \n\nCase 1:25-cv-01070     Document 1     Filed 04/09/25     Page 16 of 23\nJustice asserted, “it would be improper” for the court to order the rescission of \nExecutive Order 14063 “based upon a holding that the agencies’ application of those \nauthorities to particular procurements contravened the law.”  MVL USA, Inc. v. \nUnited States, Case No. 1:24-cv-01057, Docket #112, U.S. Court of Federal Claims, at \n3, 8.       \n48.  As a result of the GSA Memorandum, the GSA is not requiring PLAs on \nany Land Port of Entry projects, even though Executive Order 14063 remains in effect \nand requires PLAs on all large-scale construction projects. \nV.  Defendants’ Memoranda Have Irreparably Harmed NABTU and Its \nAffiliates. \n49.  Under Executive Order 14063, the Federal Government has required \nPLAs  on  most  direct  federal  procurement  construction  projects.    These  include \nprojects set forth in paragraphs 36 and 37. \n50.  To comply with Executive Order 14063, some government contractors \nhave entered into PLAs with NABTU, its affiliate chartered councils, and its affiliated \nunions. \n51.  The DOD and GSA memoranda have excluded whole classes of large-\nscale  construction  projects  from  Executive  Order  14063’s  PLA \nrequirement — projects for which NABTU and its affiliates would otherwise have \nnegotiated agreements.  Because of the DOD and GSA memoranda, contractors are \nno longer required to turn to building trades unions to negotiate a PLA, and in the \ncase of the DOD cannot do so because DOD now precludes the use of PLAs on large-\nscale construction projects.  Therefore, the DOD and GSA memoranda have directly \n16 \n\nCase 1:25-cv-01070     Document 1     Filed 04/09/25     Page 17 of 23\nharmed NABTU and its affiliates by forcing a change in their bargaining position, \nand  the  memoranda  will  continue  to  harm  NABTU  and  its  affiliates  for  the \nforeseeable future unless enjoined or revoked.  Therefore, NABTU has standing to \nsue in its own right. \n52.  NABTU also has standing to sue on behalf of its chartered affiliate \ncouncils and labor organizations because they, too, have lost the ability to bargain \nover PLAs covering large-scale government construction projects because of the DOD \nand GSA memoranda.  The interests of NABTU’s affiliates are germane to NABTU’s \npurpose of securing improved wages, hours and working conditions through the \nprocess of collective bargaining, including the use of project labor agreements in the \nconstruction industry.  NABTU itself is a labor organization that negotiates and \nenters into PLAs, including PLAs covered by Executive Order 14063.  Granting the \nequitable  relief  NABTU  seeks  does  not  require  the  participation  of  NABTU’s \nchartered affiliates. \n53.  NABTU  chartered  affiliate  South  Central  Wisconsin  Building  and \nConstruction Trades Council was in negotiations for a PLA to cover the construction \nof a USDA Dairy Forage Research Center in Prairie du Sac, Wisconsin.  The project \nis being solicited by Defendant, DOD, U.S. Army Corps of Engineers.  The original \nsolicitation contained a PLA requirement in accordance with Executive Order 14063.  \nBut on February 14, 2025, Defendant DOD, U.S. Army Corps of Engineers issued an \namendment to the solicitation.  That amendment extended the due date for offers to \nApril 18, 2025 and stated that “[a]dditional amendment(s) will be issued to remove \n17 \n\nCase 1:25-cv-01070     Document 1     Filed 04/09/25     Page 18 of 23\nthe requirement for the Project Labor Agreement (PLA) from the solicitation . . . .”  \nOn April 1, 2025, the U.S. Army Corps of Engineers issued an amendment to the \nsolicitation removing the PLA requirement.  But for the amendments, NABTU’s \nchartered South Central Wisconsin Building and Construction Trades Council would \nnegotiate a PLA covering construction of the project.    \n54.  Baltimore-DC  Metro  Building and  Construction Trades Council  has \nstanding to sue in its own right due to DOD’s actions.  On January 22, 2025, the \nDOD’s Naval Facilities Systems Command, Washington Contracting Office gave \nnotice of a solicitation for a contract to construct new enlisted quarters and a support \nfacility  at  the  Marine  Barracks  in Washington,  D.C.    This project  is estimated \nbetween $100 and $250 million.  The January 22, 2025, solicitation stated that, “[a] \nproject  labor  agreement  is  required  for  this  large  scale  construction  project. \nNegotiated Project Labor Agreements shall be submitted at the time offers are due, \nto be incorporated prior to contract award.”     \n55.  Shortly after the January 22, 2025, solicitation, the Baltimore-DC Metro \nBuilding and Construction Trades Council received notice from the contractor with \nwhich the council is signatory to PLAs for the projects set forth in paragraph 37 that \nthe contractor was planning to bid on the Marine Barracks project.  The contractor \nand the Baltimore-DC Metro Building and Construction Trades Council agreed in \nprinciple that the same PLA the contractor and the Baltimore-DC Building Trades \nused for the other Executive Order-covered projects could be used for the Marine \nBarracks project with minor changes.    \n18 \n\nCase 1:25-cv-01070     Document 1     Filed 04/09/25     Page 19 of 23\n56.  Effective  February  10,  2025,  the  DOD’s  Naval  Facilities  Systems \nCommand,  Washington  Contracting  Office  gave  notice  of  an amendment  to  the \nsolicitation for the Marine Barracks project.  The amendment extended to March 11, \n2025, the date to receive bid proposals.  The amendment also states that “[p]er \nNAVAC HQ Guidance, PLAs shall not be used for large-scale constructions [sic] \nprojects” and that “[t]herefore, the PLA requirement has been removed from this \nRFP.”  Discussions over a PLA for the Marine Barracks project ceased as a result of \nthe amendment to the solicitation prohibiting the use of a PLA.   The amendment to \nthe solicitation has prohibited the Baltimore-DC Building and Construction Trades \nCouncil from providing representation and work opportunities for the members of its \naffiliated local unions for that project.      \nFIRST CLAIM FOR RELIEF \n(Violation of APA § 706(2) - Contrary to Law — Against DOD and \nSecretary Hegseth) \n57.  NABTU  incorporates  by  reference  each  of  the  paragraphs  in  this \nComplaint as if restated fully herein. \n58.  The Administrative Procedure Act requires courts to “hold unlawful and \nset aside agency action” found to be “not in accordance with law.”  5 U.S.C. § 706(2) \n& (A).  Final agency actions “for which there is no other adequate remedy in a court \nare subject to judicial review.”  Id. § 704. \n59.  The memoranda described in this complaint are final agency actions for \nwhich there is no other adequate remedy in a court. \n60.  The DOD Memorandum implemented a class deviation from the PLA \nrequirements at FAR parts 22, 36, and 52. \n19 \n\nCase 1:25-cv-01070     Document 1     Filed 04/09/25     Page 20 of 23\n61.  Under FAR 1.402, 48 C.F.R. § 1.402, class deviations may not be issued \nif they are “precluded by law, executive order, or regulation.” \n62.  Section 3 of Executive Order 14063 provides that “in awarding any \ncontract in connection with a large-scale construction project, or obligating funds \npursuant  to  such  a  contract,  agencies  shall  require  every  contractor  or \nsubcontractor engaged in construction on the project to agree, for that project, to \nnegotiate or become a party to a project labor agreement with one or more appropriate \nlabor organizations.”  87 Fed. Reg. at 7,364 (emphasis added). \n63.  Executive Order 14063 is still binding law.  No court has enjoined it, and \nthe federal government is not bound by the Court of Federal Claims’ decision in MVL \nUSA, Inc. v. United States, 174 Fed. Cl. 437, 2025 U.S. Claims LEXIS 20 (Jan. 21, \n2025) with respect to other contracting decisions.  See United States v. Mendoza, 464 \nU.S. 154, 162 (1984).  Defendants cannot “abdicat[e]” their obligation to comply with \nExecutive Order 14063 by implementing memoranda that try to limit the order’s \neffect.  City of San Francisco v. Trump, 897 F.3d 1225, 1242 (9th Cir. 2018).  Indeed, \nin the MVL USA case, the Department of Justice has asserted that the plaintiffs’ \nmotion for a permanent injunction is improper because the Court of Federal Claims \ndid not determine that the Executive Order is unlawful, but rather only that it \nviolated federal law solely as applied to the individual contracts in that case.   \n64.  Because the class deviation implemented by the DOD Memorandum \nprohibits DOD contracting officers from using PLAs, the deviation is precluded by \nExecutive Order 14063 and its implementing regulations, and is therefore not in \n20 \n\nCase 1:25-cv-01070     Document 1     Filed 04/09/25     Page 21 of 23\naccordance with law. \nSECOND CLAIM FOR RELIEF \n(Violation of APA § 706(2) - Contrary to Law — Against GSA and Acting \nAdministrator Ehikian) \n65.  NABTU  incorporates  by  reference  each  of  the  paragraphs  in  this \nComplaint as if restated fully herein. \n66.  The GSA Memorandum implemented a “class exception” from the PLA \nrequirements at  FAR parts 22, 36,  and  52  “for  all  Land  Port  of Entry  (LPOE) \nconstruction projects.” \n67.  Under Section 5 of Executive Order 14063, exceptions from the PLA \nrequirements are allowed only “for a particular contract.”  87 Fed. Reg. at 7,364 \n(emphasis added). \n68.  In the final rule implementing Executive Order 14063, the FAR Council \nexplained repeatedly that exceptions may be granted on a “case-by-case” basis.  88 \nFed. Reg. at 88,712, 88,715, 88,717, 88,719. \n69.   Under FAR 22.504(d)(1), 48 C.F.R. § 22.504(d)(1), exceptions from the \nPLA  requirements  are  allowed  only  “with  respect  to  [a]  particular  contract” \n(emphasis added). \n70.  Because the class exception implemented by the GSA Memorandum \napplies  across  the  board  and  not  to  any  “particular”  contract,  it  is  contrary  to \nExecutive Order 14063 and its implementing regulations, and is therefore not in \naccordance with law. \n   \n21 \n\nCase 1:25-cv-01070     Document 1     Filed 04/09/25     Page 22 of 23\nTHIRD CLAIM FOR RELIEF \n(Violation of APA § 706(2) - Arbitrary and Capricious — Against DOD and \nSecretary Hegseth) \n71.  NABTU  incorporates  by  reference  each  of  the  paragraphs  in  this \nComplaint as if restated fully herein. \n72.  The Administrative Procedure Act requires courts to “hold unlawful and \nset aside agency action” found to be arbitrary or capricious.  5 U.S.C. § 706(2) & (A). \n73.  “The  APA’s  arbitrary-and-capricious  standard  requires  that  agency \naction be reasonable and reasonably explained.”  FCC v. Prometheus Radio Project, \n592 U.S. 414, 423 (2021).  “The agency must make findings that support its decision, \nand those findings must be supported by substantial evidence.”  Burlington Truck \nLines v. United States, 371 U.S. 156, 168 (1962). \n74.   The DOD Memorandum is two paragraphs long.  The first paragraph \nprovides that “contracting officers shall not use project labor agreements for large-\nscale construction projects,” and that “[c]ontracting officers shall amend solicitations \nto remove project labor agreement requirements.”  The second paragraph provides \nthat the “class deviation remains in effect until rescinded.” \n75.  The DOD Memorandum does not state any reasons to support the class \ndeviation. \n76.  Therefore, the DOD Memorandum is arbitrary and capricious.  \nPRAYER FOR RELIEF \nWHEREFORE, Plaintiffs respectfully request the following relief: \nA.  A  declaration,  pursuant  to  28  U.S.C.  § 2201,  that  the  memoranda \ndescribed in this complaint are unlawful; \n22 \n\nCase 1:25-cv-01070     Document 1     Filed 04/09/25     Page 23 of 23\nB.  A  preliminary  or  permanent  injunction  enjoining  Defendants  from \nenforcing the memoranda described in this complaint; \nC.  An order granting costs to Plaintiffs; and \nD.  Any other nonmonetary relief the Court deems appropriate. \nRespectfully submitted, \n \n/s/ Jacob J. Demree \nJonathan D. Newman (D.C. Bar No. 449141) \nLucas R. Aubrey (D.C. Bar No. 982849) \nJacob J. Demree (D.C. Bar No. 90012042) \nSHERMAN DUNN, P.C. \n900 Seventh Street, N.W. \nSuite 1000 \nWashington, D.C. 20001 \n(202) 785-9300 \nnewman@shermandunn.com \naubrey@shermandunn.com \ndemree@shermandunn.com \n \n \nApril 9, 2025 \n23 ",
+      "document_type_other": null,
+      "external_url": "https://www.courtlistener.com/docket/69864612/1/north-americas-building-trades-unions-v-department-of-defense/",
+      "ecf_number": "1",
+      "clearinghouse_link": "clearinghouse.net/doc/158425"
+    },
+    {
+      "date": "2025-05-16",
+      "date_is_estimate": false,
+      "date_not_available": false,
+      "description": "",
+      "document_source": "RECAP",
+      "document_status": "Coding Complete",
+      "document_type": "Order/Opinion",
+      "order_type": "Litigated Decree",
+      "citation_paren": null,
+      "cite_1_page": 290,
+      "cite_1_reporter": "F.Supp.3d",
+      "cite_1_vol": 783,
+      "cite_2_page": 1423610,
+      "cite_2_reporter": "WL",
+      "cite_2_vol": 2025,
+      "cite_3_page": null,
+      "cite_3_reporter": null,
+      "cite_3_vol": null,
+      "citation_status": "Official citation found/coded",
+      "court": "District of District of Columbia",
+      "no_title": false,
+      "party_types": [
+        "Court"
+      ],
+      "per_curium": false,
+      "is_core_document": true,
+      "id": 160550,
+      "file": "https://clearinghouse-umich-production.s3.amazonaws.com/media/doc/160550.pdf",
+      "title": "Memorandum Opinion",
+      "text": "Case 1:25-cv-01070-RC     Document 19     Filed 05/16/25     Page 1 of 33\nUNITED STATES DISTRICT COURT \nFOR THE DISTRICT OF COLUMBIA \nNORTH AMERICA’S BUILDING TRADES   : \nUNIONS, et al.,  : \n    : \n  Plaintiffs,  :  Civil Action No.:  25-1070 (RC) \n    : \n  v.  :  Re Document No.:  5 \n    : \nDEPARTMENT OF DEFENSE, et al.,  : \n    : \n  Defendants.  : \nMEMORANDUM OPINION \nGRANTING PLAINTIFFS’ MOTION FOR PRELIMINARY INJUNCTION \nI.  INTRODUCTION \nNorth America’s Building Trades Unions (“NABTU”) and Baltimore-D.C. Metro \nBuilding and Construction Trades Council (“Baltimore-DC Building Trades”) (collectively, \n“Plaintiffs”) seek a preliminary injunction against the Department of Defense (“DoD”); Peter B. \nHegseth, in his official capacity as Secretary of Defense; the General Services Administration \n(“GSA”); and Stephen Ehikian, in his official capacity as Acting Administrator of GSA \n(collectively, “Defendants”).  Plaintiffs challenge recent memoranda issued by the DoD and \nGSA that exempt certain large-scale construction projects from the Project Labor Agreement \n(“PLA”)1 requirements set forth by Executive Order 14,063 (the “EO”).  Plaintiffs argue that \n \n1 PLAs are pre-hire agreements between project owners (such as government entities or \nprivate contractors) and labor unions that set the terms and conditions of employment for a \nspecific construction project.  See generally Exec. Order No. 14,063, 87 Fed. Reg. 7363, 7363 \n(Feb. 4, 2022) (the “EO”).  In the context of the EO, which was issued by President Joseph R. \nBiden in 2022, these agreements are used to establish rules on wages, working hours, dispute \nresolution, benefits, and other workplace policies before construction begins, with the aim of \nensuring labor harmony, promoting efficiency, and minimizing project delays.  See id.  The EO \nencourages the use of PLAs for large-scale, federal infrastructure projects that meet certain cost \n\nCase 1:25-cv-01070-RC     Document 19     Filed 05/16/25     Page 2 of 33\nthese actions unlawfully revoke the PLA mandate and harm their ability to negotiate and \nadminister PLAs, particularly affecting major projects like the Marine Barracks in Washington, \nD.C. and the United States Department of Agriculture (“USDA”) Dairy Forage Research Center \nin Wisconsin.  The DoD and GSA contend that, although PLAs will not be mandated for large-\nscale construction projects, projects that contain PLAs will still be considered, but Plaintiffs \nassert that the memoranda undermine their role in the process and deprive them of the \n“bargaining chip” the EO PLA mandate provides them.  As a result, Plaintiffs seek a preliminary \ninjunction to prevent further harm and ensure compliance with the EO.  For the foregoing \nreasons, the Court grants Plaintiffs’ motion for preliminary injunction. \nII.  REGULATORY BACKGROUND \nOn February 4, 2022, President Biden issued Executive Order 14,063, which articulates \nthat “in awarding any contract in connection with a large-scale construction project, or obligating \nfunds pursuant to such a contract, agencies shall require every contractor or subcontractor \nengaged in construction on the project to agree, for that project, to negotiate or become a party to \na project labor agreement with one or more appropriate labor organizations.”  Exec. Order \nNo. 14,063, 87 Fed. Reg. 7363, 7364 (Feb. 4, 2022) (the “EO”); see also Compl. ¶¶ 21–25, ECF \nNo. 1.2  The requirement pertains to federal construction projects with an anticipated cost to the \n \nthresholds (typically $35 million or more).  Id.  The EO aims to reduce the risk of strikes, \nlockouts, and disputes, and increase project efficiency.  Id. \n2 President Biden is not the first Chief Executive to address the use of PLAs in federal \nprocurement through executive action.  Although a comprehensive review of the more than \nthirty-year history of executive orders on this subject is unnecessary for purposes of this \nOpinion, it is sufficient to observe that, beginning with President George H.W. Bush in 1992, \nnearly every succeeding President has issued an executive order either prohibiting, encouraging, \nor adopting a neutral stance toward the use of PLAs in federal contracting.  See MVL USA, Inc. v. \nUnited States, 174 Fed. Cl. 437, 443–45 (Fed. Cl. 2025).  During his first term, President Trump \ndid not revoke the executive order issued by President Obama, which encouraged federal \nagencies to consider the use of PLAs, though it stopped short of mandating their adoption.  Id. at \n2 \n\nCase 1:25-cv-01070-RC     Document 19     Filed 05/16/25     Page 3 of 33\nfederal government of $35 million or greater.  Exec. Order No. 14,063, 87 Fed. Reg. at 7363.  \nHowever, “[a] senior official within an agency may grant an exception from the requirements . . . \nfor a particular contract” under circumstances specified in section 5 of the EO.  Id. at 7364.  On \nDecember 18, 2023, the Office of Management and Budget (“OMB”) issued a memorandum—\nwithout prior public notice or opportunity for comment—offering guidance to federal agencies \non the exceptions to the PLA Rule and related reporting requirements.  Compl. ¶ 29.  On \nDecember 22, 2023, after considering public comments, the Federal Acquisition Regulatory \n(“FAR”) Council issued a final rule implementing the requirements of the Executive Order \n(referred to as the “PLA Rule”), effective on January 22, 2024.  Id. ¶ 27.  The EO and the PLA \nRule mandate that agencies publicly disclose any granted exemptions by posting them on a \ndesignated public website.  Exec. Order No. 14,063, 87 Fed. Reg. at 7364–65. \nIII.  FACTUAL AND PROCEDURAL BACKGROUND \nNABTU represents over three million workers through 14 national and international \nunions and over 330 trade councils.  Decl. of Sean McGarvey (“McGarvey Decl.”) ¶ 3, ECF No. \n5-2.  NABTU, including its affiliate, the Baltimore-D.C. Building Trades, plays a key role in \nnegotiating and administering PLAs for federal construction projects, including those subject to \nthe EO.  See Mem. in Supp. of Pls.’ Mot. for Prelim. Inj. (“Pls.’ Mot.”) at 1, ECF No. 5-1.  \n \n445.  That executive order, however, was more limited in scope than the one presently under \nreview.  At the time of this Opinion, President Trump has not rescinded the EO at issue.  On \nMarch 14, 2025, he issued Executive Order 14,236, which formally repealed Executive Order \n14,126—a directive that had promoted the use of PLAs in federal construction projects.  See \nExec. Order No. 14,236, 90 Fed. Reg. 13037 (Mar. 14, 2025).  While this development calls into \nquestion the continued enforceability of EO No. 14,063, this Court has not been advised that the \nExecutive Branch has expressly abandoned the EO or the associated regulations and guidance, \nnor have the parties represented that this action has been rendered moot.  Accordingly, in the \nabsence of definitive action by the Executive Branch or a concession from the parties, the Court \nwill proceed to adjudicate the merits of Plaintiffs’ motion for a preliminary injunction. \n3 \n\nCase 1:25-cv-01070-RC     Document 19     Filed 05/16/25     Page 4 of 33\nNABTU and its affiliates enter into hundreds of PLAs each year, including agreements for \nvarious large-scale projects funded by federal agencies like the DoD and GSA.  See McGarvey \nDecl. ¶¶ 9–11.  Examples include PLAs for projects such as the $137 million Indian River \nLagoon-South project in Florida, see id. ¶ 11, and a $238 million training complex at Lackland \nAir Force Base in Texas, see id. ¶ 12. \nOn February 7, 2025, DoD issued a memorandum stating that contracting officers should \nno longer require agreements to negotiate PLAs for large-scale projects, instructing them to \namend solicitations accordingly.  Mem. re: Class Deviation—Waiver of Project Labor \nAgreement Requirements, Dep’t of Defense (“DoD Mem.”), ECF No. 5-6.  Similarly, on \nFebruary 12, 2025, GSA issued its own memorandum, exempting Land Port of Entry (“LPOE”) \nprojects from the PLA requirement, citing specific conditions in these projects, such as their \nlocations and anticipated timelines, as grounds for the exception.  Mem. for All PBS Contracting \nActivities and Heads of Contracting Activity, GSA (“GSA Mem.”), ECF No. 5-7.  The \nmemoranda “announce that the agencies intend not to require PLAs in future solicitations.”  See \nDefs.’ Mem. Opp’n Pls.’ Mot. Prelim. Inj. (“Defs.’ Opp’n”) at 10, ECF No. 14.   \nPlaintiffs argue that these memoranda unlawfully revoke the PLA requirement set forth in \nExecutive Order 14,063 and its implementing regulations, thereby harming NABTU’s ability to \nnegotiate and administer PLAs.  See generally Compl.  As a result of the memoranda, existing \nsolicitations for projects such as the USDA Dairy Forage Research Center in Wisconsin and the \nMarine Barracks project in D.C. were amended to exclude the PLA requirement that was \nincluded in the original solicitation.  McGarvey Decl. ¶ 16; Decl. of Greg Akerman (“Akerman \nDecl.”) ¶ 10, ECF No. 5-10.  In particular, the Baltimore-DC Building Trades allegedly \nexperienced direct harm when the DoD amended the solicitation for the Marine Barracks project, \n4 \n\nCase 1:25-cv-01070-RC     Document 19     Filed 05/16/25     Page 5 of 33\nremoving the PLA requirement and halting ongoing negotiations the union was engaged in with \na contractor expected to bid for that project.  Akerman Decl. ¶¶ 9–11. \nExecutive Order 14,063 mandates that federal agencies, including the DoD and GSA, \ninclude the PLA mandate on their solicitations for large-scale construction projects, unless a \nspecific exception is found on a case-by-case basis.  See 87 Fed. Reg. at 7364.  Plaintiffs allege \nthat DoD and GSA have deviated from this requirement by issuing memoranda that override the \nPLA mandate, actions which Plaintiffs challenge as unlawful under the Administrative Procedure \nAct (“APA”).  See generally Compl.   \nOn April 9, 2025, Plaintiffs filed this action against Defendants over the memoranda they \nissued regarding PLAs.  Plaintiffs are a labor organization composed of national and \ninternational unions, along with a local labor council representing construction trades unions in \nMaryland, D.C., and Northern Virginia.  See Compl. ¶¶ 9–10.  Plaintiffs allege injury based on \nthe agencies’ decisions not to include the PLA requirement in future solicitations, which \nexclusion they claim interferes with Plaintiffs’ ongoing practice of negotiating such agreements \nwith contractors bidding on federal large-scale construction projects.  See id. ¶ 38.  Plaintiffs \nargue that these actions by DoD and GSA have excluded entire classes of construction projects \nfrom the scope of the EO’s PLA mandate, which NABTU and its affiliates would otherwise have \nbeen involved in negotiating for such projects.  McGarvey Decl. ¶ 16.  The Complaint brings \nthree claims under the Administrative Procedure Act, 5 U.S.C. § 706.  Counts I and II allege that \nthe DoD and GSA memoranda constitute final agency actions “not in accordance with law” \nunder § 706(2)(A), because the memoranda violated the EO and its implementing regulations.  \nSee Compl. ¶¶ 57–64 (DoD); id. ¶¶ 65–70 (GSA).  Count III asserts that DoD’s memorandum \nalso violates the APA because it is arbitrary and capricious due to insufficient explanation.  See \n5 \n\nCase 1:25-cv-01070-RC     Document 19     Filed 05/16/25     Page 6 of 33\nid. ¶¶ 71–76.  Plaintiffs seek a declaration that the memoranda are unlawful and an injunction \nbarring their enforcement.  See id. ¶¶ A–B.   \nOn April 10, 2025, Plaintiffs filed a motion for a preliminary injunction to prevent \nenforcement of the agencies’ memoranda while the case proceeds.  See generally Pls.’ Mot.  \nDefendants argue that both DoD and GSA’s memoranda continue to allow bids for major \nconstruction projects that contain PLAs; the memoranda merely remove the mandatory \nrequirement to negotiate their inclusion in the solicitations for such projects.  See Defs.’ Opp’n at \n2.  To which Plaintiffs replied that the agencies’ actions unlawfully hinder their ability to \nnegotiate PLAs by eliminating the “bargaining chip” that the PLA mandate provides them, and \nthus, they seek a preliminary injunction to prevent further harm.  Reply Mem. in Supp. Pls.’ Mot. \nPrelim. Inj. (“Pls.’ Reply”) at 4, ECF No. 16.  The motion is fully briefed and ripe for resolution.  \nIV.  LEGAL STANDARD \n“A preliminary injunction is ‘an extraordinary remedy that may only be awarded upon a \nclear showing that the [movant] is entitled to such relief.’”  John Doe Co. v. Consumer Fin. Prot. \nBureau, 849 F.3d 1129, 1131 (D.C. Cir. 2017) (alteration in original) (quoting Winter v. Nat. \nRes. Def. Council, Inc., 555 U.S. 7, 22 (2008)).  “A plaintiff seeking a preliminary injunction \nmust establish [(1)] that he is likely to succeed on the merits, [(2)] that he is likely to suffer \nirreparable harm in the absence of preliminary relief, [(3)] that the balance of equities tips in his \nfavor, and [(4)] that an injunction is in the public interest.”  Winter, 555 U.S. at 20.  When “the \nGovernment is the opposing party,” the determination of the third and fourth factors regarding \n“harm to the opposing party” and “the public interest” merge.  Nken v. Holder, 556 U.S. 418, \n435 (2009).  “Of course, the movant carries the burden of persua[ding]” the Court that these \nfactors merit preliminary relief, Fla. EB5 Invs., LLC v. Wolf, 443 F. Supp. 3d 7, 11 (D.D.C. \n6 \n\nCase 1:25-cv-01070-RC     Document 19     Filed 05/16/25     Page 7 of 33\n2020), and must do so by making a “clear showing,” Cobell v. Norton, 391 F.3d 251, 258 (D.C. \nCir. 2004). \n“The standard for irreparable harm is particularly high in the D.C. Circuit.  Plaintiffs have \nthe considerable burden of proving that their purported injuries are certain, great and actual—not \ntheoretical—and imminent, creating a clear and present need for extraordinary equitable relief to \nprevent harm.”  Fisheries Survival Fund v. Jewell, 236 F. Supp. 3d 332, 336 (D.D.C. 2017) \n(internal quotation marks omitted).  “In addition, the certain and immediate harm that a movant \nalleges must also be truly irreparable in the sense that it is beyond remediation.”  Id. (internal \nquotation marks omitted).  Plaintiffs must “substantiate” their claim of irreparable harm with \n“proof.”  Wis. Gas Co. v. FERC, 758 F.2d 669, 674 (D.C. Cir. 1985). \nIn general, “[a] preliminary injunction may be granted based on less formal procedures \nand on less extensive evidence than in a trial on the merits,” although an evidentiary hearing is \nrequired where there are “genuine issues of material fact” precluding a decision on the filings.  \nCobell, 391 F.3d at 261; cf. Shvartser v. Lekser, 330 F. Supp. 3d 356, 361 (D.D.C. 2018) \n(deciding hearing was unnecessary where defendants did not request hearing or raise any \n“genuine issues of material fact”).  Here, neither party requests an evidentiary hearing.  See \nDefs.’ Consent Mot. for Extension of Time to Respond to Pls.’ Mot. for Prelim. Inj. ¶ 3, ECF \nNo. 7 (“At this stage, neither party requests oral argument.”).  Accordingly, the Court will \nconsider Plaintiffs’ motion only on the parties’ written submissions.  That said, because \npreliminary injunctions are a significant measure, “any injunction that the court issues must be \ncarefully circumscribed and tailored to remedy the harm shown” by the facts.  Beacon Assocs., \nInc. v. Apprio, Inc., 308 F. Supp. 3d 277, 284 (D.D.C. 2018) (quoting Morgan Stanley DW Inc. v. \nRothe, 150 F. Supp. 2d 67, 72 (D.D.C. 2001)). \n7 \n\nCase 1:25-cv-01070-RC     Document 19     Filed 05/16/25     Page 8 of 33\nV.  ANALYSIS \nPlaintiffs seek a declaration that the memoranda are unlawful, an injunction to prevent \ntheir enforcement, and an order granting Plaintiffs costs.  Compl. ¶¶ A–C.  Plaintiffs contend that \nthey are likely to succeed on the merits of each of their three claims under the APA, 5 U.S.C. § \n706.  See Pls.’ Mot. at 15–21.  Defendants disagree, arguing that Plaintiffs have failed to make \nany of the required showings sufficient to warrant the extraordinary relief requested.  See Defs.’ \nOpp’n at 8–25. \nA.  Standing \nBefore considering the merits of Plaintiffs’ APA arguments, the Court must first \ndetermine whether Plaintiffs maintain standing to bring these claims.  It is an “essential and \nunchanging part of the case-or-controversy requirement” that a plaintiff must establish Article III \nstanding to sue in federal court.  Lujan v. Defs. of Wildlife, 504 U.S. 555, 560 (1992).  To \nestablish Article III standing, a party must show that: (1) they have suffered an injury in fact, (2) \nthe injury is fairly traceable to the challenged action of the defendant, and (3) it is likely that the \ninjury will be redressed by a favorable decision.  Id. at 560–61.  A party seeking a preliminary \ninjunction “must show a substantial likelihood of standing.”  Green v. U.S. Dep’t of Just., 54 \nF.4th 738, 744 (D.C. Cir. 2022) (quoting Food & Water Watch, Inc. v. Vilsack, 808 F.3d 905, \n913 (D.C. Cir. 2015)). \nPlaintiffs argue that they have standing because they suffered concrete and particularized \ninjuries directly caused by Defendants’ memoranda, which they claim eliminated or changed the \n“bargaining chip” the EO provided them by requiring the negotiation of PLAs on solicitations for \nlarge-scale federal construction projects.  Pls.’ Mot. at 12–15; Pls.’ Reply at 7.  These \nmemoranda, they argue, exclude Plaintiffs from the contracting process and allegedly led to the \n8 \n\nCase 1:25-cv-01070-RC     Document 19     Filed 05/16/25     Page 9 of 33\nloss of specific PLAs they were in the process of negotiating or would have negotiated in the \nfuture.  Pls.’ Mot. at 12–15; Pls.’ Reply at 7.  Plaintiffs cite cases holding that losing bargaining \nopportunities or a change of bargaining position can constitute a valid legal injury for purposes \nof standing. Pls.’ Mot. at 13–15; Pls.’ Reply at 7.  Plaintiffs further contend that a court ruling \nrequiring adherence to Executive Order 14,063 would redress these harms.  Pls.’ Mot. at 15.  \nIn response, Defendants argue that Plaintiffs lack Article III standing because they fail to \ndemonstrate a concrete injury.  Defs.’ Opp’n at 9–13.  Defendants assert that Plaintiffs’ claimed \ninjury is speculative, because the memoranda merely direct government agencies to remove the \nPLA requirement from future solicitations, without precluding contractors from submitting bids \nthat voluntarily contain them.  Id.  Defendants further argue that the alleged injury (contracts for \nlarge-scale federal contracts that do not contain PLAs) is not directly caused by the memoranda \nbut by third-party contractors who decide not to include PLAs in their bids for large-scale \ncontracts.  Id. at 14–15.  Lastly, Defendants contend that even if the memoranda are enjoined, the \nalleged harm would not be redressed, as the government retains the authority to issue \nsolicitations without a PLA requirement in the future.  Id. at 15–16.  For the reasons set forth \nbelow, the Court concludes that Plaintiffs have sufficiently demonstrated standing, as they have \nalleged concrete and particularized injuries traceable to Defendants’ memoranda—namely, the \nloss of specific bargaining opportunities—and have shown that these injuries would likely be \nredressed by a decision reinstating the PLA requirements under the EO. \n1.  Injury in Fact \nAs set forth above, to establish that a plaintiff possesses standing to bring a claim, the \nplaintiff must show that he has suffered an injury in fact.  Lujan, 504 U.S. at 560.  To establish \nthat he has suffered an injury in fact, a plaintiff must have suffered “an invasion of a legally \n9 \n\nCase 1:25-cv-01070-RC     Document 19     Filed 05/16/25     Page 10 of 33\nprotected interest,” id., that is “(1) concrete, (2) particularized, and (3) actual or imminent.”  \nFood & Water Watch, 808 F.3d at 914 (quoting Pub. Citizen, Inc. v. Nat’l Highway Traffic \nSafety Admin., 489 F.3d 1279, 1292 (D.C. Cir. 2007)).  The injury in fact test “requires that the \nparty seeking review be himself among the injured.”  Lujan, 504 U.S. at 563 (quoting Sierra \nClub v. Morton, 405 U.S. 727, 734–35 (1972)). \nPlaintiffs argue that they have each suffered a concrete, particularized, and actual injury \ndue to Defendants’ memoranda, which deprive them of the “bargaining chip” the EO PLA \nrequirement provided them in the contracting process for large-scale construction projects.  Pls.’ \nMot. at 15–17.  As a result, Plaintiffs claim they have lost the opportunity to negotiate PLAs—\nboth currently and in the future—with contractors, as well as leverage when contractors do \nnegotiate over PLAs, thereby weakening their bargaining position.  Plaintiffs further argue that \nthis harm is not speculative: the memoranda have directly diminished their leverage in \nnegotiations.  While Defendants contend that the memoranda merely express an intent not to \nrequire PLAs, rather than barring them, see Defs.’ Opp’n at 10, Plaintiffs respond that removing \nthe PLA requirement from solicitations has deprived them of meaningful bargaining power, see \nPls.’ Mot. at 15–16; Pls.’ Reply at 6–8.  Plaintiffs have the better argument.  \nPlaintiffs have sufficiently demonstrated an injury in fact: a concrete, particularized, and \nactual harm resulting from the memoranda’s discouragement of PLAs.  This harm is not \nconjectural or hypothetical; it is sufficiently demonstrated in the explicit removal of PLA \nrequirements in amended solicitations, including for the Marine Barracks project, which abruptly \nended ongoing PLA negotiations.  This satisfies the standard in Nat’l Fam. Plan. & Reprod. \nHealth Ass’n, Inc. v. Gonzales, 468 F.3d 826, 828–29 (D.C. Cir. 2006), and Food & Water \nWatch, 808 F.3d at 914, requiring an injury to be “real” and “immediate,” not speculative.  The \n10 \n\nCase 1:25-cv-01070-RC     Document 19     Filed 05/16/25     Page 11 of 33\nfacts point to the fact that NABTU and its affiliates had a direct role in negotiating PLAs for \nfederal large-scale construction projects for which the solicitations were amended post the \nmemoranda, demonstrating a tangible change in their operating environment. \nAs in Building & Construction Trades Department, AFL-CIO v. Allbaugh, 172 F. Supp. \n2d 138 (D.D.C. 2001), the loss of bargaining opportunities tied to PLAs constitutes a concrete \nand justiciable injury.3  In Allbaugh, the district court recognized that the removal of a \ngovernment policy encouraging PLAs was sufficient to constitute an injury in fact, as it impacted \nthe unions’ ability to effectively advocate for labor protections through PLAs.  172 F. Supp. 2d \nat 147–148 (holding that the loss of the plaintiff’s ability to negotiate similar agreements in \nfederal construction projects was “a change in bargaining position” that was “itself a \nparticularized and concrete harm”).  Here, the challenged memoranda operate similarly: by \nbroadly exempting projects from PLA mandates without applying the EO’s case-by-case \nexceptions, the memoranda deprive Plaintiffs of the structured leverage the EO is designed to \nensure. \nSimilarly, in Clinton v. City of New York, 524 U.S. 417, 432–33 (1998), the Supreme \nCourt found that loss of a statutory benefit that diminished bargaining strength was a cognizable \ninjury, reinforcing Plaintiffs’ claim.  Just as the loss of the tax deferral in Clinton nullified a \nnegotiation position and terminated pending transactions, see id. at 426–27, 432, the removal of \nthe PLA mandate here also undercuts NABTU’s leverage and has already disrupted actual \nnegotiations, Pls.’ Mot. at 12–13.  The Court in Clinton emphasized that economic leverage lost \ndue to governmental action—even where no direct prohibition existed—was sufficient for \n \n3 Although the D.C. Circuit reversed this decision, the reversal did not disturb the \nstanding conclusion.  See Bldg. & Const. Trades Dep’t, AFL-CIO v. Allbaugh, 295 F.3d 28 (D.C. \nCir. 2002). \n11 \n\nCase 1:25-cv-01070-RC     Document 19     Filed 05/16/25     Page 12 of 33\nstanding.  524 U.S. at 433 n.22 (“[A] denial of a benefit in the bargaining process can itself \ncreate an Article III injury . . . .”).  Here, too, Plaintiffs do not challenge the ability to voluntarily \ninclude PLAs in projects, but they instead challenge the withdrawal of a government-imposed \nrequirement that previously strengthened their bargaining power.  That is a sufficient injury to \nestablish standing. \nPlaintiffs have also shown that this impairment has an alleged direct effect on their \nmembers’ ability to participate in federal contracting, satisfying Lujan’s requirement that the \ninjury be personal and specific.  504 U.S. at 563.  Plaintiffs’ injury is not a generalized grievance \nabout agency policy; it is instead a concrete interference with a recurring practice of negotiating \nPLAs in response to agency solicitations.  By demonstrating how the memoranda caused the \nwithdrawal of specific PLA terms from active solicitations on which they were actively \nnegotiating, Plaintiffs have sufficiently tied the alleged injury directly to Defendants’ conduct—\nthe issuance of the memoranda. \nThus, Plaintiffs’ alleged injury is neither hypothetical nor generalized, but immediate and \nparticularized, and ongoing.  It flows directly from the memoranda’s effect on federal contract \npractices for large-scale projects, which now direct contracting officers to omit PLA \nrequirements from future solicitations without engaging in the individualized exception analysis \nmandated by the EO.  This shift undermines Plaintiffs’ ability to secure PLAs not only for \nspecific ongoing projects, but it also affects Plaintiffs’ ability across the full spectrum of future \nlarge-scale federal construction projects.  The deprivation of this regulatory “bargaining chip” \nmirrors the harm recognized as cognizable in both Clinton and Allbaugh.  Taken together, the \nholdings in these cases confirm that when a government action strips away a statutory or \nregulatory structure that meaningfully enhances a party’s negotiating power—as Plaintiffs allege \n12 \n\nCase 1:25-cv-01070-RC     Document 19     Filed 05/16/25     Page 13 of 33\noccurred here—standing is established.  Plaintiffs have substantiated this harm with concrete \nexamples of halted negotiations and the demonstrable weakening of their bargaining position.  \nAccordingly, Plaintiffs have adequately alleged a cognizable injury in fact under Article III. \n2.  Causation \nSecond, in order to establish standing, a plaintiff must show that his injury in fact is \n“fairly traceable” to the challenged action of the defendant.  Steel Co. v. Citizens for a Better \nEnv’t, 523 U.S. 83, 103 (1998).  The injuries must flow from Defendants’ actions and cannot be \nthe “result [of] the independent action of some third party not before the court.”  Lujan, 504 U.S. \nat 561 (alteration in original) (quoting Simon v. E. Ky. Welfare Rts. Org., 426 U.S. 26, 41–42 \n(1976)).  The Supreme Court has held that plaintiffs attempting to show causation generally \ncannot “rely on speculation about the unfettered choices made by independent actors not before \nthe courts.”  Clapper v. Amnesty Int’s USA, 568 U.S. 398, 415 n.5 (2013) (quotation marks \nomitted); see also Bennett v. Spear, 520 U.S. 154, 168–69 (1997).  Therefore, the plaintiff must \nshow that the “third parties will likely react in predictable ways” that in turn will likely injure the \nplaintiffs.  California v. Texas, 593 U.S. 659, 675 (2021) (quoting Dep’t of Com. v. New York, \n588 U.S. 752, 768 (2019)). \nPlaintiffs argue that their injury is directly traceable to the Defendants’ actions—\nspecifically, the issuance of memoranda by the DoD and GSA removing the mandatory inclusion \nof the PLA requirement on large-scale construction projects.  Pls.’ Reply at 10–11.  Plaintiffs \nargue that this policy shift altered the bidding process and weakened Plaintiffs’ bargaining \nposition, as contractors were no longer required to negotiate PLAs with unions.  Id.  Plaintiffs \ncite an example where a contractor ceased PLA negotiations following the issuance of the \nmemoranda, underscoring the immediate and foreseeable impact of the policy change.  Id. at 11.  \n13 \n\nCase 1:25-cv-01070-RC     Document 19     Filed 05/16/25     Page 14 of 33\nThey stress that this harm stems from Defendants’ actions, not the contractors’ independent \ndecisions.  Id. at 10–11.  Defendants counter that Plaintiffs cannot establish causation because \nthe memoranda do not directly regulate Plaintiffs’ actions or affect their ability to negotiate \nPLAs with willing contractors.  Defs.’ Opp’n at 14–15.  Plaintiffs’ injury, Defendants argue, \nhinges on whether contractors choose to negotiate PLAs with the unions, which depends on \nvarious factors, including economic considerations.  Id.  Thus, Defendants argue, this \nindependent decision by the contractors not to include PLAs in their solicitation bids constitutes \nan independent decision by third parties, which breaks the causal chain required for standing.  Id.  \nAgain, Plaintiffs have the better argument.    \nPlaintiffs have sufficiently demonstrated that their injuries are “fairly traceable” to \nDefendants’ issuance of the memoranda because those injuries are not the result of “the \nindependent action of some third party not before the court,” but rather flow in a direct and \npredictable manner from the challenged policy change.  Lujan, 504 U.S. at 561 (cleaned up).  \nPlaintiffs do not rely on speculative predictions about contractor behavior; instead, they identify \na specific instance where a contractor ceased negotiating PLAs immediately after the issuance of \nthe DoD and GSA memoranda.  Pls.’ Reply at 11.  And this is a natural and probable \nconsequence of the elimination of a requirement that solicitations must include a mandate to \nnegotiate PLAs.  This pattern of conduct illustrates that third parties reacted in “predictable \nways” to the removal of the mandatory PLA requirement, satisfying the traceability standard \narticulated in California v. Texas and Department of Commerce v. New York.  While Defendants \nargue that the causal chain is broken by the independent decision-making of contractors, \nPlaintiffs have shown a “predictable chain of events leading from the government action,” here, \nthe purported revocation of the PLA requirements, “to the asserted injury,” the contractors \n14 \n\nCase 1:25-cv-01070-RC     Document 19     Filed 05/16/25     Page 15 of 33\nchoosing not to negotiate PLAs now that they are no longer required to do so.  See FDA v. All. \nfor Hippocratic Med., 602 U.S. 367, 385 (2024).  Because Plaintiffs have shown that the policy \nshift foreseeably and materially weakened their bargaining position within the federal \ncontracting framework, they sufficiently demonstrated the traceability requirement. \n3.  Redressability \nThe third requirement to establish standing is a showing that the plaintiff’s injury will \nlikely be redressed by a favorable decision by the Court.  See Lujan, 504 U.S. at 561.  To satisfy \nthe redressability requirement for injunctive relief, a plaintiff must show it is “likely, as opposed \nto merely speculative,” that a favorable court decision will remedy their injury, see id. (internal \nquotation marks omitted), and such redress cannot depend on the actions of third parties not \nbefore the court¸ see Haaland v. Brackeen, 599 U.S. 255, 291–94 (2023).  Additionally, \nplaintiffs must demonstrate a continuing or imminent injury—not merely a past harm—to justify \nforward-looking relief like an injunction.  City of Los Angeles v. Lyons, 461 U.S. 95, 105–06 \n(1983).  However, a plaintiff need not “negate . . . speculative and hypothetical possibilities . . . \nin order to demonstrate the likely effectiveness of judicial relief.”  Duke Power Co. v. Carolina \nEnvt’l Study Grp., Inc., 438 U.S. 59, 78 (1978).  Indeed, “a party seeking judicial relief need not \nshow to a certainty that a favorable decision will redress [its] injury.”  Nat’l Wildlife Fed’n v. \nHodel, 839 F.2d 694, 705 (D.C. Cir. 1988). \nPlaintiffs argue that their injuries—loss of bargaining leverage in negotiating PLAs due \nto the challenged memoranda—can be redressed by enforcing the EO through declaratory and \ninjunctive relief.  Pls.’ Reply at 10–12.  They contend that reinstating the presumption in favor of \nPLAs, as required by the EO, would restore their ability to effectively negotiate PLAs on future \nfederal projects, thereby remedying their injury.  Id.  Plaintiffs emphasize that they are not \n15 \n\nCase 1:25-cv-01070-RC     Document 19     Filed 05/16/25     Page 16 of 33\nseeking a blanket PLA mandate without exceptions, but rather a return to the framework \nestablished by the EO, which they claim the memoranda undermined.  Id.  Plaintiffs reject \nDefendants’ claim that contractors are still free to voluntarily negotiate PLAs, arguing that \nwithout the EO’s presumption, their bargaining position is significantly diminished.  Id.  By \nissuing an injunction to set aside the memoranda and require compliance with the EO, Plaintiffs \nargue that the Court would effectively restore the conditions under which they previously had \nmeaningful leverage.  Id.  In contrast, Defendants argue that the memoranda merely influence, \nrather than dictate, agency behavior and do not categorically prohibit PLAs.  Defs.’ Opp’n at 15–\n16.  Therefore, Defendants assert that enjoining the memoranda would not necessarily result in \nsolicitations including PLA requirements (because the agency can assert exceptions), meaning \nPlaintiffs would remain vulnerable to the same harms.  Id.  Thus, the relief sought would not \nredress the alleged harm.  Id.   \nPlaintiffs have sufficiently demonstrated redressability by establishing that their asserted \ninjury—diminished bargaining leverage in negotiating PLAs—is likely to be remedied by the \nrelief sought.  While Defendants argue that agency discretion breaks the causal chain, the \nSupreme Court has made clear that redressability does not require plaintiffs to demonstrate \ncertainty or eliminate all hypothetical alternatives.  Massachusetts v. EPA, 549 U.S. 497, 518 \n(2007) (noting that plaintiffs “ha[ve] standing if there is some possibility that the requested relief \nwill prompt the injury-causing party to reconsider the decision that allegedly harmed the \nlitigant”) (emphasis added).  Plaintiffs have identified a specific injury caused by the removal of \nthe EO’s presumption in favor of PLAs and have shown that vacating the memoranda and \nenforcing the EO would likely restore the procedural framework that enhanced their bargaining \nposition.  This is sufficient under the standard articulated in Lujan, which requires only that a \n16 \n\nCase 1:25-cv-01070-RC     Document 19     Filed 05/16/25     Page 17 of 33\nfavorable decision be “likely, as opposed to merely speculative,” to redress the alleged harm.  \nSee 504 U.S. at 561 (internal quotation marks omitted); see also Nat’l Wildlife Fed’n, 839 F.2d at \n705 (recognizing that a plaintiff “need not show to a certainty” that relief will redress the injury).  \nHere, an order setting aside the memoranda would re-establish the “bargaining chip” that the EO \nprovides the unions, realigning the agencies and the contractors’ conduct with the EO’s \npresumption, and thereby enhancing Plaintiffs’ ability to secure PLAs in future large-scale \nconstruction contracts.  This is not a request for speculative third-party action, but a direct \nchallenge to official action that, if rescinded, would likely restore the prior policy environment \nunder which Plaintiffs previously had greater leverage—making their injury redressable under \nprevailing precedent. \nB.  Likelihood of Success of Plaintiffs’ APA Claims \nHaving established Plaintiffs’ standing to raise the claims in this case, the Court turns to \ntheir substantive APA claims.  The Court begins with the “most important factor” in its \npreliminary injunction analysis: whether Plaintiffs have demonstrated a “likelihood of success on \nthe merits.”  Aamer v. Obama, 742 F.3d 1023, 1038 (D.C. Cir. 2014).  The Court concludes that \nPlaintiffs are likely to succeed on the merits of their APA claims because Defendants’ \nmemoranda are not in accordance with the law, as they deviated from the requirements of the EO \nwithout providing adequate justification or following the proper exception process. \n1.  Final Agency Action \nAs a preliminary matter, Defendants argue that the challenged memoranda are not final \nagency actions subject to judicial review.  Defs.’ Opp’n at 16–19.  According to Defendants, the \nmemoranda are intermediate steps that merely direct future actions, such as amending or \nomitting PLA requirements in solicitations for large-scale construction projects, which \n17 \n\nCase 1:25-cv-01070-RC     Document 19     Filed 05/16/25     Page 18 of 33\nsolicitations are themselves the final agency actions.  Id.  Defendants further argue that because \nthe memoranda do not impose legal obligations, they fail the Supreme Court’s Bennett test for \nfinality.  Id.  The Court finds that the memoranda constitute final agency action for purposes of \nAPA review.  \nIt is well established that under the APA, “a court may not review a non-final agency \naction.”  Conservation Force v. Salazar, 919 F. Supp. 2d 85, 89 (D.D.C. 2013); see also Holistic \nCandlers & Consumers Ass’n v. FDA, 664 F.3d 940, 943 (D.C. Cir. 2012) (“The APA . . . only \nprovides a right to judicial review of ‘final agency action for which there is no other adequate \nremedy in a court.’” (quoting 5 U.S.C. § 704)).  “An agency action is final if it ‘1) marks the \nconsummation of the agency’s decision making process’ and 2) affects the ‘rights or \nobligations . . . [or the] legal consequences’ of the party seeking review.”  Conservation Force, \n919 F. Supp. 2d at 89 (alterations in original) (quoting Bennett, 520 U.S. at 177–78).  These two \nprongs are referred to as the Bennett test, and “[a]n order must satisfy both prongs of the Bennett \ntest to be considered final.”  Sw. Airlines Co. v. U.S. Dep’t of Transp., 832 F.3d 270, 275 (D.C. \nCir. 2016).  “[T]he finality requirement is concerned with whether the initial decisionmaker has \narrived at a definitive position on the issue that inflicts an actual, concrete injury . . . .”  Darby v. \nCisneros, 509 U.S. 137, 144 (1993) (first alteration in original) (quoting Williamson Cnty. Reg’l \nPlanning Comm’n v. Hamilton Bank of Johnson City, 473 U.S. 172, 193 (1985)).  “Agency \naction is considered final to the extent that it imposes an obligation, denies a right, or fixes some \nlegal relationship.”  Reliable Automatic Sprinkler Co., Inc. v. Consumer Prod. Safety Comm’n, \n324 F.3d 726, 731 (D.C. Cir. 2003). \nIn evaluating the first Bennett prong, the Court will consider whether the action is \n“informal, or only the ruling of a subordinate official, or tentative.”  Abbott Lab’ys v. Gardner, \n18 \n\nCase 1:25-cv-01070-RC     Document 19     Filed 05/16/25     Page 19 of 33\n387 U.S. 136, 151 (1967) (citations omitted).  The decisionmaking processes set out in an \nagency’s governing statutes and regulations are key to determining whether an action is properly \nattributable to the agency itself and represents the culmination of that agency’s consideration of \nan issue.  See Holistic Candlers, 664 F.3d at 944 (relying upon the FDA Manual’s description of \nwarning letters as preceding enforcement action to conclude they “do not mark the \nconsummation of FDA’s decisionmaking”); Reliable Automatic Sprinkler, 324 F.3d at 732–33 \n(holding a letter interpreting a safety regulation was not a final agency action because “the \nCommission itself ha[d] never considered the issue,” and “[t]he Act and the agency’s regulations \nclearly prescribe a scheme whereby the agency must hold a formal, on-the-record adjudication \nbefore it can make any determination that is legally binding”); see also Sw. Airlines, 832 F.3d at \n275 (considering “the way in which the agency subsequently treats the challenged action” in \nevaluating finality).  The second prong of the Bennett test, as noted, requires the court to decide \nwhether the issuance of the memoranda is an action “by which rights or obligations have been \ndetermined, or from which legal consequences will flow.”  Bennett, 520 U.S. at 178 (internal \nquotation marks omitted).  This inquiry is a “pragmatic” one.  See U.S. Army Corps of Eng’rs v. \nHawkes Co., 578 U.S. 590, 599 (2016) (quoting Abbott Lab’ys, 387 U.S. at 149). \nThe Court concludes that Plaintiffs have alleged facts sufficient to demonstrate that \nDefendants’ memoranda constitute final agency action within the meaning of the APA.  First, \nwith respect to Bennett’s requirement that the action “marks the consummation of the agency’s \ndecision making process,” see Conservation Force, 919 F. Supp. 2d at 89, the memoranda issued \nby DoD and GSA are plainly not tentative or preliminary.  Rather, they are the agencies’ \ndefinitive and authoritative positions on the requirement (or now, the lack thereof) for PLAs in \ntheir respective procurement processes.  The DoD memorandum directs that, “[e]ffective \n19 \n\nCase 1:25-cv-01070-RC     Document 19     Filed 05/16/25     Page 20 of 33\nimmediately, contracting officers shall not use project labor agreements for large-scale \nconstruction projects,” and further instructs officials to “remove [PLA] requirements, including \nany solicitation provisions.”  See DoD Mem.; see also Pls.’ Reply at 12–13.  This is not an \ninvitation for further deliberation, nor does it permit agency officials discretion to apply the prior \nPLA policy on a case-by-case basis.  Similarly, the GSA memorandum announces a categorical \npolicy shift exempting an entire class of projects—LPOE projects—from the PLA requirement, \nconcluding that PLAs would not advance the government’s efficiency goals for such projects.  \nGSA Mem. at 1–3; see also Pls.’ Mot. at 16.  These memoranda are thus not intermediate steps \nin a broader deliberative process; they are final instructions that implement a binding policy and \npreclude further consideration at the individual solicitation level, absent discrete exceptions.  \nThis is the agencies’ “last word” on the matter, as confirmed by Defendants’ own \nacknowledgment that the memoranda “announce that the agencies intend not to require PLAs in \nfuture solicitations.”  See Defs.’ Opp’n at 10.  Courts have consistently recognized such actions \nas final under Bennett.  See Mass. Coal. for Immigr. Reform v. DHS, 621 F. Supp. 3d 84, 101 \n(D.D.C. 2022) (memorandum constituted final agency action); see also Nat. Res. Def. Council v. \nEPA, 643 F.3d 311, 320 (D.C. Cir. 2011) (finding an EPA guidance document that bound \nofficials to a specific approach qualified as final agency action). \nSecond, under Bennett’s requirement that the action “affects the rights or obligations or \nthe legal consequences of the party seeking review,” see Conservation Force, 919 F. Supp. 2d at \n89 (cleaned up), the memoranda have a direct and appreciable impact on legal obligations and \npractical rights.  By eliminating the requirement that bidders on DoD and GSA projects negotiate \nPLAs, the memoranda alter the legal framework established by the EO, which mandated that \nagencies include the PLA requirements on solicitations for large-scale projects absent a project-\n20 \n\nCase 1:25-cv-01070-RC     Document 19     Filed 05/16/25     Page 21 of 33\nspecific exception.  The memoranda functionally nullify that mandate in broad swaths of the \nagencies’ procurement activity—a legal and regulatory shift that has substantial effects.  For \ncontractors, the memoranda strip them of the necessity to negotiate PLAs for the major projects \non which they bid, undermining the EO’s presumption in favor of PLAs with a blanket \nexclusion.  For unions like NABTU and its affiliates, the change removes a critical bargaining \nlever—the PLA mandate—that enabled them to negotiate labor terms with potential bidders as a \ncondition of participating in federal projects.  That deprivation constitutes a legally cognizable \ninjury under Bennett, as it “presently and directly limits or defeats a party’s ability to enter into \nan advantageous business arrangement.”  Spirit Airlines, Inc. v. U.S. Dep’t of Transp., 997 F.3d \n1247, 1252 (D.C. Cir. 2021). \nMoreover, the practical implementation of these memoranda confirms their legal effect.  \nPlaintiffs have submitted declarations showing that actual solicitations—including those for the \nMarine Barracks project in D.C. and the USDA Dairy Forage Research Center in Wisconsin—\nwere amended in reliance on the memoranda to remove PLA requirements.  See, e.g., McGarvey \nDecl. ¶ 16; Akerman Decl. ¶ 10.  Contractors ceased PLA negotiations, and unions like NABTU \nlost opportunities to engage with bidders under the framework contemplated by the EO.  \nMcGarvey Decl. ¶ 16.  These changes are not hypothetical or speculative; they have already \nmaterialized and produced a direct and adverse impact on Plaintiffs’ interests.  This distinguishes \nthe memoranda from the nonbinding guidance at issue in Southern California Alliance of \nPublicly Owned Treatment Works v. EPA, 8 F.4th 831, 837 (9th Cir. 2021) cited by Defendants, \nwhere no concrete consequences flowed from the guidance itself.  Here, by contrast, the \nmemoranda use imperative language, compel changes to active solicitations, and eliminate \nmandatory contractual conditions.  As in Public Employees for Environmental Responsibility v. \n21 \n\nCase 1:25-cv-01070-RC     Document 19     Filed 05/16/25     Page 22 of 33\nNational Park Service, No. 19-cv-3629, 2021 WL 1198047, at *8 (D.D.C. Mar. 30, 2021), where \na National Park Service directive regarding e-bikes was found final because it imposed binding \nrequirements on park officials, the DoD and GSA memoranda likewise impose immediate \nobligations on agency officials and reshape the legal landscape for affected stakeholders. \nThe Court finds that both prongs of the Bennett test are satisfied.  The memoranda are \nfinal agency actions because they (1) constitute the culmination of DoD and GSA’s decision-\nmaking regarding PLA requirements and (2) carry binding legal consequences that alter rights, \nobligations, and economic relationships between the agencies, contractors, and labor \norganizations.  As such, the Court finds that judicial review under the APA is appropriate. \n2.  Accordance with the Law \nHaving established that the issuance of the memoranda constitutes final agency action \nsubject to APA review, the Court turns to the substantive APA claims.  Plaintiffs argue that the \nDoD and GSA violated the APA by issuing memoranda that contradict the EO.  Pls.’ Mot. at 17–\n20; Pls.’ Reply at 16–18.  Plaintiffs contend that, instead of following the major contract \nsolicitation process mandated by the EO, the agencies implemented sweeping class deviations or \nexceptions that effectively nullify the PLA requirement across all future projects, in direct \nconflict with the EO’s plain language and implementing regulations.  Pls.’ Mot. at 17–20.  \nPlaintiffs further argue that the justifications offered by Defendants for their sweeping class \ndeviations—such as the potential for bid protests or labor market concerns—do not satisfy the \nstringent exception criteria outlined in the EO or the FAR.  Pls.’ Reply at 18–20.  Defendants \ncounter that the GSA and DoD memoranda are not contrary to law because neither the EO nor its \nimplementing regulations prohibit class deviations, and that such deviations are authorized under \nthe FAR unless explicitly precluded, which is not the case here.  Defs.’ Opp’n at 19–23.  \n22 \n\nCase 1:25-cv-01070-RC     Document 19     Filed 05/16/25     Page 23 of 33\nDefendants also contend that the DoD memorandum is not arbitrary and capricious because it \nwas issued in response to an urgent need to prevent significant delays in future large-scale \nprojects, citing recent legal decisions and market research.  Id. at 21–22.  Finally, Defendants \nemphasize that the EO is not judicially enforceable, further undercutting Plaintiffs’ claims.  Id. at \n21 n.3.  Again, Plaintiffs have the stronger argument. \nUnder the APA, courts must “hold unlawful and set aside agency action” that is \n“arbitrary, capricious, an abuse of discretion, or otherwise not in accordance with law,” 5 U.S.C. \n§ 706(2)(A)), or when it exceeds statutory authority, id. § 706(2)(C)).  Because that standard \nturns on the evidence and law before the agency, “the focal point for judicial review should be \nthe administrative record already in existence, not some new record made initially in the \nreviewing court.”  Camp v. Pitts, 411 U.S. 138, 142 (1973).  “The entire case on review is a \nquestion of law.”  Am. Bioscience, Inc. v. Thompson, 269 F.3d 1077, 1083 (D.C. Cir. 2001) \n(internal quotation marks omitted).  The challenging party bears the burden of establishing that \nthe agency action violated the APA.  Pierce v. SEC, 786 F.3d 1027, 1035 (D.C. Cir. 2015). \nAgencies are bound to follow binding executive orders unless rescinded or overridden \nthrough lawful procedures.  See Ass’n for Women in Sci. v. Califano, 566 F.2d 339, 344 (D.C. \nCir. 1977); see also Allbaugh, 295 F.3d at 33.  In this context, the EO is akin to a regulation.  See \nLeague of United Latin Am. Citizens v. Exec. Off. of the President, 2025 WL 1187730, at *18 \n(D.D.C. Apr. 24, 2025) (“Some executive orders, like legislative rules, purport to create binding, \nenforceable obligations on their own.” (internal citation omitted)).  Evaluating a claim that \nagency action is contrary to law, then, necessarily involves interpreting the language of the EO.  \nAs when interpreting regulations, the “court must exhaust all the traditional tools of \n23 \n\nCase 1:25-cv-01070-RC     Document 19     Filed 05/16/25     Page 24 of 33\nconstruction”—considering the law’s “text, structure, history, and purpose.”  Kisor v. Wilkie, 588 \nU.S. 558, 575 (2019) (internal quotations marks omitted). \nThe Court finds that the memoranda are contrary to the law set forth in the EO because \nthey flatly contradict the unambiguous requirements of the EO and its implementing regulations, \nin direct violation of the APA.  Under 5 U.S.C. § 706(2)(A), as noted, courts must set aside \nagency action that is “not in accordance with law.”  Here, the memoranda issued by DoD and \nGSA effectively nullify the mandatory PLA requirement imposed by Section 3 of the EO, which \nstates that “agencies shall require” PLAs on large-scale federal construction projects unless a \nparticularized, contract-specific exception is properly documented before the solicitation date.  \nSee Sec. 3, Exec. Order 14,063, 87 Fed. Reg. at 7364.  These memoranda instead purport to \nestablish blanket class deviations and class exceptions—a legal maneuver explicitly foreclosed \nby the language of the EO as reinforced by the FAR. \nThese set of facts are analogous to those found in National Wildlife Federation v. \nMorton, 393 F. Supp. 1286 (D.D.C. 1975), where the Bureau of Land Management’s broad \ndesignation of open land for off-road vehicle (“ORV”) use, made without regard to the specific \ncriteria mandated by an executive order, was found to be not in accordance with law.  Id. at \n1292.  Like the blanket ORV access conditions that were intended to be imposed in Morton, \nDoD and GSA’s memoranda impose categorical rules that override the individual, case-by-case \ndecision-making process explicitly required by the EO.  In both cases, the agencies abandoned \nthe individualized, criteria-based analysis mandated by the relevant EO in favor of sweeping \ngeneralizations inconsistent with that authority. \nFurther, the memoranda are legally impermissible under the FAR.  While class deviations \nfrom procurement regulations are sometimes allowed under FAR 1.401 and 1.404, they are \n24 \n\nCase 1:25-cv-01070-RC     Document 19     Filed 05/16/25     Page 25 of 33\ncategorically barred if “precluded by law, executive order, or regulation.”  See FAR 1.402, 48 \nC.F.R. § 1.402.  Like Plaintiffs articulate, the EO plainly precludes class deviations by requiring \nthat any exceptions to the PLA mandate be made “for a particular contract” and only by “no later \nthan the solicitation date,” accompanied by a “specific written explanation.”  Exec. Order \nNo. 14,063, 87 Fed. Reg. at 7364; Pls.’ Mot. at 18–19.  The FAR Council, in implementing the \nEO, explicitly reaffirmed this requirement, stating in the Federal Register that only “case-by-\ncase” exemptions are permissible.  Federal Acquisition Regulation: Use of Project Labor \nAgreements for Federal Construction Projects, 88 Fed. Reg. 88708, 88712, 88715, 88717, 88719 \n(Dec. 22, 2023) (codified at 48 C.F.R. pts. 1, 7, 22, 36, 52).  Thus, DoD’s and GSA’s actions—\nwhich apply a wholesale exemption to all large-scale or LPOE projects, respectively—directly \nviolate not only the EO but also the binding procurement regulations issued to enforce it. \nThe Ninth Circuit’s analysis in City & Cnty. of San Francisco v. Trump, 897 F.3d 1225 \n(9th Cir. 2018) further confirms this Court’s conclusion.  In City & County of San Francisco, the \nDepartment of Justice attempted to mitigate the legal consequences of a judicial injunction by \nissuing a memorandum that effectively neutralized a binding executive order penalizing \nsanctuary cities.  Id. at 1240–41.  The circuit court rejected this post hoc effort to rewrite the law, \nholding that agencies may not “render[] the Executive Order a toothless threat” by adopting \ninterpretations inconsistent with its plain terms.  Id.  Similarly, here, DoD and GSA cannot \nsidestep the EO’s prescriptive PLA mandate through internal memoranda that fundamentally \nalter its legal effect. \nFinally, Defendants’ reliance on the MVL USA, Inc. v. United States, 174 Fed. Cl. 437 \n(Fed. Cl. 2025) decision is misplaced.  The MVL USA holding was limited to the specific \nprocurements before the Court of Federal Claims, and it expressly stated that its conclusions did \n25 \n\nCase 1:25-cv-01070-RC     Document 19     Filed 05/16/25     Page 26 of 33\nnot apply to unrelated solicitations.  MVL USA, 174 Fed. Cl. at 441, 463 (limiting the court’s \nholding to “the functionality of the mandate as applied to the individual contracts in this case” \nand to “FAR requirements [for PLAs] in the solicitations . . . as applied to the contracts at issue \nhere” (emphases added)).  Indeed, in a decision on the request for reconsideration of a bid protest \ndecision, the Government Accountability Office reaffirmed this limited scope, finding that \nMVL’s analysis was nonbinding on future procurements.  Decision at 4, 4K Global-ACC JV, \nLLC, B-423092.2 (Comp. Gen. Apr. 11, 2025), available at \nhttps://www.gao.gov/assets/880/876975.pdf (“In any event, even if we were to accept that the \nMVL USA court’s interpretation of the PLA requirements had any bearing on our Office’s review \nof a protest challenging an agency’s PLA evaluation, nothing in the court’s decision indicates \nthat its interpretation would apply to the award here.”).  Thus, Defendants cannot rely on MVL \nUSA as justification for wholesale noncompliance with the EO. \nBecause the memoranda constitute final agency actions that disregard the EO’s legal \nrequirements, rely on unauthorized class deviations or exceptions, and rest on a misreading of \nMVL USA, the Court finds that the memoranda are not in accordance with law under the APA.  \nAgain, agencies are bound by executive orders until they are rescinded or overridden through \nlawful procedures.  See Califano, 566 F.2d at 344; see also Allbaugh, 295 F.3d at 33.  Here, the \nEO was neither rescinded nor overridden.  As such, the Court finds that Plaintiffs have \ndemonstrated a substantial likelihood of establishing that the memoranda are contrary to law and \nviolate the APA. \nC.  Irreparable Harm \nMoving to the next prong of the preliminary injunction analysis, Plaintiffs argue that, \nabsent a preliminary injunction, they will suffer irreparable harm because Defendants’ \n26 \n\nCase 1:25-cv-01070-RC     Document 19     Filed 05/16/25     Page 27 of 33\nmemoranda obstruct their ability to negotiate and implement PLAs for large-scale construction \nprojects.  Pls.’ Mot. at 21–23.  The Supreme Court has cautioned that a district court vacating an \nagency action under the APA should not issue an injunction unless doing so would “have [a] \nmeaningful practical effect independent of its vacatur.”  Monsanto Co. v. Geertson Seed Farms, \n561 U.S. 139, 165 (2010).  This is because “[a]n injunction is a drastic and extraordinary \nremedy, which should not be granted as a matter of course” or where “a less drastic remedy . . . \n[is] sufficient to redress” the plaintiffs’ injury.  Id.  Beginning with irreparable harm—and for the \nadditional reasons set forth below—the Court finds that the Plaintiffs have independently \ndemonstrated that an injunction is necessary to secure the relief to which they are entitled.   \nPlaintiffs argue that the memoranda have already disrupted ongoing and potential PLA \nnegotiations, causing lasting damage to collective bargaining relationships.  Pls.’ Mot. at 21–23.  \nThey contend that without injunctive relief, this harm will continue and cannot be reversed once \ncontracts are awarded.  Id.  In response, Defendants reiterate many of their arguments on \nstanding, claiming that Plaintiffs cannot demonstrate irreparable harm because their alleged \ninjury is speculative, not imminent, and not directly caused by the challenged DoD and GSA \nmemoranda.  Defs.’ Opp’n at 23–24.  Defendants reason that the memoranda do not bar \nPlaintiffs from negotiating PLAs since such decisions lie with prospective contractors.  Id.   \nThe Court finds that Plaintiffs have also made a sufficient showing of irreparable harm.  \nIn order to demonstrate irreparable harm, a plaintiff must demonstrate that its alleged injury is \n“certain and great, actual and not theoretical, and so imminent that there is a clear and present \nneed for equitable relief.”  League of Women Voters of U.S. v. Newby, 838 F.3d 1, 7–8 (D.C. Cir. \n2016) (cleaned up).  The “possibility” of irreparable harm is not enough.  See Winter, 555 U.S. at \n22.  The moving party must demonstrate “a clear and present need for equitable relief to prevent \n27 \n\nCase 1:25-cv-01070-RC     Document 19     Filed 05/16/25     Page 28 of 33\nirreparable harm.”  Chaplaincy of Full Gospel Churches v. England, 454 F.3d 290, 297 (D.C. \nCir. 2006) (internal quotation marks omitted).  The Court has already concluded that Plaintiffs \nhave established a substantial likelihood that they face an injury that is imminent enough to \nprovide them with the legal right to file an action in federal court alleging that Defendants have \nviolated the APA.  Therefore, the Court’s assessment of whether Plaintiffs have shown that they \nare likely to face irreparable harm absent a preliminary injunction will focus first on whether the \nharm alleged is sufficiently severe to compel the conclusion that interim injunctive relief is \nwarranted, and then on whether the harms Plaintiffs allege could be otherwise remedied. \nPlaintiffs have sufficiently shown that without declaring that the memoranda are unlawful \nand an injunction to prevent their enforcement, imminent harm is unavoidable.  The harm at \nissue is not speculative or remote; rather, it is concrete, immediate, and directly traceable to the \nissuance of Defendants’ memoranda.  First, this kind of injury squarely meets the requisite \nirreparable harm standard because Plaintiffs’ harm is certain and great, actual, and imminent.  \nSee League of Women Voters, 838 F.3d at 8.  Plaintiffs have sufficiently demonstrated that they \nare currently experiencing concrete disruptions in PLA negotiations—disruptions that are \ntraceable to agency action and not within the Plaintiffs’ control to remedy.  Defendants’ \nargument that the harm is speculative overlooks the fact that the PLA mandate functioned as a \nbargaining lever.  Its removal changes the entire negotiating landscape, leaving NABTU and its \naffiliates in a substantially weakened position that undermines their statutory and contractual role \nin large-scale federal construction projects. \nMoreover, the D.C. Circuit has repeatedly recognized that interference with collective \nbargaining rights constitutes irreparable harm.  In O’Donnell Constr. Co. v. District of Columbia, \n963 F.2d 420, 428–29 (D.C. Cir. 1992), the court acknowledged the unique and irreversible \n28 \n\nCase 1:25-cv-01070-RC     Document 19     Filed 05/16/25     Page 29 of 33\nnature of harms associated with the procurement process—once a contract is awarded without \nthe application of a PLA, neither the opportunity to negotiate nor the benefits conferred by such \nagreements can be retroactively imposed.  This principle reinforces the irreparability of the \ninjury in this case: once solicitations are amended and contracts awarded, Plaintiffs’ opportunity \nto influence project labor conditions vanishes. \nPlaintiffs also cite to Arcamuzi v. Cont’l Air Lines, Inc., 819 F.2d 935, 938 (9th Cir. \n1987), which underscores the principle that harm to the collective bargaining process itself is \nirreparable.  The Court agrees.  The loss of bargaining power, particularly the mandated context \nwithin which such bargaining historically occurred under the EO, cannot be restored through \ndamages or later litigation.  This aligns with Fox Television Stations, Inc. v. FilmOn X LLC, 966 \nF. Supp. 2d 30, 50 (D.D.C. 2013), where damage to ongoing contractual relationships was found \nto support injunctive relief.  Here, Plaintiffs show not only lost opportunities on specific projects, \nbut also a broader chilling effect on contractor willingness to engage in future PLA negotiations, \ndisrupting established and economically significant union-contractor relationships.  See, e.g., \nMcGarvey Decl. ¶ 16; Akerman Decl. ¶ 10.   \nThe Court also finds that Defendants’ failure to persuasively dispute that the elimination \nof the PLA mandate weakens Plaintiffs’ bargaining position only underscores Plaintiffs’ showing \nof irreparable harm.  Courts have found that diminished negotiating leverage—especially where \nit stems from unlawful or procedurally flawed government action—constitutes a harm that is \nboth “actual” and “beyond remediation.”  League of Women Voters, 838 F.3d at 8.  Accordingly, \nthe facts presented by Plaintiffs demonstrate irreparable harm and support the conclusion that a \npreliminary injunction is necessary to prevent further injury that cannot be undone through post \nhoc judicial remedies.  Because the removal of the PLA mandate has already interfered with \n29 \n\nCase 1:25-cv-01070-RC     Document 19     Filed 05/16/25     Page 30 of 33\nspecific negotiations and threatens NABTU and its affiliates’ core organizational purpose, this \nqualifies as irreparable harm. \nD.  Balance of Equities and Public Interest \nThe final two factors—balancing the equities and the public interest—also support \ngranting the preliminary injunction.  Plaintiffs argue that enjoining the challenged memoranda \nserves the public interest because it ensures agency compliance with the APA and prevents \nenforcement of an unlawful, arbitrary directive.  Pls. Mot. at 23.  They emphasize that they are \nnot asking the Court to mandate the use of PLAs or issue a generalized “obey the law” \ninjunction.  Pls.’ Reply at 24.  Instead, Plaintiffs seek a specific injunction prohibiting \nDefendants from enforcing memoranda that override the binding EO, and they assert that \nDefendants would still retain discretion to grant exceptions under the EO on a case-by-case \nbasis.  Id.  Defendants counter that the balance of equities favors the government because \nPlaintiffs face no real injury, while an injunction would improperly restrict procurement officers’ \ndiscretion and disrupt lawful government operations.  Defs.’ Opp’n at 24–25.   \nWhen assessing the equities and public interest factors, courts “balance the competing \nclaims of injury and must consider the effect on each party of the granting or withholding of the \nrequested relief.”  Winter, 555 U.S. at 24.  If the movant seeks to enjoin the government, the final \ntwo factors merge “because the government’s interest is the public interest.”  Pursuing Am.’s \nGreatness v. Fed. Election Comm’n, 831 F.3d 500, 511 (D.C. Cir. 2016).  “There is generally no \npublic interest in the perpetuation of unlawful agency action.”  League of Women Voters, 838 \nF.3d at 12.  In contrast, “there is a substantial public interest in having governmental agencies \nabide by the federal laws that govern their existence and operations.”  Id. (internal quotation \nmarks omitted).   \n30 \n\nCase 1:25-cv-01070-RC     Document 19     Filed 05/16/25     Page 31 of 33\nApplying these principles here, the equities and public interest both favor an injunction.  \nAn injunction ensures that Defendants abide by the procedural and substantive requirements of \nthe EO and the APA and halts any unlawful action in implementing memoranda that effectively \nnullify the EO’s mandate.  Defendants’ claimed harm—reduced flexibility in procurement \ndiscretion—is minimized where the EO already permits case-by-case exemptions, which \nPlaintiffs do not seek to eliminate.  Thus, the requested injunction does not constrain lawful \ndiscretion but merely prevents the enforcement of an unlawful categorical exclusion. \nImportantly, Plaintiffs are not seeking to compel agency action unlawfully withheld or to \nsubstitute the Court’s judgment for agency expertise; they are simply seeking to preserve the \nstatus quo as defined by a duly issued Executive Order until the legality of the new memoranda \nis fully adjudicated.  This is precisely the type of limited, specific injunctive relief the courts \nhave authorized to maintain legal compliance without overstepping judicial boundaries.  See \nUnited States v. Philip Morris USA Inc., 566 F.3d 1095, 1137 (D.C. Cir. 2009) (distinguishing \nenforceable, specific injunctions from improper “obey the law” directives).   \nPreserving fairness and accountability in governance serves the public interest.  \nTherefore, the final two factors warrant injunctive relief. \nE.  Scope and Implementation of Injunctive Relief \n1.  Vacatur as the Appropriate Remedy \nWhen a rule is contrary to law, the “ordinary practice is to vacate” it.  United Steel v. \nMine Safety & Health Admin., 925 F.3d 1279, 1287 (D.C. Cir. 2019); see also 5 U.S.C. § 706(2) \n(noting that the “reviewing court shall . . . set aside” unlawful agency action).  The D.C. Circuit \nhas “made clear that ‘[w]hen a reviewing court determines that agency regulations are unlawful, \nthe ordinary result is that the rules are vacated—not that their application to the individual \n31 \n\nCase 1:25-cv-01070-RC     Document 19     Filed 05/16/25     Page 32 of 33\npetitioners is proscribed.’”  Nat’l Mining Ass’n v. U.S. Army Corps of Eng’rs, 145 F.3d 1399, \n1409 (D.C. Cir. 1998) (alteration in original) (quoting Harmon v. Thornburgh, 878 F.2d 484, 495 \nn.21 (D.C. Cir. 1989)).  The Court, accordingly, concludes that the proper remedy is to set aside \nthe DoD and GSA memoranda, and the legal consequences of that result are not limited “to the \nindividual” Plaintiffs.  Id. \n2.  Waiver of Bond Requirement \nFinally, the Court will not require a bond.  Under Federal Rule of Civil Procedure 65(c), \nthe court may issue a preliminary injunction “only if the movant gives security in an amount that \nthe court considers proper to pay the costs and damages sustained by any party found to have \nbeen wrongfully enjoined or restrained.”  Fed. R. Civ. P. 65(c).  However, Rule 65(c) gives this \ncourt broad discretion to determine the appropriate amount of an injunction bond.  DSE, Inc. v. \nUnited States, 169 F.3d 21, 33 (D.C. Cir. 1999).  This includes “the discretion to require no bond \nat all.”  P.J.E.S. ex rel. Escobar Francisco v. Wolf, 502 F. Supp. 3d 492, 520 (D.D.C. 2020) \n(quoting Simms v. District of Columbia, 872 F. Supp. 2d 90, 107 (D.D.C. 2012)); Nat’l Council \nof Nonprofits v. Off. of Mgmt. & Budget, No. 25-cv-239, 2025 WL 597959, at *19 (D.D.C. \nFeb. 25, 2025) (“A bond is not necessary where requiring one would have the effect of denying \nthe plaintiffs their right to judicial review of administrative action.” (cleaned up)).   \nRequiring security in this case would serve no meaningful purpose, as Defendants have \nnot sufficiently demonstrated any likelihood of suffering costs or damages if they are later found \nto have been wrongfully enjoined.  Defendants have failed to identify any tangible financial \nharm—let alone quantifiable costs—they would incur as a result of being temporarily restrained \nfrom enforcing the challenged policy.  In cases where the government is the enjoined party and \nno concrete economic injury is established, as is the case here, courts routinely waive the bond \n32 \n\nCase 1:25-cv-01070-RC     Document 19     Filed 05/16/25     Page 33 of 33\nrequirement.  See, e.g., P.J.E.S., 502 F. Supp. 3d at 520.  Moreover, imposing a bond could \nunduly burden Plaintiffs and potentially impair their ability to seek judicial relief, a concern that \ncourts have repeatedly recognized in declining to require bonds in public interest litigation.  See \nid.; Nat’l Council of Nonprofits, 2025 WL 597959, at *19.  The same rationale applies here.  \nWhere the risk of financial harm is speculative at best and where a bond would have a chilling \neffect on access to justice, the balance of equities firmly supports waiving the bond.  As such and \nconsistent with this Court’s broad discretion under Rule 65(c), no bond will be required. \nVI.  CONCLUSION \nFor the foregoing reasons, the Court grants Plaintiffs’ motion for preliminary injunction.  \nAn order consistent with this Memorandum Opinion is separately and contemporaneously issued. \nDated:  May 16, 2025  RUDOLPH CONTRERAS \n  United States District Judge \n33 ",
+      "document_type_other": null,
+      "external_url": "https://www.courtlistener.com/docket/69864612/19/north-americas-building-trades-unions-v-department-of-defense/",
+      "ecf_number": "19",
+      "clearinghouse_link": "clearinghouse.net/doc/160550"
+    },
+    {
+      "date": null,
+      "date_is_estimate": false,
+      "date_not_available": false,
+      "description": null,
+      "document_source": null,
+      "document_status": null,
+      "document_type": null,
+      "order_type": null,
+      "citation_paren": null,
+      "cite_1_page": null,
+      "cite_1_reporter": null,
+      "cite_1_vol": null,
+      "cite_2_page": null,
+      "cite_2_reporter": null,
+      "cite_2_vol": null,
+      "cite_3_page": null,
+      "cite_3_reporter": null,
+      "cite_3_vol": null,
+      "citation_status": null,
+      "court": null,
+      "no_title": false,
+      "party_types": [],
+      "per_curium": false,
+      "is_core_document": true,
+      "id": 158424,
+      "file": null,
+      "title": null,
+      "text": null,
+      "document_type_other": null,
+      "external_url": null,
+      "ecf_number": null,
+      "clearinghouse_link": "clearinghouse.net/doc/158424"
+    }
+  ],
+  "document_count": 3
+}

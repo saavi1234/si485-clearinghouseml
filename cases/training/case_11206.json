@@ -1,0 +1,198 @@
+{
+  "case_id": 11206,
+  "fetched_at": "2025-10-22T00:14:01.700008",
+  "case_data": {
+    "attorney_orgs": [],
+    "available_documents": [
+      "Any published opinion"
+    ],
+    "case_defendants": [
+      {
+        "defendant_level": null,
+        "institution": "",
+        "institution_alt_state": null,
+        "institution_city": "",
+        "institution_county": null,
+        "name": "Justices of the Supreme Court of Kentucky",
+        "defendant_level_other": "",
+        "is_active": true
+      },
+      {
+        "defendant_level": null,
+        "institution": "",
+        "institution_alt_state": null,
+        "institution_city": "",
+        "institution_county": null,
+        "name": "Department of Public Advocacy",
+        "defendant_level_other": "",
+        "is_active": true
+      }
+    ],
+    "case_ongoing": "No",
+    "case_status": "Coding Complete",
+    "case_types": [
+      "Indigent Defense"
+    ],
+    "cause_other": "",
+    "causes": [
+      "42 U.S.C. § 1983",
+      "State law"
+    ],
+    "class_action_granted": "Not sought",
+    "class_action_sought": "No",
+    "closing_year": 1990,
+    "constitutional_clause": [
+      {
+        "value": "Due Process"
+      },
+      {
+        "value": "Equal Protection"
+      }
+    ],
+    "content_of_injunction": [],
+    "court": "Western District of Kentucky",
+    "custom_issues": [],
+    "defendant_payment": "",
+    "defendant_type": [],
+    "docket_status": "None",
+    "facility_type": [],
+    "filing_date": "1989-03-02",
+    "filing_year": 1989,
+    "id": 11206,
+    "injunction_duration": "",
+    "issues": [
+      "General/Misc., Reproductive rights, Environmental Justice and Resources: Funding",
+      "Reproductive rights: Fetus Identity"
+    ],
+    "last_checked_date": "2009-05-19T00:00:00-04:00",
+    "main_docket": {
+      "id": 31844,
+      "docket_entries": [],
+      "docket_case_type": "cv",
+      "docket_year": 1989,
+      "docket_filing_number": 160,
+      "is_main_docket": true,
+      "court": "Western District of Kentucky",
+      "state": "Kentucky",
+      "docket_office_number": "3",
+      "docket_number_manual": "89-00160",
+      "scales_html": "https://clearinghouse-umich-production.s3.amazonaws.com/media/docket-html/kywd--3-89-cv-00160.html",
+      "recap_link": null,
+      "is_active": true
+    },
+    "name": "Foster v. Kassulke",
+    "never_filed": false,
+    "non_docket_case_number": "",
+    "non_docket_case_number_type": null,
+    "non_docket_case_number_type_other": "",
+    "order_end_year": null,
+    "order_start_year": null,
+    "permanent_injunction": false,
+    "plaintiff_description": "Plaintiff is a prisoner who was convicted in a Kentucky state court where she received five death sentences and was presently appealing that case.  She filed the present suit alleging that state court procedures violated her rights to a meaningful appeal.",
+    "plaintiff_type": [
+      {
+        "value": "Private Plaintiff"
+      }
+    ],
+    "prevailing_party": "Defendant",
+    "pro_se_status": "No",
+    "public_interest_lawyer": "No",
+    "related_cases": [],
+    "relief_natures": [
+      "None"
+    ],
+    "relief_nature_other": "",
+    "relief_sources": [
+      "Litigation"
+    ],
+    "settlement_agreement": [],
+    "settlement_judgment_date": null,
+    "settlement_judgment_year": null,
+    "special_collections": [],
+    "special_case_type": [],
+    "state": "Kentucky",
+    "summary": "<p>On 6/30/1989, a criminal defendant in Kentucky filed suit in the United States District Court for the Western District of Kentucky against the Department of Public Advocacy (DPA) under 42 U.S.C. §1983 and Kentucky state law claiming that DPA's decision to limit attorney compensation to $2500 violated her rights to due process, equal protection and effective counsel.  As a result of this, plaintiff claimed that she was disadvantaged in prosecuting her appeal of five death sentences in the Kentucky Supreme Court.  Plainitiff also alleged that the state refused to provide her with a written transcript of her criminal trial.  Plaintiff sought both declaratory and injunctive relief, asking that the court order DPA to pay reasonable attorney's fees and to provide her with a written transcript of video testimony.  Plaintiff is represented by an appointed attorney.</p><p>The District Court dismissed her claim under Rule 12(b)(6) of the Federal Rules of Civil Procedure on the grounds that she lacked standing.  The District Court abstained from deciding the transcript issue holding that since there is a criminal prosecution currently pending, Younger v. Harris 401 U.S. 37 requires noninterference by a Federal Court.</p><p>On March 22, 1990, the Court of Appeals (Kennedy, J.) affirmed the District Court's ruling, but found that it should have also abstained from deciding the attorney compensation issue on the same grounds as it did the video transcript.  On May 4, 1990 rehearing was denied.</p><p></p>",
+    "summary_published_date": "2009-03-02T00:00:00-05:00",
+    "summary_short": "A criminal defendant with a case an appeal pending in the Supreme Court of Kentucky filed suit in Federal District Court claiming that the state's failure to pay adequate attorney's fees disadvantaged the prosecution of the appeal of her sentence.  The District Court dismissed the claim saying she lacked standing.  The Court of Appeals affirmed the dismissal, but on different grounds.  The Court of Appeals held that the District Court should have abstained form deciding the issue because there was case precedent stating that when a criminal case is pending in State Court, the Federal Courts should not intervene unless there are extraordinary circumstances.",
+    "summary_tiny": null,
+    "terminating_date": null,
+    "clearinghouse_link": "clearinghouse.net/case/11206",
+    "is_active": true,
+    "case_documents_url": "https://clearinghouse.net/api/v2/documents/?case=11206",
+    "case_dockets_url": "https://clearinghouse.net/api/v2/dockets/?case=11206",
+    "case_resources_url": "https://clearinghouse.net/api/v2/resources/?case=11206"
+  },
+  "documents": [
+    {
+      "date": null,
+      "date_is_estimate": false,
+      "date_not_available": false,
+      "description": null,
+      "document_source": null,
+      "document_status": null,
+      "document_type": null,
+      "order_type": null,
+      "citation_paren": null,
+      "cite_1_page": null,
+      "cite_1_reporter": null,
+      "cite_1_vol": null,
+      "cite_2_page": null,
+      "cite_2_reporter": null,
+      "cite_2_vol": null,
+      "cite_3_page": null,
+      "cite_3_reporter": null,
+      "cite_3_vol": null,
+      "citation_status": null,
+      "court": null,
+      "no_title": false,
+      "party_types": [],
+      "per_curium": false,
+      "is_core_document": true,
+      "id": 119709,
+      "file": null,
+      "title": null,
+      "text": null,
+      "document_type_other": null,
+      "external_url": null,
+      "ecf_number": null,
+      "clearinghouse_link": "clearinghouse.net/doc/119709"
+    },
+    {
+      "date": "1990-03-22",
+      "date_is_estimate": false,
+      "date_not_available": false,
+      "description": null,
+      "document_source": "Google Scholar",
+      "document_status": "Approved",
+      "document_type": "Order/Opinion",
+      "order_type": "Litigated Decree",
+      "citation_paren": null,
+      "cite_1_page": 1144,
+      "cite_1_reporter": "F.2d",
+      "cite_1_vol": 898,
+      "cite_2_page": null,
+      "cite_2_reporter": null,
+      "cite_2_vol": null,
+      "cite_3_page": null,
+      "cite_3_reporter": null,
+      "cite_3_vol": null,
+      "citation_status": "Official citation found/coded",
+      "court": "U.S. Court of Appeals for the Sixth Circuit",
+      "no_title": false,
+      "party_types": [
+        "Court"
+      ],
+      "per_curium": false,
+      "is_core_document": true,
+      "id": 55081,
+      "file": "https://clearinghouse-umich-production.s3.amazonaws.com/media/doc/55081.pdf",
+      "title": "Opinion",
+      "text": "898 F.2d 1144 (1990)\nLafonda Fay FOSTER, Plaintiff-Appellant,\nv.\nBetty KASSULKE, Warden, and Elizabeth W. Chandler, Deputy Warden, Kentucky State\nCorrectional Institute for Women; Steve Berry, Classification Manager, and John\nWigginton, Secretary, Corrections Cabinet, Defendants (89-5838/39), and\nRobert F. Stephens, Roy N. Vance, William M. Gant, Charles M. Leibson, Donald C.\nWintersheimer, Dan Jack Combs, and Joseph Lambert, Justices of the Supreme Court of\nKentucky, Defendants (89-5838), Defendants-Appellees (89-5839), and\nPaul F. Isaacs, Public Advocate, and David E. Norat, Director, Department of Public\nAdvocacy, Commonwealth of Kentucky, Defendants-Appellees (89-5838), Defendants\n(89-5839).\nNos. 89-5838, 89-5839.\nUnited States Court of Appeals, Sixth Circuit.\nArgued January 16, 1990.\nDecided March 22, 1990.\nRehearing and Rehearing Denied May 4, 1990.\n1145 *1145 Gail Robinson (argued), Kevin McNally, McNally & Robinson, Frankfort, Ky., for plaintiff-appellant.\nBarbara W. Jones, Office of General Counsel, Corrections Cabinet, Cecily Lambert (argued), Chief Legal\nCounsel, Administrative Office of Courts, Edwin A. Logan (argued), Frankfort, Ky., for defendants.\nBefore KENNEDY and GUY, Circuit Judges; and LIVELY, Senior Circuit Judge.\nRehearing and Rehearing En Banc Denied May 4, 1990.\nKENNEDY, Circuit Judge.\nThis appeal requires us to decide whether a federal district court may intervene in a criminal prosecution in a\nKentucky state court where the state court procedures are allegedly violating appellant's rights to a meaningful\nappeal of her death penalty convictions. Appellant was convicted in a Kentucky trial court on five murder counts\nfor which she received five separate death sentences. She is presently prosecuting her direct appeal in the\nKentucky Supreme Court. We hold that abstention from federal intervention in the Kentucky proceedings is\nrequired and therefore AFFIRM the District Court's judgment.\nAppellant, who is indigent, was represented at trial by counsel from the Kentucky Department of Public Advocacy\n(DPA). On appeal she is represented by an attorney at DPA, and private co-counsel, Kevin McNally, a former\nDPA attorney who has been in private practice since August 1, 1988. The DPA has limited attorney McNally's\ncompensation to $2,500 plus certain expenses.\nAppellant filed this action against the DPA, the prison warden, and Justices of the Kentucky Supreme Court\nunder 42 U.S.C. § 1983, alleging that DPA's decision to limit her attorney's compensation to $2,500 violated her\nrights to equal protection, due process, and the effective assistance of counsel. She claims that these rights are\nalso being violated because the state, pursuant to the Kentucky Supreme Court's newly-instituted policy of\nvideotaping trials, refused to provide appellant with a written transcript of the six-week trial. As a result, she\nclaims she is significantly disadvantaged and burdened in prosecuting her appeal in that her counsel find it nearly\n[1]\nimpossible to write briefs within the deadlines set by the Kentucky courts.  Appellant argues that the undue\ndelay and extreme difficulty of using a video record render her counsel's assistance ineffective. She seeks both\n\ninjunctive and declaratory relief. She asked the District Court to order DPA to pay McNally a reasonable fee and\nthe Kentucky Supreme Court to provide her with a written transcript of the video testimony.\nThe District Court dismissed both claims. It dismissed appellant's claim for fees for her attorney under\nFed.R.Civ.P. 12(b)(6) on the grounds she lacked standing. The court abstained on the written transcript request,\napplying the rule that \"[i]f a criminal prosecution is pending in state court [when the federal complaint is filed], \nYounger [v. Harris, 401 U.S. 37, 91 S.Ct. 746, 27 L.Ed.2d 669 (1971)] requires federal noninterference, unless\n1146 extraordinary circumstances are otherwise found to exist.\" Zalman v. Armstrong, 802 F.2d 199, *1146 204 (6th\n[2]\nCir.1986).\nAlthough the District Court dismissed appellant's section 1983 claim with respect to her attorney's compensation\n[3]\non standing grounds  and abstained with respect to the videotape claim, we hold that abstention was required\non both claims and affirm the District Court on that basis. Russ' Kwik Car Wash, Inc. v. Marathon Petroleum Co.,\n772 F.2d 214, 216 (6th Cir.1985) (\"[a] decision below must be affirmed if correct for any reason, including a\nreason not considered by the lower court\").\nThe Supreme Court explained in Younger that federal courts should abstain from interfering with state court\ncriminal proceedings absent \"extraordinary circumstances.\" Younger reported that \"our cases ... repeat time and\ntime again that the normal thing to do when federal courts are asked to enjoin pending proceedings in state\ncourts is not to issue such injunctions.\" Younger, 401 U.S. at 45, 91 S.Ct. at 751. That admonishment applies to\nstate appellate proceedings as well as state trials. Huffman v. Pursue, Ltd., 420 U.S. 592, 95 S.Ct. 1200, 43\nL.Ed.2d 482 (1975). Younger identified the reasons for abstention as concern for equity, comity, and federalism in\nstate and federal relations, concerns which are thwarted when the federal courts interfere in state judicial activity. \nSee Younger, 401 U.S. at 43-44, 91 S.Ct. at 750. In applying Younger's command, this Court has said that:\n[I]n determining the applicability of the [Younger] abstention rule a federal court should consider at\nleast three separate factors: (1) whether a state proceeding is pending at the time the federal\naction is initiated; (2) whether an adequate opportunity is provided to raise the constitutional\nclaims in the state proceeding; and (3) whether there are extraordinary circumstances which\nnevertheless warrant federal intervention.\nZalman, 802 F.2d at 202.\nApplying the Younger rule as interpreted by Zalman to the facts of this appeal demonstrates that abstention was\nappropriate on both claims. First, it is undisputed that the state proceeding was pending at the time appellant filed\nher federal section 1983 action. Second, appellant had and continues to have the opportunity to raise the\nconstitutional questions in the state courts. Even though her demands for adequate attorney compensation and a\nwritten transcript have been denied by the state courts, any violation of her constitutional rights which she asserts\nin her federal section 1983 action may be raised on appeal as a basis for reversal. Moreover, even assuming an\nadverse judgment on appeal, she still has resort to state habeas relief, where the constitutionality of the state\nprocedures could be determined by the state court. Ky.Rev.Stat.Ann. § 419.020 (1989). Failing to get relief there,\nshe may then turn to the federal courts and seek habeas review, arguing that her conviction was in violation of\nthe constitutional rights which her section 1983 complaint asserts were denied. In seeking injunctive relief in her\nsection 1983 action, she is attempting to obtain federal review of state court procedures in a criminal case before\nthe state court has had the opportunity to decide them finally. Federal review should be given in the context of a\n1147 federal habeas proceeding following the appropriate exhaustion of state remedies, where concerns *1147 of\nequity, comity, and federalism 00 concerns that Younger teaches require abstention 00 are accommodated. See \n97 97\nYounger, 401 U.S. at 43-44, 91 S.Ct. at 750. The Supreme Court recently noted in Deakins v. Monaghan, 484\nU.S. 193, 208, 108 S.Ct. 523, 533, 98 L.Ed.2d 529 (1988) (White, J., concurring), that:\n[a] judgment in the federal [§ 1983] damages action may decide several questions at issue in the\nstate criminal proceeding. It may determine, for example, that certain evidence was seized\ncontrary to the Fourth Amendment, or that an interrogation was conducted in violation of the Sixth\nAmendment, or that Fifth Amendment rights were somehow violated.... If the claims ... were\ndisposed of on the merits by the District Court, this decision would presumably be owed res\n\njudicata effect in the forthcoming state criminal trial.... \"[T]he potential for federal-state friction is\nobvious.\" Guerro v. Mulhearn, 498 F.2d 1249, 1253 (CA1 1974) [footnote omitted].\nPursuing injunctive and damage relief in a federal section 1983 action is similarly hostile to the federal-state\nrelations. Id. at 209, 108 S.Ct. at 533.\nThe third inquiry, whether there are extraordinary circumstances that warrant federal intervention, is not met. The\nSupreme Court in Younger defined the general parameters within which federal interference in state matters is\njustified.\n\"[W]hen absolutely necessary for protection of constitutional rights courts of the United States\nhave power to enjoin state officers from instituting criminal actions. But this may not be done\nexcept under extraordinary circumstances where the danger of irreparable loss is both great and\nimmediate. Ordinarily, there should be no interference with such officers; primarily, they are\ncharged with the duty of prosecuting offenders against the laws of the State and must decide\nwhen and how this is to be done. The accused should first set up and rely upon his defense in the\nstate courts, even though this involves a challenge of the validity of some statute, unless it plainly\nappears that this course would not afford adequate protection.\"\nYounger, 401 U.S. at 45, 91 S.Ct. at 751 (emphasis added) (quoting Fenner v. Boykin, 271 U.S. 240, 243-44, 46\nS.Ct. 492, 493, 70 L.Ed. 927 (1926)). In this case, appellant makes no showing 00 plain or otherwise 00 that\n97 97\nchallenging the state procedures in state court would not afford her adequate protection. Nor is any injury\n\"irreparable\" within the meaning of Younger, since to be irreparable \"the threat to the plaintiff's federally protected\nrights must be one that cannot be eliminated by his defense against a single criminal prosecution.\" Id.401 U.S. at\n46, 91 S.Ct. at 751. As discussed above, the threat to plaintiff's federal rights can be eliminated in the state\ncourts.\nIn addition to her ability to obtain a state remedy, it is also not clear that inadequate compensation for one of her\ntwo attorneys and the use of a videotape transcript represent a \"`danger of irreparable loss [that] is both great\nand immediate.'\" Id. at 45, 91 S.Ct. at 751 (quoting Fenner, 271 U.S. at 243, 46 S.Ct. at 493). The relationship\nbetween her attorney's compensation and his effectiveness as counsel is by no means certain. Were it so, pro\nbono defense counsel would be by definition \"ineffective.\" This conclusion, of course, flies in the face of reality\nwhen it is observed that many pro bono cases are handled with a great deal of competence. Also, appellant does\nnot persuasively argue that use of the video transcript is an insurmountable burden to adequate representation.\nIndeed, her attorney maintained only that \"working from a video record at this point is even more cumbersome\nthan the earlier stage when I was simply viewing the videotape record and taking notes. The real difficulty is\ntrying to access the video record.\" Joint App. at 61. While this process was no doubt very laborious and time-\nconsuming, appellant must show an \"injury other than that incidental to every criminal proceeding brought\nlawfully and in good faith....\" Younger, 401 U.S. at 47, 91 S.Ct. at 752 (quoting Douglas v. City of Jeannette, 319\n1148 U.S. 157, 164, 63 S.Ct. 877, 87 L.Ed. 1324 (1943)). The burden imposed *1148 on appellant in this case is no\n[4]\ndifferent than that suffered by any similarly-situated defendant in the Kentucky state courts.  Although difficult,\neffective prosecution of her appeal is not made impossible by the Kentucky procedures at issue here. There are\nunquestionably circumstances where federal rights are violated in state proceedings such that federal\nintervention is warranted. While we empathize with counsel's burden in prosecuting their client's appeal using\n[5]\nsuch a long and cumbersome videotape record,  we do not find the circumstances extraordinary enough to\njustify federal intervention in the state criminal procedure, especially when the issues can be raised and\nanswered in the Kentucky state courts. This is not one of the \"[o]ther unusual situations calling for federal\nintervention\" recognized by the Court in Younger. Id.401 U.S. at 54, 91 S.Ct. at 755. Section 1983 should not be\n[6]\nused to make an end run around habeas corpus procedures.  Any constitutional violations should be vindicated\nin the state court in the first instance and, failing vindication there, by the federal court upon habeas review, rather\nthan a federal section 1983 action brought while the state proceeding is still pending. See, e.g., Wilcox v. Miller,\n691 F.2d 739 (5th Cir.1982), where the Fifth Circuit held that Younger abstention was appropriate when a state\ndefendant whose appeal was pending brought a federal section 1983 action alleging that the state violated his\nright to counsel.\n\nBecause abstention was proper on both claims asserted by appellant in her federal section 1983 action, the\njudgment of the District Court dismissing the action is AFFIRMED.\n[1] The six-week trial produced a videotape record that is over 132 hours long. Appellant alleges that because of\nits length and the difficulty in using it to retrieve trial passages, it is not possible to construct competent briefs\nwithin the deadlines set by the court.\n[2] The court did, however, require the state to provide appellant with equipment with which to view the videotape.\nThat ruling has not been appealed.\n[3] On this question, the District Court ruled that appellant did not have standing to assert that her attorney should\nbe given more compensation. The court reasoned that increased compensation was a right that is personal to\nhim and which could not be brought by appellant in her § 1983 claim. While we do not decide the question, we\nare not convinced that the court was correct, since appellant's claim was not simply that her attorney was\nunderfunded. Rather, she claimed that because he was underfunded she was receiving ineffective assistance,\nwhich is a violation of her rights. See Luckey v. Harris, 860 F.2d 1012 (11th Cir.1988) (permitting a class of\nindigent defendants and future defendants in criminal proceedings to sue in federal court under § 1983 to compel\nthe state court to provide adequate defense counsel, including sufficient funding. The action was also brought by\na class of all attorneys who represent or will represent indigent defendants).\n[4] Appellant asserts that she was denied equal protection because the state's denial of a written transcript and\nthe cap on her attorney's fee was arbitrary. Because we find abstention appropriate, we do not address these\ncontentions on the merits, but rather leave it to the Kentucky courts to address those issues on appeal.\n[5] This Court has previously noted the problems associated with Kentucky's policy of videotaping trials. Dorsey v.\nParke, 872 F.2d 163 (6th Cir.),cert. denied,___ U.S. ___, 110 S.Ct. 103, 107 L.Ed.2d 67 (1989).\n[6] It is the same concerns that require exhaustion of state remedies in a habeas action that compel abstention in\nappellant's section 1983 suit. Exhaustion of state remedies is a prerequisite to bringing a habeas action \"to avoid\nthe unnecessary friction between the federal and state court systems that would result if a lower federal court\nupset a state court conviction without first giving the state court system an opportunity to correct its own\nconstitutional errors.\" Preiser v. Rodriguez, 411 U.S. 475, 490, 93 S.Ct. 1827, 1836, 36 L.Ed.2d 439 (1973).\nThese same concerns underlie the Younger abstention: \"The rule of exhaustion in federal habeas corpus actions\nis rooted in considerations of federal-state comity. That principle was defined in Younger ... as `a proper respect\nfor state functions....'\" Id. at 491, 93 S.Ct. at 1837. Habeas relief is denied if there is no state exhaustion out of\nconcerns of comity. The same interests require abstention from deciding plaintiff's section 1983 claim until the\nstate courts have been afforded an opportunity to address the questions raised by appellant.\nSave trees - read court opinions online on Google Scholar.",
+      "document_type_other": null,
+      "external_url": "",
+      "ecf_number": null,
+      "clearinghouse_link": "clearinghouse.net/doc/55081"
+    }
+  ],
+  "document_count": 2
+}

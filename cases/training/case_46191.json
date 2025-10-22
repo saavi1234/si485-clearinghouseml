@@ -1,0 +1,565 @@
+{
+  "case_id": 46191,
+  "fetched_at": "2025-10-22T00:44:11.949352",
+  "case_data": {
+    "attorney_orgs": [],
+    "available_documents": [
+      "Trial Court Docket",
+      "Complaint (any)"
+    ],
+    "case_defendants": [
+      {
+        "defendant_level": null,
+        "institution": "",
+        "institution_alt_state": null,
+        "institution_city": "Washington D.C.",
+        "institution_county": null,
+        "name": "Environmental Protection Agency",
+        "defendant_level_other": "",
+        "is_active": true
+      }
+    ],
+    "case_ongoing": "Yes",
+    "case_status": "Coding Complete",
+    "case_types": [
+      "Environmental Justice",
+      "Presidential/Gubernatorial Authority"
+    ],
+    "cause_other": "",
+    "causes": [
+      "FOIA (Freedom of Information Act), 5 U.S.C. § 552"
+    ],
+    "class_action_granted": "Not sought",
+    "class_action_sought": "No",
+    "closing_year": null,
+    "constitutional_clause": [],
+    "content_of_injunction": [],
+    "court": "District of District of Columbia",
+    "custom_issues": [],
+    "defendant_payment": "",
+    "defendant_type": [
+      {
+        "value": "Jurisdiction-wide"
+      }
+    ],
+    "docket_status": "Complete as of retrieval date",
+    "facility_type": [],
+    "filing_date": "2025-03-03",
+    "filing_year": 2025,
+    "id": 46191,
+    "injunction_duration": "",
+    "issues": [
+      "General/Misc.: Confidentiality"
+    ],
+    "last_checked_date": "2025-10-09T00:00:00-04:00",
+    "main_docket": {
+      "id": 60977,
+      "docket_entries": [
+        {
+          "row_number": 18,
+          "id": 9424250,
+          "entry_number": null,
+          "date_filed": "2025-03-03T00:00:00-05:00",
+          "attachments": [],
+          "url": "https://www.courtlistener.com",
+          "recap_pdf_url": null,
+          "pacer_doc_id": null,
+          "description": "Case Assigned to Judge Dabney L. Friedrich. (zmtm)"
+        },
+        {
+          "row_number": 24,
+          "id": 10202146,
+          "entry_number": null,
+          "date_filed": "2025-06-26T00:00:00-04:00",
+          "attachments": [],
+          "url": "https://www.courtlistener.com",
+          "recap_pdf_url": null,
+          "pacer_doc_id": null,
+          "description": "Status Report Order"
+        },
+        {
+          "row_number": 11,
+          "id": 9480019,
+          "entry_number": "4",
+          "date_filed": "2025-03-04T00:00:00-05:00",
+          "attachments": [],
+          "url": "https://www.courtlistener.com/docket/69698894/4/environmental-defense-fund-v-united-states-environmental-protection-agency/",
+          "recap_pdf_url": null,
+          "pacer_doc_id": "045011231988",
+          "description": "STANDARD ORDER in Civil Cases. See text for details. Signed by Judge Dabney L. Friedrich on March 4, 2025 (lcdlf3) (Entered: 03/04/2025)"
+        },
+        {
+          "row_number": 12,
+          "id": 9480020,
+          "entry_number": "5",
+          "date_filed": "2025-03-04T00:00:00-05:00",
+          "attachments": [],
+          "url": "https://www.courtlistener.com/docket/69698894/5/environmental-defense-fund-v-united-states-environmental-protection-agency/",
+          "recap_pdf_url": null,
+          "pacer_doc_id": "045011232346",
+          "description": "NOTICE of Appearance by Erin Caitlin Murphy on behalf of ENVIRONMENTAL DEFENSE FUND (Murphy, Erin) (Entered: 03/04/2025)"
+        },
+        {
+          "row_number": 13,
+          "id": 9480021,
+          "entry_number": "6",
+          "date_filed": "2025-03-04T00:00:00-05:00",
+          "attachments": [],
+          "url": "https://www.courtlistener.com/docket/69698894/6/environmental-defense-fund-v-united-states-environmental-protection-agency/",
+          "recap_pdf_url": null,
+          "pacer_doc_id": "045011233254",
+          "description": "NOTICE of Appearance by Nathaniel Hemmerick Hunt, I on behalf of ENVIRONMENTAL DEFENSE FUND (Hunt, Nathaniel) (Entered: 03/04/2025)"
+        },
+        {
+          "row_number": 14,
+          "id": 9771011,
+          "entry_number": "7",
+          "date_filed": "2025-03-19T00:00:00-04:00",
+          "attachments": [],
+          "url": "https://www.courtlistener.com/docket/69698894/7/environmental-defense-fund-v-united-states-environmental-protection-agency/",
+          "recap_pdf_url": null,
+          "pacer_doc_id": "045011266691",
+          "description": "RETURN OF SERVICE/AFFIDAVIT of Summons and Complaint Executed as to the United States Attorney. Date of Service Upon United States Attorney on 3/4/2025. Answer due for ALL FEDERAL DEFENDANTS by 4/3/2025. (Attachments: # 1 Exhibit 1, # 2 Exhibit 2)(Caravello, Samantha) (Entered: 03/19/2025)"
+        },
+        {
+          "row_number": 15,
+          "id": 9771012,
+          "entry_number": "8",
+          "date_filed": "2025-03-27T00:00:00-04:00",
+          "attachments": [],
+          "url": "https://www.courtlistener.com/docket/69698894/8/environmental-defense-fund-v-united-states-environmental-protection-agency/",
+          "recap_pdf_url": null,
+          "pacer_doc_id": "045011283726",
+          "description": "NOTICE of Appearance by Tabitha Bartholomew on behalf of UNITED STATES ENVIRONMENTAL PROTECTION AGENCY (Bartholomew, Tabitha) (Entered: 03/27/2025)"
+        },
+        {
+          "row_number": 16,
+          "id": 9771013,
+          "entry_number": "9",
+          "date_filed": "2025-04-02T00:00:00-04:00",
+          "attachments": [],
+          "url": "https://www.courtlistener.com/docket/69698894/9/environmental-defense-fund-v-united-states-environmental-protection-agency/",
+          "recap_pdf_url": null,
+          "pacer_doc_id": "045011296681",
+          "description": "RETURN OF SERVICE/AFFIDAVIT of Summons and Complaint Executed on United States Attorney General. Date of Service Upon United States Attorney General 3/12/25. (Attachments: # 1 Exhibit 1)(Caravello, Samantha) (Entered: 04/02/2025)"
+        },
+        {
+          "row_number": 1,
+          "id": 9771014,
+          "entry_number": "10",
+          "date_filed": "2025-04-02T00:00:00-04:00",
+          "attachments": [],
+          "url": "https://www.courtlistener.com/docket/69698894/10/environmental-defense-fund-v-united-states-environmental-protection-agency/",
+          "recap_pdf_url": null,
+          "pacer_doc_id": "045011296700",
+          "description": "RETURN OF SERVICE/AFFIDAVIT of Summons and Complaint Executed. UNITED STATES ENVIRONMENTAL PROTECTION AGENCY served on 3/10/2025 (Attachments: # 1 Exhibit 1)(Caravello, Samantha) (Entered: 04/02/2025)"
+        },
+        {
+          "row_number": 2,
+          "id": 9771015,
+          "entry_number": "11",
+          "date_filed": "2025-04-03T00:00:00-04:00",
+          "attachments": [],
+          "url": "https://www.courtlistener.com/docket/69698894/11/environmental-defense-fund-v-united-states-environmental-protection-agency/",
+          "recap_pdf_url": null,
+          "pacer_doc_id": "045011298357",
+          "description": "ANSWER to Complaint by UNITED STATES ENVIRONMENTAL PROTECTION AGENCY.(Bartholomew, Tabitha) (Entered: 04/03/2025)"
+        },
+        {
+          "row_number": 19,
+          "id": 9771016,
+          "entry_number": null,
+          "date_filed": "2025-04-03T00:00:00-04:00",
+          "attachments": [],
+          "url": "https://www.courtlistener.com",
+          "recap_pdf_url": null,
+          "pacer_doc_id": null,
+          "description": "Status Report Order"
+        },
+        {
+          "row_number": 20,
+          "id": 9771017,
+          "entry_number": null,
+          "date_filed": "2025-04-03T00:00:00-04:00",
+          "attachments": [],
+          "url": "https://www.courtlistener.com",
+          "recap_pdf_url": null,
+          "pacer_doc_id": null,
+          "description": "MINUTE ORDER requiring the parties to MEET AND CONFER and file a joint status report proposing a schedule for further proceedings. The status report should address the status of the plaintiff's FOIA request, including the anticipated number of documents responsive to the request and the anticipated date(s) for release of the requested documents. The parties shall file the joint status report on or before April 24, 2025. So Ordered by Judge Dabney L. Friedrich on April 3, 2025. (lcdlf3)"
+        },
+        {
+          "row_number": 3,
+          "id": 10094580,
+          "entry_number": "12",
+          "date_filed": "2025-04-24T00:00:00-04:00",
+          "attachments": [],
+          "url": "https://www.courtlistener.com/docket/69698894/12/environmental-defense-fund-v-united-states-environmental-protection-agency/",
+          "recap_pdf_url": null,
+          "pacer_doc_id": "045011345892",
+          "description": "Joint STATUS REPORT by UNITED STATES ENVIRONMENTAL PROTECTION AGENCY. (Bartholomew, Tabitha) (Entered: 04/24/2025)"
+        },
+        {
+          "row_number": 21,
+          "id": 10202141,
+          "entry_number": null,
+          "date_filed": "2025-04-25T00:00:00-04:00",
+          "attachments": [],
+          "url": "https://www.courtlistener.com",
+          "recap_pdf_url": null,
+          "pacer_doc_id": null,
+          "description": "Status Report Order"
+        },
+        {
+          "row_number": 22,
+          "id": 10202142,
+          "entry_number": null,
+          "date_filed": "2025-04-25T00:00:00-04:00",
+          "attachments": [],
+          "url": "https://www.courtlistener.com",
+          "recap_pdf_url": null,
+          "pacer_doc_id": null,
+          "description": "MINUTE ORDER. Upon consideration of the parties 12 Joint Status Report, the parties shall file another status report on or before May 27, 2025. So ordered by Judge Dabney L. Friedrich on April 25, 2025 (lcdlf3)"
+        },
+        {
+          "row_number": 4,
+          "id": 10202143,
+          "entry_number": "13",
+          "date_filed": "2025-05-27T00:00:00-04:00",
+          "attachments": [],
+          "url": "https://www.courtlistener.com/docket/69698894/13/environmental-defense-fund-v-united-states-environmental-protection-agency/",
+          "recap_pdf_url": null,
+          "pacer_doc_id": "045011412020",
+          "description": "Status Report"
+        },
+        {
+          "row_number": 8,
+          "id": 10247459,
+          "entry_number": "17",
+          "date_filed": "2025-08-29T00:00:00-04:00",
+          "attachments": null,
+          "url": "https://www.courtlistener.com/docket/69698894/17/environmental-defense-fund-v-united-states-environmental-protection-agency/",
+          "recap_pdf_url": null,
+          "pacer_doc_id": "045011598373",
+          "description": "Status Report"
+        },
+        {
+          "row_number": 26,
+          "id": 10247460,
+          "entry_number": null,
+          "date_filed": "2025-08-29T00:00:00-04:00",
+          "attachments": null,
+          "url": "https://www.courtlistener.com",
+          "recap_pdf_url": null,
+          "pacer_doc_id": null,
+          "description": ".Order AND ~Util - Set/Reset Deadlines"
+        },
+        {
+          "row_number": 9,
+          "id": 9424249,
+          "entry_number": "2",
+          "date_filed": "2025-03-03T00:00:00-05:00",
+          "attachments": [],
+          "url": "https://www.courtlistener.com/docket/69698894/2/environmental-defense-fund-v-united-states-environmental-protection-agency/",
+          "recap_pdf_url": null,
+          "pacer_doc_id": "045011231093",
+          "description": "LCvR 26.1 CERTIFICATE OF DISCLOSURE of Corporate Affiliations and Financial Interests by ENVIRONMENTAL DEFENSE FUND (Caravello, Samantha) (Entered: 03/03/2025)"
+        },
+        {
+          "row_number": 6,
+          "id": 10202147,
+          "entry_number": "15",
+          "date_filed": "2025-07-17T00:00:00-04:00",
+          "attachments": [],
+          "url": "https://www.courtlistener.com/docket/69698894/15/environmental-defense-fund-v-united-states-environmental-protection-agency/",
+          "recap_pdf_url": null,
+          "pacer_doc_id": "045011511691",
+          "description": "Notice of Appearance"
+        },
+        {
+          "row_number": 17,
+          "id": 9424247,
+          "entry_number": null,
+          "date_filed": "2025-03-03T00:00:00-05:00",
+          "attachments": [],
+          "url": "https://www.courtlistener.com",
+          "recap_pdf_url": null,
+          "pacer_doc_id": null,
+          "description": "Case Assigned/Reassigned"
+        },
+        {
+          "row_number": 7,
+          "id": 10202148,
+          "entry_number": "16",
+          "date_filed": "2025-07-30T00:00:00-04:00",
+          "attachments": [],
+          "url": "https://www.courtlistener.com/docket/69698894/16/environmental-defense-fund-v-united-states-environmental-protection-agency/",
+          "recap_pdf_url": null,
+          "pacer_doc_id": "045011537141",
+          "description": "Status Report"
+        },
+        {
+          "row_number": 0,
+          "id": 9424248,
+          "entry_number": "1",
+          "date_filed": "2025-03-03T00:00:00-05:00",
+          "attachments": [
+            {
+              "pdf_url": "https://www.courtlistener.com/recap/gov.uscourts.dcd.278008/gov.uscourts.dcd.278008.1.1.pdf",
+              "recap_id": 431937772,
+              "pacer_url": "https://ecf.dcd.uscourts.gov/doc1/045011230986?caseid=278008",
+              "description": "Exhibit A",
+              "attachment_number": 1
+            },
+            {
+              "pdf_url": "https://www.courtlistener.com/recap/gov.uscourts.dcd.278008/gov.uscourts.dcd.278008.1.2.pdf",
+              "recap_id": 431937773,
+              "pacer_url": "https://ecf.dcd.uscourts.gov/doc1/045011230987?caseid=278008",
+              "description": "Exhibit B",
+              "attachment_number": 2
+            },
+            {
+              "pdf_url": "https://www.courtlistener.com/recap/gov.uscourts.dcd.278008/gov.uscourts.dcd.278008.1.3.pdf",
+              "recap_id": 431937774,
+              "pacer_url": "https://ecf.dcd.uscourts.gov/doc1/045011230988?caseid=278008",
+              "description": "Exhibit C",
+              "attachment_number": 3
+            },
+            {
+              "pdf_url": "https://www.courtlistener.com/recap/gov.uscourts.dcd.278008/gov.uscourts.dcd.278008.1.4.pdf",
+              "recap_id": 431937775,
+              "pacer_url": "https://ecf.dcd.uscourts.gov/doc1/045011230989?caseid=278008",
+              "description": "Exhibit D",
+              "attachment_number": 4
+            },
+            {
+              "pdf_url": "https://www.courtlistener.com/recap/gov.uscourts.dcd.278008/gov.uscourts.dcd.278008.1.5.pdf",
+              "recap_id": 431937776,
+              "pacer_url": "https://ecf.dcd.uscourts.gov/doc1/045011230990?caseid=278008",
+              "description": "Exhibit E",
+              "attachment_number": 5
+            },
+            {
+              "pdf_url": "https://www.courtlistener.com/recap/gov.uscourts.dcd.278008/gov.uscourts.dcd.278008.1.6.pdf",
+              "recap_id": 431937777,
+              "pacer_url": "https://ecf.dcd.uscourts.gov/doc1/045011230991?caseid=278008",
+              "description": "Civil Cover Sheet",
+              "attachment_number": 6
+            },
+            {
+              "pdf_url": "https://www.courtlistener.com/recap/gov.uscourts.dcd.278008/gov.uscourts.dcd.278008.1.7.pdf",
+              "recap_id": 431937778,
+              "pacer_url": "https://ecf.dcd.uscourts.gov/doc1/045011230992?caseid=278008",
+              "description": "Summons U.S. Attorney for D.C.",
+              "attachment_number": 7
+            },
+            {
+              "pdf_url": "https://www.courtlistener.com/recap/gov.uscourts.dcd.278008/gov.uscourts.dcd.278008.1.8.pdf",
+              "recap_id": 431937779,
+              "pacer_url": "https://ecf.dcd.uscourts.gov/doc1/045011230993?caseid=278008",
+              "description": "Summons U.S. Attorney General",
+              "attachment_number": 8
+            },
+            {
+              "pdf_url": "https://www.courtlistener.com/recap/gov.uscourts.dcd.278008/gov.uscourts.dcd.278008.1.9.pdf",
+              "recap_id": 431937780,
+              "pacer_url": "https://ecf.dcd.uscourts.gov/doc1/045011230994?caseid=278008",
+              "description": "Summons U.S. EPA",
+              "attachment_number": 9
+            }
+          ],
+          "url": "https://www.courtlistener.com/docket/69698894/1/environmental-defense-fund-v-united-states-environmental-protection-agency/",
+          "recap_pdf_url": "https://www.courtlistener.com/recap/gov.uscourts.dcd.278008/gov.uscourts.dcd.278008.1.0.pdf",
+          "pacer_doc_id": "045011230985",
+          "description": "COMPLAINT against UNITED STATES ENVIRONMENTAL PROTECTION AGENCY ( Filing fee $ 405 receipt number ADCDC-11515574) filed by ENVIRONMENTAL DEFENSE FUND. (Attachments: # 1 Exhibit A, # 2 Exhibit B, # 3 Exhibit C, # 4 Exhibit D, # 5 Exhibit E, # 6 Civil Cover Sheet, # 7 Summons U.S. Attorney for D.C., # 8 Summons U.S. Attorney General, # 9 Summons U.S. EPA)(Caravello, Samantha) (Entered: 03/03/2025)"
+        },
+        {
+          "row_number": 10,
+          "id": 9424251,
+          "entry_number": "3",
+          "date_filed": "2025-03-03T00:00:00-05:00",
+          "attachments": [
+            {
+              "pdf_url": "https://www.courtlistener.com/recap/gov.uscourts.dcd.278008/gov.uscourts.dcd.278008.3.1.pdf",
+              "recap_id": 432316910,
+              "pacer_url": "https://ecf.dcd.uscourts.gov/doc1/045011231244?caseid=278008",
+              "description": "Notice and Consent",
+              "attachment_number": 1
+            }
+          ],
+          "url": "https://www.courtlistener.com/docket/69698894/3/environmental-defense-fund-v-united-states-environmental-protection-agency/",
+          "recap_pdf_url": "https://www.courtlistener.com/recap/gov.uscourts.dcd.278008/gov.uscourts.dcd.278008.3.0.pdf",
+          "pacer_doc_id": "045011231243",
+          "description": "SUMMONS (3) Issued Electronically as to UNITED STATES ENVIRONMENTAL PROTECTION AGENCY, U.S. Attorney and U.S. Attorney General (Attachments: # 1 Notice and Consent)(zmtm) (Entered: 03/03/2025)"
+        },
+        {
+          "row_number": 23,
+          "id": 10202144,
+          "entry_number": null,
+          "date_filed": "2025-05-28T00:00:00-04:00",
+          "attachments": [],
+          "url": "https://www.courtlistener.com",
+          "recap_pdf_url": null,
+          "pacer_doc_id": null,
+          "description": "Status Report Order"
+        },
+        {
+          "row_number": 5,
+          "id": 10202145,
+          "entry_number": "14",
+          "date_filed": "2025-06-26T00:00:00-04:00",
+          "attachments": [],
+          "url": "https://www.courtlistener.com/docket/69698894/14/environmental-defense-fund-v-united-states-environmental-protection-agency/",
+          "recap_pdf_url": null,
+          "pacer_doc_id": "045011469335",
+          "description": "Status Report"
+        },
+        {
+          "row_number": 25,
+          "id": 10202149,
+          "entry_number": null,
+          "date_filed": "2025-07-31T00:00:00-04:00",
+          "attachments": [],
+          "url": "https://www.courtlistener.com",
+          "recap_pdf_url": null,
+          "pacer_doc_id": null,
+          "description": ".Order AND ~Util - Set/Reset Deadlines"
+        }
+      ],
+      "docket_case_type": "cv",
+      "docket_year": 2025,
+      "docket_filing_number": 617,
+      "is_main_docket": true,
+      "court": "District of District of Columbia",
+      "state": "District of Columbia",
+      "docket_office_number": "1",
+      "docket_number_manual": "1:25-cv-00617",
+      "scales_html": null,
+      "recap_link": "https://www.courtlistener.com/docket/69698894/environmental-defense-fund-v-united-states-environmental-protection-agency/",
+      "is_active": true
+    },
+    "name": "Environmental Defense Fund v. U.S. Environmental Protection Agency",
+    "never_filed": false,
+    "non_docket_case_number": "",
+    "non_docket_case_number_type": null,
+    "non_docket_case_number_type_other": "",
+    "order_end_year": null,
+    "order_start_year": null,
+    "permanent_injunction": false,
+    "plaintiff_description": "Environmental non-profit",
+    "plaintiff_type": [
+      {
+        "value": "Non-profit NON-religious organization"
+      }
+    ],
+    "prevailing_party": "None Yet / None",
+    "pro_se_status": "No",
+    "public_interest_lawyer": "Yes",
+    "related_cases": [
+      {
+        "id": 46295,
+        "name": "Environmental Defense Fund v. United States Department of the Interior"
+      }
+    ],
+    "relief_natures": [
+      "None yet"
+    ],
+    "relief_nature_other": "",
+    "relief_sources": [
+      "None yet"
+    ],
+    "settlement_agreement": [],
+    "settlement_judgment_date": null,
+    "settlement_judgment_year": null,
+    "special_collections": [
+      "Trump Administration 1.0 & 2.0 FOIA cases",
+      "Trump Administration 2.0: Challenges to the Government",
+      "Trump Administration 2.0: Challenges to the Government",
+      "Trump Administration 2.0: Challenges to the Government"
+    ],
+    "special_case_type": [],
+    "state": "District of Columbia",
+    "summary": "<p>On March 3, 2025, the Environmental Defense Fund filed this lawsuit in the U.S. District Court for the District of Columbia against the United States Environmental Protection Agency (EPA). In Executive Order 14154 titled \"Unleashing American Energy\" (January 20, 2025), President Donald Trump directed the EPA to reevaluate the 2009 \"Endangerment Finding\"--EPA's determination that greenhouse gases in the atmosphere threatened the health and welfare of current and future generations, and that emissions from motor vehicles contribute to greenhouse gas pollution. The Plaintiff submitted a FOIA request on January 29, 2025, seeking all correspondence and records of all members of the EPA transition team and political appointees relating to the Endangerment Finding. The EPA informed the Plaintiff that document production would not be forthcoming until well after the statutory deadline under FOIA; this lawsuit was EDF's response.</p>\r\n<p>The Plaintiff was represented by in-house counsel and Kaplan Kirsch LLP.&nbsp; The case sought declaratory and injunctive relief, as well as attorney fees, and was assigned to District Judge Dabney L. Friedrich. On April 3, the government filed its answer to the complaint. As of August 29, status reports to the court regarding the state of the plaintiffs' FOIA requests are ongoing.&nbsp;</p>\r\n<p>The case is ongoing.&nbsp;</p>",
+    "summary_published_date": "2025-10-15T12:06:08.740313-04:00",
+    "summary_short": "On March 3, 2025, the Environmental Defense Fund filed a lawsuit against the United States Environmental Protection Agency for failing to supply a response to a FOIA request within the confines of the statutory deadline set forth under the Freedom of Information Act. The case was assigned to District Judge Dabney L. Friedrich. As of August 29, status reports to the court on the status of the plaintiffs' FOIA requests are ongoing.",
+    "summary_tiny": null,
+    "terminating_date": null,
+    "clearinghouse_link": "clearinghouse.net/case/46191",
+    "is_active": true,
+    "case_documents_url": "https://clearinghouse.net/api/v2/documents/?case=46191",
+    "case_dockets_url": "https://clearinghouse.net/api/v2/dockets/?case=46191",
+    "case_resources_url": "https://clearinghouse.net/api/v2/resources/?case=46191"
+  },
+  "documents": [
+    {
+      "date": "2025-03-03",
+      "date_is_estimate": false,
+      "date_not_available": false,
+      "description": "",
+      "document_source": "RECAP",
+      "document_status": "Coding Complete",
+      "document_type": "Complaint",
+      "order_type": null,
+      "citation_paren": null,
+      "cite_1_page": null,
+      "cite_1_reporter": null,
+      "cite_1_vol": null,
+      "cite_2_page": null,
+      "cite_2_reporter": null,
+      "cite_2_vol": null,
+      "cite_3_page": null,
+      "cite_3_reporter": null,
+      "cite_3_vol": null,
+      "citation_status": "Not applicable",
+      "court": "District of District of Columbia",
+      "no_title": false,
+      "party_types": [
+        "Plaintiff"
+      ],
+      "per_curium": false,
+      "is_core_document": true,
+      "id": 156477,
+      "file": "https://clearinghouse-umich-production.s3.amazonaws.com/media/doc/156477.pdf",
+      "title": "Complaint for Declaratory and Injunctive Relief",
+      "text": "Case 1:25-cv-00617-DLF     Document 1     Filed 03/03/25     Page 1 of 15\n \nIN THE UNITED STATES DISTRICT COURT \nFOR THE DISTRICT OF COLUMBIA \n \n \nENVIRONMENTAL DEFENSE FUND,     \n257 Park Ave. S.   \nNew York, NY 10010,  Civil Action No.  \n   \nPlaintiff,       \n         \nv.  COMPLAINT FOR DECLARATORY \n  AND INJUNCTIVE RELIEF \nUNITED STATES ENVIRONMENTAL   \nPROTECTION AGENCY, \n1200 Pennsylvania Ave., NW, \nWashington, DC 20460, \n   \nDefendant. \n     \n \nIn 2009, the Environmental Protection Agency (“EPA”) issued the “Endangerment \nFinding,” a determination that greenhouse gases (“GHGs”) in the atmosphere threaten the public \nhealth and welfare of current and future generations, and that emissions from motor vehicles \ncontribute to the GHG pollution that threatens public health and welfare. The Endangerment \nFinding is grounded in extensive scientific evidence and is foundational to efforts to reduce GHG \npollution. In a January 20, 2025 Executive Order, President Trump directed the EPA \nAdministrator to assess the “legality and continuing applicability” of the Finding. Reports on \nFebruary 26, 2025 suggested that Administrator Zeldin has recommended to the White House to \nreverse the Finding. Any action to destabilize the Finding and constrain EPA’s ability to reduce \nclimate pollution would have significant, harmful consequences for communities across the \ncountry, who are already experiencing the devastating effects of climate change. \nTo bring greater transparency regarding the new administration’s directive to assess the \nEndangerment Finding, Plaintiff Environmental Defense Fund (“EDF”) submitted a Freedom of \nInformation Act (“FOIA”) request to EPA seeking correspondence and records of EPA transition \n1 \n\nCase 1:25-cv-00617-DLF     Document 1     Filed 03/03/25     Page 2 of 15\n \nteam members and political appointees relating to the Endangerment Finding. EPA failed to \nproduce any records or make a determination on this request by the statutory deadline, violating \nEDF’s rights under FOIA and depriving the public of vital records of clear and immediate public \ninterest. \nINTRODUCTION \n1.  EDF files this action to enforce the statutory obligations of EPA under FOIA, \n5 U.S.C. § 552. \n2.  On January 20, 2025, President Trump signed an Executive Order titled \n“Unleashing American Energy” (the “Executive Order”) in which he directed the EPA \nAdministrator, “in collaboration with the heads of any other relevant agencies,” to “submit joint \nrecommendations to the Director of [the Office of Management and Budget (“OMB”)] on the \nlegality and continuing applicability” of the Endangerment Finding. See Unleashing American \nEnergy, Exec. Order § 6(f) (Jan. 20, 2025), https://www.whitehouse.gov/presidential-\nactions/2025/01/unleashing-american-energy/.   \n3.  The Endangerment Finding is a determination issued by EPA in 2009 that is \ncomprised of two separate findings under Section 202(a) of the Clean Air Act: first, that six \nGHGs in the atmosphere, including carbon dioxide and methane, threaten the public health and \nwelfare of current and future generations; and second, that the combined emissions of these \nGHGs from motor vehicles contribute to the GHG pollution that threatens public health and \nwelfare. See Endangerment and Cause or Contribute Findings for Greenhouse Gases Under \nSection 202(a) of the Clean Air Act, 74 Fed. Reg. 66,496 (Dec. 15, 2009); see also 42 U.S.C. \n§ 7521(a).  \n2 \n\nCase 1:25-cv-00617-DLF     Document 1     Filed 03/03/25     Page 3 of 15\n \n4.  The Endangerment Finding is grounded in extensive scientific evidence, and \nchallenges to its validity have been repeatedly rejected in court and by EPA. It underpins EPA’s \nefforts to set standards to reduce harmful climate pollution and supports numerous pollution-\nreducing programs for the power sector, the oil and gas industry, and the motor vehicle sector. \nThese programs have delivered critical benefits to Americans across the country.  \n5.  Any effort to undermine or destabilize the Endangerment Finding, as the \nExecutive Order suggests the new administration plans to do, would put these programs—and \nthe important pollution reduction benefits they deliver—at risk and harm Americans in \ncommunities across the country. \n6.  On January 29, 2025, EDF submitted a FOIA request (“FOIA Request”) to EPA \nseeking all correspondence and records of all members of the EPA transition team and political \nappointees relating to the Endangerment Finding. See Ex. A at 1-2 (Letter from Erin Murphy, \nEDF, to National Freedom of Information Officer, EPA). That same day, EDF received a form \nletter from EPA acknowledging receipt of the FOIA Request. Ex. B (Email from J. Chu, EPA, to \nErin Murphy, EDF).  \n7.  Under FOIA, EPA had 20 working days—until February 27, 2025—to make a \ndetermination on the FOIA Request. See 5 U.S.C. § 552(a)(6)(A)(i); 40 C.F.R. § 2.104(a)(1). \n8.  On February 26, 2025, EDF received an email from EPA stating that the FOIA \nRequest was being placed on the “complex” processing track with an estimated completion date \nof May 30, 2025, months after the statutory deadline for a determination. Ex. C (Email from \nJonathan Newton, EPA, to Erin Murphy, EDF). This email was not the determination that FOIA \nrequires.  \n3 \n\nCase 1:25-cv-00617-DLF     Document 1     Filed 03/03/25     Page 4 of 15\n \n9.  To date, EDF has not received EPA’s determination on the FOIA Request or any \nrequested records, in violation of the statutory deadlines and other requirements of FOIA.  \n10.  The public, including EDF and its members, has a strong interest in any records \nrelated to the current administration’s recommendations and actions to reverse or undermine \nEPA’s Endangerment Finding. Vital EPA pollution reduction programs rely on the \nEndangerment Finding, which are providing enormous benefits in communities across the \ncountry.    \n11.  Knowledge of the extent and nature of communications with EPA transition team \nmembers, political appointees, and outside stakeholders is critical for EDF, its members, and the \npublic to understand EPA’s decisions relating to any reassessment of the Endangerment Finding. \nEPA’s current actions have been completely lacking in transparency, in contrast with the \nextensive public process that EPA undertook to develop and adopt the Endangerment Finding. \nEDF submitted its FOIA Request to bring transparency to these records.  \n12.  EDF requested the information in order to disseminate it to EDF’s members, \nsupporters, and the general public. EDF has communicated on these issues in the past, including \nrecently. Peter Zalzal, Danger ahead: the Trump administration’s attack on EPA’s finding that \nclimate pollution harms public health, EDF (Feb. 14, 2025), \nhttps://blogs.edf.org/climate411/2025/02/14/danger-ahead-the-trump-administrations-attack-on-\nepas-finding-that-climate-pollution-harms-public-health/. EDF also plans to use its expertise to \nanalyze the records and help the public understand their significance. \n13.  EPA is unlawfully withholding and unreasonably delaying the release of records \nrequested by EDF and to which EDF is lawfully entitled under FOIA, despite the records’ clear \nsalience to current agency actions with grave implications for public health and welfare.  \n4 \n\nCase 1:25-cv-00617-DLF     Document 1     Filed 03/03/25     Page 5 of 15\n \n14.  EDF seeks declaratory and injunctive relief declaring that EPA has violated FOIA \nand an order compelling the agency to promptly release all requested records. \nJURISDICTION AND VENUE \n15.  This Court has jurisdiction over this action pursuant to FOIA, which vests \njurisdiction in the U.S. District Court for the District of Columbia. 5 U.S.C. § 552(a)(4)(B). This \nCourt also has jurisdiction pursuant to 28 U.S.C. § 1331 because this action arises under FOIA, a \nfederal statute.  \n16.  Injunctive relief is appropriate under FOIA. 5 U.S.C. § 552(a)(4)(B). Declaratory \nrelief is appropriate under the Declaratory Judgment Act, 28 U.S.C. § 2201 et seq. \n17.  Venue is proper in this judicial district pursuant to 5 U.S.C. § 552(a)(4)(B) and \n28 U.S.C. § 1391(e). \nPARTIES \n18.  Plaintiff EDF is a 501(c)(3) non-profit environmental organization dedicated to \nfinding practical solutions to critical environmental problems through the use of law, policy, \nscience, and economics. EDF has offices throughout the United States, including in the District \nof Columbia. \n19.  EDF engages in extensive, daily efforts to inform the public about matters \naffecting environmental and energy policy, as well as about climate change science and the \nhuman health impacts of pollution. EDF has multiple channels for distributing information to the \npublic, including through direct communication with its more than three million members and \nsupporters, press releases, blog posts, and active engagement on social media. EDF is frequently \ncalled upon to share its expertise on important environmental issues in the popular media and in \nother public forums.   \n5 \n\nCase 1:25-cv-00617-DLF     Document 1     Filed 03/03/25     Page 6 of 15\n \n20.  EDF has long advocated for measures to protect communities from the harmful \neffects of climate change, including EPA pollution reduction programs that the Endangerment \nFinding supports. For example, EDF has advocated for and supported standards to reduce \nclimate pollution from large sources such as power plants, cars and trucks, and oil and gas \noperations. These standards have been successful in reducing harmful climate pollution.  \n21.  EDF is injured by EPA’s failure to timely produce public records that were \nproperly requested and to which EDF is entitled under FOIA. See Zivotofsky v. Sec’y of State, \n444 F.3d 614, 617-18 (D.C. Cir. 2006) (“The requester is injured-in-fact for standing purposes \nbecause he does not get what the statute entitles him to receive.”). \n22.  Defendant EPA is an “agency” within the meaning of 5 U.S.C. § 552(f)(1) and is \nsubject to FOIA. EPA has possession and control of the requested records and is responsible for \nfulfilling EDF’s FOIA Request.  \nLEGAL BACKGROUND \n23.  FOIA requires a federal agency to make public records “promptly available”—\nsubject to enumerated exemptions—to any person who makes a request that reasonably describes \nthe records sought and complies with the agency’s rules for making the request. 5 U.S.C. \n§ 552(a)(3)(A).  \n24.  FOIA requires the agency to issue a determination on a FOIA request within 20 \nworking days from the date of receipt. Id. § 552(a)(6)(A)(i); see also 40 C.F.R. § 2.104(a)(1). \n25.  The agency’s determination on a FOIA request shall contain (1) the agency’s \ndetermination of whether to comply with the request and provide responsive records, (2) the \nreasons for the agency’s determination, and (3) notice of the right of the requester to appeal an \nadverse determination to the head of the agency. 5 U.S.C. § 552(a)(6)(A)(i).  \n6 \n\nCase 1:25-cv-00617-DLF     Document 1     Filed 03/03/25     Page 7 of 15\n \n26.  Mere notice of the agency’s receipt of the request does not suffice for a \n“determination,” nor is it enough that “within the relevant time period, the agency simply decide \nto later decide.” Citizens for Responsibility & Ethics in Wash. v. Fed. Election Comm’n, 711 \nF.3d 180, 186 (D.C. Cir. 2013). Instead, “the agency must at least inform the requester of the \nscope of the documents that the agency will produce, as well as the scope of the documents that \nthe agency plans to withhold under any FOIA exemptions.” Id.    \n27.  FOIA allows the agency to extend the 20-working-day deadline by up to 10 \nadditional working days for “unusual circumstances” by providing written notice to the requester \nthat describes the “unusual circumstances” and provides the date on which the determination is \nexpected to be issued. 5 U.S.C. § 552(a)(6)(B)(i); see also 40 C.F.R. § 2.104(a)(3), (f).  \n28.  Such notice must provide the requester “an opportunity to limit the scope of the \nrequest so that it may be processed within [FOIA’s 20-working-day] time limit or an opportunity \nto arrange with the agency an alternative time frame for processing the request or a modified \nrequest.” 5 U.S.C. § 552(a)(6)(B)(ii).  \n29.  EPA regulations further provide that “[i]f the 20 working-day period is extended, \nEPA will give the requester an opportunity to limit the scope of the request, modify the request, \nor agree to an alternative time-period for processing.” 40 C.F.R. § 2.104(f). \n30.  FOIA also allows agencies to use “multitrack processing” to distinguish requests \nbased on the amount of work or time they will require to process. 5 U.S.C. § 552(a)(6)(D).  \n31.  EPA uses “three or more processing tracks” to distinguish between simple and \ncomplex requests. 40 C.F.R. § 2.104(d). EPA “may place [a] request in a slower track while \nproviding the requester with the opportunity to limit the scope of the request to qualify for faster \nprocessing.” Id. \n7 \n\nCase 1:25-cv-00617-DLF     Document 1     Filed 03/03/25     Page 8 of 15\n \n32.  FOIA’s “multitrack processing” provision does not authorize agencies to extend \nthe statutory deadline for issuing a determination on a request. 5 U.S.C. § 552(a)(6)(D). Thus, \nplacing a FOIA request on a “complex” processing track does not change the agency’s \nfundamental obligation to comply with that deadline. \n33.  If the agency fails to comply with FOIA’s statutory deadline for issuing a \ndetermination on a request, the requester is deemed to have exhausted its administrative remedies \nand may file suit against the agency. Id. § 552(a)(6)(C)(i); see also 40 C.F.R. § 2.104(b). \n34.  The agency bears the burden to prove the legality of its actions under FOIA. \n5 U.S.C. § 552(a)(4)(B). \n35.  FOIA grants jurisdiction to the court “to enjoin the agency from withholding \nagency records and to order the production of any agency records improperly withheld from the \ncomplainant.” Id.  \n36.  Under FOIA, this Court may assess attorney fees and costs against the United \nStates if EDF substantially prevails in this action. Id. § 552(a)(4)(E). \nFACTUAL BACKGROUND \nA.  Endangerment Finding \n37.  In 2009, EPA made two vital findings: first, that six GHGs in the atmosphere, \nincluding carbon dioxide and methane, threaten the public health and welfare of current and \nfuture generations; and second, that the combined emissions of these GHGs from motor vehicles \ncontribute to the GHG pollution that threatens public health and welfare. See Endangerment and \nCause or Contribute Findings for Greenhouse Gases Under Section 202(a) of the Clean Air Act, \n74 Fed. Reg. 66,496 (Dec. 15, 2009), https://www.epa.gov/ sites/default/files/2021-\n8 \n\nCase 1:25-cv-00617-DLF     Document 1     Filed 03/03/25     Page 9 of 15\n \n05/documents/federal_register-epa-hq-oar-2009-0171-dec.15-09.pdf. Together, these findings \nare referred to as the “Endangerment Finding.” \n38.  The Endangerment Finding requires EPA to adopt standards to reduce GHG \npollution from motor vehicles, a significant contributor to overall GHG emissions in the United \nStates, and it likewise underpins EPA’s standards that reduce harmful climate pollution from \nother sectors, including standards addressing emissions from the power sector and the oil and gas \nsector. EPA’s GHG emissions reduction standards have been successful in reducing pollution \nand delivering benefits to Americans across the country. \n39.  EPA adopted the Endangerment Finding after significant public process, \nincluding multiple opportunities for the public to give input and EPA’s evaluation of more than \n380,000 public comments. The Endangerment Finding is based on extensive scientific evidence \nthat climate pollution poses a grave threat to human health and welfare. That scientific evidence \nhas only become stronger in the more than 15 years since the Endangerment Finding was \nadopted, with experts confirming that climate change resulting from GHG emissions is causing \nextensive, and increasingly severe, harms throughout the country. See Letter from P. Zalzal et al., \nEDF, to Hon. Lee Zeldin, EPA, at 5-9 (Feb. 18, 2025), https://tinyurl.com/EDFLetter021825. \n40.  Parties have filed legal challenges to the Endangerment Finding in the past, but—\ngiven the extensive evidence supporting the Endangerment Finding—EPA and the courts have \nuniformly rejected those efforts. See, e.g., Coal. for Responsible Regulation v. EPA, 684 F.3d \n102, 116126 (D.C. Cir. 2012) (rejecting challenges to the Endangerment Finding on multiple \ngrounds), rev’d in part on other grounds sub nom. Util. Air Reg. Grp. v. EPA, 573 U.S. 302 \n(2014); Endangerment and Cause or Contribute Findings for Greenhouse Gases Under Section \n202(a) of the Clean Air Act; Final Action on Petitions, 87 Fed. Reg. 25,412 (Apr. 29, 2022); \n9 \n\nCase 1:25-cv-00617-DLF     Document 1     Filed 03/03/25     Page 10 of 15\n \nEPA’s Denial of the Petitions to Reconsider the Endangerment and Cause or Contribute Findings \nfor Greenhouse Gases Under Section 202(a) of the Clean Air Act, 75 Fed. Reg. 49,556 (Aug. 13, \n2010). \n41.  Despite the long-standing nature of the Endangerment Finding, its extensive \nscientific support, and its manifest legality, the Executive Order now directs the EPA \nAdministrator to assess “the legality and continuing applicability” of the Endangerment Finding. \nSee Exec. Order § 6(f).   \n42.  According to news reports, EPA has completed its assessment and recommended \na reversal of the Endangerment Finding, but EPA has not shared that recommendation with the \npublic. Jean Chemnick et al., EPA moves to ditch finding that greenhouse gases cause harm, \nPOLITICO (Feb. 26, 2025 3:23 PM), https://www.politico.com/news/2025/02/26/epa-\ngreenhouse-gases-00204866; Matthew Daly, EPA head urges Trump to reconsider scientific \nfinding that underpins climate action, AP sources say, AP (Feb. 26, 2025 3:45 PM), \nhttps://apnews.com/article/epa-endangerment-finding-zeldin-trump-climate-change-\n4b34246d5ca798154af08560fd94f7b9.  \nB.  EDF’s FOIA Request to EPA Regarding the Endangerment Finding (Request No. \n2025-EPA-03201) \n43.  EDF submitted the FOIA Request to EPA on January 29, 2025, seeking all \ncorrespondence and records of all members of the EPA transition team and all EPA political \nappointees, including but not limited to twenty-nine specifically identified individuals, relating to \nthe Endangerment Finding. See Ex. A at 1-2. EDF identified eight search terms to facilitate \nEPA’s search. Id. at 2. \n44.  Given EPA’s fast-moving efforts to assess and provide recommendations to OMB \nregarding the Endangerment Finding, the significant impacts to EPA’s pollution reduction \n10 \n\nCase 1:25-cv-00617-DLF     Document 1     Filed 03/03/25     Page 11 of 15\n \nprograms if the Endangerment Finding were to be altered or rescinded, and EDF’s strong interest \nin understanding and publicly sharing the basis for any efforts to destabilize or undermine the \nEndangerment Finding, EDF requested expedited processing of the FOIA Request. Id. at 3-4; see \nalso 5 U.S.C. § 552(a)(6)(E)(i)(I); 40 C.F.R. § 2.104(g).   \n45.  EDF also requested a waiver of fees associated with the FOIA Request. Ex. A at \n4-5; see also 40 C.F.R. § 2.107(n). \n46.  On January 29, 2025, EDF received a form letter from EPA acknowledging \nreceipt of the FOIA Request. The letter provided no estimate of when EPA would issue a \ndetermination on the FOIA request, merely stating that the FOIA Request “was assigned for \nprocessing.” Ex. B. \n47.  The same day, by separate letter, EPA granted EDF’s fee waiver request. Ex. D \n(Letter from Lee Hagy, EPA, to Erin Murphy, EDF). \n48.  On February 5, 2025, EDF received a letter from EPA denying its request for \nexpedited processing, asserting that EDF’s request did not speak to any urgency to inform the \npublic or identify any expectation of an imminent threat to life or safety. Ex. E at 3 (Letter from \nTracey Klosterman, EPA, to Erin Murphy, EDF).  \n49.  On February 26, 2025, EDF received an email from EPA stating that the FOIA \nRequest was being placed on the “complex” processing track with an estimated completion date \nof May 30, 2025—three months after the statutory deadline for EPA to issue a determination on \nthe FOIA Request. Ex. C. EPA informed EDF that an “initial review of [its] request indicates a \nneed to consult with, and collect records from, multiple components of the Agency.” Id.  \n11 \n\nCase 1:25-cv-00617-DLF     Document 1     Filed 03/03/25     Page 12 of 15\n \n50.  The February 26 email did not assert that “unusual circumstances” prevented EPA \nfrom issuing a timely determination on EDF’s request and did not claim to be taking a 10-\nworking-day extension under the statute and regulations. See id. \n51.  The February 26 email did not inform EDF of “the scope of the documents that \nthe agency will produce” or “the scope of the documents that the agency plans to withhold under \nany FOIA exemptions.” Citizens for Responsibility & Ethics in Wash., 711 F.3d at 186; see \nEx. C. \n52.  The February 26 email was not EPA’s determination on the FOIA Request. \n53.  Nor did the February 26 email extend EPA’s deadline for issuing a determination \non the FOIA Request. \n54.  While the February 26 email provided an estimated completion date of May 30, \n2025, EDF did not agree to that date as an alternative time period for EPA to process the FOIA \nRequest.  \n55.  EPA did not provide a determination on the FOIA Request within FOIA’s 20-\nworking-day deadline, which lapsed on February 27, 2025. See 5 U.S.C. § 552(a)(6)(A)(i); 40 \nC.F.R. § 2.104(a)(1). \n56.  EPA also did not provide EDF with written notice that it was extending that \ndeadline. See 5 U.S.C. § 552(a)(6)(B)(i); 40 C.F.R. § 2.104(a)(3), (f). \n57.  To date, EPA has not issued a determination on the FOIA Request or produced \nany records in response to the FOIA request. \n58.  EPA has reportedly completed its review of the legality and continuing \napplicability of the Endangerment Finding, though it has not yet made its recommendations \navailable to the public.  \n12 \n\nCase 1:25-cv-00617-DLF     Document 1     Filed 03/03/25     Page 13 of 15\n \n59.  The information sought in the FOIA Request will be critical to understanding \nthose recommendations and any subsequent agency action.  \n60.  The agency’s failure to respond to the FOIA Request within the required \ntimeframe has prevented EDF, its members, and the general public from being fully informed \nand able to meaningfully engage on this issue. \nCLAIM FOR RELIEF \nVIOLATION OF THE FREEDOM OF INFORMATION ACT \n61.  EDF incorporates by reference all preceding paragraphs. \n62.  Under FOIA, EDF has a statutory right to have EPA process the FOIA \nRequest in a timely manner. \n63.  Under FOIA, EDF also has a statutory right to obtain all non-exempt \nrecords responsive to the FOIA Request. \n64.  EPA failed to comply with the statutory deadline for issuing a \ndetermination on EDF’s FOIA Request. See 5 U.S.C. § 552(a)(6)(A)(i).  \n65.  EPA failed to make a determination on the FOIA Request from which \nEDF could exercise its statutory right of appeal. See id.  \n66.  EPA failed to timely produce all non-exempt records responsive to the \nFOIA Request. See id. § 552(a)(3)(A). \n67.  Unless enjoined by this Court, EPA will continue to violate EDF’s legal \nrights to timely receive a complete set of responsive documents sought through its FOIA \nRequest. \n68.  It is in the public interest for the Court to issue an injunction requiring \nEPA’s immediate compliance with FOIA. \n13 \n\nCase 1:25-cv-00617-DLF     Document 1     Filed 03/03/25     Page 14 of 15\n \nREQUEST FOR RELIEF \nEDF requests the following relief from the Court: \n \nA.  Declare unlawful EPA’s failure to provide EDF with a determination on its FOIA \nRequest within FOIA’s deadline. \nB.  Declare unlawful EPA’s failure to make the requested records promptly available to \nEDF. \nC.  Order EPA to provide EDF with all responsive records immediately, at no charge to \nEDF, and in unredacted form unless an exemption is applicable and properly asserted. \nD.  Order EPA to provide a Vaughn index of any responsive records or portions of \nrecords withheld under the claim of a FOIA exemption. See Vaughn v. Rosen, 484 \nF.2d 820 (D.C. Cir. 1973). \nE.  Award EDF its costs and reasonable attorney fees pursuant to 5 U.S.C. \n§ 552(a)(4)(E), 28 U.S.C. § 2412, and any other applicable law. \nF.  Grant any further relief as the Court deems just and proper. \n14 \n\nCase 1:25-cv-00617-DLF     Document 1     Filed 03/03/25     Page 15 of 15\n \nRespectfully submitted on March 3, 2025.   \n/s/  Samantha R. Caravello      \nSAMANTHA R. CARAVELLO (Bar ID CO0080) \nNATHANIEL H. HUNT (Bar ID CO0107) \nKaplan Kirsch LLP \n1675 Broadway, Suite 2300 \nDenver, CO  80202 \nTelephone: (303) 825-7000 \nE-mail: scaravello@kaplankirsch.com \n   nhunt@kaplankirsch.com  \n \nERIN MURPHY (Bar ID D00532) \nEnvironmental Defense Fund \n555 12th St. NW, Suite 400 \nWashington, D.C. 20004 \nTelephone: (202) 572-3525 \nE-mail: emurphy@edf.org   \n \nCounsel for Environmental Defense Fund \n15 ",
+      "document_type_other": null,
+      "external_url": "https://www.courtlistener.com/docket/69698894/1/environmental-defense-fund-v-united-states-environmental-protection-agency/",
+      "ecf_number": "1",
+      "clearinghouse_link": "clearinghouse.net/doc/156477"
+    },
+    {
+      "date": null,
+      "date_is_estimate": false,
+      "date_not_available": false,
+      "description": null,
+      "document_source": null,
+      "document_status": null,
+      "document_type": null,
+      "order_type": null,
+      "citation_paren": null,
+      "cite_1_page": null,
+      "cite_1_reporter": null,
+      "cite_1_vol": null,
+      "cite_2_page": null,
+      "cite_2_reporter": null,
+      "cite_2_vol": null,
+      "cite_3_page": null,
+      "cite_3_reporter": null,
+      "cite_3_vol": null,
+      "citation_status": null,
+      "court": null,
+      "no_title": false,
+      "party_types": [],
+      "per_curium": false,
+      "is_core_document": true,
+      "id": 156476,
+      "file": null,
+      "title": null,
+      "text": null,
+      "document_type_other": null,
+      "external_url": null,
+      "ecf_number": null,
+      "clearinghouse_link": "clearinghouse.net/doc/156476"
+    }
+  ],
+  "document_count": 2
+}

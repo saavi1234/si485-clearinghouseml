@@ -1,0 +1,637 @@
+{
+  "case_id": 43871,
+  "fetched_at": "2025-10-22T00:38:40.322299",
+  "case_data": {
+    "attorney_orgs": [
+      "ACLU Affiliates (any)"
+    ],
+    "available_documents": [
+      "Trial Court Docket",
+      "Complaint (any)",
+      "Injunctive (or Injunctive-like) Relief"
+    ],
+    "case_defendants": [
+      {
+        "defendant_level": null,
+        "institution": "South Carolina",
+        "institution_alt_state": null,
+        "institution_city": "",
+        "institution_county": null,
+        "name": "South Carolina",
+        "defendant_level_other": "",
+        "is_active": true
+      },
+      {
+        "defendant_level": null,
+        "institution": "South Carolina State Law Enforcement Division",
+        "institution_alt_state": null,
+        "institution_city": "Columbia",
+        "institution_county": "Richland",
+        "name": "South Carolina State Law Enforcement Division",
+        "defendant_level_other": "",
+        "is_active": true
+      }
+    ],
+    "case_ongoing": "No",
+    "case_status": "Approved",
+    "case_types": [
+      "Criminal Justice (Other)"
+    ],
+    "cause_other": "",
+    "causes": [
+      "42 U.S.C. § 1983",
+      "Ex parte Young (federal or state officials)"
+    ],
+    "class_action_granted": "Not sought",
+    "class_action_sought": "No",
+    "closing_year": 2022,
+    "constitutional_clause": [
+      {
+        "value": "Due Process"
+      },
+      {
+        "value": "Due Process: Substantive Due Process"
+      },
+      {
+        "value": "Equal Protection"
+      }
+    ],
+    "content_of_injunction": [
+      {
+        "value": "Recordkeeping"
+      }
+    ],
+    "court": "District of South Carolina",
+    "custom_issues": [],
+    "defendant_payment": "$31,592.30",
+    "defendant_type": [
+      {
+        "value": "Law-enforcement"
+      },
+      {
+        "value": "Jurisdiction-wide"
+      }
+    ],
+    "docket_status": "Complete as of retrieval date",
+    "facility_type": [],
+    "filing_date": "2021-12-22",
+    "filing_year": 2021,
+    "id": 43871,
+    "injunction_duration": "",
+    "issues": [
+      "LGBTQ+: LGBTQ+",
+      "General/Misc.: Sex offender regulation",
+      "Discrimination Basis: Sexual orientation"
+    ],
+    "last_checked_date": "2022-11-27T00:00:00-05:00",
+    "main_docket": {
+      "id": 56873,
+      "docket_entries": [
+        {
+          "row_number": 17,
+          "id": 10164138,
+          "entry_number": "27",
+          "date_filed": "2022-04-22T00:00:00-04:00",
+          "attachments": [],
+          "url": "https://www.courtlistener.com/docket/61640574/27/doe-v-wilson/",
+          "recap_pdf_url": "https://www.courtlistener.com/recap/gov.uscourts.scd.268950/gov.uscourts.scd.268950.27.0.pdf",
+          "pacer_doc_id": "163012617382",
+          "description": "JUDGMENT dismissing this action with prejudice. (cbru, ) (Entered: 04/22/2022)"
+        },
+        {
+          "row_number": 26,
+          "id": 9060470,
+          "entry_number": null,
+          "date_filed": "2022-04-19T00:00:00-04:00",
+          "attachments": [],
+          "url": "https://www.courtlistener.com",
+          "recap_pdf_url": null,
+          "pacer_doc_id": null,
+          "description": "~Util - Set Deadlines AND ~Util - Terminate Motions AND Order"
+        },
+        {
+          "row_number": 18,
+          "id": 9060448,
+          "entry_number": "3",
+          "date_filed": "2021-12-22T00:00:00-05:00",
+          "attachments": [],
+          "url": "https://www.courtlistener.com/docket/61640574/3/doe-v-wilson/",
+          "recap_pdf_url": null,
+          "pacer_doc_id": "163012413381",
+          "description": "Local Rule 26.01 Answers to Interrogatories by John Doe.(cbru, ) (Entered: 12/22/2021)"
+        },
+        {
+          "row_number": 23,
+          "id": 9060453,
+          "entry_number": "8",
+          "date_filed": "2021-12-22T00:00:00-05:00",
+          "attachments": [],
+          "url": "https://www.courtlistener.com/docket/61640574/8/doe-v-wilson/",
+          "recap_pdf_url": null,
+          "pacer_doc_id": "163012413971",
+          "description": "Summons Issued as to Mark Keel. (cbru, ) (Entered: 12/22/2021)"
+        },
+        {
+          "row_number": 2,
+          "id": 9060456,
+          "entry_number": "11",
+          "date_filed": "2022-01-20T00:00:00-05:00",
+          "attachments": [],
+          "url": "https://www.courtlistener.com/docket/61640574/11/doe-v-wilson/",
+          "recap_pdf_url": null,
+          "pacer_doc_id": "163012453650",
+          "description": "MOTION for Extension of Time to File Response/Reply as to 5 MOTION for Protective Order, MOTION to Proceed Under Pseudonym; 6 MOTION for Summary Judgment or, In the Alternative, for a Preliminary Injunction; 9 MOTION to Seal Document by Mark Keel, Alan Wilson. Response to Motion due by 2/3/2022. Add an additional 3 days only if served by mail or otherwise allowed under Fed. R. Civ. P. 6 or Fed. R. Crim. P. 45. No proposed order.(Smith, James) Modified to correct motion relief on 1/20/2022 (cbru, ). (Entered: 01/20/2022)"
+        },
+        {
+          "row_number": 3,
+          "id": 9060457,
+          "entry_number": "13",
+          "date_filed": "2022-01-20T00:00:00-05:00",
+          "attachments": [],
+          "url": "https://www.courtlistener.com/docket/61640574/13/doe-v-wilson/",
+          "recap_pdf_url": null,
+          "pacer_doc_id": null,
+          "description": "TEXT ORDER granting 11 Motion for Extension of Time to File Response/Reply as to 5 MOTION for Protective Order, MOTION to Proceed Under Pseudonym; 6 MOTION for Summary Judgment or, In the Alternative, for a Preliminary Injunction; 9 MOTION to Seal Document. (Response to Motion due by 2/17/2022) Signed by Honorable Mary Geiger Lewis on 1/20/2022.(cbru, ) Modified to edit text on 1/20/2022 (cbru, ). (Entered: 01/20/2022)"
+        },
+        {
+          "row_number": 5,
+          "id": 9060459,
+          "entry_number": "15",
+          "date_filed": "2022-01-24T00:00:00-05:00",
+          "attachments": [],
+          "url": "https://www.courtlistener.com/docket/61640574/15/doe-v-wilson/",
+          "recap_pdf_url": null,
+          "pacer_doc_id": "163012458153",
+          "description": "ACCEPTANCE OF SERVICE OF COMPLAINT by John Doe. Mark Keel served on 1/6/2022, answer due 1/27/2022. (Chaney, David) Modified to edit text on 1/24/2022 (cbru, ). (Main Document 15 replaced on 1/24/2022) (cbru, ). (Additional attachment(s) added on 1/24/2022: # 1 Signed Acceptance) (cbru, ). (Entered: 01/24/2022)"
+        },
+        {
+          "row_number": 6,
+          "id": 9060460,
+          "entry_number": "16",
+          "date_filed": "2022-01-24T00:00:00-05:00",
+          "attachments": [],
+          "url": "https://www.courtlistener.com/docket/61640574/16/doe-v-wilson/",
+          "recap_pdf_url": null,
+          "pacer_doc_id": "163012458278",
+          "description": "LETTER EXTENDING TIME TO ANSWER. Mark Keel answer due 2/17/2022; Alan Wilson answer due 2/17/2022.(Kirkland, Harley) Modified to edit text on 1/24/2022 (cbru, ). (Entered: 01/24/2022)"
+        },
+        {
+          "row_number": 7,
+          "id": 9060461,
+          "entry_number": "17",
+          "date_filed": "2022-02-16T00:00:00-05:00",
+          "attachments": [],
+          "url": "https://www.courtlistener.com/docket/61640574/17/doe-v-wilson/",
+          "recap_pdf_url": null,
+          "pacer_doc_id": "163012502203",
+          "description": "Joint MOTION for Extension of Time to File Answer re 1 Complaint; MOTION for Extension of Time to File Response/Reply as to 5 MOTION for Protective Order, MOTION to Proceed Under Pseudonym, 6 MOTION for Summary Judgment or, In the Alternative, for a Preliminary Injunction, 9 MOTION to Seal Document by Mark Keel, Alan Wilson. Response to Motion due by 3/2/2022. Add an additional 3 days only if served by mail or otherwise allowed under Fed. R. Civ. P. 6 or Fed. R. Crim. P. 45. No proposed order.(Leggett, Leon). Modified to correct motion relief and to add additional motion relief on 2/16/2022 (cbru, ). (Main Document 17 replaced on 2/16/2022) (cbru, ). (Entered: 02/16/2022)"
+        },
+        {
+          "row_number": 8,
+          "id": 9060462,
+          "entry_number": "18",
+          "date_filed": "2022-02-16T00:00:00-05:00",
+          "attachments": [],
+          "url": "https://www.courtlistener.com/docket/61640574/18/doe-v-wilson/",
+          "recap_pdf_url": null,
+          "pacer_doc_id": null,
+          "description": "TEXT ORDER granting 17 Motion for Extension of Time to Answer re 1 Complaint; granting 17 Motion for Extension of Time to File Response/Reply as to 5 MOTION for Protective Order, MOTION to Proceed Under Pseudonym, 6 MOTION for Summary Judgment or, In the Alternative, for a Preliminary Injunction, 9 MOTION to Seal Document. (Mark Keel answer due 3/18/2022; Alan Wilson answer due 3/18/2022; Response to Motion due by 3/18/2022) Signed by Honorable Mary Geiger Lewis on 2/16/2022.(cbru, ) (Entered: 02/16/2022)"
+        },
+        {
+          "row_number": 12,
+          "id": 9060466,
+          "entry_number": "22",
+          "date_filed": "2022-04-12T00:00:00-04:00",
+          "attachments": [],
+          "url": "https://www.courtlistener.com/docket/61640574/22/doe-v-wilson/",
+          "recap_pdf_url": null,
+          "pacer_doc_id": "163012600175",
+          "description": "Joint MOTION to Seal Document by John Doe. Response to Motion due by 4/26/2022. Add an additional 3 days only if served by mail or otherwise allowed under Fed. R. Civ. P. 6 or Fed. R. Crim. P. 45. (Attachments: # 1 Exhibit Non-Confidential Descriptive Index of Documents to Seal)No proposed order.(Chaney, David) Modified to edit text on 4/13/2022 (cbru, ). (Entered: 04/12/2022)"
+        },
+        {
+          "row_number": 14,
+          "id": 9060468,
+          "entry_number": "24",
+          "date_filed": "2022-04-19T00:00:00-04:00",
+          "attachments": [],
+          "url": "https://www.courtlistener.com/docket/61640574/24/doe-v-wilson/",
+          "recap_pdf_url": null,
+          "pacer_doc_id": null,
+          "description": "TEXT ORDER: The parties' 22 joint motion to seal is GRANTED. No later than April 22, 2022, the parties shall file the proposed document under seal. IT IS SO ORDERED. (Sealed Document due by 4/22/2022) Signed by Honorable Mary Geiger Lewis on 4/19/2022. (cbru, ) (Entered: 04/19/2022)"
+        },
+        {
+          "row_number": 25,
+          "id": 9060469,
+          "entry_number": null,
+          "date_filed": "2022-04-19T00:00:00-04:00",
+          "attachments": [],
+          "url": "https://www.courtlistener.com",
+          "recap_pdf_url": null,
+          "pacer_doc_id": null,
+          "description": "~Util - Terminate Motions AND ~Util - Set Deadlines AND Order"
+        },
+        {
+          "row_number": 27,
+          "id": 9060471,
+          "entry_number": null,
+          "date_filed": "2022-04-19T00:00:00-04:00",
+          "attachments": [],
+          "url": "https://www.courtlistener.com",
+          "recap_pdf_url": null,
+          "pacer_doc_id": null,
+          "description": "~Util - Terminate Motions AND Order AND ~Util - Set Deadlines"
+        },
+        {
+          "row_number": 15,
+          "id": 10164136,
+          "entry_number": "25",
+          "date_filed": "2022-04-22T00:00:00-04:00",
+          "attachments": [],
+          "url": "https://www.courtlistener.com/docket/61640574/25/doe-v-wilson/",
+          "recap_pdf_url": null,
+          "pacer_doc_id": "163012617280",
+          "description": "Sealed Document in re document 21 . (Chaney, David) (Entered: 04/22/2022)"
+        },
+        {
+          "row_number": 16,
+          "id": 10164137,
+          "entry_number": "26",
+          "date_filed": "2022-04-22T00:00:00-04:00",
+          "attachments": [],
+          "url": "https://www.courtlistener.com/docket/61640574/26/doe-v-wilson/",
+          "recap_pdf_url": "https://www.courtlistener.com/recap/gov.uscourts.scd.268950/gov.uscourts.scd.268950.26.0.pdf",
+          "pacer_doc_id": "163012617366",
+          "description": "ORDER GRANTING JOINT STIPULATION AND REQUEST FOR ENTRY OF ORDER. Signed by Honorable Mary Geiger Lewis on 4/22/2022. (cbru, ) (Entered: 04/22/2022)"
+        },
+        {
+          "row_number": 0,
+          "id": 9060447,
+          "entry_number": "1",
+          "date_filed": "2021-12-22T00:00:00-05:00",
+          "attachments": [],
+          "url": "https://www.courtlistener.com/docket/61640574/1/doe-v-wilson/",
+          "recap_pdf_url": "https://www.courtlistener.com/recap/gov.uscourts.scd.268950/gov.uscourts.scd.268950.1.0.pdf",
+          "pacer_doc_id": "163012413373",
+          "description": "COMPLAINT against Mark Keel, Alan Wilson (Filing fee $402 receipt number ASCDC-10248987) filed by John Doe. Service due by 3/22/2022(cbru, ) (Entered: 12/22/2021)"
+        },
+        {
+          "row_number": 19,
+          "id": 9060449,
+          "entry_number": "4",
+          "date_filed": "2021-12-22T00:00:00-05:00",
+          "attachments": [],
+          "url": "https://www.courtlistener.com/docket/61640574/4/doe-v-wilson/",
+          "recap_pdf_url": null,
+          "pacer_doc_id": null,
+          "description": "TEXT ORDER: Plaintiff filed this case as \"John Doe vs. Alan Wilson, etc., et al\". Pursuant to Fed. R. Civ. P. 10(a), unless Plaintiff seeks and receives permission from the Court, he cannot proceed anonymously. See James v. Jacobson, 6 F.3d 233, 238 (4th Cir. 1993). By January 5, 2022, Plaintiff shall either file an amended complaint in his true name or a motion to proceed anonymously. \"A plaintiff seeking to proceed anonymously must show that [he or she] has a substantial privacy right that outweighs the customary and constitutionally-embedded presumption of openness in judicial proceedings.\" Richard S. v. Sebelius, C/A No. 3:12-cv-00007-TMC, 2012 WL 1909344, at *1 (D.S.C. May 25, 2012). IT IS SO ORDERED. (Amended Complaint/Motion due by 1/5/2022) Signed by Honorable Mary Geiger Lewis on 12/22/2021. (cbru, ) (Entered: 12/22/2021)"
+        },
+        {
+          "row_number": 20,
+          "id": 9060450,
+          "entry_number": "5",
+          "date_filed": "2021-12-22T00:00:00-05:00",
+          "attachments": [
+            {
+              "pdf_url": "https://www.courtlistener.com/recap/gov.uscourts.scd.268950/gov.uscourts.scd.268950.5.1.pdf",
+              "recap_id": 192077172,
+              "pacer_url": "https://ecf.scd.uscourts.gov/doc1/163012413459?caseid=268950",
+              "description": "Memo in Support",
+              "attachment_number": 1
+            }
+          ],
+          "url": "https://www.courtlistener.com/docket/61640574/5/doe-v-wilson/",
+          "recap_pdf_url": null,
+          "pacer_doc_id": "163012413458",
+          "description": "MOTION for Protective Order, MOTION to Proceed Under Pseudonym by John Doe. Response to Motion due by 1/5/2022. Add an additional 3 days only if served by mail or otherwise allowed under Fed. R. Civ. P. 6 or Fed. R. Crim. P. 45. (Attachments: # 1 Memo in Support)No proposed order.(Chaney, David). Modified to edit text and to add additional motion relief on 12/22/2021 (cbru, ). (Entered: 12/22/2021)"
+        },
+        {
+          "row_number": 21,
+          "id": 9060451,
+          "entry_number": "6",
+          "date_filed": "2021-12-22T00:00:00-05:00",
+          "attachments": [
+            {
+              "recap_id": 190180974,
+              "pacer_url": "https://ecf.scd.uscourts.gov/doc1/163012413663?caseid=268950",
+              "description": "Memo in Support",
+              "attachment_number": 1
+            },
+            {
+              "recap_id": 190180975,
+              "pacer_url": "https://ecf.scd.uscourts.gov/doc1/163012413664?caseid=268950",
+              "description": "Request to Take Judicial Notice of Readily Determinable Facts Unde",
+              "attachment_number": 2
+            },
+            {
+              "recap_id": 190180976,
+              "pacer_url": "https://ecf.scd.uscourts.gov/doc1/163012413665?caseid=268950",
+              "description": "Exhibit A - Indictment",
+              "attachment_number": 3
+            },
+            {
+              "recap_id": 190180977,
+              "pacer_url": "https://ecf.scd.uscourts.gov/doc1/163012413666?caseid=268950",
+              "description": "Exhibit B - Warrant",
+              "attachment_number": 4
+            },
+            {
+              "recap_id": 190180978,
+              "pacer_url": "https://ecf.scd.uscourts.gov/doc1/163012413667?caseid=268950",
+              "description": "Exhibit C - Sentence",
+              "attachment_number": 5
+            },
+            {
+              "recap_id": 190180979,
+              "pacer_url": "https://ecf.scd.uscourts.gov/doc1/163012413668?caseid=268950",
+              "description": "Exhibit D - Pardon",
+              "attachment_number": 6
+            },
+            {
+              "recap_id": 190180980,
+              "pacer_url": "https://ecf.scd.uscourts.gov/doc1/163012413669?caseid=268950",
+              "description": "Exhibit E - Registry Entry",
+              "attachment_number": 7
+            }
+          ],
+          "url": "https://www.courtlistener.com/docket/61640574/6/doe-v-wilson/",
+          "recap_pdf_url": null,
+          "pacer_doc_id": "163012413662",
+          "description": "MOTION for Summary Judgment or, In the Alternative, for a Preliminary Injunction by John Doe. Response to Motion due by 1/5/2022. Add an additional 3 days only if served by mail or otherwise allowed under Fed. R. Civ. P. 6 or Fed. R. Crim. P. 45. (Attachments: # 1 Memo in Support, # 2 Request to Take Judicial Notice of Readily Determinable Facts Under Fed. R. Evid. 201, # 3 Exhibit A - Indictment, # 4 Exhibit B - Warrant, # 5 Exhibit C - Sentence, # 6 Exhibit D - Pardon, # 7 Exhibit E - Registry Entry)No proposed order.(Chaney, David) Modified to edit text on 12/22/2021 (cbru, ). (Entered: 12/22/2021)"
+        },
+        {
+          "row_number": 22,
+          "id": 9060452,
+          "entry_number": "7",
+          "date_filed": "2021-12-22T00:00:00-05:00",
+          "attachments": [],
+          "url": "https://www.courtlistener.com/docket/61640574/7/doe-v-wilson/",
+          "recap_pdf_url": null,
+          "pacer_doc_id": "163012413965",
+          "description": "Summons Issued as to Alan Wilson. (cbru, ) (Entered: 12/22/2021)"
+        },
+        {
+          "row_number": 24,
+          "id": 9060454,
+          "entry_number": "9",
+          "date_filed": "2021-12-22T00:00:00-05:00",
+          "attachments": [
+            {
+              "recap_id": 188908628,
+              "pacer_url": "https://ecf.scd.uscourts.gov/doc1/163012414776?caseid=268950",
+              "description": "Exhibit 1 - Non-Confidential Descriptive Index of Documents to Seal",
+              "attachment_number": 1
+            },
+            {
+              "recap_id": 188908629,
+              "pacer_url": "https://ecf.scd.uscourts.gov/doc1/163012414777?caseid=268950",
+              "description": "Memo in Support of Motion to File Documents Under Seal Pursuant to Local Rule 5.",
+              "attachment_number": 2
+            }
+          ],
+          "url": "https://www.courtlistener.com/docket/61640574/9/doe-v-wilson/",
+          "recap_pdf_url": "https://www.courtlistener.com/recap/gov.uscourts.scd.268950/gov.uscourts.scd.268950.9.0.pdf",
+          "pacer_doc_id": "163012414775",
+          "description": "MOTION to Seal Document by John Doe. Response to Motion due by 1/5/2022. Add an additional 3 days only if served by mail or otherwise allowed under Fed. R. Civ. P. 6 or Fed. R. Crim. P. 45. (Attachments: # 1 Exhibit 1 - Non-Confidential Descriptive Index of Documents to Seal, # 2 Memo in Support of Motion to File Documents Under Seal Pursuant to Local Rule 5.03)No proposed order.(Chaney, David) (Entered: 12/22/2021)"
+        },
+        {
+          "row_number": 1,
+          "id": 9060455,
+          "entry_number": "10",
+          "date_filed": "2022-01-20T00:00:00-05:00",
+          "attachments": [],
+          "url": "https://www.courtlistener.com/docket/61640574/10/doe-v-wilson/",
+          "recap_pdf_url": null,
+          "pacer_doc_id": "163012453637",
+          "description": "NOTICE of Appearance by James Emory Smith, Jr on behalf of Mark Keel, Alan Wilson (Smith, James) (Entered: 01/20/2022)"
+        },
+        {
+          "row_number": 4,
+          "id": 9060458,
+          "entry_number": "14",
+          "date_filed": "2022-01-24T00:00:00-05:00",
+          "attachments": [],
+          "url": "https://www.courtlistener.com/docket/61640574/14/doe-v-wilson/",
+          "recap_pdf_url": null,
+          "pacer_doc_id": "163012458147",
+          "description": "ACCEPTANCE OF SERVICE OF COMPLAINT by John Doe. Alan Wilson served on 1/6/2022, answer due 1/27/2022. (Chaney, David) Modified to edit text on 1/24/2022 (cbru, ). (Main Document 14 replaced on 1/24/2022) (cbru, ). (Additional attachment(s) added on 1/24/2022: # 1 Signed Acceptance) (cbru, ). (Entered: 01/24/2022)"
+        },
+        {
+          "row_number": 9,
+          "id": 9060463,
+          "entry_number": "19",
+          "date_filed": "2022-03-15T00:00:00-04:00",
+          "attachments": [],
+          "url": "https://www.courtlistener.com/docket/61640574/19/doe-v-wilson/",
+          "recap_pdf_url": null,
+          "pacer_doc_id": "163012549111",
+          "description": "Joint MOTION for Extension of Time to File Answer re 1 Complaint; MOTION for Extension of Time to File Response/Reply as to 5 MOTION for Protective Order, MOTION to Proceed Under Pseudonym, 6 MOTION for Summary Judgment or, In the Alternative, for a Preliminary Injunction, 9 MOTION to Seal Document by Mark Keel, Alan Wilson. Response to Motion due by 3/29/2022. Add an additional 3 days only if served by mail or otherwise allowed under Fed. R. Civ. P. 6 or Fed. R. Crim. P. 45. No proposed order.(Leggett, Leon). Modified to correct motion relief and to add additional motion relief on 3/15/2022 (cbru, ). (Entered: 03/15/2022)"
+        },
+        {
+          "row_number": 10,
+          "id": 9060464,
+          "entry_number": "20",
+          "date_filed": "2022-03-15T00:00:00-04:00",
+          "attachments": [],
+          "url": "https://www.courtlistener.com/docket/61640574/20/doe-v-wilson/",
+          "recap_pdf_url": null,
+          "pacer_doc_id": null,
+          "description": "TEXT ORDER granting 19 Motion for Extension of Time to Answer re 1 Complaint; granting 19 Motion for Extension of Time to File Response/Reply as to 5 MOTION for Protective Order, MOTION to Proceed Under Pseudonym, 6 MOTION for Summary Judgment or, In the Alternative, for a Preliminary Injunction, 9 MOTION to Seal Document. (Mark Keel answer due 4/18/2022; Alan Wilson answer due 4/18/2022; Response to Motion due by 4/18/2022) Signed by Honorable Mary Geiger Lewis on 3/15/2022.(cbru, ) (Entered: 03/15/2022)"
+        },
+        {
+          "row_number": 11,
+          "id": 9060465,
+          "entry_number": "21",
+          "date_filed": "2022-04-12T00:00:00-04:00",
+          "attachments": [
+            {
+              "pdf_url": "https://www.courtlistener.com/recap/gov.uscourts.scd.268950/gov.uscourts.scd.268950.21.1.pdf",
+              "recap_id": 198058120,
+              "pacer_url": "https://ecf.scd.uscourts.gov/doc1/163012600164?caseid=268950",
+              "description": "Proposed Order",
+              "attachment_number": 1
+            }
+          ],
+          "url": "https://www.courtlistener.com/docket/61640574/21/doe-v-wilson/",
+          "recap_pdf_url": "https://www.courtlistener.com/recap/gov.uscourts.scd.268950/gov.uscourts.scd.268950.21.0_2.pdf",
+          "pacer_doc_id": "163012600163",
+          "description": "Joint MOTION for Permanent Injunction by John Doe. Response to Motion due by 4/26/2022. Add an additional 3 days only if served by mail or otherwise allowed under Fed. R. Civ. P. 6 or Fed. R. Crim. P. 45. (Attachments: # 1 Proposed Order)Proposed order is being emailed to chambers with copy to opposing counsel.(Chaney, David) (Attachment 1 replaced on 4/12/2022) (cbru, ). (Entered: 04/12/2022)"
+        },
+        {
+          "row_number": 13,
+          "id": 9060467,
+          "entry_number": "23",
+          "date_filed": "2022-04-18T00:00:00-04:00",
+          "attachments": [],
+          "url": "https://www.courtlistener.com/docket/61640574/23/doe-v-wilson/",
+          "recap_pdf_url": "https://www.courtlistener.com/recap/gov.uscourts.scd.268950/gov.uscourts.scd.268950.23.0.pdf",
+          "pacer_doc_id": "163012606984",
+          "description": "ORDER granting 5 Motion for Protective Order; granting 5 Motion to Proceed Under Pseudonym. Signed by Honorable Mary Geiger Lewis on 4/18/2022.(cbru, ) (Entered: 04/18/2022)"
+        }
+      ],
+      "docket_case_type": "cv",
+      "docket_year": 2021,
+      "docket_filing_number": 4108,
+      "is_main_docket": true,
+      "court": "District of South Carolina",
+      "state": "South Carolina",
+      "docket_office_number": "3",
+      "docket_number_manual": "3:21-cv-04108",
+      "scales_html": null,
+      "recap_link": "https://www.courtlistener.com/docket/61640574/doe-v-wilson/",
+      "is_active": true
+    },
+    "name": "Doe v. Wilson",
+    "never_filed": false,
+    "non_docket_case_number": "",
+    "non_docket_case_number_type": null,
+    "non_docket_case_number_type_other": "",
+    "order_end_year": null,
+    "order_start_year": null,
+    "permanent_injunction": false,
+    "plaintiff_description": "A man who was convicted of South Carolina’s criminal sodomy statute in 2001 and remained on the sex offender registry",
+    "plaintiff_type": [
+      {
+        "value": "Private Plaintiff"
+      }
+    ],
+    "prevailing_party": "Plaintiff",
+    "pro_se_status": "No",
+    "public_interest_lawyer": "Yes",
+    "related_cases": [],
+    "relief_natures": [
+      "Injunction / Injunctive-like Settlement",
+      "Attorneys fees"
+    ],
+    "relief_nature_other": "",
+    "relief_sources": [
+      "Settlement"
+    ],
+    "settlement_agreement": [
+      "Court Approved Settlement or Consent Decree"
+    ],
+    "settlement_judgment_date": "2022-04-22",
+    "settlement_judgment_year": 2022,
+    "special_collections": [],
+    "special_case_type": [],
+    "state": "South Carolina",
+    "summary": "<p>This is a case about South Carolina's inclusion of people with pre-Lawrence v. Texas convictions for consensual gay sex on the state's sex offender registry. Lawrence v. Texas is a U.S. Supreme Court case that held most sanctions of criminal punishment for consensual, adult, non-procreative sexual activity are unconstitutional. On December 22, 2021, a man who was convicted of South Carolina&rsquo;s criminal sodomy statute in 2001 and remained on the sex offender registry, filed this lawsuit in the United States District Court for the District Of South Carolina Columbia Division. The plaintiff sued South Carolina and the South Carolina State Law Enforcement Division under 42 U.S.C. &sect; 1983 and the Fourteenth Amendment. Represented by the ACLU and private counsel, the plaintiff sought declaratory relief and attorneys&rsquo; fees. In addition, the plaintiff sought injunctive relief stopping the defendants from enforcing the criminal sodomy statute, removing the plaintiff from the sex offender registry, expunging records indicating the plaintiff was on the registry, and alerting agencies who were provided information about the plaintiff&rsquo;s registration he is no longer on the registry. The plaintiff also sought injunctive relief ordering the defendants to cease placing individuals convicted under the criminal sodomy statute or a similar offense in another jurisdiction on the registry and informing all relevant agencies that such convictions are no longer registrable offenses. The case was assigned to District Judge Mary Geiger Lewis.</p>\r\n<p>The plaintiff was indicted for consensual sex with another man in 2001. In 2006 he received a pardon, but is still required to register as a sex offender. Failure to comply can result in fines and imprisonment. Registered individuals must report in person twice a year for life. They must include immense biographical information as well as all employment, education, vehicle information, and online accounts. Any change in residence, real property ownership, employment, or enrollment in an educational facility must be reported to the county sheriff. Schools must provide registry information to parents. Individuals on the registry are more likely to lose a job, housing, and suffer harassment and assault.&nbsp;</p>\r\n<p>The complaint alleged a violation of the plaintiff's Due Process as the statute was unconstitutional after Lawrence v. Texas, and violates the Equal Protection Clause by treating homosexual intimacy as different than heterosexual without promoting a state interest. The statue was also vague as to which acts are prohibited.&nbsp;</p>\r\n<p>On April 12 the parties filed a joint motion for permanent injunction and on August 22, 2022, Judge Lewis granted the parties&rsquo; joint stipulation. The defendants agreed to remove all individuals on the registry merely for breaking the criminal sodomy statute and no individuals who have a similar conviction in a different jurisdiction would be added. The defendants would inform all removed individuals that they no longer need to register and inform the county sheriff&rsquo;s offices that those individuals are no longer subject to the requirements of the registry. The defendants paid $31,592.30 in plaintiff&rsquo;s fees, costs, and expenses.</p>\r\n<p>The case is now closed.</p>",
+    "summary_published_date": "2023-11-16T22:27:09.676652-05:00",
+    "summary_short": "In 2021 a man who was convicted of South Carolina’s criminal sodomy statute in 2001 and remained on the sex offender registry filed this lawsuit in the United States District Court for the District Of South Carolina Columbia Division. South Carolina included people with pre-Lawrence v. Texas convictions for consensual gay sex on the state's sex offender registry, despite Lawrence v. Texas holding such sanctions unconstitutional. It only took four months for the parties to stipulate to removing such individuals from the registry and preventing future such individuals from being added to the registry. The case is closed.",
+    "summary_tiny": null,
+    "terminating_date": "2022-04-22",
+    "clearinghouse_link": "clearinghouse.net/case/43871",
+    "is_active": true,
+    "case_documents_url": "https://clearinghouse.net/api/v2/documents/?case=43871",
+    "case_dockets_url": "https://clearinghouse.net/api/v2/dockets/?case=43871",
+    "case_resources_url": "https://clearinghouse.net/api/v2/resources/?case=43871"
+  },
+  "documents": [
+    {
+      "date": "2022-04-22",
+      "date_is_estimate": false,
+      "date_not_available": false,
+      "description": "",
+      "document_source": "RECAP",
+      "document_status": "Coding Complete",
+      "document_type": "Order/Opinion",
+      "order_type": "Consent Decree",
+      "citation_paren": null,
+      "cite_1_page": null,
+      "cite_1_reporter": null,
+      "cite_1_vol": null,
+      "cite_2_page": null,
+      "cite_2_reporter": null,
+      "cite_2_vol": null,
+      "cite_3_page": null,
+      "cite_3_reporter": null,
+      "cite_3_vol": null,
+      "citation_status": "No citation available",
+      "court": "District of South Carolina",
+      "no_title": false,
+      "party_types": [
+        "Court"
+      ],
+      "per_curium": false,
+      "is_core_document": true,
+      "id": 135103,
+      "file": "https://clearinghouse-umich-production.s3.amazonaws.com/media/doc/135103.pdf",
+      "title": "Order Granting Joint Stipulation and Request for Entry of Order",
+      "text": "3:21-cv-04108-MGL     Date Filed 04/22/22    Entry Number 26     Page 1 of 3\n \n   \n \n \n \n \nIN THE UNITED STATES DISTRICT COURT \nFOR THE DISTRICT OF SOUTH CAROLINA \nCOLUMBIA DIVISION \n \nJOHN DOE,            § \n  Plaintiff,  §       \n              § \nvs.                                                                    §      Civil Action No. 3:21-04108-MGL \n              §     \nALAN WILSON, in his official capacity as    § \nAttorney General of South Carolina, and     § \nMARK KEEL, in his official capacity as Chief  § \nof the South Carolina State Law Enforcement  § \nDivision,            § \n             Defendants.         §      \n \n \nORDER GRANTING JOINT STIPULATION AND REQUEST FOR ENTRY OF ORDER \n    \nBefore the Court are the parties’ Joint Stipulation and Request for Entry of Order.  The \nCourt will grant the motion.  \nThe Court adopts the stipulation of the parties as follows: \n1.  Under the terms and conditions set forth in this Order, the parties agree to resolve \nall claims in the above-captioned action.  \n2.  To conform with the Supreme Court’s ruling in Lawrence v. Texas, 539 U.S. 588 \n(2003), Defendants shall remove from the South Carolina Sex Offender Registry \nall individuals currently registered solely for a conviction for Buggery, S.C. Code \n§ 16-15-120, stemming from sodomy between consenting adults, or for an out-of-\nstate conviction that the South Carolina State Law Enforcement Division deems an \nequivalent offense to Buggery stemming from sodomy between consenting adults. \n\n3:21-cv-04108-MGL     Date Filed 04/22/22    Entry Number 26     Page 2 of 3\n3.  This removal shall include the individuals listed in the sealed document filed by the \nparties, which was filed under seal to protect the privacy of those individuals. \n4.  In addition to removing individuals listed in the sealed document, Defendants agree \nthat no individual later determined to fall under paragraph 2, including individuals \nwho relocate to South Carolina and who have out-of-state convictions for sodomy \nbetween consenting adults, shall be required to register as a sex offender in South \nCarolina or be published on the South Carolina Sex Offender Registry. \n5.  The South Carolina State Law Enforcement Division shall remove all persons \ndescribed in Paragraphs 2 and 3 above as expeditiously as possible, and in no event \nlater than twenty-one days from the date of entry of this Order.  \n6.  The South Carolina Law Enforcement Division shall mail a written notification to \nall persons described in Paragraphs 2 and 3 above within twenty-one days of the \nentry of this Order informing them that they have been removed from the South \nCarolina Sex Offender Registry and will no longer have to register as sex offenders \nin South Carolina. \n7.  The South Carolina Law Enforcement Division shall, within ninety days of the \nentry of this Order, provide notification to the sheriff’s office of the individual’s \ncounty of residence for all persons described in Paragraphs 2 and 3 that each person \ndescribed in Paragraphs 2 and 3 above has been removed from the South Carolina \nSex Offender Registry and is no longer subject to the requirements of the South \nCarolina Sex Offender Registry Law. \n8.  Defendants shall pay Plaintiff’s attorneys a total of $31,592.30 for full resolution \nof Plaintiff’s fees, costs, and expenses in this action.  \n2 \n \n\n3:21-cv-04108-MGL     Date Filed 04/22/22    Entry Number 26     Page 3 of 3\n9.  This Order is not and does not contain any finding, admission, or concession that \nany Defendant committed any wrongful act including, but not limited to, violating \nthe U.S. Constitution or federal law.  This Order also is not and does not contain \nany finding, admission, or concession that any law(s) of the State of South Carolina \nviolates the U.S. Constitution, any amendment thereto, or any federal law. \nAccordingly, the parties’ Joint Stipulation and Request for Entry of Order is GRANTED.  \nAll other pending motions in this matter are DEEMED AS MOOT.  This matter is DISMISSED \nWITH PREJUDICE. \nIT IS SO ORDERED.  \nSigned this 22nd day of April 2022, in Columbia, South Carolina.  \ns/ Mary Geiger Lewis                          \n              MARY GEIGER LEWIS     \n              UNITED STATES DISTRICT JUDGE \n \n3 \n ",
+      "document_type_other": null,
+      "external_url": "https://www.courtlistener.com/docket/61640574/26/doe-v-wilson/",
+      "ecf_number": "26",
+      "clearinghouse_link": "clearinghouse.net/doc/135103"
+    },
+    {
+      "date": "2021-12-22",
+      "date_is_estimate": false,
+      "date_not_available": false,
+      "description": "",
+      "document_source": "RECAP",
+      "document_status": "Coding Complete",
+      "document_type": "Complaint",
+      "order_type": null,
+      "citation_paren": null,
+      "cite_1_page": null,
+      "cite_1_reporter": null,
+      "cite_1_vol": null,
+      "cite_2_page": null,
+      "cite_2_reporter": null,
+      "cite_2_vol": null,
+      "cite_3_page": null,
+      "cite_3_reporter": null,
+      "cite_3_vol": null,
+      "citation_status": "Not applicable",
+      "court": "District of South Carolina",
+      "no_title": false,
+      "party_types": [
+        "Plaintiff"
+      ],
+      "per_curium": false,
+      "is_core_document": true,
+      "id": 135102,
+      "file": "https://clearinghouse-umich-production.s3.amazonaws.com/media/doc/135102.pdf",
+      "title": "Complaint for Declaratory and Injunctive Relief",
+      "text": "3:21-cv-04108-MGL     Date Filed 12/22/21    Entry Number 1     Page 1 of 18\nIN THE UNITED STATES DISTRICT COURT \nFOR THE DISTRICT OF SOUTH CAROLINA \nCOLUMBIA DIVISION \nJOHN DOE, \nPlaintiff, \nv.  Case No. 2X1X-cXvX-_ _ 3_:_2_1_-c_v_-_0_4_1_0_8 -MGL\nALAN WILSON, in his official capacity as \nAttorney General of South Carolina; and \nMARK KEEL, in this official capacity as Chief \nof the South Carolina State Law Enforcement \nDivision, \nDefendants. \nComplaint for Declaratory and Injunctive Relief \nNATURE OF THE ACTION \n1. This case is about a man convicted of being gay prior to the Supreme Court’s\ndecision in Lawrence v. Texas, 539 U.S. 558 (2003), and who South Carolina still makes register \nas a sex offender today. It shows how the lingering effects of centuries of homophobic “sodomy” \nprohibitions persist and asks this Court to put an end to South Carolina’s discrimination. \n2. So-called sodomy laws, which prohibit nonprocreative sex acts traditionally\nassociated with homosexuality (i.e., oral and anal sex), were universal among the states and \nterritories from the founding of the Republic through to the 1960s. In the late twentieth century, a \nfew states began repealing their sodomy laws and some state courts began to invalidate them. \nThen, in 2003, the Supreme Court held that laws that criminalize oral or anal sex (with no other \nelements) violate substantive due process and are invalid under the Fourteenth Amendment. See \ngenerally Lawrence, 539 U.S. 558.  \n1 \n\n3:21-cv-04108-MGL     Date Filed 12/22/21    Entry Number 1     Page 2 of 18\n3.  In Lawrence, the Supreme Court explicitly overruled its prior precedent, Bowers \nv. Hardwick, 478 U.S. 186 (1986), that had held that such intimate sexual conduct received no \nconstitutional protection. Lawrence, 539 U.S. at 578. In the words of the Court, Bowers—a facial \nchallenge to Georgia’s sodomy prohibition—“was not correct when it was decided, and it is not \ncorrect today. It ought not to remain binding precedent. Bowers v. Hardwick should be and now \nis overruled.” Id. In so doing, the Supreme Court facially invalidated all statutes that criminalize \noral or anal sex with no other elements, including South Carolina’s. \n4.  Despite this clear proclamation made nearly two decades ago, South Carolina \ncontinues to enforce its criminal sodomy statute, titled Buggery, South Carolina Code section 16-\n15-120. Specifically, South Carolina requires people convicted of Buggery to register as sex \noffenders and suffer myriad, onerous prescriptions on their everyday life under the South \nCarolina Sex Offender Registry Act, commonly known as SORA. S.C. Code Ann. §§ 23-3-400 \net seq. This is so even though South Carolina’s Buggery statute is materially indistinguishable \nfrom the sodomy statutes struck down as facially unconstitutional by the Supreme Court in \nLawrence. \n5.  SORA seriously restricts the public and personal lives of registrants.  \n6.  Plaintiff John Doe was convicted in 2001 for Buggery for having consensual sex \nwith another man. The other man was also convicted of Buggery. Doe received a pardon in 2006. \nStill, he is subject to sex offense registration restrictions pursuant to a facially unconstitutional \nstatute. He suffers severely under the sex offender label, which involves the state in the daily \nmanagement of his life. \n7.  Doe brings this action to prevent the continued application and enforcement of \nSouth Carolina’s Buggery prohibition, South Carolina Code section 16-15-120. Specifically, Doe \n  2 \n\n3:21-cv-04108-MGL     Date Filed 12/22/21    Entry Number 1     Page 3 of 18\nseeks a declaration that 1) South Carolina’s Buggery prohibition, South Carolina Code section \n16-15-120, is facially unconstitutional as to activity between human beings and as applied to \nDoe; and 2) that South Carolina Code section 23-3-430(C)(11), which makes Buggery an offense \nsubject to SORA, is facially unconstitutional as to activity between human beings and as applied \nto Doe; and, in the alternative, 3) requiring sex offender registration for a conviction under a \nstatute whose only element is engaging in oral or anal sex that pre-dates the Supreme Court’s \ndecision in Lawrence is unconstitutional. \n8.  Doe seeks injunctive relief against state officials from continuing to enforce the \nabove-enumerated statutes, compelling Defendants to remove Doe from SORA and expunge all \nrecords signaling his past inclusion on the registry, and enjoining Defendants from administering \nand enforcing the Buggery statute generally and through SORA specifically.  \nPARTIES \nPlaintiff \n9.  Plaintiff Doe is a resident of South Carolina.  \nDefendants \n10.  Alan Wilson is the Attorney General of South Carolina. As Attorney General, \nWilson oversees the enforcement of South Carolina’s criminal statutes. He is sued in his official \ncapacity. He resides in South Carolina. \n11.  The Attorney General’s office is located in Columbia, South Carolina. \n12.  Mark Keel is the Chief of the South Carolina State Law Enforcement Division \n(SLED). The South Carolina sex offender “registry is under the direction of” Defendant Keel. \nS.C. Code Ann. § 23-3-410(A). Defendant Keel is responsible for “develop[ing] and operat[ing] \nthe registry to: collect, analyze, and maintain information; [and] make information available to \n  3 \n\n3:21-cv-04108-MGL     Date Filed 12/22/21    Entry Number 1     Page 4 of 18\nevery enforcement agency in this State and in other states.” Id. He is sued in his official capacity. \nHe resides in South Carolina. \n13.  Defendant Keel conducts his official business from Columbia, South Carolina. \n14.  Each of the Defendants is a person under 42 U.S.C. § 1983 and acted and \ncontinues to act under color of state law as to the allegations in this complaint. \nJURISDICTION AND VENUE \n15.  Doe’s claims are brought under 42 U.S.C. § 1983 and the Fourteenth Amendment \nto the United States Constitution. \n16.  This Court has jurisdiction to hear Doe’s claims pursuant to 28 U.S.C. §§ 1331, \n1343, and the Declaratory Judgment Act, 28 U.S.C. §§ 2201, 2202.  \n17.  Venue is proper in the United States Court for the District of South Carolina \nunder 28 U.S.C. § 1391(b)(2) because a substantial part of the acts that gave rise to this lawsuit \noccurred principally in this judicial district. This District is also an appropriate venue under 28 \nU.S.C. § 1391(b)(1) because Defendants reside and do business in this judicial district. \n18.  Venue is proper in the Columbia division under Local Rule 3.01 because the \ndefendants reside in this division and a substantial portion of the events or omissions giving rise \nto the claims occurred in this division. \nSTATEMENT OF FACTS \nStatutory Overview \n19.  South Carolina’s Buggery statute criminalizes anal and oral sex with no other \nelements. \n20.  South Carolina’s Buggery statute, South Carolina Code section 16-15-120, states, \nin full, “[w]hoever shall commit the abominable crime of buggery, whether with mankind or \n  4 \n\n3:21-cv-04108-MGL     Date Filed 12/22/21    Entry Number 1     Page 5 of 18\nwith beast,1 shall, on conviction, be guilty of [a] felony and shall be imprisoned in the \nPenitentiary for five years or shall pay a fine of not less than five hundred dollars, or both, at the \ndiscretion of the court.” \n21.  South Carolina’s prohibition on oral and anal sex has existed since the Province \nof Carolina was split into North and South Carolina in 1712. The statute originally included a \ncompulsory death sentence. The death penalty was not removed until more than a century and a \nhalf later, in 1869, when it imposed a five-year mandatory sentence.  \n22.  It wasn’t until 1993 that the State removed the mandatory five-year penalty for \nBuggery and instead imposed a maximum five-year sentence.  \n23.  Essentially unchanged for two centuries, the plain text of section 16-15-120 \ncontinues to prohibit the sex acts traditionally associated with homosexuality—oral and anal sex. \n24.  South Carolina’s Buggery statute is indistinguishable in all material respects from \nthe Texas and Georgia statutes declared unconstitutional in Lawrence. The Texas statute at issue \nin Lawrence prohibited “engag[ing] in deviate sexual intercourse with another individual of the \nsame sex,” Tex. Penal Code Ann. § 21.06(a) (2003), and defined “[d]eviate sexual intercourse” \nas “(A) any contact between any part of the genitals of one person and the mouth or anus of \nanother person; or (B) the penetration of the genitals or the anus of another person with an \nobject.” Tex. Penal Code Ann. § 21.01(1) (2003). The Georgia statute at issue in Bowers, which \nLawrence declared facially unconstitutional, 539 U.S. at 578, prohibited “sodomy,” and defined \n“sodomy” as “any sexual act involving the sex organs of one person and the mouth or anus of \nanother.” Official Code of Ga. Ann. (O.C.G.A.) § 16-6-2 (1984). \n \n1 Doe confines his challenge to the portion of the Buggery statute barring a “buggery . . . \nwith mankind” and does not address the portion of the statute criminalizing sexual conduct “with \nany animal.” \n  5 \n\n3:21-cv-04108-MGL     Date Filed 12/22/21    Entry Number 1     Page 6 of 18\nSouth Carolina Requires Sex Offender Registration for Buggery Convictions \n25.  Despite the South Carolina Buggery statute being facially unconstitutional and the \nSupreme Court declaring that the sexual activity criminalized by the Buggery statute is protected \nby the Fourteenth Amendment, South Carolina requires people with Buggery convictions to \nregister as sex offenders. S.C. Code Ann. § 23-3-430(C)(11). It also requires people with \nconvictions under other state’s unconstitutional sodomy laws to register in South Carolina if they \nreside in the state. Id. (making Buggery a registrable offense); S.C. Code Ann. § 23-3-430(A) \n(making any out-of-state conviction for any “similar offense” to a registrable South Carolina \noffense itself a registrable offense).  \n26.  On information and belief, in addition to John Doe there are at least eighteen \nother people made to register in South Carolina for Buggery convictions or for out-of-state \nconvictions that South Carolina deems a “similar offense” to Buggery.  \nRegistration Requirements and Burdens \n27.  A person subject to registration under SORA must report, in person, twice a year \nto register. S.C. Code Ann. § 23-3-460(A).  \n28.  The information that offenders are required to report upon registration is \nencyclopedic in scope. A registrant must provide their name; their social security number; their \nage; their race; their sex; their photograph; their date of birth; their addresses of permanent and \ntemporary residence; their place of employment; their date of employment; the name, address, \nand county of any institution of higher learning where the registrant is enrolled, employed, \nvolunteers, interns, or otherwise carries on a vocation; their vehicle’s make, model, color, and \nlicense tag number; their fingerprints; their palm prints; and any and every online account they \nuse. S.C. Code Ann. §§ 23-3-530(2)(a–c); 23-3-555(B).  \n  6 \n\n3:21-cv-04108-MGL     Date Filed 12/22/21    Entry Number 1     Page 7 of 18\n29.  A registrant must notify the county sheriff within three business days of any \nchange in residence, real property ownership, employment, or enrollment in an educational \nfacility. S.C. Code Ann. § 23-3-460(C). \n30.  These registration obligations run to every county where a registrant resides, owns \nreal property, is employed, or goes to school. S.C. Code Ann. § 23-3-450.  \n31.  School districts must provide the “names and addresses of every sex offender who \nresides within one thousand feet of a school bus stop within the school district to the parents or \nguardians of a student who boards or disembarks a school bus at [such] a stop” or provide a link \nto the online registry on the school district’s website for parents to gather this information \nthemselves. S.C. Code Ann. § 23-3-535(F)(1)(a–b).  \n32.  Failure to follow SORA’s strict dictates is, on the first offense, a misdemeanor \nsubject to a $1,000 fine and up to 366 days of imprisonment. S.C. Code Ann. § 23-3-470(B)(1). \nA second offense carries a mandatory 366 days of imprisonment, no part of which may be \nsuspended and for which no probation can be granted. S.C. Code Ann. § 23-3-470(B)(2). A third \noffense carries a mandatory five-year imprisonment, three years of which cannot be suspended or \ngiven probation. S.C. Code Ann. § 23-3-470(B)(3). \n33.  Registration is for life. S.C. Code Ann. § 23-3-460(A).  \n34.  South Carolina maintains people registered under SORA on the South Carolina \nregistry even after they move to another state.  \n35.  Even a pardon doesn’t free a registrant from the burdens of registration. S.C. \nCode Ann. § 23-3-430(F). \n  7 \n\n3:21-cv-04108-MGL     Date Filed 12/22/21    Entry Number 1     Page 8 of 18\n36.  In addition to the direct statutory consequences, registration under SORA also \nimposes collateral consequences. For example, registration under SORA automatically \ndisqualifies Doe from federally assisted housing. 42 U.S.C. § 13663(a) (2012). \n37.  Defendant SLED also publishes Doe’s information and offense history on an \nonline and publicly available database, thereby exposing him to “profound humiliation and \ncommunity-wide ostracism.” Smith v. Doe, 538 U.S. 84, 115 (2003) (Ginsburg, J., dissenting). \n38.  In 2014, the Justice Policy Journal analyzed the collateral consequences of sex \noffender registration. Frenzel, et al., Understanding Collateral Consequences of Registry Laws, \n11 JUSTICE POL. J. 2 (Fall 2014). Of the 443 individuals considered by the study, 49.9% reported \nthat they had lost a job as the result of the sex offender registry, 54.4% reported they lost a place \nto live, 41.8% reported they had been harassed in person, and 13.6% reported they had been \nphysically assaulted/attacked because of their status on the sex offender registry. Id. at 11. \nFacts Specific to John Doe \n39.  John Doe was charged with and indicted for Buggery for having consensual sex \nwith another man in 2001.  \n40.  Both men were adults.  \n41.  Both pleaded guilty.  \n42.  Doe’s Buggery conviction is his only registrable offense. \n43.  In 2006, Doe received a pardon for his Buggery conviction.  \n44.  Despite his pardon, South Carolina still requires Doe to register as a sex offender. \nSee S.C. Code Ann. § 23-3-430(F) (requiring registration despite pardons). \n45.  Doe is subject to all of SORA’s restrictions due to a pre-Lawrence conviction for \nBuggery, South Carolina Code section 16-15-120—a statute that is unconstitutional on its face. \n  8 \n\n3:21-cv-04108-MGL     Date Filed 12/22/21    Entry Number 1     Page 9 of 18\nRegistration burdens virtually every aspect of Doe’s life. See Registration Requirements and \nBurdens, supra. Requiring Doe to register as a sex offender for a Buggery conviction serves no \nlegitimate purpose. The mandate that Doe be subject to the harsh requirements of the sex \noffender registry law is unjustifiable and unconstitutional. \n46.  Doe suffers continuing harm because of the continued application of South \nCarolina’s Buggery statute and the registration requirements imposed by S.C. Code Ann. § 23-3-\n430(C)(11).  \nFederal District Courts Enjoin Similar Requirements in Other States \n47.  Federal district courts have recently enjoined similar constitutional violations in \nother states. \n48.  One plaintiff challenged his registration obligation in Montana for a 1993 \nconviction under Idaho’s sodomy statute. Menges v. Knudsen, No. CV 20-178-M-DLC, --- \nF.Supp.3d ---, 2021 WL 1894154, at *1 (D. Mont. May 11, 2021), appeal docketed No. 21-\n35370 (May 12, 2021). Montana required that he register there because it imposed a reciprocal \nregistration requirement, meaning anyone who had a registrable offense in the state of conviction \nwas required to register in Montana regardless of whether Montana required registration for an \nequivalent offense.2 Id. After the defendants moved to dismiss and the plaintiff moved for a \npreliminary injunction, the district court—recognizing that the case presented a question of law, \nnot fact—advanced the trial on the merits and enjoined the state from requiring the plaintiff to \nregister. Id. at *2. The case lasted six months and two days from filing the complaint to final \njudgment. Id. \n \n2 South Carolina also has such a requirement. S.C. Code Ann. § 23-3-430(A). \n  9 \n\n3:21-cv-04108-MGL     Date Filed 12/22/21    Entry Number 1     Page 10 of 18\n49.  The same plaintiff from the Montana case also filed suit in Idaho, along with \nanother plaintiff proceeding pseudonymously, challenging Idaho’s registration requirement for \npeople with Idaho Crime Against Nature convictions. Doe v. Wasden, No. 1:20-CV-00452-\nBLW, --- F.Supp.3d ---, 2021 WL 4129144, at *1 (D. Idaho Sept. 8, 2021) appeal docketed No. \n21-35826 (Oct. 10, 2021). Assessing a motion to dismiss by the defendants and a motion for a \npreliminary injunction by the plaintiffs, the District of Idaho found the plaintiffs were likely to \nsucceed on their due process (under both substantive and procedural due process theories) and \nequal protection claims and preliminarily enjoined the plaintiffs’ registration obligations. Id. at \n*11–17.  \nCAUSES OF ACTION \nFirst Cause of Action \nFourteenth Amendment: Due Process  \n42 U.S.C. § 1983 \n \n50.  Doe incorporates by reference every allegation in the preceding paragraphs as if \nset forth fully here. \n51.  Doe brings this claim against all Defendants in their official capacities. \n52.  Defendants’ maintenance, administration, and enforcement of South Carolina’s \nBuggery statute, South Carolina Code section 16-15-120, is facially unconstitutional.  \n53.  Defendants’ maintenance, administration, and enforcement of South Carolina’s \nSex Offender Registration Act’s provision that makes Buggery a registerable offense, South \nCarolina Code section 23-3-430(C)(11), is facially unconstitutional.  \n54.  Defendants’ maintenance, administration, and enforcement of both South \nCarolina Code sections 16-15-120 and 23-3-430(C)(11) on their face and with respect to Doe \n  10 \n\n3:21-cv-04108-MGL     Date Filed 12/22/21    Entry Number 1     Page 11 of 18\nviolates Doe’s rights to due process under the Fourteenth Amendment of the United States \nConstitution and flouts the clear mandate of Lawrence v. Texas. \n55.  All Defendants’ actions are under color of law and enabled by their authority as \nstate officers. \n56.  Doe is entitled to declaratory relief in the form of this Court ruling that South \nCarolina Code section 16-15-120 is facially unconstitutional and unenforceable in any situation \ninvolving conduct between human beings. \n57.  Doe is entitled to declaratory relief in the form of this Court ruling that South \nCarolina Code section 23-3-430(C)(11) is facially unconstitutional and unenforceable in any \nsituation involving conduct between human beings. \n58.  Doe is entitled to declaratory relief in the form of this Court ruling that South \nCarolina Code section 23-3-430(C)(11) is unconstitutional as applied to his Buggery conviction.  \n59.  Doe is entitled to injunctive relief in the form of this Court enjoining the \nDefendants from enforcing South Carolina Code section 16-15-120 in any situation involving \nconduct between human beings. \n60.  Doe is entitled to injunctive relief in the form of this Court enjoining the \nDefendants from enforcing South Carolina Code section 23-3-430(C)(11) in any situation \ninvolving conduct between human beings. \n61.  Doe is entitled to injunctive relief in the form of this Court enjoining the \nDefendants from enforcing South Carolina Code section 23-3-430(C)(11) as applied to him for \nhis Buggery conviction.  \n  11 \n\n3:21-cv-04108-MGL     Date Filed 12/22/21    Entry Number 1     Page 12 of 18\n62.  As a result of Defendants’ unlawful conduct, Doe is suffering harm, including \nembarrassment, humiliation, shame, fear, loss of opportunity (including, but not limited to, \ncareer, professional, economic, housing, educational, and social opportunities), and stigma. \nSecond Cause of Action \nFourteenth Amendment: Equal Protection \n43 U.S.C. § 1983 \n \n63.  Doe incorporates by reference every allegation in the preceding paragraphs as if \nset forth fully here. \n64.  Doe brings this claim against all Defendants in their official capacities. \n65.  By treating acts of homosexual sexual intimacy differently from acts of \nheterosexual sexual intimacy, South Carolina Code section 16-15-120 violates the Equal \nProtection Clause because it is not necessary and the least restrictive means of addressing a \ncompelling state interest.   \n66.  By treating acts of homosexual sexual intimacy differently from acts of \nheterosexual sexual intimacy, South Carolina Code section 16-15-120 violates the Equal \nProtection Clause because it is not substantially related to serving an important state interest.  \n67.  By treating acts of homosexual sexual intimacy differently from acts of \nheterosexual sexual intimacy, South Carolina Code section 16-15-120 violates the Equal \nProtection Clause because it has no rational relationship to a legitimate government interest. \n68.  By requiring sex offender registration for acts of homosexual sexual intimacy and \nnot requiring registration for acts of heterosexual sexual intimacy, South Carolina Code section \n23-3-430(C)(11) violates the Equal Protection Clause because it is not necessary and the least \nrestrictive means of addressing a compelling state interest.   \n  12 \n\n3:21-cv-04108-MGL     Date Filed 12/22/21    Entry Number 1     Page 13 of 18\n69.  By requiring sex offender registration for acts of homosexual sexual intimacy and \nnot requiring registration for acts of heterosexual sexual intimacy, South Carolina Code section \n23-3-430(C)(11) violates the Equal Protection Clause because it is not substantially related to \nserving an important state interest.  \n70.  By requiring sex offender registration for acts of homosexual sexual intimacy and \nnot requiring registration for acts of heterosexual sexual intimacy, South Carolina Code section \n23-3-430(C)(11) violates the Equal Protection Clause because it has no rational relationship to a \nlegitimate government interest. \n71.  Doe is entitled to declaratory relief in the form of this Court ruling that South \nCarolina Code section 16-15-120 is facially unconstitutional and unenforceable in any situation \ninvolving conduct between human beings. \n72.  Doe is entitled to declaratory relief in the form of this Court ruling that South \nCarolina Code section 23-3-430(C)(11) is facially unconstitutional and unenforceable in any \nsituation involving conduct between human beings. \n73.  Doe is entitled to declaratory relief in the form of this Court ruling that South \nCarolina Code section 23-3-430(C)(11) is unconstitutional as applied to his Buggery conviction.  \n74.  Doe is entitled to injunctive relief in the form of this Court enjoining the \nDefendants from enforcing South Carolina Code section 16-15-120 in any situation involving \nconduct between human beings. \n75.  Doe is entitled to injunctive relief in the form of this Court enjoining the \nDefendants from enforcing South Carolina Code section 23-3-430(C)(11) in any situation \ninvolving conduct between human beings. \n  13 \n\n3:21-cv-04108-MGL     Date Filed 12/22/21    Entry Number 1     Page 14 of 18\n76.  Doe is entitled to injunctive relief in the form of this Court enjoining the \nDefendants from enforcing South Carolina Code section 23-3-430(C)(11) as applied to him for \nhis Buggery conviction.  \n77.  As a result of Defendants’ unlawful conduct, Doe is suffering harm, including \nembarrassment, humiliation, shame, fear, loss of opportunity (including, but not limited to, \ncareer, professional, economic, housing, educational, and social opportunities), and stigma. \nThird Cause of Action \nFourteenth Amendment: Vagueness \n42 U.S.C. § 1983 \n \n78.  Doe incorporates by reference every allegation in the preceding paragraphs as if \nset forth fully here. \n79.  Doe brings this claim against all Defendants in their official capacities. \n80.  South Carolina’s Buggery statute, South Carolina Code section 16-15-120, does \nnot define what conduct is permitted and what conduct is prohibited in such a way that a person \nof ordinary intelligence can readily determine whether a sex act is allowable or prohibited. \n81.  If the section 16-15-120 prohibits all oral and anal sex, it violates the Supreme \nCourt’s command in Lawrence. If it allows any act of oral or anal sex, it is unconstitutionally \nvague. \n82.  The criteria Defendants use in determining what oral or anal sex is prohibited and \nwhat oral or anal sex is permitted are not clearly defined such that a person of ordinary \nintelligence can readily determine whether a sex act is allowable or prohibited. \n83.  Such vagueness also contributes to unfettered discretion exercised by Defendants. \n84.  Defendant’s enforcement of the Buggery statute violates Doe’s rights under the \nDue Process Clause of the Fourteenth Amendment to the United States Constitution. \n  14 \n\n3:21-cv-04108-MGL     Date Filed 12/22/21    Entry Number 1     Page 15 of 18\n85.  South Carolina’s SORA states that a conviction under South Carolina’s Buggery \nstatute is a registrable offense. S.C. Code Ann. § 23-3-430(C)(11). If SORA allows some \nindividuals with Buggery convictions, or a conviction in another jurisdiction that is substantially \nequivalent to South Carolina’s Buggery statute, to avoid registration, it is unconstitutionally \nvague. \n86.  The criteria Defendants use to determine what Buggery convictions, or out-of-\nstate convictions are substantial equivalents to the Buggery law, trigger registration (or allow one \nto escape registration) are not clearly defined such that a person of ordinary intelligence can \nreadily determine whether a conviction triggers registration. \n87.  Such vagueness also contributes to unfettered discretion exercised by Defendants. \n88.  Doe is entitled to declaratory relief in the form of this Court ruling that South \nCarolina Code section 16-15-120 is facially unconstitutional and unenforceable in any situation \ninvolving conduct between human beings. \n89.  Doe is entitled to declaratory relief in the form of this Court ruling that South \nCarolina Code section 23-3-430(C)(11) is facially unconstitutional and unenforceable in any \nsituation involving conduct between human beings. \n90.  Doe is entitled to declaratory relief in the form of this Court ruling that South \nCarolina Code section 23-3-430(C)(11) is unconstitutional as applied to his Buggery conviction.  \n91.  Doe is entitled to injunctive relief in the form of this Court enjoining the \nDefendants from enforcing South Carolina Code section 16-15-120 in any situation involving \nconduct between human beings. \n  15 \n\n3:21-cv-04108-MGL     Date Filed 12/22/21    Entry Number 1     Page 16 of 18\n92.  Doe is entitled to injunctive relief in the form of this Court enjoining the \nDefendants from enforcing South Carolina Code section 23-3-430(C)(11) in any situation \ninvolving conduct between human beings. \n93.  Doe is entitled to injunctive relief in the form of this Court enjoining the \nDefendants from enforcing South Carolina Code section 23-3-430(C)(11) as applied to him for \nhis Buggery conviction. \n94.  As a result of Defendants’ unlawful conduct, Doe is suffering harm, including \nembarrassment, humiliation, shame, fear, loss of opportunity (including, but not limited to, \ncareer, professional, economic, housing, educational, and social opportunities), and stigma. \nREQUEST FOR RELIEF \nDoe respectfully requests an order and judgment: \n1.  Declaring that South Carolina Code section 16-15-120 is unconstitutional on its \nface as it relates to activity between human beings; \n2.  Declaring that South Carolina Code section 23-3-430(C)(11) is unconstitutional \non its face; \n3.  Declaring that South Carolina Code section 23-3-430(C)(11) is unconstitutional \nas applied to individuals convicted of South Carolina’s Buggery statute before the United States \nSupreme Court’s decision in Lawrence v. Texas; \n4.  Declaring that Defendants’ actions violate Doe’s rights under the Fourteenth \nAmendment to the United States Constitution; \n5.  Preliminarily and permanently enjoining Defendants from enforcing South \nCarolina Code section 16-15-120 in any situation involving activity between human beings; \n  16 \n\n3:21-cv-04108-MGL     Date Filed 12/22/21    Entry Number 1     Page 17 of 18\n6.  Preliminarily and permanently enjoining Defendants from enforcing South \nCarolina Code section 23-3-430(C)(11) for Buggery convictions involving activity between \nhuman beings; \n7.  Preliminarily and permanently enjoining Defendants from requiring Doe to \nregister as a sex offender for his Buggery conviction;  \n8.  Ordering Defendants to permanently remove Doe from the South Carolina Sex \nOffender Registry; \n9.  Ordering Defendants to expunge all state records indicating that Doe was ever \nsubject to registration on the South Carolina Sex Offender Registry; \n10.  Ordering Defendants to alert all agencies who were provided information about \nDoe’s registration (including courts, police departments, sheriff’s departments, and the Federal \nBureau of Investigation) that this information is no longer valid; \n11.  Ordering Defendants to cease and desist from placing any individuals convicted \nunder the Buggery statute or with a conviction from another jurisdiction deemed to be a “similar \noffense” to a Buggery conviction in any situation involving activity between human beings on \nthe South Carolina Sex Offender Registry; \n12.  Ordering Defendants to inform all relevant local, state, and federal agencies that \nconvictions for Buggery in any situation involving activity between human beings or any \nconviction from another jurisdiction deemed to be a similar offense to a Buggery conviction for \nactivity between human beings are no longer registrable offenses in South Carolina; \n13.  Waiving the requirement for the posting of a bond as security for entry of \ntemporary or preliminary injunctive relief; \n  17 \n\n3:21-cv-04108-MGL     Date Filed 12/22/21    Entry Number 1     Page 18 of 18\n14. Awarding Doe his costs, expenses, and reasonable attorneys’ fees under 42 U.S.C.\n§1988 and other applicable laws; and\n15. Ordering any other relief this Court deems just and proper.\nDated: December 22, 2020 \nRespectfully submitted, \n/s/ Allen Chaney          \nAllen Chaney (Fed. Bar #13181) \nAmerican Civil Liberties Union \nFoundation of South Carolina \nP.O. Box 20998  \nCharleston, South Carolina 29413-0998 \nTelephone: (843) 282-7953  \nFacsimile: (843) 720-1428  \nEmail: achaney@aclusc.org \nMatthew Strugar* \nLaw Office of Matthew Strugar \n3435 Wilshire Blvd., Suite 2910 \nLos Angeles, CA 90010 \nTelephone: (323) 696-2299 \nEmail: matthew@matthewstrugar.com \n*pro hac vice motion forthcoming\nCounsel for Plaintiff \n18 ",
+      "document_type_other": null,
+      "external_url": "https://www.courtlistener.com/docket/61640574/1/doe-v-wilson/",
+      "ecf_number": "1",
+      "clearinghouse_link": "clearinghouse.net/doc/135102"
+    },
+    {
+      "date": null,
+      "date_is_estimate": false,
+      "date_not_available": false,
+      "description": null,
+      "document_source": null,
+      "document_status": null,
+      "document_type": null,
+      "order_type": null,
+      "citation_paren": null,
+      "cite_1_page": null,
+      "cite_1_reporter": null,
+      "cite_1_vol": null,
+      "cite_2_page": null,
+      "cite_2_reporter": null,
+      "cite_2_vol": null,
+      "cite_3_page": null,
+      "cite_3_reporter": null,
+      "cite_3_vol": null,
+      "citation_status": null,
+      "court": null,
+      "no_title": false,
+      "party_types": [],
+      "per_curium": false,
+      "is_core_document": true,
+      "id": 135101,
+      "file": null,
+      "title": null,
+      "text": null,
+      "document_type_other": null,
+      "external_url": null,
+      "ecf_number": null,
+      "clearinghouse_link": "clearinghouse.net/doc/135101"
+    }
+  ],
+  "document_count": 3
+}

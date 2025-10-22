@@ -1,0 +1,553 @@
+{
+  "case_id": 6411,
+  "fetched_at": "2025-10-22T00:08:14.018495",
+  "case_data": {
+    "attorney_orgs": [
+      "EEOC"
+    ],
+    "available_documents": [
+      "Trial Court Docket",
+      "Monetary Relief",
+      "Injunctive (or Injunctive-like) Relief"
+    ],
+    "case_defendants": [
+      {
+        "defendant_level": null,
+        "institution": null,
+        "institution_alt_state": null,
+        "institution_city": "Kearny, N.J.",
+        "institution_county": null,
+        "name": "Parmalat Bakery Division of Parmalat North America",
+        "defendant_level_other": null,
+        "is_active": true
+      },
+      {
+        "defendant_level": null,
+        "institution": null,
+        "institution_alt_state": null,
+        "institution_city": "Kearny, N.J. ",
+        "institution_county": null,
+        "name": "Parmala Bakery Div. of North America",
+        "defendant_level_other": null,
+        "is_active": true
+      }
+    ],
+    "case_ongoing": "No",
+    "case_status": "Coding Complete",
+    "case_types": [
+      "Equal Employment"
+    ],
+    "cause_other": "",
+    "causes": [
+      "Title VII (including PDA), 42 U.S.C.  § 2000e"
+    ],
+    "class_action_granted": "Unknown",
+    "class_action_sought": "Unknown",
+    "closing_year": 2004,
+    "constitutional_clause": [],
+    "content_of_injunction": [
+      {
+        "value": "Discrimination Prohibition"
+      },
+      {
+        "value": "Retaliation Prohibition"
+      },
+      {
+        "value": "Post/Distribute Notice of Rights / EE Law"
+      },
+      {
+        "value": "Provide antidiscrimination training"
+      }
+    ],
+    "court": "District of New Jersey",
+    "custom_issues": [],
+    "defendant_payment": "300000",
+    "defendant_type": [],
+    "docket_status": "Complete as of retrieval date",
+    "facility_type": [],
+    "filing_date": "2003-08-26",
+    "filing_year": 2003,
+    "id": 6411,
+    "injunction_duration": "12",
+    "issues": [
+      "Discrimination Basis: Sex discrimination",
+      "Affected Sex/Gender(s): Female",
+      "General/Misc.: Retaliation",
+      "Discrimination Area: Disparate Treatment",
+      "Discrimination Area: Harassment / Hostile Work Environment",
+      "Discrimination Area: Discharge / Constructive Discharge / Layoff",
+      "EEOC-centric: Direct Suit on Merits",
+      "EEOC-centric: Private Party intervened in EEOC suit"
+    ],
+    "last_checked_date": "2007-06-06T00:00:00-04:00",
+    "main_docket": {
+      "id": 36661,
+      "docket_entries": [
+        {
+          "row_number": 2,
+          "id": 1420764,
+          "entry_number": null,
+          "date_filed": "2003-08-26T00:00:00-04:00",
+          "attachments": [],
+          "url": "nan",
+          "recap_pdf_url": null,
+          "pacer_doc_id": null,
+          "description": "SUMMONS(ES) issued for PARMALAT BAKERY ( 20 Days) (Directly to Counsel) (MD) (Entered: 08/26/2003)"
+        },
+        {
+          "row_number": 5,
+          "id": 1420767,
+          "entry_number": "5",
+          "date_filed": "2003-09-24T00:00:00-04:00",
+          "attachments": [],
+          "url": "nan",
+          "recap_pdf_url": null,
+          "pacer_doc_id": null,
+          "description": "APPLICATION by PARMALAT BAKERY and Clerk's Order extending time to answer. Answer due 10/14/03 for PARMALAT BAKERY; w/cert. of serv. (DD) (Entered: 09/24/2003)"
+        },
+        {
+          "row_number": 16,
+          "id": 1420778,
+          "entry_number": "14",
+          "date_filed": "2004-02-04T00:00:00-05:00",
+          "attachments": [],
+          "url": "nan",
+          "recap_pdf_url": null,
+          "pacer_doc_id": null,
+          "description": "SCHEDULING ORDER: Settlement Conference set for 2/25/2004 10:30 AM in Newark - Courtroom 9 before Magistrate Judge Mark Falk. Status Conference set for 2/25/2004 10:30 AM in Newark - Courtroom 9 before Magistrate Judge Mark Falk.. Signed by Judge Mark Falk on 02/04/04. (ej, ) (Entered: 02/04/2004)"
+        },
+        {
+          "row_number": 14,
+          "id": 1420776,
+          "entry_number": "13",
+          "date_filed": "2003-12-15T00:00:00-05:00",
+          "attachments": [],
+          "url": "nan",
+          "recap_pdf_url": null,
+          "pacer_doc_id": null,
+          "description": "ANSWER by PARMALAT BAKERY to [10-1] intervenor complaint; w/cert. of serv. (DD) (Entered: 12/17/2003)"
+        },
+        {
+          "row_number": 6,
+          "id": 1420768,
+          "entry_number": "6",
+          "date_filed": "2003-10-07T00:00:00-04:00",
+          "attachments": [],
+          "url": "nan",
+          "recap_pdf_url": null,
+          "pacer_doc_id": null,
+          "description": "RETURN OF SERVICE executed as to PARMALAT BAKERY 9/9/03 Answer due on 9/29/03 for PARMALAT BAKERY (DD) (Entered: 10/09/2003)"
+        },
+        {
+          "row_number": 7,
+          "id": 1420769,
+          "entry_number": "7",
+          "date_filed": "2003-10-14T00:00:00-04:00",
+          "attachments": [],
+          "url": "nan",
+          "recap_pdf_url": null,
+          "pacer_doc_id": null,
+          "description": "ANSWER to Complaint by PARMALAT BAKERY; w/cert. of serv. (DD) (Entered: 10/15/2003)"
+        },
+        {
+          "row_number": 8,
+          "id": 1420770,
+          "entry_number": "9",
+          "date_filed": "2003-10-17T00:00:00-04:00",
+          "attachments": [],
+          "url": "nan",
+          "recap_pdf_url": null,
+          "pacer_doc_id": null,
+          "description": "ORDER granting [3-1] motion to intervene by LINDA CASTANZA Linda Castanza is permitted to file in its entirety the Cmp. of Intervenor Pltf.( signed by Magistrate Judge Mark Falk ) (NM) (DD) (Entered: 10/17/2003)"
+        },
+        {
+          "row_number": 0,
+          "id": 1420762,
+          "entry_number": "1",
+          "date_filed": "2003-08-26T00:00:00-04:00",
+          "attachments": [],
+          "url": "nan",
+          "recap_pdf_url": null,
+          "pacer_doc_id": null,
+          "description": "COMPLAINT filed; jury demand FILING FEE $ wv (MD) (Entered: 08/26/2003)"
+        },
+        {
+          "row_number": 12,
+          "id": 1420774,
+          "entry_number": "11",
+          "date_filed": "2003-11-24T00:00:00-05:00",
+          "attachments": [],
+          "url": "nan",
+          "recap_pdf_url": null,
+          "pacer_doc_id": null,
+          "description": "ORDER, for ROBERT B. STULBERG & AMY F. SHULMAN to appear pro hac vice ( signed by Magistrate Judge Mark Falk ) (NM) (DD) (Entered: 11/24/2003)"
+        },
+        {
+          "row_number": 17,
+          "id": 1420779,
+          "entry_number": null,
+          "date_filed": "2004-02-25T00:00:00-05:00",
+          "attachments": [],
+          "url": "nan",
+          "recap_pdf_url": null,
+          "pacer_doc_id": null,
+          "description": "Minute Entry for proceedings held before Judge Mark Falk : Settlement Conference held on 2/25/2004, Status Conference held on 2/25/2004. (ej, ) (Entered: 03/01/2004)"
+        },
+        {
+          "row_number": 19,
+          "id": 1420781,
+          "entry_number": "16",
+          "date_filed": "2004-03-31T00:00:00-05:00",
+          "attachments": [],
+          "url": "nan",
+          "recap_pdf_url": null,
+          "pacer_doc_id": null,
+          "description": "CONSENT DECREE. . Signed by Judge John C. Lifland on 3/31/04. (DD, ) (Entered: 04/05/2004)"
+        },
+        {
+          "row_number": 4,
+          "id": 1420766,
+          "entry_number": "4",
+          "date_filed": "2003-09-03T00:00:00-04:00",
+          "attachments": [],
+          "url": "nan",
+          "recap_pdf_url": null,
+          "pacer_doc_id": null,
+          "description": "AFFIDAVIT of DAVID C. SAPP w/attached exhibits A-E on behalf of LINDA CASTANZA Re: [3-1] motion to intervene by LINDA CASTANZA (DD) (Entered: 09/03/2003)"
+        },
+        {
+          "row_number": 1,
+          "id": 1420763,
+          "entry_number": "2",
+          "date_filed": "2003-08-26T00:00:00-04:00",
+          "attachments": [],
+          "url": "nan",
+          "recap_pdf_url": null,
+          "pacer_doc_id": null,
+          "description": "NOTICE of Allocation and Assignment filed. ( Newark - Judge Lifland - Magistrate Judge Falk) (NM) (MD) (Entered: 08/26/2003)"
+        },
+        {
+          "row_number": 9,
+          "id": 1420771,
+          "entry_number": "10",
+          "date_filed": "2003-11-14T00:00:00-05:00",
+          "attachments": [],
+          "url": "nan",
+          "recap_pdf_url": null,
+          "pacer_doc_id": null,
+          "description": "Intervenor's COMPLAINT w/jury demand by LINDA CASTANZA against PARMALAT BAKERY (DD) (Entered: 11/18/2003)"
+        },
+        {
+          "row_number": 10,
+          "id": 1420772,
+          "entry_number": null,
+          "date_filed": "2003-11-18T00:00:00-05:00",
+          "attachments": [],
+          "url": "nan",
+          "recap_pdf_url": null,
+          "pacer_doc_id": null,
+          "description": "SUMMONS(ES) ON INTERVENOR CMP. issued for PARMALAT BAKERY ( 20 Days) (Mailed to Counsel) (DD) (Entered: 11/18/2003)"
+        },
+        {
+          "row_number": 15,
+          "id": 1420777,
+          "entry_number": null,
+          "date_filed": "2004-02-02T00:00:00-05:00",
+          "attachments": [],
+          "url": "nan",
+          "recap_pdf_url": null,
+          "pacer_doc_id": null,
+          "description": "Minute Entry for proceedings held before Judge Mark Falk : Telephone Conference held on 2/2/2004. (ej, ) (Entered: 02/04/2004)"
+        },
+        {
+          "row_number": 18,
+          "id": 1420780,
+          "entry_number": "15",
+          "date_filed": "2004-03-02T00:00:00-05:00",
+          "attachments": [],
+          "url": "nan",
+          "recap_pdf_url": null,
+          "pacer_doc_id": null,
+          "description": "ORDER DISMISSING CASE as settled, w/out costs & w/out prejudice.. Signed by Judge John C. Lifland on 3/2/04. (DD, ) (Entered: 03/02/2004)"
+        },
+        {
+          "row_number": 3,
+          "id": 1420765,
+          "entry_number": "3",
+          "date_filed": "2003-09-03T00:00:00-04:00",
+          "attachments": [],
+          "url": "nan",
+          "recap_pdf_url": null,
+          "pacer_doc_id": null,
+          "description": "Notice of MOTION to intervene by LINDA CASTANZA by LINDA CASTANZA, Motion set for 10/27/03 on [3-1] motion ; w/cert. of serv. (Brief/PO Subm) (DD) (Entered: 09/03/2003)"
+        },
+        {
+          "row_number": 11,
+          "id": 1420773,
+          "entry_number": null,
+          "date_filed": "2003-11-21T00:00:00-05:00",
+          "attachments": [],
+          "url": "nan",
+          "recap_pdf_url": null,
+          "pacer_doc_id": null,
+          "description": "Deadline updated; terminating [3-2] hearing Motion set for 10/27/03 on [3-1] motion (jb) (Entered: 11/21/2003)"
+        },
+        {
+          "row_number": 13,
+          "id": 1420775,
+          "entry_number": "12",
+          "date_filed": "2003-11-24T00:00:00-05:00",
+          "attachments": [],
+          "url": "nan",
+          "recap_pdf_url": null,
+          "pacer_doc_id": null,
+          "description": "PRETRIAL SCHEDULING ORDER setting Amending of pleadings on 12/15/03 Joining of Parties 12/15/03 Discovery cutoff 3/24/03 ; Status conference 10:00 1/28/04 ; Settlement conference 10:00 1/28/04 ; etc. ( signed by Magistrate Judge Mark Falk )(NM) (DD) (Entered: 12/01/2003)"
+        }
+      ],
+      "docket_case_type": "cv",
+      "docket_year": 2003,
+      "docket_filing_number": 4026,
+      "is_main_docket": true,
+      "court": "District of New Jersey",
+      "state": "New Jersey",
+      "docket_office_number": "2",
+      "docket_number_manual": "2:03-cv-04026-JCL-MF",
+      "scales_html": "https://clearinghouse-umich-production.s3.amazonaws.com/media/docket-html/njd--2-03-cv-04026.html",
+      "recap_link": null,
+      "is_active": true
+    },
+    "name": "EEOC v. PARMALAT BAKERY DIV. of NORTH AMERICA",
+    "never_filed": false,
+    "non_docket_case_number": "",
+    "non_docket_case_number_type": null,
+    "non_docket_case_number_type_other": "",
+    "order_end_year": 2005,
+    "order_start_year": 2004,
+    "permanent_injunction": false,
+    "plaintiff_description": "Equal Employment Opportunity Commission, on behalf of one or more workers.",
+    "plaintiff_type": [
+      {
+        "value": "Private Plaintiff"
+      },
+      {
+        "value": "EEOC Plaintiff"
+      }
+    ],
+    "prevailing_party": "Plaintiff",
+    "pro_se_status": "No",
+    "public_interest_lawyer": "Yes",
+    "related_cases": [],
+    "relief_natures": [
+      "Injunction / Injunctive-like Settlement",
+      "Damages"
+    ],
+    "relief_nature_other": "",
+    "relief_sources": [
+      "Settlement"
+    ],
+    "settlement_agreement": [
+      "Court Approved Settlement or Consent Decree"
+    ],
+    "settlement_judgment_date": "2004-03-31",
+    "settlement_judgment_year": null,
+    "special_collections": [
+      "EEOC Study — in sample",
+      "IWPR/Wage Project Consent Decree Study"
+    ],
+    "special_case_type": [],
+    "state": "New Jersey",
+    "summary": "<p>In August 2003, the Philadelphia office of the EEOC brought this Title VII suit against Parmalat Bakery Division of Parmalat North America in the U.S. District Court for the District of New Jersey. The complaint alleged that the defendant discriminated against the claimant by subjecting her to a hostile work environment (because of her sex), retaliation for her complaint, and constructive discharge. The claimant intervened in the EEOC's suit. The case settled by entry of a consent decree in March 2004.  </p><p>The consent decree required the defendant to refrain from discrimination and retaliation; pay the claimant $300,000 in damages; post notice; and provide Title VII training for all of its managers, supervisors, and employees.</p><p></p>",
+    "summary_published_date": "2007-07-19T00:00:00-04:00",
+    "summary_short": null,
+    "summary_tiny": null,
+    "terminating_date": null,
+    "clearinghouse_link": "clearinghouse.net/case/6411",
+    "is_active": true,
+    "case_documents_url": "https://clearinghouse.net/api/v2/documents/?case=6411",
+    "case_dockets_url": "https://clearinghouse.net/api/v2/dockets/?case=6411",
+    "case_resources_url": "https://clearinghouse.net/api/v2/resources/?case=6411"
+  },
+  "documents": [
+    {
+      "date": "2004-03-31",
+      "date_is_estimate": false,
+      "date_not_available": false,
+      "description": null,
+      "document_source": "PACER [Public Access to Court Electronic Records]",
+      "document_status": "Coding Complete",
+      "document_type": "Docket",
+      "order_type": null,
+      "citation_paren": null,
+      "cite_1_page": null,
+      "cite_1_reporter": null,
+      "cite_1_vol": null,
+      "cite_2_page": null,
+      "cite_2_reporter": null,
+      "cite_2_vol": null,
+      "cite_3_page": null,
+      "cite_3_reporter": null,
+      "cite_3_vol": null,
+      "citation_status": "Not applicable",
+      "court": "District of New Jersey",
+      "no_title": false,
+      "party_types": [
+        "Court"
+      ],
+      "per_curium": false,
+      "is_core_document": true,
+      "id": 20124,
+      "file": "https://clearinghouse-umich-production.s3.amazonaws.com/media/doc/20124.pdf",
+      "title": "Docket (PACER)",
+      "text": "CM/ECF LIVE - U.S. District Court for the District of New Jersey - Doc... https://ecf.njd.uscourts.gov/cgi-bin/DktRpt.pl?247612078347471-L_35...\n12BN, CLOSED, SCHEDO\nU.S. District Court\nDistrict of New Jersey [LIVE] (Newark)\nCIVIL DOCKET FOR CASE #: 2:03-cv-04026-JCL-MF\nEEOC v. PARMALAT BAKERY, et al Date Filed: 08/26/2003\nAssigned to: Judge John C. Lifland Date Terminated: 03/02/2004\nReferred to: Magistrate Judge Mark Falk Jury Demand: Plaintiff\nDemand: $0 Nature of Suit: 442 Civil Rights: Jobs\nCause: 42:2000 Job Discrimination (Sex) Jurisdiction: U.S. Government Plaintiff\nPlaintiff\nEQUAL EMPLOYMENT  represented by CYNTHIA A. LOCKE \nOPPORTUNITY COMMISSION U.S. EQUAL EMPLOYMENT \nOPPORTUNITY COMMISSION \nPHILADELPHIA DISTRICT'S OFFICE \nTHE BOURSE \n21 S. 5TH STREET \nSUITE 400 \nPHILADELPHIA, PA 19106 \n(215) 451-5787 \nLEAD ATTORNEY \nATTORNEY TO BE NOTICED\nJUDITH A. O'BOYLE \nEQUAL EMPLOYMENT \nOPPORTUNITY COMMISSION \nPHILADELPHIA DISTRICT OFFICE \nTHE BOURSE BUILDING \n21 SOUTH FIFTH STREET \nSUITE 400 \nPHILADELPHIA, PA 19106-2515 \n(215) 440-2685 \nEmail: judith.oboyle@eeoc.gov \nLEAD ATTORNEY \nATTORNEY TO BE NOTICED\nIntervenor Plaintiff\nLINDA CASTANZA\nV.\nDefendant\nPARMALAT BAKERY DIVISION OF  represented by LESLIE A. LAJEWSKI \nPARMALAT NORTH AMERICA COUGHLIN DUFFY, LLP \n350 MOUNT KEMBLE AVENUE \nPO BOX 1917 \n1 of 4 6/6/2007 12:22 PM\n\nCM/ECF LIVE - U.S. District Court for the District of New Jersey - Doc... https://ecf.njd.uscourts.gov/cgi-bin/DktRpt.pl?247612078347471-L_35...\nMORRISTOWN, NJ 07962 \n(973) 631-6061 \nEmail: llajewski@coughlinduffy.com \nLEAD ATTORNEY \nATTORNEY TO BE NOTICED\nIntervenor Defendant\nPARMALAT BAKERY DIVISION OF  represented by LESLIE A. LAJEWSKI \nPARMALAT NORTH AMERICA (See above for address) \nLEAD ATTORNEY \nATTORNEY TO BE NOTICED\nMovant\nLINDA CASTANZA  represented by DAVID SAPP \nTERMINATED: 10/17/2003 BROACH & STULBERG, ESQS. \nONE PENN PLAZA \nSUITE 2016 \nNEW YORK, NY 10119 \n(212) 268-1000 \nEmail: dsapp@brostul.com \nLEAD ATTORNEY \nATTORNEY TO BE NOTICED\nDate Filed # Docket Text\n08/26/2003 1 COMPLAINT filed; jury demand FILING FEE $ wv (MD) (Entered: \n08/26/2003)\n08/26/2003 2 NOTICE of Allocation and Assignment filed. ( Newark - Judge Lifland - \nMagistrate Judge Falk) (NM) (MD) (Entered: 08/26/2003)\n08/26/2003   SUMMONS(ES) issued for PARMALAT BAKERY ( 20 Days) (Directly to \nCounsel) (MD) (Entered: 08/26/2003)\n09/03/2003 3 Notice of MOTION to intervene by LINDA CASTANZA by LINDA \nCASTANZA, Motion set for 10/27/03 on [3-1] motion ; w/cert. of serv. \n(Brief/PO Subm) (DD) (Entered: 09/03/2003)\n09/03/2003 4 AFFIDAVIT of DAVID C. SAPP w/attached exhibits A-E on behalf of LINDA \nCASTANZA Re: [3-1] motion to intervene by LINDA CASTANZA (DD) \n(Entered: 09/03/2003)\n09/24/2003 5 APPLICATION by PARMALAT BAKERY and Clerk's Order extending time to \nanswer. Answer due 10/14/03 for PARMALAT BAKERY; w/cert. of serv. (DD) \n(Entered: 09/24/2003)\n10/07/2003 6 RETURN OF SERVICE executed as to PARMALAT BAKERY 9/9/03 Answer \ndue on 9/29/03 for PARMALAT BAKERY (DD) (Entered: 10/09/2003)\n10/14/2003 7 ANSWER to Complaint by PARMALAT BAKERY; w/cert. of serv. (DD) \n(Entered: 10/15/2003)\n2 of 4 6/6/2007 12:22 PM\n\nCM/ECF LIVE - U.S. District Court for the District of New Jersey - Doc... https://ecf.njd.uscourts.gov/cgi-bin/DktRpt.pl?247612078347471-L_35...\n10/16/2003 8 LETTER-ORDER, set scheduling conference for 10:00 11/24/03; etc. ( signed by \nMagistrate Judge Mark Falk ) (NM) (DD) (Entered: 10/16/2003)\n10/17/2003 9 ORDER granting [3-1] motion to intervene by LINDA CASTANZA Linda \nCastanza is permitted to file in its entirety the Cmp. of Intervenor Pltf.( signed by \nMagistrate Judge Mark Falk ) (NM) (DD) (Entered: 10/17/2003)\n11/14/2003 10 Intervenor's COMPLAINT w/jury demand by LINDA CASTANZA against \nPARMALAT BAKERY (DD) (Entered: 11/18/2003)\n11/18/2003   SUMMONS(ES) ON INTERVENOR CMP. issued for PARMALAT BAKERY ( \n20 Days) (Mailed to Counsel) (DD) (Entered: 11/18/2003)\n11/21/2003   Deadline updated; terminating [3-2] hearing Motion set for 10/27/03 on [3-1] \nmotion (jb) (Entered: 11/21/2003)\n11/24/2003 11 ORDER, for ROBERT B. STULBERG & AMY F. SHULMAN to appear pro \nhac vice ( signed by Magistrate Judge Mark Falk ) (NM) (DD) (Entered: \n11/24/2003)\n11/24/2003 12 PRETRIAL SCHEDULING ORDER setting Amending of pleadings on 12/15/03 \nJoining of Parties 12/15/03 Discovery cutoff 3/24/03 ; Status conference 10:00 \n1/28/04 ; Settlement conference 10:00 1/28/04 ; etc. ( signed by Magistrate Judge \nMark Falk )(NM) (DD) (Entered: 12/01/2003)\n12/15/2003 13 ANSWER by PARMALAT BAKERY to [10-1] intervenor complaint; w/cert. of \nserv. (DD) (Entered: 12/17/2003)\n02/02/2004   Minute Entry for proceedings held before Judge Mark Falk : Telephone \nConference held on 2/2/2004. (ej, ) (Entered: 02/04/2004)\n02/04/2004 14 SCHEDULING ORDER: Settlement Conference set for 2/25/2004 10:30 AM in \nNewark - Courtroom 9 before Magistrate Judge Mark Falk. Status Conference set \nfor 2/25/2004 10:30 AM in Newark - Courtroom 9 before Magistrate Judge Mark \nFalk.. Signed by Judge Mark Falk on 02/04/04. (ej, ) (Entered: 02/04/2004)\n02/25/2004   Minute Entry for proceedings held before Judge Mark Falk : Settlement \nConference held on 2/25/2004, Status Conference held on 2/25/2004. (ej, ) \n(Entered: 03/01/2004)\n03/02/2004 15 ORDER DISMISSING CASE as settled, w/out costs & w/out prejudice.. Signed \nby Judge John C. Lifland on 3/2/04. (DD, ) (Entered: 03/02/2004)\n03/31/2004 16 CONSENT DECREE. . Signed by Judge John C. Lifland on 3/31/04. (DD, ) \n(Entered: 04/05/2004)\nPACER Service Center\nTransaction Receipt\n06/06/2007 13:25:13\nPACER  Client \nhs0328 eeoc \nLogin: Code:\n3 of 4 6/6/2007 12:22 PM\n\nCM/ECF LIVE - U.S. District Court for the District of New Jersey - Doc... https://ecf.njd.uscourts.gov/cgi-bin/DktRpt.pl?247612078347471-L_35...\n2:03-cv-04026-JCL-MF Start \nDocket  Search \nDescription: date: 1/1/1970 End date:\nReport Criteria:\n6/6/2007\nBillable \n2 Cost: 0.16\nPages:\n4 of 4 6/6/2007 12:22 PM",
+      "document_type_other": null,
+      "external_url": null,
+      "ecf_number": null,
+      "clearinghouse_link": "clearinghouse.net/doc/20124"
+    },
+    {
+      "date": null,
+      "date_is_estimate": false,
+      "date_not_available": false,
+      "description": null,
+      "document_source": null,
+      "document_status": null,
+      "document_type": null,
+      "order_type": null,
+      "citation_paren": null,
+      "cite_1_page": null,
+      "cite_1_reporter": null,
+      "cite_1_vol": null,
+      "cite_2_page": null,
+      "cite_2_reporter": null,
+      "cite_2_vol": null,
+      "cite_3_page": null,
+      "cite_3_reporter": null,
+      "cite_3_vol": null,
+      "citation_status": null,
+      "court": null,
+      "no_title": false,
+      "party_types": [],
+      "per_curium": false,
+      "is_core_document": true,
+      "id": 124965,
+      "file": null,
+      "title": null,
+      "text": null,
+      "document_type_other": null,
+      "external_url": null,
+      "ecf_number": null,
+      "clearinghouse_link": "clearinghouse.net/doc/124965"
+    },
+    {
+      "date": "2004-03-02",
+      "date_is_estimate": false,
+      "date_not_available": false,
+      "description": null,
+      "document_source": "PACER [Public Access to Court Electronic Records]",
+      "document_status": "Coding Complete",
+      "document_type": "Order/Opinion",
+      "order_type": "Unknown",
+      "citation_paren": null,
+      "cite_1_page": null,
+      "cite_1_reporter": null,
+      "cite_1_vol": null,
+      "cite_2_page": null,
+      "cite_2_reporter": null,
+      "cite_2_vol": null,
+      "cite_3_page": null,
+      "cite_3_reporter": null,
+      "cite_3_vol": null,
+      "citation_status": "No citation available",
+      "court": "District of New Jersey",
+      "no_title": false,
+      "party_types": [
+        "Court"
+      ],
+      "per_curium": false,
+      "is_core_document": true,
+      "id": 20140,
+      "file": "https://clearinghouse-umich-production.s3.amazonaws.com/media/doc/20140.pdf",
+      "title": "Order [Dismissing Case]",
+      "text": "Case 2:03-cv-04026-JCL-MF     Document 15      Filed 03/02/2004     Page 1 of 1\nUNITED STATES DISTRICT COURT\nDISTRICT OF NEW JERSEY\n                                                            \nEQUAL EMPLOYMENT OPPORTUNITY COMMISSION CIVIL 03-4026(JCL)\n                                                  (CLOSED)\n                 V.\n                               \nPARMALAT BAKERY DIVISION OF PARMALAT     O R D E R\nNORTH AMERICA                         \nIt appearing that it has been reported to the Court that\nthe above-captioned matter has been settled,\nIt is on this 1st   day of March            2004,\nORDERED that this action be and is hereby dismissed, without\ncosts and without prejudice to the right, upon good cause shown \nwithin  60  days,  to reopen the action if the settlement is not \nconsummated.\n/s/ JOHN C. LIFLAND, U.S.D.J. ",
+      "document_type_other": null,
+      "external_url": null,
+      "ecf_number": "15",
+      "clearinghouse_link": "clearinghouse.net/doc/20140"
+    },
+    {
+      "date": "2004-03-31",
+      "date_is_estimate": false,
+      "date_not_available": false,
+      "description": null,
+      "document_source": "PACER [Public Access to Court Electronic Records]",
+      "document_status": "Coding Complete",
+      "document_type": "Settlement Agreement",
+      "order_type": "Consent Decree",
+      "citation_paren": null,
+      "cite_1_page": null,
+      "cite_1_reporter": null,
+      "cite_1_vol": null,
+      "cite_2_page": null,
+      "cite_2_reporter": null,
+      "cite_2_vol": null,
+      "cite_3_page": null,
+      "cite_3_reporter": null,
+      "cite_3_vol": null,
+      "citation_status": "Not applicable",
+      "court": "District of New Jersey",
+      "no_title": false,
+      "party_types": [
+        "Court",
+        "Defendant",
+        "Plaintiff"
+      ],
+      "per_curium": false,
+      "is_core_document": true,
+      "id": 20146,
+      "file": "https://clearinghouse-umich-production.s3.amazonaws.com/media/doc/20146.pdf",
+      "title": "Consent Decree",
+      "text": "... \n.~- -'--\"-~~~-\nCase 2:03-cv-04026-JCL-MF     Document 16      Filed 03/31/2004     Page 1 of 5\nIl.S. Equall!:mploymen. Opportullity Commission \nPhilildell,hl. 1)1.lrkt Office \n21 S\". . lh Fim, Street, Suite 400 \nPhiladelphia, PA 1910<5-2515 \nCynthia A. I.oeke \nAttorn('y for I'lalntllI \nUNITED STATES DISTRICT cJ(:){IJlftl STATES \nFOR THE  !i~SmICT COUHT \nDISTRICT 0.1<' NEW JERSEY \nI!:QUAL EMPLOYMENT OPPORTUNITY  ) \nCOMMISSIOl'l,  ) \n) \nPlaintiff,  ) \n)  CIVIL ACTION NO. 03-4026 \nand  )  JUDGE JOHN C. LJFLAND \n)  MAGISTRATE MARK FALK \nLINDA CASTA.NZA,  ) \nPlaintiff- In tervenor,  ) \n) \nv.  ) \n) \nPARMALAT BAKERY DIVISION OF'  ) \nPARMALAT NORTH AMERICA,  ) \n) \nDefendant.  ) \nCONSENT DECREE \nThis Consent Decree is entered into between the Plaintiff, Equal Employment Opportunity \nCommission (lithe Commission\"), and the Defendant, Parmalat Bakery, DivisiOTl orPal111alat NOl1h \nAmerica (\"Defendant\"). \nOn August 26, 2003,  the Commission brought this action against Defendant under the \nprovisions of Tille VIf or the Civil Rights Act of 1964, as amended, 42 IJS.C. ~2000e ct seq, \n(\"Title VII\"), and Title 1 of the Civil Rights Act or 1991,42 U.S.c. 91981A, alleging a sexually \nhostile work environment, retaliation ,l1ul constructive discharge 011 behalf of Linda Castanza. \nThis Decree is final and hinding between the parties signatory hereto as to all issues raised \nin the COl11mission's Complaint filed in Civil Action Number 03-4026. Tn resolution of'Civil.Action \n1 \n\nCase 2:03-cv-04026-JCL-MF     Document 16      Filed 03/31/2004     Page 2 of 5\nNo. 03-4026, the parties hereby agree as follows: \nI.  Thi~ Decree is entered into in compromise to avoid the expense and inconvenience \nof litigation. It shall not constitute an adjudication or finding on the merits ofthe case and shall not \nbe constnted as an admission of liability by Defendant. The Commission does not construe this \nDecree as a delemlination that the Commission is a prevailing party and the Commission tahs no \nposition on whether Castanza is a prevailing party in this action. \n2.  The Commission is  the agency of the  United States governmcnt authorizcd  by \nCongress to irivestigate allegations of unlawful employment discrimination based upon sex, to bring \ncivil actions based upon these allegations of up lawful practices, and to seek relieffor individuals \nalTec!ed by such practices. \n3.  The partics stipulatc that,p.ursuant to 28 l).S,c. § 1331, the United States District \nCourt for New Jersey has jurisdiction over the subject  matter and  the parties in this case. \n4.  Defendant agre(;lS to comply fully with all of the provisions of Title VIl, including \nits anti-retaliation provisions. This means that Defendant wiJi 110t take action against any individual \nbecaus;: s/be ;:x;:rcised any of his or her rights under Title VII, including filing a charge, providing \ntcstimony or assistance, participating in any manner in any Title VII investigation, proceeding or \n. \n. \n,,\" \nhearing, or opposing any practice that s/he believed in good faith to he unlawful under Title VII, \n5.  Defendan( agrees (0 pay  monetary relief ill the total amount of Three IIundred \nThousand Dollars ($300,000.00) to Linda Castanza.  Defendant will issue a check to Ms. Cas(an~a \nwithin lourl\\:en (14) days of the date a fully executed  Release  has  been  received by Defendant \nfrom Ms. Castanza. The check shall be sent, postage prepaid, to Ms. Linda Castanza, c/o Broach & \nStulberg, Eleven Penn Plaza, Suite 915, New York, New York 1000 I. A copy of!he check shall be \nsent to Cynthia A. Locke, Trial Attorney, EEOC, Philadelphia District Office, The ]Jourse Building, \n2 \n\nCase 2:03-cv-04026-JCL-MF     Document 16      Filed 03/31/2004     Page 3 of 5\nSuite 400, 21 S. Fifth Street, Independence Mall Rast, Philadelphia, PA 19106. \n6.  Tn order to obtain the relief referenced in Paragraph No.5, Ms. Castanza shall  execute \na Release provided by Defendant, and lorward that Release to the Defendant. \n7.  Within ten business days oflhe filing of this Consent Decree,  Defendant shall post \nthe Notice attached to this Decree as Exhibit A at its Kearny, New Jersey racility, on the bulletin \nboards where notices are usually and customarily posted for the benefit of all employees. The Notice \nwill remain posted ror a period of 120 days. Defendant shall replace said Notice with a legible copy, \nif the Notice is defaced, removed, or malTed in any way. Within len business days of the posting of \nthe Notice, Defendant will send a copy ofthe l':Iotice, and an indication of the date and location of \nits posting, to the Commission. \n8.  Defendant agrees that a vendor approved by EEOC will conduct training on sexual \n.,,,' \nharassment and retaliation under Title VII for Defendant's managers, supervisors, and employees \nwith supervisory authority at the Kearny, New Jersey facility within 120 days of the filing or this \nDecree.  Defendant agrees  io  nolily  the  Commission of the  date  or the  training,  and  provide \ninionnalion regarding the substantive content of' the training to the Commission at least five (5) \nworking days prior to the training. \n9.  In the event of any dispute or question between the Commission and Defendant as to the \ninterpretation 01' implementation of this Decree, the parties shall attempt to resolve such question \ninformally within thirty (30) days. Ifthe parties are unable to resolve their diflt'l'cnccs, the issue shall \nbe submitted to the Comt fOT /inal decision. \n10.  The palties request that the COllrt retain jurisdiction over this Decree ihr a period of \nonc year after its filing in order to enforce its proviSions, should this become necessary. \n11.  This Decree shall be med in the United States District Court, District of New Jersey, \n3 \n\nCase 2:03-cv-04026-JCL-MF     Document 16      Filed 03/31/2004     Page 4 of 5\n12.  This case shall be and hereby is dismissed with prejudice, subject to this Court'~ \njurisdietion to enforce the provisions of this Consent Decree. \n13.  Each party to this Consent Decree shall bear their own costs and attorney's tees. \nFor Plainti IT EEOC \nEric S. Dreiband \nGeneral Counsel  eslie A. Lajewski \nGrotta, Glassman  lIoffman, P .A. \nJames L. Lee  75 Livingston Avenue \nDeputy General Counsel  Roseland, NJ  07068 \n(973) 992-4800 \nIt! )( 2# \nGwendolyn Young Reams \n22 \nAssociate Genernl Counsel  Date: \n~~.(....::\\.:::::..6 ~k-,,=\"\"':.:::.-,- c..l'1r-~l9:1-Y  I \n;11  I \nJL::::  • \nJ  'que)\"  e H. McNair \nRegional Attorney \nI!.  t2 \nQz~U  1§7'~ ~ \n,:;fudith A. O'Boyle  / \nSupervisory Trial Attor  ey \nynthia A. Loc  e \nTrial Attorney \nEEOC Philadelphia District Office \n21  S. 5th St., Suite 400 \nPhiladelphia, PA 19106 \n(215) 440-2683 \n..3: a3·olo()i \nDate: \nAPPROVED AND ~~-.-\n4 \n\nCase 2:03-cv-04026-JCL-MF     Document 16      Filed 03/31/2004     Page 5 of 5\nEXBllBIT A \nTitle VII of the Civil Rights Act of 1964 (\"Title VII\"), 42 U.S.C. Section 2000e, et seq. \nas amended,  prohibits discrimination against employees and applicants for employment based \nupon their race, color, sex, religion or national origin.  Title VII further prohibits retaliation \nagain;!t employees or applicants who avail themselves of their rights unde!' Title VII by engaging \nin prctected activities such as the filing of a charge of discrimination. \nThe Equal Employment Opportunity Commission (the \"EEOC\") is the federal agency \nthat investigates charges of discrimination and, if necessary, brings lawsuits in federal district \ncourt to enforce Title VII. \nThis notice is being posted pursuant to a Consent Decree entered between the EEOC and \nParm.ilat in EEOC y, Panna1at Bakgy. Divisj(m of North Ameri~ Civil Action No. 03-4026 \n(D. NJ). \nPannalat fully supports and will comply with Title VII in all respects. Parmalat will not \nenga!:e in any employment practice which operates to deny equal employment opportunities in \nvio1alion of Title VI1.  Furthermore, in ac.cordance with Title VU, Parmalat will not take any \nactioll against any employee or applicant for employment becau~e he or she has exercised any \nright under Title vn, including the filing of a charge of discrimination. \nThis Notice will remain posted at Parmalat's Kearny, New Jersey location for a period of \n120 cays and must not be defaced or removed. This Notice will be available for inspection by all \nempl,)yces. \nTHIS NOTICE MUST NOT BE REMOVED \nFOR A PERIOD OF 120 DAYS \nPannalat Bakery, Division ofParmalat North \nThe Equal Employment Opportunity \nAmerica \nCommission \nDate:  _____  __ \nDate:  _____   ~ \n~~ ",
+      "document_type_other": null,
+      "external_url": null,
+      "ecf_number": "16",
+      "clearinghouse_link": "clearinghouse.net/doc/20146"
+    },
+    {
+      "date": "2004-05-17",
+      "date_is_estimate": false,
+      "date_not_available": false,
+      "description": null,
+      "document_source": null,
+      "document_status": "Coding Complete",
+      "document_type": "Press Release",
+      "order_type": null,
+      "citation_paren": null,
+      "cite_1_page": null,
+      "cite_1_reporter": null,
+      "cite_1_vol": null,
+      "cite_2_page": null,
+      "cite_2_reporter": null,
+      "cite_2_vol": null,
+      "cite_3_page": null,
+      "cite_3_reporter": null,
+      "cite_3_vol": null,
+      "citation_status": "Not applicable",
+      "court": "No Court",
+      "no_title": false,
+      "party_types": [
+        "Plaintiff"
+      ],
+      "per_curium": false,
+      "is_core_document": true,
+      "id": 20133,
+      "file": "https://clearinghouse-umich-production.s3.amazonaws.com/media/doc/20133.pdf",
+      "title": "EEOC Litigation Settlements - March 2004",
+      "text": "EEOC LITIGATION SETTLEMENT REPORT - MARCH 2004 http://www.eeoc.gov/litigation/settlements/settlement03-04.html\nEEOC v. Parmalat Bakery Div. of North Am.\nNo. 03-4026 (D.N.J. March 31, 2004)\nThe Philadelphia District Office brought this Title VII action, alleging sexual harassment, retaliation and\nconstructive discharge against defendant, a New Jersey division of an international company\nheadquartered in Italy that produces and distributes snacks, bread, pasta and similar products.\nCharging party, a sales division manager and the only woman in an office of four male executives, was\nsubjected to unwelcome sexual advances, sexually explicit comments, the showing of a pornographic\nvideo, and unwelcome touching by her supervisor and other male executives during her employment\nat the New Jersey facility. Her supervisor asked her to attend sales meetings at his apartment, a\ntopless bar, and a swingers club, invitations which she refused, and required her to attend\nwork-related dinners at Hooters and a transvestite karaoke bar where the entertainment included lap\ndances and strip tease contests. While charging party initially did not complain about the harassment\nbecause she believed her supervisor and the human resources manager condoned it, she eventually\ncomplained to her supervisor about a coworker slapping her on the buttocks. In response, her\nsupervisor told her if she reported the incident, he would fire her. CP complained anyway to the vice\npresident of sales and vice president of human resources, and her supervisor instructed her peers to\nostracize her. He also threatened to suspend her, and made derogatory comments about her\nperformance and gave her a low rating. Suffering from post-traumatic stress and depression, CP took\na leave of absence and never returned.\nThe case was resolved by a consent decree that requires defendant to pay a total of $300,000 to\ncharging party. In addition, the decree provides that defendant will not retaliate against individuals\nwho engage in protected activities, and will provide training on sexual harassment and retaliation by\nan EEOC-approved vendor for its managers, supervisors, and employees at the New Jersey facility.\n1 of 1 6/6/2007 12:33 PM",
+      "document_type_other": null,
+      "external_url": null,
+      "ecf_number": null,
+      "clearinghouse_link": "clearinghouse.net/doc/20133"
+    }
+  ],
+  "document_count": 5
+}

@@ -1,0 +1,513 @@
+{
+  "case_id": 43800,
+  "fetched_at": "2025-10-22T00:38:15.388238",
+  "case_data": {
+    "attorney_orgs": [
+      "U.S. Dept. of Justice Civil Rights Division"
+    ],
+    "available_documents": [
+      "Trial Court Docket",
+      "Complaint (any)"
+    ],
+    "case_defendants": [
+      {
+        "defendant_level": null,
+        "institution": "Hale County",
+        "institution_alt_state": null,
+        "institution_city": "Hale County",
+        "institution_county": "Hale",
+        "name": "Hale County, Texas",
+        "defendant_level_other": "",
+        "is_active": true
+      },
+      {
+        "defendant_level": null,
+        "institution": "County Clerk",
+        "institution_alt_state": null,
+        "institution_city": "",
+        "institution_county": "Hale",
+        "name": "Diane Williams",
+        "defendant_level_other": "",
+        "is_active": true
+      },
+      {
+        "defendant_level": null,
+        "institution": "Hale County",
+        "institution_alt_state": null,
+        "institution_city": "",
+        "institution_county": "Hale",
+        "name": "Hale County Commissioners Court",
+        "defendant_level_other": "",
+        "is_active": true
+      }
+    ],
+    "case_ongoing": "No",
+    "case_status": "Approved",
+    "case_types": [
+      "Election/Voting Rights",
+      "Disability Rights"
+    ],
+    "cause_other": "",
+    "causes": [
+      "Voting Rights Act, section 208 (assistance for disabled persons), 52 U.S.C. § 10508 (previously 42 U.S.C. § 1973aa-6)",
+      "Voting Rights Act, section 203 (language minority provision), 52 U.S.C. § 10503  (previously 42 U.S.C. § 1973aa-1a)",
+      "Declaratory Judgment Act, 28 U.S.C. § 2201"
+    ],
+    "class_action_granted": "Not sought",
+    "class_action_sought": "No",
+    "closing_year": 2006,
+    "constitutional_clause": [],
+    "content_of_injunction": [
+      {
+        "value": "Reporting"
+      },
+      {
+        "value": "Recordkeeping"
+      },
+      {
+        "value": "Training"
+      },
+      {
+        "value": "Voting Process Changes"
+      }
+    ],
+    "court": "Northern District of Texas",
+    "custom_issues": [],
+    "defendant_payment": "",
+    "defendant_type": [
+      {
+        "value": "Jurisdiction-wide"
+      }
+    ],
+    "docket_status": "Complete as of retrieval date",
+    "facility_type": [
+      {
+        "value": "Government-run"
+      }
+    ],
+    "filing_date": "2006-02-27",
+    "filing_year": 2006,
+    "id": 43800,
+    "injunction_duration": "",
+    "issues": [
+      "Voting: Voting: Physical/Effective Access",
+      "Voting: Election administration",
+      "Voting: Voting: General & Misc."
+    ],
+    "last_checked_date": "2022-10-28T00:00:00-04:00",
+    "main_docket": {
+      "id": 56732,
+      "docket_entries": [
+        {
+          "row_number": 5,
+          "id": 10167053,
+          "entry_number": "14",
+          "date_filed": "2009-12-17T00:00:00-05:00",
+          "attachments": [],
+          "url": "https://www.courtlistener.com/docket/36472418/14/united-states-v-hale-county-texas/",
+          "recap_pdf_url": "https://www.courtlistener.com/recap/gov.uscourts.txnd.154947/gov.uscourts.txnd.154947.14.0.pdf",
+          "pacer_doc_id": "17704772153",
+          "description": "NOTICE of Expiration of Consent Decree filed by United States of America (Russ, John) (Entered: 12/17/2009)"
+        },
+        {
+          "row_number": 14,
+          "id": 9163068,
+          "entry_number": null,
+          "date_filed": "2006-05-05T00:00:00-04:00",
+          "attachments": [],
+          "url": "https://www.courtlistener.com",
+          "recap_pdf_url": null,
+          "pacer_doc_id": null,
+          "description": "Document Number Reset To 12 (egb, )"
+        },
+        {
+          "row_number": 6,
+          "id": 9163057,
+          "entry_number": "2",
+          "date_filed": "2006-02-27T00:00:00-05:00",
+          "attachments": [],
+          "url": "https://www.courtlistener.com/docket/36472418/2/united-states-v-hale-county-texas/",
+          "recap_pdf_url": null,
+          "pacer_doc_id": "17702906428",
+          "description": "CERTIFICATE OF INTERESTED PERSONS by United States of America. (cb, ) (Entered: 02/27/2006)"
+        },
+        {
+          "row_number": 7,
+          "id": 9163058,
+          "entry_number": "3",
+          "date_filed": "2006-02-27T00:00:00-05:00",
+          "attachments": [],
+          "url": "https://www.courtlistener.com/docket/36472418/3/united-states-v-hale-county-texas/",
+          "recap_pdf_url": null,
+          "pacer_doc_id": "17701222608",
+          "description": "Summons Issued as to Hale County, Texas, Diane Williams, and the Hale County Commissioners Court c/o James M. Tirey, Hale County Attorney. (cb, ) (Entered: 02/27/2006)"
+        },
+        {
+          "row_number": 8,
+          "id": 9163059,
+          "entry_number": "4",
+          "date_filed": "2006-02-27T00:00:00-05:00",
+          "attachments": [],
+          "url": "https://www.courtlistener.com/docket/36472418/4/united-states-v-hale-county-texas/",
+          "recap_pdf_url": null,
+          "pacer_doc_id": "17701222329",
+          "description": "APPLICATION FOR DESIGNATION OF A DISTRICT COURT OF THREE JUDGES by United States of America (cb, ) (Entered: 02/27/2006)"
+        },
+        {
+          "row_number": 9,
+          "id": 9163060,
+          "entry_number": "5",
+          "date_filed": "2006-02-27T00:00:00-05:00",
+          "attachments": [],
+          "url": "https://www.courtlistener.com/docket/36472418/5/united-states-v-hale-county-texas/",
+          "recap_pdf_url": null,
+          "pacer_doc_id": "17701222124",
+          "description": "ORDER DESIGNATING CASE FOR ECF - see order for specifics. (Signed by Judge Sam R Cummings on 1/3/2006) (cb, ) (Entered: 02/27/2006)"
+        },
+        {
+          "row_number": 11,
+          "id": 9163062,
+          "entry_number": "7",
+          "date_filed": "2006-03-02T00:00:00-05:00",
+          "attachments": [],
+          "url": "https://www.courtlistener.com/docket/36472418/7/united-states-v-hale-county-texas/",
+          "recap_pdf_url": null,
+          "pacer_doc_id": "17702913576",
+          "description": "ORDER granting 4 Motion FOR DESIGNATION OF A DISTRICT COURT OF THREE JUDGES. On February 27, 2006, the United States of America filed this action against Hale County Texas, et al., alleging, inter alia, violations of Section 203 of the Voting Right Acts of 1965. The United States filed an application for designation of a district court of three judges. Pursuant to 42 U.S..C 1973aa-2 and 28 U.S.C 2284, the Court requests that Cheif Judge Edith H. Jones, Fifth Circuit Court of Appeals, designate a three-judge panel to hear and determine this case. cc: Chief Judge Edith H. Jones - certified copy. (Signed by Judge Sam R Cummings on 03/02/06) (bdg, ) (Entered: 03/02/2006)"
+        },
+        {
+          "row_number": 12,
+          "id": 9163063,
+          "entry_number": "8",
+          "date_filed": "2006-03-09T00:00:00-05:00",
+          "attachments": [],
+          "url": "https://www.courtlistener.com/docket/36472418/8/united-states-v-hale-county-texas/",
+          "recap_pdf_url": null,
+          "pacer_doc_id": "17702923794",
+          "description": "WAIVER OF SERVICE Returned Executed as to Hale County, Texas. Waiver sent on 2/27/2006, answer due 4/28/2006; Diane Williams. Waiver sent on 2/27/2006, answer due 4/28/2006; Hale County Commissioners Court. Waiver sent on 2/27/2006, answer due 4/28/2006. (Frost, E) (Entered: 03/09/2006)"
+        },
+        {
+          "row_number": 13,
+          "id": 9163064,
+          "entry_number": "9",
+          "date_filed": "2006-03-16T00:00:00-05:00",
+          "attachments": [],
+          "url": "https://www.courtlistener.com/docket/36472418/9/united-states-v-hale-county-texas/",
+          "recap_pdf_url": "https://www.courtlistener.com/recap/gov.uscourts.txnd.154947/gov.uscourts.txnd.154947.9.0.pdf",
+          "pacer_doc_id": "17702979610",
+          "description": "ORDER CONSTITUTING THREE-JUDGE COURT: Having been informed by the above identified requesting district judge that this action, which has been presented to hi, is required to be heard and determined by a court composed of three judges, pursuant to the provisions of 28 U.S.C. 2284, as Chief Judge of the United States Court of Appeals for the Fifth Circuit, I hereby designate the United States circuit and district judges - Jerry E. Smith and Mary Lou Robinson as the members of the three-judge district court that is to hear and resolve this matter. This Order is not to be taken as a pre-judgment, express or implied, that this is an action to be heard exclusively by a three-judge court. That question is best answered by a three-judge court. The parties will be afforded the opportunity to brief and argue all questions as may appropriately be presented to the three-judge panel, either preliminarily or on the trial of the merits, as the court deems appropriate. (Signed by Judge Edith H Jones on 03/16/06) (bdg, ) (Entered: 03/16/2006)"
+        },
+        {
+          "row_number": 1,
+          "id": 9163065,
+          "entry_number": "10",
+          "date_filed": "2006-03-23T00:00:00-05:00",
+          "attachments": [],
+          "url": "https://www.courtlistener.com/docket/36472418/10/united-states-v-hale-county-texas/",
+          "recap_pdf_url": null,
+          "pacer_doc_id": "17702987571",
+          "description": "ORDER MODIFYING ECF STANDING ORDER: see order for specifics. (Signed by Judge Sam R Cummings on 03/22/06) (bdg, ) (Entered: 03/23/2006)"
+        },
+        {
+          "row_number": 2,
+          "id": 9163066,
+          "entry_number": "11",
+          "date_filed": "2006-04-27T00:00:00-04:00",
+          "attachments": [],
+          "url": "https://www.courtlistener.com/docket/36472418/11/united-states-v-hale-county-texas/",
+          "recap_pdf_url": "https://www.courtlistener.com/recap/gov.uscourts.txnd.154947/gov.uscourts.txnd.154947.11.0.pdf",
+          "pacer_doc_id": "17701321804",
+          "description": "JUDGMENT : This Court, having considered the United States' claim under Sections 208 and 203 of the Voting Rights Act of 1965, as amended, 42 U.S.C. 1973aa-6 and 42 U.S.C. 1973aa-la, and having determined that it has jurisdiction over this claim, has considered the terms of the Consent Decree as modified by the Court, hereby enters the relief set forth above and incorporates those terms herein. Each party shall bear its own costs and fees. (Signed by Judge Sam R Cummings, Judge Mary Lou Robinson and Judge Jerry E. Smith on 04/27/06) (bdg, ) Additional attachment(s) added on 5/5/2006 (egb, ). (Entered: 04/27/2006)"
+        },
+        {
+          "row_number": 4,
+          "id": 10167052,
+          "entry_number": "13",
+          "date_filed": "2009-12-17T00:00:00-05:00",
+          "attachments": [],
+          "url": "https://www.courtlistener.com/docket/36472418/13/united-states-v-hale-county-texas/",
+          "recap_pdf_url": null,
+          "pacer_doc_id": "17704772132",
+          "description": "NOTICE of Attorney Appearance by John Albert Russ on behalf of United States of America. (Russ, John) (Entered: 12/17/2009)"
+        },
+        {
+          "row_number": 10,
+          "id": 9163061,
+          "entry_number": "6",
+          "date_filed": "2006-03-02T00:00:00-05:00",
+          "attachments": [],
+          "url": "https://www.courtlistener.com/docket/36472418/6/united-states-v-hale-county-texas/",
+          "recap_pdf_url": null,
+          "pacer_doc_id": "17702913318",
+          "description": "Application and Order for Admission Pro Hac Vice by James M Tirey for Hale County, Texas, Hale County Commissioners Court and Diane Williams. (Signed by Judge Sam R Cummings on 03/02/06) (bdg, ) (Entered: 03/02/2006)"
+        },
+        {
+          "row_number": 3,
+          "id": 9163067,
+          "entry_number": "12",
+          "date_filed": "2006-05-05T00:00:00-04:00",
+          "attachments": [],
+          "url": "https://www.courtlistener.com/docket/36472418/12/united-states-v-hale-county-texas/",
+          "recap_pdf_url": "https://www.courtlistener.com/recap/gov.uscourts.txnd.154947/gov.uscourts.txnd.154947.12.0.pdf",
+          "pacer_doc_id": "17701322147",
+          "description": "ORDER: Plaintiff has requested that the page containing the signatures of all counsel of record (dated February 27, 2006 and submitted with the parties' Proposed Consent Decree, Judgment, and Order) be substituted in place of page 13 of the Consent Decree (Modified), Judgment, and Order filed April 27, 2006. Plaintiff has indicated that no party is opposed to the substitution. IT IS, THEREFORE, ORDERED that the page containing the signatures of all counsel of record shall be substituted as page 13 of the Consent Decree (Modified), Judgment, and Order filed April 27, 2006. (Signed by Judge Sam R Cummings on 5/5/06) (egb, ) (Entered: 05/05/2006)"
+        },
+        {
+          "row_number": 0,
+          "id": 9163056,
+          "entry_number": "1",
+          "date_filed": "2006-02-27T00:00:00-05:00",
+          "attachments": [],
+          "url": "https://www.courtlistener.com/docket/36472418/1/united-states-v-hale-county-texas/",
+          "recap_pdf_url": "https://www.courtlistener.com/recap/gov.uscourts.txnd.154947/gov.uscourts.txnd.154947.1.0.pdf",
+          "pacer_doc_id": "17701222355",
+          "description": "COMPLAINT against Hale County, Texas, Diane Williams, and the Hale County Commissioners Court filed by United States of America. (cb, ) (Entered: 02/27/2006)"
+        }
+      ],
+      "docket_case_type": "cv",
+      "docket_year": 2006,
+      "docket_filing_number": 43,
+      "is_main_docket": true,
+      "court": "Northern District of Texas",
+      "state": "Texas",
+      "docket_office_number": "5",
+      "docket_number_manual": "5:06-cv-00043",
+      "scales_html": null,
+      "recap_link": "https://www.courtlistener.com/docket/36472418/united-states-v-hale-county-texas/",
+      "is_active": true
+    },
+    "name": "United States of America v. Hale County, Texas",
+    "never_filed": false,
+    "non_docket_case_number": "",
+    "non_docket_case_number_type": null,
+    "non_docket_case_number_type_other": "",
+    "order_end_year": null,
+    "order_start_year": null,
+    "permanent_injunction": true,
+    "plaintiff_description": "United States",
+    "plaintiff_type": [
+      {
+        "value": "U.S. Dept of Justice plaintiff"
+      }
+    ],
+    "prevailing_party": "Plaintiff",
+    "pro_se_status": "No",
+    "public_interest_lawyer": "Yes",
+    "related_cases": [],
+    "relief_natures": [
+      "Injunction / Injunctive-like Settlement",
+      "Declaratory Judgment"
+    ],
+    "relief_nature_other": "Costs Generally",
+    "relief_sources": [
+      "Settlement"
+    ],
+    "settlement_agreement": [
+      "Court Approved Settlement or Consent Decree"
+    ],
+    "settlement_judgment_date": "2006-04-27",
+    "settlement_judgment_year": 2006,
+    "special_collections": [
+      "Law Firm Antiracism Alliance (LFAA) project"
+    ],
+    "special_case_type": [
+      {
+        "value": "Three-Judge District Court"
+      }
+    ],
+    "state": "Texas",
+    "summary": "<p>This lawsuit is about Hale County, Texas&rsquo;s alleged failure to allow voters with limited English proficiency to get assistance while voting.</p>\r\n<p>On February 27, 2006, the U.S. Department of Justice filed a complaint against Hale County, Texas in the U.S. District Court for the Northern District of Texas. Plaintiff alleged that Defendant (1) failed to allow English-limited and Spanish-speaking voters assistance from the person of their choice and failed to train poll workers to allow such assistance, and (2) failed to effectively provide Spanish-language election-related materials and information to English-limited, Spanish-speaking voters.&nbsp;Plaintiff sought declaratory judgment that Defendant violated sections 203 and 208 of the Voting Rights Act, 42 U.S.C. &sect;&sect; 1973aa-6 and 1973aa-1a(c) and an injunction against continued violations.</p>\r\n<p>In a Three-Judge Court, judges Sam R. Cummings (N.D. Texas), Jerry E. Smith (5th Circuit), and Mary Lou Robinson (N.D. Texas) presided over this case.</p>\r\n<p>&nbsp;On April 27, 2006, the court entered a consent decree. Via the Consent Decree, Defendant admitted to failing to fully comply with sections 203 and 208 of the Voting Rights Act and agreed to &ldquo;ensure that Spanish-speaking voters with limited English-speaking proficiency are permitted assistance from persons of the voter&rsquo;s choice,&rdquo; that all election-related information that the county disseminates in English will also be equally available in Spanish, that polling places will have Spanish-language assistance available, including election-officials who understand and can speak Spanish fluently, to train poll workers on the requirements of sections 203 and 208 of the Voting Rights Act, and to develop and maintain a bilingual election program. Consent Decree, <em>United States v. Hale County, Texas</em>, No. 5:06-cv-00043 (N.D. Texas Apr. 27, 2006).</p>\r\n<p>On December 17, 2009, Plaintiff filed a notice to inform the court that it would not seek to extend the consent decree. The consent decree accordingly expired on December 31, 2009.&nbsp;</p>\r\n<p>This case is now closed.&nbsp;</p>",
+    "summary_published_date": "2025-02-10T16:42:14.267736-05:00",
+    "summary_short": "In 2006, the United States filed this lawsuit against Hale County, Texas in the U.S. District Court for the Northern District of Texas. The United States alleged that Hale County failed to allow Spanish-speaking voters with limited English proficiency to obtain assistance from a person of their choice and failed to provide election-related materials in Spanish, in violation of Sections 208 and 203 of the Voting Rights Act, respectively. The parties resolved these allegations via a Consent Decree which permanently enjoined Hale County from continuing to violate the Voting Rights Act and required the county to implement procedures that would safeguard Spanish-speakers’ rights under the act. Finding that Hale County no longer needed supervision provided for by the Consent Decree, the United States allowed it to expire on December 31, 2009.",
+    "summary_tiny": null,
+    "terminating_date": "2006-04-27",
+    "clearinghouse_link": "clearinghouse.net/case/43800",
+    "is_active": true,
+    "case_documents_url": "https://clearinghouse.net/api/v2/documents/?case=43800",
+    "case_dockets_url": "https://clearinghouse.net/api/v2/dockets/?case=43800",
+    "case_resources_url": "https://clearinghouse.net/api/v2/resources/?case=43800"
+  },
+  "documents": [
+    {
+      "date": "2006-02-27",
+      "date_is_estimate": false,
+      "date_not_available": false,
+      "description": "",
+      "document_source": "RECAP",
+      "document_status": "Coding Complete, but not for Public Display",
+      "document_type": "Complaint",
+      "order_type": null,
+      "citation_paren": null,
+      "cite_1_page": null,
+      "cite_1_reporter": null,
+      "cite_1_vol": null,
+      "cite_2_page": null,
+      "cite_2_reporter": null,
+      "cite_2_vol": null,
+      "cite_3_page": null,
+      "cite_3_reporter": null,
+      "cite_3_vol": null,
+      "citation_status": "Not applicable",
+      "court": "Northern District of Texas",
+      "no_title": false,
+      "party_types": [
+        "Plaintiff"
+      ],
+      "per_curium": false,
+      "is_core_document": true,
+      "id": 153100,
+      "file": "https://clearinghouse-umich-production.s3.amazonaws.com/media/doc/153100.pdf",
+      "title": "Complaint",
+      "text": "Case 5:06-cv-00043-C     Document 1     Filed 02/27/06      Page 1 of 8     PageID 1\n\nCase 5:06-cv-00043-C     Document 1     Filed 02/27/06      Page 2 of 8     PageID 2\n\nCase 5:06-cv-00043-C     Document 1     Filed 02/27/06      Page 3 of 8     PageID 3\n\nCase 5:06-cv-00043-C     Document 1     Filed 02/27/06      Page 4 of 8     PageID 4\n\nCase 5:06-cv-00043-C     Document 1     Filed 02/27/06      Page 5 of 8     PageID 5\n\nCase 5:06-cv-00043-C     Document 1     Filed 02/27/06      Page 6 of 8     PageID 6\n\nCase 5:06-cv-00043-C     Document 1     Filed 02/27/06      Page 7 of 8     PageID 7\n\nCase 5:06-cv-00043-C     Document 1     Filed 02/27/06      Page 8 of 8     PageID 8",
+      "document_type_other": null,
+      "external_url": "",
+      "ecf_number": "1",
+      "clearinghouse_link": "clearinghouse.net/doc/153100"
+    },
+    {
+      "date": "2006-03-16",
+      "date_is_estimate": false,
+      "date_not_available": false,
+      "description": "",
+      "document_source": "RECAP",
+      "document_status": "Coding Complete, but not for Public Display",
+      "document_type": "Order/Opinion",
+      "order_type": "Non-Decree",
+      "citation_paren": null,
+      "cite_1_page": null,
+      "cite_1_reporter": null,
+      "cite_1_vol": null,
+      "cite_2_page": null,
+      "cite_2_reporter": null,
+      "cite_2_vol": null,
+      "cite_3_page": null,
+      "cite_3_reporter": null,
+      "cite_3_vol": null,
+      "citation_status": "No citation available",
+      "court": "Northern District of Texas",
+      "no_title": false,
+      "party_types": [
+        "Court"
+      ],
+      "per_curium": false,
+      "is_core_document": true,
+      "id": 153101,
+      "file": "https://clearinghouse-umich-production.s3.amazonaws.com/media/doc/153101.pdf",
+      "title": "Order Constituting Three-Judge Court",
+      "text": "Case 5:06-cv-00043-C     Document 9     Filed 03/16/06      Page 1 of 2     PageID 28\n\nCase 5:06-cv-00043-C     Document 9     Filed 03/16/06      Page 2 of 2     PageID 29",
+      "document_type_other": null,
+      "external_url": "",
+      "ecf_number": "9",
+      "clearinghouse_link": "clearinghouse.net/doc/153101"
+    },
+    {
+      "date": "2009-12-17",
+      "date_is_estimate": false,
+      "date_not_available": false,
+      "description": "",
+      "document_source": "RECAP",
+      "document_status": "Coding Complete",
+      "document_type": "Docket",
+      "order_type": null,
+      "citation_paren": null,
+      "cite_1_page": null,
+      "cite_1_reporter": null,
+      "cite_1_vol": null,
+      "cite_2_page": null,
+      "cite_2_reporter": null,
+      "cite_2_vol": null,
+      "cite_3_page": null,
+      "cite_3_reporter": null,
+      "cite_3_vol": null,
+      "citation_status": "Not applicable",
+      "court": "Northern District of Texas",
+      "no_title": false,
+      "party_types": [
+        "Court"
+      ],
+      "per_curium": false,
+      "is_core_document": true,
+      "id": 153134,
+      "file": "https://clearinghouse-umich-production.s3.amazonaws.com/media/doc/153134.pdf",
+      "title": "Docket",
+      "text": "\n\n\n\n\n\n",
+      "document_type_other": null,
+      "external_url": "",
+      "ecf_number": "",
+      "clearinghouse_link": "clearinghouse.net/doc/153134"
+    },
+    {
+      "date": "2006-04-27",
+      "date_is_estimate": false,
+      "date_not_available": false,
+      "description": "",
+      "document_source": "RECAP",
+      "document_status": "Coding Complete, but not for Public Display",
+      "document_type": "Order/Opinion",
+      "order_type": "Consent Decree",
+      "citation_paren": null,
+      "cite_1_page": null,
+      "cite_1_reporter": null,
+      "cite_1_vol": null,
+      "cite_2_page": null,
+      "cite_2_reporter": null,
+      "cite_2_vol": null,
+      "cite_3_page": null,
+      "cite_3_reporter": null,
+      "cite_3_vol": null,
+      "citation_status": "No citation available",
+      "court": "Northern District of Texas",
+      "no_title": false,
+      "party_types": [
+        "Defendant",
+        "Court",
+        "Plaintiff"
+      ],
+      "per_curium": false,
+      "is_core_document": true,
+      "id": 153102,
+      "file": "https://clearinghouse-umich-production.s3.amazonaws.com/media/doc/153102.pdf",
+      "title": "Consent Decree (Modified), Judgment, and Order",
+      "text": "Case 5:06-cv-00043-C     Document 11     Filed 04/27/06      Page 1 of 14     PageID 31\n\nCase 5:06-cv-00043-C     Document 11     Filed 04/27/06      Page 2 of 14     PageID 32\n\nCase 5:06-cv-00043-C     Document 11     Filed 04/27/06      Page 3 of 14     PageID 33\n\nCase 5:06-cv-00043-C     Document 11     Filed 04/27/06      Page 4 of 14     PageID 34\n\nCase 5:06-cv-00043-C     Document 11     Filed 04/27/06      Page 5 of 14     PageID 35\n\nCase 5:06-cv-00043-C     Document 11     Filed 04/27/06      Page 6 of 14     PageID 36\n\nCase 5:06-cv-00043-C     Document 11     Filed 04/27/06      Page 7 of 14     PageID 37\n\nCase 5:06-cv-00043-C     Document 11     Filed 04/27/06      Page 8 of 14     PageID 38\n\nCase 5:06-cv-00043-C     Document 11     Filed 04/27/06      Page 9 of 14     PageID 39\n\nCase 5:06-cv-00043-C     Document 11     Filed 04/27/06      Page 10 of 14     PageID 40\n\nCase 5:06-cv-00043-C     Document 11     Filed 04/27/06      Page 11 of 14     PageID 41\n\nCase 5:06-cv-00043-C     Document 11     Filed 04/27/06      Page 12 of 14     PageID 42\n\nCase 5:06-cv-00043-C     Document 11     Filed 04/27/06      Page 13 of 14     PageID 43\n\nCase 5:06-cv-00043-C     Document 11     Filed 04/27/06      Page 14 of 14     PageID 44",
+      "document_type_other": null,
+      "external_url": "",
+      "ecf_number": "11",
+      "clearinghouse_link": "clearinghouse.net/doc/153102"
+    },
+    {
+      "date": null,
+      "date_is_estimate": false,
+      "date_not_available": false,
+      "description": null,
+      "document_source": null,
+      "document_status": null,
+      "document_type": null,
+      "order_type": null,
+      "citation_paren": null,
+      "cite_1_page": null,
+      "cite_1_reporter": null,
+      "cite_1_vol": null,
+      "cite_2_page": null,
+      "cite_2_reporter": null,
+      "cite_2_vol": null,
+      "cite_3_page": null,
+      "cite_3_reporter": null,
+      "cite_3_vol": null,
+      "citation_status": null,
+      "court": null,
+      "no_title": false,
+      "party_types": [],
+      "per_curium": false,
+      "is_core_document": true,
+      "id": 134725,
+      "file": null,
+      "title": null,
+      "text": null,
+      "document_type_other": null,
+      "external_url": null,
+      "ecf_number": null,
+      "clearinghouse_link": "clearinghouse.net/doc/134725"
+    }
+  ],
+  "document_count": 5
+}

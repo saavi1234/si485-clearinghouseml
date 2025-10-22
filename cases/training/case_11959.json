@@ -1,0 +1,562 @@
+{
+  "case_id": 11959,
+  "fetched_at": "2025-10-22T00:16:59.381036",
+  "case_data": {
+    "attorney_orgs": [
+      "U.S. Dept. of Justice Civil Rights Division"
+    ],
+    "available_documents": [
+      "Trial Court Docket",
+      "Complaint (any)",
+      "Monetary Relief",
+      "Injunctive (or Injunctive-like) Relief"
+    ],
+    "case_defendants": [
+      {
+        "defendant_level": null,
+        "institution": "",
+        "institution_alt_state": null,
+        "institution_city": "",
+        "institution_county": null,
+        "name": "AIG Federal Savings Bank",
+        "defendant_level_other": "",
+        "is_active": true
+      }
+    ],
+    "case_ongoing": "No reason to think so",
+    "case_status": "Approved",
+    "case_types": [
+      "Fair Housing/Lending/Insurance"
+    ],
+    "cause_other": "",
+    "causes": [
+      "Fair Housing Act/Fair Housing Amendments Act (FHAA), 42 U.S.C. §§ 3601 et seq.",
+      "Equal Credit Opportunity Act (ECOA), 15 U.S.C. § 1691"
+    ],
+    "class_action_granted": "Not sought",
+    "class_action_sought": "No",
+    "closing_year": 2016,
+    "constitutional_clause": [],
+    "content_of_injunction": [
+      {
+        "value": "Discrimination Prohibition"
+      },
+      {
+        "value": "Develop anti-discrimination policy"
+      },
+      {
+        "value": "Reporting"
+      },
+      {
+        "value": "Monitoring"
+      }
+    ],
+    "court": "District of Delaware",
+    "custom_issues": [],
+    "defendant_payment": "$7.1 million",
+    "defendant_type": [
+      {
+        "value": "Bank or credit provider"
+      }
+    ],
+    "docket_status": "Complete as of retrieval date",
+    "facility_type": [],
+    "filing_date": "2010-03-04",
+    "filing_year": 2010,
+    "id": 11959,
+    "injunction_duration": "36",
+    "issues": [
+      "Discrimination Basis: Race discrimination",
+      "Affected Race(s): Black",
+      "Discrimination Area: Lending",
+      "General/Misc.: Predatory lending"
+    ],
+    "last_checked_date": "2016-12-06T00:00:00-05:00",
+    "main_docket": {
+      "id": 31238,
+      "docket_entries": [
+        {
+          "row_number": 0,
+          "id": 1361571,
+          "entry_number": "1",
+          "date_filed": "2010-03-04T00:00:00-05:00",
+          "attachments": null,
+          "url": "https://ecf.ded.uscourts.gov/doc1/04301072590?caseid=43773&de_seq_num=7&pdf_header=1&pdf_toggle_possible=1",
+          "recap_pdf_url": null,
+          "pacer_doc_id": null,
+          "description": "COMPLAINT filed against AIG Federal Savings Bank, Wilmington Finance Inc. − (Filing fee $ 350.) − filed by USA. (Attachments: # 1 Civil Cover Sheet)(els) (Entered: 03/05/2010)"
+        },
+        {
+          "row_number": 1,
+          "id": 1361572,
+          "entry_number": "2",
+          "date_filed": "2010-03-04T00:00:00-05:00",
+          "attachments": null,
+          "url": "https://ecf.ded.uscourts.gov/doc1/04311072594?caseid=43773&de_seq_num=9&pdf_header=1&pdf_toggle_possible=1",
+          "recap_pdf_url": null,
+          "pacer_doc_id": null,
+          "description": "Notice, Consent and Referral forms re: U.S. Magistrate Judge jurisdiction (els) (Entered: 03/05/2010)"
+        },
+        {
+          "row_number": 2,
+          "id": 1361573,
+          "entry_number": null,
+          "date_filed": "2010-03-04T00:00:00-05:00",
+          "attachments": [],
+          "url": "nan",
+          "recap_pdf_url": null,
+          "pacer_doc_id": null,
+          "description": "No Summons Issued (els) (Entered: 03/05/2010)"
+        },
+        {
+          "row_number": 3,
+          "id": 1361574,
+          "entry_number": "3",
+          "date_filed": "2010-03-04T00:00:00-05:00",
+          "attachments": null,
+          "url": "https://ecf.ded.uscourts.gov/doc1/04301072607?caseid=43773&de_seq_num=13&pdf_header=1&pdf_toggle_possible=1",
+          "recap_pdf_url": null,
+          "pacer_doc_id": null,
+          "description": "UNOPPOSED MOTION Consent Order − filed by USA. (Attachments: # 1 Text of Proposed Order)(els) (Entered: 03/05/2010)"
+        },
+        {
+          "row_number": 4,
+          "id": 1361575,
+          "entry_number": null,
+          "date_filed": "2010-03-10T00:00:00-05:00",
+          "attachments": [],
+          "url": "nan",
+          "recap_pdf_url": null,
+          "pacer_doc_id": null,
+          "description": "Case assigned to Judge Joseph J. Farnan, Jr. Please include the initials of the Judge (JJF) after the case number on all documents filed. (rjb) (Entered: 03/10/2010)"
+        },
+        {
+          "row_number": 5,
+          "id": 1361576,
+          "entry_number": "4",
+          "date_filed": "2010-03-19T00:00:00-04:00",
+          "attachments": null,
+          "url": "https://ecf.ded.uscourts.gov/doc1/04311084547?caseid=43773&de_seq_num=18&pdf_header=1&pdf_toggle_possible=1",
+          "recap_pdf_url": null,
+          "pacer_doc_id": null,
+          "description": "ORDER Granting 3 Unopposed MOTION for Entry of Consent Order filed by USA. Signed by Judge Joseph J. Farnan, Jr. on 3/19/2010. (nms) (Entered: 03/22/2010)"
+        },
+        {
+          "row_number": 6,
+          "id": 1361577,
+          "entry_number": "5",
+          "date_filed": "2011-07-05T00:00:00-04:00",
+          "attachments": null,
+          "url": "https://ecf.ded.uscourts.gov/doc1/04301416094?caseid=43773&de_seq_num=23&pdf_header=1&pdf_toggle_possible=1",
+          "recap_pdf_url": null,
+          "pacer_doc_id": null,
+          "description": "JOINT Motion for Entry of Proposed Order − by USA. (Attachments: # 1 Proposed Order)(Griffin, Howard) Modified on 7/6/2011 (nms). (Main Document 5 replaced on 7/6/2011) (rwc). (Entered: 07/05/2011)"
+        },
+        {
+          "row_number": 8,
+          "id": 1361579,
+          "entry_number": null,
+          "date_filed": "2011-07-06T00:00:00-04:00",
+          "attachments": [],
+          "url": "nan",
+          "recap_pdf_url": null,
+          "pacer_doc_id": null,
+          "description": "Case Reassigned to Judge Leonard P. Stark. Please include the initials of the Judge (LPS) after the case number on all documents filed. (rjb) (Entered: 07/06/2011)"
+        },
+        {
+          "row_number": 9,
+          "id": 1361580,
+          "entry_number": "6",
+          "date_filed": "2011-07-07T00:00:00-04:00",
+          "attachments": null,
+          "url": "https://ecf.ded.uscourts.gov/doc1/04311419106?caseid=43773&de_seq_num=30&pdf_header=1&pdf_toggle_possible=1",
+          "recap_pdf_url": null,
+          "pacer_doc_id": null,
+          "description": "DISBURSEMENT ORDER −− granting 5 Joint MOTION for Entry of Disbursement Order. Signed by Judge Leonard P. Stark on 7/7/11. (ntl) (Entered: 07/08/2011)"
+        },
+        {
+          "row_number": 7,
+          "id": 1361578,
+          "entry_number": null,
+          "date_filed": "2011-07-06T00:00:00-04:00",
+          "attachments": [],
+          "url": "nan",
+          "recap_pdf_url": null,
+          "pacer_doc_id": null,
+          "description": "CORRECTING ENTRY: Replaced DI# 5 with corrected pdf document per request of counsel. (rwc) (Entered: 07/06/2011)"
+        },
+        {
+          "row_number": 2,
+          "id": 2551343,
+          "entry_number": "3",
+          "date_filed": "2010-03-04T01:00:00-05:00",
+          "attachments": [],
+          "url": "https://www.courtlistener.com/docket/4219150/3/united-states-v-aig-federal-savings-bank/",
+          "recap_pdf_url": null,
+          "pacer_doc_id": "04301072607",
+          "description": "UNOPPOSED MOTION Consent Order - filed by USA. (Attachments: # 1 Text of Proposed Order)(els) (Entered: 03/05/2010)"
+        },
+        {
+          "row_number": 3,
+          "id": 2551344,
+          "entry_number": "4",
+          "date_filed": "2010-03-19T01:00:00-04:00",
+          "attachments": [],
+          "url": "https://www.courtlistener.com/docket/4219150/4/united-states-v-aig-federal-savings-bank/",
+          "recap_pdf_url": null,
+          "pacer_doc_id": "04301084547",
+          "description": "ORDER Granting 3 Unopposed MOTION for Entry of Consent Order filed by USA. Signed by Judge Joseph J. Farnan, Jr. on 3/19/2010. (nms) (Entered: 03/22/2010)"
+        },
+        {
+          "row_number": 4,
+          "id": 2551345,
+          "entry_number": "5",
+          "date_filed": "2011-07-05T01:00:00-04:00",
+          "attachments": [],
+          "url": "https://www.courtlistener.com/docket/4219150/5/united-states-v-aig-federal-savings-bank/",
+          "recap_pdf_url": null,
+          "pacer_doc_id": "04301416094",
+          "description": "JOINT Motion for Entry of Proposed Order - by USA. (Attachments: # 1 Proposed Order)(Griffin, Howard) Modified on 7/6/2011 (nms). (Main Document 5 replaced on 7/6/2011) (rwc). (Entered: 07/05/2011)"
+        },
+        {
+          "row_number": 10,
+          "id": 9502732,
+          "entry_number": "6",
+          "date_filed": "2011-07-07T00:00:00-04:00",
+          "attachments": [],
+          "url": "https://www.courtlistener.com/docket/4219150/6/united-states-v-aig-federal-savings-bank/",
+          "recap_pdf_url": null,
+          "pacer_doc_id": "04301419106",
+          "description": "DISBURSEMENT ORDER -- granting 5 Joint MOTION for Entry of Disbursement Order. Signed by Judge Leonard P. Stark on 7/7/11. (ntl) (Entered: 07/08/2011)"
+        },
+        {
+          "row_number": 0,
+          "id": 2551341,
+          "entry_number": "1",
+          "date_filed": "2010-03-04T01:00:00-05:00",
+          "attachments": [
+            {
+              "recap_id": 3348493,
+              "pacer_url": "https://ecf.ded.uscourts.gov/doc1/04301072591?caseid=43773",
+              "description": "Civil Cover Sheet",
+              "attachment_number": 1
+            }
+          ],
+          "url": "https://www.courtlistener.com/docket/4219150/1/united-states-v-aig-federal-savings-bank/",
+          "recap_pdf_url": "https://www.courtlistener.com/recap/gov.uscourts.ded.43773.1.0.pdf",
+          "pacer_doc_id": "04301072590",
+          "description": "COMPLAINT filed against AIG Federal Savings Bank, Wilmington Finance Inc. - (Filing fee $ 350.) - filed by USA. (Attachments: # 1 Civil Cover Sheet)(els) (Entered: 03/05/2010)"
+        },
+        {
+          "row_number": 11,
+          "id": 9502733,
+          "entry_number": "7",
+          "date_filed": "2016-11-17T00:00:00-05:00",
+          "attachments": [],
+          "url": "https://www.courtlistener.com/docket/4219150/7/united-states-v-aig-federal-savings-bank/",
+          "recap_pdf_url": "https://www.courtlistener.com/recap/gov.uscourts.ded.43773/gov.uscourts.ded.43773.7.0.pdf",
+          "pacer_doc_id": "04303410437",
+          "description": "Reopen Case"
+        },
+        {
+          "row_number": 12,
+          "id": 9502734,
+          "entry_number": "8",
+          "date_filed": "2016-12-06T00:00:00-05:00",
+          "attachments": [],
+          "url": "https://www.courtlistener.com/docket/4219150/8/united-states-v-aig-federal-savings-bank/",
+          "recap_pdf_url": "https://www.courtlistener.com/recap/gov.uscourts.ded.43773/gov.uscourts.ded.43773.8.0.pdf",
+          "pacer_doc_id": "04303423906",
+          "description": "Order"
+        },
+        {
+          "row_number": 1,
+          "id": 2551342,
+          "entry_number": "2",
+          "date_filed": "2010-03-04T01:00:00-05:00",
+          "attachments": [],
+          "url": "https://www.courtlistener.com/docket/4219150/2/united-states-v-aig-federal-savings-bank/",
+          "recap_pdf_url": null,
+          "pacer_doc_id": "04301072594",
+          "description": "Notice, Consent and Referral forms re: U.S. Magistrate Judge jurisdiction (els) (Entered: 03/05/2010)"
+        }
+      ],
+      "docket_case_type": "cv",
+      "docket_year": 2010,
+      "docket_filing_number": 178,
+      "is_main_docket": true,
+      "court": "District of Delaware",
+      "state": "Delaware",
+      "docket_office_number": "1",
+      "docket_number_manual": "1:10-cv-00178-JJF",
+      "scales_html": "https://clearinghouse-umich-production.s3.amazonaws.com/media/docket-html/ded--1-10-cv-00178.html",
+      "recap_link": "https://www.courtlistener.com/docket/4219150/united-states-v-aig-federal-savings-bank/",
+      "is_active": true
+    },
+    "name": "United States v. AIG Federal Savings Bank",
+    "never_filed": false,
+    "non_docket_case_number": "",
+    "non_docket_case_number_type": null,
+    "non_docket_case_number_type_other": "",
+    "order_end_year": 2013,
+    "order_start_year": 2010,
+    "permanent_injunction": false,
+    "plaintiff_description": "The United States of America on behalf of African-American borrowers affected by AIG's discriminatory lending practices",
+    "plaintiff_type": [
+      {
+        "value": "U.S. Dept of Justice plaintiff"
+      }
+    ],
+    "prevailing_party": "Plaintiff",
+    "pro_se_status": "No",
+    "public_interest_lawyer": "Yes",
+    "related_cases": [],
+    "relief_natures": [
+      "Injunction / Injunctive-like Settlement",
+      "Damages"
+    ],
+    "relief_nature_other": "",
+    "relief_sources": [
+      "Settlement"
+    ],
+    "settlement_agreement": [
+      "Court Approved Settlement or Consent Decree"
+    ],
+    "settlement_judgment_date": null,
+    "settlement_judgment_year": null,
+    "special_collections": [
+      "Multi-LexSum (in sample)"
+    ],
+    "special_case_type": [],
+    "state": "Delaware",
+    "summary": "<p>On March 4, 2010, the United States of America filed this lawsuit under the Fair Housing and Equal Credit Opportunity Acts against AIG Federal Savings Bank in the United States District Court, District of Delaware. The plaintiff, represented by attorneys from the U.S. Department of Justice and the U.S. Attorney's office asked the court for declaratory, injunctive, and monetary relief, claiming that AlG had engaged in a pattern or practice of discrimination on the basis of race. Specifically, the U.S. claimed that from July 2003 to May 2006, black borrowers nationwide were charged broker fees 20 basis points higher, on average, than the broker fees charged to white borrowers.</p>\r\n<p>On March 19, 2010, the parties entered into a consent decree in which the bank agreed to: 1) refrain from engaging in any act or practice in wholesale home mortgage lending that discriminates on the basis of race or color; 2) maintain during the period of the order annual fair lending training; 3) develop and implement specific, nonracial standards for the assessment of direct broker fees on residential real estate-related loans; 4) post and prominently display in each location where loan applications are received by the lender a notice of nondiscrimination; 5) require brokers to make certain disclosures to applicants; 6) participate in a monitoring program to ensure compliance with the provisions of the consent decree; 7) provide a minimum of $1 million to certain organizations to provide credit counseling, financial literacy; and other related educational programs to African-American borrowers; 8) provide employees with equal credit opportunity training; and 9) pay $6.1 million in damages to those affected by AIG's discriminatory lending practices.</p>\r\n<p>On July 7, 2011, the Court (Judge Leonard P. Stark) entered an order for distribution of the funds remaining in the settlement fund ($1,268,372.92) among the National Urban League, Operation HOPE and the American Financial Services Association Education Foundation.</p>\r\n<p>In March 2013, the Court's authority to enforce the requirements of the consent order expired. On November 17, 2016, the defendant filed a motion to reopen the case for the purpose of entering an order of dismissal with prejudice, as the terms of the consent order had expired and the order had mandated entry of dismissal with prejudice of the action at that time. On December 6, 2016, the court reopened the case and dismissed it with prejudice. The case is now closed.&nbsp;</p>",
+    "summary_published_date": "2024-12-30T09:36:49.152313-05:00",
+    "summary_short": "The United States of America filed a lawsuit under the Fair Housing and Equal Credit Opportunity Acts against AIG Federal Savings Bank, claiming that AlG had engaged in a pattern or practice of discrimination on the basis of race. Specifically, the U.S. claimed that from July 2003 to May 2006, black borrowers nationwide were charged higher broker fees than white borrowers. \r\n\r\nThe parties entered into a consent decree in which the lender agreed to implement policies designed to aid in the prevention of racial discrimination, to provide monetary relief to the affected parties, and to assist in funding financial education programs. This case is ongoing. In December 2016, in response to defendant's motion and the expiration of the terms of the consent order, the court reopened the case and dismissed it with prejudice.",
+    "summary_tiny": null,
+    "terminating_date": "2016-12-05",
+    "clearinghouse_link": "clearinghouse.net/case/11959",
+    "is_active": true,
+    "case_documents_url": "https://clearinghouse.net/api/v2/documents/?case=11959",
+    "case_dockets_url": "https://clearinghouse.net/api/v2/dockets/?case=11959",
+    "case_resources_url": "https://clearinghouse.net/api/v2/resources/?case=11959"
+  },
+  "documents": [
+    {
+      "date": "2011-07-07",
+      "date_is_estimate": false,
+      "date_not_available": false,
+      "description": null,
+      "document_source": "PACER [Public Access to Court Electronic Records]",
+      "document_status": "Coding Complete",
+      "document_type": "Order/Opinion",
+      "order_type": "Non-Decree",
+      "citation_paren": null,
+      "cite_1_page": null,
+      "cite_1_reporter": null,
+      "cite_1_vol": null,
+      "cite_2_page": null,
+      "cite_2_reporter": null,
+      "cite_2_vol": null,
+      "cite_3_page": null,
+      "cite_3_reporter": null,
+      "cite_3_vol": null,
+      "citation_status": "No citation available",
+      "court": "District of Delaware",
+      "no_title": false,
+      "party_types": [
+        "Court"
+      ],
+      "per_curium": false,
+      "is_core_document": true,
+      "id": 81264,
+      "file": "https://clearinghouse-umich-production.s3.amazonaws.com/media/doc/81264.pdf",
+      "title": "Disbursement Order",
+      "text": "I.   \\ \n\nCase 1:10-cv-00178-LPS   Document 6   Filed 07/07/11   Page \"1  of 2 PageID #: 71\nCase 1: 10-cv-00178-LPS  Document 5-1  Filed 07/05/11  Page 1 of 2 PagelD #: 63 \ni \nI \nUNITED STATES DISTRICT COURT \n\nFOR THE DISTRICT OF DELAWARE \n\nUNITED STATES OF AMERICA,  ) \n\n) \n\nPlaintiff,  ) \n\n) \n\nv.  )  Civil Action No. 1O-cv-178 \n) \nAIG FEDERAL SAVINGS BANK and  ) \nWILMINGTON FINANCE, INC.,  ) \n) \n\nDefendants.  ) \n\n) \nDISBURSEMENT ORDER \n1.  On March 22, 20 I 0, this Court entered a Consent Order between Plaintiff United States \nand Defendants AIG Federal Savings Bank and Wilmington Finance, Inc. The Consent Order \nresolved all claims set forth  in the United States'  Complaint against the Defendants in this \nmatter. \n2.  Paragraph 10 of the Consent Order mandates that the Defendants must provide at least \n$1,000,000 to qualified organization(s) to provide credit counseling, financial literacy, or other \nrelated educational programs targeted at African-American borrowers.  It further provides that if \nmore than $1,000,000 remains in the settlement fund after distribution of moneys to affected \nborrowers, that excess will also go to such organizations. \n3.  Paragraph 10 of the Consent Order also requires that Defendants consult with and obtain \nthe non-objection of the United States in selecting the recipient(s) of these funds. The parties \nmust also obtain the Court's approval prior to the distribution of the funds. \n4.  The parties informed the Court that $1,268,372.93 will be left in the settlement fund.  The \nDefendants  have  selected  the  National  Urban  League,  Operation  HOPE  and  the  American \n\nCase 1:10-cv-00178-LPS   Document 6   Filed 07/07/11   Page 2 of 2 PageID #: 72\nCase 1:10 -cv-00178-LPS  Document 5-1  Filed 07/05/11  Page 2 of 2 PagelD #: 64 \nFinancial Services Association Education Foundation (AFSAEF) to receive those funds.  The \nUnited States does not object to the selection of these organizations. \n5.  The National Urban League will receive $422,790.97. \n6.  Operation HOPE will receive $422,790.98. \n7.  AFSAEF will receive $422,790.98. \n8.  The Court hereby approves the selection of these charities and approves the disbursement \nof the above-referenced funds. \n9.  The Defendants are hereby ordered to disburse the funds required by Paragraph 10 to the \nNational Urban League, Operation Hope, and AFSAEF, in the amounts reflected above within \n30 days of the issuance of this order. \nIT IS SO ORDERED: \n'1 \n{~y ofJ\nu \\\nThis  ,2011. \nUNITED  TATES DISTRICT COURT JUDGE \n\n2 \n",
+      "document_type_other": "",
+      "external_url": "",
+      "ecf_number": "6",
+      "clearinghouse_link": "clearinghouse.net/doc/81264"
+    },
+    {
+      "date": "2011-07-07",
+      "date_is_estimate": false,
+      "date_not_available": false,
+      "description": null,
+      "document_source": "PACER [Public Access to Court Electronic Records]",
+      "document_status": "Approved",
+      "document_type": "Docket",
+      "order_type": null,
+      "citation_paren": null,
+      "cite_1_page": null,
+      "cite_1_reporter": null,
+      "cite_1_vol": null,
+      "cite_2_page": null,
+      "cite_2_reporter": null,
+      "cite_2_vol": null,
+      "cite_3_page": null,
+      "cite_3_reporter": null,
+      "cite_3_vol": null,
+      "citation_status": "Not applicable",
+      "court": "District of Delaware",
+      "no_title": false,
+      "party_types": [
+        "Court"
+      ],
+      "per_curium": false,
+      "is_core_document": true,
+      "id": 41022,
+      "file": "https://clearinghouse-umich-production.s3.amazonaws.com/media/doc/41022.pdf",
+      "title": "Docket",
+      "text": "Case: 1:10-cv-00178-LPS   As of: 07/30/2012 02:18 PM EDT   1 of 2\nCLOSED\nU.S. District Court\nDistrict of Delaware (Wilmington)\nCIVIL DOCKET FOR CASE #: 1:10−cv−00178−LPS\nUSA v. AIG Federal Savings Bank et al Date Filed: 03/04/2010\nAssigned to: Judge Leonard P. Stark Date Terminated: 03/19/2010\nCause: 42:405 Fair Housing Act Jury Demand: None\nNature of Suit: 443 Civil Rights:\nAccommodations\nJurisdiction: U.S. Government Plaintiff\nPlaintiff\nUSA represented by Howard R. Griffin\nU.S. Department of Justice\nCivil Rights Division\n950 Pennsylvania Avenue NW, G Street\nWashington, DC 20530\n202−514−4741\nFax: 202−514−1116\nEmail: howard.r.griffin@usdoj.gov\nLEAD ATTORNEY\nATTORNEY TO BE NOTICED\nShannon Thee Hanson\nU.S. Attorney's Office\nThe Nemours Building\n1007 Orange Street, Suite 700\nP.O. Box 2046\nWilmington, DE 19899−2046\n(302) 573−6277\nEmail: shannon.hanson@usdoj.gov\nATTORNEY TO BE NOTICED\nV.\nDefendant\nAIG Federal Savings Bank\nDefendant\nWilmington Finance Inc.\nDate Filed # Docket Text\n03/04/2010 1  COMPLAINT filed against AIG Federal Savings Bank, Wilmington Finance Inc. −\n(Filing fee $ 350.) − filed by USA. (Attachments: # 1 Civil Cover Sheet)(els)\n(Entered: 03/05/2010)\n03/04/2010 2  Notice, Consent and Referral forms re: U.S. Magistrate Judge jurisdiction (els)\n(Entered: 03/05/2010)\n03/04/2010 No Summons Issued (els) (Entered: 03/05/2010)\n03/04/2010 3  UNOPPOSED MOTION Consent Order − filed by USA. (Attachments: # 1 Text of\nProposed Order)(els) (Entered: 03/05/2010)\n03/10/2010 Case assigned to Judge Joseph J. Farnan, Jr. Please include the initials of the Judge\n(JJF) after the case number on all documents filed. (rjb) (Entered: 03/10/2010)\n03/19/2010 4  ORDER Granting 3 Unopposed MOTION for Entry of Consent Order filed by\nUSA. Signed by Judge Joseph J. Farnan, Jr. on 3/19/2010. (nms) (Entered:\n03/22/2010)\n\nCase: 1:10-cv-00178-LPS   As of: 07/30/2012 02:18 PM EDT   2 of 2\n03/19/2010 CASE CLOSED per entry of D.I. 4 . (nms) (Entered: 03/25/2010)\n07/05/2011 5  JOINT Motion for Entry of Proposed Order − by USA. (Attachments: # 1 Proposed\nOrder)(Griffin, Howard) Modified on 7/6/2011 (nms). (Main Document 5 replaced\non 7/6/2011) (rwc). (Entered: 07/05/2011)\n07/06/2011 CORRECTING ENTRY: Replaced DI# 5 with corrected pdf document per request\nof counsel. (rwc) (Entered: 07/06/2011)\n07/06/2011 Case Reassigned to Judge Leonard P. Stark. Please include the initials of the Judge\n(LPS) after the case number on all documents filed. (rjb) (Entered: 07/06/2011)\n07/07/2011 6  DISBURSEMENT ORDER −− granting 5 Joint MOTION for Entry of\nDisbursement Order. Signed by Judge Leonard P. Stark on 7/7/11. (ntl) (Entered:\n07/08/2011)",
+      "document_type_other": null,
+      "external_url": null,
+      "ecf_number": null,
+      "clearinghouse_link": "clearinghouse.net/doc/41022"
+    },
+    {
+      "date": "2016-12-06",
+      "date_is_estimate": false,
+      "date_not_available": false,
+      "description": "",
+      "document_source": "RECAP",
+      "document_status": "Coding Complete",
+      "document_type": "Order/Opinion",
+      "order_type": "Non-Decree",
+      "citation_paren": null,
+      "cite_1_page": null,
+      "cite_1_reporter": null,
+      "cite_1_vol": null,
+      "cite_2_page": null,
+      "cite_2_reporter": null,
+      "cite_2_vol": null,
+      "cite_3_page": null,
+      "cite_3_reporter": null,
+      "cite_3_vol": null,
+      "citation_status": "No citation available",
+      "court": "District of Delaware",
+      "no_title": false,
+      "party_types": [
+        "Court"
+      ],
+      "per_curium": false,
+      "is_core_document": true,
+      "id": 153324,
+      "file": "https://clearinghouse-umich-production.s3.amazonaws.com/media/doc/153324.pdf",
+      "title": "[Proposed] Order",
+      "text": "Case 1:10-cv-00178-LPS     Document 8     Filed 12/06/16     Page 1 of 1 PageID #: 99\nCase 1:10-cv-00178-LPS  Document 7-1  Filed 11/17/16  Page 1 of 1 PagelD #: 76 \nUNITED STATES DISTRICT COURT \nFOR THE DISTRICT OF DELAWARE \n) \nUNITED STATES OF AMERICA,  ) \n) \nPlaintiff,  ) \n) \nv.  ) \nCivil Action No. 10-cv-00178-LPS \n) \nAIG FEDERAL SAVINGS BANK and  ) \nWILMINGTON FINANCE, INC.,  ) \n) \nDefendants.  ) \n~~~~~~~~~~-) \n[PROPOSEDJ ORDER \n, FOR GOOD CAUSE SHOWN, the Clerk is directed to reopen this case; and, \nPURSUANT TO the Consent Order previously entered by this Court (Dkt. # 4), this case \nshall be and hereby is dismissed with prejudice.  Parties shall bear their own costs. \ntee \nthi~ay  Q_~ \nSO ORDERED,  of ",
+      "document_type_other": null,
+      "external_url": "https://www.courtlistener.com/docket/4219150/8/united-states-v-aig-federal-savings-bank/",
+      "ecf_number": "8",
+      "clearinghouse_link": "clearinghouse.net/doc/153324"
+    },
+    {
+      "date": "2010-03-19",
+      "date_is_estimate": false,
+      "date_not_available": false,
+      "description": null,
+      "document_source": "PACER [Public Access to Court Electronic Records]",
+      "document_status": "Coding Complete",
+      "document_type": "Settlement Agreement",
+      "order_type": "Consent Decree",
+      "citation_paren": null,
+      "cite_1_page": null,
+      "cite_1_reporter": null,
+      "cite_1_vol": null,
+      "cite_2_page": null,
+      "cite_2_reporter": null,
+      "cite_2_vol": null,
+      "cite_3_page": null,
+      "cite_3_reporter": null,
+      "cite_3_vol": null,
+      "citation_status": "Not applicable",
+      "court": "District of Delaware",
+      "no_title": false,
+      "party_types": [
+        "Court",
+        "Defendant",
+        "Plaintiff"
+      ],
+      "per_curium": false,
+      "is_core_document": true,
+      "id": 41020,
+      "file": "https://clearinghouse-umich-production.s3.amazonaws.com/media/doc/41020.pdf",
+      "title": "Consent Decree",
+      "text": "Case 1:10-cv-00178-JJF   Document 4    Filed 03/19/10   Page 1 of 21 \nUNITED STATES DISTRlCTCOURT \nDISTRlCT OF DELAWARE \nUNITED STATES OF AMERlCA, Plaintiff,  ) \n) \nv.  ). \n) \nAIG FEDERAL SAVINGS BANK and  ) \nWILMINGTON FINANCE, INC.,  ) \nDefendants.  ) \n) \nCONSENT ORDER \nI. INTRODUCTION \nThis Consent Order (Order) is submitted jointly by the parties for the approval of and \nentry by the Court simultaneously with the filing of the United States' complaint (Complaint) in \nthis action. The Order resolves the claims of the United States that the Defendants, AIG Federal \nSavings Bank (AIG FSB) and Wilmington Finance, Inc. (WFI), (collectively, \"Defendants\") \nhave engaged in a pattern or practice of conduct in violation of the Fair Housing Act (FHA), 42 \nU.S.C. §§ 3601~3619, and the Equal Credit Opportunity Act (ECOA), 15 U.S.C. §§ 1691~169lf, \nby allowing wholesale mortgage brokersl to charge African-American borrowers higher direct \nbroker fees for residential real estate-related loans than white borrowers. Defendants deny these \nallegations. The parties submit this Order to resolve fully and fmally all claims asserted or that \ncould have been asserted arising out of or relating to the matters referred to in the Complaint. \n1 For purposes of this Order, wholesale mortgage brokers are independent third-party entities in \nwhich the Defendants have no ownership interest and no exclusive relationship, who act as an \nintermediary with borrowers to procure home-mortgage loan applications for funding by \nDefendants, and who are paid a fee directly by borrowers for such services. The wholesale \nmortgage brokers at issue in this lawsuit entered into broker agreements with one or both \nDefendants regarding their procurement of home-mortgage loan applications for funding by a \nDefendant. \n\nCase 1:10-cv-00178-JJF   Document 4    Filed 03/19/10   Page 2 of 21 \nI \nDefendants AIG FSB and WFI represent that they have ceased their wholesale home· \nmortgage lending operations in 2006 and 2008, respectivdy, and WFI represents that it is \ncurrently winding down its business operations. Under the provisions of this Order, the \nDefendants agree that if either Defendant re-enters the wholesale lending business, that \nDefendant will implement policies and procedures designed to ensure that direct broker fees for \ntheir residential loan products are assessed in a nondiscriminatory manner consistent with the \nrequirements of the FHA and ECOA. In addition, Defendants will compensate certain African­\nAmerican borrowers based on an agreed upon formula to identify such borrowers by reference \nto, among other factors, the direct mortgage broker fees they paid. \nThere has been no factual finding or adjudication with respect to any matter alleged by \nthe United States. The parties have entered into this Order to avoid the risks and burdens of \nlitigation, and to resolve voluntarily the claims in the United States' Complaint relating to \nDefendants' alleged violations of fair-lending laws. The parties agree that full implementation of \nthe terms of this Order will provide a fair and reasonable resolution of the claims of the United \nStates in a manner consistent with the Defendants' legitimate business interests. \nII. BACKGROUND \nAIG FSB is 'a wholly-owned subsidiary of American International Group, Inc. It is a \nfederal savings bank with its principal place of business at One Alico Plaza, 600 King Street, \nWilmington, Delaware. WFI is a wholly-owned subsidiary of American International Group, Inc. \nrt is a Delaware corporation with its principal place of business at 401 Plymouth Road, Plymouth \nMeeting, Pennsylvania. Between approximately July 2003 and May 2006, pursuant to an \nagreement between AIG FSB and WFI, WFI provided various services for loans that were made \nand funded by AIG FSB. \n-2-\n\nCase 1:10-cv-00178-JJF   Document 4    Filed 03/19/10   Page 3 of 21 \nIn 2006 and 2007 the Office of Thrift Supervision (OTS) conducted examinations of the \nlending practices ofA  lG FSB to evaluate compliance with, among other laws, the FHA and the \nECOA. Based on analysis of2005 HMDA lending data, the OTS found reason to believe that AIG \nFSB had displayed a pattern or practice of charging minority borrowers higher broker fees than \nsimilarly situated non-minority borrowers. The OTS referred this matter to the United States \nDepartment of Justice (DOJ) for appropriate enforcement pursuant to 15 U.S.C. § 1691e(g). \nThe United States contends that Defendants engaged in a pattern or practice of \ndiscrimination on the basis of race or color by allowing wholesale mortgage brokers to charge \nhigher direct broker fees2 to African-American borrowers than to white borrowers for loans \noriginated and funded ~y AIG FSB and/or WFL The Defendants deny all allegations and claims \nof discrimination on both factual and legal grounds and maintain that at all times they conducted \ntheir lending and other activities in compliance with the· fair-lending laws. Th,ere has been no \nfactual or legal finding or adjudication with respect to any matter alleged by the United States. \nAccordingly. the entry of this Order is not, and is not to be construed as, a precedent, admission, \nor fmding of any violation of the FHA or the ECOA by the Defendants. Rather, both parties have \nagreed to the entry of this Order to resolve voluntarily the claims asserted by the United States in \norder to avoid the costs. risks, and burdens of litigation. \nIn. REMEDIAL ORDER \nA.  General Nondiscrimination Injunction \n2 \"Direct\" broker fees (sometimes called \"up-front\" broker fees) means fees paid directly by the \nborrower to the broker for services rendered by the broker to the borrower in connection with \nsecuring a real estate-related loan. A borrower typically pays these fees at closing either with \ncash brought to the closing, or out of the loan proceeds. Direct broker fees .do not include \namounts paid by the lender to the broker or miscellaneous fees, such as appraisal costs and title \nsearches. \n-3-\n\nCase 1:10-cv-00178-JJF   Document 4    Filed 03/19/10   Page 4 of 21 \n1.  The Defendants, including all oftheir officers, employees, agents, assignees, \nsuccessors in interest, and all those in active concert or participation with any of them, are hereby \nenjoined from engaging in any act or practice in wholesale home mortgage lending that \ndiscriminates on the basis of race or color in any aspect of a residential real estate-related \ntransaction in violation of the Fair Housing Act, 42 U.S.C. §§ 3604 and 3605, or in any aspect of \na credit transaction in violation of the Equal Credit Opportunity Act, 15 U.S.c. § 1691(a)(1). \nThis prohibition includes, but is not limited to, the adoption, performance, or implementation of \nany policy, practice, or act that results in race or color discrimination against residential \nmortgagors in the assessment of direct mortgage broker fees. \n2.  Unless otherwise stated herein, the remedial provisions of this Order shall be \nj \nimplemented within thirty days of the effective date of this Order and shall continue throughout \nits term. The effective date of this Order shall be the date on which it is approved and entered by \nthe Court. \nB.  Applicability of Specific Provisions \n3.  Each Defen4ant represents that it is not currently in the business of wholesale \nhome-mortgage lending3 and has no plans to re-enter this line of business. Moreover, AIG FSB \nrepresents that it currently maintains at least annual fair-lending training appropriate to the nature \nof its lending activities. AIG FSB shall maintain during the period of this Order at least annual \nfair lending training appropriate to the nature of its lending activities and regarding the \nrequirements· of the FHA and ECOA. Based on the representations and obligations above, the \nprovisions of paragraphs 4-9 shall apply to each Defendant, and to each Defendant's officers, \nemployees, ag~nts, and representatives and all those in active concert or participation with any of \n3 \"Wholesale home-mortgage lending\" means providing home-mortgage loans in conjunction \nwith wholesale mortgage brokers acting as an intermediary with the borrower. \n-4-\n\nCase 1:10-cv-00178-JJF   Document 4    Filed 03/19/10   Page 5 of 21 \nthem with respect to wholesale home-mortgage lending operations, only if that Defendant re­\nenters the business of wholesale home-mortgage lending during the tenn of this Order. In the \nevent of such re-entry, the Defendant must notify the United States within thirty days of re-entry, \nand paragraphs 4-9 must be implemented within ninety days of re-entry. \nC.  Pricing Policy and Procedures \n4.  AIG FSB and WFI shall each develop and implement, as part of a loan-pricing \npolicy, specific, nonr<;l.cial standards for the assessment of direct broker fees on residential real \n. estate-related loans that AIG FSB or WFI underwrites, originates, or funds that are designed to \n. avoid unlawful race discrimination by the Defendants. The loan pricing policy shall also require \nwritten documentation of such fees be maintained in each loan file and be among the application \ndocuments submitted to either Defendant. These requirements shall be made part of any broker \nagreement between a wholesale mortgage broker and either Defendant. AIG FSB and WFI have \nrepresented that when they have engaged in the wholesale home-mortgage lending business they \nhad in place limits on the amount of yield-spread premiums (YSPs) that may be earned by \nmortgage brokers on loans. Defendants also shall incorporate YSP limits into their loan-pricing \npolicies. \n5.  Defendants' loan-pricing policies shall require them to post and prominently \ndisplay in each location where loan applications are received by the Defendant a notice of non­\ndiscrimination (a sample of which is attached as Exhibit A). Defendants shall impose the posting \nrequirements described in this paragraph on all brokers who submit loan applications to the \nDefendants. \n6.  Defendants' policy shall require brokers to make the following disclosures to \napplicants, to the extent not inconsistent with applicable.law: (a) the full amount of the direct \nbroker fee, any YSP and all other fonns of broker compensation, and that such compensation \n-5-\n\nCase 1:10-cv-00178-JJF   Document 4    Filed 03/19/10   Page 6 of 21 \nmayor may not be negotiable between the broker and borrower, and (b) a notice of non­\ndiscrimination that provides substantially the same information as is contained in Appendix A. \nSuch disclosures shall be in writing, signed by the broker and the borrower (if the borrower \nexecutes), and submitted by the broker to be made part of the loan file by AIG FSB or WFL This \ndisclosure shall be made as early as practicable but not later than 48 hours prior to the closing of \nthe loan. \n7.  Defendants' loan-pricing policies shall require all wholesale mortgage brokers \nfrom whom they accept wholesale home-mortgage loan applications to comply with the \nrequirements established in paragraphs 4-6. Defendants' policies shall also require an appropriate \nmanager, under the supervision of a designated senior official of AIG FSB or WFI, to review \napplications received from wholesale mortgage brokers for compliance with loan-pricing \npolicies. Any loan that is not in compliance with the pricing policy may not be funded. All \nreviews shall be documented and kept in the loan file. \nD.  Monitoring Program \n8.  Each Defendant'shall develop and implement direct broker-fee monitoring \nprograms designed to ensure compliance with this Order. The programs shall be designed to \nmonitor loans sourced through wholesale mortgage brokers and funded by AIG FSB or WFI for \npotential racial disparities in direct broker-fee levels. Each program also shall require a quarterly \nreview by senior managers of the Defendant with respect to all wholesale home-mortgage loans \noriginated during the preceding quarter by that Defendant. Each such quarterly review shall be \ndocumented and presented to the Defendant's respective Board for review and approval not later \nthan sixty days after the end of each quarter. Each quarterly review shall include, but not be \nlimited to, a direct broker-fee analysis designed to detect significant race disparities in such fees \nwith respect to all wholesale loans funded by the Defendant. \n-6-\n\nCase 1:10-cv-00178-JJF   Document 4    Filed 03/19/10   Page 7 of 21 \na.  In the event that any such review discloses significant disparities, the \nDefendant in question shall attempt to determine the reason(s) for those disparities (if \nany) and shall promptly take corrective action to address significant disparities that were \nattributable to a policy or practice of the Defendant, and not justified by legitimate \nbusiness need. Corrective action shall include, as warranted, financial remediation for \nborrowers, modifications to the Defendant's pricing policies and/or monitoring programs \nas appropriate, and modification or termination of broker relationship(s). Defendant shall \ndocument all such disparities, determinations, and actions taken and shall provide the \nquarterly reviews and any documentation and analysis relating thereto to the Unit~d \nStates on a quarterly basis. \nb.  In the event that any such review discloses significant disparities with \nrespect to any particular broker's direct broker fee pricing practices, the Defendant shall \nrequire the broker to explain the non-discriminatory reason(s) for those disparities. If \nthere is no reasonable, nonracial explanation for the noted disparities, Defendant shall \nundertake good faith efforts to require the broker to take prompt corrective action to \naddress the disparities. \nIf the United States raises any objections to the Defendant's determinations or remedial \nactions, Defendant and the United States shall meet and confer to consider appropriate steps to \naddress the concerns raised by the United States' review. If the parties are unable to come to an \nagreement regarding such objections, any party may bring the dispute to this Court for \nresolution. In that event, the fact that a Defendant's policies and monitoring programs were not \nobjected to by the United States under paragraph 9 of the Order shall be relevant to determining \nthe proper coUrse of action. \n-7-\n\nCase 1:10-cv-00178-JJF   Document 4    Filed 03/19/10   Page 8 of 21 \nE.  Notification to the United States and Right to Object \n9.  Each Defendant shall provide a copy of the loan policies required under \nparagraphs 4-7 and descriptions of the monitoring programs required under paragraph 8, to \ncounsel for the United States within ninety days of any return to the business of wholesale home-\nmortgage lending by that Defendant.4 The United States shall have thirty days from receipt of \nthese documents from ~ach Defendant to raise any objections to the relevant Defendant's \npolicies and programs, and, if it raises any, the parties shall confer to resolve their differences. In \nthe event they are unable to do so, any party may bring the dispute to this Court for resolution. \nUntil the Court resolves such a dispute, the disputed policies and programs will not go into \neffect. Subsequent proposed material revisions to these policies and programs, pursuant to \nparagraphs 7 and 8 or otherwise, shall be submitted to the United States for objection and. \nresolution in the manner provided for in this paragraPh .. \nF.  Consumer Education \n10.  Through the funding mechanism set forth in paragraph 21, Defendants shall \nprovide a minimum of $1,000,000 to qualified organization(s) to provide credit counseling, \nfinancial literacy, and other related educational programs targeted at African-American \nborrowers. The Defendants will consult with and obtain the non-objection of the United States in \nselecting recipient(s) of these funds, and the parties shall obtain the Court's approval prior to \ndistribution of the fund. \nG.  Equal Credit Opportunity Training Program \nAll material required by this Order to be sent to counsel for the United States shall be sent by \n4 \ncommercial overnight delivery service addressed as follows: Chief, Housing and Civil \nEnforcement Section, Civil Rights Division, U.S. Department of Justice, 1800 G Street NW, \nWashington, DC 20006, Attn: DJ 188-15-11, or by facsimile to 202-514-1116. \n-8-\n\nCase 1:10-cv-00178-JJF   Document 4    Filed 03/19/10   Page 9 of 21 \n11.  Each Defendant shall, at least annually, provide training with respect to their \nresponsibilities and obligations under the FHA, the ECOA, and this Order to all management \nofficials, loan officers, and any other employees, or agents who: (a) participate in the pricing of \nwholesale home-mortgage real-estate loans, or (b) have significant involvement in wholesale \nhome-mortgage lending, including contact with or oversight of brokers. In the event that either \nDefendant re-enters the business of wholesale home-mortgage lending, that Defendant shall \nprovide training within 30 days after that Defendant's new loan policy is implemented, and \nduring this training, each Defendant shall provide to each participant: ( a) a copy of this Order \nand of the relevant Defendant's new loan pricing policy; and (b) training on the terms of this \nOrder, the relevant new loan pricing policy, the requirements of the Fair Housing and Equal \nCredit Opportunity Acts, and his or her responsibilities under each. \n12.  In the event that either Defendant re-enters the wholesale home-mortgage lending \nbusiness, that Defendant shall secure from each employee or agent specified in the preceding \nparagrapna signed statement acknowledging that he or she has received a copy of this Order and \nthe loan pricing policy and has completed the initial equal credit opportunity training. These \nstatements shall be substantially in the form of Appendix B (Acknowledgment) and Appendix C \n(Equal Credit Opportunity Training). During the term of the Order, each new employee or agent \nwhose responsibilities include those set forth in paragraph 11, shall be provided a copy of this \nOrder and given an opportunity to have any questions answered, and shall sign the \nacknowledgment form statement (Appendix B) within ten days of beginning his or her \nemployment in that position. Defendants shall retain these statements for the duration of the \nOrder, and make them available to the United States upon request. \n-9-\n\nCase 1:10-cv-00178-JJF   Document 4    Filed 03/19/10   Page 10 of 21 \n13.  In the event that either Defendant re-enters the wholesale home-mortgage lending \nbusiness, that Defendant shall offer all brokers from whom it accepts wholesale home-mortgage \nloan applications the opportunity to undergo fair lending training similar to the training described \nin paragraph 11 ofthis Order. Defendants shall retain documentation of any training or requests \nfor training for the duration of the Order, and make such documentation available to the United \nStates upon request. \n14.  In the event that either Defendant re-enters the wholesale home-mortgage lending \nbusiness, the trainjng required by this Section shall be conducted by independent qualified third \nparties approved in advance by the United States. Any expenses associated with this training \nprogram shall be borne by the Defendant re-entering the business. \nB.  Satisfaction of United States' Claims for Monetary Relief \n15.  Defendants shall deposit in an interest-bearing escrow account the total sum of \n$6.1 million for the purpose of paying damages to aggrieved persons who may have suffered as a \nresult of the alleged violations of the Fair Housing and Equal Credit Opportunity Acts (the \n\"Settlement Fund\"). The Defendants shall provide written verification of the deposit to the \nUnited States within five days of the effective date ofthis Order. Any interest that accrues shall \nbecome part of the Settlement Fund and be utilized and disposed of as set forth herein. \n16.  Within 30 days of the effective date of this Order, the United States shall request \nany information it believes will assist in identifying aggrieved persons and determining any \ndamages. Defendants shall, within 15 days, supply, to the extent that it is within their control, \nsuch information as requested. Requested data may be supplied as a supplement to the database \nalready provided to the United States by Defendants in the course of the United States' \ninvestigation. \n-10-\n\nCase 1:10-cv-00178-JJF   Document 4    Filed 03/19/10   Page 11 of 21 \n17.  The United States shall, upon reasonable notice, be allowed access to the \nDefendants' records and files to verify the accuracy ofthe data provided and to otherwise \nidentify persons entitled to the payments from the Settlement Fund. \n18.  Within 90 days of the Effective Date of this Consent Order, the United States \nshall provide to Defendants a list of aggrieved persons and an amount each individual shall \nreceive from the Settlement Fund to compensate for both economic and non-economic damages \nthese persons may have suffered, subject to the conditions set forth in paragraph 19 below. \nDefendants shall have fifteen days in which to review the list and the United States shall consider \nin good faith any issues raised by Defendants. \n19.  Payments from the Settlement Fund to aggrieved persons shall be subject to the \nfollowing conditions, provided that the details in administration of the Settlement Fund set forth \nin paragraphs 16, 17, 18, and 20, can be modified by agreement of the parties and without further \nCourt approval: \n(a)  No aggrieved person shall be paid any amount from the Settlement Fund until he \nor she has executed and delivered to Defendants a written release, as set forth in Appendix D, of \nall claims, legal or equitable, that he or she might have against the released persons and entities \nregarding the claims asserted by the United States in this lawsuit, so long as such claims accrued \nprior to the entry of this Order; and \n(b)  No person shall be eligible for payment from the Settlement Fund with respect to \na loan if such person has previously received remediation with respect to such loan and has \nexecuted a release in exchange for such remediation; 'and \n(c)  The total amount paid by the Defendants collectively to the aggrieved persons \nshall not exceed the amount of the Settlement Fund, including accrued interest. \n-11-\n\nCase 1:10-cv-00178-JJF   Document 4    Filed 03/19/10   Page 12 of 21 \n20.  The Defendants shall, no later than 45 days after receiving the compensation list \nreferred to in paragraph 18, notify each identified person eligible for compensation by a letter \n(using their best efforts to locate each person). The form of this letter shall be subject to the \nreview and approval of the United States. At a minimum, the letter shall state that the identified \nperson is eligible for compensation in the indicated amount provided he or she executes and \nreturns to Defendants a copy of the agreed-upon release, which release shall be enclosed with the \nnotice along with an addressed and postage-paid return envelope. Each letter shall identify the \nloan(s) the identified person has or had with AlG FSB or WFI. The letter shall explain the \ncomplaint resolution program referenced in paragraph 22 of this Order. If the parties are unable \nto agree on the terms of the letter, any party may bring the dispute to the Court for resolution. \nAny letters that are returned with a forwarding address shall promptly be re-sent to that new \naddress. Defendants shall provide an accounting of these notifications, indicating the name and \naddress to which each was dispatched, within the 45-day period referred to in this paragraph. \nDefendants shall issue checks in the amount indicated on the compensation list to all identified \npersons who execute and return the releases. Defendants shall issue and mail such checks no \nlater than 21 days after the receipt of the release. Defendants shall set forth reasonable deadlines \nfor requirements of return of releases, and for the timely deposit of checks, subj ect to approval of \nthe United States, so that the compensation is distributed and checks are presented for payment \nor become void prior to the date that is one year from the date the initial notifications are sent. \nThe Defendants shall provide, as part of the reporting required in paragraph 25, an accounting of \nreleases received, checks sent, and notifications for which no response has been received or that \nwere reported to be undeliverable. The United States may make its own efforts to locate \naggrieved persons. \n-12-\n\nCase 1:10-cv-00178-JJF   Document 4    Filed 03/19/10   Page 13 of 21 \n21.  Any moneys not distributed from the Settlement Fund including accrued interest \nwithin one year of the date the initial notifications are sent to persons deemed to be aggrieved by \nthe United States pursuant to paragraph 19 (Remaining Moneys) shall be distributed for \neducational purposes as provided for in paragraph 10. In the event the Remaining Moneys total \nless than $1,000,000 at that time, Defendants shall replenish the Settlement Fund so that it \ncontains $1,000,000 for distribution for those educational purposes. \n22.  In addition to the above, during the period of this Order the Defendants shall \nmaintain a robust complaint resolution program to address consumer complaints regarding \nwholesale home-mortgage loans originated by the Defendants. Documentation regarding such \ncomplaint resolution program, inciuding documentation of individual complaints and resolutions, \nif any, shall be made available to the United States on a quarterly basis and included in the semi­\nannual reports referenced in paragraph 25. A person shall not be deemed ineligible for the \ncomplaint resolution program on the basis of having executed the release described in paragraph \n19(a), but there is no requirement under this Order that any complaint necessarily be resolved for \nor against Defendants. \nIV. EVALUATING AND MONITORING COMPLIANCE \n23.  For the duration of this Order, both AIG FSB and WFI shall retain all records, \nrelating to their obligations hereunder, including their wholesale home-mortgage lending \nactivities, as well as their compliance activities as set forth herein. The United States shall have \nthe right to review and copy such records upon request, including loans files and electronic data \nfor loans made during the period ofthis,Order. \n24.  Each Defendant shall provide to counsel for the United States the data on its \nlending that is submitted to the Federal Financial InStitutions Examination Council (FFIEC) \npursuant to the Home Mortgage Disclosure Act and the Community Reinvestment Act. The data \n-13-\n\nCase 1:10-cv-00178-JJF   Document 4    Filed 03/19/10   Page 14 of 21 \nwill be provided in the same format in which it is presented to the FFIEC, within thirty days of \nits submission to the FFIEC each year, for the duration of this Order, including the record layout. \n25.  In addition to the submission of any other plans or reports specified in this Order, \nboth AIG FSB and WFI shall submit semi-annual reports to the United States on their progress in \ncompleting the requirements of paragraphs 3-22 of this Order. Each such report shall provide a \ncomplete account of each Defendant's actions to comply with each requirement of this Order \nduring the previous year, an objective assessment of the extent to which each quantifiable \nobligation was met, an explanation of why any particular component fell short of meeting its \ngoal for that year, and any recommendations for additional actions to achieve the goals of this \nOrder. Each Defendant shall submit its first report no later than 180 days after entry of this \nOrder, and every 180 days thereafter for so long as the Order is in effect. In addition, if \napplicable, each Defendant shall attach to the semi-annual reports representative copies of \ntraining materials disseminated pursuant to this Order. \n26.  In the event AIG FSB seeks to transfer or assign its charter or either AIG FSB or \nWFI seeks to transfer or assign all its operations in a transaction that requires the approval of a \nfederal bank or thrift regulatory agency, AlO FSB or WFI must notifY counsel for the United \nStates at the same time it notifies the regulatory agency. If such notification is made and the \nrelevant regulatory agency approves such transaction, this Order shall terminate with respect to \nthat Defendant upon consunirnation of the transfer or assignm~nt transaction, except that the \nrequirements of paragraphs 10 and 15-21 of this Order shall continue in force against the \nDefendant's successor in interest until such time as those requirements are completed. In the \nevent either AIG FSB or WFI seeks to transfer or assign all or part of its operations in a \ntransaction that does not require the approval of a federal bank or thrift regulatory agency and the \n-14-\n\nCase 1:10-cv-00178-JJF   Document 4    Filed 03/19/10   Page 15 of 21 \nsuccessor or assign is engaged in or intends to carry on a wholesale mortgage-lending business, \nthe relevant Defendant shall, as a condition of sale, obtain the written agreement of the successor' \nor assign to be bound by any obligations remaining under this Order which are applicable to that \nDefendant for the remaining term of this Order. Nevertheless, in the event of a proposed, arms­\nlength transaction of transfer or assignment of operations affecting AlG FSB or WFI, the \nDefendants may petition the United States to waive the requirement for a successor or assign to \nbe bound under this Order, and the United States, after such review, may, in its discretion, waive \nsuch requirement. The Defendants shall supply such information as the United States may \nrequest to enable the United States to effectively review the waiver petition. \nV. ADMINISTRATION \n27.  The requirements of this Order shall be in effect for three years, except as \nspecified elsewhere in this Order, at which time they will expire and be of no further \napplicability. Notwithstanding the above, this Order may be extended further upon motion of the \nUnited States to the Court, for good cause shown. Upon satisfaction of paragraphs 10 and 15-21, \nor upon making arrangements, in which the United States concurs, that all procedures and \nrequirements of these paragraphs will be satisfied, any Defendant may seek and obtain a separate \ndismissal of the case against it in the event the Order no longer applies to it or upon \ndemonstration to the Court that it has permanently ceased its business operations. \n28.  Any time limits for performance fixed by this Order may be extended by mutual \nwritten agreement ofthe parties. Other modifications to this Order may be made only upon \napproval of the Court, upon motion by either party. The parties recognize that there may be \nchanges in relevant and material factual circumstances during the term of this Order which may \nimpact the accomplishment of its goals. The parties agree to work cooperatively to discuss and \nattempt to agree upon any proposed modifications to this Order resulting therefrom. \n-15-\nI· \n\nCase 1:10-cv-00178-JJF   Document 4    Filed 03/19/10   Page 16 of 21 \n29.  In the event that any disputes arise about the interpretation of or compliance with \nthe terms of this Order, the parties shall endeavor in good faith to resolve any such dispute \nbetween themselves before bringing it to this Court for resolution. The United States agrees that \nif it reasonably believes that any Defendant has violated any provision of this Order, it will \nprovide the appropriate Defendant written notice thereof and allow thirty days to resolve the \nalleged violation before presenting the matter to this Court. In the event of either a failure by a \nDefendant to perform in a timely manner any act required by this Order or an act by a Defendant \nin violation of any provision hereof, the United States may move this Court to impose any \nremedy authorized by law or equity, including attorneys' fees and costs. \n30.  Each Defendant's compliance with the terms of this Order, or the termination of \nthis Order with respect to a Defendant in accordance with its provisions, shall fully and fmally \nresolve all claims of the United States relating to the alleged violations by that Defendant of the \nfair lending laws, as alleged in the Complaint in this action, including all claims for equitable \nrelief and monetary damages and penalties. Each party to this Order shall bear its own costs and \nattorney's fees associated with this litigation. \n31.  The Court shall retain jurisdiction for the duration of this Order to enforce the \nterms of the Order, after which time the case shall be dismissed with prejudice. \n/9 \n~2010. \nSO ORDERED, this  day of \nUNI \n-16-\n\nCase 1:10-cv-00178-JJF   Document 4    Filed 03/19/10   Page 17 of 21 \nThe undersigned hereby apply for and consent to the entry of this Order: \nFor Defendant AIG Federal Savings Bank  For Defendant Wilmington Finance, Inc. \natif.v/~~  Lt!~ \nMIERZEKI \nMICHAEL B. \nArnold & Porter LLP  Goodwin Procter, LLP \n555 Twelfth Street, NW  901 New York Ave., NW \nWashington, DC 20004-1206  Washington, D.C. 20001 \nTel: (202) 942~5995  Tel: (202) 346-4029 \nFax: (202) 942-5999  Fax: (202)346-4444 \nmichael.mierzewski@aporter.com  thefferon@goodwinprocter.com \nFor Plaintiff United States \nSTEVEN H. ROSENBAUM \nChief \nDONNA M. MURPlN \nDeputy Chief \n-\" \nARD R. GRIFFIN \nttorney \n--\n:i12'~--\nROBIN L. D\\JLL  \" \nAttorney \nU.S. Department of Justice \nCivil Rights Division \nHousing and Civil Enforcement Section \n950 Pennsylvania Ave. NW \nNorthwest Building \nWashington, DC 20530 \nhoward.r.griffin@usdoj.gov \nrobin.dull@usdoj.gov \nTel: (202) 514-4741 \nTel: (202) 305-7780 \n~17-\n\nCase 1:10-cv-00178-JJF   Document 4    Filed 03/19/10   Page 18 of 21 \nAPPENDIX A \nWe do Business in Accordance with \nFederal Fair Lending Laws \nUNDER THE EQUAL CREDIT OPPORTUNITY \nACT, IT IS ILLEGAL TO DISCRIMINATE IN ANY \nCREDIT TRANSACTION: \nOn the basis of race, color, national origin, religion, \nsex, marital status, or age; \nBecause income is from public· assistance; or \nBecause a right has been exercised under the Federal \nConsumer Credit Protection Laws. \nIF YOU BELIEVE YOU HAVE BEEN \nDISCRIMINATED AGAINST, YOU SHOULD SEND \nA COMPLAINT TO: \nOffice of Thrift Supervision  OR  . U.S. Department of Justice \nWashington, DC 20530 \nTel:  1-800-896-7743 \nWebsite: \nhttp://www.usdoj.gov/crt/housing \n-18-\n\nCase 1:10-cv-00178-JJF   Document 4    Filed 03/19/10   Page 19 of 21 \nAPPENDIXB \nEmployee Ackn:owledgment \nI acknowledge that on  ,2010, I was provided copies of the Consent \nOrder entered by the Court in United States v. AIG Federal Savings Bank, et al., (D. Del.), and \nthe loan policy developed pursuant thereto. I have read and understand these documents and \nhave had my questions about these documents answered. I understand my legal responsibilities \nand shall comply with those responsibilities. \nSignature \nPrint Name \nJob Title \nDate \n~19~ \n\nCase 1:10-cv-00178-JJF   Document 4    Filed 03/19/10   Page 20 of 21 \nAPPENDIXC \nEmployee Training Certification \nI certify that on  , 2010, I received training with respect to my \nresponsibilities under the Consent Order entered by the Court in United States v. AIG Federal \nSavings Bank, et al., (D. Del.), and the federal fair lending laws. I have had the opportunity to \nhave my questions about them answered. I understand my legal responsibilities not to \ndiscriminate under the federal fair lending laws, including the Equal Credit Opportunity Act and \nthe Fair Housing Act, and shall comply with those responsibilities. \nSignature \nPrint Name \nJob Title \nDate \n-20-\n\nCase 1:10-cv-00178-JJF   Document 4    Filed 03/19/10   Page 21 of 21 \nAPPENDIXD \nRelease \nIn consideration for the parties' agreement to the terms of the Consent Order entered in \nUnited States v. AIG Federal Savings Bank and Wilmington Finance, Inc. (D. DeL), and the \npayment to me of $_  __~ , pursuant to the Consent Order and effective upon that payment, \nI hereby release and forever discharge all claims, rights,remedies, and recoveries related to the \nfacts at issue in the litigation referenced above or in any way related to that litigation, and release \nand forever discharge all claims, rights, remedies, and recoveries arising from housing and credit \ndiscrimination alleged in that litigation in connection with my loan(s), known and unknown, up \nto and including the date of execution of this release. \nr understand that this releases those claims, rights, remedies and recoveries against AIG \nFederal Savings Bank and/or Wilmington Finance, Inc., and against any and all entities, parents, \npredecessors, successors, subsidiaries, and affiliates related to either of those companies, and \nagainst any and all of the past and present directors, officers, agents, managers, supervisors, \nshareholders, and employees and .their heirs, executors, administrators, successors in interest, or \nassigns of either of those companies in connection with my loan(s). \nExecuted on _____- ', 2010. \nSignature \nPrint Name \nAddress \n-21-",
+      "document_type_other": null,
+      "external_url": null,
+      "ecf_number": "4",
+      "clearinghouse_link": "clearinghouse.net/doc/41020"
+    },
+    {
+      "date": "2010-03-19",
+      "date_is_estimate": false,
+      "date_not_available": false,
+      "description": null,
+      "document_source": "PACER [Public Access to Court Electronic Records]",
+      "document_status": "Coding Complete",
+      "document_type": "Complaint",
+      "order_type": null,
+      "citation_paren": null,
+      "cite_1_page": null,
+      "cite_1_reporter": null,
+      "cite_1_vol": null,
+      "cite_2_page": null,
+      "cite_2_reporter": null,
+      "cite_2_vol": null,
+      "cite_3_page": null,
+      "cite_3_reporter": null,
+      "cite_3_vol": null,
+      "citation_status": "Not applicable",
+      "court": "District of Delaware",
+      "no_title": false,
+      "party_types": [
+        "Plaintiff"
+      ],
+      "per_curium": false,
+      "is_core_document": true,
+      "id": 41018,
+      "file": "https://clearinghouse-umich-production.s3.amazonaws.com/media/doc/41018.pdf",
+      "title": "Complaint",
+      "text": "Case 1:99-mc-09999   Document 97    Filed 03/04/10   Page 1 of 7 \nUNITED STATES DISTRICT COURT \nDISTRICT OF DELAWARE \n. UNITED STATES OF AMERICA, Plaintiff,  ) \n) \nv.  )  No. \n) \nAIG FEDERAL SAVINGS BANK and  )  COMPLAINT \nWILMINGTON FINANCE, INC.,  ) \nDefendants.  ) \n) \nThe United States of America alleges: \n1.  This action is brought by the United States to enforce the provisions of the Fair \nHousing Act, 42 US.C. §§ 3601-3619 (FHA), and the Equal Credit Opportunity Act, 15 US.C. \n§§ 1691-169lf(ECOA). \n2.  This Court has jurisdiction of this action pursuant to 28 U.S.C. § 1345,42 U.S.c. \n§ 3614, and 15 US.C. § 1691(h).  Venue is appropriate pursuant to 28 U.S.C. § 1391. \n3.  AIG Federal Savings Bank (AIG FSB) is a wholly-owned subsidiary of American \nInternational Group, Inc.  It is a federal savings bank with its principal place of business at One \nAlico Plaza, 600 King Street, Wilmington, Delaware.  AIG FSB engages in business typical of a \nfinancial depository and lending institution, including extending credit and making loans for the \npurchase of dwellings, and making loans secured by residential real estate.  AIG FSB is subject \nto the regulatory authority ofthe Office of Thrift Supervision (OTS). \n4.  Wilmington Finance, Inc., (WFI) is also a wholly-owned subsidiary of American \nInternational Group, Inc.  It is a Delaware corporation with its principal place of business at 401 \nPlymouth Road, Plymouth Meeting, Pennsylvania.  WFI is a mortgage company that engages in \nresidential mortgage lending though marketing, sourcing, processing, underwriting, and closing \n\nCase 1:99-mc-09999   Document 97    Filed 03/04/10   Page 2 of 7 \nunderwriting, and closing loans. \n5.  AlG FSB and WFI are subject to Federal laws governing fair lending, including the \nFHA and ECOA and the regulations promulgated under each of those laws.  The FHA and the \nECOA prohibit financial institutions from discriminating on the basis of, inter alia, race or color \nin their lending practices.  AlG FSB and WFI are and have been \"creditors\" within the meaning \nof section 702(e) of the ECOA, 15 U.S.C. § 1691a(e), and have engaged in \"residential real \nestate-related transactions\" within the meaning of section 805 ofthe FHA, 42 U.S.C. § 3605. \n6.  In October 2007 the OTS conducted an examination ofthe lending practices of AlG \nFSB to evaluate its compliance with, among other laws, the Fair Housing Act and the Equal \nCreditOpportunityAct.  Based on information gathered in its examination, the OTS determined \nthat it had reason to believe that AlG FSB and WFI had engaged in a pattern or practice of \ndiscrimination on the basis of race by charging black borrowers higher broker fees than similarly . \nsituated white borrowers. \n7.  On December 21,2007, following its determination described in the previous \nparagraph, the OTS referred this matter to the United States Department of Justice pursuant to 15 \nU.S.C. § 1691e(g). \n8.  Between approximately July 2003 and May 2006, pursuant to a Mortgage Loan \nServices Agreement between AlG FSB and WFI (Defendants), AlG FSB funded mortgage loans \nfor which WFI provided marketing, sourcing (including identifying, approving, and monitoring \nmortgage loan brokers), processing,underwriting, closing, funding, and investor-finding \nservices. \n9.  All loans made under the Mortgage Loan Services Agreement were originated by WFI \n-2-\n\nCase 1:99-mc-09999   Document 97    Filed 03/04/10   Page 3 of 7 \non behalf of AIG FSB and funded by and in the name of AIG FSB in accordance with AIG FSB' s \ncredit underwriting standards and other policies and procedures. \n10.  The services perfonned by WFI under the Mortgage Loan Services Agreement for \nand on behalf of AIG FSB included, but were not limited to, identifying, approving, and \nmonitoring mortgage loan brokers; preparation and transmission of rate, product, and other \ninfonnation on mortgage loans to mortgage brokers; provision of pre-application loan-grading \nand qualification services to mortgage brokers and consumers; creation of loan applications and \npackages from infonnation received from mortgage brokers and consumers; preparation and \ndissemination oflegal disclosures and notifications to loan applicants; processing and \ndocumenting loan applications; and underwriting all loan applications in the name of AIG FSB. \n11.  Under the Mortgage Loan Services Agreement, between 2003 and 2006 WFI \noriginated and AIG FSB funded approximately 179,000 home mortgage loans throughout the \nUnited States.  Approximately 94% of these loans were \"wholesale\" loans procured by WFI \n- - - - - - - - - - - - - - - - - - - - - - - - - - --- - - - - - - - - - - - - - - - - - - - - --- - - - - - - - - - - - - - - - - - - - - - - - - -\nthrough third-party mortgage brokers. \n12.  Mortgage brokers who supplied WFI and AIG FSB with wholesale loans were \ncompensated in two ways: through direct fees paid by borrowers to brokers, and/or through yield-\nspread premiums paid by WFI and AIG FSB to brokers.  Taken together, this compensation is \nhereinafter referred to collectively as \"total broker fees.\" \n13.  It was the policy and practice ofWFI and AIG FSB to allow brokers unsupervised \nand subjective discretion in setting the amount oftheir direct fees.  WFI and AIG FSB placed \nceilings on the amount of the yield-spread premium that could be paid to a broker in connection \nwith a loan, but did not place any ceiling on direct fees.  WFI and AIG FSB did not establish any \n-3-\n\nCase 1:99-mc-09999   Document 97    Filed 03/04/10   Page 4 of 7 \nobjective criteria to be followed by the brokers in setting direct fees, or oversee or supervise \nbrokers in setting the amounts of direct fees, or monitor the amounts of direct fees for racially \ndiscriminatory disparities. \n14.  For each loan originated under the Mortgage Loan Services Agreement, information \nabout each borrower's race and the amounts and types of broker fees paid was available to, and \nwas known or reasonably should have been known by WFI and AlG FSB prior to the approval \nand funding ofthe loan. \n15.  From July 2003 to May 2006 black borrowers nationwide were charged total broker \nfees 20 basis points higher! as a percentage of the loan amount, on average, than the total broker \nfees charged to white borrowers for WFI and AlG FSB's loans.  These disparities extended to at \nleast the following 19 metropolitan areas in which AlG FSB and WFI made a substantial number \n- - - - - - - - -of brokere d-loans-to black-and white-borrowers: Atlanta, Baltimore, Birmingham, Cincinnati, \nChicago, Cleveland, Detroit, Hartford, Kansas City, Las Vegas, Memphis, Nassau County, New \nYork, Orlando, Philadelphia, Phoenix, Portland OR, St. Louis, and Tampa.  In these MSAs black \nborrowers paid total broker fees ranging from 25 to 75 basis points higher, on average, than the \ntotal broker fees paid by white borrowers.  All of these disparities are statistically significant. \n16.  The higher total broker fees charged to black borrowers are a result ofWFI and AlG \nFSB's policy and practice of allowing unsupervised and subj ective discretion by brokers in the \nsetting of direct fees, and cannot be fully explained by factors unrelated to race that WFI and AlG \nFSB claim were taken into account. \n! One basis point represents one hundredth of a percentage point (0.01 %); thus a 25 basis \npoint differential represents one quarter of one percent. \n-4-\n\nCase 1:99-mc-09999   Document 97    Filed 03/04/10   Page 5 of 7 \n17.  WFI and AIG FSB' s policy and practice of allowing unsupervised and subj ective \ndiscretion by brokers in the setting of direct fees is not justified by business necessity or \nlegitimate business interests. \n18.  The Defendants' policies and practices, as alleged herein, constitute: \na.  Discrimination on the basis of race or color in making available, or in the terms \nor conditions of, residential real estate-related transactions, in violation of the fair \nHousing Act, 42 U.S.C. § 3605(a); \nb.  Discrimination on the basis of race or color in the terms, conditions, or \nprivileges of sale of a dwelliJ.?-g, in violation of the fair Housing Act, 42 U.S.C. § 3604(b); \nand \nc.  Discrimination against applicants with respect to credit transactions on the \nbasis of race or color in violation of the Equal Credit Opportunity Act, 15 U.S.c. \n§ 1691(a)(1). \n19.  The Defendant's policies and practices, as alleged herein, constitute: \na.  A pattern or practice of resistance to the full enj oyment of rights secured by the \nFair Housing Act, as amended, 42 U.S.C. §§ 3601-3619, and the Equal Credit \nOpportunity Act, 15 U.S.c. §§ 1691-1691f; and \nb.  A denial of rights granted by the Fair Housing Act, as amended, to a group of \n, \npersons that raises an issue of general public importance. \n20.  Persons who have been victims of Defendants ' discriminatory policies and practices \nare aggrieved persons as defined in the FHA, 42 U.S.C. § 3602(i), and aggrieved applicants as \ndefined in the ECOA, 16 U.S.C. § 1691e, and have suffered damages as a result of Defendants' \n-5-\n\nCase 1:99-mc-09999   Document 97    Filed 03/04/10   Page 6 of 7 \nconduct as described herein. \n21.  The discriminatory policies and practices of the Defendants were intentional and \nwillful, and were implemented with reckless disregard for the rights of black borrowers. \nWHEREFORE, the United States prays that the Court enter an ORDER that: \n22.  Declares that the policies and practices of the Defendants constitute violations of the \nFair Housing Act, 42 U.S.C. §§ 3601-3619, and the Equal Credit Opportunity Act, 15 U.S.C. \n§§ 1691-1691f; \n23.  Enjoins the Defendants, their agents, employees, and successors, and all other \npersons in active concert or participation with them, from: \na.  Discriminating on the basis of race or color against any person in making \navailable, or in the terms or conditions of, a residential real estate-related transaction; \nb.  Discriminating on the basis of race or color in the terms, conditions, or \nprivileges of the provision of services in connection with the sale of dwellings; \nc.  Discriminating on the basis of race or color against any person with respect to \nany aspect of a credit transaction; \nd.  Failing or refusing to take such affirmative steps as may be necessary to \nrestore, as nearly as practicable, the victims of the Defendants' unlawful conduct to the \nposition they would have been in but for the discriminatory conduct; and \ne.  Failing or refusing to take such actions as may be necessary to prevent the \nrecurrence of any such discriminatory conduct in the future. \n24.  Awards monetary damages to all the victims ofthe Defendants' discriminatory \npolicies and practices for the injuries caused by the Defendants, pursuant to 42 U.S.C. \n-6-\n\nCase 1:99-mc-09999   Document 97    Filed 03/04/10   Page 7 of 7 \n§ 3614(d)(1)(B) and 15 U.S.C. § 1691e(h); and \n25.  Assesses a civil penalty against the Defendants in an amount authorized by 42 U.S.c. \n§ 3614(d)(1)(C), in order to vindicate the public interest. . \nThe United States further prays for such additional relief as the interests or justice may \nreqUIre. \nERIC H. HOLDER, JR. \nY:7.~U· \nDAVID C. WEISS  THOMAS E. PEREZ \nUnited States Attorney  Assistant Attorney-G \nCivil Rights Division \nSHANNON T. HANSON \nChief, Civil Division  Chief \nNemours Building  H~E nforcement Section \nP.O. Box 2046 \nWilmington, DE 19899-2046 \n'-\n302-573-6277 \nDONNA M. MURPHY \nDeputy Chief \nHOWARD R. GRIFFIN \nROBIN L. DULL \nAttorneys \nU.S. Department of Justice \nCivil Rights Division \nHousing and Civil Enforcement Section \n950 Pennsylvania Ave. NW - NWB \nWashington, DC 20530 \nhoward.r. griffin@usdoj.gov \nrobin.dul1@usdoj.gov \n202-514-4741 \n202-305-7780 \n-7-",
+      "document_type_other": null,
+      "external_url": null,
+      "ecf_number": "97",
+      "clearinghouse_link": "clearinghouse.net/doc/41018"
+    },
+    {
+      "date": null,
+      "date_is_estimate": false,
+      "date_not_available": false,
+      "description": null,
+      "document_source": null,
+      "document_status": null,
+      "document_type": null,
+      "order_type": null,
+      "citation_paren": null,
+      "cite_1_page": null,
+      "cite_1_reporter": null,
+      "cite_1_vol": null,
+      "cite_2_page": null,
+      "cite_2_reporter": null,
+      "cite_2_vol": null,
+      "cite_3_page": null,
+      "cite_3_reporter": null,
+      "cite_3_vol": null,
+      "citation_status": null,
+      "court": null,
+      "no_title": false,
+      "party_types": [],
+      "per_curium": false,
+      "is_core_document": true,
+      "id": 117035,
+      "file": null,
+      "title": null,
+      "text": null,
+      "document_type_other": null,
+      "external_url": null,
+      "ecf_number": null,
+      "clearinghouse_link": "clearinghouse.net/doc/117035"
+    }
+  ],
+  "document_count": 6
+}

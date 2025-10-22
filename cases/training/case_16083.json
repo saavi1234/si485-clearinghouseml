@@ -1,0 +1,344 @@
+{
+  "case_id": 16083,
+  "fetched_at": "2025-10-22T00:27:19.496107",
+  "case_data": {
+    "attorney_orgs": [
+      "U.S. Dept. of Justice Civil Rights Division"
+    ],
+    "available_documents": [
+      "Trial Court Docket",
+      "Complaint (any)",
+      "Injunctive (or Injunctive-like) Relief"
+    ],
+    "case_defendants": [
+      {
+        "defendant_level": null,
+        "institution": "",
+        "institution_alt_state": null,
+        "institution_city": "",
+        "institution_county": null,
+        "name": "State of Tennessee",
+        "defendant_level_other": "",
+        "is_active": true
+      }
+    ],
+    "case_ongoing": "No",
+    "case_status": "Coding Complete",
+    "case_types": [
+      "Nursing Home Conditions",
+      "Healthcare Access and Reproductive Issues"
+    ],
+    "cause_other": "",
+    "causes": [
+      "Civil Rights of Institutionalized Persons Act (CRIPA), 42 U.S.C. § 1997 et seq."
+    ],
+    "class_action_granted": "Not sought",
+    "class_action_sought": "No",
+    "closing_year": 2009,
+    "constitutional_clause": [
+      {
+        "value": "Due Process"
+      }
+    ],
+    "content_of_injunction": [],
+    "court": "Western District of Tennessee",
+    "custom_issues": [],
+    "defendant_payment": "",
+    "defendant_type": [],
+    "docket_status": "Complete as of retrieval date",
+    "facility_type": [
+      {
+        "value": "Government-run"
+      }
+    ],
+    "filing_date": "2009-01-16",
+    "filing_year": 2009,
+    "id": 16083,
+    "injunction_duration": "",
+    "issues": [
+      "General/Misc.: Food service / nutrition / hydration",
+      "General/Misc.: Reassessment and care planning",
+      "Medical/Mental Health Care: Medical care, general",
+      "Medical/Mental Health Care: Medication, administration of",
+      "Medical/Mental Health Care: Mental health care, general",
+      "General/Misc.: Totality of conditions"
+    ],
+    "last_checked_date": "2018-01-09T00:00:00-05:00",
+    "main_docket": {
+      "id": 28870,
+      "docket_entries": [
+        {
+          "row_number": 0,
+          "id": 1472109,
+          "entry_number": "1",
+          "date_filed": "2009-01-16T00:00:00-05:00",
+          "attachments": [],
+          "url": "https://ecf.tnwd.uscourts.gov/doc1/17101299566?caseid=52251&de_seq_num=11&pdf_header=1&pdf_toggle_possible=1",
+          "recap_pdf_url": null,
+          "pacer_doc_id": null,
+          "description": "COMPLAINT against all defendants, filed by United States of America. (Attachments: # 1 Exhibit Certificate of the AG, # 2 Civil Cover Sheet, # 3 Judge's Card)(jlw) (Entered: 01/16/2009)"
+        },
+        {
+          "row_number": 1,
+          "id": 1472110,
+          "entry_number": "2",
+          "date_filed": "2009-01-16T00:00:00-05:00",
+          "attachments": [],
+          "url": "https://ecf.tnwd.uscourts.gov/doc1/17101299623?caseid=52251&de_seq_num=13&pdf_header=1&pdf_toggle_possible=1",
+          "recap_pdf_url": null,
+          "pacer_doc_id": null,
+          "description": "Joint MOTION to Dismiss With Entry of Stipulated Conditions Pursuant to Rule 41(a)(1) of the Federal Rules of Civil Procedure (Proposed Order Submitted) by United States of America. (Attachments: # 1 Settlement Agreement)(Grinalds, Richard) (Entered: 01/16/2009)"
+        },
+        {
+          "row_number": 2,
+          "id": 1472111,
+          "entry_number": "3",
+          "date_filed": "2009-01-20T00:00:00-05:00",
+          "attachments": [],
+          "url": "https://ecf.tnwd.uscourts.gov/doc1/17111300789?caseid=52251&de_seq_num=15&pdf_header=1&pdf_toggle_possible=1",
+          "recap_pdf_url": null,
+          "pacer_doc_id": null,
+          "description": "ORDER GRANTING 2 JOINT MOTION FOR CONDITIONAL DISMISSAL PURSUANT TO RULE 41(a)(1) OF THE FEDERAL RULES OF CIVIL PROCEDURE. Signed by Judge J. Daniel Breen on 1/20/09. (Breen, J.) (Entered: 01/20/2009)"
+        }
+      ],
+      "docket_case_type": "cv",
+      "docket_year": 2009,
+      "docket_filing_number": 1012,
+      "is_main_docket": true,
+      "court": "Western District of Tennessee",
+      "state": "Tennessee",
+      "docket_office_number": "1",
+      "docket_number_manual": "1:09-CV-01012",
+      "scales_html": "https://clearinghouse-umich-production.s3.amazonaws.com/media/docket-html/tnwd--1-09-cv-01012.html",
+      "recap_link": null,
+      "is_active": true
+    },
+    "name": "U.S. v. State of Tennessee",
+    "never_filed": false,
+    "non_docket_case_number": "168-71-33",
+    "non_docket_case_number_type": "DJ",
+    "non_docket_case_number_type_other": "",
+    "order_end_year": null,
+    "order_start_year": null,
+    "permanent_injunction": false,
+    "plaintiff_description": "U.S. Department of Justice",
+    "plaintiff_type": [
+      {
+        "value": "U.S. Dept of Justice plaintiff"
+      }
+    ],
+    "prevailing_party": "Plaintiff",
+    "pro_se_status": "No",
+    "public_interest_lawyer": "Yes",
+    "related_cases": [],
+    "relief_natures": [
+      "Injunction / Injunctive-like Settlement"
+    ],
+    "relief_nature_other": "",
+    "relief_sources": [
+      "Settlement"
+    ],
+    "settlement_agreement": [
+      "Court Approved Settlement or Consent Decree"
+    ],
+    "settlement_judgment_date": "2009-01-20",
+    "settlement_judgment_year": null,
+    "special_collections": [
+      "Multi-LexSum (in sample)"
+    ],
+    "special_case_type": [],
+    "state": "Tennessee",
+    "summary": "<p>After conducting an investigation into the conditions at state-run Tennessee State Homes for Veterans (TSHVs), the U.S. Department of Justice (DOJ) filed this lawsuit against the State of Tennessee in the U.S. District Court for the Western District of Tennessee on January 16, 2009. TSHVs served as care facilities for veterans in need of intermediate or long-term rehabilitation, medical, or nursing care. During the underlying investigation, which began in February 2007 and occurred with the full cooperation of the State, the DOJ conducted tours of TSHVs and consulted with experts in the fields of geriatric care and nursing home administration. Plaintiff found that a number of conditions in the facilities violated residents' federal rights. Accordingly, Plaintiff made a number of factual allegations about the inadequacy of the care provided at TSHVs, including that the State engaged in a pattern or practice of failing to provide adequate nutrition, psychiatric care, end-of-life care and pain management, and that the State did not maintain a safe environment in the TSHVs. Plaintiff brought claims under the Due Process Clause of the Fourteenth Amendment and the Social Security Act. Acting under the Civil Rights for Institutionalized Persons Act (42 U.S. § 1997), plaintiff sought declaratory and injunctive relief. </p><p>After the DOJ made a report of its findings to the State, the parties agreed to settle pursuant to a Memorandum of Agreement. Accordingly, after negotiations, the parties jointly filed a Stipulated Settlement Agreement on the same day plaintiff filed its Complaint. The parties indicated that since the DOJ made a report of its findings to the State, the State had already made significant efforts to improve the areas of concern. </p><p>The terms of the Settlement Agreement provided that defendants would conduct assessments and create and implement protocols to ensure the following: 1) proper nutrition and hydration of TSVH residents; 2) safe feeding plans for those at risk of aspiration; 3) the provision of adequate and appropriate psychiatric and psychotropic care; 4) the provision of adequate end-of-life care and pain management; and 5) adequate fall prevention measures. The Settlement Agreement was to remain in effect for eighteen months, or until the State had achieved and maintained compliance for at least six months. </p><p>Simultaneously, the parties moved for conditional dismissal. Judge Daniel Breen granted their motion to dismiss, with the Court reserving jurisdiction only for enforcement of the Agreement. </p><p>The case closed in 2010 upon termination of the 18-month-long Agreement. </p>",
+    "summary_published_date": "2018-01-09T00:00:00-05:00",
+    "summary_short": "The U.S. Department of Justice (DOJ) entered into this Settlement Agreement with the State of Tennessee on January 9, 2009, after conducting an investigation into the conditions at Tennessee State Homes for Veterans (TSHVs). The DOJ found that the State had failed to provide adequate nutrition, psychiatric care, and safe conditions for residents at the TSHVs, and brought claims under the Due Process Clause of the Fourteenth Amendment and the Social Security Act. \r\n\r\nThe court immediately approved of the Settlement Agreement, which required the State to improve all conditions giving rise to the allegations and maintain adequate safety, healthcare, and nutrition for residents. Also on January 9, the court granted the parties' conditional motion to dismiss the case. The Agreement was in effect for 18 months, and the case is now closed. \r\n\r\nThe case was brought in the U.S. District Court for the Western District of Tennessee.  ",
+    "summary_tiny": null,
+    "terminating_date": null,
+    "clearinghouse_link": "clearinghouse.net/case/16083",
+    "is_active": true,
+    "case_documents_url": "https://clearinghouse.net/api/v2/documents/?case=16083",
+    "case_dockets_url": "https://clearinghouse.net/api/v2/dockets/?case=16083",
+    "case_resources_url": "https://clearinghouse.net/api/v2/resources/?case=16083"
+  },
+  "documents": [
+    {
+      "date": null,
+      "date_is_estimate": false,
+      "date_not_available": false,
+      "description": null,
+      "document_source": null,
+      "document_status": null,
+      "document_type": null,
+      "order_type": null,
+      "citation_paren": null,
+      "cite_1_page": null,
+      "cite_1_reporter": null,
+      "cite_1_vol": null,
+      "cite_2_page": null,
+      "cite_2_reporter": null,
+      "cite_2_vol": null,
+      "cite_3_page": null,
+      "cite_3_reporter": null,
+      "cite_3_vol": null,
+      "citation_status": null,
+      "court": null,
+      "no_title": false,
+      "party_types": [],
+      "per_curium": false,
+      "is_core_document": true,
+      "id": 115844,
+      "file": null,
+      "title": null,
+      "text": null,
+      "document_type_other": null,
+      "external_url": null,
+      "ecf_number": null,
+      "clearinghouse_link": "clearinghouse.net/doc/115844"
+    },
+    {
+      "date": "2009-01-20",
+      "date_is_estimate": false,
+      "date_not_available": false,
+      "description": null,
+      "document_source": "PACER [Public Access to Court Electronic Records]",
+      "document_status": "Coding Complete",
+      "document_type": "Docket",
+      "order_type": null,
+      "citation_paren": null,
+      "cite_1_page": null,
+      "cite_1_reporter": null,
+      "cite_1_vol": null,
+      "cite_2_page": null,
+      "cite_2_reporter": null,
+      "cite_2_vol": null,
+      "cite_3_page": null,
+      "cite_3_reporter": null,
+      "cite_3_vol": null,
+      "citation_status": "Not applicable",
+      "court": "Western District of Tennessee",
+      "no_title": false,
+      "party_types": [
+        "Court"
+      ],
+      "per_curium": false,
+      "is_core_document": true,
+      "id": 91187,
+      "file": "https://clearinghouse-umich-production.s3.amazonaws.com/media/doc/91187.pdf",
+      "title": "Docket",
+      "text": "Case: 1:09-cv-1012   As of: 04/19/2017 05:24 PM CDT   1 of 2\nCLOSED\nU.S. District Court\nWestern District of Tennessee (Jackson)\nCIVIL DOCKET FOR CASE #: 1:09−cv−01012−JDB−egb\nUnited States of America v. The State of Tennessee et al Date Filed: 01/16/2009\nAssigned to: Chief Judge J. Daniel Breen Date Terminated: 01/20/2009\nReferred to: Magistrate Judge Edward G. Bryant Jury Demand: None\nCause: 00:0000 Cause Code Unknown Nature of Suit: 440 Civil Rights: Other\nJurisdiction: U.S. Government Plaintiff\nPlaintiff\nUnited States of America represented by Harriett M. Halmon\nU.S. ATTORNEY'S OFFICE\nFederal Building\n167 N. Main St.\nSte. 800\nMemphis, TN 38103\n901−544−4231\nFax: 901−544−0854\nEmail: Harriett.Halmon@usdoj.gov\nLEAD ATTORNEY\nATTORNEY TO BE NOTICED\nRichard Leigh Grinalds\nU.S. ATTORNEY'S OFFICE\n3rd Floor Federal Bldg.\n109 S. Highland Ave.\nSte. 300\nJackson, TN 38301\n731−422−6220\nFax: 731−422−6668\nEmail: Vic.Ivy@usdoj.gov\nLEAD ATTORNEY\nATTORNEY TO BE NOTICED\nV.\nDefendant\nThe State of Tennessee\nDefendant\nThe Honorable Phil Bredesen\nGovernor of the State of Tennessee, in his\nofficial capacity only\nDefendant\nExecutive Director Polly Darnall\nTennessee State Veterans' Home Board,\nin her official capacity only\nDefendant\nInterim Administrato Greg Corvig\nTennessee Stae Veterans' Home −\nHumboldt, in his official capacity only\nDefendant\nAdministrator Russell Caughron\nTennessee State Veterans' Home −\nMufreesboro, in his official capacity only\n\nCase: 1:09-cv-1012   As of: 04/19/2017 05:24 PM CDT   2 of 2\nDate Filed # Docket Text\n01/16/2009 1  COMPLAINT against all defendants, filed by United States of America. (Attachments:\n# 1 Exhibit Certificate of the AG, # 2 Civil Cover Sheet, # 3 Judge's Card)(jlw)\n(Entered: 01/16/2009)\n01/16/2009 2  Joint MOTION to Dismiss With Entry of Stipulated Conditions Pursuant to Rule\n41(a)(1) of the Federal Rules of Civil Procedure (Proposed Order Submitted) by\nUnited States of America. (Attachments: # 1 Settlement Agreement)(Grinalds,\nRichard) (Entered: 01/16/2009)\n01/20/2009 3  ORDER GRANTING 2 JOINT MOTION FOR CONDITIONAL DISMISSAL\nPURSUANT TO RULE 41(a)(1) OF THE FEDERAL RULES OF CIVIL\nPROCEDURE. Signed by Judge J. Daniel Breen on 1/20/09. (Breen, J.) (Entered:\n01/20/2009)",
+      "document_type_other": "",
+      "external_url": "",
+      "ecf_number": null,
+      "clearinghouse_link": "clearinghouse.net/doc/91187"
+    },
+    {
+      "date": "2009-01-20",
+      "date_is_estimate": false,
+      "date_not_available": false,
+      "description": null,
+      "document_source": "PACER [Public Access to Court Electronic Records]",
+      "document_status": "Deleted",
+      "document_type": "Order/Opinion",
+      "order_type": "Non-Decree",
+      "citation_paren": null,
+      "cite_1_page": null,
+      "cite_1_reporter": null,
+      "cite_1_vol": null,
+      "cite_2_page": null,
+      "cite_2_reporter": null,
+      "cite_2_vol": null,
+      "cite_3_page": null,
+      "cite_3_reporter": null,
+      "cite_3_vol": null,
+      "citation_status": "Not applicable",
+      "court": "Western District of Tennessee",
+      "no_title": false,
+      "party_types": [
+        "Court"
+      ],
+      "per_curium": false,
+      "is_core_document": true,
+      "id": 91191,
+      "file": "https://clearinghouse-umich-production.s3.amazonaws.com/media/doc/91191.pdf",
+      "title": "Order Granting Joint Motion for Conditional Dismissal Pursuant to Rule 41(a)(1) of the Federal Rules of Civil Procedure",
+      "text": "Case 1:09-cv-01012-JDB-egb   Document 3   Filed 01/20/09   Page 1 of 1    PageID 32\nUNITED STATES DISTRICT COURT\nFOR THE WESTERN DISTRICT OF TENNESSEE\nEASTERN DIVISION\nUNITED STATES OF AMERICA, )\n)\nPlaintiff, ) Civil Action No.  09-1012\n)\nv. )\n)\nSTATE OF TENNESSEE, et al., )\n)\nDefendants. )\n____________________________________)\nORDER GRANTING JOINT MOTION FOR CONDITIONAL\n DISMISSAL PURSUANT TO RULE 41(a)(1) OF THE \nFEDERAL RULES OF CIVIL PROCEDURE\nPursuant to Fed. R. Civ. P. 41 (a)(1), the Joint Motion for Conditional Dismissal is\nhereby GRANTED. The matter is dismissed without prejudice subject to the terms of the\nSettlement Agreement. The Clerk shall administratively close the matter. The Court, however,\nretains jurisdiction over this case in accordance with the terms of the Settlement Agreement.\nIT IS SO ORDERED this 20th day of January, 2009.\ns/ J. DANIEL BREEN                           \nUNITED STATES DISTRICT JUDGE",
+      "document_type_other": "",
+      "external_url": "",
+      "ecf_number": "3",
+      "clearinghouse_link": "clearinghouse.net/doc/91191"
+    },
+    {
+      "date": "2009-01-20",
+      "date_is_estimate": false,
+      "date_not_available": false,
+      "description": null,
+      "document_source": "U.S. Department of Justice, Civil Rights Division, Special Litigation Section",
+      "document_status": "Coding Complete",
+      "document_type": "Settlement Agreement",
+      "order_type": "Consent Decree",
+      "citation_paren": null,
+      "cite_1_page": null,
+      "cite_1_reporter": null,
+      "cite_1_vol": null,
+      "cite_2_page": null,
+      "cite_2_reporter": null,
+      "cite_2_vol": null,
+      "cite_3_page": null,
+      "cite_3_reporter": null,
+      "cite_3_vol": null,
+      "citation_status": "Not applicable",
+      "court": "No Court",
+      "no_title": false,
+      "party_types": [
+        "Defendant",
+        "Plaintiff"
+      ],
+      "per_curium": false,
+      "is_core_document": true,
+      "id": 93539,
+      "file": "https://clearinghouse-umich-production.s3.amazonaws.com/media/doc/93539.pdf",
+      "title": "Memorandum of Agreement Between the United States and the State of Tennessee Regarding the Tennessee State Veteran's Homes",
+      "text": "MEMORANDUM OF AGREEMENT BETWEEN THE UNITED STATES AND THE STATE\n \nOF TENNESSEE REGARDING THE TENNESSEE STATE VETERANS’ HOMES\n \nI.  INTRODUCTION\n \n1.   This Memorandum of Agreement (“MOA”) is entered into by\n \nthe United States and the State of Tennessee (“State”).  This MOA\n \naddresses certain aspects of the United States’ investigation\n \ninto the conditions of care and treatment of the residents in the\n \nTennessee State Veterans’ Homes in Humboldt and Murfreesboro,\n \nTennessee (collectively, “TSVHs”), pursuant to the Civil Rights\n \nof Institutionalized Persons Act (“CRIPA”), 42 U.S.C. § 1997. \n\n2.  The United States’ investigation began on February 12,\n \n2007, when the United States notified the State, pursuant to\n \nCRIPA, that it was initiating an investigation into the\n \nconditions of care and treatment of TSVHs residents.\n \n3.  As part of the investigation, the United States toured\n \nthe TSVHs in April, May, and July 2007.  On February 5, 2008, the\n \nUnited States notified the State of the findings of its\n \ninvestigation, and thereafter, conducted another tour of the\n \nfacilities in October and November 2008.\n \n4.  This MOA addresses certain concerns raised by the United\n \nStates in its February 5, 2008 findings letter.\n \n   5.  It is the position of the United States that the care,\n \nliving conditions, and the treatment of TSVHs’ residents\n \nimplicate rights of these residents that are secured or protected\n \nby the Constitution of the United States and the laws of the\n \nUnited States.\n \n\n-2­\n6.  The State does not agree that conditions at the TSVHs\n \nimplicate constitutional rights for the residents of the TSVHs. \n\nNothing in this MOA in any way impacts the State from raising\n \nsuch a defense in any legal proceeding.\n \n7.  The parties entering into this MOA recognize, that\n \nsince the initiation of this investigation, the State has made\n \nefforts to improve the care it provides to TSVHs residents.\n \n8.  The parties agree to the provisions set forth in this\n \nMOA to ensure that these ongoing improvements continue to be\n \nimplemented and maintained at the TSVHs.  This MOA provides for\n \nactions, practices, and procedures that the State agrees to\n \nimplement.\n \n9.   Each and every provision of this MOA is entered into by\n \nclear agreement of the parties.\n \n10.  In entering into this MOA, the State does not admit any\n \nviolation of state or federal law, and this MOA may not be used\n \nas evidence of liability in any legal proceeding.\n \n11.  The provisions of this MOA are a lawful, fair,\n \nadequate, and reasonable resolution of part of this\n \ninvestigation.\n \n12.  The purpose of this MOA is to achieve the substantive\n \noutcomes set forth within this MOA.\n \n13.  This MOA is binding on the State and its agencies\n \nand/or departments that may have an effect, either directly or\n \nindirectly, either currently or in the future, on the operations\n \nof the TSVHs.\n \n\n-3­\n14.  This MOA is not intended to impair or expand the right\n \nany person or organization to seek relief against the State, or\n \nits officials, employees, or agents for their conduct or the\n \nconduct of State employees; accordingly, this MOA does not alter\n \nlegal standards governing such claims, including those under\n \nTennessee law.\n \nII.  DEFINITIONS\n \nAs used in this MOA Agreement, the following definitions\n \napply to the terms below.\n \n15. \"Adequate\" or “appropriate” shall mean the level of\n \nservice required for compliance with all applicable federal,\n \nstate, and local laws, regulations, and codes, and with generally\n \naccepted professional standards; and also means that level of\n \nservice required by a resident to attain or maintain the\n \nresident’s highest practicable physical, mental, and psychosocial\n \nwell-being possible, given the resident’s functional status, as\n \nrequired by 42 C.F.R. § 483.25.\n \n16. “Care Plan” shall mean a written plan of care that meets\n \nthe requirements of 42 U.S.C. § 1395i-3(b)(2) and (3), 42 U.S.C.\n \n§ 1396r(b)(2) and (3), and 42 C.F.R. § 483.20(k). \n\n17.  “The TSVHs” shall mean the Tennessee State Veterans’\n \nHomes in Humboldt and Murfreesboro, Tennessee. \n\n18.  “Highest Practicable” shall mean the highest level of\n \nfunction and well-being possible consistent with generally \n\naccepted standards, limited only by the individual’s presenting \n\n\n-4­\nfunctional status and potential for improvement or reduced rate\n \nof functional decline.\n \n19.  “Incident” shall mean any unusual or unexplained\n \noccurrence that results in actual or potential physical harm,\n \npain, or mental anguish to a resident; any known, alleged, or\n \nsuspected event of abuse, neglect, or exploitation of a resident;\n \nor any unexpected death of a resident. \n\n20.  “Qualified Professional or Qualified Staff” shall mean\n \nan individual who is competent, whether by education, training,\n \nor experience, to make the particular decision at issue.\n \n21.  “Resident” shall mean any person residing at the TSVHs\n \nduring the operation of this MOA.\n \n22.  “Substantial Compliance” shall mean a level of\n \ncompliance that does not significantly deviate from the terms of\n \nthis MOA, provided that such deviation poses no significant risk\n \nto a resident’s health or safety.  Noncompliance with mere\n \ntechnicalities, or temporary failure to comply during a period of\n \notherwise sustained compliance, shall not constitute failure to\n \nmaintain substantial compliance.  At the same time, temporary\n \ncompliance during a period of otherwise sustained noncompliance\n \nshall not constitute substantial compliance.\n \nIII. SUBSTANTIVE REMEDIAL MEASURES \n  \nA.  HEALTH CARE ASSESSMENTS AND CARE PLANS\n \n23.  At six months from the effective date of this MOA, or\n \nshortly thereafter, the United States will assess the TSVHs to\n \ndetermine if the State is ensuring that adequate and appropriate\n \n\n-5­\nhealth care services are offered to the residents of the TSVHs.\n \n24.  The State shall continue to conduct comprehensive\n \nassessments of each TSVH resident’s functional capacity\n \nconsistent with 42 U.S.C. § 1395i-3(b)(3), 42 U.S.C.\n \n§ 1395r(b)(3), and 42 C.F.R. § 483.20(b).\n \n25.  Consistent with the aforementioned statutes and\n \nregulation, the TSVHs shall continue to ensure that residents are\n \nprovided, and have implemented by qualified staff, a care plan,\n \ndeveloped by an appropriately comprised interdisciplinary team of\n \nqualified professionals, including a physician, a registered\n \nnurse, and a dietitian, and where appropriate, a psychiatrist, a\n \npharmacist, or a rehabilitation/restorative therapist(s).  The\n \ncare plan shall describe the medical, nursing, and psychosocial\n \nneeds of the resident and how such needs will be met. \n\n26.  The State shall continue to ensure TSVHs’ staff are\n \ntrained in TSVHs’ policies and procedures that reflect current\n \nstandards of evaluating, monitoring, and treating the needs of\n \nthe residents of the TSVHs. \n\n27.  The State shall require that the TSVHs’ continue to\n \nadequately evaluate residents’ acute and ongoing medical status\n \nto ensure that residents’ health status is monitored accurately,\n \nand that residents who experience a significant change of status\n \nare evaluated and treated.\n \n28.  The State shall require that the TSVHs’ staff use all\n \navailable data in their assessments (such as lab/diagnostic\n \nstudies, other health professions’ data, etc.) to identify\n \n\n-6­\nresidents’ problems/conditions and revise care plans to address\n \nabnormal laboratory findings and any other problems/conditions.\n \n29.  The State shall continue to ensure that there are\n \nsufficient numbers of nursing staff, present and on duty on each\n \nshift at the TSVHs as required by 42 U.S.C. § 483.30; 42 U.S.C.\n \n§ 1395i-3(b)(4)(C), (5), and (8); and 42 U.S.C.\n \n§ 1395r(b)(4)(C),(5), and (8).\n \n30.  The State shall ensure that qualified professionals\n \nconduct morbidity reviews for every resident transferred to an\n \nacute care setting and that these morbidity reviews are reviewed\n \nto determine whether the TSVHs provided adequate care to the\n \nresident prior to the transfer.  If a morbidity review identifies\n \nany deficiencies in care provided by the TSVHs, the TSVHs shall\n \ninstitute reasonable and appropriate corrective measures to\n \naddress any such deficiency. \n\n31.  The State shall ensure that qualified professionals\n \nconduct mortality reviews for residents who die at the TSVHs or\n \nwho die at an acute care facility after being transferred there\n \nfrom the TSVHs, to the fullest extent that the TSVHs’s access to\n \nresidents’ medical records from the acute care facilities\n \npermits.  If a mortality review identifies any deficiencies in \n\ncare provided by the TSVHs, the TSVHs shall institute reasonable\n \nand appropriate corrective measures to address any such\n \ndeficiency.\n \n32.  The TSVHs shall continue their ongoing efforts to\n \nimplement adequate quality assurance mechanisms to monitor the\n \n\n-7­\ndelivery of health care services to residents of the TSVHs,\n \nconsistent with 42 C.F.R. § 483.75(o), 42 U.S.C. \n\n§ 1395i-3(b)(1)(B), and 42 U.S.C. § 1395r(b)(1)(B).\n \nB.  PRESSURE SORE PREVENTION AND CARE\n \n33.  At six months from the effective date of this MOA, or\n \nshortly thereafter, the United States will assess the TSVHs to\n \ndetermine if the State has implemented measures to ensure that\n \nresidents do not develop otherwise preventable pressure sores and\n \nthat adequate and appropriate treatment is provided to residents\n \nwho have pressure sores, as required by 42 C.F.R. § 483.25(c). \n\n34.  Consistent with the aforementioned regulation, the\n \nState shall continue to assess and identify residents who are at\n \nrisk of developing pressure sores.\n \n35.  The State shall continue to develop and implement\n \nadequate and appropriate skin care plans for residents identified\n \nas at risk of skin breakdown or with actual skin breakdown.\n \n36.  The State shall continue to ensure that staff,\n \nespecially staff dedicated to wound care treatment, are trained \n\nadequately in current professional standards, practices, and\n \ntechniques regarding pressure sore assessment and methods of\n \ncare.\n \nC.  REHABILITATIVE AND RESTORATIVE CARE\n \n37.  At six months from the effective date of this MOA, or\n \nshortly thereafter, the United States will assess the TSVHs to \n\nensure that all residents receive adequate and appropriate \n\n\n-8­\nrehabilitative and restorative care consistent with 42 C.F.R.\n \n§§ 483.25(a), 483.25(d), 483.25(e), and 483.45.\n \n38.  The State shall continue to ensure that residents\n \nreceive adequate adaptive equipment, including wheelchairs, and\n \nthat residents are appropriately positioned in wheelchairs.\n \n39.  The State shall continue to ensure that residents who\n \nneed assistance with feeding or bathing, receive such assistance.\n \n40.  The State shall continue to ensure that residents who\n \ncan ambulate with assistance, receive such assistance and are not\n \nunduly restrained.\n \n41.  The State shall continue to ensure that residents\n \nreceive exercises, such as range-of-motion and walking, to\n \nprevent unnecessary loss of function. \n\n42.  The State shall continue to ensure that residents who\n \nwander are provided the means to do so safely.\n \n43.  The State shall continue to ensure that residents who\n \nhave behavior difficulties receive treatment to address such\n \nbehaviors in as non-intrusive a manner as possible. \n\n44.  The State shall continue to ensure that residents who\n \ncould benefit from continence care programs, receive such\n \nprograms.\n \n   D.  ACTIVITIES AND PSYCHOSOCIAL PROGRAMS\n \n45.  At six months from the effective date of this MOA, or\n \nshortly thereafter, the United States will assess the TSVHs to\n \ndetermine if residents are provided an adequate and appropriate \n\nongoing program of meaningful activities consistent with \n\n\n-9­\n42 C.F.R. § 483.1(f), 42 U.S.C. § 1395i-3(b)(4)(A)(v), and \n\n42 U.S.C. § 1395r(b)(4)(A)(v).\n \n46.  Consistent with the aforementioned statutes and\n \nregulation, the State shall ensure that activities and \n\npsychosocial programs are directed by qualified professional(s).\n \n47.  The State shall continue to ensure that adequate and\n \nappropriate activities shall take place on weekends and evenings,\n \nas well as during the weekdays.\n \nG.  PROTECTION FROM OTHER HARM \n\n48.  At six months from the effective date of this MOA, or\n \nshortly thereafter, the United States will assess the TSVHs to\n \nensure that the TSVHs’ residents are adequately and appropriately\n \nprotected from harm, particularly harm resulting from the\n \nbehavior of other residents. \n\n49.  The State shall, immediately upon the signing of this\n \nMOA, take reasonably effective steps to provide adequate and\n \nappropriate supervision of the residents of the TSVHs to protect\n \nthem from harm resulting from instances of resident-on-resident\n \nassaults.\n \n50.  The State shall continue to identify residents who are\n \nat risk of harm, or who pose a risk of harm to other residents,\n \nbased upon residents’ cognitive impairments or dangerous\n \nbehaviors, and develop and implement measures to protect\n \nresidents from the potential of self-harm or harm to other\n \nresidents.\n \n\n-10­\n51.  The TSVHs shall continue to identify residents who are\n \nat risk of being victimized and take adequate steps to protect\n \nthem. \n\n52.  The TSVHs shall continue to ensure that whenever a\n \nresident suffers an injury or experiences any event that exposes\n \nthe resident to mental, physical, or psychological harm, the\n \nState shall ensure that following occurs:\n \na.  An incident report shall be completed at the time of\n \nthe occurrence and submitted to the Medical Director and the\n \nDirector of Nursing;\n \nb.  The Medical Director and the Director of Nursing shall\n \nreview and sign all incident reports and initiate any appropriate\n \nadministrative and/or clinical action;\n \nc.  At the time of the occurrence, a RN shall assess the\n \nresident to determine if there is actual or suspected injury and\n \nimplement necessary and appropriate care to prevent further\n \ncomplications; \n\nd.  A physician shall be notified immediately of any change\n \nin the resident’s condition as a result of the incident and shall\n \nevaluate the resident’s condition and the circumstances\n \nsurrounding the incident and prescribe medical care as needed;\n \ne.  The resident’s family shall be promptly notified of the\n \nincident whether the resident suffers an injury or not; and\n \nf.  All incidents shall be investigated by the Director of\n \nNursing or a competent designee.\n \n \n\n-11­\n53.  The Administrator and the Director of Nursing or their \n\ndesignee shall meet daily to discuss any incidents as well as any\n \nmeasures that should be taken to prevent further occurrences. \n\nFurther, the Administrator shall ensure that such incidents,\n \nincluding incidents of unknown origin, are reported to State\n \nauthorities in accordance with state statutes and regulations. \n\nSee 42 C.F.R. § 483.13(c)(2).\n \n54.  For residents who sustain more than one injury during \n\nany three-month period of time, the Director of Nursing, or the\n \nDirector’s designee, shall refer the record(s) of each incident\n \nto an appropriately compromised interdisciplinary team for\n \nreview.\n \nIV. IMPLEMENTATION OF THE MOA\n \n55.  This MOA will be effective on the date it is fully\n \nexecuted by the parties. \n\n56.  Within one month of the effective date of this MOA, the\n \nState shall communicate to TSVH employees and any independent\n \ncontractors involved in providing residents’ care of the\n \nconditions set forth in this MOA that are applicable to their\n \nrespective job duties.\n \n57.  The United States and its expert consultants and agents\n \nmay, at its discretion, tour the TSVHs to assess compliance with\n \nthis MOA.\n \n58.  Prior to any tour, the United States shall provide\n \nreasonable notice to the State.  Within a reasonable time in \n\n\n-12­\nadvance of the tour, the United States shall identify any expert\n \nconsultants it plans to use on the tour.\n \n59.  The United States and its attorneys, expert\n \nconsultants, and agents shall have reasonable access to the\n \nfacilities, documents, records, residents, and employees of the\n \nTSVHs upon reasonable notice to the State for the purpose of\n \nascertaining compliance with this MOA.  Such access shall\n \ncontinue until this MOA is terminated as set forth in paragraph\n \n62 below.\n \n60.  Throughout the duration of the MOA, the United States\n \nand its expert consultants and agents will maintain the\n \nconfidentiality of TSVH residents’ medical and personal\n \ninformation, to the fullest extent allowed by law.\n \n61.  Within a reasonable period of time after the conclusion\n \nof any visit, the United States shall make available to the State\n \nany post-tour reports prepared by its expert consultants.\n \n62.  This MOA will terminate 18 months after the effective\n \ndate of the MOA.  The MOA may terminate prior to the 18 month\n \ndate if the parties agree that the TSVHs are in substantial\n \ncompliance with each of the provisions of this MOA, and that the\n \nTSVHs have maintained substantial compliance for at least six\n \nmonths. \n\n63.  Nothing in this MOA shall prevent the State from\n \nmodifying or closing the TSVHs or from developing alternative\n \ncommunity placements for the residents of the TSVHs\n \n\n-13­\n64.  All parties shall bear their own costs, including\n \nattorneys’ fees, related to assessing compliance with this MOA.\n \nV.  DISPUTE RESOLUTION\n \n65.  The parties will work in good faith to meet the terms\n \nof this MOA and maintain the goal of ensuring appropriate care\n \nfor the residents of the TSVHs.\n \n66.  This MOA is binding upon the parties, by and through\n \ntheir officials, agents, employees, assigns, and successors.\n \n67.  If the State fails to comply with this MOA in whole or\n \nin part, the United States retains the right to seek appropriate\n \njudicial relief in federal court if, after sixty (60) days prior\n \nwritten notice to the State of the breach, the State has failed\n \nto cure such breach during the sixty (60) day period.  Nothing in\n \nthis MOA shall be construed to preclude the State from asserting\n \nany legal defense or theory in any legal proceeding. \n\n68.  Failure by any party to enforce this entire MOA, or any\n \nprovision thereof, with respect to any deadline or any other\n \nprovision herein, shall not be construed as a waiver of its right\n \nto enforce other deadlines and provisions of this MOA.\n \nVI.  MODIFICATION OF THE MOA\n \n69.  If, at any time, any party to this MOA desires to\n \nmodify it for any reason, that party will notify the other party \n\n\n-14­\nin writing of the proposed modification and the reasons therefor. \n\nNo modification will occur unless there is written agreement by\n \nthe parties.\n \nAGREED TO:\n \nFOR THE UNITED STATES:\n \n/s/ Grace Chung Becker\n \n  _________________________\nGRACE CHUNG BECKER\n \nActing Assistant Attorney\n\n   General\n \nCivil Rights Division\n \n/s/ Shanetta Y. Cutlar\n \n                         \nSHANETTA Y. CUTLAR\n \nChief\n \nSpecial Litigation Section\n \n/s/ Judy Preston\n \n__________________________\nJUDY PRESTON\n \nDeputy Chief\n\nSpecial Litigation Section \n\n\n-15­\n/s/ Corey M. Sanders\n \n________________________\nVERLIN H. DEERINWATER\n \nCOREY M. SANDERS\n \nAttorneys\n\nU.S. Department of Justice\n\nCivil Rights Division\n\nSpecial Litigation Section\n\n601 D. St. NW\n \nPHB - Room 5928\n \nWashington, DC  20004\n \n(202) 514-6255\n\n(202) 514-6273 (fax)\n \nFOR THE STATE OF TENNESSEE:\n\n                            \n ROBERT E. COOPER JR.\n \nAttorney General\n\nState of Tennessee\n \n/s/ Pamela A. Hayden-Wood\n \n                             \nPAMELA HAYDEN-WOOD\n \nWARREN JASPER\n \nSenior Counsel\n \nState of Tennessee\n \nCordell Hull Building 524\n\n524 Fifth Avenue North \n\nNashville, TN  37243-0499\n ",
+      "document_type_other": "",
+      "external_url": "https://www.justice.gov/sites/default/files/crt/legacy/2010/12/15/TSVHs_MOA_01-20-09.pdf",
+      "ecf_number": "",
+      "clearinghouse_link": "clearinghouse.net/doc/93539"
+    },
+    {
+      "date": "2009-01-16",
+      "date_is_estimate": false,
+      "date_not_available": false,
+      "description": null,
+      "document_source": "PACER [Public Access to Court Electronic Records]",
+      "document_status": "Coding Complete",
+      "document_type": "Complaint",
+      "order_type": null,
+      "citation_paren": null,
+      "cite_1_page": null,
+      "cite_1_reporter": null,
+      "cite_1_vol": null,
+      "cite_2_page": null,
+      "cite_2_reporter": null,
+      "cite_2_vol": null,
+      "cite_3_page": null,
+      "cite_3_reporter": null,
+      "cite_3_vol": null,
+      "citation_status": "Not applicable",
+      "court": "Western District of Tennessee",
+      "no_title": false,
+      "party_types": [
+        "Plaintiff"
+      ],
+      "per_curium": false,
+      "is_core_document": true,
+      "id": 91189,
+      "file": "https://clearinghouse-umich-production.s3.amazonaws.com/media/doc/91189.pdf",
+      "title": "Complaint",
+      "text": "Case 1:09-cv-01012-JDB-egb   Document 1   Filed 01/16/09   Page 1 of 9    PageID 1\nUNITED  STATES  DISTRICT  COURT \nFOR  THE  WESTERN  DISTRICT  OF  TENNESSEE \nEASTERN  DIVISION \nUNITED  STATES  OF  AMERICA,  ) \n) \nPlaintiff,  ) \n) \nv.  ) \n) \nTHE  STATE  OF  TENNESSEE;  The  ) \nHonorable  PHIL  BREDESEN,  ) \nGovernor  of  the  State  of  Tennessee,  )  CIVIL  ACTION  NO. \nin his  official  capacity only;  ) \nPOLLY  DARNALL,  Executive  Director,  ) \nTennessee  State Veterans'  Home  Board,  )  COMPLAINT \nin her  official  capacity only;  GREG  ) \nCORVIG,  Interim Administrator,  ) \nTennessee  State Veterans'  ) \nHome  - Humboldt,  in his  official  ) \ncapacity only;  and  RUSSELL  CAUGHRON,  ) \nAdministrator,  Tennessee  State Veterans') \nHome  - Murfreesboro,  in his  official  ) \ncapacity only,  ) \n) \n_____________D__ef_e_n_d_an_t_s._ __________ ) \n) \nPLAINTIFF,  THE  UNITED  STATES  OF  AMERICA  (\"Plaintiff\"),  by \nits undersigned  attorneys,  hereby  alleges  upon  information  and \nbelief: \n1.  The  Attorney General  files  this  Complaint  on  behalf  of \nthe  United  States  of  America  pursuant  to  the  Civil  Rights  of \nInstitutionalized Persons  Act,  42  U.S.C.  §  1997,  to  enjoin  the \nDefendants  from  depriving  persons  housed  at  the  Tennessee  State \nVeterans'  Homes  in Humboldt  (\"TSVH-Humboldt\")  and  Murfreesboro \n(\"TSVH-Murfreesboro\"),  located  in Humboldt  and  Murfreesboro, \n\nCase 1:09-cv-01012-JDB-egb   Document 1   Filed 01/16/09   Page 2 of 9    PageID 2\n- 2  -\nTennessee,  (collectively,  the  \"TSVHs\")  of  rights,  privileges,  or \nimmunities  secured  and  protected by  the  Constitution and  laws  of \nthe  United  States. \nJURISDICTION  AND  VENUE \n2.  This  Court  has  jurisdiction over  this  action under \n28  U.S.C  §§  1331  and  1345. \n3.  The  United  States  is  authorized  to  initiate  this  action \npursuant  to  42  U.S.C.  §  1997a. \n4.  The  Attorney General  has  certified that  all  pre-filing \nrequirements  specified  in 42  U.S.C.  §  1997b  have  been  met.  The \nCertificate of  the Attorney General  is appended  to  this  Complaint \nand  is  incorporated herein. \n5.  Venue  in this district  is proper pursuant  to  28  U.S.C. \n§  1391 (b)  (1). \nDEFENDANTS \n6.  Defendant  State  of  Tennessee  (\"State\")  owns  and \noperates  the  TSVHs,  and  as  such  has  responsibility for  the \nconditions  of  care  and  treatment  provided  to  residents  living \nthere. \n7.  Defendant  PHIL  BREDESEN  is  the  Governor  of  the  State  of \nTennessee,  and,  in  this  capacity,  heads  the  Executive  Branch  of \nthe  State's government  and,  among  other duties,  reviews  and \napproves  budget  requests  submitted  by  Executive  Branch  agencies \n\nCase 1:09-cv-01012-JDB-egb   Document 1   Filed 01/16/09   Page 3 of 9    PageID 3\n- 3  -\nsuch  as  the  Tennessee  Department  of  Veterans'  Affairs.  He \nappoints  the  members  of  the  Tennessee  State Veterans'  Home  Board. \n8.  Defendant  POLLY  DARNALL  is  the  Executive  Director of \nthe  Tennessee  State  Veterans'  Home  Board  (\"The  Board\").  The \nExecutive  Committee  of  the  Board  has  the  authority  for  planning, \nimplementating,  and  operating  the  TSVHs. \n9.  Defendant  GREG  CORVIG  is  the  Interim Administrator of \nTSVH-Humboldt  and  is  responsible  for  the  day-to-day operation  of \nTSVH-Humboldt.  TSVH-Humboldt  is  located  in Gibson  County \nTennessee,  which  is in the  Western  Judicial  District  of \nTennessee. \n10.  Defendant  RUSSELL  CAUGHRON  is  the  Administrator  of \nTSVH-Murfreesboro  and  is  responsible  for  the  day-to-day operation \nof  TSVH-Murfreesboro.  TSVH-Murfreesboro  is  located  in Rutherford \nCounty Tennessee,  which  is  in the  Middle  Judicial  District  of \nTennessee. \n11.  The  individual  Defendants  named  in paragraph  7  - 10 \nabove  are  officers  of  the  State  of  Tennessee  and  are  sued  in \ntheir official  capacities  only. \nFACTUAL  ALLEGATIONS \n12.  Defendants  are  legally responsible,  in whole  or  in \npart,  for  the  operation of  the  TSVHs  and  for  the  health and \nsafety of  the  residents  residing  at  the  TSVHs. \n\nCase 1:09-cv-01012-JDB-egb   Document 1   Filed 01/16/09   Page 4 of 9    PageID 4\n- 4  -\n13.  The  TSVHs  are  institutions  within  the  meaning  of \n42  u.s.c.  §  1997(1). \n14.  Defendants  are  obligated  to operate  the  TSVHs  in a \nmanner  that  does  not  infringe  upon  the  federal  rights  of \nindividuals  residing  at  the  TSVHs,  as  protected by  the  Fourteenth \nAmendment  to  the  Constitution of  the  United  States  and  other \nfederal  law. \n15.  The  TSVHs  are  long-term  care  facilities  (\"nursing \nhomesH)  providing  residential,  intermediate  or  long-term  skilled \nnursing  care.  TSVH  residents  are  primarily elderly residents, \nmost  of  whom  are  veterans  or  family  members  of  a  veteran. \n16.  Defendants  are  obligated  to provide  services  and \nactivities  to  individuals  residing  in the  TSVHs  in a  manner  and \nenvironment  consistent with  Title XVIII  and  Title XIX  of  the \nSocial  Security Act  and  implementing  regulations. \n42  U.S.C.  §  1395i-3,  42  U.S.C.  §  1396r,  and  42  C.F.R.  §  483. \n17.  At  all  times,  Defendants  have  acted  or  failed  to  act, \nas  alleged herein,  under  color  of  state  law. \n18.  Individuals  are  admitted  to  the  TSVHs  because  they \nrequire  skilled and  long-term nursing  care  and  related  services \nand/or  rehabilitation services  for  injuries,  disabilities  or \nsickness  and  require  residential  medical  or nursing  care, \nrehabilitation services,  or health care  and  services  for  the \ntreatment  of  such  conditions. \n\nCase 1:09-cv-01012-JDB-egb   Document 1   Filed 01/16/09   Page 5 of 9    PageID 5\n- 5  -\n19.  Defendants  have  engaged  in,  and  continue  to  engage  in, \na  pattern or practice  of  failing  to provide  constitutionally \nadequate  health  care  services  to  TSVHs'  residents.  Specifically, \nDefendants  are  failing  to provide  TSVHs'  residents  with: \na.  adequate  nutrition and  hydration  care; \nb.  adequate  and  safe psychotropic  medication \npractice;  and \nc.  adequate  pain management  and  end-of-life  care. \n20.  Defendants  have  failed,  and  continue  to  fail,  to \nprovide  TSVHs'  residents  with  a  safe  environment  by  keeping \nresidents  safe  from  unreasonable  harm  and  risk of  harm  from \nfalling. \n21.  The  factual  allegations  set  forth  in  Paragraphs  19  and \n20  have  been  known  to  Defendants  for  a  substantial  period  of \ntime;  yet  Defendants  have  failed  to  adequately  address \nconstitutionally deficient  health care  and  undue  safety risks  for \nresidents  at  the  TSVHs. \nVIOLATIONS  ALLEGED \nCOUNT  ONE: \nViolations  of  the  Due  Process  Protections  of  the  Fourteenth \nAmendment  to  the  United  States  Constitution \n22.  The  United  States  incorporates  by  reference  the \nallegations  set  forth  in  Paragraphs  1  through  21  as  if  fully  set \nforth  herein. \n\nCase 1:09-cv-01012-JDB-egb   Document 1   Filed 01/16/09   Page 6 of 9    PageID 6\n- 6  -\n23.  The  acts  and  omissions  alleged  in paragraphs  19  and \n20  constitute  a  pattern or practice  that  violates  the  federal \nrights  of  individuals  residing  in  the  TSVHs,  as  protected by  the \nFourteenth Amendment  to  the  Constitution of  the  United  States  and \nby  other  federal  law. \n24.  Unless  restrained by  the  Court,  Defendants  will \ncontinue  to  engage  acts  and  omissions  set  forth  in paragraphs  19 \nand  20  that  deprive  the  TSVHs'  residents  of  rights,  privileges, \nor  immunities  secured  or protected by  the  Constitution of  the \nUnited  States  and  federal  law,  and  will  cause  irreparable harm  to \nthese  residents. \nCOUNT  TWO: \nViolations  of  the  Social  Security Act \n25.  The  United  States  incorporates  by  reference  the \nallegations  set  forth  in  Paragraphs  1  through  21  as  if fully set \nforth  herein. \n26.  The  acts  and  omissions  alleged  in paragraphs  19  and  20 \nviolate  Titles  XVIII  and  XIX  of  the  Social  Security Act  and \nimplementing  regulations.  42  U.S.C.  §  1395i-3, \n42  U.S.C.  §  1396r,  and  42  C.F.R.  §  483. \n27.  Unless  restrained by  the  Court,  Defendants  will \ncontinue  to  engage  in  the  acts  and  omissions  set  forth  in \nparagraphs  19  and  20  that  deprive  the  TSVHs'  residents  of  rights, \n\nCase 1:09-cv-01012-JDB-egb   Document 1   Filed 01/16/09   Page 7 of 9    PageID 7\n- 7  -\nprivileges,  or  immunities  secured  or protected by  federal  law, \nand  will  cause  irreparable  harm  to  these  residents. \nPRAYER  FOR  RELIEF \n28.  The  Attorney General  is  authorized under \n42  U.S.C.  §  1997  to  seek  equitable  relief. \nWHEREFORE,  the United  States  of  America  respectfully \nrequests  that  this  Court: \na.  Declare  that  the  acts,  omissions,  and  practices \nset  forth  in paragraphs  19  and  20  above  constitute  a  pattern or \npractice  of  resistance  to  the  TSVHs'  residents'  full  enjoyment  of \nrights,  privileges,  or  immunities  secured  or protected  by  the \nConstitution or  laws  of  the  United  States,  and  that  those  acts, \nomissions,  and  practices violate  the  Constitution and  laws  of  the \nUnited  States; \nb.  Permanently enjoin Defendants,  their officers, \nagents,  employees,  subordinates,  successors  in office,  and  all \nthose  acting  in concert  or participation with  them  from \ncontinuing  the  acts  and  omissions  set  forth  in  Paragraphs  19  and \n20  above,  and  require  Defendants  to  take  such  actions  as  will \nensure  that  lawful  conditions  of  institutionalization are \nafforded  to  the  TSVHs'  residents;  and \n\nCase 1:09-cv-01012-JDB-egb   Document 1   Filed 01/16/09   Page 8 of 9    PageID 8\n- 8  -\nc.  Grant  such  other and  further  equitable  relief as \nthe  Court  may  deem  just  and  proper. \nRespectfully  submitted, \nPlaintiff \n9F'~M~RICA, \nAttorney General  of  the  United  States \n\nCase 1:09-cv-01012-JDB-egb   Document 1   Filed 01/16/09   Page 9 of 9    PageID 9\n- 9  -\nLAWRENCE  J.  LAURENZI  GRACE  CHUNG  BEC  R \nUnited  States Attorney  Assistant Attorney \nriJU:Cnne~ \nBY:  s/ Harriett  Halmon \ns \nHarriett  Halmon \nAssistant  United  States Attorney  c \n800  Federal  Building  pecial  Litigation Section \n'.\"'1 ; \n1\n\":~S 7'~er~~tf' \n.I \nJUDY~ \n~~ vt  ~ ;~v[:S~ ~~ \ncr \nJ \nDeputy  C  ief \nSpecial  Litigat'  n  Section \nAttorneys \nU.S.  Department  of  Justice \nCivil  Rights  Division \nSpecial  Litigation Section \n601  D.  St.  NW \nPHB  - Room  5928 \nWashington,  DC  20004 \n(202)  514-6255 \n(202)  514-6273  (fax) ",
+      "document_type_other": "",
+      "external_url": "",
+      "ecf_number": "1",
+      "clearinghouse_link": "clearinghouse.net/doc/91189"
+    }
+  ],
+  "document_count": 5
+}

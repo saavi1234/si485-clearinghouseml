@@ -1,0 +1,847 @@
+{
+  "case_id": 15475,
+  "fetched_at": "2025-10-22T00:25:11.176079",
+  "case_data": {
+    "attorney_orgs": [],
+    "available_documents": [
+      "Complaint (any)",
+      "Any published opinion"
+    ],
+    "case_defendants": [
+      {
+        "defendant_level": null,
+        "institution": "Federal Bureau of Investigation",
+        "institution_alt_state": null,
+        "institution_city": "Washington",
+        "institution_county": "District of Columbia",
+        "name": "Federal Bureau of Investigation",
+        "defendant_level_other": "",
+        "is_active": true
+      }
+    ],
+    "case_ongoing": "No",
+    "case_status": "Coding Complete",
+    "case_types": [
+      "National Security"
+    ],
+    "cause_other": "",
+    "causes": [
+      "FOIA (Freedom of Information Act), 5 U.S.C. § 552"
+    ],
+    "class_action_granted": "Not sought",
+    "class_action_sought": "No",
+    "closing_year": 2017,
+    "constitutional_clause": [],
+    "content_of_injunction": [],
+    "court": "District of District of Columbia",
+    "custom_issues": [],
+    "defendant_payment": "",
+    "defendant_type": [
+      {
+        "value": "Jurisdiction-wide"
+      }
+    ],
+    "docket_status": "Complete as of retrieval date",
+    "facility_type": [],
+    "filing_date": "2016-09-16",
+    "filing_year": 2016,
+    "id": 15475,
+    "injunction_duration": "",
+    "issues": [
+      "General/Misc.: Terrorism/Post 9-11 issues",
+      "General/Misc.: Records Disclosure",
+      "General/Misc.: Courts"
+    ],
+    "last_checked_date": "2018-03-19T00:00:00-04:00",
+    "main_docket": {
+      "id": 29224,
+      "docket_entries": [
+        {
+          "row_number": 15,
+          "id": 10139126,
+          "entry_number": "23",
+          "date_filed": "2017-09-30T00:00:00-04:00",
+          "attachments": [],
+          "url": "https://www.courtlistener.com/docket/4498705/23/associated-press-v-federal-bureau-of-investigation/",
+          "recap_pdf_url": "https://www.courtlistener.com/recap/gov.uscourts.dcd.181620.23.0.pdf",
+          "pacer_doc_id": "04506242063",
+          "description": "ORDER: Granting 14 Defendant's Motion for Summary Judgment; Denying 15 Plaintiffs' Motion for Summary Judgment; Granting Plaintiffs' 20 Motion to Supplement the Record. Dismissing this action with prejudice. Signed by Judge Tanya S. Chutkan on 9/30/17. (DJS) (Entered: 09/30/2017)"
+        },
+        {
+          "row_number": 24,
+          "id": 8686920,
+          "entry_number": null,
+          "date_filed": "2016-09-16T00:00:00-04:00",
+          "attachments": [],
+          "url": "https://www.courtlistener.com",
+          "recap_pdf_url": null,
+          "pacer_doc_id": null,
+          "description": "Case Assigned to Judge Tanya S. Chutkan. (md)"
+        },
+        {
+          "row_number": 20,
+          "id": 8686923,
+          "entry_number": "6",
+          "date_filed": "2016-09-30T00:00:00-04:00",
+          "attachments": [],
+          "url": "https://www.courtlistener.com/docket/4498705/6/associated-press-v-federal-bureau-of-investigation/",
+          "recap_pdf_url": null,
+          "pacer_doc_id": "04505782976",
+          "description": "RETURN OF SERVICE/AFFIDAVIT of Summons and Complaint Executed. FEDERAL BUREAU OF INVESTIGATION served on 9/23/2016, (Attachments: # 1 Return Receipt)(Brown, Jay) Modified on 9/30/2016 to correct event (zrdj). (Entered: 09/30/2016)"
+        },
+        {
+          "row_number": 1,
+          "id": 8686927,
+          "entry_number": "10",
+          "date_filed": "2016-10-24T00:00:00-04:00",
+          "attachments": [
+            {
+              "recap_id": 9803595,
+              "pacer_url": "https://ecf.dcd.uscourts.gov/doc1/04505812186?caseid=181620",
+              "description": "Exhibit A",
+              "attachment_number": 1
+            },
+            {
+              "recap_id": 9803599,
+              "pacer_url": "https://ecf.dcd.uscourts.gov/doc1/04505812187?caseid=181620",
+              "description": "Exhibit B",
+              "attachment_number": 2
+            },
+            {
+              "recap_id": 9803605,
+              "pacer_url": "https://ecf.dcd.uscourts.gov/doc1/04505812188?caseid=181620",
+              "description": "Exhibit C",
+              "attachment_number": 3
+            },
+            {
+              "recap_id": 9803608,
+              "pacer_url": "https://ecf.dcd.uscourts.gov/doc1/04505812189?caseid=181620",
+              "description": "Exhibit D",
+              "attachment_number": 4
+            },
+            {
+              "pdf_url": "https://www.courtlistener.com/recap/gov.uscourts.dcd.181620/gov.uscourts.dcd.181620.10.5.pdf",
+              "recap_id": 9803612,
+              "pacer_url": "https://ecf.dcd.uscourts.gov/doc1/04505812190?caseid=181620",
+              "description": "Exhibit E",
+              "attachment_number": 5
+            },
+            {
+              "recap_id": 9803618,
+              "pacer_url": "https://ecf.dcd.uscourts.gov/doc1/04505812191?caseid=181620",
+              "description": "Exhibit F",
+              "attachment_number": 6
+            },
+            {
+              "recap_id": 9803626,
+              "pacer_url": "https://ecf.dcd.uscourts.gov/doc1/04505812192?caseid=181620",
+              "description": "Exhibit G",
+              "attachment_number": 7
+            },
+            {
+              "recap_id": 9803633,
+              "pacer_url": "https://ecf.dcd.uscourts.gov/doc1/04505812193?caseid=181620",
+              "description": "Exhibit H",
+              "attachment_number": 8
+            },
+            {
+              "recap_id": 9803640,
+              "pacer_url": "https://ecf.dcd.uscourts.gov/doc1/04505812194?caseid=181620",
+              "description": "Exhibit I",
+              "attachment_number": 9
+            },
+            {
+              "recap_id": 9803648,
+              "pacer_url": "https://ecf.dcd.uscourts.gov/doc1/04505812195?caseid=181620",
+              "description": "Exhibit J",
+              "attachment_number": 10
+            },
+            {
+              "recap_id": 9803651,
+              "pacer_url": "https://ecf.dcd.uscourts.gov/doc1/04505812196?caseid=181620",
+              "description": "Exhibit K",
+              "attachment_number": 11
+            },
+            {
+              "recap_id": 9803663,
+              "pacer_url": "https://ecf.dcd.uscourts.gov/doc1/04505812197?caseid=181620",
+              "description": "Exhibit L",
+              "attachment_number": 12
+            }
+          ],
+          "url": "https://www.courtlistener.com/docket/4498705/10/associated-press-v-federal-bureau-of-investigation/",
+          "recap_pdf_url": "https://www.courtlistener.com/recap/gov.uscourts.dcd.181620/gov.uscourts.dcd.181620.10.0.pdf",
+          "pacer_doc_id": "04505812185",
+          "description": "ANSWER to Complaint by FEDERAL BUREAU OF INVESTIGATION. (Attachments: # 1 Exhibit A, # 2 Exhibit B, # 3 Exhibit C, # 4 Exhibit D, # 5 Exhibit E, # 6 Exhibit F, # 7 Exhibit G, # 8 Exhibit H, # 9 Exhibit I, # 10 Exhibit J, # 11 Exhibit K, # 12 Exhibit L)(Borson, Joseph) (Entered: 10/24/2016)"
+        },
+        {
+          "row_number": 26,
+          "id": 8686928,
+          "entry_number": null,
+          "date_filed": "2016-10-25T00:00:00-04:00",
+          "attachments": [],
+          "url": "https://www.courtlistener.com",
+          "recap_pdf_url": null,
+          "pacer_doc_id": null,
+          "description": ".Order"
+        },
+        {
+          "row_number": 27,
+          "id": 8686929,
+          "entry_number": null,
+          "date_filed": "2016-10-25T00:00:00-04:00",
+          "attachments": [],
+          "url": "https://www.courtlistener.com",
+          "recap_pdf_url": null,
+          "pacer_doc_id": null,
+          "description": "Set/Reset Deadlines"
+        },
+        {
+          "row_number": 29,
+          "id": 8686931,
+          "entry_number": null,
+          "date_filed": "2016-10-25T00:00:00-04:00",
+          "attachments": [],
+          "url": "https://www.courtlistener.com",
+          "recap_pdf_url": null,
+          "pacer_doc_id": null,
+          "description": "Set/Reset Deadlines: Status Report due by 11/15/2016 (zsm)"
+        },
+        {
+          "row_number": 30,
+          "id": 8686933,
+          "entry_number": null,
+          "date_filed": "2016-10-27T00:00:00-04:00",
+          "attachments": [],
+          "url": "https://www.courtlistener.com",
+          "recap_pdf_url": null,
+          "pacer_doc_id": null,
+          "description": "Order on Motion for Leave to Appear Pro Hac Vice"
+        },
+        {
+          "row_number": 31,
+          "id": 8686934,
+          "entry_number": null,
+          "date_filed": "2016-10-27T00:00:00-04:00",
+          "attachments": [],
+          "url": "https://www.courtlistener.com",
+          "recap_pdf_url": null,
+          "pacer_doc_id": null,
+          "description": "MINUTE ORDER: Granting 11 Motion for Leave to Appear Pro Hac Vice. Attorney JEREMY A. KUTNER is hereby admitted pro hac vice to appear in this matter on behalf of Plaintiffs. Signed by Judge Tanya S. Chutkan on 10/27/16. (DJS)"
+        },
+        {
+          "row_number": 3,
+          "id": 8686935,
+          "entry_number": "12",
+          "date_filed": "2016-10-28T00:00:00-04:00",
+          "attachments": [],
+          "url": "https://www.courtlistener.com/docket/4498705/12/associated-press-v-federal-bureau-of-investigation/",
+          "recap_pdf_url": null,
+          "pacer_doc_id": "04505818893",
+          "description": "NOTICE of Appearance by Jeremy A. Kutner on behalf of ASSOCIATED PRESS, GANNETT SATELLITE INFORMATION NETWORK LLC, VICE MEDIA LLC (Kutner, Jeremy) (Entered: 10/28/2016)"
+        },
+        {
+          "row_number": 4,
+          "id": 8686936,
+          "entry_number": "13",
+          "date_filed": "2016-11-15T00:00:00-05:00",
+          "attachments": [],
+          "url": "https://www.courtlistener.com/docket/4498705/13/associated-press-v-federal-bureau-of-investigation/",
+          "recap_pdf_url": null,
+          "pacer_doc_id": "04505839578",
+          "description": "Joint STATUS REPORT by ASSOCIATED PRESS, GANNETT SATELLITE INFORMATION NETWORK LLC, VICE MEDIA LLC. (Brown, Jay) (Entered: 11/15/2016)"
+        },
+        {
+          "row_number": 32,
+          "id": 8686937,
+          "entry_number": null,
+          "date_filed": "2016-11-21T00:00:00-05:00",
+          "attachments": [],
+          "url": "https://www.courtlistener.com",
+          "recap_pdf_url": null,
+          "pacer_doc_id": null,
+          "description": ".Order"
+        },
+        {
+          "row_number": 35,
+          "id": 8686940,
+          "entry_number": null,
+          "date_filed": "2016-11-21T00:00:00-05:00",
+          "attachments": [],
+          "url": "https://www.courtlistener.com",
+          "recap_pdf_url": null,
+          "pacer_doc_id": null,
+          "description": "Set/Reset Deadlines: Summary Judgment motions due by 1/30/2017. Response to Motion for Summary Judgment and Cross Motions due by 2/20/2017. Reply to Motion for Summary Judgment and Response to Cross Motions due by 3/13/2017. Reply to Cross Motions due by 3/27/2017. (gdf)"
+        },
+        {
+          "row_number": 9,
+          "id": 8686945,
+          "entry_number": "18",
+          "date_filed": "2017-03-13T00:00:00-04:00",
+          "attachments": [],
+          "url": "https://www.courtlistener.com/docket/4498705/18/associated-press-v-federal-bureau-of-investigation/",
+          "recap_pdf_url": null,
+          "pacer_doc_id": "04505975860",
+          "description": "REPLY to opposition to motion re 14 MOTION for Summary Judgment filed by FEDERAL BUREAU OF INVESTIGATION. (Attachments: # 1 Declaration Second Hardy Decl)(Borson, Joseph) (Entered: 03/13/2017)"
+        },
+        {
+          "row_number": 10,
+          "id": 8686946,
+          "entry_number": "19",
+          "date_filed": "2017-03-27T00:00:00-04:00",
+          "attachments": [],
+          "url": "https://www.courtlistener.com/docket/4498705/19/associated-press-v-federal-bureau-of-investigation/",
+          "recap_pdf_url": null,
+          "pacer_doc_id": "04505992183",
+          "description": "REPLY to opposition to motion re 15 Cross MOTION for Summary Judgment & Opposition to Defendant's Motion for Summary Judgment filed by ASSOCIATED PRESS, GANNETT SATELLITE INFORMATION NETWORK LLC, VICE MEDIA LLC. (Brown, Jay) (Entered: 03/27/2017)"
+        },
+        {
+          "row_number": 16,
+          "id": 10139127,
+          "entry_number": "24",
+          "date_filed": "2017-09-30T00:00:00-04:00",
+          "attachments": [],
+          "url": "https://www.courtlistener.com/docket/4498705/24/associated-press-v-federal-bureau-of-investigation/",
+          "recap_pdf_url": null,
+          "pacer_doc_id": "04506243563",
+          "description": "SUPPLEMENTAL MEMORANDUM to re 15 Cross MOTION for Summary Judgment & Opposition to Defendant's Motion for Summary Judgment, 14 MOTION for Summary Judgment filed by ASSOCIATED PRESS, VICE MEDIA LLC. (Attachments: # 1 Exhibit A)(znmw) Modified filed date on 10/3/2017 (znmw). (Entered: 10/02/2017)"
+        },
+        {
+          "row_number": 13,
+          "id": 8686948,
+          "entry_number": "21",
+          "date_filed": "2017-05-16T00:00:00-04:00",
+          "attachments": [],
+          "url": "https://www.courtlistener.com/docket/4498705/21/associated-press-v-federal-bureau-of-investigation/",
+          "recap_pdf_url": null,
+          "pacer_doc_id": "04506059290",
+          "description": "RESPONSE re 20 MOTION to Supplement Record re 15 Cross MOTION for Summary Judgment & Opposition to Defendant's Motion for Summary Judgment filed by FEDERAL BUREAU OF INVESTIGATION. (Borson, Joseph) (Entered: 05/16/2017)"
+        },
+        {
+          "row_number": 11,
+          "id": 8686917,
+          "entry_number": "2",
+          "date_filed": "2016-09-16T00:00:00-04:00",
+          "attachments": [],
+          "url": "https://www.courtlistener.com/docket/4498705/2/associated-press-v-federal-bureau-of-investigation/",
+          "recap_pdf_url": null,
+          "pacer_doc_id": "04505765131",
+          "description": "LCvR 7.1 CERTIFICATE OF DISCLOSURE of Corporate Affiliations and Financial Interests by THE ASSOCIATED PRESS (Brown, Jay) (Entered: 09/16/2016)"
+        },
+        {
+          "row_number": 17,
+          "id": 8686918,
+          "entry_number": "3",
+          "date_filed": "2016-09-16T00:00:00-04:00",
+          "attachments": [],
+          "url": "https://www.courtlistener.com/docket/4498705/3/associated-press-v-federal-bureau-of-investigation/",
+          "recap_pdf_url": null,
+          "pacer_doc_id": "04505765134",
+          "description": "LCvR 7.1 CERTIFICATE OF DISCLOSURE of Corporate Affiliations and Financial Interests by GANNETT SATELLITE INFORMATION NETWORK LLC d/b/a USA TODAY (Brown, Jay) (Entered: 09/16/2016)"
+        },
+        {
+          "row_number": 18,
+          "id": 8686919,
+          "entry_number": "4",
+          "date_filed": "2016-09-16T00:00:00-04:00",
+          "attachments": [],
+          "url": "https://www.courtlistener.com/docket/4498705/4/associated-press-v-federal-bureau-of-investigation/",
+          "recap_pdf_url": null,
+          "pacer_doc_id": "04505765137",
+          "description": "LCvR 7.1 CERTIFICATE OF DISCLOSURE of Corporate Affiliations and Financial Interests by VICE MEDIA LLC (Brown, Jay) (Entered: 09/16/2016)"
+        },
+        {
+          "row_number": 19,
+          "id": 8686921,
+          "entry_number": "5",
+          "date_filed": "2016-09-19T00:00:00-04:00",
+          "attachments": [],
+          "url": "https://www.courtlistener.com/docket/4498705/5/associated-press-v-federal-bureau-of-investigation/",
+          "recap_pdf_url": null,
+          "pacer_doc_id": "04505767871",
+          "description": "SUMMONS (3) Issued Electronically as to FEDERAL BUREAU OF INVESTIGATION, U.S. Attorney and U.S. Attorney General (Attachments: # 1 Consent Form)(zsb) (Entered: 09/19/2016)"
+        },
+        {
+          "row_number": 25,
+          "id": 8686922,
+          "entry_number": null,
+          "date_filed": "2016-09-19T00:00:00-04:00",
+          "attachments": [],
+          "url": "https://www.courtlistener.com",
+          "recap_pdf_url": null,
+          "pacer_doc_id": null,
+          "description": "Case Assigned/Reassigned"
+        },
+        {
+          "row_number": 21,
+          "id": 8686924,
+          "entry_number": "7",
+          "date_filed": "2016-09-30T00:00:00-04:00",
+          "attachments": [],
+          "url": "https://www.courtlistener.com/docket/4498705/7/associated-press-v-federal-bureau-of-investigation/",
+          "recap_pdf_url": null,
+          "pacer_doc_id": "04505783017",
+          "description": "RETURN OF SERVICE/AFFIDAVIT of Summons and Complaint Executed as to the United States Attorney. Date of Service Upon United States Attorney on 9/23/2016. Answer due for ALL FEDERAL DEFENDANTS by 10/23/2016. (Attachments: # 1 Return Receipt)(Brown, Jay) (Entered: 09/30/2016)"
+        },
+        {
+          "row_number": 22,
+          "id": 8686925,
+          "entry_number": "8",
+          "date_filed": "2016-09-30T00:00:00-04:00",
+          "attachments": [],
+          "url": "https://www.courtlistener.com/docket/4498705/8/associated-press-v-federal-bureau-of-investigation/",
+          "recap_pdf_url": null,
+          "pacer_doc_id": "04505783055",
+          "description": "RETURN OF SERVICE/AFFIDAVIT of Summons and Complaint Executed on United States Attorney General. Date of Service Upon United States Attorney General 09/23/2016. (Attachments: # 1 Return Receipt)(Brown, Jay) (Entered: 09/30/2016)"
+        },
+        {
+          "row_number": 23,
+          "id": 8686926,
+          "entry_number": "9",
+          "date_filed": "2016-10-24T00:00:00-04:00",
+          "attachments": [],
+          "url": "https://www.courtlistener.com/docket/4498705/9/associated-press-v-federal-bureau-of-investigation/",
+          "recap_pdf_url": null,
+          "pacer_doc_id": "04505812182",
+          "description": "NOTICE of Appearance by Joseph Evan Borson on behalf of FEDERAL BUREAU OF INVESTIGATION (Borson, Joseph) (Entered: 10/24/2016)"
+        },
+        {
+          "row_number": 2,
+          "id": 8686932,
+          "entry_number": "11",
+          "date_filed": "2016-10-26T00:00:00-04:00",
+          "attachments": [],
+          "url": "https://www.courtlistener.com/docket/4498705/11/associated-press-v-federal-bureau-of-investigation/",
+          "recap_pdf_url": null,
+          "pacer_doc_id": "04505814440",
+          "description": "MOTION for Leave to Appear Pro Hac Vice :Attorney Name- Jeremy A. Kutner, :Firm- Levine Sullivan Koch & Schulz, LLP, :Address- 321 W. 44th Street, Suite 1000, New York, NY 10036. Phone No. - 212-850-6107. Fax No. - 212-850-6299 Filing fee $ 100, receipt number 0090-4721959. Fee Status: Fee Paid. by ASSOCIATED PRESS, GANNETT SATELLITE INFORMATION NETWORK LLC, VICE MEDIA LLC (Attachments: # 1 Declaration of Jeremy A. Kutner, # 2 Text of Proposed Order)(Brown, Jay) (Entered: 10/26/2016)"
+        },
+        {
+          "row_number": 33,
+          "id": 8686938,
+          "entry_number": null,
+          "date_filed": "2016-11-21T00:00:00-05:00",
+          "attachments": [],
+          "url": "https://www.courtlistener.com",
+          "recap_pdf_url": null,
+          "pacer_doc_id": null,
+          "description": "Set/Reset Deadlines"
+        },
+        {
+          "row_number": 34,
+          "id": 8686939,
+          "entry_number": null,
+          "date_filed": "2016-11-21T00:00:00-05:00",
+          "attachments": [],
+          "url": "https://www.courtlistener.com",
+          "recap_pdf_url": null,
+          "pacer_doc_id": null,
+          "description": "MINUTE ORDER: Having considered the parties' Joint Status Report 13 it is hereby ordered that the parties shall adhere to the following schedule: FBI Completion of Document Review due by January 6, 2017. FBI Motion for Summary Judgment due January 30, 2017. Plaintiffs' Opposition and Combined Cross-Motion due February 20, 2017. FBI Reply and Combined Opposition to Cross-Motion due March 13, 2017. Plaintiffs' Reply due March 27, 2017. Signed by Judge Tanya S. Chutkan on 11/21/16. (DJS)"
+        },
+        {
+          "row_number": 12,
+          "id": 8686947,
+          "entry_number": "20",
+          "date_filed": "2017-05-12T00:00:00-04:00",
+          "attachments": [],
+          "url": "https://www.courtlistener.com/docket/4498705/20/associated-press-v-federal-bureau-of-investigation/",
+          "recap_pdf_url": null,
+          "pacer_doc_id": "04506056193",
+          "description": "MOTION to Supplement Record re 15 Cross MOTION for Summary Judgment & Opposition to Defendant's Motion for Summary Judgment by ASSOCIATED PRESS, GANNETT SATELLITE INFORMATION NETWORK LLC, VICE MEDIA LLC (Attachments: # 1 Supplemental Decl. of Jay Ward Brown, # 2 Exhibit A to Suppl. Brown Decl., # 3 Text of Proposed Order)(Brown, Jay) (Entered: 05/12/2017)"
+        },
+        {
+          "row_number": 14,
+          "id": 10139125,
+          "entry_number": "22",
+          "date_filed": "2017-09-30T00:00:00-04:00",
+          "attachments": [],
+          "url": "https://www.courtlistener.com/docket/4498705/22/associated-press-v-federal-bureau-of-investigation/",
+          "recap_pdf_url": "https://www.courtlistener.com/recap/gov.uscourts.dcd.181620.22.0.pdf",
+          "pacer_doc_id": "04506242060",
+          "description": "MEMORANDUM AND OPINION:  Re Plaintiffs' Motion  20 to Supplement the Record;  Defendant's  14  Motion for Summary Judgment; Plaintiffs' Cross-Motion  15  for Summary Judgment. Signed by Judge Tanya S. Chutkan on 9/30/17. (DJS)"
+        },
+        {
+          "row_number": 0,
+          "id": 8686916,
+          "entry_number": "1",
+          "date_filed": "2016-09-16T00:00:00-04:00",
+          "attachments": [
+            {
+              "recap_id": 9803482,
+              "pacer_url": "https://ecf.dcd.uscourts.gov/doc1/04505765058?caseid=181620",
+              "description": "Civil Cover Sheet",
+              "attachment_number": 1
+            },
+            {
+              "recap_id": 9803489,
+              "pacer_url": "https://ecf.dcd.uscourts.gov/doc1/04505765059?caseid=181620",
+              "description": "Summons Summons as to Federal Bureau of Investigation",
+              "attachment_number": 2
+            },
+            {
+              "recap_id": 9803495,
+              "pacer_url": "https://ecf.dcd.uscourts.gov/doc1/04505765060?caseid=181620",
+              "description": "Summons Summons as to United States Attorney's Office",
+              "attachment_number": 3
+            },
+            {
+              "recap_id": 9803498,
+              "pacer_url": "https://ecf.dcd.uscourts.gov/doc1/04505765061?caseid=181620",
+              "description": "Summons Summons as to United States Attorney General",
+              "attachment_number": 4
+            }
+          ],
+          "url": "https://www.courtlistener.com/docket/4498705/1/associated-press-v-federal-bureau-of-investigation/",
+          "recap_pdf_url": "https://www.courtlistener.com/recap/gov.uscourts.dcd.181620.1.0.pdf",
+          "pacer_doc_id": "04505765057",
+          "description": "COMPLAINT against FEDERAL BUREAU OF INVESTIGATION ( Filing fee $ 400 receipt number 0090-4676381) filed by VICE MEDIA LLC, GANNETT SATELLITE INFORMATION NETWORK LLC d/b/a USA TODAY, THE ASSOCIATED PRESS. (Attachments: # 1 Civil Cover Sheet, # 2 Summons Summons as to Federal Bureau of Investigation, # 3 Summons Summons as to United States Attorney's Office, # 4 Summons Summons as to United States Attorney General)(Brown, Jay) (Entered: 09/16/2016)"
+        },
+        {
+          "row_number": 5,
+          "id": 8686941,
+          "entry_number": "14",
+          "date_filed": "2017-01-30T00:00:00-05:00",
+          "attachments": [
+            {
+              "pdf_url": "https://www.courtlistener.com/recap/gov.uscourts.dcd.181620.14.1.pdf",
+              "recap_id": 16432306,
+              "pacer_url": "https://ecf.dcd.uscourts.gov/doc1/04505923402?caseid=181620",
+              "description": "Memorandum in Support",
+              "attachment_number": 1
+            },
+            {
+              "recap_id": 16432307,
+              "pacer_url": "https://ecf.dcd.uscourts.gov/doc1/04505923403?caseid=181620",
+              "description": "Declaration Decl. of David M. Hardy",
+              "attachment_number": 2
+            },
+            {
+              "recap_id": 16432308,
+              "pacer_url": "https://ecf.dcd.uscourts.gov/doc1/04505923404?caseid=181620",
+              "description": "Exhibit Exs. A-R of Hardy Decl.",
+              "attachment_number": 3
+            },
+            {
+              "recap_id": 16432310,
+              "pacer_url": "https://ecf.dcd.uscourts.gov/doc1/04505923405?caseid=181620",
+              "description": "Statement of Facts",
+              "attachment_number": 4
+            },
+            {
+              "recap_id": 16432311,
+              "pacer_url": "https://ecf.dcd.uscourts.gov/doc1/04505923406?caseid=181620",
+              "description": "Text of Proposed Order",
+              "attachment_number": 5
+            }
+          ],
+          "url": "https://www.courtlistener.com/docket/4498705/14/associated-press-v-federal-bureau-of-investigation/",
+          "recap_pdf_url": null,
+          "pacer_doc_id": "04505923401",
+          "description": "MOTION for Summary Judgment by FEDERAL BUREAU OF INVESTIGATION (Attachments: # 1 Memorandum in Support, # 2 Declaration Decl. of David M. Hardy, # 3 Exhibit Exs. A-R of Hardy Decl., # 4 Statement of Facts, # 5 Text of Proposed Order)(Borson, Joseph) (Entered: 01/30/2017)"
+        },
+        {
+          "row_number": 6,
+          "id": 8686942,
+          "entry_number": "15",
+          "date_filed": "2017-02-20T00:00:00-05:00",
+          "attachments": [
+            {
+              "pdf_url": "https://www.courtlistener.com/recap/gov.uscourts.dcd.181620/gov.uscourts.dcd.181620.15.1.pdf",
+              "recap_id": 16432315,
+              "pacer_url": "https://ecf.dcd.uscourts.gov/doc1/04505948633?caseid=181620",
+              "description": "Declaration of Jay Ward Brown",
+              "attachment_number": 1
+            },
+            {
+              "recap_id": 16432316,
+              "pacer_url": "https://ecf.dcd.uscourts.gov/doc1/04505948634?caseid=181620",
+              "description": "Exhibits A-J to Brown Decl.",
+              "attachment_number": 2
+            },
+            {
+              "recap_id": 16432318,
+              "pacer_url": "https://ecf.dcd.uscourts.gov/doc1/04505948635?caseid=181620",
+              "description": "Text of Proposed Order",
+              "attachment_number": 3
+            }
+          ],
+          "url": "https://www.courtlistener.com/docket/4498705/15/associated-press-v-federal-bureau-of-investigation/",
+          "recap_pdf_url": "https://www.courtlistener.com/recap/gov.uscourts.dcd.181620.15.0.pdf",
+          "pacer_doc_id": "04505948632",
+          "description": "Cross MOTION for Summary Judgment by ASSOCIATED PRESS, GANNETT SATELLITE INFORMATION NETWORK LLC, VICE MEDIA LLC (Attachments: # 1 Declaration of Jay Ward Brown, # 2 Exhibits A-J to Brown Decl., # 3 Text of Proposed Order)(Brown, Jay) (Entered: 02/20/2017)"
+        },
+        {
+          "row_number": 7,
+          "id": 8686943,
+          "entry_number": "16",
+          "date_filed": "2017-02-20T00:00:00-05:00",
+          "attachments": [
+            {
+              "recap_id": 16432325,
+              "pacer_url": "https://ecf.dcd.uscourts.gov/doc1/04505948639?caseid=181620",
+              "description": "Declaration of Jay Ward Brown",
+              "attachment_number": 1
+            },
+            {
+              "recap_id": 16432326,
+              "pacer_url": "https://ecf.dcd.uscourts.gov/doc1/04505948640?caseid=181620",
+              "description": "Exhibits A-J to Brown Decl.",
+              "attachment_number": 2
+            },
+            {
+              "recap_id": 16432328,
+              "pacer_url": "https://ecf.dcd.uscourts.gov/doc1/04505948641?caseid=181620",
+              "description": "Text of Proposed Order",
+              "attachment_number": 3
+            }
+          ],
+          "url": "https://www.courtlistener.com/docket/4498705/16/associated-press-v-federal-bureau-of-investigation/",
+          "recap_pdf_url": "https://www.courtlistener.com/recap/gov.uscourts.dcd.181620.16.0.pdf",
+          "pacer_doc_id": "04505948638",
+          "description": "Memorandum in opposition to re 14 MOTION for Summary Judgment filed by ASSOCIATED PRESS, GANNETT SATELLITE INFORMATION NETWORK LLC, VICE MEDIA LLC. (Attachments: # 1 Declaration of Jay Ward Brown, # 2 Exhibits A-J to Brown Decl., # 3 Text of Proposed Order)(Brown, Jay) (Entered: 02/20/2017)"
+        },
+        {
+          "row_number": 8,
+          "id": 8686944,
+          "entry_number": "17",
+          "date_filed": "2017-03-13T00:00:00-04:00",
+          "attachments": [
+            {
+              "pdf_url": "https://www.courtlistener.com/recap/gov.uscourts.dcd.181620/gov.uscourts.dcd.181620.17.1.pdf",
+              "recap_id": 88791024,
+              "pacer_url": "https://ecf.dcd.uscourts.gov/doc1/04505975856?caseid=181620",
+              "description": "Declaration Second Hardy Decl.",
+              "attachment_number": 1
+            },
+            {
+              "recap_id": 88791025,
+              "pacer_url": "https://ecf.dcd.uscourts.gov/doc1/04505975857?caseid=181620",
+              "description": "Statement of Facts",
+              "attachment_number": 2
+            }
+          ],
+          "url": "https://www.courtlistener.com/docket/4498705/17/associated-press-v-federal-bureau-of-investigation/",
+          "recap_pdf_url": null,
+          "pacer_doc_id": "04505975855",
+          "description": "Memorandum in opposition to re 15 Cross MOTION for Summary Judgment & Opposition to Defendant's Motion for Summary Judgment filed by FEDERAL BUREAU OF INVESTIGATION. (Attachments: # 1 Declaration Second Hardy Decl., # 2 Statement of Facts)(Borson, Joseph) (Entered: 03/13/2017)"
+        },
+        {
+          "row_number": 28,
+          "id": 8686930,
+          "entry_number": null,
+          "date_filed": "2016-10-25T00:00:00-04:00",
+          "attachments": [],
+          "url": "https://www.courtlistener.com",
+          "recap_pdf_url": null,
+          "pacer_doc_id": null,
+          "description": "MINUTE ORDER: Before the Court in this FOIA case are a complaint and an answer. The requirements of LCvR 16.3 and Rule 26(f) of the Federal Rules of Civil procedure appear to be inapplicable. IT IS HEREBY ORDERED that the parties shall meet and confer and propose a schedule for proceeding in this matter. The schedule shall address the status of Plaintiff's FOIA request, the anticipated number of documents responsive to Plaintiff's FOIA request, the anticipated date(s) for release of the documents requested by Plaintiff, whether a motion for an Open America stay is likely in this case, whether a Vaughn index will be required in this case, whether and when either party anticipates filing a dispositive motion, and any other pertinent issues. The parties shall file a joint status report that addresses these issues and that contains a proposed schedule and order not later than 11/15/16. Signed by Judge Tanya S. Chutkan on 10/25/16. (DJS)"
+        }
+      ],
+      "docket_case_type": "cv",
+      "docket_year": 2016,
+      "docket_filing_number": 1850,
+      "is_main_docket": true,
+      "court": "District of District of Columbia",
+      "state": "District of Columbia",
+      "docket_office_number": "1",
+      "docket_number_manual": "1:16-cv-1850",
+      "scales_html": "https://clearinghouse-umich-production.s3.amazonaws.com/media/docket-html/dcd--1-16-cv-01850.html",
+      "recap_link": "https://www.courtlistener.com/docket/4498705/associated-press-v-federal-bureau-of-investigation/",
+      "is_active": true
+    },
+    "name": "Associated Press v. Federal Bureau of Investigation",
+    "never_filed": false,
+    "non_docket_case_number": "",
+    "non_docket_case_number_type": null,
+    "non_docket_case_number_type_other": "",
+    "order_end_year": null,
+    "order_start_year": null,
+    "permanent_injunction": false,
+    "plaintiff_description": "News Organizations",
+    "plaintiff_type": [
+      {
+        "value": "Private Plaintiff"
+      },
+      {
+        "value": "Public (for-profit) corporation"
+      },
+      {
+        "value": "Non-profit NON-religious organization"
+      }
+    ],
+    "prevailing_party": "Defendant",
+    "pro_se_status": "No",
+    "public_interest_lawyer": "No",
+    "related_cases": [],
+    "relief_natures": [
+      "None"
+    ],
+    "relief_nature_other": "",
+    "relief_sources": [
+      "None"
+    ],
+    "settlement_agreement": [],
+    "settlement_judgment_date": null,
+    "settlement_judgment_year": null,
+    "special_collections": [
+      "Multi-LexSum (in sample)"
+    ],
+    "special_case_type": [],
+    "state": "District of Columbia",
+    "summary": "<p>On September 16, 2016, The Associated Press, Gannett Satellite Information Network LLC, and Vice Media, LLC filed this lawsuit in the United States District Court for the District of Columbia.  The plaintiffs sued the Federal Bureau of Investigation pursuant to the Freedom of Information Act (FOIA), 5 U.S.C. §§ 552, et seq. The plaintiffs sought to compel the FBI to provide records about the publicly acknowledged purchase of a tool allowing the government access to the phone of one of the perpetrators of the mass killings in San Bernardino, California on December 2, 2015.  '</p><p>The defendant completed document review through January, 2017 to determine whether FOIA exemptions would apply to the documents. On January 30, 2017, the defendant moved for summary judgment citing to various exemptions to have the claim dismissed. The plaintiffs cross-moved for summary judgment on February 20, 2017.</p><p>The Court (Judge Tanya S. Chutkan) granted the defendant's motion for summary judgment on September 30, 2017. Plaintiff sought the identity of the vendor who unlocked the phone and the purchase price of the vendor. The Court found the defendant properly invoked exemption 1 (information specifically authorized to be kept secret in the interest of national defense or foreign policy by an Executive Order), exemption 3 (information exempted by statute), and exemption 7 (information compiled for law enforcement purposes). However, the Court found Exemption 4 (trade secret and commercial or financial information) did not apply. 265 F. Supp. 3d 82.</p><p>The docket was last updated on September 30, 2017. </p>",
+    "summary_published_date": "2018-03-19T00:00:00-04:00",
+    "summary_short": "On September 16, 2016, The Associated Press, Gannett Satellite Information Network LLC, and Vice Media, LLC, filed a lawsuit seeking information about the recently purchased tool allowing government access to the phone of one of the perpetrators of the mass killings in San Bernardino, California on December 2, 2015. The Court granted the defendant's summary judgment motion on September 30, 2017, finding information at issue was protected under FOIA exemptions 1, 3, and 7.",
+    "summary_tiny": null,
+    "terminating_date": null,
+    "clearinghouse_link": "clearinghouse.net/case/15475",
+    "is_active": true,
+    "case_documents_url": "https://clearinghouse.net/api/v2/documents/?case=15475",
+    "case_dockets_url": "https://clearinghouse.net/api/v2/dockets/?case=15475",
+    "case_resources_url": "https://clearinghouse.net/api/v2/resources/?case=15475"
+  },
+  "documents": [
+    {
+      "date": "2017-09-30",
+      "date_is_estimate": false,
+      "date_not_available": false,
+      "description": null,
+      "document_source": "PACER [Public Access to Court Electronic Records]",
+      "document_status": "Coding Complete",
+      "document_type": "Order/Opinion",
+      "order_type": "Non-Decree",
+      "citation_paren": null,
+      "cite_1_page": null,
+      "cite_1_reporter": null,
+      "cite_1_vol": null,
+      "cite_2_page": null,
+      "cite_2_reporter": null,
+      "cite_2_vol": null,
+      "cite_3_page": null,
+      "cite_3_reporter": null,
+      "cite_3_vol": null,
+      "citation_status": "No citation available",
+      "court": "District of District of Columbia",
+      "no_title": false,
+      "party_types": [
+        "Court"
+      ],
+      "per_curium": false,
+      "is_core_document": true,
+      "id": 95451,
+      "file": "https://clearinghouse-umich-production.s3.amazonaws.com/media/doc/95451.pdf",
+      "title": "Memorandum and Opinion",
+      "text": "Case 1:16-cv-01850-TSC   Document 22   Filed 09/30/17   Page 1 of 26\nUNITED STATES DISTRICT COURT \nFOR THE DISTRICT OF COLUMBIA \n \n  )   \nASSOCIATED PRESS, et al.,  )   \n  )   \nPlaintiffs,  )   \n  )   \nv.  )  Civil Action No. 16-cv-1850 (TSC) \n  )   \nFEDERAL BUREAU OF   )   \nINVESTIGATION,  )   \n  )   \nDefendant.  )   \n  )   \n \n \nMEMORANDUM OPINION \n  Before the court are cross motions for summary judgment in this case brought under the \nFreedom of Information Act (“FOIA”), 5 U.S.C. § 552.  In 2016, Plaintiffs Associated Press, \nGannett Satellite Information Network d/b/a USA Today, and Vice Media, LLC (“Plaintiffs”), \neach filed FOIA requests to the Federal Bureau of Investigation (“FBI”) for records relating to an \nagreement with a technology vendor who assisted the FBI in unlocking the iPhone of a suspected \nterrorist.  As part of the parties’ joint agreement in this litigation, the FBI has produced 100 of \n123 responsive pages in full or in part, with certain material withheld pursuant to FOIA \nExemptions 1, 3, 4, 6, 7(C), and 7(E).  Plaintiffs have narrowed their FOIA request on summary \njudgment to two specific pieces of information—the identity of the vendor, and the price paid to \nthe vendor—such that only Exemptions 1, 3, 4, and 7(E) remain disputed.  The FBI claims that \nExemptions 1, 3, and 7(E) apply independently to the identity of the vendor and the purchase \nprice, and that Exemption 4 also applies independently to the purchase price.   \n\nCase 1:16-cv-01850-TSC   Document 22   Filed 09/30/17   Page 2 of 26\nPlaintiffs have also moved to supplement the record with then-FBI Director James \nComey’s May 3, 2017, Senate testimony.  The court will GRANT Plaintiffs’ motion to \nsupplement the record and consider the testimony as part of Plaintiffs’ brief. \n  Upon consideration of the parties’ filings, the court concludes that Exemptions 1, 3, and \n7(E) independently apply to the requested information, and that Exemption 4 does not.  \nAccordingly, as set forth below, the FBI’s motion for summary judgment is GRANTED, and \nPlaintiffs’ cross-motion for summary judgment is DENIED. \nI.  BACKGROUND \n  In December 2015, Syed Rizwan Farook and Tashfeen Malik killed fourteen people and \ninjured twenty-two others in an attack on the Inland Regional Center in San Bernardino, \nCalifornia.  See Government’s Motion to Compel Apple Inc. to Comply, No. 5:16-cm-10-SP \n(C.D. Cal.) at 1 ECF No. 1.  The FBI led the federal investigation into the attack, and during the \ncourse of that investigation, discovered an employer-owned iPhone issued to Farook that was \npassword-protected.  See id. at 1, 5.  The phone was equipped with an auto-erase function that \nwould result in the permanent destruction of the information in the phone after 10 failed attempts \nat entering the passcode.  Id. at 5.  Thus, the FBI was unable to access the phone without risking \nthe loss of its contents.  Id. at 10-11.  After initially commencing legal action against the phone’s \nmanufacturer, Apple, to compel its assistance in accessing the phone, id. at 6, the FBI moved to \nstay the proceedings in March 2016 when an “outside party demonstrated to the FBI a possible \nmethod for unlocking Farook’s iPhone.”  Government’s Ex Parte Application for a Continuance, \nNo. 5:16-cm-10 (C.D. Cal.) at 3 ECF No. 191. \n  Rather than allow competitive bidding, the FBI sought a waiver to solicit a single source \nfor the contract to unlock the phone.  (Declaration of Jay Ward Brown (“Brown Decl.”) Ex. J, at \n  2 \n\nCase 1:16-cv-01850-TSC   Document 22   Filed 09/30/17   Page 3 of 26\nAP-19–AP-23).  None of the vendors who inquired with the agency about unlocking the phone \nhad demonstrated that they could produce a solution quickly enough to meet the FBI’s \ninvestigative requirements, and in fact, none of them had begun to develop or test a solution at \nthe time of the inquiries.  (Id. at AP-22).  At the end of March 2016, the FBI reported that it had \n“successfully accessed the data stored on Farook’s iPhone and therefore no longer require[d] the \nassistance from Apple Inc.”  Government’s Status Report, No. 5:16-cm-10 (C.D. Cal.) at 1 ECF \nNo. 209. \n  Following this revelation, then-FBI Director James Comey gave interviews to reporters \non April 21, 2016, and May 11, 2016, during which he confirmed several details regarding the \ntool and its purchase.  (Brown Decl. Ex. G; Ex. H; Ex. I).  This information included details \nabout its cost, which Comey believed “for sure” exceeded the salary he was due at the time for \nthe remainder of his seven-year, four-month tenure, about $1.2 million.  (Brown Decl. Ex. G).  \nHe also stated that the tool was narrowly tailored to only work on an iPhone 5C operating on iOS \n9, and the FBI had not identified any other phones on which the tool could be used.  (Brown \nDecl. Ex. I at 3, 16).  Moreover, he noted that the urgency of the FBI’s investigation necessitated \nthe FBI’s purchase of the tool and the agency spent what it needed to in order to acquire it.  (Id. \nat 5). \n  Each Plaintiff filed a separate FOIA request with the FBI between March and April of \n2016.  (See Declaration of David M. Hardy (“First Hardy Decl.”) Ex. A; Ex. I; Ex. M).  They \nsought records concerning the FBI’s financial agreements with the vendor the agency employed \nto unlock the iPhone.  (See id.)  The FBI initially denied each request on the basis of FOIA \nExemption 7(A), which permits agencies to withhold records or information compiled for law \nenforcement purposes to the extent that the production of such records could reasonably be \n  3 \n\nCase 1:16-cv-01850-TSC   Document 22   Filed 09/30/17   Page 4 of 26\nexpected to interfere with law enforcement proceedings.  (First Hardy Decl. Ex. C; Ex. J; Ex. N).  \nEach Plaintiff appealed administratively as provided under FOIA, and the Department of Justice \nOffice of Information Policy affirmed the FBI’s denial of the requests for the records in each \ncase.  (First Hardy Decl. Ex. D; Ex. H; Ex. K; Ex. L; Ex. O; Ex. Q). \n  Plaintiffs then filed this action in September 2016.  (ECF No. 1).  On January 6, 2017, the \nFBI produced 100 of 123 responsive pages in full or in part, with certain information withheld or \nredacted pursuant to FOIA Exemptions 1, 3, 4, 6, 7(C), and 7(E).  (First Hardy Decl. ¶ 25; Ex. R; \nBrown Decl. Ex. J).  The FBI then moved for summary judgment (ECF No. 14), and Plaintiffs \nfiled their cross-motion for summary judgment, narrowing their outstanding FOIA request to two \npieces of information: (1) the identity of the vendor, and (2) the amount paid to the vendor for \nthe tool in question.  (See Pls. Mem at 9, ECF Nos. 15, 16).  As a result of this revised request, \nthe remaining issues on summary judgment are whether the FBI properly applied Exemptions 1, \n3, and 7(E) to the identity of the vendor, and whether it properly applied Exemptions 1, 3, 4, and \n7(E) to the purchase price.   \nII.  PLAINTIFFS’ MOTION TO SUPPLEMENT THE RECORD \n  On May 3, 2017, Director Comey testified before the Senate Judiciary Committee.  (See \nSupplemental Declaration of Jay Ward Brown “Supp. Brown Decl.” Ex. A).  During questioning, \nSenator Dianne Feinstein mentioned the FBI’s hacking of Farook’s iPhone, as excerpted below \nfrom the hearing transcript: \nFEINSTEIN:  Well I – I was so struck when San Bernardino happened and you made \novertures to allow that device to be opened, and then the FBI had to spend $900,000 to \nhack it open.  And as I subsequently learned of some of the reason for it, there were good \nreasons to get into that device. \n \nAnd the concern I have is that once people had been killed in a terrorist attack and that \nthere may be other DNA, there may be other messages that lead an investigative agency \n  4 \n\nCase 1:16-cv-01850-TSC   Document 22   Filed 09/30/17   Page 5 of 26\nto believe that there are others out there, isn't to the – for the protection of the public that \none would want to be able to see if a device could be opened. \n \nAnd I’ve had a very hard time – I’ve tried – I’ve gone out, I tried to talk to the tech \ncompanies that are in my state.  One – Facebook was very good and understood the \nproblem.  But most do not have.  Has the FBI ever talked with the tech companies about \nthis need in particular? \n \nCOMEY:  Yes, senator.  We’ve had a lot of conversations, and as I said earlier, they’re – \nin my sense, they've been getting more productive because I think the tech companies \nhave come to see the darkness a little bit more.  My – my concern was privacy’s really \nimportant but that they didn't see the public safety costs. \n \nI think they’re starting to see that better and what – what nobody wants to have happen is \nsomething terrible happen in the United States and it be connected to our inability to \naccess information with lawful authority.  That we ought to have the conversations before \nthat happens and the companies more and more get that.  I think over the last year and \nhalf, and – but it’s vital, we weren't picking on Apple in the San Bernardino case. \n \n(Id at 4).  On May 12, 2017, Plaintiffs moved to supplement the record on summary judgment \nwith this testimony, citing it as “further evidence in support of [their] arguments on pages 15, 20, \n26, and 29” of their memorandum in support of their cross-motion.  (ECF No. 20 at 2). \n  Regarding Exemption 1, Plaintiffs note that then-Director Comey has already spoken \npublicly about the price (namely that it was very high), and thus disclosing the price information \nwould not jeopardize national security interests.  (See Pls. Mem. at 15).  Regarding Exemption 3, \nPlaintiffs claim the FBI’s argument that releasing the specific purchase price would aid those \nseeking to thwart the FBI’s tool is belied by the fact that the information that could provide such \naid—that the purchase price was very high—is already publicly available.    (See id. at 20).  \nRegarding Exemption 4, Plaintiffs emphasize that the tool’s vendor would not suffer competitive \nharm from disclosure of the purchase price because Comey already released the general price-\nrelated information, and potential competitors have a ballpark figure from which to underbid.  \n(See id. at 26).  Regarding Exemption 7(E), Plaintiffs argue that releasing the purchase price will \n  5 \n\nCase 1:16-cv-01850-TSC   Document 22   Filed 09/30/17   Page 6 of 26\nnot risk circumvention of the law because the FBI took that risk when Director Comey revealed \nthat the purchase price was substantial.  (See id. at 29). \n  The court will GRANT Plaintiffs’ motion to supplement the record with the Senate \nJudiciary Committee hearing transcript, and will consider it part of Plaintiffs’ brief in the \nsections detailed above. \nIII.  SUMMARY JUDGMENT STANDARD \n  Summary judgment is appropriate where the record shows there is no genuine issue of \nmaterial fact and the movant is entitled to judgment as a matter of law.  Fed. R. Civ. P. 56(a); \nCelotex Corp. v. Catrett, 477 U.S. 317, 322 (1986); Waterhouse v. District of Columbia, 298 \nF.3d 989, 991 (D.C. Cir. 2002).  In determining whether a genuine issue of material fact exists, \nthe court must view all facts in the light most favorable to the non-moving party.  See, e.g., \nAdickes v. S.H. Kress & Co., 398 U.S. 144, 157 (1970).  A fact is material if “a dispute over it \nmight affect the outcome of a suit under governing law; factual disputes that are ‘irrelevant or \nunnecessary’ do not affect the summary judgment determination.”  Holcomb v. Powell, 433 F.3d \n889, 895 (D.C. Cir. 2006) (quoting Anderson v. Liberty Lobby, 477 U.S. 242, 248 (1986)).  An \nissue is genuine if “the evidence is such that a reasonable jury could return a verdict for the \nnonmoving party.”  Id. (quoting Anderson, 477 U.S. at 248).  The party seeking summary \njudgment “bears the heavy burden of establishing that the merits of his case are so clear that \nexpedited action is justified.”  Taxpayers Watchdog, Inc., v. Stanley, 819 F.2d 294, 297 (D.C. \nCir. 1987). \n  FOIA cases are typically and appropriately decided on motions for summary judgment. \nBrayton v. Office of the U.S. Trade Rep., 641 F.3d 521, 527 (D.C. Cir. 2011).  Agencies bear the \nburden of justifying withholding of any records, as FOIA favors a “strong presumption in favor \n  6 \n\nCase 1:16-cv-01850-TSC   Document 22   Filed 09/30/17   Page 7 of 26\nof disclosure.”  Dep’t of State v. Ray, 502 U.S. 164, 173 (1991).  The court therefore analyzes all \nunderlying facts and inferences in the light most favorable to the FOIA requester, even where the \nrequester has moved for summary judgment.  See Pub. Citizen Health Research Grp. v. FDA, \n185 F.3d 898, 904–05 (D.C. Cir. 1999). \n  In cases where the applicability of certain FOIA exemptions is at issue, agencies may rely \non supporting declarations that are reasonably detailed and non-conclusory.  See, e.g., ACLU v. \nU.S. Dep’t of Def., 628 F.3d 612, 619 (D.C. Cir. 2011); Students Against Genocide v. Dep’t of \nState, 257 F.3d 828, 838 (D.C. Cir. 2001).  “If an agency’s affidavit describes the justifications \nfor withholding the information with specific detail, demonstrates that the information withheld \nlogically falls within the claimed exemption, and is not contradicted by contrary evidence in the \nrecord or by evidence of the agency’s bad faith, then summary judgment is warranted on the \nbasis of the affidavit alone.”  ACLU, 628 F.3d at 619.  “Ultimately, an agency’s justification for \ninvoking a FOIA exemption is sufficient if it appears ‘logical’ or ‘plausible.’”  Id. (internal \nquotation marks omitted) (quoting Larson v. Dep’t of State, 565 F.3d 857, 862 (D.C. Cir. 2009)).  \nHowever, a motion for summary judgment should be granted in favor of the FOIA requester \nwhere “an agency seeks to protect material which, even on the agency’s version of the facts, falls \noutside the proffered exemption.”  Coldiron v. U.S. Dep’t of Justice, 310 F. Supp. 2d 44, 48 \n(D.D.C. 2004) (quoting Petroleum Info. Corp. v. Dep’t of Interior, 976 F.2d 1429, 1433 (D.C. \nCir. 1992)).  \nIV.  DISCUSSION \n  The defendant in a FOIA case must show that its search for responsive records was \nadequate, that any claimed exemptions are valid, and that any reasonably segregable non-exempt \n  7 \n\nCase 1:16-cv-01850-TSC   Document 22   Filed 09/30/17   Page 8 of 26\nportions of records have been disclosed after redaction of exempt information.  Light v. Dep’t of \nJustice, 968 F. Supp. 2d 11, 23 (D.D.C. 2013).   \nHere, Plaintiffs have conceded that the FBI’s search for responsive records was adequate, \nand do not challenge the FBI’s segregability determination.  They do, however, contest the FBI’s \nclaimed exemptions for the tool vendor’s identity and the tool’s purchase price.  The FBI asserts \nthat such information is properly and independently protected under FOIA Exemptions 1, 3, and \n7(E), and that the purchase price is also independently protected under FOIA Exemption 4.  (Def. \nOpp. at 1).  For the reasons set forth below, the court finds that Exemptions 1, 3, and 7(E) apply \nto both the vendor’s identity and the purchase price, and Exemption 4 does not apply to the \npurchase price.  Although invocation of a single valid exemption is sufficient to permit the \nwithholding of the information requested and support a grant of summary judgment to the FBI, \nthe court will nevertheless analyze the application of each exemption. \nA.  FOIA Exemption 1 \n1.  Applicable Legal Standard \n  FOIA Exemption 1 protects from disclosure records that are “(A) specifically authorized \nunder criteria established by an Executive order to be kept secret in the interest of national \ndefense or foreign policy and (B) are in fact properly classified pursuant to such Executive \norder.”  5 U.S.C. § 552(b)(1).  Executive Order 13,526 currently governs the classification of \nnational security information, and requires that: \n(1) an original classification authority is classifying the information; \n \n(2) the information is owned by, produced by or for, or is under the control of the United \nStates Government; \n \n(3) the information falls within one or more of the categories of information listed in \nsection 1.4 of this order; and \n \n  8 \n\nCase 1:16-cv-01850-TSC   Document 22   Filed 09/30/17   Page 9 of 26\n(4) the original classification authority determines that the unauthorized disclosure of the \ninformation reasonably could be expected to result in damage to the national security, \nwhich includes defense against transnational terrorism, and the original classification \nauthority is able to identify or describe the damage. \n \nClassified National Security Information, EO 13,526 § 1.1(a); 75 Fed. Reg. 707 (2009).  \nPlaintiffs do not dispute that the FBI has met the first and second requirements, (see Pls. Mem. at \n12-18), as the Hardy Declaration demonstrates that Hardy is an original classification authority \nand that the withheld information is under the control of the United States Government.  (First \nHardy Decl. ¶ 2, 33).  The FBI asserts that the third requirement is satisfied because the identity \nof the vendor and the cost of the tool relate to intelligence activities or intelligence sources or \nmethods under Section 1.4(c) of the Executive Order.  (First Hardy Decl. ¶ 33) (citing Exec. \nOrder No. 13,526 § 1.4(c); 75 Fed. Reg. at 708).  Plaintiffs do not appear to challenge this \nassertion.  (See Pls. Mem. at 12-18; Pls. Reply at 2-5, 7-11). \n  The parties’ dispute involves the fourth requirement, which permits withholding if the \ninformation requested could reasonably be expected to cause an identifiable and describable \ndegree of harm to national security if released.  Judicial Watch, Inc. v. Dep’t of Def., 715 F.3d \n937, 941 (D.C. Cir. 2013).  The court owes “substantial weight” to detailed agency explanations \nin the national security context; its role is to ensure that the government’s rationale is logical or \nplausible.  Id. at 941, 943; see also Judicial Watch, Inc. v. Dep’t of Commerce, 337 F. Supp. 2d \n146, 162 (D.D.C. 2004) (“In light of courts’ presumed lack of expertise in the area of national \nsecurity, a reviewing court is prohibited from conducting a detailed analysis of the agency’s \ninvocation of Exemption 1.” (citing Halperin v. CIA, 629 F.2d 144, 148 (D.C. Cir. 1980))).  \nFurther, “the text of Exemption 1 suggests that little proof or explanation is required beyond a \nplausible assertion that information is properly classified.”  Morley v. CIA, 508 F.3d 1108, 1124 \n(D.C. Cir. 2007).  However, conclusory affidavits that merely recite statutory standards, or that \n  9 \n\nCase 1:16-cv-01850-TSC   Document 22   Filed 09/30/17   Page 10 of 26\nare overly vague or sweeping, will not suffice to carry the government’s burden.  Larson, 585 \nF.3d at 864.   \n2.  Whether the FBI Properly Invoked Exemption 1 with Respect to the  \n    Vendor’s Identity \n \n  The FBI argues that releasing the vendor’s identity could allow adversaries to use \nexisting public technology created by the vendor to probe for weaknesses and create better \nencryption technology to thwart the FBI’s ability to use the tool.  (Second Declaration of David \nM. Hardy (“Second Hardy Decl.”) ¶ 8-9).  The agency argues that because software companies \n“update and modernize their old operating systems rather than create a completely new product,” \nthere are programming styles and strategies unique to most companies, likely including the \nvendor at issue.  (Id. ¶ 8).  Thus, if the vendor’s identity were made public, a review of the \ncompany’s work could lead antagonists to “develop exploits for the vendor’s unique product.”  \n(Id.)  Additionally, the FBI notes that because the vendor’s networks are not as sophisticated as \nthe FBI’s cyber-security facilities, releasing the name of the vendor could subject the vendor to \nattacks by entities who wish to exploit the technology.  (Id. ¶ 9).  Since the vendor is not as well \nequipped to guard against these types of attacks as is the FBI, revealing the vendor’s identity \n“risks disclosure, exploitation, and circumvention of a classified intelligence source and \nmethod.”  (Id.)  Disclosure of the vendor’s identity could thus “reasonably be expected to cause \nserious damage to national security, as it would allow hostile entities to discover the current \nintelligence gathering methods used, as well as the capabilities and limitations of those \nmethods.”  (First Hardy Decl. ¶ 36). \n  This line of reasoning logically and plausibly demonstrates how the FBI could reasonably \nexpect the release of the vendor’s identity to cause identifiable harm to national security.  If an \nadversary were determined to learn more information about the iPhone hacking tool the FBI \n  10 \n\nCase 1:16-cv-01850-TSC   Document 22   Filed 09/30/17   Page 11 of 26\nacquired, it is certainly logical that the release of the name of the company that created the tool \ncould provide insight into the tool’s technological design.  Adversaries could use this \ninformation to enhance their own encryption technologies to better guard against this tool or \ntools the vendor develops for the FBI in the future.  Plaintiffs assert that it is unlikely that a \npublic body of work which an adversary could use even exists, (Pls. Reply at 3), given that the \nvendor is likely sophisticated enough to avoid risking the usefulness of its technology by making \nsuch work available, but it is plausible that useful information about a software company’s \ntechnological design could be gleaned from its other publicly available products.   \n  Moreover, it is logical and plausible that the vendor may be less capable than the FBI of \nprotecting its proprietary information in the face of a cyber-attack.  The FBI’s conclusion that \nreleasing the name of the vendor to the general public could put the vendor’s systems, and \nthereby crucial information about the technology, at risk of incursion is a reasonable one.  \nPlaintiffs here assume that this is not a legitimate threat, and that if the tool were so critically \nimportant to national security, the FBI would not have left it in the hands of a “poorly guarded \nvendor.”  (Pls. Reply at 4 n.1).  But the vendor may continue to possess the tool for any number \nof reasons related to national security interests, and even if the possibility of an attack on the \nvendor’s systems is remote, the FBI has still demonstrated a logically reasonable risk of harm to \nnational security in this respect. \n  The court therefore finds that the FBI has shown that the release of the vendor’s identity \ncould be reasonably expected to cause harm to national security interests by limiting the FBI’s \npresent and future ability to gain access to suspected terrorists’ phones.  Although as of May \n2016 the FBI had not yet identified other phones with which the tool could be utilized, (Brown \nDecl. Ex. I at 3), any affidavit describing a potential threat to national security “will always be \n  11 \n\nCase 1:16-cv-01850-TSC   Document 22   Filed 09/30/17   Page 12 of 26\nspeculative to some extent.”  ACLU, 628 F.3d at 619.  There is no evidence to suggest that the \ntool will not be valuable in the future, and the FBI has met its burden of providing a detailed, \nnon-conclusory affidavit sufficient to invoke Exemption 1 as applied to the vendor’s identity. \n  Plaintiffs argue that Director Comey’s public comments about the tool’s efficacy negate \nthe risk that an adversary will attempt to learn more about it, since the route to developing a \ncountermeasure seems fairly straightforward.  (Pls. Mem. at 15-16).  After Director Comey \nemphasized that he was “highly confident” that the tool only works on iPhone 5Cs running iOS9 \n(Brown Decl. Ex. I at 16), any organization intending to prevent the FBI from using the tool to \nhack its members’ phones could therefore use a different phone or a different operating system.  \nHowever, this overlooks the tool’s potentially valuable technical capabilities.  The FBI may find \na way to enhance the tool’s capabilities, choose to continue using advanced versions of similar \ntechnology in the future, or re-employ the vendor to develop another similar product.  It is \ncertainly plausible that disclosure of the vendor’s name could hurt the FBI’s future efforts to \nprotect national security, despite opportunities to circumvent the tool that may arise from \nComey’s comments.  The FBI therefore properly invoked Exemption 1 with respect to the \nvendor’s identity. \n3.  Whether the FBI Properly Invoked Exemption 1 with Respect to the  \n    Purchase Price \n \n  The FBI argues that revealing the price paid for the tool would allow adversaries to \ndetermine its usefulness and assess its nature, and would reveal where the FBI concentrates its \nresources in national security investigations.  (Second Hardy Decl. ¶ 16-18).  Releasing the \npurchase price would designate a finite value for the technology and help adversaries determine \nwhether the FBI can broadly utilize the technology to access their encrypted devices.  (Id. ¶ 16).  \nSince release of this information might “reduce the effectiveness of a critical classified source \n  12 \n\nCase 1:16-cv-01850-TSC   Document 22   Filed 09/30/17   Page 13 of 26\nand method,” it is reasonable to expect that disclosure could endanger national security.  (Id. ¶ \n19). \n  The court finds that the Second Hardy Declaration logically and plausibly sets forth how \nthe release of the purchase price could cause a reasonably expected risk of harm to national \nsecurity.  “Minor details of intelligence information,” like the price paid for the iPhone hacking \ntool, “may reveal more information than their apparent insignificance suggests because, much \nlike a piece of jigsaw puzzle, each detail may aid in piecing together other bits of information.”  \nLeopold v. CIA, 106 F. Supp. 3d 51, 59 (D.D.C. 2015) (quoting Larson, 565 F.3d at 864) \n(internal quotation marks omitted).  The price the FBI paid for the tool could logically reveal \nhow much the FBI values gaining access to suspects’ phones, and the breadth of the tool’s \ncapabilities.  Accordingly, the FBI has met its burden of providing a detailed, non-conclusory \naffidavit sufficient to invoke Exemption 1 with respect to the purchase price. \n  Plaintiffs argue that Director Comey’s public comments about the purchase price negate \nthe possibility of any further harm to national security.  (Pls. Mem. at 15).  Because he has \nalready disclosed the “only possible useful bit of information about the tool’s price, namely, that \nit was very high,” they argue that there is no justification for withholding the exact price.  (Id.)  \nThey further note that the agency’s national security priorities have already been made clear by \nvirtue of Comey’s statement that the government will pay “what is necessary,” (Brown Decl. Ex. \nI at 5), to access suspected terrorists’ phones.  (Pls. Reply at 10).  However, Plaintiffs fail to \naddress this Circuit’s test for when an agency’s official disclosure may compel release of \notherwise valid exemption claims.  Although it is true that “when information has been officially \nacknowledged, its disclosure may be compelled even over an agency’s otherwise valid \n  13 \n\nCase 1:16-cv-01850-TSC   Document 22   Filed 09/30/17   Page 14 of 26\nexemption claim” Fitzgibbon v. CIA, 911 F.2d 755, 765 (D.C. Cir. 1990), the claim must meet \nthe following “strict test”: \nTo be officially disclosed: (1) the information requested must be as specific as the \ninformation previously released; (2) the information requested must match the \ninformation previously disclosed; and (3) the information requested must already have \nbeen made public through an official and documented disclosure.  Thus, a plaintiff \nasserting a claim of prior disclosure must bear the initial burden of pointing to specific \ninformation in the public domain that appears to duplicate that being withheld. \n \nMoore v. CIA, 666 F.3d 1330, 1333 (D.C. Cir. 2011) (internal citations omitted).  Since this court \nhas found that the FBI’s invocation of Exemption 1 with respect to the purchase price is valid, \nDirector Comey’s public comments must meet the requirements set forth in Moore in order to \ncompel disclosure of the purchase price.  The comments fail the first requirement—Comey \nprovided only a general estimate, rather than the specific price paid for the tool.  He admitted \nhimself that in making that estimate, he was “just winging that.”  (Brown Decl. Ex. I at 2).   \n  Plaintiffs’ supplemental evidence fares no better.  (See Supp. Brown Decl. Ex. A at 2).  \nEven if Senator Feinstein was correct that the FBI paid $900,000 for the tool, Director Comey \ndid not acknowledge or verify Sen. Feinstein’s comment, and Comey’s testimony therefore fails \nthe third element of the test, since the information was not made public through an agency’s \nofficial disclosure.  \n  Plaintiffs also insist that the FBI seeks to prevent disclosure of the purchase price in order \nto prevent embarrassment and restrain competition, not to protect national security, in violation \nof section 1.7(a) of Executive Order 13,526; 75 Fed. Reg. at 710.  Plaintiffs’ allegation is based \non Comey’s comment that he would not disclose the exact purchase price, stating “I don’t want \nto waste your tax payers [sic] money.”  (Brown Decl. Ex. I at 11).  However, Plaintiffs ignore the \ncontext in which this statement was made.  It appears Comey was attempting to explain that he \ndid not want to reveal the purchase price because he did not wish to hurt the FBI’s negotiating \n  14 \n\nCase 1:16-cv-01850-TSC   Document 22   Filed 09/30/17   Page 15 of 26\nposition the next time a similar tool was purchased, thus potentially saving public funds.  (See \nBrown Decl. Ex. I at 10-11).  This comment does not reveal any desire to prevent embarrassment \nto the FBI, and Plaintiffs provide no evidence for their conclusory statement that withholding the \npurchase price will “artificially alter[] the competitive landscape for technology contracting.”  \n(Pls. Mem. at 15).  This single statement from the former FBI Director is an insufficient basis for \nthis court to determine that the FBI’s motive for withholding the purchase price is improper.  \nPlaintiffs must provide something more than conjecture to show that the agency’s withholding \ndecision violates Executive Order 13,526.  See Canning v. Dep’t of Justice, 848 F. Supp. 1037, \n1048 (D.D.C. 1994).  They have failed to do so. \n  Despite Comey’s assertions about the price the FBI paid for the tool, his statements do \nnot amount to an official disclosure that compels the release of the information over the agency’s \nvalid exemption claim, and there is no evidence that the FBI has an improper motive in invoking \nthe exemption.  The agency has provided a logical and plausible affidavit that adequately \ndemonstrates how the release of the purchase price could cause a reasonably expected risk of \nharm to national security, and thus they have properly invoked Exemption 1 with respect to the \npurchase price. \nB.  FOIA Exemption 3 \n1.  Applicable Legal Standard \n  FOIA Exemption 3 protects from disclosure information that has been specifically \nexempted by statute, if that statute “(i) requires that the matters be withheld from the public in \nsuch a manner as to leave no discretion on the issue; or (ii) establishes particular criteria for \nwithholding or refers to particular types of matters to be withheld.”  5 U.S.C. § 552(b)(3)(A).  \nCourts apply a two-pronged inquiry when evaluating Exemption 3 invocations, first determining \n  15 \n\nCase 1:16-cv-01850-TSC   Document 22   Filed 09/30/17   Page 16 of 26\nwhether the statute is an exempting statute, and then evaluating whether the requested material \nfalls within the scope of that statute.  CIA v. Sims, 471 U.S. 159, 167 (1985).  Here, the FBI relies \non section 102A(i)(1) of the National Security Act of 1947 (the “Act”), which protects \nintelligence sources and methods from unauthorized disclosure.  50 U.S.C. § 3024(i)(1).  \nPlaintiffs do not dispute that the Act qualifies as an exempting statute for the purpose of \nExemption 3.  (Pls. Mem. at 18); ACLU, 628 F.3d at 619.  Accordingly, the issue here is whether \nthe withheld information protects intelligence sources and methods. \n  This Circuit has interpreted the Act “broadly,” holding that material is exempt if it relates \nto intelligence sources and methods, or can reasonably be expected to lead to the unauthorized \ndisclosure of intelligence sources and methods.  Leopold, 106 F. Supp. 3d at 57 (citing Larson, \n565 F.3d at 865; Halperin, 629 F.2d at 147).  The exemption includes the “power to withhold \nsuperficially innocuous information on the ground that it might enable an observer to discover \nthe identity of an intelligence source or method.”  Id. (quoting Sims, 471 U.S. at 178).  The Act \npresents an easier hurdle for the agency under Exemption 3 than does Executive Order 13,526 \nunder Exemption 1, in that it does not require the FBI to determine that release of the \ninformation could reasonably be expected to result in damage to national security.  See 50 U.S.C. \n§ 3024(i)(1).1 \n \n \n                                                 \n1 Plaintiffs’ challenge of the FBI’s invocation of Exemption 3 is inconsistent with their challenge \nof Exemption 1.  They do not appear to contest that the information they seek pertains to \nintelligence sources or methods under Section 1.4(c) of Executive Order 13,526, (see Pls. Mem. \nat 12-18; Pls. Reply at 2-5, 7-11), but they later contend that it does not “actually relate” to \nintelligence sources or methods under the Act.  (Pls. Mem. at 19) (citing Larson, 565 F.3d at \n865).  These two positions do not appear reconcilable.   \n  16 \n\nCase 1:16-cv-01850-TSC   Document 22   Filed 09/30/17   Page 17 of 26\n2.  Whether the FBI Properly Invoked Exemption 3 with Respect to the  \n    Vendor’s Identity \n \n  The FBI considers the iPhone hacking tool itself to be an intelligence source and method, \n(Second Hardy Decl. ¶ 8), and the court agrees.  The tool allows the FBI to access intelligence \ninformation on suspects’ phones, therefore logically serving as both a source of intelligence \ninformation and method for obtaining intelligence information.  The FBI argues that release of \nthe vendor’s identity relates to an intelligence source and method because it could lead to \ninformation about the tool, in the same manner as discussed under Exemption 1.   \n(Id. ¶ 8-9).  For the reasons set forth in Section III.A.2, supra, the court finds that this is an \nadequate justification for withholding the vendor’s identity pursuant to Exemption 3. \n  Plaintiffs argue that the FBI’s position is undercut because it did not claim that the \nvendor’s identity was an intelligence source.  (Pls. Mem. at 20).  But this fact is irrelevant under \nthe legal standard, as Plaintiffs acknowledge—the information requested must only relate to \nintelligence sources or methods.  Larson, 565 F.3d at 865.  Plaintiffs also claim that the FBI’s \nassertion that releasing the vendor’s identity could allow an adversary to learn more about the \ntool’s capabilities is speculative, arguing that the FBI “has identified no rational reason why \nknowing the vendor’s identity is linked in any way to the substance of the tool, much less how \nsuch knowledge would reveal any information about the tool’s application[.]” (Pls. Mem. at 20).  \nHowever, as the court previously noted, any affidavit that describes a threatened harm to national \nsecurity “will always be speculative to some extent,” ACLU, 628 F.3d at 619, and the FBI has \nshown how the vendor’s identity logically relates to an intelligence source and method.  \nAccordingly, the FBI properly invoked Exemption 3 with respect to the vendor’s identity. \n \n  17 \n\nCase 1:16-cv-01850-TSC   Document 22   Filed 09/30/17   Page 18 of 26\n3.  Whether the FBI Properly Invoked Exemption 3 with Respect to the  \n    Purchase Price \n \n  The FBI argues that information regarding the purchase price relates to an intelligence \nsource and method because it could lead to information about the iPhone hacking tool, in the \nsame manner as discussed under Exemption 1.  (Second Hardy Decl. ¶ 16-18).  For the reasons \nset forth in Section III.A.3, supra, the court finds that this is an adequate justification for \nwithholding the purchase price pursuant to Exemption 3. \n  Plaintiffs’ argument again centers on Director Comey’s public statements about the tool’s \npurchase price, asserting that all relevant information about the price has already been released.  \n(Pls. Reply at 9-11).  As the court previously discussed in Section III.A.3, supra, Comey’s \ncomments did not constitute an official disclosure such that the release of the purchase price \ncould be compelled over the FBI’s valid exemption claim.  Accordingly, the FBI properly \ninvoked Exemption 3 with respect to the tool’s purchase price. \nC.  FOIA Exemption 7(E)  \n1.  Applicable Legal Standard \n  FOIA Exemption 7(E) protects from disclosure “records or information compiled for law \nenforcement purposes” when production of such records “would disclose techniques and \nprocedures for law enforcement investigations or prosecutions, or would disclose guidelines for \nlaw enforcement investigations or prosecutions if such disclosure could reasonably be expected \nto risk circumvention of the law.”  5 U.S.C. § 552(b)(7)(E).  To fall within Exemption 7, \ninformation must first meet a threshold requirement: that the records were compiled for law \nenforcement purposes.  Pub. Emps. for Envtl. Responsibility (“PEER”) v. U.S. Section, Int’l \nBoundary & Water Comm’n, 740 F.3d 195, 202-03 (D.C. Cir. 2014).  Here, this threshold is \nclearly met; Plaintiffs do not dispute that the FBI compiled the withheld information for law \n  18 \n\nCase 1:16-cv-01850-TSC   Document 22   Filed 09/30/17   Page 19 of 26\nenforcement purposes, (Pls. Mem. at 28-31), and that the records related to the vendor were \nclearly compiled to further the law enforcement investigation into the San Bernardino terrorist \nattack.   \n  Although courts are divided over whether the “risk circumvention of the law” \nrequirement applies to techniques and procedures as well as guidelines, this Circuit has applied \nthe requirement to records containing techniques and procedures as well as those containing \nguidelines.  PEER, 740 F.3d at 204 n.4 (citing Blackwell v. FBI, 646 F.3d 37, 41-42 (D.C. Cir. \n2011)).  The FBI acknowledges this is the proper test here.  (See Second Hardy Decl. ¶ 11).  Still, \nExemption 7(E) “sets a relatively low bar for the agency to justify withholding.”  Blackwell, 646 \nF.3d at 41.  As the court in Mayer Brown LLP v. IRS put it, \nthe exemption looks not just for circumvention of the law, but for a risk of \ncircumvention; not just for an actual or certain risk of circumvention, but for an expected \nrisk; not just for an undeniably or universally expected risk, but for a reasonably expected \nrisk; and not just for certitude of a reasonably expected risk, but for the chance of a \nreasonably expected risk. \n \n562 F.3d 1190, 1193 (D.C. Cir. 2009).  The exemption does not require a specific showing of \nhow the law will be circumvented, only that the agency demonstrate logically how the release of \nthe requested information might create a risk of circumvention.  Id. at 1194; see also Blackwell, \n646 F.3d at 42.  \n2.  Whether the FBI Properly Invoked Exemption 7(E) with Respect to the  \n    Vendor’s Identity \n \n  The FBI argues that, as a law enforcement agency, it could use the iPhone unlocking \ntechnology in future law enforcement activities, making the iPhone hacking tool itself a law \nenforcement technique.  (Second Hardy Decl. ¶ 10).  The court agrees.  Although the vendor’s \nidentity is itself not a law enforcement technique, the FBI contends that disclosing the vendor’s \nidentity will allow hostile entities to discover how the iPhone hacking tool works and then use \n  19 \n\nCase 1:16-cv-01850-TSC   Document 22   Filed 09/30/17   Page 20 of 26\nthat information to circumvent the technology in the same manner this court found to be logical \nand plausible under Exemption 1 in Section III.A.2, supra.  Bearing in mind that the FBI must \nonly show that release of the information will create a “chance of a reasonably expected risk” of \ncircumvention of the law, Mayer Brown, 562 F.3d at 1193, the agency has met its burden to \nshow that it properly invoked Exemption 7(E). \n  Plaintiffs argue once again that there is no risk that revealing the vendor’s identity will \ncause circumvention of the law, because the tool can already be circumvented by using a phone \nthat is not an iPhone 5C or any operating system other than iOS9.  (Pls. Mem. at 31).  This \noverlooks the tool’s potential value to the FBI in future iterations of the technology, and \nPlaintiffs themselves acknowledge that Exemption 7(E) presents a low bar for the agency.  The \nFBI “has not publicly explained how the technology works,” (Second Hardy Decl. ¶ 11), and \nreleasing the vendor’s identity could provide individuals with a recourse to discovering how to \ncircumvent its use in the future.  Accordingly, release of the vendor’s identity would risk \ndisclosure of a law enforcement technique and create a reasonably expected risk of \ncircumvention of the law.  Therefore, the FBI properly invoked Exemption 7(E) with respect to \nthe vendor’s identity. \n3.  Whether the FBI Properly Invoked Exemption 7(E) with Respect to the  \n    Purchase Price \n \n  The FBI argues that although the cost of a single contract is not a law enforcement \ntechnique or procedure, it must be considered in conjunction with the law enforcement technique \nto which it relates, namely, the iPhone hacking tool.  (Id. ¶ 16).  The FBI’s posits that if the total \nprice paid for the iPhone hacking tool were revealed, adversaries would be able to assess the \nnature of the tool and determine its likely capabilities.  (Id. ¶ 17).  The agency further asserts that \nrevealing specific financial allotments for technology acquisition will disclose where the FBI \n  20 \n\nCase 1:16-cv-01850-TSC   Document 22   Filed 09/30/17   Page 21 of 26\nconcentrates its resources for national security investigations, and that releasing non-public \ndetails like a purchase price could allow “potential targets to carefully put together building \nblocks of information that would result in the degradation of the effectiveness of [intelligence \ngathering] tools.”  (Id. ¶ 18).  This in turn could give rise to the development of countermeasures \nby hostile entities that could cause circumvention of the law.  (Id.)  The court finds this \nexplanation to be logical and plausible, and it meets Exemption 7(E)’s low bar for records that \nwould reveal law enforcement techniques and risk circumvention of the law. \n  Plaintiffs again argue that these risks have already been created by Comey’s public \ncomments about the purchase price, and that because this “theory of harm is long since out of the \nbarn,” release of the purchase price would not create a further risk of circumvention of the law.  \n(Pls. Mem. at 30).  However, as discussed in Section III.A.3, supra, Comey’s comments do not \namount to an official disclosure that compels the release of requested information over the FBI’s \nvalid exemption claim.  Accordingly, the FBI properly invoked Exemption 7(E) with respect to \nthe purchase price. \nD.  FOIA Exemption 4 \n1.  Applicable Legal Standard \n  FOIA Exemption 4 protects “trade secrets and commercial or financial information \nobtained from a person and privileged or confidential.”  5 U.S.C. § 552(b)(4).  The purpose of \nthis exemption is to “balance the strong public interest in favor of disclosure against the right of \nprivate businesses to protect sensitive information.”  Nat’l Parks & Conservation Ass’n v. \nMorton (“Nat’l Parks I”), 498 F.2d 765, 768-69 (D.C. Cir. 1974).    \nIn order to qualify for withholding under Exemption 4, information withheld must “(1) \ninvolve trade secrets or commercial or financial information; (2) be obtained from a person \n  21 \n\nCase 1:16-cv-01850-TSC   Document 22   Filed 09/30/17   Page 22 of 26\noutside the government; and (3) be privileged or confidential.”  Biles v. Dep’t of Health & \nHuman Servs., 931 F. Supp. 2d 211, 219 (D.D.C. 2013) (citing Nat’l Parks I, 498 F.2d at 766); \nsee also CREW v. U.S. Dep’t of Justice, 160 F. Supp. 3d 226, 237 (D.D.C. 2016) (citing Pub. \nCitizen Health Research Grp. v. FDA, 704 F.2d 1280, 1290 (D.C. Cir. 1983)).  Plaintiffs do not \ndispute that the purchase price paid to the vendor qualifies as commercial or financial \ninformation, or that it was obtained from a person outside the government.  The FBI does not \nassert that the purchase price is privileged, so the sole issue before the court here is whether the \nprice is confidential.   \n  The court must first decide whether the purchase price constitutes material that was \nsubmitted to the government voluntarily, or material that the government required to be \nsubmitted.  Biles, 931 F. Supp. 2d at 219-20 (citing Critical Mass Energy Project v. NRC, 975 \nF.2d 871, 878-80 (D.C. Cir. 1992) (en banc)).  Information that an entity is required to provide is \nless rigorously protected than information it voluntarily provides to the government.  Id. at 219.  \nThe parties here agree that information submitted for a government contract is an involuntary \nsubmission.  (Def. Mem. at 16; Pls. Mem. at 22); see McDonnell Douglas Corp. v. Dep’t of the \nAir Force, 375 F.3d 1182, 1187 (D.C. Cir. 2004).  When information is required to be submitted \nto the government, it is considered confidential under FOIA if “disclosure is likely ... (1) to \nimpair the Government’s ability to obtain necessary information in the future; or (2) to cause \nsubstantial harm to the competitive position of the person from whom the information was \nobtained.”  Nat’l Parks I, 498 F.2d at 770.  The FBI argues that its invocation of Exemption 4 is \nappropriate under either prong. \n \n \n  22 \n\nCase 1:16-cv-01850-TSC   Document 22   Filed 09/30/17   Page 23 of 26\n2.  Whether Disclosure of the Purchase Price is Likely to Impair the FBI’s  \n    Ability to Obtain Necessary Information in the Future \n \n  The FBI contends that disclosing the purchase price may dissuade future contractors from \nworking with the FBI, for fear that the FBI would publicize information about their own \nfinancial transactions.  (First Hardy Decl. ¶ 46; Second Hardy Decl. ¶ 15).  However, whether an \nentity will participate in a government program is not relevant in deciding whether the \ngovernment will be impaired in its ability to obtain information in the future from those entities \nthat do participate.  “Where the government obtains information involuntarily, disclosure does \nnot impair the government’s ability to obtain similar information in the future.”  In Def. of \nAnimals v. Dep’t of Agric., 656 F. Supp. 2d 68, 72 (D.D.C. 2009); see also Martin Marietta \nCorp. v. Dalton, 974 F. Supp. 37, 40 (D.D.C. 1997).  Accordingly, the FBI’s invocation of \nExemption 4 with respect to the purchase price was not appropriate under the first prong of \nNational Parks I. \n3.  Whether Disclosure of the Purchase Price is Likely to Cause Substantial  \n    Harm to the Competitive Position of the Vendor \n \n  Under the competitive injury prong, the FBI must establish that the vendor (1) actually \nfaces competition, and (2) substantial competitive injury would likely result from disclosure.  \nNat’l Parks and Conservation Ass’n v. Kleppe (Nat’l Parks II), 547 F.2d 673, 679 (D.C. Cir. \n1976).   The competitive injury must “be limited to harm flowing from the affirmative use of the \nproprietary information by competitors.”  Pub. Citizen Health Res. Grp., 704 F.2d at 1291 n.30 \n(emphasis in original).  However, a “sophisticated economic analysis of the likely effects of \ndisclosure” is not required.  Id. at 1291 (citing Nat’l Parks II, 547 F.2d at 681).  The agency need \nnot “prove that substantial harm is ‘certain’ to result from disclosure, but only that such harm is \n‘likely.’”  Boeing v. Dep’t of Air Force, 616 F. Supp. 2d 40, 45 (D.D.C. 2009) (citing McDonnell \n  23 \n\nCase 1:16-cv-01850-TSC   Document 22   Filed 09/30/17   Page 24 of 26\nDouglas Corp., 375 F.3d at 1187).  Further, the agency need only proffer evidence indicating the \nexistence of potential competitive injury or economic harm.  Essex Electro Eng’rs, Inc. v. Sec’y \nof Army, 686 F. Supp. 2d 91, 94 (D.D.C. 2010) (citing Gulf & W. Indus., Inc. v. United States, \n615 F.2d 527, 530 (D.C. Cir. 1979)).  Evidence of actual harm is not required.  Id.  However, the \nagency may not simply offer “conclusory and generalized allegations” of substantial competitive \nharm.  Nat’l Parks II, 547 F.2d at 681.  Instead, it must provide “specific factual or evidentiary \nmaterial to support [its] claim that harm is likely to result.”  Boeing, 616 F. Supp. 2d at 45 (citing \nNat’l Parks II, 547 F.2d at 679). \na.  Whether the Vendor Actually Faces Competition \n  A sole source contract does not preclude a finding of actual competition.  Gen. Elec. Co. \nv. Dep’t of the Air Force, 648 F. Supp. 2d 95, 103 (D.D.C. 2009).  The agency need not provide \nevidence of actual competition for the particular contract, only evidence of actual competition for \nfuture contracts.  Id.   \nThe FBI argues that because the vendor has proved that unlocking these devices is \npossible, it is reasonable to assume that the vendor’s success will create future competition.  \n(Second Hardy Decl. ¶ 14).  However, in General Electric, the company demonstrated actual \ncompetition—its competitors were actively producing the parts covered by the relevant \ngovernment contracts.  Here, the FBI has not shown that any other vendor is even capable of \nproducing a similar product, much less that one is actively attempting to do so.  They merely \nspeculate that there would be competition if the FBI were to request a similar tool in the future.  \n(See Brown Decl. Ex. J at AP-22).  Since there is no evidence that any actual competition exists \nover current or future contracts, the FBI has failed to demonstrate that the vendor actually faces \n  24 \n\nCase 1:16-cv-01850-TSC   Document 22   Filed 09/30/17   Page 25 of 26\ncompetition.  Accordingly, the FBI’s invocation of Exemption 4 was also not appropriate under \nthe second prong of National Parks I.   \nb.  Whether Substantial Competitive Injury is Likely to Result From  \n    Disclosure of the Purchase Price \n \n  Even if the FBI’s assertion about potential future competition was sufficient to show \nactual competition, disclosure of the purchase price would be unlikely to cause substantial \ncompetitive injury.  The FBI argues that releasing this information would grant potential \ngovernment contractors an opportunity to judge how they might underbid the vendor in the \nfuture, hurting the vendor’s ability to obtain government contracts.  (First Hardy Decl. ¶ 45; \nSecond Hardy Decl. ¶ 14).  But the bidding process for this particular contract was unique and \nunlikely to be replicated.  The contract price was based on time constraints caused by the \nurgency of the investigation and the vendor’s ability to produce the tool quickly.  Any future \nprice paid for a similar contract in competitive bidding would likely be unaffected by the price \npaid here, as it reflected the unusual circumstances surrounding the investigation.  Accordingly, \nthe disclosure of the purchase price is unlikely to cause substantial competitive injury to the \nvendor. \n  The agency argues that its determination of substantial competitive injury is entitled to \ndeference, but deference is only granted under Exemption 4 in a “reverse FOIA” case in which \nthe plaintiff is challenging the agency’s impending release of information.  Ctr. for Pub. Integrity \nv. Dep’t of Energy, 191 F. Supp. 2d 187, 196 (D.D.C. 2002) (“The rationale for showing \ndeference in such cases is that… if the agency is willing to release information, it can be safely \nassumed that the agency is acting to protect its ability to contract in the future.  This rationale \nclearly does not apply where an agency is withholding information”); see also Jurewicz v. Dep’t \nof Agric., 741 F.3d 1326, 1330-31 (D.C. Cir. 2014).   \n  25 \n\nCase 1:16-cv-01850-TSC   Document 22   Filed 09/30/17   Page 26 of 26\n  In sum, the court finds that disclosure of the purchase price (1) will not impair the FBI’s \nability to obtain similar information in the future, and (2) is not likely to cause substantial \ncompetitive harm to the vendor, because the vendor does not face actual competition, and even if \nit did, would not likely suffer competitive injury from disclosure.  Accordingly, the purchase \nprice is not confidential within the meaning of Exemption 4, and the FBI’s application of the \nexemption to the purchase price was improper. \nV.  CONCLUSION \n  For the foregoing reasons, Plaintiffs’ motion to supplement the record will be \nGRANTED; the FBI’s motion for summary judgment will be GRANTED; and Plaintiffs’ cross-\nmotion for summary judgment will be DENIED. \n \nA corresponding order will issue separately.  \n \nDated: September 30, 2017 \nTanya S. Chutkan                                 \nTANYA S. CHUTKAN \nUnited States District Judge      \n \n \n  26 ",
+      "document_type_other": "",
+      "external_url": "",
+      "ecf_number": "22",
+      "clearinghouse_link": "clearinghouse.net/doc/95451"
+    },
+    {
+      "date": "2016-09-16",
+      "date_is_estimate": false,
+      "date_not_available": false,
+      "description": null,
+      "document_source": "PACER [Public Access to Court Electronic Records]",
+      "document_status": "Coding Complete",
+      "document_type": "Complaint",
+      "order_type": "Non-Decree",
+      "citation_paren": null,
+      "cite_1_page": null,
+      "cite_1_reporter": null,
+      "cite_1_vol": null,
+      "cite_2_page": null,
+      "cite_2_reporter": null,
+      "cite_2_vol": null,
+      "cite_3_page": null,
+      "cite_3_reporter": null,
+      "cite_3_vol": null,
+      "citation_status": "Not applicable",
+      "court": "District of District of Columbia",
+      "no_title": false,
+      "party_types": [
+        "Plaintiff"
+      ],
+      "per_curium": false,
+      "is_core_document": true,
+      "id": 83179,
+      "file": "https://clearinghouse-umich-production.s3.amazonaws.com/media/doc/83179.pdf",
+      "title": "Complaint",
+      "text": "Case 1:16-cv-01850-TSC   Document 1   Filed 09/16/16   Page 1 of 14\n \nIN THE UNITED STATES DISTRICT COURT  \nFOR THE DISTRICT OF COLUMBIA \n \n   \nTHE ASSOCIATED PRESS;     \n450 West 33rd Street   \nNew York, NY 10001     \n     Case No. 16-cv-1850 \nGANNETT SATELLITE INFORMATION   \nNETWORK LLC d/b/a USA TODAY;      \n7950 Jones Branch Drive \nMcLean, VA 22108 \n \nand VICE MEDIA LLC, \n49 South 2nd Street  \nBrooklyn, NY 11249 \n   \n  Plaintiffs,   \n     \nv.    \n   \nFEDERAL BUREAU OF INVESTIGATION,   \n935 Pennsylvania Avenue, NW \nWashington, D.C. 20535-0001 \n   \n  Defendant. \n \n \n \nCOMPLAINT \n \nPlaintiffs The Associated Press (“AP”), Gannett Satellite Information Network LLC d/b/a \nUSA TODAY (”USA TODAY”), and Vice Media, LLC (“Vice”) (together, “News \nOrganizations”), by and through their undersigned attorneys, allege: \n1.  This action is brought pursuant to the Freedom of Information Act (“FOIA”), \n5  U.S.C. §§ 552, et seq., for basic contracting information from the Federal Bureau of \nInvestigation (“FBI”) regarding one of its most publicly-discussed and controversial acquisitions: \na technological tool openly purchased from a third-party vendor that was used to circumvent the \n   \n\nCase 1:16-cv-01850-TSC   Document 1   Filed 09/16/16   Page 2 of 14\n \nneed for a court order to access the locked iPhone of Syed Rizwan Farook, one of the \nperpetrators of the mass killings in San Bernardino, California.  Mr. Farook and his wife were \nboth killed in the attack, appear to have acted alone, and investigators long ago stated that they \nhad uncovered no connection between the shooters and any foreign terrorist groups.1  The News \nOrganizations seek injunctive and other appropriate relief, including release of agency records \nfrom the FBI. \n2.  More specifically, through this action, the News Organizations seek to compel the \nFBI to provide records of the publicly-acknowledged business transaction that resulted in the \npurchase this March of the so-called iPhone access tool.  The public interest in receiving this \ninformation is significant.  The FBI’s purchase of this tool allowed government access to Mr. \nFarook’s phone, providing new information about one of the deadliest attacks on American soil \nin recent years, but also apparently failing to reveal any evidence of links between Mr. Farook \nand foreign terrorists or terrorist organizations.2  At the same time, the tool sparked tremendous \nnationwide debate about both the proper balance between national security and privacy in \npersonal communications, and the degree to which law enforcement should be empowered to \ncompel access to encrypted and protected devices.3  FBI Director James Comey has himself \nstressed the essential importance of a nationwide “adult conversation” about whether and when \n                                                 \n1 See Doug Stanglin and Kevin Johnson, FBI: No evidence San Bernardino killers were part of a \ncell, USA TODAY (Dec. 5, 2015), available at: \nhttp://www.usatoday.com/story/news/nation/2015/12/04/suspects-family-shocked-\nkillings/76773382/. \n2 See, e.g. Ellen Nakashima and Adam Goldman, No links to foreign terrorists found on San \nBernardino iPhone so far, officials say, The Wash. Post (Apr. 14, 2016), available at \nhttps://www.washingtonpost.com/world/national-security/no-links-to-foreign-terrorists-found-\non-san-bernardino-iphone-so-far-officials-say/2016/04/14/f1aa52ce-0276-11e6-9203-\n7b8670959b88_story.html.  \n3 See, e.g., Elizabeth Weise, Apple v. FBI timeline: 43 days that rocked tech, USA TODAY \n(Mar. 30, 2016) (collecting coverage and summarizing history of debate), available at \nhttp://www.usatoday.com/story/tech/news/2016/03/15/apple-v-fbi-timeline/81827400/.  \n  2 \n \n\nCase 1:16-cv-01850-TSC   Document 1   Filed 09/16/16   Page 3 of 14\n \nlaw enforcement should be able to access encrypted devices because, “‘We’ve got to get to a \npoint where we can reach [wrongdoers] as easily as they can reach us and change behavior by \nthat reach-out.’” 4  Mr. Comey also noted the need for increased information sharing with the \npublic, an acknowledgment particularly critical given the potential of future legislative action on \nthis issue, noting, “‘We need to understand in the FBI, how is this exactly affecting our work, \nand then share that with folks.’”5 \n3.  Moreover, the FBI’s purchase of the technology – and its subsequent verification \nthat it had successfully obtained the data it was seeking thanks to that technology – confirmed \nthat a serious undisclosed security vulnerability existed (and likely still exists) in one of the most \npopular consumer products in the world.6  And in order to exploit that vulnerability, the FBI \ncontracted with an unidentified third-party vendor, effectively sanctioning that party to retain this \npotentially dangerous technology without any public assurance about what that vendor \nrepresents, whether the vendor has adequate security measures, whether the vendor is a proper \nrecipient of government funds, or whether it will act only in the public interest.   \n4.  Information about the FBI’s contracting arrangement would also ensure \ntransparency about the expenditure of public funds.  Understanding the amount that the FBI \ndeemed appropriate to spend on the tool, as well as the identity and reputation of the vendor it \ndid business with, is essential for the public to provide effective oversight of government \n                                                 \n4 See, Eric Tucker, Comey: FBI wants ‘adult conversation’ on device encryption, The Associated \nPress (Aug. 30, 2016), available at: \nhttp://bigstory.ap.org/article/7d57f576e3f74b6ca4cd3436fbebf160/comey-fbi-wants-adult-\nconversation-device-encryption.  \n5 Id. \n6 See, e.g., Tami Abdollah, FBI continues to debate sharing iPhone hack with Apple, The \nAssociated Press (Apr. 7, 2016), available at \nhttp://bigstory.ap.org/article/7672f8a300f542baaa35a2a237820ec1/fbi-debates-sharing-iphone-\nhacking-details-apple.  \n  3 \n \n\nCase 1:16-cv-01850-TSC   Document 1   Filed 09/16/16   Page 4 of 14\n \nfunctions and help guard against potential improprieties.  Further, the public is entitled to know \nthe nature of the vendors the Government finds it necessary to deal with in cases of access to \nprivate information, including whether or not the FBI feels compelled to contract with groups of \nhackers with suspect reputations, because it will inform the public debate over whether the \ncurrent legislative apparatus is sufficient to meet the Government’s need for such information.   \nPARTIES \n5.  Plaintiff The Associated Press is a not-for-profit cooperative whose members are \nU.S. newspapers and broadcasters.  AP is one of the oldest and most trusted newsgathering \norganizations in the world, with more than one billion readers, listeners, and viewers.  AP’s \nheadquarters are at 450 West 33rd Street, New York, NY 10001. \n6.  Plaintiff USA TODAY is the nation’s largest-selling daily newspaper and \nUSATODAY.com is one of the top newspaper sites on the Internet.  USA TODAY’s \nheadquarters are at 7950 Jones Branch Drive, McLean, VA 22108. \n7.  Plaintiff Vice Media LLC is a preeminent news organization, youth media \ncompany, and content creation studio.  Vice operates in over 30 countries, and includes a \nnetwork of digital channels, a weekly and daily news programming partnership, a television and \nfeature film production studio, a magazine, a book-publishing division, and a television network.  \nVice’s headquarters are at 49 South 2nd Street, Brooklyn, NY 11249. \n8.  Defendant Federal Bureau of Investigation is an agency of the federal government \nwithin the meaning of 5 U.S.C. § 552(f)(1) that has possession, custody and/or control of the \nrecords that the News Organizations seek.  The FBI is headquartered at 935 Pennsylvania \nAvenue, NW, Washington, D.C. 20535-0001.  \n  4 \n \n\nCase 1:16-cv-01850-TSC   Document 1   Filed 09/16/16   Page 5 of 14\n \nJURISDICTION AND VENUE \n9.  This Court has subject matter jurisdiction over this action and personal \njurisdiction over the FBI pursuant to 28 U.S.C. § 1331 and 5 U.S.C. § 552(a)(4)(B). \n10.  Venue is proper in this district pursuant to 5 U.S.C. § 552(a)(4)(B). \n11.  The News Organizations each have exhausted all administrative remedies \navailable in regard to the requests at issue.  The FBI denied each of the News Organizations’ \ntimely-filed administrative appeals in their entirety, and therefore the News Organizations are \nentitled to seek judicial review of those denials pursuant to 5 U.S.C. § 552(a)(4)(B).   \nFACTS \nA.  Background \n12.  On December 2, 2015, 14 people were killed and 22 people were seriously injured \nwhen Mr. Farook, a county government employee, and his wife, Tashfeen Malik, opened fire on \ninnocent civilians at the Inland Regional Center in San Bernardino, California.  The attack was \ndefined as an act of terrorism by President Barack Obama, and evidence emerged that Ms. Malik \nhad sworn allegiance to the Islamic State prior to the attack.  Both Mr. Farook and Ms. Malik \nwere subsequently killed by police, and the FBI soon announced that it had uncovered no \nevidence linking them to foreign terrorist organizations.  The mass killing captured significant \nnational attention, particularly in light of the seemingly random and vulnerable civilian targets \nand the outwardly normal lives led by the perpetrators.  The documents sought by the FOIA \nrequests at issue here relate to reporting done by the News Organizations in the aftermath of that \nattack, and to the subsequent counter-terrorism investigation opened by the FBI. \n13.  Not long after the FBI had begun its investigation, the agency’s director, James \nComey, told a Senate panel on February 9, 2016, that the agency was unable to access one of \n  5 \n \n\nCase 1:16-cv-01850-TSC   Document 1   Filed 09/16/16   Page 6 of 14\n \nMr. Farook’s Apple iPhones due to its security and encryption technology.  Because the FBI \nregarded the information contained on the phone as potentially important to its investigation, it \nasked Apple for its assistance to create software that would allow the phone’s security features to \nbe disabled.  When Apple declined, the FBI took the unique step of obtaining a federal court \norder under the All Writs Act directing the company to assist the agency in obtaining access to \nthe phone.  When Apple again refused, the Government moved to compel Apple to do so.  See \nGovernment’s Motion to Compel Apple to Comply, In the Matter of the Search of an Apple \niPhone Seized During the Execution of a Search Warrant on a Black Lexus IS300, California \nLicense Plate 35KGD203, No. 5:16-cm-10-SP (“All Writs Act Proceeding”) (C.D. Cal. Feb. 19, \n2016), Dkt. No. 1 . \n14.  The public debate over whether Apple should be compelled to assist the FBI was \nintense and extensive.  At issue was not only whether the FBI would be able to adequately obtain \nevidence to fully investigate an act of terrorism, but also whether a private company should be \nrequired to create the means to circumvent its own security protections to further that \ninvestigation.  Apple, for instance, argued that any tool allowing such a circumvention would \ninevitably compromise the security of all of its iPhone customers, and would create an \nundesirable precedent that would invite repeated requests for such circumventions in untold \nnumbers of future investigations, diminishing the value of personal security and privacy. \n15.  As this public debate intensified, the Government unexpectedly moved to \ncontinue the proceedings on the motion to compel.  In its court filing, the Government \nrepresented that “an outside party demonstrated to the FBI a possible method for unlocking \nFarook’s iPhone.  Testing is required to determine whether it is a viable method that will not \ncompromise data on Farook’s iPhone.  If the method is viable, it should eliminate the need for \n  6 \n \n\nCase 1:16-cv-01850-TSC   Document 1   Filed 09/16/16   Page 7 of 14\n \nthe assistance from Apple … set forth in the All Writs Act Order in this case.”  All Writs Act \nProceeding, Dkt. No. 191 at 3.  On March 28, 2016, the Government confirmed it was able to \naccess Farook’s iPhone data, and the original Order directing Apple to assist the FBI was vacated \nthe next day.  All Writs Act Proceeding at Dkt. Nos. 209, 210.  The Government has not \nidentified or provided any detailed information about this third party, which presumably still \npossesses the technology to exploit a major iPhone security vulnerability, and which was \npresumably approved as an appropriate vendor for the receipt of Government funds.  \n16.  Not long after the FBI gained access to the iPhone, federal law enforcement \nofficials confirmed that the data contained within Mr. Farook’s iPhone revealed no links to \nforeign terrorist organizations.  It appears that the access tool in this case is no longer in active \nuse, and the FBI has already obtained whatever data it originally sought.  \nB.  Subsequent Official Disclosures \n17.  While the Government’s statements in the All Writs Act Proceeding regarding the \nmethod used to unlock Mr. Farook’s phone were somewhat cryptic, the FBI’s director soon \nbegan publicly confirming significant details about the technological tool it had obtained, \ncommenting on, among other matters, the financial cost of the tool and the structure of the \nspecific deal the FBI entered into with the vendor to obtain it.  Mr. Comey similarly suggested \npublicly that the tool was not then being used in any other investigations, and that a chief reason \nwhy the FBI did not want to disclose more information was to ensure that it would be able to \ndrive a good bargain in potential future technology purchasing negotiations.  Mr. Comey has not \nexplained how the FBI vetted the vendor from which it purchased the tool, why the FBI regards \nthe vendor as an appropriate one, or whether that vendor can itself resell the technology to \nforeign governments, or terrorist or criminal organizations.  \n  7 \n \n\nCase 1:16-cv-01850-TSC   Document 1   Filed 09/16/16   Page 8 of 14\n \n18.  On April 21, 2016, Mr. Comey was asked about the cost of the tool by Brooke \nMasters of the Financial Times.  Mr. Comey responded, “A lot… More than I will make in the \nremainder of this job, which is seven years and four months, for sure.”  Mr. Comey continued \nthat this payment was, “in my view, worth it, because it’s a tool that helps us with a 5C running \niOS9.”  This statement set off a flurry of news reports, which estimated, based on Mr. Comey’s \npublicly-available salary data, a sales price between $1 million and $1.3 million.7  \n19.  At a briefing with reporters on May 11, 2016, Mr. Comey revealed other key \ndetails of the agreement to obtain the tool:8 \na.  Cost:  In response to a question about the cost of the tool, Mr. Comey \nresponded: “I probably shouldn’t have been cute trying to estimate for you \nhow much it costs.  It costs a lot of money. . . . In my view it was well worth \nit.” \n \nb.  Lack of Use in Other Cases:  In response to a question of whether the tool \nhad been used in other cases, Mr. Comey responded: “I don’t think we have \nyet.  We’re trying to figure out a mechanism where we can use the tool to help \nin other investigations.  Again, it’s a narrow thing which is a 5C operating at \non an iOS 9 system.  We’re trying to figure out how we can help state and \nlocal law enforcement, if they have a court order.  How we can do that and \nstill maintain the viability of the tool.  That work is underway right now.  I \nexpect in the near future we’ll have figured out how we’re going to do it.  \nThen we’ll tell law enforcement, ‘If you send us a phone here are the rules.’  \nLook, I want to make sure that if there are ways to use it in appropriate cases \nwe do, but I don’t think we’ve used it yet.” \n \nc.  Structure of the Purchasing Agreement:  In response to a question about \nwhether the FBI was avoiding an internal government process (called “VEP”) \n                                                 \n7 See, e.g., Joshua Kopstein, FBI Director: We Paid More Than $1.2 Million for San Bernardino \niPhone Hack, Vice Motherboard (Apr. 21, 2016), available at \nhttp://motherboard.vice.com/read/fbi-director-we-paid-more-than-1-2-million-for-san-\nbernardino-iphone-hack; FBI head suggests agency paid more than $1M to access iPhone, The \nAssociated Press (Apr. 21, 2016), available at \nhttp://bigstory.ap.org/article/3540c3cb330e4c50a8c4c7f841d383b4/fbi-head-suggests-agency-\npaid-more-1m-access-iphone. \n8 See Director Comey Remarks During May 11 ‘Pen and Pad’ Briefing with Reporters, FBI \nPress Release, available at https://www.fbi.gov/news/pressrel/press-releases/director-comey-\nremarks-during-may-11-2018pen-and-pad2019-briefing-with-reporters. \n  8 \n \n\nCase 1:16-cv-01850-TSC   Document 1   Filed 09/16/16   Page 9 of 14\n \nfor vetting whether security vulnerabilities discovered by government \nagencies should be disclosed to companies for public security reasons by \npurchasing only a tool, as opposed to the details of the security vulnerability \ninformation itself, Mr. Comey responded: “Sometimes you can buy the guts of \nthe tool, right?  The software behind it, the code behind it.  There’s a \ndifference between those two things.  Our goal, I know you’ve all heard me \nsay this many times, the goal in San Bernardino was to investigate the case \nand get into that phone.  We bought what was necessary to get into that phone.  \nWe tried not to spend more money than we needed to spend, but we spent the \nmoney we needed to to get into that phone.  We did not in any form or \nfashion, structure the transaction of the thing with an eye towards avoiding the \nVEP.  I would be shocked if anybody even thought about the VEP or the VEP \nat the time this was going on.  We bought what we needed to buy, to get into \nthe phone.” \n \nd.  Reason for Not Specifying Amount Paid:  In response to a question about \nwhy Mr. Comey would not be more precise about the cost of the tool, \nMr. Comey responded: “A variety of reasons that I don’t want to get into.  I’m \nnot comfortable giving you the precise number.”  Comey later added that “I \ndon’t want to waste your tax payers money,” presumably by revealing a price \npoint for future negotiations with other companies.   \n \ne.  Complete Absence of Target Investigations That Would Use Technology:  \nIn response to a question about how widely the tool could be used on other \ntypes of phones, Mr. Comey responded: “My recollection is we’re highly \nconfident that it works only on a 5C, running on iOS9.”  When asked whether \nany of the roughly 500 additional phones the FBI has identified as important \nto other investigations but which are currently locked and inaccessible are \niPhone 5Cs running iOS9, Mr. Comey responded: “I think, and you can get \nthe answer on this, I think the answer is none.  I don’t think any in that set … I \nthink that’s right.”   \n \nC.  The USA TODAY Request \n20.  On March 29, 2016, the day after the All Writs Act Order was vacated, USA \nTODAY reporter Brad Heath filed a FOIA request (the “USA TODAY Request”) with the FBI \nseeking “[c]omplete copies of any records memorializing agreements or expenditures to the \n‘outside party’ that assisted the FBI in unlocking Syed Rizwan Farook’s iPhone.”  The USA \nTODAY Request sought only the agreements or expenditure records themselves, not the actual \ncontent of the purchased technology.  \n  9 \n \n\nCase 1:16-cv-01850-TSC   Document 1   Filed 09/16/16   Page 10 of 14\n \n21.  On June 6, 2016, the FBI denied the USA TODAY Request.  The FBI stated that \nit had located responsive records, but that it would withhold those records from disclosure.  \nSpecifically, the FBI cited FOIA Exemption 7(A), 5 U.S.C. § 552(b)(7)(A), which permits \nagencies to withhold “records or information compiled for law enforcement purposes, but only to \nthe extent that the production of such law enforcement records or information … could \nreasonably be expected to interfere with enforcement proceedings.”  Rather than explain the \nbasis of its decision to invoke this exemption, the FBI instead merely reiterated the statutory \nstandards by way of analysis: “The records responsive to your request are law enforcement \nrecords; there is a pending or prospective law enforcement proceeding relevant to these \nresponsive records, and release of the information in these responsive records could reasonably \nbe expected to interfere with enforcement proceedings.” \n22.  On June 20, 2016, USA TODAY timely appealed the denial, arguing that the FBI \nhad applied Exemption 7(A) in violation of the law. \n23.  On September 2, 2016, the FBI, through the Department of Justice Office of \nInformation Policy, summarily denied the appeal citing Exemption 7(A). \nD.  The AP Request \n24.  On April 21, 2016, AP reporter Eric Tucker filed a FOIA request (the “AP \nRequest”) with the FBI for records functionally identical to those requested by USA TODAY.  \nThe AP Request sought: (i) “Any FBI contract, request for proposal, written arrangement or \nbusiness transaction, signed between the dates of March 20, 2016 and March 22, 2016, for \ntechnology used to unlock the iPhone 5C used by Syed Rizwan Farook”; and (ii) “Alternatively, \nany record of payment, receipt, etc., that the FBI or U.S. government or any entity acting on its \nbehalf made for [the] technique.”  As with the USA TODAY Request, the AP Request sought \n  10 \n \n\nCase 1:16-cv-01850-TSC   Document 1   Filed 09/16/16   Page 11 of 14\n \nonly the financial agreements underlying the business transaction to obtain the technology, not \nthe details of the technology itself.  \n25.  On May 11, 2016, the FBI denied the AP Request.  The FBI stated that it had \nlocated responsive records, but that it would withhold those records from disclosure.  \nSpecifically, the FBI cited Exemption 7(A).  Rather than explain the basis of its decision to \ninvoke this exemption, the FBI instead merely reiterated the statutory standards by way of \nanalysis: “The records responsive to your request are law enforcement records; there is a pending \nor prospective law enforcement proceeding relevant to these responsive records, and release of \nthe information in these responsive records could reasonably be expected to interfere with \nenforcement proceedings.” \n26.  On June 1, 2016, the AP timely appealed the denial, arguing that the FBI had \napplied Exemption 7(A) in violation of the law.  \n27.  On June 6, 2016, the FBI, through the Department of Justice Office of \nInformation Policy, summarily denied the appeal citing Exemption 7(A). \nE.  The Vice Request \n28.  On April 21, 2016, Vice reporter Jason Leopold filed a FOIA request (the “Vice \nRequest”) with the FBI for “A copy of financial documents, including approval forms, decision \nanalysis memorandum, authorization documents, copies of any and all electronic check transfers, \nassociated with the payment made by the FBI for technical assistance in accessing an iPhone that \nwas allegedly owned by one of the suspects in the San Bernardino shooting last year.”9 \n                                                 \n9 For the purposes of this litigation, Vice has limited the scope of its Request to solely those \nrecords also responsive to the USA TODAY Request and the AP Request.  \n  11 \n \n\nCase 1:16-cv-01850-TSC   Document 1   Filed 09/16/16   Page 12 of 14\n \n29.  On June 6, 2016, the FBI denied the Vice Request.  Specifically, the FBI cited \nExemption 7(A), stating that it could not turn over responsive records because they are located in \nan investigative file. \n30.  On June 13, 2016, Vice timely appealed the denial, arguing that the FBI had \napplied Exemption 7(A) in violation of the law. \n31.  On July 22, 2016, the FBI, through the Department of Justice Office of \nInformation Policy, summarily denied the appeal citing Exemption 7(A). \nFIRST CAUST OF ACTION \n(Violation of FOIA for failure to conduct a reasonable search) \n \n32.  The News Organizations repeat, reallege, and incorporate the allegations in the \nforegoing paragraphs as though fully set forth herein. \n33.  The FBI is an agency subject to FOIA, 5 U.S.C. § 552(f), and therefore had an \nobligation to conduct a search reasonably calculated to uncover all records responsive to the \nthree Requests.  \n34.  On information and belief, the FBI’s limited search of its records was legally \ninadequate, and as a result the FBI has manifestly failed to satisfy its obligations to diligently \nsearch for responsive records under FOIA, 5 U.S.C. § 552(a)(3). \nSECOND CAUSE OF ACTION \n (Violation of FOIA for failure to make records available) \n35.  The News Organizations repeat, reallege, and incorporate the allegations in the \nforegoing paragraphs as though fully set forth herein. \n36.  The FBI is an agency subject to FOIA, 5 U.S.C. § 552(f), and therefore must \ndisclose in response to a FOIA request all responsive records in its possession at the time of the \n  12 \n \n\nCase 1:16-cv-01850-TSC   Document 1   Filed 09/16/16   Page 13 of 14\n \nRequest that are not specifically exempt from disclosure under FOIA, and must provide a lawful \nreason for withholding any records as to which it is claiming an exemption. \n37.  The News Organizations have exhausted all administrative remedies, having filed \nadministrative appeals that were denied.  The News Organizations are therefore entitled to seek \njudicial review of those denials pursuant to 5 U.S.C. § 552(a)(4)(B). \n38.  There is no lawful basis under FOIA for the FBI’s denial of the three Requests \nthat are the subject of this action, and its withholding of the responsive documents identified in \nconnection with those Requests is unlawful in violation of FOIA.   \n39.  Even if parts of the requested documents are properly subject to an exemption, the \nFBI has an obligation to redact non-exempt portions of the documents and release those portions \nthat are non-exempt under FOIA. \n40.  Accordingly, the News Organizations are entitled to an order compelling the FBI \nto produce the records sought by the Requests.  \nREQUEST FOR RELIEF \nWHEREFORE, the News Organizations respectfully request that this Court: \na.  Declare that the records sought by the three Requests, as more particularly \ndescribed above, are public records pursuant to 5 U.S.C. § 552, and that the records must be \ndisclosed; \nb.  Order that the FBI conduct an adequate search for the requested records; \nc.  Order the FBI to provide those records to the News Organizations, including \nelectronic copies of records stored in electronic format, within 20 business days of the Court’s \norder; \n  13 \n \n\nCase 1:16-cv-01850-TSC   Document 1   Filed 09/16/16   Page 14 of 14\n \nd.  Award to the News Organizations the costs of this proceeding, including \nreasonable attorney’s fees, as authorized by FOIA; and \ne.  Grant to the News Organizations such other and further relief as this Court deems \njust and proper. \nDated:  September 16, 2016  Respectfully submitted, \n Washington, D.C.    \n  LEVINE SULLIVAN KOCH & SCHULZ, LLP \n   \nOf Counsel:  By:  /s/ Jay Ward Brown                                \n  Jay Ward Brown (D.C. Bar No. 437686) \nKaren Kaiser  1899 L Street, N.W., Suite 200 \nBrian Barrett  Washington, D.C.  20036 \nThe Associated Press  Telephone: (202) 508-1136 \n450 West 33rd Street  Fax: (202) 861-9888 \nNew York, NY  10001  E-mail: jbrown@lskslaw.com \nTelephone: (212) 621-7547   \nFax: (212) 506-6131  Jeremy A. Kutner \nE-mail: kkaiser@ap.org  (Pro Hac Vice Application Pending) \nE-mail: bbarrett@ap.org   321 West 44th Street, Suite 1000 \n  New York, NY 10036 \nBarbara Wall  Telephone: (212) 850-6100 \nThomas Curley  Fax: (212) 850-6299 \nGannett Co., Inc.  E-mail: jkutner@lskslaw.com \n7950 Jones Branch Drive   \nMcLean, VA 22107  Counsel for Plaintiffs The Associated Press, USA \nTelephone: (703) 854-6417  TODAY, and Vice Media LLC.  \nFax: (703) 854-2031 \nE-mail: bwall@gannett.com \nE-mail: tcurley@gannett.com \n \n  14 \n ",
+      "document_type_other": "",
+      "external_url": "",
+      "ecf_number": "1",
+      "clearinghouse_link": "clearinghouse.net/doc/83179"
+    },
+    {
+      "date": "2017-09-30",
+      "date_is_estimate": false,
+      "date_not_available": false,
+      "description": null,
+      "document_source": "PACER [Public Access to Court Electronic Records]",
+      "document_status": "Coding Complete",
+      "document_type": "Docket",
+      "order_type": "Non-Decree",
+      "citation_paren": null,
+      "cite_1_page": null,
+      "cite_1_reporter": null,
+      "cite_1_vol": null,
+      "cite_2_page": null,
+      "cite_2_reporter": null,
+      "cite_2_vol": null,
+      "cite_3_page": null,
+      "cite_3_reporter": null,
+      "cite_3_vol": null,
+      "citation_status": "Not applicable",
+      "court": "District of District of Columbia",
+      "no_title": false,
+      "party_types": [
+        "Court"
+      ],
+      "per_curium": false,
+      "is_core_document": true,
+      "id": 83472,
+      "file": "https://clearinghouse-umich-production.s3.amazonaws.com/media/doc/83472.pdf",
+      "title": "Docket",
+      "text": "Case: 1:16-cv-1850   As of: 11/02/2017 04:43 PM EDT   1 of 4\nCLOSED,TYPE I−FOIA\nU.S. District Court\nDistrict of Columbia (Washington, DC)\nCIVIL DOCKET FOR CASE #: 1:16−cv−01850−TSC\nASSOCIATED PRESS et al v. FEDERAL BUREAU OF Date Filed: 09/16/2016\nINVESTIGATION Date Terminated: 10/03/2017\nAssigned to: Judge Tanya S. Chutkan Jury Demand: None\nCause: 05:552 Freedom of Information Act Nature of Suit: 895 Freedom of\nInformation Act\nJurisdiction: U.S. Government Defendant\nPlaintiff\nASSOCIATED PRESS represented by Jay Ward Brown\nBALLARD SPAHR LLP\n1909 K Street, NW\n12th Floor\nWashington, DC 20006\n(202) 508−1136\nFax: (202) 661−2299\nEmail: brownjay@ballardspahr.com\nLEAD ATTORNEY\nATTORNEY TO BE NOTICED\nJeremy A. Kutner\nLEVINE SULLIVAN KOCH &\nSCHULZ, LLP\n321 West 44th Street\nSuite 1000\nNew York, NY 10036\n(212) 850−6107\nFax: (212) 850−6299\nEmail: jkutner@lskslaw.com\nPRO HAC VICE\nATTORNEY TO BE NOTICED\nPlaintiff\nGANNETT SATELLITE represented by Jay Ward Brown\nINFORMATION NETWORK LLC (See above for address)\ndoing business as LEAD ATTORNEY\nUSA TODAY ATTORNEY TO BE NOTICED\nJeremy A. Kutner\n(See above for address)\nPRO HAC VICE\nATTORNEY TO BE NOTICED\nPlaintiff\nVICE MEDIA LLC represented by Jay Ward Brown\n(See above for address)\nLEAD ATTORNEY\nATTORNEY TO BE NOTICED\nJeremy A. Kutner\n(See above for address)\nPRO HAC VICE\nATTORNEY TO BE NOTICED\nV.\nDefendant\n\nCase: 1:16-cv-1850   As of: 11/02/2017 04:43 PM EDT   2 of 4\nFEDERAL BUREAU OF represented by Joseph Evan Borson\nINVESTIGATION U.S. DEPARTMENT OF JUSTICE\nP.O. Box 883\nWashington, DC 20044\n(202) 514−1944\nFax: (202) 616−8460\nEmail: joseph.borson@usdoj.gov\nLEAD ATTORNEY\nATTORNEY TO BE NOTICED\nDate Filed # Docket Text\n09/16/2016 1  COMPLAINT against FEDERAL BUREAU OF INVESTIGATION ( Filing fee $ 400\nreceipt number 0090−4676381) filed by VICE MEDIA LLC, GANNETT\nSATELLITE INFORMATION NETWORK LLC d/b/a USA TODAY, THE\nASSOCIATED PRESS. (Attachments: # 1 Civil Cover Sheet, # 2 Summons Summons\nas to Federal Bureau of Investigation, # 3 Summons Summons as to United States\nAttorney's Office, # 4 Summons Summons as to United States Attorney\nGeneral)(Brown, Jay) (Entered: 09/16/2016)\n09/16/2016 2  LCvR 7.1 CERTIFICATE OF DISCLOSURE of Corporate Affiliations and Financial\nInterests by THE ASSOCIATED PRESS (Brown, Jay) (Entered: 09/16/2016)\n09/16/2016 3  LCvR 7.1 CERTIFICATE OF DISCLOSURE of Corporate Affiliations and Financial\nInterests by GANNETT SATELLITE INFORMATION NETWORK LLC d/b/a USA\nTODAY (Brown, Jay) (Entered: 09/16/2016)\n09/16/2016 4  LCvR 7.1 CERTIFICATE OF DISCLOSURE of Corporate Affiliations and Financial\nInterests by VICE MEDIA LLC (Brown, Jay) (Entered: 09/16/2016)\n09/16/2016 Case Assigned to Judge Tanya S. Chutkan. (md) (Entered: 09/19/2016)\n09/19/2016 5  SUMMONS (3) Issued Electronically as to FEDERAL BUREAU OF\nINVESTIGATION, U.S. Attorney and U.S. Attorney General (Attachments: # 1\nConsent Form)(zsb) (Entered: 09/19/2016)\n09/30/2016 6  RETURN OF SERVICE/AFFIDAVIT of Summons and Complaint Executed.\nFEDERAL BUREAU OF INVESTIGATION served on 9/23/2016, (Attachments: # 1\nReturn Receipt)(Brown, Jay) Modified on 9/30/2016 to correct event (zrdj). (Entered:\n09/30/2016)\n09/30/2016 7  RETURN OF SERVICE/AFFIDAVIT of Summons and Complaint Executed as to the\nUnited States Attorney. Date of Service Upon United States Attorney on 9/23/2016.\nAnswer due for ALL FEDERAL DEFENDANTS by 10/23/2016. (Attachments: # 1\nReturn Receipt)(Brown, Jay) (Entered: 09/30/2016)\n09/30/2016 8  RETURN OF SERVICE/AFFIDAVIT of Summons and Complaint Executed on\nUnited States Attorney General. Date of Service Upon United States Attorney General\n09/23/2016. (Attachments: # 1 Return Receipt)(Brown, Jay) (Entered: 09/30/2016)\n10/24/2016 9  NOTICE of Appearance by Joseph Evan Borson on behalf of FEDERAL BUREAU\nOF INVESTIGATION (Borson, Joseph) (Entered: 10/24/2016)\n10/24/2016 10  ANSWER to Complaint by FEDERAL BUREAU OF INVESTIGATION.\n(Attachments: # 1 Exhibit A, # 2 Exhibit B, # 3 Exhibit C, # 4 Exhibit D, # 5 Exhibit\nE, # 6 Exhibit F, # 7 Exhibit G, # 8 Exhibit H, # 9 Exhibit I, # 10 Exhibit J, # 11\nExhibit K, # 12 Exhibit L)(Borson, Joseph) (Entered: 10/24/2016)\n10/25/2016 MINUTE ORDER: Before the Court in this FOIA case are a complaint and an answer.\nThe requirements of LCvR 16.3 and Rule 26(f) of the Federal Rules of Civil procedure\nappear to be inapplicable. IT IS HEREBY ORDERED that the parties shall meet and\nconfer and propose a schedule for proceeding in this matter. The schedule shall\naddress the status of Plaintiff's FOIA request, the anticipated number of documents\nresponsive to Plaintiff's FOIA request, the anticipated date(s) for release of the\ndocuments requested by Plaintiff, whether a motion for an Open America stay is likely\nin this case, whether a Vaughn index will be required in this case, whether and when\neither party anticipates filing a dispositive motion, and any other pertinent issues. The\n\nCase: 1:16-cv-1850   As of: 11/02/2017 04:43 PM EDT   3 of 4\nparties shall file a joint status report that addresses these issues and that contains a\nproposed schedule and order not later than 11/15/16. Signed by Judge Tanya S.\nChutkan on 10/25/16. (DJS) (Entered: 10/25/2016)\n10/25/2016 Set/Reset Deadlines: Status Report due by 11/15/2016 (zsm) (Entered: 10/25/2016)\n10/26/2016 11  MOTION for Leave to Appear Pro Hac Vice :Attorney Name− Jeremy A. Kutner,\n:Firm− Levine Sullivan Koch & Schulz, LLP, :Address− 321 W. 44th Street, Suite\n1000, New York, NY 10036. Phone No. − 212−850−6107. Fax No. − 212−850−6299\nFiling fee $ 100, receipt number 0090−4721959. Fee Status: Fee Paid. by\nASSOCIATED PRESS, GANNETT SATELLITE INFORMATION NETWORK\nLLC, VICE MEDIA LLC (Attachments: # 1 Declaration of Jeremy A. Kutner, # 2\nText of Proposed Order)(Brown, Jay) (Entered: 10/26/2016)\n10/27/2016 MINUTE ORDER: Granting 11 Motion for Leave to Appear Pro Hac Vice. Attorney\nJEREMY A. KUTNER is hereby admitted pro hac vice to appear in this matter on\nbehalf of Plaintiffs. Signed by Judge Tanya S. Chutkan on 10/27/16. (DJS) (Entered:\n10/27/2016)\n10/28/2016 12  NOTICE of Appearance by Jeremy A. Kutner on behalf of ASSOCIATED PRESS,\nGANNETT SATELLITE INFORMATION NETWORK LLC, VICE MEDIA LLC\n(Kutner, Jeremy) (Entered: 10/28/2016)\n11/15/2016 13  Joint STATUS REPORT by ASSOCIATED PRESS, GANNETT SATELLITE\nINFORMATION NETWORK LLC, VICE MEDIA LLC. (Brown, Jay) (Entered:\n11/15/2016)\n11/21/2016 MINUTE ORDER: Having considered the parties' Joint Status Report 13 it is hereby\nordered that the parties shall adhere to the following schedule: FBI Completion of\nDocument Review due by January 6, 2017. FBI Motion for Summary Judgment due\nJanuary 30, 2017. Plaintiffs' Opposition and Combined Cross−Motion due February\n20, 2017. FBI Reply and Combined Opposition to Cross−Motion due March 13, 2017.\nPlaintiffs' Reply due March 27, 2017. Signed by Judge Tanya S. Chutkan on 11/21/16.\n(DJS) (Entered: 11/21/2016)\n11/21/2016 Set/Reset Deadlines: Summary Judgment motions due by 1/30/2017. Response to\nMotion for Summary Judgment and Cross Motions due by 2/20/2017. Reply to Motion\nfor Summary Judgment and Response to Cross Motions due by 3/13/2017. Reply to\nCross Motions due by 3/27/2017. (gdf) (Entered: 11/21/2016)\n01/30/2017 14  MOTION for Summary Judgment by FEDERAL BUREAU OF INVESTIGATION\n(Attachments: # 1 Memorandum in Support, # 2 Declaration Decl. of David M. Hardy,\n# 3 Exhibit Exs. A−R of Hardy Decl., # 4 Statement of Facts, # 5 Text of Proposed\nOrder)(Borson, Joseph) (Entered: 01/30/2017)\n02/20/2017 15  Cross MOTION for Summary Judgment by ASSOCIATED PRESS, GANNETT\nSATELLITE INFORMATION NETWORK LLC, VICE MEDIA LLC (Attachments:\n# 1 Declaration of Jay Ward Brown, # 2 Exhibits A−J to Brown Decl., # 3 Text of\nProposed Order)(Brown, Jay) (Entered: 02/20/2017)\n02/20/2017 16  Memorandum in opposition to re 14 MOTION for Summary Judgment filed by\nASSOCIATED PRESS, GANNETT SATELLITE INFORMATION NETWORK\nLLC, VICE MEDIA LLC. (Attachments: # 1 Declaration of Jay Ward Brown, # 2\nExhibits A−J to Brown Decl., # 3 Text of Proposed Order)(Brown, Jay) (Entered:\n02/20/2017)\n03/13/2017 17  Memorandum in opposition to re 15 Cross MOTION for Summary Judgment &\nOpposition to Defendant's Motion for Summary Judgment filed by FEDERAL\nBUREAU OF INVESTIGATION. (Attachments: # 1 Declaration Second Hardy Decl.,\n# 2 Statement of Facts)(Borson, Joseph) (Entered: 03/13/2017)\n03/13/2017 18  REPLY to opposition to motion re 14 MOTION for Summary Judgment filed by\nFEDERAL BUREAU OF INVESTIGATION. (Attachments: # 1 Declaration Second\nHardy Decl)(Borson, Joseph) (Entered: 03/13/2017)\n03/27/2017 19  REPLY to opposition to motion re 15 Cross MOTION for Summary Judgment &\nOpposition to Defendant's Motion for Summary Judgment filed by ASSOCIATED\nPRESS, GANNETT SATELLITE INFORMATION NETWORK LLC, VICE MEDIA\n\nCase: 1:16-cv-1850   As of: 11/02/2017 04:43 PM EDT   4 of 4\nLLC. (Brown, Jay) (Entered: 03/27/2017)\n05/12/2017 20  MOTION to Supplement Record re 15 Cross MOTION for Summary Judgment &\nOpposition to Defendant's Motion for Summary Judgment by ASSOCIATED PRESS,\nGANNETT SATELLITE INFORMATION NETWORK LLC, VICE MEDIA LLC\n(Attachments: # 1 Supplemental Decl. of Jay Ward Brown, # 2 Exhibit A to Suppl.\nBrown Decl., # 3 Text of Proposed Order)(Brown, Jay) (Entered: 05/12/2017)\n05/16/2017 21  RESPONSE re 20 MOTION to Supplement Record re 15 Cross MOTION for\nSummary Judgment & Opposition to Defendant's Motion for Summary Judgment filed\nby FEDERAL BUREAU OF INVESTIGATION. (Borson, Joseph) (Entered:\n05/16/2017)\n09/30/2017 22  MEMORANDUM AND OPINION: Re Plaintiffs' Motion 20 to Supplement the\nRecord; Defendant's 14 Motion for Summary Judgment; Plaintiffs' Cross−Motion 15\nfor Summary Judgment. Signed by Judge Tanya S. Chutkan on 9/30/17. (DJS)\n(Entered: 09/30/2017)\n09/30/2017 23  ORDER: Granting 14 Defendant's Motion for Summary Judgment; Denying 15\nPlaintiffs' Motion for Summary Judgment; Granting Plaintiffs' 20 Motion to\nSupplement the Record. Dismissing this action with prejudice. Signed by Judge Tanya\nS. Chutkan on 9/30/17. (DJS) (Entered: 09/30/2017)\n09/30/2017 24  SUPPLEMENTAL MEMORANDUM to re 15 Cross MOTION for Summary\nJudgment & Opposition to Defendant's Motion for Summary Judgment, 14 MOTION\nfor Summary Judgment filed by ASSOCIATED PRESS, VICE MEDIA LLC.\n(Attachments: # 1 Exhibit A)(znmw) Modified filed date on 10/3/2017 (znmw).\n(Entered: 10/02/2017)",
+      "document_type_other": "",
+      "external_url": "",
+      "ecf_number": null,
+      "clearinghouse_link": "clearinghouse.net/doc/83472"
+    },
+    {
+      "date": null,
+      "date_is_estimate": false,
+      "date_not_available": false,
+      "description": null,
+      "document_source": null,
+      "document_status": null,
+      "document_type": null,
+      "order_type": null,
+      "citation_paren": null,
+      "cite_1_page": null,
+      "cite_1_reporter": null,
+      "cite_1_vol": null,
+      "cite_2_page": null,
+      "cite_2_reporter": null,
+      "cite_2_vol": null,
+      "cite_3_page": null,
+      "cite_3_reporter": null,
+      "cite_3_vol": null,
+      "citation_status": null,
+      "court": null,
+      "no_title": false,
+      "party_types": [],
+      "per_curium": false,
+      "is_core_document": true,
+      "id": 116295,
+      "file": null,
+      "title": null,
+      "text": null,
+      "document_type_other": null,
+      "external_url": null,
+      "ecf_number": null,
+      "clearinghouse_link": "clearinghouse.net/doc/116295"
+    }
+  ],
+  "document_count": 4
+}

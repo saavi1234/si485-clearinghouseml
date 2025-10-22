@@ -1,0 +1,649 @@
+{
+  "case_id": 9293,
+  "fetched_at": "2025-10-22T00:09:08.809399",
+  "case_data": {
+    "attorney_orgs": [
+      "EEOC"
+    ],
+    "available_documents": [
+      "Trial Court Docket",
+      "Complaint (any)",
+      "Monetary Relief",
+      "Injunctive (or Injunctive-like) Relief"
+    ],
+    "case_defendants": [
+      {
+        "defendant_level": null,
+        "institution": null,
+        "institution_alt_state": null,
+        "institution_city": "Houston, Texas",
+        "institution_county": null,
+        "name": "TH Healthcare, Ltd",
+        "defendant_level_other": null,
+        "is_active": true
+      }
+    ],
+    "case_ongoing": "No",
+    "case_status": "Coding Complete",
+    "case_types": [
+      "Equal Employment"
+    ],
+    "cause_other": "",
+    "causes": [
+      "Americans with Disabilities Act (ADA), 42 U.S.C. §§ 12111 et seq."
+    ],
+    "class_action_granted": "Not sought",
+    "class_action_sought": "No",
+    "closing_year": 2009,
+    "constitutional_clause": [],
+    "content_of_injunction": [
+      {
+        "value": "Retaliation Prohibition"
+      },
+      {
+        "value": "Utilize objective hiring/promotion criteria"
+      },
+      {
+        "value": "Post/Distribute Notice of Rights / EE Law"
+      },
+      {
+        "value": "Provide antidiscrimination training"
+      },
+      {
+        "value": "Reporting"
+      },
+      {
+        "value": "Recordkeeping"
+      },
+      {
+        "value": "Monitoring"
+      }
+    ],
+    "court": "Southern District of Texas",
+    "custom_issues": [],
+    "defendant_payment": "122500",
+    "defendant_type": [],
+    "docket_status": "Complete as of retrieval date",
+    "facility_type": [],
+    "filing_date": "2006-08-24",
+    "filing_year": 2006,
+    "id": 9293,
+    "injunction_duration": "24",
+    "issues": [
+      "Discrimination Basis: Disability (inc. reasonable accommodations)",
+      "Discrimination Area: Disparate Treatment",
+      "Discrimination Area: Hiring",
+      "Discrimination Area: Discharge / Constructive Discharge / Layoff",
+      "EEOC-centric: Direct Suit on Merits"
+    ],
+    "last_checked_date": "2017-05-31T00:00:00-04:00",
+    "main_docket": {
+      "id": 33805,
+      "docket_entries": [
+        {
+          "row_number": 21,
+          "id": 8910231,
+          "entry_number": null,
+          "date_filed": "2006-08-28T00:00:00-04:00",
+          "attachments": [],
+          "url": "https://www.courtlistener.com",
+          "recap_pdf_url": null,
+          "pacer_doc_id": null,
+          "description": "Fee waived re: 1 Complaint,, filed. (agould, )"
+        },
+        {
+          "row_number": 11,
+          "id": 8910230,
+          "entry_number": "2",
+          "date_filed": "2006-08-24T00:00:00-04:00",
+          "attachments": [],
+          "url": "https://www.courtlistener.com/docket/4396754/2/equal-employment-opportunity-commission-v-th-healthcare-ltd-tenet/",
+          "recap_pdf_url": null,
+          "pacer_doc_id": "17902088182",
+          "description": "ORDER for Initial Pretrial and Scheduling Conference and Order to Disclose Interested Persons. Initial Conference set for 11/3/2006 at 03:00 PM in Room 8631 before Judge Keith P Ellison. ( Signed by Judge Keith P Ellison ) Parties notified. (smurdock, ) (Entered: 08/24/2006)"
+        },
+        {
+          "row_number": 14,
+          "id": 8910233,
+          "entry_number": "4",
+          "date_filed": "2006-09-18T00:00:00-04:00",
+          "attachments": [],
+          "url": "https://www.courtlistener.com/docket/4396754/4/equal-employment-opportunity-commission-v-th-healthcare-ltd-tenet/",
+          "recap_pdf_url": null,
+          "pacer_doc_id": "17905704725",
+          "description": "ANSWER to Complaint by TH Healthcare, Ltd (\"Tenet\"), filed.(Mitchell, Michael) (Entered: 09/18/2006)"
+        },
+        {
+          "row_number": 15,
+          "id": 8910234,
+          "entry_number": "5",
+          "date_filed": "2006-10-10T00:00:00-04:00",
+          "attachments": [],
+          "url": "https://www.courtlistener.com/docket/4396754/5/equal-employment-opportunity-commission-v-th-healthcare-ltd-tenet/",
+          "recap_pdf_url": null,
+          "pacer_doc_id": "17905751641",
+          "description": "SUMMONS Returned Executed. TH Healthcare, Ltd (\"Tenet\") served on 9/1/2006, answer due 9/21/2006, filed.(ypippin, ) (Entered: 10/11/2006)"
+        },
+        {
+          "row_number": 18,
+          "id": 8910237,
+          "entry_number": "8",
+          "date_filed": "2006-10-26T00:00:00-04:00",
+          "attachments": [],
+          "url": "https://www.courtlistener.com/docket/4396754/8/equal-employment-opportunity-commission-v-th-healthcare-ltd-tenet/",
+          "recap_pdf_url": null,
+          "pacer_doc_id": "17906077963",
+          "description": "ORDER CANCELLING INITIAL CONFERENCE. Initial Conference set for 11/3/2006 at 3:00 PM has now been CANCELED. Deadlines terminated.( Signed by Judge Keith P Ellison ) Parties notified.(csonnier, ) (Entered: 10/26/2006)"
+        },
+        {
+          "row_number": 2,
+          "id": 8910240,
+          "entry_number": "11",
+          "date_filed": "2007-04-10T00:00:00-04:00",
+          "attachments": [],
+          "url": "https://www.courtlistener.com/docket/4396754/11/equal-employment-opportunity-commission-v-th-healthcare-ltd-tenet/",
+          "recap_pdf_url": null,
+          "pacer_doc_id": "17906141021",
+          "description": "Order GRANTING 10 Motion to Amend Complaint.( Signed by Judge Keith P Ellison ) Parties notified.(csonnier, ) (Entered: 04/10/2007)"
+        },
+        {
+          "row_number": 22,
+          "id": 8910242,
+          "entry_number": null,
+          "date_filed": "2007-04-13T00:00:00-04:00",
+          "attachments": [],
+          "url": "https://www.courtlistener.com",
+          "recap_pdf_url": null,
+          "pacer_doc_id": null,
+          "description": "Summons Issued as to Tenet Employment, Inc (\"Tenet\"), filed.(blacy, )"
+        },
+        {
+          "row_number": 4,
+          "id": 8910243,
+          "entry_number": "13",
+          "date_filed": "2007-05-18T00:00:00-04:00",
+          "attachments": [],
+          "url": "https://www.courtlistener.com/docket/4396754/13/equal-employment-opportunity-commission-v-th-healthcare-ltd-tenet/",
+          "recap_pdf_url": null,
+          "pacer_doc_id": "17906251945",
+          "description": "First AMENDED ANSWER to 12 Amended Complaint/Counterclaim/Crossclaim etc. by all defendants, filed. (Fox, Michael) (Entered: 05/18/2007)"
+        },
+        {
+          "row_number": 5,
+          "id": 8910244,
+          "entry_number": "14",
+          "date_filed": "2007-07-16T00:00:00-04:00",
+          "attachments": [],
+          "url": "https://www.courtlistener.com/docket/4396754/14/equal-employment-opportunity-commission-v-th-healthcare-ltd-tenet/",
+          "recap_pdf_url": null,
+          "pacer_doc_id": "17906370412",
+          "description": "RETURN of Service Subpoena In A Civil Case., filed.(blacy, ) (Entered: 07/16/2007)"
+        },
+        {
+          "row_number": 6,
+          "id": 8910245,
+          "entry_number": "15",
+          "date_filed": "2007-09-20T00:00:00-04:00",
+          "attachments": [],
+          "url": "https://www.courtlistener.com/docket/4396754/15/equal-employment-opportunity-commission-v-th-healthcare-ltd-tenet/",
+          "recap_pdf_url": null,
+          "pacer_doc_id": "17902984572",
+          "description": "Unopposed MOTION for Continuance by TH Healthcare, Ltd (\"Tenet\"), filed. Motion Docket Date 10/10/2007. (Miscovich, Jennifer) (Entered: 09/20/2007)"
+        },
+        {
+          "row_number": 7,
+          "id": 8910246,
+          "entry_number": "16",
+          "date_filed": "2007-09-21T00:00:00-04:00",
+          "attachments": [],
+          "url": "https://www.courtlistener.com/docket/4396754/16/equal-employment-opportunity-commission-v-th-healthcare-ltd-tenet/",
+          "recap_pdf_url": null,
+          "pacer_doc_id": "17906508152",
+          "description": "Order GRANTING 15 Unopposed Motion for Continuance. Discovery due by 11/16/2007; Dispositive Motion/Non-Dispositive Motion Filing due by 12/17/2007; Joint Pretrial Order & Motions In Limine due by 3/10/2008. Jury Trial set for 3/17/2008 at 08:30 AM in Courtroom 3A before Judge Keith P Ellison.( Signed by Judge Keith P Ellison ) Parties notified.(csonnier, ) (Entered: 09/21/2007)"
+        },
+        {
+          "row_number": 8,
+          "id": 8910247,
+          "entry_number": "17",
+          "date_filed": "2007-10-16T00:00:00-04:00",
+          "attachments": [],
+          "url": "https://www.courtlistener.com/docket/4396754/17/equal-employment-opportunity-commission-v-th-healthcare-ltd-tenet/",
+          "recap_pdf_url": null,
+          "pacer_doc_id": "17906574893",
+          "description": "SUBMISSION of Mediator Regarding Settlement by Nancy Huston, filed.(csonnier, ) (Entered: 10/16/2007)"
+        },
+        {
+          "row_number": 10,
+          "id": 10061151,
+          "entry_number": "19",
+          "date_filed": "2007-10-24T00:00:00-04:00",
+          "attachments": [],
+          "url": "https://www.courtlistener.com/docket/4396754/19/equal-employment-opportunity-commission-v-th-healthcare-ltd-tenet/",
+          "recap_pdf_url": null,
+          "pacer_doc_id": "17906592767",
+          "description": "STIPULATION of Dismissal of Party Defendant by Equal Employment Opportunity Commission, filed.(Bowne, Timothy) (Entered: 10/24/2007)"
+        },
+        {
+          "row_number": 12,
+          "id": 10129938,
+          "entry_number": "20",
+          "date_filed": "2007-10-26T00:00:00-04:00",
+          "attachments": [],
+          "url": "https://www.courtlistener.com/docket/4396754/20/equal-employment-opportunity-commission-v-th-healthcare-ltd-tenet/",
+          "recap_pdf_url": null,
+          "pacer_doc_id": "17903073439",
+          "description": "CONSENT DECREE.( Signed by Judge Keith P Ellison ) Parties notified.(csonnier, ) (Entered: 10/29/2007)"
+        },
+        {
+          "row_number": 9,
+          "id": 10061150,
+          "entry_number": "18",
+          "date_filed": "2007-10-24T00:00:00-04:00",
+          "attachments": [
+            {
+              "recap_id": 155284003,
+              "pacer_url": "https://ecf.txsd.uscourts.gov/doc1/17903081966?caseid=468488",
+              "description": "Proposed Order Proposed Consent Decree",
+              "attachment_number": 1
+            },
+            {
+              "recap_id": 155284004,
+              "pacer_url": "https://ecf.txsd.uscourts.gov/doc1/17903082367?caseid=468488",
+              "description": "Exhibit Notice (Exhibit A to Consent Decree)",
+              "attachment_number": 2
+            }
+          ],
+          "url": "https://www.courtlistener.com/docket/4396754/18/equal-employment-opportunity-commission-v-th-healthcare-ltd-tenet/",
+          "recap_pdf_url": null,
+          "pacer_doc_id": "17903084051",
+          "description": "Agreed MOTION for Entry of Order re: Entry of Consent Decree by Equal Employment Opportunity Commission, filed. Motion Docket Date 11/13/2007. (Attachments: # 1 Proposed Order Proposed Consent Decree# 2 Exhibit Notice (Exhibit A to Consent Decree))(Bowne, Timothy) (Entered: 10/24/2007)"
+        },
+        {
+          "row_number": 0,
+          "id": 8910228,
+          "entry_number": "1",
+          "date_filed": "2006-08-24T00:00:00-04:00",
+          "attachments": [
+            {
+              "recap_id": 155283994,
+              "pacer_url": "https://ecf.txsd.uscourts.gov/doc1/17902096208?caseid=468488",
+              "description": "Civil Cover Sheet",
+              "attachment_number": 1
+            }
+          ],
+          "url": "https://www.courtlistener.com/docket/4396754/1/equal-employment-opportunity-commission-v-th-healthcare-ltd-tenet/",
+          "recap_pdf_url": "https://www.courtlistener.com/recap/gov.uscourts.txsd.468488.1.0.pdf",
+          "pacer_doc_id": "17902088712",
+          "description": "COMPLAINT against TH Healthcare, Ltd (\"Tenet\") (Filing fee $ 350) filed by Equal Employment Opportunity Commission.(smurdock, ) Additional attachment(s) added on 8/24/2006 (hlerma, ). Additional attachment(s) added on 8/24/2006 (hlerma, ). (Entered: 08/24/2006)"
+        },
+        {
+          "row_number": 20,
+          "id": 8910229,
+          "entry_number": null,
+          "date_filed": "2006-08-24T00:00:00-04:00",
+          "attachments": [],
+          "url": "https://www.courtlistener.com",
+          "recap_pdf_url": null,
+          "pacer_doc_id": null,
+          "description": "Summons Issued as to TH Healthcare, Ltd (\"Tenet\"), filed.(smurdock, )"
+        },
+        {
+          "row_number": 13,
+          "id": 8910232,
+          "entry_number": "3",
+          "date_filed": "2006-08-30T00:00:00-04:00",
+          "attachments": [],
+          "url": "https://www.courtlistener.com/docket/4396754/3/equal-employment-opportunity-commission-v-th-healthcare-ltd-tenet/",
+          "recap_pdf_url": "https://www.courtlistener.com/recap/gov.uscourts.txsd.468488/gov.uscourts.txsd.468488.3.0.pdf",
+          "pacer_doc_id": "17905650340",
+          "description": "CERTIFICATE OF INTERESTED PARTIES by Equal Employment Opportunity Commission, filed.(Bowne, Timothy) (Entered: 08/30/2006)"
+        },
+        {
+          "row_number": 16,
+          "id": 8910235,
+          "entry_number": "6",
+          "date_filed": "2006-10-20T00:00:00-04:00",
+          "attachments": [],
+          "url": "https://www.courtlistener.com/docket/4396754/6/equal-employment-opportunity-commission-v-th-healthcare-ltd-tenet/",
+          "recap_pdf_url": null,
+          "pacer_doc_id": "17906067304",
+          "description": "JOINT DISCOVERY/CASE MANAGEMENT PLAN by Equal Employment Opportunity Commission, filed.(Bowne, Timothy) (Entered: 10/20/2006)"
+        },
+        {
+          "row_number": 17,
+          "id": 8910236,
+          "entry_number": "7",
+          "date_filed": "2006-10-26T00:00:00-04:00",
+          "attachments": [],
+          "url": "https://www.courtlistener.com/docket/4396754/7/equal-employment-opportunity-commission-v-th-healthcare-ltd-tenet/",
+          "recap_pdf_url": null,
+          "pacer_doc_id": "17906071813",
+          "description": "SCHEDULING/DOCKET CONTROL ORDER: ETT: 3-5 Days. JURY. Joinder of Parties due by 1/16/2007; Pltf Expert Report due by 5/30/2007; Deft Expert Report due by 7/2/2007; Discovery due by 9/17/2007; Dispositive & Non-Dispositive Motion Filing due by 10/12/2007; Joint Pretrial Order due by 11/19/2007. Jury Trial set for 11/26/2007 at 08:30 AM in Courtroom 8C before Judge Keith P Ellison.( Signed by Judge Keith P Ellison ) Parties notified.(csonnier, ) (Entered: 10/26/2006)"
+        },
+        {
+          "row_number": 19,
+          "id": 8910238,
+          "entry_number": "9",
+          "date_filed": "2007-01-05T00:00:00-05:00",
+          "attachments": [],
+          "url": "https://www.courtlistener.com/docket/4396754/9/equal-employment-opportunity-commission-v-th-healthcare-ltd-tenet/",
+          "recap_pdf_url": "https://www.courtlistener.com/recap/gov.uscourts.txsd.468488/gov.uscourts.txsd.468488.9.0.pdf",
+          "pacer_doc_id": "17905908872",
+          "description": "CERTIFICATE OF INTERESTED PARTIES, filed.(Fox, Michael) (Entered: 01/05/2007)"
+        },
+        {
+          "row_number": 1,
+          "id": 8910239,
+          "entry_number": "10",
+          "date_filed": "2007-04-09T00:00:00-04:00",
+          "attachments": [
+            {
+              "recap_id": 155283997,
+              "pacer_url": "https://ecf.txsd.uscourts.gov/doc1/17902591123?caseid=468488",
+              "description": "Complaint proposed First Amended Complaint",
+              "attachment_number": 1
+            },
+            {
+              "recap_id": 155283999,
+              "pacer_url": "https://ecf.txsd.uscourts.gov/doc1/17902575422?caseid=468488",
+              "description": "Proposed Order",
+              "attachment_number": 2
+            }
+          ],
+          "url": "https://www.courtlistener.com/docket/4396754/10/equal-employment-opportunity-commission-v-th-healthcare-ltd-tenet/",
+          "recap_pdf_url": null,
+          "pacer_doc_id": "17902591240",
+          "description": "Unopposed MOTION to Amend 1 Complaint, by Equal Employment Opportunity Commission, filed.Motion Docket Date 4/30/2007. (Attachments: # 1 Complaint proposed First Amended Complaint# 2 Proposed Order)(Bowne, Timothy) (Entered: 04/09/2007)"
+        },
+        {
+          "row_number": 3,
+          "id": 8910241,
+          "entry_number": "12",
+          "date_filed": "2007-04-10T00:00:00-04:00",
+          "attachments": [],
+          "url": "https://www.courtlistener.com/docket/4396754/12/equal-employment-opportunity-commission-v-th-healthcare-ltd-tenet/",
+          "recap_pdf_url": null,
+          "pacer_doc_id": "17902627843",
+          "description": "First Amended Complaint with Jury Demand against TH Healthcare, Ltd (\"Tenet\") filed by Equal Employment Opportunity Commission.(csonnier, ) (Entered: 04/10/2007)"
+        }
+      ],
+      "docket_case_type": "cv",
+      "docket_year": 2006,
+      "docket_filing_number": 2737,
+      "is_main_docket": true,
+      "court": "Southern District of Texas",
+      "state": "Texas",
+      "docket_office_number": "4",
+      "docket_number_manual": "4:06-cv-02737",
+      "scales_html": "https://clearinghouse-umich-production.s3.amazonaws.com/media/docket-html/txsd--4-06-cv-02737.html",
+      "recap_link": "https://www.courtlistener.com/docket/4396754/equal-employment-opportunity-commission-v-th-healthcare-ltd-tenet/",
+      "is_active": true
+    },
+    "name": "EEOC v. PARK PLAZA HOSPITAL",
+    "never_filed": false,
+    "non_docket_case_number": "",
+    "non_docket_case_number_type": null,
+    "non_docket_case_number_type_other": "",
+    "order_end_year": 2009,
+    "order_start_year": 2007,
+    "permanent_injunction": false,
+    "plaintiff_description": "Equal Employment Opportunity Commission, on behalf of one or more workers.",
+    "plaintiff_type": [
+      {
+        "value": "EEOC Plaintiff"
+      }
+    ],
+    "prevailing_party": "Plaintiff",
+    "pro_se_status": "No",
+    "public_interest_lawyer": "Yes",
+    "related_cases": [],
+    "relief_natures": [
+      "Injunction / Injunctive-like Settlement",
+      "Damages"
+    ],
+    "relief_nature_other": "",
+    "relief_sources": [
+      "Settlement"
+    ],
+    "settlement_agreement": [
+      "Court Approved Settlement or Consent Decree"
+    ],
+    "settlement_judgment_date": "2007-10-26",
+    "settlement_judgment_year": null,
+    "special_collections": [
+      "EEOC Study — in sample",
+      "Multi-LexSum (in sample)"
+    ],
+    "special_case_type": [],
+    "state": "Texas",
+    "summary": "In August 2006 the Houston Office of the EEOC filed this lawsuit against hospital transportation assistance provider TH Healthcare, Ltd., doing business as Park Plaza Hospital and Tenet Employment, Inc. in the U.S. District Court for the Southern District of Texas, alleging discrimination on the basis of mental disability in violation of the Americans with Disabilities Act of 1990.  Specifically, the complaint alleged the defendants refused to hire mentally disabled transportation assistants at their hospital and caused those already employed to be terminated.  Following some discovery, the parties settled the lawsuit in October 2007 through a consent decree.The two-year decree, containing an anti-retaliation provision, required the defendant to: make compliance reports, keep records, establish a compliance liaison, allow the EEOC access for monitoring, utilize objective hiring criteria, post notice of employee rights, provide employee training, and pay $122,500 to an unknown number of class members. The docket sheet does not show any further enforcement; the case was presumably closed in 2009.",
+    "summary_published_date": "2025-05-27T23:17:08.559492-04:00",
+    "summary_short": "",
+    "summary_tiny": null,
+    "terminating_date": null,
+    "clearinghouse_link": "clearinghouse.net/case/9293",
+    "is_active": true,
+    "case_documents_url": "https://clearinghouse.net/api/v2/documents/?case=9293",
+    "case_dockets_url": "https://clearinghouse.net/api/v2/dockets/?case=9293",
+    "case_resources_url": "https://clearinghouse.net/api/v2/resources/?case=9293"
+  },
+  "documents": [
+    {
+      "date": null,
+      "date_is_estimate": false,
+      "date_not_available": false,
+      "description": null,
+      "document_source": null,
+      "document_status": null,
+      "document_type": null,
+      "order_type": null,
+      "citation_paren": null,
+      "cite_1_page": null,
+      "cite_1_reporter": null,
+      "cite_1_vol": null,
+      "cite_2_page": null,
+      "cite_2_reporter": null,
+      "cite_2_vol": null,
+      "cite_3_page": null,
+      "cite_3_reporter": null,
+      "cite_3_vol": null,
+      "citation_status": null,
+      "court": null,
+      "no_title": false,
+      "party_types": [],
+      "per_curium": false,
+      "is_core_document": true,
+      "id": 122267,
+      "file": null,
+      "title": null,
+      "text": null,
+      "document_type_other": null,
+      "external_url": null,
+      "ecf_number": null,
+      "clearinghouse_link": "clearinghouse.net/doc/122267"
+    },
+    {
+      "date": "2007-10-26",
+      "date_is_estimate": false,
+      "date_not_available": false,
+      "description": null,
+      "document_source": "PACER [Public Access to Court Electronic Records]",
+      "document_status": "Coding Complete",
+      "document_type": "Docket",
+      "order_type": null,
+      "citation_paren": null,
+      "cite_1_page": null,
+      "cite_1_reporter": null,
+      "cite_1_vol": null,
+      "cite_2_page": null,
+      "cite_2_reporter": null,
+      "cite_2_vol": null,
+      "cite_3_page": null,
+      "cite_3_reporter": null,
+      "cite_3_vol": null,
+      "citation_status": "Not applicable",
+      "court": "Southern District of Texas",
+      "no_title": false,
+      "party_types": [
+        "Court"
+      ],
+      "per_curium": false,
+      "is_core_document": true,
+      "id": 15607,
+      "file": "https://clearinghouse-umich-production.s3.amazonaws.com/media/doc/15607.pdf",
+      "title": "Docket (PACER)",
+      "text": "DC CM/ECF LIVE- US District Court-Texas Southern - Docket Report https://ecf.txsd.uscourts.gov/cgi-bin/DktRpt.pl?755894590738908-L_3...\nCLOSED\nU.S. District Court\nSOUTHERN DISTRICT OF TEXAS (Houston)\nCIVIL DOCKET FOR CASE #: 4:06-cv-02737\nEqual Employment Opportunity Commission v. TH Healthcare,  Date Filed: 08/24/2006\nLtd (\"Tenet\") Date Terminated: 10/26/2007\nAssigned to: Judge Keith P Ellison Jury Demand: Plaintiff\nCause: 28:451 Employment Discrimination Nature of Suit: 442 Civil Rights: Jobs\nJurisdiction: U.S. Government Defendant\nPlaintiff\nEqual Employment Opportunity  represented by Timothy M Bowne \nCommission EEOC \n1919 Smith \n6th Fl \nHouston, TX 77002 \n713-209-3395 \nFax: 713-209-3402 \nEmail: timothy.bowne@eeoc.gov \nLEAD ATTORNEY \nATTORNEY TO BE NOTICED\nV.\nDefendant\nTH Healthcare, Ltd (\"Tenet\")  represented by Michael W Fox \ndoing business as Ogletree Deakins et al \nPark Plaza Hospital  301 Congress Ave \nSte 1250 \nAustin, TX 78701 \n512-344-4700 \nFax: 512-344-4701 \nEmail: michael.fox@odnss.com \nLEAD ATTORNEY \nATTORNEY TO BE NOTICED\nMichael D. Mitchell \nOgletree, Deakins, Nash, Smoak & Stewart\n500 Dallas Street \nSuite 3000 \nHouston, TX 77002-4709 \n(713) 655-5756 \nFax: (713) 655-0020 \nEmail: michael.mitchell@odnss.com \nATTORNEY TO BE NOTICED\n1 of 3 3/6/2008 3:14 PM\n\nDC CM/ECF LIVE- US District Court-Texas Southern - Docket Report https://ecf.txsd.uscourts.gov/cgi-bin/DktRpt.pl?755894590738908-L_3...\nDate Filed # Docket Text\n08/24/2006 1 COMPLAINT against TH Healthcare, Ltd (\"Tenet\") (Filing fee $ 350) filed by \nEqual Employment Opportunity Commission.(smurdock, ) Additional \nattachment(s) added on 8/24/2006 (hlerma, ). Additional attachment(s) added on \n8/24/2006 (hlerma, ). (Entered: 08/24/2006)\n08/24/2006   Summons Issued as to TH Healthcare, Ltd (\"Tenet\") , filed.(smurdock, ) \n(Entered: 08/24/2006)\n08/24/2006 2 ORDER for Initial Pretrial and Scheduling Conference and Order to Disclose \nInterested Persons. Initial Conference set for 11/3/2006 at 03:00 PM in Room \n8631 before Judge Keith P Ellison. ( Signed by Judge Keith P Ellison ) Parties \nnotified. (smurdock, ) (Entered: 08/24/2006)\n08/28/2006   Fee waived re: 1 Complaint, , filed. (agould, ) (Entered: 08/28/2006)\n08/30/2006 3 CERTIFICATE OF INTERESTED PARTIES by Equal Employment Opportunity \nCommission, filed.(Bowne, Timothy) (Entered: 08/30/2006)\n09/18/2006 4 ANSWER to Complaint by TH Healthcare, Ltd (\"Tenet\"), filed.(Mitchell, \nMichael) (Entered: 09/18/2006)\n10/10/2006 5 SUMMONS Returned Executed. TH Healthcare, Ltd (\"Tenet\") served on \n9/1/2006, answer due 9/21/2006, filed.(ypippin, ) (Entered: 10/11/2006)\n10/20/2006 6 JOINT DISCOVERY/CASE MANAGEMENT PLAN by Equal Employment \nOpportunity Commission, filed.(Bowne, Timothy) (Entered: 10/20/2006)\n10/26/2006 7 SCHEDULING/DOCKET CONTROL ORDER: ETT: 3-5 Days. JURY. Joinder \nof Parties due by 1/16/2007; Pltf Expert Report due by 5/30/2007; Deft Expert \nReport due by 7/2/2007; Discovery due by 9/17/2007; Dispositive & \nNon-Dispositive Motion Filing due by 10/12/2007; Joint Pretrial Order due by \n11/19/2007. Jury Trial set for 11/26/2007 at 08:30 AM in Courtroom 8C before \nJudge Keith P Ellison.( Signed by Judge Keith P Ellison ) Parties \nnotified.(csonnier, ) (Entered: 10/26/2006)\n10/26/2006 8 ORDER CANCELLING INITIAL CONFERENCE. Initial Conference set for \n11/3/2006 at 3:00 PM has now been CANCELED. Deadlines terminated.( Signed \nby Judge Keith P Ellison ) Parties notified.(csonnier, ) (Entered: 10/26/2006)\n01/05/2007 9 CERTIFICATE OF INTERESTED PARTIES, filed.(Fox, Michael) (Entered: \n01/05/2007)\n04/09/2007 10 Unopposed MOTION to Amend 1 Complaint, by Equal Employment Opportunity \nCommission, filed.Motion Docket Date 4/30/2007. (Attachments: # 1 Complaint \nproposed First Amended Complaint# 2 Proposed Order)(Bowne, Timothy) \n(Entered: 04/09/2007)\n04/10/2007 11 Order GRANTING 10 Motion to Amend Complaint.( Signed by Judge Keith P \nEllison ) Parties notified.(csonnier, ) (Entered: 04/10/2007)\n2 of 3 3/6/2008 3:14 PM\n\nDC CM/ECF LIVE- US District Court-Texas Southern - Docket Report https://ecf.txsd.uscourts.gov/cgi-bin/DktRpt.pl?755894590738908-L_3...\n04/10/2007 12 First Amended Complaint with Jury Demand against TH Healthcare, Ltd \n(\"Tenet\") filed by Equal Employment Opportunity Commission.(csonnier, ) \n(Entered: 04/10/2007)\n04/13/2007   Summons Issued as to Tenet Employment, Inc (\"Tenet\"), filed.(blacy, ) (Entered: \n04/13/2007)\n05/18/2007 13 First AMENDED ANSWER to 12 Amended Complaint/Counterclaim/Crossclaim \netc. by all defendants, filed. (Fox, Michael) (Entered: 05/18/2007)\n07/16/2007 14 RETURN of Service Subpoena In A Civil Case., filed.(blacy, ) (Entered: \n07/16/2007)\n09/20/2007 15 Unopposed MOTION for Continuance by TH Healthcare, Ltd (\"Tenet\"), filed. \nMotion Docket Date 10/10/2007. (Miscovich, Jennifer) (Entered: 09/20/2007)\n09/21/2007 16 Order GRANTING 15 Unopposed Motion for Continuance. Discovery due by \n11/16/2007; Dispositive Motion/Non-Dispositive Motion Filing due by \n12/17/2007; Joint Pretrial Order & Motions In Limine due by 3/10/2008. Jury \nTrial set for 3/17/2008 at 08:30 AM in Courtroom 3A before Judge Keith P \nEllison.( Signed by Judge Keith P Ellison ) Parties notified.(csonnier, ) (Entered: \n09/21/2007)\n10/16/2007 17 SUBMISSION of Mediator Regarding Settlement by Nancy Huston, \nfiled.(csonnier, ) (Entered: 10/16/2007)\n10/24/2007 18 Agreed MOTION for Entry of Order re: Entry of Consent Decree by Equal \nEmployment Opportunity Commission, filed. Motion Docket Date 11/13/2007. \n(Attachments: # 1 Proposed Order Proposed Consent Decree# 2 Exhibit Notice \n(Exhibit A to Consent Decree))(Bowne, Timothy) (Entered: 10/24/2007)\n10/24/2007 19 STIPULATION of Dismissal of Party Defendant by Equal Employment \nOpportunity Commission, filed.(Bowne, Timothy) (Entered: 10/24/2007)\n10/26/2007 20 CONSENT DECREE.( Signed by Judge Keith P Ellison ) Parties \nnotified.(csonnier, ) (Entered: 10/29/2007)\nPACER Service Center\nTransaction Receipt\n03/06/2008 15:14:11\nPACER Login: wu0079 Client Code: eeoc \nDescription: Docket Report Search Criteria: 4:06-cv-02737\nBillable Pages: 2 Cost: 0.16\n3 of 3 3/6/2008 3:14 PM",
+      "document_type_other": null,
+      "external_url": null,
+      "ecf_number": null,
+      "clearinghouse_link": "clearinghouse.net/doc/15607"
+    },
+    {
+      "date": "2006-08-24",
+      "date_is_estimate": false,
+      "date_not_available": false,
+      "description": null,
+      "document_source": null,
+      "document_status": "Coding Complete",
+      "document_type": "Complaint",
+      "order_type": null,
+      "citation_paren": null,
+      "cite_1_page": null,
+      "cite_1_reporter": null,
+      "cite_1_vol": null,
+      "cite_2_page": null,
+      "cite_2_reporter": null,
+      "cite_2_vol": null,
+      "cite_3_page": null,
+      "cite_3_reporter": null,
+      "cite_3_vol": null,
+      "citation_status": "Not applicable",
+      "court": "Southern District of Texas",
+      "no_title": false,
+      "party_types": [
+        "Plaintiff"
+      ],
+      "per_curium": false,
+      "is_core_document": true,
+      "id": 15608,
+      "file": "https://clearinghouse-umich-production.s3.amazonaws.com/media/doc/15608.pdf",
+      "title": "Complaint",
+      "text": "UNitED STAIE!B COURIS \nIN THE UNITED STATES DISTRICT COURT SOUTHERN DiStRICT OF TEf'S  \nFOR THE SOUTHERN DISTRICT OF TEXAS  ':IL.EDI  ~ \nHOUSTON DIVISION  AUG  2 4 2006  ~ \nI \nEQUAL EMPLOYMENT OPPORTUNITY  §  . \nCOMMISSION,  §  ~g~~I,lJ,:UH.~,~;w~ el~~.:mCi!'r~Um \n§ \nPlaintiff,  § \n§ \nI \nv.  §  CML ACTION NO. \n§ \nTH HEALT  HCARE, LTD., d/b/a  § \nH-06\"'273~ \nPARK PLAZA HOSPITAL  § \n§ \nDefendant.  §  JURY TRIAL DEMANDED  i \nCOMPLAINT \nThis is an action under Title I of the Americans with Disabilities Act of 1990 (\"ADA\"), \nand Title I of the Civil Rights Act of 1991, to correct unlawful employment practices on the \nbasis of disability, and to provide appropriate relief to Dana Hayes and others -- including \nRoderick L. Baines, Annette Hill, Lillian \"Renee\" Howard, Anne Louise Maurer, Maxine \nMarion Wigley, and Kathleen Louise Wilson -- who were adversely affected by Defendant TH \nHealthcare, Ltd.' s, unlawful practices.  As alleged with greater particularity in paragraphs 9 -\n16 below, TH Healthcare, Ltd. (\"Tenet\"), d/b/a Park Plaza Hospital, unlawfully discriminated \nagainst Ms. Hays and other workers with mental retardation by causing their terminations as \ncontract workers  at the  hospital,  thereby  unlawfully  interfering  with their  exercise  and \nenjoyment of rights guaranteed by the ADA, and then refusing to hire them on Defendant's \npayroll because of their disabilities. \nJURISDICTION AND VENUE \n1.  Jurisdiction of this Court is invoked pursuant to 28 U.S.C. §§ 451,1331, 1337, \n1 \n\n1343 and 1345.  This action is authorized and instituted pursuant to Section 107(a) of the \nAmericans with Disabilities Act of 1990 (\"ADA\"), 42 U.S.C. § 12117(a), which incorporates \nby reference Section 706(t)(1) and (3) of Title VII of the Civil Rights Act of 1964 (\"Title VII\"), \n42 U.S.C. § 2000e-5(t)(1) and (3), and pursuant to § 102 of the Civil Rights of Act of 1991,42 \nU.S.C. § 1981a. \n2 .  The employment practices alleged to be unlawful were committed within the \njurisdiction of the United States District Court for the  Southern District of Texas, Houston \nDivision. \nPARTIES \n3.  Plaintiff, the Equal Employment Opportunity Commission (the \"Commission\" \nor \"EEOC\"), is the agency of the United States of America charged with the administration, \ninterpretation and enforcement of Title I of the ADA and is expressly authorized to bring this \naction by Section 107(a) of the ADA, 42 U.S.C. § 12117(a), which incorporates by reference \nSections 706(f)(1) and (3) of Title VII, 42 U.S.C. § 2000e-5(t)(1) and (3). \n4.  Defendant TH Healthcare, Ltd. (\"Tenet\"), formerly known as Tenet Healthcare, \nLtd., is a limited partnership registered in Texas.  At all relevant times, Tenet has been doing \nbusiness in the State of Texas and the city of Houston, and has continuously had at least 15 \nemployees.  Tenet may be served by serving its registered agent for service of process, C.T. \nCorporation System, 350 North St. Paul St., Dallas, Texas, 75201. \n5.  At all relevant times, Defendant Tenet has continuously been an employer engaged \nin an industry affecting commerce under Section 101(5) of the ADA, 42 U.S.C.§ 12111(5), and \nSection 101(7) of the ADA, 42 U.S.C. § 12111(7), which incorporates by reference Sections 701(g) \n2 \n\nand (h) of Title VII, 42 U.S.C. §§ 2000e(g) and (h). \n6.  At all relevant times, Defendant Tenet has been a covered entity under Section 101 (2) \nof the ADA, 42 U.S.C. § 12111(2). \nSTATEMENT OF CLAIMS \n7.  More than thirty days prior to the institution of this lawsuit, Dana Marie Hayes filed \na charge with the Commission alleging violations of Title I of the ADA by Defendant Tenet.  All \nconditions precedent to the institution of this lawsuit have been fulfilled. \n8.  Since at least June 2004, Defendant Tenet has engaged in unlawful employment \npractices at Park Plaza Hospital in Houston, Texas, in violation of Sections 101 et. seq. of Title I of \nthe ADA, 42 U.S.C. § 12101 et ~ \n9.  Park Plaza Hospital and C.RI. Commercial Services were parties to a Services \nAgreement contact for C.RI. Commercial to provide patient transportation services, i.e., \"patient \ntransporters\" or \"patient escorts,\" for the hospital.  CRI Commercial was affiliated with the Center \nfor the Retarded,  Inc.  (\"CRI\").  Nearly half of the  contract workers who  staffed the patient \ntransporter positions had been diagnosed with mental retardation or other developmental disabilities. \no. \n1  Effective June 1, 2004, the contract between C.RI. Commercial and Park Plaza \nHospital was renewed for an additional term of one year. \n11.  In early June 2004, Park Plaza's contract liaison Matthew Daniel asked CRI how long \nit would take if CRI had to replace its \"special people.\"  Eva Aguirre, the Director of CRI's Adult \nTraining and Employment Services (the parent ofC.R.I. Commercial) asked Daniel ifhis use of the \nword \"special\" referred to the CRI workers with disabilities.  Daniel responded affirmatively. \nAguirre informed Daniel of her opinion that his implied request for CRI to terminate its disabled \n3 \n\nemployees was illegal and against CRI's mission. \n12.  By letter dated June 28,2004, President and Chief Executive Officer Lex A. Guinn \nadvised C.R.I.  Commercial's Executive Director that Defendant was  cancelling the  Services \nAgreement, and that the cancellation would be effective August 1,2004. Guinn advised in that letter \nof Defendant's decision to \"bring the Transportation Service inhouse and not outsource it to anther \n[sic] entity.\" \n13.  Guinn also indicated that although Defendant was giving 30 days' notice of the \ncontract's cancellation pursuant to the terms of the agreement, Defendant would be \"most agreeable \nand adaptable to\" CRI's removing its contract workers prior to August 1. \n14.  Further, Daniel requested that Aguirre schedule the disabled workers to be off from \nJuly 27-29, 2004, when the Joint Accreditation Committee was expected to audit the hospital. \nDaniel reasoned that the hospital administrator did not want to risk any of the disabled workers \nsaying anything \"wrong\" to an auditor. \n15.  When Defendant later hired the patient transporters \"in-house,\" Defendant hired \nalmost all the non-disabled workers who had been contract workers through C.R.!. Commercial. \nDefendant did not offer jobs to any of the developmentally disabled people who had been contract \nworkers prior to Defendant's cancellation of the Services Agreement. \n16.  Tenet violated the ADA by causing the terminations of qualified individuals with \ndisabilities, including Dana M.  Hays, and by unlawfully interfering with their exercise and \nenjoyment of rights guaranteed by the ADA.  Tenet also violated the ADA by failing to hire \nqualified individuals such as Ms. Hays because of their developmental disabilities. \n17.  The unlawful employment practices complained of in paragraphs 11-16 above were \n4 \n\nintentional. \n18.  The unlawful employment practices complained of in paragraphs 11-16 above were \ndone  with malice  or with reckless  indifference to  the  federally protected rights of qualified \nindividuals with disabilities, including Dana Hays, Roderick L. Baines, Annette Hill, Lillian \n\"Renee\" Howard, Anne Louise Maurer, Maxine Marion Wigley, and Kathleen Louise Wilson. \nPRAYER FOR RELIEF \nWherefore, the Commission respectfully requests that this Court: \nA.  Grant a permanent injunction enjoining Defendant Tenet, its officers, successors, \nassigns, and all persons in active concert or participation with it, from engaging in failing to \naccommodate impaired employees and firing them, and any other employment practice which \ndiscriminates on the basis of disability. \nB.  Order Defendant Tenet to institute and carry out policies, practices, and programs \nwhich provide equal employment opportunities for qualified individuals with disabilities, and which \neradicate the effects of its past and present unlawful employment practices. \nC.  Order Defendant Tenet to make whole the disabled workers it unlawfully caused to \nlose their jobs, including Dana Hays, Roderick L. Baines, Annette Hill, Lillian \"Renee\" Howard, \nAnne Louise Maurer, Maxine Marion Wigley, and Kathleen Louise Wilson, by providing \nappropriate backpay with prejudgment interest, in amounts to be determined at trial, and other \naffirmative relief necessary to eradicate the effects of its unlawful employment practices, including \nbut not limited to their reinstatement. \nD.  Order Defendant Tenet to make whole the disabled workers it unlawfully failed to \nhire, including Dana Hays, Roderick L. Baines, Annette Hill, Lillian \"Renee\" Howard, Anne \n5 \n\nLouise Maurer, Maxine Marion Wigley, and Kathleen Louise Wilson, by providing appropriate \nbackpay with prejudgment interest, in amounts to be determined at trial, and other affirmative relief \nnecessary to eradicate the effects of its unlawful employment practices, including but not limited to \ntheir instatement. \nE.  Order Defendant Tenet to make whole the disabled workers against whom it \nunlawfully discriminated -- including Dana Hays, Roderick L. Baines, Annette Hill, Lillian \n\"Renee\" Howard, Anne Louise Maurer, Maxine Marion Wigley, and Kathleen Louise Wilson- \nby providing compensation for past and future pecuniary losses resulting from the unlawful \nemployment practices described in paragraphs 9-16 above, includingjob search expenses and any \nmedical expenses incurred as a result of loss of participation in any employee benefit plan, in \namounts to be determined at trial. \nF.  Order Defendant Tenet to make whole the disabled workers against whom it \nunlawfully discriminated -- including Dana Hays, Roderick L. Baines, Annette Hill, Lillian \n\"Renee\" Howard, Anne Louise Maurer, Maxine Marion Wigley, and Kathleen Louise Wilson- \nby providing compensation for past and future nonpecuniary losses resulting from the unlawful \npractices  complained  of  in  paragraphs  9-16  above,  including  emotional  pain,  suffering, \ninconvenience, loss of enjoyment of life, and humiliation, in amounts to be determined at trial. \nG.  Order Defendant Tenet to pay punitive damages to Dana Hays, Roderick L. Baines, \nAnnette Hill, Lillian \"Renee\" Howard, Anne Louise Maurer, Maxine Marion Wigley, Kathleen \nLouise Wilson, and any other disabled individuals against whom it unlawfully discriminated for \nTenet's malicious and reckless conduct, as described in paragraphs 11-16 above, in amounts to be \ndetermined at trial. \n6 \n\nH.  Grant such further relief as the Court deems necessary and proper in the public \ninterest. \nI.  Award the Commission its costs of this action. \nJURY TRIAL DEMAND \nThe Commission requests a jury trial on all questions of fact raised by its complaint. \nRespectfully submitted, \nEQUAL EMPLOYMENT OPPORTUNITY \nCOMMISSION \nRONALD S. COOPER \nGeneral Counsel \nJAMES L. LEE \nDeputy General Counsel \nGWENDOL YN YOUNG REAMS \nAssociate General Counsel \n1801 L. Street, N.W. \nWashington, D.C.  20507 \n.,----------\nTimothy M. B  wne \nSenior Trial  ttorney \nAttorney-i  Charge \nTexas Ba  0.00793371 \nSouthern Dist. of Texas No. 20023 \nEqual Employment Opportunity Commission \n1919 Smith Street, 6th Floor \nHouston, Texas 77002 \n(713) 209-3395 \n(713) 209-3402 [facsimile] \n7 \n\nOF COUNSEL: \nJim Sacher \nRegional Attorney \nRose Adewale-Mendes \nSupervisory Trial Attorney \nEqual Employment Opportunity Commission \n1919 Smith Street, 6th Floor \nHouston, Texas 77002 \n8 ",
+      "document_type_other": "",
+      "external_url": "",
+      "ecf_number": "1",
+      "clearinghouse_link": "clearinghouse.net/doc/15608"
+    },
+    {
+      "date": "2007-04-10",
+      "date_is_estimate": true,
+      "date_not_available": false,
+      "description": null,
+      "document_source": null,
+      "document_status": "Coding Complete",
+      "document_type": "Complaint",
+      "order_type": null,
+      "citation_paren": null,
+      "cite_1_page": null,
+      "cite_1_reporter": null,
+      "cite_1_vol": null,
+      "cite_2_page": null,
+      "cite_2_reporter": null,
+      "cite_2_vol": null,
+      "cite_3_page": null,
+      "cite_3_reporter": null,
+      "cite_3_vol": null,
+      "citation_status": "Not applicable",
+      "court": "Southern District of Texas",
+      "no_title": false,
+      "party_types": [
+        "Plaintiff"
+      ],
+      "per_curium": false,
+      "is_core_document": true,
+      "id": 30215,
+      "file": "https://clearinghouse-umich-production.s3.amazonaws.com/media/doc/30215.pdf",
+      "title": "First Amended Complaint",
+      "text": "IN THE UNITED STATES DISTRICT COURT\nFOR THE SOUTHERN DISTRICT OF TEXAS\nHOUSTON DIVISION\nEQUAL EMPLOYMENT OPPORTUNITY §\nCOMMISSION, §\nPlaintiff, §\n§\nv. § CIVIL ACTION NO. H-06-2737\n§                        \nTH HEALTHCARE, LTD., d/b/a § \nPARK PLAZA HOSPITAL and   §\nTENET EMPLOYMENT, INC., f/k/a §\nTENET TEXAS EMPLOYMENT, INC. §\nDefendants. § JURY TRIAL DEMANDED \nFIRST AMENDED COMPLAINT\nThis is an action under Title I of the Americans with Disabilities Act of 1990 (“ADA”),\nand Title I of the Civil Rights Act of 1991, to correct unlawful employment practices on the\nbasis of disability, and to provide appropriate relief to Dana Hayes and others -- including\nRoderick L. Baines, Annette Hill, Lillian “Renee” Howard, Anne Louise Maurer, Maxine\nMarion Wigley, and Kathleen Louise Wilson -- who were adversely affected by Defendants’\nunlawful practices.  As alleged with greater particularity in paragraphs 9 - 16 below, TH\nHealthcare, Ltd., d/b/a Park Plaza Hospital, and Tenet Employment, Inc. (collectively “Tenet”),\nunlawfully discriminated against Ms. Hays and other workers with mental retardation by\ncausing their terminations as contract workers at the hospital, thereby unlawfully interfering\nwith their exercise and enjoyment of rights guaranteed by the ADA, and then refusing to hire\nthem on Defendants’ payroll because of their disabilities.  Further, Tenet failed to comply with\nthe applicable record-keeping regulations set forth in Section 107(a) of the ADA, 42 U.S.C. §\n12117(a), which incorporates by reference Section 709(c) of Title VII, 42 U.S.C. § 2000e-8(c), to\n1\n\nmake and preserve records relevant to the determination of whether unlawful employment practices\nhave been or are being committed.\n   JURISDICTION AND VENUE\n1. Jurisdiction of this Court is invoked pursuant to 28 U.S.C. §§ 451, 1331, 1337,\n1343 and 1345.  This action is authorized and instituted pursuant to Section 107(a) of the\nAmericans with Disabilities Act of 1990 (“ADA”), 42 U.S.C. § 12117(a), which incorporates\nby reference Section 706(f)(1) and (3) of Title VII of the Civil Rights Act of 1964 (“Title VII”),\n42 U.S.C. § 2000e-5(f)(1) and (3), and pursuant to § 102 of the Civil Rights of Act of 1991, 42\nU.S.C. § 1981a. \n2. The employment practices alleged to be unlawful were committed within the\njurisdiction of the United States District Court for the Southern District of Texas, Houston\nDivision.\nPARTIES\n3. Plaintiff, the Equal Employment Opportunity Commission (the “Commission”\nor “EEOC”), is the agency of the United States of America charged with the administration,\ninterpretation and enforcement of Title I of the ADA and is expressly authorized to bring this\naction by Section 107(a) of the ADA, 42 U.S.C. § 12117(a), which incorporates by reference\nSections 706(f)(1) and (3) of Title VII, 42 U.S.C. § 2000e-5(f)(1) and (3). \n4. Defendant TH Healthcare, Ltd. (“Tenet Healthcare”), formerly known as Tenet\nHealthcare, Ltd., is a limited partnership registered in Texas.  At all relevant times, Tenet\nHealthcare has been doing business in the State of Texas and the city of Houston, and has\ncontinuously had at least 15 employees.  Tenet Healthcare has been served by serving its registered\n2\n\nagent for service of process, C.T. Corporation System, 350 North St. Paul St., Dallas, Texas,\n75201.\n5. At all relevant times, Defendant Tenet Healthcare has continuously been an employer\nengaged in an industry affecting commerce under Section 101(5) of the ADA, 42 U.S.C.§ 12111(5),\nand Section 101(7) of the ADA, 42 U.S.C. § 12111(7), which incorporates by reference Sections\n701(g) and (h) of Title VII, 42 U.S.C. §§ 2000e(g) and (h).\n6. At all relevant times, Defendant Tenet Healthcare has been a covered entity under\nSection 101(2) of the ADA, 42 U.S.C. § 12111(2).\n7. Defendant Tenet Employment, Inc. (“Tenet Employment”), formerly known as Tenet\nTexas Employment, Inc., is a corporation registered in Texas.  At all relevant times, Tenet\nEmployment has been doing business in the State of Texas and the city of Houston, and has\ncontinuously had at least 15 employees.  Tenet Employment may be served by serving its registered\nagent for service of process, C.T. Corporation System, 350 North St. Paul St., Dallas, Texas, 75201.\n8. At all relevant times, Defendant Tenet Employment has continuously been an\nemployer  engaged in an industry affecting commerce under Section 101(5) of the ADA, 42 U.S.C.§\n12111(5), and Section 101(7) of the ADA, 42 U.S.C. § 12111(7), which incorporates by reference\nSections 701(g) and (h) of Title VII, 42 U.S.C. §§ 2000e(g) and (h).\n9. At all relevant times, Defendant Tenet Employment has been a covered entity under\nSection 101(2) of the ADA, 42 U.S.C. § 12111(2).\nSTATEMENT OF CLAIMS\n10. More than thirty days prior to the institution of this lawsuit, Dana Marie Hayes filed\na charge with the Commission alleging violations of Title I of the ADA by Tenet.  All conditions\n3\n\nprecedent to the institution of this lawsuit have been fulfilled.\n11. Since at least June 2004, Tenet has engaged in unlawful employment practices at Park\nPlaza Hospital in Houston, Texas, in violation of Sections 101 et. seq. of Title I of the ADA, 42\nU.S.C. § 12101 et seq.\n12. Park Plaza Hospital and C.R.I. Commercial Services were parties to a Services\nAgreement contact for C.R.I. Commercial to provide patient transportation services, i.e., “patient\ntransporters” or “patient escorts,” for the hospital.  CRI Commercial was affiliated with the Center\nfor the Retarded, Inc. (“CRI”).  Nearly half of the contract workers who staffed the patient\ntransporter positions had been diagnosed with mental retardation or other developmental disabilities.\n13. Effective June 1, 2004, the contract between C.R.I. Commercial and Park Plaza\nHospital was renewed for an additional term of one year.\n14. In early June 2004, Park Plaza’s contract liaison Matthew Daniel asked CRI how long\nit would take if CRI had to replace its “special people.”  Eva Aguirre, the Director of CRI’s Adult\nTraining and Employment Services (the parent of C.R.I. Commercial) asked Daniel if his use of the\nword “special” referred to the CRI workers with disabilities.  Daniel responded affirmatively.\nAguirre informed Daniel of her opinion that his implied request for CRI to terminate its disabled\nemployees was illegal and against CRI’s mission.       \n15. By letter dated June 28, 2004, President and Chief Executive Officer Lex A. Guinn\nadvised C.R.I. Commercial’s Executive Director that Tenet was canceling the Services Agreement,\nand that the cancellation would be effective August 1, 2004.  Guinn advised in that letter of Tenet’s\ndecision to “bring the Transportation Service inhouse and not outsource it to anther [sic] entity.” \n16. Guinn also indicated that although Tenet was giving 30 days’ notice of the contract’s\n4\n\ncancellation pursuant to the terms of the agreement, Tenet would be “most agreeable and adaptable\nto” CRI’s removing its contract workers prior to August 1.  \n17. Further, Daniel requested that Aguirre schedule the disabled workers to be off from\nJuly 27-29, 2004, when the Joint Accreditation Committee was expected to audit the hospital.\nDaniel reasoned that the hospital administrator did not want to risk any of the disabled workers\nsaying anything “wrong” to an auditor.  \n18. When Tenet later hired the patient transporters “in-house,” Tenet hired almost all the\nnon-disabled workers who had been contract workers through C.R.I. Commercial.  Tenet did not\noffer jobs to any of the developmentally disabled people who had been contract workers prior to the\ncancellation of the Services Agreement.   \n19. Since at least July 2004, Tenet has failed, in violation of Section 107(a) of the ADA,\n42 U.S.C. § 12117(a), which incorporates by reference Section 709(c) of Title VII, 42 U.S.C.\n§ 2000e-8(c), to make and preserve records relevant to the determination of whether unlawful\nemployment practices have been or are being committed.\n20. Tenet violated the ADA by causing the terminations of qualified individuals with\ndisabilities, including Dana M. Hays, and by unlawfully interfering with their exercise and\nenjoyment of rights guaranteed by the ADA.  Tenet also violated the ADA by failing to hire\nqualified individuals such as Ms. Hays because of their developmental disabilities. \n21. The unlawful employment practices complained of in paragraphs 11-20 above were\nintentional.\n22. The unlawful employment practices complained of in paragraphs 11-20 above were\ndone with malice or with reckless indifference to the federally protected rights of qualified\n5\n\nindividuals with disabilities, including Dana Hays, Roderick L. Baines, Annette Hill, Lillian\n“Renee” Howard, Anne Louise Maurer, Maxine Marion Wigley, and Kathleen Louise Wilson.\nPRAYER FOR RELIEF\nWherefore, the Commission respectfully requests that this Court:\nA. Grant a permanent injunction enjoining Tenet Healthcare and Tenet Employment,\ntheir officers, successors, assigns, and all persons in active concert or participation with them, from\nengaging in failing to accommodate impaired employees and firing them, and any other employment\npractice which discriminates on the basis of disability.\nB. Order Tenet to institute and carry out policies, practices, and programs which provide\nequal employment opportunities for qualified individuals with disabilities, and which eradicate the\neffects of their past and present unlawful employment practices.\nC. Order Tenet to make whole the disabled workers it unlawfully caused to lose their\njobs, including Dana Hays, Roderick L. Baines, Annette Hill, Lillian “Renee” Howard, Anne Louise\nMaurer, Maxine Marion Wigley, and Kathleen Louise Wilson, by providing appropriate backpay\nwith prejudgment interest, in amounts to be determined at trial, and other affirmative relief necessary\nto eradicate the effects of its unlawful employment practices, including but not limited to their\ninstatement/reinstatement.\nD. Order Tenet to make and preserve all records, in accordance with the provisions of\nSection 709(c) of Title VII of the Civil Rights Act of 1964, 42 U.S.C. § 2000e-8(c), relevant to the\ndetermination of whether unlawful employment practices have been or are being committed.\nE. Order Tenet to make whole the disabled workers it unlawfully failed to hire, including\nDana Hays, Roderick L. Baines, Annette Hill, Lillian “Renee” Howard, Anne Louise Maurer,\n6\n\nMaxine Marion Wigley, and Kathleen Louise Wilson, by providing appropriate backpay with\nprejudgment interest, in amounts to be determined at trial, and other affirmative relief necessary to\neradicate the effects of its unlawful employment practices, including but not limited to their\ninstatement.\nF. Order Tenet to make whole the disabled workers against whom it unlawfully\ndiscriminated -- including Dana Hays, Roderick L. Baines, Annette Hill, Lillian “Renee” Howard,\nAnne Louise Maurer, Maxine Marion Wigley, and Kathleen Louise Wilson -- by providing\ncompensation for past and future pecuniary losses resulting from the unlawful employment practices\ndescribed in paragraphs 11-18 above, including job search expenses and any medical expenses\nincurred as a result of loss of participation in any employee benefit plan, in amounts to be determined\nat trial. \nG. Order Tenet to make whole the disabled workers against whom it unlawfully\ndiscriminated -- including Dana Hays, Roderick L. Baines, Annette Hill, Lillian “Renee” Howard,\nAnne Louise Maurer, Maxine Marion Wigley, and Kathleen Louise Wilson -- by providing\ncompensation for past and future nonpecuniary losses resulting from the unlawful practices\ncomplained of in paragraphs 12-18 above, including emotional pain, suffering, inconvenience, loss\nof enjoyment of life, and humiliation, in amounts to be determined at trial.\nH. Order Tenet to pay  punitive damages to Dana Hays, Roderick L. Baines, Annette\nHill, Lillian “Renee” Howard, Anne Louise Maurer, Maxine Marion Wigley, Kathleen Louise\nWilson, and any other disabled individuals against whom it unlawfully discriminated for Tenet’s\nmalicious and reckless conduct, as described in paragraphs 14-18 above, in amounts to be\ndetermined at trial.\n7\n\nI. Grant such further relief as the Court deems necessary and proper in the public\ninterest.\nJ. Award the Commission its costs of this action.\nJURY TRIAL DEMAND\nThe Commission requests a jury trial on all questions of fact raised by its complaint.\nRespectfully submitted,\nEQUAL EMPLOYMENT OPPORTUNITY \nCOMMISSION\nRONALD S. COOPER\nGeneral Counsel\nJAMES L. LEE\nDeputy General Counsel \nGWENDOLYN YOUNG REAMS\nAssociate General Counsel\n1801 L. Street, N.W.\nWashington, D.C.  20507\n /s/ Timothy M. Bowne                                      \nTimothy M. Bowne\nSenior Trial Attorney\nAttorney-in-Charge\nTexas Bar No. 00793371\nSouthern Dist. of Texas No. 20023\nEqual Employment Opportunity Commission\n1919 Smith Street, 6th Floor\nHouston, Texas 77002\n(713) 209-3395\n(713) 209-3402 [facsimile]\n8\n\nOF COUNSEL:\nJim Sacher\nRegional Attorney\nRose Adewale-Mendes\nSupervisory Trial Attorney\nEqual Employment Opportunity Commission\n1919 Smith Street, 6th Floor\nHouston, Texas 77002\n9",
+      "document_type_other": "",
+      "external_url": "",
+      "ecf_number": "12",
+      "clearinghouse_link": "clearinghouse.net/doc/30215"
+    },
+    {
+      "date": "2007-04-10",
+      "date_is_estimate": false,
+      "date_not_available": false,
+      "description": null,
+      "document_source": null,
+      "document_status": "Deleted",
+      "document_type": "Complaint",
+      "order_type": null,
+      "citation_paren": null,
+      "cite_1_page": null,
+      "cite_1_reporter": null,
+      "cite_1_vol": null,
+      "cite_2_page": null,
+      "cite_2_reporter": null,
+      "cite_2_vol": null,
+      "cite_3_page": null,
+      "cite_3_reporter": null,
+      "cite_3_vol": null,
+      "citation_status": "Not applicable",
+      "court": "Southern District of Texas",
+      "no_title": false,
+      "party_types": [
+        "Plaintiff"
+      ],
+      "per_curium": false,
+      "is_core_document": true,
+      "id": 15611,
+      "file": "https://clearinghouse-umich-production.s3.amazonaws.com/media/doc/15611.pdf",
+      "title": "Amended Complaint",
+      "text": "IN THE UNITED STATES DISTRICT COURT\nFOR THE SOUTHERN DISTRICT OF TEXAS\nHOUSTON DIVISION\nEQUAL EMPLOYMENT OPPORTUNITY §\nCOMMISSION, §\nPlaintiff, §\n§\nv. § CIVIL ACTION NO. H-06-2737\n§                        \nTH HEALTHCARE, LTD., d/b/a § \nPARK PLAZA HOSPITAL and   §\nTENET EMPLOYMENT, INC., f/k/a §\nTENET TEXAS EMPLOYMENT, INC. §\nDefendants. § JURY TRIAL DEMANDED \nFIRST AMENDED COMPLAINT\nThis is an action under Title I of the Americans with Disabilities Act of 1990 (“ADA”),\nand Title I of the Civil Rights Act of 1991, to correct unlawful employment practices on the\nbasis of disability, and to provide appropriate relief to Dana Hayes and others -- including\nRoderick L. Baines, Annette Hill, Lillian “Renee” Howard, Anne Louise Maurer, Maxine\nMarion Wigley, and Kathleen Louise Wilson -- who were adversely affected by Defendants’\nunlawful practices.  As alleged with greater particularity in paragraphs 9 - 16 below, TH\nHealthcare, Ltd., d/b/a Park Plaza Hospital, and Tenet Employment, Inc. (collectively “Tenet”),\nunlawfully discriminated against Ms. Hays and other workers with mental retardation by\ncausing their terminations as contract workers at the hospital, thereby unlawfully interfering\nwith their exercise and enjoyment of rights guaranteed by the ADA, and then refusing to hire\nthem on Defendants’ payroll because of their disabilities.  Further, Tenet failed to comply with\nthe applicable record-keeping regulations set forth in Section 107(a) of the ADA, 42 U.S.C. §\n12117(a), which incorporates by reference Section 709(c) of Title VII, 42 U.S.C. § 2000e-8(c), to\n1\n\nmake and preserve records relevant to the determination of whether unlawful employment practices\nhave been or are being committed.\n   JURISDICTION AND VENUE\n1. Jurisdiction of this Court is invoked pursuant to 28 U.S.C. §§ 451, 1331, 1337,\n1343 and 1345.  This action is authorized and instituted pursuant to Section 107(a) of the\nAmericans with Disabilities Act of 1990 (“ADA”), 42 U.S.C. § 12117(a), which incorporates\nby reference Section 706(f)(1) and (3) of Title VII of the Civil Rights Act of 1964 (“Title VII”),\n42 U.S.C. § 2000e-5(f)(1) and (3), and pursuant to § 102 of the Civil Rights of Act of 1991, 42\nU.S.C. § 1981a. \n2. The employment practices alleged to be unlawful were committed within the\njurisdiction of the United States District Court for the Southern District of Texas, Houston\nDivision.\nPARTIES\n3. Plaintiff, the Equal Employment Opportunity Commission (the “Commission”\nor “EEOC”), is the agency of the United States of America charged with the administration,\ninterpretation and enforcement of Title I of the ADA and is expressly authorized to bring this\naction by Section 107(a) of the ADA, 42 U.S.C. § 12117(a), which incorporates by reference\nSections 706(f)(1) and (3) of Title VII, 42 U.S.C. § 2000e-5(f)(1) and (3). \n4. Defendant TH Healthcare, Ltd. (“Tenet Healthcare”), formerly known as Tenet\nHealthcare, Ltd., is a limited partnership registered in Texas.  At all relevant times, Tenet\nHealthcare has been doing business in the State of Texas and the city of Houston, and has\ncontinuously had at least 15 employees.  Tenet Healthcare has been served by serving its registered\n2\n\nagent for service of process, C.T. Corporation System, 350 North St. Paul St., Dallas, Texas,\n75201.\n5. At all relevant times, Defendant Tenet Healthcare has continuously been an employer\nengaged in an industry affecting commerce under Section 101(5) of the ADA, 42 U.S.C.§ 12111(5),\nand Section 101(7) of the ADA, 42 U.S.C. § 12111(7), which incorporates by reference Sections\n701(g) and (h) of Title VII, 42 U.S.C. §§ 2000e(g) and (h).\n6. At all relevant times, Defendant Tenet Healthcare has been a covered entity under\nSection 101(2) of the ADA, 42 U.S.C. § 12111(2).\n7. Defendant Tenet Employment, Inc. (“Tenet Employment”), formerly known as Tenet\nTexas Employment, Inc., is a corporation registered in Texas.  At all relevant times, Tenet\nEmployment has been doing business in the State of Texas and the city of Houston, and has\ncontinuously had at least 15 employees.  Tenet Employment may be served by serving its registered\nagent for service of process, C.T. Corporation System, 350 North St. Paul St., Dallas, Texas, 75201.\n8. At all relevant times, Defendant Tenet Employment has continuously been an\nemployer  engaged in an industry affecting commerce under Section 101(5) of the ADA, 42 U.S.C.§\n12111(5), and Section 101(7) of the ADA, 42 U.S.C. § 12111(7), which incorporates by reference\nSections 701(g) and (h) of Title VII, 42 U.S.C. §§ 2000e(g) and (h).\n9. At all relevant times, Defendant Tenet Employment has been a covered entity under\nSection 101(2) of the ADA, 42 U.S.C. § 12111(2).\nSTATEMENT OF CLAIMS\n10. More than thirty days prior to the institution of this lawsuit, Dana Marie Hayes filed\na charge with the Commission alleging violations of Title I of the ADA by Tenet.  All conditions\n3\n\nprecedent to the institution of this lawsuit have been fulfilled.\n11. Since at least June 2004, Tenet has engaged in unlawful employment practices at Park\nPlaza Hospital in Houston, Texas, in violation of Sections 101 et. seq. of Title I of the ADA, 42\nU.S.C. § 12101 et seq.\n12. Park Plaza Hospital and C.R.I. Commercial Services were parties to a Services\nAgreement contact for C.R.I. Commercial to provide patient transportation services, i.e., “patient\ntransporters” or “patient escorts,” for the hospital.  CRI Commercial was affiliated with the Center\nfor the Retarded, Inc. (“CRI”).  Nearly half of the contract workers who staffed the patient\ntransporter positions had been diagnosed with mental retardation or other developmental disabilities.\n13. Effective June 1, 2004, the contract between C.R.I. Commercial and Park Plaza\nHospital was renewed for an additional term of one year.\n14. In early June 2004, Park Plaza’s contract liaison Matthew Daniel asked CRI how long\nit would take if CRI had to replace its “special people.”  Eva Aguirre, the Director of CRI’s Adult\nTraining and Employment Services (the parent of C.R.I. Commercial) asked Daniel if his use of the\nword “special” referred to the CRI workers with disabilities.  Daniel responded affirmatively.\nAguirre informed Daniel of her opinion that his implied request for CRI to terminate its disabled\nemployees was illegal and against CRI’s mission.       \n15. By letter dated June 28, 2004, President and Chief Executive Officer Lex A. Guinn\nadvised C.R.I. Commercial’s Executive Director that Tenet was canceling the Services Agreement,\nand that the cancellation would be effective August 1, 2004.  Guinn advised in that letter of Tenet’s\ndecision to “bring the Transportation Service inhouse and not outsource it to anther [sic] entity.” \n16. Guinn also indicated that although Tenet was giving 30 days’ notice of the contract’s\n4\n\ncancellation pursuant to the terms of the agreement, Tenet would be “most agreeable and adaptable\nto” CRI’s removing its contract workers prior to August 1.  \n17. Further, Daniel requested that Aguirre schedule the disabled workers to be off from\nJuly 27-29, 2004, when the Joint Accreditation Committee was expected to audit the hospital.\nDaniel reasoned that the hospital administrator did not want to risk any of the disabled workers\nsaying anything “wrong” to an auditor.  \n18. When Tenet later hired the patient transporters “in-house,” Tenet hired almost all the\nnon-disabled workers who had been contract workers through C.R.I. Commercial.  Tenet did not\noffer jobs to any of the developmentally disabled people who had been contract workers prior to the\ncancellation of the Services Agreement.   \n19. Since at least July 2004, Tenet has failed, in violation of Section 107(a) of the ADA,\n42 U.S.C. § 12117(a), which incorporates by reference Section 709(c) of Title VII, 42 U.S.C.\n§ 2000e-8(c), to make and preserve records relevant to the determination of whether unlawful\nemployment practices have been or are being committed.\n20. Tenet violated the ADA by causing the terminations of qualified individuals with\ndisabilities, including Dana M. Hays, and by unlawfully interfering with their exercise and\nenjoyment of rights guaranteed by the ADA.  Tenet also violated the ADA by failing to hire\nqualified individuals such as Ms. Hays because of their developmental disabilities. \n21. The unlawful employment practices complained of in paragraphs 11-20 above were\nintentional.\n22. The unlawful employment practices complained of in paragraphs 11-20 above were\ndone with malice or with reckless indifference to the federally protected rights of qualified\n5\n\nindividuals with disabilities, including Dana Hays, Roderick L. Baines, Annette Hill, Lillian\n“Renee” Howard, Anne Louise Maurer, Maxine Marion Wigley, and Kathleen Louise Wilson.\nPRAYER FOR RELIEF\nWherefore, the Commission respectfully requests that this Court:\nA. Grant a permanent injunction enjoining Tenet Healthcare and Tenet Employment,\ntheir officers, successors, assigns, and all persons in active concert or participation with them, from\nengaging in failing to accommodate impaired employees and firing them, and any other employment\npractice which discriminates on the basis of disability.\nB. Order Tenet to institute and carry out policies, practices, and programs which provide\nequal employment opportunities for qualified individuals with disabilities, and which eradicate the\neffects of their past and present unlawful employment practices.\nC. Order Tenet to make whole the disabled workers it unlawfully caused to lose their\njobs, including Dana Hays, Roderick L. Baines, Annette Hill, Lillian “Renee” Howard, Anne Louise\nMaurer, Maxine Marion Wigley, and Kathleen Louise Wilson, by providing appropriate backpay\nwith prejudgment interest, in amounts to be determined at trial, and other affirmative relief necessary\nto eradicate the effects of its unlawful employment practices, including but not limited to their\ninstatement/reinstatement.\nD. Order Tenet to make and preserve all records, in accordance with the provisions of\nSection 709(c) of Title VII of the Civil Rights Act of 1964, 42 U.S.C. § 2000e-8(c), relevant to the\ndetermination of whether unlawful employment practices have been or are being committed.\nE. Order Tenet to make whole the disabled workers it unlawfully failed to hire, including\nDana Hays, Roderick L. Baines, Annette Hill, Lillian “Renee” Howard, Anne Louise Maurer,\n6\n\nMaxine Marion Wigley, and Kathleen Louise Wilson, by providing appropriate backpay with\nprejudgment interest, in amounts to be determined at trial, and other affirmative relief necessary to\neradicate the effects of its unlawful employment practices, including but not limited to their\ninstatement.\nF. Order Tenet to make whole the disabled workers against whom it unlawfully\ndiscriminated -- including Dana Hays, Roderick L. Baines, Annette Hill, Lillian “Renee” Howard,\nAnne Louise Maurer, Maxine Marion Wigley, and Kathleen Louise Wilson -- by providing\ncompensation for past and future pecuniary losses resulting from the unlawful employment practices\ndescribed in paragraphs 11-18 above, including job search expenses and any medical expenses\nincurred as a result of loss of participation in any employee benefit plan, in amounts to be determined\nat trial. \nG. Order Tenet to make whole the disabled workers against whom it unlawfully\ndiscriminated -- including Dana Hays, Roderick L. Baines, Annette Hill, Lillian “Renee” Howard,\nAnne Louise Maurer, Maxine Marion Wigley, and Kathleen Louise Wilson -- by providing\ncompensation for past and future nonpecuniary losses resulting from the unlawful practices\ncomplained of in paragraphs 12-18 above, including emotional pain, suffering, inconvenience, loss\nof enjoyment of life, and humiliation, in amounts to be determined at trial.\nH. Order Tenet to pay  punitive damages to Dana Hays, Roderick L. Baines, Annette\nHill, Lillian “Renee” Howard, Anne Louise Maurer, Maxine Marion Wigley, Kathleen Louise\nWilson, and any other disabled individuals against whom it unlawfully discriminated for Tenet’s\nmalicious and reckless conduct, as described in paragraphs 14-18 above, in amounts to be\ndetermined at trial.\n7\n\nI. Grant such further relief as the Court deems necessary and proper in the public\ninterest.\nJ. Award the Commission its costs of this action.\nJURY TRIAL DEMAND\nThe Commission requests a jury trial on all questions of fact raised by its complaint.\nRespectfully submitted,\nEQUAL EMPLOYMENT OPPORTUNITY \nCOMMISSION\nRONALD S. COOPER\nGeneral Counsel\nJAMES L. LEE\nDeputy General Counsel \nGWENDOLYN YOUNG REAMS\nAssociate General Counsel\n1801 L. Street, N.W.\nWashington, D.C.  20507\n /s/ Timothy M. Bowne                                      \nTimothy M. Bowne\nSenior Trial Attorney\nAttorney-in-Charge\nTexas Bar No. 00793371\nSouthern Dist. of Texas No. 20023\nEqual Employment Opportunity Commission\n1919 Smith Street, 6th Floor\nHouston, Texas 77002\n(713) 209-3395\n(713) 209-3402 [facsimile]\n8\n\nOF COUNSEL:\nJim Sacher\nRegional Attorney\nRose Adewale-Mendes\nSupervisory Trial Attorney\nEqual Employment Opportunity Commission\n1919 Smith Street, 6th Floor\nHouston, Texas 77002\n9",
+      "document_type_other": null,
+      "external_url": null,
+      "ecf_number": null,
+      "clearinghouse_link": "clearinghouse.net/doc/15611"
+    },
+    {
+      "date": "2007-10-26",
+      "date_is_estimate": false,
+      "date_not_available": false,
+      "description": null,
+      "document_source": null,
+      "document_status": "Coding Complete",
+      "document_type": "Settlement Agreement",
+      "order_type": "Consent Decree",
+      "citation_paren": null,
+      "cite_1_page": null,
+      "cite_1_reporter": null,
+      "cite_1_vol": null,
+      "cite_2_page": null,
+      "cite_2_reporter": null,
+      "cite_2_vol": null,
+      "cite_3_page": null,
+      "cite_3_reporter": null,
+      "cite_3_vol": null,
+      "citation_status": "Not applicable",
+      "court": "Southern District of Texas",
+      "no_title": false,
+      "party_types": [
+        "Court",
+        "Defendant",
+        "Plaintiff"
+      ],
+      "per_curium": false,
+      "is_core_document": true,
+      "id": 30473,
+      "file": "https://clearinghouse-umich-production.s3.amazonaws.com/media/doc/30473.pdf",
+      "title": "Consent Decree",
+      "text": "------------\n-\nIN THE UNITED STATES DISTRICT COURT \nFOR THE SOUTHERN DISTRICT OF TEXAS \nHOUSTON DIVISION \nEQUAL EMPLOVMENT OPPORTUNITV  § \nCOMMISSION,  § \n§ \nPlaintiff,  § \n§ \nv.  §  CIVIL ACTION NO. 4:06-cv-02737 \n§ \nTENET EMPLOVMENT,INC., f/kla  § \nTENET TEXAS EMPLOYMENT,INC.  § \n§ \nDefendant.  §  JURY TRIAL \nCONSENT DECREE \nThe  Equal  Employment  Opportunity  Commission  (\"Commission\"  or  \"EEOC\")  has \naJleged that Defendant Tenet Employment, Inc. (\"Tenet\"), violated Title I of the Americans with \nDisabilities Act of 1990 (\"ADA\").  EEOC has asserted that Tenet discriminated against workers \nwith mental retardation by causing their terminations as contract workers al the hospital, thereby \nunlawfully  interfering  with  their exercise  and enjoyment  of rights  guaranteed  by  the  ADA. \nEEOC also has claimed that Tenet, when subsequently hiring patient transporters on Tenet's \npayroll, Wllawfully refused to hire qualified workers with disabilities because of their disabilities. \nTenet has  denied  the  EEOC's allegations.  The partles  by  this Consent  Decree have \nagreed to compromise and settle disputed claims. \nNow, therefore, the parties stipulate to the jurisdiction of the Court and waive a hearing \nand the entry of findings of fact and conclusions of law. \nIt is therefore ORDERED that: \nI.  This Consent Decree is entered in  full  and  complete settlement of any  and all \n\nclaims arising out of or contained in EEOC Charge No. 330-2004-05670, and this lawsuit, Civil \nAction No. 4:06-cv-02737.  The entry of this Decree does not deprive EEOC or any state fair \nemployment practices agency from investigating any other pending or future ADA claim against \nTenet.  This Decree shall be applicable only to Park Plaza Hospital. \n2.  Tenet shall not retaliate against any  individual who has provided testimony or \nevidence related to this lawsuit or to the investigation of EEOC Charge No. 330-2004-05670. \n3.  Supervisol)' personnel with hiring or firing authority at Park Plaza, as shown by \nthe list of titles provided to the EEOC contemporaneously with the submission of this Decree, \nshall  receive training in ADA compliance within sixty (60) days after entl)' of this Decree, and \nonce more during the  duration  of this  Decree.  The training will  be conducted by  either an \nattorney or an experienced training person or group not located at Park Plaza Hospital. \n4.  Tenet shall submit to the counsel of record for EEOC for each train.i. ng pr.o..g.. ram, \n\" \nat least twenty (20) days in advance of the program, the name of the program provider and a \ncurriculum outline indicating the information to be addressed during the program, as  well  as \ncopies of all agendas and materials to be distributed at the training seminar.  If EEOC objects to \nany of the materials it shall notify Park Plaza and the parties will work in good faith to resolve \nany  difference.  The person  who  shall  administer the training  will  be  either  attomey(s)  or \nperson(s) possessing at least five years of experience in the application oflabor and employment \nlaw.  Wrinen acknowledgment of receipt of the training shall  be obtained by  Tenet from all \nindividuals attending the  training and  retained among the employment records of Tenet, and \ncopies  shall  be  forwarded  to  the  EEOC's  counsel  of record  within  ten  (10)  days  of the \ncompletion of the training. \n5.  The training provided for by this Consent Decree will ensure that the following \n2 \n\ntopics are reviewed: \na.  Provide  clear  definitions  and  examples  of  prohibited  disability \ndiscrimination and retaliation; \nb.  Provide for substantiaJ discipline for incidents of disability discrimination \nand/or retaliation; \nc.  Provide for the acceptance of disability discrimination and/or retaJiation \ncomplaints, whether in writing or oraJly, by any current or former \nemployees or applicants for employment; \nd.  Provide for a full  and effective investigation of all complaints as well  as \nappropriate  remedies  for  handling  complaints,  up  to  and  including \ntermination; and \ne.  Acknowledge Tenet's ADA responsibility to reasonably accommodate \nmentally  challenged  individuals  who  apply  for employment and/or are \nemployed by Tenet. \n6.  Tenet  agrees  that  within  ten  (10)  days  after  entry  of this  Decree  it  will \nconspicuously post the attached notice (Exhibit \"A\") in an area of Park Plaza hospitaJ accessible \nto aJl employees for a period oflwo (2) years from the date the Decree is signed. \n7.  Tenet  agrees  to  pay  the  totaJ  sum  of  ONE  HUNDRED  TWENTY-TWO \nTHOUSAND FIVE HUNDRED DOLLARS  ($122,500.00) in  full  and  final  settlement of the \nCommission's lawsuit.  Within fourteen (14) caJendar days of entry of the Consent ,D ecree, the \nCommission shall notify Tenet of the sum to be paid to Charging Party and to each of the class \nmembers who will receive a portion of the settlement proceeds, and the address of each person \nwho will receive a portion of the settlement proceeds; at the election of Charging Party and each \n3 \n\nclass member, payment may be made to a special needs trust or a pooled trust rather than directly \nto the Charging Party or classmembers.  Within forty-five (45) calendar days of the entry of this \nDecree,  Tenet  shall  mail  the  checks  to  the  recipients,  at  the  addresses  provided  by  the \nCommission.  A copy of the checks disbursed shall be mailed to the Commission's counsel of \nrecord and to each class member's representative on the same day Tenet mails the checks to the \nrecipients.  It is agreed that $5,000.00 of each individual's payment shall be allocated 10 wages \nand the remainder to compensatory damages. \n8.  Tenet agrees that if Charging Party or any classmember applies for employment at \nPark Plaza hospita1  in the future, his or her application will be considered fairly, in compliance \nwith  the  ADA,  in  accordance  with  the  availability  of positions  at  the  facility  and  the \nqualifications of the applicant. \n9.  During the duration of this Consent Decree, Tenet shall  maintain copies of all \nemployment  applications submitted for  positions at  Park Plaza hospital.  While this  Consent \nDecree is  in errect, the Commission may monitor Tenet's compliance with  this  provision by \nproviding twenty  (20) calendar days'  notice of its  intent to  inspect the retained applications. \nHowever, the Commission may not exercise this right more than two (2) times in any calendar \nyear.  Upon receipt of such notice, Tenet must provide the Commission's Houston District Office \nwith copies of the requested applications, at the expense of Tenet.  The document may be kept \nand produced in electronic formal. \n10.  Tenet shall appoint a liaison who is responsible for ensuring and reporting to the \nCommission Tenet's compliance with the terms of this Decree.  The name of the liaison shall be \nprovided to the Commission in writing within len (10) days of the entry of this  Decree.  The \nCommission shall be notified of any change. \n4 \n\nII.  This  Decree shall  remain  in  effect  for  two  (2)  years  from  the  date  of entry. \nDuring the period that this  Decree shall remain in effect, the Court shall retain jurisdiction to \nassure compliance with this Decree and to permit entry of such further orders or modjfications as \nmay  be appropriate.  The EEOC will send written notice to Tenet of any alleged breach, and \nprovide Tenet at least ten  (10) days for  the opportunity  to  im'estigate and  cure such breach. \nShould the  parties  be  unable to  resolve such  a dispute  after good  faith  attempts,  and  upon \nEEOC's assessment  that Tenet has  not  cured  any  alleged  breach,  the  EEOC  is  specificaJly \nauthorized to seek Court-ordered enforcement of this Decree in the event of a breach of any of \nthe provisions herein. \n12.  The parties shall bear their own costs and attorney's fees. \nthisa2b't,$-Of  Oc.A;h \nSo ORDERED and SIGNED  , 2007. \n, \nKEITii~ISON \nUNITED STATES DISTRICT JUDGE \n5 ",
+      "document_type_other": "",
+      "external_url": "",
+      "ecf_number": "20",
+      "clearinghouse_link": "clearinghouse.net/doc/30473"
+    }
+  ],
+  "document_count": 6
+}

@@ -1,0 +1,186 @@
+{
+  "case_id": 11272,
+  "fetched_at": "2025-10-22T00:14:24.941410",
+  "case_data": {
+    "attorney_orgs": [
+      "Law Office of Lainey Feingold"
+    ],
+    "available_documents": [
+      "Injunctive (or Injunctive-like) Relief"
+    ],
+    "case_defendants": [
+      {
+        "defendant_level": null,
+        "institution": "",
+        "institution_alt_state": null,
+        "institution_city": "",
+        "institution_county": null,
+        "name": "7-Eleven",
+        "defendant_level_other": "",
+        "is_active": true
+      }
+    ],
+    "case_ongoing": "No",
+    "case_status": "Coding Complete",
+    "case_types": [
+      "Disability Rights"
+    ],
+    "cause_other": "",
+    "causes": [
+      "Americans with Disabilities Act (ADA), 42 U.S.C. §§ 12111 et seq."
+    ],
+    "class_action_granted": "Not sought",
+    "class_action_sought": "No",
+    "closing_year": 2009,
+    "constitutional_clause": [],
+    "content_of_injunction": [],
+    "court": "No Court",
+    "custom_issues": [],
+    "defendant_payment": "",
+    "defendant_type": [],
+    "docket_status": "None",
+    "facility_type": [],
+    "filing_date": null,
+    "filing_year": 2007,
+    "id": 11272,
+    "injunction_duration": "14",
+    "issues": [],
+    "last_checked_date": "2009-05-12T00:00:00-04:00",
+    "main_docket": {
+      "id": 31783,
+      "docket_entries": [],
+      "docket_case_type": "",
+      "docket_year": null,
+      "docket_filing_number": null,
+      "is_main_docket": true,
+      "court": "No Court",
+      "state": "California",
+      "docket_office_number": "",
+      "docket_number_manual": "NA",
+      "scales_html": null,
+      "recap_link": null,
+      "is_active": false
+    },
+    "name": "7-Eleven Point of Sale Agreement",
+    "never_filed": false,
+    "non_docket_case_number": "",
+    "non_docket_case_number_type": null,
+    "non_docket_case_number_type_other": "",
+    "order_end_year": 2009,
+    "order_start_year": 2007,
+    "permanent_injunction": false,
+    "plaintiff_description": "individuals who are blind or have visual impairments",
+    "plaintiff_type": [
+      {
+        "value": "Private Plaintiff"
+      }
+    ],
+    "prevailing_party": "Plaintiff",
+    "pro_se_status": "No",
+    "public_interest_lawyer": "Yes",
+    "related_cases": [],
+    "relief_natures": [
+      "Injunction / Injunctive-like Settlement"
+    ],
+    "relief_nature_other": "",
+    "relief_sources": [
+      "Settlement"
+    ],
+    "settlement_agreement": [
+      "Private Settlement Agreement"
+    ],
+    "settlement_judgment_date": "2007-10-31",
+    "settlement_judgment_year": null,
+    "special_collections": [],
+    "special_case_type": [
+      {
+        "value": "Out-of-court"
+      }
+    ],
+    "state": "California",
+    "summary": "<p>In 2007, attorneys representing blind and visually impaired persons entered into structured negotiations with 7-Eleven stores.  On October 31, 2007, the parties entered into a settlement agreement.</p><p>Under the terms of the agreement, 7-Eleven agreed to put equipment in every store in the U.S. so that blind people can enter PINs (secret codes) when using debit cards. All 7-Eleven Point of Sale devices will have keypads (like telephone keypads with a raised dot on the five key) by the end of 2009.</p><p></p>",
+    "summary_published_date": "2009-05-12T00:00:00-04:00",
+    "summary_short": "In 2007, 7-Eleven entered into a settlement with the blind community, in which the corporation agreed to install blind-accessible debit card equipment in all of its stores, nationwide.",
+    "summary_tiny": null,
+    "terminating_date": null,
+    "clearinghouse_link": "clearinghouse.net/case/11272",
+    "is_active": true,
+    "case_documents_url": "https://clearinghouse.net/api/v2/documents/?case=11272",
+    "case_dockets_url": "https://clearinghouse.net/api/v2/dockets/?case=11272",
+    "case_resources_url": "https://clearinghouse.net/api/v2/resources/?case=11272"
+  },
+  "documents": [
+    {
+      "date": null,
+      "date_is_estimate": false,
+      "date_not_available": false,
+      "description": null,
+      "document_source": null,
+      "document_status": null,
+      "document_type": null,
+      "order_type": null,
+      "citation_paren": null,
+      "cite_1_page": null,
+      "cite_1_reporter": null,
+      "cite_1_vol": null,
+      "cite_2_page": null,
+      "cite_2_reporter": null,
+      "cite_2_vol": null,
+      "cite_3_page": null,
+      "cite_3_reporter": null,
+      "cite_3_vol": null,
+      "citation_status": null,
+      "court": null,
+      "no_title": false,
+      "party_types": [],
+      "per_curium": false,
+      "is_core_document": true,
+      "id": 119019,
+      "file": null,
+      "title": null,
+      "text": null,
+      "document_type_other": null,
+      "external_url": null,
+      "ecf_number": null,
+      "clearinghouse_link": "clearinghouse.net/doc/119019"
+    },
+    {
+      "date": "2007-10-31",
+      "date_is_estimate": false,
+      "date_not_available": false,
+      "description": null,
+      "document_source": "Lainey Feingold website",
+      "document_status": "Coding Complete",
+      "document_type": "Settlement Agreement",
+      "order_type": "Consent Decree",
+      "citation_paren": null,
+      "cite_1_page": null,
+      "cite_1_reporter": null,
+      "cite_1_vol": null,
+      "cite_2_page": null,
+      "cite_2_reporter": null,
+      "cite_2_vol": null,
+      "cite_3_page": null,
+      "cite_3_reporter": null,
+      "cite_3_vol": null,
+      "citation_status": "Not applicable",
+      "court": "No Court",
+      "no_title": false,
+      "party_types": [
+        "Plaintiff",
+        "Defendant"
+      ],
+      "per_curium": false,
+      "is_core_document": true,
+      "id": 33930,
+      "file": "https://clearinghouse-umich-production.s3.amazonaws.com/media/doc/33930.pdf",
+      "title": "Settlement Agreement",
+      "text": " \nSETTLEMENT AGREEMENT \nThis Settlement Agreement and the related document entitled Confidential \nAddendum to Settlement Agreement (collectively referred to herein as the “Full \nAgreement”) are entered into as of the Effective Date, as defined below in Section 1.6, by \nand between the following parties: American Council of the Blind (“ACB”), American \nFoundation for the Blind (“AFB”), and California Council of the Blind (“CCB”) \n(collectively, the “Claimants”), and 7-Eleven, Inc.  (“7-Eleven”).  Claimants and 7-\nEleven are at times referred to collectively herein as the “Parties.” \nRECITALS \nThe Full Agreement is based on the following facts: \nA.  ACB, a non-profit corporation that provides advocacy services in the \nUnited States on behalf of individuals who are blind or have visual impairments, is \ndedicated to promoting the full integration of persons who are blind or have visual \nimpairments into all aspects of society, and provides information to the general public \nabout the accomplishments, needs and contributions of persons who are blind or visually-\nimpaired.  CCB is ACB’s California affiliate serving the needs of blind and visually-\nimpaired persons throughout the State of California.  Among ACB’s and CCB’s board, \nstaff and members, and those on whose behalf they advocate and provide services, are \nmany individuals with vision disabilities within the meaning of state and federal law who \nhave shopped and continue to shop at 7-Eleven Stores throughout the United States.  \nACB is incorporated and has its place of business in Washington, D.C.  CCB is \nincorporated and has its place of business in the State of California. \nB.  AFB is a national non-profit, whose mission is to eliminate the inequities \nfaced by the more than ten million blind and visually-impaired persons in the United \nStates.  Among other things, AFB is:  the leading publisher of professional materials on \nblindness and low vision through its publishing arm, AFB Press; a pioneer in the \ndevelopment of Talking Books; a national advocate representing the interests of blind or \nvisually-impaired people before Congress and government agencies; and home to the \nHelen Keller Archives.  Among AFB’s board, staff and those on whose behalf it \nadvocates and provides services, are many individuals with vision disabilities within the \nmeaning of state and federal law and who have shopped and continue to shop at 7-Eleven \nStores throughout the United States. \nC.  7-Eleven does business in California and other states across the United \nStates.  \nD.  Claimants contend that they and their respective boards, staff, members \nand clients, and other blind and visually-impaired persons, have been, are being, and \ncontinue to be denied full access to the services provided by retail establishments and are \ntherefore being discriminated against due to alleged inaccessibility of certain Point of \nSale (“POS”) Pinpads (defined in Section 1.12 below) found in retail establishments \nthroughout the United States, including in 7-Eleven Stores (the “ POS Claim(s)”).  7-\nEleven denies that it discriminates against blind and visually impaired persons, including \n7-Eleven POS Settlement Agreement \nPage 1 of 10 \n\n \nClaimants and their respective boards, staff, members and clients, in any way and \nspecifically denies that it discriminates against such blind and visually impaired persons \ndue to alleged inaccessibility of certain POS Pinpads in the 7-Eleven Stores.  7-Eleven \ncontends that it does not and will not tolerate discrimination against its customers on the \nbasis of disability, and that it values its disabled customers and treats them with the \nutmost respect.   \nE.  The Parties enter into the Full Agreement in order to resolve the POS \nClaims and to avoid the burden, expense, and risk of potential litigation.  In entering into \nthe Full Agreement, 7-Eleven does not admit, and specifically denies, that it has violated \nor failed to comply with any provisions of the Americans with Disabilities Act of 1990, \n42 U.S.C. § 12101, et seq., and the Title III implementing regulations, 28 C.F.R., Part 36, \nand any applicable laws of any state relating to accessibility for persons with disabilities \nto public accommodations, any regulations or guidelines promulgated pursuant to those \nstatutes, or any other applicable laws, regulations, or legal requirements.  Neither the Full \nAgreement, nor any of its terms or provisions, nor any of the negotiations connected with \nit, shall be construed as an admission or concession by 7-Eleven of any such violation or \nfailure to comply with any applicable law.  The Full Agreement and its terms and \nprovisions shall not be offered or received as evidence for any purpose whatsoever \nagainst 7-Eleven in any action or proceeding, other than a proceeding to enforce the \nterms of the Full Agreement.   \nNOW, THEREFORE, the Parties hereby agree to the following provisions: \n1.  Definitions.  As used in the Full Agreement, the following terms shall be \nas defined below:  \n1.1.  7-Eleven Store means a store owned, leased, or operated by 7-\nEleven in the United States.  \n1.2.  Access Laws means the Americans with Disabilities Act (as \ndefined below) and any applicable laws of any state, county or municipality relating to \naccessibility for persons with disabilities to places of public accommodation, any \nregulations or guidelines promulgated pursuant to those statutes, or any other applicable \ndisability laws, regulations, or legal requirements, including, without limitation, \nCalifornia Civil Code §§ 51 et seq. and 54 et seq., California Financial Code § 13082, \nCalifornia Health & Safety § 19955, and Title 24 of the California Code of Regulations. \n1.3.  Americans with Disabilities Act or ADA means the Americans \nwith Disabilities Act of 1990, 42 U.S.C. § 12101, et seq., and the Title III implementing \nregulations, 28 C.F.R., Part 36.  \n1.4.  Claims means the contention by Claimants and their respective \nboards, staff, members and clients, and other blind and visually-impaired persons, that \nthey are being, have been and continue to be discriminated against pursuant to applicable \nAccess Laws due to the lack of tactile keys on POS Pinpads in 7-Eleven Stores (“POS \nClaims”).  \n7-Eleven POS Settlement Agreement \nPage 2 of 10 \n\n \n1.5.  Counsel means Goldstein, Demchak, Baller, Borgen and \nDardarian, The Law Office of Elaine B. Feingold, and the attorneys practicing law \ntherein.  \n1.6.  Effective Date means October 31, 2007. \n1.7.  Equivalent Pinpad means a POS Pinpad that provides a visually-\nimpaired user the same or greater level of privacy and ability to perform Functions set \nforth in Section 1.13, below, as provided with the POS Pinpad with Integrated Tactually \nDiscernable Keypad, and which can be rolled out pursuant to the schedules set forth in \nsection 3 of this Agreement.   \n1.8.  Existing 7-Eleven Store means a 7-Eleven store that was open to \nthe public on or before October 15, 2007.  \n1.9.  New 7-Eleven Store means a 7-Eleven Store that is first opened to \nthe public after October 15, 2007.    \n1.10.  Personal Identification Number, or PIN means a unique numerical \ncode used to identify an individual that must be entered into a POS Pinpad before \nconducting certain transactions on the POS Pinpad. \n1.11.  Point of Sale Pinpad, or POS Pinpad means a device used by a \ncustomer at a point of purchase that allows the customer to pay for items with a debit, \ncredit or cash card.  Point of Sale Pinpad does not include other equipment that may be \nused by a customer in conjunction with the Pinpad to scan, price, or weigh products. \n1.12.  POS Pinpad Function, or Function means a task related to payment \nfor purchases that can be performed by the customer through the POS Pinpad.  \n1.13.  POS Pinpad with Integrated Tactually Discernable Keypad means \na POS Pinpad with a Tactually Discernable Keypad that is an integral part of the pinpad, \nwhich may be used to perform the following Functions on the integrated keypad:  input, \ncorrect, cancel and enter PIN and cash-back amounts; submit card data; submit signature; \nand any Functions that involve inputting, correcting, canceling or entering information \nthat is personal or affects access to personal information or resources, to the extent such \nFunctions are available to sighted persons using the unit.  Additionally, as soon as \npracticable after the Effective Date, if customers are required to sign directly on the Point \nof Sale Pinpad, there shall be no virtual function keys below the signature line, and the \nsignature line shall be on the lowest portion of the screen.  The Ingenico 6770, a picture \nof which is attached hereto as Exhibit A, is a POS Pinpad with a Tactually Discernable \nKeypad within the meaning of this section.  \n1.14.  Tactually Discernable Keypad means a number keypad on which \neach key is tactually discernable from surrounding surfaces and adjacent keys.  Numeric \nkeys shall be arranged in a 12 key ascending telephone keypad layout.  The number five \nkey shall be tactually distinct from the other keys by means of a raised dot.  The \nfollowing function keys on the Tactually Discernable Keypad shall be to the right of the \n7-Eleven POS Settlement Agreement \nPage 3 of 10 \n\n \nnumber keys:  Enter (Accept), colored green and marked with a raised circle; Cancel, \ncolored red and marked with a raised “X,” and Correct, colored yellow and marked with \na raised left arrow.  All text and numerals on all keys shall be colored to contrast with the \nkey color.   \n2.  Duration and Geographic Scope of Agreement.  The Full Agreement shall \napply to 7-Eleven Stores in every State in the United States in which 7-Eleven operates.  \nThe terms of the Full Agreement shall remain in effect from the Effective Date until \nDecember 31, 2009.  The only obligations of either party that survive beyond December \n31, 2009 are those described in Section 2.1 of the Confidential Addendum, which shall at \nall times remain in effect and enforceable.  \n3.  Provisions Regarding POS Pinpads with Integrated Tactually Discernable \nKeypads. \n3.1.  Development and Testing.   \n3.1.1.  7-Eleven has been, and currently is, engaged in the process \nof developing and testing a POS Pinpad with Integrated Tactually Discernable Keypad \nfor use in 7-Eleven Stores.   \n3.2.  Schedule for Rollout to Existing 7-Eleven Stores.   \n3.2.1.  By no later than December 31, 2007, 7-Eleven will ensure \nthat all the POS Pinpads in at least forty percent of Existing 7-Eleven Stores in the United \nStates are POS Pinpads with Integrated Tactually Discernable Keypads.   \n3.2.2.  By no later than December 31, 2008, 7-Eleven will ensure \nthat all the POS Pinpads in at least fifty percent of Existing 7-Eleven Stores in the United \nStates are POS Pinpads with Integrated Tactually Discernible Keypads. \n3.2.3.  By no later than June 30, 2009, 7-Eleven will ensure that \nall the POS Pinpads in all Existing 7-Eleven Stores in the United States are POS Pinpads \nwith Integrated Tactually Discernible Keypads. \n3.2.4.  Notwithstanding any other provision in this section, all \nPOS Devices installed after the Effective Date in 7-Eleven Stores in California will be \nPoint of Sale Pinpads with Integrated Tactually Discernible Keypads.   \n3.3.  Rollout Schedule to New 7-Eleven Stores. \n3.3.1.  All POS Pinpads in New 7-Eleven Stores will be POS \nPinpads with Integrated Tactually Discernible Keypads as of the date the store is open to \nthe public.   \n7-Eleven POS Settlement Agreement \nPage 4 of 10 \n\n \n3.4.  Rollout Information to Claimants.   \n3.4.1.  Within thirty (30) days of the Rollout dates listed in \nSections 3.2.1 – 3.2.3, 7-Eleven will provide Counsel with (i) written confirmation that \nPOS Pinpads with Integrated Tactually Discernable Keypads have been installed pursuant \nto this Agreement; and (ii) the addresses of all 7-Eleven Stores with POS Pinpads with \nIntegrated Tactually Discernable Keypads as of the reporting date.   \n3.4.2.  Once annually during the Term of this Agreement 7-Eleven \nwill provide Counsel with the addresses of New 7-Eleven Stores where POS Pinpads \nwith Integrated Tactually Discernable Keypads have been installed pursuant to Section \n3.3 herein.   \n3.5.  Feedback from Claimants.  On a date during the third quarter of \n2008 that is mutually agreed to by the Parties, and periodically thereafter as requested by \nClaimants, but not more than once each year during the term of this Agreement, 7-Eleven \nwill meet by telephone or in person with representatives of Claimants to elicit input and \nreceive feedback regarding the implementation of this Agreement and any other issue \nregarding technology used by 7-Eleven customers and its effect on customers who are \nblind or visually impaired. \n3.6.  Training of 7-Eleven Personnel re POS Pinpads.  7-Eleven will \ndevelop a training program and train the appropriate personnel regarding, inter alia, the \nroll-out of POS Pinpads with Integrated Tactually Discernable Keypads and appropriate \ncommunications with visually-impaired customers regarding use of such Pinpads.  The \ndetails of this training will be in the sole discretion of 7-Eleven, but will include features \nto ensure that appropriate personnel are apprised (i) when POS Pinpads with Integrated \nTactually Discernable Keypads are introduced to 7-Eleven Stores, (ii) why persons with \nvisual impairments need the Integrated Tactilely Discernible Keypad; (iii) the manner in \nwhich persons with visual impairments will use the Pinpads; and (iv) generally how to \nprovide effective service to customers with visual impairments.  In addition, appropriate \npersonnel will be trained to allow visually-impaired customers to sign a paper receipt \ninstead of the POS Pinpad upon request by the customer.  Training pursuant to this \nsection will occur in a timely manner to ensure effective implementation of the \nprovisions of the Full Agreement.   \n4.  Provisions Regarding ATMs \n4.1.  Features and Functionality of Talking ATMs in 7-Eleven Stores \nOwned, Leased, or Operated by Cardtronics.  The features and functionality of Talking \nATMs in 7-Eleven Stores, and the schedule for installing Talking ATMs in 7-Eleven \nStores, will be governed by the Cardtronics Consent Decree if that Consent Decree \nreceives Court Approval no later than January 15, 2008.  If the Consent Decree does not \nreceive Court Approval by January 15, 2008, the Parties will schedule a conference call, \nto be held no later than January 31, 2008, to discuss issues otherwise covered by the \nCardtronics Consent Decree submitted for Court Approval as they impact ATMs in 7-\nEleven Stores.  The Parties shall thereafter meet and confer about those issues for a \n7-Eleven POS Settlement Agreement \nPage 5 of 10 \n\n \nperiod not to exceed ninety days unless an extension is otherwise agreed to by the Parties.  \nIf the Parties are unable to agree on issues otherwise covered by the Cardtronics Consent \nDecree within the ninety (90) day or extended period, the matter will be subject to the \ndispute resolution provisions set forth herein. \n4.2.  Training of 7-Eleven Personnel Regarding Talking ATMs.  7-\nEleven will develop a training program and train the appropriate personnel regarding \nTalking ATMs in 7-Eleven Stores.  The details of this training will be in the sole \ndiscretion of 7-Eleven, but will include features to ensure that appropriate personnel are \napprised (i) when a Talking ATM is installed in a 7-Eleven Store, and (ii) how and to \nwhom to report malfunctions in the Talking ATM.  Training pursuant to this section will \noccur in a timely manner within a reasonable time of the Talking ATM installation.  \n5.  Procedures in the Event of Disputes. \n5.1.  Notice of Non-Compliance.   If at any time a party believes that the \nother party has not complied with any provision of this Agreement, that party shall \nprovide the other party with Notice of Non-compliance containing the following \ninformation:   \n5.1.1.  the alleged act of non-compliance; \n5.1.2.  a reference to the specific provision(s) of the Agreement \nthat is (are) involved;  \n5.1.3.  a statement of the remedial action sought by the initiating \nparty; \n5.1.4.  a brief statement of the specific facts, circumstances and \nlegal argument supporting the position of the initiating party. \n5.2.  Meet and Confer.  Within sixty (60) calendar days of receipt of a \nNotice provided pursuant to section 5.1, Claimants and 7-Eleven shall informally meet \nand confer and attempt to resolve the issues raised in the Notice.  \n5.2.1.  7-Eleven shall have a reasonable time to cure and \nundertake any remedial action once agreed upon. \n5.3.  Submission to Binding Arbitration. \n5.3.1.  If the matters raised in a Notice provided pursuant to \nsection 5.1 herein are not resolved within sixty (60) days of the initial meet and confer \nrequired by section 5.2, either party may submit the unresolved matters to binding \narbitration as set forth herein. \n5.3.2.  Arbitration shall be held before a single arbitrator in good \nstanding of JAMS provided that s/he is available to schedule a hearing on the matter \nwithin sixty (60) days of the submission to binding arbitration and to render a written \n7-Eleven POS Settlement Agreement \nPage 6 of 10 \n\n \ndecision on the matter within sixty (60) days of the first hearing date.  Either party may \nconduct discovery relevant to the disputed issue, in accordance with JAMS’ rules.  \n5.3.3.  Law Governing Interpretation and Application of \nAgreement.  The terms of this Agreement, and the provisions thereof, shall be interpreted \nand applied pursuant to California law.     \n6.  Notice or Communication to Parties.  Any notice or communication \nrequired or permitted to be given to the parties hereunder shall be given in writing by \nfacsimile or email and United States mail, addressed as follows: \n  To Claimants: \n \nLinda M. Dardarian \nc/o Goldstein, Demchak, Baller, Borgen & Dardarian \n300 Lakeside Drive, Suite 1000 \nOakland, CA  94612 \nFax No.:  (510) 835-1417 \nE-mail:  ldardarian@gdblegal.com \n \nElaine B. Feingold \nLaw Office of Elaine B. Feingold \n1524 Scenic Avenue \nBerkeley, CA  94708 \nE-mail:  lfeingold@earthlink.net \n \n  To 7-Eleven: \n \nRankin Gasaway \n7-Eleven, Inc. \n    Box 711 \n    Dallas, TX  75221     \n    Email:  rgasaw01@7-11.com \n \n    John C. Fox \nManatt, Phelps, Philips \n1001 Page Mill Road, Building 2 \nPalo Alto, CA 94304 \nEmail:  jfox@manatt.com \n \n7.  Modification in Writing.  No modification of the Full Agreement shall be \neffective unless in writing and signed by authorized representatives of all Parties. \n8.  Joint Press Release to Announce the Rollout Program for POS Pinpads \nwith Integrated Tactually Discernable Keypads.  The Parties will issue a joint press \nrelease on a mutually agreed upon date within thirty days after the beginning of the roll-\nout described in Section 3.2, above.  If the parties cannot agree on a press release, any \n7-Eleven POS Settlement Agreement \nPage 7 of 10 \n\n \nparty may issue its own release provided the release is consistent with this Agreement \nand distributed to all parties at least forty-eight hours prior to release. \n9.  No Other Representations.  Each party to the Full Agreement warrants that \nhe, she or it is acting upon his, her or its independent judgment and upon the advice of \nhis, her or its own counsel and not in reliance upon any warranty or representation, \nexpress or implied, of any nature or kind by any other party, other than the warranties and \nrepresentations expressly made in the Full Agreement. \n10.  Full Agreement Has Been Read.  The Full Agreement has been carefully \nread by each of the Parties, or their responsible officers, and its contents are known and \nunderstood by each of the Parties.  The Full Agreement is signed freely by each party \nexecuting it. \n11.  No Assignment.  No party to the Full Agreement has heretofore assigned, \ntransferred or granted, or purported to assign, transfer or grant, any of the claims, \ndemands, or cause or causes of action disposed of by the Full Agreement. \n12.  Agreement Binding on Assigns and Successors.  The Full Agreement shall \nbind any assigns and successors of the Parties.  Counsel shall be notified in writing within \nthirty (30) days of the existence, name, address and telephone number of any assigns or \nsuccessors of 7-Eleven. \n13.  Force Majeure. The performance of  7-Eleven under this Agreement shall \nbe excused during the period and to the extent that such performance is rendered \nimpossible, impracticable or unduly burdensome due to acts of God; riots; civil \ncommotions; wars; hostilities between nations; acts of terrorism; government laws, orders \nor regulations; actions by the government or any agency thereof; storms; fires; strikes or \nlockouts; unavailability of technology or parts, equipment or materials through normal \nsupply sources; or any other contingencies beyond the reasonable control of  7-Eleven.  If \n7-Eleven seeks to invoke this Section, it shall notify the Claimants in writing as soon as \nreasonably possible, specifying the particular action that could not be performed and the \nspecific reason for the non-performance.  The Claimants and 7-Eleven will thereafter \nmeet and confer regarding an alternative schedule for completion of the action that could \nnot be performed, or an alternative action.  Any dispute regarding the applicability of this \nSection, or any future action to be taken, that remains after the meet and confer process \nwill be handled as a dispute pursuant to Section 5 of this Agreement.  \n14.  No Admission of Liability.  In entering into the Full Agreement, 7-Eleven \ndoes not admit, and specifically denies, that it has violated or failed to comply with any \nAccess Laws. \n15.  Authority.  The persons executing the Full Agreement each represent and \nwarrant that he or she has the authority to enter into the Full Agreement, and to resolve \nthe matters set forth in the Full Agreement, on behalf of the Party for whom he or she is \nexecuting the Full Agreement, and that no further approval is necessary for the Full \nAgreement to be binding on the Party for whom he or she is executing. \n7-Eleven POS Settlement Agreement \nPage 8 of 10 \n\n \n16.  Integrated Agreement.  The Full Agreement constitutes the entire \nagreement relating to the subject matters addressed therein. \n17.  Rules of Construction.  Each party and its legal counsel have reviewed and \nparticipated in the drafting of the Full Agreement; and any rule of construction to the \neffect that ambiguities are construed against the drafting party shall not apply in the \ninterpretation or construction of the Full Agreement.  Section titles used herein are \nintended for reference purposes only and are not to be construed as part of the Full \nAgreement.  The Recitals are integral to the construction and interpretation of the Full \nAgreement and are therefore incorporated into the Full Agreement in their entirety. \n18.  Triplicate Originals/Execution in Counterparts.  All Parties and their \nrespective counsel shall sign three copies of this document and each such copy shall be \nconsidered an original.  This document may be executed in counterparts.\n7-Eleven POS Settlement Agreement \nPage 9 of 10 \n\n \n \nPARTIES:  APPROVED AS TO FORM: \n \n7-ELEVEN STORES, INC.  MANATT, PHELPS & PHILLIPS \n   \n   \nBy:____________________________  By:____________________________ \n  7-Eleven Stores, Inc.    John Fox, Esq. \n    Attorney for 7-Eleven \nAttest: ____________________________ \n \n            Rankin Gasaway, Attorney \n   \n \n \nAMERICAN COUNCIL OF THE BLIND  GOLDSTEIN, DEMCHAK, BALLER, \n  BORGEN & DARDARIAN \n   \n   \nBy:             By:            \n  Melanie Brunson    Linda M. Dardarian, Esq. \n  Executive Director \n   \nAMERICAN FOUNDATION FOR THE  LAW OFFICE OF ELAINE B. FEINGOLD \nBLIND   \n   \nBy:___________________________  By:___________________________ \n  Paul Shroeder    Lainey Feingold, Esq. \nVice President, Programs & Policy \nGroup \n   \nCALIFORNIA COUNCIL OF THE BLIND   \n \nBy:___________________________ \n  Jeff Thom \n  President \n \n \n  \n20160852.8\n7-Eleven POS Settlement Agreement \nPage 10 of 10 ",
+      "document_type_other": null,
+      "external_url": "http://lflegal.com/2007/10/7-eleven-pos-agreement/",
+      "ecf_number": null,
+      "clearinghouse_link": "clearinghouse.net/doc/33930"
+    }
+  ],
+  "document_count": 2
+}

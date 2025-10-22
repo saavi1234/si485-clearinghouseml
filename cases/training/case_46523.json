@@ -1,0 +1,987 @@
+{
+  "case_id": 46523,
+  "fetched_at": "2025-10-22T00:46:02.909154",
+  "case_data": {
+    "attorney_orgs": [],
+    "available_documents": [
+      "Trial Court Docket",
+      "Complaint (any)"
+    ],
+    "case_defendants": [
+      {
+        "defendant_level": null,
+        "institution": "",
+        "institution_alt_state": null,
+        "institution_city": "",
+        "institution_county": null,
+        "name": "Vermont Agency of Natural Resources",
+        "defendant_level_other": "",
+        "is_active": true
+      },
+      {
+        "defendant_level": null,
+        "institution": "",
+        "institution_alt_state": null,
+        "institution_city": "",
+        "institution_county": null,
+        "name": "Vermont Agency of Natural Resources Climate Action Office",
+        "defendant_level_other": "",
+        "is_active": true
+      },
+      {
+        "defendant_level": null,
+        "institution": "",
+        "institution_alt_state": null,
+        "institution_city": "",
+        "institution_county": null,
+        "name": "State of Vermont",
+        "defendant_level_other": "",
+        "is_active": true
+      }
+    ],
+    "case_ongoing": "Yes",
+    "case_status": "Coding Complete",
+    "case_types": [
+      "Environmental Justice"
+    ],
+    "cause_other": "",
+    "causes": [
+      "State law",
+      "Clean Air Act, 42 U.S.C. §7401 et seq."
+    ],
+    "class_action_granted": "Not sought",
+    "class_action_sought": "No",
+    "closing_year": null,
+    "constitutional_clause": [
+      {
+        "value": "Commerce Power"
+      },
+      {
+        "value": "Supremacy Clause"
+      }
+    ],
+    "content_of_injunction": [],
+    "court": "District of Vermont",
+    "custom_issues": [],
+    "defendant_payment": "",
+    "defendant_type": [
+      {
+        "value": "Jurisdiction-wide"
+      }
+    ],
+    "docket_status": "Complete as of retrieval date",
+    "facility_type": [],
+    "filing_date": "2025-05-01",
+    "filing_year": 2025,
+    "id": 46523,
+    "injunction_duration": "",
+    "issues": [],
+    "last_checked_date": "2025-08-07T00:00:00-04:00",
+    "main_docket": {
+      "id": 61565,
+      "docket_entries": [
+        {
+          "row_number": 54,
+          "id": 9988883,
+          "entry_number": null,
+          "date_filed": "2025-06-20T00:00:00-04:00",
+          "attachments": [],
+          "url": "https://www.courtlistener.com",
+          "recap_pdf_url": null,
+          "pacer_doc_id": null,
+          "description": "Order on Motion for Miscellaneous Relief"
+        },
+        {
+          "row_number": 51,
+          "id": 9721165,
+          "entry_number": null,
+          "date_filed": "2025-05-01T00:00:00-04:00",
+          "attachments": [],
+          "url": "https://www.courtlistener.com",
+          "recap_pdf_url": null,
+          "pacer_doc_id": null,
+          "description": "Add and Terminate Judges"
+        },
+        {
+          "row_number": 56,
+          "id": 10088784,
+          "entry_number": null,
+          "date_filed": "2025-07-16T00:00:00-04:00",
+          "attachments": [],
+          "url": "https://www.courtlistener.com",
+          "recap_pdf_url": null,
+          "pacer_doc_id": null,
+          "description": "Order on Motion for Admission Pro Hac Vice"
+        },
+        {
+          "row_number": 43,
+          "id": 10371128,
+          "entry_number": "49",
+          "date_filed": "2025-09-15T00:00:00-04:00",
+          "attachments": null,
+          "url": "https://www.courtlistener.com/docket/70031549/49/united-states-of-america-v-state-of-vermont/",
+          "recap_pdf_url": "https://www.courtlistener.com/recap/gov.uscourts.vtd.39462/gov.uscourts.vtd.39462.49.0_3.pdf",
+          "pacer_doc_id": "18502129990",
+          "description": "RESPONSE in Opposition re 35 MOTION to Dismiss Case for Lack of Jurisdiction and for Failure to State a Claim and 43 MOTION to Dismiss Case for Lack of Jurisdiction and Failure to State a Claim filed by United States of America, United States Environmental Protection Agency. (Walters, Riley) Clarified text on 9/16/2025 (kp). (Entered: 09/15/2025)"
+        },
+        {
+          "row_number": 10,
+          "id": 9917829,
+          "entry_number": "19",
+          "date_filed": "2025-06-18T00:00:00-04:00",
+          "attachments": [],
+          "url": "https://www.courtlistener.com/docket/70031549/19/united-states-of-america-v-state-of-vermont/",
+          "recap_pdf_url": "https://www.courtlistener.com/recap/gov.uscourts.vtd.39462/gov.uscourts.vtd.39462.19.0.pdf",
+          "pacer_doc_id": "18502099934",
+          "description": "NOTICE OF APPEARANCE by Riley W. Walters, Esq on behalf of United States of America, United States Environmental Protection Agency.(Walters, Riley) (Entered: 06/18/2025)"
+        },
+        {
+          "row_number": 11,
+          "id": 9721167,
+          "entry_number": "2",
+          "date_filed": "2025-05-13T00:00:00-04:00",
+          "attachments": [],
+          "url": "https://www.courtlistener.com/docket/70031549/2/united-states-of-america-v-state-of-vermont/",
+          "recap_pdf_url": null,
+          "pacer_doc_id": "18502088385",
+          "description": "REQUEST for Issuance of Summons as to State of Vermont by United States of America, United States Environmental Protection Agency (Cates, Redding) (Entered: 05/13/2025)"
+        },
+        {
+          "row_number": 33,
+          "id": 9721169,
+          "entry_number": "4",
+          "date_filed": "2025-05-13T00:00:00-04:00",
+          "attachments": [],
+          "url": "https://www.courtlistener.com/docket/70031549/4/united-states-of-america-v-state-of-vermont/",
+          "recap_pdf_url": null,
+          "pacer_doc_id": "18502088391",
+          "description": "REQUEST for Issuance of Summons as to Julie Moore by United States of America, United States Environmental Protection Agency (Cates, Redding) (Entered: 05/13/2025)"
+        },
+        {
+          "row_number": 44,
+          "id": 9721170,
+          "entry_number": "5",
+          "date_filed": "2025-05-13T00:00:00-04:00",
+          "attachments": [],
+          "url": "https://www.courtlistener.com/docket/70031549/5/united-states-of-america-v-state-of-vermont/",
+          "recap_pdf_url": null,
+          "pacer_doc_id": "18502088396",
+          "description": "REQUEST for Issuance of Summons as to Jane Lazorchak by United States of America, United States Environmental Protection Agency (Cates, Redding) (Entered: 05/13/2025)"
+        },
+        {
+          "row_number": 47,
+          "id": 9795159,
+          "entry_number": "6",
+          "date_filed": "2025-05-14T00:00:00-04:00",
+          "attachments": [],
+          "url": "https://www.courtlistener.com/docket/70031549/6/united-states-of-america-v-state-of-vermont/",
+          "recap_pdf_url": null,
+          "pacer_doc_id": "18502088625",
+          "description": "ISSUED Summons as to State of Vermont. (kp) (Entered: 05/14/2025)"
+        },
+        {
+          "row_number": 49,
+          "id": 9795161,
+          "entry_number": "8",
+          "date_filed": "2025-05-14T00:00:00-04:00",
+          "attachments": [],
+          "url": "https://www.courtlistener.com/docket/70031549/8/united-states-of-america-v-state-of-vermont/",
+          "recap_pdf_url": null,
+          "pacer_doc_id": "18502088631",
+          "description": "ISSUED Summons as to Julie Moore. (kp) (Entered: 05/14/2025)"
+        },
+        {
+          "row_number": 1,
+          "id": 9863570,
+          "entry_number": "10",
+          "date_filed": "2025-05-27T00:00:00-04:00",
+          "attachments": [],
+          "url": "https://www.courtlistener.com/docket/70031549/10/united-states-of-america-v-state-of-vermont/",
+          "recap_pdf_url": null,
+          "pacer_doc_id": "18502092754",
+          "description": "AFFIDAVIT of Service filed by United States Environmental Protection Agency, United States of America. State of Vermont served on 5/19/2025, answer due 6/9/2025(Cates, Redding) (Entered: 05/27/2025)"
+        },
+        {
+          "row_number": 2,
+          "id": 9863571,
+          "entry_number": "11",
+          "date_filed": "2025-05-27T00:00:00-04:00",
+          "attachments": [],
+          "url": "https://www.courtlistener.com/docket/70031549/11/united-states-of-america-v-state-of-vermont/",
+          "recap_pdf_url": null,
+          "pacer_doc_id": "18502092757",
+          "description": "AFFIDAVIT of Service filed by United States Environmental Protection Agency, United States of America. Julie Moore served on 5/19/2025, answer due 6/9/2025(Cates, Redding) (Entered: 05/27/2025)"
+        },
+        {
+          "row_number": 3,
+          "id": 9863572,
+          "entry_number": "12",
+          "date_filed": "2025-05-27T00:00:00-04:00",
+          "attachments": [],
+          "url": "https://www.courtlistener.com/docket/70031549/12/united-states-of-america-v-state-of-vermont/",
+          "recap_pdf_url": null,
+          "pacer_doc_id": "18502092760",
+          "description": "AFFIDAVIT of Service filed by United States Environmental Protection Agency, United States of America. Philip Scott served on 5/19/2025, answer due 6/9/2025(Cates, Redding) (Entered: 05/27/2025)"
+        },
+        {
+          "row_number": 5,
+          "id": 9863574,
+          "entry_number": "14",
+          "date_filed": "2025-06-06T00:00:00-04:00",
+          "attachments": [],
+          "url": "https://www.courtlistener.com/docket/70031549/14/united-states-of-america-v-state-of-vermont/",
+          "recap_pdf_url": null,
+          "pacer_doc_id": "18502096409",
+          "description": "NOTICE OF APPEARANCE by Jonathan T. Rose, Esq on behalf of State of Vermont, Philip Scott, Julie Moore, Jane Lazorchak.(Rose, Jonathan) (Entered: 06/06/2025)"
+        },
+        {
+          "row_number": 7,
+          "id": 9863576,
+          "entry_number": "16",
+          "date_filed": "2025-06-06T00:00:00-04:00",
+          "attachments": [],
+          "url": "https://www.courtlistener.com/docket/70031549/16/united-states-of-america-v-state-of-vermont/",
+          "recap_pdf_url": null,
+          "pacer_doc_id": "18502096422",
+          "description": "NOTICE OF APPEARANCE by Hannah W. Yindra, Esq on behalf of State of Vermont, Philip Scott, Julie Moore, Jane Lazorchak.(Yindra, Hannah) (Entered: 06/06/2025)"
+        },
+        {
+          "row_number": 9,
+          "id": 9917827,
+          "entry_number": "18",
+          "date_filed": "2025-06-09T00:00:00-04:00",
+          "attachments": [],
+          "url": "https://www.courtlistener.com/docket/70031549/18/united-states-of-america-v-state-of-vermont/",
+          "recap_pdf_url": null,
+          "pacer_doc_id": null,
+          "description": "ORDER granting 17 Motion to Suspend Defendants' Deadline for Responding to Complaint until further order of the court. Proposed Stipulated Discovery Schedule due by 6/23/2025. Signed by District Judge Mary Kay Lanthier on 6/9/2025. (jlm) (Entered: 06/09/2025)"
+        },
+        {
+          "row_number": 13,
+          "id": 9988884,
+          "entry_number": "21",
+          "date_filed": "2025-06-20T00:00:00-04:00",
+          "attachments": [],
+          "url": "https://www.courtlistener.com/docket/70031549/21/united-states-of-america-v-state-of-vermont/",
+          "recap_pdf_url": null,
+          "pacer_doc_id": null,
+          "description": "ORDER granting 20 Stipulated Motion to Extend the Deadline for Submitting a Briefing Schedule. Proposed schedule shall be due no later than June 25, 2025. Signed by District Judge Mary Kay Lanthier on 6/20/2025. (This is a text-only Order.) (kap) (Entered: 06/20/2025)"
+        },
+        {
+          "row_number": 55,
+          "id": 10088781,
+          "entry_number": null,
+          "date_filed": "2025-07-11T00:00:00-04:00",
+          "attachments": [],
+          "url": "https://www.courtlistener.com",
+          "recap_pdf_url": null,
+          "pacer_doc_id": null,
+          "description": "Order on Motion for Admission Pro Hac Vice"
+        },
+        {
+          "row_number": 21,
+          "id": 10088782,
+          "entry_number": "29",
+          "date_filed": "2025-07-14T00:00:00-04:00",
+          "attachments": [],
+          "url": "https://www.courtlistener.com/docket/70031549/29/united-states-of-america-v-state-of-vermont/",
+          "recap_pdf_url": null,
+          "pacer_doc_id": "18502108445",
+          "description": "STIPULATED MOTION for Appearance Pro Hac Vice of Mitchell Bernard (Filing fee $ 150 receipt number AVTDC-2099653) filed by Northeast Organic Farming Association of Vermont, Conservation Law Foundation. (Attachments: # 1 Declaration of Mitchell S. Bernard, # 2 Certificate of Good Standing)(Asay, Bridget) Attachment descriptions clarified on 7/15/2025 (law). (Entered: 07/14/2025)"
+        },
+        {
+          "row_number": 25,
+          "id": 10256116,
+          "entry_number": "32",
+          "date_filed": "2025-07-24T00:00:00-04:00",
+          "attachments": null,
+          "url": "https://www.courtlistener.com/docket/70031549/32/united-states-of-america-v-state-of-vermont/",
+          "recap_pdf_url": null,
+          "pacer_doc_id": "18502112406",
+          "description": "NOTICE OF APPEARANCE by John K. Adams, Esq on behalf of United States of America, United States Environmental Protection Agency.(Adams, John) (Entered: 07/24/2025)"
+        },
+        {
+          "row_number": 29,
+          "id": 10256120,
+          "entry_number": "36",
+          "date_filed": "2025-08-21T00:00:00-04:00",
+          "attachments": null,
+          "url": "https://www.courtlistener.com/docket/70031549/36/united-states-of-america-v-state-of-vermont/",
+          "recap_pdf_url": null,
+          "pacer_doc_id": "18502122417",
+          "description": "NOTICE OF APPEARANCE by David K. Mears, Esq on behalf of Joseph Stiglitz et al.(Mears, David) (Entered: 08/21/2025)"
+        },
+        {
+          "row_number": 30,
+          "id": 10256121,
+          "entry_number": "37",
+          "date_filed": "2025-08-21T00:00:00-04:00",
+          "attachments": null,
+          "url": "https://www.courtlistener.com/docket/70031549/37/united-states-of-america-v-state-of-vermont/",
+          "recap_pdf_url": null,
+          "pacer_doc_id": "18502122430",
+          "description": "MOTION for Appearance Pro Hac Vice of Vivake Prasad (Filing fee $ 150 receipt number AVTDC-2115361) filed by Joseph Stiglitz et al (Attachments: # 1 Declaration of Vivake Prasad) (Mears, David) (Attachment 1 replaced and clarified and Additional attachment(s) added on 8/21/2025: # 2 Certificate of Good Standing) (sjl). (Entered: 08/21/2025)"
+        },
+        {
+          "row_number": 31,
+          "id": 10256122,
+          "entry_number": "38",
+          "date_filed": "2025-08-21T00:00:00-04:00",
+          "attachments": null,
+          "url": "https://www.courtlistener.com/docket/70031549/38/united-states-of-america-v-state-of-vermont/",
+          "recap_pdf_url": null,
+          "pacer_doc_id": "18502122436",
+          "description": "MOTION for Appearance Pro Hac Vice of Matthew Brinckerhoff (Filing fee $ 150 receipt number AVTDC-2115366) filed by Joseph Stiglitz et al (Attachments: # 1 Declaration of Matthew Brinckerhoff) (Mears, David) (Attachment 1 replaced and clarified and Additional attachment(s) added on 8/21/2025: # 2 Certificate of Good Standing) (sjl). (Entered: 08/21/2025)"
+        },
+        {
+          "row_number": 32,
+          "id": 10256123,
+          "entry_number": "39",
+          "date_filed": "2025-08-21T00:00:00-04:00",
+          "attachments": null,
+          "url": "https://www.courtlistener.com/docket/70031549/39/united-states-of-america-v-state-of-vermont/",
+          "recap_pdf_url": null,
+          "pacer_doc_id": "18502122442",
+          "description": "MOTION for Appearance Pro Hac Vice of Jonathan Abady (Filing fee $ 150 receipt number AVTDC-2115367) filed by Joseph Stiglitz et al (Attachments: # 1 Declaration of Jonathan Abady) (Mears, David) (Attachment 1 replaced and Additional attachment(s) added on 8/21/2025: # 2 Certificate of Good Standing) (sjl). (Entered: 08/21/2025)"
+        },
+        {
+          "row_number": 34,
+          "id": 10256124,
+          "entry_number": "40",
+          "date_filed": "2025-08-21T00:00:00-04:00",
+          "attachments": null,
+          "url": "https://www.courtlistener.com/docket/70031549/40/united-states-of-america-v-state-of-vermont/",
+          "recap_pdf_url": null,
+          "pacer_doc_id": "18502122446",
+          "description": "UNOPPOSED MOTION for Leave to File Amicus Brief filed by Joseph Stiglitz et al (Attachments: # 1 Amicus Brief)(Mears, David) Clarified text on 8/21/2025 (kp). (Entered: 08/21/2025)"
+        },
+        {
+          "row_number": 36,
+          "id": 10256126,
+          "entry_number": "42",
+          "date_filed": "2025-08-21T00:00:00-04:00",
+          "attachments": null,
+          "url": "https://www.courtlistener.com/docket/70031549/42/united-states-of-america-v-state-of-vermont/",
+          "recap_pdf_url": null,
+          "pacer_doc_id": "18502122551",
+          "description": "NOTICE OF DOCKET ENTRY CORRECTION re: 37 MOTION for Appearance Pro Hac Vice of Vivake Prasad, 38 MOTION for Appearance Pro Hac Vice of Matthew Brinckerhoff and 39 MOTION for Appearance Pro Hac Vice of Jonathan Abady. The Declarations and Certificates of Good Standing for each docket entry were uploaded as combined documents at the time of filing. Each Declaration and Certificate of Good Standing have been taken apart and are now attached to 37, 38, 39 and this entry as separate documents. (Attachments: # 1 Certificate of Good Standing (Prasad), # 2 Declaration of Matthew Brinckerhoff, # 3 Certificate of Good Standing (Brinkerhoff), # 4 Declaration of Jonathan Abady, # 5 Certificate of Good Standing (Abady)) (sjl) (Entered: 08/21/2025)"
+        },
+        {
+          "row_number": 37,
+          "id": 10256127,
+          "entry_number": "43",
+          "date_filed": "2025-08-22T00:00:00-04:00",
+          "attachments": null,
+          "url": "https://www.courtlistener.com/docket/70031549/43/united-states-of-america-v-state-of-vermont/",
+          "recap_pdf_url": "https://www.courtlistener.com/recap/gov.uscourts.vtd.39462/gov.uscourts.vtd.39462.43.0.pdf",
+          "pacer_doc_id": "18502122834",
+          "description": "MOTION to Dismiss Case for Lack of Jurisdiction and Failure to State a Claim with Request for Oral Argument/Hearing filed by Northeast Organic Farming Association of Vermont, Conservation Law Foundation (Attachments: # 1 Memorandum in Support, # 2 Declaration of Addie Rolnick)(Asay, Bridget) Text clarified on 8/22/2025 (kp). (Entered: 08/22/2025)"
+        },
+        {
+          "row_number": 38,
+          "id": 10256128,
+          "entry_number": "44",
+          "date_filed": "2025-08-25T00:00:00-04:00",
+          "attachments": null,
+          "url": "https://www.courtlistener.com/docket/70031549/44/united-states-of-america-v-state-of-vermont/",
+          "recap_pdf_url": null,
+          "pacer_doc_id": null,
+          "description": "ORDER granting 37 Motion for Appearance Pro Hac Vice of Vivake Prasad. Signed by District Judge Mary Kay Lanthier on 8/25/2025. (This is a text-only Order.) (kap) (Entered: 08/25/2025)"
+        },
+        {
+          "row_number": 12,
+          "id": 9988882,
+          "entry_number": "20",
+          "date_filed": "2025-06-20T00:00:00-04:00",
+          "attachments": [],
+          "url": "https://www.courtlistener.com/docket/70031549/20/united-states-of-america-v-state-of-vermont/",
+          "recap_pdf_url": "https://www.courtlistener.com/recap/gov.uscourts.vtd.39462/gov.uscourts.vtd.39462.20.0.pdf",
+          "pacer_doc_id": "18502100594",
+          "description": "STIPULATED MOTION to Extend the Deadline for Submitting a Briefing Schedule filed by State of Vermont, Philip Scott, Julie Moore, Jane Lazorchak(Rose, Jonathan) (Entered: 06/20/2025)"
+        },
+        {
+          "row_number": 15,
+          "id": 10088775,
+          "entry_number": "23",
+          "date_filed": "2025-06-30T00:00:00-04:00",
+          "attachments": [],
+          "url": "https://www.courtlistener.com/docket/70031549/23/united-states-of-america-v-state-of-vermont/",
+          "recap_pdf_url": "https://www.courtlistener.com/recap/gov.uscourts.vtd.39462/gov.uscourts.vtd.39462.23.0.pdf",
+          "pacer_doc_id": "18502103572",
+          "description": "ORDER granting 22 Motion to Set Briefing Schedule. Defendants shall file responsive pleading by 8/15/2025, response due by 9/15/2025, reply due by 11/17/2025. The proposed stipulated discovery schedule is due 14 days after any decision made pursuant to this scheduling order. Signed by District Judge Mary Kay Lanthier on 6/27/2025. (jlm) (Entered: 06/30/2025)"
+        },
+        {
+          "row_number": 19,
+          "id": 10088779,
+          "entry_number": "27",
+          "date_filed": "2025-07-10T00:00:00-04:00",
+          "attachments": [],
+          "url": "https://www.courtlistener.com/docket/70031549/27/united-states-of-america-v-state-of-vermont/",
+          "recap_pdf_url": null,
+          "pacer_doc_id": "18502107551",
+          "description": "NOTICE OF APPEARANCE by Elena M. Mihaly, Esq on behalf of Conservation Law Foundation.(Mihaly, Elena) (Entered: 07/10/2025)"
+        },
+        {
+          "row_number": 23,
+          "id": 10088783,
+          "entry_number": "30",
+          "date_filed": "2025-07-16T00:00:00-04:00",
+          "attachments": [],
+          "url": "https://www.courtlistener.com/docket/70031549/30/united-states-of-america-v-state-of-vermont/",
+          "recap_pdf_url": null,
+          "pacer_doc_id": null,
+          "description": "ORDER granting 29 Stipulated Motion for Appearance Pro Hac Vice of Mitchell Bernard. Signed by District Judge Mary Kay Lanthier on 7/16/2025. (This is a text-only Order.) (kap) (Entered: 07/16/2025)"
+        },
+        {
+          "row_number": 41,
+          "id": 10256131,
+          "entry_number": "47",
+          "date_filed": "2025-08-25T00:00:00-04:00",
+          "attachments": null,
+          "url": "https://www.courtlistener.com/docket/70031549/47/united-states-of-america-v-state-of-vermont/",
+          "recap_pdf_url": null,
+          "pacer_doc_id": "18502123225",
+          "description": "ORDER granting 40 UNOPPOSED MOTION for Leave to File Amicus Brief. Amici shall file their brief within three days. Signed by District Judge Mary Kay Lanthier on 8/25/2025. (kp) (Entered: 08/25/2025)"
+        },
+        {
+          "row_number": 45,
+          "id": 10371129,
+          "entry_number": "50",
+          "date_filed": "2025-09-15T00:00:00-04:00",
+          "attachments": null,
+          "url": "https://www.courtlistener.com/docket/70031549/50/united-states-of-america-v-state-of-vermont/",
+          "recap_pdf_url": "https://www.courtlistener.com/recap/gov.uscourts.vtd.39462/gov.uscourts.vtd.39462.50.0.pdf",
+          "pacer_doc_id": "18502129993",
+          "description": "MOTION for Summary Judgment with Request for Oral Argument/Hearing filed by United States of America, United States Environmental Protection Agency (Attachments: # 1 Memorandum in Support, # 2 Statement of Undisputed Facts, # 3 Declaration of Deputy Secretary of State Christopher Landau)(Walters, Riley) (Entered: 09/15/2025)"
+        },
+        {
+          "row_number": 42,
+          "id": 10256132,
+          "entry_number": "48",
+          "date_filed": "2025-08-26T00:00:00-04:00",
+          "attachments": null,
+          "url": "https://www.courtlistener.com/docket/70031549/48/united-states-of-america-v-state-of-vermont/",
+          "recap_pdf_url": "https://www.courtlistener.com/recap/gov.uscourts.vtd.39462/gov.uscourts.vtd.39462.48.0.pdf",
+          "pacer_doc_id": "18502123519",
+          "description": "MEMORANDUM by Joseph Stiglitz et al Amicus Brief re: 35 MOTION to Dismiss Case for Lack of Jurisdiction and for Failure to State a Claim with Request for Oral Argument/Hearing, 43 MOTION to Dismiss Case for Lack of Jurisdiction and Failure to State a Claim (Mears, David) (Entered: 08/26/2025)"
+        },
+        {
+          "row_number": 50,
+          "id": 9795162,
+          "entry_number": "9",
+          "date_filed": "2025-05-14T00:00:00-04:00",
+          "attachments": [],
+          "url": "https://www.courtlistener.com/docket/70031549/9/united-states-of-america-v-state-of-vermont/",
+          "recap_pdf_url": null,
+          "pacer_doc_id": "18502088634",
+          "description": "ISSUED Summons as to Jane Lazorchak. (kp) (Entered: 05/14/2025)"
+        },
+        {
+          "row_number": 16,
+          "id": 10088776,
+          "entry_number": "24",
+          "date_filed": "2025-07-09T00:00:00-04:00",
+          "attachments": [
+            {
+              "recap_id": 445206173,
+              "pacer_url": "https://ecf.vtd.uscourts.gov/doc1/18502106908?caseid=39462",
+              "description": "Index of Exhibits",
+              "attachment_number": 1
+            },
+            {
+              "recap_id": 445206174,
+              "pacer_url": "https://ecf.vtd.uscourts.gov/doc1/18502106909?caseid=39462",
+              "description": "Corporate Disclosure Statement",
+              "attachment_number": 2
+            },
+            {
+              "recap_id": 445206175,
+              "pacer_url": "https://ecf.vtd.uscourts.gov/doc1/18502106910?caseid=39462",
+              "description": "Declaration of Oedel",
+              "attachment_number": 3
+            },
+            {
+              "recap_id": 445206176,
+              "pacer_url": "https://ecf.vtd.uscourts.gov/doc1/18502106911?caseid=39462",
+              "description": "Declaration of Jones",
+              "attachment_number": 4
+            },
+            {
+              "recap_id": 445206177,
+              "pacer_url": "https://ecf.vtd.uscourts.gov/doc1/18502106912?caseid=39462",
+              "description": "Declaration of Daly",
+              "attachment_number": 5
+            },
+            {
+              "recap_id": 445206178,
+              "pacer_url": "https://ecf.vtd.uscourts.gov/doc1/18502106913?caseid=39462",
+              "description": "Declaration of Bissex",
+              "attachment_number": 6
+            },
+            {
+              "recap_id": 445206179,
+              "pacer_url": "https://ecf.vtd.uscourts.gov/doc1/18502106914?caseid=39462",
+              "description": "Declaration of Hamilton",
+              "attachment_number": 7
+            },
+            {
+              "recap_id": 445206180,
+              "pacer_url": "https://ecf.vtd.uscourts.gov/doc1/18502106915?caseid=39462",
+              "description": "Declaration of Malgeri",
+              "attachment_number": 8
+            },
+            {
+              "recap_id": 445206181,
+              "pacer_url": "https://ecf.vtd.uscourts.gov/doc1/18502106916?caseid=39462",
+              "description": "Declaration of Palmer",
+              "attachment_number": 9
+            },
+            {
+              "recap_id": 445206182,
+              "pacer_url": "https://ecf.vtd.uscourts.gov/doc1/18502106917?caseid=39462",
+              "description": "Declaration of Trautz",
+              "attachment_number": 10
+            }
+          ],
+          "url": "https://www.courtlistener.com/docket/70031549/24/united-states-of-america-v-state-of-vermont/",
+          "recap_pdf_url": "https://www.courtlistener.com/recap/gov.uscourts.vtd.39462/gov.uscourts.vtd.39462.24.0.pdf",
+          "pacer_doc_id": "18502106907",
+          "description": "MOTION to Intervene filed by Northeast Organic Farming Association of Vermont, Conservation Law Foundation. (Attachments: # 1 Index of Exhibits, # 2 Exhibit A, # 3 Exhibit B, # 4 Exhibit C, # 5 Exhibit D, # 6 Exhibit E, # 7 Exhibit F, # 8 Exhibit G, # 9 Exhibit H, # 10 Exhibit I)(Asay, Bridget) Filer added and description attachments clarified on 7/10/2025 (law). (Entered: 07/09/2025)"
+        },
+        {
+          "row_number": 17,
+          "id": 10088777,
+          "entry_number": "25",
+          "date_filed": "2025-07-09T00:00:00-04:00",
+          "attachments": [],
+          "url": "https://www.courtlistener.com/docket/70031549/25/united-states-of-america-v-state-of-vermont/",
+          "recap_pdf_url": null,
+          "pacer_doc_id": "18502106920",
+          "description": "STIPULATED MOTION for Appearance Pro Hac Vice of Adeline Rolnick (Filing fee $ 150 receipt number AVTDC-2098039) filed by Northeast Organic Farming Association of Vermont (Attachments: # 1 Declaration of Rolnick, # 2 Certificate of Good Standing) (Asay, Bridget) Modified on 7/10/2025 to clarify text (sjl). (Entered: 07/09/2025)"
+        },
+        {
+          "row_number": 35,
+          "id": 10256125,
+          "entry_number": "41",
+          "date_filed": "2025-08-21T00:00:00-04:00",
+          "attachments": null,
+          "url": "https://www.courtlistener.com/docket/70031549/41/united-states-of-america-v-state-of-vermont/",
+          "recap_pdf_url": "https://www.courtlistener.com/recap/gov.uscourts.vtd.39462/gov.uscourts.vtd.39462.41.0.pdf",
+          "pacer_doc_id": "18502122450",
+          "description": "PROPOSED Order re 40 UNOPPOSED MOTION for Leave to File Amicus Brief by Joseph Stiglitz et al (Mears, David) Clarified text on 8/21/2025 (kp). (Entered: 08/21/2025)"
+        },
+        {
+          "row_number": 46,
+          "id": 10371130,
+          "entry_number": "51",
+          "date_filed": "2025-10-03T00:00:00-04:00",
+          "attachments": null,
+          "url": "https://www.courtlistener.com/docket/70031549/51/united-states-of-america-v-state-of-vermont/",
+          "recap_pdf_url": "https://www.courtlistener.com/recap/gov.uscourts.vtd.39462/gov.uscourts.vtd.39462.51.0.pdf",
+          "pacer_doc_id": "18502137988",
+          "description": "ADMINISTRATIVE ORDER: stay of civil proceedings involving the United States in light of lapse in appropriations; all filing and discovery deadlines imposed on the United States shall be extended by the number of days equal to the length (in days) of the lapse of appropriations plus 10 days; if provided lapse is 7 days or fewer, such extension shall be the number of days equal to the length (in days) of the lapse of appropriations plus 5 days. Signed by Chief District Judge Christina Reiss on 10/3/2025. (law) (Entered: 10/09/2025)"
+        },
+        {
+          "row_number": 52,
+          "id": 9721166,
+          "entry_number": null,
+          "date_filed": "2025-05-01T00:00:00-04:00",
+          "attachments": [],
+          "url": "https://www.courtlistener.com",
+          "recap_pdf_url": null,
+          "pacer_doc_id": null,
+          "description": "Case assigned to Judge Mary Kay Lanthier. (kac)"
+        },
+        {
+          "row_number": 53,
+          "id": 9917828,
+          "entry_number": null,
+          "date_filed": "2025-06-09T00:00:00-04:00",
+          "attachments": [],
+          "url": "https://www.courtlistener.com",
+          "recap_pdf_url": null,
+          "pacer_doc_id": null,
+          "description": "Order on Motion for Miscellaneous Relief"
+        },
+        {
+          "row_number": 22,
+          "id": 9721168,
+          "entry_number": "3",
+          "date_filed": "2025-05-13T00:00:00-04:00",
+          "attachments": [],
+          "url": "https://www.courtlistener.com/docket/70031549/3/united-states-of-america-v-state-of-vermont/",
+          "recap_pdf_url": null,
+          "pacer_doc_id": "18502088388",
+          "description": "REQUEST for Issuance of Summons as to Philip Scott by United States of America, United States Environmental Protection Agency (Cates, Redding) (Entered: 05/13/2025)"
+        },
+        {
+          "row_number": 48,
+          "id": 9795160,
+          "entry_number": "7",
+          "date_filed": "2025-05-14T00:00:00-04:00",
+          "attachments": [],
+          "url": "https://www.courtlistener.com/docket/70031549/7/united-states-of-america-v-state-of-vermont/",
+          "recap_pdf_url": null,
+          "pacer_doc_id": "18502088628",
+          "description": "ISSUED Summons as to Philip Scott. (kp) (Entered: 05/14/2025)"
+        },
+        {
+          "row_number": 4,
+          "id": 9863573,
+          "entry_number": "13",
+          "date_filed": "2025-05-27T00:00:00-04:00",
+          "attachments": [],
+          "url": "https://www.courtlistener.com/docket/70031549/13/united-states-of-america-v-state-of-vermont/",
+          "recap_pdf_url": null,
+          "pacer_doc_id": "18502092763",
+          "description": "AFFIDAVIT of Service filed by United States Environmental Protection Agency, United States of America. Jane Lazorchak served on 5/19/2025, answer due 6/9/2025(Cates, Redding) (Entered: 05/27/2025)"
+        },
+        {
+          "row_number": 6,
+          "id": 9863575,
+          "entry_number": "15",
+          "date_filed": "2025-06-06T00:00:00-04:00",
+          "attachments": [],
+          "url": "https://www.courtlistener.com/docket/70031549/15/united-states-of-america-v-state-of-vermont/",
+          "recap_pdf_url": null,
+          "pacer_doc_id": "18502096417",
+          "description": "NOTICE OF APPEARANCE by Laura B. Murphy, Esq on behalf of State of Vermont, Philip Scott, Julie Moore, Jane Lazorchak.(Murphy, Laura) (Entered: 06/06/2025)"
+        },
+        {
+          "row_number": 18,
+          "id": 10088778,
+          "entry_number": "26",
+          "date_filed": "2025-07-10T00:00:00-04:00",
+          "attachments": [],
+          "url": "https://www.courtlistener.com/docket/70031549/26/united-states-of-america-v-state-of-vermont/",
+          "recap_pdf_url": null,
+          "pacer_doc_id": "18502107535",
+          "description": "NOTICE OF APPEARANCE by Elena M. Mihaly, Esq on behalf of Conservation Law Foundation.(Mihaly, Elena) (Entered: 07/10/2025)"
+        },
+        {
+          "row_number": 20,
+          "id": 10088780,
+          "entry_number": "28",
+          "date_filed": "2025-07-11T00:00:00-04:00",
+          "attachments": [],
+          "url": "https://www.courtlistener.com/docket/70031549/28/united-states-of-america-v-state-of-vermont/",
+          "recap_pdf_url": null,
+          "pacer_doc_id": null,
+          "description": "ORDER granting 25 Motion for Admission Pro Hac Vice of Adeline S. Rolnick, Esq. Signed by District Judge Mary Kay Lanthier on 7/11/2025. (This is a text-only Order.) (jlm) (Entered: 07/11/2025)"
+        },
+        {
+          "row_number": 28,
+          "id": 10256119,
+          "entry_number": "35",
+          "date_filed": "2025-08-15T00:00:00-04:00",
+          "attachments": null,
+          "url": "https://www.courtlistener.com/docket/70031549/35/united-states-of-america-v-state-of-vermont/",
+          "recap_pdf_url": null,
+          "pacer_doc_id": "18502120393",
+          "description": "MOTION to Dismiss Case for Lack of Jurisdiction and for Failure to State a Claim with Request for Oral Argument/Hearing filed by State of Vermont, Philip Scott, Julie Moore, Jane Lazorchak (Attachments: # 1 Memorandum in Support, # 2 Index of Exhibits, # 3 Exhibit A, # 4 Exhibit B, # 5 Exhibit C, # 6 Exhibit D, # 7 Exhibit E, # 8 Exhibit F, # 9 Exhibit G, # 10 Exhibit H, # 11 Exhibit I, # 12 Exhibit J, # 13 Exhibit K, # 14 Exhibit L, # 15 Exhibit M - Part 1 of 3, # 16 Exhibit M - Part 2 of 3, # 17 Exhibit M - Part 3 of 3, # 18 Exhibit N, # 19 Exhibit O, # 20 Exhibit P, # 21 Exhibit Q, # 22 Exhibit R, # 23 Exhibit S - Part 1 of 2, # 24 Exhibit S - Part 2 of 2, # 25 Exhibit T, # 26 Exhibit U, # 27 Exhibit V, # 28 Exhibit W, # 29 Exhibit X)(Rose, Jonathan) Clarified text on 8/18/2025 (kp). Clarified text on 8/20/2025 (kp). (Entered: 08/15/2025)"
+        },
+        {
+          "row_number": 40,
+          "id": 10256130,
+          "entry_number": "46",
+          "date_filed": "2025-08-25T00:00:00-04:00",
+          "attachments": null,
+          "url": "https://www.courtlistener.com/docket/70031549/46/united-states-of-america-v-state-of-vermont/",
+          "recap_pdf_url": null,
+          "pacer_doc_id": null,
+          "description": "ORDER granting 39 Motion for Appearance Pro Hac Vice of Jonathan Abady. Signed by District Judge Mary Kay Lanthier on 8/25/2025. (This is a text-only Order.) (kap) (Entered: 08/25/2025)"
+        },
+        {
+          "row_number": 57,
+          "id": 10265219,
+          "entry_number": null,
+          "date_filed": "2025-08-25T00:00:00-04:00",
+          "attachments": null,
+          "url": "https://www.courtlistener.com",
+          "recap_pdf_url": null,
+          "pacer_doc_id": null,
+          "description": "Order on Motion for Admission Pro Hac Vice"
+        },
+        {
+          "row_number": 26,
+          "id": 10256117,
+          "entry_number": "33",
+          "date_filed": "2025-07-29T00:00:00-04:00",
+          "attachments": null,
+          "url": "https://www.courtlistener.com/docket/70031549/33/united-states-of-america-v-state-of-vermont/",
+          "recap_pdf_url": "https://www.courtlistener.com/recap/gov.uscourts.vtd.39462/gov.uscourts.vtd.39462.33.0.pdf",
+          "pacer_doc_id": "18502113745",
+          "description": "REPLY to Response to 24 MOTION to Intervene filed by Northeast Organic Farming Association of Vermont, Conservation Law Foundation. (Asay, Bridget) (Entered: 07/29/2025)"
+        },
+        {
+          "row_number": 0,
+          "id": 9721164,
+          "entry_number": "1",
+          "date_filed": "2025-05-01T00:00:00-04:00",
+          "attachments": [
+            {
+              "recap_id": 438216412,
+              "pacer_url": "https://ecf.vtd.uscourts.gov/doc1/18502084393?caseid=39462",
+              "description": "Civil Cover Sheet",
+              "attachment_number": 1
+            }
+          ],
+          "url": "https://www.courtlistener.com/docket/70031549/1/united-states-of-america-v-state-of-vermont/",
+          "recap_pdf_url": "https://www.courtlistener.com/recap/gov.uscourts.vtd.39462/gov.uscourts.vtd.39462.1.0.pdf",
+          "pacer_doc_id": "18502084392",
+          "description": "COMPLAINT for Declaratory and Injunctive Relief against All Defendants filed by United States Environmental Protection Agency, United States of America. (Attachments: # 1 Civil Cover Sheet)(Cates, Redding) (Entered: 05/01/2025)"
+        },
+        {
+          "row_number": 8,
+          "id": 9863577,
+          "entry_number": "17",
+          "date_filed": "2025-06-06T00:00:00-04:00",
+          "attachments": [],
+          "url": "https://www.courtlistener.com/docket/70031549/17/united-states-of-america-v-state-of-vermont/",
+          "recap_pdf_url": "https://www.courtlistener.com/recap/gov.uscourts.vtd.39462/gov.uscourts.vtd.39462.17.0.pdf",
+          "pacer_doc_id": "18502096428",
+          "description": "STIPULATED MOTION to Suspend Defendants' Deadline for Responding to the Complaint filed by State of Vermont, Philip Scott, Julie Moore, Jane Lazorchak(Rose, Jonathan) (Entered: 06/06/2025)"
+        },
+        {
+          "row_number": 14,
+          "id": 9988885,
+          "entry_number": "22",
+          "date_filed": "2025-06-25T00:00:00-04:00",
+          "attachments": [],
+          "url": "https://www.courtlistener.com/docket/70031549/22/united-states-of-america-v-state-of-vermont/",
+          "recap_pdf_url": "https://www.courtlistener.com/recap/gov.uscourts.vtd.39462/gov.uscourts.vtd.39462.22.0.pdf",
+          "pacer_doc_id": "18502101980",
+          "description": "STIPULATED MOTION Set Briefing Schedule filed by Philip Scott, Jane Lazorchak(Rose, Jonathan) (Entered: 06/25/2025)"
+        },
+        {
+          "row_number": 27,
+          "id": 10256118,
+          "entry_number": "34",
+          "date_filed": "2025-08-08T00:00:00-04:00",
+          "attachments": null,
+          "url": "https://www.courtlistener.com/docket/70031549/34/united-states-of-america-v-state-of-vermont/",
+          "recap_pdf_url": "https://www.courtlistener.com/recap/gov.uscourts.vtd.39462/gov.uscourts.vtd.39462.34.0.pdf",
+          "pacer_doc_id": "18502117938",
+          "description": "ORDER granting 24 Motion to Intervene by Northeast Organic Farming Association of Vermont and Conservation Law Foundation. Signed by District Judge Mary Kay Lanthier on 8/8/2025. (jlm) (Entered: 08/08/2025)"
+        },
+        {
+          "row_number": 24,
+          "id": 10201000,
+          "entry_number": "31",
+          "date_filed": "2025-07-23T00:00:00-04:00",
+          "attachments": [],
+          "url": "https://www.courtlistener.com/docket/70031549/31/united-states-of-america-v-state-of-vermont/",
+          "recap_pdf_url": "https://www.courtlistener.com/recap/gov.uscourts.vtd.39462/gov.uscourts.vtd.39462.31.0.pdf",
+          "pacer_doc_id": "18502111728",
+          "description": "RESPONSE in Opposition re 24 MOTION to Intervene filed by United States of America, United States Environmental Protection Agency. (Walters, Riley) (Entered: 07/23/2025)"
+        },
+        {
+          "row_number": 39,
+          "id": 10256129,
+          "entry_number": "45",
+          "date_filed": "2025-08-25T00:00:00-04:00",
+          "attachments": null,
+          "url": "https://www.courtlistener.com/docket/70031549/45/united-states-of-america-v-state-of-vermont/",
+          "recap_pdf_url": null,
+          "pacer_doc_id": null,
+          "description": "ORDER granting 38 Motion for Appearance Pro Hac Vice of Matthew Brinckerhoff. Signed by District Judge Mary Kay Lanthier on 8/25/2025. (This is a text-only Order.) (kap) (Entered: 08/25/2025)"
+        }
+      ],
+      "docket_case_type": "cv",
+      "docket_year": 2025,
+      "docket_filing_number": 463,
+      "is_main_docket": true,
+      "court": "District of Vermont",
+      "state": "Vermont",
+      "docket_office_number": "2",
+      "docket_number_manual": "2:25-cv-00463",
+      "scales_html": null,
+      "recap_link": "https://www.courtlistener.com/docket/70031549/united-states-of-america-v-state-of-vermont/",
+      "is_active": true
+    },
+    "name": "United States of America v. State of Vermont",
+    "never_filed": false,
+    "non_docket_case_number": "",
+    "non_docket_case_number_type": null,
+    "non_docket_case_number_type_other": "",
+    "order_end_year": null,
+    "order_start_year": null,
+    "permanent_injunction": false,
+    "plaintiff_description": "United States and the Environmental Protection Agency",
+    "plaintiff_type": [],
+    "prevailing_party": "None Yet / None",
+    "pro_se_status": "No",
+    "public_interest_lawyer": "Yes",
+    "related_cases": [],
+    "relief_natures": [
+      "None yet"
+    ],
+    "relief_nature_other": "",
+    "relief_sources": [
+      "None yet"
+    ],
+    "settlement_agreement": [],
+    "settlement_judgment_date": null,
+    "settlement_judgment_year": null,
+    "special_collections": [
+      "Trump Administration 2.0: Litigation and Investigations Involving the Government"
+    ],
+    "special_case_type": [],
+    "state": "Vermont",
+    "summary": "<p>This case is about the State of Vermont's Climate Superfund Act (State Act) which aims to hold fossil fuel businesses liable for climate change adaptation projects. The State Act imposes retroactive, strict liability on companies that have extracted or refined over one billion metric tons of greenhouse gases worldwide.&nbsp;</p>\r\n<p>On May 1, 2025, the United States filed this lawsuit in the U.S. District Court for the District of Vermont. The Plaintiffs, the United States and the Environmental Protection Agency, sued the State of Vermont, Governor Philip Scott, the Secretary of the Vermont Agency of Natural Resources, and the Director of the Vermont Agency of Natural Resources Climate Action Office (Defendants). The Trump Administration alleged that the Clean Air Act preempted the State Act, infringed on the federal government's exclusive authority over interstate and foreign commerce, and encroached on the federal government's role in foreign affairs. Judge Mary Kay Lanthier was assigned to the case.&nbsp;</p>\r\n<p>The Plaintiffs alleged that the State Act attempted to usurp federal power by regulating national and global greenhouse gas emissions. Plaintiffs argued that the Clean Air Act preempted the State Act, exceeded Vermont's territorial reach, and interfered with the federal government's exclusive authority over interstate and foreign commerce and foreign affairs. To support these claims, the complaint emphasized that the Clean Air Act established a comprehensive framework for regulating air pollution, delegating authority to the EPA to set nationwide standards for greenhouse gases. The Plaintiffs further underscored the federal government's active role in international climate change initiatives, such as the United Nations Framework Convention on Climate Change, as evidence that foreign affairs powers were reserved exclusively to the federal government.</p>\r\n<p>On July 9, 2025, the Northeast Organic Farming Association of Vermont and the Conservation Law Foundation filed a motion for permissive intervention, seeking to join the case as Defendants. The motion noted that a similar motion had been granted in a companion case, Chamber of Commerce v. Moore, which also challenged the State Act. On August 8, 2025, the motion to intervene was granted by Judge Lanthier.</p>\r\n<p>On August 15, 2025, Vermont and associated heads of state agencies filed a motion to dismiss for lack of jurisdiction and failure to state a claim. On August 22, 2025, Northeast Organic Farming Association filed a similar motion.</p>\r\n<p>On September 15, 2025, Defendants filed a motion for summary judgment. In addition to requesting the court grant the motion, Plaintiffs also asked the court to declare the State Act unconstitutional and permanently enjoin Defendants from taking any actions to implement the State Act.</p>\r\n<p>This case is ongoing.&nbsp;</p>",
+    "summary_published_date": "2025-10-04T16:07:22.681152-04:00",
+    "summary_short": "This case is about Vermont’s Climate Superfund Act, a law that makes big fossil fuel companies pay for projects to help the state handle climate change. The law says companies that have released more than a billion metric tons of greenhouse gases worldwide should help pay for fixing the damage.\r\n\r\nOn May 1, 2025, the United States and the Environmental Protection Agency took Vermont and its leaders to court. They said that Vermont’s law should not be allowed because only the federal government, not states, can make rules about pollution that affects the whole country or other countries. They talked about the Clean Air Act, a federal law that lets the EPA set pollution rules for the entire country, and said that Vermont’s law goes too far.\r\n\r\nLater, two organizations, the Northeast Organic Farming Association of Vermont and the Conservation Law Foundation, joined the case to help defend the Vermont law. Vermont and the new groups asked the judge to dismiss the case. In September, the United States and Environmental Protection Agency filed a motion for summary judgment, asking the judge to say Vermont’s law is unconstitutional and should not be enforced. The case is still going on.",
+    "summary_tiny": null,
+    "terminating_date": null,
+    "clearinghouse_link": "clearinghouse.net/case/46523",
+    "is_active": true,
+    "case_documents_url": "https://clearinghouse.net/api/v2/documents/?case=46523",
+    "case_dockets_url": "https://clearinghouse.net/api/v2/dockets/?case=46523",
+    "case_resources_url": "https://clearinghouse.net/api/v2/resources/?case=46523"
+  },
+  "documents": [
+    {
+      "date": "2025-05-01",
+      "date_is_estimate": false,
+      "date_not_available": false,
+      "description": "",
+      "document_source": "RECAP",
+      "document_status": "Coding Complete",
+      "document_type": "Complaint",
+      "order_type": null,
+      "citation_paren": null,
+      "cite_1_page": null,
+      "cite_1_reporter": null,
+      "cite_1_vol": null,
+      "cite_2_page": null,
+      "cite_2_reporter": null,
+      "cite_2_vol": null,
+      "cite_3_page": null,
+      "cite_3_reporter": null,
+      "cite_3_vol": null,
+      "citation_status": "Not applicable",
+      "court": "District of Vermont",
+      "no_title": false,
+      "party_types": [
+        "Plaintiff"
+      ],
+      "per_curium": false,
+      "is_core_document": true,
+      "id": 159790,
+      "file": "https://clearinghouse-umich-production.s3.amazonaws.com/media/doc/159790.pdf",
+      "title": "Complaint for Declaratory and Injunctive Relief",
+      "text": "2:25-cv-00463-mkl     Document 1     Filed 05/01/25     Page 1 of 28\nUNITED STATES DISTRICT COURT \nFOR THE DISTRICT OF VERMONT \n__________________________________________           \n              ) \nUNITED STATES OF AMERICA and UNITED  ) \nSTATES ENVIRONMENTAL PROTECTION  ) \nAGENCY,             ) \n)           \n      Plaintiffs,      )    \n          ) \nv.          )   \n              ) \nSTATE OF VERMONT; PHILIP SCOTT, in his   ) \nofficial capacity as Governor of Vermont;     )     Civil Action No. 2:25-cv-463 \nJULIE MOORE, in her official capacity as the   ) \nSecretary of the Vermont Agency of Natural   )   \nResources; and JANE LAZORCHAK, in her   )   \nofficial capacity as the Director of the Vermont   ) \nAgency of Natural Resources Climate Action   ) \nOffice,             )                \n              ) \nDefendants.      )   \n__________________________________________) \n \nCOMPLAINT FOR DECLARATORY AND INJUNCTIVE RELIEF \n \nPlaintiffs United States of America and U.S. Environmental Protection Agency bring this \ncivil action against Defendants and allege as follows: \nINTRODUCTION \n \n1.  The United States is facing an energy crisis. Overly restrictive policies and \nregulation have caused inadequate development of America’s abundant energy resources. Yet \n“[a]n affordable and reliable domestic energy supply is essential to the national and economic \nsecurity of the United States, as well as our foreign policy.” Protecting American Energy From \nState Overreach, Exec. Order No. 14260, § 1, 90 Fed. Reg. 15,513 (Apr. 8, 2025).  \n2.  As a result, on January 20, 2025, President Trump declared an energy emergency, \nconcluding that the United States’ “insufficient energy production, transportation, refining, and \n\n2:25-cv-00463-mkl     Document 1     Filed 05/01/25     Page 2 of 28\n \ngeneration constitutes an unusual and extraordinary threat to our Nation’s economy, national \nsecurity, and foreign policy.” Declaring a National Energy Emergency, Exec. Order 14156, § 1, \n90 Fed. Reg. 8,433 (Jan. 20, 2025).  \n3.  These problems are “most pronounced in our Nation’s Northeast and West Coast, \nwhere dangerous State and local policies jeopardize our Nation’s core national defense and \nsecurity needs, and devastate the prosperity of not only local residents but the entire United \nStates population.” Id. Because of state restrictions and burdens on energy production, the \nAmerican people are paying more for energy, and the United States is less able to defend itself \nfrom hostile foreign actors. Id. \n4.  At a time when States should be contributing to a national effort to secure reliable \nsources of domestic energy, Vermont has chosen to stand in the way. In May 2024, Vermont \nenacted its so-called “Climate Superfund Act,” S.259, VT. STAT. ANN. tit. 10, §§ 596-599c, \n8003(33) (2024) (the “Superfund Act”). Vermont’s Superfund Act imposes retroactive strict \nliability and extraordinary monetary penalties on businesses that extracted and refined fossil \nfuels worldwide during the period from 1995 through 2024. VT. STAT. ANN. tit. 10, § 596(8), \n(22); id. § 598(a)(1). By purporting to regulate the effect of greenhouse gas emissions on climate \nchange, the Act necessarily reaches far beyond the State of Vermont. The Superfund Act \npurports to regulate nationwide airspace and indeed the entire globe.   \n5.  The Superfund Act is a transparent monetary-extraction scheme.  On its face, the \nstatute purports to build a multibillion-dollar nest egg to fund “climate change adaptation \nprojects” within the State, paid for by out-of-state businesses. And this cost will not be borne \nsolely by the out-of-state entities subject to the Superfund Act but also by ordinary Americans \nfrom coast to coast, individuals around the world, and in part directly by the United States \n2 \n \n\n2:25-cv-00463-mkl     Document 1     Filed 05/01/25     Page 3 of 28\n \nTreasury, which receives royalties from oil leases overseen by the Department of the Interior and \nthe Bureau of Land Management. \n6.  Vermont’s Superfund Act attempts to usurp the power of the federal government \nby regulating national and global emissions of greenhouse gases, violating federal law in \nmultiple ways. See City of New York v. Chevron Corp., 993 F.3d 81, 92 (2d Cir. 2021) (holding \nthat the regulation of global greenhouse gas emissions “is simply beyond the limits of state \nlaw”). The Superfund Act is preempted by the Clean Air Act, exceeds the territorial reach of \nVermont’s legislative power, unlawfully discriminates against interstate commerce, conflicts \nwith federal interstate commerce power, and is preempted by federal foreign-affairs powers.   \n7.  The Superfund Act is a brazen attempt to grab power from the federal government \nand force citizens of other States and nations to foot the bill for Vermont’s infrastructure wish \nlist. Along the way, the Superfund Act intrudes on, and interferes with, the federal government’s \nexclusive role in foreign affairs, which includes sensitive policy questions encompassing \nenvironmental concerns, economic and trade policies, and national security. This Nation’s \nConstitution and laws do not tolerate this interference. \nJURISDICTION AND VENUE \n \n8.  This Court has jurisdiction under 28 U.S.C. §§ 1331 and 1345. \n9.  This Court has authority to provide the relief requested under the U.S. \nConstitution, 28 U.S.C. §§ 1651, 2201, and 2202, and its inherent legal and equitable powers. \n10.  The United States has standing to vindicate its sovereign, proprietary, and parens \npatriae interests. E.g., Arizona v. United States, 567 U.S. 387 (2012). The United States’ \nsovereign interests include ensuring that State laws like the Superfund Act do not interfere with \nfederal law, including the Clean Air Act, or with the federal government’s exclusive authority \n3 \n \n\n2:25-cv-00463-mkl     Document 1     Filed 05/01/25     Page 4 of 28\n \nover interstate and foreign commerce, greenhouse gas regulation, and national energy policy. \nThe United States’ proprietary interests include its economic interests in revenue from fossil fuel \nleasing on federal lands, which generated over $13.8 billion in 2024,1 and its costs for \npurchasing fossil fuels, which will increase due to the Superfund Act’s recovery demand. See \nCity of New York, 993 F.3d at 103 (observing that holding fossil fuel producers “accountable for \npurely foreign activity (especially the Foreign Producers) would require them to internalize the \ncosts of climate change and would presumably affect the price and production of fossil fuels \nabroad.”). Additionally, the United States has parens patriae standing to protect the economic \nwell-being of its citizens and the national energy market from the Act’s extraterritorial and \nexcessive burdens, which will raise energy costs for consumers nationwide and disrupt the \nuniform regulation of fossil fuel production. These harms affect a substantial segment of the \npopulation, and individual litigants, such as fossil fuel businesses, cannot fully address the \nnationwide economic and constitutional injuries caused by the Act’s overreach. \n11.  This Court has personal jurisdiction over Defendants because they reside in, or \nconduct a substantial portion of their official business in, Vermont. See Fed. R. Civ. P. 4(k)(1). \n12.  Venue is proper in the District of Vermont pursuant to 28 U.S.C. § 1391, because \nat least one Defendant resides in the District and because a substantial part of the acts giving rise \nto this suit occurred within the District. \n \n \n \n \n1 The Department of the Interior manages land owned by the United States. The Department \nissues leases to produce fossil fuels from federal lands and for production in areas of the Outer \nContinental Shelf. Each year, the Department collects substantial revenue from those onshore \nand offshore leases. In 2024, the Department collected revenue of more than $490 million for \ncoal, $950 million for gas, and $12.4 billion for oil. See U.S. DEP’T OF THE INTERIOR, NATURAL \nRESOURCES REVENUE DATA, https://revenuedata.doi.gov/ (last visited Apr. 30, 2025). \n4 \n \n\n2:25-cv-00463-mkl     Document 1     Filed 05/01/25     Page 5 of 28\n \n \nPARTIES \n \n13.  Plaintiff is the United States of America, suing on its own behalf, on behalf of its \ncitizens, and on behalf of its executive departments and other subdivisions, including those listed \nbelow. \n14.  The U.S. Environmental Protection Agency (EPA) is a federal executive agency \nwith responsibility for administering the Clean Air Act, including decisions involving the \nregulation of greenhouse gas emissions, and implementing national environmental policies while \nconsidering economic growth, trade, and energy implications. \n15.  Defendant State of Vermont is a State of the United States. \n16.  Defendant Philip Scott is the Governor of the State of Vermont. He is sued in his \nofficial capacity. \n17.  Defendant Julie Moore is the Secretary of the Vermont Agency of Natural \nResources. She is sued in her official capacity. Vermont’s Superfund Act requires Secretary \nMoore to issue cost recovery demands to certain energy producers and authorizes her to enforce \nthe Act’s Climate Superfund Cost Recovery Program. VT. STAT. ANN. tit. 10, § 598(f), (g)(1), \n8003(a)(33). \n18.  Defendant Jane Lazorchak is the Director of the Vermont Agency of Natural \nResources Climate Action Office. She is sued in her official capacity. Director Lazorchak is \nresponsible for administering the Act’s Climate Superfund Cost Recovery Program. Id. § 597. \nALLEGATIONS AND APPLICABLE LAW \n \nVermont’s Climate Superfund Act \n \n19.  Vermont’s Climate Superfund Act seeks to impose retroactive fines or penalties \non major American fossil fuel businesses for what Vermont alleges are the businesses’ purported \n5 \n \n\n2:25-cv-00463-mkl     Document 1     Filed 05/01/25     Page 6 of 28\n \ncontribution to greenhouse gas emissions. The Superfund Act then funnels those penalty dollars \ninto a fund to subsidize various “climate change adaptation projects.” Id. §§ 597(1), 598(a)(1). \n20.  The Act applies to “[r]esponsible parties,” which is defined as “any entity or a \nsuccessor in interest to an entity that during any part of the covered period was engaged in the \ntrade or business of extracting fossil fuel or refining crude oil and is determined by the Agency \nattributable to for more than one billion metric tons of covered greenhouse gas emissions during \nthe covered period.” Id. § 596(22). \n21.  Vermont’s Superfund Act thus singles out a subset of entities that (1) extract \nfossil fuel, which is defined as “coal, petroleum products, and fuel gases,” or (2) refine oil. See \nid. § 596(12). \n22.  Among the entities subject to the Act are “foreign nation[s] . . . that hold[] or held \nan ownership interest in a fossil fuel business” from 1995 through 2024. Id. § 596(10). \n23.  The Act excludes downstream users of fossil fuels and entities that lack \n“sufficient connection with the State to satisfy the nexus requirements of the U.S. Constitution.” \nId. § 596(22). \n24.  The Act declares responsible parties strictly liable for their purported indirect \ncontribution to global greenhouse gas emissions. Id. § 598(a)(1); see also id. § 596(7) \n(“‘Covered greenhouse gas emissions’ means the total quantity of greenhouse gases released into \nthe atmosphere during the covered period, expressed in metric tons of carbon dioxide equivalent, \nresulting from the use of fossil fuels extracted or refined by an entity.”), (16) (defining \n“[g]reenhouse gas” by reference to section 552(11)); id. § 552(11) (defining “greenhouse gas” as \n“any chemical or physical substance that is emitted into the air and that the Secretary may \n6 \n \n\n2:25-cv-00463-mkl     Document 1     Filed 05/01/25     Page 7 of 28\n \nreasonably anticipate to cause or contribute to climate change, including carbon dioxide, \nmethane, nitrous oxide, hydrofluorocarbons, perfluorocarbons, and sulfur hexafluoride”). \n25.  The Act would therefore “regulate . . . behavior far beyond [Vermont’s] borders.” \nCity of New York, 993 F.3d at 92. Vermont “does not seek to hold [fossil fuel businesses] liable \nfor the effects of emissions released in [Vermont], or even in [Vermont’s] neighboring states. \nInstead, [Vermont] intends to hold [fossil fuel businesses] liable, under [Vermont] law, for the \neffects of emissions made around the globe . . . .” Id. \n26.  As a result of this new strict liability scheme, each responsible party will be \nrequired to pay a substantial “cost recovery demand”—effectively a retroactive penalty or fine \nbased on the entity’s pro rata share of fossil fuels extracted and refined worldwide from 1995 \nthrough 2024. VT. STAT. ANN. tit. 10, §§ 596(6), (8), (22), 598(b). \n27.  To determine a responsible party’s “cost recovery demand,” the Superfund Act \ndirects the State Treasurer to calculate the total “cost to the State of Vermont and its residents . . . \nfrom the emission of covered greenhouse gases during the covered period.” Id. § 598(b). The Act \nthen requires that the Agency of Natural Resources issue “cost recovery demands,” id. § 598(f), \nto responsible parties in “an amount that bears the same ratio to the cost to the State of Vermont \nand its residents . . . as the responsible party’s applicable share of covered greenhouse gas \nemissions bears to the aggregate applicable shares of covered greenhouse gas emissions resulting \nfrom the use of fossil fuels extracted or refined during the covered period,” id. \n28.  “Vermont has no crude oil reserves or production, nor does it have any petroleum \nrefineries,” it “has no natural gas reserves or production,” and it “does not have any coal mines \nor coal reserves.”  U.S. ENERGY INFO. ADMIN., Vermont State Profile and Energy Estimates, \nhttps://www.eia.gov/state/analysis.php?sid=VT#:~:text=December%2019%2C%202024-\n7 \n \n\n2:25-cv-00463-mkl     Document 1     Filed 05/01/25     Page 8 of 28\n \n,Overview,11%2C12 (last updated Dec. 19, 2024).  At the same time, “Vermont uses more \npetroleum per capita than almost two-thirds of the states.” Id. \n29.  Upon information and belief, nearly all the economic activity and operations that \nVermont’s Superfund Act targets from 1995 to 2024—extraction of fossil fuel and refinement of \ncrude oil—occurred outside Vermont. \n30.  Vermont’s Superfund Act imposes liability based on greenhouse gas emissions \ngenerated in many States besides Vermont and in many other countries besides the United States. \n31.  Vermont’s Superfund Act imposes liability on fossil fuel businesses for their \nlawful conduct in extracting and refining fossil fuels in many States besides Vermont and in \nmany other countries besides the United States. \nThe Clean Air Act Comprehensively Regulates Nationwide Air Pollution \n \n32.  The Clean Air Act, 42 U.S.C. § 7401 et seq., creates a comprehensive program for \nregulating air pollution in the United States and “displaces” the ability of States to regulate \ngreenhouse gas emissions beyond their borders. City of New York, 993 F.3d at 96. The Act \nimproves the Nation’s air quality by delegating authority to EPA to prescribe national standards \nfor air pollutants, which States then implement. See, e.g., 42 U.S.C. § 7411. \n33.  In Massachusetts v. EPA, 549 U.S. 497 (2007), the Supreme Court concluded that \ngreenhouse gases, such as carbon dioxide and methane, are within the Clean Air Act’s \nunambiguous definition of “air pollutant,” 42 U.S.C. § 7602(g). Id. at 528-29. Thus, the Clean \nAir Act delegates to EPA authority to set nationwide standards for greenhouse gases. See Am. \nElectric Power Co., Inc. v. Connecticut (AEP), 564 U.S. 410, 424-29 (2011). \n34.  For in-state stationary sources, the Clean Air Act generally preserves the ability of \nStates to adopt and enforce air pollution control requirements and limitations on in-state sources, \n8 \n \n\n2:25-cv-00463-mkl     Document 1     Filed 05/01/25     Page 9 of 28\n \nso long as those are at least as stringent as the corresponding federal requirements. See 42 U.S.C. \n§ 7416. For out-of-state sources, however, the “Act gives states a much more limited role,” even \nif the pollution from those sources causes harm within their borders. City of New York, 993 F.3d \nat 88. Affected States can: (1) comment on proposed EPA rules and certain permits and plans, \nsee id. 42 U.S.C. § 7607(d)(5), § 7475(a)(2), § 7410(a)(2)(C); 40 C.F.R. § 51.102(a); (2) seek \njudicial review if their concerns are not addressed, see 42 U.S.C. § 7607(b); and (3) petition EPA \nin certain instances, see id. § 7410(k)(5). \nThe United States’ Foreign Policy on \nGreenhouse Gas Regulation and Energy Development \n \n35.  Greenhouse gas emissions “present[] a uniquely international problem of national \nconcern.” City of New York, 993 F.3d at 85. Regulating these emissions “implicates” not only \n“the conflicting rights of states” but also “our relations with foreign nations.” Id. at 92 (cleaned \nup).  \n36.  Under the Constitution, foreign-affairs powers are the exclusive domain of the \nfederal government. Hines v. Davidowitz, 312 U.S. 52, 62 (1941). Consistent with that structure, \nthe federal government has demonstrated an active and continuous interest in reconciling \nprotection of the environment, promotion of economic growth, and maintenance of national \nsecurity when regulating greenhouse gas emissions and fossil fuels. See City of New York, 993 \nF.3d at 93 (recognizing responsibility of federal government in striking the right “balance” in \npromoting these goals). The federal government has been actively exercising its authority here \nand has been continually evaluating national interests as is its responsibility under the \nConstitution. It has “in fact . . . addressed” these interwoven issues on many occasions. Am. Ins. \nAss’n v. Garamendi, 539 U.S. 396, 421 (2003). \n9 \n \n\n2:25-cv-00463-mkl     Document 1     Filed 05/01/25     Page 10 of 28\n \n37.  In 1987, Congress enacted the Global Climate Protection Act. See Pub. L. No. \n100-204, Title XI, §§ 1101–1106, 101 Stat. 1331, 1407–09 (1987), reprinted as note to 15 U.S.C. \n§ 2901. Among its other goals, the Global Climate Protection Act provided that the United States \nshould “work toward multilateral agreements” on the issue of greenhouse gas emissions. Id. § \n1103(a)(4), 101 Stat. at 1408. It assigned to the President and EPA the responsibility for devising \na “coordinated national policy on global climate change.” Id. § 1103(b), 101 Stat. at 1408. And \nthe Protection Act assigned to the President and the Secretary of State the responsibility for \ncoordination of climate change policy in the international arena. Id. § 1103(c), 101 Stat. at 1409. \n38.  In 1992, President George H. W. Bush signed, and the Senate unanimously \napproved, the United Nations Framework Convention on Climate Change, May 9, 1992, S. \nTreaty Doc. No. 102-38, 1771 U.N.T.S. 107 (entered into force Mar. 21, 1994), which has as its \n“ultimate objective . . . stabilization of greenhouse gas concentrations in the atmosphere at a \nlevel that would prevent dangerous anthropogenic interference with the climate system.” Id., \nArt. 2. \n39.  Under the Framework Convention, “[a]ll Parties,” including the United States, \n“shall . . . .  (b) [f]ormulate, implement, publish and regularly update national and, where \nappropriate, regional programmes containing measures to mitigate climate change by addressing \nanthropogenic emissions by sources and removals by sinks of all greenhouse gases not controlled \nby the Montreal Protocol, and measures to facilitate adequate adaptation to climate change [and] \n(c) [p]romote and cooperate in the development, application and diffusion, including transfer, of \ntechnologies, practices and processes that control, reduce or prevent anthropogenic emissions of \ngreenhouse gases not controlled by the Montreal Protocol in all relevant sectors . . . .” Id., Art. \n4.1(b), (c). \n10 \n \n\n2:25-cv-00463-mkl     Document 1     Filed 05/01/25     Page 11 of 28\n \n40.  The Framework Convention does not set binding limits on greenhouse gas \nemissions for individual countries. It contains no enforcement mechanism. Instead, it includes \ngeneral obligations addressing climate change and creates a framework for cooperation by its \nparties. Among other things, it contemplates the possibility of its parties negotiating “protocols” \nor other specific international agreements in pursuit of its objective. \n41.  Since approving the Framework Convention, the United States has engaged in \ninternational efforts regarding climate change and greenhouse gas emissions, balancing foreign \npolicy considerations and domestic energy needs. In particular, the United States is also a party \nto the Kigali Amendment to the Montreal Protocol. See Amendment to the Montreal Protocol on \nSubstances that Deplete the Ozone Layer, Oct. 15, 2016, S. Treaty Doc. No. 117-1, \nC.N.730.2017. The Amendment commits the United States and other signatory countries to \nphase down the production and consumption of hydrofluorocarbons, a greenhouse gas. The \nSenate ratified the Kigali Amendment in 2022, but only after Congress enacted the American \nInnovation and Manufacturing Act, 42 U.S.C. § 7675, in 2020, giving EPA authority under the \nClean Air Act to reduce production and consumption of hydrofluorocarbons. \n42.  By contrast, the United States is not a party to the Kyoto Protocol of 1997, which \nprovided for greenhouse gas emission reduction targets on UNFCCC Annex I parties, including \nthe United States. Though the United States signed the protocol, President Clinton never \nsubmitted it to the Senate for ratification. Instead, the Senate passed a unanimous resolution \nexpressing disapproval of any protocol or other agreement that provides for disparate treatment \nof economically developing countries. S. Res. 98, 105th Cong. (1997).  \n43.  The United States is similarly not a party to the December 12, 2015 Paris Climate \nAccord (the Paris Agreement). Paris Agreement to the United Nations Framework Convention \n11 \n \n\n2:25-cv-00463-mkl     Document 1     Filed 05/01/25     Page 12 of 28\n \non Climate Change, Dec. 13, 2015, in Rep. of the Conference of the Parties on the Twenty-First \nSession, U.N. Doc. FCCC/CP/2015/10/Add.1, annex (2016). In September 2016, President \nObama signed the Paris Agreement but did not submit it to the Senate for ratification. On March \n28, 2017, President Trump described how the United States would seek to reconcile the Nation’s \nenvironmental, economic, and strategic concerns. See Exec. Order 13,783, 82 Fed. Reg. 16,093 \n(Mar. 28, 2017). On November 4, 2019, the United States deposited a notification of withdrawal \nfrom the Paris Agreement. Although on February 19, 2021, President Biden announced that he \nrejoined this expensive and destructive protocol, on February 13, 2025, President Trump \nwithdrew the United States from the Paris Agreement. See Putting America First in International \nAgreements, Executive Order 14162, § 3(a), 90 Fed. Reg. 14,162 (Jan. 20, 2025). The President \nexplained that “[i]t is the policy of my Administration to put the interests of the United States \nand the American people first in the development and negotiation of any international \nagreements with the potential to damage or stifle the American economy” and that such \nagreements “must not unduly or unfairly burden the United States.” Id. § 2. In other words, the \nPresident would put the interests of the American people first in negotiating the terms of any \nfuture treaty to implement the Framework Convention. \n44.  More recently, on April 2, 2025, President Trump invoked his authority under the \nInternational Emergency Economic Powers Act of 1977 to strengthen our Nation’s international \neconomic position by imposing reciprocal tariffs on U.S. trading partners. See Regulating \nImports With a Reciprocal Tariff To Rectify Trade Practices That Contribute to Large and \nPersistent Annual United States Goods Trade Deficits, Exec. Order 14257, 90 Fed. Reg. 15,041 \n(Apr. 2, 2025). The Executive Order specifically exempts “energy and energy products” from the \ntariffs. Id. § 3(b); see also id. Annex II.   \n12 \n \n\n2:25-cv-00463-mkl     Document 1     Filed 05/01/25     Page 13 of 28\n \nCLAIMS FOR RELIEF \n \nCOUNT I \nClean Air Act Preemption \n \n45.  The United States incorporates by reference all allegations stated above. \n46.  The Supremacy Clause of the United States Constitution provides that “[t]his \nConstitution, and the Laws of the United States which shall be made in Pursuance thereof . . . \nshall be the supreme Law of the Land . . . any Thing in the Constitution or Laws of any State to \nthe Contrary notwithstanding.” U.S. Const. art. VI, cl. 2.  \n47.  A state law is preempted under the Supremacy Clause when it intrudes into a field \nexclusively occupied by federal law (field preemption) or when it conflicts with federal law by \nstanding as an obstacle to the accomplishment of Congress’s objectives (conflict preemption). \nSee City of Milwaukee v. Illinois, 451 U.S. 304, 316-17 (1981) (field preemption); Hillsborough \nCounty v. Automated Medical Labs., Inc., 471 U.S. 707, 713 (1985) (conflict preemption). \n48.  The Superfund Act is preempted by the Clean Air Act, 42 U.S.C. § 7401 et seq., \nbecause it impermissibly regulates out-of-state greenhouse gas emissions and obstructs the Clean \nAir Act’s comprehensive federal-state framework and EPA’s regulatory discretion, see, e.g., Int’l \nPaper Co. v. Ouellette, 479 U.S. 481, 500 (1987) (“The [Clean Water] Act pre-empts state law to \nthe extent that the state law is applied to an out-of-state point source.”); Arizona, 567 U.S. at \n399-400. \n49.  “The Clean Air Act is a comprehensive statutory scheme that anoints the EPA as \nthe ‘primary regulator of [domestic] greenhouse gas emissions.’” City of New York, 993 F.3d at \n99 (quoting AEP, 564 U.S. at 428).  \n50.  Congress delegated to EPA the authority to determine whether and how to \nregulate greenhouse gas emissions, thereby displacing federal common law claims and \n13 \n \n\n2:25-cv-00463-mkl     Document 1     Filed 05/01/25     Page 14 of 28\n \noccupying the field of interstate air pollution regulation. See Massachusetts, 549 U.S. at 528-29 \n(holding that greenhouse gases are “air pollutants” under 42 U.S.C. § 7602(g)); AEP, 564 U.S. at \n426 (“The critical point is that Congress delegated to EPA the decision whether and how to \nregulate carbon-dioxide emissions; the delegation displaces federal common law.”); City of \nMilwaukee, 451 U.S. at 317 (holding that the Federal Water Pollution Control Act’s \ncomprehensive regulatory program displaced federal common law of nuisance, as Congress \noccupied the field of water pollution regulation). \n51.  The Clean Air Act’s comprehensive framework, which includes specific \nprovisions for regulating emissions from stationary and mobile sources, see, e.g., 42 U.S.C. \n§§ 7410, 7411, 7521, preempts state laws that attempt to regulate out-of-state greenhouse gas \nemissions, such as Vermont’s Superfund Act. See City of New York, 993 F.3d at 90-100. \nVermont’s law, by imposing strict liability and substantial financial penalties on fossil fuel \nbusinesses for their global greenhouse gas emissions, see VT. STAT. ANN. tit. 10, §§ 596(7), \n598(a)(1), usurps this federal authority. The Superfund Act’s attempt to regulate emissions \nworldwide, most of which occur outside Vermont’s borders, is the type of state regulation of out-\nof-state greenhouse gas emissions preempted by the Clean Air Act. \n52.  Vermont’s Superfund Act conflicts with the Clean Air Act’s purposes and \nobjectives by undermining its carefully calibrated cooperative federalism scheme and EPA’s \ndiscretion in regulating greenhouse gas emissions. \n53.  The Clean Air Act establishes a structured partnership between the federal \ngovernment and States, allowing States to regulate in-state stationary sources under specific \nconditions, see, e.g., 42 U.S.C. §§ 7401(a)(3), 7410(a)(2)(C), 7411(d), 7416, but limiting their \nrole in regulating out-of-state or global emissions, see, e.g., 42 U.S.C. §§ 7410(a)(2)(C), \n14 \n \n\n2:25-cv-00463-mkl     Document 1     Filed 05/01/25     Page 15 of 28\n \n7410(k)(5), 7475(a)(2), 7607(b). See also City of New York, 993 F.3d at 88. And the Clean Air \nAct contains a citizen-suit savings clause. 42 U.S.C. § 7604(e). When read together, the Clean \nAir Act “plainly permit[s] [S]tates to create and enforce their own emissions standards applicable \nto in-state polluters.” City of New York, 993 F.3d at 99. This role “no doubt holds true for both \nstate legislation and common law claims under state law.” Id. at 100 (citing Merrick v. Diageo \nAmericas Supply, Inc., 805 F.3d 685, 690-91 (6th Cir. 2015)). “But that authorization is narrowly \ncircumscribed, and has been interpreted to permit only state lawsuits brought under ‘the law of \nthe [pollution’s] source [s]tate.’” Id. (citations omitted). \n54.  The Superfund Act “does not seek to take advantage of this slim reservoir of state \ncommon law.” Id. Rather, the Superfund Act seriously interferes with the Clean Air Act’s \nbalance by imposing a multibillion-dollar liability scheme that penalizes fossil fuel extraction \nand refining worldwide, effectively regulating out-of-state emissions. This extraterritorial \nregulation creates a patchwork of state-level penalties that undermines state authority over \npollution sources within state borders and frustrates the Clean Air Act’s goal of efficiency and \npredictability in the permit system. See Ouellette, 479 U.S. at 496; see also AEP, 564 U.S. at 426 \n(holding that the Clean Air Act’s delegation to the EPA to regulate greenhouse gas emissions \ndisplaces federal common law, reflecting federal primacy). Such state encroachment on federal \nauthority is preempted, as it obstructs the Clean Air Act’s integrated approach to air pollution \ncontrol. See Ouellette, 479 U.S. at 497; see also City of New York, 993 F.3d at 90-95. \n55.  Moreover, Vermont’s Superfund Act obstructs EPA’s discretion to balance \nenvironmental, economic, and energy considerations in regulating greenhouse gases. The Clean \nAir Act grants EPA broad authority to promulgate regulations based on its expert judgment, \nincluding whether to impose emissions standards for stationary sources under 42 U.S.C. § 7411 \n15 \n \n\n2:25-cv-00463-mkl     Document 1     Filed 05/01/25     Page 16 of 28\n \nand for mobile sources under 42 U.S.C. § 7521. By imposing retroactive liability for lawful \nconduct from 1995 to 2024, the Superfund Act second-guesses EPA’s regulatory choices and \nimposes penalties that Congress did not authorize.  \n56.  Vermont’s Superfund Act further undermines federal objectives by increasing \nenergy costs and disrupting the national energy market, contrary to the Clean Air Act’s \nintegration with national energy policy. As noted in Executive Order 14156, § 1, 90 Fed. Reg. at \n8,434, insufficient energy production due to restrictive state policies threatens national security \nand economic prosperity. By targeting major fossil fuel businesses, many of which operate on \nfederal lands or supply federal agencies, the Superfund Act raises costs for federal operations \nand consumers nationwide, obstructing the Clean Air Act’s goal of balancing environmental \nprotection with economic growth. See 42 U.S.C. § 7401(b)(1) (Clean Air Act’s purpose includes \nprotecting air quality “to promote the public health and welfare and the productive capacity of its \npopulation”). \n57.  If laws like Vermont’s are permitted to stand, other States could enact similar \nliability schemes, leading to a chaotic “patchwork” of regulations that undermine the national \ninterest in readily available and affordable energy and the government’s ability to effectively \nadminister coherent national environmental policy and regulation of global pollution. City of \nNew York, 993 F.3d at 86. Vermont’s similar legislation imposing strict liability for greenhouse \ngas emissions underscores this risk. Such fragmentation would frustrate Congress’s intent for a \nunified federal approach to global air pollution. See Hines, 312 U.S. at 67 (state law preempted \nwhen it obstructs federal objectives). \n58.  Thus, Vermont’s Superfund Act is preempted by the Clean Air Act.   \n16 \n \n\n2:25-cv-00463-mkl     Document 1     Filed 05/01/25     Page 17 of 28\n \nCOUNT II \nUnconstitutional Extraterritorial Regulation \n \n59.  The United States incorporates by reference all allegations stated above. \n60.  The Constitution’s structure and provisions, including the Due Process Clause, as \nwell as concepts of State sovereignty and federalism, prohibit a State from regulating \ntransactions, and imposing liability for conduct, occurring outside its borders. Vermont’s \nSuperfund Act violates the Constitution by imposing extraterritorial liability for primarily out-of-\nstate extraction and refining activities and out-of-state greenhouse gas emissions. The Act is \nirreconcilable with the Constitution’s commitment of such matters to the federal government and \nthe relative rights and obligations of the federal government and the States under the \nConstitution. \n61.  The United States has standing to assert this claim to protect its sovereign, \nproprietary, and parens patriae interests. Vermont’s extraterritorial regulation interferes with the \nfederal government’s authority to regulate interstate and foreign commerce and greenhouse gas \nemissions, undermining national energy policy. The Superfund Act’s financial burdens on fossil \nfuel businesses increase the United States’ costs for purchasing fuels and threaten revenue from \nfederal leasing. In its parens patriae capacity, the United States seeks to protect citizens \nnationwide from higher energy costs and economic disruption caused by the Superfund Act’s \noverreach, which individual litigants cannot fully address due to the Superfund Act’s nationwide \nimpact. \n62.  The Due Process Clause of the Fourteenth Amendment provides: “[N]or shall any \nState deprive any person of life, liberty, or property, without due process of law . . . .” U.S. \nConst. amend. XIV, § 1. The fossil fuel businesses targeted by Vermont’s Superfund Act are \npersons under the Fourteenth Amendment. \n17 \n \n\n2:25-cv-00463-mkl     Document 1     Filed 05/01/25     Page 18 of 28\n \n63.  The Constitution’s structure and principles of due process mandate that while \nStates are sovereign within their borders, they cannot regulate conduct beyond their borders, \nsuch as by imposing liability for pollution from out-of-state sources. “The concept of Due \nProcess constraints on a state legislature’s ability to regulate subject matters and transactions \nbeyond the state’s boundaries, while perhaps infrequently litigated in those terms, is not new.” \nGerling Glob. Reinsurance Corp. of Am. v. Gallagher, 267 F.3d 1228, 1236-37 (11th Cir. 2001) \n(discussing Due Process limits on legislative jurisdiction). Indeed, “[t]o resolve disputes about \nthe reach of one State’s power,” the Supreme Court “has long consulted … the Constitution’s \nstructure and the principles of ‘sovereignty and comity’ it embraces,” along with “the Due \nProcess Clause.” Nat’l Pork Producers Council v. Ross, 598 U.S. 356, 376 (2023) (citation \nomitted). \n64.  It is a well-established “due process principle that a state is without power to \nexercise ‘extra territorial jurisdiction,’ that is, to regulate and control activities wholly beyond its \nboundaries.”  Watson v. Emps. Liab. Assur. Corp., 348 U.S. 66, 70 (1954) (citing Home Ins. Co. \nv. Dick, 281 U.S. 397 (1930)). “The sovereignty of each State, in turn, implie[s] a limitation on \nthe sovereignty of all of its sister States—a limitation express or implicit in both the original \nscheme of the Constitution and the Fourteenth Amendment.” World-Wide Volkswagen Corp. v. \nWoodson, 444 U.S. 286, 293 (1980). \n65.  Indeed, the Due Process Clause embodies “more than a guarantee of immunity \nfrom inconvenient or distant litigation” but also imposes “territorial limitations on the power of \nthe respective States.” Bristol-Myers Squibb Co. v. Superior Ct. of California, San Francisco \nCnty., 582 U.S. 255, 263 (2017) (quoting Hanson v. Denckla, 357 U.S. 235, 251 (1958)) \n(discussing how the sovereignty of each state imposes limitations on sovereignty of other states). \n18 \n \n\n2:25-cv-00463-mkl     Document 1     Filed 05/01/25     Page 19 of 28\n \nThis limits States’ legislative power over certain subject matters just as much as it does judicial \npower. Herederos De Roberto Gomez Cabrera, LLC v. Teck Res. Ltd., 43 F.4th 1303, 1309 (11th \nCir. 2022). \n66.  No single State can enact policies for the entire Nation, nor can a State “even \nimpose its own policy choice on neighboring States.” BMW of N. Am., Inc. v. Gore, 517 U.S. \n559, 570-71 (1996). “[I]t follows from these principles of state sovereignty and comity that a \nState may not impose economic sanctions on violators of its laws with the intent of changing the \ntortfeasors’ lawful conduct in other States.” Id. at 572. “The states are not nations, either as \nbetween themselves or towards foreign nations,” and “their sovereignty stops short of \nnationality.” New Hampshire v. Louisiana, 108 U.S. 76, 90 (1883). And “interstate . . . pollution \nis a matter of federal, not state, law.” Ouellette, 479 U.S. at 488. \n67.  Vermont’s Superfund Act violates the Constitution’s structure and principles of \ndue process by imposing economic sanctions on fossil fuel businesses for economic activities \nthat occurred primarily in other States. \n68.  While Vermont’s Superfund Act purports to limit liability to entities with \n“sufficient connection with the State to satisfy the nexus requirements of the U.S. Constitution,” \nVT. STAT. ANN. tit. 10, § 596(22), this provision fails to satisfy due process because the Act \n“impose[s] strict liability for the damages caused by fossil fuel emissions no matter where in the \nworld those emissions were released (or who released them),” City of New York, 993 F.3d at 93, \nincluding activities in other States and in foreign countries with no connection to Vermont. \n“Such a sprawling” scope “is simply beyond the limits of state law.” Id. at 92. \n69.  Even if an entity has some contacts with Vermont, such as in-state sales or \noperations, the Act’s strict liability for fossil fuel extraction and refining and out-of-state \n19 \n \n\n2:25-cv-00463-mkl     Document 1     Filed 05/01/25     Page 20 of 28\n \ngreenhouse emissions does not arise from or relate to those contacts, violating the requirement \nthat a State’s regulatory authority be limited to conduct with a substantial nexus to the State. \n70.  Moreover, the Superfund Act’s global scope inherently overreaches, regardless of \nany nexus provision. By imposing a multibillion-dollar cost recovery demand for emissions \nattributable to worldwide fossil fuel activities from 1995 through 2024, the Superfund Act \nregulates conduct far beyond Vermont’s territorial jurisdiction, contravening the Due Process \nClause’s territorial limitations on state sovereignty. \n71.  Accordingly, the “sufficient connection” provision cannot cure this defect, as the \nSuperfund Act’s focus on global emissions lacks any meaningful connection to Vermont’s \nlegitimate regulatory interests, rendering it unconstitutional. \n72.  Thus, Vermont’s Superfund Act violates the Constitution’s limits on \nextraterritorial legislation. \nCOUNT III \nViolation of the Interstate Commerce Clause \n \n73.  The United States incorporates by reference all allegations stated above. \n74.  The Constitution gives Congress “Power . . . [t]o regulate Commerce . . . among \nthe several States.” U.S. Const. art. I, § 8, cl. 3. \n75.  State laws that discriminate against interstate commerce are unconstitutional, even \nin the absence of federal legislation regulating the activity in question. Oklahoma Tax Comm’n v. \nJefferson Lines, Inc., 514 U.S. 175, 179 (1995). \n76.  Vermont’s Superfund Act discriminates against interstate commerce facially, in \npractical effect, and in purpose by targeting commercial activity—fossil fuel extraction and \nrefining—that occurs primarily if not exclusively in States other than Vermont, including Texas, \n20 \n \n\n2:25-cv-00463-mkl     Document 1     Filed 05/01/25     Page 21 of 28\n \nNew Mexico, Louisiana, West Virginia, Pennsylvania, Oklahoma, and North Dakota. See VT. \nSTAT. ANN. tit. 10, §§ 596(7), 598(a)(1). \n77.  Because the Superfund Act discriminates against interstate commerce, strict \nscrutiny applies, and it can be upheld only if “it advances a legitimate local purpose that cannot \nbe adequately served by reasonable nondiscriminatory alternatives.” New Energy Co. of Indiana \nv. Limbach, 486 U.S. 269, 278 (1988). \n78.  Vermont has no legitimate local public interest in discriminating against interstate \ncommerce. \n79.  But even if the Court were to somehow find that the Superfund Act advances \nsome legitimate local purpose, it would still fail strict scrutiny because its infrastructure funding \nobjectives can be adequately served by reasonable, non-discriminatory alternatives. For example, \nVermont could fund its “climate change adaptation projects” through general taxation, such as \nstate income or sales taxes, or by seeking federal grants, which are commonly used to support \nclimate-related infrastructure without burdening interstate commerce. These alternatives would \nachieve Vermont’s goals without imposing a discriminatory multibillion-dollar cost recovery \ndemand on out-of-state fossil fuel businesses, rendering the Superfund Act’s discriminatory \napproach unconstitutional. \n80.  Moreover, even if Vermont’s Superfund Act did not facially discriminate against \ninterstate commerce and did not have non-discriminatory alternatives, it would still violate the \nInterstate Commerce Clause under the balancing test articulated in Pike v. Bruce Church, Inc., \n397 U.S. 137, 142 (1970). Under Pike, a state law that regulates evenhandedly and has only \nincidental effects on interstate commerce is unconstitutional if the burden imposed on interstate \ncommerce is “clearly excessive in relation to the putative local benefits.” Id. \n21 \n \n\n2:25-cv-00463-mkl     Document 1     Filed 05/01/25     Page 22 of 28\n \n81.  Vermont’s Superfund Act purports to serve a legitimate local public interest by \nraising money to fund infrastructure projects allegedly necessitated by climate change. \nRegardless of whether environmental protection and infrastructure development are valid state \nobjectives, the benefits of the Act are localized to Vermont and speculative, as the Act’s focus on \nretroactive liability for global greenhouse gas emissions does not directly address current or \nfuture environmental challenges within the State. \n82.  The Superfund Act also imposes substantial burdens on interstate commerce. By \ntargeting fossil fuel businesses for extraction and refining activities occurring primarily in other \nStates and foreign countries, the Act disrupts the national market for fossil fuels. The \nmultibillion-dollar cost recovery demand will increase energy costs for consumers and \nbusinesses nationwide, as these costs are passed through the interstate energy market. And the \nAct’s retroactive penalties for lawful conduct from 1995 to 2024 discourage investment and \ninnovation in the fossil fuel industry, further burdening interstate commerce. The potential for \nother States to adopt similar laws creates a risk of regulatory fragmentation, undermining the \nuniform national energy market. \n83.  Vermont’s Superfund Act imposes a substantial and undue burden on interstate \ncommerce that is clearly excessive in relation to any putative local benefits. \n84.  Vermont seeks to hold the largest American fossil fuel businesses liable for their \nextraction and refining activities which, upon information and belief, occur almost exclusively in \nStates other than Vermont. Vermont’s Superfund Act imposes billions of dollars in aggregate \nliability on those fossil fuel businesses. The Act will raise the cost of energy resources transacted \nin interstate commerce. \n85.  Thus, Vermont’s Superfund Act violates the Interstate Commerce Clause.   \n22 \n \n\n2:25-cv-00463-mkl     Document 1     Filed 05/01/25     Page 23 of 28\n \nCOUNT IV \nViolation of the Foreign Commerce Clause \n \n86.  The United States incorporates by reference all allegations stated above. \n87.  The Constitution provides that “[t]his Constitution, and the Laws of the United \nStates which shall be made in Pursuance thereof; and all Treaties made, or which shall be made, \nunder the Authority of the United States, shall be the supreme Law of the Land; . . . any Thing in \nthe Constitution or Laws of any State to the Contrary notwithstanding.”  U.S. Const. art. VI, cl. \n2. \n88.  The Constitution gives Congress the “Power . . . [t]o regulate Commerce with \nforeign Nations . . . .”  U.S. Const. art. I, § 8, cl. 3. \n89.  The Foreign Commerce Clause has a negative application. Thus, for example, \nState laws that impose taxes on foreign commerce “will not survive Commerce Clause scrutiny if \nthe taxpayer demonstrates that the tax” implicates one of the four concerns identified in \nComplete Auto Transit, Inc. v. Brady, 430 U.S. 274, 279 (1977). See Barclays Bank PLC v. \nFranchise Tax Bd. of California, 512 U.S. 298, 310 (1994). A State law imposing taxes is \nunconstitutional if it (1) applies to an activity lacking a substantial nexus to the State; (2) is not \nfairly apportioned; (3) discriminates against interstate commerce; or (4) is not fairly related to \nthe services provided by the State. See Barclays Bank PLC, 512 U.S. at 310-11 (citing Complete \nAuto, 430 U.S. at 279). “In the unique context of foreign commerce, a State’s power is further \nconstrained because of the special need for federal uniformity.” Id. at 311 (cleaned up). Thus, \n“[a] tax affecting foreign commerce therefore raises two concerns in addition to the four \ndelineated in Complete Auto.” Id. “The first is prompted by the enhanced risk of multiple \ntaxation. The second relates to the Federal Government’s capacity to speak with one voice when \nregulating commercial relations with foreign governments.” Id. (cleaned up). \n23 \n \n\n2:25-cv-00463-mkl     Document 1     Filed 05/01/25     Page 24 of 28\n \n90.  Vermont’s Superfund Act is not a state tax. But the same limiting principles that \napply to a State’s power to impose taxes on foreign commerce also apply to a State’s power to \nimpose penalties, fines, and other civil liability on foreign commerce. \n91.  Vermont’s Superfund Act discriminates against foreign commerce facially, in \npractical effect, and in purpose by imposing penalties or fines that directly and substantially \nburden foreign commerce. The Act imposes strict liability on fossil fuel businesses for \nactivities—extraction and refining of fossil fuels—that occurred in foreign countries. The Act \nimposes liability on these foreign activities even though they lack a substantial nexus to \nVermont. The Act does not fairly apportion liability based on commerce in Vermont. The Act \nalso discriminates against foreign commerce and imposes liability that is not fairly related to the \nservices provided by the State. The Act enhances the risk of multiple States imposing \noverlapping liability on foreign commerce for the same activities. And the Act harms the federal \ngovernment’s capacity to speak with one voice when conducting commercial relations with \nforeign governments on issues such as regulation of greenhouse gas emissions, trade policy, \nexports and imports of fossil fuels, and national security.  \n92.  The United States does not challenge Vermont’s authority to regulate the local \nactivities of international corporations, such as emissions from in-state facilities or taxes on in-\nstate sales. Ordinary state regulations that incidentally affect foreign commerce without such \nextraterritorial scope or federal interference remain permissible under the Foreign Commerce \nClause. But Vermont’s Superfund Act does not fall within this permissible role for States. \nRather, the Act directly regulates worldwide fossil fuel extraction and refining with minimal \nnexus to Vermont, imposes a disproportionate burden on foreign commerce, and undermines the \n24 \n \n\n2:25-cv-00463-mkl     Document 1     Filed 05/01/25     Page 25 of 28\n \nfederal government’s ability to maintain uniformity in regulating environmental, trade, and \nnational security policy. \n93.  Thus, Vermont’s Superfund Act violates the Foreign Commerce Clause. \nCOUNT V \nForeign Affairs Preemption \n \n94.  The United States incorporates by reference all allegations stated above. \n95.  The Constitution provides that “[t]his Constitution, and the Laws of the United \nStates which shall be made in Pursuance thereof; and all Treaties made, or which shall be made, \nunder the Authority of the United States, shall be the supreme Law of the Land; . . . any Thing in \nthe Constitution or Laws of any State to the Contrary notwithstanding.” U.S. Const. art. VI, cl. 2. \n96.  Even aside from his military powers as the “Commander in Chief of the Army \nand Navy,” id. art. II, § 2, cl. 1, the Constitution vests broad responsibility for the conduct of \nforeign affairs in the President of the United States. \n97.  The President has “Power, by and with the Advice and Consent of the Senate, to \nmake Treaties, provided two thirds of the Senators present concur.” Id. art. II, §2, cl. 2. \n98.  The President “nominate[s], and by and with the Advice and Consent of the \nSenate, . . . appoint[s] Ambassadors, other public Ministers and Consuls.” Id. \n99.  The President “receive[s] Ambassadors and other public Ministers.” Id. art II, § 3. \n100.  The Constitution authorizes the President to “take Care that the Laws be faithfully \nexecuted.” Id. \n101.  In short, “the supremacy of the national power in the general field of foreign \naffairs . . . is made clear by the Constitution.” Hines, 312 U.S. at 62. \n102.  The Supreme Court has interpreted the provisions of the Constitution that vest \nauthority over foreign affairs in the President to prohibit actions by the States that lie outside \n25 \n \n\n2:25-cv-00463-mkl     Document 1     Filed 05/01/25     Page 26 of 28\n \ntheir traditional and localized areas of responsibility and instead interfere with the federal \ngovernment’s foreign policy, or otherwise has more than an incidental effect in conflict with \nexpress foreign policy. See Garamendi, 539 U.S. at 418-20. \n103.  Vermont’s Superfund Act falls outside the area of any traditional state interest. It \ninstead regulates “a uniquely international problem” that is “not well-suited to the application of \nstate law.” City of New York, 993 F.3d at 85-86. \n104.  By adopting the Framework Convention, the federal government undertook to \nformulate foreign policy with respect to the “stabilization of greenhouse gas concentrations in \nthe atmosphere at a level that would prevent dangerous anthropogenic interference with the \nclimate system.”  Framework Convention, Art. 2. \n105.  Vermont’s Superfund Act imposes retroactive liability on fossil fuel businesses \nfor their extraction or refining of fossil fuels worldwide. \n106.  By attempting to impose liability based on greenhouse gas emissions purportedly \nattributable to worldwide fossil fuel extraction and refining, Vermont’s Superfund Act could \nundermine the ability of the United States to speak with one voice on a matter of pressing \ninterest around the globe. The Act also could complicate the United States’ relations with foreign \ncountries concerning regulation of greenhouse gas emissions, trade policy, and exports and \nimports of fossil fuels. The Act also penalizes extraction and refining activities in foreign \ncountries despite the President’s explicit judgment that energy imports should be exempt from \nthe tariffs imposed under Executive Order 14257. \n107.  Vermont’s Superfund Act interferes with the United States’ foreign policy on \ngreenhouse gas regulation, including but not limited to the United States’ participation in the \n26 \n \n\n2:25-cv-00463-mkl     Document 1     Filed 05/01/25     Page 27 of 28\n \nFramework Convention and announcement of its intention to withdraw from the Paris \nAgreement, and is therefore preempted. \n108.  This claim does not challenge Vermont’s authority to enact local regulations that \nincidentally affect international corporations, such as environmental standards for in-state \noperations. Instead, the United States seeks to invalidate Vermont’s Superfund Act because its \nimposition of retroactive liability for worldwide greenhouse gas emissions directly intrudes on \nthe federal government’s exclusive authority over foreign affairs, including the United Nations \nFramework Convention on Climate Change and trade policy. This extraordinary extraterritorial \nreach and conflict with federal foreign policy distinguish the Act from ordinary state regulations \nthat do not undermine the United States’ ability to speak with one voice in international relations. \n109.  Simply put, Vermont’s attempt “to recover damages for the harms caused by \nglobal greenhouse gas emissions may” not “proceed under [State] law.” City of New York, 993 \nF.3d at 91. \n110.  Thus, Vermont’s Superfund Act is preempted by the foreign affairs doctrine.   \n27 \n \n\n2:25-cv-00463-mkl     Document 1     Filed 05/01/25     Page 28 of 28\n \nPRAYER FOR RELIEF \n \nWHEREFORE, the United States respectfully requests that this Court: \nA.  Declare Vermont’s Climate Superfund Act unconstitutional and unenforceable \nunder 28 U.S.C. § 2201, both facially and as applied; \nB.  Permanently enjoin Defendants from taking actions to implement or enforce \nVermont’s Climate Superfund Act; \nC.  Award the United States its costs and disbursements in this action; and \nD.  Award such other and further relief as the Court may deem just and proper. \n  Respectfully submitted, \n \nADAM R.F. GUSTAFSON \nActing Assistant Attorney General \n \nROBERT N. STANDER \nDeputy Assistant Attorney General \n \n/s/ Redding C. Cates \nREDDING C. CATES \nJUSTIN D. HEMINGER \nRILEY W. WALTERS \nCHRISTINE W. ENNIS \nAttorneys \nEnvironment and Natural Resources Division \nU.S. Department of Justice \nPost Office Box 7415 \nWashington, D.C. 20044 \n(202) 514-2617 \nredding.cates@usdoj.gov   \n \n28 \n ",
+      "document_type_other": null,
+      "external_url": "https://www.courtlistener.com/docket/70031549/1/united-states-of-america-v-state-of-vermont/",
+      "ecf_number": "1",
+      "clearinghouse_link": "clearinghouse.net/doc/159790"
+    },
+    {
+      "date": "2025-07-09",
+      "date_is_estimate": false,
+      "date_not_available": false,
+      "description": "",
+      "document_source": "RECAP",
+      "document_status": "Coding Complete",
+      "document_type": "Pleading / Motion / Brief",
+      "order_type": null,
+      "citation_paren": null,
+      "cite_1_page": null,
+      "cite_1_reporter": null,
+      "cite_1_vol": null,
+      "cite_2_page": null,
+      "cite_2_reporter": null,
+      "cite_2_vol": null,
+      "cite_3_page": null,
+      "cite_3_reporter": null,
+      "cite_3_vol": null,
+      "citation_status": "Not applicable",
+      "court": "District of Vermont",
+      "no_title": false,
+      "party_types": [
+        "Defendant-Intervenor"
+      ],
+      "per_curium": false,
+      "is_core_document": true,
+      "id": 162494,
+      "file": "https://clearinghouse-umich-production.s3.amazonaws.com/media/doc/162494.pdf",
+      "title": "Motion to Intervene and Supporting Memorandum of Law",
+      "text": "2:25-cv-00463-mkl     Document 24     Filed 07/09/25     Page 1 of 11\nUNITED STATES DISTRICT COURT \nFOR THE DISTRICT OF VERMONT \n \n \nUNITED STATES OF AMERICA and UNITED   \nSTATES ENVIRONMENTAL PROTECTION   \nAGENCY,   \n \nPlaintiffs,  \n \nv.    \n \nSTATE OF VERMONT, et al., \nNo. 2:25-cv-00463  \nDefendants,    \n \nand  \n \n \nNORTHEAST ORGANIC FARMING \nASSOCIATION OF VERMONT AND \nCONSERVATION LAW FOUNDATION,   \nProposed Defendant-\nIntervenors. \n \nMOTION TO INTERVENE AND SUPPORTING MEMORANDUM OF LAW \n \n\n2:25-cv-00463-mkl     Document 24     Filed 07/09/25     Page 2 of 11\nTABLE OF CONTENTS \nTABLE OF AUTHORITIES ........................................................................................................... ii \nPRELIMINARY STATEMENT ...................................................................................................... 1 \nARGUMENT .................................................................................................................................. 2 \nI.  Movants merit permissive intervention .............................................................................. 2 \nA.  This timely motion will not cause undue delay or prejudice .................................. 2 \nB.  Movants’ defense shares common questions of law with the \nmain action .............................................................................................................. 3 \nC.  Movants have strong interests in preserving the Act .............................................. 3 \nD.  Movants will contribute to the just and equitable \nadjudication of the case ........................................................................................... 5 \nE.  Movants need not show that the State’s representation is \ninadequate ............................................................................................................... 6 \nII.  Movants seek leave to defer filing a responsive pleading .................................................. 6 \nCONCLUSION ............................................................................................................................... 7 \n \n   \ni \n \n\n2:25-cv-00463-mkl     Document 24     Filed 07/09/25     Page 3 of 11\nTABLE OF AUTHORITIES \nCases \n335-7 LLC v. City of New York, No. 20-cv-1053, 2020 WL 3100085 (S.D.N.Y June 11, 2020) .. 5 \nAllco Fin. Ltd. v. Etsy, 300 F.R.D. 83 (D. Conn. 2014).............................................................. 3, 6 \nBldg. & Realty Inst. of Westchester & Putnam Ctys., Inc. v. State of New York, No. cv-11285 \n(KMK), 2020 WL 5658703 (S.D.N.Y. Sept. 23, 2020) .................................................. 3, 5 \nBlesch v. Holder, No. 12-cv-1578 (CBA), 2012 WL 1965401 (E.D.N.Y. May 31, 2012) ............. 7 \nBriscoe v. City of New Haven, No. 3:09-cv-1642 (CSH), 2012 WL 13026762 (D. Conn. Oct. 5, \n2012) ................................................................................................................................... 7 \nChamber of Com. v. Moore, No. 2:24-cv-01513 (D. Vt. June 30, 2025), ECF No. 49 .......... 3, 5, 6 \nComcast of Conn. v. Vt. Pub. Util. Comm’n, No. 5:17-cv-161 (GWC), 2018 WL 11469513 (D. \nVt. Feb. 8, 2018) ................................................................................................................. 6 \nCommack Self-Serv. Kosher Meats, Inc. v. Rubin, 170 F.R.D. 93 (E.D.N.Y. 1996) ...................... 5 \nGreen Mountain Chrysler Plymouth Dodge Jeep v. Torti, No. 2:05-cv-302, 2006 WL 8567240 \n(D. Vt. May 3, 2006) ........................................................................................................... 5 \nH.L. Hayden Co. of New York v. Siemens Med. Sys., Inc., 797 F.2d 85 (2d Cir. 1986) ...... 2, 3, 5, 6 \nIn re Holocaust Victim Assets Litig., 225 F.3d 191 (2d Cir. 2000) ................................................. 2 \nN.Y. Pub. Int. Rsch. Grp., Inc. v. Regents of Univ. of State of N.Y., 516 F.2d 350 (2d Cir. 1975) ... 5 \nUnited States v. Pitney Bowes, Inc., 25 F.3d 66 (2d Cir. 1994) ...................................................... 2 \nVa. House of Delegates v. Bethune-Hill, 587 U.S. 658 (2019) ....................................................... 2 \nVt. All. for Ethical Healthcare, Inc. v. Hoser, No. 5:16-cv-205 (GWC), 2016 WL 7015717 (D. \nVt. Dec. 1, 2016) ................................................................................................................. 6 \nWindsor v. United States, 797 F. Supp. 2d 320 (S.D.N.Y. 2011) .................................................... 7 \nCourt Rules \nFed. R. Civ. P. 24(b) .................................................................................................................... 2, 3 \n \n \nii \n \n\n2:25-cv-00463-mkl     Document 24     Filed 07/09/25     Page 4 of 11\nPRELIMINARY STATEMENT  \nNortheast Organic Farming Association of Vermont and Conservation Law Foundation \nhereby move for permissive intervention in the above-captioned proceeding pursuant to Federal \nRule of Civil Procedure 24(b)(1)(B). Movants also seek leave to defer filing their responsive \npleading pursuant to Federal Rule of Civil Procedure 24(c) until August 22, 2025.  \nLast week, this Court granted Movants’ motion for permissive intervention in a \ncompanion case also involving a challenge to the Vermont Climate Superfund Act (the “Act”), \nChamber of Commerce v. Moore (Case No. 2:24-cv-01513). This motion presents identical \nquestions as that motion—questions the Court considered and resolved in permitting Movants to \nintervene in the companion case. Both cases challenge the same statute, involve similar legal \nissues, seek similar relief against the same defendants, and will be briefed on the same schedule. \nMovants in both cases have a substantial interest in defending the Act. Movants seek to intervene \nin this case as well to clarify and ensure that Movants may be heard on all issues raised by \nPlaintiffs in both cases and fully participate in the briefing of those issues. Because the Court has \nalready entered a briefing schedule that can accommodate Movants’ participation, this timely \nmotion will not require any changes to the existing briefing schedule or otherwise prejudice \nPlaintiffs.  \nTo avoid burdening the Court and Plaintiffs with potentially extraneous motion practice, \nMovants deferred filing this motion until after the Court ruled on their motion to intervene in \nChamber. To avoid any surprise to Plaintiffs, on June 11 Movants’ lawyers advised counsel for \nthe United States of Movants’ plan to defer filing their motion to intervene in this case. On June \n30, shortly after the Court granted the motion to intervene in the Chamber case, Movants’ \ncounsel again contacted counsel for the United States, seeking agreement to Movants’ \nintervention in this matter. The United States, however, advised counsel that they oppose \n1 \n \n\n2:25-cv-00463-mkl     Document 24     Filed 07/09/25     Page 5 of 11\nintervention, necessitating the filing of this contested motion. Undersigned counsel have also \nspoken to counsel for Defendants, who represented that Defendants consent to the relief \nrequested by this Motion. \nARGUMENT \nMovants seek permissive intervention under Federal Rule of Civil Procedure 24(b)(1)(B). \nA district court may grant permissive intervention “if the application is timely and if the \n‘applicant’s claim or defense and the main action have a question of law or fact in common.’” In \nre Holocaust Victim Assets Litig., 225 F.3d 191, 202 (2d Cir. 2000) (citing Fed. R. Civ. P. \n24(b)(1)). The court’s “principal guide” in exercising its discretion is “whether the intervention \nwill unduly delay or prejudice the adjudication of the rights of the original parties.” United States \nv. Pitney Bowes, Inc., 25 F.3d 66, 73 (2d Cir. 1994) (citing Fed. R. Civ. P. 24(b)(3)). The court \nmay also consider the “nature and extent” of proposed intervenors’ interests and whether they \nwill “significantly contribute” to, among other things, “the just and equitable adjudication of the \nlegal questions presented.” H.L. Hayden Co. of N.Y. v. Siemens Med. Sys., Inc., 797 F.2d 85, 89 \n(2d Cir. 1986). These considerations all support permissive intervention here.1 \nI.  Movants merit permissive intervention  \nA.  This timely motion will not cause undue delay or prejudice  \nThis motion—filed less than two months after Plaintiffs served their complaint, ECF Nos. \n10, 11, 12, 13—is timely. The case is still in its early stages: initial briefing begins on August 15 \nand extends through December. ECF No. 23; Bldg. & Realty Inst. of Westchester & Putnam \nCtys., Inc. v. State of New York, No. 19-cv-11285 (KMK), 2020 WL 5658703, at *7 (S.D.N.Y. \n \n1 Movants need not establish Article III standing because as prospective defendant-intervenors, \nthey do not seek to invoke the Court’s jurisdiction. See Va. House of Delegates v. Bethune-Hill, \n587 U.S. 658, 663 (2019). \n2 \n \n\n2:25-cv-00463-mkl     Document 24     Filed 07/09/25     Page 6 of 11\nSept. 23, 2020) (intervention motion filed three months after complaint was timely where case \nwas in early stages and no significant substantive motions had been filed); Allco Fin. Ltd. v. Etsy, \n300 F.R.D. 83, 86 (D. Conn. 2014) (intervention motion filed three months after suit was timely \nwhere defendant had not answered or moved to dismiss). \nMovants’ intervention will not cause undue delay or prejudice to the existing parties. See \nOrder Granting Northeast Organic Farming Association of Vermont and Conservation Law \nFoundation’s Mot. to Intervene at 5, Chamber of Com. v. Moore, No. 2:24-cv-01513 (D. Vt. June \n30, 2025), ECF No. 49 (“Chamber Order”). The schedules this Court has ordered in the two \ncases can accommodate Movants’ participation. See ECF No. 23; Scheduling Order, Chamber of \nCom. v. Moore, No. 2:24-cv-01513 (D. Vt. June 30, 2025), ECF No. 52. In fact, the Chamber \norder already sets deadlines for Movants, and adding those deadlines to this case will not require \nchanges to any other parties’ deadlines or otherwise delay briefing. Movants are committed to \navoiding duplication and working with the parties to advance the efficient adjudication of this \nmatter. See Chamber Order at 5.  \nB.  Movants’ defense shares common questions of law with the main action \nMovants intend to address the fundamental legal questions presented by Plaintiffs by \nshowing that the Climate Superfund Act is constitutional and is not preempted. Movants’ defense \nthus shares common questions of law with the main action. See Fed. R. Civ. P. 24(b)(1)(B); \nChamber Order at 6. \nC.  Movants have strong interests in preserving the Act  \nThe “nature and extent” of Movants’ interests in this case weigh in favor of intervention. \nH.L. Hayden, 797 F.2d at 89. Movants’ members have experienced or witnessed firsthand harms \nfrom climate change and will continue to face these harms without additional—and costly—\n3 \n \n\n2:25-cv-00463-mkl     Document 24     Filed 07/09/25     Page 7 of 11\nadaptation measures. These are precisely the harms that motivated the Act’s passage and which \nthe Act seeks to limit in the future.  \n  Movants’ members’ homes, businesses, and communities have been devastated by \nflooding. Declaration of Allison Palmer (Palmer Decl.) ¶¶ 3-8; Declaration of Karl Bissex \n(Bissex Decl.) ¶¶ 4-6; Declaration of Katie Trautz (Trautz Decl.) ¶ 7; Declaration of Wesley \nHamilton (Hamilton Decl.) ¶¶ 3, 5; Declaration of Andy Jones (Jones Decl.) ¶¶ 9-10, Declaration \nof Grace Oedel (Oedel Decl.) ¶¶ 7, 9.2 Members have experienced and witnessed other climate \nimpacts too, including heavier rainfall, increased drought, warmer summers, and wildfire smoke. \nJones Decl. ¶¶ 14-15, Oedel Decl. ¶ 10, Declaration of Megan Malgeri (Malgeri Decl.) ¶¶ 4-8, \nTrautz Decl. ¶ 12. Movants and their members are currently shouldering the cost of recovering \nfrom these climate harms and adapting for the future: They have built floodwalls for their homes, \ngutted and rebuilt their businesses, moved their crops into greenhouses, begun the process of \nrelocating their communities and businesses to higher ground, and more. Palmer Decl. ¶¶ 11-12; \nBissex Decl. ¶¶ 15-16; Hamilton Decl. ¶¶ 5-7; Jones Decl. ¶ 8. \nMovants stand to benefit from the Act. Funds from the Act could be used for a wide range \nof additional adaptation projects to protect Movants and their members against future climate \nharms. Trautz Decl. ¶ 14; Hamilton Decl. ¶ 9; Bissex Decl. ¶ 15; Jones Decl. ¶¶ 17, 19; Oedel \nDecl. ¶ 14; Malgeri Decl. ¶ 10; Vt. Stat. Ann. tit. 10, § 596(2) (defining “climate change adaption \nproject”). In addition, Movants and their members—hundreds of individuals and farms—may \nbenefit from other public projects that may be eligible for funding under the Act, such as \nupgrades to stormwater systems, the electric grid, bridges, and other infrastructure. Because “the \n \n2 Movants have attached the same declarations they and their members submitted in the Chamber \ncase.  \n4 \n \n\n2:25-cv-00463-mkl     Document 24     Filed 07/09/25     Page 8 of 11\nvalidity of a [law] from which its members benefit is challenged,” Movants have a “sufficient” \ninterest in this case. N.Y. Pub. Int. Rsch. Grp., Inc. v. Regents of Univ. of State of N.Y., 516 F.2d \n350, 352 (2d Cir. 1975) (per curiam). \nFinally, Movants and their members played a critical role in advocating for the Act. CLF \nadvised lawmakers during the legislative process and testified in support of the Act. Declaration \nof Kate Sinding Daly (Daly Decl.) ¶ 8. Andy Jones, a NOFA Vermont member, likewise testified \nin support of the Act. Jones Decl. ¶ 20. And CLF continues to track and support the Act’s \nimplementation. Daly Decl. ¶ 9. Movants “have an interest in seeking to uphold the validity of \nthe legislation they worked to enact” and “would be denied the full opportunity to do so if” not \npermitted to intervene. Chamber Order at 6; see also Bldg. & Realty Inst., 2020 WL 5658703, at \n*11; Commack Self-Serv. Kosher Meats, Inc. v. Rubin, 170 F.R.D. 93, 102 (E.D.N.Y. 1996); \nGreen Mountain Chrysler Plymouth Dodge Jeep v. Torti, No. 2:05-cv-302, 2006 WL 8567240, \nat *4 (D. Vt. May 3, 2006). \nD.  Movants will contribute to the just and equitable adjudication of the case \nMovants will “significantly contribute” to “the just and equitable adjudication of the legal \nquestions presented.” H.L. Hayden, 797 F.2d at 89. “[B]y representing a cross-section of \nVermont citizens who have been allegedly harmed by climate change, [Movants] bear a unique \nperspective which will allow for the full development of relevant facts.” Chamber Order at 7; see \nalso Commack, 170 F.R.D. at 106. And Movants’ “viewpoint and knowledge of the underlying \ncircumstances would assist the court during the course of litigation.” Chamber Order at 8 (citing \n335-7 LLC v. City of New York, No. 20-cv-1053, 2020 WL 3100085, at *3 (S.D.N.Y June 11, \n2020)). \n5 \n \n\n2:25-cv-00463-mkl     Document 24     Filed 07/09/25     Page 9 of 11\nE.  Movants need not show that the State’s representation is inadequate \n  As the Court recognized in the companion case, Rule 24(b) does not necessitate “a \nfinding that party representation be inadequate” in order to grant permissive intervention. \nChamber Order at 7 (quoting New York v. United States Dep’t of Health & Hum. Servs., No. 19-\ncv-4676 (PAE), 2019 WL 3531960, at *6 (S.D.N.Y. Aug. 2, 2019)). Accordingly, courts in this \ncircuit routinely grant permissive intervention even when the state government will adequately \ndefend the challenged law. See, e.g., New York, 2019 WL 3531960, at *6 (granting permissive \nintervention without a finding of inadequate representation); Comcast of Conn. v. Vt. Pub. Util. \nComm’n, No. 5:17-cv-161 (GWC), 2018 WL 11469513, at *4 (D. Vt. Feb. 8, 2018) (same); Vt. \nAll. for Ethical Healthcare, Inc. v. Hoser, No. 5:16-cv-205 (GWC), 2016 WL 7015717, at *2 (D. \nVt. Dec. 1, 2016) (same). Moreover, granting permissive intervention despite the State’s \nadequate representation is especially appropriate where, as here, proposed intervenors will \n“assist in the just and equitable adjudication” of the case. Allco Fin. Ltd., 300 F.R.D. at 88 \n(quoting H.L. Hayden Co., 797 F.2d at 89); see supra Section I.D; see also Chamber Order at 7-\n8 (finding Movants’ participation will assist the Court’s adjudication of the companion case).  \nII.  Movants seek leave to defer filing a responsive pleading  \nMovants respectfully seek leave to defer filing their responsive pleading pursuant to \nFederal Rule of Civil Procedure 24(c) until August 22, 2025, seven calendar days after \nDefendants’ deadline to file a responsive pleading. This is Movants’ deadline to file a responsive \npleading in the companion case and will allow Movants to minimize unnecessary repetition, \nthereby furthering judicial economy. \nCourts regularly grant such requests where a movant’s position is clear from its papers \nand opposing parties would not be prejudiced. See, e.g., Briscoe v. City of New Haven, No. 3:09-\ncv-1642 (CSH), 2012 WL 13026762, at *6 (D. Conn. Oct. 5, 2012); Blesch v. Holder, No. 12-cv-\n6 \n \n\n2:25-cv-00463-mkl     Document 24     Filed 07/09/25     Page 10 of 11\n1578 (CBA), 2012 WL 1965401 at *2 (E.D.N.Y. May 31, 2012); Windsor v. United States, 797 F. \nSupp. 2d 320, 325 (S.D.N.Y. 2011). As described supra, Movants intend to argue that the \nchallenged Act is constitutional and is not preempted. In addition, Movants intend to argue that \nfor jurisdictional and/or jurisprudential reasons, this Court should not adjudicate Plaintiffs’ \nclaims. Plaintiffs would not be prejudiced by a deferral, since the case is at a very early stage and \nthe briefing schedule can accommodate Movants’ participation.  \nCONCLUSION \n  For the foregoing reasons, the Court should grant Movants’ motion for permissive \nintervention and Movants’ request to defer filing a responsive pleading or motion to dismiss until \nAugust 22, 2025. \n \nDated: July 9, 2025                        Respectfully submitted, \n  /s/ Bridget Asay                             . \n  Bridget Asay  \nSTRIS & MAHER LLP \n15 East State Street, Suite 2 \nMontpelier, VT 05602 \nTelephone: (802) 858-4285 \nbasay@stris.com \n \n  Michael Donofrio \nSTRIS & MAHER LLP \n15 East State Street, Suite 2 \nMontpelier, VT 05602 \nTelephone: (802) 858-4465 \nmdonofrio@stris.com \n \nCounsel for Northeast Organic Farming \nAssociation of Vermont  \n \n  /s/ Adeline S. Rolnick*                    . \n  Adeline S. Rolnick \nNatural Resources Defense Council, Inc. \n1152 15th Street Suite 300 \nWashington, DC 20005 \n7 \n \n\n2:25-cv-00463-mkl     Document 24     Filed 07/09/25     Page 11 of 11\nPhone: (202) 513-6240 \narolnick@nrdc.org  \n \nMitchell S. Bernard*                          \nNatural Resources Defense Council, Inc. \n40 West 20th Street, 11th Floor \nNew York, NY 10011 \nPhone: (212) 727-4469 \nmbernard@nrdc.org \n \nCounsel for Northeast Organic Farming \nAssociation of Vermont and Conservation \nLaw Foundation  \n \n*Motion for pro hac vice forthcoming \n \n/s/ Elena M. Mihaly                      . \nElena M. Mihaly \nConservation Law Foundation, Inc. \n15 East State Street, Ste. 4 \nMontpelier, VT 05602 \nPhone: (802) 622-3012 \nemihaly@clf.org \n \nCounsel for Conservation Law Foundation \n \n8 \n ",
+      "document_type_other": null,
+      "external_url": "https://www.courtlistener.com/docket/70031549/24/united-states-of-america-v-state-of-vermont/",
+      "ecf_number": "24",
+      "clearinghouse_link": "clearinghouse.net/doc/162494"
+    },
+    {
+      "date": null,
+      "date_is_estimate": false,
+      "date_not_available": false,
+      "description": null,
+      "document_source": null,
+      "document_status": null,
+      "document_type": null,
+      "order_type": null,
+      "citation_paren": null,
+      "cite_1_page": null,
+      "cite_1_reporter": null,
+      "cite_1_vol": null,
+      "cite_2_page": null,
+      "cite_2_reporter": null,
+      "cite_2_vol": null,
+      "cite_3_page": null,
+      "cite_3_reporter": null,
+      "cite_3_vol": null,
+      "citation_status": null,
+      "court": null,
+      "no_title": false,
+      "party_types": [],
+      "per_curium": false,
+      "is_core_document": true,
+      "id": 159789,
+      "file": null,
+      "title": null,
+      "text": null,
+      "document_type_other": null,
+      "external_url": null,
+      "ecf_number": null,
+      "clearinghouse_link": "clearinghouse.net/doc/159789"
+    },
+    {
+      "date": "2025-08-08",
+      "date_is_estimate": false,
+      "date_not_available": false,
+      "description": "",
+      "document_source": "RECAP",
+      "document_status": "Coding Complete",
+      "document_type": "Order/Opinion",
+      "order_type": "Non-Decree",
+      "citation_paren": null,
+      "cite_1_page": null,
+      "cite_1_reporter": null,
+      "cite_1_vol": null,
+      "cite_2_page": null,
+      "cite_2_reporter": null,
+      "cite_2_vol": null,
+      "cite_3_page": null,
+      "cite_3_reporter": null,
+      "cite_3_vol": null,
+      "citation_status": "No citation available",
+      "court": "District of Vermont",
+      "no_title": false,
+      "party_types": [
+        "Court"
+      ],
+      "per_curium": false,
+      "is_core_document": true,
+      "id": 163670,
+      "file": "https://clearinghouse-umich-production.s3.amazonaws.com/media/doc/163670.pdf",
+      "title": "Order",
+      "text": "2:25-cv-00463-mkl     Document 34     Filed 08/08/25     Page 1 of 8\n\n2:25-cv-00463-mkl     Document 34     Filed 08/08/25     Page 2 of 8\n\n2:25-cv-00463-mkl     Document 34     Filed 08/08/25     Page 3 of 8\n\n2:25-cv-00463-mkl     Document 34     Filed 08/08/25     Page 4 of 8\n\n2:25-cv-00463-mkl     Document 34     Filed 08/08/25     Page 5 of 8\n\n2:25-cv-00463-mkl     Document 34     Filed 08/08/25     Page 6 of 8\n\n2:25-cv-00463-mkl     Document 34     Filed 08/08/25     Page 7 of 8\n\n2:25-cv-00463-mkl     Document 34     Filed 08/08/25     Page 8 of 8",
+      "document_type_other": null,
+      "external_url": "https://www.courtlistener.com/docket/70031549/34/united-states-of-america-v-state-of-vermont/",
+      "ecf_number": "34",
+      "clearinghouse_link": "clearinghouse.net/doc/163670"
+    }
+  ],
+  "document_count": 4
+}

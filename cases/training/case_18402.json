@@ -1,0 +1,695 @@
+{
+  "case_id": 18402,
+  "fetched_at": "2025-10-22T00:35:00.968815",
+  "case_data": {
+    "attorney_orgs": [
+      "NDRN/Protection & Advocacy Organizations"
+    ],
+    "available_documents": [
+      "Complaint (any)"
+    ],
+    "case_defendants": [
+      {
+        "defendant_level": null,
+        "institution": "",
+        "institution_alt_state": null,
+        "institution_city": "",
+        "institution_county": "Marion",
+        "name": "Marion County Sheriff's Office",
+        "defendant_level_other": "",
+        "is_active": true
+      },
+      {
+        "defendant_level": null,
+        "institution": "",
+        "institution_alt_state": null,
+        "institution_city": "",
+        "institution_county": "Marion",
+        "name": "Marion County",
+        "defendant_level_other": "",
+        "is_active": true
+      },
+      {
+        "defendant_level": null,
+        "institution": "",
+        "institution_alt_state": null,
+        "institution_city": "Indianapolis",
+        "institution_county": null,
+        "name": "Indianapolis Metropolitan Police Department",
+        "defendant_level_other": "",
+        "is_active": true
+      }
+    ],
+    "case_ongoing": "No",
+    "case_status": "Approved",
+    "case_types": [
+      "Prison Conditions",
+      "Policing",
+      "Jail Conditions",
+      "Healthcare Access and Reproductive Issues",
+      "Disability Rights"
+    ],
+    "cause_other": "",
+    "causes": [
+      "Americans with Disabilities Act (ADA), 42 U.S.C. §§ 12111 et seq.",
+      "Section 504 (Rehabilitation Act), 29 U.S.C. § 701",
+      "State law"
+    ],
+    "class_action_granted": "Not sought",
+    "class_action_sought": "No",
+    "closing_year": 2021,
+    "constitutional_clause": [],
+    "content_of_injunction": [],
+    "court": "Southern District of Indiana",
+    "custom_issues": [],
+    "defendant_payment": "",
+    "defendant_type": [
+      {
+        "value": "Corrections"
+      }
+    ],
+    "docket_status": "Complete as of retrieval date",
+    "facility_type": [],
+    "filing_date": "2020-05-13",
+    "filing_year": 2020,
+    "id": 18402,
+    "injunction_duration": "",
+    "issues": [
+      "Disability and Disability Rights: Hearing impairment",
+      "Discrimination Basis: Disability (inc. reasonable accommodations)",
+      "General/Misc.: Communication skills"
+    ],
+    "last_checked_date": "2022-06-26T00:00:00-04:00",
+    "main_docket": {
+      "id": 27113,
+      "docket_entries": [
+        {
+          "row_number": 10,
+          "id": 8562522,
+          "entry_number": "2",
+          "date_filed": "2020-05-13T00:00:00-04:00",
+          "attachments": [],
+          "url": "https://www.courtlistener.com/docket/17155351/2/rowe-v-indianapolis-metropolitan-police-department/",
+          "recap_pdf_url": null,
+          "pacer_doc_id": "07307950190",
+          "description": "NOTICE of Appearance by Nikki G. Gray on behalf of Plaintiff GERALD ROWE. (Gray, Nikki) (Entered: 05/13/2020)"
+        },
+        {
+          "row_number": 33,
+          "id": 8562525,
+          "entry_number": "5",
+          "date_filed": "2020-05-20T00:00:00-04:00",
+          "attachments": [],
+          "url": "https://www.courtlistener.com/docket/17155351/5/rowe-v-indianapolis-metropolitan-police-department/",
+          "recap_pdf_url": null,
+          "pacer_doc_id": "07307962128",
+          "description": "NOTICE of Appearance by Anthony W. Overholt on behalf of Defendant MARION COUNTY SHERIFF'S OFFICE. (Overholt, Anthony) (Entered: 05/20/2020)"
+        },
+        {
+          "row_number": 36,
+          "id": 8562528,
+          "entry_number": "8",
+          "date_filed": "2020-06-08T00:00:00-04:00",
+          "attachments": [],
+          "url": "https://www.courtlistener.com/docket/17155351/8/rowe-v-indianapolis-metropolitan-police-department/",
+          "recap_pdf_url": null,
+          "pacer_doc_id": "07307991539",
+          "description": "NOTICE of Appearance by Andrew J. Upchurch on behalf of Defendants INDIANAPOLIS METROPOLITAN POLICE DEPARTMENT, MARION COUNTY, MARION COUNTY SHERIFF'S OFFICE. (Upchurch, Andrew) (Entered: 06/08/2020)"
+        },
+        {
+          "row_number": 37,
+          "id": 8562529,
+          "entry_number": "9",
+          "date_filed": "2020-06-08T00:00:00-04:00",
+          "attachments": [],
+          "url": "https://www.courtlistener.com/docket/17155351/9/rowe-v-indianapolis-metropolitan-police-department/",
+          "recap_pdf_url": null,
+          "pacer_doc_id": "07307991542",
+          "description": "NOTICE of Parties' First Extension of Time, filed by Defendants INDIANAPOLIS METROPOLITAN POLICE DEPARTMENT, MARION COUNTY, MARION COUNTY SHERIFF'S OFFICE. (Upchurch, Andrew) (Entered: 06/08/2020)"
+        },
+        {
+          "row_number": 1,
+          "id": 8562530,
+          "entry_number": "10",
+          "date_filed": "2020-07-06T00:00:00-04:00",
+          "attachments": [],
+          "url": "https://www.courtlistener.com/docket/17155351/10/rowe-v-indianapolis-metropolitan-police-department/",
+          "recap_pdf_url": null,
+          "pacer_doc_id": "07308039709",
+          "description": "ANSWER to 1 Complaint, filed by INDIANAPOLIS METROPOLITAN POLICE DEPARTMENT, MARION COUNTY, MARION COUNTY SHERIFF'S OFFICE.(Upchurch, Andrew) (Entered: 07/06/2020)"
+        },
+        {
+          "row_number": 2,
+          "id": 8562531,
+          "entry_number": "11",
+          "date_filed": "2020-07-07T00:00:00-04:00",
+          "attachments": [],
+          "url": "https://www.courtlistener.com/docket/17155351/11/rowe-v-indianapolis-metropolitan-police-department/",
+          "recap_pdf_url": null,
+          "pacer_doc_id": "07308044155",
+          "description": "SCHEDULING ORDER-TELEPHONIC Initial Pretrial Conference set for 7/28/2020 at 2:00 PM (Eastern) before Magistrate Judge Mark J. Dinsmore. Counsel shall attend the conference by calling the designated telephone number, to be provided by the Court via email generated by the Court's ECF system. The parties shall file a proposed CMP on or before 7/23/2020. Signed by Magistrate Judge Mark J. Dinsmore on 7/7/2020.(CBU) (Entered: 07/08/2020)"
+        },
+        {
+          "row_number": 3,
+          "id": 8562532,
+          "entry_number": "12",
+          "date_filed": "2020-07-23T00:00:00-04:00",
+          "attachments": [],
+          "url": "https://www.courtlistener.com/docket/17155351/12/rowe-v-indianapolis-metropolitan-police-department/",
+          "recap_pdf_url": null,
+          "pacer_doc_id": "07308074841",
+          "description": "JOINT PROPOSED CASE MANAGEMENT PLAN TENDERED, filed by Plaintiff GERALD ROWE . (Gray, Nikki) (Entered: 07/23/2020)"
+        },
+        {
+          "row_number": 5,
+          "id": 8562534,
+          "entry_number": "15",
+          "date_filed": "2020-07-28T00:00:00-04:00",
+          "attachments": [],
+          "url": "https://www.courtlistener.com/docket/17155351/15/rowe-v-indianapolis-metropolitan-police-department/",
+          "recap_pdf_url": null,
+          "pacer_doc_id": "07308080395",
+          "description": "Summons Issued as to CITY OF INDIANAPOLIS. (JRB) (Entered: 07/28/2020)"
+        },
+        {
+          "row_number": 8,
+          "id": 8562537,
+          "entry_number": "18",
+          "date_filed": "2020-07-28T00:00:00-04:00",
+          "attachments": [],
+          "url": "https://www.courtlistener.com/docket/17155351/18/rowe-v-indianapolis-metropolitan-police-department/",
+          "recap_pdf_url": null,
+          "pacer_doc_id": "07308094544",
+          "description": "ORDER: CASE MANAGEMENT PLAN APPROVED AS AMENDED. Dispositive Motions due by 4/2/2021. Discovery due by 3/5/2021. *SEE ALL DEADLINES.* Signed by Magistrate Judge Mark J. Dinsmore on 7/28/2020. (GD) (Entered: 08/04/2020)"
+        },
+        {
+          "row_number": 9,
+          "id": 8562538,
+          "entry_number": "19",
+          "date_filed": "2020-08-10T00:00:00-04:00",
+          "attachments": [],
+          "url": "https://www.courtlistener.com/docket/17155351/19/rowe-v-indianapolis-metropolitan-police-department/",
+          "recap_pdf_url": null,
+          "pacer_doc_id": "07308106298",
+          "description": "NOTICE of Appearance by Andrew J. Upchurch on behalf of Defendant CITY OF INDIANAPOLIS. (Upchurch, Andrew) (Entered: 08/10/2020)"
+        },
+        {
+          "row_number": 11,
+          "id": 8562539,
+          "entry_number": "20",
+          "date_filed": "2020-08-10T00:00:00-04:00",
+          "attachments": [],
+          "url": "https://www.courtlistener.com/docket/17155351/20/rowe-v-indianapolis-metropolitan-police-department/",
+          "recap_pdf_url": null,
+          "pacer_doc_id": "07308106301",
+          "description": "ANSWER to 14 Amended Complaint, filed by CITY OF INDIANAPOLIS, INDIANAPOLIS METROPOLITAN POLICE DEPARTMENT, MARION COUNTY, MARION COUNTY SHERIFF'S OFFICE.(Upchurch, Andrew) (Entered: 08/10/2020)"
+        },
+        {
+          "row_number": 12,
+          "id": 9448228,
+          "entry_number": "21",
+          "date_filed": "2020-08-13T00:00:00-04:00",
+          "attachments": [],
+          "url": "https://www.courtlistener.com/docket/17155351/21/rowe-v-indianapolis-metropolitan-police-department/",
+          "recap_pdf_url": null,
+          "pacer_doc_id": "07308112113",
+          "description": "Exhibit List preliminary, filed by Plaintiff GERALD ROWE. (Gray, Nikki) (Entered: 08/13/2020)"
+        },
+        {
+          "row_number": 13,
+          "id": 9448229,
+          "entry_number": "22",
+          "date_filed": "2020-08-13T00:00:00-04:00",
+          "attachments": [],
+          "url": "https://www.courtlistener.com/docket/17155351/22/rowe-v-indianapolis-metropolitan-police-department/",
+          "recap_pdf_url": null,
+          "pacer_doc_id": "07308112116",
+          "description": "Witness List preliminary, filed by Plaintiff GERALD ROWE. (Gray, Nikki) (Entered: 08/13/2020)"
+        },
+        {
+          "row_number": 14,
+          "id": 9448230,
+          "entry_number": "24",
+          "date_filed": "2020-10-05T00:00:00-04:00",
+          "attachments": [],
+          "url": "https://www.courtlistener.com/docket/17155351/24/rowe-v-indianapolis-metropolitan-police-department/",
+          "recap_pdf_url": null,
+          "pacer_doc_id": "07308213959",
+          "description": "~Util - Set Hearings AND Status Conference"
+        },
+        {
+          "row_number": 18,
+          "id": 9448234,
+          "entry_number": "28",
+          "date_filed": "2020-10-07T00:00:00-04:00",
+          "attachments": [],
+          "url": "https://www.courtlistener.com/docket/17155351/28/rowe-v-indianapolis-metropolitan-police-department/",
+          "recap_pdf_url": null,
+          "pacer_doc_id": "07308221637",
+          "description": "Exhibit List"
+        },
+        {
+          "row_number": 23,
+          "id": 9448238,
+          "entry_number": "34",
+          "date_filed": "2020-12-11T00:00:00-05:00",
+          "attachments": [],
+          "url": "https://www.courtlistener.com/docket/17155351/34/rowe-v-indianapolis-metropolitan-police-department/",
+          "recap_pdf_url": null,
+          "pacer_doc_id": "07308349066",
+          "description": "NOTICE of Parties' First Extension of Time re Responding to any written request for discovery or admission, filed by Defendants CITY OF INDIANAPOLIS, INDIANAPOLIS METROPOLITAN POLICE DEPARTMENT, MARION COUNTY, MARION COUNTY SHERIFF'S OFFICE. (Upchurch, Andrew) (Entered: 12/11/2020)"
+        },
+        {
+          "row_number": 24,
+          "id": 9448239,
+          "entry_number": "35",
+          "date_filed": "2020-12-14T00:00:00-05:00",
+          "attachments": [],
+          "url": "https://www.courtlistener.com/docket/17155351/35/rowe-v-indianapolis-metropolitan-police-department/",
+          "recap_pdf_url": null,
+          "pacer_doc_id": "07308367541",
+          "description": "MINUTE ORDER for proceedings held before Magistrate Judge Mark J. Dinsmore: Telephonic Status Conference held on 12/14/2020. Parties discussed status of discovery & readiness for upcoming settlement conference. Conference concluded without further order. Signed by Magistrate Judge Mark J. Dinsmore. (GD) (Entered: 12/22/2020)"
+        },
+        {
+          "row_number": 26,
+          "id": 9448241,
+          "entry_number": "38",
+          "date_filed": "2021-02-11T00:00:00-05:00",
+          "attachments": [],
+          "url": "https://www.courtlistener.com/docket/17155351/38/rowe-v-indianapolis-metropolitan-police-department/",
+          "recap_pdf_url": null,
+          "pacer_doc_id": "07308471548",
+          "description": "MINUTE ORDER for proceedings held before Magistrate Judge Mark J. Dinsmore: Telephonic Status Conference held on 2/11/2021. Parties discussed status of discovery. Telephonic Status Conference set for 3/22/2021 at 3:00 PM (Eastern Time). *SEE ORDER.* Signed by Magistrate Judge Mark J. Dinsmore. (GD) (Entered: 02/17/2021)"
+        },
+        {
+          "row_number": 29,
+          "id": 9448243,
+          "entry_number": "41",
+          "date_filed": "2021-03-22T00:00:00-04:00",
+          "attachments": [],
+          "url": "https://www.courtlistener.com/docket/17155351/41/rowe-v-indianapolis-metropolitan-police-department/",
+          "recap_pdf_url": null,
+          "pacer_doc_id": "07308568627",
+          "description": "MINUTE ORDER for proceedings held before Magistrate Judge Mark J. Dinsmore: Telephonic Status Conference held on 3/22/2021. Parties discussed status of resolution. Court reminded parties that case management deadlines remain in effect. Telephonic Status Conference set for 4/23/2021 at 2:30 PM (Eastern Time). *SEE ORDER.* Signed by Magistrate Judge Mark J. Dinsmore. (GD) (Entered: 04/06/2021)"
+        },
+        {
+          "row_number": 30,
+          "id": 9448244,
+          "entry_number": "43",
+          "date_filed": "2021-04-23T00:00:00-04:00",
+          "attachments": [],
+          "url": "https://www.courtlistener.com/docket/17155351/43/rowe-v-indianapolis-metropolitan-police-department/",
+          "recap_pdf_url": "https://www.courtlistener.com/recap/gov.uscourts.insd.183361/gov.uscourts.insd.183361.43.0.pdf",
+          "pacer_doc_id": "07308609084",
+          "description": "MINUTE ORDER for proceedings held before Magistrate Judge Mark J. Dinsmore: Telephonic Status Conference held on 4/23/202. Parties reported that this matter has been resolved. Therefore, all pending motions are now DENIED AS MOOT & all previously ordered dates are VACATED. Within 60 days of date of this entry, parties shall file for dismissal. *SEE ORDER.* Signed by Magistrate Judge Mark J. Dinsmore. (GD) (Entered: 04/26/2021)"
+        },
+        {
+          "row_number": 31,
+          "id": 9448245,
+          "entry_number": "44",
+          "date_filed": "2021-06-22T00:00:00-04:00",
+          "attachments": [
+            {
+              "recap_id": 198867547,
+              "pacer_url": "https://ecf.insd.uscourts.gov/doc1/07308720800?caseid=183361",
+              "description": "Text of Proposed Order",
+              "attachment_number": 1
+            }
+          ],
+          "url": "https://www.courtlistener.com/docket/17155351/44/rowe-v-indianapolis-metropolitan-police-department/",
+          "recap_pdf_url": "https://www.courtlistener.com/recap/gov.uscourts.insd.183361/gov.uscourts.insd.183361.44.0.pdf",
+          "pacer_doc_id": "07308720799",
+          "description": "Joint MOTION to Dismiss STIPULATION, filed by Plaintiff GERALD ROWE. (Attachments: # 1 Text of Proposed Order)(Gray, Nikki) (Entered: 06/22/2021)"
+        },
+        {
+          "row_number": 32,
+          "id": 10146255,
+          "entry_number": "45",
+          "date_filed": "2021-06-23T00:00:00-04:00",
+          "attachments": [],
+          "url": "https://www.courtlistener.com/docket/17155351/45/rowe-v-indianapolis-metropolitan-police-department/",
+          "recap_pdf_url": null,
+          "pacer_doc_id": "07308723259",
+          "description": "ENTRY - The parties having stipulated that this action should be dismissed with prejudice; and The Court being duly advised in the premises, it is ORDERED that this action be, and the same hereby is, dismissed with prejudice, with each party to bear its own costs. Signed by Judge Richard L. Young on 6/23/2021.(AAS) (Entered: 06/23/2021)"
+        },
+        {
+          "row_number": 20,
+          "id": 8562523,
+          "entry_number": "3",
+          "date_filed": "2020-05-13T00:00:00-04:00",
+          "attachments": [],
+          "url": "https://www.courtlistener.com/docket/17155351/3/rowe-v-indianapolis-metropolitan-police-department/",
+          "recap_pdf_url": null,
+          "pacer_doc_id": "07307950325",
+          "description": "Summons Issued as to INDIANAPOLIS METROPOLITAN POLICE DEPARTMENT, MARION COUNTY, MARION COUNTY SHERIFF'S OFFICE. (JRB) (Entered: 05/13/2020)"
+        },
+        {
+          "row_number": 34,
+          "id": 8562526,
+          "entry_number": "6",
+          "date_filed": "2020-05-20T00:00:00-04:00",
+          "attachments": [],
+          "url": "https://www.courtlistener.com/docket/17155351/6/rowe-v-indianapolis-metropolitan-police-department/",
+          "recap_pdf_url": null,
+          "pacer_doc_id": "07307962775",
+          "description": "NOTICE of Appearance by Stephanie V. McGowan on behalf of Defendant MARION COUNTY SHERIFF'S OFFICE. (McGowan, Stephanie) (Entered: 05/20/2020)"
+        },
+        {
+          "row_number": 7,
+          "id": 8562536,
+          "entry_number": "17",
+          "date_filed": "2020-07-28T00:00:00-04:00",
+          "attachments": [],
+          "url": "https://www.courtlistener.com/docket/17155351/17/rowe-v-indianapolis-metropolitan-police-department/",
+          "recap_pdf_url": null,
+          "pacer_doc_id": "07308094541",
+          "description": "MINUTE ORDER for proceedings held before Magistrate Judge Mark J. Dinsmore: Telephonic Initial Pretrial Conference held on 7/28/2020. Approved Case Management Plan with parties' agreed changes to be entered by separate order. Telephonic Status Conference set for 10/1/2020 at 4:30 PM (Eastern Time). Settlement Conference set for 1/12/2021 at 9:00 AM (Eastern Time) in room #257, United States Courthouse, 46 E. Ohio Street, Indianapolis, Indiana. *SEE ORDER FOR DEADLINES.* Signed by Magistrate Judge Mark J. Dinsmore. (GD) (Entered: 08/04/2020)"
+        },
+        {
+          "row_number": 19,
+          "id": 9448235,
+          "entry_number": "29",
+          "date_filed": "2020-10-19T00:00:00-04:00",
+          "attachments": [],
+          "url": "https://www.courtlistener.com/docket/17155351/29/rowe-v-indianapolis-metropolitan-police-department/",
+          "recap_pdf_url": null,
+          "pacer_doc_id": "07308240594",
+          "description": "AMENDED SCHEDULING ORDER: Telephonic Status Conference reset for 11/9/2020 at 1:30 PM (Eastern) before Magistrate Judge Mark J. Dinsmore. Signed by Magistrate Judge Mark J. Dinsmore on 10/19/2020.(CBU) Modified on 11/6/2020 (GD). (Entered: 10/19/2020)"
+        },
+        {
+          "row_number": 28,
+          "id": 9448242,
+          "entry_number": "40",
+          "date_filed": "2021-03-22T00:00:00-04:00",
+          "attachments": [],
+          "url": "https://www.courtlistener.com/docket/17155351/40/rowe-v-indianapolis-metropolitan-police-department/",
+          "recap_pdf_url": null,
+          "pacer_doc_id": "07308533960",
+          "description": "NOTICE of Appearance by Adam Scott Willfond on behalf of Defendants CITY OF INDIANAPOLIS, INDIANAPOLIS METROPOLITAN POLICE DEPARTMENT, MARION COUNTY, MARION COUNTY SHERIFF'S OFFICE. (Willfond, Adam) (Entered: 03/22/2021)"
+        },
+        {
+          "row_number": 0,
+          "id": 8562521,
+          "entry_number": "1",
+          "date_filed": "2020-05-13T00:00:00-04:00",
+          "attachments": [
+            {
+              "recap_id": 133347299,
+              "pacer_url": "https://ecf.insd.uscourts.gov/doc1/07307950180?caseid=183361",
+              "description": "Civil Cover Sheet",
+              "attachment_number": 1
+            },
+            {
+              "recap_id": 133347300,
+              "pacer_url": "https://ecf.insd.uscourts.gov/doc1/07307950181?caseid=183361",
+              "description": "Proposed Summons",
+              "attachment_number": 2
+            }
+          ],
+          "url": "https://www.courtlistener.com/docket/17155351/1/rowe-v-indianapolis-metropolitan-police-department/",
+          "recap_pdf_url": "https://www.courtlistener.com/recap/gov.uscourts.insd.183361/gov.uscourts.insd.183361.1.0.pdf",
+          "pacer_doc_id": "07307950179",
+          "description": "COMPLAINT against All Defendants, filed by GERALD ROWE. (Filing fee $400, receipt number 0756-5990210) (Attachments: # 1 Civil Cover Sheet, # 2 Proposed Summons)(Gray, Nikki) (Entered: 05/13/2020)"
+        },
+        {
+          "row_number": 4,
+          "id": 8562533,
+          "entry_number": "14",
+          "date_filed": "2020-07-27T00:00:00-04:00",
+          "attachments": [
+            {
+              "recap_id": 198867545,
+              "pacer_url": "https://ecf.insd.uscourts.gov/doc1/07308078585?caseid=183361",
+              "description": "Proposed Summons",
+              "attachment_number": 1
+            }
+          ],
+          "url": "https://www.courtlistener.com/docket/17155351/14/rowe-v-indianapolis-metropolitan-police-department/",
+          "recap_pdf_url": "https://www.courtlistener.com/recap/gov.uscourts.insd.183361/gov.uscourts.insd.183361.14.0.pdf",
+          "pacer_doc_id": "07308078584",
+          "description": "AMENDED COMPLAINT against All Defendants, filed by GERALD ROWE. (Attachments: # 1 Proposed Summons)(Gray, Nikki) (Entered: 07/27/2020)"
+        },
+        {
+          "row_number": 25,
+          "id": 9448240,
+          "entry_number": "36",
+          "date_filed": "2021-01-12T00:00:00-05:00",
+          "attachments": [],
+          "url": "https://www.courtlistener.com/docket/17155351/36/rowe-v-indianapolis-metropolitan-police-department/",
+          "recap_pdf_url": "https://www.courtlistener.com/recap/gov.uscourts.insd.183361/gov.uscourts.insd.183361.36.0.pdf",
+          "pacer_doc_id": "07308402109",
+          "description": "MINUTE ORDER for proceedings held before Magistrate Judge Mark J. Dinsmore: Telephonic Settlement Conference held on 1/12/2021. Settlement discussion remain under way. Approved Case Management Plan 18 is hereby amended. Discovery due by 5/7/2021. Dispositive Motions due by 6/4/2021. Telephonic Status Conference set for 2/11/2021 at 3:00 PM (Eastern Time). *SEE ORDER.* Signed by Magistrate Judge Mark J. Dinsmore. (GD) (Entered: 01/12/2021)"
+        },
+        {
+          "row_number": 21,
+          "id": 9448236,
+          "entry_number": "31",
+          "date_filed": "2020-11-09T00:00:00-05:00",
+          "attachments": [],
+          "url": "https://www.courtlistener.com/docket/17155351/31/rowe-v-indianapolis-metropolitan-police-department/",
+          "recap_pdf_url": null,
+          "pacer_doc_id": "07308298049",
+          "description": "MINUTE ORDER for proceedings held before Magistrate Judge Mark J. Dinsmore: Telephonic Status Conference held on 11/9/2020. Parties discussed status of discovery. Telephonic Status Conference set for 12/14/2020 at 10:30 AM (Eastern Time). *SEE ORDER.* Signed by Magistrate Judge Mark J. Dinsmore. (GD) (Entered: 11/17/2020)"
+        },
+        {
+          "row_number": 6,
+          "id": 8562535,
+          "entry_number": "16",
+          "date_filed": "2020-07-28T00:00:00-04:00",
+          "attachments": [],
+          "url": "https://www.courtlistener.com/docket/17155351/16/rowe-v-indianapolis-metropolitan-police-department/",
+          "recap_pdf_url": null,
+          "pacer_doc_id": "07308084618",
+          "description": "ORDER REGARDING PROTECTIVE ORDERS. See Order. Signed by Magistrate Judge Mark J. Dinsmore on 7/28/2020.(SWM) (Entered: 07/29/2020)"
+        },
+        {
+          "row_number": 15,
+          "id": 9448231,
+          "entry_number": "25",
+          "date_filed": "2020-10-07T00:00:00-04:00",
+          "attachments": [],
+          "url": "https://www.courtlistener.com/docket/17155351/25/rowe-v-indianapolis-metropolitan-police-department/",
+          "recap_pdf_url": null,
+          "pacer_doc_id": "07308219778",
+          "description": "Exhibit List"
+        },
+        {
+          "row_number": 16,
+          "id": 9448232,
+          "entry_number": "26",
+          "date_filed": "2020-10-07T00:00:00-04:00",
+          "attachments": [],
+          "url": "https://www.courtlistener.com/docket/17155351/26/rowe-v-indianapolis-metropolitan-police-department/",
+          "recap_pdf_url": null,
+          "pacer_doc_id": "07308219804",
+          "description": "Witness List"
+        },
+        {
+          "row_number": 17,
+          "id": 9448233,
+          "entry_number": "27",
+          "date_filed": "2020-10-07T00:00:00-04:00",
+          "attachments": [],
+          "url": "https://www.courtlistener.com/docket/17155351/27/rowe-v-indianapolis-metropolitan-police-department/",
+          "recap_pdf_url": null,
+          "pacer_doc_id": "07308221630",
+          "description": "Witness List"
+        },
+        {
+          "row_number": 27,
+          "id": 8562524,
+          "entry_number": "4",
+          "date_filed": "2020-05-13T00:00:00-04:00",
+          "attachments": [],
+          "url": "https://www.courtlistener.com/docket/17155351/4/rowe-v-indianapolis-metropolitan-police-department/",
+          "recap_pdf_url": null,
+          "pacer_doc_id": "07307950331",
+          "description": "MAGISTRATE JUDGE's NOTICE of Availability to Exercise Jurisdiction issued. (JRB) (Entered: 05/13/2020)"
+        },
+        {
+          "row_number": 35,
+          "id": 8562527,
+          "entry_number": "7",
+          "date_filed": "2020-06-02T00:00:00-04:00",
+          "attachments": [],
+          "url": "https://www.courtlistener.com/docket/17155351/7/rowe-v-indianapolis-metropolitan-police-department/",
+          "recap_pdf_url": null,
+          "pacer_doc_id": "07307981256",
+          "description": "RETURN of Service, filed by GERALD ROWE. INDIANAPOLIS METROPOLITAN POLICE DEPARTMENT served on 5/26/2020; MARION COUNTY served on 5/19/2020; MARION COUNTY SHERIFF'S OFFICE served on 5/18/2020. (Attachments: # 1 Exhibit Ex. A - USPS Mail Receipts)(Gray, Nikki) (Entered: 06/02/2020)"
+        },
+        {
+          "row_number": 22,
+          "id": 9448237,
+          "entry_number": "32",
+          "date_filed": "2020-11-30T00:00:00-05:00",
+          "attachments": [],
+          "url": "https://www.courtlistener.com/docket/17155351/32/rowe-v-indianapolis-metropolitan-police-department/",
+          "recap_pdf_url": null,
+          "pacer_doc_id": "07308319805",
+          "description": "AMENDED SCHEDULING ORDER: This matter is currently set for an in-person Settlement Conference on Monday, January 12, 2021 at 9:00 a.m. (Eastern). The Court, sua sponte, hereby CONVERTS the settlement conference from in person to telephonic; all other requirements of the Court's Order scheduling the settlement conference [Dkt. 17 ] remain in effect, and all persons required to appear thereby shall appear by telephone for the settlement conference via call-in information to be separately provided. Signed by Magistrate Judge Mark J. Dinsmore on 11/30/2020.(SWM) (Entered: 11/30/2020)"
+        }
+      ],
+      "docket_case_type": "cv",
+      "docket_year": 2020,
+      "docket_filing_number": 1373,
+      "is_main_docket": true,
+      "court": "Southern District of Indiana",
+      "state": "Indiana",
+      "docket_office_number": "1",
+      "docket_number_manual": "1:20-cv-01373",
+      "scales_html": "https://clearinghouse-umich-production.s3.amazonaws.com/media/docket-html/insd--1-20-cv-01373.html",
+      "recap_link": "https://www.courtlistener.com/docket/17155351/rowe-v-indianapolis-metropolitan-police-department/",
+      "is_active": true
+    },
+    "name": "Rowe v. IMPD",
+    "never_filed": false,
+    "non_docket_case_number": "",
+    "non_docket_case_number_type": null,
+    "non_docket_case_number_type_other": "",
+    "order_end_year": null,
+    "order_start_year": null,
+    "permanent_injunction": false,
+    "plaintiff_description": "Deaf individual arrested and subsequently incarcerated without opportunity to effectively communicate.",
+    "plaintiff_type": [],
+    "prevailing_party": "Plaintiff",
+    "pro_se_status": "No",
+    "public_interest_lawyer": "Yes",
+    "related_cases": [],
+    "relief_natures": [
+      "Injunction / Injunctive-like Settlement"
+    ],
+    "relief_nature_other": "",
+    "relief_sources": [
+      "Settlement"
+    ],
+    "settlement_agreement": [
+      "Private Settlement Agreement"
+    ],
+    "settlement_judgment_date": "2021-04-23",
+    "settlement_judgment_year": 2021,
+    "special_collections": [
+      "Deaf or Blind in Jail/Prison"
+    ],
+    "special_case_type": [],
+    "state": "Indiana",
+    "summary": "<p>In 2018, a deaf individual called 911 using a video relay interpretive service on his cell phone after being threatened by his roommate. At least one of the responding Indianapolis Metropolitan Police Department (IMPD) officers had previously been to plaintiff&rsquo;s residence and was or should have been on notice that plaintiff communicated through American Sign Language (ASL). Despite the advanced notice, the responding IMPD officers failed to provide a qualified interpreter or any auxiliary aids, relying instead on a witness who was not present during the underlying incident to communicate. Plaintiff was not given a chance to explain why he had called 911; instead, he was arrested and incarcerated in the Marion County Jail for four days without access to an ASL interpreter or any auxiliary aids to ensure effective communication. Plaintiff was detained without having the charges against him or any rules and procedures of the jail explained.</p>\r\n<p>Represented by Indiana Disability Rights (IDR), the state protection and advocacy system, plaintiff filed suit on May 13, 2020, in the Southern District of Indiana against the IMPD, the Marion County Sheriff&rsquo;s Office, and Marion County for violation of his civil rights under Title II of the Americans with Disabilities Act (ADA), Section 504 of the Rehabilitation Act, and Indiana state law. Plaintiff amended his complaint on July 7, 2020 to include the City of Indianapolis as a defendant on his ADA claim because of the City&rsquo;s responsibility for operating the IMPD and status as a public entity. The case was assigned to Judge Richard L. Young and Magistrate Judge Mark J. Dinsmore. &nbsp;</p>\r\n<p>Defendants responded on August 10, 2020 and the parties proceeded with preliminary discovery. On January 12, 2021, the parties held a settlement conference and amended the case management plan to allow time for settlement discussions to continue. The parties reported to the court on April 23, 2021 that a settlement had been reached and the case was dismissed on June 22, 2021. The Clearinghouse was unable to confirm the terms of the settlement agreement. &nbsp;</p>\r\n<p>&nbsp;</p>",
+    "summary_published_date": "2022-06-28T05:47:59.394852-04:00",
+    "summary_short": "A deaf individual who called 911 was arrested and incarcerated by the Indianapolis Metropolitan Police Department without the opportunity to effectively communicate. Plaintiff, represented by Indiana Disability Rights (IDR), filed suit on May 13, 2020 in the Southern District of Indiana against the IMPD, the Marion County Sheriff's Office, Marion County, and the City of Indianapolis for violation of his civil rights under Title II of the Americans with Disabilities Act and Section 504 of the Rehabilitation Act. Shortly after beginning discovery, the parties agreed to enter into settlement discussions. On April 23, 2021, the parties reported to a court that a settlement had been reached and the case was dismissed on June 22, 2021.",
+    "summary_tiny": "In 2021L Indianapolis Police, Marion County Sheriff's Office, Marion County, and the City of Indianapolis settle with a deaf individual whose arrest and conditions of incarceration violated the Americans with Disabilities Act and the Rehabilitation Act.",
+    "terminating_date": "2021-06-23",
+    "clearinghouse_link": "clearinghouse.net/case/18402",
+    "is_active": true,
+    "case_documents_url": "https://clearinghouse.net/api/v2/documents/?case=18402",
+    "case_dockets_url": "https://clearinghouse.net/api/v2/dockets/?case=18402",
+    "case_resources_url": "https://clearinghouse.net/api/v2/resources/?case=18402"
+  },
+  "documents": [
+    {
+      "date": "2020-05-13",
+      "date_is_estimate": false,
+      "date_not_available": false,
+      "description": null,
+      "document_source": "RECAP",
+      "document_status": "Coding Complete",
+      "document_type": "Complaint",
+      "order_type": null,
+      "citation_paren": null,
+      "cite_1_page": null,
+      "cite_1_reporter": null,
+      "cite_1_vol": null,
+      "cite_2_page": null,
+      "cite_2_reporter": null,
+      "cite_2_vol": null,
+      "cite_3_page": null,
+      "cite_3_reporter": null,
+      "cite_3_vol": null,
+      "citation_status": "Not applicable",
+      "court": "Southern District of Indiana",
+      "no_title": false,
+      "party_types": [
+        "Plaintiff"
+      ],
+      "per_curium": false,
+      "is_core_document": true,
+      "id": 130847,
+      "file": "https://clearinghouse-umich-production.s3.amazonaws.com/media/doc/130847.pdf",
+      "title": "Complaint for Damages and Injunctive Relief",
+      "text": null,
+      "document_type_other": null,
+      "external_url": "https://www.courtlistener.com/docket/17155351/1/rowe-v-indianapolis-metropolitan-police-department/",
+      "ecf_number": "1",
+      "clearinghouse_link": "clearinghouse.net/doc/130847"
+    },
+    {
+      "date": "2021-04-26",
+      "date_is_estimate": false,
+      "date_not_available": false,
+      "description": null,
+      "document_source": "RECAP",
+      "document_status": "Coding Complete",
+      "document_type": "Magistrate Report/Recommendation",
+      "order_type": "Non-Decree",
+      "citation_paren": null,
+      "cite_1_page": null,
+      "cite_1_reporter": null,
+      "cite_1_vol": null,
+      "cite_2_page": null,
+      "cite_2_reporter": null,
+      "cite_2_vol": null,
+      "cite_3_page": null,
+      "cite_3_reporter": null,
+      "cite_3_vol": null,
+      "citation_status": "No citation available",
+      "court": "Southern District of Indiana",
+      "no_title": false,
+      "party_types": [
+        "Court"
+      ],
+      "per_curium": false,
+      "is_core_document": true,
+      "id": 130848,
+      "file": "https://clearinghouse-umich-production.s3.amazonaws.com/media/doc/130848.pdf",
+      "title": "Minute Entry for April 23, 2021 Telephonic Status Conference Hon. Mark J. Dinsmore, Magistrate Judge",
+      "text": null,
+      "document_type_other": null,
+      "external_url": "https://www.courtlistener.com/docket/17155351/43/rowe-v-indianapolis-metropolitan-police-department/",
+      "ecf_number": "43",
+      "clearinghouse_link": "clearinghouse.net/doc/130848"
+    },
+    {
+      "date": null,
+      "date_is_estimate": false,
+      "date_not_available": false,
+      "description": null,
+      "document_source": null,
+      "document_status": null,
+      "document_type": null,
+      "order_type": null,
+      "citation_paren": null,
+      "cite_1_page": null,
+      "cite_1_reporter": null,
+      "cite_1_vol": null,
+      "cite_2_page": null,
+      "cite_2_reporter": null,
+      "cite_2_vol": null,
+      "cite_3_page": null,
+      "cite_3_reporter": null,
+      "cite_3_vol": null,
+      "citation_status": null,
+      "court": null,
+      "no_title": false,
+      "party_types": [],
+      "per_curium": false,
+      "is_core_document": true,
+      "id": 113666,
+      "file": null,
+      "title": null,
+      "text": null,
+      "document_type_other": null,
+      "external_url": null,
+      "ecf_number": null,
+      "clearinghouse_link": "clearinghouse.net/doc/113666"
+    }
+  ],
+  "document_count": 3
+}

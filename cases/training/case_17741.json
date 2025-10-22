@@ -1,0 +1,267 @@
+{
+  "case_id": 17741,
+  "fetched_at": "2025-10-22T00:32:11.215202",
+  "case_data": {
+    "attorney_orgs": [
+      "ACLU Affiliates (any)"
+    ],
+    "available_documents": [
+      "Complaint (any)",
+      "Injunctive (or Injunctive-like) Relief"
+    ],
+    "case_defendants": [
+      {
+        "defendant_level": null,
+        "institution": "Portland",
+        "institution_alt_state": null,
+        "institution_city": "Portland",
+        "institution_county": null,
+        "name": "City of Portland",
+        "defendant_level_other": "",
+        "is_active": true
+      }
+    ],
+    "case_ongoing": "No",
+    "case_status": "Approved",
+    "case_types": [
+      "Policing"
+    ],
+    "cause_other": "",
+    "causes": [
+      "State law"
+    ],
+    "class_action_granted": "Not sought",
+    "class_action_sought": "No",
+    "closing_year": 2022,
+    "constitutional_clause": [],
+    "content_of_injunction": [
+      {
+        "value": "Preliminary relief granted"
+      }
+    ],
+    "court": "Oregon state trial court",
+    "custom_issues": [],
+    "defendant_payment": "",
+    "defendant_type": [
+      {
+        "value": "Jurisdiction-wide"
+      }
+    ],
+    "docket_status": "None",
+    "facility_type": [],
+    "filing_date": "2020-07-29",
+    "filing_year": 2020,
+    "id": 17741,
+    "injunction_duration": "",
+    "issues": [
+      "General/Misc.: Record-keeping",
+      "General/Misc.: Confidentiality"
+    ],
+    "last_checked_date": "2022-05-03T00:00:00-04:00",
+    "main_docket": {
+      "id": 27748,
+      "docket_entries": [],
+      "docket_case_type": "cv",
+      "docket_year": 2020,
+      "docket_filing_number": null,
+      "is_main_docket": true,
+      "court": "Oregon state trial court",
+      "state": "Oregon",
+      "docket_office_number": "",
+      "docket_number_manual": "",
+      "scales_html": null,
+      "recap_link": null,
+      "is_active": true
+    },
+    "name": "American Civil Liberties Union of Oregon v. City of Portland",
+    "never_filed": false,
+    "non_docket_case_number": "20CV27116",
+    "non_docket_case_number_type": null,
+    "non_docket_case_number_type_other": "",
+    "order_end_year": null,
+    "order_start_year": null,
+    "permanent_injunction": true,
+    "plaintiff_description": "ACLU of Oregon and an anonymous private individual",
+    "plaintiff_type": [
+      {
+        "value": "Private Plaintiff"
+      },
+      {
+        "value": "Non-profit NON-religious organization"
+      }
+    ],
+    "prevailing_party": "Plaintiff",
+    "pro_se_status": "No",
+    "public_interest_lawyer": "Yes",
+    "related_cases": [],
+    "relief_natures": [
+      "Injunction / Injunctive-like Settlement",
+      "Preliminary injunction / Temp. restraining order"
+    ],
+    "relief_nature_other": "",
+    "relief_sources": [
+      "Litigation"
+    ],
+    "settlement_agreement": [],
+    "settlement_judgment_date": "2021-12-21",
+    "settlement_judgment_year": 2021,
+    "special_collections": [
+      "Police Violence Protests"
+    ],
+    "special_case_type": [],
+    "state": "Oregon",
+    "summary": "<p>This complaint was brought in the County of Multnomah Circuit Court for the State of Oregon on July 29, 2020. The suit was brought by the ACLU of Oregon and an anonymous individual plaintiff (\"Protester 1\") against the City of Portland. The plaintiffs were represented by attorneys from the ACLU of Oregon and private counsel. The complaint came amidst police crackdowns on protests against police brutality that followed the killing of George Floyd.</p>\r\n<p>According to the complaint, the Portland Police Bureau (PPB) had been livestreaming the protests. Yet, the plaintiffs argued, this violated Oregon state law, which prohibited the collection of information about protesters political, religious, or social views. PPB argued that the livestreams fell into one of the narrow exceptions of this law that allowed for such data collection if they pertain to criminal investigations. However, the complaint alleged that PPB wrote in an email that they used to livestreams to inform the public about the protests. Additionally, in a 1988 consent decree the PPB agreed to follow the provisions of that law in exchange for the ACLU's assurance not to litigate data collection that occurred prior to 1988. Therefore, the plaintiffs in this case argued that the PPB was in violation of both the Oregon state law and the 1988 consent decree by collecting such information on protesters. They sought declaratory relief and temporary, preliminary, and permanent injunctive relief that would prohibit the PPB from recording protests unless it was in pursuit of a criminal investigation.</p>\r\n<p>On August 5, Judge Stephen Bushong granted the plaintiffs' motion for a temporary restraining order (TRO). However, the order did not prohibit the livestreaming, only the \"collecting or maintaining\" of the videos complained about by the plaintiffs. Judge Bushong also clarified that the order does not apply to failure to disperse orders given by the police.</p>\r\n<p>The court ruled on cross-motions for summary judgment on December 21, 2021. It held for plaintiffs. The circuit court held that the PPB's practice of filming protestors&mdash;and internally broadcasting that video&mdash;violated state law. Specifically, state law prohibited police from collecting or maintaining information about the political, religious or social views, associations or activities of people who are not suspected of criminal activity. The court also held that PPB&rsquo;s livestreams violated an agreement between the ACLU of Oregon and the City of Portland/PPB regarding the collection of information about protestors.</p>\r\n<p>The officially closed on April 8, 2022.</p>",
+    "summary_published_date": "2022-05-08T18:01:45.870636-04:00",
+    "summary_short": "This lawsuit brought by the ACLU of Oregon against the city of Portland alleged that the PPB was in violation of Oregon state law when they livestreamed protests that occurred in that city following the killing of George Floyd. The plaintiffs argued that this violated a state law that prohibited such conduct by police unless in pursuit of a criminal investigation. They also alleged that the PPB were in violation of a 1988 consent decree with the same provisions. Plaintiffs sought declaratory and injunctive relief. The court granted plaintiffs' request for summary judgment on December 21, 2021, ending the case.\r\n\r\nThis case is closed.",
+    "summary_tiny": "VICTORY for @ACLU_OR! Court holds that @cityofportland and PPD violated Oregon state law by filming protestors.",
+    "terminating_date": "2022-04-08",
+    "clearinghouse_link": "clearinghouse.net/case/17741",
+    "is_active": true,
+    "case_documents_url": "https://clearinghouse.net/api/v2/documents/?case=17741",
+    "case_dockets_url": "https://clearinghouse.net/api/v2/dockets/?case=17741",
+    "case_resources_url": "https://clearinghouse.net/api/v2/resources/?case=17741"
+  },
+  "documents": [
+    {
+      "date": null,
+      "date_is_estimate": false,
+      "date_not_available": false,
+      "description": null,
+      "document_source": null,
+      "document_status": null,
+      "document_type": null,
+      "order_type": null,
+      "citation_paren": null,
+      "cite_1_page": null,
+      "cite_1_reporter": null,
+      "cite_1_vol": null,
+      "cite_2_page": null,
+      "cite_2_reporter": null,
+      "cite_2_vol": null,
+      "cite_3_page": null,
+      "cite_3_reporter": null,
+      "cite_3_vol": null,
+      "citation_status": null,
+      "court": null,
+      "no_title": false,
+      "party_types": [],
+      "per_curium": false,
+      "is_core_document": true,
+      "id": 114507,
+      "file": null,
+      "title": null,
+      "text": null,
+      "document_type_other": null,
+      "external_url": null,
+      "ecf_number": null,
+      "clearinghouse_link": "clearinghouse.net/doc/114507"
+    },
+    {
+      "date": "2020-07-29",
+      "date_is_estimate": false,
+      "date_not_available": false,
+      "description": null,
+      "document_source": "ACLU",
+      "document_status": "Coding Complete",
+      "document_type": "Complaint",
+      "order_type": null,
+      "citation_paren": null,
+      "cite_1_page": null,
+      "cite_1_reporter": null,
+      "cite_1_vol": null,
+      "cite_2_page": null,
+      "cite_2_reporter": null,
+      "cite_2_vol": null,
+      "cite_3_page": null,
+      "cite_3_reporter": null,
+      "cite_3_vol": null,
+      "citation_status": "Not applicable",
+      "court": "Oregon state trial court",
+      "no_title": false,
+      "party_types": [
+        "Plaintiff"
+      ],
+      "per_curium": false,
+      "is_core_document": true,
+      "id": 109349,
+      "file": "https://clearinghouse-umich-production.s3.amazonaws.com/media/doc/109349.pdf",
+      "title": "Complaint for Declaratory and Injunctive Relief",
+      "text": " \n \n 1      \n 2   \n 3   \n 4  IN THE CIRCUIT COURT FOR THE STATE OF OREGON \n 5  FOR THE COUNTY OF MULTNOMAH \n \n 6  AMERICAN CIVIL LIBERTIES UNION  Case No.  \n \nOF OREGON, INC., an Oregon non-profit \n 7  COMPLAINT FOR \npublic benefit corporation, and \nDECLARATORY AND \nPROTESTER #1, an individual, \n 8  INJUNCTIVE RELIEF \n \nPlaintiffs, \n 9  NOT SUBJECT TO MANDATORY \nARBITRATION \nv. \n10   \nORS 21.135(2)(a), (f): $281 \nCITY OF PORTLAND, an Oregon \n11 \nmunicipal corporation, \n12 \nDefendant. \n13 \n14  INTRODUCTION \n15  1.  Oregon is not a surveillance state. With this action, Plaintiffs American Civil \n16  Liberties Union of Oregon, Inc. and Protester #11 seek to eliminate a practice by the City of \n17  Portland — and, specifically, the Portland Police Bureau — that threatens to turn it into one. \n18  PARTIES AND VENUE \n19  2.  Plaintiff American Civil Liberties Union of Oregon, Inc. (“ACLU”) is an Oregon \n20  non-profit public benefit corporation. \n21  3.  Plaintiff Protester #1 is an individual who resides in Portland, Oregon. \n22  4.  Defendant City of Portland (the “City”) is a municipality incorporated in Oregon. \n23  The Portland Police Bureau (“PPB”) is a department or division of the City. \n \n24 \n1 Protester #1 intends to proceed under a fictitious name. Pursuant to Multnomah County \nSLR 2.035, Protester #1 will seek permission from the Court to do so at the earliest available \n25 \nopportunity.  \n \nPAGE 1 – COMPLAINT \nANGELI LAW GROUP LLC \n121 SW Morrison Street, Suite 400 \nPortland, Oregon 97204 \nTelephone (503) 954-2232 | Fax (503) 227-0880 \n\n \n \n 1  5.  Venue is proper in this Court because Plaintiffs’ causes of action arose, at least in \n 2  part, in Multnomah County. \n 3  FACTS \n 4  6.  Over the past several weeks, thousands of Oregonians have exercised their \n 5  constitutional rights by protesting in streets, parks, and other public spaces in and around \n 6  Portland. The protesters seek fundamental changes in the way American police departments \n 7  interact with the communities they serve. In particular, they seek to eradicate the senseless and \n 8  recurring police brutality and murders of Black people like George Floyd, Breonna Taylor, \n 9  Michael Brown, Quanice Hayes, Terrell Johnson, Keaton Otis, Aaron Campbell, Patrick \n10  Kimmons, Darris Johnson, Kendra James, and so many others. \n11  7.  PPB has surveilled participants in the protests, and will continue to do so, with \n12  livestreamed internet videos. The videos regularly depict individual protesters who are \n13  demonstrating peacefully and engaging in no criminal activity at all. Nevertheless, the videos \n14  have focused and will continue to focus on specific protesters, apparently for the purpose of \n15  identifying them. \n16  8.  Protester #1 is one such protester. On the evening of July 13, 2020, Protester #1 \n17  attended a protest that took place at the headquarters of the Portland Police Association (the \n18  “PPA”) in North Portland. Protester #1 did so in order to express solidarity with other protesters, \n19  and because Protester #1 had been sickened and devastated by acts of violence committed by \n20  PPB against other protesters over the past several weeks. At all times, Protester #1 demonstrated \n21  peacefully and engaged in no criminal conduct whatsoever. Protester #1 spent much of Protester \n22  #1’s time at the protest standing in front of the line of PPB officers that had encircled PPA’s \n23  building, holding up photos of Protester #1’s child and pleading with the officers not to harm the \n24  crowd. \n25 \n \nPAGE 2 – COMPLAINT \nANGELI LAW GROUP LLC \n121 SW Morrison Street, Suite 400 \nPortland, Oregon 97204 \nTelephone (503) 954-2232 | Fax (503) 227-0880 \n\n \n \n 1  9.  During the protest, a PPB camera captured Protester #1’s image, which it \n 2  livestreamed publicly on the internet. At the time, Protester #1 was not aware that PPB was \n 3  filming the crowd. Had Protester #1 known of PPB’s filming, Protester #1 would not have \n 4  consented to it. Protester #1 plans to continue attending protests, but is deeply disturbed by \n 5  PPB’s practice of using livestreamed internet videos to monitor protesters’ exercise of their \n 6  constitutional rights. \n 7  10.  Many of the other protesters whose likenesses and voices have appeared on PPB’s \n 8  videos also want not to be recorded. Several have shouted as much at PPB’s cameraperson; \n 9  others have shone bright lights at its camera in attempts to obscure the camera’s view of the \n10  crowds; still others have used squeakers to obscure PPB’s audio recording. ACLU’s legal \n11  observers2 and other members have been (and will continue to be) among those at the protests \n12  who object to PPB’s recording. \n13  11.  As a technological matter, the contents of each livestreamed video are within \n14  PPB’s custody and control beginning at the moment when each livestream begins. For example, \n15  YouTube — which PPB has used for some of its livestreams — requires a user to choose \n16  whether to delete or retain a livestreamed video when the livestream ends. Until the user makes a \n17  selection, the full contents of the video remain accessible to the user, which, in this case, is PPB \n18  itself. \n19  12.  PPB has offered varying rationales for livestreaming videos of protesters. Its \n20  policies say that it does so to provide “situational awareness” and to record possible criminal \n21  activity. According to section 4.3 of PPB Directive No. 0635.10, “[d]emonstrations may be \n22  broadcast to Bureau facilities by live video feed to provide situational awareness to the [PPB \n \n23 \n2 ACLU legal observers are trained volunteers who attend protests at the invitation of the \nevents’ organizer(s).  Legal observers are asked to document interactions between protesters and \n24 \nlaw enforcement. They do not intervene in the event of a violation of law; instead, they \n25  document the violation for later review. \n \nPAGE 3 – COMPLAINT \nANGELI LAW GROUP LLC \n121 SW Morrison Street, Suite 400 \nPortland, Oregon 97204 \nTelephone (503) 954-2232 | Fax (503) 227-0880 \n\n \n \n 1  Incident Commander]. * * * If a possible crime is captured on the recording, that recording will \n 2  be forwarded to [the] Bureau’s Detective Division for investigation and the District Attorney’s \n 3  Office, if requested.” However, in a separate email, a Senior Deputy City Attorney wrote that \n 4  PPB had livestreamed one video not to provide “situational awareness,” but rather “so the \n 5  community could understand what was occurring at the protest.” \n 6  13.  In August of 1988, ACLU and PPB reached a civil settlement agreement (the \n 7  “Agreement”) regarding the latter’s collection of information about participants in public \n 8  demonstrations. A copy of an August 3, 1988 letter from Portland’s City Attorney memorializing \n 9  the Agreement is attached as Exhibit A. Among other things, the Agreement obligated PPB to \n10  adopt the following formal policy: \n11  “Portland Police Officers shall not collect or maintain \ninformation about the political, religious or social views, \n12  associations or activities of any individual, group, association, \norganization, corporation, business or partnership unless such \n13  information relates directly to an investigation of criminal \nactivities, and there are reasonable grounds to suspect the subject \n14  of the information is or may be involved in criminal conduct.” \n15  In exchange for that and other promises by PPB, ACLU promised that it would “not litigate over \n16  the collection of information by [PPB] at demonstrations which have occurred prior to July 27, \n17  1988.” \n18  14.  The nature of the Agreement was and remains clear: PPB promised ACLU that it \n19  would comply at all times with ORS 181A.250 (whose language the Agreement tracks verbatim) \n20  when its officers are present at or otherwise involved in demonstrations by members of the \n21  public. \n22  15.  PPB’s practice of livestreaming videos of protesters amounts to a violation of \n23  ORS 181A.250, and to a breach of the Agreement. By livestreaming videos of protesters, PPB \n24  collects and maintains information about their political and social views, associations, and \n25  activities in violation of ORS 181A.250.    \n \nPAGE 4 – COMPLAINT \nANGELI LAW GROUP LLC \n121 SW Morrison Street, Suite 400 \nPortland, Oregon 97204 \nTelephone (503) 954-2232 | Fax (503) 227-0880 \n\n \n \n 1  16.  Plaintiffs have no adequate remedy at law for PPB’s violations, which pose a \n 2  serious and imminent threat of irreparable harm to them and other protesters alike. Specifically, \n 3  PPB cannot “undo” a video through which its officers identify or otherwise collect information \n 4  about a protester. Nor can it force a third party to “un-learn” information about a protester that \n 5  the third party obtains by watching PPB’s livestream. Moreover, any damages associated with \n 6  such conduct by PPB would be, by their very nature, extremely difficult or impossible to \n 7  quantify. \n 8  17.  An order prohibiting PPB from livestreaming or otherwise recording video or \n 9  audio of protesters except as permitted by ORS 181A.250 would subject it to no meaningful \n10  burden. As the contents of the videos themselves make clear, there is no reason to believe that \n11  such an order would interfere at all with PPB’s legitimate operations or responsibilities at the \n12  protests. \n13  18.  Additionally, an order prohibiting PPB from livestreaming or otherwise recording \n14  video or audio of protesters except as permitted by ORS 181A.250 would serve the public \n15  interest, in that it would facilitate and promote Plaintiffs’ and other protesters’ exercise of their \n16  constitutional rights. \n17  CLAIMS FOR RELIEF \n18  FIRST CLAIM FOR RELIEF \n(Declaratory Judgment; ORS 181A.250 and ORS 28.010 et seq.) \n19  (ACLU and Protester #1) \n20  19.   Plaintiffs reallege and incorporate by reference each of the preceding paragraphs \n21  as if fully set forth herein. \n22  20.  By livestreaming the videos described above, the City has collected and \n23  maintained, and will continue to collect and maintain, information about the political and social \n24  views, associations, and activities of Protester #1, ACLU, and others who have attended or will \n25  attend the protests. Its videos do not relate to an investigation of any criminal activities, nor are \n \nPAGE 5 – COMPLAINT \nANGELI LAW GROUP LLC \n121 SW Morrison Street, Suite 400 \nPortland, Oregon 97204 \nTelephone (503) 954-2232 | Fax (503) 227-0880 \n\n \n \n 1  there any reasonable grounds to suspect that the specific subjects of the videos are or may be \n 2  involved in any criminal conduct. Thus, by livestreaming the videos, the City has violated and \n 3  will continue to violate ORS 181A.250.  \n 4  21.  Plaintiffs’ rights, statuses, and other legal relations are affected by the City’s \n 5  practice of livestreaming the videos described above. The City’s livestreaming of the videos has \n 6  caused a specific injury to Plaintiffs’ rights under ORS 181A.250, which entitles them to be free \n 7  of such conduct. Their injury is real, and not hypothetical or speculative, because the City \n 8  already has engaged in conduct prohibited by ORS 181A.250 and will continue to do so unless \n 9  this Court orders otherwise. Moreover, a decision declaring that ORS 181A.250 prohibits the \n10  City from livestreaming or otherwise recording video or audio of protesters except in the \n11  circumstances permitted by the statute, and enjoining it from doing so in the future, will have a \n12  practical effect on the rights that Plaintiffs are seeking to vindicate because it will cause the \n13  City’s unlawful conduct to cease. \n14  22.  As explained above, Plaintiffs have no adequate remedy at law for the City’s \n15  violations of ORS 181A.250.  \n16  23.  Accordingly, Plaintiffs are entitled to (i) a declaration that ORS 181A.250 \n17  prohibits the City (including, but not limited to, PPB) from livestreaming or otherwise recording \n18  video or audio of protesters demonstrating in public spaces, except where the video or audio \n19  relates to an investigation of criminal activities and there exist reasonable grounds to suspect the \n20  subjects of the videos are or may be involved in criminal conduct; and (ii) temporary, \n21  preliminary, and permanent injunctive relief prohibiting the City from doing so in the future. \n22  SECOND CLAIM FOR RELIEF \n(Breach of Contract/Breach of the Duty of Good Faith and Fair Dealing) \n23  (ACLU) \n24  24.  ACLU realleges and incorporates by reference each of the preceding paragraphs \n25  as if fully set forth herein. \n \nPAGE 6 – COMPLAINT \nANGELI LAW GROUP LLC \n121 SW Morrison Street, Suite 400 \nPortland, Oregon 97204 \nTelephone (503) 954-2232 | Fax (503) 227-0880 \n\n \n \n 1  25.  The Agreement is a binding and valid contract between ACLU and the City. \n 2  ACLU has fully performed all of its obligations under the Agreement, and has not breached any \n 3  obligation imposed on it by the Agreement. \n 4  26.  The Agreement imposes a contractual obligation on the City to comply with ORS \n 5  181A.250, whose language the Agreement tracks verbatim. In particular, the Agreement \n 6  obligates the City as a matter of contract “not [to] collect or maintain information about the \n 7  political * * * or social views, associations or activities of any individual, group, association, [or] \n 8  organization,” except in the circumstances permitted by ORS 181A.250. \n 9  27.  The City (and, specifically, PPB) has breached the Agreement by collecting \n10  information about protesters in the manner described above. \n11  28.  Alternatively, if the City did not breach the terms of the Agreement by collecting \n12  information about protesters in the manner described above, it violated the duty of good faith and \n13  fair dealing by doing so. \n14  29.  As explained above, ACLU has no adequate remedy at law for the City’s breaches \n15  of the Agreement or, alternatively, of the duty of good faith and fair dealing. \n16  30.  Accordingly, ACLU is entitled to (i) a declaration that the Agreement prohibits \n17  the City (including, but not limited to, PPB) from livestreaming or otherwise recording video or \n18  audio of protesters demonstrating in public spaces, except where the video or audio relates to an \n19  investigation of criminal activities and there exist reasonable grounds to suspect the subjects of \n20  the videos are or may be involved in criminal conduct; and (ii) temporary, preliminary, and \n21  permanent injunctive relief prohibiting the City from doing so in the future.  \n22  PRAYER \n23    WHEREFORE Plaintiffs pray for a judgment awarding the following relief: \n24  A.  A declaration that ORS 181A.250 and the Agreement each prohibit the City \n25  (including, but not limited to, PPB) from livestreaming or otherwise recording video or audio of \n \nPAGE 7 – COMPLAINT \nANGELI LAW GROUP LLC \n121 SW Morrison Street, Suite 400 \nPortland, Oregon 97204 \nTelephone (503) 954-2232 | Fax (503) 227-0880 \n\n \n \n 1  protesters demonstrating in public spaces, except where the video or audio relates to an \n 2  investigation of criminal activities and there exist reasonable grounds to suspect the subjects of \n 3  the videos are or may be involved in criminal conduct; \n 4  B.  Temporary, preliminary, and permanent injunctive relief prohibiting the City, \n 5  including its employees, agents, and all others acting in concert with it or on its behalf, from \n 6  livestreaming or otherwise recording video or audio of protesters demonstrating in public spaces, \n 7  except where the video or audio relates to an investigation of criminal activities and there exist \n 8  reasonable grounds to suspect the subjects of the videos are or may be involved in criminal \n 9  conduct. \n10  C.  The costs and disbursements that Plaintiffs incur in bringing this action; and \n11  /// \n12  /// \n13  /// \n14  /// \n15  /// \n16  /// \n17  /// \n18  /// \n19  /// \n20  /// \n21  /// \n22  /// \n23  /// \n24  /// \n25  /// \n \nPAGE 8 – COMPLAINT \nANGELI LAW GROUP LLC \n121 SW Morrison Street, Suite 400 \nPortland, Oregon 97204 \nTelephone (503) 954-2232 | Fax (503) 227-0880 \n\n \n \n 1  D.  Such other relief as the Court may deem just and proper. \n 2  Dated: July 29, 2020. \n 3  s/Edward A. Piper         \nANGELI LAW GROUP LLC \n 4  EDWARD A. PIPER, OSB No. 141609 \ned@angelilaw.com \n 5  JOANNA T. PERINI-ABBOTT, OSB No. 141394 \njoanna@angelilaw.com \n 6  URSULA M. LALOVIĆ, OSB No. 176289 \nursula@angelilaw.com \n 7  121 SW Morrison Street, Suite 400 \nPortland, Oregon 97204 \n 8  Tel. 503.954.2232 \nFax 503.227.0880 \n 9   \nALAN LLOYD KESSLER \n10  ALAN LLOYD KESSLER, OSB No. 150209 \nak@alankesslerlaw.com \n11  1001 SE Sandy Blvd # 210 \nPortland, Oregon 97214 \n12  Telephone: (503) 860-1020 \n \n13 \nAMERICAN CIVIL LIBERTIES UNION FOUNDATION OF OREGON \nKELLY K. SIMON, OSB No. 154213  \n14 \nksimon@aclu-or.org  \nP.O. Box 40585  \n15 \nPortland, Oregon 97240  \n16  Telephone: (503) 227-6928 \n17  Counsel for Plaintiffs \n18 \n19 \n20 \n21 \n22 \n23 \n24 \n25 \n \nPAGE 9 – COMPLAINT \nANGELI LAW GROUP LLC \n121 SW Morrison Street, Suite 400 \nPortland, Oregon 97204 \nTelephone (503) 954-2232 | Fax (503) 227-0880 \n\nEx. A \nPage 1 of 3\n\nEx. A \nPage 2 of 3\n\nEx. A \nPage 3 of 3",
+      "document_type_other": "",
+      "external_url": "https://www.aclu-or.org/en/press-releases/aclu-sues-stop-portland-police-livestreaming-protests",
+      "ecf_number": null,
+      "clearinghouse_link": "clearinghouse.net/doc/109349"
+    },
+    {
+      "date": null,
+      "date_is_estimate": false,
+      "date_not_available": false,
+      "description": null,
+      "document_source": null,
+      "document_status": "Deleted",
+      "document_type": null,
+      "order_type": null,
+      "citation_paren": null,
+      "cite_1_page": null,
+      "cite_1_reporter": null,
+      "cite_1_vol": null,
+      "cite_2_page": null,
+      "cite_2_reporter": null,
+      "cite_2_vol": null,
+      "cite_3_page": null,
+      "cite_3_reporter": null,
+      "cite_3_vol": null,
+      "citation_status": null,
+      "court": null,
+      "no_title": false,
+      "party_types": [],
+      "per_curium": false,
+      "is_core_document": false,
+      "id": 130941,
+      "file": null,
+      "title": "New Document",
+      "text": null,
+      "document_type_other": null,
+      "external_url": "",
+      "ecf_number": "",
+      "clearinghouse_link": "clearinghouse.net/doc/130941"
+    },
+    {
+      "date": "2020-07-30",
+      "date_is_estimate": false,
+      "date_not_available": false,
+      "description": null,
+      "document_source": "ACLU",
+      "document_status": "Coding Complete",
+      "document_type": "Order/Opinion",
+      "order_type": "Litigated Decree",
+      "citation_paren": null,
+      "cite_1_page": null,
+      "cite_1_reporter": null,
+      "cite_1_vol": null,
+      "cite_2_page": null,
+      "cite_2_reporter": null,
+      "cite_2_vol": null,
+      "cite_3_page": null,
+      "cite_3_reporter": null,
+      "cite_3_vol": null,
+      "citation_status": "No citation available",
+      "court": "Oregon state trial court",
+      "no_title": false,
+      "party_types": [
+        "Court"
+      ],
+      "per_curium": false,
+      "is_core_document": true,
+      "id": 109350,
+      "file": "https://clearinghouse-umich-production.s3.amazonaws.com/media/doc/109350.pdf",
+      "title": "Temporary Restraining Order",
+      "text": "1 \n2 \n3 \n4  IN THE CIRCUIT COURT FOR THE STATE OF OREGON \n5  FOR THE COUNTY OF MULTNOMAH \n6  AMERICAN CIVIL LIBERTIES UNION  CaseNo.  ~ \nOF OREGON, INC., an Oregon non-profit  [PR:QFO~E T;MPORARY \n7 \npublic benefit corporation, and \nRESTRAIININIG ORDER \nPROTESTER # 1, an individual, \n8 \n9  Plaintiffs, \n10  v. \n11  CITY OF PORTLAND, an Oregon \nmunicipal corporation, \n12 \nDefendant. \n13 \n14  This matter came before the Court on the motion of Plaintiffs American Civil Liberties \n15  Union of Oregon, Inc. (\"ACLU\") and Protester# 1 (together, \"Plaintiffs\") for a temporary \n16  restraining order and order to show cause why a preliminary injunction should not issue (the \n17  \"Motion\"). Attorneys Edward Piper, Ursula Lalovic, and Alan Kessler appeared on behalf of \nJ \n18  Plaintiffs. Attorney/  ~ 6! ,1\\  ~9 ~ \\ ·t  appeared on behalf of Defendant City of Portland \n19  (the \"City\"). \n20  Having considered the Motion, the arguments of counsel, and the other pleadings and \n21  documents in the record, and being fully advised, the Court hereby FINDS as follows: \nTl\\o \n~ \n22  1.  It appears on the record before the Court that Plaintiffs are entitled to tk8 F8li8f \n23  detnttn:tletl is tkeiF eemf3laiH:t;-nttmei,, an orcler prohibiting the City- including, but not limited \nC.otlec~r....'l or \"\"'\"''J\\~l-\"~\" ~ \n24  to, the Portland Police Bureau (\"PPB\") - from li~rettl'l'liQ.g gr gtksFwis8 reeordffig video or \n25  audio of protesters demonstrating in public spaces, except where the video or audio relates to an \nPAGE 1 - ~ftOT'OBE~ TEMPORARY RESTRAIININIG ORDER \nANGELI LAW GROUP LLC \n121 SW Morrison Street, Suite 400 \nPmtland, Oregon 97204 \nTelephone (503) 954-22321 Fax (503) 227-0880 \n\n1  investigation of criminal activities and there exist reasonable grounds to suspect the subjects of \n2  the video or audio are involved in criminal oondpct. Additionally, the commission or \nC. o\\  ( H t-( \"-t}  G\\ 'fl\\'t.l 1\\ ~ ~1\\ \\ \".J  . Y\" \n3  continuance of such J.i,I,restJ?@iUR:iR:g during this litigation ~ produce injury to Plaintiffs, who \n\"\"~.., \n4  have a statutory right under ORS 181A.250 (and, as to ACLU, under the August 3, 1988letter \n5  agreement attached to the complaint) to be free from such livestreaming, and who will continue \n6  to attend the protests at which PPB's livestreaming has taken place and will continue to take \n7  place.  C.o Ue c·~7  ~r of'\\ H:t~ '\\~ j \n1\\ \n8  2.  By l~,e~tteaJHiRg SF sta@rwi~@ reeord-ing video or audio of protestors \n9  demonstrating in public spaces in circumstances in which such video or audio does not relate to \n10  an investigation of criminal activities, and in which there do not exist reasonable grounds to \n11  suspect the subjects of the video or audio are or may be involved in criminal conduct, the City is \n1 \n~\"t '{'1\\  ~c \n12  doing or threatening to do, or is about to do, an a~n violation of Plaintiffs' rights under ORS \n13  181A.250 (and, as to ACLU, under the August 3, 1988 letter agreement attached to the \n14  complaint) concerning the subject matter of the action, and tending to render the judgment \n15  ineffectual. \n16  Based on the foregoing findings and the record before the Court, and pursuant to ORCP \n17  79A(l)(a)-(b), the Court hereby ORDERS as follows: \n18  1.  Plaintiffs' Motion is GRANTED. \n19  2.  The City and its employees, agents, and all others acting in concert with it or on \n20  its behalf, including but not limited to the Portland Police Bureau (\"PPB\"), are temporarily \nCellt c:h\"5 tt ~ '\"-\\'·hf\\\\~) \n21  enjoined from li\"estJ?saming gr otb.@J?~,ri~@ l'@9€ niieg  audio or video of protestors demonstrating in \n22  public spaces, except where the video or audio relates to an investigation of criminal activities \n23  and there exist reasonable grounds to suspect the subjects of the videos are involved in criminal \n24  conduct. \n25 \nPAGE 2 -·fPRO:PQgg~EMPORARY RESTRAIININIG ORDER \nANGELI LAW GROUP LLC \n121 SW Morrison Street, Suite 400 \nPmtland, Oregon 97204 \nTelephone (503) 954-22321 Fax (503) 227-0880 \n\n1  rder, \"criminal c  duct\" does not in  ude failure to d.  perse \n2 \n3 \n4  4.  In the interest of justice, Plaintiffs need not provide any security. \n5  5.  This Order shall expire at S\"  [a.m.c~:::'J1  on \\\\MLsdt~.:~:\"e~~~ ', Augusty)o,  2020, \n.f.o r \n6  unless extended by further order of the Court.  ~r C.q f  Ct.  . \n1 \n7  6.  At j_Q  /[p.m.] on  ~st 7  1  @t)  lor at such other date  ~i-ctf(~) \n~  I  ,)f  Of\\. \n8  and time as the Court may order, the City shall appear to show cause, if any, why a preliminary \n9  injunction should not issue on the same terms as set forth above. \n10  IT IS SO ORDERED. \n11 \n12 \n13 \n14 \n15 \n16 \n17 \n18 \n19 \n20 \n21 \n22 \n23 \n24 \n25 \nPAGE 3 - [PROPOSED] TEMPORARY RESTRAIININIG ORDER \nANGELI LAW GROUP LLC \n121 SW Morrison Street, Suite 400 \nPortland, Oregon 97204 \nTelephone (503) 954-22321 Fax (503) 227-0880 ",
+      "document_type_other": "",
+      "external_url": "https://aclu-or.org/en/press-releases/circuit-court-issues-restraining-order-police-surveillance-protesters-response-aclu",
+      "ecf_number": null,
+      "clearinghouse_link": "clearinghouse.net/doc/109350"
+    }
+  ],
+  "document_count": 4
+}

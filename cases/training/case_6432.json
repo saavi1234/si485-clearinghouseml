@@ -1,0 +1,384 @@
+{
+  "case_id": 6432,
+  "fetched_at": "2025-10-22T00:08:43.313051",
+  "case_data": {
+    "attorney_orgs": [
+      "EEOC"
+    ],
+    "available_documents": [
+      "Trial Court Docket",
+      "Monetary Relief",
+      "Injunctive (or Injunctive-like) Relief"
+    ],
+    "case_defendants": [
+      {
+        "defendant_level": null,
+        "institution": null,
+        "institution_alt_state": null,
+        "institution_city": "",
+        "institution_county": null,
+        "name": "TF, Inc.",
+        "defendant_level_other": null,
+        "is_active": true
+      }
+    ],
+    "case_ongoing": "No",
+    "case_status": "Coding Complete",
+    "case_types": [
+      "Equal Employment"
+    ],
+    "cause_other": "",
+    "causes": [
+      "Americans with Disabilities Act (ADA), 42 U.S.C. §§ 12111 et seq.",
+      "Title VII (including PDA), 42 U.S.C.  § 2000e"
+    ],
+    "class_action_granted": "Not sought",
+    "class_action_sought": "No",
+    "closing_year": 1998,
+    "constitutional_clause": [],
+    "content_of_injunction": [
+      {
+        "value": "Discrimination Prohibition"
+      },
+      {
+        "value": "Retaliation Prohibition"
+      },
+      {
+        "value": "Post/Distribute Notice of Rights / EE Law"
+      }
+    ],
+    "court": "Western District of Tennessee",
+    "custom_issues": [],
+    "defendant_payment": "17000",
+    "defendant_type": [],
+    "docket_status": "Complete as of retrieval date",
+    "facility_type": [],
+    "filing_date": "1997-08-29",
+    "filing_year": 1997,
+    "id": 6432,
+    "injunction_duration": "",
+    "issues": [
+      "Discrimination Basis: Disability (inc. reasonable accommodations)",
+      "Discrimination Area: Disparate Treatment",
+      "Discrimination Area: Hiring",
+      "EEOC-centric: Direct Suit on Merits"
+    ],
+    "last_checked_date": "2007-06-05T00:00:00-04:00",
+    "main_docket": {
+      "id": 36638,
+      "docket_entries": [
+        {
+          "row_number": 6,
+          "id": 1578885,
+          "entry_number": "7",
+          "date_filed": "1997-12-22T00:00:00-05:00",
+          "attachments": [],
+          "url": "nan",
+          "recap_pdf_url": null,
+          "pacer_doc_id": null,
+          "description": "NOTICE OF FILING OF Report of Parties' Planning Meeting by plaintiff, defendant (BAG) (Entered: 01/06/1998)"
+        },
+        {
+          "row_number": 10,
+          "id": 1578889,
+          "entry_number": "12",
+          "date_filed": "1998-01-13T00:00:00-05:00",
+          "attachments": [],
+          "url": "nan",
+          "recap_pdf_url": null,
+          "pacer_doc_id": null,
+          "description": "AMENDED COMPLAINT [1-1] by plaintiff EEOC terminating defendant Taylor Forge Intl; adding defendant TF Inc.; jury demand (BAG) (Entered: 01/14/1998)"
+        },
+        {
+          "row_number": 1,
+          "id": 1578880,
+          "entry_number": "2",
+          "date_filed": "1997-10-15T00:00:00-04:00",
+          "attachments": [],
+          "url": "nan",
+          "recap_pdf_url": null,
+          "pacer_doc_id": null,
+          "description": "NOTICE OF FILING OF waiver of service of summons by plaintiff EEOC; w/waiver attached (BAG) (Entered: 10/21/1997)"
+        },
+        {
+          "row_number": 12,
+          "id": 1578891,
+          "entry_number": "14",
+          "date_filed": "1998-02-20T00:00:00-05:00",
+          "attachments": [],
+          "url": "nan",
+          "recap_pdf_url": null,
+          "pacer_doc_id": null,
+          "description": "JUDGMENT In A Civil Case: by Judge Bernice B. Donald re [13-2]; In accordance with the Consent Decree entered 1/14/98, this cause is dismissed; (cc: all counsel) (BAG) (Entered: 02/23/1998)"
+        },
+        {
+          "row_number": 5,
+          "id": 1578884,
+          "entry_number": "6",
+          "date_filed": "1997-12-16T00:00:00-05:00",
+          "attachments": [],
+          "url": "nan",
+          "recap_pdf_url": null,
+          "pacer_doc_id": null,
+          "description": "ORDER Of Reference by Judge Bernice B. Donald; This matter referred to Mag Judge Vescovo to conduct a settlement conference; (cc: all counsel) (BAG) (Entered: 12/19/1997)"
+        },
+        {
+          "row_number": 2,
+          "id": 1578881,
+          "entry_number": "3",
+          "date_filed": "1997-10-16T00:00:00-04:00",
+          "attachments": [],
+          "url": "nan",
+          "recap_pdf_url": null,
+          "pacer_doc_id": null,
+          "description": "ANSWER by defendant Taylor Forge Intl to [1-1]; jury demand (BAG) (Entered: 10/22/1997)"
+        },
+        {
+          "row_number": 7,
+          "id": 1578886,
+          "entry_number": "9",
+          "date_filed": "1998-01-13T00:00:00-05:00",
+          "attachments": [],
+          "url": "nan",
+          "recap_pdf_url": null,
+          "pacer_doc_id": null,
+          "description": "MEMORANDUM by plaintiff EEOC in support of motion for leave to file amended complaint (to change name of party dft) [8-1] (BAG) (Entered: 01/13/1998)"
+        },
+        {
+          "row_number": 4,
+          "id": 1578883,
+          "entry_number": "5",
+          "date_filed": "1997-12-16T00:00:00-05:00",
+          "attachments": [],
+          "url": "nan",
+          "recap_pdf_url": null,
+          "pacer_doc_id": null,
+          "description": "MINUTES: Scheduling conference held 12/16/97; The Court will refer this matter to Mag Judge for settlement conf. as soon as possible; The Court will set follow-up conference for 1:30 12/22/97; Parties may appear telephonically; Presiding Judge: Bernice B. Donald; Pla Atty: F. Williams; Dft Atty: H. Gerson, C. Bowel; C/R: none noted; (BAG) (Entered: 12/19/1997)"
+        },
+        {
+          "row_number": 0,
+          "id": 1578879,
+          "entry_number": "1",
+          "date_filed": "1997-08-29T00:00:00-04:00",
+          "attachments": [],
+          "url": "nan",
+          "recap_pdf_url": null,
+          "pacer_doc_id": null,
+          "description": "COMPLAINT pursuant to 42:2000e (BAG) (Entered: 09/02/1997)"
+        },
+        {
+          "row_number": 3,
+          "id": 1578882,
+          "entry_number": "4",
+          "date_filed": "1997-12-03T00:00:00-05:00",
+          "attachments": [],
+          "url": "nan",
+          "recap_pdf_url": null,
+          "pacer_doc_id": null,
+          "description": "SETTING LETTER: scheduling/status conference set for 12/16/97 at 11:15 (BAG) (Entered: 12/10/1997)"
+        },
+        {
+          "row_number": 8,
+          "id": 1578887,
+          "entry_number": "10",
+          "date_filed": "1998-01-13T00:00:00-05:00",
+          "attachments": [],
+          "url": "nan",
+          "recap_pdf_url": null,
+          "pacer_doc_id": null,
+          "description": "CERTIFICATE of Consultation by plaintiff EEOC re [8-1] (BAG) (Entered: 01/13/1998)"
+        },
+        {
+          "row_number": 9,
+          "id": 1578888,
+          "entry_number": "11",
+          "date_filed": "1998-01-13T00:00:00-05:00",
+          "attachments": [],
+          "url": "nan",
+          "recap_pdf_url": null,
+          "pacer_doc_id": null,
+          "description": "ORDER by Judge Bernice B. Donald granting motion for leave to file amended complaint (to change name of party dft) [8-1] (cc: all counsel) (BAG) (Entered: 01/14/1998)"
+        },
+        {
+          "row_number": 11,
+          "id": 1578890,
+          "entry_number": "13",
+          "date_filed": "1998-01-13T00:00:00-05:00",
+          "attachments": [],
+          "url": "nan",
+          "recap_pdf_url": null,
+          "pacer_doc_id": null,
+          "description": "CONSENT DECREE by Judge Bernice B. Donald: The Court approves the Consent Decree; This Consent decree resolves all issues and claims arising out of the Commission's complaint...; Dft shall pay Roger Armstrong $17,000.00 in compensatory damages, and deliver it to him within 10 days of this order to 4757 Saratoga, Millington, TN 38053; iEach party shall bear their own costs, including atty's fees; dismissing case (cc: all counsel) (BAG) (Entered: 01/14/1998)"
+        }
+      ],
+      "docket_case_type": "cv",
+      "docket_year": 1997,
+      "docket_filing_number": 2788,
+      "is_main_docket": true,
+      "court": "Western District of Tennessee",
+      "state": "Tennessee",
+      "docket_office_number": "2",
+      "docket_number_manual": "2:97-cv-02788-BBD",
+      "scales_html": "https://clearinghouse-umich-production.s3.amazonaws.com/media/docket-html/tnwd--2-97-cv-02788.html",
+      "recap_link": null,
+      "is_active": true
+    },
+    "name": "EEOC v. TAYLOR FORGE INTERNATIONAL, INC.",
+    "never_filed": false,
+    "non_docket_case_number": "",
+    "non_docket_case_number_type": null,
+    "non_docket_case_number_type_other": "",
+    "order_end_year": null,
+    "order_start_year": null,
+    "permanent_injunction": false,
+    "plaintiff_description": "Equal Employment Opportunity Commission, on behalf of one or more workers.",
+    "plaintiff_type": [
+      {
+        "value": "EEOC Plaintiff"
+      }
+    ],
+    "prevailing_party": "Plaintiff",
+    "pro_se_status": "No",
+    "public_interest_lawyer": "Yes",
+    "related_cases": [],
+    "relief_natures": [
+      "Injunction / Injunctive-like Settlement",
+      "Damages"
+    ],
+    "relief_nature_other": "",
+    "relief_sources": [
+      "Settlement"
+    ],
+    "settlement_agreement": [
+      "Court Approved Settlement or Consent Decree"
+    ],
+    "settlement_judgment_date": "1998-01-13",
+    "settlement_judgment_year": null,
+    "special_collections": [
+      "EEOC Study — in sample"
+    ],
+    "special_case_type": [],
+    "state": "Tennessee",
+    "summary": "<p>In August 1997, the Memphis District Office of the EEOC brought this suit against T.F., Inc., formerly known as Taylor Forge International, Inc., in the U.S. District Court for the Western District of Tennessee.  We do not have a copy of the complaint; therefore, the exact allegations involved are unknown.  According to the consent decree, the complaint alleged that the defendant discriminated against the charging party, an applicant with epilepsy, by failing to hire him because of his disability in violation of the Americans with Disabilities Act of 1990 (the \"ADA\") and Title VII of the Civil Rights Act of 1964.  After a few scheduling orders, the parties settled through a consent decree in January 1998.  </p><p>The decree contained non-discrimination and non-retaliation clauses and required the defendant to: continue to post the notice required by the ADA and pay the charging party $17,000. </p><p></p>",
+    "summary_published_date": "2007-07-23T00:00:00-04:00",
+    "summary_short": null,
+    "summary_tiny": null,
+    "terminating_date": "1998-01-13",
+    "clearinghouse_link": "clearinghouse.net/case/6432",
+    "is_active": true,
+    "case_documents_url": "https://clearinghouse.net/api/v2/documents/?case=6432",
+    "case_dockets_url": "https://clearinghouse.net/api/v2/dockets/?case=6432",
+    "case_resources_url": "https://clearinghouse.net/api/v2/resources/?case=6432"
+  },
+  "documents": [
+    {
+      "date": "1998-01-13",
+      "date_is_estimate": false,
+      "date_not_available": false,
+      "description": null,
+      "document_source": "PACER [Public Access to Court Electronic Records]",
+      "document_status": "Coding Complete",
+      "document_type": "Settlement Agreement",
+      "order_type": "Consent Decree",
+      "citation_paren": null,
+      "cite_1_page": null,
+      "cite_1_reporter": null,
+      "cite_1_vol": null,
+      "cite_2_page": null,
+      "cite_2_reporter": null,
+      "cite_2_vol": null,
+      "cite_3_page": null,
+      "cite_3_reporter": null,
+      "cite_3_vol": null,
+      "citation_status": "Not applicable",
+      "court": "Western District of Tennessee",
+      "no_title": false,
+      "party_types": [
+        "Court",
+        "Defendant",
+        "Plaintiff"
+      ],
+      "per_curium": false,
+      "is_core_document": true,
+      "id": 19422,
+      "file": "https://clearinghouse-umich-production.s3.amazonaws.com/media/doc/19422.pdf",
+      "title": "Consent Decree",
+      "text": "IN  'l'KE  lJIII'lEll  STATES  OISTRIC'I'  COUP.'T  \"- -'~ \"   '~ __ \"L,\" \nCase 2:97-cv-02788-BBD     Document 13     Filed 01/13/1998     Page 1 of 5(cid:10) .. , \nFOR  mE  \\I!!!'I'ERN  DJSTRICT  OF  TEl!N\"I!:SSE!i;,o \nr  ' \n,JIJ! \nW~\"'J:l':RN  UJVISIDN  _\"  '_~  I , \" \n, \n. \nEQWlL  ~LO\"lMENT OPFoRTUlHTY  • . \nCOMMUSION.  I \n, \nPLAINTIFF  , \n, \n,  civil ... \"d<>n  No_ \n,  97_nS3  DII \n'IF,  Inc,  , \nfIX!,'  Tayler P\"ro;le  Int&.-n~tional.  , \n, \n, \n~n\" \n, \nDEFENDANT • \nTIli.,  acUon  wa ..  t~tituted by  tit@  EqUal.  EllLptDymcmt  Opp\"rt~tlity \nn. .... etn\"n. .  n. \nC\"mnd .. ~ion  r  tho>  'COWIIi\"OIionn)  .a.q\"inl>t  \"\";f:eml\"nt, \nIIlC.,  f/\"/ ..  T\"ylor  For;. .  Int. .....a  ti\"MI,  In\".,  pursuant  t<>  S ..c  tlc>n \n101(a)  o!  tM  Am~riCan8 W1t.h  D1BObilitic:~ All\"  gf  ~ ..U  O  (\"AtlA\"l,  4:1 \nu.s.c. \n706(!) (1.)  \",not  PI  of  Titl. .  Vll  of  '.n,,- civil  Ri\"ht~ I\\\"t  or  19<>4 \n(\"Tttl\"  VII\"),  4-2  V.R.C.  S!i20DO\"'-~(f) (1)  aM.  (3),  ami  pl.lr. .u  ant  1;.0 \nsection  102  of  tile.  Civil  Rights  AQ't  ot  195.>~,  4~  V.$·C.  sIgal (1<)  , \nf\"\" \nTIl ..  Complaint  .. Ueged  IJoIfoOllda\\I't  hil\"~ t.o  hirm  ROller  Armll:trQng \n\"  \"uoQ~ lUll.per  position  b<ocau ....  Of  111 ..  <lli .. ,,):>ility,  epilepsy. \nDoocrQG  does  not  con\"titute  Mlml\",,\\on  l:ly  the \nT\"i~ Con~'\"\"t  ~n \n1'h\"  Detendant \n\"  .. \",~\"~o:.t  .\"toN~1 Oc  \",,);.-.•n  ••t   1:1- oo\"\"'U\"\"~. wi til .R)l.lo  ~S \"\"~I.or \n1_11_---q/2  .. \n?~ 101  J'II[;l'  on \n\ncas\" • \nCase 2:97-cv-02788-BBD     Document 13     Filed 01/13/1998     Page 2 of 5(cid:10)\nII'  th. ...\"  .. nt  t.l\\is  pr\"p<>~~d Consont  Decree.  J. ..  not  appr.,..,e<l  or \ndO ..l l  \"ot  bo!aOlB\"- tilllll.  it \"nall  not  be  \",dmi .... lbl. .  in  ..-vi<lUlce  in \n..n  y  ..u b5equ<>Mt  proc\"~dinq in this a<ltion. \nTh ..  co\". . t  h\", ..  \"\"\"i\"wed  th.e  t.er. .~   of  til. ..  propo~ .. d  c\"\"\"\". .t  \ner,,\" \nO. .  In  light  0:[  the  \"ppli.\". .b  h  law~  ~n<l  \" .. ~l\"ti.m .. ,  th\" \n,.tat-l!JI'Iente  and  rllpr. . ~ .. nt~ti\"nli  ,,'  \"o\"\"~\"l.  fQJ:  \"U  partie\",  ~n<'l \nai'p\"\"''''''' \nb ......b  y  tll.~  eonsent  Cecr. .e  . \nLt is hereby  OROr.;ru:O,  ADroOGEO  ANI>  OECREED: \nI.  J!!RISQIGT][]N! \nTtl ..  unit. . d  States  District court  t(lr  tll~  W~!lt.Brn  Distri\"t at \n'l·.\"'n. ... ~.\"• .  W. . ~t ..r n Divi$i-on,  h&.~  :iuri\"eliet'ion  ov,,-r  tho>  parties  and \nsul''1~ct lIlatter  01  tM ..  lit;q~ti\"n. \nII.  SCQ?!;  ANn  DIIRI!.TION  Qf  DBCBEE \nA.  T'hie  con&. .\"  t  [)ecr. . e  .... ~ .. ol\",~a  all  i\",\"u\",s  and  \"1 .. i,,,5 \n\"\"isi\"\",  out:  of  th. .  cOlllllli ....i on's  c\",\"plaint  in  this \",auso,  aLi9qin9 \nunlao,lful  employment  polid\",s  8nd  practices  maintained.  I:>y  the \nDefend~nt /!Ind  ari~inq O\\lt  Of  chl'l.rg\"\"  /[(1,  •.0 ;0-96-0009  fHEa  by  tile \n,,1'1. \n('h\"rqinq  Party.  Ro\"\",,,  A-r ....t rong  with  t;h.,  co'l'll1\\\\1 ~~ ~ \n= .. \nNot\"ith~t~Il<1irlg  any  provi .. ions  oont\"in\",d  in  thi\"  0 ..  8,  \".nls \n... gr~~rn~t ..h  all  not  ~ ooon\"i\"\",\",,<1  in  \"ny  ..\"  nn. .\"   to  be  \"ispositi\"\" \noQf  MY  ~h~rq~ now  p\"~~ing l><Jfore  .. ny  othe<o  .of  th. . Crnnmi .... ion  otl1\"-I' \n'-'Mt'q. .  lin.  ;1'Hl-9(;_OOog. \nt~~11 \nE.  'l'he  p .... <>vidone  <>f  this  coneent  De\"re~.  sh\",ll  ~ontinu\", to \n• \n\nbe  ~ft\"e\"tlv. . ~nd MrnUnq  upcn the  pa.rties  to thi~ ~\",ti\"'n \",ntil  til. .. \nCase 2:97-cv-02788-BBD     Document 13     Filed 01/13/1998     Page 3 of 5(cid:10)\n(]\" .. ,..t  al.gn\"  the \" ..\"  r. .... \nIII •  INJUNCTION  PROVISIONS \nA.  The  O. . t .. ndant,  its officers,  e>nplcy. .... s,  .. nd \n~gent5,  ~ll \n\"persons  ~etin<!  in  concert  \",ito  the  ll\"-f ...\"  dBnt  .......  h ... reby  ... njoined \nfrO!>  <liSCl:\"i\"in. .t inq  <><Jain~t  ,.  '!Ilali1!ied  1ndivMual  \"Hh  a \ndisability  ot  <li\"obility ot  individll'll  In \nb~c~II~~  th~  \"U~h  ,..~~rd \nto  hirl.!\"!  ~nd  ~h~r  t~\"\"' .. ,  \"ondi.t.i,,~.,  an'\"  pr!vil'''J~~  <>t \n. \n~pl\":{lIlO!nt \nE.  'l\"h\"  U\"f\"M.ant,  it~ Officers,  ag\"\"t. . ,  employees,  3nd \nall per\"cn\",  acti\"\"  in  acna. .r  t with  the Defend\"nt  ..h  all  net  emjl\" ..e  \nin  any  \"\"\"'Pleyml!llt  p~a~ti~ ..  .mien  has  the  pUrp<la ..  ~'\"  effect  of \ndi,,=iminatin\\J agairmt  any  individual. em  the bad ..  or  a  die. .b  ilH.y \nun<l.er  tl>e  J\\merigans  With  DisAbilities  Agt, \nIV.  NON-I!ETII,JATIOII  PROVISION \n'rho.  D&f.mdant,  it\"  offi<o&r&,  \"\\I&01t .. ,  \",\",ploy&\"s,  ~nd  all \nP\",,&Q>1&  acting in =n. .... rt with  th\" Def. .n  dant  shall not  <9.i\"\"\"iminata \nagain\"t a\"y  indlvi<9. ... al  bec~u5e ey.ch  imlividu\"l  h ... e  oppce\",<9.  .my  ~ct \nmad\",  \\lIlhwflll  by  tho  Americanti  With  Aot  or \n~r pra~ti~  D1s~bilities \nb ..c  ause  such  individual  m\"de  B  charge,  testified,  assi. .t ed.  cr \nparticipated  in  any  Jllann\"r  in  an  p,..o\". .... di01q,  or \ninve\"ti.g~ti\"n, \nh ..... <\"inll  under  the 1ID1e.rioans  With \nDi\"~biliUe,,. \n, \n\nv.  NarIG),;  POSTING \nCase 2:97-cv-02788-BBD     Document 13     Filed 01/13/1998     Page 4 of 5(cid:10)\nThe  D. . rendant  ,\",,,11  \"ont1nue  to  can&pl.cu<>\",o;ly  post  \"t  1t .. \n»tllingtOh,  T@nn@\"\"\"\"  office,  the  notice  (po~t_r)  .M~l.e~ to  b@ \npost,,~  p\"\"\"\"\"nt to the  AlOe.ri\"\"n~ With  lli. . \"bili ti,u Act of 1990. \n<11.  IHQIYIDIJU  BInT:T1If \n1'11,.  D<lt .. llWl.nt  fil.MU  P8Y  H\"'l\"\"  JI ....\"  trcn\"  $17,000.00  1\" \ncc~enB ... l;:.ory  ,hllu'qQa.  Within  UI'I  ~\".,.g.  att\",\"  gntry  IOf  the Decr.  . , \nDefendant  to  a  caghiar'\"  check  nade \n~hall aMliv~r  Ro~er Ar~\"t,.on~ \nto  \"Roger  ,.\". ...t \"on<;1\"  in  t_he  a ..o  unt  of  1>11,000.00  at  th\" \npayapl~ \nfollowing  \"<l<l\". .\" ,,,  47,.-,  Sft!\"~t\"'9a,  1<1111n9\"-o\",  TN  J80~). \n• \n\nCase 2:97-cv-02788-BBD     Document 13     Filed 01/13/1998     Page 5 of 5(cid:10)\nVI.  rqaxs \nt., \nEaoh  of  the  1I1I,!oll  eM'if'  own  c\". . \n\"lUtj,~~  ~u  in~ludin'i! \nf.\" •. \nattorneye' \nrT  :IS  ao  ORDERIDJ \nT~nB \nFOR  THE  nE\"~NDANT'  FOR  'HilL  COMMISSI ON, \nC.  ClI.EOORO'  STmilUIT. \nGener\". \nCoun~el \nAttorney \nFAilE  ~WlLLIAMS \nSenic.- Tria.  Attor.,. .y  \nEQtrAJ,.  EMPLOYXENT  OPPOR'l'VNITY \nI:OlOII9BION \n14C7  Union  Av ..  b21 \nnu~,  suit~ \n3S104 \nM~plli5.  Tenn@~~@e \nTeleplton@:  (901) \n544~DOBB \n, ",
+      "document_type_other": "",
+      "external_url": "",
+      "ecf_number": "19",
+      "clearinghouse_link": "clearinghouse.net/doc/19422"
+    },
+    {
+      "date": "1998-02-20",
+      "date_is_estimate": false,
+      "date_not_available": false,
+      "description": null,
+      "document_source": "PACER [Public Access to Court Electronic Records]",
+      "document_status": "Coding Complete",
+      "document_type": "Docket",
+      "order_type": null,
+      "citation_paren": null,
+      "cite_1_page": null,
+      "cite_1_reporter": null,
+      "cite_1_vol": null,
+      "cite_2_page": null,
+      "cite_2_reporter": null,
+      "cite_2_vol": null,
+      "cite_3_page": null,
+      "cite_3_reporter": null,
+      "cite_3_vol": null,
+      "citation_status": "Not applicable",
+      "court": "Western District of Tennessee",
+      "no_title": false,
+      "party_types": [
+        "Court"
+      ],
+      "per_curium": false,
+      "is_core_document": true,
+      "id": 19421,
+      "file": "https://clearinghouse-umich-production.s3.amazonaws.com/media/doc/19421.pdf",
+      "title": "Docket [PACER]",
+      "text": "CM/ECF - U.S. District Court:tnwd - Docket Report https://ecf.tnwd.uscourts.gov/cgi-bin/DktRpt.pl?101828389855458-L_9...\n51AD/J, TERMED\n  U.S. District Court\nWestern District of Tennessee (Memphis)\nCIVIL DOCKET FOR CASE #: 2:97-cv-02788-BBD\nEEOC v. T.F. Inc., et al Date Filed: 08/29/1997\nAssigned to: Judge Bernice B. Donald Jury Demand: Defendant\nDemand: $0 Nature of Suit: 442 Civil Rights: Jobs\nCause: 42:2000e Job Discrimination (Employment) Jurisdiction: U.S. Government Plaintiff\nPlaintiff\nEqual Employment Opportunity  represented by Faye A. Williams \nCommission EQUAL EMPLOYMENT \nOPPORTUNITY COMMISSION \n1407 Union Avenue \nSte. 621 \nMemphis, TN 38104 \n901-544-0088 \nEmail: faye.williams@eeoc.gov \nLEAD ATTORNEY \nATTORNEY TO BE NOTICED\nKatharine W. Kores \nEQUAL EMPLOYMENT \nOPPORTUNITY COMMISSION \n1407 Union Avenue \nSte. 621 \nMemphis, TN 38104 \n901-544-0151 \nEmail: katharine.kores@eeoc.gov \nLEAD ATTORNEY \nATTORNEY TO BE NOTICED\nV.\nDefendant\nTaylor Forge International, Inc.;  represented by Herbert E. Gerson \na division of Centrum Industries, Inc.  FORD & HARRISON, LLP- Ridge Lake \nTERMINATED: 01/13/1998  Blvd. \nalso known as 795 Ridge Lake Blvd. \nTF Ste. 300 \nMemphis, TN 38120 \n901-291-1500 \nFax: 901-291-1501 \nEmail: hgerson@fordharrison.com \nTERMINATED: 01/13/1998 \nLEAD ATTORNEY \n1 of 3 6/5/2007 9:38 AM\n\nCM/ECF - U.S. District Court:tnwd - Docket Report https://ecf.tnwd.uscourts.gov/cgi-bin/DktRpt.pl?101828389855458-L_9...\nATTORNEY TO BE NOTICED\nMichelle S. Harkavy \nFORD & HARRISON \n6750 Poplar Avenue \nSte. 600 \nMemphis, TN 38138-1375 \n901-756-1550 \nEmail: mharkavy@fordharrison.com \nTERMINATED: 01/13/1998 \nLEAD ATTORNEY \nATTORNEY TO BE NOTICED\nDefendant\nTF Inc.  represented by Herbert E. Gerson \nf/k/a Taylor Forge International, Inc. (See above for address) \nLEAD ATTORNEY \nATTORNEY TO BE NOTICED\nMichelle S. Harkavy \n(See above for address) \nLEAD ATTORNEY \nATTORNEY TO BE NOTICED\nDate Filed # Docket Text\n08/29/1997 1 COMPLAINT pursuant to 42:2000e (BAG) (Entered: 09/02/1997)\n10/15/1997 2 NOTICE OF FILING OF waiver of service of summons by plaintiff EEOC; \nw/waiver attached (BAG) (Entered: 10/21/1997)\n10/16/1997 3 ANSWER by defendant Taylor Forge Intl to [1-1]; jury demand (BAG) (Entered: \n10/22/1997)\n12/03/1997 4 SETTING LETTER: scheduling/status conference set for 12/16/97 at 11:15 \n(BAG) (Entered: 12/10/1997)\n12/16/1997 5 MINUTES: Scheduling conference held 12/16/97; The Court will refer this \nmatter to Mag Judge for settlement conf. as soon as possible; The Court will set \nfollow-up conference for 1:30 12/22/97; Parties may appear telephonically; \nPresiding Judge: Bernice B. Donald; Pla Atty: F. Williams; Dft Atty: H. Gerson, \nC. Bowel; C/R: none noted; (BAG) (Entered: 12/19/1997)\n12/16/1997 6 ORDER Of Reference by Judge Bernice B. Donald; This matter referred to Mag \nJudge Vescovo to conduct a settlement conference; (cc: all counsel) (BAG) \n(Entered: 12/19/1997)\n12/22/1997 7 NOTICE OF FILING OF Report of Parties' Planning Meeting by plaintiff, \ndefendant (BAG) (Entered: 01/06/1998)\n2 of 3 6/5/2007 9:38 AM\n\nCM/ECF - U.S. District Court:tnwd - Docket Report https://ecf.tnwd.uscourts.gov/cgi-bin/DktRpt.pl?101828389855458-L_9...\n01/13/1998 8 MOTION by plaintiff EEOC for leave to file amended complaint (to change \nname of party dft) (BAG) (Entered: 01/13/1998)\n01/13/1998 9 MEMORANDUM by plaintiff EEOC in support of motion for leave to file \namended complaint (to change name of party dft) [8-1] (BAG) (Entered: \n01/13/1998)\n01/13/1998 10 CERTIFICATE of Consultation by plaintiff EEOC re [8-1] (BAG) (Entered: \n01/13/1998)\n01/13/1998 11 ORDER by Judge Bernice B. Donald granting motion for leave to file amended \ncomplaint (to change name of party dft) [8-1] (cc: all counsel) (BAG) (Entered: \n01/14/1998)\n01/13/1998 12 AMENDED COMPLAINT [1-1] by plaintiff EEOC terminating defendant \nTaylor Forge Intl; adding defendant TF Inc.; jury demand (BAG) (Entered: \n01/14/1998)\n01/13/1998 13 CONSENT DECREE by Judge Bernice B. Donald: The Court approves the \nConsent Decree; This Consent decree resolves all issues and claims arising out of \nthe Commission's complaint...; Dft shall pay Roger Armstrong $17,000.00 in \ncompensatory damages, and deliver it to him within 10 days of this order to 4757 \nSaratoga, Millington, TN 38053; iEach party shall bear their own costs, including \natty's fees; dismissing case (cc: all counsel) (BAG) (Entered: 01/14/1998)\n02/20/1998 14 JUDGMENT In A Civil Case: by Judge Bernice B. Donald re [13-2]; In \naccordance with the Consent Decree entered 1/14/98, this cause is dismissed; (cc: \nall counsel) (BAG) (Entered: 02/23/1998)\nPACER Service Center\nTransaction Receipt\n06/05/2007 09:37:50\nPACER \nhs0328 Client Code: eeoc \nLogin:\nDocket  Search \nDescription: 2:97-cv-02788-BBD\nReport Criteria:\nBillable Pages: 2 Cost: 0.16\n3 of 3 6/5/2007 9:38 AM",
+      "document_type_other": null,
+      "external_url": null,
+      "ecf_number": null,
+      "clearinghouse_link": "clearinghouse.net/doc/19421"
+    },
+    {
+      "date": null,
+      "date_is_estimate": false,
+      "date_not_available": false,
+      "description": null,
+      "document_source": null,
+      "document_status": null,
+      "document_type": null,
+      "order_type": null,
+      "citation_paren": null,
+      "cite_1_page": null,
+      "cite_1_reporter": null,
+      "cite_1_vol": null,
+      "cite_2_page": null,
+      "cite_2_reporter": null,
+      "cite_2_vol": null,
+      "cite_3_page": null,
+      "cite_3_reporter": null,
+      "cite_3_vol": null,
+      "citation_status": null,
+      "court": null,
+      "no_title": false,
+      "party_types": [],
+      "per_curium": false,
+      "is_core_document": true,
+      "id": 124917,
+      "file": null,
+      "title": null,
+      "text": null,
+      "document_type_other": null,
+      "external_url": null,
+      "ecf_number": null,
+      "clearinghouse_link": "clearinghouse.net/doc/124917"
+    }
+  ],
+  "document_count": 3
+}

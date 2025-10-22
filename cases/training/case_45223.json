@@ -1,0 +1,912 @@
+{
+  "case_id": 45223,
+  "fetched_at": "2025-10-22T00:42:06.348892",
+  "case_data": {
+    "attorney_orgs": [],
+    "available_documents": [
+      "Trial Court Docket",
+      "Complaint (any)"
+    ],
+    "case_defendants": [
+      {
+        "defendant_level": null,
+        "institution": "",
+        "institution_alt_state": null,
+        "institution_city": "",
+        "institution_county": null,
+        "name": "City of Berkeley",
+        "defendant_level_other": "",
+        "is_active": true
+      }
+    ],
+    "case_ongoing": "No",
+    "case_status": "Approved",
+    "case_types": [
+      "Public Housing",
+      "Criminal Justice (Other)",
+      "Disability Rights"
+    ],
+    "cause_other": "",
+    "causes": [
+      "42 U.S.C. § 1983",
+      "Americans with Disabilities Act (ADA), 42 U.S.C. §§ 12111 et seq.",
+      "State law",
+      "Declaratory Judgment Act, 28 U.S.C. § 2201",
+      "Ex parte Young (federal or state officials)"
+    ],
+    "class_action_granted": "Not sought",
+    "class_action_sought": "No",
+    "closing_year": 2024,
+    "constitutional_clause": [
+      {
+        "value": "Due Process"
+      },
+      {
+        "value": "Due Process: Substantive Due Process"
+      },
+      {
+        "value": "Unreasonable search and seizure"
+      },
+      {
+        "value": "Cruel and Unusual Punishment"
+      }
+    ],
+    "content_of_injunction": [
+      {
+        "value": "Preliminary relief granted"
+      },
+      {
+        "value": "Preliminary relief request withdrawn/mooted"
+      }
+    ],
+    "court": "Northern District of California",
+    "custom_issues": [],
+    "defendant_payment": "",
+    "defendant_type": [
+      {
+        "value": "Jurisdiction-wide"
+      }
+    ],
+    "docket_status": "Complete as of retrieval date",
+    "facility_type": [],
+    "filing_date": "2023-12-11",
+    "filing_year": 2023,
+    "id": 45223,
+    "injunction_duration": "1",
+    "issues": [
+      "General/Misc.: Emergency shelter",
+      "General/Misc.: Placement in shelters",
+      "General/Misc.: Poverty/homelessness",
+      "Disability and Disability Rights: Disability, unspecified",
+      "Disability and Disability Rights: Mental Illness, Unspecified",
+      "Disability and Disability Rights: Mobility impairment",
+      "General/Misc.: Pattern or Practice",
+      "General/Misc.: Access to public accommodations - governmental",
+      "General/Misc.: Parking"
+    ],
+    "last_checked_date": "2025-05-06T00:00:00-04:00",
+    "main_docket": {
+      "id": 59152,
+      "docket_entries": [
+        {
+          "row_number": 52,
+          "id": 9142140,
+          "entry_number": null,
+          "date_filed": "2023-12-28T00:00:00-05:00",
+          "attachments": [],
+          "url": "https://www.courtlistener.com",
+          "recap_pdf_url": null,
+          "pacer_doc_id": null,
+          "description": "Clerk's Notice Setting Zoom Hearing"
+        },
+        {
+          "row_number": 0,
+          "id": 9672534,
+          "entry_number": "1",
+          "date_filed": "2023-12-11T00:00:00-05:00",
+          "attachments": [],
+          "url": "https://www.courtlistener.com/docket/68081707/1/parnell-v-city-of-berkeley/",
+          "recap_pdf_url": "https://www.courtlistener.com/recap/gov.uscourts.cand.422097/gov.uscourts.cand.422097.1.0.pdf",
+          "pacer_doc_id": "035023858359",
+          "description": "COMPLAINT; No Process with Jury Demand, against City of Berkeley. Filed by Lawanda Parnell, Mike Douglas, Merced Dominguez. Consent/Declination due by 12/26/2023. (Attachments: # 1 Civil Cover Sheet)(jlm, COURT STAFF) (Filed on 12/11/2023) (Entered: 12/12/2023)"
+        },
+        {
+          "row_number": 23,
+          "id": 9142141,
+          "entry_number": "30",
+          "date_filed": "2024-01-02T00:00:00-05:00",
+          "attachments": [],
+          "url": "https://www.courtlistener.com/docket/68081707/30/parnell-v-city-of-berkeley/",
+          "recap_pdf_url": null,
+          "pacer_doc_id": "035023928133",
+          "description": "JOINT CASE MANAGEMENT STATEMENT filed by City of Berkeley. (Shapp, Marc) (Filed on 1/2/2024) (Entered: 01/02/2024)"
+        },
+        {
+          "row_number": 24,
+          "id": 9142142,
+          "entry_number": "31",
+          "date_filed": "2024-01-08T00:00:00-05:00",
+          "attachments": [],
+          "url": "https://www.courtlistener.com/docket/68081707/31/parnell-v-city-of-berkeley/",
+          "recap_pdf_url": null,
+          "pacer_doc_id": "035023943066",
+          "description": "TRANSCRIPT ORDER for proceedings held on 12/19/2023 and 12/21/2023 before Judge Edward M Chen for Court Reporter Stephen Franklin (Franklin, Stephen) (Filed on 1/8/2024) (Entered: 01/08/2024)"
+        },
+        {
+          "row_number": 27,
+          "id": 9142143,
+          "entry_number": "34",
+          "date_filed": "2024-01-11T00:00:00-05:00",
+          "attachments": [],
+          "url": "https://www.courtlistener.com/docket/68081707/34/parnell-v-city-of-berkeley/",
+          "recap_pdf_url": null,
+          "pacer_doc_id": "035024001362",
+          "description": "Minute Entry for proceedings held before Judge Edward M Chen: Initial Case Management Conference held on 1/11/2024 and Motion Hearing held on 1/11/2024 re (51 in 3:23-cv-04537-EMC) MOTION to Dismiss for Lack of Jurisdiction First Amended Complaint. Total Time in Court: 42 Minutes. Court Reporter: Marla Knox. (vla, COURT STAFF) (Date Filed: 1/11/2024) (Entered: 01/24/2024)"
+        },
+        {
+          "row_number": 28,
+          "id": 9142144,
+          "entry_number": "35",
+          "date_filed": "2024-01-11T00:00:00-05:00",
+          "attachments": [],
+          "url": "https://www.courtlistener.com/docket/68081707/35/parnell-v-city-of-berkeley/",
+          "recap_pdf_url": null,
+          "pacer_doc_id": "035024011746",
+          "description": "Mail sent to Mike Douglas returned as undeliverable re 15 Order on Motion for TRO, 16 Clerk's Notice Setting Zoom Hearing.(mcl, COURT STAFF) (Filed on 1/11/2024) (Entered: 01/26/2024)"
+        },
+        {
+          "row_number": 25,
+          "id": 9142145,
+          "entry_number": "32",
+          "date_filed": "2024-01-12T00:00:00-05:00",
+          "attachments": [],
+          "url": "https://www.courtlistener.com/docket/68081707/32/parnell-v-city-of-berkeley/",
+          "recap_pdf_url": null,
+          "pacer_doc_id": "035023969429",
+          "description": "Mail sent to Mike Douglas returned as undeliverable re 11 Order Relating Case. (mcl, COURT STAFF) (Filed on 1/12/2024) (Entered: 01/16/2024)"
+        },
+        {
+          "row_number": 29,
+          "id": 9142146,
+          "entry_number": "36",
+          "date_filed": "2024-01-12T00:00:00-05:00",
+          "attachments": [],
+          "url": "https://www.courtlistener.com/docket/68081707/36/parnell-v-city-of-berkeley/",
+          "recap_pdf_url": null,
+          "pacer_doc_id": "035024011767",
+          "description": "Mail sent to Le Wanda Parnell returned as undeliverable re 15 Order on Motion for TRO, 16 Clerk's Notice Setting Zoom Hearing.(mcl, COURT STAFF) (Filed on 1/12/2024) (Entered: 01/26/2024)"
+        },
+        {
+          "row_number": 26,
+          "id": 9142147,
+          "entry_number": "33",
+          "date_filed": "2024-01-16T00:00:00-05:00",
+          "attachments": [],
+          "url": "https://www.courtlistener.com/docket/68081707/33/parnell-v-city-of-berkeley/",
+          "recap_pdf_url": null,
+          "pacer_doc_id": "035023974572",
+          "description": "Mail sent to Le Wanda Parnell returned as undeliverable re 11 Order Relating Case. (mcl, COURT STAFF) (Filed on 1/16/2024) (Entered: 01/17/2024)"
+        },
+        {
+          "row_number": 30,
+          "id": 9142148,
+          "entry_number": "37",
+          "date_filed": "2024-01-31T00:00:00-05:00",
+          "attachments": [],
+          "url": "https://www.courtlistener.com/docket/68081707/37/parnell-v-city-of-berkeley/",
+          "recap_pdf_url": null,
+          "pacer_doc_id": "035024024993",
+          "description": "Transcript of Proceedings held on 12/19/2023, before Judge Edward M. Chen. Court Reporter/Transcriber Stephen W. Franklin, telephone number (561)313-8439. Per General Order No. 59 and Judicial Conference policy, this transcript may be viewed only at the Clerk's Office public terminal or may be purchased through the Court Reporter/Transcriber until the deadline for the Release of Transcript Restriction. After that date it may be obtained through PACER. Any Notice of Intent to Request Redaction, if required, is due no later than 5 business days from date of this filing. (Re (64 in 3:23-cv-04537-EMC) Transcript Order ) Release of Transcript Restriction set for 4/30/2024. (Franklin, Stephen) (Filed on 1/31/2024) (Entered: 01/31/2024)"
+        },
+        {
+          "row_number": 53,
+          "id": 9142150,
+          "entry_number": null,
+          "date_filed": "2024-07-30T00:00:00-04:00",
+          "attachments": [],
+          "url": "https://www.courtlistener.com",
+          "recap_pdf_url": null,
+          "pacer_doc_id": null,
+          "description": "Case Referred to Magistrate Judge for Settlement"
+        },
+        {
+          "row_number": 54,
+          "id": 9142151,
+          "entry_number": null,
+          "date_filed": "2024-07-30T00:00:00-04:00",
+          "attachments": [],
+          "url": "https://www.courtlistener.com",
+          "recap_pdf_url": null,
+          "pacer_doc_id": null,
+          "description": "CASE REFERRED to Magistrate Judge Kandis A. Westmore for Settlement. (shy, COURT STAFF) (Filed on 7/30/2024)"
+        },
+        {
+          "row_number": 32,
+          "id": 9142152,
+          "entry_number": "39",
+          "date_filed": "2024-07-30T00:00:00-04:00",
+          "attachments": [],
+          "url": "https://www.courtlistener.com/docket/68081707/39/parnell-v-city-of-berkeley/",
+          "recap_pdf_url": null,
+          "pacer_doc_id": "035024677705",
+          "description": "CLERK'S NOTICE SETTING TELEPHONE CONFERENCE. Please note that you must be logged into an ECF account of counsel of record in order to view this document. Telephone Conference set for 8/9/2024 03:00 PM in Oakland, - Telephonic Only before Magistrate Judge Kandis A. Westmore. (wft, COURT STAFF) (Filed on 7/30/2024)Any non-CM/ECF Participants have been served by First Class Mail to the addresses of record listed on the Notice of Electronic Filing (NEF) (Entered: 07/30/2024)"
+        },
+        {
+          "row_number": 34,
+          "id": 9142153,
+          "entry_number": "40",
+          "date_filed": "2024-08-09T00:00:00-04:00",
+          "attachments": [],
+          "url": "https://www.courtlistener.com/docket/68081707/40/parnell-v-city-of-berkeley/",
+          "recap_pdf_url": null,
+          "pacer_doc_id": "035024752162",
+          "description": "Minute Entry for proceedings held before Magistrate Judge Kandis A. Westmore: Pre-Settlement Telephonic Conference held on 8/9/2024. Settlement Conference set for 12/9/2024 01:00 PM in Oakland, Courtroom 4, 3rd Floor. Confidential settlement conference statements are due on 11/27/2024. The Court will convert the settlement conference to Zoom if public health concerns so require. The parties are directed to review and comply with the Courts settlement conference standing order available at https://www.cand.uscourts.gov/judges/westmore-kandis-a-kaw/ Total Time in Court: 30 minutes. Not Reported. (wft, COURT STAFF) (Date Filed: 8/9/2024) (Entered: 08/19/2024)"
+        },
+        {
+          "row_number": 35,
+          "id": 9142154,
+          "entry_number": "41",
+          "date_filed": "2024-08-19T00:00:00-04:00",
+          "attachments": [],
+          "url": "https://www.courtlistener.com/docket/68081707/41/parnell-v-city-of-berkeley/",
+          "recap_pdf_url": null,
+          "pacer_doc_id": "035024754648",
+          "description": "SETTLEMENT CONFERENCE MEET AND CONFER ORDER re ( 89 in 3:23-cv-04537-EMC, and 40 in 3:23-cv-06379-EMC,), Signed by Judge Kandis A. Westmore on 8/19/2024. (wft, COURT STAFF) (Filed on 8/19/2024)Any non-CM/ECF Participants have been served by First Class Mail to the addresses of record listed on the Notice of Electronic Filing (NEF) (Entered: 08/19/2024)"
+        },
+        {
+          "row_number": 36,
+          "id": 9142155,
+          "entry_number": "42",
+          "date_filed": "2024-08-29T00:00:00-04:00",
+          "attachments": [],
+          "url": "https://www.courtlistener.com/docket/68081707/42/parnell-v-city-of-berkeley/",
+          "recap_pdf_url": null,
+          "pacer_doc_id": "035024813206",
+          "description": "Mail sent to Mike Douglas returned as undeliverable re 39 Clerk's Notice Setting ADR Telephone Conference. (mcl, COURT STAFF) (Filed on 8/29/2024) (Entered: 08/29/2024)"
+        },
+        {
+          "row_number": 37,
+          "id": 9142156,
+          "entry_number": "43",
+          "date_filed": "2024-09-03T00:00:00-04:00",
+          "attachments": [],
+          "url": "https://www.courtlistener.com/docket/68081707/43/parnell-v-city-of-berkeley/",
+          "recap_pdf_url": null,
+          "pacer_doc_id": "035024831600",
+          "description": "Mail sent to Mike Douglas returned as undeliverable re 40 Settlement Conference. (far, COURT STAFF) (Filed on 9/3/2024) (Entered: 09/03/2024)"
+        },
+        {
+          "row_number": 6,
+          "id": 9672538,
+          "entry_number": "15",
+          "date_filed": "2023-12-15T00:00:00-05:00",
+          "attachments": [],
+          "url": "https://www.courtlistener.com/docket/68081707/15/parnell-v-city-of-berkeley/",
+          "recap_pdf_url": "https://www.courtlistener.com/recap/gov.uscourts.cand.422097/gov.uscourts.cand.422097.15.0.pdf",
+          "pacer_doc_id": "035023881098",
+          "description": "Order by Judge Araceli Martinez-Olguin in case 3:23-cv-04537-EMC; granting (2) Motion for TRO in case 3:23-cv-06379-EMC. Associated Cases: 3:23-cv-06379-EMC, 3:23-cv-04537-EMC. (ads, COURT STAFF) (Filed on 12/15/2023)Any non-CM/ECF Participants have been served by First Class Mail to the addresses of record listed on the Notice of Electronic Filing (NEF) (Entered: 12/15/2023)"
+        },
+        {
+          "row_number": 38,
+          "id": 9741332,
+          "entry_number": "44",
+          "date_filed": "2024-12-02T00:00:00-05:00",
+          "attachments": [],
+          "url": "https://www.courtlistener.com/docket/68081707/44/parnell-v-city-of-berkeley/",
+          "recap_pdf_url": "https://www.courtlistener.com/recap/gov.uscourts.cand.422097/gov.uscourts.cand.422097.44.0.pdf",
+          "pacer_doc_id": "035025140478",
+          "description": "ORDER REGARDING FAILURE TO LODGE SETTLEMENT CONFERENCE STATEMENTS re 40, Signed by Judge Kandis A. Westmore on 12/2/2024. (wft, COURT STAFF) (Filed on 12/2/2024) Any non-CM/ECF Participants have been served by First Class Mail to the addresses of record listed on the Notice of Electronic Filing (NEF) Modified on 12/2/2024 (wft, COURT STAFF). (Entered: 12/02/2024)"
+        },
+        {
+          "row_number": 39,
+          "id": 9741333,
+          "entry_number": "45",
+          "date_filed": "2024-12-05T00:00:00-05:00",
+          "attachments": [],
+          "url": "https://www.courtlistener.com/docket/68081707/45/parnell-v-city-of-berkeley/",
+          "recap_pdf_url": null,
+          "pacer_doc_id": null,
+          "description": "ORDER VACATING SETTLEMENT CONFERENCE. Plaintiffs' settlement conference statement was due by 11/27/2024. After Plaintiffs failed to provide the statement, the Court sua sponte extended the deadline to 12/4/2024 at 12:00 noon. To date, Plaintiffs have still not provided the statement, so the Court lacks the materials necessary to prepare for the settlement conference. The Court has been separately informed that the plaintiffs intend to file a voluntary dismissal. For both reasons, the Court VACATES the 12/9/2024 settlement conference as it pertains to the Parnell plaintiffs. The related Prado action remains on calendar. Signed by Judge Kandis A. Westmore on 12/5/2024. (This is a text-only entry generated by the court. There is no document associated with this entry.) (kawlc1, COURT STAFF) (Filed on 12/5/2024)Any non-CM/ECF Participants have been served by First Class Mail to the addresses of record listed on the Notice of Electronic Filing (NEF) (Entered: 12/05/2024)"
+        },
+        {
+          "row_number": 55,
+          "id": 9741334,
+          "entry_number": null,
+          "date_filed": "2024-12-05T00:00:00-05:00",
+          "attachments": [],
+          "url": "https://www.courtlistener.com",
+          "recap_pdf_url": null,
+          "pacer_doc_id": null,
+          "description": "1 - Terminate Hearings AND Order"
+        },
+        {
+          "row_number": 40,
+          "id": 10161991,
+          "entry_number": "46",
+          "date_filed": "2024-12-13T00:00:00-05:00",
+          "attachments": [],
+          "url": "https://www.courtlistener.com/docket/68081707/46/parnell-v-city-of-berkeley/",
+          "recap_pdf_url": null,
+          "pacer_doc_id": "035025187999",
+          "description": "Mail sent to Mike Douglas returned as undeliverable re 44 Order. (gba, COURT STAFF) (Filed on 12/13/2024) (Entered: 12/13/2024)"
+        },
+        {
+          "row_number": 41,
+          "id": 10161992,
+          "entry_number": "47",
+          "date_filed": "2024-12-13T00:00:00-05:00",
+          "attachments": [],
+          "url": "https://www.courtlistener.com/docket/68081707/47/parnell-v-city-of-berkeley/",
+          "recap_pdf_url": null,
+          "pacer_doc_id": "035025190910",
+          "description": "Mail sent to Mike Douglas returned as undeliverable re 44 Order. (gba, COURT STAFF) (Filed on 12/13/2024) (Entered: 12/16/2024)"
+        },
+        {
+          "row_number": 11,
+          "id": 10253321,
+          "entry_number": "2",
+          "date_filed": "2023-12-11T00:00:00-05:00",
+          "attachments": null,
+          "url": "https://www.courtlistener.com/docket/68081707/2/parnell-v-city-of-berkeley/",
+          "recap_pdf_url": null,
+          "pacer_doc_id": "035023858404",
+          "description": "MOTION for Temporary Restraining Order filed by Merced Dominguez, Mike Douglas, Lawanda Parnell. (Attachments: # 1 Declarations in Support, # 2 Proposed Order)(jlm, COURT STAFF) (Filed on 12/11/2023) (Entered: 12/12/2023)"
+        },
+        {
+          "row_number": 22,
+          "id": 10253322,
+          "entry_number": "3",
+          "date_filed": "2023-12-11T00:00:00-05:00",
+          "attachments": null,
+          "url": "https://www.courtlistener.com/docket/68081707/3/parnell-v-city-of-berkeley/",
+          "recap_pdf_url": null,
+          "pacer_doc_id": "035023858422",
+          "description": "MOTION for Leave to Proceed in forma pauperis filed by Lawanda Parnell. (jlm, COURT STAFF) (Filed on 12/11/2023) (Entered: 12/12/2023)"
+        },
+        {
+          "row_number": 33,
+          "id": 10253323,
+          "entry_number": "4",
+          "date_filed": "2023-12-11T00:00:00-05:00",
+          "attachments": null,
+          "url": "https://www.courtlistener.com/docket/68081707/4/parnell-v-city-of-berkeley/",
+          "recap_pdf_url": null,
+          "pacer_doc_id": "035023858447",
+          "description": "MOTION for Leave to Proceed in forma pauperis filed by Merced Dominguez. (jlm, COURT STAFF) (Filed on 12/11/2023) (Entered: 12/12/2023)"
+        },
+        {
+          "row_number": 42,
+          "id": 10253324,
+          "entry_number": "5",
+          "date_filed": "2023-12-11T00:00:00-05:00",
+          "attachments": null,
+          "url": "https://www.courtlistener.com/docket/68081707/5/parnell-v-city-of-berkeley/",
+          "recap_pdf_url": null,
+          "pacer_doc_id": "035023858459",
+          "description": "MOTION for Leave to Proceed in forma pauperis filed by Mike Douglas. (jlm, COURT STAFF) (Filed on 12/11/2023) (Entered: 12/12/2023)"
+        },
+        {
+          "row_number": 43,
+          "id": 10253325,
+          "entry_number": "6",
+          "date_filed": "2023-12-11T00:00:00-05:00",
+          "attachments": null,
+          "url": "https://www.courtlistener.com/docket/68081707/6/parnell-v-city-of-berkeley/",
+          "recap_pdf_url": null,
+          "pacer_doc_id": "035023858486",
+          "description": "CONSENT/DECLINATION to Proceed Before a US Magistrate Judge by Mike Douglas.. (jlm, COURT STAFF) (Filed on 12/11/2023) (Entered: 12/12/2023)"
+        },
+        {
+          "row_number": 44,
+          "id": 10253326,
+          "entry_number": "7",
+          "date_filed": "2023-12-11T00:00:00-05:00",
+          "attachments": null,
+          "url": "https://www.courtlistener.com/docket/68081707/7/parnell-v-city-of-berkeley/",
+          "recap_pdf_url": null,
+          "pacer_doc_id": "035023858600",
+          "description": "Initial Case Management Scheduling Order with ADR Deadlines: Case Management Statement due by 3/14/2024. Initial Case Management Conference set for 3/20/2024 01:30 PM. (Attachments: # 1 DMR - Standing Order, # 2 Standing Order for All Judges)(jlm, COURT STAFF) (Filed on 12/11/2023)Any non-CM/ECF Participants have been served by First Class Mail to the addresses of record listed on the Notice of Electronic Filing (NEF) (Entered: 12/12/2023)"
+        },
+        {
+          "row_number": 45,
+          "id": 10253327,
+          "entry_number": "8",
+          "date_filed": "2023-12-12T00:00:00-05:00",
+          "attachments": null,
+          "url": "https://www.courtlistener.com/docket/68081707/8/parnell-v-city-of-berkeley/",
+          "recap_pdf_url": null,
+          "pacer_doc_id": null,
+          "description": "CLERK'S NOTICE OF IMPENDING REASSIGNMENT TO A U.S. DISTRICT COURT JUDGE: The Clerk of this Court will now randomly reassign this case to a District Judge because either (1) a party has not consented to the jurisdiction of a Magistrate Judge, or (2) time is of the essence in deciding a pending judicial action for which the necessary consents to Magistrate Judge jurisdiction have not been secured. You will be informed by separate notice of the district judge to whom this case is reassigned. ALL HEARING DATES PRESENTLY SCHEDULED BEFORE THE CURRENT MAGISTRATE JUDGE ARE VACATED AND SHOULD BE RE-NOTICED FOR HEARING BEFORE THE JUDGE TO WHOM THIS CASE IS REASSIGNED. This is a text only docket entry; there is no document associated with this notice. (jlg, COURT STAFF) (Filed on 12/12/2023)Any non-CM/ECF Participants have been served by First Class Mail to the addresses of record listed on the Notice of Electronic Filing (NEF) (Entered: 12/12/2023)"
+        },
+        {
+          "row_number": 46,
+          "id": 10253328,
+          "entry_number": "9",
+          "date_filed": "2023-12-12T00:00:00-05:00",
+          "attachments": null,
+          "url": "https://www.courtlistener.com/docket/68081707/9/parnell-v-city-of-berkeley/",
+          "recap_pdf_url": null,
+          "pacer_doc_id": "035023859227",
+          "description": "ORDER REASSIGNING CASE. Case reassigned using a proportionate, random, and blind system pursuant to General Order No. 44 to Judge Richard Seeborg for all further proceedings. Magistrate Judge Donna M. Ryu no longer assigned to case, Signed by The Clerk on 12/12/2023. (anj, COURT STAFF) (Filed on 12/12/2023)Any non-CM/ECF Participants have been served by First Class Mail to the addresses of record listed on the Notice of Electronic Filing (NEF) (Additional attachment(s) added on 12/13/2023: # 1 Clerk Sig added) (anj, COURT STAFF). (Entered: 12/12/2023)"
+        },
+        {
+          "row_number": 2,
+          "id": 10253329,
+          "entry_number": "11",
+          "date_filed": "2023-12-13T00:00:00-05:00",
+          "attachments": null,
+          "url": "https://www.courtlistener.com/docket/68081707/11/parnell-v-city-of-berkeley/",
+          "recap_pdf_url": null,
+          "pacer_doc_id": "035023868349",
+          "description": "ORDER RELATING CASE. Signed by Judge Edward M. Chen on 12/13/2023. (vla, COURT STAFF) (Filed on 12/13/2023)Any non-CM/ECF Participants have been served by First Class Mail to the addresses of record listed on the Notice of Electronic Filing (NEF) (Entered: 12/13/2023)"
+        },
+        {
+          "row_number": 3,
+          "id": 10253330,
+          "entry_number": "12",
+          "date_filed": "2023-12-13T00:00:00-05:00",
+          "attachments": null,
+          "url": "https://www.courtlistener.com/docket/68081707/12/parnell-v-city-of-berkeley/",
+          "recap_pdf_url": null,
+          "pacer_doc_id": "035023868648",
+          "description": "Case Reassigned to Judge Edward M Chen. Judge Richard Seeborg no longer assigned to the case. Notice: The assigned judge participates in the Cameras in the Courtroom Pilot Project. See General Order No. 65 and http://cand.uscourts.gov/cameras. (mbc, COURT STAFF) (Filed on 12/13/2023) (Entered: 12/13/2023)"
+        },
+        {
+          "row_number": 4,
+          "id": 10253331,
+          "entry_number": "13",
+          "date_filed": "2023-12-13T00:00:00-05:00",
+          "attachments": null,
+          "url": "https://www.courtlistener.com/docket/68081707/13/parnell-v-city-of-berkeley/",
+          "recap_pdf_url": null,
+          "pacer_doc_id": "035023871339",
+          "description": "OPPOSITION/RESPONSE (re 2 MOTION for Temporary Restraining Order ) filed byCity of Berkeley. (Attachments: # 1 Declaration of Peter Radu in Support of Opposition to TRO, # 2 Declaration of Okeya Vance-Dozier in Support of Opposition to TRO, # 3 Declaration of Vincent Chen in Support of Opposition to TRO, # 4 Declaration of Officer Kevin Kleppe in Support of Opposition to TRO, # 5 Declaration of Rosanne Massimino Regarding Personal Service)(Shapp, Marc) (Filed on 12/13/2023) Modified on 12/14/2023 (mcl, COURT STAFF). (Entered: 12/13/2023)"
+        },
+        {
+          "row_number": 5,
+          "id": 10253332,
+          "entry_number": "14",
+          "date_filed": "2023-12-13T00:00:00-05:00",
+          "attachments": null,
+          "url": "https://www.courtlistener.com/docket/68081707/14/parnell-v-city-of-berkeley/",
+          "recap_pdf_url": null,
+          "pacer_doc_id": "035023871386",
+          "description": "NOTICE of Appearance by Marc Aaron Shapp (Shapp, Marc) (Filed on 12/13/2023) (Entered: 12/13/2023)"
+        },
+        {
+          "row_number": 7,
+          "id": 10253333,
+          "entry_number": "16",
+          "date_filed": "2023-12-15T00:00:00-05:00",
+          "attachments": null,
+          "url": "https://www.courtlistener.com/docket/68081707/16/parnell-v-city-of-berkeley/",
+          "recap_pdf_url": null,
+          "pacer_doc_id": null,
+          "description": "CLERK'S NOTICE SETTING ZOOM HEARING. Temporary Restraining Order Hearing set for 12/19/2023 at 03:00 PM. This proceeding will be held via a Zoom webinar.Webinar Access: All counsel, members of the public, and media may access the webinar information at https://www.cand.uscourts.gov/emcCourt Appearances: Advanced notice is required of counsel or parties who wish to be identified by the court as making an appearance or will be participating in the argument at the hearing. A list of names and emails must be sent to the CRD at emccrd@cand.uscourts.gov no later than December 18, 2023 at 1:00 PM PST.General Order 58. Persons granted access to court proceedings held by telephone or videoconference are reminded that photographing, recording, and rebroadcasting of court proceedings, including screenshots or other visual copying of a hearing, is absolutely prohibited.Zoom Guidance and Setup: https://www.cand.uscourts.gov/zoom/. (This is a text-only entry generated by the court. There is no document associated with this entry.) (ads, COURT STAFF) (Filed on 12/15/2023)Any non-CM/ECF Participants have been served by First Class Mail to the addresses of record listed on the Notice of Electronic Filing (NEF) (Entered: 12/15/2023)"
+        },
+        {
+          "row_number": 8,
+          "id": 10253334,
+          "entry_number": "17",
+          "date_filed": "2023-12-18T00:00:00-05:00",
+          "attachments": null,
+          "url": "https://www.courtlistener.com/docket/68081707/17/parnell-v-city-of-berkeley/",
+          "recap_pdf_url": null,
+          "pacer_doc_id": "035023884400",
+          "description": "CERTIFICATE OF SERVICE by City of Berkeley re 13 Opposition/Response to Motion,, DECLARATION OF BRENDAN DARROW RE PROOF OF PERSONAL SERVICE (Darrow, Brendan) (Filed on 12/18/2023) (Entered: 12/18/2023)"
+        },
+        {
+          "row_number": 9,
+          "id": 10253335,
+          "entry_number": "18",
+          "date_filed": "2023-12-19T00:00:00-05:00",
+          "attachments": null,
+          "url": "https://www.courtlistener.com/docket/68081707/18/parnell-v-city-of-berkeley/",
+          "recap_pdf_url": null,
+          "pacer_doc_id": "035023891888",
+          "description": "Order by Judge Edward M Chen GRANTING 3 Motion for Leave to Proceed in forma pauperis as to Lawanda Parnell.(vla, COURT STAFF) (Filed on 12/19/2023)Any non-CM/ECF Participants have been served by First Class Mail to the addresses of record listed on the Notice of Electronic Filing (NEF) (Entered: 12/19/2023)"
+        },
+        {
+          "row_number": 10,
+          "id": 10253336,
+          "entry_number": "19",
+          "date_filed": "2023-12-19T00:00:00-05:00",
+          "attachments": null,
+          "url": "https://www.courtlistener.com/docket/68081707/19/parnell-v-city-of-berkeley/",
+          "recap_pdf_url": null,
+          "pacer_doc_id": "035023891897",
+          "description": "Order by Judge Edward M Chen Granting 4 Motion for Leave to Proceed in forma pauperis as to Merced Dominguez.(vla, COURT STAFF) (Filed on 12/19/2023)Any non-CM/ECF Participants have been served by First Class Mail to the addresses of record listed on the Notice of Electronic Filing (NEF) (Entered: 12/19/2023)"
+        },
+        {
+          "row_number": 12,
+          "id": 10253337,
+          "entry_number": "20",
+          "date_filed": "2023-12-19T00:00:00-05:00",
+          "attachments": null,
+          "url": "https://www.courtlistener.com/docket/68081707/20/parnell-v-city-of-berkeley/",
+          "recap_pdf_url": null,
+          "pacer_doc_id": "035023891904",
+          "description": "Order by Judge Edward M Chen GRANTING 5 Motion for Leave to Proceed in forma pauperis as to Mike Douglas.(vla, COURT STAFF) (Filed on 12/19/2023)Any non-CM/ECF Participants have been served by First Class Mail to the addresses of record listed on the Notice of Electronic Filing (NEF) (Entered: 12/19/2023)"
+        },
+        {
+          "row_number": 13,
+          "id": 10253338,
+          "entry_number": "21",
+          "date_filed": "2023-12-18T00:00:00-05:00",
+          "attachments": null,
+          "url": "https://www.courtlistener.com/docket/68081707/21/parnell-v-city-of-berkeley/",
+          "recap_pdf_url": null,
+          "pacer_doc_id": "035023892816",
+          "description": "SUPPLEMENTAL DECLARATION of Michael Douglas in Reply to Defendant's Opposition to Plaintiff's Motion for Temporary Restraining Order filed by Mike Douglas. (wsn, COURT STAFF) (Filed on 12/18/2023) (Entered: 12/19/2023)"
+        },
+        {
+          "row_number": 14,
+          "id": 10253339,
+          "entry_number": "22",
+          "date_filed": "2023-12-18T00:00:00-05:00",
+          "attachments": null,
+          "url": "https://www.courtlistener.com/docket/68081707/22/parnell-v-city-of-berkeley/",
+          "recap_pdf_url": null,
+          "pacer_doc_id": "035023892840",
+          "description": "SUPPLEMENTAL DECLARATION of Lawanda Parnell in Reply to Defendant's Opposition to Plaintiff's Motion for Temporary Restraining Order filed by Lawanda Parnell. (wsn, COURT STAFF) (Filed on 12/18/2023) (Entered: 12/19/2023)"
+        },
+        {
+          "row_number": 15,
+          "id": 10253340,
+          "entry_number": "23",
+          "date_filed": "2023-12-18T00:00:00-05:00",
+          "attachments": null,
+          "url": "https://www.courtlistener.com/docket/68081707/23/parnell-v-city-of-berkeley/",
+          "recap_pdf_url": null,
+          "pacer_doc_id": "035023892924",
+          "description": "SUPPLEMENTAL DECLARATION of Talya Husbands-Hankin in Reply to Defendant's Opposition to Plaintiff's Motion for Temporary Restraining Order filed by Talya Husbands-Hankin. (wsn, COURT STAFF) (Filed on 12/18/2023) (Entered: 12/19/2023)"
+        },
+        {
+          "row_number": 16,
+          "id": 10253341,
+          "entry_number": "24",
+          "date_filed": "2023-12-19T00:00:00-05:00",
+          "attachments": null,
+          "url": "https://www.courtlistener.com/docket/68081707/24/parnell-v-city-of-berkeley/",
+          "recap_pdf_url": null,
+          "pacer_doc_id": null,
+          "description": "CLERK'S NOTICE SCHEDULING A CONTINUED MOTION FOR TEMPORARY RETRAINING ORDER HEARING. Motion for Temporary Restraining Order Hearing set for 12/21/2023, at 4:00 PM in San Francisco, - Videoconference Only before Judge Edward M Chen. This proceeding will be held via a Zoom webinar. ALL PARTIES PARTICIPATING IN THE HEARING ARE REQUIRED TO LOG INTO ZOOM NO LATER THAN 3:50 PMWebinar Access: All counsel, members of the public, and media may access the webinar information at https://www.cand.uscourts.gov/emcGeneral Order 58. Persons granted access to court proceedings held by telephone or videoconference are reminded that photographing, recording, and rebroadcasting of court proceedings, including screenshots or other visual copying of a hearing, is absolutely prohibited.Zoom Guidance and Setup: https://www.cand.uscourts.gov/zoom/. (This is a text-only entry generated by the court. There is no document associated with this entry.)(vla, COURT STAFF) (Filed on 12/19/2023)Any non-CM/ECF Participants have been served by First Class Mail to the addresses of record listed on the Notice of Electronic Filing (NEF) (Entered: 12/19/2023)"
+        },
+        {
+          "row_number": 17,
+          "id": 10253342,
+          "entry_number": "25",
+          "date_filed": "2023-12-19T00:00:00-05:00",
+          "attachments": null,
+          "url": "https://www.courtlistener.com/docket/68081707/25/parnell-v-city-of-berkeley/",
+          "recap_pdf_url": null,
+          "pacer_doc_id": "035023898197",
+          "description": "Minute Entry for proceedings held before Judge Edward M Chen: Motion Hearing held on 12/19/2023 re ( Dkt. #2 in 3:23-cv-06379-EMC) MOTION for Temporary Restraining Order. Total Time in Court: 27 Minutes. Court Reporter: Stephen Franklin. (vla, COURT STAFF) (Date Filed: 12/19/2023) (Entered: 12/20/2023)"
+        },
+        {
+          "row_number": 18,
+          "id": 10253343,
+          "entry_number": "26",
+          "date_filed": "2023-12-18T00:00:00-05:00",
+          "attachments": null,
+          "url": "https://www.courtlistener.com/docket/68081707/26/parnell-v-city-of-berkeley/",
+          "recap_pdf_url": null,
+          "pacer_doc_id": "035023899217",
+          "description": "Supplemental Declaration of Talya Husbands-Hankin in reply to defendants' opposition to plaintiff's Motion for Temporary Restraining Order filed byMerced Dominguez, Mike Douglas, Le Wanda Parnell. (mcl, COURT STAFF) (Filed on 12/18/2023) (Entered: 12/20/2023)"
+        },
+        {
+          "row_number": 19,
+          "id": 10253344,
+          "entry_number": "27",
+          "date_filed": "2023-12-21T00:00:00-05:00",
+          "attachments": null,
+          "url": "https://www.courtlistener.com/docket/68081707/27/parnell-v-city-of-berkeley/",
+          "recap_pdf_url": null,
+          "pacer_doc_id": "035023902551",
+          "description": "Declaration of Yesica Prado in Support of TRO filed byLe Wanda Parnell. (Parnell, Le Wanda) (Filed on 12/21/2023) (Entered: 12/21/2023)"
+        },
+        {
+          "row_number": 49,
+          "id": 10253345,
+          "entry_number": null,
+          "date_filed": "2023-12-18T00:00:00-05:00",
+          "attachments": null,
+          "url": "https://www.courtlistener.com",
+          "recap_pdf_url": null,
+          "pacer_doc_id": null,
+          "description": "Received one USB drive re 23 SUPPLEMENTAL DECLARATION of Talya Husbands-Hankin. (wsn, COURT STAFF) (Filed on 12/18/2023)"
+        },
+        {
+          "row_number": 47,
+          "id": 10353251,
+          "entry_number": null,
+          "date_filed": "2023-12-12T00:00:00-05:00",
+          "attachments": null,
+          "url": "https://www.courtlistener.com",
+          "recap_pdf_url": null,
+          "pacer_doc_id": null,
+          "description": "Clerk's Notice of Impending Reassignment - Text Only"
+        },
+        {
+          "row_number": 50,
+          "id": 10353252,
+          "entry_number": null,
+          "date_filed": "2023-12-19T00:00:00-05:00",
+          "attachments": null,
+          "url": "https://www.courtlistener.com",
+          "recap_pdf_url": null,
+          "pacer_doc_id": null,
+          "description": "Remark"
+        },
+        {
+          "row_number": 51,
+          "id": 10353253,
+          "entry_number": null,
+          "date_filed": "2023-12-19T00:00:00-05:00",
+          "attachments": null,
+          "url": "https://www.courtlistener.com",
+          "recap_pdf_url": null,
+          "pacer_doc_id": null,
+          "description": "Clerk's Notice AND ~Util - Set Motion and Deadlines/Hearings AND ~Util - Teleconference Zoom"
+        },
+        {
+          "row_number": 31,
+          "id": 9142149,
+          "entry_number": "38",
+          "date_filed": "2024-01-31T00:00:00-05:00",
+          "attachments": [],
+          "url": "https://www.courtlistener.com/docket/68081707/38/parnell-v-city-of-berkeley/",
+          "recap_pdf_url": null,
+          "pacer_doc_id": "035024025003",
+          "description": "Transcript of Proceedings held on 12/21/2023, before Judge Edward M. Chen. Court Reporter/Transcriber Stephen W. Franklin, telephone number (561)313-8439. Per General Order No. 59 and Judicial Conference policy, this transcript may be viewed only at the Clerk's Office public terminal or may be purchased through the Court Reporter/Transcriber until the deadline for the Release of Transcript Restriction. After that date it may be obtained through PACER. Any Notice of Intent to Request Redaction, if required, is due no later than 5 business days from date of this filing. (Re (64 in 3:23-cv-04537-EMC) Transcript Order ) Release of Transcript Restriction set for 4/30/2024. (Franklin, Stephen) (Filed on 1/31/2024) (Entered: 01/31/2024)"
+        },
+        {
+          "row_number": 1,
+          "id": 3654255,
+          "entry_number": "10",
+          "date_filed": "2023-12-12T00:00:00-05:00",
+          "attachments": [],
+          "url": "https://www.courtlistener.com/docket/68081707/10/parnell-v-city-of-berkeley/",
+          "recap_pdf_url": "https://www.courtlistener.com/recap/gov.uscourts.cand.422097/gov.uscourts.cand.422097.10.0.pdf",
+          "pacer_doc_id": "035023859967",
+          "description": " ORDER to Maintain Status Quo; Judicial Referral for Purpose of Determining Relationship of Cases  re 3:23-cv-04537-EMC.  Signed by Judge Richard Seeborg on December 12, 2023.  (rslc2, COURT STAFF) (Filed on 12/12/2023)Any non-CM/ECF Participants have been served by First Class Mail to the addresses of record listed on the Notice of Electronic Filing (NEF)"
+        },
+        {
+          "row_number": 48,
+          "id": 3654262,
+          "entry_number": null,
+          "date_filed": "2023-12-15T00:00:00-05:00",
+          "attachments": [],
+          "url": "https://www.courtlistener.com",
+          "recap_pdf_url": null,
+          "pacer_doc_id": null,
+          "description": "Clerk's Notice Setting Zoom Hearing"
+        },
+        {
+          "row_number": 20,
+          "id": 9142138,
+          "entry_number": "28",
+          "date_filed": "2023-12-22T00:00:00-05:00",
+          "attachments": [],
+          "url": "https://www.courtlistener.com/docket/68081707/28/parnell-v-city-of-berkeley/",
+          "recap_pdf_url": "https://www.courtlistener.com/recap/gov.uscourts.cand.422097/gov.uscourts.cand.422097.28.0.pdf",
+          "pacer_doc_id": "035023910387",
+          "description": "ORDER by Judge Edward M. Chen dissolving the Temporary Restraining Order subject to a timeline that is workable for the Plaintiffs. (emclc5, COURT STAFF) (Filed on 12/22/2023)Any non-CM/ECF Participants have been served by First Class Mail to the addresses of record listed on the Notice of Electronic Filing (NEF) (Entered: 12/22/2023)"
+        },
+        {
+          "row_number": 21,
+          "id": 9142139,
+          "entry_number": "29",
+          "date_filed": "2023-12-28T00:00:00-05:00",
+          "attachments": [],
+          "url": "https://www.courtlistener.com/docket/68081707/29/parnell-v-city-of-berkeley/",
+          "recap_pdf_url": null,
+          "pacer_doc_id": null,
+          "description": "CLERK'S NOTICE RESCHEDULING INITIAL CASE MANAGEMENT CONFERENCE. Joint Case Management Statement due by 1/2/2024. Initial Case Management Conference reset from 1/9/2024 to 1/11/2024, at 1:30 PM in San Francisco, - Videoconference Only. This proceeding will be held via a Zoom webinar. ALL PARTIES PARTICIPATING IN THE HEARING ARE REQUIRED TO LOG INTO ZOOM NO LATER THAN 1:20 PMWebinar Access: All counsel, members of the public, and media may access the webinar information at https://www.cand.uscourts.gov/emcGeneral Order 58. Persons granted access to court proceedings held by telephone or videoconference are reminded that photographing, recording, and rebroadcasting of court proceedings, including screenshots or other visual copying of a hearing, is absolutely prohibited.Zoom Guidance and Setup: https://www.cand.uscourts.gov/zoom/. (This is a text-only entry generated by the court. There is no document associated with this entry.) (vla, COURT STAFF) (Filed on 12/28/2023)Any non-CM/ECF Participants have been served by First Class Mail to the addresses of record listed on the Notice of Electronic Filing (NEF) (Entered: 12/28/2023)"
+        }
+      ],
+      "docket_case_type": "cv",
+      "docket_year": 2023,
+      "docket_filing_number": 6379,
+      "is_main_docket": true,
+      "court": "Northern District of California",
+      "state": "California",
+      "docket_office_number": "3",
+      "docket_number_manual": "3:23-cv-06379",
+      "scales_html": null,
+      "recap_link": "https://www.courtlistener.com/docket/68081707/parnell-v-city-of-berkeley/",
+      "is_active": true
+    },
+    "name": "Parnell v. City of Berkeley",
+    "never_filed": false,
+    "non_docket_case_number": "",
+    "non_docket_case_number_type": null,
+    "non_docket_case_number_type_other": "",
+    "order_end_year": 2023,
+    "order_start_year": 2023,
+    "permanent_injunction": false,
+    "plaintiff_description": "Three unhoused individuals living in Berkeley, California.",
+    "plaintiff_type": [
+      {
+        "value": "Private Plaintiff"
+      }
+    ],
+    "prevailing_party": "None Yet / None",
+    "pro_se_status": "Yes",
+    "public_interest_lawyer": "No",
+    "related_cases": [
+      {
+        "id": 46634,
+        "name": "Prado v. City of Berkeley"
+      }
+    ],
+    "relief_natures": [
+      "Preliminary injunction / Temp. restraining order"
+    ],
+    "relief_nature_other": "",
+    "relief_sources": [
+      "Litigation"
+    ],
+    "settlement_agreement": [],
+    "settlement_judgment_date": "2024-12-05",
+    "settlement_judgment_year": 2024,
+    "special_collections": [],
+    "special_case_type": [],
+    "state": "California",
+    "summary": "<p>This case arose from a city&rsquo;s plan to imminently clear an encampment of unhoused individuals with little notice.</p>\r\n<p>On December 11, 2023, three unhoused individuals filed suit against the City of Berkeley to prevent their eviction from an encampment at 8th and Harrison Streets. Proceeding pro se (that is, representing themselves), the plaintiffs filed their lawsuit in the U.S. District Court for the Northern District of California, where it was assigned to District Judge Edward M. Chen.</p>\r\n<p>The plaintiffs, each of whom has a disability, alleged that the City was forcing them from the encampment without offering accessible shelter and without giving sufficient notice. They brought the following claims under 42 USC &sect; 1983:</p>\r\n<ul>\r\n<li>Exposure to State-Created Danger under the Fourteenth Amendment to the U.S. Constitution and Article I of the California Constitution</li>\r\n<li>Unreasonable Search and Seizure under the Fourth Amendment to the U.S. Constitution and Article I of the California Constitution</li>\r\n<li>Infliction of Cruel and Unusual Punishment under the Eighth Amendment to the U.S. Constitution</li>\r\n</ul>\r\n<p>The plaintiffs sought a declaratory judgment and injunctive relief. They also moved for a temporary restraining order (TRO) the same day they filed their complaint. According to their motion for a TRO, the City of Berkeley had posted eviction notices three days earlier (on December 8th), warning that the encampment would be cleared on Tuesday, December 12. Plaintiffs argued the notices were vague, failed to identify adequate shelter options, and disproportionately harmed disabled residents.</p>\r\n<p>The court granted the TRO on December 15, 2023. Filling in for Judge Chen on an emergency basis, District Judge Araceli Mart&iacute;nez-Olgu&iacute;n found that the plaintiffs had demonstrated &ldquo;serious questions going to the merits&rdquo; of their claims, and that the balance of hardships tipped &ldquo;sharply in [their] favor.&rdquo; The court emphasized that the plaintiffs faced immediate and irreparable harm if evicted in the middle of winter without appropriate shelter&mdash;one plaintiff because of his visual impairment, mobility limitations, and reliance on a support animal; another plaintiff because of physical disabilities and a nervous condition that prevented her from using congregate shelters.</p>\r\n<p>The court also rejected the City&rsquo;s argument that the case was moot, noting that although the City had partially cleared the encampment before receiving notice of the TRO, the plaintiffs had returned and the risk of eviction remained live. The order enjoined the City from conducting further enforcement or eviction actions at 8th and Harrison until a full hearing could be held.</p>\r\n<p>At the subsequent hearing, the City offered to place one plaintiff in a private room at the Berkeley Inn (where he could keep his dog) and to place another plaintiff in a room at the Campus Motel, with agreed-upon accommodations including grab bars in the bathroom and storage space for recycling materials. In light of these offers, Judge Chen dissolved the TRO on December 22, 2023, but allowed it to remain in effect for each plaintiff until their respective placements became available and appropriately modified. 2023 WL 8879260.</p>\r\n<p>In February 2024, the Berkeley City Manager&rsquo;s Office announced that all eviction efforts at 8th and Harrison would be suspended pending further direction from the court in a related case, <em><a href=\"../../../../case/46634/\" target=\"_blank\" rel=\"noopener\">Prado v. City of Berkeley</a></em>. The City cited, among other reasons, a desire to avoid further judicial setbacks.</p>\r\n<p>The plaintiffs voluntarily dismissed their claims on December 5, 2024, and this case is closed.</p>",
+    "summary_published_date": "2025-05-24T17:18:19.612751-04:00",
+    "summary_short": "In December 2023, three unhoused individuals filed suit against the City of Berkeley to prevent their eviction from a Berkeley encampment. The plaintiffs brought suit in the U.S. District Court for the Northern District of California, alleging that Berkeley violated the U.S. Constitution's Fourth, Eighth, and Fourteenth Amendments by threatening to imminently clear the encampment with little notice. Four days after the complaint was filed, the district court enjoined the City from clearing the encampment. The City ultimately found housing for the plaintiffs, and later announced that announced that all eviction efforts at the relevant encampment would be suspended pending further direction from the court in a related case.  The plaintiffs voluntarily dismissed their claims on December 5, 2024, and this case is closed.",
+    "summary_tiny": null,
+    "terminating_date": "2024-12-13",
+    "clearinghouse_link": "clearinghouse.net/case/45223",
+    "is_active": true,
+    "case_documents_url": "https://clearinghouse.net/api/v2/documents/?case=45223",
+    "case_dockets_url": "https://clearinghouse.net/api/v2/dockets/?case=45223",
+    "case_resources_url": "https://clearinghouse.net/api/v2/resources/?case=45223"
+  },
+  "documents": [
+    {
+      "date": "2023-12-11",
+      "date_is_estimate": false,
+      "date_not_available": false,
+      "description": "",
+      "document_source": "RECAP",
+      "document_status": "Coding Complete",
+      "document_type": "Complaint",
+      "order_type": null,
+      "citation_paren": null,
+      "cite_1_page": null,
+      "cite_1_reporter": null,
+      "cite_1_vol": null,
+      "cite_2_page": null,
+      "cite_2_reporter": null,
+      "cite_2_vol": null,
+      "cite_3_page": null,
+      "cite_3_reporter": null,
+      "cite_3_vol": null,
+      "citation_status": "Not applicable",
+      "court": "Northern District of California",
+      "no_title": false,
+      "party_types": [
+        "Plaintiff"
+      ],
+      "per_curium": false,
+      "is_core_document": true,
+      "id": 160006,
+      "file": "https://clearinghouse-umich-production.s3.amazonaws.com/media/doc/160006.pdf",
+      "title": "Complaint",
+      "text": "Case 3:23-cv-06379-EMC     Document 1     Filed 12/11/23     Page 1 of 16\n1 Lawanda Parnell, Michael Douglas, Merced Dominguez\n2 Residents of S\"* and Harrison, Berkeley CA\n3\n'\"'L ED\n4\nc\n5 DEC n1-^\n\" 1 2023\n6 ^I-ERK, U.S.\n7 T^'Torn/a\n8\n9\n10\n11\n<L^ 12\nUNITED STATES DISTRICT COURT\n13\nNORTHERN DISTRICT OF CALIFORNIA\n14\n(San Francisco or Oakland Division)\n15\n16\nC23-06379\nLAWANDA PARNELL, MERCED Case No.\n17\nDOMINGUEZ, and MIKE DOUGLAS\nCOMPLAINT FOR DECLARATORY\n18\nPlaintiffs, AND INJUNCTIVE RELIEF\n19\nV.\nJudge:\n20\nCITY OF BERKELEY,\n21\nDefendants.\n22\n23\n24\n25\n26\n27\n28\n\nCase 3:23-cv-06379-EMC     Document 1     Filed 12/11/23     Page 2 of 16\n1 Plaintiffs LA WANDA PARNELL, MERGED DOMINGUEZ, MIKE DOUGLAS\n2 (\"Plaintiffs\") complain and allege as follows:\n3 1.  INTRODUCTION\n4 1.  Plaintiffs bring this case seeking to stop defendant City of Berkeley from evicting\nunhoused Berkeley residents from the area around the intersections of 8\"^ and O'** Streets and\n5\nHarrison Street and Gilman Street (\"8\"^ and Harrison\"), one of the few remaining locations in\n6\n7 Berkeley where unhoused individuals have built an established community, until there is\n8 adequate shelter or housing available to those residents. The closure of the encampment is\n9 currently scheduled for the December 12, 2023.\n10 2.  Plaintiffs are unhoused individuals who have resided in the area of 8\"^ and\n11 Harrison for several years. Many of them have significant physical and/or mental health\n12 disabilities. The area is largely commercially zoned, and unhoused Berkeley residents have been\n13 living there for over ten years with little negative interaction with neighbors and city officials.\n14 3.  On the late afternoon of Friday, December 8, 2023, defendant City of Berkeley\n15 posted several notices on 8th Street between Lower Cordomices Path and Harrison Street in\n16 Berkeley, California, stating that unhoused residents living in the area would be subject to an\n17 encampment closure action beginning December 12, 2023. These notices, in combination with\nother notices posted by the City earlier in the week, will result in the closure of the entire 8'^^ and\n18\n19 Harrison encampment on December 12, 2023. They state long term shelter offers will be made\n20 the day of the eviction and threaten arrest if individuals do not comply.\n21 4.  The timing of this closure is unconscionable. Winter is nearly here and the cold\n22 and rainy season has already begun. There is not enough shelter in the City of Berkeley for the\n23 noticed residents. The notice was posted late on a Friday for a closure Tuesday, making it\n24 impossible for residents to access services during most of the notice time, and making it\n25 incredibly difficult for them to advocate for themselves.\n5.  There are currently at least 42 residents impacted by the closure of 8\"^ and\n26\n27 Harrison. Plaintiffs have either physical or mental health disabilities that will prevent them from\n28 being able to move their belongings in such a short time frame. There is no shelter available to\n\nCase 3:23-cv-06379-EMC     Document 1     Filed 12/11/23     Page 3 of 16\nresidents through the 211 system, and the warming eenter is not open. The shelter that the City\n1\n2 seems to have set aside for 8'^ and Harrison residents, the Old City Hall, has only 29 beds. It is\n3 also not accessible to residents with physical and mental disabilities. The City knows that there\nare many individuals at 8**^ and Harrison who cannot access this shelter given their disabilities.\n4\n5 6.  In response. Plaintiffs bring this lawsuit seeking to stop defendant CITY OF\nBERKELEY from displacing the residents of 8\"^ and Harrison until such time as there is\n6\n7 accessible shelter or housing made available for them. Plaintiffs also ask the Court enjoin\n8 defendant CITY OF BERKELEY from destroying their property, as it has been wont to do in\nprior evictions and protect Plaintiffs from the imminent and irreparable injuries they face.\n9\n10 II.  JURISDICTION AND VENUE\n11 7.  Plaintiffs' claims arise under the laws and Constitution of the United States,\n12 including 42 U.S.C. § 12132 and 42 U.S.C. § 1983. Therefore, this Court has jurisdiction over\n13 this action pursuant to 28 U.S.C. §§ 1331, 1343(a)(3) and (4).\n14 8.  The Federal Declaratory Judgment Act, 28 U.S.C. §§ 2201 and 2202, and Federal\n15 Rules of Civil Procedure 57 and 65, authorize this Court to grant Plaintiffs the declaratory and\n16 injunctive relief they seek here. An award of attorneys' fees is authorized pursuant to 42 U.S.C. §\n17 1988(b).\n18 9.  This Court has supplemental jurisdiction over Plaintiffs' related state law claims\n19 pursuant to 28 U.S.C. § 1367(a) because those claims form part of the same case or controversy\n20 under Article III of the United States Constitution. Plaintiffs' state law claims share common\noperative facts with their federal law claims, and the parties are identical. Resolving Plaintiffs'\n21\n22 federal and state claims in a single action serves the interests ofj udicial economy, convenience,\n23 consistency, and fairness to the parties.\n24 10.  Venue is proper in the United States District Court for the Northern District of\n25 California pursuant to 28 U.S.C. §§ 1391(b)(1) and (b)(2) because defendant CITY OF\n26 BERKELEY is located in this district and a substantial part of the events and/or omissions were\n27 committed in this district.\n28\n\nCase 3:23-cv-06379-EMC     Document 1     Filed 12/11/23     Page 4 of 16\n1 11.  Because the events and omissions giving rise to Plaintiffs' claims occurred in\nAlameda County, this case should be assigned to the Northern District's Oakland or San\n2\n3 Francisco Division, pursuant to N.D. Cal. L.R. 3-2(d).\n4 III.  THE PARTIES\n5 12.  Plaintiff Michael Douglas is a person with a disability. He is 62 years old. He\nstruggles with anxiety and other mental health issues and has an emotional support pet, a dog,\n6\n7 who is his whole world. He has been homeless and living in Berkeley for about 20 years. He\nrecently was kicked out of one of the hotel programs run by Berkeley but would accept shelter in\n8\nthe Berkeley Irm or tehe Golden Bear. However, at the most recent eviction of 8\"^ and Hanison\n9\n10 on December 5, 2023, he was told the only shelter available to him is the Old City Hall, which he\n11 cannot access because of his disabilities and his emotional support pet. At that evietion, he lost\nalmost ail of his belongings, including his shelter. He was not offered a new tent or any kind of\n12\nreplacement shelter after this evietion. Mr. Douglas eurrently lives on the East part of 8'^ Street\n13\n14 in between Harrison and UC Village. He reeeived a notice that he will be subject to another\n15 closure aetion on Friday, December 8, 2023. The date of the Closure is December 12, 2023. Mr.\n16 Douglas has no idea where he will go on December 12, 2023.\n13.  Ms. Lewanda Pamell is currently camped on 9\"^ street between Oilman and\n17\nHarrison streets. She has a physical disability that causes her to fall down frequently and a\n18\n19 nervous condition. She carmot access transitional shelter because of her disabilities. She cannot\n20 follow orders because of her nervous condition and she relies on family visits to keep her\nhealthy. She's been forced to move many times by the city and each time it is traumatic. Her\n21\nonly income is from recyleing, which she could not do from a city shelter because they would\n22\n23 not allow her to collect reclycling. She would have to give up her only source of income to\n24 move. She has nowhere to go.( Pamell Deelaration)\n14.  Ms. Merced Dominguez lives in her RV on 8\"^ Street btween Harrison and\n25\n26 Oilman streets. She has a disability that limits her mobility ealled erative splondylitus. She relies\non her community for support and needs to stay in the location because the services she receives,\n27\nincluding housing navigation from BAGS. The only shelter offer she has received is at a\n28\n\nCase 3:23-cv-06379-EMC     Document 1     Filed 12/11/23     Page 5 of 16\n1 transitional shelter that is upstairs. She cannot access this because she has a mobility disability.\n2 She does not know if she needs to move her RV because the notice isn't clear, but she has\n3 nowhere else to go and will face immense harm if separated from her community.( Dominguez\n4 Dec).\n5 15.  Defendant CITY OF BERKELEY is a municipal corporation organized under the\n6 laws of the State of California. Upon information and belief, it provides the shelter and housing\nservices through its contracts, it sets the policies for evictions and property destruction, and it is\n7\n8 in all ways responsible for the violations of the laws alleged herein.\n9 IV.  FACTUAL ALLEGATIONS\n10 A.  History of the Harrison Street Encampment\n16.  Unhoused individuals have been residing at S'*' and Harrison for at least the past\n11\n12 ten years. Residents moved to the area because it is largely commercial, and is also close to\n13 necessary establishments like grocery stores and gas stations.\n17.  The 8\"^ and Harrison community is located in the area loosely bounded by 6'^\n14\nstreet. Oilman Street, 9\"\" Street, and Lower Cordonices Path.\n15\n16 18.  Many residents, including Plaintiffs, moved when defendant CITY OF\n17 BERKELEY and other government agencies evicted them from other encampments in the area.\nOver the past several years, defendant CITY OF BERKELEY and other agencies have closed a\n18\n19 large number of encampments, such as the Berkeley Marina, Seabreeze (location), Ashby\n20 Shellmound (near the Ashby freeway exit off of 1-80). Defendant CITY OF BERKELEY has\n21 also begun to more aggressively enforce parking regulations such as 72 hour and 4 hour parking\n22 limits that target vehicularly housed residents, decreasing the number of locations individuals\n23 who live in their vehicles can park. These laws were rarely enforced in this area previously. As a\n24 result, unhoused Berkeley residents have very few locations where they can gather as\n25 communities in the area for safety and mutual support.\n19.  The community at S\"' and Harrison has a well established system of mutual aid\n26\n27 and support. Residents rely on each other to watch each other's belongings while individuals\n28 work or rest, to complete chores, obtain food and water, keep each other safe, and keep each\n\nCase 3:23-cv-06379-EMC     Document 1     Filed 12/11/23     Page 6 of 16\n1 other company. Many residents have serious mental and physical health needs, including\n2 Plaintiffs DOUGLAS,P ARNELL, and DOMINGUEZ and so this network of support is critical\n3 to their survival.\n4 20.  As of December 11, 2023, approximately 42 individuals reside in the area around\n5 8\"^ and Harrison.\n6 B.  Current Lack of Availability at Berkeley Shelters\n7 21.  According to the most recent statistics from 2022, there are currently over 1,000\npeople in Berkeley experiencing homelessness.'\n8\n9 22.  Unhoused persons report that financial pressures including evictions, foreclosures,\nrent increases, and job loss are among the top five reasons they became homeless.^ Among\n10\n11 Berkeley residents experiencing homelessness, 43 percent have a disabling condition and are\nincreasingly reporting that they are dealing with more than one major health challenge.^ In\n12\n13 Berkeley, 45 percent of the unhoused population is Black, even though only 8 percent of its total\npopulation is.''\n14\n15 23.  Berkeley's shelters have been overwhelmed by this situation. There are very few\n16 shelter options available to Berkeley residents generally.\n17 24.  On December 5, 2023, City official Okeya Vance represented that the shelter\noption available to 8\"^ and Harrison residents was the Old City Hall emergency shelter located in\n18\n19 downtown Berkeley. This shelter has 29 beds. It is unclear how many of those beds are available\nat this time, but there are certainly more than 29 individuals living at 8\"^ and Harrison.\n20\n25.  Further, the City knows that there are numerous residents at 8\"^ and Harrison who\n21\n22 cannot access this shelter because of their mental and physical disabilities.\n23 26.  On December 5, 2023, Brigitte Nicoletti asked city employee Okeya Vance if one\n24 of the residents who wanted shelter. Dean Bowman, who was using a wheelchair, could access\n25\n26\n27\n1 https://everyonehome.org/mainycontinuum-of-care/everyone-counts/\n^ Supra, note 5.\n28\n^ Ibid.\n^ Ibid.\n\nCase 3:23-cv-06379-EMC     Document 1     Filed 12/11/23     Page 7 of 16\n1 the Old City Hall shelter. Ms. Vance said that he could via an elevator. The resident ultimately\n2 decided he could not access the congregate site because of his mental health issues.\n3 27.  However, another 8\"^ and Harriosn resident, Jerammy Daniel, who cannot walk\n4 and uses a wheelchair, did ask the City to take him to the Old City Hall shelter. He was brought\n5 there by Tony Alcutt. He was allowed inside, where he was overjoyed to find that it was warm,\n6 and allowed to shower across the street. Then, program staff told him he could not stay the night\n7 because the facility does not have an ADA accessible bathroom and they were worried about\n8 code violations if he remained there. He was exited from the program, and went back to living in\n9 his vehicle at 8*^^ and Harrison, where he spent several freezing nights as his car windows have\nbeen vandalized. He is still staying at 8'^ and Harrison and will have nowhere to go.\n10\n11 28.  Another resident, Rufus Lee White Jr. also uses a wheelchair and will similarly\n12 not be able to access the Old City Hall Shelter. Upon information and belief, Mr. Bowman\n13 similarly will not be able to access the shelter.\n14 29.  Many other residents have serious mental health disabilities that will prevent them\n15 from accessing the warming center as well. The City is aware generally of the high level of\n16 mental health disability in the community, and it has also received numerous specific\n17 accommodation requests from residents stating that they carmot access this type of shelter.\n18 30.  Those who have RVs or other large vehicles have nowhere to go. There is no Safe\n19 Parking Lot in the City of Berkeley for RVs, and there is nowhere that they can legally park their\n20 vehicle in the City of Berkeley without being subject to citation and tow because many residnets\n21 do not have the funds or ability to register and run tbeir vehicles. Moving vehicles every 3 days\n22 to comply with the 72-hour ordinance is not possible for those who have mechanical issues with\n23 their vehicles, and for those with health or physical disabilities like Mr. Jeffords doing so would\n24 be exceedingly difficult. The City is not providing for accommodations to enforcement of\n25 parking ordinances to any Plaintiffs or other individuals with disabilities.\n31.  The majority of residents of 8\"^ and Harrison have nowhere to go and because the\n26\n27 notices are vague and have not been delivered to individuals or attached to tents or vehicles,\n28 residents are not even sure if these notices apply to them.\n\nCase 3:23-cv-06379-EMC     Document 1     Filed 12/11/23     Page 8 of 16\n1 C.  Berkeley's Policy and Practice regarding Destruction of Property\n32.  Despite the lack of available shelter, defendant CITY OF BERKELEY has\n2\nengaged in a policy and practice of evicting unhoused residents throughout the city, and, in the\n3\nprocess, destroying their shelters, vehicles, and other belongings. Unhoused residents often are\n4\n5 forced to other areas of the city without adequate shelter to protect themselves while living\n6 outdoors, and often after having their belongings destroyed by the city. Witnesses who have\nlived in the 8'^ and Harrison community for many years have observed city officials demolishing\n7\npeople's shelters, confiscating their tents, and leaving people exposed to the elements. This has\n8\n9 been done both in the pouring rain and in extreme heat.\n10 33.  Witnesses, have also observed employees of defendant CITY OF BERKELEY\ndestroying property even while the owners of that property have been telling them that it belongs\n11\n12 to them and that they want to keep it.\n13 34.  Witnesses have observed individuals be arrested by CITY OF BERKELEY police\n14 officers for refusing to permit the destruction of their belongings.\n35.  One recent example of this policy and practice occurred at 8''' and Harrison within\n15\nthe last year.^ On September 30, 2022, residents received a \"Notice of Imminent Health Hazard\n16\nand Emergency Abatement,\" stating that the abatement would take place just four days later, on\n17\n18 October 3, 2022—much like the sudden action threatened by the City this weekend.\n19 36.  On October 3, 2022, defendant CITY OF BERKELEY destroyed 29 tents, three\n20 structures, and impounded and crushed four vehicles that unlioused residents of the community\nrelied upon for shelter. Two residents were hospitalized, one was arrested and jailed for three\n21\ndays before the charges against him were dropped, and many residents experienced panic attacks\n22\n23 and trauma.\n24 37.  Peter Radu, assistant to the City Manager of Berkeley, later publicly apologized\n25 for the City's actions, claiming the City would work with people as opposed to against them\n26\n27\n28\n^ hltps://www.sfpublicpress.org/evervthing-is-gone-and-vou-become-more-lost-12-hours-of-\nchaos-as-berkeley-clears-encampment/\n\nCase 3:23-cv-06379-EMC     Document 1     Filed 12/11/23     Page 9 of 16\nmoving forward.^ Nonetheless, the City is onee again repeating its pattern of destructive and\n1\n2 illegal conduct again, less than a year later.\nAt an eviction on November 7, 2023, at 8\"^ and Harrison, the City arrested a resident,\n3\nErin Spencer, for illegal lodging while he was actively trying to leave with his most important\n4\n5 belongings placed on carts. They then proceeded to destroy the majority of the material on the\n6 carts and the entire built structure and everything in owned by Mr. Spencer. They then destroyed\nthe majority of the belongings of other residents, including Mike Douglas, Saree, Popcorn, and\n7\n8 Tom. They did not make them offers of shelter until prompted by Brigitte Nicoletti. The only\n9 made to Mike was to congregate shelter that Ms. Nicoletti specifically told them Mike could not\n10 access.\n11 At an eviction on December 5, 2023, at 8th and Harrison, the City once again destroyed\n12 the majority of the residents' shelter and belongings. Residents Erin Spencer, Saree, Popcorn,\n13 and others living with them had their entire shelter destroyed. They were left with no source of\n14 shelter. They ended up finding tarps to cover themselves with but were soaked by the rains the\n15 following week. Residents Mike Douglas and Dean Bowman lost most of their belongings and\n16 were left on the side of the road.\n17 38.  By closing encampments when people have no place to go by not allowing\n18 sufficient time for outreach workers to contact people being displaced and find them safe,\n19 accessible housing, and by leaving people evicted from those encampments no choice but to\n20 move to more dangerous locations where the health and safety at risk, Berkeley will be placing\n21 people whom it evicts in harm's way. Berkeley has created dangers for their health and safety.\n22 These dangers are particularly acute for the many people who have been displaced with no place\n23 to go who have serious mental and physical disabilities. People with disabilities are harder to\nplace than people who are able-bodied and do not have mental health needs. They require more\n24\n25 time and more intensive assistance because of their disabilities.\n26\n27\n28\nhttps.7/www.sfpublicpress.org/berkelev-apologizes-for-aggressive-homeless-encampment-\nsweeps-promises-reforms/\n\nCase 3:23-cv-06379-EMC     Document 1     Filed 12/11/23     Page 10 of 16\n39.  The City has no urgent reason to clear 8\"^ and Harrison in the manner described in\n1\n2 the posted notices. The City has already performed the health and safety abatement it posted for\n3 back in September 2023. Further, the potential hazards do not negate residents' rights under\n4 federal and state law including the warrantless and unlawful seizure and destruction of Plaintiffs'\n5 and other residents' property.\n6 CAUSES OF ACTION\n7 FIRST CAUSE OF ACTION\n8 Exposure to State-Created Danger\nUnder the Fourteenth Amendment to the U.S. Constitution\n9 Pursuant to 42 U.S.C. § 1983\n10\n40.  Plaintiffs re-allege and incorporate by reference all the above allegations as\n11\nthough fully set forth herein.\n12\n41.  Governmental action that affirmatively places a person in a position of danger\n13\ndeprives that person of substantive due process rights guaranteed by the Fourteenth Amendment\n14\nto the United States Constitution. See U.S. Const. Amend. XIV.\n15\n42.  Local governments violate the substantive due process rights of unhoused people\n16\nwhen they place unhoused individuals in more vulnerable situations by confiscating the survival\n17\nbelongings that they use for shelter, warmth, and protection from the elements. See Santa Cruz\n18\nHomeless Union, 514 F. Supp. 3d 1136 at 1144-1145; Sanchez, 914 F. Supp. 2d at 1101-02.\n19\n43.  The City has a policy, custom, and practice of removing unhoused people from\n20\npublic spaces and of seizing and destroying their personal property, such as tents and other\n21\nsurvival gear, that is necessary for their protection. The City engages in these practices without\n22\nensuring that accessible shelter and/or housing options are available to unhoused individuals.\n23\n44.  Without any other available accessible option for shelter and without their tents\n24\nand survival gear unhoused individuals are forced to live exposed to the elements, without\n25\nprotection from heat, cold, wind, and rain. Individuals who are forced to leave established\n26\nencampments are also separated from community support, including food and water donations,\n27\ncommunity safety networks, and access to service providers and their neighbors' support and\n28\ncompany. This severely jeopardizes their physical and mental health.\n\nCase 3:23-cv-06379-EMC     Document 1     Filed 12/11/23     Page 11 of 16\n1 45.  The City's actions have plaeed Plaintiffs and others in a more dangerous situation\n2 than the one in which they were found and created and exposed them to a danger which they\n3 would not have otherwise faeed. Martinez, 943 F.3d at 1271.\n4 46.  The City knows or should know that its actions endanger the health and safety of\n5 unhoused individuals, and the City has aeted with deliberate indifference to this danger. The\n6 City's eonduct is shocking to the conscience and further imperils the health and safety of\n7 unhoused people.\n8 47.  The City's policies and practices have and will continue to put Plaintiffs in\n9 immediate danger in violation of their substantive due process rights.\n10 48.  WHEREFORE,P laintiffs pray for relief as set forth below.\n11 SECOND CAUSE OF ACTION\n12 Exposure to State-Created Danger\nUnder Article I, § 7(a) of the California Constitution\n13 Pursuant to 42 U.S.C. § 1983\n14\n49.  Plaintiffs re-allege and incorporate by reference all the above allegations as\n15\nthough fully set forth herein.\n16\n50.  Governmental action that affirmatively plaees a person in a position of danger\n17\ndeprives that person of substantive due process rights guaranteed by the Califomia Constitution.\n18\nCal. Const., art. 1, § 7(a). The substantive due process protections under the California\n19\nConstitution are at least as expansive as those under the U.S. Constitution.\n20\n51.  The City's policy, custom, and practice of removing unhoused people from public\n21\nspaces and of seizing and destroying their personal property, such as tents and other survival\n22\ngear, endangers the health and safety of unhoused people in a way that shocks the conscience.\n23\nThe City knows or should know that its actions endanger the health and safety of unhoused\n24\nindividuals.\n25\n52.  The City's policies and practices have and will continue to put Plaintiffs in\n26\nimmediate danger in violation of their substantive due process rights under the Califomia\n27\nConstitution.\n28\n53.  WHEREFORE, Plaintiffs pray for relief as set forth below.\n10\n\nCase 3:23-cv-06379-EMC     Document 1     Filed 12/11/23     Page 12 of 16\n1 THIRD CAUSE OF ACTION\n2 Property Destruction: Unreasonable Search and Seizure\nUnder the Fourth and Fourteenth Amendments to the U.S. Constitution\n3 Pursuant to 42 U.S.C. § 1983\n4\n54.  Plaintiffs re-allege and incorporate by reference all the above allegations as\n5\nthough fully set forth herein.\n6\n55.  The Fourth Amendment prohibits local governments from summarily seizing and\n7\ndestroying the personal property of unhoused individuals because individuals have a right to\n8\nnotice and an opportunity to be heard. See Lavan v. City ofL.A., 797 F. Supp. 2d at 1012\n9\n(declaring that the Fourth Amendment protects homeless persons from government seizure and\n10\nsummary destruction of their unabandoned, but momentarily unattended, personal property),\n11\naff'd, Lavan, 693 F.3d 1022; see also Lavan, 693 F.3d at 1030 (\"[EJven if the seizure of the\n12\nproperty would have been deemed reasonable had the City held it for return to its owner instead\n13\nof immediately destroying it, the City's destruction of the property rendered the seizure\n14\numeasonable.\"); Garcia v. City ofL.A., 11 F.4th 1113, 1124 (9th Cir. 2021)( \"our prior caselaw\n15\nstates clearly that the government may not summarily destroy the unabandoned personal property\n16\nof homeless individuals that is kept in public areas\").\n17\n56.  The Fourth Amendment also prohibits local governments from summarily seizing\n18\nand destroying or impounding vehicles of unhoused individuals regardless of how they are\n19\nparked. \"Due process requires that individualized notice be given before an illegally parked\n20\ncar is towed unless the state has a 'strong justification' for not doing so.\" Grimm v. City of\n21\nPortland, 971 F.3d 1060, 1063 (9th Cir. 2020)( emphasis added); see also Clement v. City of\n22\nGlendale, 518 F.3d 1090, 1094 (9th Cir. 2008)( explaining that imposition of the significant\n23\ncosts and burdens of towing cannot be justified as means of deterring illegal parking).\n24\n57.  The City provided inadequate and confusing notice prior to the planned abatement\n25\non September 4, 2023. The Notice of Abatement was posted, not delivered to individuals as\n26\nrequired by Berkeley Municipal Code. The notice does not provide individuals with guidance\n27\nrelated to how to define the property they wish to keep, have stored, and discard. The Notice of\n28\n11\n\nCase 3:23-cv-06379-EMC     Document 1     Filed 12/11/23     Page 13 of 16\n1 Violation was also only posted and does not apply to a clearly defined area, and does not include\n2 an enforcement date. Thus the notices are vague and invalid.\n3 58.  Further, The City has an unwritten policy, custom, and practice of seizing and\n4 destroying unhoused people's personal belongings. The City destroys such property even if that\n5 property poses no threat to public health and does not constitute evidence of a crime.\n6 59.  The City's policy, custom, and practice is to evict unhoused residents and, in the\n7 process, to destroy their belongings. Witnesses who have worked in the community for many\n8 years have observed city officials demolishing people's shelters, confiscating their tents, and\n9 leaving people exposed to the elements. This has been done both in the pouring rain and in\n10 extreme heat. Witnesses have also observed employees of the City destroying property even\n11 while the owners of that property have been telling them that it belongs to them and that they\n12 want to keep it.\n13 60.  The City's unconstitutional policies and practices continue, subjecting Plaintiffs\n14 to persistent and imminent threat of having their personal property seized and destroyed in\n15 violation of the Fourth Amendment.\n16 61.  WHEREFORE,P laintiffs pray for relief as set forth below.\n17 FOURTH CAUSE OF ACTION\n18 Property Destruction: Unreasonable Search and Seizure\nUnder Article I, § 13 of the California Constitution\n19\n62.  Plaintiffs re-allege and incorporate by reference all the above allegations as\n20\nthough fully set forth herein.\n21\n63.  The California Constitution involves even greater protections than the Fourth\n22\nAmendment with respect to property seizures. See Cal. Const., art. I, § 13; In re Lance W., 37\n23\nCal. 3d at 879.\n24\n64.  Despite The City's written policies to the contrary, it has an unwritten policy,\n25\ncustom, and practice of seizing and destroying unhoused people's personal belongings. The City\n26\ndestroys such property even if that property poses no threat to public health and does not\n27\nconstitute evidence of a crime.\n28\n12\n\nCase 3:23-cv-06379-EMC     Document 1     Filed 12/11/23     Page 14 of 16\n1 65.  The City's unconstitutional policies and practices continue, subjecting Plaintiffs\n2 to persistent and imminent threat of having their personal property seized and destroyed in clear\n3 violation of the more expansive protections under Article I, Section 13 of the California\n4 Constitution.\n5 66.  WHEREFORE,P laintiffs pray for relief as set forth below.\n6 SEVENTH CAUSE OF ACTION\n7 Infliction of Cruel and Unusual Punishment in Violation of Eighth Amendment\n8 (42 U.S.C. 1983)\n9 67.  The Eighth Amendment of the United States Constitution states, \"[ejxcessive bail\n10 shall not be required, nor excessive fines imposed, nor cruel and unusual punishments inflicted.\"\n11 Martin v. Boise, 902 F.3d 1031, prohibits the criminalization of individuals for conditions related\n12 to their unhoused status if alternative shelter is not available to them. Martin v. Boise, 902 P.3d\n13 1031, 1035-36. Criminalization in the context of Martin encompasses \"credible threat of\n14 prosecution\" and \"credible risk of being issued a citation.\" Id. at 1042.\n15 68.  By posting a notice that threatens arrest for the potential violation of the Berkeley\n16 Municipal Code related to unhoused individuals living conditions when there is not enough\n17 shelter for residents subject to the closure notice, let alone adequate shelter for the Plaintiffs and\n18 other residents that meets their disability-related needs, defendant CITY is violating Plaintiffs'\n19 rights under the Eighth Amendment. Further, arrests of individuals refusing to permit the\n20 destruction of their belongings at previous evictions overseen by defendant CITY increases the\n21 credible risk of arrest for the Plaintiffs as they cannot move their belongings by September 4,\n22 2023.\n23\n24 PRAYER FOR RELIEF\n25 WHEREFORE,P laintiffs respectfully request that the Court:\n26 Temporary Restraining Order\n27 A.  Enter a Temporary Restraining Order to maintain the status quo until the Court\n28 has an opportunity to hear a request for fuller relief, including a preliminary injunction, so that\n13\n\nCase 3:23-cv-06379-EMC     Document 1     Filed 12/11/23     Page 15 of 16\n1 Plaintiffs can demonstrate that there are serious questions going to the merits of their claims, and\n2 that the balance of hardships tips sharply towards them since there is a likelihood of irreparable\n3 injury and an injunction is in the public interest.\n4 Declaratory Relief;\n5 A.  Declare that defendant CITY's removal of unhoused people from public property\n6 and seizure of their necessary survival gear, shelters, and vehicles, in the absence of adequate\nhousing or shelter that accommodates their disability-related needs, violates their right to be free\n7\n8 from state-created dangers under the Fourteenth Amendment to the U.S. Constitution and Article\n9 I, § 7(a) of the California Constitution;\n10 B.  Declare that defendant CITY's ongoing seizure and destruction of the personal\nproperty of unhoused people violates the Fourth and Fourteenth Amendments to the U.S.\n11\n12 Constitution; and Article 1, §§ 7(a) and 13 of the Califomia Constitution;\n13 C.  Declare that defendant CITY's ongoing enforcement and seizure practices,\nparking enforcement, and shelter programs are government programs that discriminate against\n14\n15 unhoused people with disabilities in violation of 42 U.S.C. § 12131 and Cal. Gov. Code § 11135;\n16 Mandate Relief:\n17 A.  Issue a mandatory order compelling defendant CITY to adequately train staff to\nstop enforcing ordinances against unhoused people and stop seizing their property except in\n18\n19 conformance with the Fourth, Eighth, and Fourteenth Amendments to the U.S. Constitution;\n20 Article I, §§ 7(a), 13, and 17 of the Califomia Constitution;\n21 B.  Issue a mandatory order requiring defendant CITY to submit to regular\n22 monitoring and compliance checks by the Court at defendant CITY's expense;\n23 Other Relief:\n24 A.  Grant Plaintiffs such further relief as the Court deems just and proper.\n25\n26 Dated: December 11, 2023  Respectfully submitted.\n27\n28\n14\n\nCase 3:23-cv-06379-EMC     Document 1     Filed 12/11/23     Page 16 of 16\n1\n2\n3\n4\n5\n6\n7\n8\n9\n10\n11\n12\n13\n14\n15\n16\n17\n18\n19\n20\n21\n22\n23\n24\n25\n26\n27\n28\n15",
+      "document_type_other": null,
+      "external_url": "https://www.courtlistener.com/docket/68081707/1/parnell-v-city-of-berkeley/",
+      "ecf_number": "1",
+      "clearinghouse_link": "clearinghouse.net/doc/160006"
+    },
+    {
+      "date": "2023-12-22",
+      "date_is_estimate": false,
+      "date_not_available": false,
+      "description": "",
+      "document_source": "RECAP",
+      "document_status": "Coding Complete",
+      "document_type": "Order/Opinion",
+      "order_type": "Non-Decree",
+      "citation_paren": null,
+      "cite_1_page": null,
+      "cite_1_reporter": null,
+      "cite_1_vol": null,
+      "cite_2_page": 8879260,
+      "cite_2_reporter": "WL",
+      "cite_2_vol": 2023,
+      "cite_3_page": null,
+      "cite_3_reporter": null,
+      "cite_3_vol": null,
+      "citation_status": "WL/LEXIS only: No official citation available",
+      "court": "Northern District of California",
+      "no_title": false,
+      "party_types": [
+        "Court"
+      ],
+      "per_curium": false,
+      "is_core_document": true,
+      "id": 160007,
+      "file": "https://clearinghouse-umich-production.s3.amazonaws.com/media/doc/160007.pdf",
+      "title": "Temporary Restraining Order",
+      "text": "Case 3:23-cv-06379-EMC   Document 28   Filed 12/22/23   Page 1 of 4\n \n \n1 \n2   \n3   \n4  UNITED STATES DISTRICT COURT \n5  NORTHERN DISTRICT OF CALIFORNIA \n6   \n7  LEWANDA PARNELL, et al.,  Case No.  23-cv-06379-EMC   \n \n8  Plaintiffs, \n \nTEMPORARY RESTRAINING ORDER \n9  v. \n \n \n10  CITY OF BERKELEY,  Docket No. 2 \n11  Defendants. \n   \n12   \na \ntr in\nuoro 13  Before the Court is Plaintiffs’ Motion for a Temporary Restraining Order (TRO) to enjoin \nCfi\n tla\ncC 14  the City of Berkeley (City) from evicting Plaintiffs from an encampment in Berkeley, CA.  \nirts fo\niD tc 15  Previously, the Court granted the TRO until a hearing was possible.  At the hearing, the City \n sir\net\ntatsiD 16  offered to provide Plaintiffs Mr. Michael Douglas and Ms. Lewanda Parnell with non-congregate \nS d nr\nee 17  housing that meets the basic needs of their respective disabilities.  Because Plaintiffs now have \nth\nintr\nUo\nN 18  suitable housing, the Court shall dissolve the TRO subject to a timeline that is workable for the \n19  Plaintiffs, as described below.  \n20  1.  Background and Procedural History \n21  Mr. Douglas and Ms. Parnell lived in tents around 8th and Harrison Streets in an in \n22  encampment in Berkeley, California.  On December 5, 8, and 11, 2023, the City posted several \n23  notices stating that the unhoused residents in the area would be subject to an encampment closure \n24  action beginning December 12, 2023.  The notices were posted on 8th Street between Cordonices \n25  Creek and Harrison Street, on property located on the East side of 8th Street between Harrison and \n26  Gilman Streets, and on the East and West side of 8th Street between Harrison Street and the UC \n27  Village.  \n28  Afterhours, on December 11, 2023, the Plaintiffs filed a Motion for a TRO requesting that \n\nCase 3:23-cv-06379-EMC   Document 28   Filed 12/22/23   Page 2 of 4\n \n1  the Court enjoin the City from closing the 8th and Harrison encampment in Berkeley and from \n2  removing the residents and their possessions from the encampment.  On December 12, 2023, this \n3  Court issued an Order to Maintain the Status Quo.  By the time the City received notice of the \n4  Order, it had mostly closed the encampment.  Mr. Douglas and Ms. Parnell have since reinstalled \n5  their respective encampments at 8th and Harrison.   \n6  On Friday, December 15, 2023, the Court issued a TRO, enjoining the City’s action until a \n7  hearing was possible on Tuesday, December 19, 2023.  In its Order, the Court found that the \n8  balance of hardships tipped strongly in favor of the Plaintiffs and that the Plaintiffs had a greater \n9  likelihood of success on the merits, given that Plaintiffs were unhoused and disabled individuals \n10  who were to be evicted from their encampment during the winter with no place to go.  \n11  Subsequently, in the hearing on Tuesday, December 19, 2023, and the continued hearing on \n12  Thursday, December 21, 2023, the City promised to provide Ms. Parnell and Mr. Douglas with \na \ntr in\nuoro 13  non-congregate shelter that largely accommodates their respective needs, disabilities, and \nCfi\n tla\ncC 14  limitations.   \nirts fo\niD tc 15    With respect to Mr. Douglas, the City offered him a non-congregate room at the Berkeley \n sir\net\ntatsiD 16  Inn.  Mr. Douglas is permitted to keep his dog, Boy, with him at the Berkeley Inn.  Mr. Douglas \nS d nr\nee 17  asked to receive a shelter handbook enumerating the program’s rules before entering the program \nth\nintr\nUo\nN 18  to help ensure his success.  The City indicated it would be able to provide Mr. Douglas with a \n19  shelter handbook, and the Court ordered the City to do so.  \n20  With respect to Ms. Parnell, the City has ensured a room is available for her at the Campus \n21  Motel.  The City agreed to provide Ms. Parnell with the shelter’s handbook that she can review \n22  before entering the program.  Additionally, Ms. Parnell will have a place to store the bottles and \n23  cans she collects as her income, so long as the recycling is not cardboard, flammable, or soiled.  \n24  To accommodate Ms. Parnell’s disability, the City is going to modify the bathroom in her room to \n25  provide her with grab bars around the toilet and in the shower.  The City is working to hire a \n26  contractor to install the grab bars that Ms. Parnell needs.  Further, Ms. Parnell asked to be able to \n27  cook her own food due to her anxiety of having other people handle/touch her food.  The City \n28  represented that Ms. Parnell will have her own microwave. \n2 \n\nCase 3:23-cv-06379-EMC   Document 28   Filed 12/22/23   Page 3 of 4\n \n1  2.  Plaintiffs Can No Longer Establish the Need for a TRO Based on the Winter Factors  \n2  The traditional Winter standard for preliminary relief requires the movant to show that (1) \n3  it “is likely to succeed on the merits;” (2) it “is likely to suffer irreparable harm in the absence of \n4  preliminary relief;” (3) “the balance of equities tips in [its] favor;” and (4) “an injunction is in the \n5  public interest.”  Winter v. Natural Res. Def. Council, Inc., 555 U.S. 7, 20 (2008).  The Ninth \n6  Circuit has created a “sliding scale” variant of the same standard: “if a plaintiff can only show that \n7  there are ‘serious questions going to the merits’—a lesser showing than likelihood of success on \n8  the merits—then a preliminary injunction may still issue if the ‘balance of hardships tips sharply \n9  in the plaintiff’s favor,’ and the other two Winter factors are satisfied.”  All. for the Wild Rockies v. \n10  Peña, 865 F.3d 1211, 1217 (9th Cir. 2017) (emphasis in original) (quoting Shell Offshore, Inc. v. \n11  Greenpeace, Inc., 709 F.3d 1281, 1291 (9th Cir. 2013)).   \n12  Applying the sliding scale here, the showing on the merits has shifted in the City’s favor \na \ntr in\nuoro 13  because the Plaintiffs now have accommodations that meet their most basic needs.  Whereas \nCfi\n tla\ncC 14  before, Plaintiffs constitutional rights were in danger of being violated given that they were being \nirts fo\niD tc 15  evicted with nowhere to go, now, Plaintiffs are being provided with non-congregate housing that \n sir\net\ntatsiD 16  largely accommodates their disabilities and limitations, so there likely is no constitutional or \nS d nr\nee 17  statutory violation.  \nth\nintr\nUo\nN 18  The balance of hardships also tips in the City’s favor.  Mr. Douglas and Ms. Parnell are \n19  being provided shelter that will accommodate their basic needs, so they face little hardship.  \n20  Conversely, the City initiated the eviction because it planned to fence-off the site of the \n21  encampment, make needed repairs, and permit the owners of the abutting property at 930 Harrison \n22  Street to install a “planting strip.”  Radhu Decl. ¶ 26; Chen Decl. ¶ 3.  Keeping the TRO in place \n23  would further forestall the City’s plan.  \n24  As for the two remaining Winter factors—whether the public interest favors preliminary \n25  relief and whether Plaintiffs will suffer irreparable harm without it—the remaining factors no \n26  longer indicate that the Plaintiffs should be granted relief.  Whereas before, a short delay of a \n27  planned eviction to ensure the Plaintiffs had a suitable alternative was in the public interest, that is \n28  no longer the case.  Janosko v. City of Oakland, No. 3:23-CV-00035-WHO, 2023 WL 187499, at \n3 \n\nCase 3:23-cv-06379-EMC   Document 28   Filed 12/22/23   Page 4 of 4\n \n1  *4 (N.D. Cal. Jan. 13, 2023) (“[A] short, defined delay in the planned evictions is in the public \n2  interest.”).  \n3  On the record currently before the Court, the showing on the merits and the balance of \n4  hardships tips in the City’s favor.  Plaintiffs are no longer likely to suffer irreparable harm absent \n5  preliminary relief and thus the granting of such relief is no longer in the public interest.  Therefore, \n6  because Mr. Douglas’ room at the Berkeley Inn is presently available, the TRO with respect to \n7  him will expire at 11:59 P.M. on Monday, December 25, 2023.  Though Ms. Parnell’s room at the \n8  Campus Motel is available, it does not yet have the grab bars installed that she needs to \n9  accommodate her disability.  Therefore, the TRO with respect to her will expire 48 hours after the \n10  City files a confirmation with the Court that the grab bars have been installed in Ms. Parnell’s \n11  room. \n12   \na \ntr in\nuoro 13  IT IS SO ORDERED. \nCfi\n tla\ncC 14   \nirts fo\niD tc 15  Dated: December 22, 2023 \n sir\net\ntatsiD 16   \nS d nr\nee 17  ______________________________________ \nth\ninUtro EDWARD M. CHEN \nN 18 \nUnited States District Judge \n19 \n20 \n21 \n22 \n23 \n24 \n25 \n26 \n27 \n28 \n4 ",
+      "document_type_other": null,
+      "external_url": "https://www.courtlistener.com/docket/68081707/28/parnell-v-city-of-berkeley/",
+      "ecf_number": "28",
+      "clearinghouse_link": "clearinghouse.net/doc/160007"
+    },
+    {
+      "date": "2023-12-15",
+      "date_is_estimate": false,
+      "date_not_available": false,
+      "description": "",
+      "document_source": "RECAP",
+      "document_status": "Coding Complete",
+      "document_type": "Order/Opinion",
+      "order_type": "Litigated Decree",
+      "citation_paren": null,
+      "cite_1_page": null,
+      "cite_1_reporter": null,
+      "cite_1_vol": null,
+      "cite_2_page": null,
+      "cite_2_reporter": null,
+      "cite_2_vol": null,
+      "cite_3_page": null,
+      "cite_3_reporter": null,
+      "cite_3_vol": null,
+      "citation_status": "No citation available",
+      "court": "Northern District of California",
+      "no_title": false,
+      "party_types": [
+        "Court"
+      ],
+      "per_curium": false,
+      "is_core_document": true,
+      "id": 160008,
+      "file": "https://clearinghouse-umich-production.s3.amazonaws.com/media/doc/160008.pdf",
+      "title": "Temporary Restraining Order",
+      "text": "Case 3:23-cv-06379-EMC     Document 15     Filed 12/15/23     Page 1 of 6\n \n \n1 \n2   \n3   \n4  UNITED STATES DISTRICT COURT \n5  NORTHERN DISTRICT OF CALIFORNIA \n6   \n7  LAWANDA PARNELL, et al.,  Case No.  23-cv-06379-EMC   \n \n8  Plaintiffs, \n \nTEMPORARY RESTRAINING ORDER \n9  v. \n \n \n10  CITY OF BERKELEY,  Re:  Dkt. No. 2 \n11  Defendants. \n   \n12   \na \ntr in\nuoro 13  Before the Court is Plaintiffs’ Motion for a Temporary Restraining Order, as well as the \nCfi\n tla\ncC 14  City’s Opposition.  Having considered the parties’ filings, the Court GRANTS the application for \nirts fo\niD tc 15  a temporary restraining order until a hearing can be held on Tuesday, December 19, 2023.   \n sir\net\ntatsiD 16  Plaintiffs Michael Douglas and Lawanda Parnell are unhoused and live in tents around 8th \nS d nr\nee 17  and Harrison Streets in Berkeley, California.  Plaintiff Merced Dominguez lives in an RV near the \nth\nintr\nUo\nN 18  same intersection.  Plaintiffs allege that on December 5, 8, and 11, 2023, the City posted several \n19  notices stating that the unhoused residents in the area would be subject to an encampment closure \n20  action beginning December 12, 2023.  The notices were posted on 8th Street between Cordonices \n21  Creek and Harrison Street, on property located on the East side of 8th Street between Harrison and \n22  Gilman Streets, and on the East and West side of 8th Street between Harrison Street and the UC \n23  Village.  \n24  Afterhours, on December 11, 2023, the Plaintiffs filed a Motion for a Temporary \n25  Restraining Order requesting that the Court enjoin the City from closing the 8th and Harrison \n26  encampment in Berkeley and from removing the residents and their possessions from the \n27  encampment.   \n28  On December 12, 2023, this Court issued an Order to Maintain the Status Quo.  By the \n\nCase 3:23-cv-06379-EMC     Document 15     Filed 12/15/23     Page 2 of 6\n \n1  time the City of Berkeley received notice of the Order, it had mostly closed the encampment.  Mr. \n2  Douglas and Ms. Parnell have since reinstalled their respective encampments at 8th and Harrison. \n3  1.  Plaintiffs’ Claims are Not Moot  \n4  The City contends that the case is moot and that the Court should not issue the requested \n5  TRO because, at the time the Order to Maintain the Status Quo was issued, Plaintiffs Parnell and \n6  Douglas had already vacated the area.  Opp’n at 6.  However, “[i]n deciding a mootness issue, the \n7  question is not whether the precise relief sought at the time the application for an injunction was \n8  filed is still available.  The question is whether there can be any effective relief.”  Oregon Nat. \n9  Resources Council v. U.S. Bureau of Land Mgmt., 470 F.3d 818, 820 (9th Cir. 2006) (quoting Nw. \n10  Environmental Defense Ctr. v. Gordon, 849 F.2d 1241, 1244-45 (9th Cir. 1988)).  A case is still \n11  live “when the challenged government action … has not evaporated or disappeared, and … casts \n12  … a substantial adverse effect on the interests of the petitioning parties.”  Feldman v. Bomar, 518 \na \ntr in\nuoro 13  F.3d 637, 642 (9th Cir. 2008) (quoting Headwaters, Inc. v. Bureau of Land Mgmt., 893 F.2d 1012, \nCfi\n tla\ncC 14  1015 (9th Cir. 1990).).  In Oregon Natural Resources Council, a logging project was challenged, \nirts fo\niD tc 15  but the challenger failed to obtain a preliminary injunction from the district court, and the logging \n sir\net\ntatsiD 16  proceeded.  470 F.3d at 820.  The Ninth Circuit held that there was still a live controversy \nS d nr\nee 17  because, although the harvested trees could not be restored, there were still remedies available \nth\nintr\nUo\nN 18  such as addressing the impact of the logging on the neighboring areas.  Id. at 821, 823.   \n19  Here, even though Plaintiffs moved out of the 8th and Harrison encampment, the City’s \n20  challenged action still presents a “substantial adverse effect on the interests of the petitioning \n21  parties,” because Plaintiffs have returned to their encampment, continue to have nowhere to go, \n22  and the City still seeks their eviction.  See Feldman, 518 F.3d at 642.  Because Plaintiffs can still \n23  be granted effective relief, this case is not moot.  See Oregon Nat. Resources Council, 470 F.3d at \n24  820.  Finding a live controversy, the Court now turns to whether Plaintiffs meet the standard for a \n25  TRO. \n26  2.  Plaintiffs’ Allegations Establish a Basis for a TRO Until a Hearing Can be Held \n27  The traditional Winter standard for preliminary relief requires the movant to show that \n28  (1) it “is likely to succeed on the merits;” (2) it “is likely to suffer irreparable harm in the absence \n2 \n\nCase 3:23-cv-06379-EMC     Document 15     Filed 12/15/23     Page 3 of 6\n \n1  of preliminary relief;” (3) “the balance of equities tips in [its] favor;” and (4) “an injunction is in \n2  the public interest.”  Winter v. Natural Res. Def. Council, Inc., 555 U.S. 7, 20 (2008).  The Ninth \n3  Circuit has created a “sliding scale” variant of the same standard: “if a plaintiff can only show that \n4  there are ‘serious questions going to the merits’—a lesser showing than likelihood of success on \n5  the merits—then a preliminary injunction may still issue if the ‘balance of hardships tips sharply \n6  in the plaintiff’s favor,’ and the other two Winter factors are satisfied.”  All. for the Wild Rockies v. \n7  Peña, 865 F.3d 1211, 1217 (9th Cir. 2017) (emphasis in original) (quoting Shell Offshore, Inc. v. \n8  Greenpeace, Inc., 709 F.3d 1281, 1291 (9th Cir. 2013)). \n9  Applying the sliding scale here, Plaintiffs have shown that there are serious questions \n10  going to the merits, i.e., whether the City’s planned course of action—evicting disabled, unhoused \n11  individuals from a site without indicating where they may lawfully relocate and without \n12  addressing their respective disabilities and limitations—violates Plaintiffs’ constitutional rights.  \na \ntr in\nuoro 13  See Blain v. Cal. Dep’t of Trans., 616 F. Supp. 3d 952, 955 (N.D. Cal. 2022) (finding “serious \nCfi\n tla\ncC 14  questions that the state will violate their constitutional rights by placing them in increased danger \nirts fo\niD tc 15  when it removes them at short notice from the encampment without adequate plans to provide \n sir\net\ntatsiD 16  shelter”), order dissolved, No. 3:22-CV-04178-WHO, 2022 WL 3702106 (N.D. Cal. Aug. 26, \nS d nr\nee 17  2022); Warren v. City of Chico, No. 2:21-CV-00640-MCE-DMC, 2021 WL 2894648, at *7-8 \nth\nintr\nUo\nN 18  (E.D. Cal 2021) (finding likelihood of success on the merits where the City’s proposed relocation \n19  site was an “ asphalt tarmac with no roof and no walls, no water and no electricity … afford[ing] \n20  no real cover or protection to anyone.”); Los Angeles All. for Human Rights v. City of Los Angeles, \n21  No. LA CV 20-02291-DOC-KES, 2020 WL 2615741, at *13-15 (C.D. Cal. May 22, 2020) \n22  (finding likelihood of success on the merits because homelessness would be effectively \n23  criminalized if there is “no better option than to camp in hazardous areas.”), vacated by \n24  stipulation, 2020 WL 3421782 (C.D. Cal. June 18, 2020).  Accordingly, the Court finds that \n25  Plaintiffs have made an adequate showing as to the first Winter factor under the sliding scale \n26  approach. \n27  The balance of hardships also tips sharply in Plaintiffs’ favor.  Mr. Douglas is disabled, \n28  struggles with anxiety, a bipolar disorder, and is legally blind in his right eye.  Douglas Decl. ¶ 7; \n3 \n\nCase 3:23-cv-06379-EMC     Document 15     Filed 12/15/23     Page 4 of 6\n \n1  Supp. Douglas Decl. ¶ 10.1  He was told the only shelter he could use is the Old City Hall, which \n2  he says he cannot access because of his disabilities.  Id. ¶¶ 10-11; Supp. Douglas Decl. ¶ 11.  He \n3  states that after the closure, “I have no idea where I will go and have nowhere to go.”  Douglas \n4  Decl. ¶ 6.  Ms. Parnell also has a physical disability.  Parnell Decl. ¶ 4.  She falls down frequently \n5  and has a nervous condition.  Id.  She cannot reside at Old City Hall because she cannot be in a \n6  congregate shelter due to her nervous condition.  Id. ¶ 6.  She states: “if forced to leave I would \n7  have no place to go.”  Parnell Decl. ¶ 2.  If Mr. Douglas and Ms. Parnell, two disabled individuals, \n8  are evicted during the winter, with no place to go, they will certainly suffer a severe hardship.  \n9  On the other hand, the hardships to the City are minimal.  After Plaintiffs are removed, the \n10  City plans to fence-off the site of the encampment and make needed repairs.  Radhu Decl. ¶ 26.  \n11  Then, the owners of the abutting property at 930 Harrison Street will install a “planting strip.”  \n12  Chen Decl. ¶ 3.  The TRO will only forestall the City and the property owner’s plan until Tuesday, \na \ntr in\nuoro 13  December 19, 2023, when the Court can hold a hearing.  Delaying the cleaning project by six days \nCfi\n tla\ncC 14  does not present a substantial hardship to the City.  Therefore, the Court finds that Plaintiffs have \nirts fo\niD tc 15  satisfied this Winter factor.  See Blain, 616 F. Supp. 3d at 958 (“The balance of equities sharply \n sir\net\ntatsiD 16  tilts in the plaintiffs’ favor for a period long enough to give them adequate notice of the action, \nS d nr\nee 17  time to make alternative plans, and time for the relevant governmental entities to help locate \nth\nintr\nUo\nN 18  shelter (as they have committed to trying).”). \n19  As to the two remaining Winter factors—whether the public interest favors preliminary \n20  relief and whether Plaintiffs will suffer irreparable harm without it—Mr. Douglas and Ms. Parnell \n21  have made the required showing.  Their declarations establish that they have no place to go, and \n22  this Order grants preliminary relief only so that a hearing can be held on whether further relief is \n23  warranted.  See Blain, 616 F. Supp. 3d at 958 (“Being exposed to safety and health threats by dint \n24  of governmental action with short notice meets the irreparable-injury element.”) (citation omitted); \n25  Janosko v. City of Oakland, No. 3:23-CV-00035-WHO, 2023 WL 187499, at *4 (N.D. Cal. Jan. \n26 \n \n1 Mr. Douglas submitted two declarations—one handwritten and undated, and one typewritten \n27 \ndated September 20, 2023—in support of the motion for temporary restraining order.  The Court \nrefers to the handwritten declaration, dated as the “Douglas Declaration,” and the typewritten \n28 \ndeclaration as the “Supplemental Douglas Declaration.” \n4 \n\nCase 3:23-cv-06379-EMC     Document 15     Filed 12/15/23     Page 5 of 6\n \n1  13, 2023) (“[A] short, defined delay in the planned evictions is in the public interest.”).   \n2  On the record currently before the Court, Plaintiffs have demonstrated that there are \n3  serious questions going to the merits of their claims, that the balance of hardships tips sharply in \n4  their favor, and that they are likely to suffer irreparable harm absent preliminary relief, the \n5  granting of which is in the public interest.  They have thus made the required showing for a TRO.  \n6  The Court now addresses whether the TRO should extend to Ms. Dominguez. \n7  3.  Persons Affected by This Order  \n8    The City contends that Ms. Dominguez lacks standing to seek preliminary relief because \n9  the encampment closure did not apply to those residing in RVs or automobiles parked on the \n10  street, and as a result, Ms. Dominguez was not affected by it.  Opp’n at 4.  To establish standing, \n11  “a plaintiff must show that he or she suffered ‘an invasion of a legally protected interest’ that is \n12  ‘concrete and particularized’ and ‘actual or imminent, not conjectural or hypothetical.’”  Spokeo, \na \ntr in\nuoro 13  Inc. v. Robins, 578 U.S. 330, 339 (2016) (quoting Lujan v. Defenders of Wildlife, 504 U.S. 550, \nCfi\n tla\ncC 14  560 (1992)).  Here, Ms. Dominguez does not have an injury because she has not been asked to \nirts fo\niD tc 15  move her RV or leave the encampment site.  Therefore, Ms. Dominguez lacks standing to seek \n sir\net\ntatsiD 16  relief in this action.  \nS d nr\nee 17    Accordingly, the relief granted in this Order applies to Mr. Douglas and Ms. Parnell, as \nth\nintr\nUo\nN 18  they are properly named plaintiffs in the case at bar.  At the same time, this case, Parnell v. City of \n19  Berkeley, is related to Prado v. City of Berkeley, No. 23-cv-04537, which is a class action on \n20  behalf of the 42 residents of the 8th and Harrison encampment at question here.  In the instant \n21  motion for a temporary restraining order, it appears that Plaintiffs may have meant to assert the \n22  restraining order on behalf of the entire class of residents living at the encampment.  Mot. at 2 \n23  (“Plaintiffs therefore seek a Temporary Restraining Order restraining defendant City of Berkeley \n24  from displacing the residents of 8th and Harrison until adequate shelter is available for them.”).  \n25  Though it is premature to decide whether Plaintiffs here meant to represent themselves or all of the \n26  residents at the encampment, the Court notes that it is the Court’s “obligation … where the \n27  petitioner is pro se, particularly in civil rights cases, to construe the pleadings liberally and to \n28  afford the petitioner the benefit of any doubt.”  Hebbe v. Pliler, 627 F.3d 338, 342 (9th Cir. 2010) \n5 \n\nCase 3:23-cv-06379-EMC     Document 15     Filed 12/15/23     Page 6 of 6\n \n1  (quoting Bretz v. Kelman, 773 F.2d 1026, 1027 n.1 (9th Cir. 1985)).  The Court will therefore \n2  revisit this issue at the hearing on this matter. \n3  TEMPORARY RESTRAINING ORDER \n4  UNTIL OTHERWISE ORDERED, Defendant, its employees, agents and/or any other \n5  person or entity acting with defendant or on its behalf are RESTRAINED AND ENJOINED from \n6  conducting an abatement and closure of the area surrounding 8th and Harrison, Berkeley, \n7  California.  \n8  THIS TEMPORARY RESTRAINING ORDER IS EFFECTIVE IMMEDIATELY.  \n9  It shall expire on Tuesday, December 19, 2023 at 3:00 pm, unless a further order based on good \n10  cause is entered at a hearing to take place at that time before the Honorable Edward M. Chen via \n11  Zoom webinar.  \n12  Unless otherwise stipulated, Plaintiffs may file a reply by 5:00 p.m. Monday, December \na \ntr in\nuoro 13  18, 2023.  \nCfi\n tla\ncC 14  IT IS SO ORDERED. \nirts fo\niD tc 15   \n sir\net\ntatsiD 16  Dated: December 15, 2023 \nS d nr\nee 17   \nth\nintr\nUo\nN 18  ______________________________________ \nARACELI MARTÍNEZ-OLGUÍN \n19 \nUnited States District Judge \n \n20 \n  \n21 \n22 \n23 \n24 \n25 \n26 \n27 \n28 \n6 ",
+      "document_type_other": null,
+      "external_url": "https://www.courtlistener.com/docket/68081707/15/parnell-v-city-of-berkeley/",
+      "ecf_number": "15",
+      "clearinghouse_link": "clearinghouse.net/doc/160008"
+    },
+    {
+      "date": null,
+      "date_is_estimate": false,
+      "date_not_available": false,
+      "description": null,
+      "document_source": null,
+      "document_status": null,
+      "document_type": null,
+      "order_type": null,
+      "citation_paren": null,
+      "cite_1_page": null,
+      "cite_1_reporter": null,
+      "cite_1_vol": null,
+      "cite_2_page": null,
+      "cite_2_reporter": null,
+      "cite_2_vol": null,
+      "cite_3_page": null,
+      "cite_3_reporter": null,
+      "cite_3_vol": null,
+      "citation_status": null,
+      "court": null,
+      "no_title": false,
+      "party_types": [],
+      "per_curium": false,
+      "is_core_document": true,
+      "id": 144510,
+      "file": null,
+      "title": null,
+      "text": null,
+      "document_type_other": null,
+      "external_url": null,
+      "ecf_number": null,
+      "clearinghouse_link": "clearinghouse.net/doc/144510"
+    }
+  ],
+  "document_count": 4
+}

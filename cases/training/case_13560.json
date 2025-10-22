@@ -1,0 +1,422 @@
+{
+  "case_id": 13560,
+  "fetched_at": "2025-10-22T00:20:09.306862",
+  "case_data": {
+    "attorney_orgs": [],
+    "available_documents": [
+      "Trial Court Docket",
+      "Complaint (any)"
+    ],
+    "case_defendants": [
+      {
+        "defendant_level": null,
+        "institution": "Hennepin County",
+        "institution_alt_state": null,
+        "institution_city": "",
+        "institution_county": "Hennepin",
+        "name": "Hennepin County",
+        "defendant_level_other": "",
+        "is_active": true
+      },
+      {
+        "defendant_level": null,
+        "institution": "Hennepin County Sheriff",
+        "institution_alt_state": null,
+        "institution_city": "",
+        "institution_county": "Hennepin",
+        "name": "Hennepin County",
+        "defendant_level_other": "",
+        "is_active": true
+      }
+    ],
+    "case_ongoing": "No",
+    "case_status": "Coding Complete",
+    "case_types": [
+      "Policing"
+    ],
+    "cause_other": "",
+    "causes": [
+      "42 U.S.C. § 1983"
+    ],
+    "class_action_granted": "Not sought",
+    "class_action_sought": "No",
+    "closing_year": 2012,
+    "constitutional_clause": [
+      {
+        "value": "Due Process"
+      },
+      {
+        "value": "Unreasonable search and seizure"
+      },
+      {
+        "value": "Freedom of speech/association"
+      }
+    ],
+    "content_of_injunction": [
+      {
+        "value": "Implement complaint/dispute resolution process"
+      }
+    ],
+    "court": "District of Minnesota",
+    "custom_issues": [],
+    "defendant_payment": "15,000",
+    "defendant_type": [
+      {
+        "value": "Law-enforcement"
+      }
+    ],
+    "docket_status": "Complete as of retrieval date",
+    "facility_type": [],
+    "filing_date": "2011-12-07",
+    "filing_year": 2011,
+    "id": 13560,
+    "injunction_duration": "",
+    "issues": [
+      "General/Misc.: Failure to supervise",
+      "Jails, Prisons, Detention Centers, and Other Institutions: Over/Unlawful Detention (facilities)",
+      "General/Misc.: Failure to train",
+      "Policing: False arrest",
+      "General/Misc.: Pattern or Practice",
+      "General/Misc.: Access to public accommodations - governmental",
+      "Disability and Disability Rights: Sidewalks"
+    ],
+    "last_checked_date": "2014-04-13T00:00:00-04:00",
+    "main_docket": {
+      "id": 30291,
+      "docket_entries": [
+        {
+          "row_number": 4,
+          "id": 10135584,
+          "entry_number": "13",
+          "date_filed": "2012-01-26T00:00:00-05:00",
+          "attachments": [],
+          "url": "https://www.courtlistener.com/docket/12918519/13/hill-v-stanek/",
+          "recap_pdf_url": null,
+          "pacer_doc_id": "10104033611",
+          "description": "ORDER for judgment of dismissal. Signed by Judge Ann D. Montgomery on 1/26/2012. (GS) (Entered: 01/26/2012)"
+        },
+        {
+          "row_number": 0,
+          "id": 2742468,
+          "entry_number": "1",
+          "date_filed": "2011-12-07T00:00:00-05:00",
+          "attachments": [],
+          "url": "https://www.courtlistener.com/docket/12918519/1/hill-v-stanek/",
+          "recap_pdf_url": null,
+          "pacer_doc_id": "10103972310",
+          "description": "COMPLAINT against All Defendants ( Filing fee $ 350 receipt number 40060679.) assigned to Judge Ann D. Montgomery per Civil Rights List and referred to Magistrate Judge Jeanne J. Graham, filed by Melissa Lynn Hill. (Attachments: # 1 Civil Cover Sheet) (kt) (Entered: 12/07/2011)"
+        },
+        {
+          "row_number": 6,
+          "id": 2742470,
+          "entry_number": "2",
+          "date_filed": "2011-12-23T00:00:00-05:00",
+          "attachments": [],
+          "url": "https://www.courtlistener.com/docket/12918519/2/hill-v-stanek/",
+          "recap_pdf_url": null,
+          "pacer_doc_id": "10103994566",
+          "description": "STIPULATION Regarding Defendants Time to Respond to Complaint by all parties. (Beitz, Toni) Modified on 12/23/2011 (kt). (Entered: 12/23/2011)"
+        },
+        {
+          "row_number": 7,
+          "id": 2742471,
+          "entry_number": "3",
+          "date_filed": "2011-12-28T00:00:00-05:00",
+          "attachments": [],
+          "url": "https://www.courtlistener.com/docket/12918519/3/hill-v-stanek/",
+          "recap_pdf_url": null,
+          "pacer_doc_id": "10103996763",
+          "description": "ORDER re 2 Stipulation filed by Kirk Simmons, John Doe, Bill Columbien, Busch, C.C. Sedesky, Jane Roe, Hennepin, County of, J. Steffens, Richard Stanek, All Defendants shall have until and including 1/6/12 to answer or otherwise respond to the complaint. Signed by Magistrate Judge Jeanne J. Graham on 12/27/11. (RLR) (Entered: 12/28/2011)"
+        },
+        {
+          "row_number": 8,
+          "id": 2742472,
+          "entry_number": "4",
+          "date_filed": "2012-01-06T00:00:00-05:00",
+          "attachments": [],
+          "url": "https://www.courtlistener.com/docket/12918519/4/hill-v-stanek/",
+          "recap_pdf_url": null,
+          "pacer_doc_id": "10104008324",
+          "description": "Joint ANSWER to Complaint by Busch, Bill Columbien, Hennepin, County of, C.C. Sedesky, Kirk Simmons, Richard Stanek, J. Steffens. (Attachments: # 1 Exhibit(s) A) (Beitz, Toni) (Entered: 01/06/2012)"
+        },
+        {
+          "row_number": 9,
+          "id": 2742473,
+          "entry_number": "5",
+          "date_filed": "2012-01-09T00:00:00-05:00",
+          "attachments": [],
+          "url": "https://www.courtlistener.com/docket/12918519/5/hill-v-stanek/",
+          "recap_pdf_url": null,
+          "pacer_doc_id": "10104009775",
+          "description": "NOTICE of Setting Hearing: Pretrial Conference set for 1/24/2012 09:30 AM in Judge's Chambers, Suite 346 (STP) before Magistrate Judge Jeanne J. Graham. (Attachments: # 1 Consent Form)(RLR) (Entered: 01/09/2012)"
+        },
+        {
+          "row_number": 11,
+          "id": 2742475,
+          "entry_number": "7",
+          "date_filed": "2012-01-17T00:00:00-05:00",
+          "attachments": [],
+          "url": "https://www.courtlistener.com/docket/12918519/7/hill-v-stanek/",
+          "recap_pdf_url": null,
+          "pacer_doc_id": "10104019786",
+          "description": "ORDER CANCELLING PRETRIAL CONFERENCE. Signed by Magistrate Judge Jeanne J. Graham on 1/17/12. (RLR) (Entered: 01/17/2012)"
+        },
+        {
+          "row_number": 12,
+          "id": 2742476,
+          "entry_number": "8",
+          "date_filed": "2012-01-18T00:00:00-05:00",
+          "attachments": [],
+          "url": "https://www.courtlistener.com/docket/12918519/8/hill-v-stanek/",
+          "recap_pdf_url": null,
+          "pacer_doc_id": "10104022016",
+          "description": "STIPULATION of Dismissal by Busch, Bill Columbien, Hennepin, County of, Melissa Lynn Hill, C.C. Sedesky, Kirk Simmons, Richard Stanek, J. Steffens. (Beitz, Toni) (Entered: 01/18/2012)"
+        },
+        {
+          "row_number": 1,
+          "id": 2742478,
+          "entry_number": "10",
+          "date_filed": "2012-01-20T00:00:00-05:00",
+          "attachments": [],
+          "url": "https://www.courtlistener.com/docket/12918519/10/hill-v-stanek/",
+          "recap_pdf_url": null,
+          "pacer_doc_id": "10104024517",
+          "description": "JUDGMENT (Attachments: # 1 Civil-8th Circuit Pre-Hearing Conference Notice, # 2 Civil Notice - appeal)(jz) (Entered: 01/20/2012)"
+        },
+        {
+          "row_number": 2,
+          "id": 10135582,
+          "entry_number": "11",
+          "date_filed": "2012-01-26T00:00:00-05:00",
+          "attachments": [],
+          "url": "https://www.courtlistener.com/docket/12918519/11/hill-v-stanek/",
+          "recap_pdf_url": null,
+          "pacer_doc_id": "10104033065",
+          "description": "STIPULATION of Dismissal by Busch, Bill Columbien, John Doe, Hennepin, County of, Melissa Lynn Hill, Jane Roe, C.C. Sedesky, Kirk Simmons, Richard Stanek, J. Steffens. (Beitz, Toni) (Entered: 01/26/2012)"
+        },
+        {
+          "row_number": 3,
+          "id": 10135583,
+          "entry_number": "12",
+          "date_filed": "2012-01-26T00:00:00-05:00",
+          "attachments": [],
+          "url": "https://www.courtlistener.com/docket/12918519/12/hill-v-stanek/",
+          "recap_pdf_url": null,
+          "pacer_doc_id": "10104033608",
+          "description": "ORDER. Signed by Judge Ann D. Montgomery on 1/26/2012. (GS) (Entered: 01/26/2012)"
+        },
+        {
+          "row_number": 5,
+          "id": 10135585,
+          "entry_number": "14",
+          "date_filed": "2012-01-26T00:00:00-05:00",
+          "attachments": [],
+          "url": "https://www.courtlistener.com/docket/12918519/14/hill-v-stanek/",
+          "recap_pdf_url": null,
+          "pacer_doc_id": "10104034050",
+          "description": "JUDGMENT (Attachments: # 1 Civil-8th Circuit Pre-Hearing Conference Notice, # 2 Civil Notice - appeal)(jz) (Entered: 01/26/2012)"
+        },
+        {
+          "row_number": 13,
+          "id": 2742477,
+          "entry_number": "9",
+          "date_filed": "2012-01-19T00:00:00-05:00",
+          "attachments": [],
+          "url": "https://www.courtlistener.com/docket/12918519/9/hill-v-stanek/",
+          "recap_pdf_url": null,
+          "pacer_doc_id": "10104024147",
+          "description": "ORDER DISMISSING CASE. Signed by Judge Ann D. Montgomery on 1/19/2012. (GS) (Entered: 01/19/2012)"
+        },
+        {
+          "row_number": 10,
+          "id": 2742474,
+          "entry_number": "6",
+          "date_filed": "2012-01-13T00:00:00-05:00",
+          "attachments": [],
+          "url": "https://www.courtlistener.com/docket/12918519/6/hill-v-stanek/",
+          "recap_pdf_url": null,
+          "pacer_doc_id": "10104018871",
+          "description": "LETTER TO MAGISTRATE JUDGE by Melissa Lynn Hill . (Kushner, Jordan) (Entered: 01/13/2012)"
+        },
+        {
+          "row_number": 14,
+          "id": 2742469,
+          "entry_number": null,
+          "date_filed": "2011-12-07T00:00:00-05:00",
+          "attachments": [],
+          "url": "https://www.courtlistener.com",
+          "recap_pdf_url": null,
+          "pacer_doc_id": null,
+          "description": "Summons Issued as to All Defendants. (kt)"
+        }
+      ],
+      "docket_case_type": "cv",
+      "docket_year": 2011,
+      "docket_filing_number": 3542,
+      "is_main_docket": true,
+      "court": "District of Minnesota",
+      "state": "Minnesota",
+      "docket_office_number": "0",
+      "docket_number_manual": "0:11-cv-03542",
+      "scales_html": "https://clearinghouse-umich-production.s3.amazonaws.com/media/docket-html/mnd--0-11-cv-03542.html",
+      "recap_link": "https://www.courtlistener.com/docket/12918519/hill-v-stanek/",
+      "is_active": true
+    },
+    "name": "Hill v. Stanek",
+    "never_filed": false,
+    "non_docket_case_number": "",
+    "non_docket_case_number_type": null,
+    "non_docket_case_number_type_other": "",
+    "order_end_year": 0,
+    "order_start_year": 0,
+    "permanent_injunction": false,
+    "plaintiff_description": "Political activist and supporter of Occupy Minnesota",
+    "plaintiff_type": [
+      {
+        "value": "Private Plaintiff"
+      }
+    ],
+    "prevailing_party": "Plaintiff",
+    "pro_se_status": "No",
+    "public_interest_lawyer": "No",
+    "related_cases": [],
+    "relief_natures": [
+      "Injunction / Injunctive-like Settlement",
+      "Damages"
+    ],
+    "relief_nature_other": "",
+    "relief_sources": [
+      "Settlement"
+    ],
+    "settlement_agreement": [
+      "Private Settlement Agreement"
+    ],
+    "settlement_judgment_date": null,
+    "settlement_judgment_year": null,
+    "special_collections": [
+      "Occupy",
+      "Multi-LexSum (in sample)"
+    ],
+    "special_case_type": [],
+    "state": "Minnesota",
+    "summary": "<p>On December 7, 2011, a political activist and supporter of Occupy Minnesota filed a lawsuit in the U.S. District Court for the District of Minnesota under § 1983 against the County of Hennepin. The plaintiff, represented by a public interest law firm, asked the court for injunctive relief revoking the notice of trespassing and permitting the plaintiff to enter government property without interference, and for compensatory and punitive damages, claiming that the defendants had arrested her without probable cause on account of her political activism. Specifically, the plaintiff claimed that she was a legal observer for an Occupy Minnesota protest standing on a public sidewalk outside a government building when the defendants arrested her for trespassing. </p><p>Two days prior to the incident in dispute, security for the Hennepin County government building served a \"trespass notice\" upon the defendant resulting from writing political slogans in chalk on government property. The notice barred the plaintiff from Hennepin County government property for 365 days, or until the notice was resolved on appeal to the security manager. Two days later, while the plaintiff was serving as a legal observer for the National Lawyers Guild, Hennepin County security guards approached her and told her that she could not enter the property because of her prior trespass notice. She claimed that at that moment, two deputy sheriffs arrived and placed her under arrest for trespassing. She spent seven hours in county jail before she was released on bail. She was charged with trespass, but the prosecution dropped the charge at the plaintiff's second court appearance.</p><p>On January 18, 2012, the plaintiff voluntarily dismissed her case, because she had reached a settlement with the defendants. According to news reports, the defendants agreed to pay the plaintiff $15,000 and revoked her ban from government property. In return, the plaintiff agreed not to chalk or otherwise deface government property. Additionally, the defendants agreed to change their policy for appeals from bans from county government property. Now, if the county wants someone barred from the property for longer than 45 days, that person can appeal and must get a hearing within 10 days. If the hearing official agrees with the trespass order, she must issue a written decision justifying her action.</p><p></p>",
+    "summary_published_date": "2014-04-13T00:00:00-04:00",
+    "summary_short": "On December 7, 2011, a political activist and supporter of Occupy Minnesota filed a lawsuit in the U.S. District Court for the District of Minnesota under § 1983 against the County of Hennepin. The plaintiff claimed that the defendants arrested her for trespassing without probable cause on account of her political activism. The plaintiff voluntarily dismissed the case after reaching a settlement with the defendants where the defendants agreed to pay her $15,000 and change their policy on trespassing. ",
+    "summary_tiny": null,
+    "terminating_date": null,
+    "clearinghouse_link": "clearinghouse.net/case/13560",
+    "is_active": true,
+    "case_documents_url": "https://clearinghouse.net/api/v2/documents/?case=13560",
+    "case_dockets_url": "https://clearinghouse.net/api/v2/dockets/?case=13560",
+    "case_resources_url": "https://clearinghouse.net/api/v2/resources/?case=13560"
+  },
+  "documents": [
+    {
+      "date": "2011-12-07",
+      "date_is_estimate": false,
+      "date_not_available": false,
+      "description": null,
+      "document_source": "PACER [Public Access to Court Electronic Records]",
+      "document_status": "Coding Complete",
+      "document_type": "Complaint",
+      "order_type": null,
+      "citation_paren": null,
+      "cite_1_page": null,
+      "cite_1_reporter": null,
+      "cite_1_vol": null,
+      "cite_2_page": null,
+      "cite_2_reporter": null,
+      "cite_2_vol": null,
+      "cite_3_page": null,
+      "cite_3_reporter": null,
+      "cite_3_vol": null,
+      "citation_status": "No citation available",
+      "court": "District of Minnesota",
+      "no_title": false,
+      "party_types": [
+        "Plaintiff"
+      ],
+      "per_curium": false,
+      "is_core_document": true,
+      "id": 63623,
+      "file": "https://clearinghouse-umich-production.s3.amazonaws.com/media/doc/63623.pdf",
+      "title": "Verified Complaint",
+      "text": "CASE 0:11-cv-03542-ADM-JJG   Document 1   Filed 12/07/11   Page 1 of 13\nUNITED STATES DISTRICT COURT\nDISTRICT OF MINNESOTA\nCivil Case No.                         \n                                                                                                                                                \n \nMelissa Lynn Hill,\nPlaintiff,\nvs. VERIFIED COMPLAINT  \nSheriff Richard Stanek,\nDeputy C.C. Sedesky, Badge #458,  JURY TRIAL DEMANDED\nDeputy J. Steffens, Badge #589,\nSecurity Officer Busch, Badge #141,\nKirk Simmons, Bill Columbien,\nCounty of Hennepin, and \nJohn Doe and Jane Roe \n(whose true names are unknown),\nDefendants.\n                                                                                                                                                \n \nPlaintiff Melissa Lynn Hill, for her Complaint against Defendants, states and\nalleges as follows:\nI.  INTRODUCTION\n1. This is a civil rights action for declaratory and injunctive relief and\nmoney damages based on Defendants’ improperly banning her from the Hennepin County\nGovernment Center and the area surrounding it, a public building and traditional public\nforum, and falsely arresting her for her legitimate presence near the property, all in\nviolation of her constitutional rights.\n2. Plaintiff’s causes of action include the Reconstruction Civil Rights\nAct of 1871, 42 U.S.C. § 1983, based on violations of her federal constitutional rights,\n\nCASE 0:11-cv-03542-ADM-JJG   Document 1   Filed 12/07/11   Page 2 of 13\nincluding but not limited to the First, Fourth, Fifth and Fourteenth Amendments.\nII.  JURISDICTION AND THE PARTIES\n3. Plaintiff's causes of action include federal statutory civil rights\nclaims pursuant to 42 U.S.C. § 1983, and thereby give rise to federal question jurisdiction\npursuant to 28 U.S.C. § 1331.  \n4. Plaintiff Melissa Lynn Hill is a resident of Hennepin County,\nMinnesota.\n5. Defendant Richard Stanek is and was at all relevant time hereto the\nHennepin County Sheriff.  Upon information and belief, he ordered Plaintiff’s arrest on\nOctober 15, 2011.\n6. Defendant C.C. Sedesky is and was at relevant times hereto a\nHennepin County deputy sheriff.  He arrested, detained and book Plaintiff into jail on\nOctober 15, 2011.\n7. Defendant J. Steffens is and was at relevant times hereto a Hennepin\nCounty deputy sheriff.  He participated in the arrest, detention and booking Plaintiff into\njail on October 15, 2011.\n8. Defendant Busch is and was at relevant times hereto, upon\ninformation and belief, a security office employed by Hennepin County.  He issued a\ntrespass notice to Plaintiff on October 13, 2011 which barred her from all government\ncenter property without any explanation, justification or opportunity for adequate due\n2\n\nCASE 0:11-cv-03542-ADM-JJG   Document 1   Filed 12/07/11   Page 3 of 13\nprocess.\n9. Defendant Kirk Simmons is and was at relevant times hereto a\nsecurity manager for Hennepin County.  Upon information and belief, he is responsible\nfor carrying out Hennepin County’s policies regarding trespass and upholding the trespass\norder against Plaintiff.\n10. Defendant Bill Columbien is and was at relevant times hereto\nsecurity operations manager for Hennepin County.  Upon information and belief, he is\nresponsible for preparing or carrying out Hennepin County’s policies regarding trespass.\n11. Defendant County of Hennepin is a municipal corporation in the\nState of Minnesota.\n12. Defendants John Doe and Jane Roe, whose true names are unknown,\nare employees of Hennepin County and/or the Hennepin County Sheriff who have been\nresponsible for violating Plaintiff’s rights in connection with incidents described in this\nComplaint.\n13. All individual defendants named above are being sued in both their\npersonal and official capacities.  At all times relevant hereto, all individual defendants\nwere acting under color of state law.\nIII.  FACTUAL BACKGROUND\n14. Plaintiff Melissa Lynn Hill is a political activist and legal worker. \nHer activities have included initiating a satirical political campaign against Defendant\n3\n\nCASE 0:11-cv-03542-ADM-JJG   Document 1   Filed 12/07/11   Page 4 of 13\nSheriff Richard Stanek called “Kitten for Sheriff.”  She frequently attends court hearings\nat the Hennepin County Government Center.  Plaintiff Hill had frequently attended the\n“Occupy Minnesota Protest” during early October, 2011 because of her support of its\npositions.  She has at times made political statements by drawing them on public property\nwith chalk that can be easily washed off. \n15. The Hennepin County Government Center is a large public building\nthat occupies two full city blocks in downtown Minneapolis which contains numerous\npublic courtrooms, court offices, county administrative offices, and many public services\nprovided by the state and county.  There is a large public atrium on the second floor\nwhich can serve as a public gathering place.  There are also large open public plazas on\nthe north and south sides of the building.  The public plazas also frequently serve as\npublic gathering places.  At the time of the incidents described in this Complaint, as well\nas at present, there is a continuous political protest taking place on the Government\nCenter’s plazas called “Occupy Minnesota.”  This protest is part of a national movement\nobjecting to the extreme unequal concentration of wealth in the United States, and the\ncorrupt domination of wealth and power by a small group of persons and corporations.\n16. On October 13, 2011, Plaintiff was at the Government Center Plaza\nin support of the Occupy Minnesota action.  During this time, Hennepin County\nGovernment Center security guards, including Defendant Busch, handed Plaintiff a\n“Trespass Notice.” The trespass notice banned Plaintiff from the Hennepin County\n4\n\nCASE 0:11-cv-03542-ADM-JJG   Document 1   Filed 12/07/11   Page 5 of 13\nGovernment Center, including “building, parking lot, grounds or other property” for 365\ndays.  The notice stated that if Ms. Hill returned to the property, she would be arrested\nand charged with a crime. There was no explanation of any sort on the trespass notice as\nto why Plaintiff was being banned from the government center area.  The security staff\ndid not provide any sort of hearing or due process before banning Plaintiff from this\nentire public area.  The only remedy provided was a notation on the bottom of the trespass\nnotice that she could contest the notice by writing to the security manager.\n17. On October 15, 2011, at around 5 pm, Plaintiff was standing on the\npublic sidewalk to the south of the Hennepin County Government Center plaza. The\nsidewalk was adjacent to the street.  Plaintiff was present to observe a demonstration\ntaking place in connection with Occupy Minnesota.  She was serving as a “Legal\nObserver” for the National Lawyers Guild, a role which consists of observing protests in\norder to witness and document any violations of the rights of political demonstrators. \nPlaintiff was wearing a green cap that stated, “NLG Legal Observer” on the front.\n18. While Plaintiff was observing the OccupyMN protest from the\nsidewalk, Hennepin County Government Center security guards approached Ms. Hill and\ntold her she had been trespassed from the property and could not enter the grounds.  Ms.\nHill pointed out that she was not on the Government Center Property and had a right to be\non the sidewalk.  The security guard agreed with Plaintiff that she was not trespassing on\nthe Government Center property at that time.  \n5\n\nCASE 0:11-cv-03542-ADM-JJG   Document 1   Filed 12/07/11   Page 6 of 13\n19. During Plaintiff’s discussion with the security guard where he agreed\nshe was not trespassing, Defendant Deputy C.C. Sedesky suddenly approached Plaintiff\nand told her she was under arrest.  Defendant Sedesky and Defendant Deputy J. Steffens\nthen escorted Plaintiff into a tunnel underneath the Government Center, placed her in\nhandcuffs and booked her into jail.  Plaintiff had to spend approximately seven hours in\nthe Hennepin County Jail before jail staff released her on bail.  She was charged with the\ncrime of trespass in violation of state law.\n20. Defendant Sheriff Richard Stanek was observing Plaintiff standing\non the Government Center sidewalk from his vehicle on October 15, 2011 before and\nduring her arrest.  Upon information and belief, it was Stanek who ordered that Plaintiff\nbe arrested.\n21. Plaintiff was forced to obtain counsel and appear in court to defend\nherself against the false charge of trespass.  At the second court appearance, the\nprosecutor dismissed the charge.\n22. Defendants lacked any probable cause or arguable probable cause to\nbelieve Plaintiff had committed any crime.\n23. On November 18, 2011, Plaintiff, through her counsel, contested her\ntrespass notice in the manner provided on the trespass notice, by sending a letter\naddressed to the security manager.  The letter stated that there was no legitimate basis to\nbar Plaintiff from the public property in question, that the notice was impermissibly vague\n6\n\nCASE 0:11-cv-03542-ADM-JJG   Document 1   Filed 12/07/11   Page 7 of 13\nby failing to state any basis for barring Plaintiff from the property, and that the action of\nbanning from her property violated her constitutional rights to free speech and due\nprocess.\n24. Defendant security manager Kirk Simmons responded to Plaintiff’s\nletter contesting the trespass notice in a memorandum dated November 23, 2011,\nupholding the November 23, 2011 trespass notice as well as a prior trespass notice\nallegedly issued on April 21, 2011.  This summary decision did not provide any\nopportunity for Ms. Hill to be heard, and provided no opportunity for further\nadministrative remedies or appeal.  \n25. The alleged April 21, 2011 trespass notice, which was actually\nissued on April 12, 2011, also failed to provide any explanation or authority for banning\nPlaintiff from the Government Center, and did not provide any sort of appeal remedy.  It\nlisted the address of the Government Center but did not indicate whether it applied to the\nbuilding or surrounding property, both or neither.\n26. As a result of Defendants’ above-described actions, Plaintiff has\nsuffered and continues to suffer harm and damage, including but not limited to denial of\nher individual and constitutionally guaranteed liberties, mental distress, embarrassment\nand humiliation, harm to her reputation, loss of liberty, and other damages in an amount\nto be determined.\n7\n\nCASE 0:11-cv-03542-ADM-JJG   Document 1   Filed 12/07/11   Page 8 of 13\nIV.  CAUSES OF ACTION\nCOUNT 1 - VIOLATION OF 42 U.S.C. § 1983 - - FOURTH AMENDMENT --\nUNLAWFUL ARREST AND DETENTION.  \n27. Plaintiff hereby realleges and incorporates by reference all of the\nfacts and allegations contained in paragraphs 1 through 26 of this Complaint.\n28. Defendants, acting under color of state law, deprived Plaintiff\nMelissa Lynn Hill of her rights, privileges and immunities secured by the Constitution\nand laws of the United States, in violation of 42 U.S.C. § 1983, by committing acts in\nviolation of the Fourth Amendment protections against unreasonable seizures by arresting\nand detaining Plaintiff  without any probable cause or arguable probable cause to believe\nshe had committed any crime.\n29. As a result of Defendants’ above-described violations of Plaintiff’s\nrights, Plaintiff  has suffered the damages described in Paragraph 26 of this Complaint. \nPlaintiff further requests declaratory and injunctive relief to prevent Defendants from\ncontinued similar violations in the future where she is detained or arrested for presence on\na public sidewalk or for exercising her rights of freedom of speech or association.\nCOUNT 2 - VIOLATION OF 42 U.S.C. § 1983 - FIRST AMENDMENT.\n30. Plaintiff hereby realleges and incorporates by reference all of the\nfacts and allegations contained in paragraphs 1 through 29 of this Complaint.\n31. Defendants, acting under color of state law, deprived Plaintiff\nMelissa Lynn Hill of her rights, privileges and immunities secured by the Constitution\n8\n\nCASE 0:11-cv-03542-ADM-JJG   Document 1   Filed 12/07/11   Page 9 of 13\nand laws of the United States, in violation of 42 U.S.C. § 1983, by committing acts in\nviolation of her First Amendment Rights to Free Speech and Free Association by banning\nher from public property that serves as a traditional public forum, by banning her from\npublic property that is the site of ongoing public protest in which Plaintiff desires to and\nis entitled to participate, by banning her from public property which houses the public\ncourts and other public services, by banning Plaintiff from public property in retaliation\nfor exercising her right to free speech and expression, by arresting and detaining and\nfalsely charging Plaintiff with a crime in retaliation for her exercise of free speech,\nexpression, and association, and by otherwise discriminating and retaliating against her\nfor exercising her basic and fundamental rights to engage in free expression including the\nrights to criticize a public official, make political statements, and participate and observe\npolitical protests.\n32. As a result of Defendants’ above-described violations of Plaintiff’s\nRights, Plaintiff  has suffered the damages described in Paragraph 26 of this Complaint. \nPlaintiff further requests declaratory and injunctive relief to immediately prevent\nDefendants from continued violations of Plaintiff’s First Amendment Rights by banning\nher from public property that is open to the public and serves as a traditional public\nforum, or detaining or arresting her for exercising her rights of freedom of speech or\nassociation.\n9\n\nCASE 0:11-cv-03542-ADM-JJG   Document 1   Filed 12/07/11   Page 10 of 13\nCOUNT 3 - VIOLATION OF 42 U.S.C. § 1983 - DUE PROCESS\n33. Plaintiff hereby realleges and incorporates by reference all of the\nfacts and allegations contained in paragraphs 1 through 32 of this Complaint.\n34. Defendants, acting under color of state law, have deprived Plaintiff\nof her rights, privileges and immunities secured by the Constitution and laws of the\nUnited States, in violation of 42 U.S.C. § 1983, by committing acts in violation of the\nFifth and Fourteenth Amendment protections against the taking of life, liberty and\nproperty without due process of law, including but not limited to banning Plaintiff from\npublic property that serves as a traditional public forum and is open to the public without\nproviding any specific explanation or evidence or citing any legal violation, and without\nany avenue, mechanism or process to adequately determine whether Plaintiff has\ncommitted any violations of law or specific wrongdoing justifying such action, or which\nprovides Plaintiff with any adequate opportunity to be heard.\n35. As a result of Defendants’ above-described violations of Plaintiff’s\nRights, Plaintiff  has suffered the damages described in Paragraph 26 of this Complaint. \nPlaintiff further requests declaratory and injunctive relief to immediately prevent\nDefendants from continued violations of Plaintiff’s Due Process Rights by banning her\nfrom public property that is open to the public and serves as a traditional public forum\nwithout providing specific notice of her alleged violations of law or an adequate\nopportunity to be heard.\n10\n\nCASE 0:11-cv-03542-ADM-JJG   Document 1   Filed 12/07/11   Page 11 of 13\nCOUNT 4 - VIOLATION OF 42 U.S.C. § 1983 - FAILURE TO TRAIN AND\nSUPERVISE\n36. Plaintiff hereby realleges and incorporates by reference all of the\nfacts and allegations contained in paragraphs 1 through 35 of this Complaint.\n37. Defendants, acting under color of state law, have deprived Plaintiff\nof her rights, privileges and immunities secured by the Constitution and laws of the\nUnited States, in violation of 42 U.S.C. § 1983, by failing to properly train and supervise\nother Defendants with to respect the constitutional and other rights of Plaintiff and\nmembers of the public, including but not limited to the rights to free speech, due process,\nand to be free from unlawful arrest and detention.\n38. As a result of Defendants’ failure to train and supervise, Plaintiff has\nsuffered the damages described in Paragraph 26 of this Complaint.  Plaintiff further\nrequests declaratory and injunctive relief necessary to end said violations.\nCOUNT 5 - VIOLATIONS OF 42 U.S.C. § 1983 - UNCONSTITUTIONAL\nCUSTOM OR PRACTICE. \n39. Plaintiff hereby realleges and incorporates by reference all of the\nfacts and allegations contained in paragraphs 1 through 38 of this Complaint.\n40. Defendants, by their above-described actions,  have deprived\nPlaintiff of her rights, privileges and immunities secured by the Constitution and laws of\nthe United States, in violation of 42 U.S.C. § 1983, by engaging in policies, customs or\npractices of disregarding the rights of Plaintiff and others to free speech, due process, and\n11\n\nCASE 0:11-cv-03542-ADM-JJG   Document 1   Filed 12/07/11   Page 12 of 13\nunlawful seizures.\n41. As a result of Defendants’ unconstitutional policies, customs and\npractices, Plaintiff has suffered the damages described in Paragraph 26 of this Complaint. \nPlaintiff further requests declaratory and injunctive relief necessary to end said violations.\nV.  RELIEF REQUESTED\nWHEREFORE Plaintiff prays for Judgment in her favor as follows:\n1.  Granting Declaratory judgment in favor of Plaintiff by declaring all of\nDefendants’ violations of Plaintiff’s rights.\n2.  Granting injunctive relief prohibiting Defendants and their agents from\ncontinuing to violate Plaintiff’s rights.\n3.   Granting a preliminary or temporary injunction requiring Defendants to\nimmediately revoke their trespass notices to Plaintiff and allow Plaintiff to enter the\nGovernment Center building and surrounding property without interference or harassment\nfrom Defendants or their agents.\n4.    Awarding judgment in favor of Plaintiff against the Defendants and each of\nthem jointly and severally as and for compensatory damages.\n5.   Awarding judgment in favor of Plaintiff against the Defendants and each of\nthem jointly and severally as and for punitive damages.\n6.   Hold Defendants joint and severally liable for Plaintiff’s judgment.\n7.   Awarding Plaintiff all of her costs and disbursements herein, and prejudgment\n12\n\nCASE 0:11-cv-03542-ADM-JJG   Document 1   Filed 12/07/11   Page 13 of 13\ninterest.\n8. Awarding Plaintiff reasonable attorney fees pursuant to 42 U.S.C. § 1988. \n9. Such other and further relief as the Court may deem just and proper.\nDated:  December 7, 2011 LAW OFFICE OF JORDAN S. KUSHNER\n      By s/Jordan S. Kushner                       \nJordan S. Kushner, ID 219307\nAttorney for Plaintiff      \n431 South 7th Street, Suite 2446\nMinneapolis, Minnesota  55415  \n      (612) 288-0545  \nVERIFICATION\nI, MELISSA LYNN HILL, state that I have reviewed the Verified Complaint and\nbelieve the factual allegations to be true and correct based on my knowledge, information,\nand belief. To the extent this Verification is based on my information and belief, I believe\nsuch information to be true.\nI DECLARE UNDER PENALTY OF PERJURY UNDER THE LAWS OF THE UNITED\nSTATES OF AMERICA THAT THE FOREGOING IS TRUE AND CORRECT.\nExecuted on this    7th     day\n  s/Melissa Lynn Hill                         \nof December     , 2011.  Melissa Lynn Hill\n13",
+      "document_type_other": null,
+      "external_url": "",
+      "ecf_number": "1",
+      "clearinghouse_link": "clearinghouse.net/doc/63623"
+    },
+    {
+      "date": "2012-01-26",
+      "date_is_estimate": false,
+      "date_not_available": false,
+      "description": null,
+      "document_source": "PACER [Public Access to Court Electronic Records]",
+      "document_status": "Coding Complete",
+      "document_type": "Docket",
+      "order_type": null,
+      "citation_paren": null,
+      "cite_1_page": null,
+      "cite_1_reporter": null,
+      "cite_1_vol": null,
+      "cite_2_page": null,
+      "cite_2_reporter": null,
+      "cite_2_vol": null,
+      "cite_3_page": null,
+      "cite_3_reporter": null,
+      "cite_3_vol": null,
+      "citation_status": "No citation available",
+      "court": "District of Minnesota",
+      "no_title": false,
+      "party_types": [
+        "Court"
+      ],
+      "per_curium": false,
+      "is_core_document": true,
+      "id": 63616,
+      "file": "https://clearinghouse-umich-production.s3.amazonaws.com/media/doc/63616.pdf",
+      "title": "Docket",
+      "text": "CaSe: 0:11-cv-03542-ADM-JJG   As Of: 03/04/2014 04:53 PM CST   1 of 3\nCLOSED,CV\nU.S. District Court\nU.S. District of Minnesota (DMN)\nCIVIL DOCKET FOR CASE #: 0:11−cv−03542−ADM−JJG\nHill v. Stanek et al Date Filed: 12/07/2011\nAssigned to: Judge Ann D. Montgomery Date Terminated: 01/19/2012\nReferred to: Magistrate Judge Jeanne J. Graham Jury Demand: Plaintiff\nCause: 42:1981 Civil Rights Nature of Suit: 440 Civil Rights: Other\nJurisdiction: Federal Question\nPlaintiff\nMelissa Lynn Hill represented by Jordan S Kushner\nLaw Office of Jordan S Kushner\n431 S 7th Street, Ste 2446\nMpls, MN 55415\n612−288−0545\nFax: 612−288−0546\nEmail: kushn002@umn.edu\nLEAD ATTORNEY\nATTORNEY TO BE NOTICED\nV.\nDefendant\nSheriff Richard Stanek represented by Toni A Beitz\nHennepin County Attorney's Office −\nA2000\n300 S 6th St Ste A−2000\nMpls, MN 55487\n612−348−8533\nFax: 612−348−8299\nEmail: toni.beitz@co.hennepin.mn.us\nATTORNEY TO BE NOTICED\nDefendant\nDeputy C.C. Sedesky represented by Toni A Beitz\nBadge #458 (See above for address)\nATTORNEY TO BE NOTICED\nDefendant\nDeputy J. Steffens represented by Toni A Beitz\nBage #589 (See above for address)\nATTORNEY TO BE NOTICED\nDefendant\nBusch represented by Toni A Beitz\nSecurity Officer, Badge #141 (See above for address)\nATTORNEY TO BE NOTICED\nDefendant\nKirk Simmons represented by Toni A Beitz\n(See above for address)\nATTORNEY TO BE NOTICED\nDefendant\nBill Columbien represented by Toni A Beitz\n(See above for address)\nATTORNEY TO BE NOTICED\n\nCaSe: 0:11-cv-03542-ADM-JJG   As Of: 03/04/2014 04:53 PM CST   2 of 3\nDefendant\nHennepin, County of represented by Toni A Beitz\n(See above for address)\nATTORNEY TO BE NOTICED\nDefendant\nJohn Doe represented by Toni A Beitz\nwhose true name is unknown (See above for address)\nATTORNEY TO BE NOTICED\nDefendant\nJane Roe represented by Toni A Beitz\nwhose true name is unknown (See above for address)\nATTORNEY TO BE NOTICED\nDate Filed # Docket Text\n12/07/2011 1  COMPLAINT against All Defendants ( Filing fee $ 350 receipt number\n40060679.) assigned to Judge Ann D. Montgomery per Civil Rights List and\nreferred to Magistrate Judge Jeanne J. Graham, filed by Melissa Lynn Hill.\n(Attachments: # 1 Civil Cover Sheet) (kt) (Entered: 12/07/2011)\n12/07/2011 Summons Issued as to All Defendants. (kt) (Entered: 12/07/2011)\n12/23/2011 2  STIPULATION Regarding Defendants Time to Respond to Complaint by all\nparties. (Beitz, Toni) Modified on 12/23/2011 (kt). (Entered: 12/23/2011)\n12/28/2011 3  ORDER re 2 Stipulation filed by Kirk Simmons, John Doe, Bill Columbien,\nBusch, C.C. Sedesky, Jane Roe, Hennepin, County of, J. Steffens, Richard Stanek,\nAll Defendants shall have until and including 1/6/12 to answer or otherwise\nrespond to the complaint. Signed by Magistrate Judge Jeanne J. Graham on\n12/27/11. (RLR) (Entered: 12/28/2011)\n01/06/2012 4  Joint ANSWER to Complaint by Busch, Bill Columbien, Hennepin, County of,\nC.C. Sedesky, Kirk Simmons, Richard Stanek, J. Steffens. (Attachments: # 1\nExhibit(s) A) (Beitz, Toni) (Entered: 01/06/2012)\n01/09/2012 5  NOTICE of Setting Hearing: Pretrial Conference set for 1/24/2012 09:30 AM in\nJudge's Chambers, Suite 346 (STP) before Magistrate Judge Jeanne J. Graham.\n(Attachments: # 1 Consent Form)(RLR) (Entered: 01/09/2012)\n01/13/2012 6  LETTER TO MAGISTRATE JUDGE by Melissa Lynn Hill . (Kushner, Jordan)\n(Entered: 01/13/2012)\n01/17/2012 7  ORDER CANCELLING PRETRIAL CONFERENCE. Signed by Magistrate Judge\nJeanne J. Graham on 1/17/12. (RLR) (Entered: 01/17/2012)\n01/18/2012 8  STIPULATION of Dismissal by Busch, Bill Columbien, Hennepin, County of,\nMelissa Lynn Hill, C.C. Sedesky, Kirk Simmons, Richard Stanek, J. Steffens.\n(Beitz, Toni) (Entered: 01/18/2012)\n01/19/2012 9  ORDER DISMISSING CASE. Signed by Judge Ann D. Montgomery on\n1/19/2012. (GS) (Entered: 01/19/2012)\n01/20/2012 10  JUDGMENT (Attachments: # 1 Civil−8th Circuit Pre−Hearing Conference Notice,\n# 2 Civil Notice − appeal)(jz) (Entered: 01/20/2012)\n01/26/2012 11  STIPULATION of Dismissal by Busch, Bill Columbien, John Doe, Hennepin,\nCounty of, Melissa Lynn Hill, Jane Roe, C.C. Sedesky, Kirk Simmons, Richard\nStanek, J. Steffens. (Beitz, Toni) (Entered: 01/26/2012)\n01/26/2012 12  ORDER. Signed by Judge Ann D. Montgomery on 1/26/2012. (GS) (Entered:\n01/26/2012)\n\nCaSe: 0:11-cv-03542-ADM-JJG   As Of: 03/04/2014 04:53 PM CST   3 of 3\n01/26/2012 13  ORDER for judgment of dismissal. Signed by Judge Ann D. Montgomery on\n1/26/2012. (GS) (Entered: 01/26/2012)\n01/26/2012 14  JUDGMENT (Attachments: # 1 Civil−8th Circuit Pre−Hearing Conference Notice,\n# 2 Civil Notice − appeal)(jz) (Entered: 01/26/2012)",
+      "document_type_other": null,
+      "external_url": "",
+      "ecf_number": null,
+      "clearinghouse_link": "clearinghouse.net/doc/63616"
+    },
+    {
+      "date": null,
+      "date_is_estimate": false,
+      "date_not_available": false,
+      "description": null,
+      "document_source": null,
+      "document_status": null,
+      "document_type": null,
+      "order_type": null,
+      "citation_paren": null,
+      "cite_1_page": null,
+      "cite_1_reporter": null,
+      "cite_1_vol": null,
+      "cite_2_page": null,
+      "cite_2_reporter": null,
+      "cite_2_vol": null,
+      "cite_3_page": null,
+      "cite_3_reporter": null,
+      "cite_3_vol": null,
+      "citation_status": null,
+      "court": null,
+      "no_title": false,
+      "party_types": [],
+      "per_curium": false,
+      "is_core_document": true,
+      "id": 117524,
+      "file": null,
+      "title": null,
+      "text": null,
+      "document_type_other": null,
+      "external_url": null,
+      "ecf_number": null,
+      "clearinghouse_link": "clearinghouse.net/doc/117524"
+    }
+  ],
+  "document_count": 3
+}

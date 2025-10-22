@@ -1,0 +1,565 @@
+{
+  "case_id": 12401,
+  "fetched_at": "2025-10-22T00:18:35.131309",
+  "case_data": {
+    "attorney_orgs": [],
+    "available_documents": [
+      "Trial Court Docket"
+    ],
+    "case_defendants": [
+      {
+        "defendant_level": null,
+        "institution": "",
+        "institution_alt_state": null,
+        "institution_city": "",
+        "institution_county": null,
+        "name": "Board Of Education City Of Chicago",
+        "defendant_level_other": "",
+        "is_active": true
+      }
+    ],
+    "case_ongoing": "No",
+    "case_status": "Coding Complete",
+    "case_types": [
+      "Child Welfare"
+    ],
+    "cause_other": "",
+    "causes": [
+      "42 U.S.C. § 1983"
+    ],
+    "class_action_granted": "Granted",
+    "class_action_sought": "Yes",
+    "closing_year": 1991,
+    "constitutional_clause": [
+      {
+        "value": "Due Process"
+      },
+      {
+        "value": "Equal Protection"
+      }
+    ],
+    "content_of_injunction": [
+      {
+        "value": "Monitoring"
+      }
+    ],
+    "court": "Northern District of Illinois",
+    "custom_issues": [],
+    "defendant_payment": "",
+    "defendant_type": [
+      {
+        "value": "Jurisdiction-wide"
+      }
+    ],
+    "docket_status": "Incomplete",
+    "facility_type": [],
+    "filing_date": "1989-11-17",
+    "filing_year": 1989,
+    "id": 12401,
+    "injunction_duration": "",
+    "issues": [
+      "General/Misc.: Classification / placement",
+      "General/Misc.: Juveniles",
+      "General/Misc.: Public benefits (includes, e.g., in-state tuition, govt. jobs)",
+      "General/Misc.: Education",
+      "Affected Sex/Gender(s): Male",
+      "Affected Sex/Gender(s): Female"
+    ],
+    "last_checked_date": "2012-09-12T00:00:00-04:00",
+    "main_docket": {
+      "id": 30971,
+      "docket_entries": [
+        {
+          "row_number": 20,
+          "id": 1899237,
+          "entry_number": "54",
+          "date_filed": "1991-07-03T00:00:00-04:00",
+          "attachments": [],
+          "url": "nan",
+          "recap_pdf_url": null,
+          "pacer_doc_id": null,
+          "description": "MINUTE ORDER of 7/3/91 before Honorable James B. Zagel : Status hearing held; Continued to 07/12/91 at 10:00 am. Notice not mailed. (fce) (Entered: 07/10/1991)"
+        },
+        {
+          "row_number": 11,
+          "id": 1899228,
+          "entry_number": "45",
+          "date_filed": "1991-05-29T00:00:00-04:00",
+          "attachments": [],
+          "url": "nan",
+          "recap_pdf_url": null,
+          "pacer_doc_id": null,
+          "description": "MOTION by defendants to withdraw attorney Mary A. Dempsey ; notice of motion. (fce) (Entered: 05/31/1991)"
+        },
+        {
+          "row_number": 29,
+          "id": 1899246,
+          "entry_number": "64",
+          "date_filed": "1993-06-14T00:00:00-04:00",
+          "attachments": [],
+          "url": "nan",
+          "recap_pdf_url": null,
+          "pacer_doc_id": null,
+          "description": "MINUTE ORDER of 6/14/93 by Hon. James B. Zagel : Status hearing reset for 06/30/93 at 10:00 a.m. Mailed notice (jmp) (Entered: 06/15/1993)"
+        },
+        {
+          "row_number": 23,
+          "id": 1899240,
+          "entry_number": "57",
+          "date_filed": "1991-07-17T00:00:00-04:00",
+          "attachments": [],
+          "url": "nan",
+          "recap_pdf_url": null,
+          "pacer_doc_id": null,
+          "description": "MINUTE ORDER of 7/17/91 before Honorable James B. Zagel : Pretrial conference held; Continued to 07/18/91 at 11:00 am. Notice not mailed. (fce) (Entered: 07/23/1991)"
+        },
+        {
+          "row_number": 3,
+          "id": 1899220,
+          "entry_number": "36",
+          "date_filed": "1991-01-07T00:00:00-05:00",
+          "attachments": [],
+          "url": "nan",
+          "recap_pdf_url": null,
+          "pacer_doc_id": null,
+          "description": "CONSENT DECREE. (fce) (Entered: 01/24/1991)"
+        },
+        {
+          "row_number": 32,
+          "id": 1899249,
+          "entry_number": "67",
+          "date_filed": "1994-03-18T00:00:00-05:00",
+          "attachments": [],
+          "url": "nan",
+          "recap_pdf_url": null,
+          "pacer_doc_id": null,
+          "description": "MINUTE ORDER of 3/18/94 by Hon. James B. Zagel : Granting motion to modify and amend consent decree to restructure the alternative transitional program [66−1] No notice (lal) (Entered: 03/21/1994)"
+        },
+        {
+          "row_number": 26,
+          "id": 1899243,
+          "entry_number": "60",
+          "date_filed": "1991-10-15T00:00:00-04:00",
+          "attachments": [],
+          "url": "nan",
+          "recap_pdf_url": null,
+          "pacer_doc_id": null,
+          "description": "MINUTE ORDER of 10/15/91 by Hon. James B. Zagel : Status hearing held and continued to 6/24/92, the motion for contempt of is denied as moot. No notice (fce) (Entered: 10/16/1991)"
+        },
+        {
+          "row_number": 5,
+          "id": 1899222,
+          "entry_number": "38",
+          "date_filed": "1991-02-05T00:00:00-05:00",
+          "attachments": [],
+          "url": "nan",
+          "recap_pdf_url": null,
+          "pacer_doc_id": null,
+          "description": "TRANSCRIPT of proceedings for the following date(s): 12/17/90 Before Honorable James B. Zagel. (fce) (Entered: 02/06/1991)"
+        },
+        {
+          "row_number": 6,
+          "id": 1899223,
+          "entry_number": "39",
+          "date_filed": "1991-05-10T00:00:00-04:00",
+          "attachments": [],
+          "url": "nan",
+          "recap_pdf_url": null,
+          "pacer_doc_id": null,
+          "description": "MOTION by plaintiff for rule to show cause (Exhibits); notice of motion. (fce) (Entered: 05/14/1991)"
+        },
+        {
+          "row_number": 14,
+          "id": 1899231,
+          "entry_number": "48",
+          "date_filed": "1991-06-12T00:00:00-04:00",
+          "attachments": [],
+          "url": "nan",
+          "recap_pdf_url": null,
+          "pacer_doc_id": null,
+          "description": "MINUTE ORDER of 6/12/91 before Honorable James B. Zagel : Status hearing held; Continued to 06/20/91 at 12:30 pm. Notice not mailed. (fce) (Entered: 06/14/1991)"
+        },
+        {
+          "row_number": 30,
+          "id": 1899247,
+          "entry_number": "65",
+          "date_filed": "1993-10-06T00:00:00-04:00",
+          "attachments": [],
+          "url": "nan",
+          "recap_pdf_url": null,
+          "pacer_doc_id": null,
+          "description": "MINUTE ORDER of 10/6/93 by Hon. James B. Zagel : Denying as moot motion to amend petition for rule to show cause [43−1], Denying as moot motion for rule to show cause [39−1] No notice (fce) (Entered: 10/07/1993)"
+        },
+        {
+          "row_number": 2,
+          "id": 1899219,
+          "entry_number": "35",
+          "date_filed": "1990-10-19T00:00:00-04:00",
+          "attachments": [],
+          "url": "nan",
+          "recap_pdf_url": null,
+          "pacer_doc_id": null,
+          "description": "JOINT MOTION for provisional approval of the attached consent decree , for approval of class notice and plan for its distribution and , to schedule a fairness hearing (Attachment) (fce) (Entered: 11/17/1990)"
+        },
+        {
+          "row_number": 0,
+          "id": 1899217,
+          "entry_number": "34",
+          "date_filed": "1990-10-15T00:00:00-04:00",
+          "attachments": [],
+          "url": "nan",
+          "recap_pdf_url": null,
+          "pacer_doc_id": null,
+          "description": "MINUTE ORDER of 10/15/90 before Honorable James B. Zagel : Status hearing reset for 19 Oct 90 at 9:30 a.m. Notice not mailed. (fce) (Entered: 11/17/1990)"
+        },
+        {
+          "row_number": 13,
+          "id": 1899230,
+          "entry_number": "47",
+          "date_filed": "1991-06-05T00:00:00-04:00",
+          "attachments": [],
+          "url": "nan",
+          "recap_pdf_url": null,
+          "pacer_doc_id": null,
+          "description": "MINUTE ORDER of 6/5/91 before Honorable James B. Zagel : Status hearing held; Continued to 07/11/91 at 12:30 pm. Notice not mailed. (fce) (Entered: 06/07/1991)"
+        },
+        {
+          "row_number": 9,
+          "id": 1899226,
+          "entry_number": "43",
+          "date_filed": "1991-05-29T00:00:00-04:00",
+          "attachments": [],
+          "url": "nan",
+          "recap_pdf_url": null,
+          "pacer_doc_id": null,
+          "description": "MOTION by plaintiff to amend petition for rule to show cause (Exhibits); notice of motion. (fce) (Entered: 05/31/1991)"
+        },
+        {
+          "row_number": 1,
+          "id": 1899218,
+          "entry_number": "33",
+          "date_filed": "1990-10-19T00:00:00-04:00",
+          "attachments": [],
+          "url": "nan",
+          "recap_pdf_url": null,
+          "pacer_doc_id": null,
+          "description": "MINUTE ORDER of 10/19/90 before Honorable James B. Zagel : Status hearing held. Joint motion of the parties for provisional approval of proposed consent decree, class notice and plan for distribution is granted. Hearing on fairness set for 17 Dec 90 at 11:45 a.m. Notice mailed. (fce) (Entered: 10/23/1990)"
+        },
+        {
+          "row_number": 8,
+          "id": 1899225,
+          "entry_number": "41",
+          "date_filed": "1991-05-10T00:00:00-04:00",
+          "attachments": [],
+          "url": "nan",
+          "recap_pdf_url": null,
+          "pacer_doc_id": null,
+          "description": "ATTORNEY APPEARANCE for defendants by Karen Gatsis Anderson, Iris Ellen Sholder (fce) (Entered: 05/14/1991)"
+        },
+        {
+          "row_number": 10,
+          "id": 1899227,
+          "entry_number": "44",
+          "date_filed": "1991-05-29T00:00:00-04:00",
+          "attachments": [],
+          "url": "nan",
+          "recap_pdf_url": null,
+          "pacer_doc_id": null,
+          "description": "MINUTE ORDER of 5/29/91 before Honorable James B. Zagel : Filed motion of plaintiff to amend petition for rule to show cause re [43−1] Status hearing held; Continued to 06/05/91 at 12:30 pm. Notice not mailed. (fce) (Entered: 05/31/1991)"
+        },
+        {
+          "row_number": 12,
+          "id": 1899229,
+          "entry_number": "46",
+          "date_filed": "1991-05-29T00:00:00-04:00",
+          "attachments": [],
+          "url": "nan",
+          "recap_pdf_url": null,
+          "pacer_doc_id": null,
+          "description": "MINUTE ORDER of 5/29/91 before Honorable James B. Zagel : granting motion to withdraw attorney Mary A. Dempsey [45−1] Notice mailed 05/31/91. (fce) (Entered: 05/31/1991)"
+        },
+        {
+          "row_number": 15,
+          "id": 1899232,
+          "entry_number": "49",
+          "date_filed": "1991-06-12T00:00:00-04:00",
+          "attachments": [],
+          "url": "nan",
+          "recap_pdf_url": null,
+          "pacer_doc_id": null,
+          "description": "MINUTE ORDER of 6/12/91 before Honorable James B. Zagel : Hearing held on motion for rule to show cause re [39−1] Hearing continued to 06/20/91 at 12:30 pm. Notice not mailed. (fce) (Entered: 06/18/1991)"
+        },
+        {
+          "row_number": 16,
+          "id": 1899233,
+          "entry_number": "50",
+          "date_filed": "1991-06-20T00:00:00-04:00",
+          "attachments": [],
+          "url": "nan",
+          "recap_pdf_url": null,
+          "pacer_doc_id": null,
+          "description": "MOTION by amicus Old Andrew Jackson for leave to file appearance ; notice of motion. (fce) (Entered: 06/21/1991)"
+        },
+        {
+          "row_number": 18,
+          "id": 1899235,
+          "entry_number": "52",
+          "date_filed": "1991-06-20T00:00:00-04:00",
+          "attachments": [],
+          "url": "nan",
+          "recap_pdf_url": null,
+          "pacer_doc_id": null,
+          "description": "ATTORNEY APPEARANCE for Old Andrew Jackson by Jeffrey T. Kraus. (fce) (Entered: 06/21/1991)"
+        },
+        {
+          "row_number": 19,
+          "id": 1899236,
+          "entry_number": "53",
+          "date_filed": "1991-06-20T00:00:00-04:00",
+          "attachments": [],
+          "url": "nan",
+          "recap_pdf_url": null,
+          "pacer_doc_id": null,
+          "description": "RULE 39 Affidavit of Jeffrey T. Kraus (fce) (Entered: 06/21/1991)"
+        },
+        {
+          "row_number": 21,
+          "id": 1899238,
+          "entry_number": "55",
+          "date_filed": "1991-07-12T00:00:00-04:00",
+          "attachments": [],
+          "url": "nan",
+          "recap_pdf_url": null,
+          "pacer_doc_id": null,
+          "description": "MINUTE ORDER of 7/12/91 before Honorable James B. Zagel : Status hearing reset for 07/16/91 at 10:00 am. Notice not mailed. (fce) (Entered: 07/15/1991)"
+        },
+        {
+          "row_number": 22,
+          "id": 1899239,
+          "entry_number": "56",
+          "date_filed": "1991-07-16T00:00:00-04:00",
+          "attachments": [],
+          "url": "nan",
+          "recap_pdf_url": null,
+          "pacer_doc_id": null,
+          "description": "MINUTE ORDER of 7/16/91 before Honorable James B. Zagel : Status hearing held; Continued to 07/17/91 at 10:00 am. Notice not mailed. (fce) (Entered: 07/17/1991)"
+        },
+        {
+          "row_number": 24,
+          "id": 1899241,
+          "entry_number": "58",
+          "date_filed": "1991-10-02T00:00:00-04:00",
+          "attachments": [],
+          "url": "nan",
+          "recap_pdf_url": null,
+          "pacer_doc_id": null,
+          "description": "MINUTE ORDER of 10/2/91 by Hon. James B. Zagel : Status hearing reset to 10/11/91 at 10:00 am, by agreement. Mailed notice (fce) (Entered: 10/04/1991)"
+        },
+        {
+          "row_number": 25,
+          "id": 1899242,
+          "entry_number": "59",
+          "date_filed": "1991-10-11T00:00:00-04:00",
+          "attachments": [],
+          "url": "nan",
+          "recap_pdf_url": null,
+          "pacer_doc_id": null,
+          "description": "MINUTE ORDER of 10/11/91 by Hon. James B. Zagel : Status hearing re−set for 15 Oct at 10:00 a.m. No notice (eav) (Entered: 10/16/1991)"
+        },
+        {
+          "row_number": 28,
+          "id": 1899245,
+          "entry_number": "63",
+          "date_filed": "1993-02-17T00:00:00-05:00",
+          "attachments": [],
+          "url": "nan",
+          "recap_pdf_url": null,
+          "pacer_doc_id": null,
+          "description": "MINUTE ORDER of 2/17/93 by Hon. James B. Zagel : Status hearing held; continued to 06/09/93 at 10:00 a.m. Mailed notice (jmp) (Entered: 02/22/1993)"
+        },
+        {
+          "row_number": 7,
+          "id": 1899224,
+          "entry_number": "40",
+          "date_filed": "1991-05-10T00:00:00-04:00",
+          "attachments": [],
+          "url": "nan",
+          "recap_pdf_url": null,
+          "pacer_doc_id": null,
+          "description": "MINUTE ORDER of 5/10/91 before Honorable James B. Zagel : Filed motion of plaintiffs for rule to show cause. Answer brief to motion due 5/17/91. setting hearing on motion for rule to show cause [39−1] 9:30 5/24/91. Attorneys Karen G. Anderson and Iris E. Sholder given leave to file their additional appearances. Notice not mailed. (fce) (Entered: 05/14/1991)"
+        },
+        {
+          "row_number": 31,
+          "id": 1899248,
+          "entry_number": "66",
+          "date_filed": "1994-03-18T00:00:00-05:00",
+          "attachments": [],
+          "url": "nan",
+          "recap_pdf_url": null,
+          "pacer_doc_id": null,
+          "description": "MOTION by defendant Board Of Education C to modify and amend consent decree to restructure the alternative transitional program (Attachments); Notice of motion (lal) (Entered: 03/21/1994)"
+        },
+        {
+          "row_number": 27,
+          "id": 1899244,
+          "entry_number": "61",
+          "date_filed": "1992-06-24T00:00:00-04:00",
+          "attachments": [],
+          "url": "nan",
+          "recap_pdf_url": null,
+          "pacer_doc_id": null,
+          "description": "MINUTE ORDER of 6/24/92 by Hon. James B. Zagel : Status hearing held; continued to 12/16/92 at 10:00 am Mailed notice (fce) (Entered: 07/14/1992)"
+        },
+        {
+          "row_number": 17,
+          "id": 1899234,
+          "entry_number": "51",
+          "date_filed": "1991-06-20T00:00:00-04:00",
+          "attachments": [],
+          "url": "nan",
+          "recap_pdf_url": null,
+          "pacer_doc_id": null,
+          "description": "MINUTE ORDER of 6/20/91 before Honorable James B. Zagel : Status hearing held; Continued to 07/03/91 at 10:00 am. granting motion for leave to file appearance of Jeffrey T. Kraus [50−1] Notice not mailed. (fce) (Entered: 06/21/1991)"
+        },
+        {
+          "row_number": 4,
+          "id": 1899221,
+          "entry_number": "37",
+          "date_filed": "1991-01-07T00:00:00-05:00",
+          "attachments": [],
+          "url": "nan",
+          "recap_pdf_url": null,
+          "pacer_doc_id": null,
+          "description": "MINUTE ORDER of 1/7/91 before Honorable James B. Zagel : Enter consent decree. (For further detail see order attached to the original minute order form). Notice mailed 01/08/91. JS−6 (fce) (Entered: 01/24/1991)"
+        }
+      ],
+      "docket_case_type": "cv",
+      "docket_year": 1989,
+      "docket_filing_number": 8584,
+      "is_main_docket": true,
+      "court": "Northern District of Illinois",
+      "state": "Illinois",
+      "docket_office_number": "1",
+      "docket_number_manual": "1:89-cv-08584",
+      "scales_html": "https://clearinghouse-umich-production.s3.amazonaws.com/media/docket-html/ilnd--1-89-cv-08584.html",
+      "recap_link": null,
+      "is_active": true
+    },
+    "name": "Katie I. v. Kimbrough",
+    "never_filed": false,
+    "non_docket_case_number": "",
+    "non_docket_case_number_type": null,
+    "non_docket_case_number_type_other": "",
+    "order_end_year": 1991,
+    "order_start_year": 1989,
+    "permanent_injunction": false,
+    "plaintiff_description": "Plaintiffs are children placed in state custody and received education from Chicago’s Board of Education.",
+    "plaintiff_type": [
+      {
+        "value": "Private Plaintiff"
+      }
+    ],
+    "prevailing_party": "Plaintiff",
+    "pro_se_status": "No",
+    "public_interest_lawyer": "Unknown",
+    "related_cases": [],
+    "relief_natures": [
+      "Injunction / Injunctive-like Settlement"
+    ],
+    "relief_nature_other": "",
+    "relief_sources": [
+      "Settlement"
+    ],
+    "settlement_agreement": [
+      "Court Approved Settlement or Consent Decree"
+    ],
+    "settlement_judgment_date": "1991-01-17",
+    "settlement_judgment_year": null,
+    "special_collections": [],
+    "special_case_type": [],
+    "state": "Illinois",
+    "summary": "<p>We have very little independent information about this case -- only a partial docket sheet. The information that follows is from Child Welfare Consent Decrees: Analysis of Thirty-Five Court Actions from 1995 to 2005, available <a href=\"https://web.archive.org/web/20120711050943/http://www.cwla.org/advocacy/consentdecrees.pdf\" target=\"_blank\" rel=\"noopener\"> here</a>.</p>\r\n<p>This class action involving children placed in state custody in Illinois was filed on November 17, 1989, in the U.S. District Court for the Northern District of Illinois, Eastern Division. The plaintiffs sought relief against Chicago's Board of Education for providing inadequate education to children in state custody, claiming that the state violated the plaintiffs' civil rights. Specifically, the complaint alleged that \"children placed in shelters, group homes or residential institutions were automatically labeled as behavior disordered by the school district and segregated from other students.\"</p>\r\n<p>A consent decree was approved by the court in 1991, requiring the Department of Children and Family Services (DCFS) to provide Chicago's Board of Education with \"notification and appropriate identification of wards in shelter care, to enable educational enrollment and to verify the immunization records of wards in shelter care.\"</p>\r\n<p>In 1994, the consent decree was modified to restructure the alternative transitional program. The consent decree was still being monitored as of 2005.</p>",
+    "summary_published_date": "2025-07-06T23:22:59.920319-04:00",
+    "summary_short": "Plaintiffs, children placed in state custody, sought relief from the state's failure to provide adequate education.  This case was filed in 1989, and a consent decree was reached in 1991. The consent decree was modified in 1994 and was still being monitored as of 2005.",
+    "summary_tiny": null,
+    "terminating_date": null,
+    "clearinghouse_link": "clearinghouse.net/case/12401",
+    "is_active": true,
+    "case_documents_url": "https://clearinghouse.net/api/v2/documents/?case=12401",
+    "case_dockets_url": "https://clearinghouse.net/api/v2/dockets/?case=12401",
+    "case_resources_url": "https://clearinghouse.net/api/v2/resources/?case=12401"
+  },
+  "documents": [
+    {
+      "date": null,
+      "date_is_estimate": false,
+      "date_not_available": false,
+      "description": null,
+      "document_source": null,
+      "document_status": null,
+      "document_type": null,
+      "order_type": null,
+      "citation_paren": null,
+      "cite_1_page": null,
+      "cite_1_reporter": null,
+      "cite_1_vol": null,
+      "cite_2_page": null,
+      "cite_2_reporter": null,
+      "cite_2_vol": null,
+      "cite_3_page": null,
+      "cite_3_reporter": null,
+      "cite_3_vol": null,
+      "citation_status": null,
+      "court": null,
+      "no_title": false,
+      "party_types": [],
+      "per_curium": false,
+      "is_core_document": true,
+      "id": 117568,
+      "file": null,
+      "title": null,
+      "text": null,
+      "document_type_other": null,
+      "external_url": null,
+      "ecf_number": null,
+      "clearinghouse_link": "clearinghouse.net/doc/117568"
+    },
+    {
+      "date": "1994-03-18",
+      "date_is_estimate": false,
+      "date_not_available": false,
+      "description": null,
+      "document_source": "PACER [Public Access to Court Electronic Records]",
+      "document_status": "Coding Complete",
+      "document_type": "Docket",
+      "order_type": null,
+      "citation_paren": null,
+      "cite_1_page": null,
+      "cite_1_reporter": null,
+      "cite_1_vol": null,
+      "cite_2_page": null,
+      "cite_2_reporter": null,
+      "cite_2_vol": null,
+      "cite_3_page": null,
+      "cite_3_reporter": null,
+      "cite_3_vol": null,
+      "citation_status": "Not applicable",
+      "court": "Northern District of Illinois",
+      "no_title": false,
+      "party_types": [
+        "Court"
+      ],
+      "per_curium": false,
+      "is_core_document": true,
+      "id": 44048,
+      "file": "https://clearinghouse-umich-production.s3.amazonaws.com/media/doc/44048.pdf",
+      "title": "Docket [PACER]",
+      "text": "SuppressAnsRpt,TERMED\nUnited States District Court\nNorthern District of Illinois − CM/ECF LIVE, Ver 5.0.3 (Chicago)\nCIVIL DOCKET FOR CASE #: 1:89−cv−08584\nKatie I, et al v. Almo, et al Date Filed: 11/17/1989\nAssigned to: Honorable James B. Zagel Date Terminated: 01/07/1991\nDemand: $0 Jury Demand: None\nCause: 28:1331 Federal Question: Other Civil Rights Nature of Suit: 440 Civil Rights: Other\nJurisdiction: Federal Question\nPlaintiff\nTimothy G\nPlaintiff\nLarry J\nPlaintiff\nNancy C\nPlaintiff\nEric L\nPlaintiff\nAlisha W\nPlaintiff\nKenneth S\nPlaintiff\nMatthew B\nPlaintiff\nJohn B\nV.\nDefendant\nCharles Almo represented by Iris Ellen Sholder\nCity of Chicago Board of Education\n1819 West Pershing Road\nSuite 5−E\nChicago, IL 60609\n(312) 890−8000\nKaren Gatsis Anderson\nCity of Chicago Board of Education\n1819 West Pershing Road\nSuite 5−E\nChicago, IL 60609\n(312) 890−8000\nDefendant\nBoard Of Education City Of Chicago represented by Iris Ellen Sholder\n(See above for address)\nKaren Gatsis Anderson\n\n(See above for address)\nDefendant\nBarbara Williams represented by Iris Ellen Sholder\n(See above for address)\nKaren Gatsis Anderson\n(See above for address)\nDefendant\nKenneth C Jesuit represented by Iris Ellen Sholder\n(See above for address)\nKaren Gatsis Anderson\n(See above for address)\nDefendant\nTed D Kimbrough\nAmicus\nOld Andrew Jackson Scholastic represented by Jeffrey T. Kraus\nAcademy Magnet School Planning Altheimer &Gray\nCommittee, The 10 South Wacker Drive\nSuite 4000\nChicago, IL 60606\n(312) 715−4000\nLEAD ATTORNEY\nATTORNEY TO BE NOTICED\nDate Filed # Docket Text\n10/15/1990 34  MINUTE ORDER of 10/15/90 before Honorable James B. Zagel : Status hearing\nreset for 19 Oct 90 at 9:30 a.m. Notice not mailed. (fce) (Entered: 11/17/1990)\n10/19/1990 33  MINUTE ORDER of 10/19/90 before Honorable James B. Zagel : Status hearing\nheld. Joint motion of the parties for provisional approval of proposed consent\ndecree, class notice and plan for distribution is granted. Hearing on fairness set for\n17 Dec 90 at 11:45 a.m. Notice mailed. (fce) (Entered: 10/23/1990)\n10/19/1990 35  JOINT MOTION for provisional approval of the attached consent decree , for\napproval of class notice and plan for its distribution and , to schedule a fairness\nhearing (Attachment) (fce) (Entered: 11/17/1990)\n01/07/1991 36  CONSENT DECREE. (fce) (Entered: 01/24/1991)\n01/07/1991 37  MINUTE ORDER of 1/7/91 before Honorable James B. Zagel : Enter consent\ndecree. (For further detail see order attached to the original minute order form).\nNotice mailed 01/08/91. JS−6 (fce) (Entered: 01/24/1991)\n02/05/1991 38  TRANSCRIPT of proceedings for the following date(s): 12/17/90 Before\nHonorable James B. Zagel. (fce) (Entered: 02/06/1991)\n05/10/1991 39  MOTION by plaintiff for rule to show cause (Exhibits); notice of motion. (fce)\n(Entered: 05/14/1991)\n05/10/1991 40  MINUTE ORDER of 5/10/91 before Honorable James B. Zagel : Filed motion of\nplaintiffs for rule to show cause. Answer brief to motion due 5/17/91. setting\nhearing on motion for rule to show cause [39−1] 9:30 5/24/91. Attorneys Karen G.\nAnderson and Iris E. Sholder given leave to file their additional appearances.\nNotice not mailed. (fce) (Entered: 05/14/1991)\n05/10/1991 41  ATTORNEY APPEARANCE for defendants by Karen Gatsis Anderson, Iris Ellen\nSholder (fce) (Entered: 05/14/1991)\n\n05/28/1991 42  RESPONSE by Ted D Kimbrough to motion for rule to show cause [39−1]\n(Exhibits); Notice of filing. (fce) (Entered: 05/29/1991)\n05/29/1991 43  MOTION by plaintiff to amend petition for rule to show cause (Exhibits); notice of\nmotion. (fce) (Entered: 05/31/1991)\n05/29/1991 44  MINUTE ORDER of 5/29/91 before Honorable James B. Zagel : Filed motion of\nplaintiff to amend petition for rule to show cause re [43−1] Status hearing held;\nContinued to 06/05/91 at 12:30 pm. Notice not mailed. (fce) (Entered: 05/31/1991)\n05/29/1991 45  MOTION by defendants to withdraw attorney Mary A. Dempsey ; notice of\nmotion. (fce) (Entered: 05/31/1991)\n05/29/1991 46  MINUTE ORDER of 5/29/91 before Honorable James B. Zagel : granting motion\nto withdraw attorney Mary A. Dempsey [45−1] Notice mailed 05/31/91. (fce)\n(Entered: 05/31/1991)\n06/05/1991 47  MINUTE ORDER of 6/5/91 before Honorable James B. Zagel : Status hearing\nheld; Continued to 07/11/91 at 12:30 pm. Notice not mailed. (fce) (Entered:\n06/07/1991)\n06/12/1991 48  MINUTE ORDER of 6/12/91 before Honorable James B. Zagel : Status hearing\nheld; Continued to 06/20/91 at 12:30 pm. Notice not mailed. (fce) (Entered:\n06/14/1991)\n06/12/1991 49  MINUTE ORDER of 6/12/91 before Honorable James B. Zagel : Hearing held on\nmotion for rule to show cause re [39−1] Hearing continued to 06/20/91 at 12:30\npm. Notice not mailed. (fce) (Entered: 06/18/1991)\n06/20/1991 50  MOTION by amicus Old Andrew Jackson for leave to file appearance ; notice of\nmotion. (fce) (Entered: 06/21/1991)\n06/20/1991 51  MINUTE ORDER of 6/20/91 before Honorable James B. Zagel : Status hearing\nheld; Continued to 07/03/91 at 10:00 am. granting motion for leave to file\nappearance of Jeffrey T. Kraus [50−1] Notice not mailed. (fce) (Entered:\n06/21/1991)\n06/20/1991 52  ATTORNEY APPEARANCE for Old Andrew Jackson by Jeffrey T. Kraus. (fce)\n(Entered: 06/21/1991)\n06/20/1991 53  RULE 39 Affidavit of Jeffrey T. Kraus (fce) (Entered: 06/21/1991)\n07/03/1991 54  MINUTE ORDER of 7/3/91 before Honorable James B. Zagel : Status hearing\nheld; Continued to 07/12/91 at 10:00 am. Notice not mailed. (fce) (Entered:\n07/10/1991)\n07/12/1991 55  MINUTE ORDER of 7/12/91 before Honorable James B. Zagel : Status hearing\nreset for 07/16/91 at 10:00 am. Notice not mailed. (fce) (Entered: 07/15/1991)\n07/16/1991 56  MINUTE ORDER of 7/16/91 before Honorable James B. Zagel : Status hearing\nheld; Continued to 07/17/91 at 10:00 am. Notice not mailed. (fce) (Entered:\n07/17/1991)\n07/17/1991 57  MINUTE ORDER of 7/17/91 before Honorable James B. Zagel : Pretrial\nconference held; Continued to 07/18/91 at 11:00 am. Notice not mailed. (fce)\n(Entered: 07/23/1991)\n10/02/1991 58  MINUTE ORDER of 10/2/91 by Hon. James B. Zagel : Status hearing reset to\n10/11/91 at 10:00 am, by agreement. Mailed notice (fce) (Entered: 10/04/1991)\n10/11/1991 59  MINUTE ORDER of 10/11/91 by Hon. James B. Zagel : Status hearing re−set for\n15 Oct at 10:00 a.m. No notice (eav) (Entered: 10/16/1991)\n10/15/1991 60  MINUTE ORDER of 10/15/91 by Hon. James B. Zagel : Status hearing held and\ncontinued to 6/24/92, the motion for contempt of is denied as moot. No notice (fce)\n(Entered: 10/16/1991)\n06/24/1992 61  MINUTE ORDER of 6/24/92 by Hon. James B. Zagel : Status hearing held;\ncontinued to 12/16/92 at 10:00 am Mailed notice (fce) (Entered: 07/14/1992)\n\n12/16/1992 62  MINUTE ORDER of 12/16/92 by Hon. James B. Zagel : Status hearing held;\ncontinued to 02/17/93 at 10:00 a.m. No notice (cdh) (Entered: 12/18/1992)\n02/17/1993 63  MINUTE ORDER of 2/17/93 by Hon. James B. Zagel : Status hearing held;\ncontinued to 06/09/93 at 10:00 a.m. Mailed notice (jmp) (Entered: 02/22/1993)\n06/14/1993 64  MINUTE ORDER of 6/14/93 by Hon. James B. Zagel : Status hearing reset for\n06/30/93 at 10:00 a.m. Mailed notice (jmp) (Entered: 06/15/1993)\n10/06/1993 65  MINUTE ORDER of 10/6/93 by Hon. James B. Zagel : Denying as moot motion to\namend petition for rule to show cause [43−1], Denying as moot motion for rule to\nshow cause [39−1] No notice (fce) (Entered: 10/07/1993)\n03/18/1994 66  MOTION by defendant Board Of Education C to modify and amend consent\ndecree to restructure the alternative transitional program (Attachments); Notice of\nmotion (lal) (Entered: 03/21/1994)\n03/18/1994 67  MINUTE ORDER of 3/18/94 by Hon. James B. Zagel : Granting motion to modify\nand amend consent decree to restructure the alternative transitional program [66−1]\nNo notice (lal) (Entered: 03/21/1994)",
+      "document_type_other": null,
+      "external_url": null,
+      "ecf_number": null,
+      "clearinghouse_link": "clearinghouse.net/doc/44048"
+    }
+  ],
+  "document_count": 2
+}

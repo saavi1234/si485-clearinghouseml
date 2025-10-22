@@ -1,0 +1,183 @@
+{
+  "case_id": 420,
+  "fetched_at": "2025-10-22T00:04:27.031009",
+  "case_data": {
+    "attorney_orgs": [],
+    "available_documents": [
+      "Complaint (any)"
+    ],
+    "case_defendants": [
+      {
+        "defendant_level": null,
+        "institution": "",
+        "institution_alt_state": null,
+        "institution_city": "",
+        "institution_county": null,
+        "name": "Creedmoor Psychiatric Center",
+        "defendant_level_other": "",
+        "is_active": true
+      }
+    ],
+    "case_ongoing": "No reason to think so",
+    "case_status": "Approved",
+    "case_types": [
+      "Mental Health (Facility)"
+    ],
+    "cause_other": "",
+    "causes": [
+      "Civil Rights of Institutionalized Persons Act (CRIPA), 42 U.S.C. § 1997 et seq."
+    ],
+    "class_action_granted": "Not sought",
+    "class_action_sought": "No",
+    "closing_year": 0,
+    "constitutional_clause": [],
+    "content_of_injunction": [],
+    "court": "Eastern District of New York",
+    "custom_issues": [],
+    "defendant_payment": "",
+    "defendant_type": [],
+    "docket_status": "None",
+    "facility_type": [
+      {
+        "value": "Government-run"
+      }
+    ],
+    "filing_date": "1988-02-04",
+    "filing_year": 1988,
+    "id": 420,
+    "injunction_duration": "",
+    "issues": [
+      "General/Misc.: Totality of conditions"
+    ],
+    "last_checked_date": "2006-06-28T00:00:00-04:00",
+    "main_docket": {
+      "id": 39005,
+      "docket_entries": [],
+      "docket_case_type": null,
+      "docket_year": 1988,
+      "docket_filing_number": 2337,
+      "is_main_docket": true,
+      "court": "Eastern District of New York",
+      "state": "New York",
+      "docket_office_number": "1",
+      "docket_number_manual": "88C-2337",
+      "scales_html": null,
+      "recap_link": null,
+      "is_active": true
+    },
+    "name": "U.S. v. New York",
+    "never_filed": false,
+    "non_docket_case_number": "168-51-9",
+    "non_docket_case_number_type": "DJ",
+    "non_docket_case_number_type_other": "",
+    "order_end_year": 0,
+    "order_start_year": 0,
+    "permanent_injunction": false,
+    "plaintiff_description": "United States Department of Justice",
+    "plaintiff_type": [
+      {
+        "value": "U.S. Dept of Justice plaintiff"
+      }
+    ],
+    "prevailing_party": "Unknown",
+    "pro_se_status": "No",
+    "public_interest_lawyer": "Yes",
+    "related_cases": [],
+    "relief_natures": [
+      "Unknown"
+    ],
+    "relief_nature_other": "",
+    "relief_sources": [
+      "Unknown"
+    ],
+    "settlement_agreement": [],
+    "settlement_judgment_date": null,
+    "settlement_judgment_year": null,
+    "special_collections": [],
+    "special_case_type": [],
+    "state": "New York",
+    "summary": "<p>On February 4, 1988, the United States Department of Justice Civil Rights Division notified the Governor of New York that it intended to investigate conditions at Creedmoor Psychiatric Center pursuant to authority granted by the Civil Rights of Institutionalized Persons Act (CRIPA), 42 U.S.C. &sect; 1997 et seq.  Sometime that same year, the United States filed a lawsuit in the United States District Court for the Eastern District of New York charging that the State of New York, the Governor of New York, the New York State Office of Mental Health, and Creedmoor Psychiatric Center were obstructing the Creedmoor CRIPA investigation.  Specifically, the United States claimed that the defendants refused to grant investigators access to Creedmoor unless the United States signed a proposed consent decree in United States v. State of New York, a lawsuit dealing with conditions at the Buffalo Psychiatric Center.  The plaintiffs asked the court to enter an injunction to force New York to give the United States access to Creedmoor's facilities, staff, patients, and records and enter other equitable relief as appropriate.</p><p>We have no information on what occurred in this lawsuit after the Complaint was filed.</p><p></p>",
+    "summary_published_date": "2006-06-28T00:00:00-04:00",
+    "summary_short": "The United States filed this suit seeking an injunction to give the United States access to Creedmoorís facilities, staff, patients, and records so that it could conduct an investigation of the facilities under the Civil Rights of Institutionalized Persons Act (CRIPA), 42 U.S.C. §1997. The Clearinghouse has no information on the disposition of the case.",
+    "summary_tiny": null,
+    "terminating_date": null,
+    "clearinghouse_link": "clearinghouse.net/case/420",
+    "is_active": false,
+    "case_documents_url": "https://clearinghouse.net/api/v2/documents/?case=420",
+    "case_dockets_url": "https://clearinghouse.net/api/v2/dockets/?case=420",
+    "case_resources_url": "https://clearinghouse.net/api/v2/resources/?case=420"
+  },
+  "documents": [
+    {
+      "date": null,
+      "date_is_estimate": false,
+      "date_not_available": false,
+      "description": null,
+      "document_source": null,
+      "document_status": null,
+      "document_type": null,
+      "order_type": null,
+      "citation_paren": null,
+      "cite_1_page": null,
+      "cite_1_reporter": null,
+      "cite_1_vol": null,
+      "cite_2_page": null,
+      "cite_2_reporter": null,
+      "cite_2_vol": null,
+      "cite_3_page": null,
+      "cite_3_reporter": null,
+      "cite_3_vol": null,
+      "citation_status": null,
+      "court": null,
+      "no_title": false,
+      "party_types": [],
+      "per_curium": false,
+      "is_core_document": true,
+      "id": 127056,
+      "file": null,
+      "title": null,
+      "text": null,
+      "document_type_other": null,
+      "external_url": null,
+      "ecf_number": null,
+      "clearinghouse_link": "clearinghouse.net/doc/127056"
+    },
+    {
+      "date": "1988-01-01",
+      "date_is_estimate": true,
+      "date_not_available": false,
+      "description": null,
+      "document_source": null,
+      "document_status": "Coding Complete",
+      "document_type": "Complaint",
+      "order_type": null,
+      "citation_paren": null,
+      "cite_1_page": null,
+      "cite_1_reporter": null,
+      "cite_1_vol": null,
+      "cite_2_page": null,
+      "cite_2_reporter": null,
+      "cite_2_vol": null,
+      "cite_3_page": null,
+      "cite_3_reporter": null,
+      "cite_3_vol": null,
+      "citation_status": "Not applicable",
+      "court": "Eastern District of New York",
+      "no_title": false,
+      "party_types": [
+        "Plaintiff"
+      ],
+      "per_curium": false,
+      "is_core_document": true,
+      "id": 1889,
+      "file": "https://clearinghouse-umich-production.s3.amazonaws.com/media/doc/1889.pdf",
+      "title": "Complaint for Injunctive Relief Jurisdiction",
+      "text": "U.S. v. New York\n•III  mi  1111|^1 _ Y-001-001\nH N\n*\nUNITED STATES DISTRICT COURT\nFOR THE EASTERN DISTRICT OF NEW YORK\nUNITED STATES OF AMERICA,  )\n)\nPlaintiff,  )\n)\nv.  '  )\n)\nSTATE OF NEW YORK; MARIO M. CUOMO,  )\nGovernor of the State of New York;  )  CIVIL ACTION NO.\nNEW YORK STATE OFFICE OF MENTAL  )\nHEALTH; RICHARD C. SURLES,  )  *,  ^\nCommissioner; ALAN WEINSTOCK,  )  O  I** 4  • ' D --\">\nExecutive Director,  )  v-f VJ> V>  ^ i ^ ^)\nCreedmoor Psychiatric Center;  )\nDefendants.  >)   JCOkS 3 AH 1 iHU   1.\nt\nCOMPLAINT FOR INJUNCTIVE RELIEF\nJURISDICTION\n1.  This court has jurisdiction over this action pursuant to\n28 U.S.C. §1345.\n2.  This action seeks to facilitate and enable the Attorney\nGeneral to conduct a lawful investigation authorized by the Civil\nRights of Institutionalized Persons Act (CRIPA), 42 U.S.C. §1997.\nt  3.  The United States of America, by and through the\nAttorney General, has authority pursuant to 42 U.S.C. §1997, to\nenforce and protect the civil rights of institutionalized\n*\npersons.\n4.  Venue in this judicial district is proper pursuant to 28\nU.S.C. §1391.\n\n5.  The United states of America, by and through the\nAttorney General, institutes this action to enjoin defendants\nfrom obstructing a United States Department of Justice investiga-\ntion of the Creedmoor Psychiatric Center being conducted pursuant\nto CRIPA, and to direct defendants to provide access to agents of\nthe United States to the Creedmoor Psychiatric Center, and to its\npatients, staff, and records for the purpose of conducting a\nCRIPA investigation.\nPARTIES\n6.  Defendant STATE OF NEW YORK owns and operates the\nCreedmoor Psychiatric Center which is a state residential\npsychiatric facility.\n7.  Defendant MARIO M. CUOMO is the Governor of New York,\nand, in this capacity, heads the executive branch of the state\ngovernment.  He appoints the Commissioner of the New York Office\nof Mental Health.\n8.  Defendant OFFICE OF MENTAL HEALTH (OMH) is the state\nagency responsible for the administration and operation of the\nCreedmoor Psychiatric Center.\n,  9.  Defendant RICHARD C. SURLES is the Commissioner of OMH,\nt\nand, in this capacity, has responsibility for the operation of\nthe Creedmoor Psychiatric Center.\n10.  Defendant ALAN WEINSTOCK is the Executive Director of\nthe Creedmoor Psychiatric Center, and, in this capacity, is the\n- 2 -\n\nchief administrator of the facility and has responsibility for\nsupervising the operations of the psychiatric center.\n11.  The individual Defendants identified in paragraphs 7,\n9, and 10, above are officers of the executive branch of the\nState of New York and are sued in their official capacities.\nFACTUAL ALLEGATIONS\n12.  The Creedmoor Psychiatric Center is an \"institution\"\nwithin the meaning of 42 U.S.C. §1997(1)(B)(i).\n13.  On February 4, 1988, pursuant to 42 U.S.C.\n§1997b(a)(2), the Attorney General, through the Assistant\nAttorney General for Civil Rights, notified the Governor of the\nState of New York of the Department of Justice's intention to\ninitiate an investigation into conditions of confinement at the\nCreedmoor Psychiatric Center.\n14.  The United States instituted this CRIPA investigation\nto determine if the Creedmoor Psychiatric Center was subjecting\nits residents to egregious or flagrant conditions, pursuant to a\npattern or practice, which deprives them of federal\nconstitutional or statutory rights, resulting in grievous harm to\nresidents.  Any delay in the conduct and completion of this CRIPA\ninvestigation may cause further grievous harm to patients\nconfined at the Creedmor.\n15.  The United States is entitled to reasonable access to\nfacilities, records, and persons necessary for it to conduct and\ncomplete investigations under CRIPA.\n- 3 -\n\n16.  Defendants have refused to grant the United States\naccess to the Creedmoor Psychiatric Center unless the United\nStates accepts a settlement proposal suggested by the Court in\nUnited States of America v. State of New York et al.. (W.D. N.Y.\nNo. 88-138-C), a CRIPA lawsuit brought by the United States\nregarding conditions at the Buffalo Psychiatric Center in\nBuffalo, New York.\n17.  The United States has rejected, as is its prerogative,\nthe Buffalo proposal.\n18.  Defendants' refusal to grant reasonable access to\nagents of the United States to the Creedmoor Psychiatric Center,\nand its patients, staff, and records, obstructs a lawful federal\ninvestigation authorized by the Attorney General pursuant to an\nact of Congress and prevents the Attorney General from\ndetermining whether the Creedmoor patients are being deprived of\ntheir federal constitutional rights and are suffering grievous\nharm as a result.\n19.  The United States has no authority to seek a remedy at\nlaw under CRIPA, and will suffer irreparable harm in the\nprotection of the rights of Creedmoor patients by this delay.\n*  PRAYER FOR RELIEF\nWHEREFORE, The United States prays this Court to:\n1.  Enjoin defendants from denying or obstructing the access\nof attorneys, employees, or agents of the United States\nDepartment of Justice to the Creedmoor Psychiatric Center, its\npatients, records, and facility staff;\n_ 4 -\n\n2.  Order defendants to provide to the United States\nreasonable access to the Creedmoor Psychiatric Center, the\npatients, records, and to facility staff;\n3.  Order such further and other equitable relief as this\nCourt deems just and proper.\nANDREW MALONEY WM.  BRADFORDT^NOLDS^O\nUnited States Attorney Assistant  Attorney  General\nEastern District of Civil  Rights  Division\nNew York\nArthur E. Peabody,\nChief\nSpecial Litigation Section\n* - //\nMellie H. Nelson\nDeputy Chief\nSpecial Litigation Section\nGayleA Fidler\nVerlin Hughes\nRobert J. Saria\nAttorneys\nSpecial Litigation Section\nCivil Rights Division\nU.S. Department of Justice\nP.O. BOX 37076\nWashington, D.C.  20066\n(202) 272-6058\n(202) 272-6065\n(202) 272-6066\n- 5 -\n\nSIR:\nCivil\nAction No.\nPLEASE TAKE NOTICE that the within will be\npresented for settlement and signature to the Clerk\nof  the  United  States  District Court in his office at UNITED STATES DISTRICT COURT\nthe  U.S.  Courthouse,  225  Cad man  Plaza  East, Eastern District of New York\nBrooklyn, New York, on the  day  of,\n19  , at 10:30 o'clock in the forenoon.\nUNITED  STATES  OF  AMERICA,\nPlaintiff,\nDated: Brooklyn New York,\n19\n-Against -\nUnited States Attorney,\nSTATE OF NEW YORK; MARIO M. CUOMO,\nAttorney for\net al.,\nTo:\nDefendants.\nCOMPLAINT FOR INJUNCTIVE\nRELIEF JURISDICTION\nAttorney for\nSIR:\nPLEASE  TAKE  NOTICE  that  the  within  is a\ntrue copy of  duly entered herein ANDREW  J.  MALONEY\non the  day of\nUnited States Attorney,\n, in the office  of  the Clerk  of\nAttorney  for  E.D.N.Y.\nthe Eastern District of New York,\nOffice and Post Office  Address,\nUnited States Courthouse\nDated: Brooklyn, New York 22S Cadman Plaza East\nBrooklyn, New York 11201\n.  19.\nDue service of a copy of the within\nUnited States Attorney,\nis hereby admitted.\nAttorney for Dated: 19\nTo:\nAttorney for\nSUZANNE SKINNER, AUSA\n(718) 330-7959/7100\nAttorney for.",
+      "document_type_other": null,
+      "external_url": "",
+      "ecf_number": null,
+      "clearinghouse_link": "clearinghouse.net/doc/1889"
+    }
+  ],
+  "document_count": 2
+}

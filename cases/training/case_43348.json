@@ -1,0 +1,370 @@
+{
+  "case_id": 43348,
+  "fetched_at": "2025-10-22T00:37:05.892558",
+  "case_data": {
+    "attorney_orgs": [],
+    "available_documents": [
+      "Trial Court Docket",
+      "Complaint (any)",
+      "Injunctive (or Injunctive-like) Relief",
+      "Non-settlement Outcome"
+    ],
+    "case_defendants": [
+      {
+        "defendant_level": null,
+        "institution": "",
+        "institution_alt_state": null,
+        "institution_city": "",
+        "institution_county": null,
+        "name": "Arizona",
+        "defendant_level_other": "",
+        "is_active": true
+      }
+    ],
+    "case_ongoing": "No",
+    "case_status": "Approved",
+    "case_types": [
+      "Election/Voting Rights"
+    ],
+    "cause_other": "",
+    "causes": [
+      "Uniformed and Overseas Citizens Absentia Voting Act, 52 U.S.C. § 20301 (previously 42 U.S.C. § 1973ff et seq.)"
+    ],
+    "class_action_granted": "Not sought",
+    "class_action_sought": "No",
+    "closing_year": 2018,
+    "constitutional_clause": [],
+    "content_of_injunction": [],
+    "court": "District of Arizona",
+    "custom_issues": [],
+    "defendant_payment": "0",
+    "defendant_type": [
+      {
+        "value": "Jurisdiction-wide"
+      }
+    ],
+    "docket_status": "Complete as of retrieval date",
+    "facility_type": [],
+    "filing_date": "2018-02-14",
+    "filing_year": 2018,
+    "id": 43348,
+    "injunction_duration": "",
+    "issues": [
+      "Voting: Voter registration rules",
+      "Voting: Voting: General & Misc."
+    ],
+    "last_checked_date": "2022-10-06T00:00:00-04:00",
+    "main_docket": {
+      "id": 56015,
+      "docket_entries": [
+        {
+          "row_number": 4,
+          "id": 3078479,
+          "entry_number": "5",
+          "date_filed": "2018-02-15T00:00:00-05:00",
+          "attachments": [],
+          "url": "https://www.courtlistener.com/docket/6305721/5/united-states-v-arizona-state-of/",
+          "recap_pdf_url": null,
+          "pacer_doc_id": "025018467000",
+          "description": "SERVICE EXECUTED filed by United States of America: Rule 4 Waiver of Service of Summons. Waiver sent on 2/15/2018 to The State of Arizona and returned executed. (Cooper, David) (Entered: 02/15/2018)"
+        },
+        {
+          "row_number": 1,
+          "id": 3078476,
+          "entry_number": "2",
+          "date_filed": "2018-02-14T00:00:00-05:00",
+          "attachments": [
+            {
+              "recap_id": 24782021,
+              "pacer_url": "https://ecf.azd.uscourts.gov/doc1/025018465762?caseid=1080992",
+              "description": "Text of Proposed Order",
+              "attachment_number": 1
+            }
+          ],
+          "url": "https://www.courtlistener.com/docket/6305721/2/united-states-v-arizona-state-of/",
+          "recap_pdf_url": "https://www.courtlistener.com/recap/gov.uscourts.azd.1080992/gov.uscourts.azd.1080992.2.0.pdf",
+          "pacer_doc_id": "025018465761",
+          "description": "*Joint MOTION for Expedited Entry of Consent Decree by United States of America. (Submitted by David G Cooper) (Attachments: # 1 Text of Proposed Order)(KAS) *Modified to regenerate NEF on 2/15/2018 (SCH). (Entered: 02/15/2018)"
+        },
+        {
+          "row_number": 2,
+          "id": 3078477,
+          "entry_number": "3",
+          "date_filed": "2018-02-14T00:00:00-05:00",
+          "attachments": [],
+          "url": "https://www.courtlistener.com/docket/6305721/3/united-states-v-arizona-state-of/",
+          "recap_pdf_url": null,
+          "pacer_doc_id": "025018465779",
+          "description": "*This case has been assigned to the Honorable Judge Douglas L Rayes. All future pleadings or documents should bear the correct case number: CV-18-505-PHX-DLR. Notice of Availability of Magistrate Judge to Exercise Jurisdiction form attached. (KAS) *Modified to regenerate NEF on 2/15/2018 (SCH). (Entered: 02/15/2018)"
+        },
+        {
+          "row_number": 8,
+          "id": 10168198,
+          "entry_number": "9",
+          "date_filed": "2018-03-30T00:00:00-04:00",
+          "attachments": [],
+          "url": "https://www.courtlistener.com/docket/6305721/9/united-states-v-arizona-state-of/",
+          "recap_pdf_url": null,
+          "pacer_doc_id": "025018652553",
+          "description": "NOTICE re: UOCAVA Ballots Received and Counted for 2/27/2018 Special Primary Election by Arizona, State of, Michele Reagan . (LaRue, Joseph) (Entered: 03/30/2018)"
+        },
+        {
+          "row_number": 0,
+          "id": 3078475,
+          "entry_number": "1",
+          "date_filed": "2018-02-14T00:00:00-05:00",
+          "attachments": [],
+          "url": "https://www.courtlistener.com/docket/6305721/1/united-states-v-arizona-state-of/",
+          "recap_pdf_url": "https://www.courtlistener.com/recap/gov.uscourts.azd.1080992/gov.uscourts.azd.1080992.1.0.pdf",
+          "pacer_doc_id": "025018465745",
+          "description": "*COMPLAINT filed by United States of America.(Submitted by David Cooper) (Attachments: # 1 Civil Cover Sheet, # 2 Civil Cover Sheet Supplemental Civil Cover Sheet)(KAS) *Modified to regenerate NEF on 2/15/2018 (SCH). (Entered: 02/15/2018)"
+        },
+        {
+          "row_number": 3,
+          "id": 3078478,
+          "entry_number": "4",
+          "date_filed": "2018-02-15T00:00:00-05:00",
+          "attachments": [],
+          "url": "https://www.courtlistener.com/docket/6305721/4/united-states-v-arizona-state-of/",
+          "recap_pdf_url": null,
+          "pacer_doc_id": "025018465810",
+          "description": "*NOTICE TO THE PARTIES - The Court is participating in the Mandatory Initial Discovery Pilot (MIDP) and this case is subject to that pilot. The key features and deadlines are set forth in the attached Notice which includes General Order 17-08. Also attached is a checklist for use by the parties. All parties must respond to the mandatory initial discovery requests set forth in the General Order before initiating any further discovery in this case. Please note: The discovery obligations in the General Order supersede the disclosures required by Rule 26(a)(1). Any party seeking affirmative relief must serve a copy of the attached documents (Notice to Parties, including General Order 17-08 and MIDP Checklist) on each new party when the Complaint, Counterclaim, Crossclaim, or Third-Party Complaint is served. (KAS) *Modified to regenerate NEF on 2/15/2018 (SCH). (Entered: 02/15/2018)"
+        },
+        {
+          "row_number": 5,
+          "id": 3078480,
+          "entry_number": "6",
+          "date_filed": "2018-02-15T00:00:00-05:00",
+          "attachments": [],
+          "url": "https://www.courtlistener.com/docket/6305721/6/united-states-v-arizona-state-of/",
+          "recap_pdf_url": null,
+          "pacer_doc_id": "025018467006",
+          "description": "SERVICE EXECUTED filed by United States of America: Rule 4 Waiver of Service of Summons. Waiver sent on 2/15/2018 to Secretary of State Michele Reagan and returned executed. (Cooper, David) (Entered: 02/15/2018)"
+        },
+        {
+          "row_number": 7,
+          "id": 3078482,
+          "entry_number": "8",
+          "date_filed": "2018-02-15T00:00:00-05:00",
+          "attachments": [],
+          "url": "https://www.courtlistener.com/docket/6305721/8/united-states-v-arizona-state-of/",
+          "recap_pdf_url": "https://www.courtlistener.com/recap/gov.uscourts.azd.1080992/gov.uscourts.azd.1080992.8.0.pdf",
+          "pacer_doc_id": "025018470389",
+          "description": "CONSENT DECREE - To ensure that all eligible UOCAVA voters will have sufficient opportunity to receive absentee ballots they have requested and to submit marked absentee ballots in time to be counted for the 2/27/2018 special primary election for the House of Representatives... Defendants shall file a report with this Court no later than 3/31/2018, in a format agreed upon by the parties, concerning the number of UOCAVA ballots received and counted for the special primary election. The Court shall retain jurisdiction over this action through 9/30/2018, to enter such further relief as may be necessary for the effectuation of the terms of this Consent Decree, including entry of such other relief as may be necessary to abate any violation of UOCAVA. Signed by Judge Douglas L Rayes on 2/15/18. (DXD) (Entered: 02/15/2018)"
+        },
+        {
+          "row_number": 6,
+          "id": 3078481,
+          "entry_number": "7",
+          "date_filed": "2018-02-15T00:00:00-05:00",
+          "attachments": [],
+          "url": "https://www.courtlistener.com/docket/6305721/7/united-states-v-arizona-state-of/",
+          "recap_pdf_url": null,
+          "pacer_doc_id": "025018469603",
+          "description": "NOTICE of Appearance by Joseph Eugene LaRue on behalf of Arizona, State of, Michele Reagan. (LaRue, Joseph) (Entered: 02/15/2018)"
+        }
+      ],
+      "docket_case_type": "cv",
+      "docket_year": 2018,
+      "docket_filing_number": 505,
+      "is_main_docket": true,
+      "court": "District of Arizona",
+      "state": "Arizona",
+      "docket_office_number": "2",
+      "docket_number_manual": "2:18-cv-00505",
+      "scales_html": null,
+      "recap_link": "https://www.courtlistener.com/docket/6305721/united-states-v-arizona-state-of/",
+      "is_active": true
+    },
+    "name": "United States v. Arizona",
+    "never_filed": false,
+    "non_docket_case_number": "",
+    "non_docket_case_number_type": null,
+    "non_docket_case_number_type_other": "",
+    "order_end_year": null,
+    "order_start_year": null,
+    "permanent_injunction": false,
+    "plaintiff_description": "The United States of America (federal government)",
+    "plaintiff_type": [
+      {
+        "value": "Non-DOJ federal government plaintiff"
+      }
+    ],
+    "prevailing_party": "Plaintiff",
+    "pro_se_status": "No",
+    "public_interest_lawyer": "No",
+    "related_cases": [],
+    "relief_natures": [
+      "Injunction / Injunctive-like Settlement",
+      "Declaratory Judgment"
+    ],
+    "relief_nature_other": "",
+    "relief_sources": [
+      "Litigation"
+    ],
+    "settlement_agreement": [],
+    "settlement_judgment_date": "2018-02-15",
+    "settlement_judgment_year": 2018,
+    "special_collections": [
+      "Law Firm Antiracism Alliance (LFAA) project"
+    ],
+    "special_case_type": [],
+    "state": "Arizona",
+    "summary": "<p>This case is about absent uniformed service voters' and overseas voters' ability to vote in federal elections in Arizona.&nbsp; On February 14, 2018, the United States filed this lawsuit in the U.S. District Court for the District of Arizona, before District Judge Douglas L. Rayes.&nbsp; The United States sued Arizona and Michele Reagan (Secretary of Arizona), in her official capacity, under the Uniformed and Overseas Citizens Absentee Voting Act (UOCAVA). The United States alleged that Arizona violated Section 102(a)(8)(A) of the Act and sought an order requiring Arizona to ensure compliance with that provision for the February 27, 2018 special primary election for the House of Representatives and in future special elections for Federal office.</p>\r\n<p>Section 102(a)(8)(A) requires that states transmit validly requested ballots to UOCAVA voters not later than 45 days before an election for Federal office when the request is received at least 45 days before the election.&nbsp;&nbsp;52 U.S.C. &sect; 20302(a)(8)(A).&nbsp; Under Arizona law, when a vacancy occurred in the office of a representative in Congress more than six months before the next general election, the governor would call a special primary election and special general election for at least 80 and no more than 90 days after the vacancy.&nbsp; Ariz. Stat. &sect; 16-222(B).</p>\r\n<p>On December 8, 2017, Arizona Representative Trent Franks resigned from Congress.&nbsp; The governor set the special primary election for February 27, 2018, and the special general election for April 24, 2018.&nbsp; Candidates were required to file nominating petitions for the special primary election by January 10, 2018, and any challenges to such petitions by January 18, 2018.&nbsp; Ariz. Rev. Stat. &sect; 16-222(B).&nbsp; The deadlines for transmission of absentee ballots to UOCAVA voters who timely requested them was January 13, 2018, for the special primary election and March 10, 2018, for the special general election.&nbsp;</p>\r\n<p>On January 13, 2018, Arizona officials sent ballots to eligible UOCAVA voters.&nbsp; Officials included a notice explaining that the list of candidates was not final because of potential challenges, that the final list of candidates would be confirmed January 25, 2018, and that another ballot would be sent then.&nbsp; The notice stated that voters could vote on the initial ballot or wait for the updated ballot but if they voted on the initial ballot for a candidate that was later disqualified, they would not be allowed to vote on the updated ballot or change their vote.&nbsp;</p>\r\n<p>On January 23, 2018, a Democratic Party candidate was removed from the ballot.&nbsp; That same day, Arizona officials sent corrected ballots reflecting the removal to UOCAVA voters who had requested Democratic ballots and advising that to be counted ballots had to be received by 7 p.m. on Election Day, February 27, 2018&mdash;35 days after when the corrected ballots were sent.&nbsp; UOCAVA voters who received Republican Party, Libertarian Party, or Green Party ballots were never sent an \"updated official ballot\" because the relevant candidates were not challenged, but the notice stating as much was not sent till January 19, 2018&mdash;39 days before Election Day. &nbsp;The United States alleged that the 35-day and 39-day periods violated UOCAVA's requirement that states transmit ballots to UOCAVA voters not later than 45 days before an election.&nbsp;</p>\r\n<p>The same day the United States filed its complaint (February 14, 2018), the United States and Arizona and Secretary Reagan filed a joint motion requesting expedited entry of a consent decree.&nbsp; The motion stated that the parties had agreed to a proposed consent decree.</p>\r\n<p>On February 15, 2018, the district court entered the parties' proposed consent decree.&nbsp; The decree ordered in relevant part that: (1) Arizona officials count original ballots from UOCAVA voters sent on January 12, 2018; all corrected ballots from UOCAVA voters sent on January 23, 2018; and any Federal Write-In Absentee Ballots; (2) Arizona officials should inform UOCAVA voters who had not yet returned a final ballot about this consent decree and ensure that such voters know the ballot-return deadlines; and (3) Arizona officials ensure that UOCAVA voters are able to participate in future Federal elections.&nbsp; The case closed upon the district court's entry of the consent decree (though the district court retained jurisdiction over this action through September 30, 2018). &nbsp;</p>\r\n<p>&nbsp;</p>\r\n<p>&nbsp;</p>\r\n<p>&nbsp;</p>",
+    "summary_published_date": "2024-02-10T16:40:11.392360-05:00",
+    "summary_short": "This case is about absent uniformed service voters' and overseas voters' ability to vote in federal elections in Arizona.  The United States sued Arizona and the Secretary of Arizona under the Uniformed and Overseas Citizens Absentee Voting Act (UOCAVA) in the U.S. District Court for the District of Arizona.  The United States alleged that Arizona violated Section 102(a)(8)(A) of the Act by failing to adhere to time requirements for sending UOCAVA voters ballots for the February 27, 2018 special primary election for the House of Representatives.  The United States and Arizona agreed to a consent decree requiring state officials to ensure that timely UOCAVA voters' ballots would be counted.  This case closed on February 15, 2018, when the district court entered the consent decree.",
+    "summary_tiny": null,
+    "terminating_date": "2018-02-15",
+    "clearinghouse_link": "clearinghouse.net/case/43348",
+    "is_active": true,
+    "case_documents_url": "https://clearinghouse.net/api/v2/documents/?case=43348",
+    "case_dockets_url": "https://clearinghouse.net/api/v2/dockets/?case=43348",
+    "case_resources_url": "https://clearinghouse.net/api/v2/resources/?case=43348"
+  },
+  "documents": [
+    {
+      "date": null,
+      "date_is_estimate": false,
+      "date_not_available": false,
+      "description": null,
+      "document_source": null,
+      "document_status": null,
+      "document_type": null,
+      "order_type": null,
+      "citation_paren": null,
+      "cite_1_page": null,
+      "cite_1_reporter": null,
+      "cite_1_vol": null,
+      "cite_2_page": null,
+      "cite_2_reporter": null,
+      "cite_2_vol": null,
+      "cite_3_page": null,
+      "cite_3_reporter": null,
+      "cite_3_vol": null,
+      "citation_status": null,
+      "court": null,
+      "no_title": false,
+      "party_types": [],
+      "per_curium": false,
+      "is_core_document": true,
+      "id": 131437,
+      "file": null,
+      "title": null,
+      "text": null,
+      "document_type_other": null,
+      "external_url": null,
+      "ecf_number": null,
+      "clearinghouse_link": "clearinghouse.net/doc/131437"
+    },
+    {
+      "date": "2018-02-14",
+      "date_is_estimate": false,
+      "date_not_available": false,
+      "description": "",
+      "document_source": "RECAP",
+      "document_status": "Coding Complete",
+      "document_type": "Pleading / Motion / Brief",
+      "order_type": null,
+      "citation_paren": null,
+      "cite_1_page": null,
+      "cite_1_reporter": null,
+      "cite_1_vol": null,
+      "cite_2_page": null,
+      "cite_2_reporter": null,
+      "cite_2_vol": null,
+      "cite_3_page": null,
+      "cite_3_reporter": null,
+      "cite_3_vol": null,
+      "citation_status": "Not applicable",
+      "court": "District of Arizona",
+      "no_title": false,
+      "party_types": [
+        "Defendant",
+        "Plaintiff"
+      ],
+      "per_curium": false,
+      "is_core_document": true,
+      "id": 133931,
+      "file": "https://clearinghouse-umich-production.s3.amazonaws.com/media/doc/133931.pdf",
+      "title": "Motion for Miscellaneous Relief",
+      "text": "1  JOHN M. GORE  \nActing Assistant Attorney General \n2 \nCivil Rights Division \n3 \nT. CHRISTIAN HERREN, JR. \n4 \nROBERT S. BERMAN\nDAVID G. COOPER (NY Bar #4683371) \n5 \nNEAL R. UBRIANI (NY Bar #5139217) \n6  Attorneys, Voting Section\nCivil Rights Division\n7 \nU.S. Department of Justice\n8  950 Pennsylvania Avenue, N.W. \nWashington, D.C. 20530\n9 \nTelephone:  (202) 307-2767\nFacsimile:  (202) 307-3961\n10 \nEmail:  david.cooper@usdoj.gov\n11 \nCounsel for Plaintiff \n12 \nUnited States of America \n13 \nIN THE UNITED STATES DISTRICT COURT \n14 \nFOR THE DISTRICT OF ARIZONA \n15 \nUnited States of America, \n16 \n17  Plaintiff, \nCase No.: \n18 \nv. \n19 \n20 \nThe State of Arizona; and   JOINT MOTION REQUESTING \n21  Michele Reagan, Secretary of  EXPEDITED ENTRY OF  \nState of Arizona, in her  CONSENT DECREE \n22 \nofficial capacity, \n23 \n     Defendants. \n24 \n25 \nPlaintiff  United  States  of  America  and  Defendants,  through  their  undersigned \n26 \ncounsel, respectfully move this Court to enter the accompanying Consent Decree. The \n27 \nComplaint in this action is being filed simultaneously with this motion. \n28 \n\n \n \n \n \n1  The United States and Defendants have negotiated in good faith and have agreed to \n2  entry of the proposed Consent Decree as a necessary and appropriate form of relief to \n3  provide UOCAVA voters a fair and reasonable opportunity to participate in the 2018 \n4  special  primary  and  general  election  to  fill  a  vacated  seat  in  Arizona’s  Eighth \n5  Congressional District, and in future special federal elections.  The parties share the goal \n6  of  providing  UOCAVA  voters  with  the  opportunity  guaranteed  by  Federal  law  to \n7  participate in the 2018 special election cycle, as well as future special elections for Federal \n8  office.  Given the imminence of the upcoming special election, and the time-sensitive \n9  provisions for notice to UOCAVA voters contained in the Decree, the parties request the \n10  Court’s expedited consideration of this Joint Motion.     \n11  WHEREFORE, the parties move that the accompanying Consent Decree be entered \n12  by this Court. \n13  AGREED AND CONSENTED TO, February 14, 2018. \n14 \n15 \n16 \n17 \n18 \n19 \n20 \n21 \n22 \n23 \n24 \n25 \n26 \n27 \n28 \n2 \n \n\n1  For the Plaintiff United States of America: \n2 \nJOHN M. GORE  \n3  Acting Assistant Attorney General \nCivil Rights Division \n4 \n5 \n /s/ David G. Cooper \n6 \nT. CHRISTIAN HERREN, JR. \nROBERT S. BERMAN\n7 \nDAVID G. COOPER (NY Bar #4683371) \n8  NEAL R. UBRIANI (NY Bar #5139217) \nAttorneys, Voting Section\n9 \nCivil Rights Division\n10  U.S. Department of Justice\n950 Pennsylvania Avenue, N.W., Rm. 7254 NWB \n11 \nWashington, D.C. 20530\nTelephone:  (202) 307-2767\n12 \nFacsimile:  (202) 307-3961\n13  Email:  david.cooper@usdoj.gov\n14 \n15  Date: February 14, 2018 \n16 \n17 \n18 \n19 \n20 \n21 \n22 \n23 \n24 \n25 \n26 \n27 \n28 \n3 \n\n \n \n \n \n1  For the Defendants State of Arizona, et al.: \n2 \nMARK BRNOVICH \n3  Attorney General of Arizona \n \n4 \n \n /s/ Joseph E. La Rue       \n5 \nJOSEPH E. LA RUE (AZ Bar #031348)  \n6  Assistant Attorney General \nState Government Division \n7 \n2005 N. Central Avenue \n8  Phoenix, AZ 85007 \nTelephone:  (602) 542-1763  \n9 \nFacsimile: (602) 542-4385 \n10  Email:  joseph.larue@azag.gov \n \n11   \nDate: February 14, 2018 \n12 \n13   \n14 \n \n15 \n \n16 \n17 \n18 \n19 \n20 \n21 \n22 \n23 \n24 \n25 \n26 \n27 \n28 \n4 \n \n\n \n \n \n \n1  CERTIFICATE OF SERVICE \n2    I hereby certify that on February 14, 2018, I electronically transmitted the attached \n3  document to the Clerk’s Office using the CM/ECF System for filing and transmittal of a \n4  Notice of Electronic Filing to the following CM/ECF registrants:  \n \n5 \nJOSEPH E. LARUE    \n6  Assistant Attorney General \nState Government Division \n7 \n2005 N. Central Avenue \n8  Phoenix, AZ 85007 \nTelephone:  (602) 542-1763  \n9 \nFacsimile: (602) 542-4385 \nEmail:  joseph.larue@azag.gov \n10 \n \n11 \n \n               \n12 \n                /s/ David G. Cooper   \n13  David G. Cooper \n     \n14 \n \n15 \n \n16 \n17 \n18 \n19 \n20 \n21 \n22 \n23 \n24 \n25 \n26 \n27 \n28 \n5 \n ",
+      "document_type_other": null,
+      "external_url": "https://www.courtlistener.com/docket/6305721/2/united-states-v-arizona-state-of/",
+      "ecf_number": "2",
+      "clearinghouse_link": "clearinghouse.net/doc/133931"
+    },
+    {
+      "date": "2018-02-15",
+      "date_is_estimate": false,
+      "date_not_available": false,
+      "description": "",
+      "document_source": "RECAP",
+      "document_status": "Coding Complete",
+      "document_type": "Order/Opinion",
+      "order_type": "Consent Decree",
+      "citation_paren": null,
+      "cite_1_page": null,
+      "cite_1_reporter": null,
+      "cite_1_vol": null,
+      "cite_2_page": null,
+      "cite_2_reporter": null,
+      "cite_2_vol": null,
+      "cite_3_page": null,
+      "cite_3_reporter": null,
+      "cite_3_vol": null,
+      "citation_status": "No citation available",
+      "court": "District of Arizona",
+      "no_title": false,
+      "party_types": [
+        "Court"
+      ],
+      "per_curium": false,
+      "is_core_document": true,
+      "id": 133930,
+      "file": "https://clearinghouse-umich-production.s3.amazonaws.com/media/doc/133930.pdf",
+      "title": "Consent Decree",
+      "text": " \nCase 2:18-cv-00505-DLR   Document 8   Filed 02/15/18   Page 1 of 12\n \n \n \n1   \n2   \n3   \n4   \n5   \n6  IN THE UNITED STATES DISTRICT COURT \n7  FOR THE DISTRICT OF ARIZONA \n \n8 \n \n9  United States of America,  No. CV-18-00505-PHX-DLR \n   \n10  Plaintiff,  CONSENT DECREE \n \n11  v.  \n \n12  State of Arizona, et al., \n \n13  Defendants. \n \n14   \n15   \n16    Before  the  Court  is  the  parties’  Joint  Motion  Requesting  Expedited  Entry  of \n17  Consent Decree.  (Doc. 2.)  \n18     Plaintiff United States of America initiated this action against the State of Arizona \n19  (“State”); and Michele Reagan, the Secretary of State of Arizona, in her official capacity \n20  (collectively “Defendants”), to enforce the requirements of the Uniformed and Overseas \n21  Citizens Absentee Voting Act (“UOCAVA”), 52 U.S.C. § 20301 et seq.  The United \n22  States’ Complaint alleges a violation of UOCAVA arising from the Defendants’ inability \n23  to transmit final or corrected absentee ballots to some of Arizona’s absent uniformed \n24  services  voters  and  overseas  voters  (“UOCAVA voters”)  by  the  45th  day  before  the \n25  February  27,  2018  special  primary  election  for  the  United  States  House  of \n26  Representatives,  as  required  by  Section  102(a)(8)(A)  of  UOCAVA,  52  U.S.C.  § \n27  20302(a)(8). \n28    The  United  States  and  Defendants,  through  their  respective  counsel,  have \n \n\n \nCase 2:18-cv-00505-DLR   Document 8   Filed 02/15/18   Page 2 of 12\n \n \n \n1  conferred and agree that this action should be settled without the delay and expense of \n2  litigation.    The  parties  share  the  goal  of  providing  eligible  UOCAVA  voters  with \n3  sufficient opportunity under Federal law to receive, cast and have their absentee ballots \n4  counted  in  the  February  27,  2018  special  primary  election  for  Arizona’s  Eighth \n5  Congressional District.  The parties recognize that the Defendants’ inability to transmit \n6  final or corrected absentee ballots to the UOCAVA voters at least 45 days before the \n7  special primary election resulted from the truncated special election schedule established \n8  by  state  law,  specifically  the  application  of  deadlines  for  challenges  to  candidates’ \n9  nominating signature petitions, and did not result from willful or unintentional negligence \n10  by the state and local election officials responsible for implementing federal and state \n11  election laws.  The parties have negotiated in good faith and agree to the entry of this \n12  Consent Decree as an appropriate resolution of the UOCAVA violation asserted by the \n13  United States.  Accordingly, the United States and Defendants stipulate and agree that: \n14  1.  This action is brought by the Attorney General on behalf of the United States \n15  of  America  under  UOCAVA.    52  U.S.C.  § 20301  et  seq.    UOCAVA  provides  that \n16  UOCAVA voters shall be permitted “to use absentee registration procedures and to vote \n17  by absentee ballot in general, special, primary, and runoff elections for Federal office.”  \n18  52 U.S.C. § 20302. \n19  2.  The Attorney General is authorized to enforce the provisions of UOCAVA, 52 \n20  U.S.C. § 20307, and this Court has jurisdiction of this action pursuant to 52 U.S.C. \n21  § 20307 and 28 U.S.C. §§ 1345 and 2201. \n22  3.   Defendant State of Arizona is responsible for complying with UOCAVA and \n23  ensuring that validly requested absentee ballots are transmitted to UOCAVA voters in \n24  accordance with the statute’s terms.  52 U.S.C. § 20302.      \n25  4.   Defendant Michele Reagan is the Arizona Secretary of State and is sued in her \n26  official capacity.   The Arizona Secretary of State is the chief state election officer and \n27  responsible for the coordination of state responsibilities under UOCAVA.  Ariz. Rev. \n28  Stat. § 16-142.   \n \n- 2 - \n\n \nCase 2:18-cv-00505-DLR   Document 8   Filed 02/15/18   Page 3 of 12\n \n \n \n1  5.  Section  102(a)(8)(A)  of  UOCAVA  requires  that  states  transmit  validly \n2  requested ballots to UOCAVA voters not later than 45 days before an election for Federal \n3  office when the request is received at least 45 days before the election.  52 U.S.C. \n4  § 20302(a)(8)(A).     \n5  6.  Pursuant to the Arizona election code, when a vacancy occurs in the office of a \n6  representative in Congress more than six months prior to the next general election, the \n7  governor shall call a special primary election and special general election for at least 80 \n8  and no more than 90 days from the date of the occurrence of the vacancy.  Ariz. Rev. \n9  Stat. § 16-222(B).  On December 8, 2017, Representative Trent Franks resigned from \n10  Congress.  Representative Franks represented the Eighth Congressional District, which is \n11  located entirely within Maricopa County.  The governor set February 27, 2018 as the date \n12  for the special primary election and April 24, 2018 as the date for the special general \n13  election. \n14  7.  Under Arizona’s election code, candidates were required to file nominating \n15  petitions for the special primary election by January 10, 2018, and the deadline to file \n16  challenges to such nominating petitions was January 18, 2018.  Ariz. Rev. Stat. § 16-\n17  222(B). \n18  8.  The deadline for transmission of absentee ballots to UOCAVA voters who \n19  requested them at least 45 days before the special primary election was January 13, 2018.  \n20  The deadline for transmission of absentee ballots to UOCAVA voters who requested \n21  them at least 45 days before the special general election is March 10, 2018. \n22  9.  On or about January 8, 2018, recognizing that petition challenges might occur \n23  after the deadline to transmit UOCAVA ballots, the Defendants contacted the Department \n24  of Defense and inquired about the possibility of obtaining a waiver of UOCAVA’s 45-\n25  day transmission requirement under 52 U.S.C. § 20302(g).  On or about January 10, \n26  2018, the Department of Defense contacted the Defendants and explained that the state \n27  was not eligible to seek a UOCAVA waiver under the circumstances presented.   \n28 \n \n- 3 - \n\n \nCase 2:18-cv-00505-DLR   Document 8   Filed 02/15/18   Page 4 of 12\n \n \n \n1  10.  On January 12, 2018, the day before the UOCAVA transmission deadline, \n2  Maricopa  County  election  officials  transmitted  ballots  (the  “original  ballots”)  to  all \n3  eligible UOCAVA voters who had requested them by that date. \n4  11.  Because  of  the  possibility  that  changes  to  the  ballot  could  result  from \n5  challenges  to  a  candidate’s  nominating  petition,  Maricopa  County  election  officials \n6  included a notice with the original ballots explaining that the list of candidates was not \n7  yet final due to potential candidate nomination petition challenges, and the final list of \n8  candidates would not be confirmed until January 25, 2018.  The notice advised that an \n9  updated official ballot would be sent on that date.  It further advised that voters could \n10  choose to vote the enclosed ballot, or wait for the updated ballot; but, if they voted the \n11  enclosed ballot and cast their vote for a candidate who was subsequently disqualified, \n12  they would not be able to vote a second ballot or change their vote.  A copy of this notice \n13  is attached as Exhibit 1.    \n14  12.  Some of the UOCAVA voters to whom original ballots were sent on January \n15  12,  2018  received  Republican  Party,  Libertarian  Party,  or  Green  Party  ballots.    No \n16  challenges were ultimately filed by the January 18, 2018 deadline to the candidates on the \n17  Republican Party, Libertarian Party, or Green Party ballots.  Accordingly, on January 19, \n18  2018, Maricopa County election officials sent a second notice to those voters explaining \n19  that no candidate petition challenge had been filed for the Republican, Libertarian or \n20  Green  Party  nomination.  Therefore,  eligible  UOCAVA  voters  were  notified  that  the \n21  ballot transmitted on January 12, 2018 had not changed and voters should cast that \n22  original ballot.  The notice further advised that the UOCAVA voters should return their \n23  voted ballot so that it is received no later than 7:00 p.m. on election day, February 27, \n24  2018.  A copy of this notice is attached as Exhibit 2. \n25  13.  Some of the UOCAVA voters to whom original ballots were sent on January \n26  12, 2018 received Democratic Party ballots.  These ballots (the “original Democratic \n27  ballots”)  included  the  names  of  three  candidates  who  had  filed  timely  nominating \n28  petitions.  Challenges were ultimately filed by January 18, 2018 to two of these three \n \n- 4 - \n\n \nCase 2:18-cv-00505-DLR   Document 8   Filed 02/15/18   Page 5 of 12\n \n \n \n1  candidates.   On January 23, 2018, a challenge to one of the Democratic Party candidates \n2  was sustained by a state court, and the candidate was ordered removed from the ballot.  \n3  On January 23, 2018, Maricopa County election officials sent corrected ballots reflecting \n4  this change (the “corrected Democratic ballots”) to UOCAVA voters who had received \n5  original  Democratic  ballots.    Along  with  the  corrected  Democratic  ballots,  election \n6  officials included a notice explaining that one of the candidates listed on the ballot mailed \n7  on January 12, 2018 had been removed pursuant to a court order. Therefore, the notice \n8  explained that the voter should cast a corrected ballot for the Democratic Party nominee, \n9  which was enclosed with the notice.  The notice further advised the UOCAVA voters to \n10  vote the corrected ballot included with the notice and to return it so that it is received by \n11  7:00 p.m. on Election Day, February 27, 2018.  A copy of this notice is attached as \n12  Exhibit 3. \n13  14.    The corrected Democratic ballots were transmitted either electronically or by \n14  postal mail based on the voters’ preferred transmittal method.  All UOCAVA voters have \n15  the option to return their ballots by electronic upload, facsimile, or mail, regardless of \n16  their previously requested transmittal method.      \n17  15.   Under Arizona law, ballots returned by UOCAVA voters must be received by \n18  7:00  p.m.  on  Election  Day  to  be  counted.    See  Ariz.  Rev.  Stat.  §§ 16-547(C)  and \n19  16-551(C).  Accordingly, in order to be counted, the corrected Democratic ballots must \n20  be received by 7:00 p.m. on February 27, 2018, which is 35 days after the date of \n21  transmittal of the corrected ballots. \n22  16.  The truncated special election schedule established by Arizona law precluded \n23  the Defendants from transmitting final or corrected ballots to UOCAVA voters receiving \n24  a Democratic Party ballot by the 45th day before the February 27, 2018 special primary \n25  election  for  the  House  of  Representatives,  as  required  by  Section  102(a)(8)(A)  of \n26  UOCAVA, 52 U.S.C. § 20302(a)(8).   \n27  17.  Furthermore, the notice sent to all UOCAVA voters for all parties on January \n28  12 along with the original ballots encouraged voters to await further notice to submit their \n \n- 5 - \n\n \nCase 2:18-cv-00505-DLR   Document 8   Filed 02/15/18   Page 6 of 12\n \n \n \n1  ballots, and to await receipt of an “updated official ballot.”  However, UOCAVA voters \n2  who received Republican Party, Libertarian Party, or Green Party ballots were never sent \n3  an “updated official ballot,” and a second notice advising that there was no change to the \n4  ballot was not transmitted until January 19, 2018.  To be counted, these original ballots \n5  must be received by February 27, 2018, which is 39 days after the date of transmittal of \n6  the second notice.  As a result, the Defendants were unable to provide these UOCAVA \n7  voters the meaningful opportunity to cast a ballot that UOCAVA’s 45-day transmission \n8  deadline seeks to ensure.  52 U.S.C. § 20302(a)(8). \n9  18.  By  agreeing  to  this  consent  decree,  the  Defendants  seek  to  ensure  that \n10  UOCAVA voters are not prejudiced because of the truncated special election schedule \n11  required by Arizona law. \n12  19.   To avoid the burdens, delays, and uncertainties of litigation and to efficiently \n13  and expeditiously promote the parties’ shared goal of ensuring that Arizona’s UOCAVA \n14  voters will have sufficient opportunity under Federal law to receive, mark and return their \n15  absentee ballots in time to be counted for the February 27, 2018 special primary election \n16  for the House of Representatives, the parties agree that this Court should enter an order as \n17  set forth below. \n18  20.   The parties reserve the right to modify this agreement as necessary, subject to \n19  approval from the Court.  For example, Arizona law allows for the possibility of an \n20  automatic recount in a close election.  Ariz. Rev. Stat. § 16-661.  The parties will confer \n21  promptly after the special primary election is held and, if necessary, seek appropriate \n22  modification of this decree or other relief from the Court. \n23    Accordingly, the parties having freely given their consent, and the terms of the \n24  Decree being fair, reasonable, and consistent with the requirements of UOCAVA,  \n25    IT IS ORDERED as follows: \n26  (1) To ensure that all eligible UOCAVA voters will have sufficient \n27  opportunity to receive absentee ballots they have requested and \n28  to submit marked absentee ballots in time to be counted for the \n \n- 6 - \n\n \nCase 2:18-cv-00505-DLR   Document 8   Filed 02/15/18   Page 7 of 12\n \n \n \n1  February  27,  2018  special  primary  election  for  the  House  of \n2  Representatives,  the  Defendants  shall  ensure  that  Maricopa \n3  County  election  officials  count:  (a)  all  those  original  ballots \n4  transmitted to UOCAVA voters on January 12, 2018, but only if \n5  that ballot is the only ballot returned by the UOCAVA voter, (b) \n6  all those corrected ballots transmitted to UOCAVA voters on \n7  January 23, 2018, and (c) any Federal Write-In Absentee Ballots.  \n8  In order for any ballot described in sections (a) – (c) above to be \n9  counted, the ballot must be otherwise valid under state law and \n10  meet the following transmittal criteria: \n11  a.  For ballots returned by postal or express mail: the ballot \n12  must be executed and sent by February 27, 2018 and be \n13  received by March 9, 2018 at 12:00 Noon Arizona time. \n14  b.  For ballots returned via any electronic submittal, including \n15  e-mail, facsimile, or electronic upload:  the ballot must be \n16  received by February 27, 2018 at 7:00 p.m. Arizona time. \n17  (2) Defendants shall take such steps as are necessary to afford those \n18  eligible UOCAVA voters who have not already returned a final \n19  ballot for this election (i.e., a Republican, Green, or Libertarian \n20  ballot, or a corrected Democratic ballot) an opportunity to learn \n21  of this Court’s order and to ensure that all such voters receive \n22  appropriate instructions explaining ballot return deadlines and the \n23  options and procedures for returning a ballot.  Maricopa County \n24  election  officials  have  valid  email  addresses  for  all  375 \n25  UOCAVA voters eligible to vote in this special primary election \n26  and will transmit such notice by email no later than the next \n27  business day following entry of this Order by the Court.  If any \n28  such emailed notice to a voter is returned as undeliverable, the \n \n- 7 - \n\n \nCase 2:18-cv-00505-DLR   Document 8   Filed 02/15/18   Page 8 of 12\n \n \n \n1  notice shall be sent to the voter by United States Postal Service \n2  Express Overnight mail or other overnight delivery method if the \n3  voter is overseas, or by postal mail if the voter is not overseas.  \n4  Such notice shall, at minimum: (a) ask UOCAVA voters who \n5  received  Democratic  Party  ballots  to  confirm  that  they  have \n6  received corrected Democratic ballots and no impediments exist \n7  for a timely return of the corrected ballot; (b) ask UOCAVA \n8  voters  who  received  Republican  Party,  Libertarian  Party,  or \n9  Green  Party  ballots  to  confirm  that  they  have  received  their \n10  original ballot and the additional notice regarding its finality and \n11  no impediments exist for a timely return of the original ballot; (c) \n12  explain  the  relevant  deadlines  for  executing  and  returning  all \n13  original and corrected ballots by electronic upload, facsimile, and \n14  postal mail; (d) explain to any voter who identifies impediments \n15  to a timely return of the ballot that it may be returned by the \n16  electronic  upload  and  facsimile  return  options,  or  by  United \n17  States Postal Service Express Overnight mail or other overnight \n18  delivery  method  with  prepaid  postage;  and  (e)  provide \n19  appropriate contact information for additional assistance.  A copy \n20  of Maricopa County election officials’ planned notice is attached \n21  as Exhibit 4.   \n22  (3) The Defendants shall provide a report no later than two business \n23  days after entry of this Order by the Court in an agreed-upon \n24  format to the United States Department of Justice, confirming \n25  that each UOCAVA voter has been provided the individualized \n26  notice described in paragraph (2) above.  If any UOCAVA voters \n27  have not been contacted by that date, Defendants shall continue \n28 \n \n- 8 - \n\n \nCase 2:18-cv-00505-DLR   Document 8   Filed 02/15/18   Page 9 of 12\n \n \n \n1  to attempt to contact such voters and shall provide the United \n2  States updates on an agreed upon schedule. \n3  (4) Defendants shall file a report with this Court no later than March \n4  31, 2018, in a format agreed upon by the parties, concerning the \n5  number  of  UOCAVA  ballots  received  and  counted  for  the \n6  February 27, 2018 special primary election.   \n7  (5) If  necessary  to  ensure  compliance  with  UOCAVA’s  45-day \n8  transmission deadline of March 10 for the April 24, 2018 special \n9  general  election,  election  results  for  the  February  27,  2018 \n10  special primary election may be formally canvassed and certified \n11  in accordance with state law at any time prior to March 9, 2018 if \n12  the  number  of  outstanding  absentee  ballots  from  UOCAVA \n13  voters that have not been returned could not mathematically alter \n14  the outcome of the election, subject to amendment, re-canvass, or \n15  re-certification  to  later  add  any  votes  from  UOCAVA  ballots \n16  accepted in accordance with this Court’s Order.  Thus, under the \n17  circumstances  described  in  this  paragraph,  Maricopa  County \n18  election officials may transmit UOCAVA ballots for the April \n19  24, 2018 special general election notwithstanding the possibility \n20  that  the  results  of  the  special  primary  election  may  be \n21  subsequently re-canvassed and re-certified.  These procedures are \n22  designed to ensure that state and county election officials can \n23  maintain existing canvassing and certification deadlines for the \n24  special  primary  election  and  can  timely  transmit  UOCAVA \n25  ballots to voters by the March 10, 2018 45-day deadline before \n26  the April 24, 2018 special general election. \n27  (6) If, under the terms of paragraph (5), the results of the primary \n28  election are canvassed and certified before March 9, 2018 and \n \n- 9 - \n\n \nCase 2:18-cv-00505-DLR   Document 8   Filed 02/15/18   Page 10 of 12\n \n \n \n1  there  are  outstanding  UOCAVA  ballots  that  have  not  been \n2  received for a particular party’s primary, and the canvassed and \n3  certified  results  for  that  party’s  primary  show  a  margin \n4  sufficiently small so as to require an automatic recount under \n5  Ariz. Rev. Stat. § 16-661, the recount may proceed immediately \n6  under the procedures required by state law, and the results of the \n7  recount shall include all UOCAVA ballots required to be counted \n8  by this Order. \n9  (7) If the transmission of UOCAVA ballots for the special general \n10  election is delayed up to five days beyond the March 10, 2018 \n11  deadline  due  to  a  delay  in  canvassing  and  certifying,  or \n12  completing an automatic recount of, the results of the special \n13  primary  election  due  to  the  extension  of  the  ballot  receipt \n14  deadline effected by this Order, the deadline for receipt of special \n15  general election ballots returned by UOCAVA voters by postal or \n16  express mail, and executed and sent by April 24, 2018, shall be \n17  extended  beyond  April  24,  2018  by  the  number  of  days  past \n18  March 10, 2018 that the ballots were transmitted.  No later than \n19  two  business  days  following  the  transmission  of  UOCAVA \n20  ballots  for  the  special  general  election,  the  Defendants  shall \n21  provide  a  report  to  the  United  States  Department  of  Justice \n22  specifying the date of transmission of UOCAVA ballots for the \n23  special  general  election,  the  number  of  UOCAVA  ballots \n24  transmitted by method of transmission, and a copy of any notice \n25  of receipt deadline extension provided to UOCAVA voters. \n26  (8) In the event the ballot receipt deadline for the special general \n27  election is extended beyond April 24, 2018 under the terms of the \n28  preceding  paragraph,  election  results  for  the  special  general \n \n- 10 - \n\n \nCase 2:18-cv-00505-DLR   Document 8   Filed 02/15/18   Page 11 of 12\n \n \n \n1  election may be formally canvassed and certified in accordance \n2  with state law at any time prior to the ballot receipt deadline if \n3  the  number  of  outstanding  absentee  ballots  from  UOCAVA \n4  voters could not mathematically alter the outcome of the election, \n5  subject to amendment or re-certification to later add any votes \n6  from UOCAVA ballots accepted in accordance with this Court’s \n7  Order. \n8  (9) Should it at any time appear that, due to a delay in canvassing \n9  and certifying, or completing an automatic recount of, the results \n10  of the special primary election due to the extension of the ballot \n11  receipt deadline effected by this Order, Maricopa County election \n12  officials  will  be  unable  to  transmit  UOCAVA  ballots  for  the \n13  special general election by March 15, 2018, the Defendants shall \n14  promptly notify the United States of the circumstances causing \n15  the  expected  delay,  and  the  parties  shall  meet  and  confer  to \n16  discuss  appropriate  modification  of  this  Order  and  other \n17  necessary relief from this Court, such as express delivery and \n18  return of UOCAVA ballots, alternative transmission methods for \n19  UOCAVA ballots, additional notice to UOCAVA voters, and/or \n20  other appropriate remedial measures. \n21  (10)Defendants shall take such actions as are necessary to assure that \n22  UOCAVA voters shall have a fair and reasonable opportunity to \n23  participate  in  future  Federal  elections,  including  proposing \n24  legislation and taking any administrative actions needed to fully \n25  remedy potential UOCAVA violations arising from Arizona law \n26  governing the State’s special election calendar.  The parties agree \n27  to confer on the progress of these efforts, and Defendants shall \n28 \n \n- 11 - \n\n \nCase 2:18-cv-00505-DLR   Document 8   Filed 02/15/18   Page 12 of 12\n \n \n \n1  provide a status report to the United States Department of Justice \n2  by June 30, 2018. \n3  The Court shall retain jurisdiction over this action through September 30, 2018, to \n4  enter such further relief as may be necessary for the effectuation of the terms of this \n5  Consent Decree, including entry of such other relief as may be necessary to abate any \n6  violation of UOCAVA. \n7    Dated this 15th day of February, 2018. \n8   \n \n9 \n \n10 \n11 \nDouglas L. Rayes \n12  United States District Judge \n \n13 \n \n14 \n \n15 \n16 \n17 \n18 \n19 \n20 \n21 \n22 \n23 \n24 \n25 \n26 \n27 \n28 \n \n- 12 - ",
+      "document_type_other": null,
+      "external_url": "https://www.courtlistener.com/docket/6305721/8/united-states-v-arizona-state-of/",
+      "ecf_number": "8",
+      "clearinghouse_link": "clearinghouse.net/doc/133930"
+    },
+    {
+      "date": "2018-02-14",
+      "date_is_estimate": false,
+      "date_not_available": false,
+      "description": "",
+      "document_source": "RECAP",
+      "document_status": "Coding Complete",
+      "document_type": "Complaint",
+      "order_type": null,
+      "citation_paren": null,
+      "cite_1_page": null,
+      "cite_1_reporter": null,
+      "cite_1_vol": null,
+      "cite_2_page": null,
+      "cite_2_reporter": null,
+      "cite_2_vol": null,
+      "cite_3_page": null,
+      "cite_3_reporter": null,
+      "cite_3_vol": null,
+      "citation_status": "Not applicable",
+      "court": "District of Arizona",
+      "no_title": false,
+      "party_types": [
+        "Plaintiff"
+      ],
+      "per_curium": false,
+      "is_core_document": true,
+      "id": 133932,
+      "file": "https://clearinghouse-umich-production.s3.amazonaws.com/media/doc/133932.pdf",
+      "title": "Complaint",
+      "text": "Case 2:18-cv-00505-DLR   Document 1   Filed 02/14/18   Page 1 of 7\n1  JOHN M. GORE  \nActing Assistant Attorney General \n2 \nCivil Rights Division \n3 \nT. CHRISTIAN HERREN, JR. \n4 \nROBERT S. BERMAN\n5  DAVID G. COOPER (NY Bar #4683371) \nNEAL R. UBRIANI (NY Bar #5139217) \n6 \nAttorneys, Voting Section\n7  Civil Rights Division\nU.S. Department of Justice\n8 \n950 Pennsylvania Avenue, N.W. \n9  Washington, D.C. 20530\nTelephone:  (202) 307-2767\n10 \nFacsimile:  (202) 307-3961\nEmail:  david.cooper@usdoj.gov\n11 \n12 \nCounsel for Plaintiff  \nUnited States of America \n13 \n14  IN THE UNITED STATES DISTRICT COURT \n15  FOR THE DISTRICT OF ARIZONA \n16 \nUnited States of America, \n17 \nPlaintiff, \n18 \nCase No.: \nv. \n19 \n20 \nThe State of Arizona; and   COMPLAINT \n21 \nMichele Reagan, Secretary of \n22  State of Arizona, in her \nofficial capacity, \n23 \n24       Defendants. \n25 \n26 \nThe United States of America alleges: \n27 \n1. This action is brought by the Attorney General on behalf of the United States of\n28 \nAmerica under the Uniformed and Overseas Citizens Absentee Voting Act \n\n \nCase 2:18-cv-00505-DLR   Document 1   Filed 02/14/18   Page 2 of 7\n \n \n \n1  (“UOCAVA”), 52 U.S.C. §§ 20301 et seq.  UOCAVA requires that absent uniformed \n2  services voters and overseas voters (“UOCAVA voters”) shall be permitted “to use \n3  absentee registration procedures and to vote by absentee ballot in general, special, \n4  primary, and runoff elections for Federal office.”  52 U.S.C. § 20302(a)(1).   \n5  2.  The Attorney General is authorized to enforce the provisions of UOCAVA, 52 \n6  U.S.C. § 20307, and brings this action for declaratory and injunctive relief to ensure that \n7  UOCAVA voters will have the opportunity to vote guaranteed by UOCAVA in Arizona’s \n8  2018 special election cycle to fill a vacancy in the State’s Eighth Congressional District, \n9  and in future special elections for the House of Representatives.  This Court has \n10  jurisdiction of this action pursuant to 52 U.S.C. § 20307 and 28 U.S.C. §§ 1345 and \n11  2201. \n12  3.  Defendant State of Arizona is responsible for complying with UOCAVA and \n13  ensuring that validly requested absentee ballots are transmitted to UOCAVA voters in \n14  accordance with the statute’s terms.  52 U.S.C. § 20302. \n15  4.  Defendant Michele Reagan is the Arizona Secretary of State and is sued in her \n16  official capacity.  The Arizona Secretary of State is the chief state election officer and \n17  responsible for the coordination of state responsibilities under UOCAVA.  Ariz. Rev. \n18  Stat. § 16-142.   \n19  5.  Section 102(a)(8)(A) of UOCAVA requires that states transmit validly requested \n20  ballots to UOCAVA voters not later than 45 days before an election for Federal office \n21  when the request is received at least 45 days before the election.  52 U.S.C. § \n22  20302(a)(8)(A).     \n23  6.  Pursuant to the Arizona election code, when a vacancy occurs in the office of a \n24  representative in Congress more than six months prior to the next general election, the \n25  governor shall call a special primary election and special general election for at least 80 \n26  and no more than 90 days from the date of the occurrence of the vacancy.  Ariz. Rev. \n27  Stat. § 16-222(B).  On December 8, 2017, Representative Trent Franks resigned from \n28  Congress.  Representative Franks represented the Eighth Congressional District, which is \n2 \n \n\n \nCase 2:18-cv-00505-DLR   Document 1   Filed 02/14/18   Page 3 of 7\n \n \n \n1  located entirely within Maricopa County.  The governor set February 27, 2018 as the date \n2  for the special primary election and April 24, 2018 as the date for the special general \n3  election.   \n4  7.    Under Arizona’s election code, candidates were required to file nominating \n5  petitions for the special primary election by January 10, 2018, and the deadline to file \n6  challenges to such nominating petitions was January 18, 2018.  Ariz. Rev. Stat. § 16-\n7  222(B). \n8  8.    The deadline for transmission of absentee ballots to UOCAVA voters who \n9  requested them at least 45 days before the special primary election was January 13, 2018.  \n10  The deadline for transmission of absentee ballots to UOCAVA voters who requested \n11  them at least 45 days before the special general election is March 10, 2018. \n12  9.     On January 12, 2018, the day before the UOCAVA transmission deadline, \n13  Maricopa County election officials transmitted ballots (the “original ballots”) to all \n14  eligible UOCAVA voters who had requested them by that date. \n15  10.    Because of the possibility that changes to the ballot could result from challenges \n16  to a candidate’s nominating petition, Maricopa County election officials included a notice \n17  with the original ballots explaining that the list of candidates was not yet final due to \n18  potential candidate nomination petition challenges, and the final list of candidates would \n19  not be confirmed until January 25, 2018.  The notice advised that an updated official \n20  ballot would be sent on that date.  It further advised that voters could choose to vote the \n21  enclosed ballot, or wait for the updated ballot; but, if they voted the enclosed ballot and \n22  cast their vote for a candidate who was subsequently disqualified, they would not be able \n23  to vote a second ballot or change their vote. \n24  11.   Some of the UOCAVA voters to whom original ballots were sent on January 12, \n25  2018 received Republican Party, Libertarian Party, or Green Party ballots.  No challenges \n26  were ultimately filed by the January 18, 2018 deadline to the candidates on the \n27  Republican Party, Libertarian Party, or Green Party ballots.  Accordingly, on January 19, \n28  2018, Maricopa County election officials sent a second notice to those voters explaining \n3 \n \n\nCase 2:18-cv-00505-DLR   Document 1   Filed 02/14/18   Page 4 of 7\n1  that no candidate petition challenge had been filed for the Republican, Libertarian or \n2  Green Party nomination. Therefore, eligible UOCAVA voters were notified that the \n3  ballot transmitted on January 12, 2018 had not changed and voters should cast that \n4  original ballot.  The notice further advised that the UOCAVA voters should return their \n5  voted ballot so that it is received no later than 7:00 p.m. on Election Day, February 27, \n6  2018. \n7  12.  Some of the UOCAVA voters to whom original ballots were sent on January 12, \n8  2018 received Democratic Party ballots.  These ballots (the “original Democratic \n9  ballots”) included the names of three candidates who had filed timely nominating \n10  petitions.  Challenges were ultimately filed by January 18, 2018 to two of these three \n11  candidates.   On January 23, 2018, a challenge to one of the Democratic Party candidates \n12  was sustained by a state court, and the candidate was ordered removed from the ballot.  \n13  On January 23, 2018, Maricopa County election officials sent corrected ballots reflecting \n14  this change (the “corrected Democratic ballots”) to UOCAVA voters who had received \n15  original Democratic ballots.  Along with the corrected Democratic ballots, election \n16  officials included a notice explaining that one of the candidates listed on the ballot mailed \n17  on January 12, 2018 had been removed pursuant to a court order.  Therefore, the notice \n18  explained that the voter should cast a corrected ballot for the Democratic Party nominee, \n19  which was enclosed with the notice.  The notice further advised the UOCAVA voters to \n20  vote the corrected ballot included with the notice and to return it so that it is received by \n21  7:00 p.m. on Election Day, February 27, 2018. \n22  13.  The corrected Democratic ballots were transmitted either electronically or by \n23  postal mail based on the voters’ preferred transmittal method.  All UOCAVA voters have \n24  the option to return their ballots by electronic upload, facsimile, or mail, regardless of \n25  their previously requested transmittal method.      \n26  14.  Under Arizona law, ballots returned by UOCAVA voters must be received by \n27  7:00 p.m. on Election Day to be counted.  See Ariz. Rev. Stat. §§ 16-547(C) and \n28  16-551(C).  Accordingly, in order to be counted, the corrected Democratic ballots must\n4 \n\n \nCase 2:18-cv-00505-DLR   Document 1   Filed 02/14/18   Page 5 of 7\n \n \n \n1  be received by 7:00 p.m. on February 27, 2018, which is 35 days after the date of \n2  transmittal of the corrected ballots. \n3  15.   The inability of the State to transmit the final absentee ballots to UOCAVA \n4  voters receiving a Democratic Party ballot by the 45th day before the February 27, 2018 \n5  special primary election for the House of Representatives violates Section 102(a)(8)(A) \n6  of UOCAVA, 52 U.S.C. § 20302(a)(8)(A).   \n7  16.    Furthermore, the notice sent to all UOCAVA voters for all parties on January 12 \n8  along with the original ballots encouraged voters to await further notice to submit their \n9  ballots, and to await receipt of an “updated official ballot.”  However, UOCAVA voters \n10  who received Republican Party, Libertarian Party, or Green Party ballots were never sent \n11  an “updated official ballot,” and a second notice advising that there was no change to the \n12  ballot was not transmitted until January 19, 2018.  To be counted, these original ballots \n13  must be received by February 27, 2018, which is 39 days after the date of transmittal of \n14  the second notice.  As a result, these UOCAVA voters have been deprived of the \n15  meaningful opportunity to cast a ballot that UOCAVA’s 45-day transmission deadline \n16  seeks to ensure, which violates Section 102(a)(8)(A) of UOCAVA, 52 U.S.C. § \n17  20302(a)(8)(A). \n18  17.    An order of this Court is now necessary to require Defendants to take corrective \n19  action to protect the rights granted by UOCAVA and to ensure that UOCAVA voters \n20  have sufficient opportunity under Federal law to receive, mark, and return their absentee \n21  ballots in time to be counted for the February 27, 2018 special primary election for the \n22  House of Representatives, and in future special elections for Federal office.   \n23  WHEREFORE, the United States asks this Court to hear this action pursuant to 52 \n24  U.S.C. § 20307 and 28 U.S.C. §§ 1345 and 2201, and:  \n25  (1)  Issue a declaratory judgment under 28 U.S.C. § 2201 that Defendants’ \n26  inability to ensure that final absentee ballots were transmitted to UOCAVA \n27  voters at least 45 days in advance of the February 27, 2018 special primary \n28 \n5 \n \n\n \nCase 2:18-cv-00505-DLR   Document 1   Filed 02/14/18   Page 6 of 7\n \n \n \n1  election for the House of Representatives violates Section 102(a)(8)(A) of \n2  UOCAVA, 52 U.S.C. § 20302(a)(8)(A);  \n3  (2)  Issue a declaratory judgment under 28 U.S.C. § 2201 that the provisions of \n4  the Arizona election code governing the schedule for special elections, to \n5  the extent they impede Defendants’ ability to transmit final absentee ballots \n6  to UOCAVA voters at least 45 days in advance of any special election for \n7  the House of Representatives, violate Section 102(a)(8)(A) of UOCAVA, \n8  52 U.S.C. § 20302(a)(8)(A); and \n9  (3)  Issue injunctive relief ordering the Defendants, their agents and successors \n10  in office, and all persons acting in concert with them: \n11  (a)  To take such steps as are necessary to ensure that UOCAVA voters \n12  have sufficient opportunity in accordance with UOCAVA to receive, \n13  mark, and return their ballots in time to have them counted for the \n14  2018 special primary and general election for the House of \n15  Representatives;   \n16  (b)  To take such steps as are necessary to afford UOCAVA voters \n17  affected by the Court’s order a reasonable opportunity to learn of the \n18  order;  \n19  (c)  To provide reports to the United States and the Court concerning the \n20  transmission, receipt, and counting of  UOCAVA ballots for the \n21  2018 special primary and general election for the House of \n22  Representatives pursuant to this Court’s order; and \n23  (d)  To take such other steps as are necessary to ensure that Arizona \n24  conducts all future special elections for the House of Representatives \n25  in compliance with UOCAVA. \n26  The United States further asks this Court to order such other relief as the interests \n27  of justice may require, together with the costs and disbursements of this action. \n28   \n6 \n \n\nCase 2:18-cv-00505-DLR   Document 1   Filed 02/14/18   Page 7 of 7\n1  Date:  February 14, 2018 \n2 \nJOHN M. GORE  \n3 \nActing Assistant Attorney General \nCivil Rights Division \n4 \n5 \n /s/ David G. Cooper \n6 \nT. CHRISTIAN HERREN, JR. \n7 \nROBERT S. BERMAN\nDAVID G. COOPER (NY Bar #4683371) \n8 \nNEAL R. UBRIANI (NY Bar #5139217) \n9  Attorneys, Voting Section\nCivil Rights Division\n10 \nU.S. Department of Justice\n11  950 Pennsylvania Avenue, N.W.\nRm. 7254 NWB\n12 \nWashington, D.C. 20530\n13  Telephone:  (202) 307-2767\nFacsimile:  (202) 307-3961\n14 \nEmail:  david.cooper@usdoj.gov\n15 \n16 \n17 \n18 \n19 \n20 \n21 \n22 \n23 \n24 \n25 \n26 \n27 \n28 \n7 \n\n2/14/2018 Case 2:18-cv-00505-DwLwRw. a z Dd.uosccouumrts.egonvt/c 1gi--b1in / g eFnielreadte _0ci2vil/_1js444/1.p8l    Page 1 of 1\nUNITED STATES DISTRICT COURT\nDISTRICT OF ARIZONA\nCivil Cover Sheet\nThis automated JS-44 conforms generally to the manual JS-44 approved by the Judicial Conference of the United States in September 1974. The data is\nrequired for the use of the Clerk of Court for the purpose of initiating the civil docket sheet. The information contained herein neither replaces nor\nsupplements the filing and service of pleadings or other papers as required by law. This form is authorized for use only in the District of Arizona.\nThe completed cover sheet must be printed directly to PDF and filed as an attachment to the Complaint\nor Notice of Removal.\nThe State of Arizona ; Michele Reagan ,\nPlaintiff(s): United States of American Defendant(s):\nSecretary of State\nCounty of Residence: Outside the State of Arizona County of Residence: Maricopa\nCounty Where Claim For Relief Arose: Maricopa\nPlaintiff's Atty(s): Defendant's Atty(s):\nDavid G. Cooper , Mr. Joseph E. La Rue , Mr.\nU.S. Department of Justice, Civil Rights Division  Assistant Attorney General, State Government Division\n950 Pennsylvania Ave. NW, Rm. 7254 NWB 2005 N. Central Ave.\nWashington, DC  20530 Phoenix, Arizona  85007\n202-307-2767 602-542-1763\nII.Basis of Jurisdiction: 1.U.S. Government Plaintiff\nIII.Citizenship of Principal Parties\n(Diversity Cases Only)\nPlaintiff:-N/A\nDefendant:-N/A\nIV.Origin : 1.Original Proceeding\nV.Nature of Suit: 441 Voting\nVI.Cause of Action: Uniformed and Overseas Citizens Absentee Voting Act, 52 U.S.C. 20301 et seq. \nInability to transmit ballots at least 45 days before election for federal office.\nVII.Requested in Complaint\nClass Action:No\nDollar Demand:\nJury Demand:No\nVIII.This case is not related to another case.\nSignature:  David G. Cooper\n        Date:  2/14/2018\nIf any of this information is incorrect, please go back to the Civil Cover Sheet Input form using the Back button in your browser and change it.\nOnce correct, save this form as a PDF and include it as an attachment to your case opening documents.\nRevised: 01/2014\nhttp://www.azd.uscourts.gov/cgi-bin/generate_civil_js44.pl 1/1\n\nCase 2:18-cv-00505-DLR   Document 1-2   Filed 02/14/18   Page 1 of 2\nSUPPLEMENTAL CIVIL COVER SHEET \nFOR CASES REMOVED FROM ANOTHER JURISDICTION \n \nThis form must be attached to the Civil Cover Sheet at the time \nthe case is filed in the United States District Clerk's Office \n \nAdditional sheets may be used as necessary. \n                               \n \n1.  Style of the Case: \nPlease include all Plaintiff(s), Defendant(s), Intervenor(s), Counterclaimant(s), Crossclaimant(s) and \nThird Party Claimant(s) still remaining in the case and indicate their party type. Also, please list the \nattorney(s) of record for each party named and include their bar number, firm name, correct mailing \naddress, and phone number (including area code). \n \nParty  Party Type  Attorney(s) \nU nited States of America P laintiff D avid G. Cooper (NY Bar # 4683371) \nTrial Attorney, Voting Section \nCivil Rights Division \nU.S. Department of Justice \n950 Pennsylvania Avenue, N.W., Rm. 7254 NWB \nWashington, D.C. 20530 \nTelephone: (202) 307-2767\nT he State of Arizona D efendant J oseph E. La Rue (AZ Bar # 031348) \nAssistant Attorney General \nState Government Division \n2005 N. Central Avenue \nPhoenix, AZ 85007 \nTelephone:  (602) 542-1763 \nM ichele Reagan, Secretary of the State of Arizona, in  D efendant J oseph E. La Rue (AZ Bar # 031348) \nher official capacity Assistant Attorney General \nState Government Division \n2005 N. Central Avenue \nPhoenix, AZ 85007 \nTelephone:  (602) 542-1763 \n \n2.  Jury Demand: \nWas a Jury Demand made in another jurisdiction?     Yes                     No \nIf \"Yes,\" by which party and on what date? \n \n                             \n \n3.  Answer: \nWas an Answer made in another jurisdiction?     Yes                     No \nIf \"Yes,\" by which party and on what date? \n \n                             \n   \nSupp CV Cover Sheet (rev 8/20/2015) \n \n\nCase 2:18-cv-00505-DLR   Document 1-2   Filed 02/14/18   Page 2 of 2\n4.  Served Parties: \nThe following parties have been served at the time this case was removed: \n \nParty  Date Served  Method of Service \n     \n     \n     \n \n5.  Unserved Parties: \nThe following parties have not been served at the time this case was removed: \n \nParty  Reason Not Served \n   \n   \n   \n \n6.  Nonsuited, Dismissed or Terminated Parties: \nPlease indicate changes from the style of the papers from another jurisdiction and the reason for the \nchange: \n \nParty  Reason for Change \n   \n   \n   \n \n7.  Claims of the Parties: \nThe filing party submits the following summary of the remaining claims of each party in this litigation: \n \nParty  Claims \nP laintiff United States of America In ability to transmit ballots at least 45 days before election, Uniformed \nand Overseas Citizens Absentee Voting Act, 52 U.S.C. 20301 et seq.\n   \n   \n \nPursuant to 28 USC § 1446(a) a copy of all process, pleadings, and orders served in \nanother jurisdiction (State Court) shall be filed with this removal. \nSupp CV Cover Sheet (rev 8/20/2015) \n ",
+      "document_type_other": null,
+      "external_url": "https://www.courtlistener.com/docket/6305721/1/united-states-v-arizona-state-of/",
+      "ecf_number": "1",
+      "clearinghouse_link": "clearinghouse.net/doc/133932"
+    }
+  ],
+  "document_count": 4
+}

@@ -1,0 +1,553 @@
+{
+  "case_id": 5803,
+  "fetched_at": "2025-10-22T00:07:50.769496",
+  "case_data": {
+    "attorney_orgs": [
+      "EEOC"
+    ],
+    "available_documents": [
+      "Trial Court Docket",
+      "Complaint (any)",
+      "Monetary Relief",
+      "Injunctive (or Injunctive-like) Relief"
+    ],
+    "case_defendants": [
+      {
+        "defendant_level": null,
+        "institution": null,
+        "institution_alt_state": null,
+        "institution_city": "",
+        "institution_county": null,
+        "name": "Kreisler Drug No.3, Inc.",
+        "defendant_level_other": null,
+        "is_active": true
+      }
+    ],
+    "case_ongoing": "No",
+    "case_status": "Coding Complete",
+    "case_types": [
+      "Equal Employment"
+    ],
+    "cause_other": "",
+    "causes": [
+      "Title VII (including PDA), 42 U.S.C.  § 2000e"
+    ],
+    "class_action_granted": "Not sought",
+    "class_action_sought": "No",
+    "closing_year": 2005,
+    "constitutional_clause": [],
+    "content_of_injunction": [
+      {
+        "value": "Expungement of Employment Record"
+      },
+      {
+        "value": "Neutral/Positive Reference"
+      },
+      {
+        "value": "Discrimination Prohibition"
+      },
+      {
+        "value": "Retaliation Prohibition"
+      },
+      {
+        "value": "Develop anti-discrimination policy"
+      },
+      {
+        "value": "Post/Distribute Notice of Rights / EE Law"
+      },
+      {
+        "value": "Provide antidiscrimination training"
+      },
+      {
+        "value": "Implement complaint/dispute resolution process"
+      },
+      {
+        "value": "Reporting"
+      }
+    ],
+    "court": "Western District of Missouri",
+    "custom_issues": [],
+    "defendant_payment": "40000",
+    "defendant_type": [],
+    "docket_status": "Complete as of retrieval date",
+    "facility_type": [],
+    "filing_date": "2003-04-22",
+    "filing_year": 2003,
+    "id": 5803,
+    "injunction_duration": "18",
+    "issues": [
+      "Discrimination Basis: Sex discrimination",
+      "Affected Sex/Gender(s): Female",
+      "General/Misc.: Retaliation",
+      "Discrimination Area: Disparate Treatment",
+      "Discrimination Area: Harassment / Hostile Work Environment",
+      "Discrimination Area: Conditions of Employment (including assignment, transfer, hours, working conditions, etc.)",
+      "Discrimination Area: Discharge / Constructive Discharge / Layoff",
+      "EEOC-centric: Direct Suit on Merits"
+    ],
+    "last_checked_date": "2007-05-21T00:00:00-04:00",
+    "main_docket": {
+      "id": 37331,
+      "docket_entries": [
+        {
+          "row_number": 11,
+          "id": 1290406,
+          "entry_number": "11",
+          "date_filed": "2003-08-13T00:00:00-04:00",
+          "attachments": [],
+          "url": "nan",
+          "recap_pdf_url": null,
+          "pacer_doc_id": null,
+          "description": "ORDER setting settlement conference for 9:30 a.m., 8/28/03. Signed by Judge Robert E. Larsen on 08/13/03. (Marullo, Carol) (Entered: 08/13/2003)"
+        },
+        {
+          "row_number": 5,
+          "id": 1290400,
+          "entry_number": "5",
+          "date_filed": "2003-06-26T00:00:00-04:00",
+          "attachments": [],
+          "url": "nan",
+          "recap_pdf_url": null,
+          "pacer_doc_id": null,
+          "description": "RETURN OF SERVICE of complaint executed by Equal Employment Opportunity Commission. Kreisler Drug No.3, Inc. Michael J. Abbott served on 6/21/2003, answer due 7/11/2003. (Henson, Tanya) (Entered: 07/03/2003)"
+        },
+        {
+          "row_number": 13,
+          "id": 1290408,
+          "entry_number": "13",
+          "date_filed": "2003-08-13T00:00:00-04:00",
+          "attachments": [],
+          "url": "nan",
+          "recap_pdf_url": null,
+          "pacer_doc_id": null,
+          "description": "NOTICE of Endorsement by Kreisler Drug No.3, Inc. (regarding Joint Proposed Scheduling Order and Discovery Plan) (Schumaker, Larry) (Entered: 08/13/2003)"
+        },
+        {
+          "row_number": 16,
+          "id": 1290411,
+          "entry_number": "16",
+          "date_filed": "2003-08-22T00:00:00-04:00",
+          "attachments": [],
+          "url": "nan",
+          "recap_pdf_url": null,
+          "pacer_doc_id": null,
+          "description": "NOTICE of Magistrate Assignment Returned by Kreisler Drug No.3, Inc. (Schumaker, Larry) (Entered: 08/22/2003)"
+        },
+        {
+          "row_number": 6,
+          "id": 1290401,
+          "entry_number": "6",
+          "date_filed": "2003-07-10T00:00:00-04:00",
+          "attachments": [],
+          "url": "nan",
+          "recap_pdf_url": null,
+          "pacer_doc_id": null,
+          "description": "NOTICE of appearance by Larry M. Schumaker on behalf of Kreisler Drug No.3, Inc. (Schumaker, Larry) (Entered: 07/10/2003)"
+        },
+        {
+          "row_number": 12,
+          "id": 1290407,
+          "entry_number": "12",
+          "date_filed": "2003-08-13T00:00:00-04:00",
+          "attachments": [],
+          "url": "nan",
+          "recap_pdf_url": null,
+          "pacer_doc_id": null,
+          "description": "Joint PROPOSED SCHEDULING ORDER and Discovery Plan by Equal Employment Opportunity Commission. (Baran, Andrea) (Entered: 08/13/2003)"
+        },
+        {
+          "row_number": 1,
+          "id": 1290396,
+          "entry_number": null,
+          "date_filed": "2003-04-22T00:00:00-04:00",
+          "attachments": [],
+          "url": "nan",
+          "recap_pdf_url": null,
+          "pacer_doc_id": null,
+          "description": "NOTICE OF MAGISTRATE ASSIGNMENT was handed to filer. This is a docket entry only. No document is attached. Magistrate Return due by 5/12/2003 (Henson, Tanya) (Entered: 04/23/2003)"
+        },
+        {
+          "row_number": 4,
+          "id": 1290399,
+          "entry_number": "4",
+          "date_filed": "2003-05-06T00:00:00-04:00",
+          "attachments": [],
+          "url": "nan",
+          "recap_pdf_url": null,
+          "pacer_doc_id": null,
+          "description": "NOTICE of Magistrate Assignment Returned by Equal Employment Opportunity Commission (Baran, Andrea) Modified on 5/8/2003 to acknowledge consent of assignment (Kendall, Shelly). (Entered: 05/06/2003)"
+        },
+        {
+          "row_number": 9,
+          "id": 1290404,
+          "entry_number": null,
+          "date_filed": "2003-07-29T00:00:00-04:00",
+          "attachments": [],
+          "url": "nan",
+          "recap_pdf_url": null,
+          "pacer_doc_id": null,
+          "description": "NOTICE OF MAGISTRATE ASSIGNMENT sent by FAX to Larry Schumaker, counsel for defendant. This is a docket entry only. No document is attached. Magistrate Return due by 8/18/2003 (Rowland, Bonnie) (Entered: 07/29/2003)"
+        },
+        {
+          "row_number": 10,
+          "id": 1290405,
+          "entry_number": "10",
+          "date_filed": "2003-08-12T00:00:00-04:00",
+          "attachments": [],
+          "url": "nan",
+          "recap_pdf_url": null,
+          "pacer_doc_id": null,
+          "description": "Minute Entry for proceedings held before Judge Robert E. Larsen: TELEPHONE CONFERENCE held on 8/12/2003 re setting settlement conference. Counsel agree on Thursday, August 28, 2003, for settlement conference to be held. The Court will enter an order August 13, 2003. (Court Reporter Sue Anderson-Porter.) (Anderson-Porter, Sue) (Entered: 08/12/2003)"
+        },
+        {
+          "row_number": 14,
+          "id": 1290409,
+          "entry_number": "14",
+          "date_filed": "2003-08-21T00:00:00-04:00",
+          "attachments": [],
+          "url": "nan",
+          "recap_pdf_url": null,
+          "pacer_doc_id": null,
+          "description": "CERTIFICATE OF SERVICE OF INITIAL RULE 26 DISCLOSURES filed by Larry M. Schumaker on behalf of Defendant Kreisler Drug No.3, Inc..(Schumaker, Larry) (Entered: 08/21/2003)"
+        },
+        {
+          "row_number": 17,
+          "id": 1290412,
+          "entry_number": "18",
+          "date_filed": "2003-08-28T00:00:00-04:00",
+          "attachments": [],
+          "url": "nan",
+          "recap_pdf_url": null,
+          "pacer_doc_id": null,
+          "description": "Minute Entry for proceedings held before Judge Robert E. Larsen: SETTLEMENT CONFERENCE held on 8/28/2003; settlement negotiations are continuing with a proposed agreement; counsel are to contact the Court within about two weeks whether the case is resolved. (Court Reporter Sue Anderson-Porter.) (Anderson-Porter, Sue). (Entered: 09/09/2003)"
+        },
+        {
+          "row_number": 3,
+          "id": 1290398,
+          "entry_number": "3",
+          "date_filed": "2003-04-28T00:00:00-04:00",
+          "attachments": [],
+          "url": "nan",
+          "recap_pdf_url": null,
+          "pacer_doc_id": null,
+          "description": "Rule 16 Notice:proposed scheduling order due by 8/20/2003, rule 26 conference due by 8/6/2003. Signed by Judge John T. Maughmer on April 28, 2003. (Rowland, Bonnie) (Entered: 04/28/2003)"
+        },
+        {
+          "row_number": 2,
+          "id": 1290397,
+          "entry_number": "2",
+          "date_filed": "2003-04-23T00:00:00-04:00",
+          "attachments": [],
+          "url": "nan",
+          "recap_pdf_url": null,
+          "pacer_doc_id": null,
+          "description": "Notice of EAPJ was mailed to filer. (Henson, Tanya) (Entered: 04/23/2003)"
+        },
+        {
+          "row_number": 8,
+          "id": 1290403,
+          "entry_number": "8",
+          "date_filed": "2003-07-25T00:00:00-04:00",
+          "attachments": [],
+          "url": "nan",
+          "recap_pdf_url": null,
+          "pacer_doc_id": null,
+          "description": "ANSWER to Complaint filed by Larry M. Schumaker on behalf of Defendant Kreisler Drug No.3, Inc..(Schumaker, Larry) (Entered: 07/25/2003)"
+        },
+        {
+          "row_number": 21,
+          "id": 1290416,
+          "entry_number": "21",
+          "date_filed": "2004-01-15T00:00:00-05:00",
+          "attachments": [],
+          "url": "nan",
+          "recap_pdf_url": null,
+          "pacer_doc_id": null,
+          "description": "CONSENT DECREE entered 19 motion for consent judgment. Signed by Judge John T. Maughmer on 01/15/2004. (Lavenbarg, Francine) (Entered: 01/15/2004)"
+        },
+        {
+          "row_number": 18,
+          "id": 1290413,
+          "entry_number": "17",
+          "date_filed": "2003-09-04T00:00:00-04:00",
+          "attachments": [],
+          "url": "nan",
+          "recap_pdf_url": null,
+          "pacer_doc_id": null,
+          "description": "SCHEDULING AND TRIAL ORDER: Jury Trial set for 6/7/2004, 09:00 AM, in Courtroom 7E, Kansas City (JTM) before John Maughmer. Signed by Judge John T. Maughmer on 09/04/2003. (Lavenbarg, Francine) (Entered: 09/04/2003)"
+        },
+        {
+          "row_number": 15,
+          "id": 1290410,
+          "entry_number": "15",
+          "date_filed": "2003-08-21T00:00:00-04:00",
+          "attachments": [],
+          "url": "nan",
+          "recap_pdf_url": null,
+          "pacer_doc_id": null,
+          "description": "CERTIFICATE OF SERVICE OF INITIAL RULE 26 DISCLOSURES filed by Andrea G. Baran on behalf of Plaintiff Equal Employment Opportunity Commission.(Baran, Andrea) (Entered: 08/21/2003)"
+        },
+        {
+          "row_number": 7,
+          "id": 1290402,
+          "entry_number": "7",
+          "date_filed": "2003-07-15T00:00:00-04:00",
+          "attachments": [],
+          "url": "nan",
+          "recap_pdf_url": null,
+          "pacer_doc_id": null,
+          "description": "Return of Service unexecuted by Equal Employment Opportunity Commission as to Kreisler Drug No.3, Inc.. Attempted to serve Michael Abbott, Registered Agent. Mr. Abbott does not represent dft. Contact Jim Naber, President of Kreisler Drug, for current Registered Agent. (Honeycutt, Cassaundra) (Entered: 07/15/2003)"
+        },
+        {
+          "row_number": 19,
+          "id": 1290414,
+          "entry_number": "19",
+          "date_filed": "2003-12-04T00:00:00-05:00",
+          "attachments": [],
+          "url": "nan",
+          "recap_pdf_url": null,
+          "pacer_doc_id": null,
+          "description": "Joint MOTION for consent judgment filed by Andrea G. Baran on behalf of Equal Employment Opportunity Commission Suggestions in opposition/response due by 12/19/2003 (Baran, Andrea) (Entered: 12/04/2003)"
+        },
+        {
+          "row_number": 0,
+          "id": 1290395,
+          "entry_number": "1",
+          "date_filed": "2003-04-22T00:00:00-04:00",
+          "attachments": [],
+          "url": "nan",
+          "recap_pdf_url": null,
+          "pacer_doc_id": null,
+          "description": "COMPLAINT against Kreisler Drug No.3, Inc. (Filing fee $ 0.00 receipt number -0-) Service due by 8/20/2003, filed by Andrea G. Baran on behalf of Equal Employment Opportunity Commission.(Baran, Andrea) Civil Cover Sheet added on 4/23/2003 (Henson, Tanya). (Entered: 04/22/2003)"
+        },
+        {
+          "row_number": 20,
+          "id": 1290415,
+          "entry_number": "20",
+          "date_filed": "2003-12-04T00:00:00-05:00",
+          "attachments": [],
+          "url": "nan",
+          "recap_pdf_url": null,
+          "pacer_doc_id": null,
+          "description": "NOTICE of Endorsement by Kreisler Drug No.3, Inc. re 19 Joint MOTION for consent judgment (Schumaker, Larry) (Entered: 12/04/2003)"
+        },
+        {
+          "row_number": 22,
+          "id": 1290417,
+          "entry_number": "22",
+          "date_filed": "2004-03-31T00:00:00-05:00",
+          "attachments": [],
+          "url": "nan",
+          "recap_pdf_url": null,
+          "pacer_doc_id": null,
+          "description": "ORDERED that the pretrial conference scheduled for Wednesday, May 26, 2004, is reset for Tuesday, May 25, 2004, at 11:00 a.m.. Signed by Judge John T. Maughmer on 03/31/2004. (Lavenbarg, Francine) (Entered: 03/31/2004)"
+        }
+      ],
+      "docket_case_type": "cv",
+      "docket_year": 2003,
+      "docket_filing_number": 345,
+      "is_main_docket": true,
+      "court": "Western District of Missouri",
+      "state": "Missouri",
+      "docket_office_number": "4",
+      "docket_number_manual": "4:03-cv-00345-JTM",
+      "scales_html": "https://clearinghouse-umich-production.s3.amazonaws.com/media/docket-html/mowd--4-03-cv-00345.html",
+      "recap_link": null,
+      "is_active": true
+    },
+    "name": "EEOC v. KREISLER DRUG NO.3 INC",
+    "never_filed": false,
+    "non_docket_case_number": "",
+    "non_docket_case_number_type": null,
+    "non_docket_case_number_type_other": "",
+    "order_end_year": 2005,
+    "order_start_year": 2004,
+    "permanent_injunction": false,
+    "plaintiff_description": "Equal Employment Opportunity Commission, on behalf of one or more workers.",
+    "plaintiff_type": [
+      {
+        "value": "EEOC Plaintiff"
+      }
+    ],
+    "prevailing_party": "Plaintiff",
+    "pro_se_status": "No",
+    "public_interest_lawyer": "Yes",
+    "related_cases": [],
+    "relief_natures": [
+      "Injunction / Injunctive-like Settlement",
+      "Damages"
+    ],
+    "relief_nature_other": "",
+    "relief_sources": [
+      "Settlement"
+    ],
+    "settlement_agreement": [
+      "Court Approved Settlement or Consent Decree"
+    ],
+    "settlement_judgment_date": "2004-01-15",
+    "settlement_judgment_year": null,
+    "special_collections": [
+      "EEOC Study — in sample",
+      "Multi-LexSum (in sample)"
+    ],
+    "special_case_type": [],
+    "state": "Missouri",
+    "summary": "<p>In April 2003, the EEOC district office in St. Louis, Missouri brought this case against Kreisler Drug No.3, Inc. in the U.S. District Court for the Western District of Missouri.  The complaint states that a female employee alleged sex-based discrimination and retaliation in violation of Title VII of the Civil Rights Act of 1964. Specifically, the aggrieved employee alleged that a pharmacist routinely sexually harassed her and other female coworkers.  Also, the aggrieved employee stated that the pharmacist scrutinized female workers' work more than male coworkers' product.  The aggrieved employee complained about how she was treated and was terminated.   </p><p>In January of 2004, the parties settled and a consent decree was entered.  In the consent decree, the parties agreed that the defendant would pay the aggrieved employee $40,000, not retaliate or discriminate on the basis of sex, issue a neutral reference letter for the aggrieved employee, post EEO notices, and provide EEO training for its staff.  The terms of the decree ran for eighteen months.</p><p></p>",
+    "summary_published_date": "2007-06-11T00:00:00-04:00",
+    "summary_short": null,
+    "summary_tiny": null,
+    "terminating_date": "2005-07-15",
+    "clearinghouse_link": "clearinghouse.net/case/5803",
+    "is_active": true,
+    "case_documents_url": "https://clearinghouse.net/api/v2/documents/?case=5803",
+    "case_dockets_url": "https://clearinghouse.net/api/v2/dockets/?case=5803",
+    "case_resources_url": "https://clearinghouse.net/api/v2/resources/?case=5803"
+  },
+  "documents": [
+    {
+      "date": "2004-01-15",
+      "date_is_estimate": false,
+      "date_not_available": false,
+      "description": null,
+      "document_source": null,
+      "document_status": "Coding Complete",
+      "document_type": "Order/Opinion",
+      "order_type": "Consent Decree",
+      "citation_paren": null,
+      "cite_1_page": null,
+      "cite_1_reporter": null,
+      "cite_1_vol": null,
+      "cite_2_page": null,
+      "cite_2_reporter": null,
+      "cite_2_vol": null,
+      "cite_3_page": null,
+      "cite_3_reporter": null,
+      "cite_3_vol": null,
+      "citation_status": "Not applicable",
+      "court": "Western District of Missouri",
+      "no_title": false,
+      "party_types": [
+        "Court",
+        "Defendant",
+        "Plaintiff"
+      ],
+      "per_curium": false,
+      "is_core_document": true,
+      "id": 16118,
+      "file": "https://clearinghouse-umich-production.s3.amazonaws.com/media/nonpublic/doc/16118.pdf",
+      "title": "Consent Decree",
+      "text": "IN THE UNITED STATES DISTRICT COURT FOR THE\nWESTERN DISTRICT OF MISSOURI\nWESTERN DIVISION\nEQUAL EMPLOYMENT OPPORTUNITY )\nCOMMISSION, )\n)\nPlaintiff, )\n)\nv. ) CASE NO. 03-0345-CV-W-JTM\n)\nKREISLER DRUG NO. 3, INC. )\n)\nDefendant. )\nCONSENT DECREE\nPlaintiff Equal Employment Opportunity Commission has instituted this action alleging that\nDefendant Kreisler Drug No. 3, Inc., violated  Title VII of the Civil Rights Act of 1964 and Title I\nof the Civil Rights Act of 1991 when it discriminated against Cathy Foster and other female\nemployees in the terms and conditions of their employment because of their sex and then\nterminated Ms. Foster in retaliation for her complaints about the discriminatory treatment and her\ncontacting the Equal Employment Opportunity Commission.  Kreisler Drug No. 3, Inc. denies these\nallegations and states that it has complied with Title VII and other federal and state employment\nlaws.  For purposes of settlement and compromise only, the parties have advised the Court that\nthey wish to resolve the instant controversy without the expense, delay and burden of further\nlitigation;\nTHEREFORE, it is the finding of this Court, made on the pleadings and on the record as a\nwhole and upon agreement of the parties, that: (i) this Court has jurisdiction over the parties to and\nthe subject matter of this action, (ii) the requirements of Title VII will be carried out by the\nimplementation of this Decree, (iii) this Decree is intended to and does resolve all matters in\n\ncontroversy in this lawsuit among the parties, and (iv) the terms of this Decree constitute a fair and\nequitable settlement of all issues in this lawsuit.\nIT IS THEREFORE ORDERED, ADJUDGED, AND DECREED as follows:\nI.  General Provisions\n1. This Decree, being entered with the consent of the parties for purposes of\nsettlement, shall not constitute an adjudication on the merits of this lawsuit and shall not be\nconstrued as an admission by Defendant of any violation of Title VII or any executive order, law,\nrule or regulation dealing with or in connection with sex discrimination in employment.\nII.  Relief for Charging Party\n2. Within fifteen (15) days after this Decree is approved by the Court, Defendant shall\nforward to Cathy Foster the following payments:\na. $24,000.00 in settlement of the claims for backpay and frontpay, less only\nany applicable deductions for the employee’s portion of FICA and\napplicable federal and state income tax withholdings;\nb. $16,000.00 in settlement of the claims for compensatory and punitive\ndamages.\n3. Defendant shall forward to Cathy Foster, with the checks described above, an\nitemized statement of withholdings for each amount withheld, including for the employee share of\nFICA and the applicable federal and state income withholdings.\n2\n\nIII.  Injunctive Relief\n4. Defendant shall not discriminate or retaliate against any person because he or she\nhas opposed any practices alleged in this action as unlawful under Title VII, has participated in an\ninvestigation conducted under Title VII with respect to this complaint, or because he or she has\nparticipated in this lawsuit or has benefitted in any way as a result of this Consent Decree.\n5. Defendant shall not discriminate on the basis of sex in hiring, firing, work\nassignment, pay, evaluation, promotion or any other term or condition of employment.  Defendant\nshall not retaliate against any employee who opposes any practice declared unlawful under Title\nVII; or files a charge; or gives testimony or assistance; or participates in any manner in any\ninvestigation, proceeding, or hearing under Title VII.\n6. Within fifteen (15) days afer this Decree is approved by the Court, Defendant shall\nprovide Cathy Foster with a letter of recommendation, attached as Exhibit A, signed by an owner\nof Defendant.  If requested for information concerning Cathy Foster’s employment, Defendant will\nnot provide any information that is inconsistent with the letter attached as Exhibit A.\n7. Within thirty (30) days after this Decree is approved by the Court, Defendant shall\nprovide training for its owners and all management and supervisory employees regarding federal\nemployment discrimination laws and employees’ rights under these laws, including protections\nagainst unlawful retaliation.  This training shall be presented by Larry Schumaker, and may be\nattended by a representative of the EEOC.\nIV.  Posting and Policies\n8. Within thirty (30) days after this Decree is approved by the Court, Defendant shall\nimplement an anti-discrimination policy prohibiting discrimination on the basis of sex in hiring,\n3\n\nfiring, work assignment, pay, evaluation, promotion or any other term or condition of employment;\nharassment or creation of a hostile work environment on the basis of sex; and retaliation against\nany employee who opposes any practice declared unlawful under Title VII, including filing a\ncharge, giving testimony or assistance, or participating in any investigation, proceeding, or hearing\nunder Title VII.  Defendant shall implement procedures for the reporting of complaints of\ndiscrimination, including multiple avenues for reporting.  Defendant shall discipline, up to and\nincluding termination, managers and supervisors who fail to adhere to the company’s anti-\ndiscrimination policy and shall include adherence to the company’s anti-discrimination policy in\nits evaluations of managers and supervisors.\n9. Defendant shall post and cause to remain posted the posters required to be\ndisplayed in the workplace by Commission Regulations, 29 C.F.R. § 1601.30.\n10. Defendant shall post and cause to remain posted copies of the notice attached\nhereto as Exhibit C in locations publicly visible to all employees for a period of eighteen (18)\nmonths starting from the date of entry of this Decree.\nV.  Reporting\n11. Within thirty (30) days after this Decree is approved by the Court, Defendant shall\nforward to the Commission’s Regional Attorney in its St. Louis District Office a copy of the\nchecks and statement of withholdings forwarded to Charging Party as described in paragraphs 2\nand 3 above.\n12. Within forty-five (45) days after this Decree is approved by the Court, Defendant\nshall forward to the Commission’s Regional Attorney in its St. Louis District Office a letter signed\nby its chief officer stating that it has complied with the requirements of paragraphs 6, 7, and 8\nabove, describing the manner and dates on which such compliance was effected.\n4\n\n13. Within forty-five (45) days after this Decree is approved by the Court, Defendant\nshall prepare and submit to the Commission’s Regional Attorney in its St. Louis District Office a\nletter signed by its chief officer stating that the notices have been posted as required by\nparagraphs 9 and 10 above.\n14. Every nine months for the term of this Decree, Defendant shall submit to the\nCommission’s Regional Attorney in its St. Louis District Office a report of all complaints of\ndiscriminatory treatment that were responded to during the previous nine months, including the\nname, address, phone number and job title of the person making the complaint, a brief description\nof the complaint, and a description of the company’s response to the complaint.\nVI.  Notice and Opportunity to Cure\n15. If, during the term of this Decree, the Commission believes that Defendant is in\nviolation of this Decree, the Commission shall notify Defendant in writing about the alleged\nviolation, describing the nature of the alleged violation and the relevant portion of the Decree.\n16. Within ten (10) days of receiving a notice described in paragraph 18, Defendant\nshall respond to the Commission in writing with Defendant’s position with respect to the alleged\nviolation, including what steps, if any, Defendant has taken or will take to cure the alleged\nviolation.  If the Commission is satisfied that the alleged violation of the Decree has been\ncorrected, it will take no further action against Defendant and will not bring the matter before the\nCourt.\n17. The Commission shall not be entitled to seek relief from the Court for any alleged\nviolation of this Decree until it has provided Defendant with notice and an opportunity to cure the\nalleged violation as provided in paragraphs 15 and 16.\n5\n\nVI.  Term and Effect of Decree\n18. By entering into this Decree the parties do not intend to resolve any charges of\ndiscrimination currently pending before the Commission other than the charge that created the\nprocedural foundation for the complaint in this case.\n19. This Decree shall be binding upon the parties hereto, their successors and assigns.\n20. This Decree shall be for a period of eighteen (18) months and can be extended only\nfor good cause shown.  During the Decree’s term the Court shall retain jurisdiction of this cause\nfor purposes of compliance.\n21. Each party shall bear its own costs.\nBY CONSENT:\nFOR PLAINTIFF: FOR DEFENDANT:\nERIC S. DREIBAND\nGeneral Counsel _/s/ Larry M. Schumaker______________\nLarry M. Schumaker MO Bar # 31975\n_/s/ Robert G. Johnson________________ SCHUMAKER CENTER FOR\nROBERT G. JOHNSON EMPLOYMENT LAW, P.C.\nRegional Attorney 10401 Holmes Road\nDONNA L. HARPER Suite 480\nSupervisory Trial Attorney Kansas City, MO 64131\nEQUAL EMPLOYMENT OPPORTUNITY (816) 941-9994 (telephone)\nCOMMISSION (816) 941-8244 (facsimile)\nSt. Louis District Office larryschumaker@sbcglobal.net (e-mail)\n1222 Spruce St., Room 8.100\nSt. Louis, MO 63103\n(314) 539-7910 (telephone)\n(314) 539-7895 (facsimile)\nbob.johnson@eeoc.gov (e-mail)\ndonna.harper@eeoc.gov (e-mail)\n6\n\n_/s/ Andrea G. Baran_______________________\nANDREA G. BARAN       MO Bar # 46520\nSenior Trial Attorney\nEQUAL EMPLOYMENT OPPORTUNITY\nCOMMISSION\nKansas City Area Office\n400 State Ave., Ste. 905\nKansas City, KS 66101\n(913) 551-5848 (telephone)\n(913) 551-6957 (facsimile)\nandrea.baran@eeoc.gov (e-mail)\nSO ORDERED:\n               /s/ John T. Maughmer                          \nJohn T. Maughmer\nChief United States Magistrate Judge\n7\n\nEXHIBIT A\nLETTER OF RECOMMENDATION\n(On Defendant’s Letterhead)\nKreisler Drug No. 3, Inc. employed Cathy Foster from April 1991 to\nSeptember 2001.  For the last five years of her employment with Kreisler, Ms.\nFoster was the store’s Sporting Goods Manager.  During her employment with\nKreisler Drug No. 3, Inc., Cathy Foster satisfactorily performed all of her job\nduties.\n\nEXHIBIT C NOTICE TO EMPLOYEES\nIn cooperation with the EEOC, this Notice is posted as part of a remedy\nagreed to pursuant to a Consent Decree entered in the case of Equal Employment\nOpportunity Commission (EEOC) v. Kreisler Drug No. 3, Inc., Case No.  03-0345-\nCV-W-JTM, on file in the United States District Court for the Western District of\nMissouri, Western Division in Kansas City, Missouri.  The agreed remedy as set\nforth in the Consent Decree includes monetary relief for a former employee,\ninjunctive relief in the form of new policies and training, and reaffirmation of our\ncommitment to not discriminate on the basis of sex in hiring, firing, work\nassignment, pay, promotion or other terms or conditions of employment and to not\nretaliate against any employee who reports discriminatory treatment.\nState and Federal law prohibit discrimination against any employee because\nof race, national origin, color, religion, sex, disability or age (forty and over) with\nrespect to hiring, promotion, firing, compensation, or other terms, conditions or\nprivileges of employment.  The law also prohibits retaliation against persons who\ncomplain of or oppose practices they believe are discriminatory on the basis of\nrace, national origin, color, religion, sex, disability or age (forty and over), and it\nprohibits retaliation against persons who file charges with the EEOC, or who\nparticipate in or cooperate with an EEOC investigation.\nKreisler Drug No. 3, Inc. supports and will comply with these laws in all\nrespects and will not take any action against employees because they have exercised\ntheir rights under the law.  We will not tolerate discrimination in employment, nor\nwill we tolerate retaliation against any employee for exercising rights under law.\nEmployees should feel free to report instances of discriminatory treatment to\ntheir supervisor or the store owners at any time.  Kreisler Drug No. 3, Inc. has\nestablished policies and procedures to promptly investigate any such reports and to\nprotect the person making the reports from retaliation.  If the situation is not\nresolved to your satisfaction, or if you feel uncomfortable reporting a problem to\nyour supervisor, we strongly encourage you to communicate your concern to Paul\nHendricks or Jim Naber.  In addition, employees are also free to make complaints\nabout employment discrimination to the Office of the Regional Attorney, United\nStates Equal Employment Opportunity Commission, Kansas City Area Office, 400\nState Avenue, Suite 905, Kansas City, KS 66101 (Attention: Andrea G. Baran,\nSenior Trial Attorney) or by telephone to (913) 551-5848.\nPlease join us in supporting and promoting equal employment opportunity\nfor all.",
+      "document_type_other": "",
+      "external_url": "",
+      "ecf_number": "21",
+      "clearinghouse_link": "clearinghouse.net/doc/16118"
+    },
+    {
+      "date": null,
+      "date_is_estimate": false,
+      "date_not_available": false,
+      "description": null,
+      "document_source": null,
+      "document_status": null,
+      "document_type": null,
+      "order_type": null,
+      "citation_paren": null,
+      "cite_1_page": null,
+      "cite_1_reporter": null,
+      "cite_1_vol": null,
+      "cite_2_page": null,
+      "cite_2_reporter": null,
+      "cite_2_vol": null,
+      "cite_3_page": null,
+      "cite_3_reporter": null,
+      "cite_3_vol": null,
+      "citation_status": null,
+      "court": null,
+      "no_title": false,
+      "party_types": [],
+      "per_curium": false,
+      "is_core_document": true,
+      "id": 125589,
+      "file": null,
+      "title": null,
+      "text": null,
+      "document_type_other": null,
+      "external_url": null,
+      "ecf_number": null,
+      "clearinghouse_link": "clearinghouse.net/doc/125589"
+    },
+    {
+      "date": "2003-04-22",
+      "date_is_estimate": false,
+      "date_not_available": false,
+      "description": null,
+      "document_source": null,
+      "document_status": "Coding Complete",
+      "document_type": "Complaint",
+      "order_type": null,
+      "citation_paren": null,
+      "cite_1_page": null,
+      "cite_1_reporter": null,
+      "cite_1_vol": null,
+      "cite_2_page": null,
+      "cite_2_reporter": null,
+      "cite_2_vol": null,
+      "cite_3_page": null,
+      "cite_3_reporter": null,
+      "cite_3_vol": null,
+      "citation_status": "Not applicable",
+      "court": "Western District of Missouri",
+      "no_title": false,
+      "party_types": [
+        "Plaintiff"
+      ],
+      "per_curium": false,
+      "is_core_document": true,
+      "id": 16116,
+      "file": "https://clearinghouse-umich-production.s3.amazonaws.com/media/nonpublic/doc/16116.pdf",
+      "title": "Complaint",
+      "text": "IN THE UNITED STATES DISTRICT COURT\nFOR THE WESTERN DISTRICT OF MISSOURI\nWESTERN DIVISION\n \nEQUAL EMPLOYMENT OPPORTUNITY )\nCOMMISSION, )\n)\nPlaintiff, ) CASE NO. 03-345-CV-W-JTM\n)\nv. ) COMPLAINT\n)\nKREISLER DRUG NO. 3, INC. ) JURY TRIAL DEMAND\n)\nDefendant. )\nNATURE OF THE ACTION\nThis is an action under Title VII of the Civil Rights Act of 1964 and Title I of the\nCivil Rights Act of 1991  to correct unlawful employment practices on the basis of sex, and to\nprovide appropriate relief to Cathy Foster, who was adversely affected by such practices.  The\nEqual Employment Opportunity Commission alleges that a male pharmacist at Kreisler Drug No.\n3 discriminated against Ms. Foster and other female employees in the terms and conditions of\ntheir employment because of their sex.  The Commission also alleges that Defendant retaliated\nagainst Ms. Foster for complaining about the discriminatory treatment and contacting the Equal\nEmployment Opportunity Commission by terminating her employment.\nJURISDICTION AND VENUE\n1. Jurisdiction of this Court is invoked pursuant to 28 U.S.C. §§ 451, 1331,\n1337, 1343 and 1345.  This action is authorized and instituted pursuant to Section 706(f)(1) and\n(3)  of Title VII of the Civil Rights Act of 1964, as amended, 42 U.S.C. § 2000e-5(f)(1) and (3)\n(\"Title VII\") and Section 102 of the Civil Rights Act of 1991, 42 U.S.C. § 1981a..\n\n   2. The employment practices alleged to be unlawful were committed within\nthe jurisdiction of the United States District Court for the Western District of Missouri.\nPARTIES\n3. Plaintiff, the Equal Employment Opportunity Commission (the\n“Commission”), is the agency of the United States of America charged with the administration,\ninterpretation and enforcement of Title VII, and is expressly authorized to bring this action by\nSection 706(f)(1) and (3) of Title VII, 42 U.S.C. § 2000e-5(f)(1) and (3).\n4. At all relevant times, Defendant, Kreisler Drug No. 3, Inc., has\ncontinuously been a Missouri corporation doing business in the State of  Missouri and the City of\nClinton, and has continuously had at least 15 employees.\n5. At all relevant times, Defendant has continuously been an employer\nengaged in an industry affecting commerce within the meaning of Sections 701(b), (g) and (h) of\nTitle VII, 42 U.S.C. §§ 2000e(b), (g) and (h).\nSTATEMENT OF CLAIMS\n6. More than thirty days prior to the institution of this lawsuit, Cathy Foster\nfiled a charge with the Commission alleging violations of Title VII by Defendant.  All conditions\nprecedent to the institution of this lawsuit have been fulfilled.\n7. Since at least September 1996, Defendant has engaged in the following\nunlawful employment practices at its facility in Clinton, Missouri, in violation of Sections 703\nand 704 of Title VII, 42 U.S.C. §§ 2000e-2 and 3.\n(a) Defendant discriminated against Cathy Foster and other female employees\nin the terms and conditions of their employment.  One of Defendant’s co-owners,\n2\n\na pharmacist, routinely harassed Foster and other female employees, scrutinized\ntheir work and attendance more harshly than he did male employees, and\notherwise subjected female employees to less favorable terms and conditions of\nemployment than male employees.\n(b) Defendant retaliated against Ms. Foster for complaining about the\npharmacist’s treatment and for contacting the Commission to report Defendant’s\nemployment discrimination.  \n8. The effect of the practices complained of in paragraph 7  above has been\nto deprive Cathy Foster of equal employment opportunities and otherwise adversely affect her \nstatus as an employee , because of her sex and because of retaliation.\n9. The unlawful employment practices complained of in paragraph 7 above\nwere  intentional.\n10. The unlawful employment practices complained of in paragraph 7 above\nwere done with malice or with reckless indifference to the federally protected rights of Cathy\nFoster.\nPRAYER FOR RELIEF\nWherefore, the Commission respectfully requests that this Court:\nA. Grant a permanent injunction enjoining Defendant, its officers, successors,\nassigns, and all persons in active concert or participation with it, from engaging in and any other\nemployment practice which discriminates on the basis of sex or which constitutes retaliation.\n3\n\nB. Order Defendant to institute and carry out policies, practices, and\nprograms which provide equal employment opportunities for women and which eradicate the\neffects of its past and present unlawful employment practices. \nC. Order Defendant  to make whole Cathy Foster, by providing appropriate\nbackpay with prejudgment interest, in amounts to be determined at trial, and other affirmative\nrelief necessary to eradicate the effects of its unlawful employment practices, including but not\nlimited to rightful place reinstatement of Cathy Foster.\nD. Order Defendant to make whole , by providing compensation for past and\nfuture pecuniary losses resulting from the unlawful employment practices described in paragraph\n7 above, including , in amounts to be determined at trial.\nE. Order Defendant  to make whole Cathy Foster by providing compensation\nfor past and future nonpecuniary losses resulting from the unlawful practices complained of in\nparagraph 7 above, including pain and suffering, loss of enjoyment of life, damage to reputation,\nand humiliation, in amounts to be determined at trial.\nF. Order Defendant  to pay  punitive damages for its malicious and reckless\nconduct described in paragraph 7 above, in amounts to be determined at trial.\nG. Grant such further relief as the Court deems necessary and proper in the\npublic interest.\nH. Award the Commission its costs of this action.\nJURY TRIAL DEMAND\nThe Commission requests a jury trial on all questions of fact  raised by its\ncomplaint.\n4\n\nRespectfully submitted,\nGWENDOLYN YOUNG REAMS\nAssociate General Counsel\n/s/ Robert G. Johnson                                     \nROBERT G. JOHNSON\nRegional Attorney\n/s/ Donna L. Harper                                        \nDONNA L. HARPER\nSupervisory Trial Attorney\nEQUAL EMPLOYMENT OPPORTUNITY\nCOMMISSION\nSt. Louis District Office\nRobert A. Young Federal Bldg.\n1222 Spruce, Room 8.100\nSt. Louis, MO  63103\n(314) 539-6614\nFAX: 314-539-7895\nE-MAIL:   bob.johnson@eeoc.gov\ndonna.harper@eeoc.gov\n/s/ Andrea G. Baran                                        \nANDREA G. BARAN              MO #46520\nSenior Trial Attorney\nEQUAL EMPLOYMENT OPPORTUNITY\nCOMMISSION\nKansas City Area Office\nGateway Tower II\n400 State Avenue\nSuite 905\nKansas City, KS 66101\n(913) 551-5848\nFAX: (913) 551-6957\nE-MAIL: andrea.baran@eeoc.gov\n5",
+      "document_type_other": "",
+      "external_url": "",
+      "ecf_number": "1",
+      "clearinghouse_link": "clearinghouse.net/doc/16116"
+    },
+    {
+      "date": "2004-04-16",
+      "date_is_estimate": false,
+      "date_not_available": false,
+      "description": null,
+      "document_source": null,
+      "document_status": "Coding Complete",
+      "document_type": "Docket",
+      "order_type": null,
+      "citation_paren": null,
+      "cite_1_page": null,
+      "cite_1_reporter": null,
+      "cite_1_vol": null,
+      "cite_2_page": null,
+      "cite_2_reporter": null,
+      "cite_2_vol": null,
+      "cite_3_page": null,
+      "cite_3_reporter": null,
+      "cite_3_vol": null,
+      "citation_status": "Not applicable",
+      "court": "Western District of Missouri",
+      "no_title": false,
+      "party_types": [
+        "Court"
+      ],
+      "per_curium": false,
+      "is_core_document": true,
+      "id": 16114,
+      "file": "https://clearinghouse-umich-production.s3.amazonaws.com/media/doc/16114.pdf",
+      "title": "Docket",
+      "text": "CM/ECF Western District of Missouri - Docket Report https://ecf.mowd.uscourts.gov/cgi-bin/DktRpt.pl?433439234397904-L_...\nCLOSED, EAPJ\nU.S. District Court\nUnited States District Court for the Western District of Missouri (Kansas City)\nCIVIL DOCKET FOR CASE #: 4:03-cv-00345-JTM\nEqual Employment Opportunity Commission v. Kreisler Drug  Date Filed: 04/22/2003\nNo.3, Inc. Date Terminated: 01/15/2004\nAssigned to: Magistrate Judge John T. Maughmer Jury Demand: Plaintiff\nCause: 42:1983 Civil Rights Act Nature of Suit: 442 Civil Rights: Jobs\nJurisdiction: U.S. Government Plaintiff\nPlaintiff\nEqual Employment Opportunity  represented by Andrea G. Baran \nCommission US Equal Employment Opportunity Comm\n400 State Ave. \nSuite 905 \nKansas City, KS 66101 \n(913)551-5848 \nFax: (913)551-6957 \nEmail: andrea.baran@eeoc.gov \nLEAD ATTORNEY \nATTORNEY TO BE NOTICED\nDonna Harper \nSEDEY HARPER PC \n3030 Grand Ave. \nSuite 200 \nSt. Louis, MO 63118 \n(314) 773-3566 \nFax: (314) 773-3615 \nEmail: dharper@sedeyharper.com \nLEAD ATTORNEY \nATTORNEY TO BE NOTICED\nRobert G. Johnson \nEqual Employment Opportunity \nCommission \n1222 Spruce Street \nRoom 8.100 \nSt. Louis, MO 63103 \n(314)539-7910 \nFax: (314)539-7895 \nEmail: robert.johnson@eeoc.gov \nLEAD ATTORNEY \nATTORNEY TO BE NOTICED\nV.\n1 of 4 5/21/2007 1:39 PM\n\nCM/ECF Western District of Missouri - Docket Report https://ecf.mowd.uscourts.gov/cgi-bin/DktRpt.pl?433439234397904-L_...\nDefendant\nKreisler Drug No.3, Inc. represented by Larry M. Schumaker \nSchumaker Center for Employment Law, \nP.C. \n10401 Holmes Road \nSuite 480 \nKansas City, MO 64131 \n(816) 941-9994 \nFax: (816) 941-8244 \nEmail: larryschumaker@sbcglobal.net \nATTORNEY TO BE NOTICED\nDate Filed # Docket Text\n04/22/2003 1 COMPLAINT against Kreisler Drug No.3, Inc. (Filing fee $ 0.00 receipt number \n-0-) Service due by 8/20/2003, filed by Andrea G. Baran on behalf of Equal \nEmployment Opportunity Commission.(Baran, Andrea) Civil Cover Sheet added \non 4/23/2003 (Henson, Tanya). (Entered: 04/22/2003)\n04/22/2003   NOTICE OF MAGISTRATE ASSIGNMENT was handed to filer. This is a \ndocket entry only. No document is attached. Magistrate Return due by 5/12/2003 \n(Henson, Tanya) (Entered: 04/23/2003)\n04/23/2003 2 Notice of EAPJ was mailed to filer. (Henson, Tanya) (Entered: 04/23/2003)\n04/28/2003 3 Rule 16 Notice:proposed scheduling order due by 8/20/2003, rule 26 conference \ndue by 8/6/2003. Signed by Judge John T. Maughmer on April 28, 2003. \n(Rowland, Bonnie) (Entered: 04/28/2003)\n05/06/2003 4 NOTICE of Magistrate Assignment Returned by Equal Employment Opportunity \nCommission (Baran, Andrea) Modified on 5/8/2003 to acknowledge consent of \nassignment (Kendall, Shelly). (Entered: 05/06/2003)\n06/26/2003 5 RETURN OF SERVICE of complaint executed by Equal Employment \nOpportunity Commission. Kreisler Drug No.3, Inc. Michael J. Abbott served on \n6/21/2003, answer due 7/11/2003. (Henson, Tanya) (Entered: 07/03/2003)\n07/10/2003 6 NOTICE of appearance by Larry M. Schumaker on behalf of Kreisler Drug No.3, \nInc. (Schumaker, Larry) (Entered: 07/10/2003)\n07/15/2003 7 Return of Service unexecuted by Equal Employment Opportunity Commission as \nto Kreisler Drug No.3, Inc.. Attempted to serve Michael Abbott, Registered \nAgent. Mr. Abbott does not represent dft. Contact Jim Naber, President of \nKreisler Drug, for current Registered Agent. (Honeycutt, Cassaundra) (Entered: \n07/15/2003)\n07/25/2003 8 ANSWER to Complaint filed by Larry M. Schumaker on behalf of Defendant \nKreisler Drug No.3, Inc..(Schumaker, Larry) (Entered: 07/25/2003)\n07/29/2003   NOTICE OF MAGISTRATE ASSIGNMENT sent by FAX to Larry Schumaker, \ncounsel for defendant. This is a docket entry only. No document is attached. \nMagistrate Return due by 8/18/2003 (Rowland, Bonnie) (Entered: 07/29/2003)\n2 of 4 5/21/2007 1:39 PM\n\nCM/ECF Western District of Missouri - Docket Report https://ecf.mowd.uscourts.gov/cgi-bin/DktRpt.pl?433439234397904-L_...\n08/01/2003 9 ORDER setting a Telephone Conference for 8/12/2003 at 1:30 PM to discuss the \nsettlement conference. Signed by Judge Robert E. Larsen on 8/1/2003. (Brown, \nAmy) (Entered: 08/01/2003)\n08/12/2003 10 Minute Entry for proceedings held before Judge Robert E. Larsen: TELEPHONE \nCONFERENCE held on 8/12/2003 re setting settlement conference. Counsel \nagree on Thursday, August 28, 2003, for settlement conference to be held. The \nCourt will enter an order August 13, 2003. (Court Reporter Sue \nAnderson-Porter.) (Anderson-Porter, Sue) (Entered: 08/12/2003)\n08/13/2003 11 ORDER setting settlement conference for 9:30 a.m., 8/28/03. Signed by Judge \nRobert E. Larsen on 08/13/03. (Marullo, Carol) (Entered: 08/13/2003)\n08/13/2003 12 Joint PROPOSED SCHEDULING ORDER and Discovery Plan by Equal \nEmployment Opportunity Commission. (Baran, Andrea) (Entered: 08/13/2003)\n08/13/2003 13 NOTICE of Endorsement by Kreisler Drug No.3, Inc. (regarding Joint Proposed \nScheduling Order and Discovery Plan) (Schumaker, Larry) (Entered: \n08/13/2003)\n08/21/2003 14 CERTIFICATE OF SERVICE OF INITIAL RULE 26 DISCLOSURES filed by \nLarry M. Schumaker on behalf of Defendant Kreisler Drug No.3, \nInc..(Schumaker, Larry) (Entered: 08/21/2003)\n08/21/2003 15 CERTIFICATE OF SERVICE OF INITIAL RULE 26 DISCLOSURES filed by \nAndrea G. Baran on behalf of Plaintiff Equal Employment Opportunity \nCommission.(Baran, Andrea) (Entered: 08/21/2003)\n08/22/2003 16 NOTICE of Magistrate Assignment Returned by Kreisler Drug No.3, Inc. \n(Schumaker, Larry) (Entered: 08/22/2003)\n08/28/2003 18 Minute Entry for proceedings held before Judge Robert E. Larsen: \nSETTLEMENT CONFERENCE held on 8/28/2003; settlement negotiations are \ncontinuing with a proposed agreement; counsel are to contact the Court within \nabout two weeks whether the case is resolved. (Court Reporter Sue \nAnderson-Porter.) (Anderson-Porter, Sue). (Entered: 09/09/2003)\n09/04/2003 17 SCHEDULING AND TRIAL ORDER: Jury Trial set for 6/7/2004, 09:00 AM, in \nCourtroom 7E, Kansas City (JTM) before John Maughmer. Signed by Judge John \nT. Maughmer on 09/04/2003. (Lavenbarg, Francine) (Entered: 09/04/2003)\n12/04/2003 19 Joint MOTION for consent judgment filed by Andrea G. Baran on behalf of \nEqual Employment Opportunity Commission Suggestions in opposition/response \ndue by 12/19/2003 (Baran, Andrea) (Entered: 12/04/2003)\n12/04/2003 20 NOTICE of Endorsement by Kreisler Drug No.3, Inc. re 19 Joint MOTION for \nconsent judgment (Schumaker, Larry) (Entered: 12/04/2003)\n01/15/2004 21 CONSENT DECREE entered 19 motion for consent judgment. Signed by Judge \nJohn T. Maughmer on 01/15/2004. (Lavenbarg, Francine) (Entered: 01/15/2004)\n03/31/2004 22 ORDERED that the pretrial conference scheduled for Wednesday, May 26, 2004, \nis reset for Tuesday, May 25, 2004, at 11:00 a.m.. Signed by Judge John T. \nMaughmer on 03/31/2004. (Lavenbarg, Francine) (Entered: 03/31/2004)\n3 of 4 5/21/2007 1:39 PM\n\nCM/ECF Western District of Missouri - Docket Report https://ecf.mowd.uscourts.gov/cgi-bin/DktRpt.pl?433439234397904-L_...\n04/16/2004 23 ORDERED that the Order entered on March 31, 2004 (Doc. No. 22), \nrescheduling the pretrial conference is VACATED. Signed by Judge John T. \nMaughmer on 04/16/2004. (Lavenbarg, Francine) (Entered: 04/16/2004)\nPACER Service Center\nTransaction Receipt\n05/21/2007 13:40:23\nPACER \nhs0328 Client Code: eeoc \nLogin:\nDocket  Search \nDescription: 4:03-cv-00345-JTM\nReport Criteria:\nBillable Pages: 2 Cost: 0.16\n4 of 4 5/21/2007 1:39 PM",
+      "document_type_other": null,
+      "external_url": null,
+      "ecf_number": null,
+      "clearinghouse_link": "clearinghouse.net/doc/16114"
+    }
+  ],
+  "document_count": 4
+}

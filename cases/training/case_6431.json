@@ -1,0 +1,457 @@
+{
+  "case_id": 6431,
+  "fetched_at": "2025-10-22T00:08:41.921726",
+  "case_data": {
+    "attorney_orgs": [
+      "EEOC"
+    ],
+    "available_documents": [
+      "Trial Court Docket",
+      "Complaint (any)",
+      "Monetary Relief",
+      "Injunctive (or Injunctive-like) Relief"
+    ],
+    "case_defendants": [
+      {
+        "defendant_level": null,
+        "institution": null,
+        "institution_alt_state": null,
+        "institution_city": "",
+        "institution_county": null,
+        "name": "RV Fun, Inc.",
+        "defendant_level_other": null,
+        "is_active": true
+      }
+    ],
+    "case_ongoing": "No",
+    "case_status": "Coding Complete",
+    "case_types": [
+      "Equal Employment"
+    ],
+    "cause_other": "",
+    "causes": [
+      "Americans with Disabilities Act (ADA), 42 U.S.C. §§ 12111 et seq."
+    ],
+    "class_action_granted": "Not sought",
+    "class_action_sought": "No",
+    "closing_year": 2008,
+    "constitutional_clause": [],
+    "content_of_injunction": [
+      {
+        "value": "Apology"
+      },
+      {
+        "value": "Expungement of Employment Record"
+      },
+      {
+        "value": "Discrimination Prohibition"
+      },
+      {
+        "value": "Retaliation Prohibition"
+      },
+      {
+        "value": "Develop anti-discrimination policy"
+      },
+      {
+        "value": "Post/Distribute Notice of Rights / EE Law"
+      },
+      {
+        "value": "Provide antidiscrimination training"
+      },
+      {
+        "value": "Implement complaint/dispute resolution process"
+      },
+      {
+        "value": "Reporting"
+      },
+      {
+        "value": "Recordkeeping"
+      },
+      {
+        "value": "Monitoring"
+      }
+    ],
+    "court": "District of Arizona",
+    "custom_issues": [],
+    "defendant_payment": "30000",
+    "defendant_type": [],
+    "docket_status": "Complete as of retrieval date",
+    "facility_type": [],
+    "filing_date": "2006-06-30",
+    "filing_year": 2006,
+    "id": 6431,
+    "injunction_duration": "24",
+    "issues": [
+      "Discrimination Basis: Disability (inc. reasonable accommodations)",
+      "Discrimination Area: Disparate Treatment",
+      "Discrimination Area: Accommodation / Leave",
+      "Discrimination Area: Discharge / Constructive Discharge / Layoff",
+      "EEOC-centric: Direct Suit on Merits"
+    ],
+    "last_checked_date": "2017-02-24T00:00:00-05:00",
+    "main_docket": {
+      "id": 36639,
+      "docket_entries": [
+        {
+          "row_number": 0,
+          "id": 10191640,
+          "entry_number": "20",
+          "date_filed": "2006-11-16T00:00:00-05:00",
+          "attachments": [],
+          "url": "https://www.courtlistener.com/docket/4674234/20/equal-employment-opportunity-commission-v-rv-fun-inc/",
+          "recap_pdf_url": "https://www.courtlistener.com/recap/gov.uscourts.azd.312683/gov.uscourts.azd.312683.20.0.pdf",
+          "pacer_doc_id": "0250697098",
+          "description": "ORDERED Settlement Conference set for 12/8/2006 at 9:30 AM in Courtroom 304, 401 West Washington Street, Phoenix, AZ 85003 before Magistrate Judge Edward C Voss.  Signed by Judge Edward C Voss on November 16, 2006. (ECV)"
+        }
+      ],
+      "docket_case_type": "cv",
+      "docket_year": 2006,
+      "docket_filing_number": 1675,
+      "is_main_docket": true,
+      "court": "District of Arizona",
+      "state": "Arizona",
+      "docket_office_number": "3",
+      "docket_number_manual": "3:06-cv-01675-EHC",
+      "scales_html": "https://clearinghouse-umich-production.s3.amazonaws.com/media/docket-html/azd--3-06-cv-01675.html",
+      "recap_link": "https://www.courtlistener.com/docket/4674234/equal-employment-opportunity-commission-v-rv-fun-inc/",
+      "is_active": true
+    },
+    "name": "EEOC v. RV FUN, INC.",
+    "never_filed": false,
+    "non_docket_case_number": "",
+    "non_docket_case_number_type": null,
+    "non_docket_case_number_type_other": "",
+    "order_end_year": 2008,
+    "order_start_year": 2006,
+    "permanent_injunction": false,
+    "plaintiff_description": "Equal Employment Opportunity Commission, on behalf of one or more workers.",
+    "plaintiff_type": [
+      {
+        "value": "EEOC Plaintiff"
+      }
+    ],
+    "prevailing_party": "Plaintiff",
+    "pro_se_status": "No",
+    "public_interest_lawyer": "Yes",
+    "related_cases": [],
+    "relief_natures": [
+      "Injunction / Injunctive-like Settlement",
+      "Damages"
+    ],
+    "relief_nature_other": "",
+    "relief_sources": [
+      "Settlement"
+    ],
+    "settlement_agreement": [
+      "Court Approved Settlement or Consent Decree"
+    ],
+    "settlement_judgment_date": "2006-12-14",
+    "settlement_judgment_year": null,
+    "special_collections": [
+      "EEOC Study — in sample",
+      "Multi-LexSum (in sample)"
+    ],
+    "special_case_type": [],
+    "state": "Arizona",
+    "summary": "In June 2006, the EEOC district office in Phoenix, Arizona brought this suit against RV Fun, Inc., doing business as Cowboys RV Mart, in the U.S. District Court for the District of Arizona. The EEOC claimed that the defendant violated the Americans with Disabilities Act (ADA) when it refused to accommodate an employee with ADD, then terminated him for asking for an accommodation.  The parties settled and a consent decree was entered in December 2006. The defendant agreed to pay the aggrieved party $30,000, refrain from retaliating and discriminating based on disability, implement an ADA/anti-discrimination policy, distribute and post its policy, post an EEO notice, provide EEO training to all its employees and CEO, hire an EEO consultant, implement a complaint procedure, make no references to this litigation in the aggrieved party's personnel file, issue an apology letter, and submit semiannual compliance/complaint reports to the EEOC. The docket sheet shows that no further enforcement took place; the case was presumably closed in 2008.",
+    "summary_published_date": "2025-05-27T18:46:44.615126-04:00",
+    "summary_short": "",
+    "summary_tiny": null,
+    "terminating_date": null,
+    "clearinghouse_link": "clearinghouse.net/case/6431",
+    "is_active": true,
+    "case_documents_url": "https://clearinghouse.net/api/v2/documents/?case=6431",
+    "case_dockets_url": "https://clearinghouse.net/api/v2/dockets/?case=6431",
+    "case_resources_url": "https://clearinghouse.net/api/v2/resources/?case=6431"
+  },
+  "documents": [
+    {
+      "date": null,
+      "date_is_estimate": false,
+      "date_not_available": false,
+      "description": null,
+      "document_source": null,
+      "document_status": null,
+      "document_type": null,
+      "order_type": null,
+      "citation_paren": null,
+      "cite_1_page": null,
+      "cite_1_reporter": null,
+      "cite_1_vol": null,
+      "cite_2_page": null,
+      "cite_2_reporter": null,
+      "cite_2_vol": null,
+      "cite_3_page": null,
+      "cite_3_reporter": null,
+      "cite_3_vol": null,
+      "citation_status": null,
+      "court": null,
+      "no_title": false,
+      "party_types": [],
+      "per_curium": false,
+      "is_core_document": true,
+      "id": 124919,
+      "file": null,
+      "title": null,
+      "text": null,
+      "document_type_other": null,
+      "external_url": null,
+      "ecf_number": null,
+      "clearinghouse_link": "clearinghouse.net/doc/124919"
+    },
+    {
+      "date": "2006-12-14",
+      "date_is_estimate": false,
+      "date_not_available": false,
+      "description": null,
+      "document_source": null,
+      "document_status": "Coding Complete",
+      "document_type": "Order/Opinion",
+      "order_type": null,
+      "citation_paren": null,
+      "cite_1_page": null,
+      "cite_1_reporter": null,
+      "cite_1_vol": null,
+      "cite_2_page": null,
+      "cite_2_reporter": null,
+      "cite_2_vol": null,
+      "cite_3_page": null,
+      "cite_3_reporter": null,
+      "cite_3_vol": null,
+      "citation_status": "No citation available",
+      "court": "District of Arizona",
+      "no_title": false,
+      "party_types": [
+        "Court"
+      ],
+      "per_curium": false,
+      "is_core_document": true,
+      "id": 13737,
+      "file": "https://clearinghouse-umich-production.s3.amazonaws.com/media/doc/13737.pdf",
+      "title": "Order",
+      "text": "1\n2\n3\n4\n5 IN THE UNITED STATES DISTRICT COURT\n6 FOR THE DISTRICT OF ARIZONA\n7\n8 Equal  Employment  Opportunity) No. CV 06-01675-PHX-EHC\nCommission ,  )\n9 ) ORDER\nPlaintiff, )\n10 )\nvs. )\n11 )\n)\n12 RV Fun, Inc., an Arizona corporation d/b/a)\nCowboys RV Mart,  )\n13 )\nDefendant. )\n14 )\n)\n15\n16\n17 The Court has reviewed the parties' Joint Motion for Entry of Consent Decree (Dkt.\n18 24).  The Consent Decree is attached to Docket 24.\n19 Accordingly,\n20 IT IS ORDERED that the Consent Decree is signed this date and is to be filed with\n21 the Clerk.\n22\n23 DATED this 13th  day of December, 2006.\n24\n25\n26\n27\n28",
+      "document_type_other": "",
+      "external_url": "",
+      "ecf_number": "26",
+      "clearinghouse_link": "clearinghouse.net/doc/13737"
+    },
+    {
+      "date": "2006-12-14",
+      "date_is_estimate": false,
+      "date_not_available": false,
+      "description": null,
+      "document_source": null,
+      "document_status": "Coding Complete",
+      "document_type": "Docket",
+      "order_type": null,
+      "citation_paren": null,
+      "cite_1_page": null,
+      "cite_1_reporter": null,
+      "cite_1_vol": null,
+      "cite_2_page": null,
+      "cite_2_reporter": null,
+      "cite_2_vol": null,
+      "cite_3_page": null,
+      "cite_3_reporter": null,
+      "cite_3_vol": null,
+      "citation_status": "Not applicable",
+      "court": "District of Arizona",
+      "no_title": false,
+      "party_types": [
+        "Court"
+      ],
+      "per_curium": false,
+      "is_core_document": true,
+      "id": 13732,
+      "file": "https://clearinghouse-umich-production.s3.amazonaws.com/media/doc/13732.pdf",
+      "title": "Docket",
+      "text": "CM/ECF - azd - Docket Report Page 1of 4\nCLOSED, PROTO, STD\nU.S. District Court \nDISTRICT OF ARIZONA (Prescott Division) \nCIVIL DOCKET FOR CASE #: 3:06-cv-01675-EHC \n   \nEqual Employment Opportunity Commission v. RV Fun Inc.  Date Filed: 06/30/2006 \n  Date Terminated: 12/14/2006 \nAssigned to: Judge Earl H Carroll  Jury Demand: Plaintiff \nCause: 42:1983 Civil Rights (Employment Discrimination) Nature of Suit: 445 Civil Rights: \nAmericans with Disabilities - \nEmployment \nJurisdiction: U.S. Government Plaintiff\nPlaintiff\nEqual Employment Opportunity  represented by Mary Joleen O'Neill  \nCommission  EEOC  \n3300 N Central Ave  \nSte 690  \nPhoenix, Az 85012-1848  \n602-640-5044  \nFax: 602-640-5009  \nEmail: mary.oneill@eeoc.gov  \nLEAD ATTORNEY  \nATTORNEY TO BE NOTICED \n \nValerie Leigh Meyer  \nUS EEOC  \n3300 N Central Ave  \nSte 690  \nPhoenix, AZ 85012-2504  \n602-640-4988  \nFax: 602-640-5009  \nEmail: valerie.meyer@eeoc.gov  \nLEAD ATTORNEY  \nATTORNEY TO BE NOTICED \n \nSally Clifford Shanley  \nEEOC  \n3300 N Central Ave  \nSuite 690  \nPhoenix, AZ 85012-1848  \n602-640-5007  \nFax: 602-640-5009  \nEmail: sally.shanley@eeoc.gov  \nATTORNEY TO BE NOTICED\n \nV. \nhttps://ecf.azd.uscourts.gov/cgi-bin/DktRpt.pl?591531914774556-L_353_0-1 3/27/2007\n\nCM/ECF - azd - Docket Report Page 2of 4\nDefendant\nRV Fun Inc.   represented by Richard J Galvan  \nan Arizona corporation   Carson Messinger Elliott Laughlin & \ndoing business as  Ragan PLLC  \nCowboys RV Mart   PO Box 33907  \nagent of  Phoenix, AZ 85067-3907  \nd/b/a Cowboys RV Mart  602-264-2261  \nFax: 602-222-5570  \nEmail: rgalvan@carsonlawfirm.com  \nATTORNEY TO BE NOTICED\n \nDate Filed  #  Docket Text \n06/30/2006 1 COMPLAINT, filed by Equal Employment Opportunity Commission.\n(Shanley, Sally) (Entered: 06/30/2006)\n06/30/2006   This case has been assigned to the Honorable Earl H. Carroll. All future \npleadings or documents should bear the correct case number: CV06-\n1675-PCT-EHC. (entered by ESH, ) (Entered: 07/05/2006)\n07/05/2006 2 Summons Issued as to RV Fun Inc.. (ESH, ) (Entered: 07/05/2006)\n07/12/2006 3 SUMMONS Returned Executed by Equal Employment Opportunity \nCommission. RV Fun Inc. served on 7/7/2006, answer due 7/27/2006. \n(Meyer, Valerie) (Entered: 07/12/2006)\n08/04/2006 4 NOTICE of Appearance by Richard J Galvan on behalf of all defendants \n(Galvan, Richard) (Entered: 08/04/2006)\n08/09/2006 5 MOTION for Extension of Time to File Answer re 1 Complaint \nStipulation to Extend Time for Defendant to Respond to Complaint by \nRV Fun Inc.. (Galvan, Richard) (Entered: 08/09/2006)\n08/15/2006 6 ORDER granting 5 Motion for Extension of Time to Answer. RV Fun \nInc. answer due 8/28/2006 . Signed by Judge Earl H Carroll on 8/14/06. \n(LCF) (Entered: 08/15/2006)\n08/22/2006 7 AMENDED COMPLAINT against RV Fun Inc.; Jury Demand, filed by \nEqual Employment Opportunity Commission.(Meyer, Valerie) (Entered: \n08/22/2006)\n08/23/2006 8 ERRATA re 7 Amended Complaint by Plaintiff Equal Employment \nOpportunity Commission. (Attachments: # 1 First Amended Complaint)\n(Meyer, Valerie) (Entered: 08/23/2006)\n09/07/2006 9 ANSWER to Amended Complaint by RV Fun Inc..(Galvan, Richard) \n(Entered: 09/07/2006)\n09/13/2006 10 ORDER Scheduling Conference set for 10/30/2006 10:00 AM before \nJudge Earl H Carroll.. Signed by Judge Earl H Carroll on 9/13/06. \n(SBU, ) (Entered: 09/13/2006)\n09/20/2006 11 Joint MOTION to Continue October 31, 2006 Scheduling Conference by \nhttps://ecf.azd.uscourts.gov/cgi-bin/DktRpt.pl?591531914774556-L_353_0-1 3/27/2007\n\nCM/ECF - azd - Docket Report Page 3of 4\nEqual Employment Opportunity Commission. (Attachments: # 1 Text of \nProposed Order)(Meyer, Valerie) (Entered: 09/20/2006)\n09/26/2006 12 ORDER granting Joint 11 Motion to Continue. Rule 16 Scheduling \nConference is reset for 11/13/2006 09:45 AM before Judge Earl H \nCarroll. Signed by Judge Earl H Carroll on 9/25/06. (KMG, ) (Entered: \n09/26/2006)\n11/06/2006 13 REPORT re: Rule 26(f) Planning Meeting by Equal Employment \nOpportunity Commission, RV Fun Inc.. (Meyer, Valerie) (Entered: \n11/06/2006)\n11/06/2006 14 Notice re NOTICE OF SERVICE OF DEFENDANT'S INITIAL \nDISCLOSURES by RV Fun Inc. (Galvan, Richard) (Entered: \n11/06/2006)\n11/08/2006 15 Notice re Service of Rule 26(a)(1) Initial Disclosure Statement by Equal \nEmployment Opportunity Commission (Meyer, Valerie) (Entered: \n11/08/2006)\n11/13/2006 16 Minute Entry for proceedings held before Judge Earl H. Carroll : \nAppearances: Valerie Meyer and Sally Shanley on behalf of plaintiff; \nRichard Galvan on behalf of defendant. Scheduling Conference held on \n11/13/2006. The parties agree to participate in a settlement conference. \nOrder to follow referring the matter to a Magistrate Judge for the purpose \nof setting a settlement conference. (This is a TEXT ONLY ENTRY. \nThere is no PDF document associated with this entry.) (Court Reporter \nCandy Potter.) (BAH) (Entered: 11/13/2006)\n11/14/2006 17 ORDER pursuant to the scheduling conference held 11/13/06 - Discovery \nis due by 9/14/2007. Dispositive motions due by 10/19/2007. Joint \nProposed Pretrial Order due by 12/20/2007. Final Pretrial Conference set \nfor 1/7/2008 09:00 AM before Judge Earl H Carroll. Jury Trial set for \n1/15/2008 09:00 AM before Judge Earl H Carroll. Signed by Judge Earl \nH Carroll on 11/13/06. (KMG, ) (Entered: 11/14/2006)\n11/15/2006 18 Notice re Service of First Discovery Requests to Defendant by Equal \nEmployment Opportunity Commission (Meyer, Valerie) (Entered: \n11/15/2006)\n11/15/2006 19 STIPULATION Regarding Confidentiality of Medical Records by Equal \nEmployment Opportunity Commission, RV Fun Inc.. (Attachments: # 1 \nText of Proposed Order)(Meyer, Valerie) (Entered: 11/15/2006)\n11/16/2006 20 ORDERED Settlement Conference set for 12/8/2006 at 9:30 AM in \nCourtroom 304, 401 West Washington Street, Phoenix, AZ 85003 before \nMagistrate Judge Edward C Voss. Signed by Judge Edward C Voss on \nNovember 16, 2006. (ECV) (Entered: 11/16/2006)\n11/20/2006 21 PROTECTIVE ORDER Pursuant to the parties' Stipulation Regarding \nConfidentiality of Medical Records 19 filed on November 15, 2006. \nSigned by Judge Earl H Carroll on 11/20/06. (KMG) (Entered: \n11/20/2006)\nhttps://ecf.azd.uscourts.gov/cgi-bin/DktRpt.pl?591531914774556-L_353_0-1 3/27/2007\n\nCM/ECF - azd - Docket Report Page 4of 4\n11/22/2006 22 Notice re Service of Discovery Requests by RV Fun Inc. on the EEOC \n(Galvan, Richard) (Entered: 11/22/2006)\n11/28/2006 23 Notice re Service of First Supplemental Disclosure by Equal \nEmployment Opportunity Commission (Meyer, Valerie) (Entered: \n11/28/2006)\n12/11/2006 24 Joint MOTION to Approve Consent Judgment by Equal Employment \nOpportunity Commission, RV Fun Inc.. (Attachments: # 1 Proposed \nConsent Decree)(Meyer, Valerie) (Entered: 12/11/2006)\n12/13/2006 25 Minute Entry. Proceedings held before Judge Edward C Voss: Settlement \nConference held on 12/13/2006. (Court Reporter COURTSMART.)\n(ECV) (Entered: 12/13/2006)\n12/14/2006 26 ORDER - The Court has reviewed the parties' 24 Joint Motion for Entry \nof Consent Decree, IT IS ORDERED that the Consent Decree is signed \nthis date and is to be filed with the Clerk. Signed by Judge Earl H Carroll \non 12/13/06.(SAT) (Entered: 12/14/2006)\n12/14/2006 27 CONSENT DECREE - IT IS ORDERED, ADJUDGED AND \nDECREED: This Decree resolves all claims arising out of the issues \nbetween the Commission and Defendant RV Fun, Inc. in this lawsuit or \nraised in the charge of Christiaan Calhoon, No. 350-2004-03346, \nincluding without limitation, back pay, compensatory and punitive \ndamages, injunctive relief, costs and attorney's fees. Signed by Judge Earl \nH Carroll on 12/13/06. (SAT) (Entered: 12/14/2006)\n \n \nPACER Service Center\nTransaction Receipt\n03/27/2007 16:34:29\nPACER Login: hs0328 Client Code:\nDescription: Docket Report Search Criteria: 3:06-cv-01675-EHC \nBillable Pages: 2 Cost: 0.16\nhttps://ecf.azd.uscourts.gov/cgi-bin/DktRpt.pl?591531914774556-L_353_0-1 3/27/2007",
+      "document_type_other": null,
+      "external_url": null,
+      "ecf_number": null,
+      "clearinghouse_link": "clearinghouse.net/doc/13732"
+    },
+    {
+      "date": "2006-12-11",
+      "date_is_estimate": false,
+      "date_not_available": false,
+      "description": null,
+      "document_source": null,
+      "document_status": "Deleted",
+      "document_type": "Pleading / Motion / Brief",
+      "order_type": null,
+      "citation_paren": null,
+      "cite_1_page": null,
+      "cite_1_reporter": null,
+      "cite_1_vol": null,
+      "cite_2_page": null,
+      "cite_2_reporter": null,
+      "cite_2_vol": null,
+      "cite_3_page": null,
+      "cite_3_reporter": null,
+      "cite_3_vol": null,
+      "citation_status": "Not applicable",
+      "court": "District of Arizona",
+      "no_title": false,
+      "party_types": [
+        "Defendant",
+        "Plaintiff"
+      ],
+      "per_curium": false,
+      "is_core_document": true,
+      "id": 13736,
+      "file": "https://clearinghouse-umich-production.s3.amazonaws.com/media/nonpublic/doc/13736.pdf",
+      "title": "Joint Motion for Entry of Consent Decree",
+      "text": "Mary Jo O'Neill, AZ Bar No. 005294 \n1 Sally C. Shanley, AZ Bar No. 012251 \nValerie L. Meyer, CA Bar No. 228586 \n2 EQUAL EMPLOYMENT OPPORTUNITY COMMISSION, Phoenix District Office \n3300 North Central Avenue, Suite 690 \n3 Phoenix, Arizona  85012-2504 \nTelephone:  (602) 640-4988 \n4 Fax:  (602) 640-5009 \nE-Mail:  mary.oneill@eeoc.gov\n5 sally.shanley@eeoc.gov\nvalerie.meyer@eeoc.gov\n6 Attorneys for Plaintiff \n7 RICHARD J. GALVÁN, AZ BAR #004836 \nCARSON MESSINGER ELLIOTT \n8  LAUGHLIN & RAGAN, P.L.L.C.\n3300 North Central Avenue, Suite 1900 \nPhoenix, Arizona 85012 \n9\nTelephone: (602) 264-2261 \nAttorneys for Defendant \n10\nRgalvan@carsonlawfirm.com\n11\nIN THE UNITED STATES DISTRICT COURT \n12\nFOR THE DISTRICT OF ARIZONA \n13\n14 EQUAL EMPLOYMENT  )\n)   CV06-1675-PCT-EHC \n15 OPPORTUNITY COMMISSION,  )\n) JOINT MOTION FOR ENTRY OF \n16              Plaintiff,  ) CONSENT DECREE \n)\n  vs. \n17 )\n)\n18 RV FUN, INC., an Arizona corporation,  )\n)\nd/b/a COWBOYS RV MART, \n19 )\n)\n20              Defendant.  )\n)\n21\n22\nThe parties, the Equal Employment Opportunity Commission, and Defendant, RV \n23\nFun, Inc., jointly move this court to enter the Consent Decree that has been filed and \n24\nlodged on this date. The parties stipulate that this Consent Decree is fair, reasonable, and \n25\nequitable and does not violate the law or public policy.  All parties have agreed to \n26\nelectronic signatures. \n27\nRESPECTFULLY SUBMITTED, this 11th day of December, 2006, \n28\n-1-\n\n        MARY JO O’NEILL \n1\n        Regional Attorney \n2\n        SALLY C. SHANLEY \n3\n        Supervisory Trial Attorney \n4\n        s/Valerie L. Meyer\n5\n        VALERIE L. MEYER \n        Trial Attorney \n6\n7\nEQUAL EMPLOYMENT \n        OPPORTUNITY COMMISSION \n8\n        Phoenix District Office \n9         3300 N. Central Ave., Suite 690 \n        Phoenix, Arizona  85012 \n10\n11 s/ Richard J. Galván    \nRichard J. Galván, Esq. \n12\nCarson, Messinger, Elliott,\n13 Laughlin & Ragan, P.L.L.C. \n3300 N. Central Avenue, 19th Floor \n14\nPhoenix, Arizona 85012 \n15 Attorney for Defendant \n16\n17\n18\n19\n20\n21\n22\n23\n24\n25\n26\n27\n28\n-2-\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nATTACHMENT A \nNOTICE TO ALL EMPLOYEES OF \nRV FUN, INC (doing business as COWBOY’S RV MART) \nThis notice is posted pursuant to a consent decree entered into in the Americans \nEEOC v. RV Fun, Inc., d/b/a Cowboy’s RV Mart\nwith Disabilities Act case  , CIV-\n06-1675-PCT-EHC.\nIt is unlawful under federal law (the Americans with Disabilities Act) and state law \nto discriminate against an employee on the basis of disability.  It is also unlawful to \nretaliate against any person because the person protested discriminatory practices \nor contacted the EEOC. \nCowboy’s RV Mart will not discriminate against any employee on the basis of \ndisability and will not retaliate against any employee. \nIf you believe you have been discriminated against by Cowboy’s RV Mart, you \nhave the right to seek assistance from: \n  (1)  EEOC, 3300 North Central Avenue, Suite 690, Phoenix, Arizona \n85012, (602) 640-5000; or \n  (2)  Arizona Civil Rights Division (ACRD) of the Attorney General's \nOffice, 1275 W. Washington, Phoenix, Arizona, 85007, (602) 255-5263. \nand/or have the right to file a charge with the EEOC or ACRD if you believe you \nare being discriminated against. \nNo Retaliation Clause.  No action may be taken against you by any supervisory or \nmanagement official of Cowboy’s RV Mart  for (1) opposing discriminatory \npractices made unlawful by federal law, (2) filing a charge or assisting or \nparticipating in the filing of a charge of discrimination, or (3) assisting or \nparticipating in an investigation or proceeding brought under state or federal law \nanti-discrimination laws.  Should any such retaliatory actions be taken against you, \nyou should immediately contact the EEOC or the ACRD and the address or \ntelephone numbers listed above. \nDated:    ___________________________________\n      Sherman Henson \nRV Fun, Inc./Cowboy’s RV Mart \n\nATTACHMENT B \n[Cowboy’s RV Mart Letterhead] \n[Date]\nChristiaan Calhoon \n[Address]\nDear Mr. Calhoon, \nAs you are aware, a lawsuit was filed by the Equal Employment Opportunity Commission \nagainst RV Fun, Inc. (doing business as Cowboy’s RV Mart) alleging termination based on \ndisability and failure to reasonably accommodate you. \nPlease accept my apology on behalf of myself and Cowboy’s RV Mart for any failure to \naccommodate you and negative treatment you endured because of your disability while you \nworked for us.  Please accept my commitment that the company will take the necessary steps to \nensure that current and future employees with disabilities will be accommodated and that \nemployees will not be subjected to any harassment or retaliation.  \nI appreciate the service you provided to us.  I wish you the best of luck in the future. \nSincerely,\nSherman Henson \nCEO, RV Fun, Inc. (doing business as Cowboy’s RV Mart) ",
+      "document_type_other": null,
+      "external_url": null,
+      "ecf_number": null,
+      "clearinghouse_link": "clearinghouse.net/doc/13736"
+    },
+    {
+      "date": "2006-09-07",
+      "date_is_estimate": false,
+      "date_not_available": false,
+      "description": null,
+      "document_source": null,
+      "document_status": "Deleted",
+      "document_type": "Other",
+      "order_type": null,
+      "citation_paren": null,
+      "cite_1_page": null,
+      "cite_1_reporter": null,
+      "cite_1_vol": null,
+      "cite_2_page": null,
+      "cite_2_reporter": null,
+      "cite_2_vol": null,
+      "cite_3_page": null,
+      "cite_3_reporter": null,
+      "cite_3_vol": null,
+      "citation_status": "Not applicable",
+      "court": "District of Arizona",
+      "no_title": false,
+      "party_types": [
+        "Defendant"
+      ],
+      "per_curium": false,
+      "is_core_document": true,
+      "id": 13735,
+      "file": "https://clearinghouse-umich-production.s3.amazonaws.com/media/nonpublic/doc/13735.pdf",
+      "title": "Defendant's Answer to Complaint",
+      "text": "1  Law Offices of \nCARSON MESSINGER ELLIOTT \n2  LAUGHLIN & RAGAN, P.LLC. \n3300 North Central Avenue, Suite 1900 \n3  Phoenix, Arizona 85012 \n(602) 264-2261 \n4  Richard J. Galvan (State Bar No. 004836) \nttorneysfor Defendant RV Fun, Inc. \n5 Ir--'=====\"\"\"\"\"\"== \n6 \n7 \nIN THE UNITED STATES DISTRICT COURT \n8 \nFOR THE DISTRICT OF ARIZONA \n9 \nPRESCOTT DIVISION \n10 \n) \n11  EQUAL EMPLOYMENT OPPORTUNITY  )  Case No.: CV06-1675-PCT-EHC \nCOMMISSION,  ) \n12  ) \nPlaintiff,  ) \n13  )  ANSWER \nvs.  ) \n14  ) \nRV FUN, INC., an Arizona corporation,  ) \n15  d/b/a COWBOY'S RV MART,  ) \n) \n16  Defendant.  ) \n11------------------------------------------------------------------------) \n17 \nDefendant RV Fun, Inc., an Arizona corporation (\"RV Fun\"), through undersigned \n18 \ncounsel, for its Answer to the Equal Employment Opportunity Commission's \n19 \n(\"Commission\") First Amended Complaint, responds as follows: \n20 \n1.  In response to the paragraph in the First Amended Complaint entitled \n21 \n\"Nature of the Action\" RV Fun denies the allegations therein; RV Fun alleges that the \n22 \naction does appear to be brought pursuant to the Americans with Disabilities Act of 1990 \n23 \nregarding Christiaan C. Calhoon who was reprimanded several times by RV Fun for \n24 \nsmoking around gas tanks and gas soaked rags, who later advised RV Fun that he suffers \n25 \nfrom \"episodic problems where disorganized thinking may occur\" and Attention Deficit \n26 \nDisorder and, who, as a result, posed a direct threat to the health or safety of other \n\n1  individuals in the RV Fun workplace that could not be eliminated by reasonable \n2  accommodation within the meaning of 42 U.S.C. § § 12111(3) and 12113(b); RV Fun denies \n3  that Christiaan Calhoon suffers from a disability within the meaning of 42 U.S.C. § 12102(2) \n4  because, among other reasons, his condition does not substantially limit one or more of his \n5  major life activities. \n6  2.  RV Fun admits the allegations of paragraphs 1 through 7 of the Complaint. \n7  3.  RV Fun denies the allegations of paragraph 8 of the Complaint and alleges \n8  that Christiaan Calhoon posed a direct threat to the health or safety of other individuals in \n9  the RV Fun workplace that could not be eliminated by reasonable accommodation within \n10  the meaning of 42 U.S.C. § § 12111(3) and 12113(b); RV Fun further alleges that Christiaan \n11  Calhoon does not suffer from a disability within the meaning of 42 U.S.C. § 12102(2) \n12  because, among other reasons, his condition does not substantially limit one or more of his \n13  major life activities. \n14  4.  RV Fun is without lmowledge or information sufficient to form a belief as the \n15  to truth of the allegations in paragraph 9 that Christiaan Calhoon is experienced in \n16  commercial janitorial and cleaning work and therefore denies same; RV Fun admits that \n17  Christiann Calhoon worked in a cleaning capacity for RV Fun but, upon information and \n18  belief, alleges that his prior experience did not involve a potentially dangerous \n19  environment such as a RV /Boat dealership; RV Fun denies the remaining allegations of \n20  paragraph 9. \n21  5.  RV Fun denies the allegations of paragraphs 10,11,12, and 13. \n22  6.  RV Fun denies any allegations of the Complaint not otherwise specifically \n23  admitted or denied herein. \n24  AFFIRMATIVE DEFENSES \n25  7.  The Complaint must be dismissed because it fails to state a claim against RV \n26 \n-2-\n\n1  Fun upon which relief can be granted. \n2  8.  Christiaan Calhoon is not a qualified individual with a disability because he \n3  posed a direct threat to the health or safety of other individuals in the RV Fun workplace \n4  that could not be eliminated by reasonable accommodation within the meaning of 42 \n5  U.S.C. § § 12111(3) and 12113(b) and, therefore, the Complaint must be dismissed. \n6  9.  Christiaan Calhoon does not suffer from a disability within the meaning of 42 \n7  U.S.C. § 12102 (2) because, among other reasons, his condition does not substantially limit' \n8  one or more of his major life activities and, therefore, the Complaint must be dismissed. \n9  10.  RV Fun made reasonable accommodation to Christiaan Calhoon by providing \n10  him with a list of his job duties and assignments when he asked for it before his written \n11  request for such a list on April 7, 2004. \n12  11.  The Complaint must also be dismissed on the basis of Christiaan Calhoon's \n13  failure to inform RV Fun at the time of his hire that he posed a direct threat to the health or \n14  safety of other individuals in the RV Fun workplace that could not be eliminated by \n15  reasonable accommodation within the meaning of 42 U.S.C. § § 12111(3) and 12113(b). \n16  12.  The Complaint must also be dismissed on the basis of Christiaan Calhoon's \n17  failure to mitigate damages. \n18  13.  RV Fun specifically reserves its right to amend this Answer to set forth any \n19  additional defenses which might become available as and when discovery in this matter is \n20  conducted. \n21  WHEREFORE, having fully answered the Complaint, Defendant RV Fun \n22  respectfully requests: \n23  A.  That the Complaint be dismissed with prejudice and that Plaintiff take \n24  nothing thereby; \n25  B.  That RV Fun be awarded judgment against Plaintiff for RV Fun's attorneys' \n26 \n-3-\n\n1  fees and costs incurred herein; and \n2  C.  That RV Fun be given such other and further relief as this Court deems just \n3  and proper. \n4  DATED this 7th day of September, 2006. \n5  CARSON MESSINGER ELLIOTT \nLAUGHLIN &: RAGAN, P.L.L.C. \n6 \n7 \nBy:  lSI RJG 004836 \n8  Richard J. Galvan \nAttorneys for Defendant RV Fun, Inc. \n9 \n10  Certificate of Service \n11  I certify that, on this 7th day of September 2006, I electronically transmitted the \n12  foregoing Answer to the Clerk's Office using the ECF System for filing and transmittal of a \n13  Notice of Electronic Filing to the following ECF registrants: \n14 \n15  Mary Jo O'Neill \nSally C. Shanley \n16  Valerie L. Meyer \nEQUAL EMPLOYMENT OPPORTUNITY COMMISSION, Phoenix District Office \n17  3300 North Central Avenue, Suite 690 \nPhoenix, Arizona 85012-2504 \n18 \nsl Abby Lewis \n19 \n20 \n21 \n22 \n23 \n24 \n25 \n26 \n-4-",
+      "document_type_other": null,
+      "external_url": null,
+      "ecf_number": null,
+      "clearinghouse_link": "clearinghouse.net/doc/13735"
+    },
+    {
+      "date": "2006-06-30",
+      "date_is_estimate": false,
+      "date_not_available": false,
+      "description": null,
+      "document_source": null,
+      "document_status": "Coding Complete",
+      "document_type": "Complaint",
+      "order_type": null,
+      "citation_paren": null,
+      "cite_1_page": null,
+      "cite_1_reporter": null,
+      "cite_1_vol": null,
+      "cite_2_page": null,
+      "cite_2_reporter": null,
+      "cite_2_vol": null,
+      "cite_3_page": null,
+      "cite_3_reporter": null,
+      "cite_3_vol": null,
+      "citation_status": "Not applicable",
+      "court": "District of Arizona",
+      "no_title": false,
+      "party_types": [
+        "Plaintiff"
+      ],
+      "per_curium": false,
+      "is_core_document": true,
+      "id": 13733,
+      "file": "https://clearinghouse-umich-production.s3.amazonaws.com/media/nonpublic/doc/13733.pdf",
+      "title": "Complaint",
+      "text": "Mary Jo O'Neill, AZ Bar No. 005294 \n1 Sally C. Shanley, AZ Bar No. 012251 \nValerie L. Meyer, CA Bar No. 228586 \n2 EQUAL EMPLOYMENT OPPORTUNITY COMMISSION, Phoenix District Office \n3300 North Central Avenue, Suite 690 \n3 Phoenix, Arizona  85012-2504 \nTelephone:  (602) 640-5016 \n4 Fax:  (602) 640-5009 \nE-Mail:  mary.oneill@eeoc.gov\n5 sally.shanley@eeoc.gov\nvalerie.meyer@eeoc.gov\n6 Attorneys for Plaintiff \n7\nIN THE UNITED STATES DISTRICT COURT \n8\nFOR THE DISTRICT OF ARIZONA \n9\nPRESCOTT DIVISION \n10\n11\n) Case No.:  TBA \n12 EQUAL EMPLOYMENT  )\n) COMPLAINT\n13 OPPORTUNITY COMMISSION,  ) JURY TRIAL DEMANDED \n)\n14     Plaintiff,  )\n)\n15   vs.  )\n)\n16 RV FUN, INC., an Arizona corporation,  )\n)\n17 d/b/a COWBOYS RV MART,  )\n)\n18     Defendant  )\n19 NATURE OF THE ACTION\n20 This is an action under Titles I and V of the Americans with Disabilities Act of 1990 \n21 (“ADA”) and Title I of the Civil Rights Act of 1991 to correct unlawful employment \npractices on the basis of disability and to provide appropriate relief to Christiaan C. \n22\nCalhoon, who was adversely affected by such practices.   The Commission alleges that \n23\nRV Fun, Inc. (“RV Fun”) discriminated against Mr. Calhoon on the basis of his \n24\n25 disability, Attention Deficit Disorder (“ADD”), when it denied him a reasonable \n26 accommodation in his position of Recreational Vehicle (RV) Cleaner and Washer and \n27 when it discharged him because of his disability and because he requested a reasonable \naccommodation.\n28\n-1-\n\nJURISDICTION AND VENUE\n1\n1.  Jurisdiction of this Court is invoked pursuant to 28 U.S.C. §§ 451, 1331, 1337, \n2\n1343 and 1345.  This action is authorized and instituted pursuant to Section 107(a) of the \n3\nAmericans with Disabilities Act of 1990 (\"ADA\"), 42 U.S.C. § 12117(a), which \n4\nincorporates by reference Sections 706(f)(1) and (3) of Title VII of the Civil Rights Act \n5\nof 1964 (\"Title VII\"), 42 U.S.C. §§ 2000e-5(f)(1) and (3), and pursuant to Section 102 of \n6\nthe Civil Rights Act of 1991, 42 U.S.C. § 1981a. \n7\n2.  The employment practices alleged to be unlawful were committed within the \n8\njurisdiction of the United States District Court for the District of Arizona. \n9\nPARTIES\n10\n3.  Plaintiff, the Equal Employment Opportunity Commission (the \"Commission\"), is \n11\nthe agency of the United States of America charged with the administration, \n12\ninterpretation and enforcement of Title I of the ADA and is expressly authorized to bring \n13\nthis action by Section 107(a) of the ADA, 42 U.S.C. § 12117(a), which incorporates by \n14\nreference Sections 706(f)(1) and (3)  of Title VII, 42 U.S.C.  §§ 2000e-5(f)(1). \n15\n4.  At all relevant times, Defendant, RV Fun, Inc., an Arizona corporation, has \n16\ncontinuously been doing business in the state of Arizona and the city of Lake Havasu \n17\nCity, and has continuously had at least 15 employees. \n18\n5.  At all relevant times, Defendant has continuously been an employer engaged in an \n19\nindustry affecting commerce under Section 101(5) of the ADA, 42 U.S.C.§ 12111(5), and \n20\nSection 101(7) of the ADA, 42 U.S.C. § 12111(7), which incorporates by reference \n21\nSections 701(g) and (h) of Title VII, 42 U.S.C. §§ 2000e(g) and (h). \n22\n6.  At all relevant times, Defendant has been a covered entity under Section 101(2) of \n23\nthe ADA, 42 U.S.C. § 12111(2). \n24\n25\n26\n27\n28\n-2-\n\nSTATEMENT OF CLAIMS\n1\n7.  More than thirty days prior to the institution of this lawsuit, Christiaan Calhoon \n2\nfiled a charge with the Commission alleging violations of Titles I and V of the ADA by \n3\nDefendant RV Fun.  All conditions precedent to the institution of this lawsuit have been \n4\nfulfilled.\n5\n8.  Christiaan Calhoon is a qualified individual with a disability and is covered by \n6\nTitle I of the ADA, 42 U.S.C. §§ 12101 et seq.\n7\n9.  Christiaan Calhoon is experienced in commercial janitorial and cleaning work and \n8\nworked in a janitorial and cleaning capacity for RV Fun. \n9\n10.  Since at least April 7, 2004, Defendant RV Fun has engaged in unlawful \n10\nemployment practices at its Lake Havasu City, Arizona location, in violation of Titles I \n11\nand V of the ADA, 42 U.S.C. §§ 12101 et seq. These practices include: \n12\na.   Denying Mr. Calhoon a reasonable accommodation; \n13\n  b.  Discharging Mr. Calhoon because of his disability; and \n14\n  c.  Discharging Mr. Calhoon because he requested a reasonable \n15\naccommodation.\n16\n11.  The effect of the practices complained of in paragraph 10 above has been to \n17\ndeprive Christiaan Calhoon of equal employment opportunities and otherwise adversely \n18\naffect his status as an employee because of his disability.\n19\n12.  The unlawful employment practices complained of in paragraph 10 were \n20\nintentional.\n21\n13.  The unlawful employment practices complained of in paragraph 10 above were \n22\ndone with malice or with reckless indifference to the federally protected rights of \n23\nChristiaan Calhoon.\n24\n25\n26\n27\n28\n-3-\n\nPRAYER FOR RELIEF\n1\n  Wherefore, the Commission respectfully requests that this Court: \n2\nA.  Grant a permanent injunction enjoining Defendant RV Fun, its officers, \n3\nsuccessors, assigns, and all persons in active concert or participation with it, from \n4\nengaging in those actions alleged in paragraph 10 and any other employment practice \n5\nwhich discriminates on the basis of disability. \n6\nB.  Order Defendant RV Fun to institute and carry out policies, practices, and \n7\nprograms which provide equal employment opportunities for qualified individuals with \n8\ndisability, and which eradicate the effects of its past and present unlawful employment \n9\npractices.\n10\nC.  Order Defendant RV Fun to make whole Christiaan Calhoon by providing \n11\nappropriate back pay with prejudgment interest, in amounts to be determined at trial, and \n12\nother affirmative relief necessary to eradicate the effects of its unlawful employment \n13\npractices, including but not limited to institution of training programs which educate \n14\nemployees about disability and anti-discrimination laws and transmission of a letter of \n15\napology to Christiaan Calhoon.  \n16\nD.  Order Defendant RV Fun to make whole Christiaan Calhoon by providing \n17\ncompensation for past and future nonpecuniary losses resulting from the unlawful \n18\npractices complained of in paragraph 10 above, including emotional pain, suffering, \n19\ninconvenience, loss of enjoyment of life, and humiliation, in amounts to be determined at \n20\ntrial.\n21\nE.  Order Defendant RV Fun to pay Christiaan Calhoon punitive damages for its \n22\nmalicious and reckless conduct, as described in paragraph 10 above, in amounts to be \n23\ndetermined at trial. \n24\nF.  Grant such further relief as the Court deems necessary and proper in the public \n25\ninterest.\n26\nG.  Award the Commission its costs in this action. \n27\n28\n-4-\n\nJURY TRIAL DEMAND\n1\n  The Commission requests a jury trial on all questions of fact raised by its \n2\ncomplaint.\n3\n4\nRESPECTFULLY SUBMITTED, this 30th  day of June, 2006, \n5\n6\n7         JAMES L. LEE \n        Deputy General Counsel \n8\n9         GWENDOLYN YOUNG REAMS \n        Associate General Counsel  \n10\nEQUAL EMPLOYMENT \n11\n        OPPORTUNITY COMMISSION \n12\n        1801 L Street, N.W. \n        Washington, D.C.  20507 \n13\n14\ns/ Mary J. O’Neill___     \n15\n                 MARY JO O’NEILL \n16         Regional Attorney \n17\ns/Sally C. Shanley \n18         SALLY C. SHANLEY \n         Supervisory Trial Attorney \n19\n20 s/ Valerie L. Meyer\n        VALERIE L. MEYER \n21\n        Trial Attorney \n22\nEQUAL EMPLOYMENT \n23\n        OPPORTUNITY COMMISSION \n24         Phoenix District Office \n        3300 N. Central Ave., Suite 690 \n25\n        Phoenix, Arizona  85012\n26\n27\n28\n-5-",
+      "document_type_other": "",
+      "external_url": "",
+      "ecf_number": "1",
+      "clearinghouse_link": "clearinghouse.net/doc/13733"
+    },
+    {
+      "date": "2006-08-22",
+      "date_is_estimate": false,
+      "date_not_available": false,
+      "description": null,
+      "document_source": null,
+      "document_status": "Coding Complete",
+      "document_type": "Complaint",
+      "order_type": null,
+      "citation_paren": null,
+      "cite_1_page": null,
+      "cite_1_reporter": null,
+      "cite_1_vol": null,
+      "cite_2_page": null,
+      "cite_2_reporter": null,
+      "cite_2_vol": null,
+      "cite_3_page": null,
+      "cite_3_reporter": null,
+      "cite_3_vol": null,
+      "citation_status": "Not applicable",
+      "court": "District of Arizona",
+      "no_title": false,
+      "party_types": [
+        "Plaintiff"
+      ],
+      "per_curium": false,
+      "is_core_document": true,
+      "id": 13734,
+      "file": "https://clearinghouse-umich-production.s3.amazonaws.com/media/nonpublic/doc/13734.pdf",
+      "title": "First Amended Complaint",
+      "text": "1\nMary Jo O'Neill, AZ Bar No. 005924\nSally C. Shanley, AZ Bar No. 012251\n2\nValerie L. Meyer, CA Bar No. 228586\nEQUAL EMPLOYMENT OPPORTUNITY \n3\nCOMMISSION, Phoenix District Office\n4 3300 North Central Avenue, Suite 690\nPhoenix, Arizona  85012-2504\n5 Telephone:  (602) 640-4988\nFax:  (602) 640-5009\n6 E-Mail:   mary.oneill@eeoc.gov\n sally.shanley@eeoc.gov\n7\n valerie.meyer@eeoc.gov\nAttorneys for Plaintiff\n8\nIN THE UNITED STATES DISTRICT COURT\n9 FOR THE DISTRICT OF ARIZONA\n10 PRESCOTT DIVISION\n11\n12 EQUAL EMPLOYMENT ) Case No.:  CV06-1675-PCT-EHC\n)\nOPPORTUNITY COMMISSION,\n13 ) FIRST AMENDED COMPLAINT\nPlaintiff,\n)\n14\nvs. )\nJURY TRIAL DEMANDED\n)\n15 RV FUN, INC., an Arizona corporation,\n)\nd/b/a COWBOYS RV MART,\n16 )\nDefendant. )\n17\n18 NATURE OF THE ACTION\n19 This is an action under Titles I and V of the Americans with Disabilities Act of\n20\n1990 (\"ADA\") and Title I of the Civil Rights Act of 1991 to correct unlawful employment\n21\npractices on the basis of disability and to provide appropriate relief to Christiaan C.\n22\nCalhoon, who was adversely affected by such practices.   The Commission alleges that\n23\nRV Fun, Inc. (\"RV Fun\") discriminated against Mr. Calhoon on the basis of his disability,\n24\nAttention Deficit Disorder (\"ADD\"), when it denied him a reasonable accommodation in\n25\nhis position of Recreational Vehicle (RV) Cleaner and Washer and when it discharged\n26\n27 him because of his disability and because he requested a reasonable accommodation. \n28\n\n1 JURISDICTION AND VENUE\n2 1. Jurisdiction of this Court is invoked pursuant to 28 U.S.C. §§ 451, 1331, 1337,\n3 1343 and 1345.  This action is authorized and instituted pursuant to Section 107(a) of the\n4 Americans with Disabilities Act of 1990 (\"ADA\"), 42 U.S.C. § 12117(a), which\n5 incorporates by reference Sections 706(f)(1) and (3) of Title VII of the Civil Rights Act\n6 of 1964 (\"Title VII\"), 42 U.S.C. §§ 2000e-5(f)(1) and (3), and pursuant to Section 102 of\n7 the Civil Rights Act of 1991, 42 U.S.C. § 1981a.\n8 2. The employment practices alleged to be unlawful were committed within the\n9 jurisdiction of the United States District Court for the District of Arizona.\n10 PARTIES\n11 3. Plaintiff, the Equal Employment Opportunity Commission (the \"Commission\"), is\n12 the agency of the United States of America charged with the administration, interpretation\n13 and enforcement of Title I of the ADA and is expressly authorized to bring this action by\n14 Section 107(a) of the ADA, 42 U.S.C. § 12117(a), which incorporates by reference\n15 Sections 706(f)(1) and (3)  of Title VII, 42 U.S.C.  §§ 2000e-5(f)(1).\n16 4. At all relevant times, Defendant, RV Fun, Inc., an Arizona corporation, has\n17 continuously been doing business in the state of Arizona and the city of Lake Havasu\n18 City, and has continuously had at least 15 employees.\n19 5. At all relevant times, Defendant has continuously been an employer engaged in an\n20 industry affecting commerce under Section 101(5) of the ADA, 42 U.S.C.§ 12111(5), and\n21 Section 101(7) of the ADA, 42 U.S.C. § 12111(7), which incorporates by reference\n22 Sections 701(g) and (h) of Title VII, 42 U.S.C. §§ 2000e(g) and (h).\n23 6. At all relevant times, Defendant has been a covered entity under Section 101(2) of\n24 the ADA, 42 U.S.C. § 12111(2).\n25 . . .\n26 . . .\n27 . . .\n28 . . .\n2\n\n1 STATEMENT OF CLAIMS\n2 7. More than thirty days prior to the institution of this lawsuit, Christiaan Calhoon\n3 filed a charge with the Commission alleging violations of Titles I and V of the ADA by\n4 Defendant RV Fun.  All conditions precedent to the institution of this lawsuit have been\n5 fulfilled.\n6 8. Christiaan Calhoon is a qualified individual with a disability and is covered by\n7 Title I of the ADA, 42 U.S.C. §§ 12101 et seq.\n8 9. Christiaan Calhoon is experienced in commercial janitorial and cleaning work and\n9 worked in a janitorial and cleaning capacity for RV Fun.\n10 10. Since at least April 7, 2004, Defendant RV Fun has engaged in unlawful\n11 employment practices at its Lake Havasu City, Arizona location, in violation of Titles I\n12 and V of the ADA, 42 U.S.C. §§ 12101 et seq.  These practices include:\n13 a.  Denying Mr. Calhoon a reasonable accommodation;\n14 b. Discharging Mr. Calhoon because of his disability;\n15 c. Discharging Mr. Calhoon because he requested a reasonable\n16 accommodation.\n17 11. The effect of the practices complained of in paragraph 10 above has been to\n18 deprive Christiaan Calhoon of equal employment opportunities and otherwise adversely\n19 affect his status as an employee because of his disability.  \n20 12. The unlawful employment practices complained of in paragraph 10 were\n21 intentional.\n22 13. The unlawful employment practices complained of in paragraph 10 above were\n23 done with malice or with reckless indifference to the federally protected rights of\n24 Christiaan Calhoon. \n25  . . .\n26  . . .\n27  . . .\n28  . . .\n3\n\n1 PRAYER FOR RELIEF\n2 Wherefore, the Commission respectfully requests that this Court:\n3 A. Grant a permanent injunction enjoining Defendant RV Fun, its officers,\n4 successors, assigns, and all persons in active concert or participation with it, from\n5 engaging in those actions alleged in paragraph 10 and any other employment practice\n6 which discriminates on the basis of disability.\n7 B. Order Defendant RV Fun to institute and carry out policies, practices, and\n8 programs which provide equal employment opportunities for qualified individuals with\n9 disability, and which eradicate the effects of its past and present unlawful employment\n10 practices.\n11 C. Order Defendant RV Fun to make whole Christiaan Calhoon by providing\n12 appropriate back pay with prejudgment interest, in amounts to be determined at trial, and\n13 other affirmative relief necessary to eradicate the effects of its unlawful employment\n14 practices, including but not limited to institution of training programs which educate\n15 employees about disability and anti-discrimination laws and transmission of a letter of\n16 apology to Christiaan Calhoon. \n17 D. Order Defendant RV Fun to make whole Christiaan Calhoon by providing\n18 compensation for past and future nonpecuniary losses resulting from the unlawful\n19 practices complained of in paragraph 10 above, including emotional pain, suffering,\n20 inconvenience, loss of enjoyment of life, and humiliation, in amounts to be determined at\n21 trial.\n22 E. Order Defendant RV Fun to pay Christiaan Calhoon punitive damages for its\n23 malicious and reckless conduct, as described in paragraph 10 above, in amounts to be\n24 determined at trial.\n25 F. Grant such further relief as the Court deems necessary and proper in the public\n26 interest.\n27 G. Award the Commission its costs in this action.\n28\n4\n\n1 JURY TRIAL DEMAND\n2 The Commission requests a jury trial on all questions of fact raised by its\n3 complaint.\n4\n5 RESPECTFULLY SUBMITTED, this 22nd day of August, 2006.\n6\n7 JAMES L. LEE\nDeputy General Counsel\n8\nGWENDOLYN YOUNG REAMS\n9 Associate General Counsel \n10 EQUAL EMPLOYMENT\nOPPORTUNITY COMMISSION\n11 1801 L Street, N.W.\nWashington, D.C.  20507\n12\n13  s/ Mary J. O'Neill              \nMARY JO O'NEILL\n14 Regional Attorney\n15\n  s/Sally C. Shanley\n16 SALLY C. SHANLEY\nSupervisory Trial Attorney\n17\n18  s/ Valerie L. Meyer\n                         VALERIE L. MEYER\n19 Trial Attorney\n20 EQUAL EMPLOYMENT\nOPPORTUNITY COMMISSION\n21 Phoenix District Office\n3300 N. Central Ave., Suite 690\n22 Phoenix, Arizona  85012\n23\n24\n25\n26\n27\n28\n5\n\n1 Certificate of Service\n2 I certify that on this 22nd day of August 2006, I electronically transmitted the\n3 attached document to the Clerk's Office using the ECF System for filing and transmittal\n4 of a Notice of Electronic Filing to the following ECF registrants:\n5 Richard J. Galván, Esq.\nCarson, Messinger, Elliott, \n6\nLaughlin & Ragan, P.L.L.C.\n7 3300 N. Central Avenue, 19th Floor\nPhoenix, Arizona 85012\n8\n9 s/Phyllis Brady\n10\n11\n12\n13\n14\n15\n16\n17\n18\n19\n20\n21\n22\n23\n24\n25\n26\n27\n28\n6",
+      "document_type_other": "",
+      "external_url": "",
+      "ecf_number": "7",
+      "clearinghouse_link": "clearinghouse.net/doc/13734"
+    },
+    {
+      "date": "2006-12-14",
+      "date_is_estimate": false,
+      "date_not_available": false,
+      "description": null,
+      "document_source": null,
+      "document_status": "Coding Complete",
+      "document_type": "Settlement Agreement",
+      "order_type": "Consent Decree",
+      "citation_paren": null,
+      "cite_1_page": null,
+      "cite_1_reporter": null,
+      "cite_1_vol": null,
+      "cite_2_page": null,
+      "cite_2_reporter": null,
+      "cite_2_vol": null,
+      "cite_3_page": null,
+      "cite_3_reporter": null,
+      "cite_3_vol": null,
+      "citation_status": "Not applicable",
+      "court": "District of Arizona",
+      "no_title": false,
+      "party_types": [
+        "Court"
+      ],
+      "per_curium": false,
+      "is_core_document": true,
+      "id": 13738,
+      "file": "https://clearinghouse-umich-production.s3.amazonaws.com/media/nonpublic/doc/13738.pdf",
+      "title": "Consent Decree",
+      "text": "1\n2\n3\n4\n5\n6\n7\n8\nIN THE UNITED STATES DISTRICT COURT \n9\nFOR THE DISTRICT OF ARIZONA \n10\n11 EQUAL EMPLOYMENT  )\n)   CV06-1675-PCT-EHC \nOPPORTUNITY COMMISSION, \n12 )\n) CONSENT DECREE \n13              Plaintiff,  )\n)\n  vs. \n14 )\n)\n15 RV FUN, INC., an Arizona corporation,  )\n)\nd/b/a COWBOYS RV MART, \n16 )\n)\n17              Defendant.  )\n)\n18\n19\nThe United States Equal Employment Opportunity Commission (the \n20\n\"Commission\") filed this action against RV Fun, Inc., doing business as Cowboy’s RV \n21\nMart, under Title I of the Americans with Disabilities Act (ADA) of 1990 and Title I of \n22\nthe Civil Rights Act of 1991 to correct unlawful employment practices on the basis of \n23\ndisability and to provide appropriate relief to Christiaan Calhoon, who was adversely \n24\naffected by such practices.  The Commission alleged that RV Fun, Inc. discriminated \n25\nagainst Mr. Calhoon on the basis of his disability, Attention Deficit Disorder (“ADD”), \n26\nby denying him a reasonable accommodation in his position of Recreational Vehicle \n27\n28\n-1-\n\n(RV) Cleaner and Washer and by discharging him because of his disability and because \n1\nhe requested a reasonable accommodation. \n2\nThe Parties do not object to the jurisdiction of the Court over this action and waive \n3\ntheir rights to a hearing and the entry of findings of fact and conclusions of law.  The \n4\nparties agree that this Consent Decree is fair, reasonable, and equitable and does not \n5\nviolate the law or public policy. \n6\nIn the interest of resolving this matter, and as a result of having engaged in \n7\ncomprehensive settlement negotiations, the Parties agree that this action should be finally \n8\nresolved by entry of this Decree. \n9\nIt is ORDERED, ADJUDGED AND DECREED: \n10\n1.  This Decree resolves all claims arising out of the issues between the \n11\nCommission and Defendant RV Fun, Inc. (“RV Fun” or “Defendant”) in this lawsuit or \n12\nraised in the charge of Christiaan Calhoon, No. 350-2004-03346, including without \n13\nlimitation, back pay, compensatory and punitive damages, injunctive relief, costs and \n14\nattorney's fees. \n15\nINJUNCTION \n16\n2.  Defendant and its officers, agents, employees, successors, and assigns both \n17\nat the time that this Decree becomes effective and for the duration of this Decree, are \n18\nenjoined from: (a) discriminating against any employee on the basis of disability; (b) \n19\naltering the terms and conditions of any employee’s employment because of disability; \n20\n(c) refusing to reasonably accommodate any employee who requires a reasonable \n21\naccommodation, as required by the ADA, and; (d) retaliating against any employee \n22\nbecause he or she: (i) opposes or opposed discriminatory practices made unlawful by \n23\nADA; (ii) files or filed a charge of discrimination or assists, assisted, participates, or \n24\nparticipated in the filing of a charge of discrimination; or (iii) assists, assisted, \n25\nparticipates or participated in an investigation or proceeding brought under the Federal or \n26\nState laws prohibiting discrimination or retaliation. \n27\n28\n-2-\n\nMONETARY RELIEF \n1\n3.  Defendant shall pay the amount of $30,000.  The payment shall be made \n2\ndirectly to Christiaan Calhoon by check or money order at the address provided by the \n3\nEEOC.  This payment represents settlement of compensatory damages.  Defendant shall \n4\nmake no deductions from this amount.  The compensation is to be paid within ten (10) \n5\ncalendar days of the entry of this Consent Decree.  By January 31, 2007, Defendant shall \n6\nissue United States Internal Revenue Service Form 1099 to Mr. Calhoon for the payment. \n7\n4.  Within 5 business days of the date the check or money order is placed in \n8\nthe mail pursuant to this Consent Decree, a copy of the check will be furnished to the \n9\nRegional Attorney, Equal Employment Opportunity Commission, Phoenix District \n10\nOffice, 3300 North Central Avenue, Suite 690, Phoenix, Arizona 85012.  \n11\nOTHER RELIEF \n12\n5.  Defendant will institute and carry out policies and procedures that help \n13\nassure a work environment free from disability discrimination for its employees, that \n14\nallow employees to raise concerns or complaints without retaliation about matters, \n15\nwhether alleged, perceived or actual, made unlawful by the ADA and that provide \n16\nprocedures for employees to request reasonable accommodations. \n17\n6.  Defendant will post the Notice contained in the attached Attachment A.\n18\nThe Notice will be posted in an appropriate place frequented by employees, for the \n19\nduration of this decree.  The Notice shall be the same type, size, and style as Attachment \n20\nA.\n21\n7.  To assist Defendant in understanding disability discrimination, Defendant \n22\nshall require its CEO, Sherman Henson, to attend a course, seminar or training session on \n23\nawareness of and sensitivity to disabilities, which includes mental disabilities.\n24\na.  Defendant will arrange for and be financially responsible for the \n25\ncourse, seminar, or training session. \n26\nb.  The course, seminar, or training session selected shall be subject to \n27\napproval by the Commission. \n28\n-3-\n\nc.  The training shall be at least two (2) hours in length, including \n1\ntwenty (20) minutes for questions and answers.   \n2\nd.  The training shall be completed within ninety (90) days of entry of \n3\nthis consent decree. \n4\ne.  The training shall focus on the ADA, including mental disabilities.\n5\nThe Training will include the subject of what constitutes a disability and shall also \n6\ncover typical manifestations of mental disabilities in the workplace at both the \n7\napplication and employment phases; common challenges faced by individuals with \n8\nmental disabilities in the workplace; the interactive process and possible \n9\naccommodations of mental disabilities; and informational resources available to \n10\nemployers of individuals with mental disabilities. \n11\n8.  To assist Defendant in achieving and maintaining compliance in the area of \n12\nanti-discrimination and equal employment opportunity with respect to the ADA, within \n13\nsixty (60) days of the entry of the Decree, Defendant will select, subject to approval of \n14\nthe EEOC, an appropriate and qualified employee or appropriate and qualified third-party \n15\nadministrator to be responsible for the duties described in Paragraph 9.   The EEOC shall \n16\nnotify Defendant within fourteen (14) days whether or not it approves of Defendant’s \n17\nchoice.  If Defendant selects one of its employees rather than a third-party administrator, \n18\nthe EEOC may condition its approval of the selectee upon the selectee’s completion of \n19\nadditional training on disability discrimination and the provisions of the ADA.    The \n20\ntraining in paragraph 7 shall suffice.  In the event that the EEOC and Defendant are \n21\nunable to agree on the selection of an employee or third-party administrator, they may \n22\neach submit the names and curriculum vitae of not more than two proposed employees or \n23\nthird-party administrators, and the Court will make the selection. \n24\n9.  The employee or third-party administrator selected pursuant to Paragraph 8 \n25\nshall be responsible for:  (a) creating and implementing, and/or reviewing and revising, \n26\nDefendant's ADA anti-discrimination policies; (b) creating and implementing, and/or \n27\nreviewing and revising, Defendant’s procedures with respect to responding to and \n28\n-4-\n\nkeeping records regarding ADA complaints received; (c) receiving and investigating \n1\nADA complaints of discrimination; (d) evaluating and, if appropriate, referring \n2\nemployees to Defendant for discipline or termination for violation of Defendant's anti-\n3\ndiscrimination policies; (e) evaluating employees in the area of anti-discrimination/equal \n4\nemployment opportunity policies with respect to the ADA; and (f) preparing reports to \n5\nthe Commission, as required by this Decree.\n6\n10.  Defendant will provide training on disability discrimination and retaliation, \n7\naccording to the following terms:\n8\na.  Defendant will arrange for and be financially responsible for a \n9\nconsultant/lecturer(s) who will provide consultation and a training session for all \n10\nof its employees.  The training session(s) shall be provided jointly by the \n11\nconsultant/lecturer(s). \n12\nb.  The seminar training session shall be at least one and one-half (1 ½) \n13\nhours in length, including thirty (30) minutes for questions and answers.  All of \n14\nDefendant’s supervisory, management and non-supervisory employees shall attend \n15\nthe seminar session.   \n16\nc.  Defendant shall keep a written record of all employees who attend \n17\nthe training.  Defendant may at its election have duplicative sessions to \n18\naccommodate staffing needs or videotape the training session.  Defendant shall be \n19\nresponsible for any additional costs to provide such duplicative or videotaped \n20\nsessions.\n21\nd.  The seminar-training session shall be held within four months of the \n22\nentry of the consent decree. \n23\ne.  All personnel, designated in Paragraphs 10(a) and (b) above, shall \n24\nboth register for and attend the seminar-training session or view a videotape of the \n25\nsession.  The registry of attendance shall be retained by Defendant for the duration \n26\nof the Decree.\n27\n28\n-5-\n\nf.  The training will include the subject of what constitutes disability \n1\ndiscrimination, as well as retaliation for engaging in protected activity under the \n2\nADA.  In addition, the training will cover the myths often associated with the \n3\nability of disabled individuals to work. The training will also cover discrimination \n4\nin violation of the ADA in the hiring, firing, compensation, assignment or other \n5\nterms, conditions or privileges of employment; the prevention of discrimination; \n6\nhow to provide a work environment free from discrimination, harassment and \n7\nretaliation; and to whom and by what means employees may complain if they feel \n8\nthey have been subjected to discrimination, harassment or retaliation in the \n9\nworkplace. The session shall also review and explain Defendant's disability \n10\npolicies.\n11\n11.  During the live training session(s), Defendant’s CEO will speak to the \n12\nemployees about the discipline that can be taken against supervisors, managers and \n13\nemployees who commit acts of disability discrimination, harassment or retaliation or \n14\nallow discrimination, harassment or retaliation to occur in the workplace; the importance \n15\nof maintaining an environment free of discrimination; and Defendant's ADA anti-\n16\ndiscrimination policies.  \n17\n12.  The Commission, at its discretion, may designate representatives to attend \n18\nthe seminar-training sessions. The representatives shall have the right to participate in the \n19\nsessions.\n20\n13.  Within ninety (90) days of the entry of this Decree, Defendant will create \n21\nand implement written policies concerning discrimination and retaliation that conform \n22\nwith the law.  Defendant’s written policies must include, at a minimum:\n23\na.  A strong and clear commitment to a workplace free of disability \n24\ndiscrimination;  \n25\nb.  A clear and strong encouragement of persons who believe they have \n26\nbeen discriminated against to come forward;  \n27\n28\n-6-\n\nc.  A description of the consequences, up to and including termination, \n1\nthat will be imposed upon violators of the policy;\n2\nd.  A statement of Defendant’s intent to handle complaints of disability \n3\ndiscrimination as confidentially as appropriate under the circumstances;   \n4\ne.  An assurance of non-retaliation for persons who believe they have \n5\nbeen discriminated against and for witnesses of discrimination;  \n6\nf.  That discrimination on the basis of disability by anyone, including \n7\nmanagement officials, supervisors, vendors, suppliers, third parties and customers, \n8\nis prohibited and will not be tolerated; \n9\ng.  The identification of specific alternative individuals, including \n10\nmanagers with their telephone numbers, to whom employees who have been \n11\nsubjected to disability discrimination can report the discrimination and who have \n12\nthe authority to investigate allegations of discrimination in a neutral and \n13\nconfidential manner; \n14\nh.  A written statement that an employee may report the harassment to a \n15\ndesignated person outside of his or her chain of management should the \n16\ncomplainant believe managers in the chain of command have a conflict of interest, \n17\nare implicated in the allegations, or may not adequately investigate the complaint;\n18\ni.  Assurances that Defendant will investigate allegations of disability \n19\ndiscrimination promptly, fairly, reasonably and effectively by appropriate \n20\ninvestigators and that appropriate corrective action will be taken by Defendant to \n21\nmake victims whole and to eradicate the discrimination; \n22\nj.  A written statement assuring employees who need a reasonable \n23\naccommodation to enable them to complain or to participate in the investigation \n24\nprocess that they shall be provided such accommodation and advising them how to \n25\nobtain such accommodation.  The statement shall also include a provision stating \n26\nthat managers are not allowed to withdraw previously approved accommodations \n27\nwithout approval of the CEO; and \n28\n-7-\n\nk.  Information regarding the employee's right to file a charge of \n1\ndiscrimination with the EEOC or the Arizona Civil Rights Division (“ACRD”), \n2\nincluding contact telephone, TDY/TDD and addresses for the EEOC and ACRD. \n3\n14.  These policies shall be posted in a prominent location at Defendant’s \n4\nfacilities in Arizona.  These policies shall be transmitted to Defendant’s employees by its \n5\nCEO and distributed to each current employee within ninety (90) days of the entry of the \n6\nDecree. These policies shall be distributed to all new employees when hired.  These \n7\npolicies also shall be posted in a prominent place frequented by Defendant’s employees. \n8\nDefendant shall make these written policies available in alternative formats as necessary \n9\nfor persons with cognitive and print disabilities that may prevent them from reading the \n10\npolicies. Alternative formats will include but not be limited to an audiotape format. \n11\n15.  Defendant shall promptly and appropriately investigate all complaints of \n12\ndisability discrimination.  The investigation must include a finding of whether \n13\ndiscrimination occurred, a credibility assessment; interviews of all potential victims and \n14\nwitnesses identified; and concurrent notes of the investigation. Defendant shall take \n15\nimmediate appropriate corrective action to make discrimination victims whole, to \n16\ndiscipline violators and to eradicate the discrimination.\n17\n16.  Defendant shall not retain documents related to the investigation in any of \n18\nthe complainant's personnel files.  All disciplinary actions taken against employees for \n19\nviolation of Defendant's ADA anti-discrimination policy will be retained in the violator's \n20\npersonnel file.  In those cases in which no conclusion could be reached on the allegations, \n21\nthe investigation documents shall remain in the alleged violator's file. \n22\nAPOLOGY LETTER \n23\n17.  Within fourteen (14) days of the entry of the Decree, Defendant’s CEO \n24\nshall prepare a letter of apology to Mr. Calhoon as attached as Attachment B.  Within 5 \n25\nbusiness days of the date the letter of apology is placed in the mail pursuant to this \n26\nConsent Decree, a copy of the letter of apology will be furnished to the Regional \n27\n28\n-8-\n\nAttorney, Equal Employment Opportunity Commission, Phoenix District Office, 3300 \n1\nNorth Central Avenue, Suite 690, Phoenix, Arizona 85012. \n2\nREPORTING BY DEFENDANT AND ACCESS BY EEOC \n3\n18.  Defendant shall report in writing and in affidavit form to the Regional \n4\nAttorney of the Commission's Phoenix District Office at 3300 N. Central Ave., Suite 690, \n5\nPhoenix, Arizona 85012, beginning six months from the date of the entry of this Decree, \n6\nand thereafter every six months for the duration of the Decree the following information:  \n7\na.  Any changes, modifications, revocations, or revisions to its policies \n8\nand procedures which concern or affect the subject of disability discrimination and \n9\nretaliation.\n10\nb.  The name, address, position, social security number and telephone \n11\nnumber of any individual who has brought allegations of discrimination and/or \n12\nretaliation against Defendant's personnel, formal or informal, including, but not \n13\nlimited to, management officials, vendors, agents, employees and/or customers, \n14\nduring the six months preceding the report. The nature of the complaint, \n15\ninvestigatory efforts made by Defendant and the corrective action taken, if any, \n16\nshall be specified. \n17\nc.  The registry of persons attending the seminar(s) required in \n18\nParagraph 10(e) of this Decree and a list of current personnel employed by \n19\nDefendant on the days of the seminar-training sessions.  \n20\nd.  Confirmation that:  (i) the Notice required in Paragraph 6 of this \n21\nDecree was posted and the location(s) where it was posted; and (ii) the policies \n22\nrequired in Paragraph 13 were distributed to each current and new employee and \n23\nposted.\n24\n19.  The Commission, upon reasonable notice, shall have the right to enter and \n25\ninspect Defendant’s premises to ensure compliance with this Decree and the ADA's \n26\nprohibition of disability discrimination, as well as retaliation.\n27\n28\n-9-\n\nAFFIDAVIT OF COMPLIANCE \n1\n20.  Defendant will report in writing and in affidavit form to the Commission on \n2\na semi-annual bases within six (6) months from the entry of this Decree. The affidavit \n3\nshall attest that Defendant has taken the action required with each and every provision of \n4\nthis Consent Decree.\n5\n21.  The duration of this Decree shall be twenty-four (24) months from the date \n6\nof its entry.\n7\n22.  The parties shall bear their own attorneys' fees and costs incurred in this \n8\naction up to the date of entry of this Decree. \n9\n23.  This Court shall retain jurisdiction of this action for a period of twenty-four \n10\n(24) months after entry of the Decree.  This Decree shall expire by its own terms at the \n11\nend of twenty-four (24) months after entry of the Decree, without further action by the \n12\nparties or the Court.  \n13\n24.  The Commission may petition this Court for compliance with this Decree at \n14\nany time during which this Court maintains jurisdiction over this action.  Should the \n15\nCourt determine that Defendant has not complied with this Decree, appropriate relief, \n16\nincluding extension of this Decree for such period as may be necessary to remedy its non-\n17\ncompliance, may be ordered. \n18\n25.  The parties agree to the entry of this decree subject to final approval by the \n19\nCourt.\n20\n  Dated this 13th day of December, 2006. \n21\n22\n23\n24\n25\n26\n27\n28\n-10-\n\nAPPROVED AND CONSENTED TO: \n1\n2\n3\n s/Mary Jo O’Neill                               \n4\nMary Jo O’Neill \n5 Regional  Attorney \n6\ns/ Sally C. Shanley\nSally C. Shanley \n7\nSupervisory Trial Attorney \n8\ns/ Valerie L. Meyer\n9\nValerie L. Meyer \n10 Trial Attorney \nEQUAL EMPLOYMENT \n11\nOPPORTUNITY COMMISSION \n12 Phoenix District Office \nSuite 690 \n13\n3300 North Central Avenue \n14 Phoenix, Arizona 85012 \n(602) 640-4988 \n15\nAttorneys for Plaintiff\n16\n17\n18 s/ Richard J. Galván \nRichard J. Galván, Esq. \n19\nCarson, Messinger, Elliott,\n20 Laughlin & Ragan, P.L.L.C. \n3300 N. Central Avenue, 19th Floor \n21\nPhoenix, Arizona 85012 \n22\nAttorneys for Defendant \n23\n24\ns/ Sherman Henson\n25\nSherman Henson \n26 CEO, RV Fun, Inc. \n27\n28\n-11-\n\nAttachment A \nNOTICE TO ALL EMPLOYEES OF \nRV FUN, INC (doing business as COWBOY’S RV MART) \nThis notice is posted pursuant to a consent decree entered into in the Americans \nEEOC v. RV Fun, Inc., d/b/a Cowboy’s RV Mart\nwith Disabilities Act case  , CIV-\n06-1675-PCT-EHC.\nIt is unlawful under federal law (the Americans with Disabilities Act) and state law \nto discriminate against an employee on the basis of disability.  It is also unlawful to \nretaliate against any person because the person protested discriminatory practices \nor contacted the EEOC. \nCowboy’s RV Mart will not discriminate against any employee on the basis of \ndisability and will not retaliate against any employee. \nIf you believe you have been discriminated against by Cowboy’s RV Mart, you \nhave the right to seek assistance from: \n  (1)  EEOC, 3300 North Central Avenue, Suite 690, Phoenix, Arizona \n85012, (602) 640-5000; or \n  (2)  Arizona Civil Rights Division (ACRD) of the Attorney General's \nOffice, 1275 W. Washington, Phoenix, Arizona, 85007, (602) 255-5263. \nand/or have the right to file a charge with the EEOC or ACRD if you believe you \nare being discriminated against. \nNo Retaliation Clause.  No action may be taken against you by any supervisory or \nmanagement official of Cowboy’s RV Mart  for (1) opposing discriminatory \npractices made unlawful by federal law, (2) filing a charge or assisting or \nparticipating in the filing of a charge of discrimination, or (3) assisting or \nparticipating in an investigation or proceeding brought under state or federal law \nanti-discrimination laws.  Should any such retaliatory actions be taken against you, \nyou should immediately contact the EEOC or the ACRD and the address or \ntelephone numbers listed above. \nDated:    ___________________________________\n      Sherman Henson \nRV Fun, Inc./Cowboy’s RV Mart\n\nAttachment B \n[Cowboy’s RV Mart Letterhead] \n[Date]\nChristiaan Calhoon \n[Address]\nDear Mr. Calhoon, \nAs you are aware, a lawsuit was filed by the Equal Employment Opportunity Commission \nagainst RV Fun, Inc. (doing business as Cowboy’s RV Mart) alleging termination based on \ndisability and failure to reasonably accommodate you. \nPlease accept my apology on behalf of myself and Cowboy’s RV Mart for any failure to \naccommodate you and negative treatment you endured because of your disability while you \nworked for us.  Please accept my commitment that the company will take the necessary steps to \nensure that current and future employees with disabilities will be accommodated and that \nemployees will not be subjected to any harassment or retaliation.  \nI appreciate the service you provided to us.  I wish you the best of luck in the future. \nSincerely,\nSherman Henson \nCEO, RV Fun, Inc. (doing business as Cowboy’s RV Mart) ",
+      "document_type_other": "",
+      "external_url": "",
+      "ecf_number": "27",
+      "clearinghouse_link": "clearinghouse.net/doc/13738"
+    }
+  ],
+  "document_count": 8
+}

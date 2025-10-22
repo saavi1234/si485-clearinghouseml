@@ -1,0 +1,258 @@
+{
+  "case_id": 44779,
+  "fetched_at": "2025-10-22T00:41:40.521608",
+  "case_data": {
+    "attorney_orgs": [],
+    "available_documents": [
+      "Trial Court Docket",
+      "Complaint (any)"
+    ],
+    "case_defendants": [
+      {
+        "defendant_level": "For-profit prison owner/operator",
+        "institution": "",
+        "institution_alt_state": null,
+        "institution_city": "",
+        "institution_county": null,
+        "name": "Corecivic, Inc.",
+        "defendant_level_other": "For-profit prison owner/operator",
+        "is_active": true
+      },
+      {
+        "defendant_level": "Private prison warden",
+        "institution": "",
+        "institution_alt_state": null,
+        "institution_city": "",
+        "institution_county": null,
+        "name": "Linda Thomas (Warden)",
+        "defendant_level_other": "Private prison warden",
+        "is_active": true
+      }
+    ],
+    "case_ongoing": "No",
+    "case_status": "Coding Complete",
+    "case_types": [
+      "Election/Voting Rights"
+    ],
+    "cause_other": "",
+    "causes": [
+      "42 U.S.C. § 1983"
+    ],
+    "class_action_granted": "Withdrawn",
+    "class_action_sought": "Yes",
+    "closing_year": 2019,
+    "constitutional_clause": [
+      {
+        "value": "Due Process"
+      },
+      {
+        "value": "Equal Protection"
+      }
+    ],
+    "content_of_injunction": [],
+    "court": "District of Kansas",
+    "custom_issues": [
+      "Prisoner voting access"
+    ],
+    "defendant_payment": "",
+    "defendant_type": [
+      {
+        "value": "Corrections"
+      }
+    ],
+    "docket_status": "Complete as of retrieval date",
+    "facility_type": [],
+    "filing_date": "2018-11-07",
+    "filing_year": 2018,
+    "id": 44779,
+    "injunction_duration": "",
+    "issues": [
+      "Voting: Voting: Physical/Effective Access"
+    ],
+    "last_checked_date": "2025-05-07T00:00:00-04:00",
+    "main_docket": {
+      "id": 58543,
+      "docket_entries": [
+        {
+          "row_number": 3,
+          "id": 9676033,
+          "entry_number": "4",
+          "date_filed": "2019-02-18T00:00:00-05:00",
+          "attachments": [],
+          "url": "https://www.courtlistener.com/docket/8148961/4/wood-v-corecivic-inc/",
+          "recap_pdf_url": "https://www.courtlistener.com/recap/gov.uscourts.ksd.124033/gov.uscourts.ksd.124033.4.0.pdf",
+          "pacer_doc_id": "07905236305",
+          "description": "NOTICE OF VOLUNTARY DISMISSAL by Brenda Wood Without Prejudice (Kronawitter, Joseph) (Entered: 02/18/2019)"
+        },
+        {
+          "row_number": 0,
+          "id": 9676028,
+          "entry_number": "1",
+          "date_filed": "2018-11-07T00:00:00-05:00",
+          "attachments": [],
+          "url": "https://www.courtlistener.com/docket/8148961/1/wood-v-corecivic-inc/",
+          "recap_pdf_url": "https://www.courtlistener.com/recap/gov.uscourts.ksd.124033/gov.uscourts.ksd.124033.1.0.pdf",
+          "pacer_doc_id": "07905153125",
+          "description": "COMPLAINT with trial location of Kansas City ( Filing fee $400, Internet Payment Receipt Number AKSDC-4628485.) filed by Brenda Wood.(Kronawitter, Joseph) (Entered: 11/07/2018)"
+        },
+        {
+          "row_number": 5,
+          "id": 9676030,
+          "entry_number": null,
+          "date_filed": "2018-11-08T00:00:00-05:00",
+          "attachments": [],
+          "url": "https://www.courtlistener.com",
+          "recap_pdf_url": null,
+          "pacer_doc_id": null,
+          "description": "NOTICE OF JUDGE ASSIGNMENT: Case assigned to District Judge Daniel D. Crabtree and Magistrate Judge James P. O'Hara for all proceedings. (This is a TEXT ENTRY ONLY. There is no.pdf document associated with this entry.) (ca)"
+        },
+        {
+          "row_number": 6,
+          "id": 9676031,
+          "entry_number": null,
+          "date_filed": "2018-12-04T00:00:00-05:00",
+          "attachments": [],
+          "url": "https://www.courtlistener.com",
+          "recap_pdf_url": null,
+          "pacer_doc_id": null,
+          "description": "SUMMONS ISSUED as to CoreCivic, Inc., Linda Thomas. (issued to Attorney for service) (This is a TEXT ENTRY ONLY. There is no.pdf document associated with this entry) (ca)"
+        },
+        {
+          "row_number": 2,
+          "id": 9676032,
+          "entry_number": "3",
+          "date_filed": "2019-02-18T00:00:00-05:00",
+          "attachments": [],
+          "url": "https://www.courtlistener.com/docket/8148961/3/wood-v-corecivic-inc/",
+          "recap_pdf_url": null,
+          "pacer_doc_id": "07905236302",
+          "description": "SUMMONS RETURNED EXECUTED -- Personal Service by Brenda Wood upon CoreCivic, Inc. served on 2/4/2019, answer due 2/25/2019 (Kronawitter, Joseph) (Entered: 02/18/2019)"
+        },
+        {
+          "row_number": 4,
+          "id": 9676034,
+          "entry_number": "5",
+          "date_filed": "2019-02-20T00:00:00-05:00",
+          "attachments": [],
+          "url": "https://www.courtlistener.com/docket/8148961/5/wood-v-corecivic-inc/",
+          "recap_pdf_url": null,
+          "pacer_doc_id": "07905237851",
+          "description": "SUMMONS RETURNED EXECUTED -- Personal Service by Brenda Wood upon Linda Thomas served on 2/5/2019, answer due 2/26/2019 (Kronawitter, Joseph) (Entered: 02/20/2019)"
+        },
+        {
+          "row_number": 1,
+          "id": 9676029,
+          "entry_number": "2",
+          "date_filed": "2018-11-07T00:00:00-05:00",
+          "attachments": [],
+          "url": "https://www.courtlistener.com/docket/8148961/2/wood-v-corecivic-inc/",
+          "recap_pdf_url": null,
+          "pacer_doc_id": "07905153131",
+          "description": "CIVIL COVER SHEET by Plaintiff Brenda Wood. (Kronawitter, Joseph) (Entered: 11/07/2018)"
+        },
+        {
+          "row_number": 7,
+          "id": 10151327,
+          "entry_number": null,
+          "date_filed": "2019-02-28T00:00:00-05:00",
+          "attachments": [],
+          "url": "https://www.courtlistener.com",
+          "recap_pdf_url": null,
+          "pacer_doc_id": null,
+          "description": "***Civil Case Terminated pursuant to 4 Notice of Voluntary Dismissal without Prejudice.(hw)"
+        }
+      ],
+      "docket_case_type": "cv",
+      "docket_year": 2018,
+      "docket_filing_number": 2598,
+      "is_main_docket": true,
+      "court": "District of Kansas",
+      "state": "Kansas",
+      "docket_office_number": "2",
+      "docket_number_manual": "2:18-cv-02598",
+      "scales_html": null,
+      "recap_link": "https://www.courtlistener.com/docket/8148961/wood-v-corecivic-inc/",
+      "is_active": true
+    },
+    "name": "Wood v. Corecivic, Inc.",
+    "never_filed": false,
+    "non_docket_case_number": "",
+    "non_docket_case_number_type": null,
+    "non_docket_case_number_type_other": "",
+    "order_end_year": null,
+    "order_start_year": null,
+    "permanent_injunction": false,
+    "plaintiff_description": "Individual, previously held as a pre-trial federal detainee",
+    "plaintiff_type": [
+      {
+        "value": "Private Plaintiff"
+      }
+    ],
+    "prevailing_party": "None Yet / None",
+    "pro_se_status": "No",
+    "public_interest_lawyer": "No",
+    "related_cases": [],
+    "relief_natures": [
+      "None"
+    ],
+    "relief_nature_other": "",
+    "relief_sources": [
+      "None"
+    ],
+    "settlement_agreement": [],
+    "settlement_judgment_date": "2019-02-18",
+    "settlement_judgment_year": 2019,
+    "special_collections": [
+      "Law Firm Antiracism Alliance (LFAA) project"
+    ],
+    "special_case_type": [],
+    "state": "Kansas",
+    "summary": "<p>On November 7, 2018, an individual formerly held as a federal pre-trial detainee at a privately operated prison filed a complaint in the U.S. District Court for the District of Kansas against a private prison company and the prison's warden, alleging that she was deprived of her rights to due process and equal protection when she was not permitted to vote - either in-person or absentee - in the 2016 general election.&nbsp; Plaintiff brought suit under 42 U.S.C. 1983, seeking damages and declaratory and injunctive relief. She sought to certify a class of individuals held at the prison on November 8, 2016, who were U.S. citizens, residents of Kansas, at least 18 years of age, were not serving a sentence for conviction of a felony crime, had not previously voted in the 2016 election, were provided neither absentee ballot nor transportation to a voting center, and were registered to vote or had been denied the opportunity to register to vote while held at the prison.&nbsp;&nbsp;</p>\r\n<p>On February 18, 2019, before any defendant had appeared, plaintiff voluntarily dismissed the case without prejudice.&nbsp;</p>",
+    "summary_published_date": "2025-06-03T14:54:35.963096-04:00",
+    "summary_short": "An individual plaintiff, formerly a federal prison inmate, filed a putative class action lawsuit on November 7, 2018, in the US District Court for the District of Kansas, alleging the defendants, a private prison operator and warden, had deprived Plaintiff and the class of due process and equal protection based on their inability to vote (either in-person or absentee) in the November 2016 general election.  Plaintiff voluntarily dismissed the suit without prejudice before any defendant appeared.",
+    "summary_tiny": null,
+    "terminating_date": "2019-02-18",
+    "clearinghouse_link": "clearinghouse.net/case/44779",
+    "is_active": true,
+    "case_documents_url": "https://clearinghouse.net/api/v2/documents/?case=44779",
+    "case_dockets_url": "https://clearinghouse.net/api/v2/dockets/?case=44779",
+    "case_resources_url": "https://clearinghouse.net/api/v2/resources/?case=44779"
+  },
+  "documents": [
+    {
+      "date": null,
+      "date_is_estimate": false,
+      "date_not_available": false,
+      "description": null,
+      "document_source": null,
+      "document_status": null,
+      "document_type": null,
+      "order_type": null,
+      "citation_paren": null,
+      "cite_1_page": null,
+      "cite_1_reporter": null,
+      "cite_1_vol": null,
+      "cite_2_page": null,
+      "cite_2_reporter": null,
+      "cite_2_vol": null,
+      "cite_3_page": null,
+      "cite_3_reporter": null,
+      "cite_3_vol": null,
+      "citation_status": null,
+      "court": null,
+      "no_title": false,
+      "party_types": [],
+      "per_curium": false,
+      "is_core_document": true,
+      "id": 140219,
+      "file": null,
+      "title": null,
+      "text": null,
+      "document_type_other": null,
+      "external_url": null,
+      "ecf_number": null,
+      "clearinghouse_link": "clearinghouse.net/doc/140219"
+    }
+  ],
+  "document_count": 1
+}

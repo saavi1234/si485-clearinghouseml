@@ -1,0 +1,330 @@
+{
+  "case_id": 6448,
+  "fetched_at": "2025-10-22T00:08:49.162525",
+  "case_data": {
+    "attorney_orgs": [
+      "EEOC"
+    ],
+    "available_documents": [
+      "Trial Court Docket"
+    ],
+    "case_defendants": [
+      {
+        "defendant_level": null,
+        "institution": null,
+        "institution_alt_state": null,
+        "institution_city": "",
+        "institution_county": null,
+        "name": "Cracker Barrel Old Country Store, Inc.",
+        "defendant_level_other": null,
+        "is_active": true
+      }
+    ],
+    "case_ongoing": "No",
+    "case_status": "Coding Complete",
+    "case_types": [
+      "Equal Employment"
+    ],
+    "cause_other": "",
+    "causes": [
+      "Americans with Disabilities Act (ADA), 42 U.S.C. §§ 12111 et seq."
+    ],
+    "class_action_granted": "Not sought",
+    "class_action_sought": "No",
+    "closing_year": 1999,
+    "constitutional_clause": [],
+    "content_of_injunction": [],
+    "court": "Eastern District of Tennessee",
+    "custom_issues": [],
+    "defendant_payment": "",
+    "defendant_type": [],
+    "docket_status": "Complete as of retrieval date",
+    "facility_type": [],
+    "filing_date": "1998-08-03",
+    "filing_year": 1998,
+    "id": 6448,
+    "injunction_duration": "",
+    "issues": [
+      "Discrimination Area: Disparate Treatment",
+      "EEOC-centric: Direct Suit on Merits"
+    ],
+    "last_checked_date": "2007-06-05T00:00:00-04:00",
+    "main_docket": {
+      "id": 36621,
+      "docket_entries": [
+        {
+          "row_number": 9,
+          "id": 1805872,
+          "entry_number": null,
+          "date_filed": "1999-06-28T00:00:00-04:00",
+          "attachments": [],
+          "url": "nan",
+          "recap_pdf_url": null,
+          "pacer_doc_id": null,
+          "description": "REMARK - file to be sent to Judge Edgar today per JKK w/consent decree (DCC) Modified on 06/29/1999 (Entered: 06/28/1999)"
+        },
+        {
+          "row_number": 2,
+          "id": 1805859,
+          "entry_number": "3",
+          "date_filed": "1998-09-14T00:00:00-04:00",
+          "attachments": [],
+          "url": "nan",
+          "recap_pdf_url": null,
+          "pacer_doc_id": null,
+          "description": "ANSWER by defendant Cracker Barrel, Inc. to complaint [1-1]; jury demand C/S (JAN) (Entered: 09/15/1998)"
+        },
+        {
+          "row_number": 10,
+          "id": 1805873,
+          "entry_number": "8",
+          "date_filed": "1999-06-28T00:00:00-04:00",
+          "attachments": [],
+          "url": "nan",
+          "recap_pdf_url": null,
+          "pacer_doc_id": null,
+          "description": "ORDER by Honorable Leon Jordan recusing himself in this civil action (cc: all counsel) (DCC) (Entered: 06/28/1999)"
+        },
+        {
+          "row_number": 0,
+          "id": 1805855,
+          "entry_number": "1",
+          "date_filed": "1998-08-03T00:00:00-04:00",
+          "attachments": [],
+          "url": "nan",
+          "recap_pdf_url": null,
+          "pacer_doc_id": null,
+          "description": "COMPLAINT (will attempt waiver of service); jury demand, Magistrate Judge Phillips designated (ADA) (Entered: 08/04/1998)"
+        },
+        {
+          "row_number": 7,
+          "id": 1805868,
+          "entry_number": "6",
+          "date_filed": "1998-11-19T00:00:00-05:00",
+          "attachments": [],
+          "url": "nan",
+          "recap_pdf_url": null,
+          "pacer_doc_id": null,
+          "description": "MINUTES: (USDJ Jordan) Scheduling conference held 11/19/98. Attorneys participated by telephone. Parties have conducted their Rule 26.F meeting. Order to follow. CR not present. CD G. Preston. (GYP) (Entered: 11/19/1998)"
+        },
+        {
+          "row_number": 5,
+          "id": 1805864,
+          "entry_number": null,
+          "date_filed": "1998-09-30T00:00:00-04:00",
+          "attachments": [],
+          "url": "nan",
+          "recap_pdf_url": null,
+          "pacer_doc_id": null,
+          "description": "NOTICE OF SCHEDULING CONFERENCE mailed ; scheduling conference set for 1:00 11/19/98 (cc: all counsel) (AYB) (Entered: 09/30/1998)"
+        },
+        {
+          "row_number": 3,
+          "id": 1805861,
+          "entry_number": null,
+          "date_filed": "1998-09-15T00:00:00-04:00",
+          "attachments": [],
+          "url": "nan",
+          "recap_pdf_url": null,
+          "pacer_doc_id": null,
+          "description": "NOTICE of availability of magistrate judge mailed to all counsel (JAN) (Entered: 09/15/1998)"
+        },
+        {
+          "row_number": 1,
+          "id": 1805857,
+          "entry_number": "2",
+          "date_filed": "1998-09-11T00:00:00-04:00",
+          "attachments": [],
+          "url": "nan",
+          "recap_pdf_url": null,
+          "pacer_doc_id": null,
+          "description": "WAIVER OF SERVICE issued 9/2/98 upon defendant Cracker Barrel, Inc. accepted by Michael J Zylstra, Assistant Corp. Sec. (JAN) (Entered: 09/14/1998)"
+        },
+        {
+          "row_number": 4,
+          "id": 1805863,
+          "entry_number": "4",
+          "date_filed": "1998-09-30T00:00:00-04:00",
+          "attachments": [],
+          "url": "nan",
+          "recap_pdf_url": null,
+          "pacer_doc_id": null,
+          "description": "ORDER by Honorable Leon Jordan setting a scheduling conference ; scheduling conference set for 1:00 11/19/98 (cc: all counsel) (AYB) (Entered: 09/30/1998)"
+        },
+        {
+          "row_number": 11,
+          "id": 1805875,
+          "entry_number": "9",
+          "date_filed": "1999-07-02T00:00:00-04:00",
+          "attachments": [],
+          "url": "nan",
+          "recap_pdf_url": null,
+          "pacer_doc_id": null,
+          "description": "ORDER by Honorable R Allan Edgar Case reassigned to Honorable R Allan Edgar (cc: all counsel) (DCC) (Entered: 07/06/1999)"
+        },
+        {
+          "row_number": 6,
+          "id": 1805866,
+          "entry_number": "5",
+          "date_filed": "1998-10-30T00:00:00-05:00",
+          "attachments": [],
+          "url": "nan",
+          "recap_pdf_url": null,
+          "pacer_doc_id": null,
+          "description": "REPORT OF RULE 26 (f) planning meeting C/S (DCC) (Entered: 11/02/1998)"
+        },
+        {
+          "row_number": 8,
+          "id": 1805870,
+          "entry_number": "7",
+          "date_filed": "1998-11-20T00:00:00-05:00",
+          "attachments": [],
+          "url": "nan",
+          "recap_pdf_url": null,
+          "pacer_doc_id": null,
+          "description": "SCHEDULING ORDER by Honorable Leon Jordan ; Jury trial set for 9:00 6/30/99 (cc: all counsel) (ANB) (Entered: 11/20/1998)"
+        },
+        {
+          "row_number": 12,
+          "id": 1805877,
+          "entry_number": "10",
+          "date_filed": "1999-07-02T00:00:00-04:00",
+          "attachments": [],
+          "url": "nan",
+          "recap_pdf_url": null,
+          "pacer_doc_id": null,
+          "description": "CONSENT DECREE by Honorable R Allan Edgar as set out in this decree w/appendix A attached terminating case and each party to bear their own costs (cc: all counsel) (DCC) (Entered: 07/06/1999)"
+        }
+      ],
+      "docket_case_type": "cv",
+      "docket_year": 1998,
+      "docket_filing_number": 486,
+      "is_main_docket": true,
+      "court": "Eastern District of Tennessee",
+      "state": "Tennessee",
+      "docket_office_number": "3",
+      "docket_number_manual": "3:98-CV- 486",
+      "scales_html": "https://clearinghouse-umich-production.s3.amazonaws.com/media/docket-html/tned--3-98-cv-00486.html",
+      "recap_link": null,
+      "is_active": true
+    },
+    "name": "EEOC v. CRACKER BARREL OLD COUNTRY STORE, INC. dba CRACKER",
+    "never_filed": false,
+    "non_docket_case_number": "",
+    "non_docket_case_number_type": null,
+    "non_docket_case_number_type_other": "",
+    "order_end_year": null,
+    "order_start_year": null,
+    "permanent_injunction": false,
+    "plaintiff_description": "Equal Employment Opportunity Commission, on behalf of one or more workers.",
+    "plaintiff_type": [
+      {
+        "value": "EEOC Plaintiff"
+      }
+    ],
+    "prevailing_party": "Plaintiff",
+    "pro_se_status": "No",
+    "public_interest_lawyer": "Yes",
+    "related_cases": [],
+    "relief_natures": [
+      "Unknown"
+    ],
+    "relief_nature_other": "",
+    "relief_sources": [
+      "Settlement"
+    ],
+    "settlement_agreement": [
+      "Court Approved Settlement or Consent Decree"
+    ],
+    "settlement_judgment_date": "1999-07-02",
+    "settlement_judgment_year": null,
+    "special_collections": [
+      "EEOC Study — in sample"
+    ],
+    "special_case_type": [],
+    "state": "Tennessee",
+    "summary": "<p>In August 1998, the Memphis District Office of the EEOC (with participation from the Little Rock Area Office) brought this suit against Cracker Barrel Old Country Store, Inc., d/b/a Cracker Barrel, in the U.S. District Court for the Eastern District of Tennessee.  The only document publicly available regarding this case is the docket; therefore, the exact allegations involved are unknown.  After a single scheduling conference, the parties settled through a consent decree in July 1999.  </p><p></p>",
+    "summary_published_date": "2007-07-26T00:00:00-04:00",
+    "summary_short": null,
+    "summary_tiny": null,
+    "terminating_date": "1999-07-02",
+    "clearinghouse_link": "clearinghouse.net/case/6448",
+    "is_active": true,
+    "case_documents_url": "https://clearinghouse.net/api/v2/documents/?case=6448",
+    "case_dockets_url": "https://clearinghouse.net/api/v2/dockets/?case=6448",
+    "case_resources_url": "https://clearinghouse.net/api/v2/resources/?case=6448"
+  },
+  "documents": [
+    {
+      "date": "1999-07-02",
+      "date_is_estimate": false,
+      "date_not_available": false,
+      "description": null,
+      "document_source": "PACER [Public Access to Court Electronic Records]",
+      "document_status": "Coding Complete",
+      "document_type": "Docket",
+      "order_type": null,
+      "citation_paren": null,
+      "cite_1_page": null,
+      "cite_1_reporter": null,
+      "cite_1_vol": null,
+      "cite_2_page": null,
+      "cite_2_reporter": null,
+      "cite_2_vol": null,
+      "cite_3_page": null,
+      "cite_3_reporter": null,
+      "cite_3_vol": null,
+      "citation_status": "Not applicable",
+      "court": "Eastern District of Tennessee",
+      "no_title": false,
+      "party_types": [
+        "Court"
+      ],
+      "per_curium": false,
+      "is_core_document": true,
+      "id": 19518,
+      "file": "https://clearinghouse-umich-production.s3.amazonaws.com/media/doc/19518.pdf",
+      "title": "Docket (PACER)",
+      "text": "U.S. District Court - CM/ECF Live Database - Docket Report https://ecf.tned.uscourts.gov/cgi-bin/DktRpt.pl?742429633791166-L_3...\n49BC, CLOSED, JURY_TRIAL\nU.S. District Court (Live Database)\nU.S. District Court - Eastern District of Tennessee (Knoxville)\nCIVIL DOCKET FOR CASE #: 3:98-cv-00486\nEEOC v. Cracker Barrel, Inc., et al Date Filed: 08/03/1998\nAssigned to: Honorable R Allan Edgar Date Terminated: 07/02/1999\nDemand: $0 Jury Demand: Both\nCause: 29:0794 Job Discrimination (Handicap) Nature of Suit: 442 Civil Rights: Jobs\nJurisdiction: U.S. Government Plaintiff\nPlaintiff\nEqual Employment Opportunity  represented by William A Cash, Jr \nCommission United States of America \nEqual Employment Opportunity \nCommission \n425 West Captiol Avenue \nSuite 625 \nLittle Rock, AR 72201 \n501-324-5060 \nLEAD ATTORNEY \nATTORNEY TO BE NOTICED\nKatharine W Kores \nUnited States of America \nEqual Employment Opportunity \nCommission \n1407 Union Avenue \nSuite 621 \nMemphis, TN 38104 \n901-544-0140 \nFax: 901-544-0111 \nEmail: katharine.kores@eeoc.gov \nATTORNEY TO BE NOTICED\nTerry L Beck \nUnited States of America \nEqual Employment Opportunity \nCommission \n1407 Union Avenue \nSuite 621 \nMemphis, TN 38104 \n901-544-0140 \nFax: 901-544-0111 \nEmail: terry.beck@eeoc.gov \nATTORNEY TO BE NOTICED\n1 of 3 6/5/2007 11:11 AM\n\nU.S. District Court - CM/ECF Live Database - Docket Report https://ecf.tned.uscourts.gov/cgi-bin/DktRpt.pl?742429633791166-L_3...\nV.\nDefendant\nCracker Barrel Old Country Store, Inc.  represented by Karen C Ellis \ndoing business as Bass, Berry & Sims \nCracker Barrel  315 Deaderick Street \nSuite 2700 \nNashville, TN 37238-0002 \n615-742-6200 \nFax: 615-742-6233 \nEmail: kellis@bassberry.com \nLEAD ATTORNEY \nATTORNEY TO BE NOTICED\nMelinda Meador \nBass, Berry and Sims \nP O Box 1509 \nKnoxville, TN 37901-1509 \n865-521-6200 \nEmail: mmeador@bassberry.com \nLEAD ATTORNEY \nATTORNEY TO BE NOTICED\nDate Filed # Docket Text\n08/03/1998 1 COMPLAINT (will attempt waiver of service); jury demand, Magistrate Judge \nPhillips designated (ADA) (Entered: 08/04/1998)\n09/11/1998 2 WAIVER OF SERVICE issued 9/2/98 upon defendant Cracker Barrel, Inc. \naccepted by Michael J Zylstra, Assistant Corp. Sec. (JAN) (Entered: 09/14/1998)\n09/14/1998 3 ANSWER by defendant Cracker Barrel, Inc. to complaint [1-1]; jury demand C/S \n(JAN) (Entered: 09/15/1998)\n09/15/1998   NOTICE of availability of magistrate judge mailed to all counsel (JAN) (Entered: \n09/15/1998)\n09/30/1998 4 ORDER by Honorable Leon Jordan setting a scheduling conference ; scheduling \nconference set for 1:00 11/19/98 (cc: all counsel) (AYB) (Entered: 09/30/1998)\n09/30/1998   NOTICE OF SCHEDULING CONFERENCE mailed ; scheduling conference set \nfor 1:00 11/19/98 (cc: all counsel) (AYB) (Entered: 09/30/1998)\n10/30/1998 5 REPORT OF RULE 26 (f) planning meeting C/S (DCC) (Entered: 11/02/1998)\n11/19/1998 6 MINUTES: (USDJ Jordan) Scheduling conference held 11/19/98. Attorneys \nparticipated by telephone. Parties have conducted their Rule 26.F meeting. Order \nto follow. CR not present. CD G. Preston. (GYP) (Entered: 11/19/1998)\n11/20/1998 7 SCHEDULING ORDER by Honorable Leon Jordan ; Jury trial set for 9:00 \n6/30/99 (cc: all counsel) (ANB) (Entered: 11/20/1998)\n2 of 3 6/5/2007 11:11 AM\n\nU.S. District Court - CM/ECF Live Database - Docket Report https://ecf.tned.uscourts.gov/cgi-bin/DktRpt.pl?742429633791166-L_3...\n11/20/1998   NOTICE OF TRIAL before the Honorable Leon Jordan set for June 30, 1999 at \n9:00; mailed to all counsel on 11/20/98 (cc: all counsel) (ANB) (Entered: \n11/20/1998)\n06/28/1999   REMARK - file to be sent to Judge Edgar today per JKK w/consent decree \n(DCC) Modified on 06/29/1999 (Entered: 06/28/1999)\n06/28/1999 8 ORDER by Honorable Leon Jordan recusing himself in this civil action (cc: all \ncounsel) (DCC) (Entered: 06/28/1999)\n07/02/1999 9 ORDER by Honorable R Allan Edgar Case reassigned to Honorable R Allan \nEdgar (cc: all counsel) (DCC) (Entered: 07/06/1999)\n07/02/1999 10 CONSENT DECREE by Honorable R Allan Edgar as set out in this decree \nw/appendix A attached terminating case and each party to bear their own costs \n(cc: all counsel) (DCC) (Entered: 07/06/1999)\nPACER Service Center\nTransaction Receipt\n06/05/2007 12:11:32\nPACER Login: hs0328 Client Code: eeoc \nDescription: Docket Report Search Criteria: 3:98-cv-00486\nBillable Pages: 2 Cost: 0.16\n3 of 3 6/5/2007 11:11 AM",
+      "document_type_other": null,
+      "external_url": null,
+      "ecf_number": null,
+      "clearinghouse_link": "clearinghouse.net/doc/19518"
+    },
+    {
+      "date": null,
+      "date_is_estimate": false,
+      "date_not_available": false,
+      "description": null,
+      "document_source": null,
+      "document_status": null,
+      "document_type": null,
+      "order_type": null,
+      "citation_paren": null,
+      "cite_1_page": null,
+      "cite_1_reporter": null,
+      "cite_1_vol": null,
+      "cite_2_page": null,
+      "cite_2_reporter": null,
+      "cite_2_vol": null,
+      "cite_3_page": null,
+      "cite_3_reporter": null,
+      "cite_3_vol": null,
+      "citation_status": null,
+      "court": null,
+      "no_title": false,
+      "party_types": [],
+      "per_curium": false,
+      "is_core_document": true,
+      "id": 124861,
+      "file": null,
+      "title": null,
+      "text": null,
+      "document_type_other": null,
+      "external_url": null,
+      "ecf_number": null,
+      "clearinghouse_link": "clearinghouse.net/doc/124861"
+    }
+  ],
+  "document_count": 2
+}

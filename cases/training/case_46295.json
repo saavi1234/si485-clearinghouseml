@@ -1,0 +1,836 @@
+{
+  "case_id": 46295,
+  "fetched_at": "2025-10-22T00:44:59.812861",
+  "case_data": {
+    "attorney_orgs": [],
+    "available_documents": [
+      "Trial Court Docket",
+      "Complaint (any)"
+    ],
+    "case_defendants": [
+      {
+        "defendant_level": null,
+        "institution": "",
+        "institution_alt_state": null,
+        "institution_city": "Washington, D.C.",
+        "institution_county": "District of Columbia",
+        "name": "U.S. Department of the Interior",
+        "defendant_level_other": "",
+        "is_active": true
+      },
+      {
+        "defendant_level": null,
+        "institution": "",
+        "institution_alt_state": null,
+        "institution_city": "Washington, D.C.",
+        "institution_county": "District of Columbia",
+        "name": "Council on Environmental Quality",
+        "defendant_level_other": "",
+        "is_active": true
+      },
+      {
+        "defendant_level": null,
+        "institution": "",
+        "institution_alt_state": null,
+        "institution_city": "",
+        "institution_county": "District of Columbia",
+        "name": "National Oceanic and Atmospheric Administration",
+        "defendant_level_other": "",
+        "is_active": true
+      }
+    ],
+    "case_ongoing": "Yes",
+    "case_status": "Approved",
+    "case_types": [
+      "Environmental Justice"
+    ],
+    "cause_other": "",
+    "causes": [
+      "FOIA (Freedom of Information Act), 5 U.S.C. § 552"
+    ],
+    "class_action_granted": "Not sought",
+    "class_action_sought": "No",
+    "closing_year": null,
+    "constitutional_clause": [],
+    "content_of_injunction": [],
+    "court": "District of District of Columbia",
+    "custom_issues": [
+      "Environment"
+    ],
+    "defendant_payment": "",
+    "defendant_type": [
+      {
+        "value": "Jurisdiction-wide"
+      }
+    ],
+    "docket_status": "Complete as of retrieval date",
+    "facility_type": [],
+    "filing_date": "2025-03-24",
+    "filing_year": 2025,
+    "id": 46295,
+    "injunction_duration": "",
+    "issues": [
+      "Environmental Justice and Resources: Threatened/endangered fauna",
+      "Environmental Justice and Resources: Threatened/endangered flora"
+    ],
+    "last_checked_date": "2025-09-22T00:00:00-04:00",
+    "main_docket": {
+      "id": 61158,
+      "docket_entries": [
+        {
+          "row_number": 12,
+          "id": 10201900,
+          "entry_number": "20",
+          "date_filed": "2025-07-17T00:00:00-04:00",
+          "attachments": [],
+          "url": "https://www.courtlistener.com/docket/69781182/20/environmental-defense-fund-v-united-states-department-of-the-interior/",
+          "recap_pdf_url": null,
+          "pacer_doc_id": "045011511642",
+          "description": "Notice of Appearance"
+        },
+        {
+          "row_number": 15,
+          "id": 10201904,
+          "entry_number": "23",
+          "date_filed": "2025-08-01T00:00:00-04:00",
+          "attachments": [],
+          "url": "https://www.courtlistener.com/docket/69781182/23/environmental-defense-fund-v-united-states-department-of-the-interior/",
+          "recap_pdf_url": null,
+          "pacer_doc_id": "045011541242",
+          "description": "Status Report"
+        },
+        {
+          "row_number": 22,
+          "id": 9452568,
+          "entry_number": "3",
+          "date_filed": "2025-03-24T00:00:00-04:00",
+          "attachments": [],
+          "url": "https://www.courtlistener.com/docket/69781182/3/environmental-defense-fund-v-united-states-department-of-the-interior/",
+          "recap_pdf_url": null,
+          "pacer_doc_id": "045011275636",
+          "description": "LCvR 26.1 CERTIFICATE OF DISCLOSURE of Corporate Affiliations and Financial Interests by ENVIRONMENTAL DEFENSE FUND (Caravello, Samantha) (Entered: 03/24/2025)"
+        },
+        {
+          "row_number": 29,
+          "id": 9897062,
+          "entry_number": "9",
+          "date_filed": "2025-04-02T00:00:00-04:00",
+          "attachments": [],
+          "url": "https://www.courtlistener.com/docket/69781182/9/environmental-defense-fund-v-united-states-department-of-the-interior/",
+          "recap_pdf_url": null,
+          "pacer_doc_id": "045011296851",
+          "description": "RETURN OF SERVICE/AFFIDAVIT of Summons and Complaint Executed as to the United States Attorney. Date of Service Upon United States Attorney on 3/25/2025. Answer due for ALL FEDERAL DEFENDANTS by 4/24/2025. (Attachments: # 1 Exhibit 1)(Caravello, Samantha) (Entered: 04/02/2025)"
+        },
+        {
+          "row_number": 4,
+          "id": 9897066,
+          "entry_number": "13",
+          "date_filed": "2025-04-23T00:00:00-04:00",
+          "attachments": [],
+          "url": "https://www.courtlistener.com/docket/69781182/13/environmental-defense-fund-v-united-states-department-of-the-interior/",
+          "recap_pdf_url": null,
+          "pacer_doc_id": "045011343118",
+          "description": "RETURN OF SERVICE/AFFIDAVIT of Summons and Complaint Executed. NATIONAL OCEANIC AND ATMOSPHERIC ADMINISTRATION served on 3/31/2025 (Attachments: # 1 Exhibit)(Caravello, Samantha) (Entered: 04/23/2025)"
+        },
+        {
+          "row_number": 43,
+          "id": 10363947,
+          "entry_number": null,
+          "date_filed": "2025-10-01T00:00:00-04:00",
+          "attachments": null,
+          "url": "https://www.courtlistener.com",
+          "recap_pdf_url": null,
+          "pacer_doc_id": null,
+          "description": ".Order AND ~Util - Set/Reset Deadlines"
+        },
+        {
+          "row_number": 0,
+          "id": 9452566,
+          "entry_number": "1",
+          "date_filed": "2025-03-24T00:00:00-04:00",
+          "attachments": [
+            {
+              "pdf_url": "https://www.courtlistener.com/recap/gov.uscourts.dcd.278755/gov.uscourts.dcd.278755.1.1.pdf",
+              "recap_id": 434272021,
+              "pacer_url": "https://ecf.dcd.uscourts.gov/doc1/045011275603?caseid=278755",
+              "description": "Exhibit A",
+              "attachment_number": 1
+            },
+            {
+              "pdf_url": "https://www.courtlistener.com/recap/gov.uscourts.dcd.278755/gov.uscourts.dcd.278755.1.2.pdf",
+              "recap_id": 434272022,
+              "pacer_url": "https://ecf.dcd.uscourts.gov/doc1/045011275604?caseid=278755",
+              "description": "Exhibit B",
+              "attachment_number": 2
+            },
+            {
+              "pdf_url": "https://www.courtlistener.com/recap/gov.uscourts.dcd.278755/gov.uscourts.dcd.278755.1.3.pdf",
+              "recap_id": 434272023,
+              "pacer_url": "https://ecf.dcd.uscourts.gov/doc1/045011275605?caseid=278755",
+              "description": "Exhibit C",
+              "attachment_number": 3
+            },
+            {
+              "pdf_url": "https://www.courtlistener.com/recap/gov.uscourts.dcd.278755/gov.uscourts.dcd.278755.1.4.pdf",
+              "recap_id": 434272024,
+              "pacer_url": "https://ecf.dcd.uscourts.gov/doc1/045011275606?caseid=278755",
+              "description": "Exhibit D",
+              "attachment_number": 4
+            },
+            {
+              "pdf_url": "https://www.courtlistener.com/recap/gov.uscourts.dcd.278755/gov.uscourts.dcd.278755.1.5.pdf",
+              "recap_id": 434272025,
+              "pacer_url": "https://ecf.dcd.uscourts.gov/doc1/045011275607?caseid=278755",
+              "description": "Exhibit E",
+              "attachment_number": 5
+            },
+            {
+              "pdf_url": "https://www.courtlistener.com/recap/gov.uscourts.dcd.278755/gov.uscourts.dcd.278755.1.6.pdf",
+              "recap_id": 434272026,
+              "pacer_url": "https://ecf.dcd.uscourts.gov/doc1/045011275608?caseid=278755",
+              "description": "Exhibit F",
+              "attachment_number": 6
+            },
+            {
+              "pdf_url": "https://www.courtlistener.com/recap/gov.uscourts.dcd.278755/gov.uscourts.dcd.278755.1.7.pdf",
+              "recap_id": 434272027,
+              "pacer_url": "https://ecf.dcd.uscourts.gov/doc1/045011275609?caseid=278755",
+              "description": "Exhibit G",
+              "attachment_number": 7
+            },
+            {
+              "pdf_url": "https://www.courtlistener.com/recap/gov.uscourts.dcd.278755/gov.uscourts.dcd.278755.1.8.pdf",
+              "recap_id": 434272028,
+              "pacer_url": "https://ecf.dcd.uscourts.gov/doc1/045011275610?caseid=278755",
+              "description": "Exhibit H",
+              "attachment_number": 8
+            },
+            {
+              "pdf_url": "https://www.courtlistener.com/recap/gov.uscourts.dcd.278755/gov.uscourts.dcd.278755.1.9.pdf",
+              "recap_id": 434272029,
+              "pacer_url": "https://ecf.dcd.uscourts.gov/doc1/045011275611?caseid=278755",
+              "description": "Civil Cover Sheet",
+              "attachment_number": 9
+            },
+            {
+              "pdf_url": "https://www.courtlistener.com/recap/gov.uscourts.dcd.278755/gov.uscourts.dcd.278755.1.10.pdf",
+              "recap_id": 434272030,
+              "pacer_url": "https://ecf.dcd.uscourts.gov/doc1/045011275612?caseid=278755",
+              "description": "Summons US Department of the Interior",
+              "attachment_number": 10
+            },
+            {
+              "pdf_url": "https://www.courtlistener.com/recap/gov.uscourts.dcd.278755/gov.uscourts.dcd.278755.1.11.pdf",
+              "recap_id": 434272031,
+              "pacer_url": "https://ecf.dcd.uscourts.gov/doc1/045011275613?caseid=278755",
+              "description": "Summons Council on Environmental Quality",
+              "attachment_number": 11
+            },
+            {
+              "pdf_url": "https://www.courtlistener.com/recap/gov.uscourts.dcd.278755/gov.uscourts.dcd.278755.1.12.pdf",
+              "recap_id": 434272032,
+              "pacer_url": "https://ecf.dcd.uscourts.gov/doc1/045011275614?caseid=278755",
+              "description": "Summons NOAA",
+              "attachment_number": 12
+            },
+            {
+              "pdf_url": "https://www.courtlistener.com/recap/gov.uscourts.dcd.278755/gov.uscourts.dcd.278755.1.13.pdf",
+              "recap_id": 434272033,
+              "pacer_url": "https://ecf.dcd.uscourts.gov/doc1/045011275615?caseid=278755",
+              "description": "Summons US Attorney for DC",
+              "attachment_number": 13
+            },
+            {
+              "pdf_url": "https://www.courtlistener.com/recap/gov.uscourts.dcd.278755/gov.uscourts.dcd.278755.1.14.pdf",
+              "recap_id": 434272034,
+              "pacer_url": "https://ecf.dcd.uscourts.gov/doc1/045011275616?caseid=278755",
+              "description": "Summons US Attorney General",
+              "attachment_number": 14
+            }
+          ],
+          "url": "https://www.courtlistener.com/docket/69781182/1/environmental-defense-fund-v-united-states-department-of-the-interior/",
+          "recap_pdf_url": "https://www.courtlistener.com/recap/gov.uscourts.dcd.278755/gov.uscourts.dcd.278755.1.0.pdf",
+          "pacer_doc_id": "045011275602",
+          "description": "COMPLAINT against All Defendants ( Filing fee $ 405 receipt number ADCDC-11563480) filed by ENVIRONMENTAL DEFENSE FUND. (Attachments: # 1 Exhibit A, # 2 Exhibit B, # 3 Exhibit C, # 4 Exhibit D, # 5 Exhibit E, # 6 Exhibit F, # 7 Exhibit G, # 8 Exhibit H, # 9 Civil Cover Sheet, # 10 Summons US Department of the Interior, # 11 Summons Council on Environmental Quality, # 12 Summons NOAA, # 13 Summons US Attorney for DC, # 14 Summons US Attorney General)(Caravello, Samantha) (Entered: 03/24/2025)"
+        },
+        {
+          "row_number": 11,
+          "id": 9452567,
+          "entry_number": "2",
+          "date_filed": "2025-03-24T00:00:00-04:00",
+          "attachments": [],
+          "url": "https://www.courtlistener.com/docket/69781182/2/environmental-defense-fund-v-united-states-department-of-the-interior/",
+          "recap_pdf_url": null,
+          "pacer_doc_id": "045011275624",
+          "description": "NOTICE OF RELATED CASE by ENVIRONMENTAL DEFENSE FUND. Case related to Case No. 1:25-cv-00617-DLF. (Caravello, Samantha) (Entered: 03/24/2025)"
+        },
+        {
+          "row_number": 31,
+          "id": 9517927,
+          "entry_number": null,
+          "date_filed": "2025-03-25T00:00:00-04:00",
+          "attachments": [],
+          "url": "https://www.courtlistener.com",
+          "recap_pdf_url": null,
+          "pacer_doc_id": null,
+          "description": "Case Assigned to Judge Dabney L. Friedrich. (znmw)"
+        },
+        {
+          "row_number": 24,
+          "id": 9517928,
+          "entry_number": "4",
+          "date_filed": "2025-03-25T00:00:00-04:00",
+          "attachments": [],
+          "url": "https://www.courtlistener.com/docket/69781182/4/environmental-defense-fund-v-united-states-department-of-the-interior/",
+          "recap_pdf_url": null,
+          "pacer_doc_id": "045011276264",
+          "description": "SUMMONS (5) Issued Electronically as to All Defendants, U.S. Attorney and U.S. Attorney General (Attachments: # 1 Notice and Consent)(znmw) (Entered: 03/25/2025)"
+        },
+        {
+          "row_number": 25,
+          "id": 9517929,
+          "entry_number": "5",
+          "date_filed": "2025-03-25T00:00:00-04:00",
+          "attachments": [],
+          "url": "https://www.courtlistener.com/docket/69781182/5/environmental-defense-fund-v-united-states-department-of-the-interior/",
+          "recap_pdf_url": null,
+          "pacer_doc_id": "045011277488",
+          "description": "STANDARD ORDER for Civil Cases. See text for details. Signed by Judge Dabney L. Friedrich on March 25, 2025. (lcdlf1) (Entered: 03/25/2025)"
+        },
+        {
+          "row_number": 26,
+          "id": 9517930,
+          "entry_number": "6",
+          "date_filed": "2025-03-25T00:00:00-04:00",
+          "attachments": [],
+          "url": "https://www.courtlistener.com/docket/69781182/6/environmental-defense-fund-v-united-states-department-of-the-interior/",
+          "recap_pdf_url": null,
+          "pacer_doc_id": "045011278483",
+          "description": "NOTICE of Appearance by Nathaniel Hemmerick Hunt, I on behalf of ENVIRONMENTAL DEFENSE FUND (Hunt, Nathaniel) (Entered: 03/25/2025)"
+        },
+        {
+          "row_number": 27,
+          "id": 9517931,
+          "entry_number": "7",
+          "date_filed": "2025-03-27T00:00:00-04:00",
+          "attachments": [],
+          "url": "https://www.courtlistener.com/docket/69781182/7/environmental-defense-fund-v-united-states-department-of-the-interior/",
+          "recap_pdf_url": null,
+          "pacer_doc_id": "045011283777",
+          "description": "NOTICE of Appearance by Erin Caitlin Murphy on behalf of ENVIRONMENTAL DEFENSE FUND (Murphy, Erin) (Entered: 03/27/2025)"
+        },
+        {
+          "row_number": 28,
+          "id": 9517932,
+          "entry_number": "8",
+          "date_filed": "2025-03-27T00:00:00-04:00",
+          "attachments": [],
+          "url": "https://www.courtlistener.com/docket/69781182/8/environmental-defense-fund-v-united-states-department-of-the-interior/",
+          "recap_pdf_url": null,
+          "pacer_doc_id": "045011284426",
+          "description": "AFFIDAVIT re 7 Notice of Appearance, 6 Notice of Appearance of Service by ENVIRONMENTAL DEFENSE FUND. (Caravello, Samantha) (Entered: 03/27/2025)"
+        },
+        {
+          "row_number": 1,
+          "id": 9897063,
+          "entry_number": "10",
+          "date_filed": "2025-04-14T00:00:00-04:00",
+          "attachments": [],
+          "url": "https://www.courtlistener.com/docket/69781182/10/environmental-defense-fund-v-united-states-department-of-the-interior/",
+          "recap_pdf_url": null,
+          "pacer_doc_id": "045011321471",
+          "description": "NOTICE of Appearance by Dedra Seibel Curteman on behalf of All Defendants (Curteman, Dedra) (Entered: 04/14/2025)"
+        },
+        {
+          "row_number": 3,
+          "id": 9897065,
+          "entry_number": "12",
+          "date_filed": "2025-04-23T00:00:00-04:00",
+          "attachments": [],
+          "url": "https://www.courtlistener.com/docket/69781182/12/environmental-defense-fund-v-united-states-department-of-the-interior/",
+          "recap_pdf_url": null,
+          "pacer_doc_id": "045011343103",
+          "description": "RETURN OF SERVICE/AFFIDAVIT of Summons and Complaint Executed. UNITED STATES DEPARTMENT OF THE INTERIOR served on 4/4/2025 (Attachments: # 1 Exhibit)(Caravello, Samantha) (Entered: 04/23/2025)"
+        },
+        {
+          "row_number": 6,
+          "id": 9897068,
+          "entry_number": "15",
+          "date_filed": "2025-04-24T00:00:00-04:00",
+          "attachments": [],
+          "url": "https://www.courtlistener.com/docket/69781182/15/environmental-defense-fund-v-united-states-department-of-the-interior/",
+          "recap_pdf_url": null,
+          "pacer_doc_id": "045011344090",
+          "description": "Consent MOTION for Extension of Time to File Answer re 1 Complaint,, by COUNCIL ON ENVIRONMENTAL QUALITY, NATIONAL OCEANIC AND ATMOSPHERIC ADMINISTRATION, UNITED STATES DEPARTMENT OF THE INTERIOR. (Attachments: # 1 Text of Proposed Order)(Curteman, Dedra) (Entered: 04/24/2025)"
+        },
+        {
+          "row_number": 33,
+          "id": 9897070,
+          "entry_number": null,
+          "date_filed": "2025-04-25T00:00:00-04:00",
+          "attachments": [],
+          "url": "https://www.courtlistener.com",
+          "recap_pdf_url": null,
+          "pacer_doc_id": null,
+          "description": "MINUTE ORDER granting the 15 Consent Motion for Extension of Time. The defendants shall answer or otherwise respond to the amended complaint on or before April 29, 2025. So Ordered by Judge Dabney L. Friedrich on April 25, 2025. (lcdlf1)"
+        },
+        {
+          "row_number": 7,
+          "id": 9897071,
+          "entry_number": "16",
+          "date_filed": "2025-04-29T00:00:00-04:00",
+          "attachments": [],
+          "url": "https://www.courtlistener.com/docket/69781182/16/environmental-defense-fund-v-united-states-department-of-the-interior/",
+          "recap_pdf_url": null,
+          "pacer_doc_id": "045011354743",
+          "description": "ANSWER to Complaint by COUNCIL ON ENVIRONMENTAL QUALITY, NATIONAL OCEANIC AND ATMOSPHERIC ADMINISTRATION, UNITED STATES DEPARTMENT OF THE INTERIOR.(Curteman, Dedra) (Entered: 04/29/2025)"
+        },
+        {
+          "row_number": 35,
+          "id": 9897073,
+          "entry_number": null,
+          "date_filed": "2025-04-30T00:00:00-04:00",
+          "attachments": [],
+          "url": "https://www.courtlistener.com",
+          "recap_pdf_url": null,
+          "pacer_doc_id": null,
+          "description": "MINUTE ORDER requiring the parties to MEET AND CONFER and file a joint status report proposing a schedule for further proceedings. The status report should address the status of the plaintiff's FOIA request, including the anticipated number of documents responsive to the request and the anticipated date(s) for release of the requested documents. The parties shall file the joint status report on or before May 20, 2025. So Ordered by Judge Dabney L. Friedrich on April 30, 2025. (lcdlf1)"
+        },
+        {
+          "row_number": 37,
+          "id": 9897076,
+          "entry_number": null,
+          "date_filed": "2025-05-21T00:00:00-04:00",
+          "attachments": [],
+          "url": "https://www.courtlistener.com",
+          "recap_pdf_url": null,
+          "pacer_doc_id": null,
+          "description": "MINUTE ORDER. Upon consideration of the 17 Joint Status Report, the parties are directed to file a joint status report on or before July 18, 2025. So Ordered by Judge Dabney L. Friedrich on May 21, 2025. (lcdlf1)"
+        },
+        {
+          "row_number": 38,
+          "id": 10201897,
+          "entry_number": null,
+          "date_filed": "2025-06-15T00:00:00-04:00",
+          "attachments": [],
+          "url": "https://www.courtlistener.com",
+          "recap_pdf_url": null,
+          "pacer_doc_id": null,
+          "description": ".Order"
+        },
+        {
+          "row_number": 39,
+          "id": 10201898,
+          "entry_number": null,
+          "date_filed": "2025-06-15T00:00:00-04:00",
+          "attachments": [],
+          "url": "https://www.courtlistener.com",
+          "recap_pdf_url": null,
+          "pacer_doc_id": null,
+          "description": "MINUTE ORDER. Upon consideration of the parties' 18 Stipulation of Partial Dismissal, the plaintiff's claim against defendant Council on Environmental Quality is DISMISSED without prejudice and defendant Council on Environmental Quality is DISMISSED from this case. Fed. R. Civ. P. 41(a). So Ordered by Judge Dabney L. Friedrich on June 15, 2025. (lcdlf1)"
+        },
+        {
+          "row_number": 10,
+          "id": 10201899,
+          "entry_number": "19",
+          "date_filed": "2025-07-02T00:00:00-04:00",
+          "attachments": [],
+          "url": "https://www.courtlistener.com/docket/69781182/19/environmental-defense-fund-v-united-states-department-of-the-interior/",
+          "recap_pdf_url": null,
+          "pacer_doc_id": "045011483096",
+          "description": "Notice of Substitution of Counsel"
+        },
+        {
+          "row_number": 13,
+          "id": 10201901,
+          "entry_number": "21",
+          "date_filed": "2025-07-18T00:00:00-04:00",
+          "attachments": [],
+          "url": "https://www.courtlistener.com/docket/69781182/21/environmental-defense-fund-v-united-states-department-of-the-interior/",
+          "recap_pdf_url": null,
+          "pacer_doc_id": "045011514773",
+          "description": "Extension of Time to"
+        },
+        {
+          "row_number": 14,
+          "id": 10201903,
+          "entry_number": "22",
+          "date_filed": "2025-07-22T00:00:00-04:00",
+          "attachments": [],
+          "url": "https://www.courtlistener.com/docket/69781182/22/environmental-defense-fund-v-united-states-department-of-the-interior/",
+          "recap_pdf_url": null,
+          "pacer_doc_id": "045011520315",
+          "description": "Notice of Substitution of Counsel"
+        },
+        {
+          "row_number": 16,
+          "id": 10201905,
+          "entry_number": "24",
+          "date_filed": "2025-08-01T00:00:00-04:00",
+          "attachments": [],
+          "url": "https://www.courtlistener.com/docket/69781182/24/environmental-defense-fund-v-united-states-department-of-the-interior/",
+          "recap_pdf_url": null,
+          "pacer_doc_id": "045011542270",
+          "description": ".Order AND ~Util - Set/Reset Deadlines"
+        },
+        {
+          "row_number": 17,
+          "id": 10201906,
+          "entry_number": "25",
+          "date_filed": "2025-08-08T00:00:00-04:00",
+          "attachments": [],
+          "url": "https://www.courtlistener.com/docket/69781182/25/environmental-defense-fund-v-united-states-department-of-the-interior/",
+          "recap_pdf_url": null,
+          "pacer_doc_id": "045011556776",
+          "description": "Notice (Other)"
+        },
+        {
+          "row_number": 18,
+          "id": 10256306,
+          "entry_number": "26",
+          "date_filed": "2025-08-29T00:00:00-04:00",
+          "attachments": null,
+          "url": "https://www.courtlistener.com/docket/69781182/26/environmental-defense-fund-v-united-states-department-of-the-interior/",
+          "recap_pdf_url": null,
+          "pacer_doc_id": "045011600376",
+          "description": "Extension of Time to"
+        },
+        {
+          "row_number": 19,
+          "id": 10256307,
+          "entry_number": "27",
+          "date_filed": "2025-08-29T00:00:00-04:00",
+          "attachments": null,
+          "url": "https://www.courtlistener.com/docket/69781182/27/environmental-defense-fund-v-united-states-department-of-the-interior/",
+          "recap_pdf_url": null,
+          "pacer_doc_id": "045011600382",
+          "description": "Notice (Other)"
+        },
+        {
+          "row_number": 20,
+          "id": 10256308,
+          "entry_number": "28",
+          "date_filed": "2025-08-29T00:00:00-04:00",
+          "attachments": null,
+          "url": "https://www.courtlistener.com/docket/69781182/28/environmental-defense-fund-v-united-states-department-of-the-interior/",
+          "recap_pdf_url": null,
+          "pacer_doc_id": "045011600565",
+          "description": "Errata"
+        },
+        {
+          "row_number": 21,
+          "id": 10256309,
+          "entry_number": "29",
+          "date_filed": "2025-09-02T00:00:00-04:00",
+          "attachments": null,
+          "url": "https://www.courtlistener.com/docket/69781182/29/environmental-defense-fund-v-united-states-department-of-the-interior/",
+          "recap_pdf_url": null,
+          "pacer_doc_id": "045011604554",
+          "description": "Status Report"
+        },
+        {
+          "row_number": 41,
+          "id": 10256310,
+          "entry_number": null,
+          "date_filed": "2025-09-02T00:00:00-04:00",
+          "attachments": null,
+          "url": "https://www.courtlistener.com",
+          "recap_pdf_url": null,
+          "pacer_doc_id": null,
+          "description": "Order on Motion for Extension of Time to AND Set/Reset Deadlines"
+        },
+        {
+          "row_number": 42,
+          "id": 10290865,
+          "entry_number": null,
+          "date_filed": "2025-09-09T00:00:00-04:00",
+          "attachments": null,
+          "url": "https://www.courtlistener.com",
+          "recap_pdf_url": null,
+          "pacer_doc_id": null,
+          "description": ".Order AND ~Util - Set/Reset Deadlines"
+        },
+        {
+          "row_number": 23,
+          "id": 10363946,
+          "entry_number": "30",
+          "date_filed": "2025-09-30T00:00:00-04:00",
+          "attachments": null,
+          "url": "https://www.courtlistener.com/docket/69781182/30/environmental-defense-fund-v-united-states-department-of-the-interior/",
+          "recap_pdf_url": null,
+          "pacer_doc_id": "045011666854",
+          "description": "Status Report"
+        },
+        {
+          "row_number": 2,
+          "id": 9897064,
+          "entry_number": "11",
+          "date_filed": "2025-04-23T00:00:00-04:00",
+          "attachments": [],
+          "url": "https://www.courtlistener.com/docket/69781182/11/environmental-defense-fund-v-united-states-department-of-the-interior/",
+          "recap_pdf_url": null,
+          "pacer_doc_id": "045011343099",
+          "description": "RETURN OF SERVICE/AFFIDAVIT of Summons and Complaint Executed on United States Attorney General. Date of Service Upon United States Attorney General 3/31/25. (Attachments: # 1 Exhibit)(Caravello, Samantha) (Entered: 04/23/2025)"
+        },
+        {
+          "row_number": 34,
+          "id": 9897072,
+          "entry_number": null,
+          "date_filed": "2025-04-30T00:00:00-04:00",
+          "attachments": [],
+          "url": "https://www.courtlistener.com",
+          "recap_pdf_url": null,
+          "pacer_doc_id": null,
+          "description": ".Order AND ~Util - Set/Reset Deadlines"
+        },
+        {
+          "row_number": 30,
+          "id": 9517926,
+          "entry_number": null,
+          "date_filed": "2025-03-25T00:00:00-04:00",
+          "attachments": [],
+          "url": "https://www.courtlistener.com",
+          "recap_pdf_url": null,
+          "pacer_doc_id": null,
+          "description": "Case Assigned/Reassigned"
+        },
+        {
+          "row_number": 5,
+          "id": 9897067,
+          "entry_number": "14",
+          "date_filed": "2025-04-23T00:00:00-04:00",
+          "attachments": [],
+          "url": "https://www.courtlistener.com/docket/69781182/14/environmental-defense-fund-v-united-states-department-of-the-interior/",
+          "recap_pdf_url": null,
+          "pacer_doc_id": "045011343122",
+          "description": "RETURN OF SERVICE/AFFIDAVIT of Summons and Complaint Executed. COUNCIL ON ENVIRONMENTAL QUALITY served on 4/4/2025 (Attachments: # 1 Exhibit)(Caravello, Samantha) (Entered: 04/23/2025)"
+        },
+        {
+          "row_number": 8,
+          "id": 9897074,
+          "entry_number": "17",
+          "date_filed": "2025-05-20T00:00:00-04:00",
+          "attachments": [],
+          "url": "https://www.courtlistener.com/docket/69781182/17/environmental-defense-fund-v-united-states-department-of-the-interior/",
+          "recap_pdf_url": null,
+          "pacer_doc_id": "045011398708",
+          "description": "Joint STATUS REPORT by ENVIRONMENTAL DEFENSE FUND. (Caravello, Samantha) (Entered: 05/20/2025)"
+        },
+        {
+          "row_number": 40,
+          "id": 10201902,
+          "entry_number": null,
+          "date_filed": "2025-07-21T00:00:00-04:00",
+          "attachments": [],
+          "url": "https://www.courtlistener.com",
+          "recap_pdf_url": null,
+          "pacer_doc_id": null,
+          "description": "Order on Motion for Extension of Time to AND Set/Reset Deadlines"
+        },
+        {
+          "row_number": 32,
+          "id": 9897069,
+          "entry_number": null,
+          "date_filed": "2025-04-25T00:00:00-04:00",
+          "attachments": [],
+          "url": "https://www.courtlistener.com",
+          "recap_pdf_url": null,
+          "pacer_doc_id": null,
+          "description": "Order on Motion for Extension of Time to Answer AND Set/Reset Deadlines"
+        },
+        {
+          "row_number": 36,
+          "id": 9897075,
+          "entry_number": null,
+          "date_filed": "2025-05-21T00:00:00-04:00",
+          "attachments": [],
+          "url": "https://www.courtlistener.com",
+          "recap_pdf_url": null,
+          "pacer_doc_id": null,
+          "description": ".Order AND ~Util - Set/Reset Deadlines"
+        },
+        {
+          "row_number": 9,
+          "id": 9897077,
+          "entry_number": "18",
+          "date_filed": "2025-06-13T00:00:00-04:00",
+          "attachments": [],
+          "url": "https://www.courtlistener.com/docket/69781182/18/environmental-defense-fund-v-united-states-department-of-the-interior/",
+          "recap_pdf_url": "https://www.courtlistener.com/recap/gov.uscourts.dcd.278755/gov.uscourts.dcd.278755.18.0.pdf",
+          "pacer_doc_id": "045011446368",
+          "description": "STIPULATION of Partial Dismissal to Dismiss Defendant Council on Environmental Quality and Corresponding Claim by ENVIRONMENTAL DEFENSE FUND. (Caravello, Samantha) (Entered: 06/13/2025)"
+        }
+      ],
+      "docket_case_type": "cv",
+      "docket_year": 2025,
+      "docket_filing_number": 871,
+      "is_main_docket": true,
+      "court": "District of District of Columbia",
+      "state": "District of Columbia",
+      "docket_office_number": "1",
+      "docket_number_manual": "1:25-cv-00871",
+      "scales_html": null,
+      "recap_link": "https://www.courtlistener.com/docket/69781182/environmental-defense-fund-v-united-states-department-of-the-interior/",
+      "is_active": true
+    },
+    "name": "Environmental Defense Fund v. United States Department of the Interior",
+    "never_filed": false,
+    "non_docket_case_number": "",
+    "non_docket_case_number_type": null,
+    "non_docket_case_number_type_other": "",
+    "order_end_year": null,
+    "order_start_year": null,
+    "permanent_injunction": false,
+    "plaintiff_description": "The Environmental Defense Fund",
+    "plaintiff_type": [
+      {
+        "value": "Non-profit NON-religious organization"
+      }
+    ],
+    "prevailing_party": "None Yet / None",
+    "pro_se_status": "No",
+    "public_interest_lawyer": "No",
+    "related_cases": [
+      {
+        "id": 46191,
+        "name": "Environmental Defense Fund v. U.S. Environmental Protection Agency"
+      }
+    ],
+    "relief_natures": [
+      "None yet"
+    ],
+    "relief_nature_other": "",
+    "relief_sources": [
+      "None yet"
+    ],
+    "settlement_agreement": [],
+    "settlement_judgment_date": null,
+    "settlement_judgment_year": null,
+    "special_collections": [
+      "Trump Administration 2.0: Challenges to the Government",
+      "Trump Administration 2.0: Challenges to the Government"
+    ],
+    "special_case_type": [],
+    "state": "District of Columbia",
+    "summary": "<p>This lawsuit, filed on March 24, 2025, in the U.S. District Court for the District of Columbia, challenged the U.S. Department of the Interior (DOI), the Council on Environmental Quality (CEQ), and the National Oceanic and Atmospheric Administration (NOAA) for violating the Freedom of Information Act (FOIA). The case stemmed from the Trump administration&rsquo;s efforts to reconsider the EPA&rsquo;s 2009 Endangerment Finding, which had determined that certain greenhouse gases (GHGs) posed a threat to public health. The reconsideration of the finding threatened to destabilize ongoing federal programs aimed at reducing climate pollution. The Environmental Defense Fund (EDF), the plaintiff represented by private counsel, had submitted FOIA requests to these agencies to obtain records related to the Endangerment Finding&rsquo;s assessment and any associated recommendations. However, the agencies failed to respond within the statutory deadlines or provide the requested records. This case was assigned to Judge Dabney L. Friedrich.</p>\r\n<p>EDF alleged that these failures violated FOIA, which mandated that agencies respond to such requests in a timely manner. EDF sought declaratory and injunctive relief to compel the agencies to provide the requested documents and ensure that future responses complied with FOIA deadlines. The lawsuit also asked the court to waive fees associated with the FOIA requests, given the public interest in the transparency of the agencies' actions concerning climate change.</p>\r\n<p>On June 13, 2025, defendants filed a stipulation of partial dismissal as to the Council on Environmental Quality (CEQ) and Count Two of the complaint insofar as it pertained to CEQ. Plaintiff consented to the dismissal upon CEQ's issuance of a final determination as required under FOIA. Two days later, the court entered an order dismissing plaintiff's claim against CEQ.&nbsp;</p>\r\n<p>The case is ongoing.</p>",
+    "summary_published_date": "2025-06-17T13:05:56.301284-04:00",
+    "summary_short": "The Environmental Defense Fund (EDF) filed a lawsuit against the U.S. Department of the Interior, the Council on Environmental Quality, and the National Oceanic and Atmospheric Administration for failing to comply with the Freedom of Information Act (FOIA) after EDF requested records regarding the Trump administration's reconsideration of the EPA’s 2009 Endangerment Finding on greenhouse gases. The case, filed in the U.S. District Court for the District of Columbia, alleged that the agencies unlawfully delayed or withheld documents related to their assessment of the Endangerment Finding, which could have undermined federal climate pollution reduction programs. EDF sought declaratory and injunctive relief, compelling the agencies to produce the requested records and comply with FOIA deadlines. The case remains ongoing.",
+    "summary_tiny": null,
+    "terminating_date": null,
+    "clearinghouse_link": "clearinghouse.net/case/46295",
+    "is_active": true,
+    "case_documents_url": "https://clearinghouse.net/api/v2/documents/?case=46295",
+    "case_dockets_url": "https://clearinghouse.net/api/v2/dockets/?case=46295",
+    "case_resources_url": "https://clearinghouse.net/api/v2/resources/?case=46295"
+  },
+  "documents": [
+    {
+      "date": null,
+      "date_is_estimate": false,
+      "date_not_available": false,
+      "description": null,
+      "document_source": null,
+      "document_status": null,
+      "document_type": null,
+      "order_type": null,
+      "citation_paren": null,
+      "cite_1_page": null,
+      "cite_1_reporter": null,
+      "cite_1_vol": null,
+      "cite_2_page": null,
+      "cite_2_reporter": null,
+      "cite_2_vol": null,
+      "cite_3_page": null,
+      "cite_3_reporter": null,
+      "cite_3_vol": null,
+      "citation_status": null,
+      "court": null,
+      "no_title": false,
+      "party_types": [],
+      "per_curium": false,
+      "is_core_document": true,
+      "id": 157707,
+      "file": null,
+      "title": null,
+      "text": null,
+      "document_type_other": null,
+      "external_url": null,
+      "ecf_number": null,
+      "clearinghouse_link": "clearinghouse.net/doc/157707"
+    },
+    {
+      "date": "2025-03-24",
+      "date_is_estimate": false,
+      "date_not_available": false,
+      "description": "Complaint",
+      "document_source": "PACER [Public Access to Court Electronic Records]",
+      "document_status": "Coding Complete",
+      "document_type": "Complaint",
+      "order_type": null,
+      "citation_paren": null,
+      "cite_1_page": null,
+      "cite_1_reporter": null,
+      "cite_1_vol": null,
+      "cite_2_page": null,
+      "cite_2_reporter": null,
+      "cite_2_vol": null,
+      "cite_3_page": null,
+      "cite_3_reporter": null,
+      "cite_3_vol": null,
+      "citation_status": "Not applicable",
+      "court": "District of District of Columbia",
+      "no_title": false,
+      "party_types": [
+        "Plaintiff"
+      ],
+      "per_curium": false,
+      "is_core_document": true,
+      "id": 157708,
+      "file": "https://clearinghouse-umich-production.s3.amazonaws.com/media/doc/157708.pdf",
+      "title": "Complaint for Declaratory and Injunctive Relief",
+      "text": "Case 1:25-cv-00871-DLF     Document 1     Filed 03/24/25     Page 1 of 24\n \nIN THE UNITED STATES DISTRICT COURT \nFOR THE DISTRICT OF COLUMBIA \n \n \nENVIRONMENTAL DEFENSE FUND,     \n257 Park Ave. S.   \nNew York, NY 10010,   \n   \nPlaintiff,       \n         \nv.   \n   \nU.S. DEPARTMENT OF THE INTERIOR,   \n1849 C Street, NW  Civil Action No.  \nWashington, DC 20240,   \n   \nCOUNCIL ON ENVIRONMENTAL   \nQUALITY,  COMPLAINT FOR DECLARATORY \n730 Jackson Place, NW  AND INJUNCTIVE RELIEF \nWashington, DC 20503,   \n \nand \n \nNATIONAL OCEANIC AND \nATMOSPHERIC ADMINISTRATION, \n1401 Constitution Ave., NW, Room 5128 \nWashington, DC 20230, \n   \nDefendants. \n     \n \nIn 2009, the Environmental Protection Agency (“EPA”) issued the “Endangerment \nFinding,” a determination that greenhouse gases (“GHGs”) in the atmosphere threaten the public \nhealth and welfare of current and future generations, and that emissions from motor vehicles \ncontribute to the GHG pollution that threatens public health and welfare. The Endangerment \nFinding is grounded in extensive scientific evidence and is foundational to efforts to reduce GHG \npollution. In a January 20, 2025 Executive Order, President Trump directed the EPA \nAdministrator to assess the “legality and continuing applicability” of the Finding, “in \ncollaboration with the heads of any other relevant agencies.” On March 12, 2025, EPA \n1 \n\nCase 1:25-cv-00871-DLF     Document 1     Filed 03/24/25     Page 2 of 24\n \nannounced that it will formally reconsider the Finding. This “reconsideration” may destabilize \nthe Finding, constraining EPA’s ability to reduce climate pollution and causing significant, \nharmful consequences for communities across the country, who are already experiencing the \ndevastating effects of climate change. \nTo bring greater transparency regarding the new administration’s directive to EPA and \nother agencies to assess the Endangerment Finding, Plaintiff Environmental Defense Fund \n(“EDF”) submitted requests under the Freedom of Information Act (“FOIA”) to the Department \nof the Interior (“DOI”), the Council on Environmental Quality (“CEQ”), and the National \nOceanic and Atmospheric Administration (“NOAA”) (collectively, the “Agencies”). Those \nrequests (the “FOIA Requests”) sought correspondence and records relating to the Endangerment \nFinding, including correspondence and records of the Agencies’ transition team members and \npolitical appointees. The Agencies failed to produce records or make determinations on EDF’s \nrequests by the statutory deadlines for doing so, violating EDF’s rights under FOIA and \ndepriving the public of vital records of clear and immediate public interest. \nINTRODUCTION \n1.  EDF files this action to enforce the Agencies’ statutory obligations under FOIA, \n5 U.S.C. § 552. \n2.  On January 20, 2025, President Trump signed an Executive Order titled \n“Unleashing American Energy” (the “Executive Order”) in which he directed the EPA \nAdministrator, “in collaboration with the heads of any other relevant agencies,” to “submit joint \nrecommendations to the Director of [the Office of Management and Budget (“OMB”)] on the \nlegality and continuing applicability” of the Endangerment Finding. See Unleashing American \n2 \n\nCase 1:25-cv-00871-DLF     Document 1     Filed 03/24/25     Page 3 of 24\n \nEnergy, Exec. Order § 6(f) (Jan. 20, 2025), https://www.whitehouse.gov/presidential-\nactions/2025/01/unleashing-american-energy/.   \n3.  The Endangerment Finding is a determination issued by EPA in 2009 that is \ncomprised of two separate findings under Section 202(a) of the Clean Air Act: first, that six \nGHGs in the atmosphere, including carbon dioxide and methane, threaten the public health and \nwelfare of current and future generations; and second, that the combined emissions of these \nGHGs from motor vehicles contribute to the GHG pollution that threatens public health and \nwelfare. See Endangerment and Cause or Contribute Findings for Greenhouse Gases Under \nSection 202(a) of the Clean Air Act, 74 Fed. Reg. 66,496 (Dec. 15, 2009); see also 42 U.S.C. \n§ 7521(a).  \n4.  The Endangerment Finding is grounded in extensive scientific evidence, and \nchallenges to its validity have been repeatedly rejected in court and by EPA. It underpins EPA’s \nefforts to set standards to reduce harmful climate pollution and supports numerous pollution-\nreducing programs for the power sector, the oil and gas industry, and the motor vehicle sector. \nThese programs have delivered critical pollution reduction benefits to Americans across the \ncountry.  \n5.  On March 12, 2025, EPA publicly announced that it will reconsider the \nEndangerment Finding. This reconsideration threatens to undermine or destabilize the Finding, \nputting EPA’s climate pollution reduction programs—and the important benefits they deliver—at \nrisk. \nDOI FOIA Request \n6.  On February 3, 2025, EDF submitted a FOIA request to DOI (“DOI FOIA \nRequest”) seeking all correspondence and records of DOI transition team members and political \n3 \n\nCase 1:25-cv-00871-DLF     Document 1     Filed 03/24/25     Page 4 of 24\n \nappointees relating to the Endangerment Finding. Ex. A at 1-2 (Letter from Erin Murphy, EDF, \nto National Freedom of Information Officer, DOI). That same day, EDF received an email from \nDOI acknowledging receipt of the DOI FOIA Request. Ex. B (Email from DOI FOIA Office to \nErin Murphy, EDF). \n7.  On February 11, 2025, EDF received a letter from DOI (dated February 10, 2025) \nclaiming a 10-workday extension of time to issue a determination on the DOI FOIA request. Ex. \nC at 3 (Letter from Sabrina Conway, DOI, to Erin Murphy, EDF). FOIA permits an agency to \nclaim a 10-workday extension of its response deadline in “unusual circumstances.” 5 U.S.C. \n§ 552(a)(6)(B)(i). \n8.  Under FOIA, with the 10-workday extension, DOI had 30 working days—until \nMarch 18, 2025—to make a determination on the DOI FOIA Request. See 5 U.S.C. \n§ 552(a)(6)(A)(i), (a)(6)(B)(i); 43 C.F.R. §§ 2.16(a), 2.19. \n9.  To date, EDF has not received DOI’s determination on the DOI FOIA Request \nand has not received any requested records, in violation of FOIA’s statutory deadlines and \nrequirements.  \nCEQ FOIA Request \n10.  On February 3, 2025, EDF submitted a FOIA request to CEQ (“CEQ FOIA \nRequest”) seeking all correspondence and records of CEQ transition team members and political \nappointees relating to the Endangerment Finding. Ex. D at 1-2 (Letter from Erin Murphy, EDF, \nto National Freedom of Information Officer, CEQ). On February 11, 2025, EDF received an \n4 \n\nCase 1:25-cv-00871-DLF     Document 1     Filed 03/24/25     Page 5 of 24\n \nemail from CEQ acknowledging receipt of the CEQ FOIA Request. Ex. E (Email from Adrianne \nDay, CEQ, to Erin Murphy, EDF).  \n11.  Under FOIA, CEQ had 20 working days to make a determination on the FOIA \nRequest. See 5 U.S.C. § 552(a)(6)(A)(i); 40 C.F.R. § 1515.6(a) (2024).1 CEQ’s February 11 \nemail did not state the date on which it received the CEQ FOIA Request. However, even if CEQ \ndid not receive the request until February 11, 2025, over a week after EDF sent the request, its \nstatutory deadline to make a determination on the CEQ FOIA Request lapsed on March 12, \n2025. \n12.  To date, EDF has not received CEQ’s determination on the CEQ FOIA Request \nand has not received any requested records, in violation of FOIA’s statutory deadline and \nrequirements.  \nNOAA FOIA Request  \n13.  On February 3, 2025, EDF submitted a FOIA request to NOAA (“NOAA FOIA \nRequest”) seeking records related to the development of “joint recommendations” regarding the \nEndangerment Finding and all correspondence and records of NOAA transition team members \nand political appointees relating to the Endangerment Finding. Ex. F at 1-2 (Letter from Erin \nMurphy, EDF, to National Freedom of Information Officer, NOAA). That same day, EDF \nreceived two emails from NOAA acknowledging receipt of the NOAA FOIA Request and \nupdating the request status to “received.” Ex. G (February 3, 2025 Emails from NOAA to Erin \nMurphy, EDF). \n \n1 CEQ revised its FOIA regulations in early 2025, with the revisions effective February 20, 2025. \n90 Fed. Reg. 6828, 6828 (Jan. 21, 2025). EDF submitted the CEQ FOIA Request prior to that \ndate and accordingly cites to the 2024 version of the CEQ FOIA regulations in this complaint. \n5 \n\nCase 1:25-cv-00871-DLF     Document 1     Filed 03/24/25     Page 6 of 24\n \n14.  Under FOIA, NOAA had 20 working days—until March 4, 2025—to make a \ndetermination on the FOIA Request. See 5 U.S.C. § 552(a)(6)(A)(i); 15 C.F.R. § 4.6(b). \n15.  On March 5, 2025, one workday past the statutory deadline, EDF received a letter \nfrom NOAA again acknowledging receipt of the NOAA FOIA Request—but claiming the \nrequest was received on February 4, 2025. Ex. H at 1 (Letter from Ana Liza Malabanan, NOAA, \nto Erin Murphy, EDF). Despite having missed the statutory deadline, NOAA asserted it was \nclaiming a 10-workday extension of time to issue a determination on the NOAA FOIA Request. \nId. at 1-2. FOIA permits an agency to claim a 10-workday extension of its response deadline in \n“unusual circumstances.” 5 U.S.C. § 552(a)(6)(B)(i). Under FOIA, even if NOAA had timely \ninvoked its opportunity to take a 10-workday extension, its deadline to make a determination on \nthe NOAA FOIA Request was March 18, 2025. However, NOAA stated it anticipated \nresponding to EDF’s request by March 19, 2025.  \n16.  To date, EDF has not received NOAA’s determination on the NOAA FOIA \nRequest and has not received any requested records, in violation of FOIA’s statutory deadlines \nand requirements. \nImportance of the FOIA Requests \n17.  The public, including EDF and its members, has a strong interest in any records \nrelated to the current administration’s recommendations and actions to reverse or undermine the \nEndangerment Finding. The Agencies collaborate closely and regularly with EPA regarding vital \npollution-reduction programs that rely on the Endangerment Finding, and these programs are \nproviding enormous benefits in communities across the country.  \n18.  Knowledge of the extent and nature of communications with the Agencies’ \ntransition team members, political appointees, and outside stakeholders is critical for EDF, its \n6 \n\nCase 1:25-cv-00871-DLF     Document 1     Filed 03/24/25     Page 7 of 24\n \nmembers, and the public to understand the Agencies’ decisions relating to any reassessment of \nthe Endangerment Finding in collaboration with EPA. The Agencies’ current actions have been \ncompletely lacking in transparency, in contrast with the extensive public process that EPA \nundertook to develop and adopt the Endangerment Finding. EDF submitted the FOIA Requests \nto bring transparency to the Agencies’ actions. \n19.  EDF requested information from the Agencies in order to disseminate that \ninformation to EDF’s members, supporters, and the general public. EDF has communicated on \nthese issues in the past, including recently. Peter Zalzal, Danger ahead: the Trump \nadministration’s attack on EPA’s finding that climate pollution harms public health, EDF \n(Feb. 14, 2025), https://blogs.edf.org/climate411/2025/02/14/danger-ahead-the-trump-\nadministrations-attack-on-epas-finding-that-climate-pollution-harms-public-health/. EDF also \nplans to use its expertise to analyze the records and help the public understand their significance. \n20.  The Agencies are unlawfully withholding and unreasonably delaying the release \nof records requested by EDF and to which EDF is lawfully entitled under FOIA, despite the \nrecords’ clear salience to current agency actions with grave implications for public health and \nwelfare.  \n21.  EDF seeks declaratory and injunctive relief declaring that CEQ, DOI, and NOAA \nhave violated FOIA and an order compelling each agency to promptly release all requested \nrecords. \nJURISDICTION AND VENUE \n22.  This Court has jurisdiction over this action pursuant to FOIA, which vests \njurisdiction in the U.S. District Court for the District of Columbia. 5 U.S.C. § 552(a)(4)(B). This \n7 \n\nCase 1:25-cv-00871-DLF     Document 1     Filed 03/24/25     Page 8 of 24\n \nCourt also has jurisdiction pursuant to 28 U.S.C. § 1331 because this action arises under FOIA, a \nfederal statute.  \n23.  Injunctive relief is appropriate under FOIA. 5 U.S.C. § 552(a)(4)(B). Declaratory \nrelief is appropriate under the Declaratory Judgment Act, 28 U.S.C. § 2201 et seq. \n24.  Venue is proper in this judicial district pursuant to 5 U.S.C. § 552(a)(4)(B) and \n28 U.S.C. § 1391(e). \nPARTIES \n25.  Plaintiff EDF is a 501(c)(3) non-profit environmental organization dedicated to \nfinding practical solutions to critical environmental problems through the use of law, policy, \nscience, and economics. EDF has offices throughout the United States, including in the District \nof Columbia. \n26.  EDF engages in extensive, daily efforts to inform the public about matters \naffecting environmental and energy policy, as well as about climate change science and the \nhuman health impacts of pollution. EDF has multiple channels for distributing information to the \npublic, including through direct communication with its more than three million members and \nsupporters, press releases, blog posts, and active engagement on social media. EDF is frequently \ncalled upon to share its expertise on important environmental issues in the popular media and in \nother public forums.   \n27.  EDF has long advocated for measures to protect communities from the harmful \neffects of climate change, including EPA pollution reduction programs that the Endangerment \nFinding supports. For example, EDF has advocated for and supported standards to reduce \nclimate pollution from large sources such as power plants, cars and trucks, and oil and gas \noperations. These standards have been successful in reducing harmful climate pollution.  \n8 \n\nCase 1:25-cv-00871-DLF     Document 1     Filed 03/24/25     Page 9 of 24\n \n28.  EDF is injured by the Agencies’ failure to timely produce public records that were \nproperly requested and to which EDF is entitled under FOIA. See Zivotofsky v. Sec’y of State, \n444 F.3d 614, 617-18 (D.C. Cir. 2006) (“The requester is injured-in-fact for standing purposes \nbecause he does not get what the statute entitles him to receive.”). \n29.  Defendant DOI is an executive department of the United States and is therefore an \n“agency” within the meaning of 5 U.S.C. § 552(f)(1) and is subject to FOIA. DOI has possession \nand control of the requested records and is responsible for fulfilling the DOI FOIA Request. \n30.  Defendant CEQ is an establishment in the executive branch of the United States \ngovernment and is therefore an “agency” within the meaning of 5 U.S.C. § 552(f)(1) and is \nsubject to FOIA. CEQ has possession and control of the requested records and is responsible for \nfulfilling the CEQ FOIA Request \n31.  Defendant NOAA is an establishment in the executive branch of the United States \ngovernment under the Department of Commerce and is therefore an “agency” within the \nmeaning of 5 U.S.C. § 552(f)(1) and is subject to FOIA. NOAA has possession and control of \nthe requested records and is responsible for fulfilling the NOAA FOIA Request.  \nLEGAL BACKGROUND \n32.  FOIA requires a federal agency to make public records “promptly available”—\nsubject to enumerated exemptions—to any person who makes a request that reasonably describes \nthe records sought and complies with the agency’s rules for making the request. 5 U.S.C. \n§ 552(a)(3)(A).  \n33.  FOIA requires the agency to issue a determination on a FOIA request within 20 \nworking days from the date of receipt. Id. § 552(a)(6)(A)(i). \n9 \n\nCase 1:25-cv-00871-DLF     Document 1     Filed 03/24/25     Page 10 of 24\n \n34.  The agency’s determination on a FOIA request shall contain (1) the agency’s \ndetermination of whether to comply with the request and provide responsive records, (2) the \nreasons for the agency’s determination, and (3) notice of the right of the requester to appeal an \nadverse determination to the head of the agency. Id.  \n35.  Mere notice of the agency’s receipt of the request does not suffice for a \n“determination,” nor is it enough that “within the relevant time period, the agency simply decide \nto later decide.” Citizens for Responsibility & Ethics in Wash. v. Fed. Election Comm’n, \n711 F.3d 180, 186 (D.C. Cir. 2013). Instead, “the agency must at least inform the requester of the \nscope of the documents that the agency will produce, as well as the scope of the documents that \nthe agency plans to withhold under any FOIA exemptions.” Id.    \n36.  A FOIA requester may seek “expedited processing” of a request for records, and a \ndetermination on a request for expedited processing must be made, and notice of that \ndetermination provided to the requester, within 10 days of the date of the request. 5 U.S.C. \n§ 552(a)(6)(E)(ii)(II).  \n37.  FOIA allows the agency to extend the 20-working-day deadline by up to 10 \nadditional working days for “unusual circumstances” by providing written notice to the requester \nthat describes the “unusual circumstances” and provides the date on which the determination is \nexpected to be issued. Id. § 552(a)(6)(B)(i).  \n38.  If the agency fails to comply with FOIA’s statutory deadline for issuing a \ndetermination on a request, the requester is deemed to have exhausted its administrative remedies \nand may file suit against the agency. Id. § 552(a)(6)(C)(i). \n39.  Under FOIA, an agency shall waive or reduce fees and costs incurred in \nresponding to a FOIA request “if disclosure of the information is in the public interest because it \n10 \n\nCase 1:25-cv-00871-DLF     Document 1     Filed 03/24/25     Page 11 of 24\n \nis likely to contribute significantly to public understanding of the operation or activities of the \ngovernment and is not primarily in the commercial interest of the requester.” Id. \n§ 552(a)(4)(A)(iii).  \n40.  This Court interprets FOIA’s fee waiver provision to require that an agency’s \ndetermination on a request for a fee waiver be made within the 20-working-day period. Pub. \nCitizen, Inc. v. Dep’t of Educ., 292 F. Supp. 2d 1, 4 (D.D.C. 2003) (“[I]f the agency fails to \nrespond to a waiver request within 20 days, the requester is deemed to have constructively \nexhausted administrative remedies and may seek judicial review.”).  \n41.  The agency bears the burden to prove the legality of its actions under FOIA. \n5 U.S.C. § 552(a)(4)(B). \n42.  FOIA grants jurisdiction to the court “to enjoin the agency from withholding \nagency records and to order the production of any agency records improperly withheld from the \ncomplainant.” Id.  \n43.  Under FOIA, this Court may assess attorney fees and costs against the United \nStates if EDF substantially prevails in this action. Id. § 552(a)(4)(E). \nFACTUAL BACKGROUND \nA.  Endangerment Finding \n44.  In 2009, EPA made two vital findings: first, that six GHGs in the atmosphere, \nincluding carbon dioxide and methane, threaten the public health and welfare of current and \nfuture generations; and second, that the combined emissions of these GHGs from motor vehicles \ncontribute to the GHG pollution that threatens public health and welfare. See Endangerment and \nCause or Contribute Findings for Greenhouse Gases Under Section 202(a) of the Clean Air Act, \n74 Fed. Reg. 66,496 (Dec. 15, 2009), https://www.epa.gov/sites/default/files/2021-\n11 \n\nCase 1:25-cv-00871-DLF     Document 1     Filed 03/24/25     Page 12 of 24\n \n05/documents/federal_register-epa-hq-oar-2009-0171-dec.15-09.pdf. Together, these findings \nare referred to as the “Endangerment Finding.” \n45.  The Endangerment Finding requires EPA to adopt standards to reduce GHG \npollution from motor vehicles, a significant contributor to overall GHG emissions in the United \nStates, and it likewise underpins EPA’s standards that reduce harmful climate pollution from \nother sectors, including standards addressing emissions from the power sector and the oil and gas \nsector. EPA’s GHG emissions reduction standards have been successful in reducing pollution \nand delivering benefits to Americans across the country. \n46.  EPA adopted the Endangerment Finding after significant public process, \nincluding multiple opportunities for the public to give input and EPA’s evaluation of more than \n380,000 public comments. The Endangerment Finding is based on extensive scientific evidence \nthat climate pollution poses a grave threat to human health and welfare. That scientific evidence \nhas only become stronger in the more than 15 years since the Endangerment Finding was \nadopted, with experts confirming that climate change resulting from GHG emissions is causing \nextensive, and increasingly severe, harms throughout the country. See Letter from P. Zalzal et al., \nEDF, to Hon. Lee Zeldin, EPA, at 5-9 (Feb. 18, 2025), https://tinyurl.com/EDFLetter021825. \n47.  Parties have filed legal challenges to the Endangerment Finding in the past, but—\ngiven the extensive evidence supporting the Endangerment Finding—EPA and the courts have \nuniformly rejected those efforts. See, e.g., Coal. for Responsible Regulation v. EPA, 684 F.3d \n102, 116, 126 (D.C. Cir. 2012) (rejecting challenges to the Endangerment Finding on multiple \ngrounds), rev’d in part on other grounds sub nom. Util. Air Reg. Grp. v. EPA, 573 U.S. 302 \n(2014); Endangerment and Cause or Contribute Findings for Greenhouse Gases Under Section \n202(a) of the Clean Air Act; Final Action on Petitions, 87 Fed. Reg. 25,412 (Apr. 29, 2022); \n12 \n\nCase 1:25-cv-00871-DLF     Document 1     Filed 03/24/25     Page 13 of 24\n \nEPA’s Denial of the Petitions to Reconsider the Endangerment and Cause or Contribute Findings \nfor Greenhouse Gases Under Section 202(a) of the Clean Air Act, 75 Fed. Reg. 49,556 (Aug. 13, \n2010). \n48.  Despite the long-standing nature of the Endangerment Finding, its extensive \nscientific support, and its manifest legality, the Executive Order directed the EPA Administrator \nto assess “the legality and continuing applicability” of the Endangerment Finding, “in \ncollaboration with the heads of any other relevant agencies.” See Exec. Order § 6(f).   \n49.  In late February, it was reported that EPA had completed its assessment and \nrecommended a reversal of the Endangerment Finding. Jean Chemnick et al., EPA moves to ditch \nfinding that greenhouse gases cause harm, POLITICO (Feb. 26, 2025 3:23 PM), \nhttps://www.politico.com/news/2025/02/26/epa-greenhouse-gases-00204866; Matthew Daly, \nEPA head urges Trump to reconsider scientific finding that underpins climate action, AP sources \nsay, AP (Feb. 26, 2025 3:45 PM), https://apnews.com/article/epa-endangerment-finding-zeldin-\ntrump-climate-change-4b34246d5ca798154af08560fd94f7b9.  \n50.  On March 12, 2025, EPA Administrator Zeldin announced that the agency will \nformally reconsider the Endangerment Finding in collaboration with “other relevant agencies,” \naccompanied by a statement from Secretary of the Interior Doug Burgum asserting a “vision for \nenergy dominance.” EPA Press Office, Trump EPA Kicks Off Formal Reconsideration of \nEndangerment Finding with Agency Partners, EPA (Mar. 12, 2025), \nhttps://www.epa.gov/newsreleases/trump-epa-kicks-formal-reconsideration-endangerment-\nfinding-agency-partners; see also EPA, Endangerment Finding One Pager (Mar. 2025), \nhttps://www.epa.gov/system/files/documents/2025-03/final-pager-endangerment.pdf.   \n13 \n\nCase 1:25-cv-00871-DLF     Document 1     Filed 03/24/25     Page 14 of 24\n \n51.  Aside from the press release and one-pager released in March 2025, EPA and the \nAgencies have not made any documents related to their assessment of and recommendations \nrelated to the Endangerment Finding available to the public.  \nB.  EDF’s FOIA Request to DOI Regarding the Endangerment Finding (Request No. \nDOI-2025-003479) \n52.  EDF submitted the DOI FOIA Request to DOI on February 3, 2025, seeking all \ncorrespondence and records of all members of the DOI transition team and all DOI political \nappointees, including but not limited to fifteen specifically identified individuals, relating to the \nEndangerment Finding. See Ex. A at 1-2. EDF identified eight search terms to facilitate DOI’s \nsearch. Id. at 2. \n53.  Given fast-moving efforts by federal agencies to assess and provide \nrecommendations to OMB regarding the Endangerment Finding, the significant impacts to \nfederal pollution reduction programs if the Endangerment Finding were to be altered or \nrescinded, and EDF’s strong interest in understanding and publicly sharing the basis for any \nefforts to destabilize or undermine the Endangerment Finding, EDF requested expedited \nprocessing of the DOI FOIA Request. Id. at 3-4; see also 5 U.S.C. § 552(a)(6)(E)(i)(I); 43 C.F.R. \n§ 2.10, 2.20.   \n54.  EDF also requested a waiver of fees associated with the DOI FOIA Request. \nEx. A at 4-5; see also 43 C.F.R. § 2.45. \n55.  The same day it submitted the DOI FOIA Request, February 3, 2025, EDF \nreceived an email from DOI acknowledging receipt of the DOI FOIA Request. Ex. B. \n56.  On February 11, 2025, EDF received a letter from DOI (dated February 10, 2025) \nassigning the DOI FOIA Request to the “normal” processing track, estimating the request would \ntake “six to twenty workdays to process,” and taking a ten-workday extension permitted by \n14 \n\nCase 1:25-cv-00871-DLF     Document 1     Filed 03/24/25     Page 15 of 24\n \nFOIA and DOI Regulations. Ex. C at 2-3. The February 10 letter granted EDF’s fee waiver \nrequest but denied EDF’s request for expedited processing. Id.at 2, 5-6. \n57.  The February 10 letter did not inform EDF of the scope of the documents that the \nagency will produce or the scope of the documents that the agency plans to withhold under any \nFOIA exemptions. \n58.  The February 10 letter was not DOI’s determination on the DOI FOIA Request. \n59.  As of the date of filing this complaint, the DOI FOIA Public Access Link (PAL) \nwebsite identifies the status of the DOI FOIA Request as “In Process” and does not provide any \nestimated completion date. \n60.  DOI did not provide a determination on the DOI FOIA Request within the 30 \nworkdays permitted under the circumstances, which deadline lapsed on March 18, 2025. See 5 \nU.S.C. § 552(a)(6)(A)(i), (a)(6)(B)(i); 43 C.F.R. §§ 2.16(a), 2.19. \n61.  To date, DOI has not issued a determination on the DOI FOIA Request or \nproduced any records in response to the DOI FOIA Request. \n62.  The information sought in the DOI FOIA Request will be critical to understanding \nDOI’s actions and decisions related to EPA’s assessment and reconsideration of the \nEndangerment Finding and any subsequent agency action.  \n63.  DOI’s failure to respond to the DOI FOIA Request within the required timeframe \nhas prevented EDF, its members, and the general public from being fully informed and able to \nmeaningfully engage on this issue. \nC.  EDF’s FOIA Request to CEQ Regarding the Endangerment Finding (Request No. \nFY2025-240) \n64.  EDF submitted the CEQ FOIA Request to CEQ on February 3, 2025, seeking \ncorrespondence and records of all members of the CEQ transition team and all CEQ political \n15 \n\nCase 1:25-cv-00871-DLF     Document 1     Filed 03/24/25     Page 16 of 24\n \nappointees relating to the Endangerment Finding. See Ex. D at 1-2. EDF identified eight search \nterms to facilitate CEQ’s search. Id. at 2. \n65.  Given fast-moving efforts by federal agencies to assess and provide \nrecommendations to OMB regarding the Endangerment Finding, the significant impacts to \nfederal pollution reduction programs if the Endangerment Finding were to be altered or \nrescinded, and EDF’s strong interest in understanding and publicly sharing the basis for any \nefforts to destabilize or undermine the Endangerment Finding, EDF requested expedited \nprocessing of the CEQ FOIA Request. Id. at 2-4; see also 5 U.S.C. § 552(a)(6)(E)(i)(I); 40 \nC.F.R. § 1515.7(a)(2) (2024).   \n66.  EDF also requested a waiver of fees associated with the CEQ FOIA Request. \nEx. D at 4-5; see also 40 C.F.R. § 1515.15(b) (2024). \n67.  On February 11, 2025, EDF received an email from CEQ acknowledging receipt \nof the CEQ FOIA Request, though the email did not provide a date of receipt. The email denied \nEDF’s request for expedited processing and delayed making a fee waiver determination to a later \ntime. Ex. E. \n68.  The February 11 email did not inform EDF of the scope of the documents that the \nagency will produce or the scope of the documents that the agency plans to withhold under any \nFOIA exemptions. See Ex. E. \n69.  The February 11 email was not CEQ’s determination on the CEQ FOIA Request. \n70.  The February 11 email did not purport to extend CEQ’s deadline for issuing a \ndetermination on the CEQ FOIA Request. \n16 \n\nCase 1:25-cv-00871-DLF     Document 1     Filed 03/24/25     Page 17 of 24\n \n71.  On March 21, 2025, EDF called the phone number provided in CEQ’s February \n11 email. CEQ did not answer the phone call and did not provide an estimated completion date \nfor the CEQ FOIA Request. \n72.  Even if CEQ did not receive the CEQ FOIA Request until February 11, CEQ did \nnot provide a determination on the CEQ FOIA Request within FOIA’s 20-working-day deadline, \nwhich lapsed on March 12, 2025 at the latest. See 5 U.S.C. § 552(a)(6)(A)(i); 40 C.F.R. \n§ 1515.6(a) (2024). \n73.  CEQ also did not provide EDF with notice that it was extending that deadline. See \n5 U.S.C. § 552(a)(6)(B)(i); 40 C.F.R. § 1515.6 (2024). \n74.  To date, CEQ has not issued a determination on the CEQ FOIA Request or \nproduced any records in response to the CEQ FOIA request. \n75.  The information sought in the CEQ FOIA Request will be critical to \nunderstanding CEQ’s actions and decisions related to EPA’s assessment and reconsideration of \nthe Endangerment Finding and any subsequent agency action.  \n76.  CEQ’s failure to respond to the CEQ FOIA Request within the required \ntimeframe has prevented EDF, its members, and the general public from being fully informed \nand able to meaningfully engage on this issue. \nD.  EDF’s FOIA Request to NOAA Regarding the Endangerment Finding (Request No. \nDOC-NOAA-2025-000457) \n77.  EDF submitted the NOAA FOIA Request to NOAA on February 3, 2025, seeking \nall correspondence and records of all members of the NOAA transition team and all NOAA \npolitical appointees, including but not limited to one specifically identified individual, relating to \nthe Endangerment Finding. See Ex. F at 1-2. EDF identified eight search terms to facilitate \n17 \n\nCase 1:25-cv-00871-DLF     Document 1     Filed 03/24/25     Page 18 of 24\n \nNOAA’s search. Id. at 2. EDF also sought all records related to the development of any “joint \nrecommendations” regarding the Endangerment Finding. Id. at 1. \n78.  Given fast-moving efforts by federal agencies to assess and provide \nrecommendations to OMB regarding the Endangerment Finding, the significant impacts to \nfederal pollution reduction programs if the Endangerment Finding were to be altered or \nrescinded, and EDF’s strong interest in understanding and publicly sharing the basis for any \nefforts to destabilize or undermine the Endangerment Finding, EDF requested expedited \nprocessing of the NOAA FOIA Request. Id. at 2-4; see also 5 U.S.C. § 552(a)(6)(E)(i)(I); 15 \nC.F.R. § 4.6(f).   \n79.  EDF also requested a waiver of fees associated with the NOAA FOIA Request. \nEx. F at 5-6; see also 15 C.F.R. § 4.11(l). \n80.  The same day the NOAA FOIA Request was submitted, February 3, 2025, EDF \nreceived two emails from NOAA acknowledging receipt of the NOAA FOIA Request and \nupdating the request status to “received.” Ex. G. \n81.  On March 5, 2025, twenty-one workdays after NOAA received the NOAA FOIA \nRequest, and a day after its statutory deadline to issue a determination on the request, EDF \nreceived a letter from NOAA acknowledging receipt of the NOAA FOIA Request—though the \nletter claimed the request was received on February 4, 2025. Ex. H at 1. The letter expressed that \nNOAA would be taking a 10-workday extension of time and anticipated responding to the \nNOAA FOIA Request by March 19, 2025. Id. at 1-2.   \n82.  The March 5 letter did not address EDF’s request for expedited processing. See \nid. The deadline for a determination on EDF’s request for expedited processing lapsed ten \n18 \n\nCase 1:25-cv-00871-DLF     Document 1     Filed 03/24/25     Page 19 of 24\n \ncalendar days after NOAA’s receipt of the request, on February 13, 2025. See 5 U.S.C. \n§ 552(a)(6)(E)(ii)(I); see also 15 C.F.R. § 4.6(f)(4).  \n83.  The March 5 letter also did not address EDF’s request for a fee waiver. See Ex. H. \nThe deadline for a determination on EDF’s request for a fee waiver lapsed 20 workdays after \nreceipt of the NOAA FOIA Request, on March 4, 2025. See Pub. Citizen, Inc., 292 F. Supp. 2d \nat 4. \n84.  The March 5 letter did not inform EDF of the scope of the documents that the \nagency will produce or the scope of the documents that the agency plans to withhold under any \nFOIA exemptions. See Ex. H. \n85.  The March 5 letter was not NOAA’s determination on the NOAA FOIA Request. \n86.  As of the date of filing this complaint, the Department of Commerce FOIA Public \nAccess Link (PAL) website identifies the status of the NOAA FOIA Request as “In Process” and \ndoes not provide any estimated completion date.  \n87.  Even if NOAA had timely invoked its opportunity to take a 10-workday \nextension, NOAA did not provide a determination on the NOAA FOIA Request within the 30 \nworkdays permitted under the circumstances, which deadline—properly calculated—lapsed on \nMarch 18, 2025. See 5 U.S.C. § 552(a)(6)(A)(i), (a)(6)(B)(i); 15 C.F.R. § 4.6(b), (d).  \n88.  NOAA also did not provide a determination by March 19, 2025, the date the \nagency identified as the anticipated date for its response to the NOAA FOIA Request. Ex. H at 2.  \n89.  To date, NOAA has not issued a determination on the NOAA FOIA Request or \nproduced any records in response to the NOAA FOIA request. \n90.  To date, NOAA has not issued a determination on EDF’s request for expedited \nprocessing. \n19 \n\nCase 1:25-cv-00871-DLF     Document 1     Filed 03/24/25     Page 20 of 24\n \n91.  To date, NOAA has not issued a determination on EDF’s request for a fee waiver. \n92.  The information sought in the NOAA FOIA Request will be critical to \nunderstanding NOAA’s actions and decisions related to EPA’s assessment and reconsideration \nof the Endangerment Finding and any subsequent agency action. \n93.  NOAA’s failure to respond to the NOAA FOIA Request within the required \ntimeframe has prevented EDF, its members, and the general public from being fully informed \nand able to meaningfully engage on this issue. \nCLAIM FOR RELIEF \nCOUNT I: VIOLATION OF THE FREEDOM OF INFORMATION ACT \nU.S. Department of the Interior \n94.  EDF incorporates by reference all preceding paragraphs. \n95.  Under FOIA, EDF has a statutory right to have DOI process the DOI FOIA \nRequest in a timely manner. \n96.  Under FOIA, EDF has a statutory right to obtain all non-exempt records \nresponsive to the DOI FOIA Request. \n97.  DOI failed to comply with the statutory deadline for issuing a determination on \nthe DOI FOIA Request. See 5 U.S.C. § 552(a)(6)(A)(i).  \n98.  DOI failed to make a determination on the DOI FOIA Request from which EDF \ncould exercise its statutory right of appeal. See id.  \n99.  DOI failed to provide a date on which it would complete action on the DOI FOIA \nRequest. See id. § 552(a)(7)(B)(ii). \n100.  DOI failed to timely produce all non-exempt records responsive to the DOI FOIA \nRequest. See id. § 552(a)(3)(A). \n20 \n\nCase 1:25-cv-00871-DLF     Document 1     Filed 03/24/25     Page 21 of 24\n \n101.  Unless enjoined by this Court, DOI will continue to violate EDF’s legal rights to \ntimely receive a complete set of responsive documents sought through the DOI FOIA Request. \n102.  It is in the public interest for the Court to issue an injunction requiring DOI’s \nimmediate compliance with FOIA. \nCOUNT II: VIOLATION OF THE FREEDOM OF INFORMATION ACT \nCouncil on Environmental Quality \n103.  EDF incorporates by reference all preceding paragraphs. \n104.  Under FOIA, EDF has a statutory right to have CEQ process the CEQ FOIA \nRequest in a timely manner. \n105.  Under FOIA, EDF has a statutory right to obtain all non-exempt records \nresponsive to the CEQ FOIA Request. \n106.  CEQ failed to comply with the statutory deadline for issuing a determination on \nthe CEQ FOIA Request. See 5 U.S.C. § 552(a)(6)(A)(i).  \n107.  CEQ failed to make a determination on the CEQ FOIA Request from which EDF \ncould exercise its statutory right of appeal. See id.  \n108.  CEQ failed to provide a date on which it would complete action on the CEQ \nFOIA Request. See id. § 552(a)(7)(B)(ii). \n109.  CEQ failed to timely produce all non-exempt records responsive to the CEQ \nFOIA Request. See id. § 552(a)(3)(A). \n110.  Unless enjoined by this Court, CEQ will continue to violate EDF’s legal rights to \ntimely receive a complete set of responsive documents sought through the CEQ FOIA Request. \n111.  It is in the public interest for the Court to issue an injunction requiring CEQ’s \nimmediate compliance with FOIA. \n21 \n\nCase 1:25-cv-00871-DLF     Document 1     Filed 03/24/25     Page 22 of 24\n \nCOUNT III: VIOLATION OF THE FREEDOM OF INFORMATION ACT \nNational Oceanic and Atmospheric Administration \n112.  EDF incorporates by reference all preceding paragraphs. \n113.  Under FOIA, EDF has a statutory right to have NOAA process the NOAA FOIA \nRequest in a timely manner. \n114.  Under FOIA, EDF has a statutory right to obtain all non-exempt records \nresponsive to the NOAA FOIA Request. \n115.  Under FOIA, EDF has a statutory right to have NOAA make a determination on \nits expedited processing request. \n116.  Under FOIA, EDF is entitled to have NOAA make a determination on its fee \nwaiver request.  \n117.  NOAA failed to comply with the statutory deadline for issuing a determination on \nthe NOAA FOIA Request. See 5 U.S.C. § 552(a)(6)(A)(i).  \n118.  NOAA failed to make a determination on the NOAA FOIA Request from which \nEDF could exercise its statutory right of appeal. See id.  \n119.  NOAA failed to timely produce all non-exempt records responsive to the NOAA \nFOIA Request. See id. § 552(a)(3)(A). \n120.  NOAA failed to comply with the statutory deadline for making a determination on \nEDF’s request for expedited processing. See id. § 552(a)(6)(E). \n121.  NOAA failed to comply with the legal requirement to make a determination on \nEDF’s request for a fee waiver. See Pub. Citizen, Inc., 292 F. Supp. 2d at 4. \n122.  Unless enjoined by this Court, NOAA will continue to violate EDF’s legal rights \nto timely receive a complete set of responsive documents sought through the NOAA FOIA \nRequest. \n22 \n\nCase 1:25-cv-00871-DLF     Document 1     Filed 03/24/25     Page 23 of 24\n \n123.  It is in the public interest for the Court to issue an injunction requiring NOAA’s \nimmediate compliance with FOIA. \nREQUEST FOR RELIEF \nEDF requests the following relief from the Court: \n \nA.  Declare unlawful the Agencies’ failure to provide EDF with a determination on the \nFOIA Requests within FOIA’s deadlines. \nB.  Declare unlawful the Agencies’ failure to make the requested records promptly \navailable to EDF. \nC.  Declare unlawful NOAA’s failure to provide EDF with a determination on its \nrequests for expedited processing and a fee waiver within FOIA’s deadlines. \nD.  Order the Agencies to provide EDF with all responsive records immediately, at no \ncharge to EDF, and in unredacted form unless an exemption is applicable and \nproperly asserted. \nE.  Order the Agencies to provide a Vaughn index of any responsive records or portions \nof records withheld under the claim of a FOIA exemption. See Vaughn v. Rosen, 484 \nF.2d 820 (D.C. Cir. 1973). \nF.  Award EDF its costs and reasonable attorney fees pursuant to 5 U.S.C. \n§ 552(a)(4)(E), 28 U.S.C. § 2412, and any other applicable law. \nG.  Grant any further relief as the Court deems just and proper. \n23 \n\nCase 1:25-cv-00871-DLF     Document 1     Filed 03/24/25     Page 24 of 24\n \nRespectfully submitted on March 24, 2025.   \n/s/  Samantha R. Caravello      \nSAMANTHA R. CARAVELLO (Bar ID CO0080) \nNATHANIEL H. HUNT (Bar ID CO0107) \nKaplan Kirsch LLP \n1675 Broadway, Suite 2300 \nDenver, CO  80202 \nTelephone: (303) 825-7000 \nE-mail: scaravello@kaplankirsch.com \n   nhunt@kaplankirsch.com  \n \nERIN MURPHY (Bar ID D00532) \nEnvironmental Defense Fund \n555 12th St. NW, Suite 400 \nWashington, D.C. 20004 \nTelephone: (202) 572-3525 \nE-mail: emurphy@edf.org   \n \nCounsel for Environmental Defense Fund \n24 ",
+      "document_type_other": null,
+      "external_url": "https://www.courtlistener.com/docket/69781182/1/environmental-defense-fund-v-united-states-department-of-the-interior/",
+      "ecf_number": "1",
+      "clearinghouse_link": "clearinghouse.net/doc/157708"
+    },
+    {
+      "date": "2025-06-13",
+      "date_is_estimate": false,
+      "date_not_available": false,
+      "description": "",
+      "document_source": "RECAP",
+      "document_status": "Coding Complete",
+      "document_type": "Pleading / Motion / Brief",
+      "order_type": null,
+      "citation_paren": null,
+      "cite_1_page": null,
+      "cite_1_reporter": null,
+      "cite_1_vol": null,
+      "cite_2_page": null,
+      "cite_2_reporter": null,
+      "cite_2_vol": null,
+      "cite_3_page": null,
+      "cite_3_reporter": null,
+      "cite_3_vol": null,
+      "citation_status": "Not applicable",
+      "court": "District of District of Columbia",
+      "no_title": false,
+      "party_types": [
+        "Defendant",
+        "Plaintiff"
+      ],
+      "per_curium": false,
+      "is_core_document": true,
+      "id": 161240,
+      "file": "https://clearinghouse-umich-production.s3.amazonaws.com/media/doc/161240.pdf",
+      "title": "Stipulation to Dismiss Defendant Council on Environmental Quality and Corresponding Claim (Count II)",
+      "text": "Case 1:25-cv-00871-DLF     Document 18     Filed 06/13/25     Page 1 of 2\nIN THE UNITED STATES DISTRICT COURT \nFOR THE DISTRICT OF COLUMBIA \n \n \nENVIRONMENTAL DEFENSE FUND, \n \n  Plaintiff, \n \n  v.  Civil Action No. 25-0871 (DLF) \n \nDEPARTMENT OF THE INTERIOR, et al.,  \n \n    Defendants. \n \n \nSTIPULATION TO DISMISS DEFENDANT COUNCIL ON ENVIRONMENTAL \nQUALITY AND CORRESPONDING CLAIM (COUNT II) \nPursuant  to  Federal  Rule  of  Civil  Procedure  41(a)(1)(A)(ii),  Plaintiff  Environmental \nDefense Fund and Defendants Department of the Interior, National Oceanic and Atmospheric \nAdministration, and Council on Environmental Quality (“CEQ”), hereby stipulate to dismiss \nDefendant CEQ and the claim (Count II) against CEQ in the above-captioned case, and state as \nfollows:    \n1.  Plaintiff filed its complaint on March 24, 2025, ECF No. 1, regarding, in relevant part, \nits February 3, 2025 Freedom of Information Act (“FOIA”) request made to CEQ.  See \nECF No. 1 ¶¶ 10-12, 103-111.    \n2.  Defendant CEQ has conducted its search and determined that there are 38 pages of \nrecords responsive to the FOIA request.  Defendant CEQ made the final release of the \nresponsive records to Plaintiff on April 17, 2025. \n3.  Plaintiff is satisfied that CEQ has made a final determination as required by FOIA and \nagrees to dismiss Defendant CEQ and Count II of the March 24, 2025 Complaint as to \nDefendant CEQ.  Each party will bear its own costs with respect to Count II.  \n1 \n \n\nCase 1:25-cv-00871-DLF     Document 18     Filed 06/13/25     Page 2 of 2\nDated:  June 13, 2025 \nRespectfully submitted, \n/s/  Samantha R. Caravello \nSamantha R. Caravello (Bar ID CO0080) \nNathaniel H. Hunt (Bar ID CO0107) \nKAPLAN KIRSCH LLP \n1675 Broadway, Suite 2300 \nDenver, CO  80202 \nTelephone: (303) 825-7000 \nE-mail: scaravello@kaplankirsch.com\n nhunt@kaplankirsch.com  \nErin Murphy (Bar ID D00532)* \nENVIRONMENTAL DEFENSE FUND \n555 12th St NW, Suite 400  \nWashington, D.C. 20004 \nTelephone: (202) 572-3525 \nE-mail: emurphy@edf.org\n*Practicing pursuant to D.C. Ct. App. Rule\n49(c)(3)\nAttorneys for Plaintiff \nJEANINE FERRIS PIRRO \nUnited States Attorney \nBy: /s/  Dedra S. Curteman \nDEDRA S. CURTEMAN,  \nD.C. Bar #90021492\nAssistant United States Attorney\n601 D Street, NW\nWashington, DC 20530\n(202)252-2550\nAttorneys for Defendants \n2 ",
+      "document_type_other": null,
+      "external_url": "https://www.courtlistener.com/docket/69781182/18/environmental-defense-fund-v-united-states-department-of-the-interior/",
+      "ecf_number": "18",
+      "clearinghouse_link": "clearinghouse.net/doc/161240"
+    }
+  ],
+  "document_count": 3
+}

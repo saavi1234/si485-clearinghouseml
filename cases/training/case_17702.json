@@ -1,0 +1,1333 @@
+{
+  "case_id": 17702,
+  "fetched_at": "2025-10-22T00:31:52.434246",
+  "case_data": {
+    "attorney_orgs": [
+      "Civil Rights Corps"
+    ],
+    "available_documents": [
+      "Trial Court Docket",
+      "Complaint (any)",
+      "Injunctive (or Injunctive-like) Relief"
+    ],
+    "case_defendants": [
+      {
+        "defendant_level": null,
+        "institution": "",
+        "institution_alt_state": null,
+        "institution_city": "",
+        "institution_county": "Harris",
+        "name": "Harris County",
+        "defendant_level_other": "",
+        "is_active": true
+      }
+    ],
+    "case_ongoing": "Yes",
+    "case_status": "Approved",
+    "case_types": [
+      "Criminal Justice (Other)"
+    ],
+    "cause_other": "",
+    "causes": [
+      "42 U.S.C. § 1983",
+      "State law"
+    ],
+    "class_action_granted": "Denied",
+    "class_action_sought": "Yes",
+    "closing_year": null,
+    "constitutional_clause": [
+      {
+        "value": "Due Process: Procedural Due Process"
+      },
+      {
+        "value": "Unreasonable search and seizure"
+      }
+    ],
+    "content_of_injunction": [
+      {
+        "value": "Monitor/Master"
+      },
+      {
+        "value": "Recordkeeping"
+      },
+      {
+        "value": "Monitoring"
+      },
+      {
+        "value": "Warrant/order for search or seizure"
+      },
+      {
+        "value": "Preliminary relief request withdrawn/mooted"
+      }
+    ],
+    "court": "Southern District of Texas",
+    "custom_issues": [],
+    "defendant_payment": "$75,000",
+    "defendant_type": [
+      {
+        "value": "Jurisdiction-wide"
+      }
+    ],
+    "docket_status": "Complete as of retrieval date",
+    "facility_type": [],
+    "filing_date": "2016-12-28",
+    "filing_year": 2016,
+    "id": 17702,
+    "injunction_duration": "",
+    "issues": [],
+    "last_checked_date": "2021-05-20T00:00:00-04:00",
+    "main_docket": {
+      "id": 27784,
+      "docket_entries": [
+        {
+          "row_number": 0,
+          "id": 1327536,
+          "entry_number": "1",
+          "date_filed": "2016-12-28T00:00:00-05:00",
+          "attachments": null,
+          "url": "https://ecf.txsd.uscourts.gov/doc1/179026960330 https://www.courtlistener.com/recap/gov.uscourts.txsd.1403883.1.0.pdf",
+          "recap_pdf_url": null,
+          "pacer_doc_id": null,
+          "description": "COMPLAINT against Harris County, Texas (Filing fee $400, receipt number 17702742) filed by Carlos Ealgin, Lucas Lomas. (Attachments: # 1 Civil Cover Sheet)(Rossi, Elizabeth) Payment information added on 12/28/2016 (ltien, 4). (Entered: 12/28/2016)"
+        },
+        {
+          "row_number": 1,
+          "id": 1327537,
+          "entry_number": "2",
+          "date_filed": "2016-12-28T00:00:00-05:00",
+          "attachments": null,
+          "url": "https://ecf.txsd.uscourts.gov/doc1/179026960525",
+          "recap_pdf_url": null,
+          "pacer_doc_id": null,
+          "description": "MOTION to Certify Class by Carlos Ealgin, Lucas Lomas, filed. Motion Docket Date 1/18/2017. (Attachments: # 1 Exhibit Declaration of Class Counsel, # 2 Proposed Order)(Rossi, Elizabeth) (Entered: 12/28/2016)"
+        },
+        {
+          "row_number": 2,
+          "id": 1327538,
+          "entry_number": "3",
+          "date_filed": "2016-12-28T00:00:00-05:00",
+          "attachments": null,
+          "url": "https://ecf.txsd.uscourts.gov/doc1/179026960547",
+          "recap_pdf_url": null,
+          "pacer_doc_id": null,
+          "description": "MOTION for Preliminary Injunction by Carlos Ealgin, Lucas Lomas, filed. Motion Docket Date 1/18/2017. (Attachments: # 1 Proposed Order)(Rossi, Elizabeth) (Entered: 12/28/2016)"
+        },
+        {
+          "row_number": 3,
+          "id": 1327539,
+          "entry_number": "4",
+          "date_filed": "2016-12-28T00:00:00-05:00",
+          "attachments": null,
+          "url": "https://ecf.txsd.uscourts.gov/doc1/179126960556",
+          "recap_pdf_url": null,
+          "pacer_doc_id": null,
+          "description": "MOTION for Elizabeth Rossi to Appear Pro Hac Vice by Carlos Ealgin, Lucas Lomas, filed. Motion Docket Date 1/18/2017. (Rossi, Elizabeth) (Entered: 12/28/2016)"
+        },
+        {
+          "row_number": 4,
+          "id": 1327540,
+          "entry_number": "5",
+          "date_filed": "2016-12-28T00:00:00-05:00",
+          "attachments": null,
+          "url": "https://ecf.txsd.uscourts.gov/doc1/179126960564",
+          "recap_pdf_url": null,
+          "pacer_doc_id": null,
+          "description": "MOTION for Charles Gerstein to Appear Pro Hac Vice by Carlos Ealgin, Lucas Lomas, filed. Motion Docket Date 1/18/2017. (Rossi, Elizabeth) (Entered: 12/28/2016)"
+        },
+        {
+          "row_number": 5,
+          "id": 1327541,
+          "entry_number": "6",
+          "date_filed": "2016-12-28T00:00:00-05:00",
+          "attachments": null,
+          "url": "https://ecf.txsd.uscourts.gov/doc1/179126960575",
+          "recap_pdf_url": null,
+          "pacer_doc_id": null,
+          "description": "MOTION for Alexander Karakatsanis to Appear Pro Hac Vice by Carlos Ealgin, Lucas Lomas, filed. Motion Docket Date 1/18/2017. (Rossi, Elizabeth) (Entered: 12/28/2016)"
+        },
+        {
+          "row_number": 6,
+          "id": 1327542,
+          "entry_number": "7",
+          "date_filed": "2016-12-29T00:00:00-05:00",
+          "attachments": null,
+          "url": "https://ecf.txsd.uscourts.gov/doc1/179126968514",
+          "recap_pdf_url": null,
+          "pacer_doc_id": null,
+          "description": "ORDER for Initial Pretrial and Scheduling Conference by Telephone and Order to Disclose Interested Persons. Counsel who filed or removed the action is responsible for placing the conference call and insuring that all parties are on the line. The call shall be placed to (713)250-5613. Telephone Conference set for 2/13/2017 at 09:15 AM by telephone before Judge Kenneth M Hoyt (Signed by Judge Kenneth M Hoyt) Parties notified.(hcarradi, 4) (Entered: 12/29/2016)"
+        },
+        {
+          "row_number": 7,
+          "id": 1327543,
+          "entry_number": "8",
+          "date_filed": "2017-01-04T00:00:00-05:00",
+          "attachments": null,
+          "url": "https://ecf.txsd.uscourts.gov/doc1/179126993441",
+          "recap_pdf_url": null,
+          "pacer_doc_id": null,
+          "description": "NOTICE of Transfer. Case reassigned to Chief Judge Lee H Rosenthal for the following reason: Agreement between the judges. Judge Kenneth M Hoyt no longer assigned to the case. Parties notified, filed. (chorace) (Entered: 01/04/2017)"
+        },
+        {
+          "row_number": 8,
+          "id": 1327544,
+          "entry_number": "9",
+          "date_filed": "2017-01-11T00:00:00-05:00",
+          "attachments": null,
+          "url": "https://ecf.txsd.uscourts.gov/doc1/179127033593",
+          "recap_pdf_url": null,
+          "pacer_doc_id": null,
+          "description": "ORDER Scheduling Rule 16 Conference With the Court and Setting Out the Requirements for Initial Pretrial Work. Initial Conference set for 3/27/2017 at 09:00 AM in Courtroom 11B before Chief Judge Lee H Rosenthal(Signed by Chief Judge Lee H Rosenthal) Parties notified. (leddins, 4) (Entered: 01/11/2017)"
+        },
+        {
+          "row_number": 9,
+          "id": 1327545,
+          "entry_number": "10",
+          "date_filed": "2017-01-19T00:00:00-05:00",
+          "attachments": null,
+          "url": "https://ecf.txsd.uscourts.gov/doc1/179127079459",
+          "recap_pdf_url": null,
+          "pacer_doc_id": null,
+          "description": "ORDER granting 6 Motion for Alec Karakatsanis to Appear Pro Hac Vice. (Signed by Chief Judge Lee H Rosenthal) Parties notified. (rosaldana, 4) (Entered: 01/19/2017)"
+        },
+        {
+          "row_number": 10,
+          "id": 1327546,
+          "entry_number": "11",
+          "date_filed": "2017-01-19T00:00:00-05:00",
+          "attachments": null,
+          "url": "https://ecf.txsd.uscourts.gov/doc1/179127079506",
+          "recap_pdf_url": null,
+          "pacer_doc_id": null,
+          "description": "ORDER granting 5 Motion for Charles Gerstein to Appear Pro Hac Vice. (Signed by Chief Judge Lee H Rosenthal) Parties notified. (rosaldana, 4) (Entered: 01/19/2017)"
+        },
+        {
+          "row_number": 11,
+          "id": 1327547,
+          "entry_number": "13",
+          "date_filed": "2017-01-19T00:00:00-05:00",
+          "attachments": null,
+          "url": "https://ecf.txsd.uscourts.gov/doc1/179127085327",
+          "recap_pdf_url": null,
+          "pacer_doc_id": null,
+          "description": "WAIVER OF SERVICE Returned Executed as to Harris County, Texas served on 1/9/2017, answer due 3/10/2017, filed.(Gerstein, Charles) (Entered: 01/19/2017)"
+        },
+        {
+          "row_number": 12,
+          "id": 1327548,
+          "entry_number": "14",
+          "date_filed": "2017-03-09T00:00:00-05:00",
+          "attachments": null,
+          "url": "https://ecf.txsd.uscourts.gov/doc1/179027394725",
+          "recap_pdf_url": null,
+          "pacer_doc_id": null,
+          "description": "Agreed MOTION for Extension of Time To file Responsive Pleading and Motion to Postpone Rule 26(f) Conference by Harris County, Texas, filed. Motion Docket Date 3/30/2017. (Attachments: # 1 Proposed Order)(David, Katharine) (Entered: 03/09/2017)"
+        },
+        {
+          "row_number": 13,
+          "id": 1327549,
+          "entry_number": "15",
+          "date_filed": "2017-03-10T00:00:00-05:00",
+          "attachments": null,
+          "url": "https://ecf.txsd.uscourts.gov/doc1/179127402504 https://www.courtlistener.com/recap/gov.uscourts.txsd.1403883/gov.uscourts.txsd.1403883.15.0.pdf",
+          "recap_pdf_url": null,
+          "pacer_doc_id": null,
+          "description": "ORDER entered GRANTING 14 Agreed MOTION for Extension of Time To file Responsive Pleading and Motion to Postpone Rule 26(f) Conference. Joint Discovery/Case Management Plan due by 4/10/2017 and Initial Conference reset for 4/14/2017 at 03:00 PM in Courtroom 11B before Chief Judge Lee H Rosenthal.(Signed by Chief Judge Lee H Rosenthal) Parties notified.(leddins, 4) (Entered: 03/10/2017)"
+        },
+        {
+          "row_number": 14,
+          "id": 1327550,
+          "entry_number": "16",
+          "date_filed": "2017-03-20T00:00:00-04:00",
+          "attachments": null,
+          "url": "https://ecf.txsd.uscourts.gov/doc1/179127449568",
+          "recap_pdf_url": null,
+          "pacer_doc_id": null,
+          "description": "NOTICE of Resetting. Parties notified. Initial Conference reset for 4/24/2017 at 02:30 PM in Courtroom 11B before Chief Judge Lee H Rosenthal, filed. (leddins, 4) (Entered: 03/20/2017)"
+        },
+        {
+          "row_number": 15,
+          "id": 1327551,
+          "entry_number": "17",
+          "date_filed": "2017-04-10T00:00:00-04:00",
+          "attachments": null,
+          "url": "https://ecf.txsd.uscourts.gov/doc1/179027585187",
+          "recap_pdf_url": null,
+          "pacer_doc_id": null,
+          "description": "JOINT DISCOVERY/CASE MANAGEMENT PLAN by Carlos Ealgin, Lucas Lomas, filed. (Attachments: # 1 Proposed Order Proposed Scheduling and Docket Control Order)(Gerstein, Charles) (Entered: 04/10/2017)"
+        },
+        {
+          "row_number": 16,
+          "id": 1327552,
+          "entry_number": "18",
+          "date_filed": "2017-04-10T00:00:00-04:00",
+          "attachments": null,
+          "url": "https://ecf.txsd.uscourts.gov/doc1/179127585845 https://www.courtlistener.com/recap/gov.uscourts.txsd.1403883/gov.uscourts.txsd.1403883.18.0.pdf",
+          "recap_pdf_url": null,
+          "pacer_doc_id": null,
+          "description": "MOTION for More Definite Statement by Harris County, Texas, filed. Motion Docket Date 5/1/2017. (David, Katharine) (Entered: 04/10/2017)"
+        },
+        {
+          "row_number": 17,
+          "id": 1327553,
+          "entry_number": "19",
+          "date_filed": "2017-04-10T00:00:00-04:00",
+          "attachments": null,
+          "url": "https://ecf.txsd.uscourts.gov/doc1/179127585867",
+          "recap_pdf_url": null,
+          "pacer_doc_id": null,
+          "description": "CERTIFICATE OF INTERESTED PARTIES by Harris County, Texas, filed.(David, Katharine) (Entered: 04/10/2017)"
+        },
+        {
+          "row_number": 18,
+          "id": 1327554,
+          "entry_number": "20",
+          "date_filed": "2017-04-10T00:00:00-04:00",
+          "attachments": null,
+          "url": "https://ecf.txsd.uscourts.gov/doc1/179127586157",
+          "recap_pdf_url": null,
+          "pacer_doc_id": null,
+          "description": "CERTIFICATE OF INTERESTED PARTIES by Carlos Ealgin, Lucas Lomas, filed.(Gerstein, Charles) (Entered: 04/10/2017)"
+        },
+        {
+          "row_number": 19,
+          "id": 1327555,
+          "entry_number": "21",
+          "date_filed": "2017-04-11T00:00:00-04:00",
+          "attachments": null,
+          "url": "https://ecf.txsd.uscourts.gov/doc1/179127592235 https://www.courtlistener.com/recap/gov.uscourts.txsd.1403883/gov.uscourts.txsd.1403883.21.0.pdf",
+          "recap_pdf_url": null,
+          "pacer_doc_id": null,
+          "description": "RESPONSE in Opposition to 18 MOTION for More Definite Statement, filed by Carlos Ealgin, Lucas Lomas. (Gerstein, Charles) (Entered: 04/11/2017)"
+        },
+        {
+          "row_number": 20,
+          "id": 1327556,
+          "entry_number": "22",
+          "date_filed": "2017-04-18T00:00:00-04:00",
+          "attachments": null,
+          "url": "https://ecf.txsd.uscourts.gov/doc1/179127636895 https://www.courtlistener.com/recap/gov.uscourts.txsd.1403883/gov.uscourts.txsd.1403883.22.0.pdf",
+          "recap_pdf_url": null,
+          "pacer_doc_id": null,
+          "description": "REPLY in Support of 18 MOTION for More Definite Statement, filed by Harris County, Texas. (David, Katharine) (Entered: 04/18/2017)"
+        },
+        {
+          "row_number": 21,
+          "id": 1327557,
+          "entry_number": "23",
+          "date_filed": "2017-04-24T00:00:00-04:00",
+          "attachments": null,
+          "url": "https://ecf.txsd.uscourts.gov/doc1/179127663361",
+          "recap_pdf_url": null,
+          "pacer_doc_id": null,
+          "description": "NOTICE of Appearance by Susanne Pringle on behalf of Carlos Ealgin, Lucas Lomas, filed. (Pringle, Susanne) (Entered: 04/24/2017)"
+        },
+        {
+          "row_number": 22,
+          "id": 1327558,
+          "entry_number": "24",
+          "date_filed": "2017-04-24T00:00:00-04:00",
+          "attachments": null,
+          "url": "nan",
+          "recap_pdf_url": null,
+          "pacer_doc_id": null,
+          "description": "Minute entry for proceedings before the Hon. Lee H. Rosenthal. Initial conference held on April 24, 2017. For the reasons stated on the record, the motion for more definite statement, Docket Entry No. 18, is denied. The court will enter a scheduling and docket control order, as stated on the record. The plaintiffs must amend their complaint by May 12, 2017. The defendants must respond to the motion for a preliminary injunction by May 26, 2017. Appearances: Charles Gerstein/Elizabeth Rossi/Susanne Pringle(by phone) for Pltfs. and Phil Morgan for Deft. (Court Reporter: J. Sanchez), filed.(leddins, 4) (Entered: 04/25/2017)"
+        },
+        {
+          "row_number": 23,
+          "id": 1327559,
+          "entry_number": "25",
+          "date_filed": "2017-04-24T00:00:00-04:00",
+          "attachments": null,
+          "url": "https://ecf.txsd.uscourts.gov/doc1/179127674213",
+          "recap_pdf_url": null,
+          "pacer_doc_id": null,
+          "description": "SCHEDULING ORDER. Bench. Amended Pleadings due by 5/12/2017. Joinder of Parties due by 5/12/2017 Pltf Expert Witness List due by 8/4/2017. Deft Expert Witness List due by 9/1/2017. Discovery due by 10/13/2017. Mediation due by 10/13/2017. Dispositive Motion Filing due by 11/10/2017. Joint Pretrial Order due by 1/12/2018. Docket Call set for 1/19/2018 at 02:00 PM in Courtroom 11B before Chief Judge Lee H Rosenthal(Signed by Chief Judge Lee H Rosenthal) Parties notified.(gkelner, 4) (Entered: 04/25/2017)"
+        },
+        {
+          "row_number": 24,
+          "id": 1327560,
+          "entry_number": "26",
+          "date_filed": "2017-05-02T00:00:00-04:00",
+          "attachments": null,
+          "url": "https://ecf.txsd.uscourts.gov/doc1/179127719087",
+          "recap_pdf_url": null,
+          "pacer_doc_id": null,
+          "description": "NOTICE of Setting. Parties notified. Discovery Hearing set for 5/4/2017 at 11:30 AM in Courtroom 11B before Chief Judge Lee H Rosenthal, filed. (leddins, 4) (Entered: 05/02/2017)"
+        },
+        {
+          "row_number": 25,
+          "id": 1327561,
+          "entry_number": "27",
+          "date_filed": "2017-05-04T00:00:00-04:00",
+          "attachments": null,
+          "url": "nan",
+          "recap_pdf_url": null,
+          "pacer_doc_id": null,
+          "description": "Minute entry for proceedings before the Hon. Lee H. Rosenthal. Status conference held on May 4, 2017. The court will enter a scheduling order, as stated on the record. Appearances: Alec Karakatsanis/Charles Gerstein/Elizabeth Anne Rossi, Susanne Pringle (by phone) for Pltfs. and Phil Morgan for Deft.(Court Reporter: H. Alcazar), filed.(leddins, 4) (Entered: 05/04/2017)"
+        },
+        {
+          "row_number": 26,
+          "id": 1327562,
+          "entry_number": "28",
+          "date_filed": "2017-05-04T00:00:00-04:00",
+          "attachments": null,
+          "url": "https://ecf.txsd.uscourts.gov/doc1/179127743527",
+          "recap_pdf_url": null,
+          "pacer_doc_id": null,
+          "description": "AMENDED SCHEDULING ORDER. Motion to Dismiss Filing due by 5/18/2017. Motion for a Preliminary Injunction Filing due by 6/26/2017. Responses due by 6/8/2017. Reply due by 06/15/2017. (Signed by Chief Judge Lee H Rosenthal) Parties notified.(gkelner, 4) (Entered: 05/05/2017)"
+        },
+        {
+          "row_number": 27,
+          "id": 1327563,
+          "entry_number": "29",
+          "date_filed": "2017-05-18T00:00:00-04:00",
+          "attachments": null,
+          "url": "https://ecf.txsd.uscourts.gov/doc1/179127825816 https://www.courtlistener.com/recap/gov.uscourts.txsd.1403883/gov.uscourts.txsd.1403883.29.0.pdf",
+          "recap_pdf_url": null,
+          "pacer_doc_id": null,
+          "description": "ANSWER to 1 Amended Complaint/Counterclaim/Crossclaim etc. by Harris County, Texas, filed.(David, Katharine) (Entered: 05/18/2017)"
+        },
+        {
+          "row_number": 28,
+          "id": 1327564,
+          "entry_number": "30",
+          "date_filed": "2017-05-31T00:00:00-04:00",
+          "attachments": null,
+          "url": "https://ecf.txsd.uscourts.gov/doc1/179127896512",
+          "recap_pdf_url": null,
+          "pacer_doc_id": null,
+          "description": "DEMAND for Trial by Jury by Harris County, Texas, filed.(David, Katharine) (Entered: 05/31/2017)"
+        },
+        {
+          "row_number": 29,
+          "id": 1327565,
+          "entry_number": "31",
+          "date_filed": "2017-06-21T00:00:00-04:00",
+          "attachments": null,
+          "url": "https://ecf.txsd.uscourts.gov/doc1/179028026671",
+          "recap_pdf_url": null,
+          "pacer_doc_id": null,
+          "description": "Unopposed MOTION for Extension of Time to Respond to Plaintiffs' Motion for Preliminary Injunction by Harris County, Texas, filed. Motion Docket Date 7/12/2017. (Attachments: # 1 Proposed Order) (David, Katharine) (Entered: 06/21/2017)"
+        },
+        {
+          "row_number": 30,
+          "id": 1327566,
+          "entry_number": "32",
+          "date_filed": "2017-06-21T00:00:00-04:00",
+          "attachments": null,
+          "url": "https://ecf.txsd.uscourts.gov/doc1/179128029387",
+          "recap_pdf_url": null,
+          "pacer_doc_id": null,
+          "description": "ORDER granting 31 Motion for Extension of Time; Motion-related deadline set re: 3 MOTION for Preliminary Injunction. Responses due by 7/26/2017..(Signed by Chief Judge Lee H Rosenthal) Parties notified.(gkelner, 4) (Entered: 06/22/2017)"
+        },
+        {
+          "row_number": 31,
+          "id": 1327567,
+          "entry_number": "33",
+          "date_filed": "2017-07-17T00:00:00-04:00",
+          "attachments": null,
+          "url": "https://ecf.txsd.uscourts.gov/doc1/179028174872",
+          "recap_pdf_url": null,
+          "pacer_doc_id": null,
+          "description": "Unopposed MOTION for Extension of Time Respond to Plaintiffs Motion for Preliminary Injunction by Harris County, Texas, filed. Motion Docket Date 8/7/2017. (Attachments: # 1 Proposed Order Order on Harris County's Unopposed Motion for Extension)(David, Katharine) (Entered: 07/17/2017)"
+        },
+        {
+          "row_number": 32,
+          "id": 1327568,
+          "entry_number": "34",
+          "date_filed": "2017-07-17T00:00:00-04:00",
+          "attachments": null,
+          "url": "https://ecf.txsd.uscourts.gov/doc1/179128176073",
+          "recap_pdf_url": null,
+          "pacer_doc_id": null,
+          "description": "ORDER entered : GRANTING 33 Unopposed MOTION for Extension of Time Respond to Plaintiffs Motion for Preliminary Injunction. (Signed by Chief Judge Lee H Rosenthal) Parties notified.(leddins, 4) (Entered: 07/17/2017)"
+        },
+        {
+          "row_number": 33,
+          "id": 1327569,
+          "entry_number": "35",
+          "date_filed": "2017-08-24T00:00:00-04:00",
+          "attachments": null,
+          "url": "https://ecf.txsd.uscourts.gov/doc1/179028415525",
+          "recap_pdf_url": null,
+          "pacer_doc_id": null,
+          "description": "Unopposed MOTION for Extension of Time Respond to Plaintiff's Motion for Preliminary Injunction by Harris County, Texas, filed. Motion Docket Date 9/14/2017. (Attachments: # 1 Proposed Order Order on Harris County's Unopposed Motion for Extension)(Morgan, Philip) (Entered: 08/24/2017)"
+        },
+        {
+          "row_number": 34,
+          "id": 1327570,
+          "entry_number": "36",
+          "date_filed": "2017-08-24T00:00:00-04:00",
+          "attachments": null,
+          "url": "https://ecf.txsd.uscourts.gov/doc1/179128421224",
+          "recap_pdf_url": null,
+          "pacer_doc_id": null,
+          "description": "ORDER granting 35 Motion for Extension of Time. Harris County's response to Plaintiffs' Motion for Preliminary Injunction is now due September 25, 2017. (Signed by Chief Judge Lee H Rosenthal) Parties notified. (wbostic, 4) (Entered: 08/25/2017)"
+        },
+        {
+          "row_number": 35,
+          "id": 1327571,
+          "entry_number": "37",
+          "date_filed": "2017-09-22T00:00:00-04:00",
+          "attachments": null,
+          "url": "https://ecf.txsd.uscourts.gov/doc1/179028581819",
+          "recap_pdf_url": null,
+          "pacer_doc_id": null,
+          "description": "Unopposed MOTION for Extension of Time Respond to Plaintiff's Motion for Preliminary Injunction by Harris County, Texas, filed. Motion Docket Date 10/13/2017. (Attachments: # 1 Proposed Order Order on Harris County's Unopposed Motion for Extension)(David, Katharine) (Entered: 09/22/2017)"
+        },
+        {
+          "row_number": 36,
+          "id": 1327572,
+          "entry_number": "38",
+          "date_filed": "2017-09-26T00:00:00-04:00",
+          "attachments": null,
+          "url": "https://ecf.txsd.uscourts.gov/doc1/179128595135",
+          "recap_pdf_url": null,
+          "pacer_doc_id": null,
+          "description": "ORDER granting 37 Motion for Extension of Time. Harris County's response is now due October 25, 2017. (Signed by Chief Judge Lee H Rosenthal) Parties notified. (wbostic, 4) (Entered: 09/26/2017)"
+        },
+        {
+          "row_number": 37,
+          "id": 1327573,
+          "entry_number": "39",
+          "date_filed": "2017-10-25T00:00:00-04:00",
+          "attachments": null,
+          "url": "https://ecf.txsd.uscourts.gov/doc1/179028779572",
+          "recap_pdf_url": null,
+          "pacer_doc_id": null,
+          "description": "Unopposed MOTION for Extension of Time To Respond to Plantiff's Motion for Preliminary Injunction by Harris County, Texas, filed. Motion Docket Date 11/15/2017. (Attachments: # 1 Proposed Order) (David, Katharine) (Entered: 10/25/2017)"
+        },
+        {
+          "row_number": 38,
+          "id": 1327574,
+          "entry_number": "40",
+          "date_filed": "2017-10-30T00:00:00-04:00",
+          "attachments": null,
+          "url": "https://ecf.txsd.uscourts.gov/doc1/179128796383",
+          "recap_pdf_url": null,
+          "pacer_doc_id": null,
+          "description": "ORDER granting 39 Motion for Extension of Time. Harris County's response to Plaintiffs' Motion for Preliminary Injunction is due 11/1/2017. (Signed by Chief Judge Lee H Rosenthal) Parties notified. (wbostic, 4) (Entered: 10/30/2017)"
+        },
+        {
+          "row_number": 39,
+          "id": 1327575,
+          "entry_number": "41",
+          "date_filed": "2017-11-01T00:00:00-04:00",
+          "attachments": null,
+          "url": "https://ecf.txsd.uscourts.gov/doc1/179028818440 https://www.courtlistener.com/recap/gov.uscourts.txsd.1403883/gov.uscourts.txsd.1403883.41.0.pdf",
+          "recap_pdf_url": null,
+          "pacer_doc_id": null,
+          "description": "Joint MOTION for Entry of Judgment by Carlos Ealgin, Lucas Lomas, filed. Motion Docket Date 11/22/2017. (Attachments: # 1 Exhibit A Final Consent Judgment and Settlement Agreement) (Gerstein, Charles) (Entered: 11/01/2017)"
+        },
+        {
+          "row_number": 40,
+          "id": 1327576,
+          "entry_number": "42",
+          "date_filed": "2017-11-01T00:00:00-04:00",
+          "attachments": null,
+          "url": "https://ecf.txsd.uscourts.gov/doc1/179128822378 https://www.courtlistener.com/recap/gov.uscourts.txsd.1403883/gov.uscourts.txsd.1403883.42.0.pdf",
+          "recap_pdf_url": null,
+          "pacer_doc_id": null,
+          "description": "FINAL CONSENT JUDGMENT granting 41 Joint"
+        },
+        {
+          "row_number": 2,
+          "id": 2464564,
+          "entry_number": "3",
+          "date_filed": "2016-12-28T01:00:00-05:00",
+          "attachments": [],
+          "url": "https://www.courtlistener.com/docket/4562554/3/lomas-v-harris-county-texas/",
+          "recap_pdf_url": null,
+          "pacer_doc_id": "179026960547",
+          "description": "MOTION for Preliminary Injunction by Carlos Ealgin, Lucas Lomas, filed. Motion Docket Date 1/18/2017. (Attachments: # 1 Proposed Order)(Rossi, Elizabeth) (Entered: 12/28/2016)"
+        },
+        {
+          "row_number": 0,
+          "id": 2464562,
+          "entry_number": "1",
+          "date_filed": "2016-12-28T01:00:00-05:00",
+          "attachments": [
+            {
+              "recap_id": 12371759,
+              "pacer_url": "https://ecf.txsd.uscourts.gov/doc1/179026960331?caseid=1403883",
+              "description": "Civil Cover Sheet",
+              "attachment_number": 1
+            }
+          ],
+          "url": "https://www.courtlistener.com/docket/4562554/1/lomas-v-harris-county-texas/",
+          "recap_pdf_url": "https://www.courtlistener.com/recap/gov.uscourts.txsd.1403883.1.0.pdf",
+          "pacer_doc_id": "179026960330",
+          "description": "COMPLAINT against Harris County, Texas (Filing fee $400, receipt number 17702742) filed by Carlos Ealgin, Lucas Lomas. (Attachments: # 1 Civil Cover Sheet)(Rossi, Elizabeth) Payment information added on 12/28/2016 (ltien, 4). (Entered: 12/28/2016)"
+        },
+        {
+          "row_number": 1,
+          "id": 2464563,
+          "entry_number": "2",
+          "date_filed": "2016-12-28T01:00:00-05:00",
+          "attachments": [],
+          "url": "https://www.courtlistener.com/docket/4562554/2/lomas-v-harris-county-texas/",
+          "recap_pdf_url": null,
+          "pacer_doc_id": "179026960525",
+          "description": "MOTION to Certify Class by Carlos Ealgin, Lucas Lomas, filed. Motion Docket Date 1/18/2017. (Attachments: # 1 Exhibit Declaration of Class Counsel, # 2 Proposed Order)(Rossi, Elizabeth) (Entered: 12/28/2016)"
+        },
+        {
+          "row_number": 3,
+          "id": 2464565,
+          "entry_number": "4",
+          "date_filed": "2016-12-28T01:00:00-05:00",
+          "attachments": [],
+          "url": "https://www.courtlistener.com/docket/4562554/4/lomas-v-harris-county-texas/",
+          "recap_pdf_url": null,
+          "pacer_doc_id": "179026960556",
+          "description": "MOTION for Elizabeth Rossi to Appear Pro Hac Vice by Carlos Ealgin, Lucas Lomas, filed. Motion Docket Date 1/18/2017. (Rossi, Elizabeth) (Entered: 12/28/2016)"
+        },
+        {
+          "row_number": 4,
+          "id": 2464566,
+          "entry_number": "5",
+          "date_filed": "2016-12-28T01:00:00-05:00",
+          "attachments": [],
+          "url": "https://www.courtlistener.com/docket/4562554/5/lomas-v-harris-county-texas/",
+          "recap_pdf_url": null,
+          "pacer_doc_id": "179026960564",
+          "description": "MOTION for Charles Gerstein to Appear Pro Hac Vice by Carlos Ealgin, Lucas Lomas, filed. Motion Docket Date 1/18/2017. (Rossi, Elizabeth) (Entered: 12/28/2016)"
+        },
+        {
+          "row_number": 5,
+          "id": 2464567,
+          "entry_number": "6",
+          "date_filed": "2016-12-28T01:00:00-05:00",
+          "attachments": [],
+          "url": "https://www.courtlistener.com/docket/4562554/6/lomas-v-harris-county-texas/",
+          "recap_pdf_url": null,
+          "pacer_doc_id": "179026960575",
+          "description": "MOTION for Alexander Karakatsanis to Appear Pro Hac Vice by Carlos Ealgin, Lucas Lomas, filed. Motion Docket Date 1/18/2017. (Rossi, Elizabeth) (Entered: 12/28/2016)"
+        },
+        {
+          "row_number": 6,
+          "id": 2464568,
+          "entry_number": "7",
+          "date_filed": "2016-12-29T01:00:00-05:00",
+          "attachments": [],
+          "url": "https://www.courtlistener.com/docket/4562554/7/lomas-v-harris-county-texas/",
+          "recap_pdf_url": null,
+          "pacer_doc_id": "179026968514",
+          "description": "ORDER for Initial Pretrial and Scheduling Conference by Telephone and Order to Disclose Interested Persons. Counsel who filed or removed the action is responsible for placing the conference call and insuring that all parties are on the line. The call shall be placed to (713)250-5613. Telephone Conference set for 2/13/2017 at 09:15 AM by telephone before Judge Kenneth M Hoyt (Signed by Judge Kenneth M Hoyt) Parties notified.(hcarradi, 4) (Entered: 12/29/2016)"
+        },
+        {
+          "row_number": 7,
+          "id": 2464569,
+          "entry_number": "8",
+          "date_filed": "2017-01-04T01:00:00-05:00",
+          "attachments": [],
+          "url": "https://www.courtlistener.com/docket/4562554/8/lomas-v-harris-county-texas/",
+          "recap_pdf_url": null,
+          "pacer_doc_id": "179026993441",
+          "description": "NOTICE of Transfer. Case reassigned to Chief Judge Lee H Rosenthal for the following reason: Agreement between the judges. Judge Kenneth M Hoyt no longer assigned to the case. Parties notified, filed. (chorace) (Entered: 01/04/2017)"
+        },
+        {
+          "row_number": 10,
+          "id": 2464572,
+          "entry_number": "11",
+          "date_filed": "2017-01-19T01:00:00-05:00",
+          "attachments": [],
+          "url": "https://www.courtlistener.com/docket/4562554/11/lomas-v-harris-county-texas/",
+          "recap_pdf_url": null,
+          "pacer_doc_id": "179027079506",
+          "description": "ORDER granting 5 Motion for Charles Gerstein to Appear Pro Hac Vice. (Signed by Chief Judge Lee H Rosenthal) Parties notified.(rosaldana, 4) (Entered: 01/19/2017)"
+        },
+        {
+          "row_number": 11,
+          "id": 2464573,
+          "entry_number": "12",
+          "date_filed": "2017-01-19T01:00:00-05:00",
+          "attachments": [],
+          "url": "https://www.courtlistener.com/docket/4562554/12/lomas-v-harris-county-texas/",
+          "recap_pdf_url": null,
+          "pacer_doc_id": "179027079563",
+          "description": "ORDER granting 4 Motion for Elizabeth Rossi to Appear Pro Hac Vice. (Signed by Chief Judge Lee H Rosenthal) Parties notified. (rosaldana, 4) (Entered: 01/19/2017)"
+        },
+        {
+          "row_number": 12,
+          "id": 2464574,
+          "entry_number": "13",
+          "date_filed": "2017-01-19T01:00:00-05:00",
+          "attachments": [],
+          "url": "https://www.courtlistener.com/docket/4562554/13/lomas-v-harris-county-texas/",
+          "recap_pdf_url": null,
+          "pacer_doc_id": "179027085327",
+          "description": "WAIVER OF SERVICE Returned Executed as to Harris County, Texas served on 1/9/2017, answer due 3/10/2017, filed.(Gerstein, Charles) (Entered: 01/19/2017)"
+        },
+        {
+          "row_number": 13,
+          "id": 2464575,
+          "entry_number": "14",
+          "date_filed": "2017-03-09T01:00:00-05:00",
+          "attachments": [],
+          "url": "https://www.courtlistener.com/docket/4562554/14/lomas-v-harris-county-texas/",
+          "recap_pdf_url": null,
+          "pacer_doc_id": "179027394725",
+          "description": "Agreed MOTION for Extension of Time To file Responsive Pleading and Motion to Postpone Rule 26(f) Conference by Harris County, Texas, filed. Motion Docket Date 3/30/2017. (Attachments: # 1 Proposed Order)(David, Katharine) (Entered: 03/09/2017)"
+        },
+        {
+          "row_number": 15,
+          "id": 2464577,
+          "entry_number": "16",
+          "date_filed": "2017-03-20T01:00:00-04:00",
+          "attachments": [],
+          "url": "https://www.courtlistener.com/docket/4562554/16/lomas-v-harris-county-texas/",
+          "recap_pdf_url": null,
+          "pacer_doc_id": "179027449568",
+          "description": "NOTICE of Resetting. Parties notified. Initial Conference reset for 4/24/2017 at 02:30 PM in Courtroom 11B before Chief Judge Lee H Rosenthal, filed. (leddins, 4) (Entered: 03/20/2017)"
+        },
+        {
+          "row_number": 16,
+          "id": 2464578,
+          "entry_number": "17",
+          "date_filed": "2017-04-10T01:00:00-04:00",
+          "attachments": [],
+          "url": "https://www.courtlistener.com/docket/4562554/17/lomas-v-harris-county-texas/",
+          "recap_pdf_url": null,
+          "pacer_doc_id": "179027585187",
+          "description": "JOINT DISCOVERY/CASE MANAGEMENT PLAN by Carlos Ealgin, Lucas Lomas, filed. (Attachments: # 1 Proposed Order Proposed Scheduling and Docket Control Order)(Gerstein, Charles) (Entered: 04/10/2017)"
+        },
+        {
+          "row_number": 17,
+          "id": 2464579,
+          "entry_number": "18",
+          "date_filed": "2017-04-10T01:00:00-04:00",
+          "attachments": [],
+          "url": "https://www.courtlistener.com/docket/4562554/18/lomas-v-harris-county-texas/",
+          "recap_pdf_url": "https://www.courtlistener.com/recap/gov.uscourts.txsd.1403883/gov.uscourts.txsd.1403883.18.0.pdf",
+          "pacer_doc_id": "179027585845",
+          "description": "MOTION for More Definite Statement by Harris County, Texas, filed. Motion Docket Date 5/1/2017. (David, Katharine) (Entered: 04/10/2017)"
+        },
+        {
+          "row_number": 19,
+          "id": 2464581,
+          "entry_number": "20",
+          "date_filed": "2017-04-10T01:00:00-04:00",
+          "attachments": [],
+          "url": "https://www.courtlistener.com/docket/4562554/20/lomas-v-harris-county-texas/",
+          "recap_pdf_url": null,
+          "pacer_doc_id": "179027586157",
+          "description": "CERTIFICATE OF INTERESTED PARTIES by Carlos Ealgin, Lucas Lomas, filed.(Gerstein, Charles) (Entered: 04/10/2017)"
+        },
+        {
+          "row_number": 22,
+          "id": 2464584,
+          "entry_number": "23",
+          "date_filed": "2017-04-24T01:00:00-04:00",
+          "attachments": [],
+          "url": "https://www.courtlistener.com/docket/4562554/23/lomas-v-harris-county-texas/",
+          "recap_pdf_url": null,
+          "pacer_doc_id": "179027663361",
+          "description": "NOTICE of Appearance by Susanne Pringle on behalf of Carlos Ealgin, Lucas Lomas, filed. (Pringle, Susanne) (Entered: 04/24/2017)"
+        },
+        {
+          "row_number": 24,
+          "id": 2464586,
+          "entry_number": "25",
+          "date_filed": "2017-04-24T01:00:00-04:00",
+          "attachments": [],
+          "url": "https://www.courtlistener.com/docket/4562554/25/lomas-v-harris-county-texas/",
+          "recap_pdf_url": null,
+          "pacer_doc_id": "179027674213",
+          "description": "SCHEDULING ORDER. Bench. Amended Pleadings due by 5/12/2017. Joinder of Parties due by 5/12/2017 Pltf Expert Witness List due by 8/4/2017. Deft Expert Witness List due by 9/1/2017. Discovery due by 10/13/2017. Mediation due by 10/13/2017. Dispositive Motion Filing due by 11/10/2017. Joint Pretrial Order due by 1/12/2018. Docket Call set for 1/19/2018 at 02:00 PM in Courtroom 11B before Chief Judge Lee H Rosenthal(Signed by Chief Judge Lee H Rosenthal) Parties notified.(gkelner, 4) (Entered: 04/25/2017)"
+        },
+        {
+          "row_number": 25,
+          "id": 2464587,
+          "entry_number": "26",
+          "date_filed": "2017-05-02T01:00:00-04:00",
+          "attachments": [],
+          "url": "https://www.courtlistener.com/docket/4562554/26/lomas-v-harris-county-texas/",
+          "recap_pdf_url": null,
+          "pacer_doc_id": "179027719087",
+          "description": "NOTICE of Setting. Parties notified. Discovery Hearing set for 5/4/2017 at 11:30 AM in Courtroom 11B before Chief Judge Lee H Rosenthal, filed. (leddins, 4) (Entered: 05/02/2017)"
+        },
+        {
+          "row_number": 32,
+          "id": 2464594,
+          "entry_number": "33",
+          "date_filed": "2017-07-17T01:00:00-04:00",
+          "attachments": [],
+          "url": "https://www.courtlistener.com/docket/4562554/33/lomas-v-harris-county-texas/",
+          "recap_pdf_url": null,
+          "pacer_doc_id": "179028174872",
+          "description": "Unopposed MOTION for Extension of Time Respond to Plaintiffs Motion for Preliminary Injunction by Harris County, Texas, filed. Motion Docket Date 8/7/2017. (Attachments: # 1 Proposed Order Order on Harris County's Unopposed Motion for Extension)(David, Katharine) (Entered: 07/17/2017)"
+        },
+        {
+          "row_number": 39,
+          "id": 2464601,
+          "entry_number": "40",
+          "date_filed": "2017-10-30T01:00:00-04:00",
+          "attachments": [],
+          "url": "https://www.courtlistener.com/docket/4562554/40/lomas-v-harris-county-texas/",
+          "recap_pdf_url": null,
+          "pacer_doc_id": "179028796383",
+          "description": "ORDER granting 39 Motion for Extension of Time. Harris County's response to Plaintiffs' Motion for Preliminary Injunction is due 11/1/2017. (Signed by Chief Judge Lee H Rosenthal) Parties notified. (wbostic, 4) (Entered: 10/30/2017)"
+        },
+        {
+          "row_number": 45,
+          "id": 3303968,
+          "entry_number": "45",
+          "date_filed": "2021-02-25T00:00:00-05:00",
+          "attachments": [],
+          "url": "https://www.courtlistener.com/docket/4562554/45/lomas-v-harris-county-texas/",
+          "recap_pdf_url": null,
+          "pacer_doc_id": "179037763092",
+          "description": "NOTICE of attorney substitution by Carlos Ealgin, Lucas Lomas. Attorney Elizabeth Rossi added. Attorney Charles Lewis Gerstein terminated, filed. (Gerstein, Charles) (Entered: 02/25/2021)"
+        },
+        {
+          "row_number": 47,
+          "id": 3303970,
+          "entry_number": "47",
+          "date_filed": "2021-03-22T00:00:00-04:00",
+          "attachments": [],
+          "url": "https://www.courtlistener.com/docket/4562554/47/lomas-v-harris-county-texas/",
+          "recap_pdf_url": null,
+          "pacer_doc_id": "179037913086",
+          "description": "NOTICE of Appearance by Stan Clark on behalf of Harris County, Texas, filed. (Clark, Stanley) (Entered: 03/22/2021)"
+        },
+        {
+          "row_number": 49,
+          "id": 3303972,
+          "entry_number": "49",
+          "date_filed": "2021-04-05T00:00:00-04:00",
+          "attachments": [],
+          "url": "https://www.courtlistener.com/docket/4562554/49/lomas-v-harris-county-texas/",
+          "recap_pdf_url": null,
+          "pacer_doc_id": "179038015294",
+          "description": "MOTION Partially Agreed Motion for Protective Order by Harris County, Texas, filed. Motion Docket Date 4/26/2021. (Attachments: # 1 Proposed Order)(Clark, Stanley) (Entered: 04/05/2021)"
+        },
+        {
+          "row_number": 52,
+          "id": 9447855,
+          "entry_number": "52",
+          "date_filed": "2021-05-18T00:00:00-04:00",
+          "attachments": [],
+          "url": "https://www.courtlistener.com/docket/4562554/52/lomas-v-harris-county-texas/",
+          "recap_pdf_url": null,
+          "pacer_doc_id": "179038317327",
+          "description": "ORDER Granting 49 Motion for Protective Order..(Signed by Chief Judge Lee H Rosenthal) Parties notified.(jguajardo, 4) (Entered: 05/18/2021)"
+        },
+        {
+          "row_number": 9,
+          "id": 2464571,
+          "entry_number": "10",
+          "date_filed": "2017-01-19T01:00:00-05:00",
+          "attachments": [],
+          "url": "https://www.courtlistener.com/docket/4562554/10/lomas-v-harris-county-texas/",
+          "recap_pdf_url": null,
+          "pacer_doc_id": "179027079459",
+          "description": "ORDER granting 6 Motion for Alec Karakatsanis to Appear Pro Hac Vice. (Signed by Chief Judge Lee H Rosenthal) Parties notified. (rosaldana, 4) (Entered: 01/19/2017)"
+        },
+        {
+          "row_number": 44,
+          "id": 3303967,
+          "entry_number": "44",
+          "date_filed": "2021-01-29T00:00:00-05:00",
+          "attachments": [],
+          "url": "https://www.courtlistener.com/docket/4562554/44/lomas-v-harris-county-texas/",
+          "recap_pdf_url": null,
+          "pacer_doc_id": "179037579371",
+          "description": "NOTICE of Setting. Parties notified. Pre-Motion Conference set for 3/24/2021 at 03:00 PM by video before Chief Judge Lee H Rosenthal, filed. A Zoom kink will be provided for participation. (leddins, 4) (Entered: 01/29/2021)"
+        },
+        {
+          "row_number": 51,
+          "id": 3303974,
+          "entry_number": "51",
+          "date_filed": "2021-04-12T00:00:00-04:00",
+          "attachments": [],
+          "url": "https://www.courtlistener.com/docket/4562554/51/lomas-v-harris-county-texas/",
+          "recap_pdf_url": null,
+          "pacer_doc_id": "179038069412",
+          "description": "Amended ADVISORY by Harris County, Texas, filed.(Clark, Stanley) (Entered: 04/12/2021)"
+        },
+        {
+          "row_number": 26,
+          "id": 2464588,
+          "entry_number": "27",
+          "date_filed": "2017-05-04T01:00:00-04:00",
+          "attachments": [],
+          "url": "https://www.courtlistener.com/docket/4562554/27/lomas-v-harris-county-texas/",
+          "recap_pdf_url": null,
+          "pacer_doc_id": null,
+          "description": "Minute entry for proceedings before the Hon. Lee H. Rosenthal. Status conference held on May 4, 2017. The court will enter a scheduling order, as stated on the record. Appearances: Alec Karakatsanis/Charles Gerstein/Elizabeth Anne Rossi, Susanne Pringle (by phone) for Pltfs. and Phil Morgan for Deft.(Court Reporter: H. Alcazar), filed.(leddins, 4) (Entered: 05/04/2017)"
+        },
+        {
+          "row_number": 50,
+          "id": 3303973,
+          "entry_number": "50",
+          "date_filed": "2021-04-12T00:00:00-04:00",
+          "attachments": [],
+          "url": "https://www.courtlistener.com/docket/4562554/50/lomas-v-harris-county-texas/",
+          "recap_pdf_url": null,
+          "pacer_doc_id": "179038069116",
+          "description": "ADVISORY by Harris County, Texas, filed.(Clark, Stanley) (Entered: 04/12/2021)"
+        },
+        {
+          "row_number": 41,
+          "id": 3303964,
+          "entry_number": "41",
+          "date_filed": "2017-11-01T00:00:00-04:00",
+          "attachments": [
+            {
+              "doc_id": 109678,
+              "pdf_url": "https://www.courtlistener.com/recap/gov.uscourts.txsd.1403883/gov.uscourts.txsd.1403883.41.1_1.pdf",
+              "recap_id": 125032556,
+              "pacer_url": "https://ecf.txsd.uscourts.gov/doc1/179028818441?caseid=1403883",
+              "description": "Exhibit A Final Consent Judgment and Settlement Agreement",
+              "attachment_number": 1
+            }
+          ],
+          "url": "https://www.courtlistener.com/docket/4562554/41/lomas-v-harris-county-texas/",
+          "recap_pdf_url": "https://www.courtlistener.com/recap/gov.uscourts.txsd.1403883/gov.uscourts.txsd.1403883.41.0.pdf",
+          "pacer_doc_id": "179028818440",
+          "description": "Joint MOTION for Entry of Judgment by Carlos Ealgin, Lucas Lomas, filed. Motion Docket Date 11/22/2017. (Attachments: # 1 Exhibit A Final Consent Judgment and Settlement Agreement)(Gerstein, Charles) (Entered: 11/01/2017)"
+        },
+        {
+          "row_number": 33,
+          "id": 2464595,
+          "entry_number": "34",
+          "date_filed": "2017-07-17T01:00:00-04:00",
+          "attachments": [],
+          "url": "https://www.courtlistener.com/docket/4562554/34/lomas-v-harris-county-texas/",
+          "recap_pdf_url": null,
+          "pacer_doc_id": "179028176073",
+          "description": "ORDER entered : GRANTING 33 Unopposed MOTION for Extension of Time Respond to Plaintiffs Motion for Preliminary Injunction.(Signed by Chief Judge Lee H Rosenthal) Parties notified.(leddins, 4) (Entered: 07/17/2017)"
+        },
+        {
+          "row_number": 28,
+          "id": 2464590,
+          "entry_number": "29",
+          "date_filed": "2017-05-18T01:00:00-04:00",
+          "attachments": [],
+          "url": "https://www.courtlistener.com/docket/4562554/29/lomas-v-harris-county-texas/",
+          "recap_pdf_url": "https://www.courtlistener.com/recap/gov.uscourts.txsd.1403883/gov.uscourts.txsd.1403883.29.0.pdf",
+          "pacer_doc_id": "179027825816",
+          "description": "ANSWER to 1 Amended Complaint/Counterclaim/Crossclaim etc. by Harris County, Texas, filed.(David, Katharine) (Entered: 05/18/2017)"
+        },
+        {
+          "row_number": 18,
+          "id": 2464580,
+          "entry_number": "19",
+          "date_filed": "2017-04-10T01:00:00-04:00",
+          "attachments": [],
+          "url": "https://www.courtlistener.com/docket/4562554/19/lomas-v-harris-county-texas/",
+          "recap_pdf_url": null,
+          "pacer_doc_id": "179027585867",
+          "description": "CERTIFICATE OF INTERESTED PARTIES by Harris County, Texas, filed.(David, Katharine) (Entered: 04/10/2017)"
+        },
+        {
+          "row_number": 21,
+          "id": 2464583,
+          "entry_number": "22",
+          "date_filed": "2017-04-18T01:00:00-04:00",
+          "attachments": [],
+          "url": "https://www.courtlistener.com/docket/4562554/22/lomas-v-harris-county-texas/",
+          "recap_pdf_url": "https://www.courtlistener.com/recap/gov.uscourts.txsd.1403883/gov.uscourts.txsd.1403883.22.0.pdf",
+          "pacer_doc_id": "179027636895",
+          "description": "REPLY in Support of 18 MOTION for More Definite Statement, filed by Harris County, Texas. (David, Katharine) (Entered: 04/18/2017)"
+        },
+        {
+          "row_number": 34,
+          "id": 2464596,
+          "entry_number": "35",
+          "date_filed": "2017-08-24T01:00:00-04:00",
+          "attachments": [],
+          "url": "https://www.courtlistener.com/docket/4562554/35/lomas-v-harris-county-texas/",
+          "recap_pdf_url": null,
+          "pacer_doc_id": "179028415525",
+          "description": "Unopposed MOTION for Extension of Time Respond to Plaintiff's Motion for Preliminary Injunction by Harris County, Texas, filed. Motion Docket Date 9/14/2017. (Attachments: # 1 Proposed Order Order on Harris County's Unopposed Motion for Extension)(Morgan, Philip) (Entered: 08/24/2017)"
+        },
+        {
+          "row_number": 36,
+          "id": 2464598,
+          "entry_number": "37",
+          "date_filed": "2017-09-22T01:00:00-04:00",
+          "attachments": [],
+          "url": "https://www.courtlistener.com/docket/4562554/37/lomas-v-harris-county-texas/",
+          "recap_pdf_url": null,
+          "pacer_doc_id": "179028581819",
+          "description": "Unopposed MOTION for Extension of Time Respond to Plaintiff's Motion for Preliminary Injunction by Harris County, Texas, filed. Motion Docket Date 10/13/2017. (Attachments: # 1 Proposed Order Order on Harris County's Unopposed Motion for Extension)(David, Katharine) (Entered: 09/22/2017)"
+        },
+        {
+          "row_number": 37,
+          "id": 2464599,
+          "entry_number": "38",
+          "date_filed": "2017-09-26T01:00:00-04:00",
+          "attachments": [],
+          "url": "https://www.courtlistener.com/docket/4562554/38/lomas-v-harris-county-texas/",
+          "recap_pdf_url": null,
+          "pacer_doc_id": "179028595135",
+          "description": "ORDER granting 37 Motion for Extension of Time. Harris County's response is now due October 25, 2017. (Signed by Chief Judge Lee H Rosenthal) Parties notified. (wbostic, 4) (Entered: 09/26/2017)"
+        },
+        {
+          "row_number": 38,
+          "id": 2464600,
+          "entry_number": "39",
+          "date_filed": "2017-10-25T01:00:00-04:00",
+          "attachments": [],
+          "url": "https://www.courtlistener.com/docket/4562554/39/lomas-v-harris-county-texas/",
+          "recap_pdf_url": null,
+          "pacer_doc_id": "179028779572",
+          "description": "Unopposed MOTION for Extension of Time To Respond to Plantiff's Motion for Preliminary Injunction by Harris County, Texas, filed. Motion Docket Date 11/15/2017. (Attachments: # 1 Proposed Order)(David, Katharine) (Entered: 10/25/2017)"
+        },
+        {
+          "row_number": 42,
+          "id": 3303965,
+          "entry_number": "42",
+          "date_filed": "2017-11-01T00:00:00-04:00",
+          "attachments": [],
+          "url": "https://www.courtlistener.com/docket/4562554/42/lomas-v-harris-county-texas/",
+          "recap_pdf_url": "https://www.courtlistener.com/recap/gov.uscourts.txsd.1403883/gov.uscourts.txsd.1403883.42.0.pdf",
+          "pacer_doc_id": "179028822378",
+          "description": "FINAL CONSENT JUDGMENT granting 41 Joint MOTION for Entry of Judgment. Case terminated on 11/1/2017. (Signed by Chief Judge Lee H Rosenthal) Parties notified. (wbostic, 4) (Entered: 11/02/2017)"
+        },
+        {
+          "row_number": 43,
+          "id": 3303966,
+          "entry_number": "43",
+          "date_filed": "2020-12-23T00:00:00-05:00",
+          "attachments": [],
+          "url": "https://www.courtlistener.com/docket/4562554/43/lomas-v-harris-county-texas/",
+          "recap_pdf_url": null,
+          "pacer_doc_id": "179037359994",
+          "description": "MEMORANDUM Letter from Monitor Prof. Sandra G. Thompson filed on her behalf by Charles Gerstein by Civil Rights Corps, Inc., filed.(Gerstein, Charles) (Entered: 12/23/2020)"
+        },
+        {
+          "row_number": 48,
+          "id": 3303971,
+          "entry_number": "48",
+          "date_filed": "2021-03-25T00:00:00-04:00",
+          "attachments": [],
+          "url": "https://www.courtlistener.com/docket/4562554/48/lomas-v-harris-county-texas/",
+          "recap_pdf_url": null,
+          "pacer_doc_id": null,
+          "description": "Minute entry for proceedings before the Hon. Lee H. Rosenthal. Status conference held on March 25, 2021. The court heard updates on compliance with the consent decree after receiving the monitors report. The defendant must produce all probable-cause summaries that have been amended, whether by the initial drafting officer or a third party, and filed on the District Attorney Intake Management System (DIMS) between January 1, 2020, and January 1, 2021. The defendant must produce the original and amended versions of the probable-cause summaries. The defendant must produce these documents on April 12, 2021, the same time that it will confirm, in writing, that it has implemented steps on DIMS to track amendments to probable-cause summaries and ensure that those amendments require attestation. The defendant must confer with the Houston Police Department to determine whether the TIBURON system tracks when a drafting officer or third party amends a probable-cause summary, and if so, whether the TIBURON system tracked amendments to probable-cause summaries between January 1, 2020, and January 1, 2021. The monitor must produce the hard drive referenced in the monitor's report. (Docket Entry No. 43 at 3). The hard drive is limited to counsels eyes only, which includes those employed by or working on behalf of counsel. The documents contained on the hard drive are limited to use in this case, unless appropriate motions are filed. The parties must file a proposed protective order no later than April 5, 2021. Appearances: Alec Karakatsanis, Stan Clark, Joanne Musick, Seth Hopkins, Michael McDougal, Gary Zellar, Scott Durfee, George Elessar and Shawna Reagin.(Court Reporter: S. Gumm), filed.(leddins, 4) (Entered: 03/31/2021)"
+        },
+        {
+          "row_number": 20,
+          "id": 2464582,
+          "entry_number": "21",
+          "date_filed": "2017-04-11T01:00:00-04:00",
+          "attachments": [],
+          "url": "https://www.courtlistener.com/docket/4562554/21/lomas-v-harris-county-texas/",
+          "recap_pdf_url": "https://www.courtlistener.com/recap/gov.uscourts.txsd.1403883/gov.uscourts.txsd.1403883.21.0.pdf",
+          "pacer_doc_id": "179027592235",
+          "description": "RESPONSE in Opposition to 18 MOTION for More Definite Statement, filed by Carlos Ealgin, Lucas Lomas. (Gerstein, Charles) (Entered: 04/11/2017)"
+        },
+        {
+          "row_number": 29,
+          "id": 2464591,
+          "entry_number": "30",
+          "date_filed": "2017-05-31T01:00:00-04:00",
+          "attachments": [],
+          "url": "https://www.courtlistener.com/docket/4562554/30/lomas-v-harris-county-texas/",
+          "recap_pdf_url": null,
+          "pacer_doc_id": "179027896512",
+          "description": "DEMAND for Trial by Jury by Harris County, Texas, filed.(David, Katharine) (Entered: 05/31/2017)"
+        },
+        {
+          "row_number": 31,
+          "id": 2464593,
+          "entry_number": "32",
+          "date_filed": "2017-06-21T01:00:00-04:00",
+          "attachments": [],
+          "url": "https://www.courtlistener.com/docket/4562554/32/lomas-v-harris-county-texas/",
+          "recap_pdf_url": null,
+          "pacer_doc_id": "179028029387",
+          "description": "ORDER granting 31 Motion for Extension of Time; Motion-related deadline set re: 3 MOTION for Preliminary Injunction. Responses due by 7/26/2017..(Signed by Chief Judge Lee H Rosenthal) Parties notified.(gkelner, 4) (Entered: 06/22/2017)"
+        },
+        {
+          "row_number": 30,
+          "id": 2464592,
+          "entry_number": "31",
+          "date_filed": "2017-06-21T01:00:00-04:00",
+          "attachments": [],
+          "url": "https://www.courtlistener.com/docket/4562554/31/lomas-v-harris-county-texas/",
+          "recap_pdf_url": null,
+          "pacer_doc_id": "179028026671",
+          "description": "Unopposed MOTION for Extension of Time to Respond to Plaintiffs' Motion for Preliminary Injunction by Harris County, Texas, filed. Motion Docket Date 7/12/2017. (Attachments: # 1 Proposed Order)(David, Katharine) (Entered: 06/21/2017)"
+        },
+        {
+          "row_number": 14,
+          "id": 2464576,
+          "entry_number": "15",
+          "date_filed": "2017-03-10T01:00:00-05:00",
+          "attachments": [],
+          "url": "https://www.courtlistener.com/docket/4562554/15/lomas-v-harris-county-texas/",
+          "recap_pdf_url": "https://www.courtlistener.com/recap/gov.uscourts.txsd.1403883/gov.uscourts.txsd.1403883.15.0.pdf",
+          "pacer_doc_id": "179027402504",
+          "description": "ORDER entered GRANTING 14 Agreed MOTION for Extension of Time To file Responsive Pleading and Motion to Postpone Rule 26(f) Conference. Joint Discovery/Case Management Plan due by 4/10/2017 and Initial Conference reset for 4/14/2017 at 03:00 PM in Courtroom 11B before Chief Judge Lee H Rosenthal.(Signed by Chief Judge Lee H Rosenthal) Parties notified.(leddins, 4) (Entered: 03/10/2017)"
+        },
+        {
+          "row_number": 27,
+          "id": 2464589,
+          "entry_number": "28",
+          "date_filed": "2017-05-04T01:00:00-04:00",
+          "attachments": [],
+          "url": "https://www.courtlistener.com/docket/4562554/28/lomas-v-harris-county-texas/",
+          "recap_pdf_url": null,
+          "pacer_doc_id": "179027743527",
+          "description": "AMENDED SCHEDULING ORDER. Motion to Dismiss Filing due by 5/18/2017. Motion for a Preliminary Injunction Filing due by 6/26/2017. Responses due by 6/8/2017. Reply due by 06/15/2017.(Signed by Chief Judge Lee H Rosenthal) Parties notified.(gkelner, 4) (Entered: 05/05/2017)"
+        },
+        {
+          "row_number": 23,
+          "id": 2464585,
+          "entry_number": "24",
+          "date_filed": "2017-04-24T01:00:00-04:00",
+          "attachments": [],
+          "url": "https://www.courtlistener.com/docket/4562554/24/lomas-v-harris-county-texas/",
+          "recap_pdf_url": null,
+          "pacer_doc_id": null,
+          "description": "Minute entry for proceedings before the Hon. Lee H. Rosenthal. Initial conference held on April 24, 2017. For the reasons stated on the record, the motion for more definite statement, Docket Entry No. 18, is denied. The court will enter a scheduling and docket control order, as stated on the record. The plaintiffs must amend their complaint by May 12, 2017. The defendants must respond to the motion for a preliminary injunction by May 26, 2017. Appearances: Charles Gerstein/Elizabeth Rossi/Susanne Pringle(by phone) for Pltfs. and Phil Morgan for Deft.(Court Reporter: J. Sanchez), filed.(leddins, 4) (Entered: 04/25/2017)"
+        },
+        {
+          "row_number": 35,
+          "id": 2464597,
+          "entry_number": "36",
+          "date_filed": "2017-08-24T01:00:00-04:00",
+          "attachments": [],
+          "url": "https://www.courtlistener.com/docket/4562554/36/lomas-v-harris-county-texas/",
+          "recap_pdf_url": null,
+          "pacer_doc_id": "179028421224",
+          "description": "ORDER granting 35 Motion for Extension of Time. Harris County's response to Plaintiffs' Motion for Preliminary Injunction is now due September 25, 2017. (Signed by Chief Judge Lee H Rosenthal) Parties notified. (wbostic, 4) (Entered: 08/25/2017)"
+        },
+        {
+          "row_number": 46,
+          "id": 3303969,
+          "entry_number": "46",
+          "date_filed": "2021-03-17T00:00:00-04:00",
+          "attachments": [],
+          "url": "https://www.courtlistener.com/docket/4562554/46/lomas-v-harris-county-texas/",
+          "recap_pdf_url": null,
+          "pacer_doc_id": "179037889470",
+          "description": "NOTICE of Resetting. Parties notified. Pre-Motion Conference reset for 3/25/2021 at 03:30 PM by video before Chief Judge Lee H Rosenthal, filed. A Zoom link will be posted on the Court's web page calendar (leddins, 4) (Entered: 03/17/2021)"
+        },
+        {
+          "row_number": 8,
+          "id": 2464570,
+          "entry_number": "9",
+          "date_filed": "2017-01-11T01:00:00-05:00",
+          "attachments": [],
+          "url": "https://www.courtlistener.com/docket/4562554/9/lomas-v-harris-county-texas/",
+          "recap_pdf_url": null,
+          "pacer_doc_id": "179027033593",
+          "description": "ORDER Scheduling Rule 16 Conference With the Court and Setting Out the Requirements for Initial Pretrial Work. Initial Conference set for 3/27/2017 at 09:00 AM in Courtroom 11B before Chief Judge Lee H Rosenthal(Signed by Chief Judge Lee H Rosenthal) Parties notified.(leddins, 4) (Entered: 01/11/2017)"
+        }
+      ],
+      "docket_case_type": "cv",
+      "docket_year": 2016,
+      "docket_filing_number": 3745,
+      "is_main_docket": true,
+      "court": "Southern District of Texas",
+      "state": "Texas",
+      "docket_office_number": "4",
+      "docket_number_manual": "4:16-cv-03745",
+      "scales_html": "https://clearinghouse-umich-production.s3.amazonaws.com/media/docket-html/txsd--4-16-cv-03745.html",
+      "recap_link": "https://www.courtlistener.com/docket/4562554/lomas-v-harris-county-texas/",
+      "is_active": true
+    },
+    "name": "Lomas v. Harris County",
+    "never_filed": false,
+    "non_docket_case_number": "",
+    "non_docket_case_number_type": null,
+    "non_docket_case_number_type_other": "",
+    "order_end_year": 2020,
+    "order_start_year": 2017,
+    "permanent_injunction": false,
+    "plaintiff_description": "All warrantless arrestees who are currently detained, or will be detained, by Harris County and who have not been provided,  or will not be provided, a prompt, neutral determination of probable cause supported by oath or affirmation, including all warrantless misdemeanor arrestees who have not been provided a neutral determination of probable cause within 24 hours of arrest.",
+    "plaintiff_type": [
+      {
+        "value": "Private Plaintiff"
+      }
+    ],
+    "prevailing_party": "Plaintiff",
+    "pro_se_status": "No",
+    "public_interest_lawyer": "Yes",
+    "related_cases": [
+      {
+        "id": 17701,
+        "name": "Hernandez v. Houston"
+      }
+    ],
+    "relief_natures": [
+      "Injunction / Injunctive-like Settlement",
+      "Attorneys fees"
+    ],
+    "relief_nature_other": "",
+    "relief_sources": [
+      "Settlement"
+    ],
+    "settlement_agreement": [
+      "Court Approved Settlement or Consent Decree"
+    ],
+    "settlement_judgment_date": "2017-11-01",
+    "settlement_judgment_year": null,
+    "special_collections": [
+      "Fines/Fees/Bail Reform (Criminalization of Poverty)",
+      "Multi-LexSum (in sample)"
+    ],
+    "special_case_type": [],
+    "state": "Texas",
+    "summary": "<p>This is a case about Harris County's practice of arresting people without warrants by finding probable cause based on unsworn statements. On December 28, 2016, two individuals arrested without warrants filed this putative class action lawsuit in the U.S. District Court for the Southern District of Texas. The plaintiffs sued Harris County under 42 U.S.C. &sect; 1983 and under provisions of the Texas Code of Criminal Procedure. Represented by the Civil Rights Corps and the Texas Fair Defense Project, the plaintiffs sought declaratory judgment, an injunction, and attorneys' fees. The plaintiffs alleged that the defendant's practices violated their Fourth Amendment rights to probable cause determinations and their Fourteenth Amendment rights to procedural due process.</p>\r\n<p>The plaintiffs sought to certify a class for those arrested without a warrant \"who are currently detained, or will be detained, by Harris County and who have not been provided, or will not be provided, a prompt, neutral determination of probable cause supported by oath or affirmation.\" They also sought to certify a subclass for those arrested for misdemeanors without a warrant \"who are currently detained, or will be detained, by Harris County and who have not been provided, or will not be provided, a neutral determination of probable cause supported by oath or affirmation within 24 hours of arrest.\" The plaintiffs claimed that keeping people in custody after a warrantless arrest on account of probable cause based on unsworn statements violated the Fourth and Fourteenth Amendments of the U.S. Constitution. Similarly, they also claimed that keeping people in custody after a warrantless misdemeanor arrest without offering bond when eligible for release violated Tex. Code Crim. P. Ann. &sect; 17.033(a)&ndash;(b). The same day the plaintiffs filed their complaint they also moved the court for a preliminary injunction to cease this practice.</p>\r\n<p>The case was initially assigned to Judge Kenneth M. Hoyt. It was transferred to Chief Judge Lee H. Rosenthal following an agreement between the judges. The defendant filed an answer on May 18, 2017.</p>\r\n<p>On November 1, 2017, the parties settled. The District Attorney agreed to change the process of presenting probable cause statements for warrantless arrests so that an officer now swears to the facts inputted into the District Attorney Intake System (DIMS). The defendants paid the plaintiffs $75,000 in attorneys' fees, but did not admit liability or that they engaged in the practices alleged by the plaintiffs. The court ordered for the settlement to be monitored for three years by an independent monitor to ensure the District Attorney made the promised changes to DIMS.&nbsp;</p>\r\n<p>On May 18, 2021, the court granted a motion for protective order.&nbsp;</p>\r\n<p>The case appears to be closed.&nbsp;</p>",
+    "summary_published_date": "2024-12-27T20:49:20.420864-05:00",
+    "summary_short": "In 2016, two individuals arrested without warrants filed this putative class action lawsuit in the U.S. District Court for the Southern District of Texas against Harris County. Represented by the Civil Rights Corps and the Texas Fair Defense Project, the plaintiffs sought declaratory judgment, an injunction, and attorneys' fees. They claimed that keeping people in custody after a warrantless arrest without providing a determination of probable cause based on sworn statements violated the Fourth and Fourteenth Amendments of the U.S. Constitution. Similarly, also claimed that keeping people in custody after a warrantless misdemeanor arrest without offering bond when eligible for release violated the Texas Criminal Procedure Code. On November 1, 2017, the parties settled. The District Attorney agreed to change the process of presenting probable cause statements for warrantless arrests so that an officer now swears to the facts inputted into the District Attorney Intake System (DIMS). The defendants paid the plaintiffs $75,000 in attorneys' fees, but did not admit liability or that they engaged in the practices alleged by the plaintiffs. The court ordered for the settlement to be monitored for three years.\r\nOn May 18, 2021, the court granted a motion for protective order. \r\nThe case appears to be closed.",
+    "summary_tiny": null,
+    "terminating_date": null,
+    "clearinghouse_link": "clearinghouse.net/case/17702",
+    "is_active": true,
+    "case_documents_url": "https://clearinghouse.net/api/v2/documents/?case=17702",
+    "case_dockets_url": "https://clearinghouse.net/api/v2/dockets/?case=17702",
+    "case_resources_url": "https://clearinghouse.net/api/v2/resources/?case=17702"
+  },
+  "documents": [
+    {
+      "date": "2017-11-01",
+      "date_is_estimate": false,
+      "date_not_available": false,
+      "description": null,
+      "document_source": "PACER [Public Access to Court Electronic Records]",
+      "document_status": "Coding Complete",
+      "document_type": "Settlement Agreement",
+      "order_type": "Consent Decree",
+      "citation_paren": null,
+      "cite_1_page": null,
+      "cite_1_reporter": null,
+      "cite_1_vol": null,
+      "cite_2_page": null,
+      "cite_2_reporter": null,
+      "cite_2_vol": null,
+      "cite_3_page": null,
+      "cite_3_reporter": null,
+      "cite_3_vol": null,
+      "citation_status": "Not applicable",
+      "court": "Southern District of Texas",
+      "no_title": false,
+      "party_types": [
+        "Defendant",
+        "Plaintiff"
+      ],
+      "per_curium": false,
+      "is_core_document": true,
+      "id": 109678,
+      "file": "https://clearinghouse-umich-production.s3.amazonaws.com/media/doc/109678.pdf",
+      "title": "Final Consent Judgment and Settlement Agreement",
+      "text": "Case 4:16-cv-03745   Document 41-1   Filed on 11/01/17 in TXSD   Page 1 of 5\nIN THE UNITED STATES DISTRICT COURT \nFOR THE SOUTHERN DISTRICT OF TEXAS \nHOUSTON DIVISION \n             \n            ) \nLUCAS LOMAS, and       )  \nCARLOS EALGIN,        ) \nOn behalf of themselves and all  ) \nothers similarly situated,    ) \n            ) \n    Plaintiffs,      ) \n            )  \nv.            ) \n            )    Case No. 16-CV-3745 \nHARRIS COUNTY, TEXAS,    )           \n    )    (Class Action) \n            )     \n    Defendant.      )       \n____________________________________) \n \nFINAL CONSENT JUDGMENT \n  Harris County and Plaintiffs have agreed to settle this case. Per the Settlement Agreement \nattached to this Judgment as Exhibit 1, the District Attorney, in her official capacity, has agreed to \nchange  (and  has  already  changed)  the  process  of  presenting  probable  cause  statements  for \nwarrantless arrests, whereby an officer now swears to the facts being inputted into the District \nAttorney Intake System (“DIMS”) and, as a result, sworn facts are now presented to judicial \nofficers for determination of probable cause. \n  It is understood by the parties that, by agreeing to settle this case, Harris County is not \nadmitting liability nor is Harris County admitting that the policies and practices complained of in \nPlaintiffs’ complaint are those of Harris County.  \n  Moreover, by agreement of the parties, Harris County has agreed to pay $75,000 in \nreasonable attorneys’ fees payable to Civil Rights Corps in order to settle this litigation. By paying \n\nCase 4:16-cv-03745   Document 41-1   Filed on 11/01/17 in TXSD   Page 2 of 5\nattorneys’ fees, Harris County is not admitting that it is liable or that the policies at issue represent \nthose of Harris County. \nTHEREFORE, it is hereby ORDERED that the parties shall follow the terms set forth in \nthe Settlement Agreement, attached as Exhibit 1. The Court further orders that the Settlement \nAgreement shall be monitored by an independent monitor for a period of three years from the entry \nof this Consent Judgment. The monitor shall be responsible for ensuring that the District Attorney \nhas modified the DIMS system in accordance with the above terms. The monitor will notify \nPlaintiffs’ counsel and the Court of any non-compliance as soon as practicable. Harris County, as \nthe custodian of records, will retain accurate copies (in either paper or electronic form) of all DIMS \nsummaries that are presented to hearing officers for probable cause determinations and copies of \nall video hearings for at least one year after the probable cause determinations, and Harris County \nwill make such records available to the monitor upon request. The Court retains jurisdiction solely \nfor the purpose of enforcing the terms of the settlement agreement. \n   \nSIGNED this ________ day of _____________________, 2017. \n \n \n \n                         \n              ___________________________________ \nUNITED STATES DISTRICT JUDGE \n \n\nCase 4:16-cv-03745   Document 41-1   Filed on 11/01/17 in TXSD   Page 3 of 5\n\nCase 4:16-cv-03745   Document 41-1   Filed on 11/01/17 in TXSD   Page 4 of 5\n\nCase 4:16-cv-03745   Document 41-1   Filed on 11/01/17 in TXSD   Page 5 of 5",
+      "document_type_other": "",
+      "external_url": "",
+      "ecf_number": "41-1",
+      "clearinghouse_link": "clearinghouse.net/doc/109678"
+    },
+    {
+      "date": null,
+      "date_is_estimate": false,
+      "date_not_available": false,
+      "description": null,
+      "document_source": null,
+      "document_status": null,
+      "document_type": null,
+      "order_type": null,
+      "citation_paren": null,
+      "cite_1_page": null,
+      "cite_1_reporter": null,
+      "cite_1_vol": null,
+      "cite_2_page": null,
+      "cite_2_reporter": null,
+      "cite_2_vol": null,
+      "cite_3_page": null,
+      "cite_3_reporter": null,
+      "cite_3_vol": null,
+      "citation_status": null,
+      "court": null,
+      "no_title": false,
+      "party_types": [],
+      "per_curium": false,
+      "is_core_document": true,
+      "id": 114538,
+      "file": null,
+      "title": null,
+      "text": null,
+      "document_type_other": null,
+      "external_url": null,
+      "ecf_number": null,
+      "clearinghouse_link": "clearinghouse.net/doc/114538"
+    },
+    {
+      "date": "2017-11-01",
+      "date_is_estimate": false,
+      "date_not_available": false,
+      "description": null,
+      "document_source": "PACER [Public Access to Court Electronic Records]",
+      "document_status": "Coding Complete",
+      "document_type": "Docket",
+      "order_type": null,
+      "citation_paren": null,
+      "cite_1_page": null,
+      "cite_1_reporter": null,
+      "cite_1_vol": null,
+      "cite_2_page": null,
+      "cite_2_reporter": null,
+      "cite_2_vol": null,
+      "cite_3_page": null,
+      "cite_3_reporter": null,
+      "cite_3_vol": null,
+      "citation_status": "Not applicable",
+      "court": "Southern District of Texas",
+      "no_title": false,
+      "party_types": [
+        "Court"
+      ],
+      "per_curium": false,
+      "is_core_document": true,
+      "id": 109399,
+      "file": "https://clearinghouse-umich-production.s3.amazonaws.com/media/doc/109399.pdf",
+      "title": "Docket [PACER]",
+      "text": "CLOSED\nU.S. District Court\nSOUTHERN DISTRICT OF TEXAS (Houston)\nCIVIL DOCKET FOR CASE #: 4:16-cv-03745\nLomas et al v. Harris County, Texas Date Filed: 12/28/2016\nAssigned to: Chief Judge Lee H Rosenthal Date Terminated: 11/01/2017\nRelated Case:  4:16-cv-01414 Jury Demand: Defendant\nCause: 42:1983 Civil Rights Act Nature of Suit: 440 Civil Rights: Other\nJurisdiction: Federal Question\nPlaintiff \nLucas Lomas  represented byAlec George Karakatsanis \nCivil Rights Corps \n1601 Connecticut Avenue NW \nSuite 800 \nWashington, DC 20009 \n202-894-6142 \nEmail: alec@civilrightscorps.org \nLEAD ATTORNEY \nATTORNEY TO BE NOTICED\nCharles Lewis Gerstein \nCivil Rights Corps \n1601 Connecticut Ave NW \nSuite 800 \nWashington, DC 20009 \n202-894-6142 \nEmail: charlie@civilrightscorps.org \nATTORNEY TO BE NOTICED\nSusanne Ashley Pringle \nTexas Fair Defense Project \n314 E Highland Mall Ave \nNo. 108 \nAustin, TX 78752 \n512-367-5220 ext. 103 \nEmail: springle@fairdefense.org \nATTORNEY TO BE NOTICED\nElizabeth Anne Rossi \nCivil Rights Corps \n1601 Connecticut Ave. NW \nSuite 800 \nWashington, DC 20009 \n202-894-6142 \n\nEmail: elizabeth@civilrightscorps.org \nPRO HAC VICE \nATTORNEY TO BE NOTICED\nPlaintiff \nCarlos Ealgin  represented byAlec George Karakatsanis \n(See above for address) \nLEAD ATTORNEY \nATTORNEY TO BE NOTICED\nCharles Lewis Gerstein \n(See above for address) \nATTORNEY TO BE NOTICED\nSusanne Ashley Pringle \n(See above for address) \nATTORNEY TO BE NOTICED\nElizabeth Anne Rossi \n(See above for address) \nPRO HAC VICE \nATTORNEY TO BE NOTICED\nV.\nDefendant \nHarris County, Texas  represented byKatharine Davenport David \nHusch Blackwell LLP \n600 Travis \nSuite 2350 \nHouston, TX 77002 \n713-525-6258 \nFax: 713-647-6884 \nEmail: kate.david@huschblackwell.com\nATTORNEY TO BE NOTICED\nPhilip James Morgan \nHusch Blackwell, LLP \n600 Travis Street \nSuite 2350 \nHouston, TX 77002 \n713-647-6800 \nFax: 713-647-6884 \nEmail: \nphil.morgan@huschblackwell.com \nATTORNEY TO BE NOTICED\n\nDate Filed # Docket Text\n12/28/2016 COMPLAINT against Harris County, Texas (Filing fee $400, receipt \nnumber 17702742) filed by Carlos Ealgin, Lucas Lomas. (Attachments:\n1  \n# 1 Civil Cover Sheet)(Rossi, Elizabeth) Payment information added \non 12/28/2016 (ltien, 4). (Entered: 12/28/2016)\n12/28/2016 2  MOTION to Certify Class by Carlos Ealgin, Lucas Lomas, filed. \nMotion Docket Date 1/18/2017. (Attachments: # 1 Exhibit Declaration \nof Class Counsel, # 2 Proposed Order)(Rossi, Elizabeth) (Entered: \n12/28/2016)\n12/28/2016 3  MOTION for Preliminary Injunction by Carlos Ealgin, Lucas Lomas, \nfiled. Motion Docket Date 1/18/2017. (Attachments: # 1 Proposed \nOrder)(Rossi, Elizabeth) (Entered: 12/28/2016)\n12/28/2016 4  MOTION for Elizabeth Rossi to Appear Pro Hac Vice by Carlos \nEalgin, Lucas Lomas, filed. Motion Docket Date 1/18/2017. (Rossi, \nElizabeth) (Entered: 12/28/2016)\n12/28/2016 5  MOTION for Charles Gerstein to Appear Pro Hac Vice by Carlos \nEalgin, Lucas Lomas, filed. Motion Docket Date 1/18/2017. (Rossi, \nElizabeth) (Entered: 12/28/2016)\n12/28/2016 6  MOTION for Alexander Karakatsanis to Appear Pro Hac Vice by \nCarlos Ealgin, Lucas Lomas, filed. Motion Docket Date 1/18/2017. \n(Rossi, Elizabeth) (Entered: 12/28/2016)\n12/29/2016 7  ORDER for Initial Pretrial and Scheduling Conference by Telephone \nand Order to Disclose Interested Persons. Counsel who filed or \nremoved the action is responsible for placing the conference call and \ninsuring that all parties are on the line. The call shall be placed to \n(713)250-5613. Telephone Conference set for 2/13/2017 at 09:15 AM \nby telephone before Judge Kenneth M Hoyt (Signed by Judge Kenneth \nM Hoyt) Parties notified.(hcarradi, 4) (Entered: 12/29/2016)\n01/04/2017 8  NOTICE of Transfer. Case reassigned to Chief Judge Lee H Rosenthal \nfor the following reason: Agreement between the judges. Judge \nKenneth M Hoyt no longer assigned to the case. Parties notified, filed. \n(chorace) (Entered: 01/04/2017)\n01/11/2017 9  ORDER Scheduling Rule 16 Conference With the Court and Setting \nOut the Requirements for Initial Pretrial Work. Initial Conference set \nfor 3/27/2017 at 09:00 AM in Courtroom 11B before Chief Judge Lee \nH Rosenthal(Signed by Chief Judge Lee H Rosenthal) Parties notified.\n(leddins, 4) (Entered: 01/11/2017)\n01/19/2017 10  ORDER granting 6 Motion for Alec Karakatsanis to Appear Pro Hac \nVice. (Signed by Chief Judge Lee H Rosenthal) Parties notified. \n(rosaldana, 4) (Entered: 01/19/2017)\n01/19/2017 11  ORDER granting 5 Motion for Charles Gerstein to Appear Pro Hac \nVice. (Signed by Chief Judge Lee H Rosenthal) Parties notified.\n(rosaldana, 4) (Entered: 01/19/2017)\n\n01/19/2017 12  ORDER granting 4 Motion for Elizabeth Rossi to Appear Pro Hac \nVice. (Signed by Chief Judge Lee H Rosenthal) Parties notified. \n(rosaldana, 4) (Entered: 01/19/2017)\n01/19/2017 13  WAIVER OF SERVICE Returned Executed as to Harris County, Texas \nserved on 1/9/2017, answer due 3/10/2017, filed.(Gerstein, Charles) \n(Entered: 01/19/2017)\n03/09/2017 14  Agreed MOTION for Extension of Time To file Responsive Pleading \nand Motion to Postpone Rule 26(f) Conference by Harris County, \nTexas, filed. Motion Docket Date 3/30/2017. (Attachments: # 1 \nProposed Order)(David, Katharine) (Entered: 03/09/2017)\n03/10/2017 ORDER entered GRANTING 14 Agreed MOTION for Extension of \nTime To file Responsive Pleading and Motion to Postpone Rule 26(f) \n15  \nConference. Joint Discovery/Case Management Plan due by 4/10/2017 \nand Initial Conference reset for 4/14/2017 at 03:00 PM in Courtroom \n11B before Chief Judge Lee H Rosenthal.(Signed by Chief Judge Lee \nH Rosenthal) Parties notified.(leddins, 4) (Entered: 03/10/2017)\n03/20/2017 16  NOTICE of Resetting. Parties notified. Initial Conference reset for \n4/24/2017 at 02:30 PM in Courtroom 11B before Chief Judge Lee H \nRosenthal, filed. (leddins, 4) (Entered: 03/20/2017)\n04/10/2017 17  JOINT DISCOVERY/CASE MANAGEMENT PLAN by Carlos \nEalgin, Lucas Lomas, filed. (Attachments: # 1 Proposed Order \nProposed Scheduling and Docket Control Order)(Gerstein, Charles) \n(Entered: 04/10/2017)\n04/10/2017 MOTION for More Definite Statement by Harris County, Texas, filed. \nMotion Docket Date 5/1/2017. (David, Katharine) (Entered: \n18  \n04/10/2017)\n04/10/2017 19  CERTIFICATE OF INTERESTED PARTIES by Harris County, Texas, \nfiled.(David, Katharine) (Entered: 04/10/2017)\n04/10/2017 20  CERTIFICATE OF INTERESTED PARTIES by Carlos Ealgin, Lucas \nLomas, filed.(Gerstein, Charles) (Entered: 04/10/2017)\n04/11/2017\n21   RESPONSE in Opposition to 18  MOTION for More \nDefinite Statement, filed by Carlos Ealgin, Lucas Lomas. (Gerstein, \nCharles) (Entered: 04/11/2017)\n04/18/2017\n22   REPLY in Support of 18  MOTION for More Definite \nStatement, filed by Harris County, Texas. (David, Katharine) (Entered: \n04/18/2017)\n04/24/2017 23  NOTICE of Appearance by Susanne Pringle on behalf of Carlos \nEalgin, Lucas Lomas, filed. (Pringle, Susanne) (Entered: 04/24/2017)\n04/24/2017 24  Minute entry for proceedings before the Hon. Lee H. Rosenthal. Initial \nconference held on April 24, 2017. For the reasons stated on the record,\n\nthe motion for more definite statement, Docket Entry No. 18, is denied.\nThe court will enter a scheduling and docket control order, as stated on \nthe record. The plaintiffs must amend their complaint by May 12, 2017.\nThe defendants must respond to the motion for a preliminary injunction\nby May 26, 2017. Appearances: Charles Gerstein/Elizabeth \nRossi/Susanne Pringle(by phone) for Pltfs. and Phil Morgan for Deft.\n(Court Reporter: J. Sanchez), filed.(leddins, 4) (Entered: 04/25/2017)\n04/24/2017 25  SCHEDULING ORDER. Bench. Amended Pleadings due by \n5/12/2017. Joinder of Parties due by 5/12/2017 Pltf Expert Witness List\ndue by 8/4/2017. Deft Expert Witness List due by 9/1/2017. Discovery \ndue by 10/13/2017. Mediation due by 10/13/2017. Dispositive Motion \nFiling due by 11/10/2017. Joint Pretrial Order due by 1/12/2018. \nDocket Call set for 1/19/2018 at 02:00 PM in Courtroom 11B before \nChief Judge Lee H Rosenthal(Signed by Chief Judge Lee H Rosenthal)\nParties notified.(gkelner, 4) (Entered: 04/25/2017)\n05/02/2017 26  NOTICE of Setting. Parties notified. Discovery Hearing set for \n5/4/2017 at 11:30 AM in Courtroom 11B before Chief Judge Lee H \nRosenthal, filed. (leddins, 4) (Entered: 05/02/2017)\n05/04/2017 27  Minute entry for proceedings before the Hon. Lee H. Rosenthal. Status \nconference held on May 4, 2017. The court will enter a scheduling \norder, as stated on the record. Appearances: Alec Karakatsanis/Charles \nGerstein/Elizabeth Anne Rossi, Susanne Pringle (by phone) for Pltfs. \nand Phil Morgan for Deft.(Court Reporter: H. Alcazar), filed.(leddins, \n4) (Entered: 05/04/2017)\n05/04/2017 28  AMENDED SCHEDULING ORDER. Motion to Dismiss Filing due \nby 5/18/2017. Motion for a Preliminary Injunction Filing due by \n6/26/2017. Responses due by 6/8/2017. Reply due by 06/15/2017.\n(Signed by Chief Judge Lee H Rosenthal) Parties notified.(gkelner, 4) \n(Entered: 05/05/2017)\n05/18/2017\n29   ANSWER to 1  Amended \nComplaint/Counterclaim/Crossclaim etc. by Harris County, Texas, \nfiled.(David, Katharine) (Entered: 05/18/2017)\n05/31/2017 30  DEMAND for Trial by Jury by Harris County, Texas, filed.(David, \nKatharine) (Entered: 05/31/2017)\n06/21/2017 31  Unopposed MOTION for Extension of Time to Respond to Plaintiffs' \nMotion for Preliminary Injunction by Harris County, Texas, filed. \nMotion Docket Date 7/12/2017. (Attachments: # 1 Proposed Order)\n(David, Katharine) (Entered: 06/21/2017)\n06/21/2017 32  ORDER granting 31 Motion for Extension of Time; Motion-related \ndeadline set re: 3 MOTION for Preliminary Injunction. Responses due \nby 7/26/2017..(Signed by Chief Judge Lee H Rosenthal) Parties \nnotified.(gkelner, 4) (Entered: 06/22/2017)\n07/17/2017 33  Unopposed MOTION for Extension of Time Respond to Plaintiffs \n\nMotion for Preliminary Injunction by Harris County, Texas, filed. \nMotion Docket Date 8/7/2017. (Attachments: # 1 Proposed Order \nOrder on Harris County's Unopposed Motion for Extension)(David, \nKatharine) (Entered: 07/17/2017)\n07/17/2017 34  ORDER entered : GRANTING 33 Unopposed MOTION for Extension\nof Time Respond to Plaintiffs Motion for Preliminary Injunction.\n(Signed by Chief Judge Lee H Rosenthal) Parties notified.(leddins, 4) \n(Entered: 07/17/2017)\n08/24/2017 35  Unopposed MOTION for Extension of Time Respond to Plaintiff's \nMotion for Preliminary Injunction by Harris County, Texas, filed. \nMotion Docket Date 9/14/2017. (Attachments: # 1 Proposed Order \nOrder on Harris County's Unopposed Motion for Extension)(Morgan, \nPhilip) (Entered: 08/24/2017)\n08/24/2017 36  ORDER granting 35 Motion for Extension of Time. Harris County's \nresponse to Plaintiffs' Motion for Preliminary Injunction is now due \nSeptember 25, 2017. (Signed by Chief Judge Lee H Rosenthal) Parties \nnotified. (wbostic, 4) (Entered: 08/25/2017)\n09/22/2017 37  Unopposed MOTION for Extension of Time Respond to Plaintiff's \nMotion for Preliminary Injunction by Harris County, Texas, filed. \nMotion Docket Date 10/13/2017. (Attachments: # 1 Proposed Order \nOrder on Harris County's Unopposed Motion for Extension)(David, \nKatharine) (Entered: 09/22/2017)\n09/26/2017 38  ORDER granting 37 Motion for Extension of Time. Harris County's \nresponse is now due October 25, 2017. (Signed by Chief Judge Lee H \nRosenthal) Parties notified. (wbostic, 4) (Entered: 09/26/2017)\n10/25/2017 39  Unopposed MOTION for Extension of Time To Respond to Plantiff's \nMotion for Preliminary Injunction by Harris County, Texas, filed. \nMotion Docket Date 11/15/2017. (Attachments: # 1 Proposed Order)\n(David, Katharine) (Entered: 10/25/2017)\n10/30/2017 40  ORDER granting 39 Motion for Extension of Time. Harris County's \nresponse to Plaintiffs' Motion for Preliminary Injunction is due \n11/1/2017. (Signed by Chief Judge Lee H Rosenthal) Parties notified. \n(wbostic, 4) (Entered: 10/30/2017)\n11/01/2017 Joint MOTION for Entry of Judgment by Carlos Ealgin, Lucas Lomas, \n41  \nfiled. Motion Docket Date 11/22/2017. (Attachments: # 1  \nExhibit A Final Consent Judgment and Settlement Agreement)\n(Gerstein, Charles) (Entered: 11/01/2017)\n11/01/2017\n42   FINAL CONSENT JUDGMENT granting 41  Joint \nMOTION for Entry of Judgment. Case terminated on 11/1/2017. \n(Signed by Chief Judge Lee H Rosenthal) Parties notified. (wbostic, 4) \n(Entered: 11/02/2017)\n\nPACER Service Center \nTransaction Receipt \n09/13/2020 10:54:18\nPACER  CRClearinghouse:25 Client \nYu \nLogin:  63377:0  Code: \nSearch  4:16-cv-\nDescription:  Docket Report \nCriteria:  03745 \nBillable \n5  Cost:  0.50 \nPages: ",
+      "document_type_other": "",
+      "external_url": "",
+      "ecf_number": null,
+      "clearinghouse_link": "clearinghouse.net/doc/109399"
+    },
+    {
+      "date": "2016-12-28",
+      "date_is_estimate": false,
+      "date_not_available": false,
+      "description": null,
+      "document_source": "PACER [Public Access to Court Electronic Records]",
+      "document_status": "Coding Complete",
+      "document_type": "Complaint",
+      "order_type": null,
+      "citation_paren": null,
+      "cite_1_page": null,
+      "cite_1_reporter": null,
+      "cite_1_vol": null,
+      "cite_2_page": null,
+      "cite_2_reporter": null,
+      "cite_2_vol": null,
+      "cite_3_page": null,
+      "cite_3_reporter": null,
+      "cite_3_vol": null,
+      "citation_status": "Not applicable",
+      "court": "Southern District of Texas",
+      "no_title": false,
+      "party_types": [
+        "Plaintiff"
+      ],
+      "per_curium": false,
+      "is_core_document": true,
+      "id": 109677,
+      "file": "https://clearinghouse-umich-production.s3.amazonaws.com/media/doc/109677.pdf",
+      "title": "Class Action Complaint",
+      "text": "Case 4:16-cv-03745   Document 1   Filed in TXSD on 12/28/16   Page 1 of 18\n \nIN THE UNITED STATES DISTRICT COURT \nFOR THE SOUTHERN DISTRICT OF TEXAS \nHOUSTON DIVISION \n             \n            ) \nLUCAS LOMAS,        )  \nCARLOS EALGIN,        ) \nOn behalf of themselves and all  ) \nothers similarly situated,    ) \n            ) \n    Plaintiffs,      ) \n            )  \nv.            ) \n            )    Case No.  \nHARRIS COUNTY, TEXAS,    )           \n    )    (Class Action) \n            )     \n    Defendant.      )       \n____________________________________) \n \nCLASS ACTION COMPLAINT \nHarris County fails to comply with the Fourth Amendment’s requirement that anyone \narrested without a warrant be released unless a neutral magistrate makes a prompt finding of \nprobable cause supported by an oath or affirmation.  In Harris County, probable cause findings for \nwarrantless arrestees are never based on facts supported by oath or affirmation.  Because of Harris \nCounty’s policies and practices, thousands of people every year are kept in jail cells for days, \nweeks, and months in violation of the Fourth and Fourteenth Amendments and Texas law.  \nPlaintiffs seek declaratory and injunctive relief. \n  1 \n\nCase 4:16-cv-03745   Document 1   Filed in TXSD on 12/28/16   Page 2 of 18\n \nNATURE OF THE ACTION1 \n1.  An average of about 1,400 people are arrested without a warrant every week in \nHarris County.  About half of them will still be in jail when their cases are resolved by dismissal, \nconviction, or acquittal.  Many others will spend several days or more in jail until they are able to \nraise enough money to purchase their release. \n2.  Harris County is required to release every single one of these detainees unless a \nneutral magistrate makes a prompt finding of probable cause supported by “oath or affirmation.”  \nU.S. Const. amend. IV; Gerstein v. Pugh, 420 U.S. 103, 125 (1975).  In Harris County, all probable \ncause determinations for warrantless arrestees are based on facts alleged in unsworn statements.  \nThe County, as a matter of uniform policy and practice, detains people despite the fact that County \nofficials know that a probable cause finding supported by an oath or affirmation never happens.  \nThese post-arrest policies and practices result in the unconstitutional pretrial jailing of thousands \nof people every month.   \n3.  Plaintiffs, on behalf of themselves and all others similarly situated, seek injunctive \nand declaratory relief from Harris County’s policy and practice of failing to comply with the \nfundamental constitutional requirement that all warrantless arrestees be released unless a neutral \nmagistrate makes a prompt finding of probable cause supported by oath or affirmation.  \nJURISDICTION AND VENUE \n4.  This is a civil rights action arising under 42 U.S.C. § 1983 and the Fourth and \nFourteenth Amendments to the United States Constitution.  This Court has jurisdiction pursuant \nto 28 U.S.C. §§ 1331 and 1343. \n                                                 \n1Plaintiffs make the allegations in this Complaint based on personal knowledge as to matters in which they had \npersonal involvement and on information and belief as to all other matters. \n  2 \n\nCase 4:16-cv-03745   Document 1   Filed in TXSD on 12/28/16   Page 3 of 18\n \n5.  Venue in this Court is proper pursuant to 28 U.S.C. § 1391. \n6.  This Court has supplemental jurisdiction over the state law cause of action asserted \nin this Complaint pursuant to 28 U.S.C. § 1367 because the state law claim forms part of the same \ncase or controversy as the federal law claim. \nPARTIES \n7.  Lucas Lomas is 26 years old.  He was arrested without a warrant on December 24, \n2016, for a felony offense and is currently in jail.  He represents himself and a Class of similarly \nsituated people subjected to Defendant’s unlawful post-arrest practices. \n8.  Carlos Ealgin is 27 years old.  He was arrested without a warrant on December 26, \n2016, for a misdemeanor offense and is currently in jail.  He represents himself and a Class of \nsimilarly situated people subjected to Defendant’s unlawful post-arrest practices. \n9.  Defendant Harris County is a municipal corporation organized under the laws of \nthe State of Texas.  Harris County has a policy and practice of failing to comply with the \nconstitutional  requirement  to  provide  warrantless  arrestees  in  its  custody  a  prompt,  neutral \ndetermination of probable cause supported by oath or affirmation.   \nHARRIS COUNTY’S POLICIES AND PRACTICES \n10.  Approximately 75,000 people are arrested without a warrant in Harris County every \nyear. \n11.  Harris County itself is responsible for about 25% of all arrests that take place within \nthe County.  The City of Houston is responsible for nearly another 50% of arrests.  The remaining \narrests are made by more than 100 other agencies.   \n12.  Individuals who are arrested by the Harris County Sheriff’s Office are typically \ntaken directly to the Harris County jail.  Those arrested by other agencies are taken initially to field \nstations run by other arresting agencies.   \n  3 \n\nCase 4:16-cv-03745   Document 1   Filed in TXSD on 12/28/16   Page 4 of 18\n \n13.  Within hours of each warrantless arrest, the arresting officer calls a hotline staffed \naround-the-clock  by  the  District  Attorney’s  Office.    The  arresting  officer  describes  the \ncircumstances leading to arrest, and the Assistant District Attorney on duty decides what, if any, \ncharges are supported by those circumstances.  The statements an officer makes to the ADA on \nduty are not sworn. \n14.  If the ADA on duty believes that the officer’s factual recitation supports a charge, \nthe ADA “accepts” the charges.2  The ADA tells the arresting officer the financial condition of \nrelease required by the schedule employed by Harris County.  \n15.  After the ADA accepts the charges, the police officer types a summary of the facts \nand a description of the accepted charges into a District Attorney’s Intake Management System \n(“DIMS”) terminal.  Most police officers in Harris County have access to such a terminal in their \nsquad cars; all officers can access them at stationhouses.  The DIMS summary is not sworn.  \n16.  Arrestees who can pay the predetermined sum required for release (and who are not \notherwise ineligible for release) are released after basic processing at the arresting agency’s \nstationhouse.  In these cases, a probable cause determination will be made, if at all, at a subsequent \ncourt appearance.  Arrestees who cannot afford to pay the financial condition required for their \nrelease, or who are ineligible for release, are transferred to the Harris County Jail for booking.3 \n                                                 \n2 At some point after charges are accepted, a criminal Complaint containing a boilerplate, bare bones recitation of the \ncharges is generated.  The Complaint simply recites that officials believe a particular crime to have been committed \nbut does not contain a description of the facts leading to arrest.  Therefore, it could not constitutionally serve as the \nbasis for a finding of probable cause by a judicial officer that the elements of a crime have been met.  And, in practice, \nit does not serve as the basis for Hearing Officers’ findings of probable cause because Hearing Officers base probable \ncause determinations on the purported facts contained in the unsworn DIMS summary.  \n3 If the Harris County Sheriff’s Office made the arrest, no transfer is necessary before the booking process begins \nbecause Sheriff’s Office arrestees are typically taken directly to the jail upon arrest. \n  4 \n\nCase 4:16-cv-03745   Document 1   Filed in TXSD on 12/28/16   Page 5 of 18\n \n17.  As a matter of policy and practice, individuals arrested without a warrant within \nHarris County routinely do not receive probable cause determinations until they are transferred \nfrom the custody of the arresting authority to Harris County custody. \n18.  Harris County accepts into its custody all warrantless arrestees who are arrested by \nother agencies and who fail to pay the monetary sum required for their release pursuant to the \nCounty’s predetermined bail schedule.   \n19.  Many warrantless arrestees who are arrested by agencies other than Harris County \nare held for two or three days, or more, before being transferred to the Harris County Jail.   \n20.  In July and August 2016, for example, many individuals arrested by the City of \nHouston without a warrant were kept in the Houston Jail longer than 48 hours without a neutral \ndetermination of probable cause.  Booking records for 2016 show that, in these two months alone, \nHouston held hundreds of inmates in its jail for longer than three days before transferring them to \nHarris County.  For example, one person arrested on July 25 did not receive a probable cause \ndetermination until July 31 (more than 144 hours after arrest); another person, arrested on July 23, \ndid not receive a probable cause determination until July 30 (more than 168 hours after arrest); \nand at least 35 other people in the months of July and August waited more than four days (96 \nhours) between arrest and a probable cause determination. \n21.  As a matter of policy and practice, Harris County accepts into its custody, and keeps \nin its custody, warrantless arrestees transferred to the jail from other arresting agencies or arrested \nby the Sheriff’s Department, without regard for how much time has passed since the individual \nwas arrested and even though Harris County knows that no probable cause determination has been \nmade. \n  5 \n\nCase 4:16-cv-03745   Document 1   Filed in TXSD on 12/28/16   Page 6 of 18\n \n22.  As a matter of policy and practice, Harris County continues to detain warrantless \narrestees—whether arrested by Harris County itself or another agency—for whom there has been \nno probable cause determination within a reasonable period of time, which is 48 hours at the \nlongest. \n23.  Warrantless arrestees in Harris County custody appear from the jail by videolink \nbefore a magistrate, known as a Harris County Hearing Officer, who presides over the hearings \nfrom a courtroom in the Harris County courthouse.   \n24.  These hearings are referred to locally as “magistrations,” “Article 15.17 hearings,” \nor “probable cause hearings.” \n25.  At any point during the jail’s booking process, before or after the probable cause \nhearing, an arrestee can pay a predetermined money bail and be released. The Harris County \nSheriff’s Department, through its jail personnel, assembles groups of roughly 20 to 45 arrestees \nthroughout the day, every day, for purposes of attending these hearings by videolink.    \n26.  The County’s employees and agents know the time and date of arrest for every \nwarrantless arrestee, regardless of the arresting authority.  Such information is recorded and stored \nin computer systems readily available to them.  County employees and agents know how long a \nwarrantless arrestee has been in custody.   \n27.  Like  all  arresting  agencies  within  the  County,  the  Harris  County  Sheriff’s \nDepartment, when it makes arrests, uses the DA’s hotline and the DIMS system.  The County and \nits employees and agents know that the statements that ADAs present to Hearing Officers are not \nsworn.  The County and its employees, officers, and agents also have access to jail and court \nrecords, which do not contain a sworn statement of the factual basis for probable cause findings. \n  6 \n\nCase 4:16-cv-03745   Document 1   Filed in TXSD on 12/28/16   Page 7 of 18\n \n28.  The County and its employees and agents know that, in almost every case, no \nprobable cause determination is made by a neutral magistrate prior to the video hearings for which \nthe Sheriff’s Department assembles groups of arrestees. \n29.  At the hearings, the Hearing Officer calls an individual’s name and reads the \ncharge.  That individual gets up and stands in the middle of a red square on the floor of the room \nin the jail.  An assistant district attorney, who is in the courtroom with the Hearing Officer, reads \nfrom the DIMS report and represents that the statement of facts in the report are the facts that led \nto the arrest.   \n30.  Harris County does not provide defense attorneys at this hearing. \n31.  County employees and agents, including Sheriff’s deputies and employees of \nPretrial Services, are present throughout the hearings.  They know that the information the ADA \nreads is from the DIMS system.  They know that no oaths are sworn (nor affirmations made) at \nthe hearings.      \n32.  The statements the ADA reads, and on the basis of which Hearing Officers find \nprobable cause in almost every case, are not supported by oath or affirmation.  In other words, they \nare not signed under penalty of perjury.  They are not sworn. \n33.  On the basis of the unsworn factual statements read by the ADA, the Hearing \nOfficer decides whether there was probable cause for arrest.  Hearing Officers find probable cause \nin almost every case. \n34.  Every year, Harris County permits unsworn statements to provide the basis for \nfindings of probable cause for further detention in tens of thousands of cases involving warrantless \narrestees. \n  7 \n\nCase 4:16-cv-03745   Document 1   Filed in TXSD on 12/28/16   Page 8 of 18\n \n35.  Sometimes a Hearing Officer concludes that there is not enough information to \ndetermine whether probable cause existed for the arrest.  In these cases, the Hearing Officer tells \nthe Sheriff’s Department to continue detaining the person, and urges the ADA to contact the \narresting officer to find out more about the circumstances leading to the arrest.   \n36.  As a matter of policy and practice, the Sheriff’s Department continues to detain \nwarrantless arrestees in these circumstances while the ADA investigates further.  For each of these \nwarrantless arrestees, the Sheriff’s Department knows that there has been no finding of probable \ncause to support continued detention.  The Sheriff’s Department also knows that the sole purpose \nof further detention is to allow the ADA time to investigate.  If, during this process, an arrestee \ncan pay the predetermined scheduled bail and is otherwise eligible for release, he will be released.   \n37.  As a matter of policy and practice, the Sheriff’s Department brings arrestees who \nare not released to a subsequent probable cause hearing docket.  At the subsequent docket, when \nthe arrestee’s name is called, the ADA reports the results of her investigation to the Hearing \nOfficer, again using unsworn statements, and the Hearing Officer decides whether probable cause \nexisted for the arrest. \n38.  The process of setting bail and finding probable cause is a rote exercise; the \nhearings usually last approximately one minute. \n39.  If a Hearing Officer makes a finding of probable cause, Harris County will continue \nthe pretrial detention of the warrantless arrestee despite the fact that Harris County officials know \nthat the finding was not supported by sworn statements.   \n40.  The  vast majority  of warrantless arrestees are  held  incommunicado  from the \nmoment they are taken into Harris County custody until sometime after their magistration hearing. \n  8 \n\nCase 4:16-cv-03745   Document 1   Filed in TXSD on 12/28/16   Page 9 of 18\n \n41.  Following  every arrest,  an arrestee’s case  information and related documents \nbecome publicly available on the District Court Clerk’s website.  Once the arrestee is in Harris \nCounty custody, the arrestee’s online case records will indicate that fact.  The arrestee’s specific \nlocation will be shown as the “inmate processing center” at 1201 Commerce Street. \n42.  While the individual is in processing, she is completely unavailable for an attorney \n(or other) visit and cannot be contacted.4  Jail officials state that individuals who are in processing \nare actually located in the basement of one of four jail buildings, and the only way to find a specific \nperson is for a guard to walk through the cell blocks and call the person’s name.   \n43.  However, jail officials also state that, if a person who is in processing is able to pay \nthe scheduled money bail, she will be found and released.  Thus, during this period of time, poor \narrestees are held without any ability to contact the outside world, but an individual who has money \ncan purchase her release from jail. \n44.  Any arrestee who was not assigned to a housing unit before her probable cause \nhearing will remain inaccessible to attorneys and everyone else outside the jail after the hearing \nuntil the jail assigns the individual to a housing unit. \n45.  It is only after being assigned to a housing unit that an arrestee can be contacted by \nanyone outside the jail and will be scheduled for a hearing in a County Court at Law. \n46.  A sheriff’s deputy at 1201 Commerce Street was asked to produce for attorney \nvisits several individuals who had attended their probable cause hearings within the previous 24 \nhours.  After looking for the men for an hour, the deputy stated that the men could not be seen, \neven by an attorney, until after they had been assigned to a housing unit in the jail, which had not \n                                                 \n4 The Sheriff’s own website states that inmates are not available for visits while they are in the processing center.  See \nhttp://www.harriscountyso.org/JailInfo/inmate_info_inmate_faqs.aspx  \n  9 \n\nCase 4:16-cv-03745   Document 1   Filed in TXSD on 12/28/16   Page 10 of 18\n \nyet happened.  He said that the individuals were all in the basements of one of four buildings, but \nhe did not know which one.  The deputy provided a list of the four facilities in which the arrestees \nmight be located (1200 Baker Street Jail; 701 North San Jacinto; 711 North San Jacinto Street; \n1307 Baker Street). \n47.  Shortly after that conversation, a sheriff’s deputy at the jail building at 1200 Baker \nStreet confirmed that the same men could not be contacted until after they had been assigned to a \nhousing unit.   \n48.  The deputies stated that it would take 24 to 36 hours for that to happen, during \nwhich time no one would be able to reach these men, including any attorney.  The sheriff’s deputy \nsaid that they could not be found for the purpose of an attorney visit, but they would be found and \nreleased if money bond was posted.  \n49.  As a matter of policy and practice, warrantless arrestees are released from pretrial \ndetention only when they either pay their bail amounts or resolve their cases.  \nLucas Lomas \n50.  Lucas Lomas is 26 years old.  He was arrested without a warrant on December 24, \n2016, for theft, a felony offense. \n51.  On December 25, 2016, a Hearing Officer found probable cause in his case and \nimposed a secured financial condition of release of $15,000.  The Hearing Officer’s finding of \nprobable cause was made on the basis of unsworn statements. \n52.  Mr. Lomas is currently in jail.  He cannot afford to pay the secured financial \ncondition of release.  If he could pay the amount required, he would be released. \n53.  Mr. Lomas is scheduled to see a Criminal Court at Law Judge for the first time on \nJanuary 3, 2017. \n  10 \n\nCase 4:16-cv-03745   Document 1   Filed in TXSD on 12/28/16   Page 11 of 18\n \nCarlos Ealgin \n54.  Carlos Ealgin is 27 years old.  He was arrested without a warrant on December 26, \n2016, for possession of marijuana under two ounces, which is a misdemeanor offense. \n55.  Later on December 26, 2016, a Hearing Officer found probable cause in his case \nand imposed a secured financial condition of release of $15,000.  The Hearing Officer’s finding \nof probable cause was made on the basis of unsworn statements. \n56.  Mr. Ealgin is currently in jail.  He cannot afford to pay the secured financial \ncondition required for his release.  If he could pay the amount required, he would be released. \n57.  Mr. Ealgin is scheduled to see a County Criminal Court at Law Judge for the first \ntime on January 3, 2017. \nClass Action Allegations \n58.  The named Plaintiffs bring this action, on behalf of themselves and all others \nsimilarly situated, for the purpose of asserting the claims alleged in this Complaint on a common \nbasis. \n59.  A class action is a superior means, and the only practicable means, by which the \nnamed Plaintiffs and unknown Class members can challenge the Defendant’s unlawful policy and \npractice of failing to provide warrantless arrestees with prompt determinations of probable cause \nsupported by an oath or affirmation. \n60.  This action is brought and may properly be maintained as a class action pursuant to \nRule 23(a)(1)–(4) and Rule 23(b)(2), of the Federal Rules of Civil Procedure. \n61.  This  action  satisfies  the  numerosity,  commonality,  typicality,  and  adequacy \nrequirements of those provisions. \n62.  The Plaintiffs propose the following Class and subclass: \n  11 \n\nCase 4:16-cv-03745   Document 1   Filed in TXSD on 12/28/16   Page 12 of 18\n \na.  A Class seeking injunctive and declaratory relief:  All warrantless arrestees who \nare currently detained, or will be detained, by Harris County and who have not \nbeen provided, or will not be provided, a prompt, neutral determination of \nprobable cause supported by oath or affirmation. \n \ni.  A Subclass seeking injunctive and declaratory relief: All warrantless \nmisdemeanor arrestees who are currently detained, or will be detained, \nby Harris County and who have not been provided, or will not be \nprovided, a neutral determination of probable cause supported by oath \nor affirmation within 24 hours of arrest.5  \n \nNumerosity.  Fed. R. Civ. P. 23(a)(1) \n63.  The individuals in the class are so numerous that joinder of all members would be \nimpracticable. \n64.  About 75,000 people are arrested without a warrant in Harris County every year.  \nOnly 22% of those people are released on bond prior to booking into the Harris County jail, \naccording to publicly available data.  The rest are detained by Harris County. 48.2% of those \ndetainees remain in Harris County custody through the disposition of their cases (or for at least \none month of pretrial detention, if their cases are not resolved and they are not released within one \nmonth) because they are unable to post a bond.6  None was provided a prompt determination of \nprobable cause supported by oath or affirmation. The number of current and future arrestees \nsubject to this policy will be well into the tens of thousands. The Class easily satisfies the \nnumerosity requirement.  \n                                                 \n5 Absent extraordinary circumstances not present in this case, detention after a warrantless arrest without a neutral \ndetermination of probable cause is presumptively unreasonable beyond 48 hours.  Cty. of Riverside v. McLaughlin, \n500 U.S. 44, 45 (1991). Moreover, the facts and circumstances of a particular jurisdiction can render periods of less \nthan 48 hours unreasonable.  Plaintiffs propose this initial subclass because Texas law and the Harris County Local \nRules of Court require warrantless misdemeanor arrestees to be given a probable cause determination after 24 hours \nor to be released from custody.  Thus, at least in Harris County, detention beyond 24 hours for those arrested for \nmisdemeanor offenses without a warrant is presumptively unreasonable because the local and state governments have \nalready determined that there is no legal or factual need for any further delay. \n6 Pretrial detainees who post bond after one month of pretrial detention are not recorded in publicly available statistics.  \n  12 \n\nCase 4:16-cv-03745   Document 1   Filed in TXSD on 12/28/16   Page 13 of 18\n \n65.  Because the joinder of thousands of cases is impracticable, this case satisfies the \nnumerosity requirement.  \nCommonality.  Fed. R. Civ. P. 23(a)(2). \n66.  The relief sought is common to all members of the Class, and common questions \nof law and fact exist as to all members of the Class.  The named Plaintiffs seek relief concerning \nwhether the Defendants’ policies, practices, and procedures violate the rights of the Class members \nand relief mandating that the Defendant change its policies, practices, and procedures so that the \nconstitutional rights of the Class members will be protected in the future. \n67.  Common legal and factual questions arise from one central scheme: the County’s \npolicy of refusing to release warrantless arrestees even when there has not been a prompt probable \ncause determination by a neutral magistrate supported by an oath or affirmation.  The County has \noperated this policy in materially the same manner every day.  The resolution of these legal and \nfactual issues will determine whether all of the members of each Class are entitled to the relief that \nthey seek. \nAmong the most important, but not the only, common questions of law and fact are:  \na.  Whether  it  violates the United States Constitution  to detain warrantless \narrestees  for  unreasonable  periods  of  time  without  a  neutral  finding  of \nprobable cause on the basis of statements supported by oath or affirmation; \nb.  Whether it violates Texas state law to detain misdemeanor arrestees for more \nthan 24 hours without a neutral determination of probable cause supported by \noath or affirmation; \nc.  Whether the County maintains a policy of detaining warrantless arrestees \nwithout a prompt finding of probable cause that is supported by oath or \naffirmation. \nTypicality.  Fed. R. Civ. P. 23(a)(3). \n68.  The named Plaintiffs’ claims are typical of the claims of the other Class Members, \nand the named Plaintiffs have the same interests in this case as all other Class Members.  Each \n  13 \n\nCase 4:16-cv-03745   Document 1   Filed in TXSD on 12/28/16   Page 14 of 18\n \nNamed  Plaintiff  was  arrested  without  a  warrant  and  is  currently  being  detained  beyond  a \nreasonable period of time (48 hours at the longest) without a constitutionally adequate probable \ncause hearing.  \n69.  The answer to whether the County maintains an unlawful policy of detaining \nwarrantless arrestees for an unreasonable period, including for longer than 48 hours, in the absence \nof a judicial determination of probable cause supported by oath or affirmation will determine the \nclaims of the named Plaintiffs and every other Class Member. \n70.  If the named Plaintiffs succeed in their claims that the County’s policies and \npractices concerning warrantless arrestees violate their rights, that ruling will likewise benefit \nevery other member of the Class.   \nAdequacy.  Fed. R. Civ. P. 23(a)(4). \n71.  The named Plaintiffs are adequate representatives of the Class because their interest \nin the vindication of the legal claims that they raise is entirely aligned with the interests of the \nother Class Members, each of whom has the same basic constitutional and state-law claims.  The \nnamed Plaintiffs are members of the Class, and there are no known conflicts of interest among the \nmembers of the Class, all of whom have a similar interest in vindicating their constitutional rights \nin the face of Defendant’s policy. \n72.  Plaintiffs are represented by Civil Rights Corps and the Texas Fair Defense Project, \nwhose attorneys have experience in litigating complex civil rights matters in federal court and \nextensive knowledge of both the details of Defendant’s scheme and the relevant constitutional and \nstatutory law.  Counsel from Civil Rights Corps has been lead counsel in well over a dozen major \nfederal class actions challenging the constitutionality of post-arrest systems in Alabama, Georgia, \nIllinois, Louisiana, Mississippi, Missouri, Tennessee, Texas, and other states. \n  14 \n\nCase 4:16-cv-03745   Document 1   Filed in TXSD on 12/28/16   Page 15 of 18\n \n73.  Class counsel have conducted an investigation into Harris County’s policy of \ndetaining  warrantless  arrestees  without  a  prompt,  neutral  determination  of  probable  cause \nsupported by oath or affirmation.  This investigation has included interviews with witnesses, \nmunicipal officials and employees, inmates, prosecutors and defense attorneys practicing in local \ncourts, community members, and national experts in constitutional law, post-arrest procedure, law \nenforcement, judicial procedures, criminal law, pretrial services, and jails. \n74.  Class counsel have a detailed understanding of state law and practices as they relate \nto federal constitutional requirements.  Counsel have studied the way that these systems function \nin other cities and counties in order to investigate the wide array of lawful options available to \nmunicipalities that seek to comply with the Constitution. \n75.  As a result, counsel have devoted significant time and resources to becoming \nintimately familiar with the County’s scheme and with the relevant state and federal laws and \nprocedures that can and should govern it.  The interests of the Class Members will be fairly and \nadequately protected by the Plaintiffs and their attorneys. \nRule 23(b)(2) \n76.  Class certification is appropriate because the Defendants, through  the policies, \npractices, and procedures that make up its post-arrest process for warrantless arrestees, have acted \nin the same unconstitutional manner with respect to all Class Members.  The Defendant has a \npolicy and practice of detaining people beyond a reasonable period of time (48 hours at the longest) \neven though Defendant knows that there has been no probable cause finding supported by an oath \nor affirmation, as is necessary in order to continue detention after a warrantless arrest. \n77.  The Class therefore seeks declaratory and injunctive relief that will prevent the \nDefendants from detaining arrestees beyond a reasonable period of time — but in any event no \n  15 \n\nCase 4:16-cv-03745   Document 1   Filed in TXSD on 12/28/16   Page 16 of 18\n \nlonger than 48 hours — without a neutral determination of probable cause supported by oath or \naffirmation.  Because the putative Class challenges the County’s practices as unconstitutional \nthrough declaratory and injunctive relief that would apply to every Class Member, Rule 23(b)(2) \nclass certification is appropriate and necessary.   \n78.  Injunctive relief compelling the County to comply with this constitutional right will \nsimilarly protect each member of the Class from being subjected to the County’s unlawful policies \nand practices.  A declaration and injunction stating that the County must provide a neutral finding \nof probable cause supported by oath or affirmation and that the County cannot detain someone \nbeyond a reasonable period of time (48 hours at the longest) without a finding of probable cause \nsupported by oath or affirmation would provide relief to every member of the Class.  Therefore, \ndeclaratory and injunctive relief with respect to the Rule 23(b)(2) Class as a whole is appropriate. \nClaims for Relief \nCount One:  Fourth and Fourteenth Amendments  \n79.  Plaintiffs incorporate by reference the allegations in paragraphs 1-79. \n80.  After  a warrantless arrest, the Fourth Amendment requires a prompt,  neutral \ndetermination of probable cause “supported by oath or affirmation.”  U.S. Const. amend. IV; Cty. \nof Riverside v. McLaughlin, 500 U.S. 44 (1991); Gerstein v. Pugh, 420 U.S. 103 (1975). This \nconstitutional  provision  is  presumptively  violated  after  48  hours  absent  extraordinary \ncircumstances, which are not present here.  Defendant Harris County violates Plaintiffs’ rights by \ncontinuing to keep them in custody after a warrantless arrest without providing a prompt, neutral \ndetermination of probable cause supported by an oath or affirmation. \nCount Two: Defendant Falsely Imprisons Plaintiffs in Violation of Texas law \n \n81.  Plaintiffs incorporate by reference the allegations in paragraphs 1–81. \n  16 \n\nCase 4:16-cv-03745   Document 1   Filed in TXSD on 12/28/16   Page 17 of 18\n \n82.  Texas law requires that all misdemeanor arrestees be brought before a magistrate \nwithin 24 hours or be released on an affordable bond, and requires that all felony arrestees be \nbrought before a magistrate within 48 hours or be released on an affordable bond.  Tex. Code Crim. \nP. Ann. § 17.033(a)–(b).  If the arrestee cannot afford any bond, she must be released on a personal \nbond immediately.  Id.  Therefore, any person in Harris County custody after a warrantless arrest \nfor 24 hours on a misdemeanor charge or 48 hours on a felony charge who was otherwise eligible \nfor release but unable to secure release and who was not offered a personal bond is unlawfully \ndetained.  Harris County, therefore, falsely imprisons Plaintiffs and Class Members who are \ndetained beyond these time periods.  \nREQUESTS FOR RELIEF \nWHEREFORE, the named Plaintiffs, on behalf of themselves and a class of others similarly \nsituated, request that this Court issue the following relief:  \n \na.  A declaration that Harris County violates Plaintiffs’ rights by detaining them after a \nwarrantless arrest without a neutral and prompt determination of probable cause based on \nfacts sworn by oath or affirmation. \nb.  An injunction requiring Harris County to ensure that all warrantless arrestees in its custody \nreceive a prompt determination of probable cause by a neutral magistrate based on facts \nsupported by oath or affirmation consistent with Texas and federal law. \nc.  An order and judgment granting reasonable attorneys’ fees and costs pursuant to 42 U.S.C. \n§ 1988 and 18 U.S.C. § 1964, and any other relief this Court deems just and proper. \n \n \n  17 \n\nCase 4:16-cv-03745   Document 1   Filed in TXSD on 12/28/16   Page 18 of 18\n \nDated:  December 28, 2016  Respectfully submitted, \n \n/s/ Rebecca Bernhardt \n  Rebecca Bernhardt (TX Bar No. 24001729) \nAttorney-in-Charge \nSusanne Pringle (TX Bar No. 24083686) \nTexas Fair Defense Project \n314 E Highland Mall Blvd, Suite 108 \nAustin, Texas 78752 \n(512) 637-5220 \nrbernhardt@fairdefense.org \nspringle@fairdefense.org \n \n/s/ Elizabeth Rossi \n  Elizabeth Rossi (Pro hac vice pending) \nCharlie Gerstein (Pro hac vice pending) \nAlec Karakatsanis (Pro hac vice pending) \nCivil Rights Corps \n910 17th Street NW, Fifth Floor \nWashington, DC 20001 \n(202) 681-2409 \nelizabeth@civilrightscorps.org \ncharlie@civilrightscorps.org \nalec@civilrightscorps.org \n \n \n  18 ",
+      "document_type_other": "",
+      "external_url": "",
+      "ecf_number": "1",
+      "clearinghouse_link": "clearinghouse.net/doc/109677"
+    }
+  ],
+  "document_count": 4
+}

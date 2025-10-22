@@ -1,0 +1,157 @@
+{
+  "case_id": 45206,
+  "fetched_at": "2025-10-22T00:42:00.231963",
+  "case_data": {
+    "attorney_orgs": [],
+    "available_documents": [
+      "Non-settlement Outcome"
+    ],
+    "case_defendants": [],
+    "case_ongoing": "No reason to think so",
+    "case_status": "Approved",
+    "case_types": [
+      "National Security"
+    ],
+    "cause_other": "",
+    "causes": [
+      "FISA Title I Warrant (Electronic Surveillance), 50 U.S.C. §§ 1801-1812",
+      "FISA Title III Warrant (Physical Search), 50 U.S.C. §§ 1821-1829"
+    ],
+    "class_action_granted": "Not sought",
+    "class_action_sought": "No",
+    "closing_year": null,
+    "constitutional_clause": [
+      {
+        "value": "Unreasonable search and seizure"
+      },
+      {
+        "value": "Freedom of speech/association"
+      }
+    ],
+    "content_of_injunction": [
+      {
+        "value": "Recordkeeping"
+      }
+    ],
+    "court": "Foreign Intelligence Surveillance Court",
+    "custom_issues": [],
+    "defendant_payment": "",
+    "defendant_type": [],
+    "docket_status": "None",
+    "facility_type": [],
+    "filing_date": "2008-10-08",
+    "filing_year": 2008,
+    "id": 45206,
+    "injunction_duration": "",
+    "issues": [
+      "General/Misc.: Search policies",
+      "General/Misc.: Record-keeping",
+      "General/Misc.: Terrorism/Post 9-11 issues",
+      "General/Misc.: Records Disclosure",
+      "General/Misc.: Confidentiality"
+    ],
+    "last_checked_date": "2008-10-08T00:00:00-04:00",
+    "main_docket": {
+      "id": 59092,
+      "docket_entries": [],
+      "docket_case_type": "",
+      "docket_year": null,
+      "docket_filing_number": null,
+      "is_main_docket": true,
+      "court": "Foreign Intelligence Surveillance Court",
+      "state": "District of Columbia",
+      "docket_office_number": "",
+      "docket_number_manual": "[Redacted]",
+      "scales_html": null,
+      "recap_link": null,
+      "is_active": true
+    },
+    "name": "In re Electronic Surveillance and Physical Search of Foreign Powers and Agents of Foreign Powers",
+    "never_filed": false,
+    "non_docket_case_number": "",
+    "non_docket_case_number_type": null,
+    "non_docket_case_number_type_other": "",
+    "order_end_year": null,
+    "order_start_year": 2008,
+    "permanent_injunction": false,
+    "plaintiff_description": "U.S. Attorney General, on behalf of the FBI and National Counterterrorism Center",
+    "plaintiff_type": [
+      {
+        "value": "U.S. Dept of Justice plaintiff"
+      }
+    ],
+    "prevailing_party": "Plaintiff",
+    "pro_se_status": "No",
+    "public_interest_lawyer": "Yes",
+    "related_cases": [],
+    "relief_natures": [
+      "Warrant/Order allowing surveillance"
+    ],
+    "relief_nature_other": "",
+    "relief_sources": [
+      "Litigation"
+    ],
+    "settlement_agreement": [],
+    "settlement_judgment_date": "2008-10-08",
+    "settlement_judgment_year": 2008,
+    "special_collections": [
+      "Foreign Intelligence Surveillance Act -- All Matters",
+      "Foreign Intelligence Surveillance Court"
+    ],
+    "special_case_type": [
+      {
+        "value": "Warrant or subpoena application (or protection)"
+      }
+    ],
+    "state": "District of Columbia",
+    "summary": "<p>This case relates to electronic surveillance conducted by the federal government pursuant to Title I of the Foreign Intelligence Surveillance Act (FISA). On October 2, 2008, the government filed a motion to amend the FBI Standard Electronic Surveillance and Physical Search Minimization Procedures. The proposed amendments authorized the National Counterterrorism Center (NCTC) to access information obtained pursuant to FISA in the FBI's Automated Case Support (ACS) database, as long as the NCTC only accesses cases likely connected to terrorism or counterterrorism. The NCTC would also be able to disseminate that information with the FBI's approval, subject to certain minimization procedures&mdash;i.e., procedures to prevent private information about U.S. persons from becoming public or being misused.</p>\r\n<p>On October 8, 2008, Judge Colleen Kollar-Kotelly of the United States Foreign Intelligence Surveillance Court granted the government&rsquo;s motion. She held that providing FISA information to the NCTC was consistent with FISA, including section 1801, because allowing the NCTC to access this information was &ldquo;consistent with the need of the United States to obtain, produce and disseminate foreign intelligence information.&rdquo; One potential problem the court raised is that the FBI's ACS database had some information unrelated to foreign intelligence, and it was not possible to separate the different types of information. FISA has different restrictions on how the government can use information that is not about foreign intelligence. However, the NCTC said it would not use any of that information, and the court concluded that the FBI could share the information with the NCTC because that did not count as \"disseminating\" it under FISA. Therefore, the court approved the amendments.</p>\r\n<p>This case is presumed closed.</p>",
+    "summary_published_date": "2024-05-06T17:11:16.328562-04:00",
+    "summary_short": "This case relates to electronic surveillance conducted by the federal government pursuant to Title I of the Foreign Intelligence Surveillance Act (FISA). On October 2, 2008, the government filed a motion to amend the FBI Standard Electronic Surveillance and Physical Search Minimization Procedures. The proposed amendments authorized the National Counterterrorism Center (NCTC) to access information obtained pursuant to FISA in the FBI's Automated Case Support (ACS) database, as long as the NCTC only accesses cases likely connected to terrorism or counterterrorism. The NCTC would also be able to disseminate that information with the FBI's approval, subject to certain minimization procedures. On October 8, 2008, Judge Colleen Kollar-Kotelly of the United States Foreign Intelligence Surveillance Court granted the government’s motion. She held that providing FISA information to the NCTC was consistent with FISA, including section 1801, because allowing the NCTC to access this information was “consistent with the need of the United States to obtain, produce and disseminate foreign intelligence information.” This case is presumed closed.",
+    "summary_tiny": null,
+    "terminating_date": null,
+    "clearinghouse_link": "clearinghouse.net/case/45206",
+    "is_active": true,
+    "case_documents_url": "https://clearinghouse.net/api/v2/documents/?case=45206",
+    "case_dockets_url": "https://clearinghouse.net/api/v2/dockets/?case=45206",
+    "case_resources_url": "https://clearinghouse.net/api/v2/resources/?case=45206"
+  },
+  "documents": [
+    {
+      "date": "2008-10-08",
+      "date_is_estimate": false,
+      "date_not_available": false,
+      "description": "",
+      "document_source": null,
+      "document_status": "Coding Complete",
+      "document_type": "Order/Opinion",
+      "order_type": "Non-Decree",
+      "citation_paren": null,
+      "cite_1_page": null,
+      "cite_1_reporter": null,
+      "cite_1_vol": null,
+      "cite_2_page": null,
+      "cite_2_reporter": null,
+      "cite_2_vol": null,
+      "cite_3_page": null,
+      "cite_3_reporter": null,
+      "cite_3_vol": null,
+      "citation_status": "No citation available",
+      "court": "Foreign Intelligence Surveillance Court",
+      "no_title": false,
+      "party_types": [
+        "Court"
+      ],
+      "per_curium": false,
+      "is_core_document": true,
+      "id": 145268,
+      "file": "https://clearinghouse-umich-production.s3.amazonaws.com/media/doc/145268.pdf",
+      "title": "Memorandum Opinion",
+      "text": "FISA Title I FISC Memorandum Opinion and Order Authorized for Public Release by ODNI\nUNITED STATES \nFOREIGN INTELLIGENCE SURVEILLANCE COURT \nWASHINGTON, D.C. \nIN RE ELEC IRONIC SURVEILLANCE AND \nPHYSICAL SEARCH OF FOREIGN POWERS AND  Docket Number:   \nAGENTS OF FOREIGN POWERS (U) \nMEMORANDUM OPINION  \nThis matter is before the Court on the government's motion, filed October 2, 2008, to \namend previous Orders and Warrants of this Court to incorporate amendments to the Federal \nBureau of Investigation (FBI) Standard Electronic Surveillance and Physical Search \nMinimization Procedures. These amendments to the standard minimization procedures were \nadopted by the Attorney General, on October 2, 2008. \nThe amendments adopted by the Attorney General authorize the National \nCounterterrorism Center (NCTC) to review specific categories of information obtained pursuant \nto the Foreign Intelligence Surveillance Act of 1978, as amended, 50 U.S.C. §§ 1801-1811, \n1821-1829 (FISA) that the FBI has entered into its Automated Case Support (ACS) database and \nto disseminate such information in accordance with a set of NCTC standard minimization \nSECRET \nAuthorized for Public Release on: August 12, 2022 Page 1 of 8 FISA Memorandum Opinion and Order, October 8, 2008\n\nFISA Title I FISC Memorandum Opinion and Order Authorized for Public Release by ODNI\nprocedures, which are on file with this Court.' Specifically, the amendments add to each set of \nFBI standard minimization procedures the following:2  \nAccess by the National Counterterrorism Center to the FBI's \nAutomated Case Support (ACS) Database (S) \nNotwithstanding any other provision of these procedures, the FBI may \ngrant the National Counterterrorism Center (NCTC) access to its \nAutomated Case Support (ACS) database, provided that such access is \nlimited to classifications of cases that are likely to contain information \nrelated to terrorism or counterterrorism. NCTC's access to ACS is \ncontingent upon NCTC's application of the National Counterterrorism \nCenter Standard Minimization Procedures for Information Received from \nthe Federal Bureau of Investigation, which are on file with the Court. If \nthe FBI authorizes NCTC to disseminate any information NCTC receives \npursuant to this section, such authorization shall be made consistent with \nthese procedures and applicable Department of Justice guidance, including \nbut not limited to restrictions governing foreign governments. (S) \nThe issue presented by the government's motion is whether the FBI standard \nminimization procedures, with this amendment, still meet the definition of minimization \nprocedures under FISA. Section 1801(h) of FISA provides, in relevant part, that minimization \nprocedures are: \n(1) specific procedures, which shall be adopted by the Attorney General, \nthat are reasonably designed in light of the purpose and technique of the \nparticular surveillance, to minimize the acquisition and retention, and \nprohibit the dissemination, of nonpublicly available information  \nThese procedures are captioned \"National Counterterrorism Center Standard \nMinimization Procedures For Information Received from the Federal Bureau of Investigation\" \nand are on file with the Court in Docket Number\n In those FBI standard minimization procedures governing electronic surveillance, this \n2 \nlanguage is added as Section 6; it is added as Section VI in those FBI standard minimization \nprocedures governing physical search. \nSECRET \n-2- \nAuthorized for Public Release on: August 12, 2022 Page 2 of 8 FISA Memorandum Opinion and Order, October 8, 2008\n\nFISA Title I FISC Memorandum Opinion and Order Authorized for Public Release by ODNI\nconcerning unconsenting United States persons consistent with the need of \nthe United States to obtain, produce and disseminate foreign intelligence \ninformation; \n(2) procedures that require that nonpublicly available information, which \nis not foreign intelligence information, as defined in subsection (e)(1) of \nthis section, shall not be disseminated in a manner that identifies any \nUnited States person, without such person's consent, unless such person's \nidentity is necessary to understand foreign intelligence information or \nassess its importance; \n(3) notwithstanding paragraphs (1) and (2) , procedures that allow for the \nretention and dissemination of information that is evidence of a crime \nwhich has been, is being, or is about to be committed and that is to be \nretained or disseminated for law enforcement purposes; \n50 U.S.C. § 1801(h)(1)-(3).3  The Court finds that providing FISA information to NCTC meets \nthe requirements of section 1801(h)(1). As the government states in its motion, \"NCTC is the \nnation's primary organization for analyzing and integrating all terrorism- and counterterrorism-\nrelated intelligence possessed or acquired by the United States Government.\" Gov't Mot. at 6. \nSee also  50 U.S.C. § 404o(d) (setting forth the primary missions of NCTC as including \nconducting strategic operational planning for counterterrorism activities and serving as the \ncentral and shared knowledge bank on known and suspected terrorists and international terror \ngroups). Permitting NCTC to have access to those classifications of cases in ACS that are likely \nto contain terrorism or counterterrorism information is therefore consistent with the need of the \nUniled—Sfates to Obain, produce and disseminate foreign intelligence information. \nThe analysis with respect to sections 1801(h)(2) and (h)(3) is complicated by the fact that \n3  Section 1821(4) of FISA defines minimization procedures with respect to physical \nsearch in the same way, substituting \"physical search\" for \"surveillance\" in section 1821(4)(A). \nFor ease of reference, the Court will refer in this Opinion only to the electronic surveillance \nprovisions of FISA. \nSECRET \n-3- \nAuthorized for Public Release on: August 12, 2022 Page 3 of 8 FISA Memorandum Opinion and Order, October 8, 2008\n\nFISA Title I FISC Memorandum Opinion and Order Authorized for Public Release by ODNI\nSECRET \naccording to the government, although the FISA information in ACS has been minimized \npursuant to the FBI standard minimization procedures, ACS nonetheless \"almost certainly\" \ncontains a small amount of nonpublicly available FISA information concerning U.S. persons that \nis not and does not reasonably appear to be foreign intelligence information, but has been \nretained by the FBI because it is evidence of a crime (\"non-foreign intelligence criminal \ninformation\"). Gov't Mot. at 3. The government asserts that it is not possible to segregate the \nforeign intelligence information from the non-foreign intelligence criminal information and thus, \nin order to receive the foreign intelligence information, the NCTC necessarily will receive the \nnon-foreign intelligence criminal information. Id.  at 23. \nSection 1801(h)(3) provides that such information may be retained or disseminated only \nfor law enforcement purposes. However, the government states in its motion that NCTC will not \nretain, use, or further disseminate the non-foreign intelligence criminal information. See Gov't \nMot. at 14 (\"NCTC has no interest in criminal information without foreign intelligence value.\"). \nGiven that NCTC will not be using the non-foreign intelligence criminal information, the \ndissemination of such information to the NCTC cannot be for a \"law enforcement\" purpose. \nMoreover, if the non-foreign intelligence criminal information disseminated to NCTC is not \n-disseminated for ptuposes of law enforcement, then it does not enjoy the \"safe harbor\" afforded \nby section 1801(h)(3) and thus, also could run afoul of section 1801(h)(2).4  \nThe Court finds that the amendments adopted by the Attorney General are nonetheless \nSection 1801(h)(2) is implicated because the non-foreign intelligence criminal \ninformation may include the identities of U.S. persons. \nSECRET \n-4- \nAuthorized for Public Release on: August 12, 2022 Page 4 of 8 FISA Memorandum Opinion and Order, October 8, 2008\n\nFISA Title I FISC Memorandum Opinion and Order Authorized for Public Release by ODNI\nconsistent with the statutory definition of minimization procedures, because it finds that, in this \ncase, providing NCTC with access to these specific categories of FISA information in ACS does \nnot actually constitute a dissemination. Rather, it is similar to the process the Court approved in \nDocket Number the raw take motion), whereby the agency that is the ultimate recipient \nof the FISA-aequired information is the party responsible for meeting the statutory requirement \nto minimize the information. Although the FISA data in ACS has already been \"minimized,\" the \nanalogy to the raw take motion is apt because the FBI has not configured ACS to enable its users \nto distinguish foreign intelligence information from non-foreign intelligence evidence of a crime. \nAs a result, the FISA information provided to NCTC through ACS is \"raw\" in the sense that \nNCTC users are currently unable to determine whether information retrieved from the system \nfalls into one category or the other. Thus, for the purposes of NCTC, the information contained in \nACS is not fully minimized until NCTC analysts have segregated the foreign intelligence \nterrorist-related information from the non-foreign intelligence evidence of a crime. \nThe Court finds that the FBI Standard Minimization Procedures coupled with the NCTC \nFISA Minimization Procedures meet the definition of \"minimization procedures\" under the \nstatute. The FBI only uploads to ACS such FISA-acquired information that it has determined to \nbe foreign intelligence—information or non-foreign intelligence evidence of a crime. \nConsequently, the vast majority of non-foreign intelligence information acquired by the FBI \nthrough electronic surveillance or physical search under FISA is never provided to NCTC. The \napplication by the NCTC of its minimization procedures is over and above that conducted by the \nFBI. \nSECRET \n-5- \nAuthorized for Public Release on: August 12, 2022 Page 5 of 8 FISA Memorandum Opinion and Order, October 8, 2008\n\nFISA Title I FISC Memorandum Opinion and Order Authorized for Public Release by ODNI\nIn addition, the NCTC procedures provide that NCTC's access within ACS is limited to \nspecific case classifications that contain terrorism-related information. Furthermore, the \nproposed NCTC minimization procedures prohibit NCTC analysts from retaining, using, or \ndisseminating non-foreign intelligence FISA information that is evidence of a crime.' For these \nreasons, the Court finds the amendments to the procedures consistent with the statute. \nFor the foregoing reasons, the government's motion is GRANTED.  An Order is being \nentered contemporaneously with this Opinion. \na  \nEntered this  6  day of October, 2008 in Docket Number\nCOLLEEN KOLLAR-.KUTELLY \nJudge, United States Foreign Intelligence \nSurveillance Court \n This prohibition does not violate section 1801(h)(3) because the FBI would, \n5 \npresumably, have already retained and disseminated any non-foreign intelligence FISA \ninformation in ACS that is evidence of a crime as part of the FBI's initial minimization of the \nraw FISA take. The government's minimization procedures as a whole, therefore, would permit \nthe retention and dissemination of such information. \nSECRET \n-6- \nAuthorized for Public Release on: August 12, 2022 Page 6 of 8 FISA Memorandum Opinion and Order, October 8, 2008\n\n     \nFISA Title I FISC Memorandum Opinion and Order Authorized for Public Release by ODNI\nSECRET \nUNITED STATES \nFOREIGN INTELLIGENCE SURVEILLANCE COURT \nWASHINGTON, D.C. \nIN RE ELECTRONIC SURVEILLANCE AND \nPHYSICAL SEARCH OF FOREIGN POWERS AND  Docket Number:   \nAGENTS OF FOREIGN POWERS (U) \nORDER \nThis matter having come before the Court on the motion of the United States to: \n(1) apply the Amendments to the Federal Bureau of Investigation Standard Electronic \nSurveillance and Physical Search Minimization Procedures, adopted by the Attorney General on \nOctober 2, 2008 and on file with the Court, to all Orders and Warrants of this Court authorizing \nelectronic surveillance and/or physical search that incorporate those procedures; and (2) amend \nall other Orders and Warrants of this Court authorizing electronic surveillance and/or physical \nsearch consistent with the Amendments, as set forth in the government's motion, the Court finds \nthat: the Amendments proposed in the government's motion have been adopted by the Attorney \nGeneral, as defined in Title 50, United States Code, Section 1801(g), and meet the definition of \nDerived from: Motion of the United States in  \nthe above-captioned matters  \nDeclassify on: 23 Stine 2033  \nAuthorized for Public Release on: August 12, 2022 Page 7 of 8 FISA Memorandum Opinion and Order, October 8, 2008\n\nFISA Title I FISC Memorandum Opinion and Order Authorized for Public Release by ODNI\nSECRET \nminimization procedures set forth at Title 50, United States Code, Sections 1801(h) and 1821(4); \nand, for the reasons stated in the Memorandum Opinion issued contemporaneously with this \nOrder, the government's motion is hereby GRANTED. \nEntered tthhiiss   _8  day of October, 2008 in Docket Number\nCOLLEEN KOLLAR-KOTELL \nJudge, United States Foreign Intelligence \nSurveillance Court \nSECRET \nDeputy Clerk \nFISC, certify that this document  -2- \nIs a true and correct\nthe original\nAuthorized for Public Release on: August 12, 2022 Page 8 of 8 FISA Memorandum Opinion and Order, October 8, 2008",
+      "document_type_other": null,
+      "external_url": "",
+      "ecf_number": "",
+      "clearinghouse_link": "clearinghouse.net/doc/145268"
+    }
+  ],
+  "document_count": 1
+}

@@ -1,0 +1,238 @@
+{
+  "case_id": 10017,
+  "fetched_at": "2025-10-22T00:10:48.676148",
+  "case_data": {
+    "attorney_orgs": [],
+    "available_documents": [
+      "Trial Court Docket",
+      "Any published opinion"
+    ],
+    "case_defendants": [
+      {
+        "defendant_level": null,
+        "institution": "",
+        "institution_alt_state": null,
+        "institution_city": "",
+        "institution_county": "Hunterdon",
+        "name": "Hunterdon County",
+        "defendant_level_other": "",
+        "is_active": true
+      },
+      {
+        "defendant_level": null,
+        "institution": "",
+        "institution_alt_state": null,
+        "institution_city": "Clinton",
+        "institution_county": null,
+        "name": "Township of Clinton",
+        "defendant_level_other": "",
+        "is_active": true
+      }
+    ],
+    "case_ongoing": "No",
+    "case_status": "Approved",
+    "case_types": [
+      "Jail Conditions"
+    ],
+    "cause_other": "",
+    "causes": [
+      "42 U.S.C. § 1983"
+    ],
+    "class_action_granted": "Not sought",
+    "class_action_sought": "No",
+    "closing_year": 1990,
+    "constitutional_clause": [
+      {
+        "value": "Unreasonable search and seizure"
+      }
+    ],
+    "content_of_injunction": [],
+    "court": "District of New Jersey",
+    "custom_issues": [],
+    "defendant_payment": "",
+    "defendant_type": [],
+    "docket_status": "Incomplete",
+    "facility_type": [
+      {
+        "value": "Government-run"
+      }
+    ],
+    "filing_date": "1985-12-12",
+    "filing_year": 1985,
+    "id": 10017,
+    "injunction_duration": "",
+    "issues": [
+      "General/Misc.: Search policies",
+      "Jails, Prisons, Detention Centers, and Other Institutions: Strip search policy (facilities)",
+      "Affected Sex/Gender(s): Female"
+    ],
+    "last_checked_date": "2007-06-26T00:00:00-04:00",
+    "main_docket": {
+      "id": 33062,
+      "docket_entries": [],
+      "docket_case_type": "cv",
+      "docket_year": 1985,
+      "docket_filing_number": 5778,
+      "is_main_docket": true,
+      "court": "District of New Jersey",
+      "state": "New Jersey",
+      "docket_office_number": "2",
+      "docket_number_manual": "2:85-cv-05778-AET",
+      "scales_html": "https://clearinghouse-umich-production.s3.amazonaws.com/media/docket-html/njd--2-85-cv-05778.html",
+      "recap_link": null,
+      "is_active": true
+    },
+    "name": "Roderique v. Kovac",
+    "never_filed": false,
+    "non_docket_case_number": "",
+    "non_docket_case_number_type": null,
+    "non_docket_case_number_type_other": "",
+    "order_end_year": 0,
+    "order_start_year": 0,
+    "permanent_injunction": false,
+    "plaintiff_description": "Woman transferred from Clinton Township Police Station to Hunterdon County Jail for detention because of an outstanding bench warrant regarding traffic violations, and was strip-searched at Hunterdon upon entry.",
+    "plaintiff_type": [
+      {
+        "value": "Private Plaintiff"
+      }
+    ],
+    "prevailing_party": "Plaintiff",
+    "pro_se_status": "No",
+    "public_interest_lawyer": "Unknown",
+    "related_cases": [],
+    "relief_natures": [
+      "Unknown"
+    ],
+    "relief_nature_other": "",
+    "relief_sources": [
+      "Unknown"
+    ],
+    "settlement_agreement": [],
+    "settlement_judgment_date": null,
+    "settlement_judgment_year": null,
+    "special_collections": [
+      "Strip Search Cases"
+    ],
+    "special_case_type": [],
+    "state": "New Jersey",
+    "summary": "<p>On December 12, 1985, a detainee for a minor traffic violation filed this 42 U.S.C. §1983 action in the United States District Court for the District of New Jersey against Hunterdon County, the Sheriff, and the Warden of the Hunterdon County Jail, and the Township of the arresting officers. The Plaintiff, represented by private counsel, asked the court for punitive damages, claiming that her Fourth Amendment rights had been violated because of a mandatory strip search.</p><p>On December 13, 1983, the plaintiff was pulled over and arrested on a bench warrant for failure to pay $75 in parking tickets in Newark.  Plaintiff was unable to pay the $75 as bond at the stationhouse. She elected to wait for the Newark police instead of calling a family member to make bond (because it was very early in the morning).  She was transported to Hunterdon County Jail for detention awaitingthe Newark Police. She was strip searched, over protests that she did not want to be detained and that she was menstruating, and detained thereafter. </p><p>On September 14, 1987, the Court (Judge Anne E. Thompson) granted summary judgment in favor of the plaintiff, finding Hunterdon County liable for damages (but not punitive damages), and dismissing the claims against the unnamed officers, the warden and the sheriff in their individual capacities.  The charges against the township presumably were allowed to continue.</p><p>We have no further information about this case, except that it was closed three years later, on April 4, 1990. </p><p></p>",
+    "summary_published_date": "2012-04-29T00:00:00-04:00",
+    "summary_short": "Pretrial detainee Plaintiff who was arrested because of outstanding parking tickets during a routine traffic stop was successful in her action against Defendant Hunterdon County for damages, after she was mandatorily strip searched in detention while awaiting retrieval by the Newark Police.",
+    "summary_tiny": null,
+    "terminating_date": null,
+    "clearinghouse_link": "clearinghouse.net/case/10017",
+    "is_active": true,
+    "case_documents_url": "https://clearinghouse.net/api/v2/documents/?case=10017",
+    "case_dockets_url": "https://clearinghouse.net/api/v2/dockets/?case=10017",
+    "case_resources_url": "https://clearinghouse.net/api/v2/resources/?case=10017"
+  },
+  "documents": [
+    {
+      "date": null,
+      "date_is_estimate": false,
+      "date_not_available": false,
+      "description": null,
+      "document_source": null,
+      "document_status": null,
+      "document_type": null,
+      "order_type": null,
+      "citation_paren": null,
+      "cite_1_page": null,
+      "cite_1_reporter": null,
+      "cite_1_vol": null,
+      "cite_2_page": null,
+      "cite_2_reporter": null,
+      "cite_2_vol": null,
+      "cite_3_page": null,
+      "cite_3_reporter": null,
+      "cite_3_vol": null,
+      "citation_status": null,
+      "court": null,
+      "no_title": false,
+      "party_types": [],
+      "per_curium": false,
+      "is_core_document": true,
+      "id": 120994,
+      "file": null,
+      "title": null,
+      "text": null,
+      "document_type_other": null,
+      "external_url": null,
+      "ecf_number": null,
+      "clearinghouse_link": "clearinghouse.net/doc/120994"
+    },
+    {
+      "date": "1990-04-02",
+      "date_is_estimate": false,
+      "date_not_available": false,
+      "description": null,
+      "document_source": "PACER [Public Access to Court Electronic Records]",
+      "document_status": "Approved",
+      "document_type": "Docket",
+      "order_type": null,
+      "citation_paren": null,
+      "cite_1_page": null,
+      "cite_1_reporter": null,
+      "cite_1_vol": null,
+      "cite_2_page": null,
+      "cite_2_reporter": null,
+      "cite_2_vol": null,
+      "cite_3_page": null,
+      "cite_3_reporter": null,
+      "cite_3_vol": null,
+      "citation_status": "Not applicable",
+      "court": "District of New Jersey",
+      "no_title": false,
+      "party_types": [
+        "Court"
+      ],
+      "per_curium": false,
+      "is_core_document": true,
+      "id": 24820,
+      "file": "https://clearinghouse-umich-production.s3.amazonaws.com/media/doc/24820.pdf",
+      "title": "Docket (PACER)",
+      "text": "CM/ECF LIVE - U.S. District Court for the District of New Jersey - Doc... https://ecf.njd.uscourts.gov/cgi-bin/DktRpt.pl?776059063982971-L_35...\nU.S. District Court\nDistrict of New Jersey [LIVE] (Newark)\nCIVIL DOCKET FOR CASE #: 2:85-cv-05778-AET\nRoderique v. Kovac, et al Date Filed: 12/12/1985\nAssigned to: Judge Anne E. Thompson Date Terminated: 04/02/1990\nDemand: $0 Jury Demand: None\nNature of Suit: 440 Civil Rights: Other\nJurisdiction: 0\nPlaintiff\nErnestine Roderique \nTERMINATED: 04/02/1990\nV.\nDefendant\nRobert W Kovac \nTERMINATED: 04/02/1990\nDefendant\nJohn Doe \nTERMINATED: 04/02/1990\nDefendant\nRichard Roe \nTERMINATED: 04/02/1990\nDefendant\nWarren Peterson \nTERMINATED: 04/02/1990\nDefendant\nCarl Frick \nTERMINATED: 04/02/1990\nDefendant\nFred Flack \nTERMINATED: 04/02/1990\nDefendant\nHunterdon County. \nTERMINATED: 04/02/1990\nDefendant\n1 of 2 6/26/2007 2:52 PM\n\nCM/ECF LIVE - U.S. District Court for the District of New Jersey - Doc... https://ecf.njd.uscourts.gov/cgi-bin/DktRpt.pl?776059063982971-L_35...\nNj Township Of Clinton \nTERMINATED: 04/02/1990\nProceedings for case 2:85-cv-05778-AET are not available\nPACER Service Center\nTransaction Receipt\n06/26/2007 15:54:01\nPACER  Client \nhs0328 eeoc \nLogin: Code:\n2:85-cv-05778-AET Start \nDocket  Search \nDescription: date: 1/1/1970 End date:\nReport Criteria:\n6/26/2007\nBillable \n1 Cost: 0.08\nPages:\n2 of 2 6/26/2007 2:52 PM",
+      "document_type_other": null,
+      "external_url": null,
+      "ecf_number": null,
+      "clearinghouse_link": "clearinghouse.net/doc/24820"
+    },
+    {
+      "date": "1987-09-14",
+      "date_is_estimate": false,
+      "date_not_available": false,
+      "description": null,
+      "document_source": null,
+      "document_status": "Approved",
+      "document_type": "Order/Opinion",
+      "order_type": "Unknown",
+      "citation_paren": null,
+      "cite_1_page": null,
+      "cite_1_reporter": null,
+      "cite_1_vol": null,
+      "cite_2_page": 17058,
+      "cite_2_reporter": "WL",
+      "cite_2_vol": 1987,
+      "cite_3_page": 8335,
+      "cite_3_reporter": "U.S.Dist.LEXIS",
+      "cite_3_vol": 1987,
+      "citation_status": "WL/LEXIS only: No official citation available",
+      "court": "District of New Jersey",
+      "no_title": false,
+      "party_types": [
+        "Court"
+      ],
+      "per_curium": false,
+      "is_core_document": true,
+      "id": 66283,
+      "file": "https://clearinghouse-umich-production.s3.amazonaws.com/media/doc/66283.pdf",
+      "title": "Opinion",
+      "text": "Roderique v. Kovac, Not Reported in F.Supp. (1987)   \n \n \n  \n3. Defendants’ motion to dismiss the John Doe defendants \n1987 WL 17058 \nfrom the action. \nOnly the Westlaw citation is currently available. \nUnited States District Court, D. New Jersey. \n4. Defendants’ motion to dismiss plaintiff’s claims for \npunitive  damages  against  Clinton  Township,  Officer \nErnestine RODERIQUE, Plaintiff, \nKovac, and Lt. Fred Slack. \nv. \n \nRobert W. KOVAC, etc., et al., Defendants. \nFACTS \nCiv. A. No. 85–5778 (AET). | September 14, 1987. \nDuring the early morning hours of December 13, 1983, \nMs. Roderique was driving a van registered to Producer’s \nAttorneys and Law Firms \nBakery, her husband’s employer, eastbound on Route 22 \nThomas  Waldman.  Carpenter,  Bennett  &  Morrissey,  in Clinton Township, New Jersey. With her were her \nNewark, N.J., for plaintiff.  husband, John Roderique, and their six-year old son. They \nwere  returning  from  a  business  trip  to  Pottstown, \nJohn P. Gallina, Gaetano M. De SAPIA, Flemington, N.J.,  Pennsylvania, where Mr. Roderique had purchased a van \nMichael  Dougherty,  Isaacson  &  Dougherty,  Roseland,  load  of  baking  pans  to  use  in  connection  with  his \nN.J., David Vaida, Vaida & Vaida, Flemington, N.J., for  business. Ms. Roderique was driving because her husband \ndefendants.  felt ill. It was a rainy night and she was driving slowly \nbecause  of  her  unfamiliarity  with  the  van,  the  poor \nOpinion  visibility and road conditions caused by the weather. \n \nThe van was observed by Officer Robert W. Kovak, of \nthe Clinton Township Police Department, to be traveling \nOPINION  at a low rate of speed on the left hand side of the road and \nweaving. After stopping the van, Officer Kovac asked \nMs. Roderique to produce her driver’s license, insurance \nANNE E. THOMPSON, District Judge. \ncard  and  vehicle  registration.  She  did  not  have  her \ndriver’s license with her at the time. She was issued a \n \nsummons and a motor vehicle check performed at that \ntime  indicated  that  there  was  an  outstanding  bench \nNATURE OF ACTION \nwarrant against her from the municipal court of Newark \n*1 This matter comes before the court on cross-motions  for unpaid parking tickets in the amount of $75. At that \nfor summary judgment filed by the plaintiff, Ernestine  time, the officer instructed Ms. Roderique to follow him \nRoderique, and the defendants. The defendants named in  to the Clinton Township Police Station. \nthe  complaint  are  Hunterdon  County,  Sheriff  Warren \nAt the police station, Ms. Roderique was told that because \nPeterson,  Warden  Carl  Frick,  and  three  Un-named \nof the outstanding arrest warrant, she would be released if \nEmployees of Hunterdon County (hereafter referred to as \nshe paid the outstanding fine of $75. The Roderiques did \nthe ‘County Defendants’), and Clinton Township, Officer \nnot have $75 with them, but offered to leave $45 and the \nRobert Kovac and former Chief of Police, Lieutenant \nload  of  baking  pans  until  she  could  return  with  the \nFred  Slack  (hereafter  referred  to  as  the  ‘Township \nbalance.  The  officer  told  her  that  she  would  have  to \nDefendants’). Ms. Roderique filed claims under 42 U.S.C. \nremain in custody until the Newark police came to pick \n§ 1983 and New Jersey state law for damages resulting \nher  up.  She  was  given  the  opportunity  to  telephone \nfrom an allegedly unconstitutional strip search. \nsomeone  to  bring  her  the  necessary  funds.  After \nThe motions presently before this court are as follows:  considering the late hour and poor weather conditions, she \ndecided to wait until the Newark police came to pick her \n1.  Plaintiff’s  motions  for  summary  judgment  against  up. \nHunterdon County; Sheriff Warren Peterson, individually \nand  in  his  official  capacity;  and  Warden  Carl  Frick,  *2 Because the Clinton Township Police Station did not \nindividually and in his official capacity.  have any facilities to detain prisoners, Ms. Roderique was \ntaken to the Hunterdon County Jail. Ms. Roderique was \n2. Defendants’ cross-motion for summary judgment on  not informed that she would be transferred until after she \nbehalf  of  defendants  Peterson,  Frick,  and  Hunterdon  decided to wait for the Newark police, nor was she ever \nCounty.  informed that she would be subjected to a strip search, \n  1 \n \n\nRoderique v. Kovac, Not Reported in F.Supp. (1987)   \n \nfingerprinting or photographing.  reasonableness \nrequires a balancing of the need for \nUpon her arrival at the county jail, Ms. Roderique was \nthe  particular  search  against  the \ntaken  through  the  routine  reception,  orientation  and \ninvasion  of  personal  rights  that  the \nprocessing  procedures  for  all  new  inmates  in  county \nsearch entails. Courts must consider \nfacilities. She was given an information questionnaire to \nthe scope of the particular intrusion, \nfill out, advised to relinquish her jewelry, belongings and \nthe manner in which it is conducted, \ncash, and was fingerprinted and photographed. She was \nthe justification for initiating it, and \nthen taken by a female corrections officer to a separate \nthe place in which it is conducted. \nroom and ordered to remove all of her clothing. By way \n  \nof protest, Ms. Roderique explained the nature of her \ndetention and indicated that she was menstruating and \n*3 Id. The court ruled that ‘the significant and legitimate \nwould  prefer  not  to  disrobe.  The  officer  persisted, \nsecurity  interests  of  the  institution’  in  preventing  the \nexplaining that it was standard procedure to strip search \nsmuggling of contraband outweighed the privacy interests \nall new inmates, and Ms. Roderique complied with the \nof  the  inmates.  Id.  at  560.  The  detention  facility  in \nofficer’s directions. She was ordered to raise her hands to \nWolfish  housed  primarily  pretrial  detainees  who  were \nher head, spread her legs and bend over in order that the \ncommittted  to  the  detention  facility  because  no  less \ncorrections officer could perform a visual inspection of \ndrastic means could reasonably ensure their presence at \nher anal and vaginal areas. There was no physical contact \ntrial.  In  addition,  some  convicted  inmates  were  also \nbetween the correction officer and Ms. Roderique during \nhoused  there  awaiting  sentencing  or  transportation  to \nthe  search,  and  no  weapons  or  contraband  were \nfederal prison. Id. at 524. The court found that such a \ndiscovered.  She  was  then  given  a  jail  uniform  and \nfacility is a ‘unique place fraught with serious security \nconfined in a cell until sometime that afternoon, when she \ndangers’  where  the  ‘smuggling  of  money,  drugs, \nwas transferred to the custody of the Newark police. \nweapons, and other contraband is all too common an \noccurrence.’  Id.  at  559.  Thus,  a  balance  of  interests \nAt Newark, Ms. Roderique paid the $75 in fines (three \nrevealed that body cavity searches were reasonable, and, \n$10 parking tickets and late payment penalties of $45), \ntherefore, did not violate the Fourth Amendment. \nwhich were a result of parking tickets issued to a vehicle \nregistered to her, but used exclusively by her husband. \nIt follows, however, that when such a balancing indicates \nthat the state’s security interest is less compelling than an \nOn  January  24,  1984,  Ms.  Roderique  appeared  at  a \nindividual’s privacy interest, a body cavity search may \nhearing at the North Hunterdon Municipal Court where \nnot  be  conducted  without  probable  cause.  Unlike  the \nshe was found guilty of the traffic offense charged by the \ninmates  in  Wolfish  who  were  incarcerated  after \nSummons issued by Officer Kovac. \nconviction or because no other means could ensure their \n \npresence at their federal criminal trials, Ms. Roderique \nwas  detained  pursuant  to  the  nonpayment  of  parking \nPlaintiff’s Motion for Summary Judgment \ntickets totaling $75. She was strip-searched pursuant to a \nPlaintiff  alleges  that  her  constitutional  rights  were  New  Jersey  regulation  requiring  all  newly  admitted \nviolated as a result of the strip search she endured at the  inmates to county adult correctional facilities to be strip \nHunterdon County jail. The Fourth Amendment to the  searched  for  weapons  and  contraband.  N.J.A.C. \nConstitution of the United States, applied to the states  10A:31–3.12.  Ms.  Roderique  maintains  that,  under \nthrough the Fourteenth Amendment, provides:  Wolfish,  Hunterdon  County  could  not  infer  from  her \nincarceration  for  parking  violations  a  viable  security \nThe right of the people to be secure in \nthreat to justify a strip search and body cavity inspection. \ntheir persons . . . against unreasonable \nsearches  and  seizures,  shall  not  be \nThe Third Circuit has not ruled on the issue of whether a \nviolated and no warrants shall issue, \nstrip  search  and  body  cavity  inspection  performed \nbut upon probable cause. \npursuant  to  a  state  regulation  requiring  such  searches \n  \nwithout regard to the offense charged or individualized \nprobable cause violates Fourth Amendment rights. In a \nHowever, as Justice Rehnquist stated for the Supreme \nrecent opinion, however, this court held that a search and \nCourt in Bell v. Wolfish, 441 U.S. 520 (1979), ‘the test of \nbody cavity inspection performed under the same New \nreasonableness  under  the  Fourth  Amendment  is  not \nJersey  regulation  violated  the  plaintiff’s  constitutional \ncapable of precise definition or mechanical application.’  \nrights. Davis v. City of Camden, 657 F. Supp. 396 (D.N.J. \nId. at 559. Holding that visual body cavity inspections of \n1987).  The  court  found  that  the  policy  of  N.J.A.C. \nprison  inmates  after  contact  visits  with  persons  from \n10A:31–3.12 requiring the strip search of all arrestees, \noutside  the  prison  could  be  conducted  on  less  than \nregardless  of  the  nature  of  their  offense,  is  not \nprobable  cause,  the  court  found  that  a  test  of \nsupportable, and thus, a search made pursuant to this \n  2 \n \n\nRoderique v. Kovac, Not Reported in F.Supp. (1987)   \n \npolicy, where no suspicion regarding the arrestee existed,  ‘may  be  sued  for  constitutional  deprivations  visited \nis unconstitutional. Id. at 401. The Davis court found  pursuant to governmental ‘custom,’ even though such a \npersuasive the holdings of eight Circuit Courts of Appeals  custom  has  not  received  formal  approval  through  the \nthat  ‘there  must  be  a  ‘reasonable  suspicion’  that  an  body’s official decisionmaking channels.’ Id. at 690–1. ‘A \narrestee is concealing weapons in order for a strip search  §  1983  plaintiff  thus  may  be  able  to  recover  from  a \nto be constitutionally justified. Id. at 399 (and cases cited  municipality without adducing evidence of an affirmative \ntherein).  decision  by  policymakers  if  able  to  prove  that  the \nchallenged  action  was  pursuant  to  a  state  ‘custom  or \nCharacteristic  of  these  holdings  is  the  ruling  of  the  usage’.’ Pembaur v. City of Cincinnati, 54 USLW 4289, \nSecond Circuit that  4293 n.10 (1986), quoting, Monell at 690–1. Hunterdon \nthe  Fourth  Amendment  precludes  County  argues  it  did  not  officially  formulate  its  strip \nprison  officials  from  performing  search  procedures  acting,  instead,  pursuant  to  a  New \nstrip/body cavity searches of arrestees  Jersey  state  regulation,  and  the  county  denies  Ms. \ncharged with misdemeanors or other  Roderique’s allegation that such actions reflect official \nminor  offenses  unless  the  officials  county policy. However, this court stated in Davis, supra, \nhave a reasonable suspicion that the  that \narrestee  is  concealing  weapons  or  the fact that state law mandates that a \nother contraband based on the crime  municipality  implement  a  particular \ncharged, the particular characteristics  policy  does  not  render  the \nof  the  arrestee  and/or  the  municipality’s affirmative adoption of \ncircumstances of the arrest.  that policy any less of a municipal \n   policy  than  when  state  law  merely \nauthorizes the municipality’s action, \n*4 Weber v. Dell, 804 F.2d 796, 802 (2d Cir. 1986).  or when state law is silent. \nApplying the balancing test enunciated in Bell v. Wolfish,    \nsupra, we concur with the Second Circuit and hold that \nthe  strip/body  cavity  search  performed  by  Hunterdon  Id.  at  404.  Furthermore,  Warden  Frick  stated  in  his \nCounty  on  plaintiff,  and  the  New  Jersey  regulation  affidavit  that  it  is  his  ‘duty  to  enforce  [the  state] \nmandating it, violate Ms. Roderique’s Fourth Amendment  regulations.’ By enforcing the state ‘custom or usage’ of \nrights. Without a reasonable suspicion based on the nature  blanket strip search procedures, Warden Frick established \nof the crime charged, the particular characteristics of the  county policy, see Weber, 804 F.2d at 803 (where sheriff \narrestee and/or the circumstances of the arrest, the state  ordered strip searches, he established county jail policy). \ncannot claim a threat to prison security constituting an  We, therefore, find the county liable under § 1983 and \ninterest sufficient to warrant an invasion of plaintiff’s  plaintiff’s motion shall be granted. \npersonal  rights.  The  blanket  policy  mandating  the   \nstrip/body cavity search of all arrestees, regardless of the \nnature of the charges against them does not encompass  Liability of the Individual County Defendants \nthe required balancing of these interests and, therefore, is \nunconstitutional.  Here,  plaintiff  was  detained  for  the  *5  Summary  judgment  in  favor  of  Sheriff  Warren \nnonpayment of parking fines in the amount of $75. The  Peterson will be granted. Sheriff Peterson did not become \nminor  nature  of  her  infraction  combined  with  her  sheriff until after the incidents which give rise to Ms. \ncooperative attitude during the arrest and the absence of  Roderique’s complaint took place, nor was he employed \nprior criminal or violent behavior were insufficient to  by  the  county  prior  to  becoming  sheriff.  He  is  not, \nprovide a reasonable suspicion that Ms. Roderique might  therefore, liable to Ms. Roderique. \nbe concealing weapons or contraband. Thus, the county \nhad no reasonable basis to subject her to the humiliation  Summary judgment will also be granted to Hunterdon \nCounty Jail Warden Carl Frick, as we find that he is \nof a strip search and body cavity inspection. These actions \nshielded  by  qualified  immunity.  The  Supreme  Court \nconstitute an ‘unreasonable search’ in violation of the \ndefined the scope of the qualified immunity defense in \nFourth Amendment. \nHarlow v. Fitzgerald, 457 U.S. 800 (1982): \n \n. . . government officials performing \nLiability of Hunterdon County  discretionary functions generally are \nshielded  from  liability  for  civil \nPlaintiff’s  motion  for  summary  judgment  against  damages insofar as their conduct does \nHunterdon County will, therefore, be granted. In Monell  not  violate  clearly  established \nv. New York City Dept. of Social Services, 436 U.S. 658  statutory  or  constitutional  rights  of \n(1978), the Supreme Court held that a local government  which  a  reasonable  person  would \nis, for the purpose of § 1983, a ‘person’ and, therefore, \n  3 \n \n\nRoderique v. Kovac, Not Reported in F.Supp. (1987)   \n \nhave known.  unconstitutional, it cannot be said that these defendants \n   violated  ‘clearly  established  statutory  or  constitutional \nrights.’  Thus,  defendant  Frick’s  motion  for  summary \nId. at 818. Thus, the issue here is whether Carl Frick’s  judgment will be granted. \nconduct  violated  clearly  established  statutory  or \nconstitutional rights of which a reasonable person would  *6 Hunterdon County has moved for summary judgment \nhave known.  to  dismiss  the  John  Doe  defendants  named  in  the \ncomplaint, claiming that amending the complaint to add \nThe  strip  search  policy  at  the  Hunterdon  County  Jail  these defendants’ real names is barred by the statute of \nunder which Ms. Roderique was searched was mandated  limitations. The replacement of a ‘John Doe’ caption with \nby  N.J.A.C.  10A:31–3.12(b)(2)  (1979).  The  regulation  a party’s real name amounts to changing a party under \nstates in part:  FED. R. CIV. P. 15(c), Deary v. Three Un-named Police \nOfficers,  746  F.2d  185,  198  (3d  Cir.  1984),  citing, \nAll newly admitted inmates shall be \nVarlack v. S.W.C. Caribbean, Inc., 550 F.2d 171, 174–5 \nthoroughly  searched.  Each  newly \n(3d Cir. 1977). Where the statute of limitations has run, \nadmitted  inmate  shall  be  strip \nrelation back of such an amendment is permitted only if \nsearched for weapons and contraband \nall  the  conditions  of  Rule  15  have  been  satisfied, \n.  .  ..  The  strip  search  shall  be \nincluding the requirement that the defendant have actual \nconducted in private and in a manner \nnotice, or could be expected to have had notice of the \nthat  preserves  the  dignity  of  the \naction  before  the  statute  had  run.  Id.  The  John  Doe \ninmate.  Newly  admitted  female \ndefendants have not yet been named. There is no showing \ninmates shall be strip searched by a \nthat  these  undiscovered  defendants  had  or  could  be \nfemale  staff  member  in  an  area \nexpected  to  have  had  actual  notice  of  this  law  suit. \nseparate from that of male inmates. \nFurther, the John Doe defendants would in all likelihood \nSuch  searches  shall  be  conducted \nbe entitled to qualified immunity. Thus, the motion to \nunder sanitary conditions. \ndismiss the claims against the John Doe defendants is \n  \ngranted. \n \nId. Though the validity of body cavity searches has been \nupheld by the Supreme Court, see, Bell v. Wolfish, supra, \nLiability of the County Defendants in their Official \nneither the Supreme Court nor the Third Circuit has ruled \nCapacities \non the constitutionality of blanket strip search policies \nlike  the  one  required  by  the  New  Jersey  regulation. \nPlaintiff’s claims against Sheriff Peterson, Warden Frick, \nCurrently eight circuits have held that there must be a \nand the John Doe defendants in their official capacities \nreasonable  suspicion  that  an  arrestee  is  concealing \nare also dismissed. Claims against government employees \nweapons or contraband in order for a strip search to be \n‘represent only another way of pleading an action against \nvalid, Davis, 657 F. Supp. at 399, and the Davis court \nan entity of which an officer is an agent.’ Monell, 436 \nrecently  held  that  N.J.A.C.  10A:31–3.12  is \nU.S. at 690, n.55. Law suits against officials in their \nunconstitutional. We so hold, also. Notwithstanding the \nofficial  capacities  are  essentially  suits  against  the \npresent holding regarding the unconstitutionality of this \ngovernment.  Id.  We  grant  summary  judgment  against \ntype of search, we conclude that it would be unfair to \nHunterdon County, holding it liable to Ms. Roderique for \ndeny qualified immunity to the individual defendants in \nher  injuries.  There  is  no  need,  therefore,  to  retain \nthe face of the state regulation. It was not unreasonable \nplaintiff’s claims against the individual county defendants \nfor the defendant to have relied upon a presumably valid \nin their official capacities. Accordingly, we will grant \nstate  statute  until  advised  otherwise.  The  Davis  court \ndefendants’  motion  for  summary  judgment  dismissing \nfound that: \ndefendants Peterson, Frick and the John Doe defendants \nState laws are presumptively valid; and while adherence \nin their official capacities. \nto  an  unconstitutional  state  law  mandate  will  not \n \nabsolutely immunize a local government official, he will \nbe  excused  from  §  1983  liability  ‘for  acting  under  a  Punitive Damages \nstatute that he reasonably believed to be valid but that was \nlater held unconstitutional.’  Ms. Roderique also seeks punitive damages against all the \n   defendants named in her complaint. Defendants Clinton \nTownship,  Lieutenant  Slack  and  Officer  Kovac  have \n657  F.  Supp.  at  401,  (emphasis  in  original),  quoting,  moved for summary judgment to dismiss this damage \nPierson v. Ray, 386 U.S. 547, 555 (1967). In the absence  claim. \nof rulings by the Supreme Court, the Third Circuit and the \nDistrict of New Jersey that a blanket strip search policy is  The Supreme Court held in Newport v. Fact Concerts, \n  4 \n \n\nRoderique v. Kovac, Not Reported in F.Supp. (1987)   \n \n453 U.S. 247, 271 (1981), that punitive damages cannot  ORDER \nbe awarded against a municipality under § 1983. Punitive \ndamages are intended to punish the tortfeasor who acted \nmaliciously or intentionally, but a municipality ‘can have  This matter having come before the court on motions by \nnot malice independent of the malice of its officials.’ Id.  the plaintiff and defendants for summary judgment and \nat 266–7. Thus, the claims for punitive damages against  this court having considered the arguments of counsel in \nClinton Township are dismissed.  support and in opposition to the motions and for good \ncause shown; \nFurthermore,  plaintiff’s  claims  for  punitive  damages \nIt is on this 14th day of September 1987, \nagainst  defendants  Kovac  and  Slack  will  also  be \ndismissed. The Supreme Court has held that a jury may be \nORDERED that plaintiff’s motion for summary judgment \npermitted to assess punitive damages in a § 1983 claim if \nagainst defendant Hunterdon County be and hereby is \nthe defendant’s conduct was ‘motivated by evil motive or \ngranted; it is further \nintent, or when it involves reckless or callous indifference \nto the federally protected rights of others.’ Smith v. Wade, \nORDERED that defendants’ cross motions for summary \n461 U.S. 30, 56 (1983). Lt. Slack, as former Chief of \njudgment in favor of defendants Peterson and Frick be \nPolice,  was  responsible  for  the  policy  of  transporting \nand hereby are granted; \nfemale detainees to the county jail. Officer Kovac, who \narrested plaintiff, did so courteously, and on the basis of a \nORDERED that defendants’ motion to dismiss the claims \nlegally issued warrant. There is no showing that either of \nagainst the John Doe defendants be and hereby is granted; \nthese  two  defendants  acted  maliciously,  recklessly,  or \nand \ncallously toward plaintiff. Accordingly, we will dismiss \nthe  plaintiff’s  claims  for  punitive  damages  against  ORDERED that plaintiff’s claims for punitive damages \ndefendants Kovac and Slack.  against defendants Clinton Township, Kovac and Slack be \nand hereby are dismissed. \n*7 The court will enter its own form of order. \n\t\r  \n \n \n \n  \n  5 \n ",
+      "document_type_other": null,
+      "external_url": "",
+      "ecf_number": null,
+      "clearinghouse_link": "clearinghouse.net/doc/66283"
+    }
+  ],
+  "document_count": 3
+}

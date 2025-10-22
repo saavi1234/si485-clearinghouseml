@@ -1,0 +1,405 @@
+{
+  "case_id": 6459,
+  "fetched_at": "2025-10-22T00:08:50.577727",
+  "case_data": {
+    "attorney_orgs": [
+      "EEOC"
+    ],
+    "available_documents": [
+      "Trial Court Docket",
+      "Complaint (any)",
+      "Monetary Relief",
+      "Injunctive (or Injunctive-like) Relief"
+    ],
+    "case_defendants": [
+      {
+        "defendant_level": null,
+        "institution": null,
+        "institution_alt_state": null,
+        "institution_city": "",
+        "institution_county": null,
+        "name": "Exelon Generation Co., LLC",
+        "defendant_level_other": null,
+        "is_active": true
+      },
+      {
+        "defendant_level": null,
+        "institution": null,
+        "institution_alt_state": null,
+        "institution_city": "",
+        "institution_county": null,
+        "name": "Exelon Generation Co., LLC",
+        "defendant_level_other": null,
+        "is_active": true
+      }
+    ],
+    "case_ongoing": "No",
+    "case_status": "Coding Complete",
+    "case_types": [
+      "Equal Employment"
+    ],
+    "cause_other": "",
+    "causes": [
+      "Americans with Disabilities Act (ADA), 42 U.S.C. §§ 12111 et seq."
+    ],
+    "class_action_granted": "Not sought",
+    "class_action_sought": "No",
+    "closing_year": 2007,
+    "constitutional_clause": [],
+    "content_of_injunction": [
+      {
+        "value": "Discrimination Prohibition"
+      },
+      {
+        "value": "Retaliation Prohibition"
+      },
+      {
+        "value": "Develop anti-discrimination policy"
+      },
+      {
+        "value": "Post/Distribute Notice of Rights / EE Law"
+      },
+      {
+        "value": "Provide antidiscrimination training"
+      },
+      {
+        "value": "Implement complaint/dispute resolution process"
+      },
+      {
+        "value": "Reporting"
+      },
+      {
+        "value": "Recordkeeping"
+      },
+      {
+        "value": "Monitoring"
+      }
+    ],
+    "court": "Northern District of Illinois",
+    "custom_issues": [],
+    "defendant_payment": "78918.88",
+    "defendant_type": [],
+    "docket_status": "Complete as of retrieval date",
+    "facility_type": [],
+    "filing_date": "2005-09-30",
+    "filing_year": 2005,
+    "id": 6459,
+    "injunction_duration": "24",
+    "issues": [
+      "Discrimination Basis: Disability (inc. reasonable accommodations)",
+      "Discrimination Area: Disparate Treatment",
+      "Discrimination Area: Conditions of Employment (including assignment, transfer, hours, working conditions, etc.)",
+      "EEOC-centric: Direct Suit on Merits"
+    ],
+    "last_checked_date": "2018-12-20T00:00:00-05:00",
+    "main_docket": {
+      "id": 36611,
+      "docket_entries": [
+        {
+          "row_number": 0,
+          "id": 2761970,
+          "entry_number": "1",
+          "date_filed": "2005-09-30T00:00:00-04:00",
+          "attachments": [],
+          "url": "https://www.courtlistener.com/docket/12149922/1/equal-employment-opportunity-commission-v-exelon-generation-co-llc/",
+          "recap_pdf_url": null,
+          "pacer_doc_id": "06701106058",
+          "description": "COMPLAINT filed by Equal Employment Opportunity Commission; Jury Demand.(mb, ) (Entered: 10/03/2005)"
+        },
+        {
+          "row_number": 2,
+          "id": 2761972,
+          "entry_number": "3",
+          "date_filed": "2005-09-30T00:00:00-04:00",
+          "attachments": [],
+          "url": "https://www.courtlistener.com/docket/12149922/3/equal-employment-opportunity-commission-v-exelon-generation-co-llc/",
+          "recap_pdf_url": null,
+          "pacer_doc_id": "06701104591",
+          "description": "ATTORNEY Appearance for Plaintiff Equal Employment Opportunity Commission by John C. Hendrickson, Diane Ilene Smason (mb, ) (Entered: 10/03/2005)"
+        },
+        {
+          "row_number": 3,
+          "id": 2761973,
+          "entry_number": "4",
+          "date_filed": "2005-09-30T00:00:00-04:00",
+          "attachments": [],
+          "url": "https://www.courtlistener.com/docket/12149922/4/equal-employment-opportunity-commission-v-exelon-generation-co-llc/",
+          "recap_pdf_url": null,
+          "pacer_doc_id": "06701106276",
+          "description": "JOINT MOTION for entry of consent decree (amb, ) (Entered: 10/03/2005)"
+        },
+        {
+          "row_number": 4,
+          "id": 2761974,
+          "entry_number": "5",
+          "date_filed": "2005-09-30T00:00:00-04:00",
+          "attachments": [],
+          "url": "https://www.courtlistener.com/docket/12149922/5/equal-employment-opportunity-commission-v-exelon-generation-co-llc/",
+          "recap_pdf_url": null,
+          "pacer_doc_id": "06703631727",
+          "description": "NOTICE of Motion by all parties for presentment of motion for entry consent decree 4 before Honorable Mark Filip on 10/5/2005 at 09:30 AM. (amb, ) (Entered: 10/03/2005)"
+        },
+        {
+          "row_number": 5,
+          "id": 2761975,
+          "entry_number": "6",
+          "date_filed": "2005-10-04T00:00:00-04:00",
+          "attachments": [],
+          "url": "https://www.courtlistener.com/docket/12149922/6/equal-employment-opportunity-commission-v-exelon-generation-co-llc/",
+          "recap_pdf_url": null,
+          "pacer_doc_id": "06701119346",
+          "description": "ATTORNEY Appearance for Defendant Exelon Generation Co., LLC by Jennifer M. McMahon, Susan Helene Rider (rmm, ) (Entered: 10/05/2005)"
+        },
+        {
+          "row_number": 6,
+          "id": 10191648,
+          "entry_number": "7",
+          "date_filed": "2005-10-05T00:00:00-04:00",
+          "attachments": [],
+          "url": "https://www.courtlistener.com/docket/12149922/7/equal-employment-opportunity-commission-v-exelon-generation-co-llc/",
+          "recap_pdf_url": null,
+          "pacer_doc_id": "06701120738",
+          "description": "WAIVER OF SERVICE returned executed by Equal Employment Opportunity Commission. Exelon Generation Co., LLC waiver sent on 10/3/2005, answer due 12/2/2005. (Smason, Diane) (Entered: 10/05/2005)"
+        },
+        {
+          "row_number": 7,
+          "id": 10191649,
+          "entry_number": "8",
+          "date_filed": "2005-10-05T00:00:00-04:00",
+          "attachments": [],
+          "url": "https://www.courtlistener.com/docket/12149922/8/equal-employment-opportunity-commission-v-exelon-generation-co-llc/",
+          "recap_pdf_url": null,
+          "pacer_doc_id": "06701042114",
+          "description": "MINUTE entry before Judge Mark Filip : Joint Motion for entry of Consent Decree 4 is granted. Enter Consent Decree. Civil case terminated. Mailed notice (rmm, ) (Entered: 10/07/2005)"
+        },
+        {
+          "row_number": 8,
+          "id": 10191650,
+          "entry_number": "9",
+          "date_filed": "2005-10-05T00:00:00-04:00",
+          "attachments": [],
+          "url": "https://www.courtlistener.com/docket/12149922/9/equal-employment-opportunity-commission-v-exelon-generation-co-llc/",
+          "recap_pdf_url": null,
+          "pacer_doc_id": "06701041941",
+          "description": "CONSENT Decree Signed by Judge Mark Filip on 10/5/2005:Mailed notice(rmm, ) (Entered: 10/07/2005)"
+        },
+        {
+          "row_number": 1,
+          "id": 2761971,
+          "entry_number": "2",
+          "date_filed": "2005-09-30T00:00:00-04:00",
+          "attachments": [],
+          "url": "https://www.courtlistener.com/docket/12149922/2/equal-employment-opportunity-commission-v-exelon-generation-co-llc/",
+          "recap_pdf_url": null,
+          "pacer_doc_id": "06703642511",
+          "description": "CIVIL Cover Sheet (mb, ) (Entered: 10/03/2005)"
+        }
+      ],
+      "docket_case_type": "cv",
+      "docket_year": 2005,
+      "docket_filing_number": 5658,
+      "is_main_docket": true,
+      "court": "Northern District of Illinois",
+      "state": "Illinois",
+      "docket_office_number": "1",
+      "docket_number_manual": "05 C 5658",
+      "scales_html": "https://clearinghouse-umich-production.s3.amazonaws.com/media/docket-html/ilnd--1-05-cv-05658.html",
+      "recap_link": "https://www.courtlistener.com/docket/12149922/equal-employment-opportunity-commission-v-exelon-generation-co-llc/",
+      "is_active": true
+    },
+    "name": "EEOC v. COMMONWEALTH EDISON",
+    "never_filed": false,
+    "non_docket_case_number": "",
+    "non_docket_case_number_type": null,
+    "non_docket_case_number_type_other": "",
+    "order_end_year": 2007,
+    "order_start_year": 2005,
+    "permanent_injunction": false,
+    "plaintiff_description": "Equal Employment Opportunity Commission, on behalf of one or more workers.",
+    "plaintiff_type": [
+      {
+        "value": "EEOC Plaintiff"
+      }
+    ],
+    "prevailing_party": "Plaintiff",
+    "pro_se_status": "No",
+    "public_interest_lawyer": "Yes",
+    "related_cases": [],
+    "relief_natures": [
+      "Injunction / Injunctive-like Settlement",
+      "Damages"
+    ],
+    "relief_nature_other": "",
+    "relief_sources": [
+      "Settlement"
+    ],
+    "settlement_agreement": [
+      "Court Approved Settlement or Consent Decree"
+    ],
+    "settlement_judgment_date": "2005-10-05",
+    "settlement_judgment_year": null,
+    "special_collections": [
+      "EEOC Study — in sample",
+      "Multi-LexSum (in sample)"
+    ],
+    "special_case_type": [],
+    "state": "Illinois",
+    "summary": "In September 2005, the EEOC district office in Chicago, Illinois brought this action against the Exelon Generation Company, a regional electric power distributor, in the U.S. District Court for the Northern District of Illinois.  The complaint alleged that the defendant violated the Americans with Disabilities Act when it refused to give overtime work to an employee because of his disability. Six days after the initial complaint was filed, the parties settled and a consent decree was entered in October 2005. The defendant agreed to pay the complainant almost $79,000, post an EEO notice, adopt and distribute an anti-discrimination policy, provide EEO training to is managers and supervisors, and submit semiannual complaint/compliance reports to the EEOC. The terms of the decree ran for two years.The decree was entered in 2005 and scheduled to last until 2007. No further docket entries exist, so the case is closed.",
+    "summary_published_date": "2025-05-27T18:54:26.566738-04:00",
+    "summary_short": "",
+    "summary_tiny": null,
+    "terminating_date": "2007-10-05",
+    "clearinghouse_link": "clearinghouse.net/case/6459",
+    "is_active": true,
+    "case_documents_url": "https://clearinghouse.net/api/v2/documents/?case=6459",
+    "case_dockets_url": "https://clearinghouse.net/api/v2/dockets/?case=6459",
+    "case_resources_url": "https://clearinghouse.net/api/v2/resources/?case=6459"
+  },
+  "documents": [
+    {
+      "date": null,
+      "date_is_estimate": false,
+      "date_not_available": false,
+      "description": null,
+      "document_source": null,
+      "document_status": null,
+      "document_type": null,
+      "order_type": null,
+      "citation_paren": null,
+      "cite_1_page": null,
+      "cite_1_reporter": null,
+      "cite_1_vol": null,
+      "cite_2_page": null,
+      "cite_2_reporter": null,
+      "cite_2_vol": null,
+      "cite_3_page": null,
+      "cite_3_reporter": null,
+      "cite_3_vol": null,
+      "citation_status": null,
+      "court": null,
+      "no_title": false,
+      "party_types": [],
+      "per_curium": false,
+      "is_core_document": true,
+      "id": 124817,
+      "file": null,
+      "title": null,
+      "text": null,
+      "document_type_other": null,
+      "external_url": null,
+      "ecf_number": null,
+      "clearinghouse_link": "clearinghouse.net/doc/124817"
+    },
+    {
+      "date": "2005-09-30",
+      "date_is_estimate": false,
+      "date_not_available": false,
+      "description": null,
+      "document_source": null,
+      "document_status": "Coding Complete",
+      "document_type": "Complaint",
+      "order_type": null,
+      "citation_paren": null,
+      "cite_1_page": null,
+      "cite_1_reporter": null,
+      "cite_1_vol": null,
+      "cite_2_page": null,
+      "cite_2_reporter": null,
+      "cite_2_vol": null,
+      "cite_3_page": null,
+      "cite_3_reporter": null,
+      "cite_3_vol": null,
+      "citation_status": "Not applicable",
+      "court": "Northern District of Illinois",
+      "no_title": false,
+      "party_types": [
+        "Plaintiff"
+      ],
+      "per_curium": false,
+      "is_core_document": true,
+      "id": 19850,
+      "file": "https://clearinghouse-umich-production.s3.amazonaws.com/media/doc/19850.pdf",
+      "title": "Complaint",
+      "text": "IN TIlE UNITED STATES DISTRICT COURT \nFOR THE NORTHERN DISTRICT m'ILUNOIS \nEASTERN DIVISION \nMIBM\"l!L W: DOIBINS \n...,  U.I.1IIfIII\" 61!1U\" \nEQUAL EMPLOYMENT OPPORTUNITY  ) \nCOMMISSION,  ) \n05C  5658 \n) \nPlaintiff,  ) \n)  Civil Action No.  JUDGE FILIP \nv.  ) \n)  COMPLAINT \nEXELON GENERATION CO. LLC  )  MAGIST~ATE JUDGf ,\\SH:viAN \n(Braidwood Nuclear Power Station),  ) \n)  JURY TRIAL DEMAND \nDefendant.  ) \n) \n---------------------------) \nNATURE OF THE ACTION \nThis is an action under Title I of the Americans with Disabilities Act of 1990 (\"ADA\") \nand Title [ of the Civil Rights Act of 1991 to correct unlawful employment practices on the basis \nof disahility and to provide appropriate relief to Lawrence Pincombe (\"Pincombe\"), who was \nadver~ely affected by slich practices.  Defendant Exelon Generation Company LLC (f/k/a \nCommonwealth Edison Company, Nuclear Division) Braidwood Nuclear Power Station \n(hereafter, \"Exc1on\") discriminated against Pincombc on the basis of his disability by refusing to \npermit him to work overtilue, thus causing him a material and tangible loss of benefits. \nJURISDICTION AND VENUE \n1.  Jurisdiction of this Court is invoked pursuant to 28 U.S.c. §§ 451, [331. 1337, \n1343, and 1345.  This action is authorized and instituted pursuant to Section 10 7(a) of the ADA, \n42 U.S.C. § 12117(a), which incorporates hy reference Sections 706(f)(l) and (3) of Title VII of \nthe Civil Rights Act of 1964, (\"Titlc YU\"), 42 U.S.c. § 2000e-5(1)( [) and (3), and Section 102 of \nthe Civil RightsActofl991,42 U.S.c. § 19R1a. \n\n2 \n2.  The employment practices hereafter alleged to he unlawful were and are now \nbeing committed witbin the jurisdiction of the United States District Court for the Northern \nDistricl of Illinois. \nPARTlES \n3.  Plaintiff Equal Employment Opportunity Commission (thtl \"Commission\") is the \nagency of the United States of America charged with the administration, interpretation and \nenforctll11cnt of Title J of the ADA and is expressly authorized to bring this action by Section \n107(a) oflhe ADA, 42 U.S.c. § I 2117(a), which incorporates by reterence Sections 706(f)( I) \nand (3) ofTitic VII, 42 U.S.c. § 2000e-5(f)(1) and (3). \n4.  At all relevant tiwes, Defendant Exelon Generation Company Ltc has \ncontinuously been and is now a Pennsylvania limited liability eonlpany doing business in the \nStattl of Illinois and has continuously had and docs now have at least fifteen (15) employees. \n5.  At all relevant times, Defendant Exelon Generation Company LLC has \ncontinuously been and is now an employer engaged in an industry affecting commerce wilhin the \nweaning of Section 101(5) of the ADA, 42 U.S.c. § 12111(5), which incorporates by reference \nSections 7Ul(g) and (h) ofTitlc VIJ, 42 U.s.C. §§ 2000e(g) and (h). \n6.  At all relevant times, Defendant Exelon Generation Company LLC has been a \ncovered entity under Section 101(2) of the ADA, 42 U.S.c. § 12111(2). \nSTATEMENT OF CLA1MS \n7.  More than thirty (30) days prior to the institution of this lawsuit, Lawrence \nPincol11be filed a charge with the COlllmission alleging violations of Title J of the ADA by \nCOllll11onwealth Edison, whose successor is Exelon Generation COl11pany LLC..  All conditions \n\n3 \nprecedcnt to the institution of this lawsuit have heen fulfilled. \n8.  Since at least March, 2000, Exelon Generation Company LLC has engaged in \nunlawful employment practices at the Braidwood Nuclear Power Station in Illinois in violation \nof Title J of the ADA, 42lJ.S.C. § 121 12(a), (b)(I), and (b)(3)(A).  These practices include, but \nare not limited to, retlising to permit Pincombe to work overtime, on the basis of his disability, \nwhich caused him a material and tangible loss of benefits. \n9.  Tbe effect of the practices complained of above has been to deprive Pineombe of \nequal employment opportunities and otherwise adversely afteet his status as an employee \nbecause orhis status as a disabled person in violation ofTit\\c I of the ADA, 42 U.S.c. § 12112. \n10.  The unlawful employment practices complained of above in Paragraph 8 above \nwere intentional. \n11.  The unlawful employment practices complained of above in Paragraph 8 wcre \ndone with malice andlor reckless indifference to the federally protected rights ofPincombc. \nPRAYER FOR RELIEF \nWHEREFORE, (he Commission respectfully prays (ha( this Court: \nA.  Grant a permanent injunction enjoining Exelon Generation Company LLC, its \nofficers, successors, assigns, and all pcrsons in active concert or participation with it, from \nengaging in any employment practice which discriminates on the basis of disability; \nB.  Order Exclon Generation Company LLC to institute and carry out policies, \npractices, and programs which provide equal employment opportunities for quali Iled individuals \nwith disabilities, and which eradicate the effects ofib past and present unlawful employment \npractices; \n\n4 \nC.  Order Exe Ion Generation Company LLC to make whole Pincombc by providing \nappropriate back pay with pre-judgment interest, in amounts to be proved at trial, and other \naffirmative relief necessary to eradicate the effects of its unlawful employment practices; \nn.  Order Exelon Generation Company LLC to make whole Pineombe by providing \ncompensation for past and future pecuniary losses resulting from its unlawful employn1cnt \npractices, in amounts to be detennined at trial; \nE.  Order Exelon Generation Company LLC to make whole Pinconlbe by providing \ncompensation for non-pecuniary losses, including emotional pain, suffering, loss of enjoyment of \nIi rc and humiliation, in amounts to be determined at trial; \nF.  Order Exelon Generation Company LLC to pay Pineombe punitive damages for \nits maliciOlls amVor reckless conduct, in an amount to be determined at trial; \nG.  Order Exelon Generation Company LLC and its successors to provide training to \nits officers, managers and employees on appropriate conduct in regard to employees who are \ndisabled; \nII.  Grant such further relief as the COUli deems necessary and proper; and \nL  Grant the Commission its costs in this action. \nJURY TRIAL DEMAND \nThe Commission requests a jury trial on all issues of fact raised by its Complaint. \n\n5 \nRespectfully submitted, \nJAMES 1. LEE \nDeputy General Counsel \nEQUAL E  PLOYMENT OPPORTUNITY \nMISSION \n.W \n./ \nI \nI \nI \nfJ.'i.~~'---'.--- --.---- \niane 1. Sma son \nSupervisory Trial Attorney \nEQUAL EMPLOYMENT OPPORTUNITY \nCOMMISSION \n500 West Madison Street, Suite 2800 \nChicago, lllinois  60661 \n(312) 353-7526 ",
+      "document_type_other": "",
+      "external_url": "",
+      "ecf_number": "1",
+      "clearinghouse_link": "clearinghouse.net/doc/19850"
+    },
+    {
+      "date": "2005-10-05",
+      "date_is_estimate": false,
+      "date_not_available": false,
+      "description": null,
+      "document_source": "PACER [Public Access to Court Electronic Records]",
+      "document_status": "Coding Complete",
+      "document_type": "Docket",
+      "order_type": null,
+      "citation_paren": null,
+      "cite_1_page": null,
+      "cite_1_reporter": null,
+      "cite_1_vol": null,
+      "cite_2_page": null,
+      "cite_2_reporter": null,
+      "cite_2_vol": null,
+      "cite_3_page": null,
+      "cite_3_reporter": null,
+      "cite_3_vol": null,
+      "citation_status": "Not applicable",
+      "court": "Northern District of Illinois",
+      "no_title": false,
+      "party_types": [
+        "Court"
+      ],
+      "per_curium": false,
+      "is_core_document": true,
+      "id": 19847,
+      "file": "https://clearinghouse-umich-production.s3.amazonaws.com/media/doc/19847.pdf",
+      "title": "Docket (PACER)",
+      "text": "CM/ECF LIVE, Ver 3.0 - U.S. District Court, Northern Illinois - Docket... https://ecf.ilnd.uscourts.gov/cgi-bin/DktRpt.pl?128124591468791-L_35...\nASHMAN, CLOSED\nUnited States District Court\nNorthern District of Illinois - CM/ECF LIVE, Ver 3.0 (Chicago)\nCIVIL DOCKET FOR CASE #: 1:05-cv-05658\nEqual Employment Opportunity Commission v. Exelon  Date Filed: 09/30/2005\nGeneration Co., LLC  Date Terminated: 10/05/2005\nAssigned to: Honorable Mark Filip Jury Demand: Plaintiff\nCause: 28:451 Employment Discrimination Nature of Suit: 442 Civil Rights: Jobs\nJurisdiction: U.S. Government Plaintiff\nPlaintiff\nEqual Employment Opportunity  represented by Diane Ilene Smason \nCommission United States Equal Employment \nOpportunity Commission \n500 West Madison Street \nSuite 2800 \nChicago, IL 60661 \n(312) 353-7568 \nEmail: diane.smason@eeoc.gov \nLEAD ATTORNEY \nATTORNEY TO BE NOTICED\nAUSA \nUnited States Attorney's Office (NDIL) \n219 South Dearborn Street \nSuite 500 \nChicago, IL 60604 \n(312) 353-5300 \nEmail: USAILN.ECFAUSA@usdoj.gov \nATTORNEY TO BE NOTICED\nJohn C. Hendrickson \nUnited States Equal Employment \nOpportunity Commission \n500 West Madison Street \nSuite 2800 \nChicago, IL 60661 \n(312) 353-8551 \nFax: (312) 353-8555 \nEmail: john.hendrickson@eeoc.gov \nATTORNEY TO BE NOTICED\nV.\nDefendant\n1 of 3 6/5/2007 4:07 PM\n\nCM/ECF LIVE, Ver 3.0 - U.S. District Court, Northern Illinois - Docket... https://ecf.ilnd.uscourts.gov/cgi-bin/DktRpt.pl?128124591468791-L_35...\nExelon Generation Co., LLC  represented by Susan Helene Rider \n(Braidwood Nuclear Power Station) Exelon Business Services Company \nP.O. Box 805379 \n10 South Dearborn, 49th Floor \nChicago, IL 60603-5379 \n(312) 394-4970 \nEmail: susan.rider@exeloncorp.com \nLEAD ATTORNEY \nATTORNEY TO BE NOTICED\nJennifer M. McMahon \nExelon Business Services Company \n10 South Dearborn \nP.O. Box 805379 35th Floor \nChicago, IL 60603-5379 \n(312)394-4970 \nFax: (312) 394-4895 \nEmail: \njennifer.mcmahon@exeloncorp.com \nATTORNEY TO BE NOTICED\nDate Filed # Docket Text\n09/30/2005 1 COMPLAINT filed by Equal Employment Opportunity Commission; Jury \nDemand.(mb, ) (Entered: 10/03/2005)\n09/30/2005 2 CIVIL Cover Sheet (mb, ) (Entered: 10/03/2005)\n09/30/2005 3 ATTORNEY Appearance for Plaintiff Equal Employment Opportunity \nCommission by John C. Hendrickson, Diane Ilene Smason (mb, ) (Entered: \n10/03/2005)\n09/30/2005 4 JOINT MOTION for entry of consent decree (amb, ) (Entered: 10/03/2005)\n09/30/2005 5 NOTICE of Motion by all parties for presentment of motion for entry consent \ndecree4 before Honorable Mark Filip on 10/5/2005 at 09:30 AM. (amb, ) \n(Entered: 10/03/2005)\n10/04/2005 6 ATTORNEY Appearance for Defendant Exelon Generation Co., LLC by Jennifer \nM. McMahon, Susan Helene Rider (rmm, ) (Entered: 10/05/2005)\n10/05/2005 7 WAIVER OF SERVICE returned executed by Equal Employment Opportunity \nCommission. Exelon Generation Co., LLC waiver sent on 10/3/2005, answer due \n12/2/2005. (Smason, Diane) (Entered: 10/05/2005)\n10/05/2005 8 MINUTE entry before Judge Mark Filip : Joint Motion for entry of Consent \nDecree 4 is granted. Enter Consent Decree. Civil case terminated. Mailed notice \n(rmm, ) (Entered: 10/07/2005)\n10/05/2005 9 CONSENT Decree Signed by Judge Mark Filip on 10/5/2005:Mailed \nnotice(rmm, ) (Entered: 10/07/2005)\n2 of 3 6/5/2007 4:07 PM\n\nCM/ECF LIVE, Ver 3.0 - U.S. District Court, Northern Illinois - Docket... https://ecf.ilnd.uscourts.gov/cgi-bin/DktRpt.pl?128124591468791-L_35...\nPACER Service Center\nTransaction Receipt\n06/05/2007 16:09:36\nPACER Login: hs0328 Client Code: eeoc \nDescription: Docket Report Search Criteria: 1:05-cv-05658\nBillable Pages: 1 Cost: 0.08\n3 of 3 6/5/2007 4:07 PM",
+      "document_type_other": null,
+      "external_url": null,
+      "ecf_number": null,
+      "clearinghouse_link": "clearinghouse.net/doc/19847"
+    },
+    {
+      "date": "2005-10-05",
+      "date_is_estimate": false,
+      "date_not_available": false,
+      "description": null,
+      "document_source": null,
+      "document_status": "Coding Complete",
+      "document_type": "Settlement Agreement",
+      "order_type": "Consent Decree",
+      "citation_paren": null,
+      "cite_1_page": null,
+      "cite_1_reporter": null,
+      "cite_1_vol": null,
+      "cite_2_page": null,
+      "cite_2_reporter": null,
+      "cite_2_vol": null,
+      "cite_3_page": null,
+      "cite_3_reporter": null,
+      "cite_3_vol": null,
+      "citation_status": "Not applicable",
+      "court": "Northern District of Illinois",
+      "no_title": false,
+      "party_types": [
+        "Court",
+        "Defendant",
+        "Plaintiff"
+      ],
+      "per_curium": false,
+      "is_core_document": true,
+      "id": 19853,
+      "file": "https://clearinghouse-umich-production.s3.amazonaws.com/media/doc/19853.pdf",
+      "title": "Consent Decree",
+      "text": "IN THE UNITED STATES DISTRICT COURT \nFOR THE NORTHERN DISTRICT OF ILLINOIS \nEASTERN DIVISION \nEQUAL EMPLOYMENT OPPORTUNITY  ) \nCOMMISSION,  ) \n) \nPlaintiff,  ) \n) \nv.  )  Case No.  OS  L  '51c 5'0 \n) \nup \nEXELON GENERATION CO. LLC  )  Judge  }~l \n(Braidwood Nuclear Power Station),  ) \n) \nDefendant.  ) \n) \nCONSENT DECREE \nTHE LITIGATION \n1.  Plaintiff Equal Employment Opportunity Commission (\"EEOC\") filed this action \nalleging that Defendant Exelon Generation Company LLC (flkla Commonwealth Edison \nCompany, Nuclear Division) Braidwood Nuclear Power Station (hereafter \"Defendant\") violated \nTitle I of the Americans with Disabilities Act of 1990 (the \"ADA\"), 42 U.S.c. § 12101 et seq., \nby denying Charging Party Lawrence Pincombe (\"Pincombe\") overtime work due to his \ndisability. \n2.  In order to resolve this matter, and as a result of having engaged in \ncomprehensive settlement negotiations, the parties have agreed that this action shall be finally \nresolved by entry of this Consent Decree (hereafter \"Decree\"). This Decree fully and finally \nresolves any and all issues and claims arising out of the Complaint filed by EEOC.  This Decree \nis not an admission by Defendant ofa violation of the Americans with Disabilities Act or of any \nError! Unknown document property name. \n\nwrongdoing.  Nothing in this Consent Decree shall be deemed to constitute an admission by \neither party with respect to the claims or defenses of the other. \nFINDINGS \n3.  Having carefully examined the tenns and provisions of this Decree, and based on \nthe pleadings, record, and stipulations of the parties, the Court finds the following: \na.  This Court has jurisdiction of the subject matter of this action and of the \nparties. \nb.  The tenns of this Decree are adequate, fair, reasonable, equitable, and just. \nThe rights of EEOC, Defendant, the Charging Party and the public interest are adequately \nprotected by this Decree. \nc.  This Decree conforms with the Federal Rules of Civil Procedure and the \nADA and is not in derogation of the rights or privileges of any person. The entry of this Decree \nwill further the objectives of the ADA and will be in the best interests of the parties, the \nclaimant, and the public. \nNOW, THEREFORE, IT IS ORDERED, ADJUDGED AND DECREED THAT: \nINJUNCTION AGAINST DISABILITY DISCRIMINATION \n4.  Defendant and its owners, officers, agents, management (including supervisory \nemployees), successors and assigns, and all those in active concert or participation with them are \nhereby enjoined from discriminating against Defendant's employees in violation of the \nAmericans with Disabilities Act. \n\nNON-RET ALIA nON \n5.  Defendant, its owners, officers, agents, employees, successors, assigns and all \npersons acting in concert with them shall not engage in any form of retaliation against any person \nbecause such person has opposed any practice made unlawful under the ADA, filed a Charge of \nDiscrimination under the ADA, or testified or participated in any manner in any investigation, \nproceeding, or hearing under the ADA. \nSEVERANCE AGREEMENT \n6.  Defendant and Pincombe have contemporaneously entered into a severance \nagreement whereby Pincombe will have ceased his employment with Defendant as of \nSeptember 16, 2005, and Defendant will pay him $ 38,918.88, as a lump sum severance \npayment, minus lawful deductions and subject to execution of an agreement containing the \nprovisions mutually agreed to by Pincombe and Exelon.  Neither Pincombe and Defendant's \nentering into said severance agreement nor Pincombe's cessation of employment has been made \na condition of this Consent Decree by any party, and entry into said severance agreement and the \ncessation of said employment is entirely voluntary and reflects the personal desire and specific \nrequest of Pincombe to cease his employment with Defendant. \nMONETARY RELIEF \n7.  In addition to the lump sum severance payment provided for by the severance \nagreement detailed in Paragraph 6, Defendant shall pay $40,000 to Larry Pincombe as damages, \nprovided Defendant receives a release as attached as Exhibit A hereto.  No with holdings shall be \nmade from this amount.  Such payment shaH be reported to the IRS on a Form 1099. \n\n8.  Upon entry of this Consent Decree, EEOC shall mail to Pincombe a Release \nAgreement in the form attached hereto as Exhibit A.  Pincombe will execute and return the \nRelease Agreement to EEOC, who will then send it to Defendant.  Within five (5) days of \nDefendant's counsel's receipt of an executed Release Agreement, Defendant shall mail to \nPincombe's home address checks for the amounts listed above in Paragraphs 6 and 7, made \npayable to Lawrence Pincombe.  Defendant shall also mail a copy of such checks to EEOC at the \naddress set forth in Paragraph 23, below. \nPOSTING OF NOTICE \n9.  Within ten (10) business days after entry of this Decree, Defendant shall post \ncopies of the Notice attached as Exhibit B to this Decree on the bulletin boards usually used by \nDefendant for communicating with its employees at the Braidwood Nuclear Power Station. The \nNotice shall remain posted for two (2) years from the date of entry of this Decree. Defendant \nshall take all reasonable steps to ensure that the posting is not altered, defaced or covered by any \nother material.  Defendant shall certify to EEOC in writing within ten (10) business days after \nentry of the Decree that the Notice has been properly posted.  Defendant shall permit a \nrepresentative of EEOC to enter its premises for purposes of verifying compliance with this \nParagraph at any time during normal business hours without prior notice. \nRECORD KEEPING \n10.  Defendant shall maintain and make available for inspection and copying by \nEEOC records (inch,lding names, social security numbers, addresses, and telephone numbers) of \neach of Defendant's employees who complain of disability discrimination at the Braidwood \nfacility. With respect to complaints of disability discrimination, such report shall indicate the \n\ndate the complaint was made, who made it, what was alleged, and what actions were taken to \nresolve the matter. \nII.  Defendant shall make all documents or records referred to in Paragraph 10 above \navailable for inspection and copying within ten (10) business days after EEOC so requests. In \naddition, Defendant shall require supervisory personnel within its employ whom EEOC requests \nfor purposes of verifYing compliance with this Decree to cooperate with EEOC and to be \ninterviewed and shall encourage non-supervisory employees within its employ whom EEOC \nrequests for purposes of verifYing compliance with this Decree to cooperate with EEOC and to \nbe interviewed. \nREPORTING \n12.  Defendant shall furnish to EEOC the following written reports every six (6) \nmonths for a period of two (2) years following entry of this Decree. The first report shall be due \nsix (6) months after entry of the Decree. Each such report shall contain: \na.  A summary of the information recorded by Defendant pursuant to \nParagraph 10; \nb.  A certification by Defendant that the Notice required to be posted pursuant \nto Paragraph 9 remained posted during the entire six (6) month period preceding the report; and \nc.  A list of Defendant's employees who have received the training required \npursuant to Paragraph 14 below and the dates on which they received such training. \nADOPTION AND DISTRIBUTION OF POLICY \nAGAINST DISABILITY DISCRIMINATION \n13.  Defendant shall adopt and distribute, consistent with its normal practices, to all \ncurrent and future employees at the Braidwood Nuclear Power Station a policy against disability \n\ndiscrimination within thirty (30) days after the entry of this Consent Decree which shall, at a \nminimum, include the terms summarized in subparagraphs (a) through (g) below: \n(a)  Specific prohibition of all discrimination on the basis of disability against \nDefendant's employees. \n(b)  Inform Defendant's employees that they are entitled to a reasonable \naccommodation of their disability in accordance with the terms ofthe ADA. \n(c)  Inform Defendant's employees that (I) complaints of disability discrimination, \nwhether formal or informal, written or oral, may be made directly to any Department Head or \nhuman resources personnel; (2) complaints of disability discrimination can also be made to the \nCorporate Ethics Hotline (currently at 800-233-8442) or other designated official identified by \nposition and telephone number; (3) the complaining employee is not required to complain to any \nperson to whom it believes is responsible for the discrimination; (4) all supervisors and managers \nwho become aware of disability discrimination, either through a complaint or otherwise, have an \nobligation to report such information to human resources personnel. \n(d)  Inform Defendant's employees that all complaints of disability discrimination will \nbe investigated thoroughly and promptly and provide that employees who violate the policy are \nsubject to discipline up to and including discharge.  Provide that the employer will protect the \nconfidentiality of discrimination complaints to the extent possible. \n(e)  Provide that employees who make complaints of harassment and/or \ndiscrimination or provide information related to such complaints will be protected against \nretaliation. \n(f)  Provide that, in determining whether an employee is eligible for overtime or \npromotion, Defendant shall consider the employee's actual physical or mental condition(s), \n\n----\"\"---\nrather than solely the employee's restrictions (whether temporary or permanent), and shall \nconduct an individualized assessment of each employee, taking into consideration the \nemployee's private physicians' opinions and recommendations. \n(g)  Provide that, in determining whether an employee should be provided a \nreasonable accommodation and the nature of the accommodation, Defendant shall conduct an \nindividualized assessment of each employee, taking into consideration the employee's private \nphysicians' opinions and recommendations. \nDefendant shall forward a copy of the Policy to EEOC within thirty (30) business days \nafter entry of this Decree_  Within ten (10) business days of distributing the Policy, Defendant \nshall certify in writing that they distributed the policy to all of its employees.  The inclusion of \nParagraph 13 in the Decree does not mean that EEOC or the Court approves of Defendant's \npolicy against disability discrimination. \nTRAINING \n14.  Defendant shall implement a training program regarding disability discrimination \nand the ADA, which shall be in effect for at least the two (2) year period of this Consent Decree \nand shall be conducted in accordance with subsections (a) through (c) below: \n(a) All of Defendant's Braidwood management, supervisory, Human Resources and \nOccupational Health Services (OHS) employees, and all medical personnel (whether or not \nemployed by Defendant) who are involved in the reasonable accommodation process, evaluating \nor determining an employee's work restrictions, and/or determining whether an employee's \nphysical or mental conditions are temporary or permanent (so as to permit qualification for \novertime work or promotion), shall participate in mandatory training regarding disability \ndiscrimination and the ADA, including the Act's confidentiality provisions, with such training \n\nsessions to begin within sixty (60) days and to be completed within three hundred (300) days \nafter entry of this Decree.  The training may differ depending upon the trainee's position, with \nthe expectation that training will be more detailed for Human Resources, OHS and medical \npersonnel than for managers and supervisors. \n(b)  The training shall include, but not be limited to, a detailed discussion regarding \ndisability discrimination and reasonable accommodation, including: (1 )the process for \ndetermining whether an employee is eligible for overtime or promotion, which shall consider the \nemployee's actual physical or mental condition(s), rather than solely the employee's restrictions \n(whether temporary or permanent), and shall include an individualized assessment of each \nemployee, taking into consideration the employee's private physicians' opinions and \nrecommendations; and (2) the process for determining whether an employee should be provided \na reasonable accommodation and the nature of the accommodation, which shall include an \nindividualized assessment of each employee, taking into consideration the employee's private \nphysicians' opinions and recommendations. \n(c) Defendant shall provide comparable training to any new employees or medical \npersonnel, as described above, who begin working at or for Defendant's Braidwood facility after \nthe training sessions have taken place within ninety (90) days of the beginning of their work for \nDefendant. \n15.  Defendant will undertake the training at its own expense and will advise EEOC of \nthe identity of its traiper in advance and provide training materials upon request.  Defendant \npresently anticipates that training will be conducted by Exelon Corporation's Legal Department. \nShould Defendant wish to use any trainer other than Exelon Corporation's Legal Department, \nDefendant shall obtain EEOC's approval of such proposed trainer prior to the training session. \n\nDefendant shall submit the name, address, telephone number, resume and training proposal of \nthe proposed trainer to EEOC at least fifteen (15) days prior to the proposed date(s) of the \ntraining. EEOC shall have five (5) calendar days from the date of receipt of the information \ndescribed above to accept or reject the proposed trainer. In the event EEOC does not approve \nDefendant's designated trainer, Defendant shall have five (5) calendar days to identify an \nalternate trainer. EEOC shall have five (5) calendar days from the date of receipt of the \ninformation described above to accept or reject the alternate trainer.  Ifthe parties cannot through \nthis process agree on a trainer, then they may seek the Court's assistance under Paragraph 19. \n16.  Defendant shall certify to EEOC in writing within ten (10) business days after the \ntraining has occurred that the training has taken place and that the required personnel have \nattended. Such certification shall include: (i) the date, location and duration of the training; and \n(ii) a copy of the registry of attendance, which shall include the name and position of each person \nin attendance. \n17.  Defendant shall also provide EEOC with any and all copies of pamphlets, \nbrochures, outlines or other written material(s) provided to the participants of the training \nsession(s). \nMEDICAL RECORDS \n18.  Defendant recognizes the confidential nature of employee medical records and the \nneed to protect its employees' medical records and information from improper use or disclosure. \nDefendant will therefore maintain the confidentiality of information about its employees' medical \nconditions or histories in accordance with the ADA.  Nothing in this paragraph shall be \ninterpreted to prohibit Defendant from adopting reasonable medical confidentiality policies and \n\npractices to comply with law, including the federal Health Insurance Portability and \nAccountability Act and similar state laws. \nDISPUTE RESOLUTION \n19.  In the event that either party to this Decree believes that the other party has failed \nto comply with any provision(s) of the Decree, the complaining party shall notify the other party \nof the alleged non-compliance and shall afford the alleged non-complying party twenty (20) \nbusiness days to remedy the non-compliance or to satisfy the complaining party that the alleged \nnon-complying party has complied.  If the alleged non-complying party has not remedied the \nalleged non-compliance or satisfied the complaining party that it has complied within twenty \n(20) business days, the complaining party may apply to the Court for appropriate relief. \nDURATION OF THE DECREE AND RETENTION OF JURISDICTION \n20.  Unless otherwise noted, all provisions of this Decree shall be in effect (and the \nCourt will retain jurisdiction of this matter to enforce this Decree) for a period of two (2) years \nimmediately following entry of the Decree, provided, however, that if, at the end of the two (2) \nyear period, any disputes under Paragraph 19, above, remain unresolved, the term ofthe Decree \nshall be automatically extended (and the Court will retain jurisdiction ofthis matter to enforce \nthe Decree) until such time as all such disputes have been resolved. \nMISCELLANEOUS PROVISIONS \n21.  Each party to this Decree shall bear its own expenses and costs. EEOC and \nDefendant shall bear its own attorneys' fees. \n22.  This Consent Decree also completely resolves Charge of Discrimination \nNo. 2\\0-2003-33667, filed by Pincombe on or about June 30, 2003, against Commonwealth \nEdison Company/Exelon Corporation and extinguishes any all claims of Pincombe and EEOC \n\narising from or related to that Charge and the matters alleged therein, as to which Pincombe shall \nbe deemed to have received complete accord and satisfaction; provided, further, said Charge \nshall not constitute a basis for any further legal action or proceeding by EEOC against \nCommonwealth Edison Company or Exelon Corporation. \n23.  The terms of this Decree are and shall be binding upon the present and future \nrepresentatives, agents, directors, officers, assigns, and successors of Defendant in their \ncapacities as representatives, agents, directors and officers of Defendant, and not in their \nindividual capacities. \n24.  When this Decree requires the submission by Defendant of reports, certifications, \nnotices, or other materials to EEOC, they shall be mailed to: Exelon ADA Settlement, Equal \nEmployment Opportunity Commission, 500 W. Madison Street, Suite 2800, Chicago, Illinois, \n60661. When this Decree requires submission by EEOC of materials to Defendant, they shall be \nmailed to: Susan H. Rider, Associate General Counsel for Labor and Employment, Exelon \nBusiness Services Company, 10 S. Dearborn, 35th Floor, Chicago, IL 60603. \n\nFor the EQUAL EMPLOYMENT \nOPPORTUNITY COMMISSION \n1801 L Street, N.W. \nWashington, D.C. 20507 \nJAMES L. LEE \nDeputy General Counsel \nGWEN DOL YN YOUNG REAMS \nAssociate General Counsel \n, \n, i \n! \n, \n\" \nDiane 1. Smason \nSupervisory Trial Attorney \nFor Defendant EXELON GENERATION COMPANY LLC \nAnd COMMONWEALTH EDISON \nth \nlOS. Dearborn, 35 Floor \nc~ \nS  n H. Rider \nAssociate General Counsel for Labor and Employment \nENTER \nr \nJudge  at  ./ \nall \nDate:  , \n\nEXHIBIT A \nRELEASE AGREEMENT \nI, Lawrence Pincombe, for and in consideration of the sum of $40,000 payable to me \npursuant to the terms of the Consent Decree entered by the Court in EEOC v. Exelon Generation \nCompany LLC (Braidwood Nuclear Power Station), (N.D. Ill.), on behalf of myself, my heirs, \nassigns, executors, and agents, do hereby forever release, waive, remise, acquit, and discharge \nExelon Generation Company LLC (Braidwood Nuclear Power Station) (\"Defendant\"), and all \npast and present shareholders, officers, agents, employees, and representatives of Defendant, as \nwell as all successors and assignees of Defendant, from any and all claims and causes of action \nof any kind which I now have or ever have had under the Americans with Disabilities Act of \n1990,42 U.S.c. § 12101 et seq., as a result of or arising from the subject matter and claims \nwhich were or which could have been asserted in EEOC v. Exelon Generation Company LLC \n(Braidwood Nuclear Power Station), (N.D. Ill.).  I understand that nothing in this Release \nAgreement or in the Consent Decree is an admission of a violation of the Americans with \nDisabilities Act or of wrongdoing by Defendant. \nDate  Signature \n\n~-\"\"\"'\"'\",..\" \nEXHIBITB \nNOTICE TO ALL DEFENDANT'S EMPLOYEES \nThis Notice is being posted pursuant to a Consent Decree entered by the federal court in \nEEOC v. Exelon Generation Company LLC (Braidwood Nuclear Power Station), Case No. \n___. ,,-.' resolving a lawsuit filed by the U.S. Equal Employment Opportunity Commission \n(\"EEOC\") against Exelon Generation Company LLC (Braidwood Nuclear Power Station) \n(\"Defendant\"). \nIn its suit, EEOC alleged that Defendant violated the Americans with Disabilities Act \n(\"ADA\") by denying an employee overtime work due to his disability. \nTo resolve the case, Defendant and EEOC have entered into a Consent Decree which \nprovides appropriate reliefto the employee and, among other things, that: \nI)  Defendant will not discriminate against any employee on the basis of that \nemployee's disability in accordance with the terms of the ADA; \n2)  Defendant will not retaliate against any person because (s)he opposed any \npractice made unlawful by the ADA, filed an ADA charge of discrimination or \nparticipated in any ADA proceeding; and \n3)  Defendant will distribute to all of its employees a policy against disability \ndiscrimination and will provide training regarding disability discrimination and its \npolicy against disability discrimination to its managerial, supervisory, Human \nResources and OHS employees, and all medical personnel. \nThe EEOC enforces the federal laws against discrimination in employment on the basis \nof race, color, religion, national origin, sex, age or disability. If you believe you have been \ndiscriminated against, you may contact EEOC at (312) 353-8\\95. EEOC charges no fees and has \na TTD number. \nTHIS IS AN OFFICIAL NOTICE AND MUST NOT BE DEFACED BY ANYONE \nThis Notice must remain posted for two years from the date below and must not be \naltered, defaced of covered by any other material. Any questions about this Notice \nor compliance with its terms may be directed to:  Exelon Settlement, EEOC, 500 \nWest Madison Street, Suite 2800, Chicago, IL 60661. \nat r, \nzO().S'\" \nDate  t Court Judge ",
+      "document_type_other": "",
+      "external_url": "",
+      "ecf_number": "9",
+      "clearinghouse_link": "clearinghouse.net/doc/19853"
+    }
+  ],
+  "document_count": 4
+}

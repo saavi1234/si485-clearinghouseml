@@ -1,0 +1,654 @@
+{
+  "case_id": 45516,
+  "fetched_at": "2025-10-22T00:42:25.817368",
+  "case_data": {
+    "attorney_orgs": [],
+    "available_documents": [
+      "Trial Court Docket",
+      "Complaint (any)",
+      "Any published opinion"
+    ],
+    "case_defendants": [
+      {
+        "defendant_level": null,
+        "institution": "Colorado Governor's Office",
+        "institution_alt_state": "Colorado",
+        "institution_city": "Denver",
+        "institution_county": null,
+        "name": "Governor's Office",
+        "defendant_level_other": "",
+        "is_active": true
+      },
+      {
+        "defendant_level": null,
+        "institution": "",
+        "institution_alt_state": "Colorado",
+        "institution_city": "Rocky Ford",
+        "institution_county": null,
+        "name": "Shannon Wallace, City Administrator",
+        "defendant_level_other": "",
+        "is_active": true
+      },
+      {
+        "defendant_level": null,
+        "institution": "",
+        "institution_alt_state": "Colorado",
+        "institution_city": "La Junta",
+        "institution_county": null,
+        "name": "Commissioner's Office",
+        "defendant_level_other": "",
+        "is_active": true
+      }
+    ],
+    "case_ongoing": "No",
+    "case_status": "Approved",
+    "case_types": [
+      "Election/Voting Rights"
+    ],
+    "cause_other": "",
+    "causes": [
+      "42 U.S.C. § 1983"
+    ],
+    "class_action_granted": "Not sought",
+    "class_action_sought": "No",
+    "closing_year": 2023,
+    "constitutional_clause": [],
+    "content_of_injunction": [],
+    "court": "Western District of Oklahoma",
+    "custom_issues": [],
+    "defendant_payment": "",
+    "defendant_type": [],
+    "docket_status": "Complete as of retrieval date",
+    "facility_type": [],
+    "filing_date": "2022-11-08",
+    "filing_year": 2022,
+    "id": 45516,
+    "injunction_duration": "",
+    "issues": [
+      "Voting: Election administration",
+      "Voting: Voting: General & Misc."
+    ],
+    "last_checked_date": "2025-01-08T00:00:00-05:00",
+    "main_docket": {
+      "id": 59805,
+      "docket_entries": [
+        {
+          "row_number": 3,
+          "id": 9340646,
+          "entry_number": "2",
+          "date_filed": "2022-11-18T00:00:00-05:00",
+          "attachments": [],
+          "url": "https://www.courtlistener.com/docket/65747394/2/navarro-v-state-of-colorado/",
+          "recap_pdf_url": "https://www.courtlistener.com/recap/gov.uscourts.okwd.120045/gov.uscourts.okwd.120045.2.0.pdf",
+          "pacer_doc_id": "14905605195",
+          "description": "Order"
+        },
+        {
+          "row_number": 5,
+          "id": 9340647,
+          "entry_number": "3",
+          "date_filed": "2022-12-06T00:00:00-05:00",
+          "attachments": [
+            {
+              "recap_id": 426491146,
+              "pacer_url": "https://ecf.okwd.uscourts.gov/doc1/14905618257?caseid=120045",
+              "description": "Envelope",
+              "attachment_number": 1
+            }
+          ],
+          "url": "https://www.courtlistener.com/docket/65747394/3/navarro-v-state-of-colorado/",
+          "recap_pdf_url": "https://www.courtlistener.com/recap/gov.uscourts.okwd.120045/gov.uscourts.okwd.120045.3.0.pdf",
+          "pacer_doc_id": "14905618256",
+          "description": "Proceed In Forma Pauperis"
+        },
+        {
+          "row_number": 7,
+          "id": 9340648,
+          "entry_number": "4",
+          "date_filed": "2022-12-07T00:00:00-05:00",
+          "attachments": [
+            {
+              "recap_id": 426491149,
+              "pacer_url": "https://ecf.okwd.uscourts.gov/doc1/14905619579?caseid=120045",
+              "description": "Envelope",
+              "attachment_number": 1
+            },
+            {
+              "recap_id": 426491150,
+              "pacer_url": "https://ecf.okwd.uscourts.gov/doc1/14905619580?caseid=120045",
+              "description": "Envelope",
+              "attachment_number": 2
+            }
+          ],
+          "url": "https://www.courtlistener.com/docket/65747394/4/navarro-v-state-of-colorado/",
+          "recap_pdf_url": "https://www.courtlistener.com/recap/gov.uscourts.okwd.120045/gov.uscourts.okwd.120045.4.0.pdf",
+          "pacer_doc_id": "14905619578",
+          "description": "Order"
+        },
+        {
+          "row_number": 8,
+          "id": 9397850,
+          "entry_number": "5",
+          "date_filed": "2022-12-07T00:00:00-05:00",
+          "attachments": [],
+          "url": "https://www.courtlistener.com/docket/65747394/5/navarro-v-state-of-colorado/",
+          "recap_pdf_url": null,
+          "pacer_doc_id": "14905620362",
+          "description": "Receipt for Money Received from Jim Navarro in the amount of $402, receipt number 500000053 regarding 1 Complaint, mailed to Jim Navarro P.O. Box 9561 Pueblo, Co 81008 (so) (Entered: 12/07/2022)"
+        },
+        {
+          "row_number": 10,
+          "id": 9873171,
+          "entry_number": "6",
+          "date_filed": "2022-12-12T00:00:00-05:00",
+          "attachments": [],
+          "url": "https://www.courtlistener.com/docket/65747394/6/navarro-v-state-of-colorado/",
+          "recap_pdf_url": "https://www.courtlistener.com/recap/gov.uscourts.okwd.120045/gov.uscourts.okwd.120045.6.0.pdf",
+          "pacer_doc_id": "14905623343",
+          "description": "ORDER striking as moot 3 plaintiff's motion to proceed in forma pauperis...the filing fee has been paid in full. Signed by Judge Joe Heaton on 12/12/2022. (lam) (Entered: 12/12/2022)"
+        },
+        {
+          "row_number": 11,
+          "id": 9873172,
+          "entry_number": "7",
+          "date_filed": "2023-01-26T00:00:00-05:00",
+          "attachments": [],
+          "url": "https://www.courtlistener.com/docket/65747394/7/navarro-v-state-of-colorado/",
+          "recap_pdf_url": "https://www.courtlistener.com/recap/gov.uscourts.okwd.120045/gov.uscourts.okwd.120045.7.0.pdf",
+          "pacer_doc_id": "14905659699",
+          "description": "Order"
+        },
+        {
+          "row_number": 6,
+          "id": 9397849,
+          "entry_number": "4",
+          "date_filed": "2022-12-06T00:00:00-05:00",
+          "attachments": [
+            {
+              "recap_id": 426491149,
+              "pacer_url": "https://ecf.okwd.uscourts.gov/doc1/14905619579?caseid=120045",
+              "description": "Envelope",
+              "attachment_number": 1
+            },
+            {
+              "recap_id": 426491150,
+              "pacer_url": "https://ecf.okwd.uscourts.gov/doc1/14905619580?caseid=120045",
+              "description": "Envelope",
+              "attachment_number": 2
+            }
+          ],
+          "url": "https://www.courtlistener.com/docket/65747394/4/navarro-v-state-of-colorado/",
+          "recap_pdf_url": "https://www.courtlistener.com/recap/gov.uscourts.okwd.120045/gov.uscourts.okwd.120045.4.0.pdf",
+          "pacer_doc_id": "14905619578",
+          "description": "MOTION for Order by Jim Navarro. (Attachments: # 1 Envelope, # 2 Envelope)(so) (Entered: 12/07/2022)"
+        },
+        {
+          "row_number": 1,
+          "id": 9340645,
+          "entry_number": "1",
+          "date_filed": "2022-11-10T00:00:00-05:00",
+          "attachments": [
+            {
+              "recap_id": 426491126,
+              "pacer_url": "https://ecf.okwd.uscourts.gov/doc1/14905599123?caseid=120045",
+              "description": "Exhibit A- Miscellaneous Documents",
+              "attachment_number": 1
+            },
+            {
+              "recap_id": 426491127,
+              "pacer_url": "https://ecf.okwd.uscourts.gov/doc1/14905599124?caseid=120045",
+              "description": "Exhibit B- Fax",
+              "attachment_number": 2
+            },
+            {
+              "recap_id": 426491128,
+              "pacer_url": "https://ecf.okwd.uscourts.gov/doc1/14905599125?caseid=120045",
+              "description": "Exhibit C- Letter to DOJ",
+              "attachment_number": 3
+            },
+            {
+              "recap_id": 426491129,
+              "pacer_url": "https://ecf.okwd.uscourts.gov/doc1/14905599126?caseid=120045",
+              "description": "Envelope",
+              "attachment_number": 4
+            }
+          ],
+          "url": "https://www.courtlistener.com/docket/65747394/1/navarro-v-state-of-colorado/",
+          "recap_pdf_url": "https://www.courtlistener.com/recap/gov.uscourts.okwd.120045/gov.uscourts.okwd.120045.1.0.pdf",
+          "pacer_doc_id": "14905599122",
+          "description": "Complaint"
+        },
+        {
+          "row_number": 0,
+          "id": 9397846,
+          "entry_number": "1",
+          "date_filed": "2022-11-08T00:00:00-05:00",
+          "attachments": [
+            {
+              "recap_id": 426491126,
+              "pacer_url": "https://ecf.okwd.uscourts.gov/doc1/14905599123?caseid=120045",
+              "description": "Exhibit A- Miscellaneous Documents",
+              "attachment_number": 1
+            },
+            {
+              "recap_id": 426491127,
+              "pacer_url": "https://ecf.okwd.uscourts.gov/doc1/14905599124?caseid=120045",
+              "description": "Exhibit B- Fax",
+              "attachment_number": 2
+            },
+            {
+              "recap_id": 426491128,
+              "pacer_url": "https://ecf.okwd.uscourts.gov/doc1/14905599125?caseid=120045",
+              "description": "Exhibit C- Letter to DOJ",
+              "attachment_number": 3
+            },
+            {
+              "recap_id": 426491129,
+              "pacer_url": "https://ecf.okwd.uscourts.gov/doc1/14905599126?caseid=120045",
+              "description": "Envelope",
+              "attachment_number": 4
+            }
+          ],
+          "url": "https://www.courtlistener.com/docket/65747394/1/navarro-v-state-of-colorado/",
+          "recap_pdf_url": "https://www.courtlistener.com/recap/gov.uscourts.okwd.120045/gov.uscourts.okwd.120045.1.0.pdf",
+          "pacer_doc_id": "14905599122",
+          "description": "COMPLAINT against Clerks Recorder, Otero County Commissioners Office, Kermit Snyder, State of Colorado, Shannon Wallace filed by Jim Navarro. (Attachments: # 1 Exhibit A- Miscellaneous Documents, # 2 Exhibit B- Fax, # 3 Exhibit C- Letter to DOJ, # 4 Envelope)(dtb) (Entered: 11/10/2022)"
+        },
+        {
+          "row_number": 4,
+          "id": 9397848,
+          "entry_number": "3",
+          "date_filed": "2022-12-05T00:00:00-05:00",
+          "attachments": [
+            {
+              "recap_id": 426491146,
+              "pacer_url": "https://ecf.okwd.uscourts.gov/doc1/14905618257?caseid=120045",
+              "description": "Envelope",
+              "attachment_number": 1
+            }
+          ],
+          "url": "https://www.courtlistener.com/docket/65747394/3/navarro-v-state-of-colorado/",
+          "recap_pdf_url": "https://www.courtlistener.com/recap/gov.uscourts.okwd.120045/gov.uscourts.okwd.120045.3.0.pdf",
+          "pacer_doc_id": "14905618256",
+          "description": "MOTION for Leave to Proceed in forma pauperis by Jim Navarro. (Attachments: # 1 Envelope)(so) (Entered: 12/06/2022)"
+        },
+        {
+          "row_number": 12,
+          "id": 9873173,
+          "entry_number": "8",
+          "date_filed": "2023-01-26T00:00:00-05:00",
+          "attachments": [],
+          "url": "https://www.courtlistener.com/docket/65747394/8/navarro-v-state-of-colorado/",
+          "recap_pdf_url": "https://www.courtlistener.com/recap/gov.uscourts.okwd.120045/gov.uscourts.okwd.120045.8.0.pdf",
+          "pacer_doc_id": "14905659702",
+          "description": "Judgment"
+        },
+        {
+          "row_number": 9,
+          "id": 10375828,
+          "entry_number": "5",
+          "date_filed": "2022-12-07T00:00:00-05:00",
+          "attachments": null,
+          "url": "https://www.courtlistener.com/docket/65747394/5/navarro-v-state-of-colorado/",
+          "recap_pdf_url": null,
+          "pacer_doc_id": "14905620362",
+          "description": "Receipt for Money Received from Jim Navarro in the amount of $402, receipt number 500000053 regarding 1 Complaint, mailed to Jim Navarro P.O. Box 9561 Pueblo, Co 81008 (so) (Entered: 12/07/2022)"
+        },
+        {
+          "row_number": 2,
+          "id": 9397847,
+          "entry_number": "2",
+          "date_filed": "2022-11-17T00:00:00-05:00",
+          "attachments": [],
+          "url": "https://www.courtlistener.com/docket/65747394/2/navarro-v-state-of-colorado/",
+          "recap_pdf_url": "https://www.courtlistener.com/recap/gov.uscourts.okwd.120045/gov.uscourts.okwd.120045.2.0.pdf",
+          "pacer_doc_id": "14905605195",
+          "description": "ORDER. Plaintiff must either pay the $402.00 filing fee or file an application to proceed informa pauperis by December 12, 2022. Signed by Judge Joe Heaton on 11/17/2022. (so) (Entered: 11/18/2022)"
+        }
+      ],
+      "docket_case_type": "cv",
+      "docket_year": 2022,
+      "docket_filing_number": 969,
+      "is_main_docket": true,
+      "court": "Western District of Oklahoma",
+      "state": "Oklahoma",
+      "docket_office_number": "5",
+      "docket_number_manual": "5:22-cv-969",
+      "scales_html": null,
+      "recap_link": "https://www.courtlistener.com/docket/65747394/navarro-v-state-of-colorado/",
+      "is_active": true
+    },
+    "name": "Navarro v. State of Colorado",
+    "never_filed": false,
+    "non_docket_case_number": "",
+    "non_docket_case_number_type": null,
+    "non_docket_case_number_type_other": "",
+    "order_end_year": null,
+    "order_start_year": null,
+    "permanent_injunction": false,
+    "plaintiff_description": "Plaintiff is an individual resident Jim Navarro of the city of Pueblo, Colorado and Rocky Ford, Colorado.",
+    "plaintiff_type": [
+      {
+        "value": "Private Plaintiff"
+      }
+    ],
+    "prevailing_party": "Defendant",
+    "pro_se_status": "Yes",
+    "public_interest_lawyer": "No",
+    "related_cases": [],
+    "relief_natures": [
+      "None"
+    ],
+    "relief_nature_other": "",
+    "relief_sources": [
+      "None"
+    ],
+    "settlement_agreement": [],
+    "settlement_judgment_date": "2023-01-26",
+    "settlement_judgment_year": 2023,
+    "special_collections": [
+      "Law Firm Antiracism Alliance (LFAA) project"
+    ],
+    "special_case_type": [],
+    "state": "Oklahoma",
+    "summary": "<p>On November 8, 2022, a resident and voter in Rocky Ford, Colorado, filed this complaint pro se in the Western District of Colorado alleging violations of voting administration. Plaintiff filed suit&nbsp;against the State of Colorado, the Otero County Commissioner's Office, the La Junta Clerk &amp; Recorder, City Manager of Rocky Ford, the R2 School Board and Administration, the Rocky Ford Gazette, the Colorado Governor's Office, and the La Junta Commissioner's Office, alleging a violation under 18 USC 371, 18 USC 1341, 18 USC 1343, 18 USC 1961, and the RICO statute. Mr. Navarro alleged that the City of Rocky Ford failed to publish in their newspapers or on mail voting ballots the on homeowners, which he alleged was a violation of the Voting Rights Act of 1965.</p>\r\n<p>On November 17, 2022, the Court issued an order that in order for the action to proceed, Plaintiff must either pay the filing fee or be granted leave to proceed in forma pauperis. On December 5, 2022, Plaintiff filed an Application to Proceed in District Court without Prepaying Fees or Costs.</p>\r\n<p>&nbsp;On January 26, 2023, the Court issued an order stating venue for the violations raised by Mr. Navarro was improper and since Mr. Navarro had already filed a similar case in his home-state district court, the Court declined to transfer this action. The case was closed the same day.</p>",
+    "summary_published_date": "2025-08-19T17:17:53.243125-04:00",
+    "summary_short": "On November 8, 2022, a resident and voter in Rocky Ford, Colorado, filed this complaint pro se in the Western District of Colorado alleging violations of voting administration because the City of Rocky Ford failed to publish in their newspapers or on mail voting ballots the on homeowners, which he alleged was a violation of the Voting Rights Act of 1965.\r\n On January 26, 2023, the Court issued an order stating venue for the violations raised by Mr. Navarro was improper and since Mr. Navarro had already filed a similar case in his home-state district court, the Court declined to transfer this action and affirmed the case is dismissed without prejudice.",
+    "summary_tiny": null,
+    "terminating_date": "2023-01-26",
+    "clearinghouse_link": "clearinghouse.net/case/45516",
+    "is_active": true,
+    "case_documents_url": "https://clearinghouse.net/api/v2/documents/?case=45516",
+    "case_dockets_url": "https://clearinghouse.net/api/v2/dockets/?case=45516",
+    "case_resources_url": "https://clearinghouse.net/api/v2/resources/?case=45516"
+  },
+  "documents": [
+    {
+      "date": "2022-11-17",
+      "date_is_estimate": false,
+      "date_not_available": false,
+      "description": "",
+      "document_source": "RECAP",
+      "document_status": "Coding Complete",
+      "document_type": "Order/Opinion",
+      "order_type": "Non-Decree",
+      "citation_paren": null,
+      "cite_1_page": null,
+      "cite_1_reporter": null,
+      "cite_1_vol": null,
+      "cite_2_page": null,
+      "cite_2_reporter": null,
+      "cite_2_vol": null,
+      "cite_3_page": null,
+      "cite_3_reporter": null,
+      "cite_3_vol": null,
+      "citation_status": "No citation available",
+      "court": "Western District of Oklahoma",
+      "no_title": false,
+      "party_types": [
+        "Court"
+      ],
+      "per_curium": false,
+      "is_core_document": true,
+      "id": 153825,
+      "file": "https://clearinghouse-umich-production.s3.amazonaws.com/media/doc/153825.pdf",
+      "title": "Order",
+      "text": "Case 5:22-cv-00969-HE     Document 2     Filed 11/17/22     Page 1 of 2\n \nIN THE UNITED STATES DISTRICT COURT FOR THE \nWESTERN DISTRICT OF OKLAHOMA \n \nJIM NAVARRO,  ) \n  ) \nPlaintiff,  ) \n  ) \nvs.  )  NO. CIV-22-0969-HE \n  ) \nSTATE OF COLORADO, et al.,  ) \n  ) \nDefendants.  ) \n \nORDER \n \n  The Court has received the complaint Plaintiff tendered in this matter.  Doc. 1.  For \nthis action to proceed, Plaintiff must either pay the $402.00 filing fee1 or be granted leave \nto proceed in forma pauperis, that is, without prepayment of fees and costs.  28 U.S.C. §§ \n1914(a), 1915(a)(1); LCvR3.2.  Plaintiff has neither paid the filing fee nor submitted a \nmotion for leave to proceed in forma pauperis in accordance with § 1915(a)(2) and \nLCvR3.3.   \n  Plaintiff must either pay the $402.00 filing fee or file an application to proceed in \nforma pauperis by December 12, 2022.  Failure to comply with this order may result in \ndismissal of this action.  The Clerk of Court is directed to send Plaintiff the form necessary \nto comply with this order. \n \n1 The filing fee is $350.00.  See 28 U.S.C. § 1914(a).  In addition, an administrative fee of $52.00 \nmust be paid.  See Judicial Conf. Sched. of Fees, Dist. Ct. Misc. Fee Sched. ¶ 14. \n \n\nCase 5:22-cv-00969-HE     Document 2     Filed 11/17/22     Page 2 of 2\n \n  It appears doubtful that venue for plaintiff’s case is proper in this court.  Plaintiff \nshould carefully evaluate that question before paying the filing fee or filing a motion to \nproceed in forma pauperis. \nIT IS SO ORDERED. \nDated this 17th day of November, 2022. \n \n \n2 \n ",
+      "document_type_other": null,
+      "external_url": "https://www.courtlistener.com/docket/65747394/2/navarro-v-state-of-colorado/",
+      "ecf_number": "2",
+      "clearinghouse_link": "clearinghouse.net/doc/153825"
+    },
+    {
+      "date": "2022-12-12",
+      "date_is_estimate": false,
+      "date_not_available": false,
+      "description": "",
+      "document_source": "RECAP",
+      "document_status": "Coding Complete",
+      "document_type": "Order/Opinion",
+      "order_type": "Non-Decree",
+      "citation_paren": null,
+      "cite_1_page": null,
+      "cite_1_reporter": null,
+      "cite_1_vol": null,
+      "cite_2_page": null,
+      "cite_2_reporter": null,
+      "cite_2_vol": null,
+      "cite_3_page": null,
+      "cite_3_reporter": null,
+      "cite_3_vol": null,
+      "citation_status": "No citation available",
+      "court": "Western District of Oklahoma",
+      "no_title": false,
+      "party_types": [
+        "Court"
+      ],
+      "per_curium": false,
+      "is_core_document": true,
+      "id": 153828,
+      "file": "https://clearinghouse-umich-production.s3.amazonaws.com/media/doc/153828.pdf",
+      "title": "Order on Motion for Leave to Proceed In Forma Pauperis",
+      "text": "Case 5:22-cv-00969-HE     Document 6     Filed 12/12/22     Page 1 of 1\n \nIN THE UNITED STATES DISTRICT COURT FOR THE \nWESTERN DISTRICT OF OKLAHOMA \n \nJIM NAVARRO,  ) \n  ) \nPlaintiff,  ) \n  ) \nvs.  )  NO. CIV-22-0969-HE \n  ) \nSTATE OF COLORADO, et al.,  ) \n  ) \nDefendants.  ) \n \nORDER \n \n  Plaintiff filed a motion to proceed in forma pauperis, but subsequently paid the full \nfiling fee.  Accordingly, plaintiffs IFP motion [Doc. #3] is STRICKEN as moot. \nIT IS SO ORDERED. \nDated this 12th day of December, 2022. \n \n \n ",
+      "document_type_other": null,
+      "external_url": "https://www.courtlistener.com/docket/65747394/6/navarro-v-state-of-colorado/",
+      "ecf_number": "6",
+      "clearinghouse_link": "clearinghouse.net/doc/153828"
+    },
+    {
+      "date": "2022-12-05",
+      "date_is_estimate": false,
+      "date_not_available": false,
+      "description": "",
+      "document_source": "RECAP",
+      "document_status": "Coding Complete",
+      "document_type": "Pleading / Motion / Brief",
+      "order_type": null,
+      "citation_paren": null,
+      "cite_1_page": null,
+      "cite_1_reporter": null,
+      "cite_1_vol": null,
+      "cite_2_page": null,
+      "cite_2_reporter": null,
+      "cite_2_vol": null,
+      "cite_3_page": null,
+      "cite_3_reporter": null,
+      "cite_3_vol": null,
+      "citation_status": "No citation available",
+      "court": "Western District of Oklahoma",
+      "no_title": false,
+      "party_types": [
+        "Plaintiff"
+      ],
+      "per_curium": false,
+      "is_core_document": true,
+      "id": 153826,
+      "file": "https://clearinghouse-umich-production.s3.amazonaws.com/media/doc/153826.pdf",
+      "title": "Application to Proceed in District Court without Prepaying Fees or Costs",
+      "text": "Case 5:22-cv-00969-HE     Document 3     Filed 12/05/22     Page 1 of 2\nUNITED STATES DISTRICT COURT\nWESTERN DISTRICT OF OKLAHOMA I\nDEC 0 5 2022\nT«/n /ftj-rcf\n\" CARMEUTAREeoe.K'r.Uiioj CLERK ^\nU.S. DIST. COURpveSTl TN r-sT. OKLA.\nPlaintiff BY.  uEPUTY\nCASE NO.:\n4.  Mt  OUfiAf (To be supplied by the Clerk)\n/^c>y Curl (Non-Prisonerform)\nDefendant\nAPPLICATION TO PROCEED IN DISTRICT COURT WITHOUT PREPAYING FEES OR COSTS\nI am a plaintiff in this case and declare that I am unable to pay the costs oft hese proceedings\nand that I am entitled to the relief requested.\nIn support of this application, I answer the following questions under penalty of perjury:\n1. If I am employed, my employer's name and address are:\n^\nMy gross pay or wages are: $ t / 0 CI  , and my take-home pay or wages are: $  per\n(specify pay period)\n2. Other Income. In the past 12 months, I have received income from the following sources\n(check all that apply)\n(a) Business, profession, or other self-employment\n□YES KNO\n(b) Rent payments, interest, or dividends\n□YES 0NO\n(c) Pension, annuity, or life insurance payments\n□YES ENO\n(d) Disability or worker's compensation payments\n□YES lENO\n(e) Gifts or inheritances □YES [ENO\n(f) Any other sources □YES HNO\nIfy ou answered \"Yes\" to any questions above, describe below or on separate pages eachsource ofmoney and state the\namount that you received and what you expect to receive in thefuture.\nPage 1 of2\nSR-n-2Q}4\n\nCase 5:22-cv-00969-HE     Document 3     Filed 12/05/22     Page 2 of 2",
+      "document_type_other": null,
+      "external_url": "https://www.courtlistener.com/docket/65747394/3/navarro-v-state-of-colorado/",
+      "ecf_number": "3",
+      "clearinghouse_link": "clearinghouse.net/doc/153826"
+    },
+    {
+      "date": "2022-12-06",
+      "date_is_estimate": false,
+      "date_not_available": false,
+      "description": "",
+      "document_source": "RECAP",
+      "document_status": "Coding Complete",
+      "document_type": "Pleading / Motion / Brief",
+      "order_type": null,
+      "citation_paren": null,
+      "cite_1_page": null,
+      "cite_1_reporter": null,
+      "cite_1_vol": null,
+      "cite_2_page": null,
+      "cite_2_reporter": null,
+      "cite_2_vol": null,
+      "cite_3_page": null,
+      "cite_3_reporter": null,
+      "cite_3_vol": null,
+      "citation_status": "Not applicable",
+      "court": "Western District of Oklahoma",
+      "no_title": false,
+      "party_types": [
+        "Plaintiff"
+      ],
+      "per_curium": false,
+      "is_core_document": true,
+      "id": 153827,
+      "file": "https://clearinghouse-umich-production.s3.amazonaws.com/media/doc/153827.pdf",
+      "title": "Pleading Motion",
+      "text": "Case 5:22-cv-00969-HE     Document 4     Filed 12/06/22     Page 1 of 9\n) eS?\nUNfTED STATES DISTRICT COURT\n1 r\nWESTERN DISTRICT OF OKLAHOMA\n2.\nJIM NAVARRO FILED\nP.O BOX 9561\n(|tIEBIO ,C OLORADO 81888\nDEC 0 6 2022\nPlaintiffI CARMELITAREEDER SHINN. CLERK\nVS U BSY  DIST CO^URT. W ESTERN DIDSETP OUKTLYA.\nI.The State 0f Colorado\nETC; CASE N0.CIV''a,V.3^\n2.0tero County\nCIVIL RIGHTS COMPLAINT\n13 West 3rd St.#100\nPURSUNT TO\nLa JUNTA Colorado 81050\nETC; 42  U.S.C % 1983\n3.The State Legislatu\"\"\nPLEADING MSTION\nThere , ^ffeady^A LEGAL PRECDENT with The Eighth CIRCUIT Court\nof Appeals\n\nCase 5:22-cv-00969-HE     Document 4     Filed 12/06/22     Page 2 of 9\n\nCase 5:22-cv-00969-HE     Document 4     Filed 12/06/22     Page 3 of 9\n\nCase 5:22-cv-00969-HE     Document 4     Filed 12/06/22     Page 4 of 9\n\nCase 5:22-cv-00969-HE     Document 4     Filed 12/06/22     Page 5 of 9\n\nCase 5:22-cv-00969-HE     Document 4     Filed 12/06/22     Page 6 of 9\n\nCase 5:22-cv-00969-HE     Document 4     Filed 12/06/22     Page 7 of 9\n\nCase 5:22-cv-00969-HE     Document 4     Filed 12/06/22     Page 8 of 9\n\nCase 5:22-cv-00969-HE     Document 4     Filed 12/06/22     Page 9 of 9",
+      "document_type_other": null,
+      "external_url": "https://www.courtlistener.com/docket/65747394/4/navarro-v-state-of-colorado/",
+      "ecf_number": "4",
+      "clearinghouse_link": "clearinghouse.net/doc/153827"
+    },
+    {
+      "date": "2023-01-26",
+      "date_is_estimate": false,
+      "date_not_available": false,
+      "description": "",
+      "document_source": "RECAP",
+      "document_status": "Coding Complete",
+      "document_type": "Order/Opinion",
+      "order_type": "Non-Decree",
+      "citation_paren": null,
+      "cite_1_page": null,
+      "cite_1_reporter": null,
+      "cite_1_vol": null,
+      "cite_2_page": null,
+      "cite_2_reporter": null,
+      "cite_2_vol": null,
+      "cite_3_page": null,
+      "cite_3_reporter": null,
+      "cite_3_vol": null,
+      "citation_status": "No citation available",
+      "court": "Western District of Oklahoma",
+      "no_title": false,
+      "party_types": [
+        "Court"
+      ],
+      "per_curium": false,
+      "is_core_document": true,
+      "id": 153829,
+      "file": "https://clearinghouse-umich-production.s3.amazonaws.com/media/doc/153829.pdf",
+      "title": "Order Dismissing Case",
+      "text": "Case 5:22-cv-00969-HE     Document 7     Filed 01/26/23     Page 1 of 1\n \nIN THE UNITED STATES DISTRICT COURT FOR THE \nWESTERN DISTRICT OF OKLAHOMA \n \nJIM NAVARRO,  ) \n  ) \nPlaintiff,  ) \n  ) \nvs.  )  NO. CIV-22-0969-HE \n  ) \nSTATE OF COLORADO, et al.,  ) \n  ) \nDefendants.  ) \n \nORDER \n \n  Plaintiff filed this case against the State of Colorado and several government \nemployees  and  agencies  alleging  violations  of  the  Voting  Rights  Act  of  1965,  the \nAmericans with Disabilities Act, and the 8th Amendment.  Venue in this court, however, \nis improper.  None of the defendants reside in this district, none of the events alleged to \nplace in this district, and there are other districts where this action could be bought.1  28 \nU.S.C. § 1391(b).  Because plaintiff has already filed a similar case in his home-state \ndistrict court, the court declines to transfer this action under 28 U.S.C. § 1404(a).   \n  This case is DISMISSED without prejudice. \nIT IS SO ORDERED. \nDated this 26th day of January, 2023.  \n \n \n \n1 The court also notes that plaintiff has filed at least one similar action in the United States District \nCourt for the District of Colorado where he resides.  See, 1:21-cv-3136-LTB, D. Colo. \n ",
+      "document_type_other": null,
+      "external_url": "https://www.courtlistener.com/docket/65747394/7/navarro-v-state-of-colorado/",
+      "ecf_number": "7",
+      "clearinghouse_link": "clearinghouse.net/doc/153829"
+    },
+    {
+      "date": "2023-01-26",
+      "date_is_estimate": false,
+      "date_not_available": false,
+      "description": "",
+      "document_source": "RECAP",
+      "document_status": "Coding Complete",
+      "document_type": "Order/Opinion",
+      "order_type": "Non-Decree",
+      "citation_paren": null,
+      "cite_1_page": null,
+      "cite_1_reporter": null,
+      "cite_1_vol": null,
+      "cite_2_page": null,
+      "cite_2_reporter": null,
+      "cite_2_vol": null,
+      "cite_3_page": null,
+      "cite_3_reporter": null,
+      "cite_3_vol": null,
+      "citation_status": "No citation available",
+      "court": "Western District of Oklahoma",
+      "no_title": false,
+      "party_types": [
+        "Court"
+      ],
+      "per_curium": false,
+      "is_core_document": true,
+      "id": 153830,
+      "file": "https://clearinghouse-umich-production.s3.amazonaws.com/media/doc/153830.pdf",
+      "title": "Judgment",
+      "text": "Case 5:22-cv-00969-HE     Document 8     Filed 01/26/23     Page 1 of 1\n \nIN THE UNITED STATES DISTRICT COURT FOR THE \nWESTERN DISTRICT OF OKLAHOMA \n \nJIM NAVARRO,  ) \n  ) \nPlaintiff,  ) \n  ) \nvs.  )  NO. CIV-22-0969-HE \n  ) \nSTATE OF COLORADO, et al.,  ) \n  ) \nDefendants.  ) \n \nJUDGMENT \n \n  In accordance with the order entered this date, this case is dismissed without \nprejudice. \nIT IS SO ORDERED. \nDated this 26th day of January, 2023.  \n \n \n ",
+      "document_type_other": null,
+      "external_url": "https://www.courtlistener.com/docket/65747394/8/navarro-v-state-of-colorado/",
+      "ecf_number": "8",
+      "clearinghouse_link": "clearinghouse.net/doc/153830"
+    },
+    {
+      "date": "2022-11-08",
+      "date_is_estimate": false,
+      "date_not_available": false,
+      "description": "",
+      "document_source": "RECAP",
+      "document_status": "Coding Complete",
+      "document_type": "Complaint",
+      "order_type": null,
+      "citation_paren": null,
+      "cite_1_page": null,
+      "cite_1_reporter": null,
+      "cite_1_vol": null,
+      "cite_2_page": null,
+      "cite_2_reporter": null,
+      "cite_2_vol": null,
+      "cite_3_page": null,
+      "cite_3_reporter": null,
+      "cite_3_vol": null,
+      "citation_status": "No citation available",
+      "court": "Western District of Oklahoma",
+      "no_title": false,
+      "party_types": [
+        "Plaintiff"
+      ],
+      "per_curium": false,
+      "is_core_document": true,
+      "id": 153824,
+      "file": "https://clearinghouse-umich-production.s3.amazonaws.com/media/doc/153824.pdf",
+      "title": "Civil Rights Complaint Pursuant to 42 U.S.C. § 1983",
+      "text": "·•  . Case 5:22-cv-00969-HE     Document 1     Filed 11/08/22     Page 1 of 12\n.,  . .\n<  • 7 \nFILED \nNOV O 8 2022. \nName \nCAftMl!LITA ftllDIR SHINN, CLIJU(. \nU.S. DIST. cou DIIT, OKLA.\n,r�\nB'l  '<  ,DIPUTV\nUNITED  STATES  DISTRICT \nCOURTHOUSE  OKLAHOMA\n___________ \nCI v�22 �969�AE \nPlaintiff,\nCASE NO. _______   \n(To be supplied by the CJerk) \nCIVIL  COMPLAINT \nRIGHTS \nPURSUANT TO \nu.s.c. \n42  § 1983 \n-----------, \nDefendant(&) \nA. JURISDICTION\nJIM P{k_\\J�f:r C, -Q_ f u...\\ \nI)  This complaint alleges that the civil rights of Plaintiff, ________ , \np, O �'I, � � t I  .  (�rlnt Plaintiff's name) \n\"''(  'l  .  .  C(.D:l SovLth 1'\\rks+ \nwho presently resides at  (.JI  u_,l;:'.,D  O  LD 0e>loc>'<' f\\oc47tl k.i  ftXt()x  Cn( e   , were \n'  C{ IO G,i') \nviolated by the actions of the below named individuals 'which were directed against \nt:\" t \nJ.0\\\"1-.  /1/,,a.1-r..h.  ?-a� Soll.+h. /'Aa,r'I. s;t-' \ne.\nPlaintiff at  tJ00 ')...Ol '6  Q..d'.< I  'i::  ·  ·r,  f'l;.�D  on the following dates \nocctl��\n(institution/city where vi�lation \nrcr,4 tfo'htig �1-+kt.t  '  16�� kt��,Q���Ac.�1tk,  'and  � m Arrvo1�i¾f. t� ffte UJrvst,fid,t\n(Count I)  (Count II)  (Count III) \n\nCase 5:22-cv-00969-HE     Document 1     Filed 11/08/22     Page 2 of 12\n\nCase 5:22-cv-00969-HE     Document 1     Filed 11/08/22     Page 3 of 12\n\nCase 5:22-cv-00969-HE     Document 1     Filed 11/08/22     Page 4 of 12\n\nCase 5:22-cv-00969-HE     Document 1     Filed 11/08/22     Page 5 of 12\n\nCase 5:22-cv-00969-HE     Document 1     Filed 11/08/22     Page 6 of 12\n\nCase 5:22-cv-00969-HE     Document 1     Filed 11/08/22     Page 7 of 12\n\nCase 5:22-cv-00969-HE     Document 1     Filed 11/08/22     Page 8 of 12\n\nCase 5:22-cv-00969-HE     Document 1     Filed 11/08/22     Page 9 of 12\n\nCase 5:22-cv-00969-HE     Document 1     Filed 11/08/22     Page 10 of 12\n\nCase 5:22-cv-00969-HE     Document 1     Filed 11/08/22     Page 11 of 12\n\nCase 5:22-cv-00969-HE     Document 1     Filed 11/08/22     Page 12 of 12",
+      "document_type_other": null,
+      "external_url": "https://www.courtlistener.com/docket/65747394/1/navarro-v-state-of-colorado/",
+      "ecf_number": "1",
+      "clearinghouse_link": "clearinghouse.net/doc/153824"
+    },
+    {
+      "date": null,
+      "date_is_estimate": false,
+      "date_not_available": false,
+      "description": null,
+      "document_source": null,
+      "document_status": null,
+      "document_type": null,
+      "order_type": null,
+      "citation_paren": null,
+      "cite_1_page": null,
+      "cite_1_reporter": null,
+      "cite_1_vol": null,
+      "cite_2_page": null,
+      "cite_2_reporter": null,
+      "cite_2_vol": null,
+      "cite_3_page": null,
+      "cite_3_reporter": null,
+      "cite_3_vol": null,
+      "citation_status": null,
+      "court": null,
+      "no_title": false,
+      "party_types": [],
+      "per_curium": false,
+      "is_core_document": true,
+      "id": 148406,
+      "file": null,
+      "title": null,
+      "text": null,
+      "document_type_other": null,
+      "external_url": null,
+      "ecf_number": null,
+      "clearinghouse_link": "clearinghouse.net/doc/148406"
+    }
+  ],
+  "document_count": 8
+}

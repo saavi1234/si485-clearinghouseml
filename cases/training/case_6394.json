@@ -1,0 +1,504 @@
+{
+  "case_id": 6394,
+  "fetched_at": "2025-10-22T00:07:57.027790",
+  "case_data": {
+    "attorney_orgs": [
+      "EEOC"
+    ],
+    "available_documents": [
+      "Trial Court Docket",
+      "Monetary Relief",
+      "Injunctive (or Injunctive-like) Relief"
+    ],
+    "case_defendants": [
+      {
+        "defendant_level": null,
+        "institution": null,
+        "institution_alt_state": null,
+        "institution_city": "",
+        "institution_county": null,
+        "name": "Alpha Care Home Health, Inc.",
+        "defendant_level_other": null,
+        "is_active": true
+      }
+    ],
+    "case_ongoing": "No",
+    "case_status": "Coding Complete",
+    "case_types": [
+      "Equal Employment"
+    ],
+    "cause_other": "",
+    "causes": [
+      "Title VII (including PDA), 42 U.S.C.  § 2000e"
+    ],
+    "class_action_granted": "Not sought",
+    "class_action_sought": "No",
+    "closing_year": 1999,
+    "constitutional_clause": [],
+    "content_of_injunction": [
+      {
+        "value": "Discrimination Prohibition"
+      },
+      {
+        "value": "Retaliation Prohibition"
+      },
+      {
+        "value": "Post/Distribute Notice of Rights / EE Law"
+      },
+      {
+        "value": "Provide antidiscrimination training"
+      },
+      {
+        "value": "Reporting"
+      }
+    ],
+    "court": "Western District of Louisiana",
+    "custom_issues": [],
+    "defendant_payment": "15000",
+    "defendant_type": [],
+    "docket_status": "Complete as of retrieval date",
+    "facility_type": [],
+    "filing_date": "1998-02-02",
+    "filing_year": 1998,
+    "id": 6394,
+    "injunction_duration": "",
+    "issues": [
+      "Discrimination Basis: Sex discrimination",
+      "Affected Sex/Gender(s): Female",
+      "Discrimination Area: Disparate Treatment",
+      "Discrimination Area: Harassment / Hostile Work Environment",
+      "EEOC-centric: Direct Suit on Merits",
+      "EEOC-centric: Private Party intervened in EEOC suit"
+    ],
+    "last_checked_date": "2007-06-04T00:00:00-04:00",
+    "main_docket": {
+      "id": 36681,
+      "docket_entries": [
+        {
+          "row_number": 9,
+          "id": 1825531,
+          "entry_number": "9",
+          "date_filed": "1998-09-10T00:00:00-04:00",
+          "attachments": [],
+          "url": "nan",
+          "recap_pdf_url": null,
+          "pacer_doc_id": null,
+          "description": "MOTION by E E O C to substitute attorney Pamela Alfred-George as trial attorney in place of Gregory T Juge with Proposed Order referred to Magistrate Judge Karen L Hayes (former employee) (Entered: 09/10/1998)"
+        },
+        {
+          "row_number": 15,
+          "id": 1825537,
+          "entry_number": "14",
+          "date_filed": "1999-05-17T00:00:00-04:00",
+          "attachments": [],
+          "url": "nan",
+          "recap_pdf_url": null,
+          "pacer_doc_id": null,
+          "description": "MINUTE ENTRY: At the request of counsel in his [13-1] letter, a telephone status conference is scheduled for 1:30 5/25/99 before Judge Robert G James (signed by Judge Robert G James) NOE by: dd (former employee) (Entered: 05/18/1999)"
+        },
+        {
+          "row_number": 3,
+          "id": 1825525,
+          "entry_number": "3",
+          "date_filed": "1998-03-30T00:00:00-05:00",
+          "attachments": [],
+          "url": "nan",
+          "recap_pdf_url": null,
+          "pacer_doc_id": null,
+          "description": "WAIVER of service returned executed as to Alpha Care Home Hlth; Request for waiver mailed on 2/19/98; Answer due on 4/20/98 for Alpha Care Home Hlth (former employee) (Entered: 04/01/1998)"
+        },
+        {
+          "row_number": 19,
+          "id": 1825541,
+          "entry_number": "17",
+          "date_filed": "1999-08-02T00:00:00-04:00",
+          "attachments": [],
+          "url": "nan",
+          "recap_pdf_url": null,
+          "pacer_doc_id": null,
+          "description": "STIPULATION of Dismissal (former employee) (Entered: 08/04/1999)"
+        },
+        {
+          "row_number": 1,
+          "id": 1825523,
+          "entry_number": "1",
+          "date_filed": "1998-02-02T00:00:00-05:00",
+          "attachments": [],
+          "url": "nan",
+          "recap_pdf_url": null,
+          "pacer_doc_id": null,
+          "description": "COMPLAINT filed w/jury demand. (Prest, B) (Entered: 02/10/1998)"
+        },
+        {
+          "row_number": 0,
+          "id": 1825522,
+          "entry_number": null,
+          "date_filed": "1998-02-02T00:00:00-05:00",
+          "attachments": [],
+          "url": "nan",
+          "recap_pdf_url": null,
+          "pacer_doc_id": null,
+          "description": "Amount of fee $0/USA PLAINTIFF. (McInnis, S) (Entered: 02/05/1998)"
+        },
+        {
+          "row_number": 10,
+          "id": 1825532,
+          "entry_number": "10",
+          "date_filed": "1998-09-11T00:00:00-04:00",
+          "attachments": [],
+          "url": "nan",
+          "recap_pdf_url": null,
+          "pacer_doc_id": null,
+          "description": "ORDER granting [9-1] motion to substitute attorney Pamela Alfred-George as trial attorney in place of Gregory T Juge for E E O C; (terminated attorney Gregory T Juge for E E O C; added attorney Pamela Alfred-Greoge for E E O C). (signed by Magistrate Judge Karen L Hayes) NOE by: dd (Dean, S) (Entered: 09/15/1998)"
+        },
+        {
+          "row_number": 2,
+          "id": 1825524,
+          "entry_number": "2",
+          "date_filed": "1998-02-05T00:00:00-05:00",
+          "attachments": [],
+          "url": "nan",
+          "recap_pdf_url": null,
+          "pacer_doc_id": null,
+          "description": "SUMMONS issued for Alpha Care Home Hlth (addressed to Russell Starns). (Prest, B) (Entered: 02/10/1998)"
+        },
+        {
+          "row_number": 7,
+          "id": 1825529,
+          "entry_number": "7",
+          "date_filed": "1998-05-05T00:00:00-04:00",
+          "attachments": [],
+          "url": "nan",
+          "recap_pdf_url": null,
+          "pacer_doc_id": null,
+          "description": "INTERVENOR'S COMPLAINT by Kimberly Kennedy against Alpha Care Home Hlth (former employee) (Entered: 05/06/1998)"
+        },
+        {
+          "row_number": 6,
+          "id": 1825528,
+          "entry_number": "6",
+          "date_filed": "1998-05-05T00:00:00-04:00",
+          "attachments": [],
+          "url": "nan",
+          "recap_pdf_url": null,
+          "pacer_doc_id": null,
+          "description": "ORDER granting [5-1] motion to intervene as plaintiff (signed by Magistrate Judge Karen L Hayes) NOE by: dd (former employee) (Entered: 05/06/1998)"
+        },
+        {
+          "row_number": 4,
+          "id": 1825526,
+          "entry_number": "4",
+          "date_filed": "1998-04-21T00:00:00-04:00",
+          "attachments": [],
+          "url": "nan",
+          "recap_pdf_url": null,
+          "pacer_doc_id": null,
+          "description": "ANSWER to Complaint by Alpha Care Home Hlth (former employee) (Entered: 04/21/1998)"
+        },
+        {
+          "row_number": 17,
+          "id": 1825539,
+          "entry_number": "16",
+          "date_filed": "1999-05-25T00:00:00-04:00",
+          "attachments": [],
+          "url": "nan",
+          "recap_pdf_url": null,
+          "pacer_doc_id": null,
+          "description": "60 DAY ORDER of dismissal (signed by Judge Robert G James) NOE by: dd (former employee) (Entered: 05/27/1999)"
+        },
+        {
+          "row_number": 8,
+          "id": 1825530,
+          "entry_number": "8",
+          "date_filed": "1998-05-27T00:00:00-04:00",
+          "attachments": [],
+          "url": "nan",
+          "recap_pdf_url": null,
+          "pacer_doc_id": null,
+          "description": "ANSWER by Alpha Care Home Hlth to [7-1] intervenor complaint (Dean, S) (Entered: 05/27/1998)"
+        },
+        {
+          "row_number": 16,
+          "id": 1825538,
+          "entry_number": "15",
+          "date_filed": "1999-05-25T00:00:00-04:00",
+          "attachments": [],
+          "url": "nan",
+          "recap_pdf_url": null,
+          "pacer_doc_id": null,
+          "description": "LETTER by J Michael Rhymes to Judge James regarding settlement of this matter. Copy to Susan Furr and Pamela Alfred George (former employee) (Entered: 05/27/1999)"
+        },
+        {
+          "row_number": 20,
+          "id": 1825542,
+          "entry_number": "18",
+          "date_filed": "1999-08-02T00:00:00-04:00",
+          "attachments": [],
+          "url": "nan",
+          "recap_pdf_url": null,
+          "pacer_doc_id": null,
+          "description": "JOINT MOTION by E E O C, Alpha Care Home Hlth, Kimberly Kennedy to appear and enter settlement agreement with Proposed Order referred to Judge Robert G James (former employee) (Entered: 08/04/1999)"
+        },
+        {
+          "row_number": 5,
+          "id": 1825527,
+          "entry_number": "5",
+          "date_filed": "1998-04-30T00:00:00-04:00",
+          "attachments": [],
+          "url": "nan",
+          "recap_pdf_url": null,
+          "pacer_doc_id": null,
+          "description": "MOTION by Kimberly Kennedy to intervene as plaintiff with Memorandum and Proposed Order referred to Magistrate Judge Karen L Hayes (former employee) Modified on 05/01/1998 (Entered: 05/01/1998)"
+        },
+        {
+          "row_number": 22,
+          "id": 1825544,
+          "entry_number": "20",
+          "date_filed": "1999-08-11T00:00:00-04:00",
+          "attachments": [],
+          "url": "nan",
+          "recap_pdf_url": null,
+          "pacer_doc_id": null,
+          "description": "SETTLEMENT AGREEMENT (McInnis, S) (Entered: 08/12/1999)"
+        },
+        {
+          "row_number": 18,
+          "id": 1825540,
+          "entry_number": null,
+          "date_filed": "1999-05-25T00:00:00-04:00",
+          "attachments": [],
+          "url": "nan",
+          "recap_pdf_url": null,
+          "pacer_doc_id": null,
+          "description": "Case closed (former employee) (Entered: 05/27/1999)"
+        },
+        {
+          "row_number": 14,
+          "id": 1825536,
+          "entry_number": "13",
+          "date_filed": "1999-05-17T00:00:00-04:00",
+          "attachments": [],
+          "url": "nan",
+          "recap_pdf_url": null,
+          "pacer_doc_id": null,
+          "description": "LETTER by J Michael Rhymes to Judge James requesting a status conference. Copy to All Counsel of Record (former employee) (Entered: 05/18/1999)"
+        },
+        {
+          "row_number": 13,
+          "id": 1825535,
+          "entry_number": "12",
+          "date_filed": "1999-02-24T00:00:00-05:00",
+          "attachments": [],
+          "url": "nan",
+          "recap_pdf_url": null,
+          "pacer_doc_id": null,
+          "description": "SCHEDULING ORDER; Jury Trial set for 9:00 7/19/99; Pretrial Conference for 9:00 6/25/99; Joining of parties, amding of pleadings on 4/26/99; Pltf's expert info/rpts due 4/26/99; Discovery due 4/26/99; Dft's expert info/rpts due 4/26/99; Pretrial order to be submitted on or before 12:00 6/21/99; Deadline for filing of all motions 4/26/99; Expert depositions due 5/11/99; Conference to prepare PT stips set for 5/26/99; Motions in limine due 6/10/99; Trial depositions due 7/12/99; Trial inst., interr, etc due 7/12/99; Witness list due 4/26/99; deadlines set before Judge Robert G James. (signed by Judge Robert G James) NOE by: dd (Dean, S) (Entered: 02/26/1999)"
+        },
+        {
+          "row_number": 21,
+          "id": 1825543,
+          "entry_number": "19",
+          "date_filed": "1999-08-11T00:00:00-04:00",
+          "attachments": [],
+          "url": "nan",
+          "recap_pdf_url": null,
+          "pacer_doc_id": null,
+          "description": "ORDER granting [18-1] motion to appear and enter settlement agreement. ORDERED that this matter is hereby dismissed with prejudice, each party to bear its own costs. FURTHER ORDERED that this court will retain jurisdiction over this matter to enforce the terms of this settlement agreement. (signed by Judge Robert G James) NOE by: dd (McInnis, S) (Entered: 08/12/1999)"
+        },
+        {
+          "row_number": 12,
+          "id": 1825534,
+          "entry_number": null,
+          "date_filed": "1998-11-05T00:00:00-05:00",
+          "attachments": [],
+          "url": "nan",
+          "recap_pdf_url": null,
+          "pacer_doc_id": null,
+          "description": "CASE reassigned to Judge Robert G James (Dean, S) (Entered: 11/10/1998)"
+        },
+        {
+          "row_number": 11,
+          "id": 1825533,
+          "entry_number": "11",
+          "date_filed": "1998-11-05T00:00:00-05:00",
+          "attachments": [],
+          "url": "nan",
+          "recap_pdf_url": null,
+          "pacer_doc_id": null,
+          "description": "MINUTE ENTRY; this case is hereby reassigned to Judge Robert G James. The Magistrate Judge reassignment shall be designated by the Clerk in accordance with the current Case Assignment Order. All motions presently set for hearing before Judge Donald Walter shall be reset for consideration on the motion calendar of Judge James. Any scheduling order presently filed in the case shall remain in force, to be rescheduled by Judge James, if necessary. (signed by Donald E Walter) NOE by: cd (Dean, S) (Entered: 11/10/1998)"
+        }
+      ],
+      "docket_case_type": "cv",
+      "docket_year": 1998,
+      "docket_filing_number": 218,
+      "is_main_docket": true,
+      "court": "Western District of Louisiana",
+      "state": "Louisiana",
+      "docket_office_number": "3",
+      "docket_number_manual": "3:98-cv-00218-RGJ-KLH",
+      "scales_html": "https://clearinghouse-umich-production.s3.amazonaws.com/media/docket-html/lawd--3-98-cv-00218.html",
+      "recap_link": null,
+      "is_active": true
+    },
+    "name": "EEOC v. ALPHA CARE HOME HEALTH INC",
+    "never_filed": false,
+    "non_docket_case_number": "",
+    "non_docket_case_number_type": null,
+    "non_docket_case_number_type_other": "",
+    "order_end_year": null,
+    "order_start_year": null,
+    "permanent_injunction": false,
+    "plaintiff_description": "Equal Employment Opportunity Commission, on behalf of one or more workers.",
+    "plaintiff_type": [
+      {
+        "value": "Private Plaintiff"
+      },
+      {
+        "value": "EEOC Plaintiff"
+      }
+    ],
+    "prevailing_party": "Plaintiff",
+    "pro_se_status": "No",
+    "public_interest_lawyer": "Yes",
+    "related_cases": [],
+    "relief_natures": [
+      "Injunction / Injunctive-like Settlement",
+      "Damages"
+    ],
+    "relief_nature_other": "",
+    "relief_sources": [
+      "Settlement"
+    ],
+    "settlement_agreement": [
+      "Voluntary Dismissal"
+    ],
+    "settlement_judgment_date": "1999-08-11",
+    "settlement_judgment_year": null,
+    "special_collections": [
+      "EEOC Study — in sample"
+    ],
+    "special_case_type": [],
+    "state": "Louisiana",
+    "summary": "<p>The EEOC's New Orleans office, in conjunction with its Houston office, filed this suit in the U.S. District Court for the Western District of Louisiana, Monroe Division on February 2, 1998. The complaint for this case was not available on PACER but it appears from the settlement that defendant Alpha Care Home Health Inc., was accused of violating Title VII by sexual harassing a female. The complainant intervened soon after filing. A trial date was set in February of 1999 for July of that year. In May of 1999, the parties notified the court that they intended to settle the case. On August 11, 1999 a settlement agreement was entered. </p><p>In the settlement agreement the defendant agreed to pay the complainant $15,000. The defendant agreed to distribute and post its anti-discrimination policy and provide training for its employees. The training provision mandated a specific employees attendance at the training session.</p><p></p>",
+    "summary_published_date": "2007-07-24T00:00:00-04:00",
+    "summary_short": null,
+    "summary_tiny": null,
+    "terminating_date": "1999-08-11",
+    "clearinghouse_link": "clearinghouse.net/case/6394",
+    "is_active": true,
+    "case_documents_url": "https://clearinghouse.net/api/v2/documents/?case=6394",
+    "case_dockets_url": "https://clearinghouse.net/api/v2/dockets/?case=6394",
+    "case_resources_url": "https://clearinghouse.net/api/v2/resources/?case=6394"
+  },
+  "documents": [
+    {
+      "date": "1999-08-11",
+      "date_is_estimate": false,
+      "date_not_available": false,
+      "description": "",
+      "document_source": "PACER [Public Access to Court Electronic Records]",
+      "document_status": "Coding Complete",
+      "document_type": "Settlement Agreement",
+      "order_type": null,
+      "citation_paren": null,
+      "cite_1_page": null,
+      "cite_1_reporter": null,
+      "cite_1_vol": null,
+      "cite_2_page": null,
+      "cite_2_reporter": null,
+      "cite_2_vol": null,
+      "cite_3_page": null,
+      "cite_3_reporter": null,
+      "cite_3_vol": null,
+      "citation_status": "Not applicable",
+      "court": "Western District of Louisiana",
+      "no_title": false,
+      "party_types": [
+        "Defendant",
+        "Plaintiff",
+        "Plaintiff-Intervenor"
+      ],
+      "per_curium": false,
+      "is_core_document": true,
+      "id": 19338,
+      "file": "https://clearinghouse-umich-production.s3.amazonaws.com/media/doc/19338.pdf",
+      "title": "Settlement Agreement",
+      "text": "Case 3:98-cv-00218-RGJ-KLH     Document 20     Filed 08/11/1999  U  .  PS.a DgIeS T1R !oCfT  6C(cid:10)OURT \nWESTERN DISTRICT OF LOUISIANA \nF I LED \nUNITED STATES DISTRICT COURT \nAUG  I I 1999 \nWESTERN DISTRICT OF LOUISIANA \nMONROE DIVISION \n***************** * * * * * * \nu. S. EQUAL EMPLOYMENT  * \nOPPORTUNITY COMMISSION,  * \nPLAINTIFF  * \n* \nAND  *  CIVIL ACTION NO. 98-0218 \n* \nKIMBERLY KENNEDY,  * \nINTERVENOR  * \n* \nV.  *  JUDGE JAMES \n*  MAGISTRATE JUDGE HAYES \nALPHA CARE HOME HEALTH, INC.  * \nDEFENDANT  * \n************************************* \nSETTLEMENT AGREEMENT \nOn February 2,1998, the Equal Employment Opportunity Commission \n(\"the Commission\") instituted Civil Action Number 98-0218 in the United States District Court \nfor the Western District of Louisiana, charging Defendant Alpha Care Home Health, Inc. \n(\"Alpha Care\") with violations of Title VII of the Civil Rights Act of 1964, as amended, 42 \nU.S.C. Sections 2000e, et seq. (\"Title VII\"), alleging that Defendant employer engaged in \nunlawful employment practices when it created an atmosphere in the workplace which was \nsexually hostile towards Kimberly Kennedy and deprived her of equal employment \nopportunities and otherwise adversely affected her status as an employee because of her sex. \nThe Commission and Alpha Care now wish to resolve all claims and controversies \nencompassed by this lawsuit without the burden, expense or delay of further litigation, by \nmeans of this Settlement Agreement. \n1 \n\nCase 3:98-cv-00218-RGJ-KLH     Document 20     Filed 08/11/1999     Page 2 of 6(cid:10)\nTherefore, it is HEREBY AGREED BETWEEN THE EQUAL EMPLOYMENT \nOPPORTUNITY COMMISSION AND ALPHA CARE HOME HEALTH, INC.  that: \n1. This Court has jurisdiction over the subject matter of this lawsuit and over the \nparties to this lawsuit. \n2. The purposes of Title VII will be furthered by the entry of this Settlement \nAgreement, the terms of which constitute a fair and equitable settlement. \n3. The negotiation and execution of this Agreement will resolve any and all claims of \nTitle VII violations brought by the Commission against Defeml:mt; ::Iri~ing out of EEOC \nCharge Number 270-94-0073, and Civil Action Number 98-0218. \n4. Neither the negotiation nor execution of this Agreement shall constitute an \nacknowledgment or admission of any kind by Defendant, that its officers, agents or employees \nhave violated or have not been in compliance with Title VII or any other applicable law, \nregulation or order. \n5. This Settlement Agreement relates only to the alleged violations raised in EEOC \nCharge Number 270-94-0073 and Civil Action Number 98-0218 filed by the Commission in \nthe United States District Court for the Western District of Louisiana, February 2, 1998. \n6. Defendant, its, owners, officers, agents, employees and successors or assigns shall \nnot maintain or permit discrimination in the workplace based upon sex, against any person in \ntheir employ as complained of in EEOC Charge Number 270-94-0073 and Civil Action \nNumber 98-0218. \n2 \n\nCase 3:98-cv-00218-RGJ-KLH     Document 20     Filed 08/11/1999     Page 3 of 6(cid:10)\n7.  In exchange for this Agreement and an agreement that was negotiated separately with \nKimberly Kennedy and her attorney, Defendant  agrees to pay Kimberly Kennedy $15,000.00 \n(Fifteen Thousand Dollars) as compensatory damages in full settlement of this matter. \n8. Defendant shall post conspicuously at its facility, within ten (10) days of the entry of \nthis Settlement Agreement, a copy of a notice detailing Title VII prohibitions against sex \ndiscrimination  and stating that employees who believe that they have been subjected to sex \ndiscrimination by a member of management, owner or a co-employee are encouraged to \ncontact the Equal Employment Opportunity Commission to seek information or to file  charge \n::I \nof discrimination.  The actual notice is attached hereto as attachment \"A\".  The notice will be \nposted for a period of one year.  Thereafter, copies of the poster entitled, \"Equal Employment \nOpportunity is the Law\" (GPO 920-752) will be permanently posted in place of the notices. \n9. Defendant, shall provide the Commission, within thirty (30) days of the execution of \nthis Settlement Agreement, with a copy of a current policy against sex discrimination and \nsexual harassment in the workplace and certify to the EEOC that a copy of this policy has been \ndistributed to each of its employees and owners. \n10. Defendant, shall provide training on sex discrimination and sexual harassment to all \nof its employees, and owners, specifically to include Russell M. Starns, to be conducted within \na year of the execution of this Settlement Agreement.  This request can be fulfilled by Russell \nM. Starns and/or an authorized representative of Defendant, preferably a management official, \nattending an Equal Employment Opportunity Commission's Technical Assistance Program \nTraining to be held prior to the expiration of this Settlement Agreement. That authorized \nrepresentative will then provide the information received by attending the Technical Assistance \n3 \n\nCase 3:98-cv-00218-RGJ-KLH     Document 20     Filed 08/11/1999     Page 4 of 6(cid:10)\nProgram to the employees and owners of Defendant.  Defendant shall certify to the EEOC that \nall employees and owners have received sex discrimination and sexual harassment training in \nthis manner after the authorized reoresentative has comDleted briefin2: all emnlovees and \n....  &- '-\".1.  '\" \nowners. \n11. Defendant, shall comply with the prohibition against retaliation provisions under \nSection 704(a) of Title VII of the Civil Rights Act of 1964, as amended, and all other \nprovisions of this Act.  Defendant specifically shall not retaliate against any present or former \nemnlovee who W::l\" ::l n::lrtv to or ::I witnp\"\" in thp ('nmmi\"\"inn'\" hml<lllit  ('i\"il Artinn Nnmhpr \nJ.  .I  - 1.- -- -\"  -- --.  -- ------- --- ---- - -------------- - --\" ----,  _  .................. _ ....... ...., ............ _--............. _ ... \n98-0218, or in the Commission's Administrative proceeding for Charge Number 270-94-0073, \nincluding, but not limited to, providing adverse job references to prospective employers, \nemployment agencies or credit reporting agencies or by taking any adverse employment action \nwith respect to such individual affecting his or her pay, benefits, rights, or status as an \nemployee or former employee of Alpha Care. \n12. In the event that Defendant fails to perform its obligations herein, Plaintiff EEOC is \nempowered to enforce this Settlement Agreement through the applicable judicial enforcement \nprocedures and to seek sanctions which may be due as a result of the need to enforce this \nAgreement. \n13. Should any provision of this Settlement Agreement be declared or be determined by \nany Court to be illegal or invalid, the validity of the remaining parts. terms or provisions shall \nnot be affected thereby and said illegal or invalid part, term or provision shall be deemed not \nto be a part of this Settlement Agreement. \n4 \n\nCase 3:98-cv-00218-RGJ-KLH     Document 20     Filed 08/11/1999     Page 5 of 6(cid:10)\n14. This Settlement Agreement sets forth the entire agreement between the Commission \nand Defendant, and fully supersedes any and all prior agreements or understandings between \nthe Commission and Defendant,  pertaining to the subject matter herein. \n15. The Commission and the Defendant will each bear their own attorney's fees and \ncosts incurred in connection with the litigation of this case. \n16.  The Court shall retain jurisdiction of this action for purposes of enforcing this \nSettlement Agreement, if necessary. \nATTORNEYS FOR PLAINTIFF:  ATTORNEY FOR DEFEND A NT: \nC. GREGORY STEWART \nGeneral Counsel \n~~ \nSUSAN W. FURR (No. 19582) \nTHOMAS H.KIGGANS ( No. 14422) \nKEITH T. HILL  CHRISTINE S. GOLDBERG (No.23293) \nRegional Attorney  PHELPS DUNBAR,L.L.P. \n445 North Boulevard, Suite 701 \nrll--t  Post Office Box 4412 \n~M \nv--j  Baton Rouge, Louisiana 70821 \n~EYT.AGAR /  Telephone: (504)346-0285 \nSupervisory Trial Attorney \nLouisiana Bar Roll No.2355 \nRNEY FOR INTERVENOR: \nJ.  JCHAEL RHYMES \nTrial Attorney  RH  'MES & LUCAS \nLouisiana Bar Roll No. 16784  141 DeSaird Street Suite 810 \nEQUAL EMPLOYMENT OPPORTUNITY  Monroe, Louisiana 71201 \nCOMMISSION  Louisiana Bar Roll No. \nNew Orleans District Office  (504) 388-4500 \n701 Loyola Avenue, Suite 600 \nNew Orleans, Louisiana 70113 \nTelephone: (504) 589-2011 \n(504) 589-6817 \n5 \n\nCase 3:98-cv-00218-RGJ-KLH     Document 20     Filed 08/11/1999     Page 6 of 6(cid:10)\nEMPLOYEE  NOTICE \nPosted Pursuant to an Agreement Resolving a Charge \nof Employment Discrimination Filed with the \nU.S. EQUAL EMPLOYMENT OPPORTUNITY COMMISSION \nNew Orleans District Office \nThis Notice is being posted as part of the remedy agreed to pursuant to a Settlement Agreement between \nAlpha Care Home Health, Inc. and the EQUAL EMPLOYMENT OPPORTUNITY COMMISSION \n(EEOC). \nFederal law requires that there be no discrimination against any employee or applicant for employment \nbecause of the individual's race, color. religion~ sex~ national origin; disahility Q!\" age (40 and over) with \nrespect  to  hiring,  promotion,  firing,  compensation,  or  other  terms,  conditions  or  privileges  of \nemployment. \nAlpha Care Home Health, Inc.  supports and will comply with such Federal law in all respects and will \nnot take any action against employees because they have exercised their rights under the law. \nSpecifically, Alpha Care Home Health, Inc. will not retaliate against employees because they have \nexercised their rights under the law. \nAlpha Care Home Health, Inc.  has adopted an equal employment opportunity policy and will ensure that \nall supervisory employees and other employees involved in the employee selection process abide by the \nrequirements of that policy and that employees will not be discriminated against on the basis of their sex \nor subjected to any conduct in violation of Title VII. \nSigned this ___ day of ______,  1999 \nFor: Alpha Care Home Health, Inc. \nQuestions concerning this notice may be addressed to: \nEqual Employment Opportunity Commission \n701 Loyola Avenue \nNew Orleans, LA 70113 \n\" A ",
+      "document_type_other": null,
+      "external_url": "",
+      "ecf_number": "20",
+      "clearinghouse_link": "clearinghouse.net/doc/19338"
+    },
+    {
+      "date": "1999-08-11",
+      "date_is_estimate": false,
+      "date_not_available": false,
+      "description": null,
+      "document_source": "PACER [Public Access to Court Electronic Records]",
+      "document_status": "Coding Complete",
+      "document_type": "Docket",
+      "order_type": null,
+      "citation_paren": null,
+      "cite_1_page": null,
+      "cite_1_reporter": null,
+      "cite_1_vol": null,
+      "cite_2_page": null,
+      "cite_2_reporter": null,
+      "cite_2_vol": null,
+      "cite_3_page": null,
+      "cite_3_reporter": null,
+      "cite_3_vol": null,
+      "citation_status": "Not applicable",
+      "court": "Western District of Louisiana",
+      "no_title": false,
+      "party_types": [
+        "Court"
+      ],
+      "per_curium": false,
+      "is_core_document": true,
+      "id": 19336,
+      "file": "https://clearinghouse-umich-production.s3.amazonaws.com/media/doc/19336.pdf",
+      "title": "Docket (PACER)",
+      "text": "CM/ECF - U.S. District Court:Western District of Louisiana - Docket R... https://ecf.lawd.uscourts.gov/cgi-bin/DktRpt.pl?681824742057532-L_9...\nCLOSED\n  U.S. District Court\nWestern District of Louisiana (Monroe)\nCIVIL DOCKET FOR CASE #: 3:98-cv-00218-RGJ-KLH\nE E O C v. Alpha Care Home Hlth Date Filed: 02/02/1998\nAssigned to: Judge Robert G James Jury Demand: Plaintiff\nReferred to: Magistrate Judge Karen L Hayes (DEACTIVATED) Nature of Suit: 442 Civil Rights: Jobs\nDemand: $0 Jurisdiction: U.S. Government Plaintiff\nCause: 42:2000 Job Discrimination (Sex)\nPlaintiff\nEqual Employment Opportunity  represented by Gregory T Juge \nCommission E E O C (Poydras) \n1555 Poydras St Ste 1900 \nNew Orleans, LA 70112 \n504-595-2877 \nEmail: gregory.juge@eeoc.gov \nTERMINATED: 09/11/1998 \nLEAD ATTORNEY \nATTORNEY TO BE NOTICED\nPamela Alfred-George \nE E O C (HOU) \n1919 Smith St Ste 700 \nHouston, TX 77002-8049 \nUS \n713-209-3320 \nFax: 209-3381 \nLEAD ATTORNEY \nATTORNEY TO BE NOTICED\nJeffery T Agular \nE E O C \n701 Loyola Ave Ste 600 \nNew Orleans, LA 70113 \n504-589-6817\nKeith T Hill \nE E O C (HOU) \n1919 Smith St Ste 700 \nHouston, TX 77002-8049 \nUS \n713-209-3320 \nFax: 209-3381\nV.\n1 of 4 6/4/2007 4:07 PM\n\nCM/ECF - U.S. District Court:Western District of Louisiana - Docket R... https://ecf.lawd.uscourts.gov/cgi-bin/DktRpt.pl?681824742057532-L_9...\nDefendant\nAlpha Care Home Health Inc represented by Susan W Furr \nPhelps Dunbar et al (BR) \nP O Box 4412 \nBaton Rouge, LA 70821-4412 \n225-346-0285 \nFax: 225-376-0240 \nEmail: furrs@phelps.com \nLEAD ATTORNEY \nATTORNEY TO BE NOTICED\nThomas H Kiggans \nPhelps Dunbar et al (BR) \nP O Box 4412 \nBaton Rouge, LA 70821-4412 \n225-346-0285 \nFax: 225-381-9197 \nEmail: kigganst@phelps.com \nATTORNEY TO BE NOTICED\nV.\nMovant\nKimberly Kennedy represented by J Michael Rhymes \n401 Hudson Ln \nMonroe, LA 71201 \n318-388-4500 \nFax: 318-361-0209 \nEmail: mrhymes@jam.rr.com \nLEAD ATTORNEY \nATTORNEY TO BE NOTICED\nIntervenor Plaintiff\nKimberly Kennedy represented by J Michael Rhymes \n(See above for address) \nLEAD ATTORNEY \nATTORNEY TO BE NOTICED\nV.\nIntervenor Defendant\nAlpha Care Home Health Inc represented by Susan W Furr \n(See above for address) \nLEAD ATTORNEY \nATTORNEY TO BE NOTICED\nThomas H Kiggans \n(See above for address) \n2 of 4 6/4/2007 4:07 PM\n\nCM/ECF - U.S. District Court:Western District of Louisiana - Docket R... https://ecf.lawd.uscourts.gov/cgi-bin/DktRpt.pl?681824742057532-L_9...\nATTORNEY TO BE NOTICED\nDate Filed # Docket Text\n02/02/1998   Amount of fee $0/USA PLAINTIFF. (McInnis, S) (Entered: 02/05/1998)\n02/02/1998 1 COMPLAINT filed w/jury demand. (Prest, B) (Entered: 02/10/1998)\n02/05/1998 2 SUMMONS issued for Alpha Care Home Hlth (addressed to Russell Starns). \n(Prest, B) (Entered: 02/10/1998)\n03/30/1998 3 WAIVER of service returned executed as to Alpha Care Home Hlth; Request for \nwaiver mailed on 2/19/98; Answer due on 4/20/98 for Alpha Care Home Hlth \n(former employee) (Entered: 04/01/1998)\n04/21/1998 4 ANSWER to Complaint by Alpha Care Home Hlth (former employee) (Entered: \n04/21/1998)\n04/30/1998 5 MOTION by Kimberly Kennedy to intervene as plaintiff with Memorandum and \nProposed Order referred to Magistrate Judge Karen L Hayes (former employee) \nModified on 05/01/1998 (Entered: 05/01/1998)\n05/05/1998 6 ORDER granting [5-1] motion to intervene as plaintiff (signed by Magistrate \nJudge Karen L Hayes) NOE by: dd (former employee) (Entered: 05/06/1998)\n05/05/1998 7 INTERVENOR'S COMPLAINT by Kimberly Kennedy against Alpha Care \nHome Hlth (former employee) (Entered: 05/06/1998)\n05/27/1998 8 ANSWER by Alpha Care Home Hlth to [7-1] intervenor complaint (Dean, S) \n(Entered: 05/27/1998)\n09/10/1998 9 MOTION by E E O C to substitute attorney Pamela Alfred-George as trial \nattorney in place of Gregory T Juge with Proposed Order referred to Magistrate \nJudge Karen L Hayes (former employee) (Entered: 09/10/1998)\n09/11/1998 10 ORDER granting [9-1] motion to substitute attorney Pamela Alfred-George as \ntrial attorney in place of Gregory T Juge for E E O C; (terminated attorney \nGregory T Juge for E E O C; added attorney Pamela Alfred-Greoge for E E O C). \n(signed by Magistrate Judge Karen L Hayes) NOE by: dd (Dean, S) (Entered: \n09/15/1998)\n11/05/1998 11 MINUTE ENTRY; this case is hereby reassigned to Judge Robert G James. The \nMagistrate Judge reassignment shall be designated by the Clerk in accordance \nwith the current Case Assignment Order. All motions presently set for hearing \nbefore Judge Donald Walter shall be reset for consideration on the motion \ncalendar of Judge James. Any scheduling order presently filed in the case shall \nremain in force, to be rescheduled by Judge James, if necessary. (signed by \nDonald E Walter) NOE by: cd (Dean, S) (Entered: 11/10/1998)\n11/05/1998   CASE reassigned to Judge Robert G James (Dean, S) (Entered: 11/10/1998)\n02/24/1999 12 SCHEDULING ORDER; Jury Trial set for 9:00 7/19/99; Pretrial Conference for \n9:00 6/25/99; Joining of parties, amding of pleadings on 4/26/99; Pltf's expert \ninfo/rpts due 4/26/99; Discovery due 4/26/99; Dft's expert info/rpts due 4/26/99; \n3 of 4 6/4/2007 4:07 PM\n\nCM/ECF - U.S. District Court:Western District of Louisiana - Docket R... https://ecf.lawd.uscourts.gov/cgi-bin/DktRpt.pl?681824742057532-L_9...\nPretrial order to be submitted on or before 12:00 6/21/99; Deadline for filing of \nall motions 4/26/99; Expert depositions due 5/11/99; Conference to prepare PT \nstips set for 5/26/99; Motions in limine due 6/10/99; Trial depositions due \n7/12/99; Trial inst., interr, etc due 7/12/99; Witness list due 4/26/99; deadlines set \nbefore Judge Robert G James. (signed by Judge Robert G James) NOE by: dd \n(Dean, S) (Entered: 02/26/1999)\n05/17/1999 13 LETTER by J Michael Rhymes to Judge James requesting a status conference. \nCopy to All Counsel of Record (former employee) (Entered: 05/18/1999)\n05/17/1999 14 MINUTE ENTRY: At the request of counsel in his [13-1] letter, a telephone \nstatus conference is scheduled for 1:30 5/25/99 before Judge Robert G James \n(signed by Judge Robert G James) NOE by: dd (former employee) (Entered: \n05/18/1999)\n05/25/1999 15 LETTER by J Michael Rhymes to Judge James regarding settlement of this \nmatter. Copy to Susan Furr and Pamela Alfred George (former employee) \n(Entered: 05/27/1999)\n05/25/1999 16 60 DAY ORDER of dismissal (signed by Judge Robert G James) NOE by: dd \n(former employee) (Entered: 05/27/1999)\n05/25/1999   Case closed (former employee) (Entered: 05/27/1999)\n08/02/1999 17 STIPULATION of Dismissal (former employee) (Entered: 08/04/1999)\n08/02/1999 18 JOINT MOTION by E E O C, Alpha Care Home Hlth, Kimberly Kennedy to \nappear and enter settlement agreement with Proposed Order referred to Judge \nRobert G James (former employee) (Entered: 08/04/1999)\n08/11/1999 19 ORDER granting [18-1] motion to appear and enter settlement agreement. \nORDERED that this matter is hereby dismissed with prejudice, each party to bear \nits own costs. FURTHER ORDERED that this court will retain jurisdiction over \nthis matter to enforce the terms of this settlement agreement. (signed by Judge \nRobert G James) NOE by: dd (McInnis, S) (Entered: 08/12/1999)\n08/11/1999 20 SETTLEMENT AGREEMENT (McInnis, S) (Entered: 08/12/1999)\nPACER Service Center\nTransaction Receipt\n06/04/2007 16:08:12\nPACER \nhs0328 Client Code: eeoc \nLogin:\nDocket  Search \nDescription: 3:98-cv-00218-RGJ-KLH\nReport Criteria:\nBillable \n3 Cost: 0.24\nPages:\n4 of 4 6/4/2007 4:07 PM",
+      "document_type_other": null,
+      "external_url": null,
+      "ecf_number": null,
+      "clearinghouse_link": "clearinghouse.net/doc/19336"
+    },
+    {
+      "date": null,
+      "date_is_estimate": false,
+      "date_not_available": false,
+      "description": null,
+      "document_source": null,
+      "document_status": null,
+      "document_type": null,
+      "order_type": null,
+      "citation_paren": null,
+      "cite_1_page": null,
+      "cite_1_reporter": null,
+      "cite_1_vol": null,
+      "cite_2_page": null,
+      "cite_2_reporter": null,
+      "cite_2_vol": null,
+      "cite_3_page": null,
+      "cite_3_reporter": null,
+      "cite_3_vol": null,
+      "citation_status": null,
+      "court": null,
+      "no_title": false,
+      "party_types": [],
+      "per_curium": false,
+      "is_core_document": true,
+      "id": 124964,
+      "file": null,
+      "title": null,
+      "text": null,
+      "document_type_other": null,
+      "external_url": null,
+      "ecf_number": null,
+      "clearinghouse_link": "clearinghouse.net/doc/124964"
+    }
+  ],
+  "document_count": 3
+}

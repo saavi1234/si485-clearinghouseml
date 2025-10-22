@@ -1,0 +1,199 @@
+{
+  "case_id": 11203,
+  "fetched_at": "2025-10-22T00:13:58.570800",
+  "case_data": {
+    "attorney_orgs": [],
+    "available_documents": [
+      "Any published opinion"
+    ],
+    "case_defendants": [
+      {
+        "defendant_level": null,
+        "institution": "",
+        "institution_alt_state": null,
+        "institution_city": "",
+        "institution_county": null,
+        "name": "Commissioner of Hennepin County",
+        "defendant_level_other": "",
+        "is_active": true
+      },
+      {
+        "defendant_level": null,
+        "institution": "",
+        "institution_alt_state": null,
+        "institution_city": "",
+        "institution_county": null,
+        "name": "Governor Arne Carlson",
+        "defendant_level_other": "",
+        "is_active": true
+      },
+      {
+        "defendant_level": null,
+        "institution": "",
+        "institution_alt_state": null,
+        "institution_city": "",
+        "institution_county": null,
+        "name": "Treasurer Michael McGrath",
+        "defendant_level_other": "",
+        "is_active": true
+      }
+    ],
+    "case_ongoing": "No",
+    "case_status": "Coding Complete",
+    "case_types": [
+      "Indigent Defense"
+    ],
+    "cause_other": "",
+    "causes": [
+      "State law"
+    ],
+    "class_action_granted": "Not sought",
+    "class_action_sought": "No",
+    "closing_year": 1996,
+    "constitutional_clause": [],
+    "content_of_injunction": [],
+    "court": "Minnesota state trial court",
+    "custom_issues": [],
+    "defendant_payment": "",
+    "defendant_type": [],
+    "docket_status": "None",
+    "facility_type": [],
+    "filing_date": null,
+    "filing_year": 1992,
+    "id": 11203,
+    "injunction_duration": "",
+    "issues": [
+      "General/Misc., Reproductive rights, Environmental Justice and Resources: Funding"
+    ],
+    "last_checked_date": "2009-05-19T00:00:00-04:00",
+    "main_docket": {
+      "id": 31847,
+      "docket_entries": [],
+      "docket_case_type": "",
+      "docket_year": null,
+      "docket_filing_number": null,
+      "is_main_docket": true,
+      "court": "U.S. Court of Appeals for the Eighth Circuit",
+      "state": "Minnesota",
+      "docket_office_number": "",
+      "docket_number_manual": "NA",
+      "scales_html": null,
+      "recap_link": null,
+      "is_active": false
+    },
+    "name": "Kennedy v. Carlson",
+    "never_filed": false,
+    "non_docket_case_number": "",
+    "non_docket_case_number_type": null,
+    "non_docket_case_number_type_other": "",
+    "order_end_year": 0,
+    "order_start_year": 0,
+    "permanent_injunction": false,
+    "plaintiff_description": "Plaintiff is the chief public defender seeking a declaratory relief from a Minnesota statute that plaintiff says doesn't provide sufficient funds to the Public Defender's Office to allow it to provide effective counsel to indigent defendants.",
+    "plaintiff_type": [
+      {
+        "value": "State Plaintiff"
+      }
+    ],
+    "prevailing_party": "Defendant",
+    "pro_se_status": "No",
+    "public_interest_lawyer": "Yes",
+    "related_cases": [],
+    "relief_natures": [
+      "None"
+    ],
+    "relief_nature_other": "",
+    "relief_sources": [
+      "Litigation"
+    ],
+    "settlement_agreement": [],
+    "settlement_judgment_date": null,
+    "settlement_judgment_year": null,
+    "special_collections": [],
+    "special_case_type": [],
+    "state": "Minnesota",
+    "summary": "<p>In April 1992, Plaintiff, the chief public defender for the Fourth Judicial District instituted a declaratory judgment action in the Hennepin County District Court pursuant to state law.  Plaintiff alleged that the Minnesota statute establishing the funding system for the public defender's office does not provide sufficient funds for its operation.  Plaintiff further alleged that the lack of funding violated indigent defendants constitutionally rights to effective counsel because of an arbitrary cap on state spending for public defender services.  The District Court (Lindstrom, J.) found the statute unconstitutional.  The defendants appealed to the Minnesota Supreme Court.</p><p>On February 16, 1996 the Minnesota Supreme Court (Keith, C.J.) reversed the District Court's judgment.  It found that the constitutional violations of ineffective assistance of counsel were too speculative since there was no evidence that any public defender was unable to effectively assist a client.</p><p></p>",
+    "summary_published_date": "2009-02-25T00:00:00-05:00",
+    "summary_short": "The chief pubic defender filed a declaratory judgment action seeking to have a Minnesota statue found unconstitutional due to the fact that it did not provide enough funds to keep the public defender's office running effectively for all clients.  The Minnesota Supreme Court found that the constitutional violations were too speculative since there was no evidence that a public defender had been unable to effectively assist a client.",
+    "summary_tiny": null,
+    "terminating_date": null,
+    "clearinghouse_link": "clearinghouse.net/case/11203",
+    "is_active": true,
+    "case_documents_url": "https://clearinghouse.net/api/v2/documents/?case=11203",
+    "case_dockets_url": "https://clearinghouse.net/api/v2/dockets/?case=11203",
+    "case_resources_url": "https://clearinghouse.net/api/v2/resources/?case=11203"
+  },
+  "documents": [
+    {
+      "date": null,
+      "date_is_estimate": false,
+      "date_not_available": false,
+      "description": null,
+      "document_source": null,
+      "document_status": null,
+      "document_type": null,
+      "order_type": null,
+      "citation_paren": null,
+      "cite_1_page": null,
+      "cite_1_reporter": null,
+      "cite_1_vol": null,
+      "cite_2_page": null,
+      "cite_2_reporter": null,
+      "cite_2_vol": null,
+      "cite_3_page": null,
+      "cite_3_reporter": null,
+      "cite_3_vol": null,
+      "citation_status": null,
+      "court": null,
+      "no_title": false,
+      "party_types": [],
+      "per_curium": false,
+      "is_core_document": true,
+      "id": 119734,
+      "file": null,
+      "title": null,
+      "text": null,
+      "document_type_other": null,
+      "external_url": null,
+      "ecf_number": null,
+      "clearinghouse_link": "clearinghouse.net/doc/119734"
+    },
+    {
+      "date": "1996-02-16",
+      "date_is_estimate": false,
+      "date_not_available": false,
+      "description": null,
+      "document_source": "Google Scholar",
+      "document_status": "Coding Complete",
+      "document_type": "Order/Opinion",
+      "order_type": "Litigated Decree",
+      "citation_paren": null,
+      "cite_1_page": 1,
+      "cite_1_reporter": "N.W.2d",
+      "cite_1_vol": 544,
+      "cite_2_page": null,
+      "cite_2_reporter": null,
+      "cite_2_vol": null,
+      "cite_3_page": null,
+      "cite_3_reporter": null,
+      "cite_3_vol": null,
+      "citation_status": "Official citation found/coded",
+      "court": "Minnesota state supreme court",
+      "no_title": false,
+      "party_types": [
+        "Court"
+      ],
+      "per_curium": false,
+      "is_core_document": true,
+      "id": 60345,
+      "file": "https://clearinghouse-umich-production.s3.amazonaws.com/media/doc/60345.pdf",
+      "title": "Opinion",
+      "text": "544 N.W.2d 1 (1996)\nWilliam R. KENNEDY, Chief Public Defender, Fourth Judicial District, Respondent,\nv.\nArne CARLSON, Governor, Michael A. McGrath, Treasurer, John Gunyou, Commissioner\nof Finance, petitioners, Appellants (C0-95-1282), Respondents (C6-95-1559),\nThe Commissioners of Hennepin County, Defendant,\nThe Board of Public Defense, petitioner, Respondent (C0-95-1282), Appellant (C6-95-1559).\nNos. C0-95-1282, C6-95-1559.\nSupreme Court of Minnesota.\nFebruary 16, 1996.\n2 *2 Hubert H. Humphrey, III, Atty. Gen., Michael Vanselow, Lisa Tiegel, Asst. Attys. Gen., St. Paul, for appellant.\nWilliam R. Kennedy, Chief Public Defender, David Murrin, Asst. Public Defender, Minneapolis, for respondent.\n3 *3 Heard, considered and decided by the court en banc.\nOPINION\nKEITH, Chief Justice.\nIn April 1992, respondent William R. Kennedy, Chief Public Defender for the Fourth Judicial District, initiated this\ndeclaratory judgment action in Hennepin County District Court against appellants, Governor Arne Carlson,\nTreasurer Michael A. McGrath, Commissioner of Finance John Gunyou (since replaced by Laura King), the State\n[1]\nBoard of Public Defense and the Commissioners of Hennepin County.  Kennedy alleges that Minn.Stat. §\n611.27 (1994), which establishes the funding system for Minnesota's public defenders, violates the constitutional\nrights of indigent criminal defendants to the effective assistance of counsel by not providing sufficient funds for\nthe operation of the Fourth Judicial District Public Defender's Office. Kennedy argues that section 611.27, as\napplied to his office, is \"an unconstitutional abdication of the State of Minnesota's constitutional mandate to\nprovide an effective funding mechanism for delivering effective assistance of counsel, and due process of law to\nindigent persons.\" The district court found the statute unconstitutional, and this court granted appellants' petition\nfor accelerated review.\nAt the outset, we must emphasize the crucial role played by public defenders in this state's judicial system. Since\n1963, the right to counsel under the Sixth Amendment has been recognized as a necessary component of each\nindividual's fundamental right to life and liberty. Gideon v. Wainwright, 372 U.S. 335, 83 S.Ct. 792, 9 L.Ed.2d 799\n(1963); In re Gault, 387 U.S. 1, 36, 87 S.Ct. 1428, 1448, 18 L.Ed.2d 527 (1967) (extending right to counsel to\njuvenile defendants). Minnesota's judiciary has long recognized the importance of criminal defense counsel, and\nwe are concerned that adequate funds be available for public defense services to indigent juveniles and adults.\nUnder the current system, public defenders must rely almost entirely upon state funding for their budgets. This\nfact, combined with increasing numbers of juvenile and serious crimes, the revised juvenile criminal code,\nincreased statutory penalties, a fluctuating economic climate and other individual pressures on state budgets, has\ndramatically increased the type and severity of cases handled by public defenders, and prevents Kennedy's\noffice from providing an \"ideal\" level of public defense services. Nonetheless, we are constrained by Minnesota's\ncaselaw and the facts before us in this case. Because Kennedy has failed to show an \"injury in fact\" to support\nhis claim as required under Minnesota law, we must reject his request for judicial intervention. We therefore\nreverse the district court's decision.\n\nI.\nThe material facts of this case are uncontested. Until the late 1980s, the funding of public defender services in\nMinnesota was primarily a county responsibility. Each of the ten judicial districts in the state was responsible for\nadministering this constitutionally mandated service, and financial resources were provided from property tax\nrevenues. Minn.Stat. §§ 611.26, 611.27 (1965). In 1981, the State Board of Public Defense (Board) was created\nby the legislature to oversee the public defense system and to distribute any funds appropriated by the state for\npublic defense services. See Minn.Stat. § 611.215 (1994). In 1989, the legislature temporarily transferred the\nprimary financial responsibility for public defense from the counties to the state. Act of June 3, 1989, ch. 335, art.\n1, § 7, 1989 Minn. Laws 2691, 2699-2700. The state's financial responsibility has been extended through July 1,\n1997. Minn.Stat. § 611.27, subd. 4 (1995).\nThe Board is required by statute to recommend to the legislature a budget for statewide public defense services,\n4 and then distribute the funds to all public defender offices. Minn.Stat. § 611.215, subd. 2 (1994). *4 In fiscal years\n1992 and 1993, Kennedy's office received roughly 50% of all district funding for public defense in Minnesota,\nincluding county contributions. The legislature appropriated $21,943,000 to the Board for state public defense\nservices in fiscal year 1994, and the same amount for FY 1995. In 1994, Kennedy's office received approximately\n$8,200,000 of the total district-level appropriations, plus roughly $2,700,000 in supplemental funding from\nHennepin County pursuant to Minn.Stat. § 611.27, subd. 5 (1994). The legislature has significantly increased its\nannual appropriations to the Board for FY 1996-97. The Board will receive $37,593,000 in 1996 and $38,731,000\nin 1997. Of these amounts, $33,836,000 and $35,009,000, respectively, are earmarked for district public defense\nprograms. Act of May 25, 1995, ch. 226, art. 1, § 10, 1995 Minn.Laws 1753, 1765. Under the statutory scheme\nnow in effect, the state's contribution to public defense services in Minnesota is expressly limited to the\n[2]\nappropriations made to the Board. Minn.Stat. § 611.27, subd. 7 (1994).  In addition, the Board is not permitted\nto fund any particular items or services which were not included within the original district public defender\nbudgets as of January 1, 1990. Minn.Stat. § 611.27, subd. 5 (1994).\nAs part of the state takeover, the legislature commissioned the Spangenberg Group, Inc., a nationally recognized\nexpert on public defense systems, to perform a \"weighted caseload analysis\" of public defender caseloads in\nMinnesota. The Spangenberg Group recommended in a 1991 report that full-time public defenders be assigned\nno more than three homicide cases per year, or 100-120 other felonies, or 250-300 gross misdemeanors, or 400\nmisdemeanors, or 80 child welfare cases, or 175 juvenile matters, or 200 \"other cases.\" The Board reviewed the\nSpangenberg report and adopted its own caseload standards, with the support of the judicial district's chief public\ndefenders, as a \"goal\" to achieve by October 1995. The Board rejected the Spangenberg Group's homicide\nstandard, and established that fulltime public defenders should take no more than 100-150 felonies per year.\nOtherwise, the aspirational standards adopted by the Board are identical to the Spangenberg Group's\nrecommendation. These caseload figures assume that roughly 5% of all cases go to trial, while 15% have some\nform of contested hearing. The actual trial rates for criminal cases in Hennepin County, however, are much lower\nthan the Spangenberg Group's estimate: in 1991, only 2.6% of all felony cases and less than 1% of all\nmisdemeanors were tried.\nBefore the district court, Kennedy's primary argument was that the current system of state-funded public\ndefender services is inadequate to provide effective assistance of counsel to indigent criminal defendants in the\nFourth Judicial District. Specifically, Kennedy criticized the limitation on state funding created by section 611.27,\nsubd. 7, the failure of the Board to obtain sufficient funds for the Fourth District, and the Board's failure to enforce\nits adopted caseload standards for public defenders. As a result of the lack of adequate funding, Kennedy\nalleged, his attorneys are \"significantly underfunded, understaffed, and therefore unable to adequately and\ncompletely fulfill the scope of their representation to their clients as defined by law.\" Kennedy asserted that the\nactual caseloads carried by his attorneys far exceeded the standards recommended by the 1991 Spangenberg\nstudy, and that this overburdening of his office impaired the rights of his indigent clients and threatened to cause\n[3]\nsystemic professional misconduct.  Kennedy therefore requested that the district court declare section 611.27\n5 unconstitutional, and *5 order the enforcement of the Board's caseload standards and the provision of sufficient\nfunds to enable the Fourth District to provide a constitutional level of legal assistance.\n\nAppellants admit that the Fourth Judicial District Public Defender's Office operates in excess of the aspirational\ncaseload standards, but assert that this fact does not support a claim for which relief can be granted. Appellants\nstate that the Fourth Judicial District has the best compensated, equipped and funded public defender's office in\nthe state. Kennedy himself is the highest paid public defender in Minnesota, and 15 of his full-time attorneys earn\nover $80,000 per year. In 1994, Kennedy's staff consisted of 67 full-time attorneys, 22 part-time attorneys, 12\ninvestigators, 8 dispositional advisors, 1 paralegal, 8 law clerks and 20 administrative staff members. Thus, the\nFourth District has more investigators, law clerks and other non-attorney support staff than all of the other nine\njudicial districts combined.\nAppellants moved for dismissal of Kennedy's complaint, arguing that Kennedy had failed to state a valid claim for\nrelief. The district court denied appellants' motion on November 5, 1992, concluding that the complaint stated a\nclaim for relief, i.e., a request that the court rule on the validity of section 611.27 and compel the state to provide\nadequate funds. Approximately two years after appellants' motion to dismiss was denied, Kennedy brought a\nmotion for summary judgment pursuant to Minn.R.Civ.P. 56.01, and appellants filed a cross-motion requesting\ndismissal. On April 24, 1995, the court granted summary judgment for Kennedy.\nThe district court held that Minn.Stat. § 611.27, subd. 7 is unconstitutional because it infringes upon Kennedy's\nconstitutional duty to provide criminal defense services to the poor by establishing an arbitrary and inflexible cap\non state spending for such services. Although the court considered section 611.27 to be \"constitutionally\ninnocuous\" on its face, it decided that the actual level of funding provided by the state to the public defender\nsystem did not adequately safeguard the constitutional rights of the indigent. The court acknowledged that it\ncould not determine whether Kennedy's attorneys had provided ineffective assistance of counsel in any particular\ncases, but nevertheless found that judicial relief was necessary to prevent this from occurring in the future. The\ncourt noted the Spangenberg Group's findings that public defenders in Minnesota carry an excessive caseload\nand do not have enough time to devote to their clients. In order to meet the maximum caseloads recommended\nby the Spangenberg study, the court observed, Kennedy claimed that he would have to increase his current staff\nby 50% or more. Because the state had refused to supplement current funding for the Fourth District Public\nDefender and maintained no legislative reserve fund for sudden caseload increases, the court determined that\nthe legislature had ignored its responsibilities. The court therefore held that the arbitrary cap on public defense\nfunding found in section 611.27 was unconstitutional.\nAppellants Carlson, McGrath and Gunyou contest the district court's decision, arguing that Kennedy raised no\njusticiable claim of a constitutional violation because Kennedy failed to prove actual or imminent harm to his\noffice or his clients. The Board also appeals from the district court's decision, arguing that Kennedy did not show\nthat the rights of his clients were violated or about to be violated due to ineffective assistance of counsel. The\nBoard further criticizes the district court's attempt to fashion a judicial remedy to the problem of funding criminal\ndefense services, arguing that neither the lower court nor this court has sufficient evidence to support such an\nattempt.\nII.\nAppellants argue on appeal that the district court should not have ruled on the constitutionality of section 611.27\nbecause Kennedy has not raised a justiciable claim. According to appellants, Kennedy contends that Minnesota's\nstatutory scheme for funding public defense services is unconstitutional because it \"potentially\" deprives indigent\ndefendants of their constitutional right to the effective assistance of counsel. This claim, insist appellants, does\n6 not present a justiciable controversy because there has been no showing of actual or imminent harm to Kennedy \n*6 or his indigent clients. While appellants may agree that public defenders in Minnesota need more money from\nthe legislature, they argue that Kennedy's complaints cannot be judicially reviewed.\nA justiciable controversy must exist before Minnesota courts have jurisdiction to issue a declaratory judgment\nregarding the constitutionality of a statute. St. Paul Area Chamber of Commerce v. Marzitelli, 258 N.W.2d 585,\n587 (Minn.1977). To establish a justiciable controversy, Kennedy must show \"a direct and imminent injury which\nresults from the alleged unconstitutional provision.\" State v. Colsch, 284 N.W.2d 839, 841 (Minn. 1979). This\n\ncourt has long held that merely possible or hypothetical injury is not enough to satisfy this standard. Id. at 841-42.\nAs we stated in State ex rel. Smith v. Haveland:\nAmong the essentials necessary to the raising of a justiciable controversy is the existence of a\ngenuine conflict in the tangible interests of the opposing litigants. Complainant must prove his\npossession of a legal interest or right which is capable of and in need of protection from the\nclaims, demands, or objections emanating from a source competent legally to place such legal\ninterest or right in jeopardy. Although complainant need not necessarily possess a cause of action\n(as that term is ordinarily used) as a basis for obtaining declaratory relief, nevertheless he must,\nas a minimum requirement, possess a bona fide legal interest which has been, or with respect to\nthe ripening seeds of a controversy is about to be, affected in a prejudicial manner.\n223 Minn. 89, 92, 25 N.W.2d 474, 477 (1946). Accord Lee v. Delmont, 228 Minn. 101, 11011, 36 N.W.2d 530,\n537 (1949) (A litigant challenging the constitutionality of statute must show that the statute \"is, or is about to be,\napplied to his disadvantage.\").\nIn this case, Kennedy claims that his clients have been exposed to the possibility of substandard legal\nrepresentation due to excessive public defender caseloads. Kennedy asserts that public defenders in the Fourth\nJudicial District are overworked and understaffed, and are expected to handle caseloads far in excess of the\n[4]\nBoard's aspirational standards. Public defenders cannot refuse to accept new clients under Minnesota law;\ntherefore, Kennedy's attorneys must \"plead out\" two to four cases each day, making it impossible to spend\nsufficient time with each individual client. As a result of his office's heavy workload, Kennedy argues that his\nclients' Sixth Amendment right to effective legal assistance may or will be violated, thus creating the \"actual\n[5]\ninjury\" required to raise a justiciable controversy.\nAppellants and the Board respond that the large number of cases assigned to Kennedy's staff does not amount\nto an \"injury in fact\" under Minnesota law. They argue that Kennedy has failed to show that his clients are actually\nreceiving ineffective assistance of counsel or that their Sixth Amendment rights have been violated in any\nidentifiable way. We note that appellants cite a number of decisions by other courts addressing the issue of public\ndefense funding. In those cases where courts have found a constitutional violation due to systemic underfunding,\n7 the plaintiffs showed substantial evidence of serious problems throughout the indigent defense *7 system. By\ncomparison, Kennedy has shown no evidence that his clients actually have been prejudiced due to ineffective\nassistance of counsel. To the contrary, the evidence establishes that Kennedy's office is well-respected by trial\njudges, it is well-funded when compared to other public defender offices, and its attorneys have faced no claims\n[6]\nof professional misconduct or malpractice.\nAn example of \"injury in fact\" to a plaintiff alleging ineffective assistance of counsel due to excessive attorney\ncaseloads can be found in the Supreme Court of Arizona's decision in State v. Smith, 140 Ariz. 355, 681 P.2d\n1374, 1378 (1984). Smith argued on appeal from his burglary and assault conviction that he was denied effective\nassistance of counsel due to his attorney's \"shocking, staggering and unworkable\" caseload. Id.681 P.2d at\n1378-79. While the court did not find that Smith's attorney was incompetent, it used the occasion to assess the\ndeficiencies of the Mohave County indigent defense system. Id. Mohave County utilized a bid system to award\npublic defense contracts to private attorneys. This system awarded contracts to the lowest bidders, but failed to\nconsider the time required to effectively represent clients, failed to account for support costs such as\ninvestigators, paralegals and secretaries, and did not consider the experience or competency of the attorney\nbefore awarding a contract. As a result of this county's system, defense counsel routinely accepted caseloads far\nin excess of the ABA's guidelines for awarding public defense contracts. For example, Smith's attorney handled a\n\"parttime\" caseload of 149 felonies, 160 misdemeanors, 21 juvenile cases and 33 other cases in the year Smith\nwas convicted, in addition to a private civil practice. Id. at 1380. Smith also asserted that the attorney spent \"only\ntwo to three hours interviewing the defendant and `possibly' six to eight hours studying the case.\" Id. at 1378. The\nArizona Supreme Court therefore found that Mohave County's bid system violated the rights of defendants to due\nprocess and the right to counsel, and ordered that all subsequent convictions obtained using the same procedure\nwould be presumed to be the product of a Sixth Amendment violation. Id. at 1381, 1384. The state would carry\nthe burden of rebutting this presumption until the bid system was improved. Id. at 1384.\n\nIn 1993, the Supreme Court of Louisiana ordered a similar presumption of ineffective assistance of counsel for\ncriminal convictions in New Orleans. State v. Peart, 621 So.2d 780, 783 (La.1993). The defendant Peart was\ncharged with several felony offenses and his court-appointed attorney raised a Sixth Amendment argument\nbefore the trial court on the grounds that Peart was denied constitutionally-required defense resources by the\ncity's indigent defense program. Id. at 784. The trial court found that when Peart's attorney was appointed to\nrepresent Peart, he was already assigned to 70 active felony cases, and had represented 418 defendants during\na 7-month period. His clients were routinely incarcerated for 30 to 70 days before he could meet with them, and\nhe had at least one serious felony case set for trial on every trial date during the period in question. Id. The\nsupreme court considered these facts in its decision, and ordered that all defendants represented by New\nOrleans court-appointed attorneys would be presumed to have received ineffective assistance of counsel. Id. at\n791.\nOther courts have relied upon evidence of grossly overworked attorneys to revamp public defense systems under\n8 their jurisdiction. *8See In re Order on Prosecution of Criminal Appeals by the Tenth Judicial Circuit Public\nDefender, 561 So.2d 1130, 1139 (Fla.1990) (enormous backlog of appellate cases assigned to public defenders\nwould support habeas corpus relief for indigent appellants unless new funds were appropriated within 60 days); \nHatten v. State, 561 So.2d 562, 565 (Fla.1990) (excessive backlog of appellate filings in public defender's office\namounted to ineffective assistance of counsel); Luckey v. Harris, 860 F.2d 1012 (11th Cir.1988); State ex rel.\nWolff v. Ruddy, 617 S.W.2d 64, 66 (Mo.1981),cert. denied,454 U.S. 1142, 102 S.Ct. 1000, 71 L.Ed.2d 293\n(1982) (establishing temporary guidelines to solve problem of providing legal assistance to indigent defendants\nafter state fund was exhausted).\nThe majority of the cases discussed above cite evidence of substandard representation by court appointed\ndefense counsel, generally supplied by a particular defendant, as contributing to the court's decision to intervene.\nKennedy, however, has not shown that his attorneys provide substandard assistance of counsel to their clients. \nSee Portman v. County of Santa Clara, 995 F.2d 898, 903 (9th Cir.1993) (attorney who argued county's at-will\nemployment policy interfered with his criminal clients' Sixth Amendment rights did not present justiciable claim\ndue to his reliance on \"hypothetical situations and hypothetical clients\"); Gardner v. Luckey, 500 F.2d 712, 714-15\n(5th Cir.1974),cert. denied,423 U.S. 841, 96 S.Ct. 73, 46 L.Ed.2d 61 (1975) (threat of future injuries to criminal\ndefendants, who claim their public defenders failed to provide effective legal assistance, was \"too speculative\" to\nprovide a basis for judicial relief). See also Dash v. Mitchell, 356 F.Supp. 1292, 1295 (D.D.C.1972) (legal defense\norganizations alleged no direct or consequential detriment to their interests as a result of preventative detention\nprogram; thus there was no injury in fact as required by Article III).\nIn short, Kennedy's claims of constitutional violations are too speculative and hypothetical to support jurisdiction\nin this court. The district court did not find that Kennedy's staff had provided ineffective assistance to any\nparticular client, nor did it find that Kennedy faced professional liability as a result of his office's substandard\nservices. Nor do any of Kennedy's clients join him in attacking the statutory funding scheme at issue here by\npresenting evidence of inadequate assistance in particular cases. In light of Kennedy's failure to provide more\nsubstantial evidence of an \"injury in fact\" to himself or his clients, we hold that the district court erred in granting\nKennedy's summary judgment motion.\nAccordingly, the decision of the district court is reversed.\nSTRINGER, J., took no part in the consideration or decision of this case.\n[1] Hennepin County and Kennedy reached a settlement in November 1993 in which Hennepin County agreed to\nsupplement the state funds provided for the Fourth District Public Defender's Office in exchange for dismissal\nfrom Kennedy's lawsuit. Thus Hennepin County is no longer a party to this action.\n[2] Minnesota Statutes section 611.27, subdivision 7 states: \nPublic defender services; responsibility. Notwithstanding subdivision 4, the state's obligation for the costs of the\npublic defender services is limited to the appropriations made to the board of public defense. Services and\n\nexpenses in cases where adequate representation cannot be provided by the district public defender shall be the\nresponsibility of the state board of public defense.\n[3] In 1991, for example, the Fourth District Public Defender's Office was assigned a total of 27,000 cases. Of this\nfigure, approximately 3,800 were felonies, and the rest were gross misdemeanors, misdemeanors and juvenile\ncases.\n[4]See Dziubak v. Mott, 503 N.W.2d 771, 775 (Minn.1993) (\"[A] public defender may not reject a client, but is\nobligated to represent whomever is assigned to her or him, regardless of her or his current caseload or the\ndegree of difficulty the case presents.\").\n[5] Kennedy does cite two other potential \"injuries\" in his complaint, namely that he is exposed to professional\nand civil liability as a result of these excessive caseloads. Public defenders, however, are immune from suits\nalleging legal malpractice in Minnesota. Dziubak, 503 N.W.2d at 773. Therefore, Kennedy cannot assert that he\nfaces actual or imminent harm on this ground. Furthermore, Rule 8(b) of the Rules on Lawyers Professional\nResponsibility requires the Director of the Office of Lawyers Professional Responsibility to dismiss all complaints\nby criminal defendants against their court appointed counsel without prejudice. The Director cannot\nindependently investigate claims of incompetent representation brought by indigent criminal defendants against\ntheir appointed defenders. Defendants can only raise such claims before the district court involved in their case,\nand that judge can refer the matter to the Director for investigation. This fact undermines Kennedy's claim that he\nis threatened with professional harm as a result of Minn.Stat. § 611.27.\n[6] For example, the Minnesota State Public Defender, John Stuart, reports in an affidavit filed by the State that\nhe has received \"very few complaints from clients regarding service received from the Fourth Judicial District\nPublic Defender's Office.\" In recent years, no Fourth District public defender has been disciplined for violations of\nthe Rules of Professional Responsibility, nor has any court held that Kennedy's staff has provided ineffective\nassistance of counsel. In Stuart's opinion, the clients of Kennedy's office \"receive good service\" despite the high\ncaseloads, thanks to Kennedy's excellent full-time investigative, research and sentencing advocacy staff and his\nhighly committed team of attorneys. In addition, the Chair of the Minnesota State Board of Public Defense, R.\nPeter Madel, Jr., submitted copies of numerous letters from Fourth Judicial District Judges written in support of\nKennedy's bid for reappointment in the fall of 1992. These letters routinely refer to Kennedy's office in glowing\nterms, often expressing the view that Kennedy's office is one of the best public defense offices in the country.\nSave trees - read court opinions online on Google Scholar.",
+      "document_type_other": null,
+      "external_url": "",
+      "ecf_number": null,
+      "clearinghouse_link": "clearinghouse.net/doc/60345"
+    }
+  ],
+  "document_count": 2
+}

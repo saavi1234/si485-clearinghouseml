@@ -1,0 +1,2048 @@
+{
+  "case_id": 16238,
+  "fetched_at": "2025-10-22T00:28:06.728969",
+  "case_data": {
+    "attorney_orgs": [
+      "Loevy & Loevy"
+    ],
+    "available_documents": [
+      "Trial Court Docket",
+      "Complaint (any)"
+    ],
+    "case_defendants": [
+      {
+        "defendant_level": null,
+        "institution": "Milwaukee County Jail",
+        "institution_alt_state": null,
+        "institution_city": "",
+        "institution_county": "Milwaukee",
+        "name": "County of Milwaukee",
+        "defendant_level_other": "",
+        "is_active": true
+      }
+    ],
+    "case_ongoing": "No",
+    "case_status": "Approved",
+    "case_types": [
+      "Jail Conditions",
+      "Healthcare Access and Reproductive Issues"
+    ],
+    "cause_other": "",
+    "causes": [
+      "42 U.S.C. § 1983",
+      "State law"
+    ],
+    "class_action_granted": "Denied",
+    "class_action_sought": "Yes",
+    "closing_year": 2019,
+    "constitutional_clause": [
+      {
+        "value": "Due Process"
+      }
+    ],
+    "content_of_injunction": [],
+    "court": "Eastern District of Wisconsin",
+    "custom_issues": [],
+    "defendant_payment": "",
+    "defendant_type": [
+      {
+        "value": "Corrections"
+      }
+    ],
+    "docket_status": "Complete as of retrieval date",
+    "facility_type": [
+      {
+        "value": "Government-run"
+      }
+    ],
+    "filing_date": "2017-03-14",
+    "filing_year": 2017,
+    "id": 16238,
+    "injunction_duration": "",
+    "issues": [
+      "Medical/Mental Health Care: Medical care, general",
+      "General/Misc.: Conditions of confinement",
+      "Affected Sex/Gender(s): Female",
+      "Jails, Prisons, Detention Centers, and Other Institutions: Restraints (physical)",
+      "Reproductive rights: Reproductive health care (including birth control, abortion, and others)"
+    ],
+    "last_checked_date": "2020-04-12T00:00:00-04:00",
+    "main_docket": {
+      "id": 28775,
+      "docket_entries": [
+        {
+          "row_number": 0,
+          "id": 1845781,
+          "entry_number": "1",
+          "date_filed": "2017-03-14T00:00:00-04:00",
+          "attachments": null,
+          "url": "https://ecf.wied.uscourts.gov/doc1/20303344939?caseid=76598&de_seq_num=4&pdf_header=1&pdf_toggle_possible=1",
+          "recap_pdf_url": null,
+          "pacer_doc_id": null,
+          "description": "COMPLAINT with Jury Demand; against David A. Clarke, Jr., County of Milwaukee by Melissa Hall. ( Filing Fee PAID $400 receipt number 0757−2537633) (Attachments: # 1 Proposed Summons for County of Milwaukee, # 2 Proposed Summons for David Clarke, # 3 Civil Cover Sheet)(Kleinhaus, Theresa) Modified on 3/15/2017 (amb)."
+        },
+        {
+          "row_number": 1,
+          "id": 1845782,
+          "entry_number": "2",
+          "date_filed": "2017-03-14T00:00:00-04:00",
+          "attachments": null,
+          "url": "https://ecf.wied.uscourts.gov/doc1/20313344952?caseid=76598&de_seq_num=7&pdf_header=1&pdf_toggle_possible=1",
+          "recap_pdf_url": null,
+          "pacer_doc_id": null,
+          "description": "NOTICE of Appearance by Theresa Kleinhaus on behalf of Melissa Hall. Attorney(s) appearing: Theresa Kleinhaus (Kleinhaus, Theresa)"
+        },
+        {
+          "row_number": 2,
+          "id": 1845783,
+          "entry_number": "3",
+          "date_filed": "2017-03-14T00:00:00-04:00",
+          "attachments": null,
+          "url": "https://ecf.wied.uscourts.gov/doc1/20313344962?caseid=76598&de_seq_num=9&pdf_header=1&pdf_toggle_possible=1",
+          "recap_pdf_url": null,
+          "pacer_doc_id": null,
+          "description": "NOTICE of Appearance by Arthur Loevy on behalf of Melissa Hall. Attorney(s) appearing: Arthur Loevy (Loevy, Arthur)"
+        },
+        {
+          "row_number": 3,
+          "id": 1845784,
+          "entry_number": "4",
+          "date_filed": "2017-03-14T00:00:00-04:00",
+          "attachments": null,
+          "url": "https://ecf.wied.uscourts.gov/doc1/20313344968?caseid=76598&de_seq_num=12&pdf_header=1&pdf_toggle_possible=1",
+          "recap_pdf_url": null,
+          "pacer_doc_id": null,
+          "description": "NOTICE of Appearance by Scott Rauscher on behalf of Melissa Hall. Attorney(s) appearing: Scott Rauscher (Rauscher, Scott)"
+        },
+        {
+          "row_number": 5,
+          "id": 1845786,
+          "entry_number": "5",
+          "date_filed": "2017-03-14T00:00:00-04:00",
+          "attachments": null,
+          "url": "https://ecf.wied.uscourts.gov/doc1/20313345148?caseid=76598&de_seq_num=20&pdf_header=1&pdf_toggle_possible=1",
+          "recap_pdf_url": null,
+          "pacer_doc_id": null,
+          "description": "DISCLOSURE Statement by Melissa Hall. (Kleinhaus, Theresa)"
+        },
+        {
+          "row_number": 8,
+          "id": 1845789,
+          "entry_number": "6",
+          "date_filed": "2017-03-15T00:00:00-04:00",
+          "attachments": null,
+          "url": "https://ecf.wied.uscourts.gov/doc1/20303345490?caseid=76598&de_seq_num=27&pdf_header=1&pdf_toggle_possible=1",
+          "recap_pdf_url": null,
+          "pacer_doc_id": null,
+          "description": "REQUEST for Issuance of Summons by Melissa Hall (Attachments: # 1 Request for Issuance of Summons − David Clarke)(Kleinhaus, Theresa)"
+        },
+        {
+          "row_number": 9,
+          "id": 1845790,
+          "entry_number": "7",
+          "date_filed": "2017-03-15T00:00:00-04:00",
+          "attachments": null,
+          "url": "https://ecf.wied.uscourts.gov/doc1/20313345701?caseid=76598&de_seq_num=29&pdf_header=1&pdf_toggle_possible=1",
+          "recap_pdf_url": null,
+          "pacer_doc_id": null,
+          "description": "NOTICE of Appearance by Michael I Kanovitz on behalf of Melissa Hall. Attorney(s) appearing: Michael Kanovitz (Kanovitz, Michael)"
+        },
+        {
+          "row_number": 11,
+          "id": 1845792,
+          "entry_number": "8",
+          "date_filed": "2017-03-21T00:00:00-04:00",
+          "attachments": null,
+          "url": "https://ecf.wied.uscourts.gov/doc1/20313350323?caseid=76598&de_seq_num=34&pdf_header=1&pdf_toggle_possible=1",
+          "recap_pdf_url": null,
+          "pacer_doc_id": null,
+          "description": "SUMMONS Returned Executed by Melissa Hall. County of Milwaukee served on 3/21/2017. (Kleinhaus, Theresa)"
+        },
+        {
+          "row_number": 12,
+          "id": 1845793,
+          "entry_number": "9",
+          "date_filed": "2017-03-21T00:00:00-04:00",
+          "attachments": null,
+          "url": "https://ecf.wied.uscourts.gov/doc1/20313350330?caseid=76598&de_seq_num=36&pdf_header=1&pdf_toggle_possible=1",
+          "recap_pdf_url": null,
+          "pacer_doc_id": null,
+          "description": "SUMMONS Returned Executed by Melissa Hall. David A Clarke, Jr served on 3/21/2017. (Kleinhaus, Theresa)"
+        },
+        {
+          "row_number": 13,
+          "id": 1845794,
+          "entry_number": "10",
+          "date_filed": "2017-03-21T00:00:00-04:00",
+          "attachments": null,
+          "url": "https://ecf.wied.uscourts.gov/doc1/20313350511?caseid=76598&de_seq_num=38&pdf_header=1&pdf_toggle_possible=1",
+          "recap_pdf_url": null,
+          "pacer_doc_id": null,
+          "description": "Consent to Jurisdiction by US Magistrate Judge by Melissa Hall. (Kleinhaus, Theresa)"
+        },
+        {
+          "row_number": 14,
+          "id": 1845795,
+          "entry_number": "11",
+          "date_filed": "2017-04-11T00:00:00-04:00",
+          "attachments": null,
+          "url": "https://ecf.wied.uscourts.gov/doc1/20313366189?caseid=76598&de_seq_num=40&pdf_header=1&pdf_toggle_possible=1",
+          "recap_pdf_url": null,
+          "pacer_doc_id": null,
+          "description": "AMENDED COMPLAINT with Jury Demand against David A Clarke, Jr, County of Milwaukee filed by Melissa Hall.(Kleinhaus, Theresa)"
+        },
+        {
+          "row_number": 15,
+          "id": 1845796,
+          "entry_number": "12",
+          "date_filed": "2017-04-11T00:00:00-04:00",
+          "attachments": null,
+          "url": "https://ecf.wied.uscourts.gov/doc1/20313366366?caseid=76598&de_seq_num=42&pdf_header=1&pdf_toggle_possible=1",
+          "recap_pdf_url": null,
+          "pacer_doc_id": null,
+          "description": "ANSWER to 1 Complaint, by David A Clarke, Jr, County of Milwaukee.(Posnanski, Timothy)"
+        },
+        {
+          "row_number": 16,
+          "id": 1845797,
+          "entry_number": "13",
+          "date_filed": "2017-04-11T00:00:00-04:00",
+          "attachments": null,
+          "url": "https://ecf.wied.uscourts.gov/doc1/20313366369?caseid=76598&de_seq_num=46&pdf_header=1&pdf_toggle_possible=1",
+          "recap_pdf_url": null,
+          "pacer_doc_id": null,
+          "description": "DISCLOSURE Statement by David A Clarke, Jr, County of Milwaukee. (Posnanski, Timothy)"
+        },
+        {
+          "row_number": 10,
+          "id": 1845791,
+          "entry_number": null,
+          "date_filed": "2017-03-16T00:00:00-04:00",
+          "attachments": [],
+          "url": "nan",
+          "recap_pdf_url": null,
+          "pacer_doc_id": null,
+          "description": "Summons Issued as to All Defendants. (amb)"
+        },
+        {
+          "row_number": 17,
+          "id": 1845798,
+          "entry_number": "14",
+          "date_filed": "2017-04-11T00:00:00-04:00",
+          "attachments": null,
+          "url": "https://ecf.wied.uscourts.gov/doc1/20313366372?caseid=76598&de_seq_num=48&pdf_header=1&pdf_toggle_possible=1",
+          "recap_pdf_url": null,
+          "pacer_doc_id": null,
+          "description": "Refusal to Jurisdiction by US Magistrate Judge by David A Clarke, Jr, County of Milwaukee. (Posnanski, Timothy)"
+        },
+        {
+          "row_number": 19,
+          "id": 1845800,
+          "entry_number": "15",
+          "date_filed": "2017-04-12T00:00:00-04:00",
+          "attachments": null,
+          "url": "https://ecf.wied.uscourts.gov/doc1/20313367435?caseid=76598&de_seq_num=53&pdf_header=1&pdf_toggle_possible=1",
+          "recap_pdf_url": null,
+          "pacer_doc_id": null,
+          "description": "SCHEDULING ORDER signed by Judge Lynn Adelman on 4/12/17. Scheduling Conference set for 5/24/2017 at 11:00 AM by telephone before Judge Lynn Adelman. (cc: all counsel)(gc)"
+        },
+        {
+          "row_number": 20,
+          "id": 1845801,
+          "entry_number": "16",
+          "date_filed": "2017-04-17T00:00:00-04:00",
+          "attachments": null,
+          "url": "https://ecf.wied.uscourts.gov/doc1/20313370875?caseid=76598&de_seq_num=55&pdf_header=1&pdf_toggle_possible=1",
+          "recap_pdf_url": null,
+          "pacer_doc_id": null,
+          "description": "NOTICE of Appearance by Aisha N Davis on behalf of Melissa Hall. Attorney(s) appearing: Aisha Davis (Davis, Aisha)"
+        },
+        {
+          "row_number": 21,
+          "id": 1845802,
+          "entry_number": "17",
+          "date_filed": "2017-04-25T00:00:00-04:00",
+          "attachments": null,
+          "url": "https://ecf.wied.uscourts.gov/doc1/20313376457?caseid=76598&de_seq_num=58&pdf_header=1&pdf_toggle_possible=1",
+          "recap_pdf_url": null,
+          "pacer_doc_id": null,
+          "description": "NOTICE of Appearance by Charles H Bohl on behalf of David A Clarke, Jr, County of Milwaukee. Attorney(s) appearing: Charles H. Bohl (Bohl, Charles)"
+        },
+        {
+          "row_number": 22,
+          "id": 1845803,
+          "entry_number": "18",
+          "date_filed": "2017-04-25T00:00:00-04:00",
+          "attachments": null,
+          "url": "https://ecf.wied.uscourts.gov/doc1/20313376462?caseid=76598&de_seq_num=62&pdf_header=1&pdf_toggle_possible=1",
+          "recap_pdf_url": null,
+          "pacer_doc_id": null,
+          "description": "NOTICE of Appearance by Andrew A Jones on behalf of David A Clarke, Jr, County of Milwaukee. Attorney(s) appearing: Andrew A. Jones (Jones, Andrew)"
+        },
+        {
+          "row_number": 23,
+          "id": 1845804,
+          "entry_number": "19",
+          "date_filed": "2017-04-25T00:00:00-04:00",
+          "attachments": null,
+          "url": "https://ecf.wied.uscourts.gov/doc1/20313376467?caseid=76598&de_seq_num=66&pdf_header=1&pdf_toggle_possible=1",
+          "recap_pdf_url": null,
+          "pacer_doc_id": null,
+          "description": "ANSWER to 11 Amended Complaint by David A Clarke, Jr, County of Milwaukee.(Posnanski, Timothy)"
+        },
+        {
+          "row_number": 24,
+          "id": 1845805,
+          "entry_number": "20",
+          "date_filed": "2017-05-04T00:00:00-04:00",
+          "attachments": null,
+          "url": "https://ecf.wied.uscourts.gov/doc1/20313385412?caseid=76598&de_seq_num=68&pdf_header=1&pdf_toggle_possible=1",
+          "recap_pdf_url": null,
+          "pacer_doc_id": null,
+          "description": "Joint REPORT of Rule 26(f) Plan by Melissa Hall. (Kleinhaus, Theresa)"
+        },
+        {
+          "row_number": 25,
+          "id": 1845806,
+          "entry_number": "21",
+          "date_filed": "2017-05-24T00:00:00-04:00",
+          "attachments": null,
+          "url": "https://ecf.wied.uscourts.gov/doc1/20313402653?caseid=76598&de_seq_num=70&pdf_header=1&pdf_toggle_possible=1",
+          "recap_pdf_url": null,
+          "pacer_doc_id": null,
+          "description": "Minute Entry for proceedings held before Judge Lynn Adelman:Telephonic Scheduling Conference held on 5/24/2017; Court to adopt parties proposed schedule (jcl) (Entered: 05/25/2017)"
+        },
+        {
+          "row_number": 26,
+          "id": 1845807,
+          "entry_number": "23",
+          "date_filed": "2017-06-12T00:00:00-04:00",
+          "attachments": null,
+          "url": "https://ecf.wied.uscourts.gov/doc1/20313415215?caseid=76598&de_seq_num=75&pdf_header=1&pdf_toggle_possible=1",
+          "recap_pdf_url": null,
+          "pacer_doc_id": null,
+          "description": "NOTICE of Appearance by Samuel D Heppell on behalf of Melissa Hall. Attorney(s) appearing: Sam Heppell (Heppell, Samuel)"
+        },
+        {
+          "row_number": 27,
+          "id": 1845808,
+          "entry_number": "24",
+          "date_filed": "2017-06-16T00:00:00-04:00",
+          "attachments": null,
+          "url": "https://ecf.wied.uscourts.gov/doc1/20313419121?caseid=76598&de_seq_num=78&pdf_header=1&pdf_toggle_possible=1",
+          "recap_pdf_url": null,
+          "pacer_doc_id": null,
+          "description": "STIPULATION For HIPAA−Qualified Protective Order by All Plaintiffs. (Kleinhaus, Theresa)"
+        },
+        {
+          "row_number": 28,
+          "id": 1845809,
+          "entry_number": "25",
+          "date_filed": "2017-06-16T00:00:00-04:00",
+          "attachments": null,
+          "url": "https://ecf.wied.uscourts.gov/doc1/20313419133?caseid=76598&de_seq_num=80&pdf_header=1&pdf_toggle_possible=1",
+          "recap_pdf_url": null,
+          "pacer_doc_id": null,
+          "description": "PROPOSED Proposed Qualified HIPAA Protective Order for Protected Health Information filed by Melissa Hall. (Kleinhaus, Theresa)"
+        },
+        {
+          "row_number": 29,
+          "id": 1845810,
+          "entry_number": "26",
+          "date_filed": "2017-06-19T00:00:00-04:00",
+          "attachments": null,
+          "url": "https://ecf.wied.uscourts.gov/doc1/20313419567?caseid=76598&de_seq_num=82&pdf_header=1&pdf_toggle_possible=1",
+          "recap_pdf_url": null,
+          "pacer_doc_id": null,
+          "description": "QUALIFIED HIPAA PROTECTIVE ORDER FOR PROTECTED HEALTH INFORMATION signed by Judge Lynn Adelman on 6/19/17. See Order. (cc: all counsel)(gc)"
+        },
+        {
+          "row_number": 30,
+          "id": 1845811,
+          "entry_number": "27",
+          "date_filed": "2017-07-17T00:00:00-04:00",
+          "attachments": null,
+          "url": "https://ecf.wied.uscourts.gov/doc1/20303440064?caseid=76598&de_seq_num=84&pdf_header=1&pdf_toggle_possible=1",
+          "recap_pdf_url": null,
+          "pacer_doc_id": null,
+          "description": "Unopposed MOTION for Order Directing Ascension Healthcare to Produce Certain Medical Records by Melissa Hall. (Attachments: # 1 Text of Proposed Order)(Kleinhaus, Theresa)"
+        },
+        {
+          "row_number": 31,
+          "id": 1845812,
+          "entry_number": "28",
+          "date_filed": "2017-07-19T00:00:00-04:00",
+          "attachments": null,
+          "url": "https://ecf.wied.uscourts.gov/doc1/20313442646?caseid=76598&de_seq_num=86&pdf_header=1&pdf_toggle_possible=1",
+          "recap_pdf_url": null,
+          "pacer_doc_id": null,
+          "description": "ORDER GRANTING 27 Unopposed Motion for Order Directing Ascension Healthcare to Produce Certain Medical Records signed by Judge Lynn Adelman on 7/19/17. Court hereby orders that those records be released. (cc: all counsel) (gc)"
+        },
+        {
+          "row_number": 32,
+          "id": 1845813,
+          "entry_number": "29",
+          "date_filed": "2017-08-25T00:00:00-04:00",
+          "attachments": null,
+          "url": "https://ecf.wied.uscourts.gov/doc1/20313472082?caseid=76598&de_seq_num=88&pdf_header=1&pdf_toggle_possible=1",
+          "recap_pdf_url": null,
+          "pacer_doc_id": null,
+          "description": "MOTION to Withdraw as Attorney Sarah Grusin by Melissa Hall. (Heppell, Samuel)"
+        },
+        {
+          "row_number": 34,
+          "id": 1845815,
+          "entry_number": "30",
+          "date_filed": "2017-10-17T00:00:00-04:00",
+          "attachments": null,
+          "url": "https://ecf.wied.uscourts.gov/doc1/20303519237?caseid=76598&de_seq_num=93&pdf_header=1&pdf_toggle_possible=1",
+          "recap_pdf_url": null,
+          "pacer_doc_id": null,
+          "description": "MOTION to Restrict Document by Melissa Hall. (Attachments: # 1 Text of Proposed Order)(Kleinhaus, Theresa)"
+        },
+        {
+          "row_number": 35,
+          "id": 1845816,
+          "entry_number": "31",
+          "date_filed": "2017-10-17T00:00:00-04:00",
+          "attachments": null,
+          "url": "https://ecf.wied.uscourts.gov/doc1/20303519241?caseid=76598&de_seq_num=95&pdf_header=1&pdf_toggle_possible=1",
+          "recap_pdf_url": null,
+          "pacer_doc_id": null,
+          "description": "MOTION to Certify Class by Melissa Hall. This document and/or certain attachments are restricted to case participants and attorneys of record should use their efiling login and password to view this document (Attachments: # 1 Exhibit 1, # 2 Exhibit 2, # 3 Exhibit 3, # 4 Exhibit 4, # 5 Exhibit 5, # 6 Exhibit 6, # 7 Exhibit 7, # 8 Exhibit 8, # 9 Exhibit 9, # 10 Exhibit 10, # 11 Exhibit 11, # 12 Exhibit 12, # 13 Exhibit 13, # 14 Exhibit 14, # 15 Exhibit 15, # 16 Exhibit 16, # 17 Exhibit 17, # 18 Exhibit 18, # 19 Exhibit 19, # 20 Exhibit 20, # 21 Exhibit 21, # 22 Exhibit 22, # 23 Exhibit 23, # 24 Exhibit 24, # 25 Exhibit 25, # 26 Exhibit 26, # 27 Exhibit 26−A, # 28 Exhibit List)(Kleinhaus, Theresa) Modified on 10/18/2017 (asc)."
+        },
+        {
+          "row_number": 36,
+          "id": 1845817,
+          "entry_number": "32",
+          "date_filed": "2017-10-17T00:00:00-04:00",
+          "attachments": null,
+          "url": "https://ecf.wied.uscourts.gov/doc1/20303519272?caseid=76598&de_seq_num=97&pdf_header=1&pdf_toggle_possible=1",
+          "recap_pdf_url": null,
+          "pacer_doc_id": null,
+          "description": "Exhibit List by Melissa Hall. (Attachments: # 1 Exhibit 6, # 2 Exhibit 7, # 3 Exhibit 8, # 4 Exhibit 9, # 5 Exhibit 10, # 6 Exhibit 11, # 7 Exhibit 12, # 8 Exhibit 13, # 9 Exhibit 14, # 10 Exhibit 15, # 11 Exhibit 16, # 12 Exhibit 17, # 13 Exhibit 18, # 14 Exhibit 19, # 15 Exhibit 20, # 16 Exhibit 21)This document and/or certain attachments are restricted to case participants and attorneys of record should use their efiling login and password to view this document(Kleinhaus, Theresa)"
+        },
+        {
+          "row_number": 37,
+          "id": 1845818,
+          "entry_number": "33",
+          "date_filed": "2017-10-18T00:00:00-04:00",
+          "attachments": null,
+          "url": "https://ecf.wied.uscourts.gov/doc1/20303519487?caseid=76598&de_seq_num=99&pdf_header=1&pdf_toggle_possible=1",
+          "recap_pdf_url": null,
+          "pacer_doc_id": null,
+          "description": "Amended MOTION to Restrict Document by Melissa Hall. (Attachments: # 1 Text of Proposed Order Amended)(Kleinhaus, Theresa)"
+        },
+        {
+          "row_number": 38,
+          "id": 1845819,
+          "entry_number": "34",
+          "date_filed": "2017-10-24T00:00:00-04:00",
+          "attachments": null,
+          "url": "https://ecf.wied.uscourts.gov/doc1/20303524371?caseid=76598&de_seq_num=101&pdf_header=1&pdf_toggle_possible=1",
+          "recap_pdf_url": null,
+          "pacer_doc_id": null,
+          "description": "STIPULATION for Extension of Time by All Defendants. (Attachments: # 1 Text of Proposed Order)(Jones, Andrew)"
+        },
+        {
+          "row_number": 39,
+          "id": 1845820,
+          "entry_number": "35",
+          "date_filed": "2017-10-25T00:00:00-04:00",
+          "attachments": null,
+          "url": "https://ecf.wied.uscourts.gov/doc1/20313525598?caseid=76598&de_seq_num=103&pdf_header=1&pdf_toggle_possible=1",
+          "recap_pdf_url": null,
+          "pacer_doc_id": null,
+          "description": "ORDER FOR EXTENSION OF TIME. Defendant's submissions in opposition to Plaintiff's Motion for Class Certification 31 due by 11/14/17. Signed by Judge Lynn Adelman on 10/25/2017. (cc: all counsel)(gc)"
+        },
+        {
+          "row_number": 40,
+          "id": 1845821,
+          "entry_number": "36",
+          "date_filed": "2017-11-14T00:00:00-05:00",
+          "attachments": null,
+          "url": "https://ecf.wied.uscourts.gov/doc1/20313545042?caseid=76598&de_seq_num=106&pdf_header=1&pdf_toggle_possible=1",
+          "recap_pdf_url": null,
+          "pacer_doc_id": null,
+          "description": "BRIEF in Opposition filed by David A Clarke, Jr, County of Milwaukee re 31 MOTION to Certify Class . (Jones, Andrew)"
+        },
+        {
+          "row_number": 41,
+          "id": 1845822,
+          "entry_number": "37",
+          "date_filed": "2017-11-14T00:00:00-05:00",
+          "attachments": null,
+          "url": "https://ecf.wied.uscourts.gov/doc1/20313545045?caseid=76598&de_seq_num=109&pdf_header=1&pdf_toggle_possible=1",
+          "recap_pdf_url": null,
+          "pacer_doc_id": null,
+          "description": "DECLARATION of James Cox (Jones, Andrew)"
+        },
+        {
+          "row_number": 42,
+          "id": 1845823,
+          "entry_number": "38",
+          "date_filed": "2017-11-14T00:00:00-05:00",
+          "attachments": null,
+          "url": "https://ecf.wied.uscourts.gov/doc1/20303545050?caseid=76598&de_seq_num=111&pdf_header=1&pdf_toggle_possible=1",
+          "recap_pdf_url": null,
+          "pacer_doc_id": null,
+          "description": "DECLARATION of Andrew A. Jones (Attachments: # 1 Exhibit A: Hall Deposition Excerpts)(Jones, Andrew)"
+        },
+        {
+          "row_number": 43,
+          "id": 1845824,
+          "entry_number": "40",
+          "date_filed": "2017-11-28T00:00:00-05:00",
+          "attachments": null,
+          "url": "https://ecf.wied.uscourts.gov/doc1/20313555030?caseid=76598&de_seq_num=116&pdf_header=1&pdf_toggle_possible=1",
+          "recap_pdf_url": null,
+          "pacer_doc_id": null,
+          "description": "MOTION to Restrict Document − Exhibit 29 to Reply in Support of Motion for Class Certification by Melissa Hall. (Rauscher, Scott)"
+        },
+        {
+          "row_number": 44,
+          "id": 1845825,
+          "entry_number": "41",
+          "date_filed": "2017-11-28T00:00:00-05:00",
+          "attachments": null,
+          "url": "https://ecf.wied.uscourts.gov/doc1/20313555033?caseid=76598&de_seq_num=118&pdf_header=1&pdf_toggle_possible=1",
+          "recap_pdf_url": null,
+          "pacer_doc_id": null,
+          "description": "APPENDIX by Melissa Hall Sealed Exhibit 29 to Reply in Support of Motion for Class Certification . This document and/or certain attachments are restricted to case participants and attorneys of record should use their efiling login and password to view this document(Rauscher, Scott)"
+        },
+        {
+          "row_number": 45,
+          "id": 1845826,
+          "entry_number": "42",
+          "date_filed": "2017-12-20T00:00:00-05:00",
+          "attachments": null,
+          "url": "https://ecf.wied.uscourts.gov/doc1/20303573346?caseid=76598&de_seq_num=120&pdf_header=1&pdf_toggle_possible=1",
+          "recap_pdf_url": null,
+          "pacer_doc_id": null,
+          "description": "Joint MOTION to Amend/Correct Scheduling Order by Melissa Hall. (Attachments: # 1 Text of Proposed Order)(Kleinhaus, Theresa)"
+        },
+        {
+          "row_number": 46,
+          "id": 1845827,
+          "entry_number": "43",
+          "date_filed": "2017-12-22T00:00:00-05:00",
+          "attachments": null,
+          "url": "https://ecf.wied.uscourts.gov/doc1/20313575513?caseid=76598&de_seq_num=122&pdf_header=1&pdf_toggle_possible=1",
+          "recap_pdf_url": null,
+          "pacer_doc_id": null,
+          "description": "ORDER granting 42 Joint Motion to Amend/Correct Scheduling Order. The court vacates the Scheduling Order set forth in Docket No. 22 . The parties are directed to submit a proposed discovery schedule within 14 days of the Court's ruling on the class certification motion. Signed by Judge Lynn Adelman on 12/22/2017. (cc: all counsel) (gc)"
+        },
+        {
+          "row_number": 47,
+          "id": 1845828,
+          "entry_number": "44",
+          "date_filed": "2018-05-23T00:00:00-04:00",
+          "attachments": null,
+          "url": "https://ecf.wied.uscourts.gov/doc1/20313699367?caseid=76598&de_seq_num=124&pdf_header=1&pdf_toggle_possible=1",
+          "recap_pdf_url": null,
+          "pacer_doc_id": null,
+          "description": "DECISION AND ORDER signed by Judge Lynn Adelman on 5/23/18 denying 31 Motion to Certify Class. (cc: all counsel) (jad) (Entered: 05/24/2018)"
+        },
+        {
+          "row_number": 9,
+          "id": 2095641,
+          "entry_number": "6",
+          "date_filed": "2017-03-15T01:00:00-04:00",
+          "attachments": [
+            {
+              "recap_id": 156769191,
+              "pacer_url": "https://ecf.wied.uscourts.gov/doc1/20303345491?caseid=76598",
+              "description": "Request for Issuance of Summons - David Clarke",
+              "attachment_number": 1
+            }
+          ],
+          "url": "https://www.courtlistener.com/docket/6251585/6/hall-v-county-of-milwaukee/",
+          "recap_pdf_url": null,
+          "pacer_doc_id": "20303345490",
+          "description": "REQUEST for Issuance of Summons by Melissa Hall (Attachments: # 1 Request for Issuance of Summons - David Clarke)(Kleinhaus, Theresa)"
+        },
+        {
+          "row_number": 36,
+          "id": 2095668,
+          "entry_number": "27",
+          "date_filed": "2017-07-17T01:00:00-04:00",
+          "attachments": [
+            {
+              "recap_id": 156769190,
+              "pacer_url": "https://ecf.wied.uscourts.gov/doc1/20303440065?caseid=76598",
+              "description": "Text of Proposed Order",
+              "attachment_number": 1
+            }
+          ],
+          "url": "https://www.courtlistener.com/docket/6251585/27/hall-v-county-of-milwaukee/",
+          "recap_pdf_url": null,
+          "pacer_doc_id": "20303440064",
+          "description": "Unopposed MOTION for Order Directing Ascension Healthcare to Produce Certain Medical Records by Melissa Hall. (Attachments: # 1 Text of Proposed Order)(Kleinhaus, Theresa)"
+        },
+        {
+          "row_number": 43,
+          "id": 2095675,
+          "entry_number": "30",
+          "date_filed": "2017-10-17T01:00:00-04:00",
+          "attachments": [
+            {
+              "recap_id": 156769177,
+              "pacer_url": "https://ecf.wied.uscourts.gov/doc1/20303519238?caseid=76598",
+              "description": "Text of Proposed Order",
+              "attachment_number": 1
+            }
+          ],
+          "url": "https://www.courtlistener.com/docket/6251585/30/hall-v-county-of-milwaukee/",
+          "recap_pdf_url": null,
+          "pacer_doc_id": "20303519237",
+          "description": "MOTION to Restrict Document by Melissa Hall. (Attachments: # 1 Text of Proposed Order)(Kleinhaus, Theresa)"
+        },
+        {
+          "row_number": 45,
+          "id": 2095677,
+          "entry_number": "34",
+          "date_filed": "2017-10-24T01:00:00-04:00",
+          "attachments": [
+            {
+              "recap_id": 156769160,
+              "pacer_url": "https://ecf.wied.uscourts.gov/doc1/20303524372?caseid=76598",
+              "description": "Text of Proposed Order",
+              "attachment_number": 1
+            }
+          ],
+          "url": "https://www.courtlistener.com/docket/6251585/34/hall-v-county-of-milwaukee/",
+          "recap_pdf_url": null,
+          "pacer_doc_id": "20303524371",
+          "description": "STIPULATION for Extension of Time by All Defendants. (Attachments: # 1 Text of Proposed Order)(Jones, Andrew)"
+        },
+        {
+          "row_number": 60,
+          "id": 2095692,
+          "entry_number": "49",
+          "date_filed": "2018-07-02T01:00:00-04:00",
+          "attachments": [
+            {
+              "recap_id": 156769195,
+              "pacer_url": "https://ecf.wied.uscourts.gov/doc1/20303733617?caseid=76598",
+              "description": "Exhibit Redacted Exhibit List",
+              "attachment_number": 1
+            },
+            {
+              "recap_id": 156769196,
+              "pacer_url": "https://ecf.wied.uscourts.gov/doc1/20303733618?caseid=76598",
+              "description": "Exhibit Redacted County Response",
+              "attachment_number": 2
+            },
+            {
+              "recap_id": 156769197,
+              "pacer_url": "https://ecf.wied.uscourts.gov/doc1/20303733619?caseid=76598",
+              "description": "Exhibit Redacted Hampton Log",
+              "attachment_number": 3
+            },
+            {
+              "recap_id": 156769198,
+              "pacer_url": "https://ecf.wied.uscourts.gov/doc1/20303733620?caseid=76598",
+              "description": "Exhibit Redacted Buchanan Log",
+              "attachment_number": 4
+            },
+            {
+              "recap_id": 156769199,
+              "pacer_url": "https://ecf.wied.uscourts.gov/doc1/20303733621?caseid=76598",
+              "description": "Exhibit Redacted Lappegard Log",
+              "attachment_number": 5
+            },
+            {
+              "recap_id": 156769200,
+              "pacer_url": "https://ecf.wied.uscourts.gov/doc1/20303733622?caseid=76598",
+              "description": "Exhibit Redacted Crook Log",
+              "attachment_number": 6
+            },
+            {
+              "recap_id": 156769201,
+              "pacer_url": "https://ecf.wied.uscourts.gov/doc1/20303733623?caseid=76598",
+              "description": "Exhibit Redacted Mierow Log",
+              "attachment_number": 7
+            },
+            {
+              "recap_id": 156769202,
+              "pacer_url": "https://ecf.wied.uscourts.gov/doc1/20303733624?caseid=76598",
+              "description": "Exhibit Redacted Lyons Log",
+              "attachment_number": 8
+            },
+            {
+              "recap_id": 156769203,
+              "pacer_url": "https://ecf.wied.uscourts.gov/doc1/20303733625?caseid=76598",
+              "description": "Exhibit Redacted Prospective Class Members",
+              "attachment_number": 9
+            },
+            {
+              "recap_id": 156769204,
+              "pacer_url": "https://ecf.wied.uscourts.gov/doc1/20303733626?caseid=76598",
+              "description": "Exhibit Redacted Hall Declaration",
+              "attachment_number": 10
+            },
+            {
+              "recap_id": 156769205,
+              "pacer_url": "https://ecf.wied.uscourts.gov/doc1/20303733627?caseid=76598",
+              "description": "Exhibit Redacted Anderson Declaration",
+              "attachment_number": 11
+            },
+            {
+              "recap_id": 156769206,
+              "pacer_url": "https://ecf.wied.uscourts.gov/doc1/20303733628?caseid=76598",
+              "description": "Exhibit Redacted Carr Declaration",
+              "attachment_number": 12
+            },
+            {
+              "recap_id": 156769207,
+              "pacer_url": "https://ecf.wied.uscourts.gov/doc1/20303733629?caseid=76598",
+              "description": "Exhibit Redacted McCarthy Declaration",
+              "attachment_number": 13
+            },
+            {
+              "recap_id": 156769208,
+              "pacer_url": "https://ecf.wied.uscourts.gov/doc1/20303733630?caseid=76598",
+              "description": "Exhibit Redacted Sellenheim Declaration",
+              "attachment_number": 14
+            },
+            {
+              "recap_id": 156769209,
+              "pacer_url": "https://ecf.wied.uscourts.gov/doc1/20303733631?caseid=76598",
+              "description": "Exhibit Redacted Wisch Declaration",
+              "attachment_number": 15
+            },
+            {
+              "recap_id": 156769210,
+              "pacer_url": "https://ecf.wied.uscourts.gov/doc1/20303733632?caseid=76598",
+              "description": "Exhibit Redacted Mora Declaration",
+              "attachment_number": 16
+            },
+            {
+              "recap_id": 156769211,
+              "pacer_url": "https://ecf.wied.uscourts.gov/doc1/20303733633?caseid=76598",
+              "description": "Exhibit Redacted Johnson Declaration",
+              "attachment_number": 17
+            }
+          ],
+          "url": "https://www.courtlistener.com/docket/6251585/49/hall-v-county-of-milwaukee/",
+          "recap_pdf_url": null,
+          "pacer_doc_id": "20303733616",
+          "description": "Amended MOTION to Restrict Document by Melissa Hall. (Attachments: # 1 Exhibit Redacted Exhibit List, # 2 Exhibit Redacted County Response, # 3 Exhibit Redacted Hampton Log, # 4 Exhibit Redacted Buchanan Log, # 5 Exhibit Redacted Lappegard Log, # 6 Exhibit Redacted Crook Log, # 7 Exhibit Redacted Mierow Log, # 8 Exhibit Redacted Lyons Log, # 9 Exhibit Redacted Prospective Class Members, # 10 Exhibit Redacted Hall Declaration, # 11 Exhibit Redacted Anderson Declaration, # 12 Exhibit Redacted Carr Declaration, # 13 Exhibit Redacted McCarthy Declaration, # 14 Exhibit Redacted Sellenheim Declaration, # 15 Exhibit Redacted Wisch Declaration, # 16 Exhibit Redacted Mora Declaration, # 17 Exhibit Redacted Johnson Declaration)(Davis, Aisha)"
+        },
+        {
+          "row_number": 21,
+          "id": 2095653,
+          "entry_number": "13",
+          "date_filed": "2017-04-11T01:00:00-04:00",
+          "attachments": [],
+          "url": "https://www.courtlistener.com/docket/6251585/13/hall-v-county-of-milwaukee/",
+          "recap_pdf_url": null,
+          "pacer_doc_id": "20303366369",
+          "description": "DISCLOSURE Statement by David A Clarke, Jr, County of Milwaukee. (Posnanski, Timothy)"
+        },
+        {
+          "row_number": 64,
+          "id": 2095696,
+          "entry_number": "51",
+          "date_filed": "2018-10-05T01:00:00-04:00",
+          "attachments": [],
+          "url": "https://www.courtlistener.com/docket/6251585/51/hall-v-county-of-milwaukee/",
+          "recap_pdf_url": "https://www.courtlistener.com/recap/gov.uscourts.wied.76598/gov.uscourts.wied.76598.51.0.pdf",
+          "pacer_doc_id": "20303817761",
+          "description": "STATUS REPORT Joint Proposed Pretrial Schedule by Melissa Hall. (Kleinhaus, Theresa)"
+        },
+        {
+          "row_number": 6,
+          "id": 2095638,
+          "entry_number": "1",
+          "date_filed": "2017-03-14T01:00:00-04:00",
+          "attachments": [
+            {
+              "recap_id": 156769192,
+              "pacer_url": "https://ecf.wied.uscourts.gov/doc1/20303344940?caseid=76598",
+              "description": "Summons Proposed Summons for County of Milwaukee",
+              "attachment_number": 1
+            },
+            {
+              "recap_id": 156769193,
+              "pacer_url": "https://ecf.wied.uscourts.gov/doc1/20303344941?caseid=76598",
+              "description": "Summons Proposed Summons for David Clarke",
+              "attachment_number": 2
+            },
+            {
+              "recap_id": 156769194,
+              "pacer_url": "https://ecf.wied.uscourts.gov/doc1/20303344942?caseid=76598",
+              "description": "Civil Cover Sheet",
+              "attachment_number": 3
+            }
+          ],
+          "url": "https://www.courtlistener.com/docket/6251585/1/hall-v-county-of-milwaukee/",
+          "recap_pdf_url": null,
+          "pacer_doc_id": "20303344939",
+          "description": "COMPLAINT with Jury Demand; against David A. Clarke, Jr., County of Milwaukee by Melissa Hall. ( Filing Fee PAID $400 receipt number 0757-2537633) (Attachments: # 1 Proposed Summons for County of Milwaukee, # 2 Proposed Summons for David Clarke, # 3 Civil Cover Sheet)(Kleinhaus, Theresa) Modified on 3/15/2017 (amb)."
+        },
+        {
+          "row_number": 42,
+          "id": 2095674,
+          "entry_number": "31",
+          "date_filed": "2017-10-17T01:00:00-04:00",
+          "attachments": [
+            {
+              "recap_id": 156769162,
+              "pacer_url": "https://ecf.wied.uscourts.gov/doc1/20303519242?caseid=76598",
+              "description": "Exhibit 1",
+              "attachment_number": 1
+            },
+            {
+              "recap_id": 156769163,
+              "pacer_url": "https://ecf.wied.uscourts.gov/doc1/20303519243?caseid=76598",
+              "description": "Exhibit 2",
+              "attachment_number": 2
+            },
+            {
+              "recap_id": 156769164,
+              "pacer_url": "https://ecf.wied.uscourts.gov/doc1/20303519244?caseid=76598",
+              "description": "Exhibit 3",
+              "attachment_number": 3
+            },
+            {
+              "recap_id": 156769165,
+              "pacer_url": "https://ecf.wied.uscourts.gov/doc1/20303519245?caseid=76598",
+              "description": "Exhibit 4",
+              "attachment_number": 4
+            },
+            {
+              "recap_id": 156769166,
+              "pacer_url": "https://ecf.wied.uscourts.gov/doc1/20303519246?caseid=76598",
+              "description": "Exhibit 5",
+              "attachment_number": 5
+            },
+            {
+              "recap_id": 156769167,
+              "pacer_url": "https://ecf.wied.uscourts.gov/doc1/20303519247?caseid=76598",
+              "description": "Exhibit 6",
+              "attachment_number": 6
+            },
+            {
+              "recap_id": 156769168,
+              "pacer_url": "https://ecf.wied.uscourts.gov/doc1/20303519248?caseid=76598",
+              "description": "Exhibit 7",
+              "attachment_number": 7
+            },
+            {
+              "recap_id": 156769169,
+              "pacer_url": "https://ecf.wied.uscourts.gov/doc1/20303519249?caseid=76598",
+              "description": "Exhibit 8",
+              "attachment_number": 8
+            },
+            {
+              "recap_id": 156769170,
+              "pacer_url": "https://ecf.wied.uscourts.gov/doc1/20303519250?caseid=76598",
+              "description": "Exhibit 9",
+              "attachment_number": 9
+            },
+            {
+              "recap_id": 156769171,
+              "pacer_url": "https://ecf.wied.uscourts.gov/doc1/20303519251?caseid=76598",
+              "description": "Exhibit 10",
+              "attachment_number": 10
+            },
+            {
+              "recap_id": 156769172,
+              "pacer_url": "https://ecf.wied.uscourts.gov/doc1/20303519252?caseid=76598",
+              "description": "Exhibit 11",
+              "attachment_number": 11
+            },
+            {
+              "recap_id": 156769173,
+              "pacer_url": "https://ecf.wied.uscourts.gov/doc1/20303519253?caseid=76598",
+              "description": "Exhibit 12",
+              "attachment_number": 12
+            },
+            {
+              "recap_id": 156769174,
+              "pacer_url": "https://ecf.wied.uscourts.gov/doc1/20303519254?caseid=76598",
+              "description": "Exhibit 13",
+              "attachment_number": 13
+            },
+            {
+              "recap_id": 156769175,
+              "pacer_url": "https://ecf.wied.uscourts.gov/doc1/20303519255?caseid=76598",
+              "description": "Exhibit 14",
+              "attachment_number": 14
+            },
+            {
+              "recap_id": 156769176,
+              "pacer_url": "https://ecf.wied.uscourts.gov/doc1/20303519256?caseid=76598",
+              "description": "Exhibit 15",
+              "attachment_number": 15
+            },
+            {
+              "recap_id": 156769178,
+              "pacer_url": "https://ecf.wied.uscourts.gov/doc1/20303519257?caseid=76598",
+              "description": "Exhibit 16",
+              "attachment_number": 16
+            },
+            {
+              "recap_id": 156769179,
+              "pacer_url": "https://ecf.wied.uscourts.gov/doc1/20303519258?caseid=76598",
+              "description": "Exhibit 17",
+              "attachment_number": 17
+            },
+            {
+              "recap_id": 156769180,
+              "pacer_url": "https://ecf.wied.uscourts.gov/doc1/20303519259?caseid=76598",
+              "description": "Exhibit 18",
+              "attachment_number": 18
+            },
+            {
+              "recap_id": 156769181,
+              "pacer_url": "https://ecf.wied.uscourts.gov/doc1/20303519260?caseid=76598",
+              "description": "Exhibit 19",
+              "attachment_number": 19
+            },
+            {
+              "recap_id": 156769182,
+              "pacer_url": "https://ecf.wied.uscourts.gov/doc1/20303519261?caseid=76598",
+              "description": "Exhibit 20",
+              "attachment_number": 20
+            },
+            {
+              "recap_id": 156769183,
+              "pacer_url": "https://ecf.wied.uscourts.gov/doc1/20303519262?caseid=76598",
+              "description": "Exhibit 21",
+              "attachment_number": 21
+            },
+            {
+              "recap_id": 156769184,
+              "pacer_url": "https://ecf.wied.uscourts.gov/doc1/20303519263?caseid=76598",
+              "description": "Exhibit 22",
+              "attachment_number": 22
+            },
+            {
+              "recap_id": 156769185,
+              "pacer_url": "https://ecf.wied.uscourts.gov/doc1/20303519264?caseid=76598",
+              "description": "Exhibit 23",
+              "attachment_number": 23
+            },
+            {
+              "recap_id": 156769186,
+              "pacer_url": "https://ecf.wied.uscourts.gov/doc1/20303519265?caseid=76598",
+              "description": "Exhibit 24",
+              "attachment_number": 24
+            },
+            {
+              "recap_id": 156769187,
+              "pacer_url": "https://ecf.wied.uscourts.gov/doc1/20303519266?caseid=76598",
+              "description": "Exhibit 25",
+              "attachment_number": 25
+            },
+            {
+              "recap_id": 156769188,
+              "pacer_url": "https://ecf.wied.uscourts.gov/doc1/20303519267?caseid=76598",
+              "description": "Exhibit 26",
+              "attachment_number": 26
+            },
+            {
+              "recap_id": 156769189,
+              "pacer_url": "https://ecf.wied.uscourts.gov/doc1/20303519268?caseid=76598",
+              "description": "Exhibit 26-A",
+              "attachment_number": 27
+            }
+          ],
+          "url": "https://www.courtlistener.com/docket/6251585/31/hall-v-county-of-milwaukee/",
+          "recap_pdf_url": null,
+          "pacer_doc_id": "20303519241",
+          "description": "MOTION to Certify Class by Melissa Hall. This document and/or certain attachments are restricted to case participants and attorneys of record should use their efiling login and password to view this document (Attachments: # 1 Exhibit 1, # 2 Exhibit 2, # 3 Exhibit 3, # 4 Exhibit 4, # 5 Exhibit 5, # 6 Exhibit 6, # 7 Exhibit 7, # 8 Exhibit 8, # 9 Exhibit 9, # 10 Exhibit 10, # 11 Exhibit 11, # 12 Exhibit 12, # 13 Exhibit 13, # 14 Exhibit 14, # 15 Exhibit 15, # 16 Exhibit 16, # 17 Exhibit 17, # 18 Exhibit 18, # 19 Exhibit 19, # 20 Exhibit 20, # 21 Exhibit 21, # 22 Exhibit 22, # 23 Exhibit 23, # 24 Exhibit 24, # 25 Exhibit 25, # 26 Exhibit 26, # 27 Exhibit 26-A, # 28 Exhibit List)(Kleinhaus, Theresa) Modified on 10/18/2017 (asc)."
+        },
+        {
+          "row_number": 44,
+          "id": 2095676,
+          "entry_number": "33",
+          "date_filed": "2017-10-18T01:00:00-04:00",
+          "attachments": [
+            {
+              "recap_id": 156769161,
+              "pacer_url": "https://ecf.wied.uscourts.gov/doc1/20303519488?caseid=76598",
+              "description": "Text of Proposed Order Amended",
+              "attachment_number": 1
+            }
+          ],
+          "url": "https://www.courtlistener.com/docket/6251585/33/hall-v-county-of-milwaukee/",
+          "recap_pdf_url": null,
+          "pacer_doc_id": "20303519487",
+          "description": "Amended MOTION to Restrict Document by Melissa Hall. (Attachments: # 1 Text of Proposed Order Amended)(Kleinhaus, Theresa)"
+        },
+        {
+          "row_number": 47,
+          "id": 2095679,
+          "entry_number": "38",
+          "date_filed": "2017-11-14T01:00:00-05:00",
+          "attachments": [
+            {
+              "recap_id": 156769159,
+              "pacer_url": "https://ecf.wied.uscourts.gov/doc1/20303545051?caseid=76598",
+              "description": "Exhibit A: Hall Deposition Excerpts",
+              "attachment_number": 1
+            }
+          ],
+          "url": "https://www.courtlistener.com/docket/6251585/38/hall-v-county-of-milwaukee/",
+          "recap_pdf_url": null,
+          "pacer_doc_id": "20303545050",
+          "description": "DECLARATION of Andrew A. Jones (Attachments: # 1 Exhibit A: Hall Deposition Excerpts)(Jones, Andrew)"
+        },
+        {
+          "row_number": 52,
+          "id": 2095684,
+          "entry_number": "39",
+          "date_filed": "2017-11-28T01:00:00-05:00",
+          "attachments": [
+            {
+              "recap_id": 156769155,
+              "pacer_url": "https://ecf.wied.uscourts.gov/doc1/20303555024?caseid=76598",
+              "description": "Exhibit List",
+              "attachment_number": 1
+            },
+            {
+              "recap_id": 156769156,
+              "pacer_url": "https://ecf.wied.uscourts.gov/doc1/20303555025?caseid=76598",
+              "description": "Exhibit 27 - Summary Judgment Order in Martin v. County of Milwaukee",
+              "attachment_number": 2
+            },
+            {
+              "recap_id": 156769157,
+              "pacer_url": "https://ecf.wied.uscourts.gov/doc1/20303555026?caseid=76598",
+              "description": "Exhibit 28 - Melissa Hall Court Recordds",
+              "attachment_number": 3
+            },
+            {
+              "recap_id": 156769158,
+              "pacer_url": "https://ecf.wied.uscourts.gov/doc1/20303555027?caseid=76598",
+              "description": "Exhibit 29 - Cover Sheet for Sealed Exhibit 29",
+              "attachment_number": 4
+            }
+          ],
+          "url": "https://www.courtlistener.com/docket/6251585/39/hall-v-county-of-milwaukee/",
+          "recap_pdf_url": null,
+          "pacer_doc_id": "20303555023",
+          "description": "REPLY BRIEF in Support filed by Melissa Hall re 31 MOTION to Certify Class . (Attachments: # 1 Exhibit List, # 2 Exhibit 27 - Summary Judgment Order in Martin v. County of Milwaukee, # 3 Exhibit 28 - Melissa Hall Court Recordds, # 4 Exhibit 29 - Cover Sheet for Sealed Exhibit 29)(Rauscher, Scott)"
+        },
+        {
+          "row_number": 53,
+          "id": 2095685,
+          "entry_number": "42",
+          "date_filed": "2017-12-20T01:00:00-05:00",
+          "attachments": [
+            {
+              "recap_id": 156769154,
+              "pacer_url": "https://ecf.wied.uscourts.gov/doc1/20303573347?caseid=76598",
+              "description": "Text of Proposed Order",
+              "attachment_number": 1
+            }
+          ],
+          "url": "https://www.courtlistener.com/docket/6251585/42/hall-v-county-of-milwaukee/",
+          "recap_pdf_url": null,
+          "pacer_doc_id": "20303573346",
+          "description": "Joint MOTION to Amend/Correct Scheduling Order by Melissa Hall. (Attachments: # 1 Text of Proposed Order)(Kleinhaus, Theresa)"
+        },
+        {
+          "row_number": 31,
+          "id": 2095663,
+          "entry_number": "22",
+          "date_filed": "2017-05-25T01:00:00-04:00",
+          "attachments": [],
+          "url": "https://www.courtlistener.com/docket/6251585/22/hall-v-county-of-milwaukee/",
+          "recap_pdf_url": null,
+          "pacer_doc_id": "20303403166",
+          "description": "ORDER FOLLOWING SCHEDULING CONFERENCE signed by Judge Lynn Adelman on 5/25/17. Class Certification Motions due by 10/17/17; Plaintiffs Expert Witness List due by 2/1/2018; Defendants Expert Witness List due by 3/1/2018; Plaintiffs Rebuttal Expert Witness List due by 4/2/18; Discovery due by 1/15/2018; Dispositive Motions due by 4/16/2018. (cc: all counsel)(gc) (Entered: 05/26/2017)"
+        },
+        {
+          "row_number": 5,
+          "id": 2095637,
+          "entry_number": "2",
+          "date_filed": "2017-03-14T01:00:00-04:00",
+          "attachments": [],
+          "url": "https://www.courtlistener.com/docket/6251585/2/hall-v-county-of-milwaukee/",
+          "recap_pdf_url": null,
+          "pacer_doc_id": "20303344952",
+          "description": "NOTICE of Appearance by Theresa Kleinhaus on behalf of Melissa Hall. Attorney(s) appearing: Theresa Kleinhaus (Kleinhaus, Theresa)"
+        },
+        {
+          "row_number": 7,
+          "id": 2095639,
+          "entry_number": "7",
+          "date_filed": "2017-03-15T01:00:00-04:00",
+          "attachments": [],
+          "url": "https://www.courtlistener.com/docket/6251585/7/hall-v-county-of-milwaukee/",
+          "recap_pdf_url": null,
+          "pacer_doc_id": "20303345701",
+          "description": "NOTICE of Appearance by Michael I Kanovitz on behalf of Melissa Hall. Attorney(s) appearing: Michael Kanovitz (Kanovitz, Michael)"
+        },
+        {
+          "row_number": 8,
+          "id": 2095640,
+          "entry_number": null,
+          "date_filed": "2017-03-15T01:00:00-04:00",
+          "attachments": [],
+          "url": "https://www.courtlistener.com",
+          "recap_pdf_url": null,
+          "pacer_doc_id": null,
+          "description": "Case Opening Modification"
+        },
+        {
+          "row_number": 23,
+          "id": 2095655,
+          "entry_number": "11",
+          "date_filed": "2017-04-11T01:00:00-04:00",
+          "attachments": [],
+          "url": "https://www.courtlistener.com/docket/6251585/11/hall-v-county-of-milwaukee/",
+          "recap_pdf_url": null,
+          "pacer_doc_id": "20303366189",
+          "description": "AMENDED COMPLAINT with Jury Demand against David A Clarke, Jr, County of Milwaukee filed by Melissa Hall.(Kleinhaus, Theresa)"
+        },
+        {
+          "row_number": 25,
+          "id": 2095657,
+          "entry_number": "16",
+          "date_filed": "2017-04-17T01:00:00-04:00",
+          "attachments": [],
+          "url": "https://www.courtlistener.com/docket/6251585/16/hall-v-county-of-milwaukee/",
+          "recap_pdf_url": null,
+          "pacer_doc_id": "20303370875",
+          "description": "NOTICE of Appearance by Aisha N Davis on behalf of Melissa Hall. Attorney(s) appearing: Aisha Davis (Davis, Aisha)"
+        },
+        {
+          "row_number": 26,
+          "id": 2095658,
+          "entry_number": "19",
+          "date_filed": "2017-04-25T01:00:00-04:00",
+          "attachments": [],
+          "url": "https://www.courtlistener.com/docket/6251585/19/hall-v-county-of-milwaukee/",
+          "recap_pdf_url": null,
+          "pacer_doc_id": "20303376467",
+          "description": "ANSWER to 11 Amended Complaint by David A Clarke, Jr, County of Milwaukee.(Posnanski, Timothy)"
+        },
+        {
+          "row_number": 27,
+          "id": 2095659,
+          "entry_number": "18",
+          "date_filed": "2017-04-25T01:00:00-04:00",
+          "attachments": [],
+          "url": "https://www.courtlistener.com/docket/6251585/18/hall-v-county-of-milwaukee/",
+          "recap_pdf_url": null,
+          "pacer_doc_id": "20303376462",
+          "description": "NOTICE of Appearance by Andrew A Jones on behalf of David A Clarke, Jr, County of Milwaukee. Attorney(s) appearing: Andrew A. Jones (Jones, Andrew)"
+        },
+        {
+          "row_number": 28,
+          "id": 2095660,
+          "entry_number": "17",
+          "date_filed": "2017-04-25T01:00:00-04:00",
+          "attachments": [],
+          "url": "https://www.courtlistener.com/docket/6251585/17/hall-v-county-of-milwaukee/",
+          "recap_pdf_url": null,
+          "pacer_doc_id": "20303376457",
+          "description": "NOTICE of Appearance by Charles H Bohl on behalf of David A Clarke, Jr, County of Milwaukee. Attorney(s) appearing: Charles H. Bohl (Bohl, Charles)"
+        },
+        {
+          "row_number": 32,
+          "id": 2095664,
+          "entry_number": "23",
+          "date_filed": "2017-06-12T01:00:00-04:00",
+          "attachments": [],
+          "url": "https://www.courtlistener.com/docket/6251585/23/hall-v-county-of-milwaukee/",
+          "recap_pdf_url": null,
+          "pacer_doc_id": "20303415215",
+          "description": "NOTICE of Appearance by Samuel D Heppell on behalf of Melissa Hall. Attorney(s) appearing: Sam Heppell (Heppell, Samuel)"
+        },
+        {
+          "row_number": 33,
+          "id": 2095665,
+          "entry_number": "25",
+          "date_filed": "2017-06-16T01:00:00-04:00",
+          "attachments": [],
+          "url": "https://www.courtlistener.com/docket/6251585/25/hall-v-county-of-milwaukee/",
+          "recap_pdf_url": null,
+          "pacer_doc_id": "20303419133",
+          "description": "PROPOSED Proposed Qualified HIPAA Protective Order for Protected Health Information filed by Melissa Hall. (Kleinhaus, Theresa)"
+        },
+        {
+          "row_number": 35,
+          "id": 2095667,
+          "entry_number": "26",
+          "date_filed": "2017-06-19T01:00:00-04:00",
+          "attachments": [],
+          "url": "https://www.courtlistener.com/docket/6251585/26/hall-v-county-of-milwaukee/",
+          "recap_pdf_url": null,
+          "pacer_doc_id": "20303419567",
+          "description": "QUALIFIED HIPAA PROTECTIVE ORDER FOR PROTECTED HEALTH INFORMATION signed by Judge Lynn Adelman on 6/19/17. See Order. (cc: all counsel)(gc)"
+        },
+        {
+          "row_number": 37,
+          "id": 2095669,
+          "entry_number": "28",
+          "date_filed": "2017-07-19T01:00:00-04:00",
+          "attachments": [],
+          "url": "https://www.courtlistener.com/docket/6251585/28/hall-v-county-of-milwaukee/",
+          "recap_pdf_url": null,
+          "pacer_doc_id": "20303442646",
+          "description": "ORDER GRANTING 27 Unopposed Motion for Order Directing Ascension Healthcare to Produce Certain Medical Records signed by Judge Lynn Adelman on 7/19/17. Court hereby orders that those records be released. (cc: all counsel) (gc)"
+        },
+        {
+          "row_number": 46,
+          "id": 2095678,
+          "entry_number": "35",
+          "date_filed": "2017-10-25T01:00:00-04:00",
+          "attachments": [],
+          "url": "https://www.courtlistener.com/docket/6251585/35/hall-v-county-of-milwaukee/",
+          "recap_pdf_url": null,
+          "pacer_doc_id": "20303525598",
+          "description": "ORDER FOR EXTENSION OF TIME. Defendant's submissions in opposition to Plaintiff's Motion for Class Certification 31 due by 11/14/17. Signed by Judge Lynn Adelman on 10/25/2017. (cc: all counsel)(gc)"
+        },
+        {
+          "row_number": 49,
+          "id": 2095681,
+          "entry_number": "36",
+          "date_filed": "2017-11-14T01:00:00-05:00",
+          "attachments": [],
+          "url": "https://www.courtlistener.com/docket/6251585/36/hall-v-county-of-milwaukee/",
+          "recap_pdf_url": null,
+          "pacer_doc_id": "20303545042",
+          "description": "BRIEF in Opposition filed by David A Clarke, Jr, County of Milwaukee re 31 MOTION to Certify Class . (Jones, Andrew)"
+        },
+        {
+          "row_number": 50,
+          "id": 2095682,
+          "entry_number": "41",
+          "date_filed": "2017-11-28T01:00:00-05:00",
+          "attachments": [],
+          "url": "https://www.courtlistener.com/docket/6251585/41/hall-v-county-of-milwaukee/",
+          "recap_pdf_url": null,
+          "pacer_doc_id": "20303555033",
+          "description": "APPENDIX by Melissa Hall Sealed Exhibit 29 to Reply in Support of Motion for Class Certification. This document and/or certain attachments are restricted to case participants and attorneys of record should use their efiling login and password to view this document(Rauscher, Scott)"
+        },
+        {
+          "row_number": 61,
+          "id": 2095693,
+          "entry_number": null,
+          "date_filed": "2018-07-05T01:00:00-04:00",
+          "attachments": [],
+          "url": "https://www.courtlistener.com",
+          "recap_pdf_url": null,
+          "pacer_doc_id": null,
+          "description": "TEXT ONLY ORDER signed by Judge Lynn Adelman on 7/5/18 granting 49 Motion to Seal Document. (cc: all counsel) (jad)"
+        },
+        {
+          "row_number": 63,
+          "id": 2095695,
+          "entry_number": null,
+          "date_filed": "2018-09-05T01:00:00-04:00",
+          "attachments": [],
+          "url": "https://www.courtlistener.com",
+          "recap_pdf_url": null,
+          "pacer_doc_id": null,
+          "description": "TEXT ONLY ORDER signed by Judge Lynn Adelman on 9/5/18 granting 50 Motion to Withdraw as Attorney. Attorney Andrew A Jones terminated. (cc: all counsel) (jad)"
+        },
+        {
+          "row_number": 71,
+          "id": 2095703,
+          "entry_number": null,
+          "date_filed": "2018-12-27T01:00:00-05:00",
+          "attachments": [],
+          "url": "https://www.courtlistener.com",
+          "recap_pdf_url": null,
+          "pacer_doc_id": null,
+          "description": "Order on Motion to Withdraw"
+        },
+        {
+          "row_number": 74,
+          "id": 3836242,
+          "entry_number": null,
+          "date_filed": "2019-04-08T00:00:00-04:00",
+          "attachments": [],
+          "url": "https://www.courtlistener.com",
+          "recap_pdf_url": null,
+          "pacer_doc_id": null,
+          "description": "Docket Annotation"
+        },
+        {
+          "row_number": 75,
+          "id": 3836243,
+          "entry_number": null,
+          "date_filed": "2019-04-08T00:00:00-04:00",
+          "attachments": [],
+          "url": "https://www.courtlistener.com",
+          "recap_pdf_url": null,
+          "pacer_doc_id": null,
+          "description": "Docket Annotation - The parties have informed the court that they have reached a settlement. Therefore, the case will be closed for administrative purposes only pending receipt of a formal dismissal filing. (jad)"
+        },
+        {
+          "row_number": 68,
+          "id": 2095700,
+          "entry_number": null,
+          "date_filed": "2018-12-17T01:00:00-05:00",
+          "attachments": [],
+          "url": "https://www.courtlistener.com",
+          "recap_pdf_url": null,
+          "pacer_doc_id": null,
+          "description": "Order on Motion to Withdraw as Attorney"
+        },
+        {
+          "row_number": 24,
+          "id": 2095656,
+          "entry_number": "15",
+          "date_filed": "2017-04-12T01:00:00-04:00",
+          "attachments": [],
+          "url": "https://www.courtlistener.com/docket/6251585/15/hall-v-county-of-milwaukee/",
+          "recap_pdf_url": null,
+          "pacer_doc_id": "20303367435",
+          "description": "SCHEDULING ORDER signed by Judge Lynn Adelman on 4/12/17. Scheduling Conference set for 5/24/2017 at 11:00 AM by telephone before Judge Lynn Adelman. (cc: all counsel)(gc)"
+        },
+        {
+          "row_number": 57,
+          "id": 2095689,
+          "entry_number": "46",
+          "date_filed": "2018-06-08T01:00:00-04:00",
+          "attachments": [],
+          "url": "https://www.courtlistener.com/docket/6251585/46/hall-v-county-of-milwaukee/",
+          "recap_pdf_url": null,
+          "pacer_doc_id": "20303712950",
+          "description": "STATUS REPORT AMENDED by Melissa Hall. (Kleinhaus, Theresa)"
+        },
+        {
+          "row_number": 54,
+          "id": 2095686,
+          "entry_number": "43",
+          "date_filed": "2017-12-22T01:00:00-05:00",
+          "attachments": [],
+          "url": "https://www.courtlistener.com/docket/6251585/43/hall-v-county-of-milwaukee/",
+          "recap_pdf_url": null,
+          "pacer_doc_id": "20303575513",
+          "description": "ORDER granting 42 Joint Motion to Amend/Correct Scheduling Order. The court vacates the Scheduling Order set forth in Docket No. 22 . The parties are directed to submit a proposed discovery schedule within 14 days of the Court's ruling on the class certification motion. Signed by Judge Lynn Adelman on 12/22/2017. (cc: all counsel) (gc)"
+        },
+        {
+          "row_number": 76,
+          "id": 9519154,
+          "entry_number": "56",
+          "date_filed": "2019-06-18T00:00:00-04:00",
+          "attachments": [],
+          "url": "https://www.courtlistener.com/docket/6251585/56/hall-v-county-of-milwaukee/",
+          "recap_pdf_url": "https://www.courtlistener.com/recap/gov.uscourts.wied.76598/gov.uscourts.wied.76598.56.0.pdf",
+          "pacer_doc_id": "20304038264",
+          "description": "STIPULATION of Dismissal by Melissa Hall. (Kleinhaus, Theresa)"
+        },
+        {
+          "row_number": 11,
+          "id": 2095643,
+          "entry_number": null,
+          "date_filed": "2017-03-15T01:00:00-04:00",
+          "attachments": [],
+          "url": "https://www.courtlistener.com",
+          "recap_pdf_url": null,
+          "pacer_doc_id": null,
+          "description": "TEXT ONLY ORDER signed by Magistrate Judge David E Jones on 03/15/2017. Plaintiff must file proof of service of the complaint or a report on the status of service for each defendant within 45 days of the date of this order. (cc: all counsel)(amb)"
+        },
+        {
+          "row_number": 13,
+          "id": 2095645,
+          "entry_number": null,
+          "date_filed": "2017-03-16T01:00:00-04:00",
+          "attachments": [],
+          "url": "https://www.courtlistener.com",
+          "recap_pdf_url": null,
+          "pacer_doc_id": null,
+          "description": "Summons Issued as to All Defendants. (amb)"
+        },
+        {
+          "row_number": 19,
+          "id": 2095651,
+          "entry_number": null,
+          "date_filed": "2017-04-11T01:00:00-04:00",
+          "attachments": [],
+          "url": "https://www.courtlistener.com",
+          "recap_pdf_url": null,
+          "pacer_doc_id": null,
+          "description": "Case Assigned/Reassigned"
+        },
+        {
+          "row_number": 48,
+          "id": 2095680,
+          "entry_number": "37",
+          "date_filed": "2017-11-14T01:00:00-05:00",
+          "attachments": [],
+          "url": "https://www.courtlistener.com/docket/6251585/37/hall-v-county-of-milwaukee/",
+          "recap_pdf_url": null,
+          "pacer_doc_id": "20303545045",
+          "description": "DECLARATION of James Cox (Jones, Andrew)"
+        },
+        {
+          "row_number": 51,
+          "id": 2095683,
+          "entry_number": "40",
+          "date_filed": "2017-11-28T01:00:00-05:00",
+          "attachments": [],
+          "url": "https://www.courtlistener.com/docket/6251585/40/hall-v-county-of-milwaukee/",
+          "recap_pdf_url": null,
+          "pacer_doc_id": "20303555030",
+          "description": "MOTION to Restrict Document - Exhibit 29 to Reply in Support of Motion for Class Certification by Melissa Hall. (Rauscher, Scott)"
+        },
+        {
+          "row_number": 70,
+          "id": 2095702,
+          "entry_number": "54",
+          "date_filed": "2018-12-26T01:00:00-05:00",
+          "attachments": [],
+          "url": "https://www.courtlistener.com/docket/6251585/54/hall-v-county-of-milwaukee/",
+          "recap_pdf_url": null,
+          "pacer_doc_id": "20303885119",
+          "description": "MOTION to Withdraw by All Defendants. (Bohl, Charles)"
+        },
+        {
+          "row_number": 4,
+          "id": 1845785,
+          "entry_number": null,
+          "date_filed": "2017-03-14T00:00:00-04:00",
+          "attachments": [],
+          "url": "nan",
+          "recap_pdf_url": null,
+          "pacer_doc_id": null,
+          "description": "NOTICE Regarding assignment of this matter to Magistrate Judge David E Jones; Consent/refusal forms for Magistrate Judge Jones to be filed within 21 days; the consent/refusal form is available on our website; pursuant to Civil Local Rule 7.1 a disclosure statement is to be filed upon the first filing of any paper and should be filed now if not already filed. (lls)"
+        },
+        {
+          "row_number": 6,
+          "id": 1845787,
+          "entry_number": null,
+          "date_filed": "2017-03-15T00:00:00-04:00",
+          "attachments": [],
+          "url": "nan",
+          "recap_pdf_url": null,
+          "pacer_doc_id": null,
+          "description": "Case Opening Modification(s); The following modification(s) have been made to your case entry: The attached summons was not prepared using the version found on our website that allows them to be issued − please follow the instructions and resubmit the summons using the event Request for Issuance of Summons which is found under the heading other documents. Please refer to the attorney case opening instructions and the summons instructions. (amb)"
+        },
+        {
+          "row_number": 7,
+          "id": 1845788,
+          "entry_number": null,
+          "date_filed": "2017-03-15T00:00:00-04:00",
+          "attachments": [],
+          "url": "nan",
+          "recap_pdf_url": null,
+          "pacer_doc_id": null,
+          "description": "TEXT ONLY ORDER signed by Magistrate Judge David E Jones on 03/15/2017. Plaintiff must file proof of service of the complaint or a report on the status of service for each defendant within 45 days of the date of this order. (cc: all counsel)(amb)"
+        },
+        {
+          "row_number": 18,
+          "id": 1845799,
+          "entry_number": null,
+          "date_filed": "2017-04-11T00:00:00-04:00",
+          "attachments": [],
+          "url": "nan",
+          "recap_pdf_url": null,
+          "pacer_doc_id": null,
+          "description": "Case Reassigned to Judge Lynn Adelman. Magistrate Judge David E Jones no longer assigned to the case due to non−consent. (amb)"
+        },
+        {
+          "row_number": 33,
+          "id": 1845814,
+          "entry_number": null,
+          "date_filed": "2017-08-28T00:00:00-04:00",
+          "attachments": [],
+          "url": "nan",
+          "recap_pdf_url": null,
+          "pacer_doc_id": null,
+          "description": "TEXT ONLY ORDER signed by Judge Lynn Adelman on 8/28/17 GRANTING 29 Motion to Withdraw as Attorney Sarah Grusin . (cc: all counsel)(gc)"
+        },
+        {
+          "row_number": 3,
+          "id": 2095635,
+          "entry_number": "4",
+          "date_filed": "2017-03-14T01:00:00-04:00",
+          "attachments": [],
+          "url": "https://www.courtlistener.com/docket/6251585/4/hall-v-county-of-milwaukee/",
+          "recap_pdf_url": null,
+          "pacer_doc_id": "20303344968",
+          "description": "NOTICE of Appearance by Scott Rauscher on behalf of Melissa Hall. Attorney(s) appearing: Scott Rauscher (Rauscher, Scott)"
+        },
+        {
+          "row_number": 4,
+          "id": 2095636,
+          "entry_number": "3",
+          "date_filed": "2017-03-14T01:00:00-04:00",
+          "attachments": [],
+          "url": "https://www.courtlistener.com/docket/6251585/3/hall-v-county-of-milwaukee/",
+          "recap_pdf_url": null,
+          "pacer_doc_id": "20303344962",
+          "description": "NOTICE of Appearance by Arthur Loevy on behalf of Melissa Hall. Attorney(s) appearing: Arthur Loevy (Loevy, Arthur)"
+        },
+        {
+          "row_number": 12,
+          "id": 2095644,
+          "entry_number": null,
+          "date_filed": "2017-03-15T01:00:00-04:00",
+          "attachments": [],
+          "url": "https://www.courtlistener.com",
+          "recap_pdf_url": null,
+          "pacer_doc_id": null,
+          "description": "Case Opening Modification(s); The following modification(s) have been made to your case entry: The attached summons was not prepared using the version found on our website that allows them to be issued - please follow the instructions and resubmit the summons using the event Request for Issuance of Summons which is found under the heading other documents. Please refer to the attorney case opening instructions and the summons instructions. (amb)"
+        },
+        {
+          "row_number": 16,
+          "id": 2095648,
+          "entry_number": "9",
+          "date_filed": "2017-03-21T01:00:00-04:00",
+          "attachments": [],
+          "url": "https://www.courtlistener.com/docket/6251585/9/hall-v-county-of-milwaukee/",
+          "recap_pdf_url": null,
+          "pacer_doc_id": "20303350330",
+          "description": "SUMMONS Returned Executed by Melissa Hall. David A Clarke, Jr served on 3/21/2017. (Kleinhaus, Theresa)"
+        },
+        {
+          "row_number": 20,
+          "id": 2095652,
+          "entry_number": "14",
+          "date_filed": "2017-04-11T01:00:00-04:00",
+          "attachments": [],
+          "url": "https://www.courtlistener.com/docket/6251585/14/hall-v-county-of-milwaukee/",
+          "recap_pdf_url": null,
+          "pacer_doc_id": "20303366372",
+          "description": "Refusal to Jurisdiction by US Magistrate Judge by David A Clarke, Jr, County of Milwaukee. (Posnanski, Timothy)"
+        },
+        {
+          "row_number": 17,
+          "id": 2095649,
+          "entry_number": "8",
+          "date_filed": "2017-03-21T01:00:00-04:00",
+          "attachments": [],
+          "url": "https://www.courtlistener.com/docket/6251585/8/hall-v-county-of-milwaukee/",
+          "recap_pdf_url": null,
+          "pacer_doc_id": "20303350323",
+          "description": "SUMMONS Returned Executed by Melissa Hall. County of Milwaukee served on 3/21/2017. (Kleinhaus, Theresa)"
+        },
+        {
+          "row_number": 30,
+          "id": 2095662,
+          "entry_number": "21",
+          "date_filed": "2017-05-24T01:00:00-04:00",
+          "attachments": [],
+          "url": "https://www.courtlistener.com/docket/6251585/21/hall-v-county-of-milwaukee/",
+          "recap_pdf_url": null,
+          "pacer_doc_id": "20303402653",
+          "description": "Minute Entry for proceedings held before Judge Lynn Adelman:Telephonic Scheduling Conference held on 5/24/2017; Court to adopt parties proposed schedule (jcl) (Entered: 05/25/2017)"
+        },
+        {
+          "row_number": 41,
+          "id": 2095673,
+          "entry_number": "32",
+          "date_filed": "2017-10-17T01:00:00-04:00",
+          "attachments": [],
+          "url": "https://www.courtlistener.com/docket/6251585/32/hall-v-county-of-milwaukee/",
+          "recap_pdf_url": null,
+          "pacer_doc_id": "20303519272",
+          "description": "Exhibit List by Melissa Hall. (Attachments: # 1 Exhibit 6, # 2 Exhibit 7, # 3 Exhibit 8, # 4 Exhibit 9, # 5 Exhibit 10, # 6 Exhibit 11, # 7 Exhibit 12, # 8 Exhibit 13, # 9 Exhibit 14, # 10 Exhibit 15, # 11 Exhibit 16, # 12 Exhibit 17, # 13 Exhibit 18, # 14 Exhibit 19, # 15 Exhibit 20, # 16 Exhibit 21)This document and/or certain attachments are restricted to case participants and attorneys of record should use their efiling login and password to view this document(Kleinhaus, Theresa)"
+        },
+        {
+          "row_number": 58,
+          "id": 2095690,
+          "entry_number": "48",
+          "date_filed": "2018-06-11T01:00:00-04:00",
+          "attachments": [],
+          "url": "https://www.courtlistener.com/docket/6251585/48/hall-v-county-of-milwaukee/",
+          "recap_pdf_url": null,
+          "pacer_doc_id": "20303714798",
+          "description": "ORDER signed by Judge Lynn Adelman on 6/11/18., IT IS ORDERED that the plaintiffs' motions to seal 30, 33 & 40 are DENIED. However, the Clerk of Court shall keep the documents under seal until the court orders otherwise. The plaintiff may file a fresh motion to seal that complies with the court's instructions within 21 days of the date of this order. (cc: all counsel) (jad)"
+        },
+        {
+          "row_number": 59,
+          "id": 2095691,
+          "entry_number": "47",
+          "date_filed": "2018-06-11T01:00:00-04:00",
+          "attachments": [],
+          "url": "https://www.courtlistener.com/docket/6251585/47/hall-v-county-of-milwaukee/",
+          "recap_pdf_url": null,
+          "pacer_doc_id": "20303714776",
+          "description": "AMENDED SCHEDULING ORDER signed by Judge Lynn Adelman on 6/11/18. (cc: all counsel)(jad)"
+        },
+        {
+          "row_number": 73,
+          "id": 2095705,
+          "entry_number": "55",
+          "date_filed": "2019-02-11T01:00:00-05:00",
+          "attachments": [],
+          "url": "https://www.courtlistener.com/docket/6251585/55/hall-v-county-of-milwaukee/",
+          "recap_pdf_url": null,
+          "pacer_doc_id": "20303922033",
+          "description": "STIPULATION of Pre-Trial Schedule, Joint by Melissa Hall. (Kleinhaus, Theresa)"
+        },
+        {
+          "row_number": 34,
+          "id": 2095666,
+          "entry_number": "24",
+          "date_filed": "2017-06-16T01:00:00-04:00",
+          "attachments": [],
+          "url": "https://www.courtlistener.com/docket/6251585/24/hall-v-county-of-milwaukee/",
+          "recap_pdf_url": null,
+          "pacer_doc_id": "20303419121",
+          "description": "STIPULATION For HIPAA-Qualified Protective Order by All Plaintiffs. (Kleinhaus, Theresa)"
+        },
+        {
+          "row_number": 39,
+          "id": 2095671,
+          "entry_number": null,
+          "date_filed": "2017-08-28T01:00:00-04:00",
+          "attachments": [],
+          "url": "https://www.courtlistener.com",
+          "recap_pdf_url": null,
+          "pacer_doc_id": null,
+          "description": "TEXT ONLY ORDER signed by Judge Lynn Adelman on 8/28/17 GRANTING 29 Motion to Withdraw as Attorney Sarah Grusin. (cc: all counsel)(gc)"
+        },
+        {
+          "row_number": 10,
+          "id": 2095642,
+          "entry_number": null,
+          "date_filed": "2017-03-15T01:00:00-04:00",
+          "attachments": [],
+          "url": "https://www.courtlistener.com",
+          "recap_pdf_url": null,
+          "pacer_doc_id": null,
+          "description": "Text Only Order"
+        },
+        {
+          "row_number": 14,
+          "id": 2095646,
+          "entry_number": null,
+          "date_filed": "2017-03-16T01:00:00-04:00",
+          "attachments": [],
+          "url": "https://www.courtlistener.com",
+          "recap_pdf_url": null,
+          "pacer_doc_id": null,
+          "description": "Summons Issued"
+        },
+        {
+          "row_number": 18,
+          "id": 2095650,
+          "entry_number": null,
+          "date_filed": "2017-04-11T01:00:00-04:00",
+          "attachments": [],
+          "url": "https://www.courtlistener.com",
+          "recap_pdf_url": null,
+          "pacer_doc_id": null,
+          "description": "Case Reassigned to Judge Lynn Adelman. Magistrate Judge David E Jones no longer assigned to the case due to non-consent. (amb)"
+        },
+        {
+          "row_number": 22,
+          "id": 2095654,
+          "entry_number": "12",
+          "date_filed": "2017-04-11T01:00:00-04:00",
+          "attachments": [],
+          "url": "https://www.courtlistener.com/docket/6251585/12/hall-v-county-of-milwaukee/",
+          "recap_pdf_url": null,
+          "pacer_doc_id": "20303366366",
+          "description": "ANSWER to 1 Complaint, by David A Clarke, Jr, County of Milwaukee.(Posnanski, Timothy)"
+        },
+        {
+          "row_number": 29,
+          "id": 2095661,
+          "entry_number": "20",
+          "date_filed": "2017-05-04T01:00:00-04:00",
+          "attachments": [],
+          "url": "https://www.courtlistener.com/docket/6251585/20/hall-v-county-of-milwaukee/",
+          "recap_pdf_url": null,
+          "pacer_doc_id": "20303385412",
+          "description": "Joint REPORT of Rule 26(f) Plan by Melissa Hall. (Kleinhaus, Theresa)"
+        },
+        {
+          "row_number": 38,
+          "id": 2095670,
+          "entry_number": "29",
+          "date_filed": "2017-08-25T01:00:00-04:00",
+          "attachments": [],
+          "url": "https://www.courtlistener.com/docket/6251585/29/hall-v-county-of-milwaukee/",
+          "recap_pdf_url": null,
+          "pacer_doc_id": "20303472082",
+          "description": "MOTION to Withdraw as Attorney Sarah Grusin by Melissa Hall. (Heppell, Samuel)"
+        },
+        {
+          "row_number": 40,
+          "id": 2095672,
+          "entry_number": null,
+          "date_filed": "2017-08-28T01:00:00-04:00",
+          "attachments": [],
+          "url": "https://www.courtlistener.com",
+          "recap_pdf_url": null,
+          "pacer_doc_id": null,
+          "description": "Text Only Order"
+        },
+        {
+          "row_number": 56,
+          "id": 2095688,
+          "entry_number": "45",
+          "date_filed": "2018-06-07T01:00:00-04:00",
+          "attachments": [],
+          "url": "https://www.courtlistener.com/docket/6251585/45/hall-v-county-of-milwaukee/",
+          "recap_pdf_url": null,
+          "pacer_doc_id": "20303712215",
+          "description": "STATUS REPORT Joint Proposed Pretrial Schedule by Melissa Hall. (Kleinhaus, Theresa)"
+        },
+        {
+          "row_number": 62,
+          "id": 2095694,
+          "entry_number": "50",
+          "date_filed": "2018-09-04T01:00:00-04:00",
+          "attachments": [],
+          "url": "https://www.courtlistener.com/docket/6251585/50/hall-v-county-of-milwaukee/",
+          "recap_pdf_url": null,
+          "pacer_doc_id": "20303785891",
+          "description": "MOTION to Withdraw as Attorney by David A Clarke, Jr, County of Milwaukee. (Jones, Andrew)"
+        },
+        {
+          "row_number": 65,
+          "id": 2095697,
+          "entry_number": null,
+          "date_filed": "2018-10-10T01:00:00-04:00",
+          "attachments": [],
+          "url": "https://www.courtlistener.com",
+          "recap_pdf_url": null,
+          "pacer_doc_id": null,
+          "description": "TEXT ONLY ORDER granting 51 Joint Proposed Pretrial Schedule signed by Judge Lynn Adelman on 10/10/18. (cc: all counsel)(jad)"
+        },
+        {
+          "row_number": 67,
+          "id": 2095699,
+          "entry_number": "52",
+          "date_filed": "2018-12-14T01:00:00-05:00",
+          "attachments": [],
+          "url": "https://www.courtlistener.com/docket/6251585/52/hall-v-county-of-milwaukee/",
+          "recap_pdf_url": "https://www.courtlistener.com/recap/gov.uscourts.wied.76598/gov.uscourts.wied.76598.52.0_2.pdf",
+          "pacer_doc_id": "20303876904",
+          "description": "NOTICE of Appearance by Megan Pierce on behalf of Melissa Hall. Attorney(s) appearing: Megan Pierce (Pierce, Megan)"
+        },
+        {
+          "row_number": 69,
+          "id": 2095701,
+          "entry_number": null,
+          "date_filed": "2018-12-17T01:00:00-05:00",
+          "attachments": [],
+          "url": "https://www.courtlistener.com",
+          "recap_pdf_url": null,
+          "pacer_doc_id": null,
+          "description": "TEXT ONLY ORDER signed by Judge Lynn Adelman on 12/17/18 granting 53 Motion to Withdraw as Attorney. Attorney Aisha N Davis terminated. (cc: all counsel) (jad)"
+        },
+        {
+          "row_number": 72,
+          "id": 2095704,
+          "entry_number": null,
+          "date_filed": "2018-12-27T01:00:00-05:00",
+          "attachments": [],
+          "url": "https://www.courtlistener.com",
+          "recap_pdf_url": null,
+          "pacer_doc_id": null,
+          "description": "ORDER signed by Judge Lynn Adelman on 12/27/18 granting 54 Motion to Withdraw. (cc: all counsel) (jad)"
+        },
+        {
+          "row_number": 55,
+          "id": 2095687,
+          "entry_number": "44",
+          "date_filed": "2018-05-23T01:00:00-04:00",
+          "attachments": [],
+          "url": "https://www.courtlistener.com/docket/6251585/44/hall-v-county-of-milwaukee/",
+          "recap_pdf_url": "https://www.courtlistener.com/recap/gov.uscourts.wied.76598/gov.uscourts.wied.76598.44.0.pdf",
+          "pacer_doc_id": "20303699367",
+          "description": "DECISION AND ORDER signed by Judge Lynn Adelman on 5/23/18 denying 31 Motion to Certify Class. (cc: all counsel) (jad) (Entered: 05/24/2018)"
+        },
+        {
+          "row_number": 66,
+          "id": 2095698,
+          "entry_number": "53",
+          "date_filed": "2018-12-14T01:00:00-05:00",
+          "attachments": [],
+          "url": "https://www.courtlistener.com/docket/6251585/53/hall-v-county-of-milwaukee/",
+          "recap_pdf_url": "https://www.courtlistener.com/recap/gov.uscourts.wied.76598/gov.uscourts.wied.76598.53.0.pdf",
+          "pacer_doc_id": "20303877472",
+          "description": "MOTION to Withdraw as Attorney by Melissa Hall. (Davis, Aisha)"
+        },
+        {
+          "row_number": 2,
+          "id": 2095634,
+          "entry_number": null,
+          "date_filed": "2017-03-14T01:00:00-04:00",
+          "attachments": [],
+          "url": "https://www.courtlistener.com",
+          "recap_pdf_url": null,
+          "pacer_doc_id": null,
+          "description": "NOTICE Regarding assignment of this matter to Magistrate Judge David E Jones; Consent/refusal forms for Magistrate Judge Jones to be filed within 21 days; the consent/refusal form is available on our website; pursuant to Civil Local Rule 7.1 a disclosure statement is to be filed upon the first filing of any paper and should be filed now if not already filed. (lls)"
+        },
+        {
+          "row_number": 0,
+          "id": 2095632,
+          "entry_number": "5",
+          "date_filed": "2017-03-14T01:00:00-04:00",
+          "attachments": [],
+          "url": "https://www.courtlistener.com/docket/6251585/5/hall-v-county-of-milwaukee/",
+          "recap_pdf_url": null,
+          "pacer_doc_id": "20303345148",
+          "description": "DISCLOSURE Statement by Melissa Hall. (Kleinhaus, Theresa)"
+        },
+        {
+          "row_number": 1,
+          "id": 2095633,
+          "entry_number": null,
+          "date_filed": "2017-03-14T01:00:00-04:00",
+          "attachments": [],
+          "url": "https://www.courtlistener.com",
+          "recap_pdf_url": null,
+          "pacer_doc_id": null,
+          "description": "Notice of Judge Assignment"
+        },
+        {
+          "row_number": 15,
+          "id": 2095647,
+          "entry_number": "10",
+          "date_filed": "2017-03-21T01:00:00-04:00",
+          "attachments": [],
+          "url": "https://www.courtlistener.com/docket/6251585/10/hall-v-county-of-milwaukee/",
+          "recap_pdf_url": null,
+          "pacer_doc_id": "20303350511",
+          "description": "Consent to Jurisdiction by US Magistrate Judge by Melissa Hall. (Kleinhaus, Theresa)"
+        }
+      ],
+      "docket_case_type": "cv",
+      "docket_year": 2017,
+      "docket_filing_number": 379,
+      "is_main_docket": true,
+      "court": "Eastern District of Wisconsin",
+      "state": "Wisconsin",
+      "docket_office_number": "2",
+      "docket_number_manual": "2:17-cv-00379-DEJ",
+      "scales_html": "https://clearinghouse-umich-production.s3.amazonaws.com/media/docket-html/wied--2-17-cv-00379.html",
+      "recap_link": "https://www.courtlistener.com/docket/6251585/hall-v-county-of-milwaukee/",
+      "is_active": true
+    },
+    "name": "Hall v. County of Milwaukee",
+    "never_filed": false,
+    "non_docket_case_number": "",
+    "non_docket_case_number_type": null,
+    "non_docket_case_number_type_other": "",
+    "order_end_year": null,
+    "order_start_year": null,
+    "permanent_injunction": false,
+    "plaintiff_description": "All persons who, while incarcerated by Milwaukee County Jail, were hospitalized for labor, delivery, or to receive post-partum treatment at any time from February 1, 2010-present.",
+    "plaintiff_type": [
+      {
+        "value": "Private Plaintiff"
+      }
+    ],
+    "prevailing_party": "Plaintiff",
+    "pro_se_status": "No",
+    "public_interest_lawyer": "Yes",
+    "related_cases": [],
+    "relief_natures": [
+      "Unknown"
+    ],
+    "relief_nature_other": "",
+    "relief_sources": [
+      "Settlement"
+    ],
+    "settlement_agreement": [
+      "Private Settlement Agreement"
+    ],
+    "settlement_judgment_date": "2018-06-08",
+    "settlement_judgment_year": null,
+    "special_collections": [
+      "Post-PLRA Jail and Prison Private Settlement Agreements",
+      "Multi-LexSum (in sample)"
+    ],
+    "special_case_type": [],
+    "state": "Wisconsin",
+    "summary": "<p>On March 14, 2017, a female prisoner who was forced to receive prenatal care, give birth, and undergo post-partum treatment while shackled, filed a putative class-action complaint in the U.S. District Court for the Eastern District of Wisconsin. The plaintiff sued the County of Milwaukee under 42 U.S.C. § 1983 and state law. The plaintiff, represented by private counsel, sought compensatory damages and attorneys’ fees. The plaintiff alleged that in being shackled in accordance with the Milwaukee County Jail’s (MCJ) policy, her Fourteenth Amendment right to due process had been violated.  </p><p>The case was originally assigned to Magistrate Judge David E. Jones. Due to non-consent to jurisdiction on the part of the plaintiff, however, the case was reassigned to Judge Lynn Adelman. On April 11, 2017, the plaintiff filed an amended complaint that contained minor rewordings of the factual allegations without significantly altering the claims for relief.</p><p>On October 17, 2017, the plaintiff filed a motion to certify class. The proposed class definition included “All persons who, while incarcerated by Milwaukee County Jail, were hospitalized for labor, delivery, or to receive post-partum treatment at any time from February 1, 2010-present.” This definition differed from the one originally proposed in the complaint in that it did not include “prenatal” care. Judge Adelman denied this motion on May 23, 2018. </p><p>Litigation continued after the order denying class certification until April 8, 2019, when the parties informed the court that they had reached a private settlement agreement. The contents of this agreement was not made public. The plaintiff stipulated to dismissal on June 18, 2019. This case is now closed.  </p>",
+    "summary_published_date": "2020-04-12T00:00:00-04:00",
+    "summary_short": "This 2017 class action lawsuit was brought by a female inmate in the U.S. District for the Eastern District of Wisconsin who was forced to undergo prenatal care, labor, and give birth while shackled. The parties reached a private settlement agreement on April 8, 2019 and the case was dismissed shortly after. This case is now closed. ",
+    "summary_tiny": null,
+    "terminating_date": "2018-06-08",
+    "clearinghouse_link": "clearinghouse.net/case/16238",
+    "is_active": true,
+    "case_documents_url": "https://clearinghouse.net/api/v2/documents/?case=16238",
+    "case_dockets_url": "https://clearinghouse.net/api/v2/dockets/?case=16238",
+    "case_resources_url": "https://clearinghouse.net/api/v2/resources/?case=16238"
+  },
+  "documents": [
+    {
+      "date": "2018-05-23",
+      "date_is_estimate": false,
+      "date_not_available": false,
+      "description": null,
+      "document_source": "PACER [Public Access to Court Electronic Records]",
+      "document_status": "Coding Complete",
+      "document_type": "Order/Opinion",
+      "order_type": "Non-Decree",
+      "citation_paren": null,
+      "cite_1_page": null,
+      "cite_1_reporter": null,
+      "cite_1_vol": null,
+      "cite_2_page": null,
+      "cite_2_reporter": null,
+      "cite_2_vol": null,
+      "cite_3_page": null,
+      "cite_3_reporter": null,
+      "cite_3_vol": null,
+      "citation_status": "No citation available",
+      "court": "Eastern District of Wisconsin",
+      "no_title": false,
+      "party_types": [
+        "Court"
+      ],
+      "per_curium": false,
+      "is_core_document": true,
+      "id": 111468,
+      "file": "https://clearinghouse-umich-production.s3.amazonaws.com/media/doc/111468.pdf",
+      "title": "Decision and Order",
+      "text": "UNITED STATES DISTRICT COURT \nEASTERN DISTRICT OF WISCONSIN \n \n \nMELISSA HALL, individually and on \nbehalf of all others similarly situated, \nPlaintiff, \n \nv.              Case No. 17-C-0379 \n \nCOUNTY OF MILWAUKEE and \nRICHARD R. SCHMIDT, in his Official \nCapacity as Sheriff of Milwaukee County,1 \n    Defendant. \n______________________________________________________________________ \nDECISION AND ORDER \nThe Sheriff of Milwaukee County runs the Milwaukee County Jail and maintains a \npolicy under which all detainees must be shackled to their beds while they are receiving \nmedical treatment at a hospital.  Until recently, the sheriff applied this policy to pregnant \ndetainees who were hospitalized for childbirth.  Melissa Hall was a detainee at the \nMilwaukee County Jail during the time when this policy was in force.  She was shackled \nto her hospital bed during labor, delivery, and post-partum treatment.  She filed this \naction under 42 U.S.C. § 1983 against Milwaukee County and its sheriff, alleging that \nthe sheriff’s policy, as applied to pregnant women during childbirth, violated the Due \nProcess Clause of the Fourteenth Amendment.  Hall proposes to represent a class of all \nwomen  who  were  confined  in  the  jail while  the  policy  was  in  force  and  who  were \n                                                           \n1 When the plaintiff filed this case, the Sheriff of Milwaukee County was David A. Clarke, \nJr.  The plaintiff named Clarke, in his official capacity, as a defendant.  Richard R. \nSchmidt has since replaced Clarke as the sheriff.  I have amended the caption to reflect \nthat Schmidt was automatically substituted as the defendant under Federal Rule of Civil \nProcedure 25(d).  \n\nshackled during childbirth.  Before me now is her motion to certify the class under \nFederal Rule of Civil Procedure 23. \nI. FACTS \nThe plaintiff was incarcerated at the Milwaukee County Jail from February 2013 \nto August 2013.  During this time, the official policy of the Milwaukee County Sheriff was \nthat “[i]nmates in the hospital will be restrained by a handcuff and leg iron attached to \nthe side rail of the bed.”  (Pl.’s Exs. 2 & 3; ECF Nos. 31-2 & 31-3.)  The policy made no \nexception for pregnant inmates who were hospitalized for childbirth.  Moreover, the \nsheriff’s department made no individualized assessment of an inmate before deciding to \nshackle her during childbirth. \nWhile she was in the jail, the plaintiff spent two days in the hospital for labor, \ndelivery, and post-partum care.  At the hospital, she was restrained with leg irons, wrist \nrestraints, and a belly chain.  At least one armed sheriff’s deputy was in the room with \nher at all times.  The plaintiff asked to have the restraints removed, but the deputies \nrefused.    A  nurse  asked  to  have  the  restraints  removed  while  the  plaintiff  was \nundergoing a stress test, but again the deputies refused.  During delivery, the doctor \nasked to have some of the restraints removed.  The deputies agreed to remove the \nbelly chain, but the plaintiff remained shackled to the bed with a handcuff and a leg iron.  \nThe shackles made it difficult to administer an epidural, left marks on the plaintiff’s \nwrists, cut her ankles, and made it difficult for her to hold her newborn son.   \nAccording to the plaintiff, at least 45 inmates were shackled during childbirth \nwhile the sheriff’s policy was in force.  Seven of these women have filed declarations in \n2 \n \n \n\nthis case.  In their declarations, they describe being restrained under circumstances \nsimilar to the plaintiff’s.    \nII. DISCUSSION \nThe plaintiff proposes to have the claims of the 45 women who were shackled \nduring childbirth adjudicated as a class action.  When a case is certified as a class \naction, a class representative litigates a common claim on behalf of a large group of \nsimilarly situated persons.  Because the claim of the class representative is largely the \nsame as the claims of the absent class members, using the class device enables the \ncourt to resolve most of the issues that affect all class members by adjudicating only the \nclass representative’s claim.  \nTo  determine  whether  a  class  may  be  certified,  I  must  conduct  a  two-step \nanalysis.  Under the first step, I must determine whether the plaintiff has satisfied the \nfour express requirements of Federal Rule of Civil Procedure 23(a) and a fifth, implied \nrequirement not mentioned in the rule but enforced by the courts.  The four express \nrequirements  are:  (1)  the  class  is  so  numerous  that  joinder  of  all  members  is \nimpracticable; (2) there are questions of law or fact common to the class; (3) the claim \nof the named plaintiff is typical of the claims of the class members; and (4) the plaintiff \nwill fairly and adequately protect the interests of the class.  These four requirements are \nknown as “numerosity,” “commonality,” “typicality,” and “adequacy of representation.”  \nThe fifth, implied requirement is known as “ascertainability.”  It requires that the class \n“be defined clearly” and that its membership be determined “by objective criteria rather \nthan by, for example, a class member's state of mind.”  Mullins v. Direct Digital, LLC, \n795 F.3d 654, 657 (7th Cir. 2015).  \n3 \n \n \n\nUnder the second step of the analysis, I must determine whether the case meets \none of the three criteria identified in Federal Rule of Civil Procedure 23(b).  In the \npresent case, Hall seeks to have the class certified under Rule 23(b)(3).  This is allowed \nonly if (a) questions of law or fact common to the class members predominate over \nquestions affecting only individual members and (b) a class action is superior to other \navailable methods for fairly and efficiently adjudicating the controversy.   \nIn order to analyze whether the plaintiff’s claim satisfies the above requirements, \nI must first describe the nature of her claim.  The plaintiff alleges that, by restraining her \nduring  childbirth,  the  sheriff  deprived  her  of  her  right  to  be  free  from  the  use  of \nunnecessary  bodily  restraints.    See  May  v.  Sheahan,  226  F.3d  876,  884  (7th  Cir. \n2000).2  The use of bodily restraints is unnecessary “if their use is not rationally related \nto a legitimate non-punitive government purpose or they appear excessive in relation to \nthe purpose they allegedly serve.”  Id.  To apply this standard, a court balances the \ndetainee’s interest in being free from unnecessary restraints against the jail’s reason for \nusing  the  restraints,  i.e.,  preventing  escapes  and  protecting  the  safety  of  inmates, \nguards, and medical providers.  See Hart v. Sheahan, 396 F.3d 887, 893 (7th Cir. \n2005).  If, under the circumstances, the risk of the inmate’s escaping or harming another \n                                                           \n2 The due-process right at issue in this case applies only to “pretrial detainees,” who are \npersons who have been charged with crimes but have not been convicted.  See Bell v. \nWolfish, 441 U.S. 520, 523 (1979).  The defendants contend that at least some of the \npotential  class  members—including  the  plaintiff  herself—were  serving  criminal \nsentences while they were in the jail and therefore do not qualify as pretrial detainees.  \nHowever, the difference between a pretrial detainee and a convicted prisoner turns out \nto be irrelevant to the outcome of this motion, and thus I will not discuss it further.  \nInstead, I assume without deciding that the plaintiff and the potential class members \nwere all pretrial detainees. \n4 \n \n \n\nperson does not outweigh the inmate’s interest in being free from the restraints, then \napplying the restraints will violate the inmate’s constitutional rights.   \nFor the plaintiff to prevail on her claim, then, she must show that the jail did not \nhave sufficient reason to believe that she would attempt to escape or to harm herself or \nothers if she was not shackled during childbirth.  But here we immediately encounter a \nproblem that prevents me from certifying the plaintiff’s claim as a class action: each \ninmate is different, and thus, at least in theory, the sheriff could have had sufficient \nreason  for  shackling  some  inmates  but  not  others.    Some  inmates  may  be  more \ndangerous or likely to attempt an escape than others.  Perhaps the vast majority of \ninmates will not try to escape or to harm themselves or others while they are in the \nhospital for childbirth.  For these women, the sheriff’s interest in preventing escapes and \nharm to other persons would likely not justify the use of shackles during childbirth.  But it \nis at least conceivable that an inmate could be so dangerous or likely to attempt an \nescape that the sheriff would be justified in restraining her during childbirth.  Thus, the \nclaims  of  the  potential  class  members  are  not  amenable  to  resolution  on  a \nrepresentative basis.  That is, resolving the plaintiff’s claim will not go very far towards \nresolving the claim of any other potential class member.  If the plaintiff wins her claim, \nall that she will have established is that the sheriff did not have reason to believe that \nshe was so dangerous or likely to escape that she needed to be restrained during \nchildbirth.  It would not follow from the resolution of her claim that the sheriff did not \nhave reason to believe that any other woman in the class was so dangerous or likely to \nescape that she needed to be restrained during childbirth.  Rather, to resolve the claims \n5 \n \n \n\nof the other women, the facts and circumstances applicable to each of them would have \nto be examined.  This would require 45 separate trials. \nThe plaintiff attempts to get around this problem by noting that her theory of the \ncase is that there could never be an adequate justification for shackling any woman \nduring labor, delivery, or post-partum care, no matter how dangerous she may be.  \n(Reply Br. at 7, ECF No. 39.)  But this tactic fails for two reasons.  First, in order to win \nher  own  claim,  the  plaintiff  does  not  have  to  prove  that  there  could  never  be  an \nadequate justification for shackling a woman during childbirth.  Instead, all the plaintiff \nhas to prove is that the jail did not have an adequate justification for shackling her. The \nsame goes for the other class members: each of them only has to prove that the sheriff \ndid not have sufficient reason for shackling her.  None of them has to also prove that the \nsheriff could never constitutionally shackle a woman during childbirth.  \nThe  second problem  with  the  plaintiff’s tactic  is that  answering  the  plaintiff’s \nproposed common question will not necessarily go a long way towards resolving the \nclaims of the proposed class.  To be sure, if the court agreed with the plaintiff and found \nthat  there  could  never  be  an  adequate  justification  for  shackling  an  inmate  during \nchildbirth, then the plaintiff will have established that every class member was unlawfully \nshackled, and this would go a long way towards resolving the claims of the entire class.  \nBut if the court disagreed with the plaintiff and determined that the sheriff could shackle \nan  inmate  during  childbirth  under some  circumstances,  then  the  answer  would  not \nresolve any class member’s claim.  Instead, the court would have to separately examine \nthe facts and circumstances surrounding each class member to determine whether the \nsheriff violated her constitutional rights.   \n6 \n \n \n\nThe above problems show that there are no “questions of law or fact common to \nthe class.”  Fed. R. Civ. P. 23(a)(2).  A common question is a “common contention” that \nis  “of  such  a  nature  that  it  is  capable  of  classwide  resolution—which  means  that \ndetermination of its truth or falsity will resolve an issue that is central to the validity of \neach one of the claims in one stroke.”  Wal-Mart Stores, Inc. v. Dukes, 564 U.S. 338, \n350 (2011).  As the analysis above shows, in the present case there is no question that \ncan be answered in a way that will resolve an issue that is central to the validity of all 45 \npotential class members’ claims in one stroke.  Instead, the court must look at the facts \nand circumstances surrounding each individual class member to determine whether the \nsheriff had an adequate justification for shackling her during childbirth. \nIn another attempt to demonstrate that the claims of the proposed class raise \ncommon questions, the plaintiff notes that the sheriff applied his shackling policy to \nevery inmate who was hospitalized for childbirth and did not  individually assess an \ninmate to determine whether she was dangerous enough to warrant shackling.  The \nplaintiff argues that, for this reason, the fact that the sheriff “theoretically could have \njustified using shackles on some of the women . . . does not undercut the fact that \ncommon issues will dominate this case.”  (Reply Br. at 6.)  However, no potential class \nmember’s rights were violated by the mere existence of the policy or by the mere fact \nthat the sheriff did not perform an individualized assessment before deciding to restrain \nher.  Rather, to the extent that any constitutional violations occurred, they occurred \nwhen the sheriff applied shackles to inmates who were insufficiently likely to try to \nescape or to harm others while they were in the hospital for childbirth.  Even though the \nsheriff, in effect, assumed that all inmates were likely to try to escape or to harm others \n7 \n \n \n\nif they were not shackled during childbirth, it does not follow that the sheriff violated the \nrights of every shackled inmate.  The sheriff may be able to show that at least some of \nthe  inmates  were  dangerous  enough  to  warrant  shackling  under  the  applicable \nconstitutional standard.  For those inmates, the sheriff’s blanket policy would not have \nresulted in a violation of their rights.  Thus, separate trials will be needed to determine \nwhich, if any, inmates suffered constitutional violations when the policy was applied to \nthem. \nOf course, whether the sheriff maintained a policy under which all inmates were \nshackled during childbirth is a common question of fact that applies to every class \nmember’s claim.  But this question of fact is undisputed and will require no litigation—\nthe sheriff concedes that the policy existed and that it was uniformly applied to all \nwomen during childbirth.  Thus, even if this question of fact qualified as a common \nquestion for purposes of Rule 23(a)(2), it would constitute only a very small part of this \ncase.    The  individual  issues—including  whether  any  given  class  member  was \nunconstitutionally shackled—would predominate.  As is relevant to this case, a class \nmay  be  certified  only  if  the  common  questions  rather  than  the  individual  issues \npredominate.  See Fed. R. Civ. P. 23(b)(3).  So the question of whether the sheriff \nmaintained the shackling policy is not a question that can, by itself, serve as a basis for \nclass certification.   \nAlthough I must deny the plaintiff’s motion for class certification, I note that this \ndoes  not  mean  that  the  plaintiff  and  the  other  inmates  who  were  shackled  during \nchildbirth cannot litigate their claims simultaneously as part of a single legal proceeding.  \nUnder Federal Rule of Civil Procedure 20, persons having similar claims against a \n8 \n \n \n\ndefendant may join in one action as plaintiffs.  See Fed. R. Civ. P. 20(a)(1).  Moreover, \nthe court may consolidate separate actions that raise similar issues.  See Fed. R. Civ. \nP. 42.  Unlike with a class action, neither of these options would allow the plaintiff to \nrepresent  the  other  women.    Rather,  each  woman  would  have  to  be  named  as  a \nplaintiff, and each woman’s claim would have to be individually adjudicated.  But it may \nbe more efficient to conduct joint proceedings on the separate claims.  For example, \nbecause many of the same documents and witnesses will be involved in each claim, it \nmay make sense to consolidate the claims for purposes of discovery.  Thus, the plaintiff \nand the other women who were injured by the sheriff’s policy may wish to consider \npursuing joinder under Rule 20 or consolidation under Rule 42.    \nIII. CONCLUSION \nFor  the  reasons  stated,  IT IS  ORDERED that the  plaintiff’s motion for class \ncertification (ECF No. 31) is DENIED. \n  Dated at Milwaukee, Wisconsin, this 23rd day of May, 2018. \n               \n             \n              s/Lynn Adelman____________  \nLYNN ADELMAN \n              United States District Judge  \n9 \n \n ",
+      "document_type_other": "",
+      "external_url": "",
+      "ecf_number": "44",
+      "clearinghouse_link": "clearinghouse.net/doc/111468"
+    },
+    {
+      "date": "2018-05-23",
+      "date_is_estimate": false,
+      "date_not_available": false,
+      "description": null,
+      "document_source": "PACER [Public Access to Court Electronic Records]",
+      "document_status": "Coding Complete",
+      "document_type": "Docket",
+      "order_type": null,
+      "citation_paren": null,
+      "cite_1_page": null,
+      "cite_1_reporter": null,
+      "cite_1_vol": null,
+      "cite_2_page": null,
+      "cite_2_reporter": null,
+      "cite_2_vol": null,
+      "cite_3_page": null,
+      "cite_3_reporter": null,
+      "cite_3_vol": null,
+      "citation_status": "Not applicable",
+      "court": "Eastern District of Wisconsin",
+      "no_title": false,
+      "party_types": [
+        "Court"
+      ],
+      "per_curium": false,
+      "is_core_document": true,
+      "id": 96809,
+      "file": "https://clearinghouse-umich-production.s3.amazonaws.com/media/doc/96809.pdf",
+      "title": "Docket [PACER]",
+      "text": "ATTYOPEN,PROTO\nUnited States District Court\nEastern District of Wisconsin (Milwaukee)\nCIVIL DOCKET FOR CASE #: 2:17−cv−00379−LA\nHall v. County of Milwaukee et al Date Filed: 03/14/2017\nAssigned to: Judge Lynn Adelman Jury Demand: Plaintiff\nCause: 42:1983 Civil Rights Act Nature of Suit: 440 Civil Rights: Other\nJurisdiction: Federal Question\nPlaintiff\nMelissa Hall represented by Aisha N Davis\nLoevy & Loevy\n311 N Aberdeen St 3rd Fl\nChicago, IL 60607\n312−243−5900\nFax: 312−243−5902\nEmail: aisha@loevy.com\nATTORNEY TO BE NOTICED\nArthur Loevy\nLoevy & Loevy\n311 N Aberdeen St 3rd Fl\nChicago, IL 60607\n312−243−5900\nFax: 312−243−5902\nEmail: loevylaw@loevy.com\nATTORNEY TO BE NOTICED\nMichael I Kanovitz\nLoevy & Loevy\n311 N Aberdeen St 3rd Fl\nChicago, IL 60607\n312−243−5900\nFax: 312−243−5902\nEmail: mike@loevy.com\nATTORNEY TO BE NOTICED\nSamuel D Heppell\nLoevy & Loevy\n311 N Aberdeen St 3rd Fl\nChicago, IL 60607\n312−243−5900\nFax: 312−243−5902\nEmail: sam@loevy.com\nATTORNEY TO BE NOTICED\nScott Rauscher\nLoevy & Loevy\n311 N Aberdeen St 3rd Fl\nChicago, IL 60607\n312−243−5900\nFax: 312−243−5902\nEmail: scott@loevy.com\nATTORNEY TO BE NOTICED\nTheresa Kleinhaus\nLoevy & Loevy\n311 N Aberdeen St 3rd Fl\nChicago, IL 60607\n312−243−5900\nFax: 312−243−5902\nEmail: tess@loevy.com\nCase: 2:17-cv-379   As of: 05/25/2018 08:19 AM CDT   1 of 5\n\nATTORNEY TO BE NOTICED\nV.\nDefendant\nCounty of Milwaukee represented by Andrew A Jones\nHusch Blackwell LLP\n555 E Wells St − Ste 1900\nMilwaukee, WI 53202−3819\n414−978−5445\nFax: 414−223−5000\nEmail: andrew.jones@huschblackwell.com\nATTORNEY TO BE NOTICED\nCharles H Bohl\nHusch Blackwell LLP\n555 E Wells St − Ste 1900\nMilwaukee, WI 53202−3819\n414−978−5415\nEmail: charles.bohl@huschblackwell.com\nATTORNEY TO BE NOTICED\nTimothy H Posnanski\nHusch Blackwell LLP\n555 E Wells St − Ste 1900\nMilwaukee, WI 53202−3819\n414−978−5791\nFax: 414−223−5000\nEmail: timothy.posnanski@huschblackwell.com\nATTORNEY TO BE NOTICED\nDefendant\nDavid A Clarke, Jr represented by Andrew A Jones\n(See above for address)\nATTORNEY TO BE NOTICED\nCharles H Bohl\n(See above for address)\nATTORNEY TO BE NOTICED\nTimothy H Posnanski\n(See above for address)\nATTORNEY TO BE NOTICED\nDate Filed # Docket Text\n03/14/2017 1  COMPLAINT with Jury Demand; against David A. Clarke, Jr., County of Milwaukee\nby Melissa Hall. ( Filing Fee PAID $400 receipt number 0757−2537633)\n(Attachments: # 1 Proposed Summons for County of Milwaukee, # 2 Proposed\nSummons for David Clarke, # 3 Civil Cover Sheet)(Kleinhaus, Theresa) Modified on\n3/15/2017 (amb).\n03/14/2017 2  NOTICE of Appearance by Theresa Kleinhaus on behalf of Melissa Hall. Attorney(s)\nappearing: Theresa Kleinhaus (Kleinhaus, Theresa)\n03/14/2017 3  NOTICE of Appearance by Arthur Loevy on behalf of Melissa Hall. Attorney(s)\nappearing: Arthur Loevy (Loevy, Arthur)\n03/14/2017 4  NOTICE of Appearance by Scott Rauscher on behalf of Melissa Hall. Attorney(s)\nappearing: Scott Rauscher (Rauscher, Scott)\n03/14/2017 NOTICE Regarding assignment of this matter to Magistrate Judge David E Jones;\nConsent/refusal forms for Magistrate Judge Jones to be filed within 21 days; the\nCase: 2:17-cv-379   As of: 05/25/2018 08:19 AM CDT   2 of 5\n\nconsent/refusal form is available on our website; pursuant to Civil Local Rule 7.1 a\ndisclosure statement is to be filed upon the first filing of any paper and should be filed\nnow if not already filed. (lls)\n03/14/2017 5  DISCLOSURE Statement by Melissa Hall. (Kleinhaus, Theresa)\n03/15/2017 Case Opening Modification(s); The following modification(s) have been made to your\ncase entry: The attached summons was not prepared using the version found on our\nwebsite that allows them to be issued − please follow the instructions and resubmit the\nsummons using the event Request for Issuance of Summons which is found under the\nheading other documents. Please refer to the  attorney case opening instructions and\nthe  summons instructions. (amb)\n03/15/2017 TEXT ONLY ORDER signed by Magistrate Judge David E Jones on 03/15/2017.\nPlaintiff must file proof of service of the complaint or a report on the status of service\nfor each defendant within 45 days of the date of this order. (cc: all counsel)(amb)\n03/15/2017 6  REQUEST for Issuance of Summons by Melissa Hall (Attachments: # 1 Request for\nIssuance of Summons − David Clarke)(Kleinhaus, Theresa)\n03/15/2017 7  NOTICE of Appearance by Michael I Kanovitz on behalf of Melissa Hall. Attorney(s)\nappearing: Michael Kanovitz (Kanovitz, Michael)\n03/16/2017 Summons Issued as to All Defendants. (amb)\n03/21/2017 8  SUMMONS Returned Executed by Melissa Hall. County of Milwaukee served on\n3/21/2017. (Kleinhaus, Theresa)\n03/21/2017 9  SUMMONS Returned Executed by Melissa Hall. David A Clarke, Jr served on\n3/21/2017. (Kleinhaus, Theresa)\n03/21/2017 10  Consent to Jurisdiction by US Magistrate Judge by Melissa Hall. (Kleinhaus, Theresa)\n04/11/2017 11  AMENDED COMPLAINT with Jury Demand against David A Clarke, Jr, County of\nMilwaukee filed by Melissa Hall.(Kleinhaus, Theresa)\n04/11/2017 12  ANSWER to 1 Complaint, by David A Clarke, Jr, County of Milwaukee.(Posnanski,\nTimothy)\n04/11/2017 13  DISCLOSURE Statement by David A Clarke, Jr, County of Milwaukee. (Posnanski,\nTimothy)\n04/11/2017 14  Refusal to Jurisdiction by US Magistrate Judge by David A Clarke, Jr, County of\nMilwaukee. (Posnanski, Timothy)\n04/11/2017 Case Reassigned to Judge Lynn Adelman. Magistrate Judge David E Jones no longer\nassigned to the case due to non−consent. (amb)\n04/12/2017 15  SCHEDULING ORDER signed by Judge Lynn Adelman on 4/12/17. Scheduling\nConference set for 5/24/2017 at 11:00 AM by telephone before Judge Lynn Adelman.\n(cc: all counsel)(gc)\n04/17/2017 16  NOTICE of Appearance by Aisha N Davis on behalf of Melissa Hall. Attorney(s)\nappearing: Aisha Davis (Davis, Aisha)\n04/25/2017 17  NOTICE of Appearance by Charles H Bohl on behalf of David A Clarke, Jr, County of\nMilwaukee. Attorney(s) appearing: Charles H. Bohl (Bohl, Charles)\n04/25/2017 18  NOTICE of Appearance by Andrew A Jones on behalf of David A Clarke, Jr, County\nof Milwaukee. Attorney(s) appearing: Andrew A. Jones (Jones, Andrew)\n04/25/2017 19  ANSWER to 11 Amended Complaint by David A Clarke, Jr, County of\nMilwaukee.(Posnanski, Timothy)\n05/04/2017 20  Joint REPORT of Rule 26(f) Plan by Melissa Hall. (Kleinhaus, Theresa)\n05/24/2017 21  Minute Entry for proceedings held before Judge Lynn Adelman:Telephonic\nScheduling Conference held on 5/24/2017; Court to adopt parties proposed schedule\n(jcl) (Entered: 05/25/2017)\nCase: 2:17-cv-379   As of: 05/25/2018 08:19 AM CDT   3 of 5\n\n05/25/2017 22  ORDER FOLLOWING SCHEDULING CONFERENCE signed by Judge Lynn\nAdelman on 5/25/17. Class Certification Motions due by 10/17/17; Plaintiffs Expert\nWitness List due by 2/1/2018; Defendants Expert Witness List due by 3/1/2018;\nPlaintiffs Rebuttal Expert Witness List due by 4/2/18; Discovery due by 1/15/2018;\nDispositive Motions due by 4/16/2018. (cc: all counsel)(gc) (Entered: 05/26/2017)\n06/12/2017 23  NOTICE of Appearance by Samuel D Heppell on behalf of Melissa Hall. Attorney(s)\nappearing: Sam Heppell (Heppell, Samuel)\n06/16/2017 24  STIPULATION For HIPAA−Qualified Protective Order by All Plaintiffs. (Kleinhaus,\nTheresa)\n06/16/2017 25  PROPOSED Proposed Qualified HIPAA Protective Order for Protected Health\nInformation filed by Melissa Hall. (Kleinhaus, Theresa)\n06/19/2017 26  QUALIFIED HIPAA PROTECTIVE ORDER FOR PROTECTED HEALTH\nINFORMATION signed by Judge Lynn Adelman on 6/19/17. See Order. (cc: all\ncounsel)(gc)\n07/17/2017 27  Unopposed MOTION for Order Directing Ascension Healthcare to Produce Certain\nMedical Records by Melissa Hall. (Attachments: # 1 Text of Proposed\nOrder)(Kleinhaus, Theresa)\n07/19/2017 28  ORDER GRANTING 27 Unopposed Motion for Order Directing Ascension\nHealthcare to Produce Certain Medical Records signed by Judge Lynn Adelman on\n7/19/17. Court hereby orders that those records be released. (cc: all counsel) (gc)\n08/25/2017 29  MOTION to Withdraw as Attorney Sarah Grusin by Melissa Hall. (Heppell, Samuel)\n08/28/2017 TEXT ONLY ORDER signed by Judge Lynn Adelman on 8/28/17 GRANTING 29\nMotion to Withdraw as Attorney Sarah Grusin. (cc: all counsel)(gc)\n10/17/2017 30  MOTION to Restrict Document by Melissa Hall. (Attachments: # 1 Text of Proposed\nOrder)(Kleinhaus, Theresa)\n10/17/2017 31  MOTION to Certify Class by Melissa Hall. This document and/or certain attachments\nare restricted to case participants and attorneys of record should use their efiling login\nand password to view this document (Attachments: # 1 Exhibit 1, # 2 Exhibit 2, # 3\nExhibit 3, # 4 Exhibit 4, # 5 Exhibit 5, # 6 Exhibit 6, # 7 Exhibit 7, # 8 Exhibit 8, # 9\nExhibit 9, # 10 Exhibit 10, # 11 Exhibit 11, # 12 Exhibit 12, # 13 Exhibit 13, # 14\nExhibit 14, # 15 Exhibit 15, # 16 Exhibit 16, # 17 Exhibit 17, # 18 Exhibit 18, # 19\nExhibit 19, # 20 Exhibit 20, # 21 Exhibit 21, # 22 Exhibit 22, # 23 Exhibit 23, # 24\nExhibit 24, # 25 Exhibit 25, # 26 Exhibit 26, # 27 Exhibit 26−A, # 28 Exhibit\nList)(Kleinhaus, Theresa) Modified on 10/18/2017 (asc).\n10/17/2017 32  Exhibit List by Melissa Hall. (Attachments: # 1 Exhibit 6, # 2 Exhibit 7, # 3 Exhibit 8,\n# 4 Exhibit 9, # 5 Exhibit 10, # 6 Exhibit 11, # 7 Exhibit 12, # 8 Exhibit 13, # 9\nExhibit 14, # 10 Exhibit 15, # 11 Exhibit 16, # 12 Exhibit 17, # 13 Exhibit 18, # 14\nExhibit 19, # 15 Exhibit 20, # 16 Exhibit 21)This document and/or certain attachments\nare restricted to case participants and attorneys of record should use their efiling login\nand password to view this document(Kleinhaus, Theresa)\n10/18/2017 33  Amended MOTION to Restrict Document by Melissa Hall. (Attachments: # 1 Text of\nProposed Order Amended)(Kleinhaus, Theresa)\n10/24/2017 34  STIPULATION for Extension of Time by All Defendants. (Attachments: # 1 Text of\nProposed Order)(Jones, Andrew)\n10/25/2017 35  ORDER FOR EXTENSION OF TIME. Defendant's submissions in opposition to\nPlaintiff's Motion for Class Certification 31 due by 11/14/17. Signed by Judge Lynn\nAdelman on 10/25/2017. (cc: all counsel)(gc)\n11/14/2017 36  BRIEF in Opposition filed by David A Clarke, Jr, County of Milwaukee re 31\nMOTION to Certify Class . (Jones, Andrew)\n11/14/2017 37  DECLARATION of James Cox (Jones, Andrew)\n11/14/2017 38  DECLARATION of Andrew A. Jones (Attachments: # 1 Exhibit A: Hall Deposition\nExcerpts)(Jones, Andrew)\nCase: 2:17-cv-379   As of: 05/25/2018 08:19 AM CDT   4 of 5\n\n11/28/2017 39  REPLY BRIEF in Support filed by Melissa Hall re 31 MOTION to Certify Class .\n(Attachments: # 1 Exhibit List, # 2 Exhibit 27 − Summary Judgment Order in Martin\nv. County of Milwaukee, # 3 Exhibit 28 − Melissa Hall Court Recordds, # 4 Exhibit 29\n− Cover Sheet for Sealed Exhibit 29)(Rauscher, Scott)\n11/28/2017 40  MOTION to Restrict Document − Exhibit 29 to Reply in Support of Motion for Class\nCertification by Melissa Hall. (Rauscher, Scott)\n11/28/2017 41  APPENDIX by Melissa Hall Sealed Exhibit 29 to Reply in Support of Motion for Class\nCertification. This document and/or certain attachments are restricted to case\nparticipants and attorneys of record should use their efiling login and password to view\nthis document(Rauscher, Scott)\n12/20/2017 42  Joint MOTION to Amend/Correct Scheduling Order by Melissa Hall. (Attachments: #\n1 Text of Proposed Order)(Kleinhaus, Theresa)\n12/22/2017 43  ORDER granting 42 Joint Motion to Amend/Correct Scheduling Order. The court\nvacates the Scheduling Order set forth in Docket No. 22 . The parties are directed to\nsubmit a proposed discovery schedule within 14 days of the Court's ruling on the class\ncertification motion. Signed by Judge Lynn Adelman on 12/22/2017. (cc: all counsel)\n(gc)\n05/23/2018 44  DECISION AND ORDER signed by Judge Lynn Adelman on 5/23/18 denying 31\nMotion to Certify Class. (cc: all counsel) (jad) (Entered: 05/24/2018)\nCase: 2:17-cv-379   As of: 05/25/2018 08:19 AM CDT   5 of 5",
+      "document_type_other": "",
+      "external_url": "",
+      "ecf_number": null,
+      "clearinghouse_link": "clearinghouse.net/doc/96809"
+    },
+    {
+      "date": "2017-03-14",
+      "date_is_estimate": false,
+      "date_not_available": false,
+      "description": null,
+      "document_source": "PACER [Public Access to Court Electronic Records]",
+      "document_status": "Coding Complete",
+      "document_type": "Complaint",
+      "order_type": null,
+      "citation_paren": null,
+      "cite_1_page": null,
+      "cite_1_reporter": null,
+      "cite_1_vol": null,
+      "cite_2_page": null,
+      "cite_2_reporter": null,
+      "cite_2_vol": null,
+      "cite_3_page": null,
+      "cite_3_reporter": null,
+      "cite_3_vol": null,
+      "citation_status": "Not applicable",
+      "court": "Eastern District of Wisconsin",
+      "no_title": false,
+      "party_types": [
+        "Plaintiff"
+      ],
+      "per_curium": false,
+      "is_core_document": true,
+      "id": 96811,
+      "file": "https://clearinghouse-umich-production.s3.amazonaws.com/media/doc/96811.pdf",
+      "title": "Complaint",
+      "text": "IN THE UNITED STATES DISTRICT COURT \nEASTERN DISTRICT OF WISCONSIN \n \nMELISSA Hall,            ) \non behalf of herself        ) \nand others similarly situated,    ) \n              ) \n    Plaintiffs,        )     \n              ) \n      v.        )  No. \n              ) \nCOUNTY OF MILWAUKEE, DAVID A.     ) \nCLARKE, JR., in his         ) \nOfficial capacity,          ) \n                ) \n              )  JURY TRIAL DEMANDED \n    Defendants.        ) \n \n \nCOMPLAINT \n \nPlaintiff MELISSA HALL on behalf of herself and all others \nsimilarly  situated,  and  complaining  of  Defendants,  COUNTY  OF \nMILWAUKEE, DAVID A. CLARKE, JR., states as follows: \nIntroduction \n \n \n1. This action is brought pursuant to 42 U.S.C. § 1983 to \nredress the deprivation under color of law of Plaintiff’s rights, \nand all those similarly situated, as secured by the United States \nConstitution. \nJurisdiction and Venue \n \n \n2. This Court has jurisdiction of the action pursuant to 28 \nU.S.C. § 1331. \n \n3. Venue is proper under 28 U.S.C. § 1391(b).  On \ninformation and belief, all or most of the parties reside in this \n \n1 \n  Case 2:17-cv-00379-DEJ   Filed 03/14/17   Page 1 of 11   Document 1\n\njudicial district, and the events giving rise to the claims \nasserted herein all occurred within district. \nParties \n \n \n4. Plaintiff, Melissa Hall, is 27 years old. From \nFebruary-August 2013, she was an inmate at the Milwaukee County \nJail. During her incarceration, Plaintiff was pregnant. She \nreceived prenatal and post-partum care and was hospitalized for \nchildbirth and delivery. \n \n5. Defendant David A. Clarke, Jr. is the Sheriff of \nMilwaukee County. In that capacity he is in charge of the \nMilwaukee County Jail (“MCJ”). By law, custom, and/or delegation, \nhe has policymaking authority over the jail for the actions at \nissue in this case. He is responsible for ensuring that the \npolicies and practices of the MCJ comply with federal and state \nrequirements for the treatment of detainees. He has had personal \nknowledge that the shackling practices challenged in this case \nwere occurring at the jail. He is sued in his official capacity. \n \n6. The County of Milwaukee is a Wisconsin municipal \ncorporation with its principal place of business in Milwaukee, \nWisconsin. \nFacts \n \n \n7. Plaintiff was forced to receive pre-natal care, labor, \ngive birth, and undergo post-partum treatment while shackled, in \naccordance with the Jail’s policy, custom, and/or widespread \n \n2 \n  Case 2:17-cv-00379-DEJ   Filed 03/14/17   Page 2 of 11   Document 1\n\npractice of shackling all detainees during medical treatment. \nArmed deputies were present for the entirety of Plaintiff Hall’s \nhospitalization for childbirth. \n \n8. For example, when Plaintiff was hospitalized for \nchildbirth and left her hospital bed to go to the bathroom, she \nwas made to wear a “belly-chain” around her waist with her wrists \nattached to the waist and her legs attached to one another by \nleg-irons.  \n \n9. During her labor and delivery, Plaintiff’s medical \nproviders asked to have the shackles removed and the deputies \nrefused. \n \n10. As a result of the shackling, medical professionals had \ndifficulty administering an epidural to Plaintiff. The shackling \nand its consequences caused emotional and physical pain and \nsuffering, discomfort, left marks on Plaintiff’s body, and \nexposed her to unreasonable risks of harm.  \n \n11. The Jail’s blanket shackling policy, and its shackling \nof Plaintiff, are not rationally related to a legitimate, non- \npunitive purpose. Alternatively, it is excessive in relation to \nany legitimate purpose it allegedly serves. \n \n12. The policy includes no provisions for individualized \nevaluations of each pregnant inmate. Rather, it ensures that \ncorrectional officers shackle all pregnant women (and in fact all \nhospitalized inmates), without regard to their criminal history \n \n3 \n  Case 2:17-cv-00379-DEJ   Filed 03/14/17   Page 3 of 11   Document 1\n\nor medical history.  \n \n13. Plaintiff’s shackling during prenatal care, labor, \ndelivery, and post-partum treatment pursuant to the jail’s \nblanket shackling policy constituted impermissible punishment in \nviolation of her Fourteenth Amendment rights and exposed her to \nunreasonable risks of harm.   \n \n14. For instance, shackling women during labor can lead to: \nan inability for medical staff to assess hemorrhaging, rapidly \nperform an emergency caesarian section, or move a woman to \naddress an umbilical cord wrapped around the baby’s windpipe, as \nwell as a variety of other problems.   \n \n15. Belly chains and leg irons can impact the mother's \nbalance and increase the risk of falls thereby endangering the \nlife and health of the child. Cuffing a woman's hands may prevent \nthe breaking of a fall and impede a woman's ability to protect \nher stomach. Preventing walking during the first stage of labor \nmay deny the woman the benefits of labor acceleration and \ndiscomfort alleviation. Preventing walking during the postpartum \nphase may enhance the risk of deep vein thrombosis and its life-\nthreatening embolic complications. \n \n16. Complete freedom of motion is absolutely required \nduring delivery because various pelvic and lower extremity \nmanipulations may be employed to facilitate delivery, especially \nin difficult cases (e.g., \"Shoulder Dystocia\"). \n \n4 \n  Case 2:17-cv-00379-DEJ   Filed 03/14/17   Page 4 of 11   Document 1\n\n \n17. The American Correctional Association, the American Bar \nAssociation, the American Public Health Association, the American \nCollege of Obstetricians and Gynecologists, the American College \nof Nurse Midwives, and the World Health Organization have all \nopposed use of perinatal restraints. \n \n18. In October 2007, the U.S. Marshals Service revised its \nrestraint policies, all but eliminating the shackling of pregnant \nfederal pretrial detainees and inmates, unless deemed necessary \nby compelling security considerations. The policy stated that \n“restraints should not be used when compelling medical reasons \ndictate, including when a pregnant prisoner is in labor, is \ndelivering her baby, or is in immediate post-delivery \nrecuperation.”  Special emphasis was placed on the use of the \nleast restrictive constraints “to ensure safety and security.” \n \n19. Shortly thereafter, the Federal Bureau of Prisons, home \nto 14,000 federal female inmates, amended its policy to bar the \nshackling of pregnant inmates in labor, delivery, or post-\ndelivery recuperation “unless there are reasonable grounds to \nbelieve the inmate presents an immediate, serious threat of \nhurting herself, staff or others, or there are reasonable grounds \nto believe the inmate presents an immediate and credible risk of \nescape that cannot be reasonably contained through other \nmethods.” The policy also indicated that if an inmate is \nrestrained while in labor (or while delivering her baby), the \n \n5 \n  Case 2:17-cv-00379-DEJ   Filed 03/14/17   Page 5 of 11   Document 1\n\nrestraints must be “the least restrictive restraints necessary to \nstill ensure safety and security.”  \n \n20. More recently, Immigration Customs Enforcement has \nadopted some of the same principles in its operations manual of \nperformance-based national detention standards. \n \n21. Plaintiff seeks to pursue the shackling claim both for \nherself and for a class of others similarly situated (the \n“Class”) pursuant to Federal Rule of Civil Procedure 23(b)(3).  \nThe Prospective Class Members \n \n22. Plaintiff seeks to represent a class consisting of the \nfollowing people: All persons who, while incarcerated by \nMilwaukee County Jail, were shackled during prenatal care, labor, \ndelivery, or post-partum treatment at any time from March 14, \n2011-present.   \n \n23. The individuals in this class are so numerous that \njoinder of all members is impractical. On information and belief, \nthere are at least 40 prospective class members.   \n \n24. There are questions of law and fact common to the \nclaims of the class. Among these common questions are: \n \n• Whether a policy or standard practice of shackling \nwomen during prenatal care, childbirth, delivery, and \npost-partum treatment serves a legitimate governmental \npurpose; and \n \n• Whether a policy or standard practice of shackling \n \n6 \n  Case 2:17-cv-00379-DEJ   Filed 03/14/17   Page 6 of 11   Document 1\n\nwomen during prenatal care, childbirth, delivery, and \npost-partum treatment is excessive in relation to the \ngovernmental purpose allegedly served; and \n \n• Whether a policy or standard practice of shackling \nwomen during prenatal care, childbirth, delivery, and \npost-partum treatment exposes women to unreasonable \nrisks of harm.  \n \n25. The shackling claim of Plaintiff Hall is typical of the \nshackling claims of the class. Plaintiff Hall seeks to prove that \nthe shackling policy violated the constitutional rights of the \nmembers of the Class and that the County of Milwaukee and \nDefendant Clarke are liable.  \n \n26. Plaintiff Hall will fairly and accurately represent the \ninterests of the Class.  She has retained skilled counsel with \nexperience in class action and constitutional litigation. \n \n27. The questions of law and fact common to the Class \npredominate over any individual issues. In addition, a class \naction would be the most fair and efficient method of \nadjudicating the Class members’ claims.  \n \n28. The County of Milwaukee and Sheriff Clarke have \nimplemented, encouraged, and/or condoned an unconstitutional \npolicy of shackling women during labor, delivery, and/or recovery \nfrom delivery. \n \n29. The misconduct described above was undertaken pursuant \n \n7 \n  Case 2:17-cv-00379-DEJ   Filed 03/14/17   Page 7 of 11   Document 1\n\nto the policy and practice of the Milwaukee County Jail in that: \nAs a matter of both policy and practice, the Milwaukee \nCounty Jail directly encourages, and therefore is the moving \nforce behind, the very type of misconduct at issue here—shackling \nwomen during prenatal and post-partum care as well as during \nlabor and delivery. \nCount I - 42 U.S.C. § 1983 \n \nDue Process – 14th Amendment    \n(Class Claim) \n \n30. Each paragraph of this Complaint is incorporated \nherein. \n \n31. Defendants County and Sheriff Clarke violated the \nliberty interest in bodily integrity of Plaintiff and the members \nof the Class through the shackling policy. Likewise, the County \nand Sheriff Clarke exposed Plaintiff and the members of the Class \nto unreasonable risks of harm through the shackling policy. \n \n32. The misconduct described in this Count was undertaken \nwith malice, willfulness, and reckless indifference to the rights \nof others, and was objectively unreasonable. \n \n33. The misconduct described in this Count was undertaken by \nDefendants within the scope of their employment and under color \nof law such that their employer, the County of Milwaukee, is \nliable for their actions. \n \n34. The misconduct described in this Count was undertaken \npursuant to the policy and practice of the Milwaukee County Jail \n \n8 \n  Case 2:17-cv-00379-DEJ   Filed 03/14/17   Page 8 of 11   Document 1\n\nin the manner described more fully above. \n \n35. As a result of the misconduct described in this Count, \nPlaintiff and the members of the Class have suffered damages, \nincluding but not limited to emotional distress and anguish, as \nwell as physical pain and suffering, and exposure to unreasonable \nrisks of harm.  \nCount II – Indemnification \n \n \n36. Each of the foregoing paragraphs is incorporated as if \nfully stated herein. \n \n37. Wisconsin law, Wisc. Stat. §895.46, requires public \nentities to pay any tort judgment for damages for which employees \nare liable within the scope of their employment activities. \n \n38. Defendant Clark was an employee of the County of \nMilwaukee, who acted within the scope of his employment in \ncommitting the misconduct described herein. \nWHEREFORE, Plaintiff MELISSA HALL on behalf of herself and \nthe members of the class, respectfully requests that this Court \n1) appoint Loevy & Loevy as class counsel on behalf of the \nprospective class; and 2) enter judgment in her favor and against \nDefendants, COUNTY OF MILWAUKEE, DAVID A. CLARKE, JR., awarding \ncompensatory damages and attorneys’ fees, as well as any other \nrelief this Court deems just and appropriate. \n \n \n \n \n9 \n  Case 2:17-cv-00379-DEJ   Filed 03/14/17   Page 9 of 11   Document 1\n\n[REMAINDER OF PAGE INTENTIONALLY LEFT BLANK] \n \n10 \n  Case 2:17-cv-00379-DEJ   Filed 03/14/17   Page 10 of 11   Document 1\n\n \nJURY DEMAND \n \nPlaintiff, MELISSA HALL, hereby demands a trial by jury \npursuant to Federal Rule of Civil Procedure 38(b) on all issues so \ntriable. \n \n \nRESPECTFULLY SUBMITTED, \n \n \n \n/s/ Theresa Kleinhaus  \nAttorneys for Plaintiff \n \n \nArthur Loevy  \nMichael Kanovitz  \nScott Rauscher \nTheresa Kleinhaus  \nLOEVY & LOEVY \n311 N. Aberdeen St., Third Floor  \nChicago, IL 60607 \n312) 243-5900 \n \n \n \n11 \n  Case 2:17-cv-00379-DEJ   Filed 03/14/17   Page 11 of 11   Document 1",
+      "document_type_other": "",
+      "external_url": "",
+      "ecf_number": "1",
+      "clearinghouse_link": "clearinghouse.net/doc/96811"
+    },
+    {
+      "date": "2017-04-11",
+      "date_is_estimate": false,
+      "date_not_available": false,
+      "description": null,
+      "document_source": "PACER [Public Access to Court Electronic Records]",
+      "document_status": "Coding Complete",
+      "document_type": "Complaint",
+      "order_type": null,
+      "citation_paren": null,
+      "cite_1_page": null,
+      "cite_1_reporter": null,
+      "cite_1_vol": null,
+      "cite_2_page": null,
+      "cite_2_reporter": null,
+      "cite_2_vol": null,
+      "cite_3_page": null,
+      "cite_3_reporter": null,
+      "cite_3_vol": null,
+      "citation_status": "Not applicable",
+      "court": "Eastern District of Wisconsin",
+      "no_title": false,
+      "party_types": [
+        "Plaintiff"
+      ],
+      "per_curium": false,
+      "is_core_document": true,
+      "id": 96813,
+      "file": "https://clearinghouse-umich-production.s3.amazonaws.com/media/doc/96813.pdf",
+      "title": "First Amended Complaint",
+      "text": "IN THE UNITED STATES DISTRICT COURT \nEASTERN DISTRICT OF WISCONSIN \n \nMELISSA Hall,            ) \non behalf of herself        ) \nand others similarly situated,    ) \n              ) \n    Plaintiffs,        )     \n              ) \n      v.        )  No. 2:17-CV-00379 \n              ) \nCOUNTY OF MILWAUKEE, DAVID A.     ) \nCLARKE, JR., in his         ) \nOfficial capacity,          ) \n                ) \n              )  JURY TRIAL DEMANDED \n    Defendants.        ) \n \n \nFIRST AMENDED COMPLAINT \n \nPlaintiff MELISSA HALL on behalf of herself and all others \nsimilarly  situated,  and  complaining  of  Defendants,  COUNTY  OF \nMILWAUKEE and DAVID A. CLARKE, JR., states as follows: \nIntroduction \n \n1.  This action is brought pursuant to 42 U.S.C. § 1983 to \nredress the deprivation under color of law of Plaintiff’s rights, \nand all those similarly situated, as secured by the United States \nConstitution. \nJurisdiction and Venue \n \n2.  This Court has jurisdiction of the action pursuant to 28 \nU.S.C. § 1331. \n3.  Venue is proper under 28 U.S.C. § 1391(b).  On \ninformation and belief, all or most of the parties reside in this \n  1 \n  Case 2:17-cv-00379-LA   Filed 04/11/17   Page 1 of 11   Document 11\n\njudicial district, and the events giving rise to the claims \nasserted herein all occurred within district. \nParties \n \n4.  Plaintiff, Melissa Hall, is 27 years old. From \nFebruary-August 2013, she was an inmate at the Milwaukee County \nJail. During her incarceration, Plaintiff was pregnant. She \nreceived prenatal and post-partum care and was hospitalized for \nchildbirth and delivery. \n5.  Defendant David A. Clarke, Jr. is the Sheriff of \nMilwaukee County. In that capacity he is in charge of the \nMilwaukee County Jail (“MCJ”). By law, custom, and/or delegation, \nhe has policymaking authority over the jail for the actions at \nissue in this case. He is responsible for ensuring that the \npolicies and practices of the MCJ comply with federal and state \nrequirements for the treatment of detainees. He has had personal \nknowledge that the shackling practices challenged in this case \nwere occurring at the jail. He is sued in his official capacity. \n6.  The County of Milwaukee is a Wisconsin municipal \ncorporation with its principal place of business in Milwaukee, \nWisconsin. \nFacts \n \n7.  Plaintiff was forced to receive pre-natal care, labor, \ngive birth, and undergo post-partum treatment while shackled, in \naccordance with the Jail’s policy, custom, and/or widespread \n  2 \n  Case 2:17-cv-00379-LA   Filed 04/11/17   Page 2 of 11   Document 11\n\npractice of shackling all detainees during medical treatment. \nArmed deputies were present for the entirety of Plaintiff Hall’s \nhospitalization for childbirth. \n8.  For example, when Plaintiff was hospitalized for \nchildbirth and left her hospital bed to go to the bathroom, she \nwas made to wear a “belly-chain” around her waist with her wrists \nattached to the waist and her legs attached to one another by \nleg-irons.  \n9.  During her labor and delivery, Plaintiff’s medical \nproviders asked to have the shackles removed and the deputies \nrefused. \n10.  As a result of the shackling, medical professionals had \ndifficulty administering an epidural to Plaintiff. The shackling \nand its consequences caused emotional and physical pain and \nsuffering, discomfort, left marks on Plaintiff’s body, and \nexposed her to unreasonable risks of harm.  \n11.  The Jail’s blanket shackling policy, and its shackling \nof Plaintiff, are not rationally related to a legitimate, non- \npunitive purpose. Alternatively, it is excessive in relation to \nany legitimate purpose it allegedly serves. \n12.  The policy includes no provisions for individualized \nevaluations of each pregnant inmate. Rather, it ensures that \ncorrectional officers shackle all pregnant women (and in fact all \nhospitalized inmates), without regard to their criminal history \n  3 \n  Case 2:17-cv-00379-LA   Filed 04/11/17   Page 3 of 11   Document 11\n\nor medical history.  \n13.  Plaintiff’s shackling during prenatal care, labor, \ndelivery, and post-partum treatment pursuant to the jail’s \nblanket shackling policy constituted impermissible punishment in \nviolation of her Fourteenth Amendment rights and exposed her to \nunreasonable risks of harm. The use of shackles during prenatal \ncare, labor, delivery, and post-partum treatment pursuant to the \njail’s blanket shackling policy constituted unreasonable force in \nviolation of Plaintiff’s Fourteenth Amendment rights. The \nshackling of Plaintiff and the prospective class demonstrated \ndeliberate indifference to a serious and obvious medical need in \nviolation of Plaintiff’s Fourteenth Amendment rights.   \n14.  For instance, shackling women during labor can lead to: \nan inability for medical staff to assess hemorrhaging, rapidly \nperform an emergency caesarian section, or move a woman to \naddress an umbilical cord wrapped around the baby’s windpipe, as \nwell as a variety of other problems.   \n15.  Belly chains and leg irons can impact the mother's \nbalance and increase the risk of falls thereby endangering the \nlife and health of the child. Cuffing a woman's hands may prevent \nthe breaking of a fall and impede a woman's ability to protect \nher stomach. Preventing walking during the first stage of labor \nmay deny the woman the benefits of labor acceleration and \ndiscomfort alleviation. Preventing walking during the postpartum \n  4 \n  Case 2:17-cv-00379-LA   Filed 04/11/17   Page 4 of 11   Document 11\n\nphase may enhance the risk of deep vein thrombosis and its life-\nthreatening embolic complications. \n16.  Complete freedom of motion is absolutely required \nduring delivery because various pelvic and lower extremity \nmanipulations may be employed to facilitate delivery, especially \nin difficult cases (e.g., \"Shoulder Dystocia\"). \n17.  The American Correctional Association, the American Bar \nAssociation, the American Public Health Association, the American \nCollege of Obstetricians and Gynecologists, the American College \nof Nurse Midwives, and the World Health Organization have all \nopposed use of perinatal restraints. \n18.  In October 2007, the U.S. Marshals Service revised its \nrestraint policies, all but eliminating the shackling of pregnant \nfederal pretrial detainees and inmates, unless deemed necessary \nby compelling security considerations. The policy stated that \n“restraints should not be used when compelling medical reasons \ndictate, including when a pregnant prisoner is in labor, is \ndelivering her baby, or is in immediate post-delivery \nrecuperation.”  Special emphasis was placed on the use of the \nleast restrictive constraints “to ensure safety and security.” \n19.  Shortly thereafter, the Federal Bureau of Prisons, home \nto 14,000 federal female inmates, amended its policy to bar the \nshackling of pregnant inmates in labor, delivery, or post-\ndelivery recuperation “unless there are reasonable grounds to \n  5 \n  Case 2:17-cv-00379-LA   Filed 04/11/17   Page 5 of 11   Document 11\n\nbelieve the inmate presents an immediate, serious threat of \nhurting herself, staff or others, or there are reasonable grounds \nto believe the inmate presents an immediate and credible risk of \nescape that cannot be reasonably contained through other \nmethods.” The policy also indicated that if an inmate is \nrestrained while in labor (or while delivering her baby), the \nrestraints must be “the least restrictive restraints necessary to \nstill ensure safety and security.”  \n20.  More recently, Immigration Customs Enforcement has \nadopted some of the same principles in its operations manual of \nperformance-based national detention standards. \n21.  Plaintiff seeks to pursue the shackling claim both for \nherself and for a class of others similarly situated (the \n“Class”) pursuant to Federal Rule of Civil Procedure 23(b)(3).  \nThe Prospective Class Members \n22.  Plaintiff seeks to represent a class consisting of the \nfollowing people: All persons who, while incarcerated by \nMilwaukee County Jail, were shackled during prenatal care, labor, \ndelivery, or post-partum treatment at any time from February 1, \n2010-present.   \n23.  The individuals in this class are so numerous that \njoinder of all members is impractical. On information and belief, \nthere are at least 40 prospective class members.   \n24.  There are questions of law and fact common to the \n  6 \n  Case 2:17-cv-00379-LA   Filed 04/11/17   Page 6 of 11   Document 11\n\nclaims of the class. Among these common questions are: \n•  Whether a policy or standard practice of shackling \nwomen during prenatal care, childbirth, delivery, and \npost-partum treatment serves a legitimate governmental \npurpose;  \n•  Whether a policy or standard practice of shackling \nwomen during prenatal care, childbirth, delivery, and \npost-partum treatment is excessive in relation to the \ngovernmental purpose allegedly served;  \n•  Whether a policy or standard practice of shackling \nwomen during prenatal care, childbirth, delivery, and \npost-partum treatment exposes women to unreasonable \nrisks of harm; \n•  Whether a policy or standard practice of shackling \nwomen during prenatal care, childbirth, delivery, and \npost-partum treatment constitutes an unreasonable use \nof force;  \n•  Whether the County and/or Sheriff Clarke acted with \ndeliberate indifference to a serious, obvious medical \nneed when he required deputies to shackle women during \nprenatal care, childbirth, delivery, and post-partum \ntreatment. \n25.  The shackling claim of Plaintiff Hall is typical of the \nshackling claims of the class. Plaintiff Hall seeks to prove that \n  7 \n  Case 2:17-cv-00379-LA   Filed 04/11/17   Page 7 of 11   Document 11\n\nthe shackling policy violated the constitutional rights of the \nmembers of the Class and that the County of Milwaukee and \nDefendant Clarke are liable.  \n26.  Plaintiff Hall will fairly and accurately represent the \ninterests of the Class.  She has retained skilled counsel with \nexperience in class action and constitutional litigation. \n27.  The questions of law and fact common to the Class \npredominate over any individual issues. In addition, a class \naction would be the most fair and efficient method of \nadjudicating the Class members’ claims.  \n28.  The County of Milwaukee and Sheriff Clarke have \nimplemented, encouraged, and/or condoned an unconstitutional \npolicy of shackling women during labor, delivery, and/or recovery \nfrom delivery. \n29.  The misconduct described above was undertaken pursuant \nto the policy and practice of the Milwaukee County Jail in that: \nAs a matter of both policy and practice, the Milwaukee \nCounty Jail directly encourages, and therefore is the moving \nforce behind, the very type of misconduct at issue here—shackling \nwomen during prenatal and post-partum care as well as during \nlabor and delivery. \nCount I - 42 U.S.C. § 1983 \n \nDue Process – 14th Amendment    \n(Class Claim) \n30.  Each paragraph of this Complaint is incorporated \n  8 \n  Case 2:17-cv-00379-LA   Filed 04/11/17   Page 8 of 11   Document 11\n\nherein. \n31.  Defendants County and Sheriff Clarke violated the \nliberty interest in bodily integrity of Plaintiff and the members \nof the Class through the shackling policy. The County and Sheriff \nClarke exposed Plaintiff and the members of the Class to \nunreasonable risks of harm through the shackling policy. \nDefendants County and Sheriff Clarke used unreasonable force \nagainst Plaintiff and the members of the Class because of the \nshackling policy. Defendants County and Sheriff Clarke were \ndeliberately indifference to the serious, obvious medical needs \nof Plaintiff and the members of the Class. \n32.  The misconduct described in this Count was undertaken \nwith malice, willfulness, and reckless indifference to the rights \nof others, and was objectively unreasonable. \n33.  The misconduct described in this Count was undertaken by \nDefendants within the scope of their employment and under color \nof law such that their employer, the County of Milwaukee, is \nliable for their actions. \n34.  The misconduct described in this Count was undertaken \npursuant to the policy and practice of the Milwaukee County Jail \nin the manner described more fully above. \n35.  As a result of the misconduct described in this Count, \nPlaintiff and the members of the Class have suffered damages, \nincluding but not limited to emotional distress and anguish, as \n  9 \n  Case 2:17-cv-00379-LA   Filed 04/11/17   Page 9 of 11   Document 11\n\nwell as physical pain and suffering, and exposure to unreasonable \nrisks of harm.  \nCount II – Indemnification \n \n36.  Each of the foregoing paragraphs is incorporated as if \nfully stated herein. \n37.  Wisconsin law, Wisc. Stat. §895.46, requires public \nentities to pay any tort judgment for damages for which employees \nare liable within the scope of their employment activities. \n38.  Defendant Clark was an employee of the County of \nMilwaukee, who acted within the scope of his employment in \ncommitting the misconduct described herein. \nWHEREFORE, Plaintiff MELISSA HALL on behalf of herself and \nthe members of the class, respectfully requests that this Court \n1) appoint Loevy & Loevy as class counsel on behalf of the \nprospective class; and 2) enter judgment in her favor and against \nDefendants, COUNTY OF MILWAUKEE, and DAVID A. CLARKE, JR., \nawarding compensatory damages and attorneys’ fees, as well as any \nother relief this Court deems just and appropriate. \n \n \n \n[REMAINDER OF PAGE INTENTIONALLY LEFT BLANK] \n  10 \n  Case 2:17-cv-00379-LA   Filed 04/11/17   Page 10 of 11   Document 11\n\n \nJURY DEMAND \n \nPlaintiff, MELISSA HALL, hereby demands a trial by jury \npursuant to Federal Rule of Civil Procedure 38(b) on all issues so \ntriable. \n \n \nRESPECTFULLY SUBMITTED, \n \n \n \n/s/ Theresa Kleinhaus  \nAttorneys for Plaintiff \n \n \nArthur Loevy  \nMichael Kanovitz  \nScott Rauscher \nTheresa Kleinhaus  \nLOEVY & LOEVY \n311 N. Aberdeen St., Third Floor  \nChicago, IL 60607 \n312) 243-5900 \n \n \nCERTIFICATE OF SERVICE \n \nI, Theresa Kleinhaus, an attorney, certify that on April 11, \n2017, I caused the foregoing Plaintiff’s First Amended Complaint \nto be filed via the Court’s CM/ECF electronic filing system.  I \nalso mailed a copy to Defendant County of Milwaukee at 901 N. 9th \nStreet, Milwaukee, WI 53233 and Defendant David Clarke at 821 W. \nState Street, Room 107, Milwaukee, WI 53233. \n \n              /s/ Theresa Kleinhaus \n  11 \n  Case 2:17-cv-00379-LA   Filed 04/11/17   Page 11 of 11   Document 11",
+      "document_type_other": "",
+      "external_url": "",
+      "ecf_number": "11",
+      "clearinghouse_link": "clearinghouse.net/doc/96813"
+    },
+    {
+      "date": null,
+      "date_is_estimate": false,
+      "date_not_available": false,
+      "description": null,
+      "document_source": null,
+      "document_status": null,
+      "document_type": null,
+      "order_type": null,
+      "citation_paren": null,
+      "cite_1_page": null,
+      "cite_1_reporter": null,
+      "cite_1_vol": null,
+      "cite_2_page": null,
+      "cite_2_reporter": null,
+      "cite_2_vol": null,
+      "cite_3_page": null,
+      "cite_3_reporter": null,
+      "cite_3_vol": null,
+      "citation_status": null,
+      "court": null,
+      "no_title": false,
+      "party_types": [],
+      "per_curium": false,
+      "is_core_document": true,
+      "id": 115696,
+      "file": null,
+      "title": null,
+      "text": null,
+      "document_type_other": null,
+      "external_url": null,
+      "ecf_number": null,
+      "clearinghouse_link": "clearinghouse.net/doc/115696"
+    }
+  ],
+  "document_count": 5
+}

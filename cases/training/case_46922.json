@@ -1,0 +1,567 @@
+{
+  "case_id": 46922,
+  "fetched_at": "2025-10-22T00:48:06.045927",
+  "case_data": {
+    "attorney_orgs": [
+      "U.S. Dept. of Justice Civil Rights Division"
+    ],
+    "available_documents": [
+      "Trial Court Docket",
+      "Complaint (any)"
+    ],
+    "case_defendants": [
+      {
+        "defendant_level": null,
+        "institution": "",
+        "institution_alt_state": null,
+        "institution_city": "",
+        "institution_county": null,
+        "name": "State of Illinois",
+        "defendant_level_other": "",
+        "is_active": true
+      },
+      {
+        "defendant_level": "State University",
+        "institution": "Southern Illinois University; Rend Lake College; University of Illinois; Chicago State University; Eastern Illinois University; Illinois State University; Northeastern; Illinois University",
+        "institution_alt_state": null,
+        "institution_city": "",
+        "institution_county": null,
+        "name": "Public Illinois Universities",
+        "defendant_level_other": "State University",
+        "is_active": true
+      },
+      {
+        "defendant_level": null,
+        "institution": "llinois Student Assistance Commission; Ilinois DREAM Fund Commission",
+        "institution_alt_state": null,
+        "institution_city": "",
+        "institution_county": null,
+        "name": "State Commissions",
+        "defendant_level_other": "",
+        "is_active": true
+      },
+      {
+        "defendant_level": null,
+        "institution": "Illinois",
+        "institution_alt_state": null,
+        "institution_city": "",
+        "institution_county": null,
+        "name": "Governor J.B. Pritzker",
+        "defendant_level_other": "",
+        "is_active": true
+      },
+      {
+        "defendant_level": null,
+        "institution": "Illinois",
+        "institution_alt_state": null,
+        "institution_city": "",
+        "institution_county": null,
+        "name": "Attorney General Kwame Raoul",
+        "defendant_level_other": "",
+        "is_active": true
+      }
+    ],
+    "case_ongoing": "Yes",
+    "case_status": "In Process (Public)",
+    "case_types": [
+      "Education",
+      "Immigration and/or the Border"
+    ],
+    "cause_other": "",
+    "causes": [
+      "State law",
+      "Immigration and Nationality Act (INA), 8 U.S.C. §§ 1101 et seq.",
+      "State Anti-Discrimination Law"
+    ],
+    "class_action_granted": "Not sought",
+    "class_action_sought": "No",
+    "closing_year": null,
+    "constitutional_clause": [
+      {
+        "value": "Supremacy Clause"
+      }
+    ],
+    "content_of_injunction": [],
+    "court": "Southern District of Illinois",
+    "custom_issues": [],
+    "defendant_payment": "",
+    "defendant_type": [
+      {
+        "value": "Jurisdiction-wide"
+      },
+      {
+        "value": "College/University"
+      }
+    ],
+    "docket_status": "Complete as of retrieval date",
+    "facility_type": [
+      {
+        "value": "Government-run"
+      }
+    ],
+    "filing_date": "2025-09-02",
+    "filing_year": 2025,
+    "id": 46922,
+    "injunction_duration": "",
+    "issues": [
+      "Immigration/Border: Undocumented immigrants - rights and duties",
+      "Immigration/Border: Undocumented immigrants - state and local regulation",
+      "Discrimination Basis: Immigration status"
+    ],
+    "last_checked_date": "2025-09-14T00:00:00-04:00",
+    "main_docket": {
+      "id": 62207,
+      "docket_entries": [
+        {
+          "row_number": 14,
+          "id": 10365734,
+          "entry_number": "9",
+          "date_filed": "2025-10-01T00:00:00-04:00",
+          "attachments": null,
+          "url": "https://www.courtlistener.com/docket/71250923/9/united-states-v-state-of-illinois/",
+          "recap_pdf_url": "https://www.courtlistener.com/recap/gov.uscourts.ilsd.106533/gov.uscourts.ilsd.106533.9.0.pdf",
+          "pacer_doc_id": "06906326211",
+          "description": "NOTICE of Appearance by Darren Bernens Kinkead on behalf of All Defendants (Kinkead, Darren) (Entered: 10/01/2025)"
+        },
+        {
+          "row_number": 1,
+          "id": 10365735,
+          "entry_number": "10",
+          "date_filed": "2025-10-01T00:00:00-04:00",
+          "attachments": null,
+          "url": "https://www.courtlistener.com/docket/71250923/10/united-states-v-state-of-illinois/",
+          "recap_pdf_url": "https://www.courtlistener.com/recap/gov.uscourts.ilsd.106533/gov.uscourts.ilsd.106533.10.0.pdf",
+          "pacer_doc_id": "06906326217",
+          "description": "Joint MOTION for Extension of Time to File Answer by All Defendants. (Kinkead, Darren) (Entered: 10/01/2025)"
+        },
+        {
+          "row_number": 9,
+          "id": 10337912,
+          "entry_number": "4",
+          "date_filed": "2025-09-03T00:00:00-04:00",
+          "attachments": null,
+          "url": "https://www.courtlistener.com/docket/71250923/4/united-states-v-state-of-illinois/",
+          "recap_pdf_url": null,
+          "pacer_doc_id": "06906305940",
+          "description": "CONSENT/NON-CONSENT TO U.S. MAGISTRATE JUDGE - sealed pending receipt from all parties. (McTague, Alexandra) (Entered: 09/03/2025)"
+        },
+        {
+          "row_number": 10,
+          "id": 10337913,
+          "entry_number": "5",
+          "date_filed": "2025-09-03T00:00:00-04:00",
+          "attachments": null,
+          "url": "https://www.courtlistener.com/docket/71250923/5/united-states-v-state-of-illinois/",
+          "recap_pdf_url": null,
+          "pacer_doc_id": null,
+          "description": "NOTICE TERMINATING JUDGE ASSIGNMENT: Pursuant to Administrative Order No. 408, and a request for reassignment having been received, this case, in its entirety, is hereby reassigned to Judge David W. Dugan for further proceedings. Magistrate Judge Gilbert C. Sison no longer assigned to the case. All future documents must bear case number 3:25-cv-01691-DWD. (eab)THIS TEXT ENTRY IS AN ORDER OF THE COURT. NO FURTHER DOCUMENTATION WILL BE MAILED. (Entered: 09/03/2025)"
+        },
+        {
+          "row_number": 3,
+          "id": 10365736,
+          "entry_number": "12",
+          "date_filed": "2025-10-02T00:00:00-04:00",
+          "attachments": null,
+          "url": "https://www.courtlistener.com/docket/71250923/12/united-states-v-state-of-illinois/",
+          "recap_pdf_url": null,
+          "pacer_doc_id": "06906327510",
+          "description": "CJRA TRACK C assigned: Final Pretrial Conference set for 4/1/2027 at 10:00 AM and Bench Trial set for 4/12/2027 at 9:00 AM both in the East St. Louis Courthouse before Judge David W. Dugan. Signed by Judge David W. Dugan on 10/2/2025. (dmw2) (Entered: 10/02/2025)"
+        },
+        {
+          "row_number": 4,
+          "id": 10365737,
+          "entry_number": "13",
+          "date_filed": "2025-10-02T00:00:00-04:00",
+          "attachments": null,
+          "url": "https://www.courtlistener.com/docket/71250923/13/united-states-v-state-of-illinois/",
+          "recap_pdf_url": "https://www.courtlistener.com/recap/gov.uscourts.ilsd.106533/gov.uscourts.ilsd.106533.13.0.pdf",
+          "pacer_doc_id": "06906327518",
+          "description": "ORDER. Scheduling Conference set for 11/5/2025 at 3:00 PM via Zoom video conference before Judge David W. Dugan. The Parties will receive the appropriate Zoom invitation via email from the Court. The Joint Report of the Parties is due on or before 10/29/2025 and shall be submitted via email to DWDpd@ilsd.uscourts.gov. The Parties are instructed to use the correct form for the Joint Report of the Parties which can be found attached to this Order. Signed by Judge David W. Dugan on 10/2/2025. (Attachments: # 1 JROP)(dmw2) (Entered: 10/02/2025)"
+        },
+        {
+          "row_number": 16,
+          "id": 10378818,
+          "entry_number": null,
+          "date_filed": "2025-10-15T00:00:00-04:00",
+          "attachments": null,
+          "url": "https://www.courtlistener.com",
+          "recap_pdf_url": null,
+          "pacer_doc_id": null,
+          "description": "Order Staying Case AND ~Util - Terminate Motions"
+        },
+        {
+          "row_number": 8,
+          "id": 10265832,
+          "entry_number": "3",
+          "date_filed": "2025-09-02T00:00:00-04:00",
+          "attachments": null,
+          "url": "https://www.courtlistener.com/docket/71250923/3/united-states-v-illinois/",
+          "recap_pdf_url": null,
+          "pacer_doc_id": "06906304753",
+          "description": "Summons Issued as to Chicago State University Board of Trustees, Eastern Illinois University Board of Trustees, Illinois, Illinois Dream Fund Commission, Illinois State University Board of Trustees, Illinois Student Assistance Commission, Northeastern Illinois University Board of Trustees, Governor Pritzker, Kwame Raoul, Rend Lake College Board of Trustees, Southern Illinois University Board of Trustees, University of Illinois Board of Trustees. Original summons sent to counsel for service. (eab) (Entered: 09/02/2025)"
+        },
+        {
+          "row_number": 13,
+          "id": 10337916,
+          "entry_number": "8",
+          "date_filed": "2025-09-17T00:00:00-04:00",
+          "attachments": null,
+          "url": "https://www.courtlistener.com/docket/71250923/8/united-states-v-state-of-illinois/",
+          "recap_pdf_url": null,
+          "pacer_doc_id": null,
+          "description": "NOTICE OF MODIFICATION re 7 Summons Returned Executed regarding Board of Trustees of Rend Lake College. The incorrect service date was entered, which processed the incorrect answer date. The correct served date is 9/15/2025, answer due 10/6/2025. Document has been modified to reflect the correct dates. No further action is required by the filer in relation to this notification. (kdw)THIS TEXT ENTRY IS AN ORDER OF THE COURT. NO FURTHER DOCUMENTATION WILL BE MAILED. (Entered: 09/17/2025)"
+        },
+        {
+          "row_number": 0,
+          "id": 10351075,
+          "entry_number": "1",
+          "date_filed": "2025-09-02T00:00:00-04:00",
+          "attachments": [
+            {
+              "pdf_url": "https://www.courtlistener.com/recap/gov.uscourts.ilsd.106533/gov.uscourts.ilsd.106533.1.1.pdf",
+              "pending": true,
+              "recap_id": 450977686,
+              "pacer_url": "https://ecf.ilsd.uscourts.gov/doc1/06906304202?caseid=106533",
+              "description": "Exhibit A",
+              "attachment_number": 1
+            },
+            {
+              "pending": false,
+              "recap_id": 450977687,
+              "pacer_url": "https://ecf.ilsd.uscourts.gov/doc1/06906304203?caseid=106533",
+              "description": "Civil Cover Sheet",
+              "attachment_number": 2
+            },
+            {
+              "pending": false,
+              "recap_id": 450977689,
+              "pacer_url": "https://ecf.ilsd.uscourts.gov/doc1/06906304204?caseid=106533",
+              "description": "Summons State of Illinois",
+              "attachment_number": 3
+            },
+            {
+              "pending": false,
+              "recap_id": 450977690,
+              "pacer_url": "https://ecf.ilsd.uscourts.gov/doc1/06906304205?caseid=106533",
+              "description": "Summons Governor Pritzker",
+              "attachment_number": 4
+            },
+            {
+              "pending": false,
+              "recap_id": 450977691,
+              "pacer_url": "https://ecf.ilsd.uscourts.gov/doc1/06906304206?caseid=106533",
+              "description": "Summons Illinois AG Raoul",
+              "attachment_number": 5
+            },
+            {
+              "pending": false,
+              "recap_id": 450977692,
+              "pacer_url": "https://ecf.ilsd.uscourts.gov/doc1/06906304207?caseid=106533",
+              "description": "Summons Southern Illinois Univ",
+              "attachment_number": 6
+            },
+            {
+              "pending": false,
+              "recap_id": 450977693,
+              "pacer_url": "https://ecf.ilsd.uscourts.gov/doc1/06906304208?caseid=106533",
+              "description": "Summons Rend Lake College",
+              "attachment_number": 7
+            },
+            {
+              "pending": false,
+              "recap_id": 450977694,
+              "pacer_url": "https://ecf.ilsd.uscourts.gov/doc1/06906304209?caseid=106533",
+              "description": "Summons Univ of Illinois",
+              "attachment_number": 8
+            },
+            {
+              "pending": false,
+              "recap_id": 450977695,
+              "pacer_url": "https://ecf.ilsd.uscourts.gov/doc1/06906304210?caseid=106533",
+              "description": "Summons Chicago State Univ",
+              "attachment_number": 9
+            },
+            {
+              "pending": false,
+              "recap_id": 450977696,
+              "pacer_url": "https://ecf.ilsd.uscourts.gov/doc1/06906304211?caseid=106533",
+              "description": "Summons Eastern Illinois Univ",
+              "attachment_number": 10
+            },
+            {
+              "pending": false,
+              "recap_id": 450977697,
+              "pacer_url": "https://ecf.ilsd.uscourts.gov/doc1/06906304212?caseid=106533",
+              "description": "Summons Illinois State Univ",
+              "attachment_number": 11
+            },
+            {
+              "pending": false,
+              "recap_id": 450977698,
+              "pacer_url": "https://ecf.ilsd.uscourts.gov/doc1/06906304213?caseid=106533",
+              "description": "Summons Northeastern Illinois Univ",
+              "attachment_number": 12
+            },
+            {
+              "pending": false,
+              "recap_id": 450977699,
+              "pacer_url": "https://ecf.ilsd.uscourts.gov/doc1/06906304214?caseid=106533",
+              "description": "Summons ISAC",
+              "attachment_number": 13
+            },
+            {
+              "pending": false,
+              "recap_id": 450977700,
+              "pacer_url": "https://ecf.ilsd.uscourts.gov/doc1/06906304215?caseid=106533",
+              "description": "Summons Illinois Dream Fund Comm",
+              "attachment_number": 14
+            }
+          ],
+          "url": "https://www.courtlistener.com/docket/71250923/1/united-states-v-state-of-illinois/",
+          "recap_pdf_url": "https://www.courtlistener.com/recap/gov.uscourts.ilsd.106533/gov.uscourts.ilsd.106533.1.0.pdf",
+          "pacer_doc_id": "06906304201",
+          "description": "COMPLAINT against All Defendants, filed by All Plaintiffs. (Attachments: # 1 Exhibit A, # 2 Civil Cover Sheet, # 3 Summons State of Illinois, # 4 Summons Governor Pritzker, # 5 Summons Illinois AG Raoul, # 6 Summons Southern Illinois Univ, # 7 Summons Rend Lake College, # 8 Summons Univ of Illinois, # 9 Summons Chicago State Univ, # 10 Summons Eastern Illinois Univ, # 11 Summons Illinois State Univ, # 12 Summons Northeastern Illinois Univ, # 13 Summons ISAC, # 14 Summons Illinois Dream Fund Comm)(McTague, Alexandra) (Entered: 09/02/2025)"
+        },
+        {
+          "row_number": 2,
+          "id": 10368923,
+          "entry_number": "11",
+          "date_filed": "2025-10-01T00:00:00-04:00",
+          "attachments": null,
+          "url": "https://www.courtlistener.com/docket/71250923/11/united-states-v-state-of-illinois/",
+          "recap_pdf_url": null,
+          "pacer_doc_id": null,
+          "description": "ORDER GRANTING 10 Joint Motion for Extension of Time to Answer: For the reasons stated, the Motion is GRANTED. Defendants shall file a consolidated response to the complaint on or before November 14, 2025. Signed by Judge David W. Dugan on 10/1/2025. (dsw)THIS TEXT ENTRY IS AN ORDER OF THE COURT. NO FURTHER DOCUMENTATION WILL BE MAILED. (Entered: 10/01/2025)"
+        },
+        {
+          "row_number": 6,
+          "id": 10373815,
+          "entry_number": "15",
+          "date_filed": "2025-10-10T00:00:00-04:00",
+          "attachments": null,
+          "url": "https://www.courtlistener.com/docket/71250923/15/united-states-v-state-of-illinois/",
+          "recap_pdf_url": "https://www.courtlistener.com/recap/gov.uscourts.ilsd.106533/gov.uscourts.ilsd.106533.15.0.pdf",
+          "pacer_doc_id": "06906333608",
+          "description": "MOTION to Stay discovery conference deadlines by All Plaintiffs. (McTague, Alexandra) (Entered: 10/10/2025)"
+        },
+        {
+          "row_number": 11,
+          "id": 10337914,
+          "entry_number": "6",
+          "date_filed": "2025-09-10T00:00:00-04:00",
+          "attachments": null,
+          "url": "https://www.courtlistener.com/docket/71250923/6/united-states-v-state-of-illinois/",
+          "recap_pdf_url": null,
+          "pacer_doc_id": "06906310728",
+          "description": "NOTICE of Appearance by Sean Skedzielewski on behalf of All Plaintiffs (Skedzielewski, Sean) (Entered: 09/10/2025)"
+        },
+        {
+          "row_number": 7,
+          "id": 10265831,
+          "entry_number": "2",
+          "date_filed": "2025-09-02T00:00:00-04:00",
+          "attachments": null,
+          "url": "https://www.courtlistener.com/docket/71250923/2/united-states-v-illinois/",
+          "recap_pdf_url": null,
+          "pacer_doc_id": "06906304732",
+          "description": "NOTICE OF INITIAL ASSIGNMENT TO A U.S. MAGISTRATE JUDGE: This case has been randomly assigned to United States Magistrate Judge Gilbert C. Sison pursuant to Administrative Order 408. The parties are advised that their consent is required if the assigned Magistrate Judge is to conduct all further proceedings in this case, including trial and final entry of judgment pursuant to 28 U.S.C. 636(c) and Federal Rule of Civil Procedure 73. As set forth in Administrative Order No. 408, each party will be required to file a Notice and Consent to Proceed Before a Magistrate Judge Jurisdiction form indicating consent or non-consent to the jurisdiction of the assigned Magistrate Judge. If all parties do not consent to the Magistrate Judge's jurisdiction, the case will be randomly assigned to a district judge for all further proceedings and the parties cannot later consent to reassignment of the case to a magistrate judge. The parties are further advised that they are free to withhold consent without adverse substantive consequences. Within 21 days of this Notice, the following party or parties must file the attached form indicating consent to proceed before the assigned Magistrate Judge or an affirmative declination to consent: United States. A link regarding the magistrate judges in this district is attached for your convenience: https://www.ilsd.uscourts.gov/sites/ilsd/files/BenefitsofConsent.pdf. All future documents must bear case number 3:25-cv-01691-GCS. Consent due by 9/23/2025 (eab) (Entered: 09/02/2025)"
+        },
+        {
+          "row_number": 12,
+          "id": 10337915,
+          "entry_number": "7",
+          "date_filed": "2025-09-16T00:00:00-04:00",
+          "attachments": null,
+          "url": "https://www.courtlistener.com/docket/71250923/7/united-states-v-state-of-illinois/",
+          "recap_pdf_url": null,
+          "pacer_doc_id": "06906314950",
+          "description": "SUMMONS Returned Executed Board of Trustees for Southern Illinois University served on 9/12/2025, answer due 10/3/2025; Board of Trustees of Rend Lake College served on 9/15/2025, answer due 10/6/2025; JB Pritzker served on 9/12/2025, answer due 10/3/2025; Kwame Raoul served on 9/12/2025, answer due 10/3/2025; State of Illinois served on 9/12/2025, answer due 10/3/2025. (Attachments: # 1 Summons returned, # 2 summons returned, # 3 summons returned, # 4 summons returned)(kdw) Modified on 9/17/2025 (kdw). (Entered: 09/16/2025)"
+        },
+        {
+          "row_number": 5,
+          "id": 10365738,
+          "entry_number": "14",
+          "date_filed": "2025-10-02T00:00:00-04:00",
+          "attachments": null,
+          "url": "https://www.courtlistener.com/docket/71250923/14/united-states-v-state-of-illinois/",
+          "recap_pdf_url": null,
+          "pacer_doc_id": "06906327522",
+          "description": "CASE MANAGEMENT ORDER. Signed by Judge David W. Dugan on 10/2/2025. (dmw2) (Entered: 10/02/2025)"
+        },
+        {
+          "row_number": 15,
+          "id": 10365739,
+          "entry_number": null,
+          "date_filed": "2025-10-01T00:00:00-04:00",
+          "attachments": null,
+          "url": "https://www.courtlistener.com",
+          "recap_pdf_url": null,
+          "pacer_doc_id": null,
+          "description": "Order on Motion for Extension of Time to Answer"
+        }
+      ],
+      "docket_case_type": "cv",
+      "docket_year": 2025,
+      "docket_filing_number": 1691,
+      "is_main_docket": true,
+      "court": "Southern District of Illinois",
+      "state": "Illinois",
+      "docket_office_number": "3",
+      "docket_number_manual": "3:25-cv-01691",
+      "scales_html": null,
+      "recap_link": "https://www.courtlistener.com/docket/71250923/united-states-v-state-of-illinois/",
+      "is_active": true
+    },
+    "name": "United States v. Illinois",
+    "never_filed": false,
+    "non_docket_case_number": "",
+    "non_docket_case_number_type": null,
+    "non_docket_case_number_type_other": "",
+    "order_end_year": null,
+    "order_start_year": null,
+    "permanent_injunction": false,
+    "plaintiff_description": "Department of Justice",
+    "plaintiff_type": [
+      {
+        "value": "U.S. Dept of Justice plaintiff"
+      }
+    ],
+    "prevailing_party": "None Yet / None",
+    "pro_se_status": "No",
+    "public_interest_lawyer": "Yes",
+    "related_cases": [],
+    "relief_natures": [],
+    "relief_nature_other": "",
+    "relief_sources": [
+      "None yet"
+    ],
+    "settlement_agreement": [],
+    "settlement_judgment_date": null,
+    "settlement_judgment_year": null,
+    "special_collections": [
+      "Trump 1.0 & 2.0 Immigration Enforcement Order Challenges",
+      "Trump Administration 2.0: Litigation and Investigations Involving the Government"
+    ],
+    "special_case_type": [],
+    "state": "Illinois",
+    "summary": "<p>[This summary is temporary while we research the case.]</p>\r\n<p>On September 2, 2025, the U.S. government sued the state of Illinois for providing postsecondary education benefits to undocumented immigrants. Allegedly, Illinois law classifies immigrants who are not lawfully present in the United States as &ldquo;residents&rdquo; of Illinois under certain conditions, making them eligible for reduced tuition for public state colleges and other post-secondary education benefits, while U.S. citizens and nationals from other states, who do not meet the residency requirements, must pay higher out-of-state tuition rates and do not qualify for certain other benefits.</p>",
+    "summary_published_date": "2025-09-06T17:12:22.742152-04:00",
+    "summary_short": "Filed on September 2, 2025, the United States (through DOJ) sued Illinois in the Southern District of Illinois—naming the State, Governor J.B. Pritzker, Attorney General Kwame Raoul, several public‑university boards, the Illinois Student Assistance Commission, and the Illinois Dream Fund Commission—alleging that Illinois laws treat certain non‑citizens not lawfully present as state residents for postsecondary purposes, granting in‑state tuition and other education benefits unavailable to out‑of‑state U.S. citizens. The complaint asserts this violates 8 U.S.C. § 1623(a) and seeks a declaratory judgment and permanent injunction. The case is assigned to Judge David W. Dugan and remains ongoing as of September 25, 2025.",
+    "summary_tiny": null,
+    "terminating_date": null,
+    "clearinghouse_link": "clearinghouse.net/case/46922",
+    "is_active": true,
+    "case_documents_url": "https://clearinghouse.net/api/v2/documents/?case=46922",
+    "case_dockets_url": "https://clearinghouse.net/api/v2/dockets/?case=46922",
+    "case_resources_url": "https://clearinghouse.net/api/v2/resources/?case=46922"
+  },
+  "documents": [
+    {
+      "date": "2025-09-02",
+      "date_is_estimate": false,
+      "date_not_available": false,
+      "description": "Exhibit to Complaint – Report & Recommendation, U.S. v. Oklahoma (E.D. Okla.), joint motion for consent judgment",
+      "document_source": "RECAP",
+      "document_status": "Coding Complete",
+      "document_type": "Other",
+      "order_type": null,
+      "citation_paren": null,
+      "cite_1_page": null,
+      "cite_1_reporter": null,
+      "cite_1_vol": null,
+      "cite_2_page": null,
+      "cite_2_reporter": null,
+      "cite_2_vol": null,
+      "cite_3_page": null,
+      "cite_3_reporter": null,
+      "cite_3_vol": null,
+      "citation_status": "Not applicable",
+      "court": null,
+      "no_title": false,
+      "party_types": [
+        "Plaintiff-Intervenor"
+      ],
+      "per_curium": false,
+      "is_core_document": true,
+      "id": 163486,
+      "file": "https://clearinghouse-umich-production.s3.amazonaws.com/media/doc/163486.pdf",
+      "title": "Exhibit A",
+      "text": "Case 3:25-cv-01691-DWD     Document 1-1     Filed 09/02/25     Page 1 of 7     Page ID #26\n \n \n \n \n \nEXHIBIT A \nUnited States v. Oklahoma, No. 6:25-cv-265 (E.D. Ok.) \n\nCa6s:2e5 3-c:2v5-0-c0v2-6051-6R9A1W-D-WDEDS        D  Docoucmumenetn 1t -111          FFilieledd  0in9 /E02D//2O5K    o  nP a0g8e/0 27 /o2f5 7         P Paaggee 1 I Dof  #427\nIN THE UNITED STATES DISTRICT COURT FOR THE \nEASTERN DISTRICT OF OKLAHOMA \n \nUNITED STATES OF AMERICA,      ) \n              ) \n      Plaintiff,       ) \n              )  Case No. 25-CV-265-RAW-DES   \nv.               )   \n              ) \nSTATE OF OKLAHOMA,         ) \n              ) \n      Defendant.       ) \n \nREPORT AND RECOMMENDATION \n \n  This matter comes before the Court on the Plaintiff, United States of America and \nDefendant, State of Oklahoma’s Joint Motion for Entry of Consent Judgment. (Docket No. 9). On \nAugust 6, 2025, United States District Judge Ronald A. White referred this case to Magistrate \nJudge D. Edward Snow for all pretrial and discovery matters, including dispositive motions, \npursuant to 28 U.S.C. § 636(b)(1) and Fed. R. Civ. P. 72. (Docket No. 10).  For the reasons set \nforth below, the undersigned Magistrate Judge recommends the Parties’ Joint Motion for Entry of \nConsent Judgment be GRANTED.       \n  On August 5, 2025, the United States of America initiated this civil action seeking \ndeclaratory and injunctive relief pursuant to the Supremacy Clause of the U.S. Constitution, art. \nVI, cl. 2; 28 U.S.C. §§ 1651, 2201, and 2202; and the Court’s inherent equitable authority. (Docket \nNo. 2).  The Complaint challenges the constitutionality of Okla. Stat. tit. 70, § 3242 and Oklahoma \nState Regents for Higher Education (OSRHE) Policy § 3.18.6, which govern the classification of \npostsecondary students for in-state tuition eligibility. Id. at 6. Under these provisions, individuals \nwho are not lawfully present in the United States may qualify for in-state tuition or nonresident \ntuition waivers if they meet certain residency and high school graduation criteria. Id. at 7-8. \nOSRHE Policy further provides that such individuals may be eligible for state-funded scholarships \n1 \n \n\nCa6s:2e5 3-c:2v5-0-c0v2-6051-6R9A1W-D-WDEDS        D  Docoucmumenetn 1t -111          FFilieledd  0in9 /E02D//2O5K    o  nP a0g8e/0 37 /o2f5 7         P Paaggee 2 I Dof  #428\nor financial aid if they submit documentation of an application to legalize their immigration status \nand meet other eligibility criteria. Id. at 8.  \nThe United States asserts that these provisions are expressly preempted by 8 U.S.C. \n§ 1623(a), which prohibits states from providing postsecondary education benefits to unlawfully \npresent aliens based on state residency unless the same benefits are offered to all U.S. citizens \nregardless of residency. Id. at 10-11. Accordingly, the United States alleges that Okla. Stat. tit. 70, \n§  3242  and  related  OSRHE  policies  violate  the  Supremacy  Clause  and  are  therefore \nunconstitutional. The United States seeks a declaration to that effect and a permanent injunction \nagainst their enforcement. Id. at 11.  \n  On August 5, 2025, in conjunction with Defendant, Plaintiff filed a Joint Motion for Entry \nof Consent Judgment. (Docket No. 9). In the Joint Motion, the Parties agree this Court has \njurisdiction under 28 U.S.C. §§ 1331 and 1345 and that venue is proper under 28 U.S.C. § 1391. \nId. at 2. The Parties further agree this Court has the authority to provide the requested relief under \nthe Supremacy Clause, U.S. Const. Art. VI, cl. 2, as well as 28 U.S.C. §§ 1651, 2201, and 2022, \nand its inherent equitable powers. Id.  Finally, the Parties agree that Okla. Stat., tit. 70, § 3242 and \nOSRHE Policy § 3.18.6 are preempted by 8 U.S.C. §§ 1623, 1621(d) and they request this Court \nenter a final judgment declaring that Okla. Stat., tit. 70, § 3242 and OSRHE Policy § 3.18.6 violate \nthe Supremacy Clause and are therefore invalid. Id. \n  The Constitution’s Supremacy Clause mandates that “[t]his Constitution, and the Laws of \nthe United States which shall be made in Pursuance thereof . . . shall be the supreme Law of the \nLand . . . any Thing in the Constitution or Laws of any State to the Contrary notwithstanding.” \nU.S. Const. art. VI, cl. 2. Federal statutes may expressly preempt state laws and render them \nineffective by declaring that intent on the face of the statute. Arizona v. United States, 567 U.S. \n2 \n \n\nCa6s:2e5 3-c:2v5-0-c0v2-6051-6R9A1W-D-WDEDS        D  Docoucmumenetn 1t -111          FFilieledd  0in9 /E02D//2O5K    o  nP a0g8e/0 47 /o2f5 7         P Paaggee 3 I Dof  #429\n387, 399 (2012) (“There is no doubt that Congress may withdraw specified powers from the States \nby enacting a statute containing an express preemption provision.”). “[U]nder the Supremacy \nClause, from which our pre-emption doctrine is derived, any state law, however clearly within a \nState’s acknowledged power, which interferes with or is contrary to federal law, must yield.” Gade \nv. Nat’l Solid Wastes Mgmt. Ass’n, 505 U.S. 88, 108 (1992) (quotation omitted); Maryland v. \nLouisiana, 451 U.S. 725, 746 (1981) (explaining that under the Supremacy Clause, state laws that \nconflict with federal law are “without effect”); Colo. Dep’t of Pub. Health & Env’t, Hazardous \nMaterials & Waste Mgmt. Div. v. United States, 693 F.3d 1214, 1222 (10th Cir. 2012) (“In light \nof the federal Constitution’s Supremacy Clause, it has long been recognized that federal law \npreempts contrary state enactments.” (footnote omitted) (internal quotation marks omitted)). \nHere, a federal law, 8 U.S.C. § 1623(a), contains an express preemption clause as it directs \nthat “[n]otwithstanding any other provision of law,” an alien not lawfully present in the United \nStates “shall not be eligible on the basis of residence within a State . . . for any postsecondary \neducation benefit unless a citizen or national of the United States is eligible for such a benefit . . . \nwithout  regard  to  whether  the  citizen  or  national  is  such  a  resident.”  8  U.S.C.  §  1623(a). \nAccordingly, the undersigned Magistrate Judge RECOMMENDS the Joint Motion for Entry of \nConsent Judgment be GRANTED, and the proposed Order be entered. \nAny objections to this Report and Recommendation must be filed within three days1. See \n18 U.S.C. § 636(b)(1); Fed. R. Civ. P. 72(b). The exigencies of the Court’s calendar amid the \nongoing McGirt crisis, require the Court to shorten the window for filing objections. See United \nStates v. Barney, 568 F.2d 134, 136 (9th Cir. 1978); Sabal Trail Transmission, LLC. v. 7.72 Acres \n \n1  The undersigned Magistrate Judge shortens the objection period after consulting with the presiding judge in this \nmatter, U.S. District Judge Ronald A. White. \n \n3 \n \n\nCa6s:2e5 3-c:2v5-0-c0v2-6051-6R9A1W-D-WDEDS        D  Docoucmumenetn 1t -111          FFilieledd  0in9 /E02D//2O5K    o  nP a0g8e/0 57 /o2f5 7         P Paaggee 4 I Dof  #430\nin Lee Cnty., Ala., No. 3:16-CV-173-WKW, 2016 WL 10789585, at *1 (M.D. Ala. June 6, 2016) \n(collecting cases).2 Any objections and response shall each be limited to 10 pages and a reply is \npermitted only with leave of court upon a showing of good cause. \nDATED this 7th day of August, 2025.  \n            ____________________________________ \n            D. Edward Snow \n            United States Magistrate Judge \n \n \n2  Specifically, the Northern and Eastern Districts of Oklahoma have unprecedented caseloads and jurisdictional \ncomplexities since the Supreme Court’s decision in McGirt v. Oklahoma, 140 S.Ct. 2452 (2020).  McGirt caused an \nimmediate increase of nearly 200% in the number of criminal cases filed in the Northern District and more than 400% \nin the Eastern District.  See U.S. Courts, Judiciary Supplements Judgeship Request, Prioritizes Courthouse Projects \n(Sept.  28,  2021),  https://www.uscourts.gov/news/2021/09/28/judiciary-supplements-judgeship-request-prioritizes-\ncourthouse-projects.  This extraordinary number of criminal cases thrust into federal court, virtually overnight, is \nunlike anything ever seen in this Country’s history.  Indeed, the Supreme Court has since recognized the “significant \nchallenge for the Federal Government and for the people of Oklahoma” in the wake of McGirt.  Oklahoma v. Castro-\nHuerta, 142 S.Ct. 2486, 2492 (2022).  Numerous federal courts have “noted McGirt’s tremendous impact.”  United \nStates v. Budder, 601 F. Supp. 3d 1105, 1114 (E.D. Okla. 2022) (collecting cases), aff’d 76 F.4th 1007 (10th Cir. \n2023). \n4 \n \n\nCase 3:25-cv-01691-DWD     Document 1-1     Filed 09/02/25     Page 6 of 7     Page ID #31\n  IN THE UNITED STATES DISTRICT COURT FOR THE\nEASTERN DISTRICT OF OKLAHOMA\nUNITED STATES OF AMERICA,            )\n                                                                        )\n)\nPlaintiff, )\n)\nv. ) Case No. CIV-25-265-RAW-DES \n                                                                        )                        \nSTATE OF OKLAHOMA,                          )\n                                                                        )\n)\nDefendant. )\nORDER \nBefore the court is the Report and Recommendation of the United\nStates Magistrate Judge, in which he recommended that the parties’ joint\nmotion for entry of consent judgment be granted.\nNo objection has been filed and the time allotted for doing so has\nexpired.  “In the absence of a timely objection, the district court may\nreview a magistrate’s report under any standard it deems appropriate.” \nSummers v. Utah, 927 F.2d 1165, 1167 (10th Cir.1991).  The court\nagrees  with  the  reasoning  of  the  Magistrate  Judge’s  analysis  and\nrecommendation and finds that “there is no clear error on the face of the\nrecord.”  See Rule 72(b) F.R.Cv.P., advisory committee note.   \n        \n\nCase 3:25-cv-01691-DWD     Document 1-1     Filed 09/02/25     Page 7 of 7     Page ID #32\nIt is the order of the court that the Report and Recommendation\n(#11) is affirmed and adopted as the order of the court.  The joint motion\nfor entry of consent judgment (#9) is granted.  \n         \n    \n   IT IS SO ORDERED this 29th day of AUGUST, 2025.\n_________________________________\nRONALD A. WHITE\nUNITED STATES DISTRICT JUDGE\n2",
+      "document_type_other": null,
+      "external_url": "https://www.courtlistener.com/docket/71250923/1/united-states-v-state-of-illinois/",
+      "ecf_number": "1-1",
+      "clearinghouse_link": "clearinghouse.net/doc/163486"
+    },
+    {
+      "date": null,
+      "date_is_estimate": false,
+      "date_not_available": false,
+      "description": null,
+      "document_source": null,
+      "document_status": null,
+      "document_type": null,
+      "order_type": null,
+      "citation_paren": null,
+      "cite_1_page": null,
+      "cite_1_reporter": null,
+      "cite_1_vol": null,
+      "cite_2_page": null,
+      "cite_2_reporter": null,
+      "cite_2_vol": null,
+      "cite_3_page": null,
+      "cite_3_reporter": null,
+      "cite_3_vol": null,
+      "citation_status": null,
+      "court": null,
+      "no_title": false,
+      "party_types": [],
+      "per_curium": false,
+      "is_core_document": true,
+      "id": 162914,
+      "file": null,
+      "title": null,
+      "text": null,
+      "document_type_other": null,
+      "external_url": null,
+      "ecf_number": null,
+      "clearinghouse_link": "clearinghouse.net/doc/162914"
+    },
+    {
+      "date": "2025-09-02",
+      "date_is_estimate": false,
+      "date_not_available": false,
+      "description": "",
+      "document_source": "RECAP",
+      "document_status": "Coding Complete",
+      "document_type": "Complaint",
+      "order_type": null,
+      "citation_paren": null,
+      "cite_1_page": null,
+      "cite_1_reporter": null,
+      "cite_1_vol": null,
+      "cite_2_page": null,
+      "cite_2_reporter": null,
+      "cite_2_vol": null,
+      "cite_3_page": null,
+      "cite_3_reporter": null,
+      "cite_3_vol": null,
+      "citation_status": "Not applicable",
+      "court": "Southern District of Illinois",
+      "no_title": false,
+      "party_types": [
+        "Plaintiff"
+      ],
+      "per_curium": false,
+      "is_core_document": true,
+      "id": 162915,
+      "file": "https://clearinghouse-umich-production.s3.amazonaws.com/media/doc/162915.pdf",
+      "title": "Complaint",
+      "text": "Case 3:25-cv-01691     Document 1     Filed 09/02/25     Page 1 of 25     Page ID #1\nIN THE UNITED STATES DISTRICT COURT \nFOR THE SOUTHERN DISTRICT OF ILLINOIS \n \nUNITED STATES OF AMERICA,     \nPlaintiff,         \nv.   \nSTATE  OF  ILLINOIS;  JB  PRITZKER,  the   \nGovernor  of  Illinois  in  his  official  capacity; \nKWAME  RAOUL,  Attorney  General  for  the   No. 3:25-cv-1691 \nState of Illinois in his official capacity; BOARD \n \nOF  TRUSTEES  OF  SOUTHERN  ILLINOIS \nUNIVERSITY;  BOARD  OF  TRUSTEES  OF \n COMPLAINT \nREND  LAKE  COLLEGE;  BOARD  OF \nTRUSTEES  OF  THE  UNIVERSITY  OF \n \nILLINOIS;  BOARD  OF  TRUSTEES  OF \nCHICAGO STATE UNIVERSITY; BOARD OF \nTRUSTEES  OF  EASTERN  ILLINOIS \nUNIVERSITY;  BOARD  OF  TRUSTEES  OF \nILLINOIS STATE UNIVERSITY; BOARD OF \nTRUSTEES OF NORTHEASTERN ILLINOIS \nUNIVERSITY;  ILLINOIS  STUDENT \nASSISTANCE  COMMISSION;  ILLINOIS \nDREAM FUND COMMISSION. \n \nDefendants. \n \nPlaintiff, the United States of America, by and through its undersigned counsel, brings this \ncivil action for declaratory and injunctive relief, and alleges as follows: \nINTRODUCTION \n \n1.  Federal law prohibits providing aliens not lawfully present in the United States with \nany postsecondary education benefit on the basis of residency unless that benefit is also available \nto United States citizens and nationals regardless of their residency. See 8 U.S.C. § 1623(a). That \nprohibition is categorical, id., yet Illinois insists on flagrantly violating it. This Court should put \nan end to this discrimination against Americans that is a blatant and ongoing violation of federal \nlaw, by enjoining the enforcement of Illinois State Higher Education laws that unlawfully permit \n1 \n\nCase 3:25-cv-01691     Document 1     Filed 09/02/25     Page 2 of 25     Page ID #2\nthe grant of in-state tuition, grants, scholarships, and other benefits to aliens not lawfully present \nin the United States when such benefits are not available to U.S. citizens or nationals with \nresidences outside Illinois. These provisions are preempted by federal law and are thus unlawful. \nSee 110 Illinois Compiled Statutes (ILCS) §§ 305/7e-5(a)(5), (a-5); 520/8d-5(a)(5), (a-5); 660/5-\n88(a)(5), (a-5); 665/10-88(a)(5), (a-5); 675/20-88(a)(5), (a-5); 680/25-88(a)(5), (a-5)1; 805/6-\n4a(a)(5); 110 ILCS § 986/; 110 ILCS § 947/67; see also U.S. Const. art. VI, cl. 2; Arizona v. United \nStates, 567 U.S. 387, 399 (2012) (“There is no doubt that Congress may withdraw specified powers \nfrom the States by enacting a statute containing an express preemption provision.”). \n2.  Illinois law classifies aliens who are not lawfully present in the United States as \n“residents” of Illinois under certain conditions, making them eligible for reduced tuition for public \nstate colleges and other post-secondary education benefits, while U.S. citizens and nationals from \nother states, who do not meet the residency requirements, must pay higher out-of-state tuition rates \nand do not qualify for certain other benefits. This discriminatory treatment in favor of aliens not \nlawfully present in the United States over U.S. citizens and nationals is squarely prohibited and \npreempted by federal law. Section 1623(a) of Title 8 of the United States Code provides that “an \nalien who is not lawfully present in the United States shall not be eligible on the basis of residence \nwithin a State … for any postsecondary education benefit unless a citizen or national of the United \nStates is eligible for such a benefit … without regard to whether the citizen or national is such a \nresident.” 8 U.S.C. § 1623(a) (emphasis added). The challenged Illinois statutes, as applied to \naliens not lawfully present in the United States, thus violate the Supremacy Clause of the United \n \n1 Parallel in-state tuition provisions are also found at 110 ILCS § 670/15-88(a)(5), (a-5) (Governors \nState University), 110 ILCS §685/30-88(a)(5), (a-5) (Northern Illinois University), and 110 ILCS \n§690/35-88(a)(5), (a-5) (Western Illinois University) but those universities do not enforce those \nprovisions and instead charge the same tuition to in-state residents as they do to U.S. citizens and \nnationals of other states.  \n2 \n\nCase 3:25-cv-01691     Document 1     Filed 09/02/25     Page 3 of 25     Page ID #3\nStates Constitution. This Court should declare that Illinois’ laws, as applied to aliens not lawfully \npresent in the United States, are preempted and should permanently enjoin their enforcement. \nJURISDICTION AND VENUE \n \n3.  The Court has jurisdiction over this action under 28 U.S.C. §§ 1331 and 1345. \n4.  Venue is proper in this jurisdiction under 28 U.S.C. § 1391(b) because at least one \ndefendant resides in this district and all defendants are residents of the State.  \n5.  The Court has the authority to provide the relief requested under the Supremacy \nClause, U.S. Const. art. VI, cl. 2, as well as 28 U.S.C. §§ 1651, 2201, and 2202, and its inherent \nequitable powers. \nPARTIES \n \n6.  Plaintiff,  the  United  States  of  America,  regulates  immigration  under  its \nconstitutional and statutory authorities, and it enforces federal immigration laws through its \nExecutive agencies, including the Department of Justice and the Department of Homeland Security \n(“DHS”),  as  well  as  DHS  component  agencies,  including  U.S.  Immigration  and  Customs \nEnforcement,  U.S.  Citizenship  and  Immigration  Services,  and  U.S.  Customs  and  Border \nProtection. \n7.  Defendant State of Illinois is a state of the United States. \n8.  Defendant JB Pritzker is the Governor of Illinois and is sued in his official capacity. \nUnder the Illinois Constitution, the Governor of Illinois has “the supreme executive power, and \nshall be responsible for the faithful execution of the laws.” Illinois Constitution, Article V, Section \n8.  \n9.  Defendant Kwame Raoul is the Attorney General for the State of Illinois and is sued \nin his official capacity. The Attorney General of Illinois is the state’s chief legal officer. The Office \n3 \n\nCase 3:25-cv-01691     Document 1     Filed 09/02/25     Page 4 of 25     Page ID #4\nof the Attorney General has locations within the Southern District of Illinois, including in \nBelleville, IL and Carbondale, IL. \n10.  Defendant Board of Trustees of Southern Illinois University was created by the \nIllinois General Assembly for the purpose of operating, managing, controlling, and maintaining \nSouthern Illinois University. The Board of Trustees is charged with fixing rates for tuition at \nSouthern Illinois University, as well as determining Illinois residency for the purpose of charging \nin-state tuition or providing other educational benefits. See 110 ILCS §§ 520/8, 8d-5. Southern \nIllinois University has a number of locations, including East Saint Louis, IL, Edwardsville, IL, and \nCarbondale, IL. \n11.  Defendant Board of Trustees of Rend Lake College is a state entity charged with \ngoverning and managing Red Lake College, including setting tuition rates and determining Illinois \nresidency for the purposes of charging in-state tuition or providing other educational benefits.  \nRend Lake College is located in Ina, IL. \n12.  Defendant Board of Trustees of the University of Illinois is the governing body at \nthe University of Illinois. It is a state entity created by state statute and is charged with fixing rates \nfor tuition at the University of Illinois, as well as determining Illinois residency for the purpose of \ncharging in-state tuition or providing other educational benefits. See 110 ILCS §§ 305/7, 7e-5. \n13.  Defendant Board of Trustees of Chicago State University governs, manages, and \nmaintains Chicago State University including all its branches. It is a state entity created by state \nstatute and is charged with setting rates for tuition at Chicago State University, as well as \ndetermining Illinois residency for the purpose of charging in-state tuition or providing other \neducational benefits. See 110 ILCS §§ 660/5-45, 88. \n4 \n\nCase 3:25-cv-01691     Document 1     Filed 09/02/25     Page 5 of 25     Page ID #5\n14.  Defendant Board of Trustees of Eastern Illinois University oversees all aspects of \nthe institution and is the primary authority over the university’s operations. It is a state entity \ncreated by state statute and is charged with fixing rates for tuition at Eastern Illinois University, as \nwell as determining Illinois residency for the purpose of charging in-state tuition or providing other \neducational benefits. See 110 ILCS §§ 665/10-45, 88. \n15.  Defendant Board of Trustees of Illinois State University is the final authority in all \nmatters affecting the institution, and it exercises jurisdiction over the institution’s financial, \neducational, and other policies and over its relation with the state and federal governments. It is a \nstate entity created by state statute and is charged with fixing rates for tuition at Illinois State \nUniversity, as well as determining Illinois residency for the purpose of charging in-state tuition or \nproviding other educational benefits. See 110 ILCS §§ 675/20-45, 88. \n16.  Defendant Board of Trustees of Northeastern Illinois University has the authority \nand responsibility to operate, manage, control and maintain Northeastern Illinois University. The \nBoard is a state entity created by state statute and is charged with fixing rates for tuition at \nNortheastern Illinois University, as well as determining Illinois residency for the purpose of \ncharging in-state tuition or providing other educational benefits. See 110 ILCS §§ 680/25-45, 88. \n17.  Defendant  Illinois  Student Assistance  Commission  (“ISAC”)  is  a  state  entity \ncreated by state statute to assist Illinois students in realizing their postsecondary educational goals \nand administer programs for monetary assistance for students. 110 ILCS §§ 947/15, 20. \n18.  Defendant  Illinois  DREAM  Fund  Commission  is  a  state  entity  charged  with \nestablishing a not-for-profit entity for fundraising, training, and awarding scholarships, raising \nfunds for the DREAM Fund, and selecting recipients of scholarships funded by the DREAM Fund. \n110 ILCS § 947/67. \n5 \n\nCase 3:25-cv-01691     Document 1     Filed 09/02/25     Page 6 of 25     Page ID #6\nFEDERAL LAW \n \n19.  The  Constitution  empowers  Congress  to  “establish  a  uniform  Rule  of \nNaturalization,” U.S. Const. art. I, § 8, cl. 4, and to “regulate Commerce with foreign Nations,” \nU.S. Const. art. I, § 8, cl. 3. The Constitution also vests the President of the United States with the \n“executive Power,” U.S. Const. art. II, § 1, and authorizes the President to “take Care that the Laws \nbe faithfully executed,” U.S. Const. art. II, § 3.  \n20.  The United States has well-established, preeminent, and preemptive authority to \nregulate  immigration  matters.  This  authority  derives  from  the  United  States  Constitution, \nnumerous acts of Congress, and binding Supreme Court precedent.  \n21.  Based on its enumerated constitutional and sovereign powers to control and conduct \nrelations  with  foreign  nations,  the  Federal  Government  has  broad  authority  to  establish \nimmigration laws. \n22.  In Executive Order 14218 of February 19, 2025, Ending Taxpayer Subsidization of \nOpen Borders, President Trump ordered Departments and Agencies to “ensure, to the maximum \nextent permitted by law, that no taxpayer-funded benefits go to unqualified aliens[.]” 90 Fed. Reg. \n10,581, 10,581 (Feb. 25, 2025).In Executive Order 14287 of April 28, 2025, Protecting American \nCommunities From Criminal Aliens, President Trump ordered the relevant officials to ensure the \n“[e]qual [t]reatment of Americans” and to “take appropriate action to stop the enforcement of State \nand local laws, regulations, policies, and practices favoring aliens over any groups of American \ncitizens that are unlawful, preempted by Federal law, or otherwise unenforceable, including State \nlaws that provide in-State higher education tuition to aliens but not to out-of-State American \ncitizens[.]” 90 Fed. Reg. 18,761, 18,762 (May 2, 2025). \n6 \n\nCase 3:25-cv-01691     Document 1     Filed 09/02/25     Page 7 of 25     Page ID #7\n23.  These Orders derive from the President’s statutory and constitutional authority to \ncarry out and execute the prohibitions in 8 U.S.C. § 1623(a) against “not lawfully present” aliens \nreceiving “eligib[ility] on the basis of residence within a State ... for any postsecondary education \nbenefit unless a citizen or national of the United States is eligible for such a benefit ... without \nregard to whether the citizen or national is such a resident.” The Orders reinforce congressionally \nauthorized  and  enacted  provisions  underscoring  and  mandating  that  the  Federal  and  state \ngovernments must not treat Americans less favorably than aliens not lawfully present in the United \nStates as to eligibility for benefits. They also reiterate congressional intent, evidenced in several \nstatutory provisions of the Immigration and Nationality Act (INA), to curb incentives for illegal \nimmigration provided by the availability of various public benefits. \n24.  Specifically, in 1996, Congress passed, and President Bill Clinton signed, the Illegal \nImmigration Reform and Immigrant Responsibility Act (IIRIRA). See IIRIRA, Pub. L. No. 104-\n208, Div. C, §§ 306, 308, 110 Stat. 3009-546 (1996). One of the objectives of that statute was to \npromote immigrant self-sufficiency, reduce immigrant reliance on public assistance, and ensure \nthat public benefits are not incentives to enter illegally. Id.; see 8 U.S.C. § 1601 (“Self-sufficiency \nhas  been  a  basic  principle  of  United  States  immigration  law  since  this  country’s  earliest \nimmigration statutes.”).  \n25.  Congress declared that “aliens within the Nation’s borders [should] not depend on \npublic resources to meet their needs, but rather rely on their own capabilities and the resources of \ntheir families, their sponsors, and private organizations.” Id. § 1601(2)(A).  \n26.  Congress emphasized that “the availability of public benefits [should] not constitute \nan  incentive  for  immigration  to  the  United  States.”  Id.  §  1601(2)(B).  Moreover,  Congress \nestablished that, as a matter of public policy, there “is a compelling government interest to enact \n7 \n\nCase 3:25-cv-01691     Document 1     Filed 09/02/25     Page 8 of 25     Page ID #8\nnew rules for eligibility and sponsorship agreements in order to assure that aliens be self-reliant in \naccordance with national immigration policy” and “to remove the incentive for illegal immigration \nprovided by the availability of public benefits.” Id. § 1601(5), (6).  \n27.  As relevant here, IIRIRA includes a clear “[l]imitation on eligibility for preferential \ntreatment of aliens not lawfully present on basis of residence for higher education benefits.” 8 \nU.S.C. § 1623. Section 1623(a) provides that: \nNotwithstanding  any  other  provision  of  law,  an  alien  who  is  not \nlawfully present in the United States shall not be eligible on the basis \nof  residence  within  a  State  (or  a  political  subdivision)  for  any \npostsecondary education benefit unless a citizen or national of the \nUnited States is eligible for such a benefit (in no less an amount, \nduration, and scope) without regard to whether the citizen or national \nis such a resident. \n \n28.  Section 1623(a) thus does not allow states to provide illegal aliens with lower in-\nstate tuition rates (also referred to as “resident tuition”) based on residence within the state if that \nsame tuition rate is not made available to all U.S. citizens and nationals regardless of their state \nresidency. 8 U.S.C. § 1623(a). Section 1623(a) is not limited to tuition, however, and also does not \nallow  states  to  provide  illegal  aliens  with  any  “post-secondary  education  benefit”,  such  as \nscholarships, based on residence within the state if that same benefit is not made available to all \nU.S. citizens and nationals regardless of their state of residence. \n29.  The United States challenges the State of Illinois’ flagrant and ongoing violation of \nthis prohibition. \nTHE ILLINOIS LAWS \n30.  In direct conflict with federal law, Illinois law permits an alien who is not lawfully \npresent in the United States to qualify for reduced in-state tuition rates and for other benefits such \n8 \n\nCase 3:25-cv-01691     Document 1     Filed 09/02/25     Page 9 of 25     Page ID #9\nas scholarships or grants based on residence within the state. At the same time, it denies these \nbenefits to U.S. citizens who do not qualify as Illinois residents.  \nIllinois Public Act 093-0007 (2003) \n31.  Illinois Public Act 093-0007 (“2003 Act”), sometimes referred to as the “Acevedo \nBill” was signed into law on May 20, 2003, and provides eligible students with access to in-state \ntuition at the state’s public colleges and universities.2  \n32.  Under the 2003 Act, students who are not citizens or lawful permanent residents of \nthe United States can establish Illinois residency for tuition purposes by meeting the requirements \nof the Act, namely residing with their parents or guardians while attending a public or private high \nschool in Illinois for at least three years, graduating from these programs or receiving an equivalent \nof a high school diploma, signing an affidavit stating that the individual will file an application to \nbecome a permanent resident of the United States at the earliest opportunity the individual is \neligible to do so, and not establishing residence outside Illinois. See 110 ILCS §§ 305/7e-5(a)(5), \n520/8d-5(a)(5),  660/5-88(a)(5),  665-10/88(a)(5),  675/20-88(a)(5),  680/25-88(a)(5),  805/6-\n4a(a)(5). Schools provide Residency Affidavits outlining the criteria of the law.3  \n33.  The 2003 Act does not exempt illegal aliens from establishing Illinois residency for \nthe purpose of qualifying for in-state tuition.  \n \n2  Many  Illinois  Universities  explain  aspects  of  the  law  on  their  websites.  See,  e.g., \nhttps://siu.edu/admissions/undergraduate/apply/undocumented-students.php  (“Undocumented \nIllinois  Residents ... can  qualify  for  residency  through  IL  Public  Act  93-0007.”); \nhttps://dream.uic.edu/scholarships/legislation-101/who-qualifies-for-in-state-tuition  (last  visited \nAugust 11, 2025) (The 2003 Act “allows for in-state tuition for certain students who are not U.S. \ncitizens  or  legal  permanent  residents,  or  do  not  possess  a  green  card,  visa,  or  other  legal \ndocumentation, provided specific criteria are met.”) \n3 See, e.g., \nhttps://www.uaps.uillinois.edu/UserFiles/Servers/Server_808163/File/Residency_Affidavit.pdf \n9 \n\nCase 3:25-cv-01691     Document 1     Filed 09/02/25     Page 10 of 25     Page ID #10\n34.  Indeed, the availability of reduced in-state tuition to individuals who are not \nlawfully present in the United States is advertised on various public-facing websites operated by \nthe Defendant institutions.4  \n35.  Pursuant to the 2003 Act, an individual who is not lawfully present in the United \nStates, who establishes Illinois residency via the above statutory criteria, pays the same tuition rate \nas other Illinois residents. Conversely, U.S. citizens and nationals who are residents of other states \ncannot establish Illinois residency for tuition under the 2003 Act and are not entitled to the same \ntuition benefits under the Act. Thus, under the 2003 Act, an individual who is a not lawful \npermanent resident can pay a lower tuition rate than a non-Illinois resident that is a U.S. citizen or \na lawful permanent resident. \n36.  The 2003 Act tuition provisions sunset on July 1, 2026, in favor of an even less-\nstringent 2024 amendment (i.e., a law that favors even more illegal aliens over U.S. citizens and \nnationals), discussed infra. \n \nThe Illinois DREAM Act \nPublic Act 97-233 (2011) \n \n37.  The Illinois DREAM Act, Public Act 97-233, was signed into law in 2011. Among \nother changes, it added 110 ILCS § 947/67, which directed the ISAC to create an Illinois DREAM \n \n4 See, e.g., https://siu.edu/admissions/undergraduate/apply/undocumented-students.php; \nhttps://www.uaps.uillinois.edu/student_programs/residency_information/illinois_law_on_in-\nstate_tuition; \nhttps://www.uaps.uillinois.edu/student_programs/residency_information/residency_status_requir\nements; \nhttps://www.admissions.illinois.edu/apply/undocumented; \nhttps://www.csu.edu/news/2019archived/instate_tuition.htm;  \nhttps://www.eiu.edu/finaid/cost.php;  \nhttps://illinoisstate.edu/admissions/undocumented/;  \nhttps://www.neiu.edu/financial-aid/tuition-fees/tuition-information. \n10 \n\nCase 3:25-cv-01691     Document 1     Filed 09/02/25     Page 11 of 25     Page ID #11\nFund funded by private donations and an Illinois DREAM Fund Commission. It directed the \nGovernor to appoint nine persons to the DREAM Fund Commission, and charged the Commission \nwith various functions including establishing a not-for-profit entity for fundraising, training, and \nawarding  scholarships;  raising  funds  for  the  DREAM  Fund;  and  selecting  recipients  of \nscholarships funded by the DREAM Fund.  \n38.  The Illinois DREAM Act also set the minimum qualifications for a student to \nqualify for a scholarship, namely that the student (1) resided with his or her parents or guardian \nwhile attending a public or private high school in Illinois; (2) graduated from a public or private \nhigh school or received the equivalent of a high school diploma in Illinois; (3) attended school in \nIllinois for at least three years as of the date he or she graduated from high school or received the \nequivalent of a high school diploma; and (4) had at least one parent who immigrated to the United \nStates. 110 ILCS § 947/67(c).  \n39.  Pursuant to the DREAM Act, an Illinois DREAM Fund Commission was created \nand members were appointed by the Governor.5 A DREAM Fund was also created. Scholarships \nwere awarded beginning in 2012.  \n40.  At some point in time, the Illinois DREAM Fund Commission further limited the \nstatutory eligibility requirements to “undocumented students” in Illinois.6  \n \nThe Retention of Illinois Students and Equity (“RISE”) Act \nPublic Act 101-0021 (2019) \n \n41.  In 2019, the Illinois General Assembly passed the Retention of Illinois Students and \nEquity Act (hereinafter the “RISE Act”), which was signed into law and codified at 110 ILCS \n \n5 See, e.g., https://www.isac.org/resources-for-non-us-citizens/ (describing DREAM Fund and \ncommission) \n6 See www.ildreamfund.org. \n11 \n\nCase 3:25-cv-01691     Document 1     Filed 09/02/25     Page 12 of 25     Page ID #12\n§ 986/, with an effective date of January 1, 2020. \n42.  The RISE Act extended state financial assistance to illegal aliens and also exempted \nsuch assistance from caps on grant assistance available under the Monetary Award Program \n(“MAP”) other than those required by state law. 110 ILCS § 986/15(a), (b). \n43.  The RISE Act defined “Illinois resident” to include “any person who is deemed an \nIllinois resident for tuition purposes under State law.” 110 ILCS § 986/10.  \n44.  Section 15, entitled “Equitable eligibility for financial aid and benefits,” declares: \n“A student who is an Illinois resident and who is not otherwise eligible for federal financial aid, \nincluding, but not limited to, … a noncitizen student who has not obtained lawful permanent \nresidence, shall be eligible for State financial aid and benefits as described in subsection (b).” 110 \nILCS § 986/15. \n45.  Subsection (b) makes Illinois-resident students eligible to apply for or receive \nconsideration for “any student aid or benefit funded or administered by the State, any State agency, \nor any public institution of higher learning.” Id. Such benefits include “scholarships, grants, \nawards,  stipends,  room  and  board  assistance,  tuition  waivers,  or  other  financial  or  in-kind \nassistance.” Id.  \n46.  The General Assembly specified that the RISE Act was intended to provide benefits \nto illegal aliens, even though it did not extend eligibility for those benefits to U.S. Citizens or \nnationals of other states. See id. § 986/15(d) (citing 8 U.S.C. § 1621(d)). \n47.  Thus, illegal aliens who are deemed Illinois residents for tuition purposes are also \neligible to apply for state financial aid under the Illinois RISE Act.7 \n \n7 See, e.g., https://www.ilga.gov/Legislation/ILCS/Articles?ActID=3991&ChapterID=18; \n \n12 \n\nCase 3:25-cv-01691     Document 1     Filed 09/02/25     Page 13 of 25     Page ID #13\nPublic Act 103-0876 \n48.  Illinois Public Act 103-0876 (“2024 Act”), signed into law on August 9, 2024, \nmakes changes to current law and expands in-state tuition for illegal aliens. Effective July 1, 2026, \nthe Illinois residency criteria for in-state tuition will change. Students—with the exception of \nindividuals who have a non-immigrant status that “precludes an intent to permanently reside in the \nUnited States” under 8 U.S.C. § 1101(a)—will be eligible for in-state tuition if they meet one of \nthe two sets of residency requirements: \na.  First set (2 years of high school):  \n•  attended an Illinois high school for at least two years before enrolling at the \nuniversity;  \n•  graduated from an Illinois high school or received the equivalent of a high \nschool diploma in Illinois;  \n•  attended high school while residing in Illinois and did not establish residency \noutside of Illinois before enrolling at the university;  \n•  if the individual is not a citizen or lawful permanent resident of the United \nStates, the individual swears and affirms to the university that the individual \nwill  file  an  application  to  become  a  permanent  resident  at  the  earliest \nopportunity if eligible to do so. \n \nhttps://siu.edu/admissions/undergraduate/apply/undocumented-\nstudents.php#:~:text=The%20Retention%20of%20Illinois%20Students,forms%20of%20state%2\n0financial%20aid (“The Retention of Illinois Students & Equity (RISE) Act allows eligible \nundocumented … students who are disqualified from federal student aid to apply for all forms of \nstate financial aid.”);  \nhttps://dream.uic.edu/scholarships/legislation-101/illinois-rise-act/. \n13 \n\nCase 3:25-cv-01691     Document 1     Filed 09/02/25     Page 14 of 25     Page ID #14\nb.  Second set (three years including a combination of high school and community \ncollege):  \n•  attended  any  of  the  following  for  at  least  two  years  and  attended  for  a \ncumulative total of at least three years before enrolling at the university: \n  a public or private high school in Illinois  \no\n  a public community college  \no\n  a combination of high school and community college  \no\n•  and at the time of enrollment:  \n  graduated from high school in Illinois or received the equivalent of a \no\nhigh school diploma in Illinois; and  \n  earned an associate degree from or completed at least 60 credit hours at \no\na community college; \n•  has not established residency in another state before enrolling at the university; \nand \n•  if the individual is not a citizen or lawful permanent resident of the U.S., the \nindividual swears and affirms to the university that the individual will file an \napplication to become a permanent resident at the earliest opportunity if eligible \nto do so. \nSee 110 ILCS §§ 305/7e-5(a-5), 520/8d-5(a-5), 660/5-88(a-5), 665-10/88(a-5), 675/20-88(a-5), \n680/25-88(a-5). \n49.  The 2024 Act, like the 2003 Act before it, does not exempt illegal aliens from \nestablishing Illinois residency for the purpose of qualifying for in-state tuition. \n \n14 \n\nCase 3:25-cv-01691     Document 1     Filed 09/02/25     Page 15 of 25     Page ID #15\n2025 Amendments to the RISE Act \nPublic Act 104-0164 \n \n50.  In 2025, the Governor of Illinois signed into law Public Act 104-0164, which \namends provisions of the RISE Act, effective January 1, 2026. The Amendments expand the scope \nof benefits available to those covered by the RISE Act to include benefits offered by a unit of local \ngovernment.  \nImplementation of the Challenged Illinois Laws \n51.  The Board of Trustees of each state-funded Illinois University has the authority to \nset tuition rates, including disparate rates of tuition for students who qualify as Illinois residents \nversus those who do not. As noted above, not all Boards of Trustees establish disparate tuition rates \nfor the schools they manage, but many, like the majority of the Defendants here, do.  \n52.  At Southern Illinois University Carbondale, during the 2024-2025 school year, \ngraduate tuition and fees were $14,220 for in-state students; but they were more than twice that—\n$31,122—for out-of-state students. For the 2025-2026 school year, graduate tuition and fees for \nin-state residents are $14,388, while graduate tuition and fees for out-of-state students are over \ndouble the cost at $31,290.8 Likewise, for undergraduates in the business school, non-residents \npay over twice the tuition as Illinois residents.9 \n53.  At the University of Illinois Urbana-Champaign, during the 2024-2025 school year, \nundergraduate tuition and fees were $16,004 for in-state students; but they were more than twice \nthat—$35,124—for out-of-state students.10 For the 2025-2026 school year, undergraduate tuition \nand fees for in-state residents was estimated to be $18,046-$23,426, while tuition and fees for out-\n \n8 https://fao.siu.edu/cost/estimated-budgets.php  \n9 https://tuition.siuc.edu/overview.html \n10 See https://nces.ed.gov/collegenavigator/?s=IL&ct=1&pg=5&id=145637#expenses \n15 \n\nCase 3:25-cv-01691     Document 1     Filed 09/02/25     Page 16 of 25     Page ID #16\nof-state students were estimated to be over $20,000 higher, at $38,398-$46,498.11 Similarly, \naverage graduate tuition and fees for the 2024-2025 school year were $19,278 for in-state students \nand $34,406 for out-of-state students, and were $20,012 for in-state students versus $36,804 for \nout-of-state students for the 2025-2026 school year.12  \n54.  At Illinois State University, during the 2024-2025 and 2025-2026 school years, \nundergraduate tuition and fees were $16,152 for in-state students and $28,218 for out-of-state \nstudents.13 During the 2025-2026 school year, graduate tuition and fees were $10,286 for in-state \nstudents and $18,478 for out-of-state students.14  \n55.  At Northeastern Illinois University, for the 2025-2026 school year, undergraduate \ntuition and fees for in-state residents are $6,371.40, while undergraduate tuition and fees for out-\nof-state students are nearly double the cost at $11,542.80.15 For the 2025-2026 school year, \ngraduate tuition and fees for in-state residents are $6,928.80, while graduate tuition and fees for \nout-of-state students are $12,657.60.16  \n56.  At Chicago State University, for the Spring 2025 semester, graduate tuition per \ncredit hour for students admitted Fall 2023–Summer 2024 was $349 for in-state students and $675 \nfor out-of-state students.17 For the Fall 2025 semester, graduate tuition per credit hour for students \nadmitted Fall 2023–Summer 2025 was $349 for in-state students and $675 for out-of-state \nstudents.18  \n \n11 See https://www.admissions.illinois.edu/invest/tuition \n12 https://nces.ed.gov/collegenavigator/?s=IL&l=94&ct=1&id=145637#expenses \n13 https://financialaid.illinoisstate.edu/paying/2024-2025-undergraduate/; \nhttps://financialaid.illinoisstate.edu/paying/2025-2026-undergraduate/ \n14 https://financialaid.illinoisstate.edu/paying/2024-2025-undergraduate/ \n15 https://catalog.neiu.edu/tuition-fees/tuition/ \n16 Id. \n17 https://www.csu.edu/financialoperations/bursar/tuition/ \n18 Id. \n16 \n\nCase 3:25-cv-01691     Document 1     Filed 09/02/25     Page 17 of 25     Page ID #17\n57.  At Eastern Illinois University, during the 2024-2025 school year, graduate tuition \nand fees were $14,552.50 for in-state students,19 but they were nearly twice that—$29,013—for \nout-of-state students.20 For the 2025-2026 school year, graduate tuition and fees for in-state \nresidents are $14,838.60,21 while graduate tuition and fees for out-of-state students are more than \ndouble the cost at $29,694.90.22  \n58.  At Rend Lake College, for the 2025–2026 academic year, in-district tuition per \ncredit hour is $110, and double the cost—$220 per credit hour—for out-of-state students.23  \n59.  Thus, the magnitude of this discrimination against U.S. citizens, as embodied in the \n2003 and 2024 Acts, is substantial. The cost of tuition for Illinois resident students, including \nillegal aliens who qualify for residency, is often significantly lower than for U.S. citizens and \nnationals who are residents of other states.24  \n60.  The ISAC was created by the Illinois legislature to administer programs to assist \nIllinois students in realizing their postsecondary educational goals. 110 ILCS § 947/15, 20. \n \n19 https://www.eiu.edu/finaid/cost.php?year=2024-\n2025&program_level=graduate&program_modality=inperson&residency_status=illinois&credit\n_hours=15&live_on_campus=yes&submit=#topofpage \n20 https://www.eiu.edu/finaid/cost.php?year=2024-\n2025&program_level=graduate&program_modality=inperson&residency_status=nonillinois&cr\nedit_hours=15&live_on_campus=yes&submit=#topofpage \n21 https://www.eiu.edu/finaid/cost.php?year=2025-\n2026&program_level=graduate&program_modality=inperson&residency_status=illinois&credit\n_hours=15&live_on_campus=yes&submit=#topofpage \n22 https://www.eiu.edu/finaid/cost.php?year=2025-\n2026&program_level=graduate&program_modality=inperson&residency_status=nonillinois&cr\nedit_hours=15&live_on_campus=yes&submit=#topofpage \n23 https://rlc.edu/tuition-costs. \n24https://www.ibhe.org/pdf/tuitionsAndFees/2026/FY17_26_Tuition_History_All_Public_Univer\nsities.pdf (table summarizing tuition costs for all Illinois Universities, including in state versus \nout of state tuition costs) \n17 \n\nCase 3:25-cv-01691     Document 1     Filed 09/02/25     Page 18 of 25     Page ID #18\n61.  ISAC  offers  Illinois  residents  a  variety  of  grant  and  scholarship  programs, \neligibility for which is based on factors such as financial need, academic achievement, chosen field \nof study, or military service. The cornerstone of these programs is ISAC’s need-based Monetary \nAward Program (“MAP”). Each year, MAP awards over $400 million in grants to approximately \n145,000 undergraduates who demonstrate financial need for such assistance. Grants awarded \nthrough MAP cover tuition and mandatory fees. \n62.  The remaining gift aid programs offered by ISAC are more targeted in nature. They \nrange in focus from those that recognize academic achievement or chosen field of study/profession \nto those that reward military service. Collectively, these targeted scholarship and grant programs \naward millions in gift aid to qualified applicants each year. \n63.  Illinois has created a separate financial aid application for illegal aliens, called the \nAlternative Application for Illinois Financial Aid (“Alternative Application”), which enables \nillegal aliens to apply for the Illinois MAP grants, the state’s largest need-based grant program for \nlow-income college students. The Alternative Application is accessible through the ISAC website. \nIt does not apply to U.S. Citizens, who are expected to complete the Free Application for Federal \nStudent Aid (“FAFSA”). \n64.  MAP grants are administered by Illinois state universities, including those named \nas Defendants, based on the eligibility criteria established by ISAC.25 MAP funding is typically \ninsufficient to meet the demand.26 \n \n25 https://www.isac.org/students/during-college/types-of-financial-aid/grants/monetary-award-\nprogram/; see also https://fao.siu.edu/types/grants.php. \n26 https://www.isac.org/students/during-college/types-of-financial-aid/grants/monetary-award-\nprogram/ \n18 \n\nCase 3:25-cv-01691     Document 1     Filed 09/02/25     Page 19 of 25     Page ID #19\n65.  DREAM Fund scholarships are separately administered by the Illinois Dream Fund \nCommission.27  It  has  awarded  hundreds  of  scholarships  and  limits  those  scholarships  to \n“undocumented students.” Beginning in 2024, money to support the fund is raised, in part, through \nIllinois Lottery scratch-off tickets. 20 ILCS § 1605/21.16. \n66.  Illinois laws make other scholarships and benefits available to Illinois resident \nstudents, including illegal aliens, whether administered by state or local government or individual \nschools. Those same benefits are not available to U.S. citizens and nationals who are residents of \nother states. As a result, Illinois Universities offer scholarships (i.e., “postsecondary education \nbenefit[s],” 8 U.S.C. § 1623(a)) based on Illinois residency to students including those unlawfully \npresent in the United States that are not available to U.S. citizens and nationals having residency \nin other states.  \n67.  For the year 2022, there were approximately 408,000 student aliens not lawfully \npresent enrolled in U.S. institutions of higher education, including an estimated over 27,000 in \nIllinois.28 \nTHE CHALLENGED ILLINOIS STATUTES ARE PREEMPTED \n68.  The Constitution’s Supremacy Clause mandates that “[t]his Constitution, and the \nLaws of the United States which shall be made in Pursuance thereof ... shall be the supreme Law \nof the Land ... any Thing in the Constitution or Laws of any State to the Contrary notwithstanding.” \nU.S. Const. art. VI, cl. 2.  \n \n27 https://www.isac.org/resources-for-non-us-citizens/#DREAM \n28 See https://www.higheredimmigrationportal.org/state/illinois/; \nhttps://www.higheredimmigrationportal.org/wp-content/uploads/2025/04/Undocumented-\nStudents-in-Higher-Education-June-2024-2-pager-corrected.pdf  \n19 \n\nCase 3:25-cv-01691     Document 1     Filed 09/02/25     Page 20 of 25     Page ID #20\n69.  Express preemption occurs when Congress, by statute, explicitly supersedes all \nstate enactments in a particular area. Pac. Gas & Elec. Co. v. State Energy Res. Conserv. & Dev. \nComm’n, 461 U.S. 190, 203–04 (1983).  \n70.  Federal statutes may preempt state laws and render them invalid. They may do this \nexpressly, by declaring that intent on the face of the statute. Arizona, 567 U.S. at 399; see \nChambers v. Osteonics Corp., 109 F.3d 1243, 1246 (7th Cir. 1997) (“Because the intent of \nCongress controls on issues of preemption, ‘[i]f the statute contains an express preemption clause, \nthe task of statutory construction must in the first instance focus on the plain wording of the clause, \nwhich necessarily contains the best evidence of Congress’ preemptive intent.’”) (quoting CSX \nTransp., Inc. v. Easterwood, 507 U.S. 658, 664 (1993)).  \n71.  “[U]nder the Supremacy Clause, from which our pre-emption doctrine is derived, \nany state law, however clearly within a State’s acknowledged power, which interferes with or is \ncontrary to federal law, must yield.” Gade v. National Solid Wastes Management Assn., 505 U.S. \n88, 108 (1992); see Maryland v. Louisiana, 451 U.S. 725, 746 (1981) (Under the Supremacy \nClause, state laws that conflict with federal law are “without effect.”); Cipollone v. Liggett Grp., \nInc., 505 U.S. 504, 516 (1992) (same); Time Warner Cable v. Doyle, 66 F.3d 867, 874 (7th Cir. \n1995) (“Congress, in the exercise of the legislative authority granted to it by the Constitution, may \npreempt state law.”) (citation omitted).  \n72.  When the statute contains an express preemption clause, the court does not indulge \n“any presumption against preemption but instead focus[es] on the plain wording of the clause, \nwhich necessarily contains the best evidence of Congress’ preemptive intent.” Puerto Rico v. \nSanchez-Valle, 579 U.S. 59, 125 (2016). Further, in determining whether a state law or regulation \nis preempted, “‘the ultimate touchstone’ is congressional purpose.” Fifth Third Bank ex rel. Tr. \n20 \n\nCase 3:25-cv-01691     Document 1     Filed 09/02/25     Page 21 of 25     Page ID #21\nOfficer v. CSX Corp., 415 F.3d 741, 746 (7th Cir. 2005) (quoting Medtronic, Inc. v. Lohr, 518 U.S. \n470, 485 (1996)); see Malone v. White Motor Corp., 435 U.S. 497, 504 (1978) (“‘The purpose of \nCongress  is  the  ultimate  touchstone’  of  pre-emption  analysis.”)  (quoting  Retail  Clerks  v. \nSchermerhorn, 375 U.S. 96, 103 (1963)).  \n73.  Here, the federal law—namely, 8 U.S.C. § 1623(a)—explicitly overrides state \nresident tuition benefits for aliens not lawfully present in the United States. The Fifth Circuit has \nalready held as much in Young Conservatives of Texas Foundation v. Smatresk, stating that \n§ 1623(a) “expressly preempts state rules that grant illegal aliens benefits when U.S. citizens \nhaven’t received the same.” 73 F.4th 304, 312-13 (5th Cir. 2023). See also Equal Access Educ. v. \nMerten, 305 F. Supp. 2d 585, 606 (E.D. Va. 2004) (stating, in the context of reduced in-state tuition, \nthat under Section 1623(a) “public post-secondary institutions need not admit illegal aliens at all, \nbut if they do, these aliens cannot receive in-state tuition unless out-of-state United States citizens \nreceive this benefit”). \n74.  Moreover, with respect to the exact issue of reduced in-state tuition for unlawful \naliens,  two federal district courts recently declared similar  laws preempted under 8 U.S.C. \n§ 1623(a).  In United States v. Texas, the challenged Texas Education laws permitted aliens not \nlawfully present in the U.S. to qualify as Texas residents eligible for in-state tuition if they met the \nfollowing: (1) they establish and maintain domicile continuously or graduate from a public or \nprivate school or acquire the equivalent of a high school diploma and maintain a residence \ncontinuously for a set period of time and (2) they submit an affidavit stating that the person will \napply to become a permanent resident in the U.S. as soon as the person becomes eligible to apply. \nThe court found them preempted by federal law. See United States v. Texas, No. 7:25-cv-00055, -\n-- F. Supp. 3d---, 2025 WL 2423900 at *1-2 (N.D. Tex. Aug. 15, 2025). In United States v. \n21 \n\nCase 3:25-cv-01691     Document 1     Filed 09/02/25     Page 22 of 25     Page ID #22\nOklahoma, the challenged Oklahoma laws individuals who were not lawfully present in the United \nStates could qualify for in-state tuition or nonresident tuition waivers if they met certain residency \nand high school graduation criteria. The court found them preempted by federal law. See Exhibit \nA, United States v. Oklahoma, No. 6:25-cv-265 (E.D. Ok. Aug. 7, 2025), ECF 11 at 2-3 (magistrate \nreport and recommendation), adopted by district court, id., ECF 22 (August 29, 2025). \n75.  Section 1623(a) directs that “[n]otwithstanding any other provision of law,” an alien \nnot lawfully present in the U.S. “shall not be eligible on the basis of residence within a State ... for \nany postsecondary education benefit unless a citizen or national of the United States is eligible for \nsuch a benefit ... without regard to whether the citizen or national is such a resident.” 8 U.S.C. \n§ 1623(a). \n76.  As evidenced in the title, “Limitation on eligibility for preferential treatment of \naliens not lawfully present on basis of residence for higher education benefits,” Section 1623(a) \nrequires that all U.S. citizens be eligible for a benefit, without regard to residency, before any alien \nnot lawfully present in the U.S. can be eligible to receive the same benefit (based on residency).  \n77.  Therefore, the federal statute, 8 U.S.C. § 1623(a), preempts Illinois statutes that \ngrant benefits to illegal aliens based on residency when U.S. citizens do not receive the same.  \n78.  By bestowing greater education benefits on illegal aliens than U.S. citizens, the \nabove-cited provisions are preempted and therefore violate the Supremacy Clause.   \nCLAIMS FOR RELIEF \n \nCOUNT ONE \n VIOLATION OF THE SUPREMACY CLAUSE \n(PREEMPTION) \n79.  Plaintiff hereby incorporates the preceding paragraphs of the Complaint as if fully \nstated herein. \n22 \n\nCase 3:25-cv-01691     Document 1     Filed 09/02/25     Page 23 of 25     Page ID #23\n80.  The 2003 and 2024 Acts, as applied to aliens who are not lawfully present in the \nUnited States, violate federal immigration law’s prohibition on providing postsecondary education \nbenefits—such as lower tuition rates—based on residency to aliens not lawfully present in the \nUnited States that are not available to all U.S. citizens and nationals regardless of residency.  \n81.  The 2003 and 2024 Acts, as applied to aliens who are not lawfully present in the \nUnited States, are preempted by 8 U.S.C. § 1623(a). \nCOUNT TWO \nVIOLATION OF THE SUPREMACY CLAUSE \n(PREEMPTION) \n82.  Plaintiff hereby incorporates the preceding paragraphs of the Complaint as if fully \nstated herein. \n83.  The RISE Act, as applied to aliens who are not lawfully present in the United States, \nviolates federal immigration law’s prohibition on providing postsecondary education benefits—\nsuch as student aid or benefits funded or administered by the state, any state agency, or any public \ninstitution of higher learning—based on residency to aliens not lawfully present in the United \nStates that are not available to all U.S. citizens and nationals regardless of residency.  \n84.  The RISE Act, as applied to aliens who are not lawfully present in the United States, \nis preempted by 8 U.S.C. § 1623(a). \nCOUNT THREE \nVIOLATION OF THE SUPREMACY CLAUSE \n(PREEMPTION) \n \n85.  Plaintiff hereby incorporates the preceding paragraphs of the Complaint as if fully \nstated herein. \n86.  The Illinois DREAM Act, as applied to aliens not lawfully present in the United \nStates, violates federal immigration law’s prohibition on providing postsecondary education \nbenefits—such as state-administered scholarships—based on residency to aliens not lawfully \n23 \n\nCase 3:25-cv-01691     Document 1     Filed 09/02/25     Page 24 of 25     Page ID #24\npresent in the United States that are not available to all U.S. citizens and nationals regardless of \nresidency. \n87.  The Illinois DREAM Act, as applied to aliens who are not lawfully present in the \nUnited States, is preempted by 8 U.S.C. § 1623(a). \nPRAYER FOR RELIEF \n \nWHEREFORE, the United States respectfully requests the following relief: \n \n1.  That this Court enter a judgment declaring that the challenged provisions, as applied \nto aliens who are not lawfully present in the United States, violate the Supremacy Clause and are \ntherefore unconstitutional and invalid; \n2.  That this Court issue a permanent injunction that prohibits Defendants as well as \ntheir successors, agents, and employees, from enforcing the challenged provisions as applied to \naliens who are not lawfully present in the United States; \n3.  That this Court award the United States its costs and fees in this action; and \n4.  That this Court award any other relief it deems just and proper. \nDATED: August 28, 2025 \n \nSTEVEN D. WEINHOEFT  CHAD MIZELLE    \nUNITED STATES ATTORNEY  Acting Associate Attorney General     \nSOUTHERN DISTRICT OF ILLINOIS \nABHISHEK S. KAMBLI   \nNINE EXECUTIVE DRIVE \nDeputy Associate Attorney General      \nFAIRVIEW HEIGHTS, ILLINOIS 62208 \nTEL: (618) 628-3700   BRETT A. SHUMATE  \nFAX: (618) 628-3720  Assistant Attorney General  \nSTEVEN.WEINHOEFT@USDOJ.GOV  Civil Division   \n \nYAAKOV M. ROTH   \n \nPrincipal Deputy Assistant Attorney General \nSEAN SKEDZIELEWSKI \nCounsel to the Assistant Attorney General \nALESSANDRA FASO \nActing Assistant Director \n \n24 \n\nCase 3:25-cv-01691     Document 1     Filed 09/02/25     Page 25 of 25     Page ID #25\nBy: /s/ Alexandra McTague  \nALEXANDRA MCTAGUE  \nSenior Litigation Counsel \nU.S. Department of Justice Civil Division \nOffice of Immigration Litigation \nP.O. Box 868, Ben Franklin Station \nWashington, D.C. 20044 \nTel. 202-718-0483 \nFax: 202-305-7000 \nalexandra.mctague2@usdoj.gov \nAttorneys for the United States \n25 ",
+      "document_type_other": null,
+      "external_url": "https://www.courtlistener.com/docket/71250923/1/united-states-v-illinois/",
+      "ecf_number": "1",
+      "clearinghouse_link": "clearinghouse.net/doc/162915"
+    }
+  ],
+  "document_count": 3
+}

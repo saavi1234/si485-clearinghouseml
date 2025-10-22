@@ -1,0 +1,249 @@
+{
+  "case_id": 10425,
+  "fetched_at": "2025-10-22T00:11:41.625672",
+  "case_data": {
+    "attorney_orgs": [
+      "U.S. Dept. of Justice Civil Rights Division"
+    ],
+    "available_documents": [
+      "Trial Court Docket"
+    ],
+    "case_defendants": [
+      {
+        "defendant_level": null,
+        "institution": "",
+        "institution_alt_state": null,
+        "institution_city": "",
+        "institution_county": null,
+        "name": "STATE OF NEW JERSEY",
+        "defendant_level_other": "",
+        "is_active": true
+      },
+      {
+        "defendant_level": null,
+        "institution": "New Jersey State Department of Personnel",
+        "institution_alt_state": null,
+        "institution_city": "",
+        "institution_county": null,
+        "name": "State of New Jersey",
+        "defendant_level_other": "",
+        "is_active": true
+      },
+      {
+        "defendant_level": null,
+        "institution": "New Jersey Department of Human Services",
+        "institution_alt_state": null,
+        "institution_city": "",
+        "institution_county": null,
+        "name": "State of New Jersey",
+        "defendant_level_other": "",
+        "is_active": true
+      }
+    ],
+    "case_ongoing": "No",
+    "case_status": "Coding Complete",
+    "case_types": [
+      "Equal Employment"
+    ],
+    "cause_other": "",
+    "causes": [
+      "Title VII (including PDA), 42 U.S.C.  § 2000e"
+    ],
+    "class_action_granted": "Not sought",
+    "class_action_sought": "No",
+    "closing_year": 2004,
+    "constitutional_clause": [],
+    "content_of_injunction": [],
+    "court": "District of New Jersey",
+    "custom_issues": [
+      "Human Services"
+    ],
+    "defendant_payment": "",
+    "defendant_type": [],
+    "docket_status": "Complete as of retrieval date",
+    "facility_type": [],
+    "filing_date": "1995-09-22",
+    "filing_year": 1995,
+    "id": 10425,
+    "injunction_duration": "",
+    "issues": [
+      "Discrimination Basis: Race discrimination",
+      "Discrimination Area: Disparate Treatment",
+      "Discrimination Area: Hiring",
+      "Discrimination Area: Promotion"
+    ],
+    "last_checked_date": "2007-11-18T00:00:00-05:00",
+    "main_docket": {
+      "id": 32603,
+      "docket_entries": [],
+      "docket_case_type": "cv",
+      "docket_year": 1995,
+      "docket_filing_number": 4915,
+      "is_main_docket": true,
+      "court": "District of New Jersey",
+      "state": "New Jersey",
+      "docket_office_number": "2",
+      "docket_number_manual": "2:95-cv-04915-AMW",
+      "scales_html": "https://clearinghouse-umich-production.s3.amazonaws.com/media/docket-html/njd--2-95-cv-04915.html",
+      "recap_link": null,
+      "is_active": true
+    },
+    "name": "United States v. New Jersey Department of Human Services",
+    "never_filed": false,
+    "non_docket_case_number": "",
+    "non_docket_case_number_type": null,
+    "non_docket_case_number_type_other": "",
+    "order_end_year": 1998,
+    "order_start_year": 1995,
+    "permanent_injunction": false,
+    "plaintiff_description": "U.S. Department of Justice on behalf of employees allegedly discriminated against on the basis of race",
+    "plaintiff_type": [
+      {
+        "value": "U.S. Dept of Justice plaintiff"
+      }
+    ],
+    "prevailing_party": "Plaintiff",
+    "pro_se_status": "No",
+    "public_interest_lawyer": "Yes",
+    "related_cases": [],
+    "relief_natures": [
+      "Injunction / Injunctive-like Settlement",
+      "Damages"
+    ],
+    "relief_nature_other": "",
+    "relief_sources": [
+      "Settlement"
+    ],
+    "settlement_agreement": [
+      "Court Approved Settlement or Consent Decree"
+    ],
+    "settlement_judgment_date": null,
+    "settlement_judgment_year": null,
+    "special_collections": [],
+    "special_case_type": [],
+    "state": "New Jersey",
+    "summary": "<p>On September 22, 1995, the U.S. Department of Justice (\"D.O.J.\") filed a lawsuit under Title VII in the U.S. District Court for the District of New Jersey against New Jersey Department of Human Services and Commissioner of personnel. The D.O.J. sought injunctive relief, alleging that the defendant had violated Title VII by discriminating on the basis of race.</p><p>On September 28, 1995, the district court (Judge Alfred M. Wolin) entered a consent decree ordering the defendant to: (1) provide promotions and monetary and other relief to eight named charging parties; (2) develop lawful selection procedures for the hiring and promotion of applicants to positions in the Family Service Specialist series.</p><p>The docket ends on July 26, 2004, where mail sent to Nancy E. Whatley was returned as undeliverable. We have no further information.</p><p></p>",
+    "summary_published_date": "2007-11-18T00:00:00-05:00",
+    "summary_short": "",
+    "summary_tiny": null,
+    "terminating_date": null,
+    "clearinghouse_link": "clearinghouse.net/case/10425",
+    "is_active": true,
+    "case_documents_url": "https://clearinghouse.net/api/v2/documents/?case=10425",
+    "case_dockets_url": "https://clearinghouse.net/api/v2/dockets/?case=10425",
+    "case_resources_url": "https://clearinghouse.net/api/v2/resources/?case=10425"
+  },
+  "documents": [
+    {
+      "date": "2004-07-09",
+      "date_is_estimate": false,
+      "date_not_available": false,
+      "description": null,
+      "document_source": "PACER [Public Access to Court Electronic Records]",
+      "document_status": "Coding Complete",
+      "document_type": "Order/Opinion",
+      "order_type": "Consent Decree",
+      "citation_paren": null,
+      "cite_1_page": null,
+      "cite_1_reporter": null,
+      "cite_1_vol": null,
+      "cite_2_page": null,
+      "cite_2_reporter": null,
+      "cite_2_vol": null,
+      "cite_3_page": null,
+      "cite_3_reporter": null,
+      "cite_3_vol": null,
+      "citation_status": "Not applicable",
+      "court": "District of New Jersey",
+      "no_title": false,
+      "party_types": [
+        "Plaintiff",
+        "Defendant",
+        "Court"
+      ],
+      "per_curium": false,
+      "is_core_document": true,
+      "id": 29380,
+      "file": "https://clearinghouse-umich-production.s3.amazonaws.com/media/doc/29380.pdf",
+      "title": "Memorandum in Support of Joint Motion to Terminate Settlement Agreement and Dismiss Case and Order Granting Motion",
+      "text": "Case 2:95-cv-04915-AMW     Document 13-2      Filed 07/09/2004     Page 1 of 10\nIN  THE  UNITED  STATES  DISTRICT  COURT \n1Q:4  JUL  -9  A 10:  lJ b \nTHE  DISTRICT  OF  NEW  JERSEY \nUNl'l'ED  STATES  OF  AMERICA, \nPlaintiff, \nv.  CIVIL  ACTION  NO. \n95-4915  (AMW) \nSTATE  OF  NEW  JERSEY; \nNEW  JERSEY  STATE  DEPARTMENT \nOF  PERSONNEL;  COMMISSIONER \nOF  PERSONNEL,  NEW  JERSEY \nSTATE  DEPARTMENT  OF \nPERSONNEL;  and  NEW  JERSEY \nDEPARTMENT  OF  HUMAN \nSERVICES,  DIVISION  OF \nYOUTH  AND  FAMILY  SERVICES, \nDefendants. \nMEMORANDUM  IN  SUPPORT  OF  JOINT \nMOTION  '1'0  TERMINATE  SETTLEMENT  AGREEMENT  AND  DISMISS  CASE \nThe  complaint  in  this  case  was  f.iled  on  September  9,  1995, \nand  a  Settlement  .\".greement  in resolution  of  the  case  was  app;J;\"oved \nby  the  Court  on  September  28,  1995. \nPursuant  to  25  of  the  Settl.ement  Agreement,  tbe \nCourt  retained  juri  to,  among  other  things,  effectuate \nthe  State  of  New  S 1  1'State's\")  1  and  complete \n(\ncompliance  with  the  Settlement  Agreement  and  enter  any  orders \nnecessary  to  implement  the  relief  provided  in  the \nSettlement  Agreement  provided  for  its  expiration  and  the \ndismissal  of  the  action after  three  years  unless  the  State  failed \n\nCase 2:95-cv-04915-AMW     Document 13-2      Filed 07/09/2004     Page 2 of 10\nto  comply  with  the  terms  of  the  Agreement  in  1  materi \nrespects. \nThe  State  satisf  its obligations  under  paragraphs  10-18 \nof  the  Settlement  Agreen1ent  by  providing  promotions  and monetary \nand  other  relief  to  eight  named  charging parties.  Seven  were \npromoted  to  Supervisory  Family  Service  Specialist  II(SFSS  II)  and \none  was  promoted  to  Supervisory  Family  Service  Specialist(SFSS \nI).  The  State,  however,  failed,  within  the  three  year  pe;r:-iod \nafte;r:- the  Settlement  Agreement  was  entered,  to  meet  the \nrequirements  of  parag:r:-aph  5  of  the  Agreement.  Paragraph  5  called \nfor  State  to  develop  lawful  s  ion procedures  for  the \nhiring and  promotion  of  applicants  to  positions  in  the  Family \nce  ist  (FSS)  es  that  have  no \nimpact  on  the  basis  of  race;  or  are  demonstrated  to  be  job \nrelated  for  the  positions  in.question  or  otherwise  consis \nwith business  necessity. \nPursuant  to  a  Joint  Hotion  by  the  parties,  on  September  29, \n1998,  the  Court  ordered  that  the  Settlement  Agreement's \ntermination  date  be  extended until  such  time  as  the  State \ndeveloped  lawfui  testing  procedures  for  the  FSS  series  of  jobs. \n(See  Appendix  A). \nThe  State  subsequently  developed  lawful  selection procedures \nthat  have  no  adverse  impact  on  the  basis  of  race.  An  analysis  of \napplicant  flow  showing  lications  and  promotions  for  the \n-2 -\n\nCase 2:95-cv-04915-AMW     Document 13-2      Filed 07/09/2004     Page 3 of 10\nFSS  of  jobs  from  January  1,  2000  to  May  30,  2003  shows \nis no  stat  signi  cance  between \nAmerican  and  white  hires  and  promotees  in  any  of  the  positions  in \nthe  FSS  series.  (See  Appendix  B  and  supporting  Declaration  of \nVi vi an  Toler) . \nThe  parties  further  note  the  following: \n(1)  As  of  June  25,  1994,  African-Americans  constituted \n41.1%  of  the  employees  in  the  FSS  series  of  positions.  African \nAmericans  constituted  30.1%  of  the  employees  in  the  SFSS  II \nposition and  17.5%  of  the  employees  in  the  SFSS  r  position. (See \nAppendix  c) . \n{ 2)  As  of  April  2 8,  2004;  African-Amer  constituted \n44.8%  of  in  of  positions.  can-\nAmericans  comprised  47.8%  of  the  employees  in  the  SFSS  II \nposition  and  38.  of  the  employees  in  the  SFSS  I  position. \nAppendix  D)  . \nThus,  the  total  percentage  of  African-American  employees  in \nthe  FSS  series  of  positions  increased  from  41.1%  in  1994  to  44.8% \nin  2004;  and  in  that  same  time  frame  the  percentage  of  African \nAmerican  employees  working  as  SFSS  IIs  increased  from  30.1%  to \n47.8%,  and  the  percentage  of  African-American  employees  holding \nthe  SFSS  I  position  increased  from  17.5%  to  38.1%. \n- 3 -\n\nCase 2:95-cv-04915-AMW     Document 13-2      Filed 07/09/2004     Page 4 of 10\nAn  evidentiary hearing  is  nei  nor \nnecessary  prior  to  dissolution  of  a  settlement  agreement  where, \nas  here,  compliance  with  the  settlewent  agreement  has  been \nmonitored  since  its inception and  where  the  parties have  set \nforth  an  evidentiary  foundation  for  dissolution  of  the  settlement \nagreement.  PattPrson  v.  Newspaper  & Mail  Deliverers'  Union,  797 \nF.  Supp.  1174,  1182(S.D.N.Y.l992),  aff'd,  13  F.3d  33  (2d  Cir. \n1993) . \nConclusion \ns  compli  with  Settlement  Agreement \nall  respects,  it  is  no  longer  necessary  to  require \nthe  to  remain  the  ement \nAccordingly,  the  Court  should  enter  an  order  terminating \nthe  Settlement  Agreement  and  dismissing  the  case. \nRespectfully  submitted, \nPeter  C.  Harvey  R.  Alexander  Acosta \nAssistant  Attorney General \nState  of  New  Jersey  Civil  Rights  Division \nLisa  Dorio  Ruch  Larry  G.  Ward \nDeputy  A.G. (N.J.  Bar  9508)  Attorney  (D.C.  Bar  419105) \nState  of  New  Jersey  Civil  Rights  Division \n25  Har-ket  Street  950  Pennsylvania  Avenue,  N.W. \nP.O.  Box  112  Washington,  D.  c.  20530 \nTrenton,  NJ  08625-0112  (202)  514-6341 \n(609)  633  8409 \n-4-\n\nCase 2:95-cv-04915-AMW     Document 13-2      Filed 07/09/2004     Page 5 of 10\nCERTIFICATE  OF  SERVICE \nZ014  JUL  -~  A !0:  4b   \nC, \nI,  Larry  G.  Ward,  hereby  certity  that  on  July  2004,  a \nte  Sc2ttlernent \ncopy  of  a  Joint  Motion  to  Te \nDisrciss,  and  a  Memorandum  in  Support  of  ,Joint  Motion  Lo  Terminate \nSettlement 1\\<Jreernent  and  Dismiss  Case  \"wi,th  appendices  1-1ere \ndelivered  by  Federal  8xpress  to: \nLisa  D.  Ruch \ny  Atl  General \nDepartment  of  Publlc  Safety \nState  of  New  Jersey \nRichard  J.  Hughes  Complex \n25  Market  Street \n1\".0.  Box  112 \nTrenton,  New  Jersey  08625-0112 \n147 \n(L~o-~ \nfi \nLa  G.  Ward \nTrial  Attorney \nu.s.  rtment  of  Justice \nCi~il Rights  Division \nEmployment  Litigation  Section \nPatrick  Henry  Building,  Room  4916 \n950  Pennsylvania  Avenue,  N.  W.  PHB \nWashington,  D.  C.  20530 \n\nCase 2:95-cv-04915-AMW     Document 13-2      Filed 07/09/2004     Page 6 of 10\n'  ...  ......,._....,.,.! \n' \n' . \nIN  THE  UNITED  STATES  DISTRICT  COURT \nFOR  THE  DISTRICT  OF  NEW  JERSEY \nUNITED  STATES  OF  Al1ERI CA,  )  ..... -: ...... \n) \nPlaintiff,  )  Civil  Action  No. \n)  95-4915 \nv. \n) \n)  0  R  D  E  R \nSTATE  OF  NEW  JERSEY,  et  a 1 . , ) \n) \nIl.ef~nrlanl:5,  _j_ \nln  accordance  with  the- Parties'  Joint Motion  to  Extend  the \nSectlement  Agreement's  Termination  Date,  which  t1otion  was  fil'f\"J .. \n.t...\"~n \n\")ti  .  1~1.:>-...'ti' \non  Septerr.berd...l:-,  199!_u  ~; ··_  ~ \nl! I  T!-;rc  ... _ \nd.:L \nIt  i.s  on  this  day  o!  September  1998,  0~79--~_-j  {)'~~~ \ner:  M T. WALSH  Ct. En \n'\":ZS::.. \nORDERED  that:  (a)  the  termination  date  of  the  Settlement \n..,..t;~'fy c:~' \nAgreement  be  extended  until  March  27,  1999  so  that  the  State  can \ndevelop  lal·dul  testing  procedcn·es;  and  (b),  if  the  State  is \nunable  to  develop  lawful  testing  procedures  by  March  27,  1999,  to \nprovi  a  report  to  the  United  States  on  its  ress  tov..·ard \ndeveloping  ar.d  adrnir.istering  such  lawful  testing  procedures  e·vC!ry \nthree  months  after  that  te  until  the  administration  of  such \nprocedures  s  ell  complet.,d.  Such  repoLt  should  be  filed  ':Jy \nthe  twenty-seventh  day  of  the  third month  after  the  extension  of \ntime  and  should  include  a  stm:nary  of  the  actions  that  the  s::a::e \ntook  in  the  rreceding  three  months  to  develop  ''' administer \nlawful  testing  procedures,  a  description  of  the  actions  it \nintends  to  take  in  the  next  three  months  to  d<ovelop  or  adrninioter \nlawful  testing  procedures,  and  an  explanation  a5  to  why  the \n7\\.PPENDIX  A \n\n.. \nCase 2:95-cv-04915-AMW     Document 13-2      Filed 07/09/2004     Page 7 of 10\ndeadline  was  not  met  and  the  State's  estimate  of  when  thG  project \nwill  be  completed  is \n\n0\n1\n \nf\no\n8  Applications and Promotions in the Family Service Specialist Series Between \n \ne\ng Jariumy I, 2000 and May 30. 2003 \na\nP\n \n \n \n \n \n4\n0\n0\n2\n/\n9\n0\n/\n7\n0\n \nd\ne\nFil\n \n    Family Sen'icc Specialist Trainee  1005  5!2  5(} 2%  504.51  749  -0.47 \n \n \n2\n-\n3\n1 Family Service Specialist I  376  2!4  515%  193.64  20.36  2.10 \n \nnt a:! \ne\nm Family Service Specialist II  52  30  48.8%  25.38  4.62  !28  I  :HX : \nu 0 \nc z \no\nD Supervisory Family Service Specialist I  35  13  33.7%  11.80  1.21  0.43  I  I\"i'i  \n     - \"..:':  \n \nW\nM Supervisory Family Service Specialist II  15&  79  51.0%  80.58  -1.58  -G25 \nA\n-\n5\n1\n9\n4\n0\n-\nv\nc\n-\n5\n9\n:\n2\n \ne\ns\na\nC\n\nNEW JERSEY DEPARTMENT OF PERSONNEL \nHUMAN RESOURCE lNFORM.ATiON SERVICES  \" \n\"' \nfi_ \n0 FAMILY SERVICE SPECJAUST EMPLOYEES AS OF 6125194 \n1\n:\"f ::\"J  \no\nL . \n9\n \ne\ng\na TITLE  EMPLOYEES  JILACK  PERCENT \nP TITLE \n   I  COOE  IN TITLE  EMPLOYEES.  BLACK \n  D \n4 ~ \n0 62H1  SUPERVISING FM.<ILY SERVICE SPECIALIST 2 - 246  7q  3Q_01l% \n0cr \n32 \n~9/. ....  62.H IC  SUP ~Rill SING FM!IlY  SERVICE SI'ECIAUST 2 BILINGUAL  23  0  O.Qll% \n:7/0-•n• -..j   61:150  FAMilY SEHV.CE SPEC!ALIST TRAINEE  1  0  0.00%  f1 \n0 u• \ned IaL  _  li21 51  FAMILY SERVICE SPECiALIST 3  117!l  48\"~1  54.72% \nFil 6Z151C  FAMIL'l' SERVICE SPECiALIST 3 BILINGUAL  B3  0  0_00% \n \n \n \n   52.152  FAMILY SERVICE SPECIALIST 2  157  62  J9.49'Y. \n \n2\n-\n3 62.iE2C  FAMILY SERVICE SPECIALIST 2 !!!liNGUAl  15  1  5_67% \n1 aJ \n  m'T  \nnt 62.153  FAMILY SERVICE SPECIALIST l  212  66  :}[)Ji!i%  C'-.1 \ne r \num;o  62J53C  FAMILY SERVICE SPECIALIST l BILIN.GUAl  10  0  0.00%  u  r[•·  \n\" \nc:o  X \no?  62155  SUPERVISING FAMILY SERVICESPEC1AUST 1  63  11  17.45%  H \nD·  Ci \n ,_  z \n \n   1'1 \nW ':>\"<   ITOTAL EMPLOYEES lN FAMllY SERVICE SPECIALIST SERIES  I  1mj  5!14  41 JIB%  CC44  \nM < \nA\n-\n5\n1\n9\n4\n0\n-\nv \"' \nc 'f \n-\n5 •JJ \n9 ~ \n:\n2\n  \" \ne Q \ns D \na f\",J \nC mI  \n1.\\1 \nI \n!L \nDKHSYET2  '~ \nQ \n'• \n\nNEW JERSEY DEPARTMENT OF PERSONNEL \n.., \nHUMAN RESOURCE INFORMATION SERVICES \n0 \nu. \n0\n1 FAMILY SERVICE SPECIALIST EMPLOYEES AS OF 4!18ft)4 \n 0 \nof::0 \n0 }_ \n1\n \ne\ng TITLE  :EMPLOYEES  BU.!: I(  PERCENT \na~  TITLE \nP~  CODE  IN TITlE  EMPlOYEES  BLACK \n \n D \n \n ~ \n4  62141  SUPERVISING FAMILY SERVICE SPECIALIST 2  343  164  47.81%. \n0\" \n203  62141C  SUf'EAVISING FAMILY SERVICE SPECIALIST 2 8!\\JNGUAl  2a  0  0.00% \n/~' \n9\n/0::--J-·.),j   62.150  FAMILY SERVICE SPECIALiST TRAINEE  S48  251  45 60%1  •.D \n7 in \n0L  62!505  FAMILY SERVICE SPECIALiST TRAINEE BiliNGUAL  <10  0  OOD'lio \n [L \ndI \nFile &2152  FAMILY SERVICE SPECIALIST 2  B65  441,)  501!7% \n   62152C  FM,H Y SERVICE SPECIAUS: 2 BILINGUAL  113  2  i77% \n \n \n \n2  62153  FAMILY SERVICE SPECIAliST I  575  292  507~% \n-\n3 eJ \n1 6:2 !53C  FAMILY SERVICE SPECIALIST 1 BIUNGUAL  :35  0  000%  a\";  \nt  u: \nn ,, \ne &21~  SUPERVISING FAMILY SERVICE SPECIALIST \\  11S  45  JB.l4%  r~ \nm'\"'  \"\" \nu\" \nc:X:>>   X \no H \nD,··~~   TOTAL EMPLOYEES IN FAMIL'I SERVICE SPECIALIST SEAlES  2Mi5  1194  44.1111\"1\\  nz  \n ·~  .... \n \n \nW  \"X'   1'4 \n\"- 1'4 \nM .0: \nA\n-\n5\n1\n9\n4\n0\nc· \n-\nv C1 \nc\n- '-L \n5\n9\n:\n2 7 \n  o; \ne 1\\. \ns r .. \na I \nC r~·,  \nDKHSYE1  I \n[j< \na0.  ",
+      "document_type_other": "",
+      "external_url": null,
+      "ecf_number": "13-2",
+      "clearinghouse_link": "clearinghouse.net/doc/29380"
+    },
+    {
+      "date": null,
+      "date_is_estimate": false,
+      "date_not_available": false,
+      "description": null,
+      "document_source": null,
+      "document_status": null,
+      "document_type": null,
+      "order_type": null,
+      "citation_paren": null,
+      "cite_1_page": null,
+      "cite_1_reporter": null,
+      "cite_1_vol": null,
+      "cite_2_page": null,
+      "cite_2_reporter": null,
+      "cite_2_vol": null,
+      "cite_3_page": null,
+      "cite_3_reporter": null,
+      "cite_3_vol": null,
+      "citation_status": null,
+      "court": null,
+      "no_title": false,
+      "party_types": [],
+      "per_curium": false,
+      "is_core_document": true,
+      "id": 120671,
+      "file": null,
+      "title": null,
+      "text": null,
+      "document_type_other": null,
+      "external_url": null,
+      "ecf_number": null,
+      "clearinghouse_link": "clearinghouse.net/doc/120671"
+    },
+    {
+      "date": "2004-07-26",
+      "date_is_estimate": false,
+      "date_not_available": false,
+      "description": null,
+      "document_source": "PACER [Public Access to Court Electronic Records]",
+      "document_status": "Coding Complete",
+      "document_type": "Docket",
+      "order_type": null,
+      "citation_paren": null,
+      "cite_1_page": null,
+      "cite_1_reporter": null,
+      "cite_1_vol": null,
+      "cite_2_page": null,
+      "cite_2_reporter": null,
+      "cite_2_vol": null,
+      "cite_3_page": null,
+      "cite_3_reporter": null,
+      "cite_3_vol": null,
+      "citation_status": "Not applicable",
+      "court": "District of New Jersey",
+      "no_title": false,
+      "party_types": [
+        "Court",
+        "Defendant",
+        "Plaintiff"
+      ],
+      "per_curium": false,
+      "is_core_document": true,
+      "id": 29494,
+      "file": "https://clearinghouse-umich-production.s3.amazonaws.com/media/doc/29494.pdf",
+      "title": "Docket (PACER)",
+      "text": "12BI, CLOSED \nU.S. District Court \nDistrict of New Jersey [LIVE] (Newark) \nCIVIL DOCKET FOR CASE #: 2:95-cv-04915-AMW \n   \nUSA v. STATE OF NEW JERSEY, et al  Date Filed: 09/22/1995 \nAssigned to: Judge Alfred M. Wolin  Date Terminated: 09/28/1995 \nDemand: $0  Jury Demand: None \nCause: 42:2000 Job Discrimination (Race)  Nature of Suit: 442 Civil Rights: \nJobs \nJurisdiction: U.S. Government \nPlaintiff \nPlaintiff \nUSA   represented by NANCY ELLEN WHATLEY \nGRIFFIN  \n129 HIGH STREET  \nMOUNT HOLLY, NJ 08060  \n(609) 267-0505  \nLEAD ATTORNEY  \nATTORNEY TO BE NOTICED \n \nSUSAN C. CASSELL  \nOFFICE OF THE US \nATTORNEY  \n970 BROAD STREET  \nSUITE 700  \nNEWARK, NJ 07102  \n(973) 645-2844  \nEmail: susan.cassell@usdoj.gov  \nLEAD ATTORNEY  \nATTORNEY TO BE NOTICED \n \nDOUGLASS L. DERRY  \nFARRELL & THURMAN, PC  \n172 TAMARACK CIRCLE  \nSKILLMAN, NJ 08558  \n(609) 924-1115  \nEmail: derry@ftlaw.net  \nATTORNEY TO BE NOTICED \n     \n \n   \nV. \n\nDefendant     \nSTATE OF NEW JERSEY   represented by DOUGLASS L. DERRY  \n(See above for address)  \nLEAD ATTORNEY  \nATTORNEY TO BE NOTICED \n \nNANCY ELLEN WHATLEY \nGRIFFIN  \n(See above for address)  \nATTORNEY TO BE NOTICED \n \nSUSAN C. CASSELL  \n(See above for address)  \nATTORNEY TO BE NOTICED \n     \nDefendant     \nNEW JERSEY STATE  represented by DOUGLASS L. DERRY  \nDEPARTMENT OF  (See above for address)  \nPERSONNEL   LEAD ATTORNEY  \nATTORNEY TO BE NOTICED \n \nNANCY ELLEN WHATLEY \nGRIFFIN  \n(See above for address)  \nATTORNEY TO BE NOTICED \n \nSUSAN C. CASSELL  \n(See above for address)  \nATTORNEY TO BE NOTICED \n     \nDefendant     \nCOMMISSIONER OF  represented by DOUGLASS L. DERRY  \nPERSONNEL   (See above for address)  \nNEW JERSEY STATE  LEAD ATTORNEY  \nDEPARTMENT OF PERSONNEL   ATTORNEY TO BE NOTICED \n \nNANCY ELLEN WHATLEY \nGRIFFIN  \n(See above for address)  \nATTORNEY TO BE NOTICED \n \nSUSAN C. CASSELL  \n(See above for address)  \n\nATTORNEY TO BE NOTICED \n     \nDefendant     \nNEW JERSEY DEPARTMENT  represented by DOUGLASS L. DERRY  \nOF HUMAN SERVICES   (See above for address)  \nDIVISION OF YOUTH AND  LEAD ATTORNEY  \nFAMILY SERVICES   ATTORNEY TO BE NOTICED \n \nNANCY ELLEN WHATLEY \nGRIFFIN  \n(See above for address)  \nATTORNEY TO BE NOTICED \n \nSUSAN C. CASSELL  \n(See above for address)  \nATTORNEY TO BE NOTICED \n     \n \nDate Filed  #  Docket Text \n09/22/1995  1  COMPLAINT filed FILING FEE $ wv (dr) (Entered: \n09/25/1995) \n09/22/1995  2  NOTICE of Allocation and Assignment filed. Magistrate JOEL \nA. PISANO (dr) (Entered: 09/25/1995) \n09/27/1995  3  ORDER, of settlement agreement. ( signed by Judge Alfred M. \nWolin ) (mn) (Entered: 09/28/1995) \n09/28/1995  4  ORDER for Administrative Termination. ( Signed by Judge \nAlfred M. Wolin ) (mn) (Entered: 09/28/1995) \n02/09/1998  5  Notice of MOTION for supplemental relief to re-open discovery \n& for other relief by USA(Sheila Drummond Richardson), & \ncert. of service. Motion hearing set for 3/9/98 on [5-1] motion . \n(Brief/PO Subm) (mn) (Entered: 02/11/1998) \n02/09/1998  6  AFFIDAVIT of Sheila Richardson on behalf of USA Re: [5-1] \nmotion for supplemental relief to re-open discovery & for other \nrelief (mn) (Entered: 02/11/1998) \n02/09/1998  7  AFFIDAVIT of Nancy E. Whatley Griffin on behalf of USA \nRe: [5-1] motion for supplemental relief to re-open discovery & \nfor other relief (mn) (Entered: 02/11/1998) \n02/23/1998  8  CERTIFICATE OF SERVICE by STATE OF NEW JERSEY \n\nof letter brief. (mn) (Entered: 02/23/1998) \n04/24/1998  9  OPINION ( signed by Judge Alfred M. Wolin ) (mn) (Entered: \n04/27/1998) \n04/24/1998  10  ORDER denying [5-1] motion for supplemental relief to re-open \ndiscovery & denying Richardson's request for attys' fees & costs \n. ( signed by Judge Alfred M. Wolin ) (mn) (Entered: \n04/27/1998) \n09/24/1998  11  Notice of JOINT MOTION to extend time of termination date \nof the settlement agreement to 3/27/99 by NJ DEPT OF \nHUMAN, COMMISSIONER OF, NJ STATE DEPT, STATE \nOF NEW JERSEY, USA, & cert. of service. Motion set for \n10/26/98 on [11-1] joint motion (brief & PO sub.) (mn) \n(Entered: 09/25/1998) \n09/29/1998  12  ORDER, extending time termination date of the settlement until \n3/27/99; etc. ( signed by Judge Alfred M. Wolin ) (mn) \n(Entered: 09/30/1998) \n07/09/2004  13  JOINT MOTION to TERMINATE SETTLEMENT by \nCOMMISSIONER OF PERSONNEL, NEW JERSEY \nDEPARTMENT OF HUMAN SERVICES, NEW JERSEY \nSTATE DEPARTMENT OF PERSONNEL, STATE OF NEW \nJERSEY, USA. [motion sent to JAG] (Attachments: # 1 Brief in \nsupport# 2 PO# 3 decl. of Vivian Toler# 4 Cover Letter)(DD, ) \n(Entered: 07/13/2004) \n07/09/2004     Set Deadlines as to 13 MOTION to TERMINATE \nSETTLEMENT. Motion Hearing set for 9/13/2004 before Judge \nAlfred M. Wolin. [PLEASE BE ADVISED THAT THIS \nMOTION WILL BE DECIDED ON THE PAPERS UNLESS \nOTHERWISE NOTIFIED BY THE COURT] (DD, ) (Entered: \n07/13/2004) \n07/21/2004  14  ORDER granting 13 Joint Motion terminating Settlement \nAgreement & dismissing action.. Signed by Judge Joseph A. \nGreenaway, Jr. on 7/19/04. (DD, ) (Entered: 07/21/2004) \n07/26/2004  15  Mail Returned as Undeliverable. Mail sent to Nancy E. Whatley \nGriffin (nr, ) (Entered: 07/30/2004) \n \n \nPACER Service Center \nTransaction Receipt \n\n       \n       \n11/19/2007 21:31:27 \nPACER  Client \nwu0079  Baker  \nLogin:  Code: \n2:95-cv-04915-AMW Start \nDocket  Search \nDescription:  date: 1/1/1970 End date: \nReport  Criteria: \n11/19/2007  \nBillable \n2  Cost:  0.16 \nPages: \n \n ",
+      "document_type_other": null,
+      "external_url": null,
+      "ecf_number": null,
+      "clearinghouse_link": "clearinghouse.net/doc/29494"
+    }
+  ],
+  "document_count": 3
+}

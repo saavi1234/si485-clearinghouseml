@@ -1,0 +1,701 @@
+{
+  "case_id": 46272,
+  "fetched_at": "2025-10-22T00:44:52.619557",
+  "case_data": {
+    "attorney_orgs": [],
+    "available_documents": [
+      "Trial Court Docket",
+      "Complaint (any)"
+    ],
+    "case_defendants": [
+      {
+        "defendant_level": null,
+        "institution": "",
+        "institution_alt_state": null,
+        "institution_city": "Brooklyn",
+        "institution_county": "New York",
+        "name": "Brooklyn Boulevard ALP LLC",
+        "defendant_level_other": "",
+        "is_active": true
+      },
+      {
+        "defendant_level": null,
+        "institution": "",
+        "institution_alt_state": null,
+        "institution_city": "Flushing",
+        "institution_county": "New York",
+        "name": "Queens Boulevard ALP LLC",
+        "defendant_level_other": "",
+        "is_active": true
+      },
+      {
+        "defendant_level": null,
+        "institution": "",
+        "institution_alt_state": null,
+        "institution_city": "",
+        "institution_county": "New York",
+        "name": "Marx Development Group LLC",
+        "defendant_level_other": "",
+        "is_active": true
+      }
+    ],
+    "case_ongoing": "Yes",
+    "case_status": "Coding Complete",
+    "case_types": [
+      "Fair Housing/Lending/Insurance",
+      "Disability Rights"
+    ],
+    "cause_other": "",
+    "causes": [
+      "Fair Housing Act/Fair Housing Amendments Act (FHAA), 42 U.S.C. §§ 3601 et seq.",
+      "Section 504 (Rehabilitation Act), 29 U.S.C. § 701",
+      "State law"
+    ],
+    "class_action_granted": "Not sought",
+    "class_action_sought": "No",
+    "closing_year": null,
+    "constitutional_clause": [],
+    "content_of_injunction": [],
+    "court": "Eastern District of New York",
+    "custom_issues": [],
+    "defendant_payment": "",
+    "defendant_type": [
+      {
+        "value": "Multi-family housing provider"
+      }
+    ],
+    "docket_status": "Complete as of retrieval date",
+    "facility_type": [
+      {
+        "value": "Non-government for-profit"
+      }
+    ],
+    "filing_date": "2025-03-05",
+    "filing_year": 2025,
+    "id": 46272,
+    "injunction_duration": "",
+    "issues": [
+      "Discrimination Basis: Disability (inc. reasonable accommodations)",
+      "Disability and Disability Rights: Mobility impairment",
+      "Discrimination Area: Housing Sales/Rental",
+      "Disability and Disability Rights: Reasonable Accommodations",
+      "General/Misc.: Housing"
+    ],
+    "last_checked_date": "2025-03-27T00:00:00-04:00",
+    "main_docket": {
+      "id": 61117,
+      "docket_entries": [
+        {
+          "row_number": 0,
+          "id": 9445594,
+          "entry_number": "1",
+          "date_filed": "2025-03-05T00:00:00-05:00",
+          "attachments": [
+            {
+              "pdf_url": "https://www.courtlistener.com/recap/gov.uscourts.nyed.528214/gov.uscourts.nyed.528214.1.1.pdf",
+              "recap_id": 432232021,
+              "pacer_url": "https://ecf.nyed.uscourts.gov/doc1/123022276017?caseid=528214",
+              "description": "Exhibit A",
+              "attachment_number": 1
+            },
+            {
+              "pdf_url": "https://www.courtlistener.com/recap/gov.uscourts.nyed.528214/gov.uscourts.nyed.528214.1.2.pdf",
+              "recap_id": 432232022,
+              "pacer_url": "https://ecf.nyed.uscourts.gov/doc1/123022276018?caseid=528214",
+              "description": "Exhibit B",
+              "attachment_number": 2
+            },
+            {
+              "pdf_url": "https://www.courtlistener.com/recap/gov.uscourts.nyed.528214/gov.uscourts.nyed.528214.1.3.pdf",
+              "recap_id": 432232023,
+              "pacer_url": "https://ecf.nyed.uscourts.gov/doc1/123022276019?caseid=528214",
+              "description": "Proposed Summons Boulevard ALP Associates LLC",
+              "attachment_number": 3
+            },
+            {
+              "pdf_url": "https://www.courtlistener.com/recap/gov.uscourts.nyed.528214/gov.uscourts.nyed.528214.1.4.pdf",
+              "recap_id": 432232024,
+              "pacer_url": "https://ecf.nyed.uscourts.gov/doc1/123022276020?caseid=528214",
+              "description": "Proposed Summons Brooklyn Boulevard ALP LLC",
+              "attachment_number": 4
+            },
+            {
+              "pdf_url": "https://www.courtlistener.com/recap/gov.uscourts.nyed.528214/gov.uscourts.nyed.528214.1.5.pdf",
+              "recap_id": 432232025,
+              "pacer_url": "https://ecf.nyed.uscourts.gov/doc1/123022276021?caseid=528214",
+              "description": "Proposed Summons David Marx",
+              "attachment_number": 5
+            },
+            {
+              "pdf_url": "https://www.courtlistener.com/recap/gov.uscourts.nyed.528214/gov.uscourts.nyed.528214.1.6.pdf",
+              "recap_id": 432232026,
+              "pacer_url": "https://ecf.nyed.uscourts.gov/doc1/123022276022?caseid=528214",
+              "description": "Proposed Summons Frances Marx",
+              "attachment_number": 6
+            },
+            {
+              "pdf_url": "https://www.courtlistener.com/recap/gov.uscourts.nyed.528214/gov.uscourts.nyed.528214.1.7.pdf",
+              "recap_id": 432232027,
+              "pacer_url": "https://ecf.nyed.uscourts.gov/doc1/123022276023?caseid=528214",
+              "description": "Proposed Summons Louisiana Purchase LLC",
+              "attachment_number": 7
+            },
+            {
+              "pdf_url": "https://www.courtlistener.com/recap/gov.uscourts.nyed.528214/gov.uscourts.nyed.528214.1.8.pdf",
+              "recap_id": 432232028,
+              "pacer_url": "https://ecf.nyed.uscourts.gov/doc1/123022276024?caseid=528214",
+              "description": "Proposed Summons Marx Development Group, LLC",
+              "attachment_number": 8
+            },
+            {
+              "pdf_url": "https://www.courtlistener.com/recap/gov.uscourts.nyed.528214/gov.uscourts.nyed.528214.1.9.pdf",
+              "recap_id": 432232029,
+              "pacer_url": "https://ecf.nyed.uscourts.gov/doc1/123022276025?caseid=528214",
+              "description": "Proposed Summons Queens Boulevard ALP, LLC",
+              "attachment_number": 9
+            },
+            {
+              "pdf_url": "https://www.courtlistener.com/recap/gov.uscourts.nyed.528214/gov.uscourts.nyed.528214.1.10.pdf",
+              "recap_id": 432232030,
+              "pacer_url": "https://ecf.nyed.uscourts.gov/doc1/123022276026?caseid=528214",
+              "description": "Civil Cover Sheet Civil Cover Sheet",
+              "attachment_number": 10
+            },
+            {
+              "pdf_url": "https://www.courtlistener.com/recap/gov.uscourts.nyed.528214/gov.uscourts.nyed.528214.1.11.pdf",
+              "recap_id": 432232031,
+              "pacer_url": "https://ecf.nyed.uscourts.gov/doc1/123022276027?caseid=528214",
+              "description": "Supplement Fed. R. Civ. P. 7.1 Disclosure Statement",
+              "attachment_number": 11
+            }
+          ],
+          "url": "https://www.courtlistener.com/docket/69707419/1/fair-housing-justice-center-inc-v-brooklyn-boulevard-alp-llc/",
+          "recap_pdf_url": "https://www.courtlistener.com/recap/gov.uscourts.nyed.528214/gov.uscourts.nyed.528214.1.0.pdf",
+          "pacer_doc_id": "123022276016",
+          "description": "COMPLAINT against Boulevard ALP Associates LLC, Brooklyn Boulevard ALP LLC, Louisiana Purchase LLC, David Marx, Frances Marx, Marx Development Group, LLC, Queens Boulevard ALP, LLC filing fee $ 405, receipt number ANYEDC-18824692 Was the Disclosure Statement on Civil Cover Sheet completed -YES,, filed by Fair Housing Justice Center, Inc.. (Attachments: # 1 Exhibit A, # 2 Exhibit B, # 3 Proposed Summons Boulevard ALP Associates LLC, # 4 Proposed Summons Brooklyn Boulevard ALP LLC, # 5 Proposed Summons David Marx, # 6 Proposed Summons Frances Marx, # 7 Proposed Summons Louisiana Purchase LLC, # 8 Proposed Summons Marx Development Group, LLC, # 9 Proposed Summons Queens Boulevard ALP, LLC, # 10 Civil Cover Sheet Civil Cover Sheet, # 11 Supplement Fed. R. Civ. P. 7.1 Disclosure Statement) (Hommel, David) (Entered: 03/05/2025)"
+        },
+        {
+          "row_number": 17,
+          "id": 9445602,
+          "entry_number": "5",
+          "date_filed": "2025-03-10T00:00:00-04:00",
+          "attachments": [],
+          "url": "https://www.courtlistener.com/docket/69707419/5/fair-housing-justice-center-inc-v-brooklyn-boulevard-alp-llc/",
+          "recap_pdf_url": null,
+          "pacer_doc_id": "123022289619",
+          "description": "NOTICE of Appearance by Jota Lee Borgmann on behalf of Fair Housing Justice Center, Inc. (aty to be noticed) (Borgmann, Jota) (Entered: 03/10/2025)"
+        },
+        {
+          "row_number": 19,
+          "id": 9445604,
+          "entry_number": "7",
+          "date_filed": "2025-03-11T00:00:00-04:00",
+          "attachments": [],
+          "url": "https://www.courtlistener.com/docket/69707419/7/fair-housing-justice-center-inc-v-brooklyn-boulevard-alp-llc/",
+          "recap_pdf_url": null,
+          "pacer_doc_id": "123022294421",
+          "description": "SCHEDULING ORDER: An Initial Conference will be held in this case on June 26, 2025 at 10:00 a.m. before Peggy Kuo, United States Magistrate Judge in Courtroom 11C South of the United States Courthouse, 225 Cadman Plaza East, Brooklyn, New York. Counsel are directed to the annexed Initial Conference Order for instructions. By June 20, 2025, the parties must file a joint and completed copy of the Proposed Discovery Plan. Any request for adjournment of this or any other conference must be made in writing on notice to opposing parties, and must disclose whether or not all parties consent. No request for adjournment will be considered unless made at least two (2) business days before the scheduled conference, except in the event of an emergency. Counsel with knowledge and authority must be present. Per diem counsel may not appear without prior permission of the Court. Plaintiff's counsel is directed to ensure that Defendants are aware of this conference. Ordered by Magistrate Judge Peggy Kuo on 3/11/2025. (RO) (Entered: 03/11/2025)"
+        },
+        {
+          "row_number": 20,
+          "id": 9445605,
+          "entry_number": "8",
+          "date_filed": "2025-03-11T00:00:00-04:00",
+          "attachments": [],
+          "url": "https://www.courtlistener.com/docket/69707419/8/fair-housing-justice-center-inc-v-brooklyn-boulevard-alp-llc/",
+          "recap_pdf_url": null,
+          "pacer_doc_id": "123022296038",
+          "description": "NOTICE of Appearance by Kevin M Cremin on behalf of All Plaintiffs (aty to be noticed) (Cremin, Kevin) (Entered: 03/11/2025)"
+        },
+        {
+          "row_number": 26,
+          "id": 10150729,
+          "entry_number": null,
+          "date_filed": "2025-03-12T00:00:00-04:00",
+          "attachments": [],
+          "url": "https://www.courtlistener.com",
+          "recap_pdf_url": null,
+          "pacer_doc_id": null,
+          "description": "Email Test"
+        },
+        {
+          "row_number": 27,
+          "id": 10150730,
+          "entry_number": null,
+          "date_filed": "2025-03-12T00:00:00-04:00",
+          "attachments": [],
+          "url": "https://www.courtlistener.com",
+          "recap_pdf_url": null,
+          "pacer_doc_id": null,
+          "description": "Email Notification Test - DO NOT REPLY (EV)"
+        },
+        {
+          "row_number": 3,
+          "id": 10244618,
+          "entry_number": "12",
+          "date_filed": "2025-03-24T00:00:00-04:00",
+          "attachments": null,
+          "url": "https://www.courtlistener.com/docket/69707419/12/fair-housing-justice-center-inc-v-brooklyn-boulevard-alp-llc/",
+          "recap_pdf_url": null,
+          "pacer_doc_id": "123022336386",
+          "description": "SUMMONS Returned Executed by Fair Housing Justice Center, Inc.. Marx Development Group, LLC served on 3/14/2025, answer due 4/4/2025. (Hommel, David) (Entered: 03/24/2025)"
+        },
+        {
+          "row_number": 4,
+          "id": 10244619,
+          "entry_number": "13",
+          "date_filed": "2025-03-24T00:00:00-04:00",
+          "attachments": null,
+          "url": "https://www.courtlistener.com/docket/69707419/13/fair-housing-justice-center-inc-v-brooklyn-boulevard-alp-llc/",
+          "recap_pdf_url": null,
+          "pacer_doc_id": "123022336392",
+          "description": "SUMMONS Returned Executed by Fair Housing Justice Center, Inc.. Queens Boulevard ALP, LLC served on 3/14/2025, answer due 4/4/2025. (Hommel, David) (Entered: 03/24/2025)"
+        },
+        {
+          "row_number": 6,
+          "id": 10244621,
+          "entry_number": "15",
+          "date_filed": "2025-04-03T00:00:00-04:00",
+          "attachments": null,
+          "url": "https://www.courtlistener.com/docket/69707419/15/fair-housing-justice-center-inc-v-brooklyn-boulevard-alp-llc/",
+          "recap_pdf_url": null,
+          "pacer_doc_id": "123022376982",
+          "description": "NOTICE of Appearance by David T. Luntz on behalf of All Defendants (aty to be noticed) (Luntz, David) (Entered: 04/03/2025)"
+        },
+        {
+          "row_number": 14,
+          "id": 10244628,
+          "entry_number": "22",
+          "date_filed": "2025-07-11T00:00:00-04:00",
+          "attachments": null,
+          "url": "https://www.courtlistener.com/docket/69707419/22/fair-housing-justice-center-inc-v-brooklyn-boulevard-alp-llc/",
+          "recap_pdf_url": "https://www.courtlistener.com/recap/gov.uscourts.nyed.528214/gov.uscourts.nyed.528214.22.0.pdf",
+          "pacer_doc_id": "123022710269",
+          "description": "Minute Entry for proceedings held before Magistrate Judge Peggy Kuo. Initial Conference held on July 11, 2025. David Hommel, Jr., Esq. and Kevin Cremin, Esq. appeared on behalf of plaintiff. David Luntz, Esq. appeared on behalf of defendants. The attached Scheduling Order was entered setting deadlines for discovery and other pretrial proceedings. The parties are directed to file a joint status report by December 1, 2025 reporting on the progress of discovery.The case is referred to the EDNY ADR Program for court-annexed mediation to be completed by September 30, 2025. The parties are directed to file a joint status report by October 2, 2025 regarding the result of mediation, and indicating, if mediation is not successful, whether they would like a settlement conference with the Court. The parties are encouraged to consent to Judge Kuo for all purposes going forward by filing the MJ Consent Form. The form should only be filed if all parties consent, and the parties may withhold consent without any adverse substantive consequences. Counsel are urged to discuss with their clients whether Magistrate Judge jurisdiction would be beneficial. (FTR Log: 3:20 - 3:28) (RO) (Entered: 07/14/2025)"
+        },
+        {
+          "row_number": 29,
+          "id": 10244629,
+          "entry_number": null,
+          "date_filed": "2025-04-03T00:00:00-04:00",
+          "attachments": null,
+          "url": "https://www.courtlistener.com",
+          "recap_pdf_url": null,
+          "pacer_doc_id": null,
+          "description": "ORDER granting 17 Motion for Extension of Time to Answer. The deadline for defendants to answer or otherwise respond to the Complaint is extended to May 13, 2025. Ordered by Magistrate Judge Peggy Kuo on 4/3/2025. (RO)"
+        },
+        {
+          "row_number": 32,
+          "id": 10244631,
+          "entry_number": null,
+          "date_filed": "2025-06-23T00:00:00-04:00",
+          "attachments": null,
+          "url": "https://www.courtlistener.com",
+          "recap_pdf_url": null,
+          "pacer_doc_id": null,
+          "description": "SCHEDULING ORDER: Due to the Court's unavailability, the Initial Conference scheduled for July 11, 2025 at 11:00 a.m. is adjourned to 3:00 p.m. in Courtroom 11C South before Magistrate Judge Peggy Kuo. Ordered by Magistrate Judge Peggy Kuo on 6/23/2025. (RO)"
+        },
+        {
+          "row_number": 34,
+          "id": 10244632,
+          "entry_number": null,
+          "date_filed": "2025-07-11T00:00:00-04:00",
+          "attachments": null,
+          "url": "https://www.courtlistener.com",
+          "recap_pdf_url": null,
+          "pacer_doc_id": null,
+          "description": "MEDIATION INSTRUCTIONS: Mediation instructions for counsel are available on the Court's website. Counsel should select a mediator and schedule the initial mediation session with their chosen mediator. Once scheduled, counsel must file their selection using the Selection of Mediator Form. A list of EDNY Panel Mediators is available on the Court's website. EDNY Mediators are compensated in accordance with EDNY Mediators are compensated in accordance with Local Civil Rule 83.8(f)(1). The Confidentiality Stipulation in-person or remote must be signed at or before the initial mediation session by all participants and the Mediator and returned via e-mail to nyed_adr@nyed.uscourts.gov. Upon completion of the mediation, both parties must submit a Mediation Report to the ADR Department. (JR)"
+        },
+        {
+          "row_number": 28,
+          "id": 10349964,
+          "entry_number": null,
+          "date_filed": "2025-04-03T00:00:00-04:00",
+          "attachments": null,
+          "url": "https://www.courtlistener.com",
+          "recap_pdf_url": null,
+          "pacer_doc_id": null,
+          "description": "Order on Motion for Extension of Time to Answer"
+        },
+        {
+          "row_number": 31,
+          "id": 10349965,
+          "entry_number": null,
+          "date_filed": "2025-06-20T00:00:00-04:00",
+          "attachments": null,
+          "url": "https://www.courtlistener.com",
+          "recap_pdf_url": null,
+          "pacer_doc_id": null,
+          "description": "1 - Terminate Hearings AND Order on Motion to Adjourn Conference AND ~Util - Set Hearings"
+        },
+        {
+          "row_number": 33,
+          "id": 10349966,
+          "entry_number": null,
+          "date_filed": "2025-06-23T00:00:00-04:00",
+          "attachments": null,
+          "url": "https://www.courtlistener.com",
+          "recap_pdf_url": null,
+          "pacer_doc_id": null,
+          "description": "1 - Terminate Deadlines and Hearings AND Scheduling Order"
+        },
+        {
+          "row_number": 36,
+          "id": 10349967,
+          "entry_number": null,
+          "date_filed": "2025-09-02T00:00:00-04:00",
+          "attachments": null,
+          "url": "https://www.courtlistener.com",
+          "recap_pdf_url": null,
+          "pacer_doc_id": null,
+          "description": "Selection of Mediator"
+        },
+        {
+          "row_number": 9,
+          "id": 10244624,
+          "entry_number": "18",
+          "date_filed": "2025-05-13T00:00:00-04:00",
+          "attachments": null,
+          "url": "https://www.courtlistener.com/docket/69707419/18/fair-housing-justice-center-inc-v-brooklyn-boulevard-alp-llc/",
+          "recap_pdf_url": "https://www.courtlistener.com/recap/gov.uscourts.nyed.528214/gov.uscourts.nyed.528214.18.0.pdf",
+          "pacer_doc_id": "123022515890",
+          "description": "ANSWER to 1 Complaint,,, by All Defendants. (Luntz, David) (Entered: 05/13/2025)"
+        },
+        {
+          "row_number": 12,
+          "id": 10244626,
+          "entry_number": "20",
+          "date_filed": "2025-06-19T00:00:00-04:00",
+          "attachments": null,
+          "url": "https://www.courtlistener.com/docket/69707419/20/fair-housing-justice-center-inc-v-brooklyn-boulevard-alp-llc/",
+          "recap_pdf_url": "https://www.courtlistener.com/recap/gov.uscourts.nyed.528214/gov.uscourts.nyed.528214.20.0.pdf",
+          "pacer_doc_id": "123022638271",
+          "description": "Letter MOTION to Adjourn Conference (with Plaintiff's consent) by Boulevard ALP Associates LLC, Brooklyn Boulevard ALP LLC, Louisiana Purchase LLC, David Marx, Frances Marx, Marx Development Group, LLC, Queens Boulevard ALP, LLC. (Luntz, David) (Entered: 06/19/2025)"
+        },
+        {
+          "row_number": 30,
+          "id": 10244630,
+          "entry_number": null,
+          "date_filed": "2025-06-20T00:00:00-04:00",
+          "attachments": null,
+          "url": "https://www.courtlistener.com",
+          "recap_pdf_url": null,
+          "pacer_doc_id": null,
+          "description": "ORDER granting 20 Motion to Adjourn Conference. The Initial Conference is adjourned to July 11, 2025, at 11:00 a.m. before Magistrate Judge Peggy Kuo in Courtroom 11C South of the United States Courthouse, 225 Cadman Plaza East, Brooklyn, New York.Any request for adjournment of this or any other conference must be made in writing on notice to opposing parties, and must disclose whether or not all parties consent. No request for adjournment will be considered unless made at least two (2) business days before the scheduled conference, except in the event of an emergency. Counsel with knowledge and authority must be present. Per diem counsel may not appear without prior permission of the Court. Ordered by Magistrate Judge Peggy Kuo on 6/20/2025. (JHY)"
+        },
+        {
+          "row_number": 22,
+          "id": 9445595,
+          "entry_number": null,
+          "date_filed": "2025-03-07T00:00:00-05:00",
+          "attachments": [],
+          "url": "https://www.courtlistener.com",
+          "recap_pdf_url": null,
+          "pacer_doc_id": null,
+          "description": "Quality Control Check - Summons"
+        },
+        {
+          "row_number": 23,
+          "id": 9445596,
+          "entry_number": null,
+          "date_filed": "2025-03-07T00:00:00-05:00",
+          "attachments": [],
+          "url": "https://www.courtlistener.com",
+          "recap_pdf_url": null,
+          "pacer_doc_id": null,
+          "description": "Case Assigned/Reassigned"
+        },
+        {
+          "row_number": 24,
+          "id": 9445597,
+          "entry_number": null,
+          "date_filed": "2025-03-07T00:00:00-05:00",
+          "attachments": [],
+          "url": "https://www.courtlistener.com",
+          "recap_pdf_url": null,
+          "pacer_doc_id": null,
+          "description": "Case Assigned to Judge Ramon E. Reyes, Jr and Magistrate Judge Peggy Kuo. Please download and review the Individual Practices of the assigned Judges, located on our website. Attorneys are responsible for providing courtesy copies to judges where their Individual Practices require such. (SDM)"
+        },
+        {
+          "row_number": 25,
+          "id": 9445598,
+          "entry_number": null,
+          "date_filed": "2025-03-07T00:00:00-05:00",
+          "attachments": [],
+          "url": "https://www.courtlistener.com",
+          "recap_pdf_url": null,
+          "pacer_doc_id": null,
+          "description": "Your proposed summons was not issued for one of the following reasons: If multiple defendants, there must me a rider attached to the summons with the name and addresses of all defendants included., Please correct and resubmit using Proposed Summons/Civil Cover Sheet. (SDM)"
+        },
+        {
+          "row_number": 11,
+          "id": 9445599,
+          "entry_number": "2",
+          "date_filed": "2025-03-07T00:00:00-05:00",
+          "attachments": [],
+          "url": "https://www.courtlistener.com/docket/69707419/2/fair-housing-justice-center-inc-v-brooklyn-boulevard-alp-llc/",
+          "recap_pdf_url": null,
+          "pacer_doc_id": "123022283641",
+          "description": "This attorney case opening filing has been checked for quality control. See the attachment for corrections that were made, if any. (SDM) (Entered: 03/07/2025)"
+        },
+        {
+          "row_number": 15,
+          "id": 9445600,
+          "entry_number": "3",
+          "date_filed": "2025-03-07T00:00:00-05:00",
+          "attachments": [],
+          "url": "https://www.courtlistener.com/docket/69707419/3/fair-housing-justice-center-inc-v-brooklyn-boulevard-alp-llc/",
+          "recap_pdf_url": null,
+          "pacer_doc_id": "123022283999",
+          "description": "Proposed Summons. Re 1 Complaint,,, by Fair Housing Justice Center, Inc. (Hommel, David) (Entered: 03/07/2025)"
+        },
+        {
+          "row_number": 16,
+          "id": 9445601,
+          "entry_number": "4",
+          "date_filed": "2025-03-10T00:00:00-04:00",
+          "attachments": [],
+          "url": "https://www.courtlistener.com/docket/69707419/4/fair-housing-justice-center-inc-v-brooklyn-boulevard-alp-llc/",
+          "recap_pdf_url": null,
+          "pacer_doc_id": "123022287682",
+          "description": "Summons Issued as to Brooklyn Boulevard ALP LLC, Louisiana Purchase LLC, David Marx, Frances Marx, Marx Development Group, LLC, Queens Boulevard ALP, LLC. (ENE) (Entered: 03/10/2025)"
+        },
+        {
+          "row_number": 18,
+          "id": 9445603,
+          "entry_number": "6",
+          "date_filed": "2025-03-10T00:00:00-04:00",
+          "attachments": [],
+          "url": "https://www.courtlistener.com/docket/69707419/6/fair-housing-justice-center-inc-v-brooklyn-boulevard-alp-llc/",
+          "recap_pdf_url": null,
+          "pacer_doc_id": "123022289772",
+          "description": "NOTICE of Appearance by Tanya Kessler on behalf of Fair Housing Justice Center, Inc. (notification declined or already on case) (Kessler, Tanya) (Entered: 03/10/2025)"
+        },
+        {
+          "row_number": 21,
+          "id": 10244615,
+          "entry_number": "9",
+          "date_filed": "2025-03-24T00:00:00-04:00",
+          "attachments": null,
+          "url": "https://www.courtlistener.com/docket/69707419/9/fair-housing-justice-center-inc-v-brooklyn-boulevard-alp-llc/",
+          "recap_pdf_url": null,
+          "pacer_doc_id": "123022336344",
+          "description": "SUMMONS Returned Executed by Fair Housing Justice Center, Inc.. Boulevard ALP Associates LLC served on 3/14/2025, answer due 4/4/2025. (Hommel, David) (Entered: 03/24/2025)"
+        },
+        {
+          "row_number": 1,
+          "id": 10244616,
+          "entry_number": "10",
+          "date_filed": "2025-03-24T00:00:00-04:00",
+          "attachments": null,
+          "url": "https://www.courtlistener.com/docket/69707419/10/fair-housing-justice-center-inc-v-brooklyn-boulevard-alp-llc/",
+          "recap_pdf_url": null,
+          "pacer_doc_id": "123022336367",
+          "description": "SUMMONS Returned Executed by Fair Housing Justice Center, Inc.. (Hommel, David) (Entered: 03/24/2025)"
+        },
+        {
+          "row_number": 2,
+          "id": 10244617,
+          "entry_number": "11",
+          "date_filed": "2025-03-24T00:00:00-04:00",
+          "attachments": null,
+          "url": "https://www.courtlistener.com/docket/69707419/11/fair-housing-justice-center-inc-v-brooklyn-boulevard-alp-llc/",
+          "recap_pdf_url": null,
+          "pacer_doc_id": "123022336377",
+          "description": "SUMMONS Returned Executed by Fair Housing Justice Center, Inc.. Louisiana Purchase LLC served on 3/14/2025, answer due 4/4/2025. (Hommel, David) (Entered: 03/24/2025)"
+        },
+        {
+          "row_number": 5,
+          "id": 10244620,
+          "entry_number": "14",
+          "date_filed": "2025-03-24T00:00:00-04:00",
+          "attachments": null,
+          "url": "https://www.courtlistener.com/docket/69707419/14/fair-housing-justice-center-inc-v-brooklyn-boulevard-alp-llc/",
+          "recap_pdf_url": null,
+          "pacer_doc_id": "123022336444",
+          "description": "SUMMONS Returned Executed by Fair Housing Justice Center, Inc.. Brooklyn Boulevard ALP LLC served on 3/14/2025, answer due 4/4/2025. (Hommel, David) (Entered: 03/24/2025)"
+        },
+        {
+          "row_number": 7,
+          "id": 10244622,
+          "entry_number": "16",
+          "date_filed": "2025-04-03T00:00:00-04:00",
+          "attachments": null,
+          "url": "https://www.courtlistener.com/docket/69707419/16/fair-housing-justice-center-inc-v-brooklyn-boulevard-alp-llc/",
+          "recap_pdf_url": null,
+          "pacer_doc_id": "123022377242",
+          "description": "WAIVER OF SERVICE Returned Executed by Marx Development Group, LLC, Queens Boulevard ALP, LLC, David Marx, Brooklyn Boulevard ALP LLC, Frances Marx, Louisiana Purchase LLC, Boulevard ALP Associates LLC. David Marx waiver sent on 3/14/2025, answer due 5/13/2025. (Luntz, David) (Entered: 04/03/2025)"
+        },
+        {
+          "row_number": 8,
+          "id": 10244623,
+          "entry_number": "17",
+          "date_filed": "2025-04-03T00:00:00-04:00",
+          "attachments": null,
+          "url": "https://www.courtlistener.com/docket/69707419/17/fair-housing-justice-center-inc-v-brooklyn-boulevard-alp-llc/",
+          "recap_pdf_url": null,
+          "pacer_doc_id": "123022377453",
+          "description": "Letter MOTION for Extension of Time to File Answer by Boulevard ALP Associates LLC, Brooklyn Boulevard ALP LLC, Louisiana Purchase LLC, David Marx, Frances Marx, Marx Development Group, LLC, Queens Boulevard ALP, LLC. (Luntz, David) (Entered: 04/03/2025)"
+        },
+        {
+          "row_number": 10,
+          "id": 10244625,
+          "entry_number": "19",
+          "date_filed": "2025-06-18T00:00:00-04:00",
+          "attachments": null,
+          "url": "https://www.courtlistener.com/docket/69707419/19/fair-housing-justice-center-inc-v-brooklyn-boulevard-alp-llc/",
+          "recap_pdf_url": null,
+          "pacer_doc_id": "123022637293",
+          "description": "Proposed Scheduling Order by Fair Housing Justice Center, Inc. (Attachments: # 1 Exhibit Proposed Confidentiality Order) (Hommel, David) (Entered: 06/18/2025)"
+        },
+        {
+          "row_number": 13,
+          "id": 10244627,
+          "entry_number": "21",
+          "date_filed": "2025-07-11T00:00:00-04:00",
+          "attachments": null,
+          "url": "https://www.courtlistener.com/docket/69707419/21/fair-housing-justice-center-inc-v-brooklyn-boulevard-alp-llc/",
+          "recap_pdf_url": null,
+          "pacer_doc_id": "123022708393",
+          "description": "PROTECTIVE ORDER: The proposed Confidentiality Order filed at [19-1] is so-ordered. Ordered by Magistrate Judge Peggy Kuo on 7/11/2025. (RO) (Entered: 07/11/2025)"
+        },
+        {
+          "row_number": 35,
+          "id": 10150748,
+          "entry_number": null,
+          "date_filed": "2025-07-14T00:00:00-04:00",
+          "attachments": [],
+          "url": "https://www.courtlistener.com",
+          "recap_pdf_url": null,
+          "pacer_doc_id": null,
+          "description": "Mediation Instructions"
+        }
+      ],
+      "docket_case_type": "cv",
+      "docket_year": 2025,
+      "docket_filing_number": 1256,
+      "is_main_docket": true,
+      "court": "Eastern District of New York",
+      "state": "New York",
+      "docket_office_number": "1",
+      "docket_number_manual": "1:25-cv-01256",
+      "scales_html": null,
+      "recap_link": "https://www.courtlistener.com/docket/69707419/fair-housing-justice-center-inc-v-brooklyn-boulevard-alp-llc/",
+      "is_active": true
+    },
+    "name": "Fair Housing Justice Center v. Brooklyn Boulevard",
+    "never_filed": false,
+    "non_docket_case_number": "",
+    "non_docket_case_number_type": null,
+    "non_docket_case_number_type_other": "",
+    "order_end_year": null,
+    "order_start_year": null,
+    "permanent_injunction": false,
+    "plaintiff_description": "non-profit housing  justice organization",
+    "plaintiff_type": [
+      {
+        "value": "Non-profit NON-religious organization"
+      }
+    ],
+    "prevailing_party": "None Yet / None",
+    "pro_se_status": "No",
+    "public_interest_lawyer": "Yes",
+    "related_cases": [],
+    "relief_natures": [
+      "None yet"
+    ],
+    "relief_nature_other": "",
+    "relief_sources": [
+      "None yet"
+    ],
+    "settlement_agreement": [],
+    "settlement_judgment_date": null,
+    "settlement_judgment_year": null,
+    "special_collections": [],
+    "special_case_type": [],
+    "state": "New York",
+    "summary": "<p>On March 5, 2025, the Fair Housing Justice Center (&ldquo;FHJC&rdquo;) filed this lawsuit in the United States District Court for the Eastern District of New York against two assisted living operators and their development and group. FHJC alleged that defendants refused to accept applications from prospective residents with disabilities who used wheelchairs, as well as individuals with incontinence, in violation of the Fair Housing Act, the Rehabilitation Act, and New York State and New York City Human Rights Laws. Represented by Eisenberg &amp; Baum LLP and Mobilization for Justice, Inc., plaintiffs sought declaratory and injunctive relief and punitive and compensatory damages.&nbsp;</p>\r\n<p>The case was assigned to Judge Ramon E. Reyes and Magistrate Judge Peggy Kuo.</p>\r\n<p>This case is ongoing. Magistrate Judge Kuo scheduled an initial conference for June 26, 2025.</p>",
+    "summary_published_date": "2025-04-09T09:44:45.663636-04:00",
+    "summary_short": "On March 5, 2025, the Fair Housing Justice Center (“FHJC”) filed this lawsuit in the United States District Court for the Eastern District of New York against two assisted living operators and their development and group. FHJC alleged that defendants refused to accept applications from prospective residents with disabilities who used wheelchairs, as well as individuals with incontinence, in violation of the Fair Housing Act, the Rehabilitation Act, and New York State and New York City Human Rights Laws.",
+    "summary_tiny": null,
+    "terminating_date": null,
+    "clearinghouse_link": "clearinghouse.net/case/46272",
+    "is_active": true,
+    "case_documents_url": "https://clearinghouse.net/api/v2/documents/?case=46272",
+    "case_dockets_url": "https://clearinghouse.net/api/v2/dockets/?case=46272",
+    "case_resources_url": "https://clearinghouse.net/api/v2/resources/?case=46272"
+  },
+  "documents": [
+    {
+      "date": null,
+      "date_is_estimate": false,
+      "date_not_available": false,
+      "description": null,
+      "document_source": null,
+      "document_status": null,
+      "document_type": null,
+      "order_type": null,
+      "citation_paren": null,
+      "cite_1_page": null,
+      "cite_1_reporter": null,
+      "cite_1_vol": null,
+      "cite_2_page": null,
+      "cite_2_reporter": null,
+      "cite_2_vol": null,
+      "cite_3_page": null,
+      "cite_3_reporter": null,
+      "cite_3_vol": null,
+      "citation_status": null,
+      "court": null,
+      "no_title": false,
+      "party_types": [],
+      "per_curium": false,
+      "is_core_document": true,
+      "id": 157467,
+      "file": null,
+      "title": null,
+      "text": null,
+      "document_type_other": null,
+      "external_url": null,
+      "ecf_number": null,
+      "clearinghouse_link": "clearinghouse.net/doc/157467"
+    },
+    {
+      "date": "2025-03-05",
+      "date_is_estimate": false,
+      "date_not_available": false,
+      "description": "",
+      "document_source": "RECAP",
+      "document_status": "Coding Complete",
+      "document_type": "Complaint",
+      "order_type": null,
+      "citation_paren": null,
+      "cite_1_page": null,
+      "cite_1_reporter": null,
+      "cite_1_vol": null,
+      "cite_2_page": null,
+      "cite_2_reporter": null,
+      "cite_2_vol": null,
+      "cite_3_page": null,
+      "cite_3_reporter": null,
+      "cite_3_vol": null,
+      "citation_status": "Not applicable",
+      "court": "Eastern District of New York",
+      "no_title": false,
+      "party_types": [
+        "Plaintiff"
+      ],
+      "per_curium": false,
+      "is_core_document": true,
+      "id": 157468,
+      "file": "https://clearinghouse-umich-production.s3.amazonaws.com/media/doc/157468.pdf",
+      "title": "Complaint",
+      "text": "Case 1:25-cv-01256     Document 1     Filed 03/05/25     Page 1 of 31 PageID #: 1\nUNITED STATES DISTRICT COURT \nEASTERN DISTRICT OF NEW YORK \n \n   \nFAIR HOUSING JUSTICE CENTER, INC.    \n       \nPlaintiff,   \n   \nCase No. 25-1256 \n \nCOMPLAINT \nv.   \n   \nBrooklyn Boulevard ALP LLC; Queens   \nBoulevard ALP, LLC, Louisiana Purchase LLC,      \nBoulevard ALP Associates LLC, Marx \nDevelopment Group, LLC, David Marx, and \nFrances Marx  \n \n    Defendants. \n \n   \n \nPlaintiff Fair Housing Justice Center, by its attorneys, Eisenberg & Baum, LLP and \nMobilization for Justice, Inc., alleges the following for its Complaint against Brooklyn \nBoulevard ALP LLC; Queens Boulevard ALP, LLC, Boulevard ALP Associates LLC, Marx \nDevelopment Group LLC, David Marx, and Frances Marx (collectively “Defendants”):   \nIntroduction \n1.  Defendants operate adult care facilities (“ACFs”), which are licensed and funded \nto provide housing and services to New Yorkers with disabilities. \n2.  Despite their purpose, Defendants refuse to admit applicants who use wheelchairs \nand who have incontinence.  Defendants’ unlawful policies exclude people with disabilities -- the \nvery people their housing programs are intended to serve. \n\nCase 1:25-cv-01256     Document 1     Filed 03/05/25     Page 2 of 31 PageID #: 2\n3.  The Fair Housing Justice Center (“FHJC”) started conducting a testing \ninvestigation in January 2022, uncovering discriminatory admission policies by Defendants.  \nFHJC testers posing as family members of individuals seeking housing were told that their \nfamily members would be refused admission by Defendants due to their disabilities.  \n4.  When FHJC testers inquired about admission for family members with certain \ndisabilities, admissions staff employed by Defendants discouraged their applications.  A \nrepresentative for Defendants’ facility in Brooklyn told a tester, “We’re not going to be able to \naccommodate the wheelchair in our facility.” The representative told another tester, “Somebody \ndoes need to be continent....they do need to go to the toilet on their own.”  An employee of \nDefendants’ facility in Queens told a tester, “[W]e cannot accept anybody in a wheelchair.” \n5.  FHJC has uncovered discriminatory statements on Defendants’ websites, stating \nthat the facilities do not “accept residents who are chronically in a wheelchair and chronically \nrequire the assistance of another person to transfer or ambulate” and that individuals “with \nchronic unmanaged incontinence are not eligible for residency.”   \n6.  Those baldly discriminatory statements remain on Defendants’ websites as of \nMarch 3, 2025, nearly two years after FHJC filed a complaint with the New York State Division \nof Human Rights, putting Defendants on notice that their practices remained discriminatory. \n7.  Defendants never offered reasonable accommodations or an interactive process to \ndetermine what accommodations the potential applicants with disabilities needed. \n8.  Defendants’ actions violate the Fair Housing Act, the Rehabilitation Act, the New \nYork State Human Rights Law, and the New York City Human Rights Law. \n \n\nCase 1:25-cv-01256     Document 1     Filed 03/05/25     Page 3 of 31 PageID #: 3\nJurisdiction and Venue \n9.  This Court has subject matter jurisdiction pursuant to 28 U.S.C. §§ 1331, 1343, 28 \nU.S.C. § 2201 and 42 U.S.C. § 3613.  This Court has supplemental jurisdiction over the New \nYork State and City law claims pursuant to 28 U.S.C. § 1367.   \n10.  Declaratory relief is authorized by 28 U.S.C. § 2201 and Rule 57 of the Federal \nRules of Civil Procedure.  Injunctive relief is authorized by 28 U.S.C. §§ 2201, 42 U.S.C. \n§12133, 42 U.S.C. § 12188(a), Rule 65 of the Federal Rules of Civil Procedure, N.Y. Exec. Law \n§ 297(9), and N.Y.C. Admin. Code § 8-502.  \n11.  Venue is proper in this District pursuant to 28 U.S.C. § 1391(b)(1) because \nPlaintiff and all Defendants are incorporated and conduct business in this District. In addition, \nvenue is proper in this Court pursuant to 28 U.S.C. § 1391(b)(2) because a substantial part of the \nevents giving rise to the claims occurred in this District.  This Court has supplemental \njurisdiction over the New York City law claims pursuant to 28 U.S.C. § 1367.   \nThe Parties \nThe Fair Housing Justice Center \n12.  Plaintiff FHJC is a non-profit organization dedicated to ensuring that all people \nhave equal access to housing opportunities in the greater New York City region by eliminating \nhousing discrimination and creating open and inclusive communities.  FHJC’s principal office is \nlocated in the Eastern District of New York. \n13.  Among other things, FHJC a) provides information to the public and other \nnonprofit organizations in the New York City regional area about fair housing laws; b) provides \nintake counseling to individuals and organizations who are potentially facing housing \ndiscrimination; c) conducts testing and other investigations of allegations of housing \n\nCase 1:25-cv-01256     Document 1     Filed 03/05/25     Page 4 of 31 PageID #: 4\ndiscrimination; d) makes legal referrals to cooperating attorneys; e) assists with the preparation \nand filing of administrative housing discrimination complaints; and f) provides post-referral \nlitigation support services.  FHJC provides these services free of charge and without regard to \nincome. \n14.  As for FHJC’s testing and investigational activities, Congress codified the fair \nhousing enforcement present in this case in establishing the Fair Housing Initiatives Program \n(“FHIP”) in Section 561 of the Housing and Community Development Act of 1987, Pub. L. 100-\n242, 101 Stat. 1942-44 (42 U.S.C. § 3616a). \n15.  Specifically, Congress established FHIP to support private nonprofit fair housing \nenforcement organizations by providing resources to conduct testing and “enforcement activities \nas appropriate to remedy [] violations.” 42 U.S.C. § 3616a; id. § 3616a(b)(2)(A)–(E) (listing \ntesting and enforcement activities); 24 C.F.R. §§ 125.103 & 125.401. \n16.  The FHJC receives FHIP funding and has for many years.  \n17.  Eradicating housing discrimination is “a policy Congress considered to be of the \nhighest priority.” Trafficante v. Metro. Life Ins. Co., 409 U.S. 205, 211 (1972); Texas Dep't of \nHous. & Cmty. Affairs v. Inclusive Communities Project, Inc., 576 U.S. 519, 524 (2015) (The \nFair Housing Act’s central purpose is to “eradicate discriminatory practices.”); Meyer v. Holley, \n537 U.S. 280, 290 (2003) (“overriding societal priority”); 42 U.S.C. § 3601 (“policy of the \nUnited States to provide . . . for fair housing throughout the United States”). Congress \nimplements this policy and mission through the FHIP Program by authorizing “testing” to \n“discover and remedy discrimination”. 42 U.S.C. § 3616a(b)(2)(A)-(B). \n18.  Private non-profit fair housing enforcement organizations under the FHIP, 42 \nU.S.C. § 3616a, have essentially the same statutory grant to initiate enforcement proceedings as \n\nCase 1:25-cv-01256     Document 1     Filed 03/05/25     Page 5 of 31 PageID #: 5\ndoes HUD, 42 U.S.C. § 3610, the Attorney General, id. § 3614, and state and local agencies. Id. \n§ 3610(f).1 \n19.  In other words, the fair housing testing under FHIP, which was used in the testing \nhere, constitutes a core business activity of FHJC. \n20.  Congress directed that FHIP grant funds be used for “testing”, to “discover and \nremedy discrimination”, and to fund “costs and expenses of litigation”. 42 U.S.C. § \n3616a(b)(2)(A), (B) & (E). FHJC required follow-up testing, which diverted FHJC’s use of grant \nfunds from other planned grant activities to conduct follow up tests and to initiate a remedial \naction to address Defendants’ blanket discriminatory rules. \n21.  To further its mission of promoting equal housing opportunities for people with \ndisabilities, FHJC engages in a number of additional activities, including helping individuals \nrequest reasonable accommodations or reasonable modifications and administering a housing \naccessibility fund that provides assistance to renters who need reasonable modifications to their \nhousing to make it accessible.   \n22.  For individuals who need reasonable accommodations or modifications, FHJC \nhelps them draft such requests, obtain related information such as medical support letters, \ndocument the response, and provide information about options if the request is denied. \n23.  For individuals who require financial assistance with reasonable modifications \nand may be assisted by the housing access fund, FHJC guides such individuals through the \n \n1 FHIP guidelines for testing and enforcement are set forth in HUD’s FHIP Application and \nAward Policies and Procedures Guide (Sept. 2017) (“AAPP”). The AAPP, like 42 U.S.C. § \n3616a, requires grant recipients to seek initiate enforcement actions; request “damages” and \n“appropriate remedies”; seek reimbursements for “diversion of resources” and “legal expenses”; \nand for “reimbursement of revolving funds where funds have supported successful litigation.” \nAAPP at 195-196. \n\nCase 1:25-cv-01256     Document 1     Filed 03/05/25     Page 6 of 31 PageID #: 6\napplication process, works with cooperating architects, and acts as project manager, retaining \narchitects and contractors as needed, communicating with housing providers about coverage of \nprojected costs, and negotiating with housing providers over payment for costs and related \ncontracts. \n24.  Thus, Defendants’ blanket discriminatory rules impair FHJC’s ability to help \nresidents who use wheelchairs or have incontinence to obtain reasonable accommodations or \nmodifications in Defendants’ facilities and to obtain assistance from the housing accessibility \nfund, because the Defendants bar admission of applicants with such disabilities. In other words, \nto access the fund, a prospective resident would need to access housing in the first instance. \n25.  Other FHJC activities include: providing presentations in FHJC’s 12-county \nservice area about its services and disability rights under federal, state and local laws; presenting \nwebinars for architects, engineers, developers and attorneys on accessibility requirements of the \nFair Housing Act;  attending community center gatherings, housing fairs and other events where \nFHJC staff can provide information about fair housing laws to consumers; contacting \norganizations working on disability-related housing issues or with renters or home buyers with \ndisabilities to provide information about federal, state and local fair housing laws and services \nprovided by FHJC, including the housing accessibility fund; and providing legal training for \nattorneys on housing discrimination matters in partnership with law firms and law schools.   \n26.  FHJC also conducts testing investigations for government law enforcement \nagencies, provides technical assistance to nonprofit organizations engaging in fair housing \nenforcement activities, and engages in policy initiatives that further FHJC’s mission, including \nthe publication and dissemination of reports and educational materials. \n\nCase 1:25-cv-01256     Document 1     Filed 03/05/25     Page 7 of 31 PageID #: 7\n27.  FHJC employs individuals as “testers,” who are persons that pose as home \nseekers for the purpose of obtaining information about the conduct of local governments, \nlandlords, real estate companies, agents, and others to determine whether illegal housing \ndiscrimination is taking place.   \n28.  FHJC has expended staff time and other resources to investigate and respond to \nDefendants’ discriminatory practices, which has diverted resources away from other FHJC \nactivities and the communities it serves.  \n29.  Defendants’ discriminatory practices are frustrating FHJC’s mission to ensure that \nall people have equal access to housing opportunities in the greater New York City region by, \namong other things, making housing unavailable because of disability discrimination. \nDefendants’ discriminatory policies and statements have directly caused FHJC to divert its \nresources. But for Defendants’ conduct, FHJC would not have needed to expend time and money \non investigating these specific facilities or educating the public about these issues to combat \ndiscrimination against wheelchair users and individuals with incontinence in ACFs. \nThe ACF Defendants \n30.  Defendant Brooklyn Boulevard ALP LLC operates Brooklyn Boulevard ALP, an \nACF located at 636 Louisiana Avenue, Brooklyn, NY 11239.  Brooklyn Boulevard ALP \n(“Brooklyn Boulevard”) is licensed as an enriched housing program to house up to 184 residents, \nincluding 184 residents in its Assisted Living Program (“ALP”). \n31.  Defendant Queens Boulevard ALP LLC operates Boulevard ALP, an ACF \nlocated at 71-61 159th Street, Flushing, NY 11365.  Boulevard ALP (“Queens Boulevard”) is \nlicensed as an enriched housing program to house up to 239 residents, including 200 residents in \nits ALP. \n\nCase 1:25-cv-01256     Document 1     Filed 03/05/25     Page 8 of 31 PageID #: 8\n32.  Defendant Louisiana Purchase LLC is the fee owner of Brooklyn Boulevard ALP. \n33.  Defendant Boulevard ALP Associates LLC is the fee owner of Boulevard ALP in \nQueens. \n34.   Upon information and belief, Defendant Marx Development Group LLC, through \nits principals David Marx and Frances Marx, has been involved in the development and \nfinancing of Boulevard ALP Associates LLC since at least 2010. Upon information and belief, \nMarx Development Group LLC maintains an ownership interest in Boulevard ALP Associates \nLLC and exercises control over its policies and practices, including those related to resident \nadmissions. Upon information and belief, David Marx is the owner and chief executive officer of \nMarx Development Group LLC.  Upon information and belief, funding for the development of \nthe ACFs is through David Marx’s mortgage companies. \n35.  Upon information and belief, Defendants Brooklyn Boulevard ALP LLC; Queens \nBoulevard ALP, LLC, Louisiana Purchase LLC, Boulevard ALP Associates LLC, and Marx \nDevelopment Group, LLC are New York corporations doing business in the District. \n36.  In 2010, Boulevard ALP Associates LLC entered a regulatory agreement with the \nUnited States Department of Housing and Urban Development, which required it to comply with \nState and local laws prohibiting discrimination in housing as well as with Federal Housing \nAdministration (FHA) regulations “providing for non-discrimination and equal opportunity in \nhousing.”  Boulevard ALP Associates LLC constructed the physical plant of its ACF with FHA \nloans.   \n \n \n \n\nCase 1:25-cv-01256     Document 1     Filed 03/05/25     Page 9 of 31 PageID #: 9\n \nFACTUAL ALLEGATIONS \nBackground on ACFs \n37.  ACFs were established to provide housing and services to individuals who are “by \nreason of physical or other limitations associated with age, physical or mental disabilities or \nother factors, substantially unable to live independently.”  N.Y. Soc Serv. Law § 2(21).   \n38.  Two types of ACFs are Enriched Housing Programs and Adult Homes. Id. \n39.  ACFs are required to enter admission agreements with their residents, setting the \nmonthly payment for room, board, and services, as well as the services to be provided.  See N.Y. \nComp. Codes R. & Regs. Tit. 18, § 485.7(d). \n40.  ACFs are required to provide an array of services to residents, including \nsupervision, personal care, medication management, and case management.  See N.Y.  Comp. \nCodes R. & Regs. Tit. 18, §§ 487.7, 488.7.   \n41.  ACFs receive state subsidies through the State Supplemental Payment program. \nACF residents who receive federal Supplemental Security Income qualify for a state supplement \nat a higher rate than individuals living on their own in the community. A person living alone in \nthe community receives a state supplement of $87, bringing their monthly income to $1,030. See \nN.Y. Soc. Serv. Law § 209(a) and (f). ACF residents receive a state supplement of $694, which \nprovides ACFs with a minimum monthly facility payment of $1,388. See id. at § 209(2)(e)-(f); § \n131-o. Residents who have other forms of income may agree to pay a higher monthly facility \npayment. \n42.  An ACF may operate an ALP for some or all of its residents.  An ACF must \nreceive approval from the New York State Department of Health to operate an ALP. \n\nCase 1:25-cv-01256     Document 1     Filed 03/05/25     Page 10 of 31 PageID #: 10\n43.  ALPs are licensed to serve people who might otherwise require placement in a \nnursing home.  See N.Y. Soc Serv. Law § 461-l. \n44.  ALPs are required to provide “at a minimum: room, board, housekeeping, \nsupervision, personal care, case management activities and home health services.” N.Y Comp. \nCodes R. & Regs. Tit. 18, § 494.5(a).  These services must be provided as part of “an organized, \n24-hour-a-day program of supervision, care and services.” N.Y. Comp. Codes R. & Regs. Tit. \n18, § 494.3(a). \n45.  ALPs are reimbursed by federal and state Medicaid funds for the following \nservices: home health aide services; personal emergency response services; nursing services; \nphysical therapy; occupational therapy; speech therapy; medical supplies and equipment not \nrequiring prior authorization; and adult day health care.  N.Y. Comp. Codes R. & Regs. Tit. 18 § \n494.5(b); N.Y. Soc. Serv. Law § 461-l(e). \n46.  In addition to the monthly facility rate that the resident pays for basic services, \nroom, and board, the Medicaid program pays ALPs a daily rate for each resident.  See N.Y. Soc. \nServ. Law § 461-l(1); N.Y. Pub. Health Law § 3614. \n47.  Medicaid pays Brooklyn Boulevard ALP between approximately $79.15 and \n$172.68 per ALP resident per day.  See 2023 ALP Rate Schedule, available at: \nhttps://www.health.ny.gov/facilities/long_term_care/reimbursement/alp/alp_2023_min_wage_ad\nd-on.htm \n48.  Medicaid pays Queens Boulevard ALP between approximately $82.11 and \n$163.88 per ALP resident per day.  See id. \nThe ACFs’ Discriminatory Policies  \nand Practices Against People Who Use Wheelchairs and/or Have Incontinence \n \n49.  Both Brooklyn Boulevard ALP and Queens Boulevard ALP have elevators. \n\nCase 1:25-cv-01256     Document 1     Filed 03/05/25     Page 11 of 31 PageID #: 11\n50.  Defendants advertise and implement policies refusing to accept applications to \nboth facilities from prospective residents who use wheelchairs. \n51.  Defendants advertise and implement policies refusing to accept applications to \nboth facilities from prospective residents who are incontinent. \n52.  Defendants deny prospective residents the opportunity to receive assisted living \nservices at both facilities based on their use of wheelchairs. \n53.  Defendants deny prospective residents the opportunity to receive assisted living \nservices at both facilities based on their incontinence. \n54.  Defendants make oral and written statements that discriminate against people who \nuse wheelchairs and against people who are incontinent. \n55.  Upon information and belief, Defendants fail to offer reasonable accommodations \nor engage in a cooperative dialogue regarding prospective residents’ needs for reasonable \naccommodations. \nTesting Investigations \nThe Brooklyn Boulevard Investigation \n56.  After receiving an allegation of discrimination on the basis of wheelchair use,2 \nFHJC started a testing investigation on or around January 21, 2022, assigning a tester to pose as \nsomeone inquiring about the availability of apartments for her brother.  On or around January 27, \n2022, a tester, S.B., spoke to “Adina Palmer,” the “Marketing/Admissions Director” at Brooklyn \nBoulevard ALP. \n \n2 This test was conducted in response to an allegation from a complainant in June 2020 that was \nreported to FHJC. \n\nCase 1:25-cv-01256     Document 1     Filed 03/05/25     Page 12 of 31 PageID #: 12\n57.  The tester asked about “the level of care,” noting that her brother lives very \nindependently but perhaps should not be living alone anymore.  The tester asked for information \non costs, meal plan, and social activities.  Ms. Palmer responded: “[R]esidents must be \nambulatory. That means that they have to be able to walk either with a cane or rollator. But they \nhave to be able to walk independently.” The tester explained: “[H]e’s been in a wheelchair for \nmany years… he’s pretty good, but he does use a wheelchair.” Ms. Palmer responded: “We’re \nnot going to be able to accommodate the wheelchair in our facility.” She further explained, “He \nwouldn’t be able to bring the wheelchair with him.”  \n58.  S.B. inquired about activities off-site and whether he'd have to be on the first \nfloor. The tester specifically asked: “Your elevator may or may not accommodate a wheelchair, \nthen, or…? Without offering specific answers to the tester’s inquiries, Ms. Palmer stated: “The \nwheelchair wouldn’t be in the building.”  \n59.  Before ending the call, Ms. Palmer offered to e-mail S.B. “a resource for other \nassisted living facilities.”  \n60.  On January 31, 2022, the FHJC assigned a different tester, L.D., to pose as \nsomeone inquiring about availability of apartments for her mother-in-law. She reached Ms. \nPalmer, who asked: “How does your mother-in-law ambulate? How does she get around? Does \nshe have a walker, cane, rollator?” The tester responded that her mother-in-law is ambulatory, \nand that she lives on her own, and could use help remembering to take her medications and eat. \nMs. Palmer responded, “OK, no problem. I’ll be happy to give you all the information.”  \n61.  About ten minutes into the phone call, L.D. asked what kind of medical and non-\nmedical services were available.  Ms. Palmer stated: “The primary assistance that we provide are \nreally what somebody would receive from a home attendant with the exception of wheelchair \n\nCase 1:25-cv-01256     Document 1     Filed 03/05/25     Page 13 of 31 PageID #: 13\nservices and incontinence care. Wheelchairs would not fit in our facility. And somebody does \nneed to be continent, meaning it’s ok if they are wearing pampers.  A lot of times they wear \npampers just for emergencies.  But they should not . . . there is a difference between just wearing \na pamper overnight just for an emergency, and actually, only using pampers.  Like exclusively, \nand not using the bathroom.  They do need to go to the toilet on their own. We do have home \nattendants that can come to assist them.  Let’s say they’re having trouble reaching something in \nthe bathroom.  Home attendants could come, but if diaper changes are required, that level of \ncare, usually, it’s a whole level of care, it’s a whole package in itself. And that wouldn’t be what \nour facility is, because we’re an assisted living, not a nursing home.” \n62.  After confirming that L.D.’s mother-in-law is ambulatory, Ms. Palmer offered to \nsend a video, brochures for the facility, an in-person tour, an assessment, and her business card. \n63.  On February 2, 2022, the FHJC assigned a tester, K.M., to pose as someone \ninquiring about the availability of apartments for her aunt.  On February 14, 2022, the tester \nspoke to Ms. Palmer, telling her that her aunt needs help with meals, socialization and \nmedications, and someone to check on her. Ms. Palmer responded, “Everything you said about \nyour aunt is literally like everything I need to hear.”  Ms. Palmer explained that services offered \ninclude assistance with medication, home care services during the day, and housekeeping, and \nencouraged K.M. to bring her aunt in for a tour.  She also offered to send K.M. a video of two-\nbedroom apartments and texted her a brochure for the facility and her business card.  When \ndiscussing whether her aunt would be able to age in place, Ms. Palmer stated that concept \napplied more in private homes and that assisted living was “about safety.”  Ms. Palmer told the \ntester if her aunt became a fall risk and was “not steady on her feet anymore” that would be the \ntime to look into a nursing home.   \n\nCase 1:25-cv-01256     Document 1     Filed 03/05/25     Page 14 of 31 PageID #: 14\n64.  FHJC also assigned a tester, K.H., to pose as someone inquiring about availability \nof apartments for her father-in-law. On February 15, 2022, on the phone, Ms. Palmer asked \n“[H]ow does he ambulate? Does he use a walker, a cane, a rollator?” The tester further stated: \n“He is able to, you know, he doesn’t need assistance – he can transfer himself really well. He’s \nvery strong in that way.” Ms. Palmer said, “[W]e don’t really have wheelchairs in our facility so \nthat is a big issue actually.” After the tester asked why, Ms. Palmer responded: “Residents need \nto be able to walk either with a cane or a rollator. We don’t push residents in our facility. So it \nwould be a big issue...We don’t really provide that level of care. And our home attendants \nwouldn’t be pushing them in a wheelchair.” The tester told Ms. Palmer, “[H]e doesn’t need \nassistance with being pushed in the wheelchair. He uses a powerchair mostly. And he can \ntransfer himself in and out of the chair into a bed or whatever.” Ms. Palmer asked “There’s no \nway he could try to learn how to use a rollator?” A few moments later, she said, “Most assisted \nlivings don’t usually have wheelchairs.” She said this is because “[i]t’s a certain level of care \n[…] sounds like he needs a higher level of care.” She further stated, “I mean, we’re wheelchair \naccessible....We do have a few residents who use scooters but they’re only allowed \noutdoors...Our facility is really not designed for constant wheelchair use.”    She advised K.H., \n“I’m more than happy to refer you to other places that I think might be a little more wheelchair-\ncompatible.”  She suggested a facility in the Bronx where she said she was “pretty sure they \nallow a wheelchair,” though K.H. said she was looking in Brooklyn, where her father-in-law has \nlived for thirty years.  She e-mailed K.H. a guide with listings of other facilities and the card for \nsenior care advisor to find other facilities. \n65.  During the course of its investigation of the Boulevard ACFs, FHJC uncovered \nidentical discriminatory statements on each of their websites’ “FAQ’s” sections: “I am confined \n\nCase 1:25-cv-01256     Document 1     Filed 03/05/25     Page 15 of 31 PageID #: 15\nto a wheelchair, can I still reside at Boulevard ALP?  Unfortunately, Boulevard ALP is unable to \naccept residents who are chronically in a wheelchair and chronically require the assistance of \nanother person to transfer or ambulate.”  See Exhibit A. \n66.  In addition, each website’s FAQs and the Boulevard admissions packet contain \nthe following statement: “Can a person with incontinence live at Boulevard ALP? If the \nincontinence is managed then a person may be eligible for residency at Boulevard ALP.  A \nperson with chronic unmanaged incontinence is not eligible for residency at Boulevard ALP.”  \nSee Exhibit B. \nThe Queens Boulevard Investigation \n67.  On February 15, 2022, the FHJC assigned a tester, U.C., to pose as someone \ninquiring about availability of apartments for his aunt. On February 16, 2022, the tester reached \nan employee named Elinor Taasa in the “Marketing and Admissions” department. After initially \ndiscussing services provided and the admissions process, the tester said: “Just one other thing, \nshe’s in a wheelchair...will that work?” He further clarified: “[S]he’s able to get out of the \nwheelchair and do what she needs to do...” Ms. Taasa responded: “The thing is, we don’t have \nanybody here on wheelchairs. We don’t have anybody to assist with the wheelchairs.”  U.C. \nexplained that his aunt used an electric wheelchair, and that she can transfer independently. After \nsome discussion, Ms. Taasa said, \"We can meet her, we can show her around.  We can see how \nshe walks if she chooses to . . . She’ll be the only one if she has [a wheelchair]”  She invited U.C. \nto call back after speaking with his aunt.  \n68.  During a subsequent conversation, Elinor suggested that wheelchair access was \nfeasible: “I spoke to our Director and everything. So basically, yeah, it’s fine, but we have to \nevaluate. So we’d have to see her, just like we have to see all the other potential residents. And \n\nCase 1:25-cv-01256     Document 1     Filed 03/05/25     Page 16 of 31 PageID #: 16\nwe’ll take it from there.”  This statement contradicted the discriminatory statements and \nmaterials published online, which reflect a categorical prohibition on admitting people who use \nwheelchairs.  \n69.  On February 23, 2022, U.C. called Ms. Taasa back. The tester said that his aunt \nlooked at the website and saw a statement that Boulevard ALP Queens does not take people in \nwheelchairs. The tester said his aunt’s main question is whether the assessment would require \nher to walk . Ms. Taasa responded: “Yes, I looked into it.  It would require her to be able to walk. \nAnd we cannot accept anybody in a wheelchair. So what you read is correct.”   When U.C. asked \nhow many steps his aunt would need to walk, Ms. Taasa responded, “At least 200 feet.” \n70.  On March 2, 2022, the FHJC assigned a tester, A.C., to pose as someone inquiring \nabout availability of apartments for her great-aunt. On March 4, 2022, A.C. reached an employee \nwho identified herself as Ms. Taasa.  A.C. told Ms. Taasa “My aunt is a wheelchair user. Do you \nknow if that’s something, you know, you’re accessible to?” Ms. Taasa responded: “So, we’re \nnot. The residents have to be able to walk with a walker or a rollator.....We just don’t accept with \na wheelchair.” She added: “You can refer to that on our website as well.” She concluded the call \nby clarifying that there is no one in the facility who uses a wheelchair, but that she would \n“doublecheck” about the wheelchair issue. \n71.  On March 7, 2022, the FHJC assigned a test coordinator, A.H., to pose as the \nsister of tester A.C., seeking clarification about the facility’s wheelchair access for her great-\naunt. She reached Ms. Taasa. This time, Ms. Taasa said, “I spoke to our Director and everything \n[…] basically, yeah, it’s fine, but we have to evaluate. So we’d have to see her, just like we have \nto see all the other potential residents.” The tester asked: “And what does that mean, ‘to \nevaluate’?” Ms. Taasa responded: “So basically we speak to the potential resident, we look at \n\nCase 1:25-cv-01256     Document 1     Filed 03/05/25     Page 17 of 31 PageID #: 17\ntheir medication list if they have it. We have them either walk for us or whatever, however way \nthey can ambulate. We show them the facility. We explain how everything works. We always \nmeet the potential resident.” She added that the assessment may lead to the prospective resident \nthemselves deciding that “it’s too much for me”. She added that if someone is “not stable \nenough” […] we would tell them that we don’t think that this person is appropriate. They need a \nhigher level of care […] various things come into play.”  \n72.  The website continued to state, as it does as of March 3, 2025, “Boulevard ALP is \nunable to accept residents who are chronically in a wheelchair and chronically require the \nassistance of another person to transfer or ambulate.”  See Exhibit A. \n73.  On March 9, 2022, the FHJC assigned a tester, C.B., to pose as someone inquiring \nabout availability of apartments for her mother-in-law. She reached Ms. Taasa. After some \nintroductory questions relating to the admissions process and age of the tester’s mother-in-law, \nMs. Taasa asked: “Is she able to walk?” C.B. said yes. Ms. Taasa continued providing \ninformation, offering to provide a tour, and adding later that her mother-in-law “sounds like \nshe’s a good candidate.” \n74.  On February 21, 2023, FHJC conducted further research into Boulevard ALP \nQueens to determine whether they continued to publish discriminatory statements on their \nwebsite. FHJC determined that Boulevard ALP Queens continued to post a statement saying that \npeople who use wheelchairs will not be admitted to their facility. FHJC further discovered an \nadmissions packet available for download on Boulevard ALP Queens’s website repeating the \ndiscriminatory statement. \n75.  FHJC has continued to check the website of the Boulevard ACFs regularly to \nverify whether the facilities have maintained postings of discriminatory statements. \n\nCase 1:25-cv-01256     Document 1     Filed 03/05/25     Page 18 of 31 PageID #: 18\nUnfortunately, they have.  The discriminatory statements in the facilities’ FAQs are still posted \nas of today. Defendants’ discriminatory policies and practices, as evidenced by their website \nstatements and interactions with testers, constitute an ongoing pattern of discrimination that has \ncontinued from at least February 2022 through the present day. \n76.  Given the prior tests and the website statements, there is evidence of an ongoing \npolicy or practice of discrimination, and these unlawful practices have continued to date. In other \nwords, there is an ongoing policy, and there were prior acts taken in furtherance of that policy, as \nevidenced by the testing. \n77.  Accordingly, a categorical prohibition to admit applicants who use wheelchairs \nand who have incontinence falsely conveys to prospective tenants that an individualized \nassessment is not available under governing law. Such false information directly interferes with \nFHJC’s mission and core business activities, including, among other things, a) the provision of \ninformation to the public and other nonprofit organizations in the New York City regional area \nabout fair housing laws; and b) the provision of intake counseling to individuals and \norganizations who are potentially facing housing discrimination. \nComplaints to the New York State Division of Human Rights \n78.  On February 24, 2023, FHJC filed complaints with the New York State Division \nof Human Rights (“Division of Human Rights”) against Defendants alleging discrimination on \nthe basis of wheelchair use in violation of the New York State Human Rights Law, based on the \ndiscriminatory conduct and statements uncovered during FHJC’s testing investigation. \n79.  Throughout the course of the Division of Human Rights’ investigation of FHJC’s \ncomplaints, Defendants maintained the discriminatory statements on their websites’ FAQs \nunchanged. \n\nCase 1:25-cv-01256     Document 1     Filed 03/05/25     Page 19 of 31 PageID #: 19\n80.  Upon information and belief, Defendants never responded to the Division of \nHuman Rights’ effort to settle the claims. \n81.  On March 8, 2024, the Division of Human Rights issued its final Investigation \nReports and Basis of Determination, with a finding of probable cause that Defendants \ndiscriminated on the basis of disability, specifically disabilities that require wheelchair use. \n82.  The Division of Human Rights’ reports noted that its Basis for Determination \nincluded recordings of statements by Defendants to FHJC testers as well as policies posted on \nDefendants’ websites. \n83.  On July 16, 2024, FHJC requested that the complaints with the Division of \nHuman Rights be dismissed for administrative convenience to pursue claims in federal court. \nDefendants failed to timely object to FHJC’s request. \n84.  On October 7, 2024, the Division of Human Rights granted FHJC’s request, \ndismissing the complaints against Defendants. \n85.  Even after the Division’s findings of probable cause, Defendants have continued \nto maintain discriminatory statements on their websites, amplifying Defendants’ intentional \ndiscrimination. \nCOUNT I \nFair Housing Act:   \nDiscrimination based on Disability \nU.S.C. § 3601 et seq. \n \n86.  Plaintiff repeats and realleges the foregoing paragraphs of its complaint as though \nfully set forth herein.  \n87.  Defendants own and lease dwellings, as defined by Section 802(b) of the Fair \nHousing Act, 42 U.S.C. § 3602(b), to include “any building, structure, or portion thereof which \nis occupied as, or designed or intended for occupancy as, a residence by one or more families.” \n\nCase 1:25-cv-01256     Document 1     Filed 03/05/25     Page 20 of 31 PageID #: 20\n88.  Defendants’ conduct, as described above, constitutes making, printing, or \npublishing, or causing to be made, printed, or published a notice, statement, or advertisement, \nwith respect to the rental of a dwelling that indicates a preference, limitation, or discrimination \nbased on disability, in violation of Section 804(c) of the Fair Housing Act, 42 U.S.C. § 3604(c). \n89.  Defendants’ conduct, as described above, constitutes representations made \nbecause of disability that a dwelling is not available for inspection or rent when such dwelling \nwas in fact so available, in violation of Section 804(d) of the Fair Housing Act, 42 U.S.C. § \n3604(d). \n90.  Defendants’ conduct, as described above, constitutes discrimination in the rental, \nor to otherwise make unavailable or deny, a dwelling to a renter because of disability, in \nviolation of Section 804(f)(1) of the Fair Housing Act, 42 U.S.C. § 3604(f)(1). \n91.  Defendants’ conduct, as described above, constitutes discrimination against any \nperson in the terms, conditions, or privileges of rental of a dwelling because of disability, in \nviolation of Section 804(f)(2) of the Fair Housing Act, 42 U.S.C. § 3604(f)(2). \n92.  Defendants’ conduct, as described above, further constitutes discrimination \nagainst persons with disabilities by refusing to make reasonable accommodations—or even \nconsider reasonable accommodation—in rules, policies, practices, or services, when such \naccommodations may be necessary to afford such person equal opportunity to use and enjoy a \ndwelling in violation of Section 804(f)(3)(B) of the FHA, 42 U.S.C. § 3604(f)(3)(B).  \n93.  Defendants rejected test applicants based on their need or desire to use a \nwheelchair (manual or electric) without making any reasonable accommodations—or even \nconsidering reasonable accommodations—that would allow the test applicants access to \nDefendants’ facilities.  Defendants discouraged applications by people with incontinence who \n\nCase 1:25-cv-01256     Document 1     Filed 03/05/25     Page 21 of 31 PageID #: 21\nmight require accommodations.  Instead, testers’ relatives were refused accommodation. For \nexample, when FHJC testers inquired about accommodations for wheelchair users, Defendants’ \nstaff categorically rejected the possibility without engaging in any interactive process to \ndetermine what accommodations might be necessary or feasible. Defendants failed to consider \npotential accommodations such as providing additional staff training on assisting wheelchair \nusers, modifying certain physical spaces to improve accessibility, or adjusting care plans to \naddress incontinence needs. \n94.  Defendants’ conduct, as described above, further constitutes discrimination \nagainst persons with disabilities by making unlawful inquiries into the nature and severity of an \nindividual’s disability in violation of 42 U.S.C. § 3604(f) as implemented by 24 C.F.R. \n§100.201(c). \n95.  Plaintiff is an aggrieved person as defined in 42 U.S.C. § 3602(i).  Plaintiff has \nbeen injured by Defendants’ discriminatory conduct and has suffered damages as a result.    \n96.  Defendants’ conduct is intentional, willful, and made in disregard for the rights of \nothers.  \n97.  Accordingly, under 42 U.S.C. § 3613(c), Plaintiff is entitled to actual damages, \npunitive damages, injunctive relief, and reasonable attorneys’ fees and costs. \nCOUNT II \nRehabilitation Act:   \nDiscrimination based on Disability by the Federally Funded Defendants \n \n98.  Plaintiff FHJC repeats and realleges the foregoing paragraphs of its complaint as \nthough fully set forth herein.  \n99.  Certain of Defendants’ programs and activities receive federal financial assistance \nthrough the Medicaid program. Specifically, Defendants Brooklyn Boulevard ALP LLC and \n\nCase 1:25-cv-01256     Document 1     Filed 03/05/25     Page 22 of 31 PageID #: 22\nQueens Boulevard ALP LLC receive federal financial assistance through Medicaid \nreimbursements for their Assisted Living Program services. These Medicaid funds are used to \nprovide housing and care services to residents, including those services that Defendants claim \nthey cannot provide to wheelchair users or individuals with incontinence. \n100.  The Rehabilitation Act prohibits entities that receive federal financial assistance \nfrom discriminating against people with disabilities. 29 U.S.C. § 794a (as amended). \n101.  Individuals who use wheelchairs and other mobility devices qualify as individuals \nwith disabilities under the Rehabilitation Act.  \n102.  Individuals who are incontinent qualify as individuals with disabilities under the \nRehabilitation Act. \n103.  As set forth above, Defendants discriminated against and continue to discriminate \nagainst qualified individuals with disabilities who use wheelchairs or other mobility devices by \nrefusing to admit them or retain them in their ACFs as a result of their disability.   \n104.  As set forth above, Defendants discriminated against and continue to discriminate \nagainst qualified individuals with disabilities who are incontinent by refusing to admit them or \nretain them in their ACFs as a result of their disability.   \n105.  These Defendants’ conduct, as set forth above, violates several provisions of the \nRehabilitation Act.  \n106.  For one, the Rehabilitation Act requires that Defendants administer their \nprograms in a manner that does not discriminate against people with disabilities and requires that \nthey provide people with disabilities equal access to benefits and services.   \n107.  It further prohibits Defendants from “utiliz[ing] criteria or methods of \nadministration the purpose or effect of which would … [d]efeat or substantially impair the \n\nCase 1:25-cv-01256     Document 1     Filed 03/05/25     Page 23 of 31 PageID #: 23\naccomplishment of the objectives of the recipient’s federally assisted program or activity for \nqualified individuals with a particular handicap. . . .”  24 C.F.R. § 8.4(b)(4). \n108.  Defendants violate at least these provisions of the Rehabilitation Act by \ncontinuing to refuse to admit or to retain disabled individuals who require the use of a wheelchair \n(manual or electric) or who are incontinent.  \n109.  Moreover, Defendants are required to make reasonable accommodations in \npolicies, practices, or procedures when accommodations are necessary to avoid discrimination on \nthe basis of disability.  29 U.S.C. § 794; 24 C.F.R. §§ 8.3, 8.4, and 8.20.  \n110.  Defendants have failed to make reasonable accommodations for individuals with \nmobility disabilities, including those who use wheelchairs (manual or electric) and those who are \nincontinent by failing to make changes to their policies, practices, or procedures that are \nnecessary for those individuals to participate in and enjoy the benefits of their ACFs and ALPs.   \n111.  Plaintiff FHJC is a “person aggrieved” under the Rehabilitation Act, 29 U.S.C. \n§ 794a(a)(2), and has been injured by the federally funded Defendants’ discriminatory conduct \nand has suffered damages.  \n112.  Plaintiff FHJC is entitled to compensatory damages, injunctive relief, and \nreasonable attorney’s fees, including litigation expenses and costs.  29 U.S.C.A. § 794a. \nCOUNT III \nNew York State Human Rights Law \n(New York Administrative Code § 296 et seq.) \n \n113.  Plaintiff repeats and realleges the foregoing paragraphs of its complaint as though \nfully set forth herein. \n\nCase 1:25-cv-01256     Document 1     Filed 03/05/25     Page 24 of 31 PageID #: 24\n114.  Defendants own and lease housing accommodations, as defined by Article 15 of \nthe New York Executive Law Section § 292(10) to include “any building . . . which is used or \noccupied . . . as the home, residence or sleeping place of one or more human beings.” \n115.  Defendants’ conduct, as described above, constitutes refusing to rent or lease, or \notherwise denying or withholding a housing accommodation or the representation that a housing \naccommodation is not available for inspection, rental, or lease when in fact it is so available, \nbased on disability in violation of Article 15 of the New York Executive Law § 296(5)(a)(1).  \n116.  Defendants’ conduct, as described above, constitutes discrimination in the terms, \nconditions or privileges of rental or lease of a housing accommodation or in the furnishing of \nfacilities or services in connection therewith based on disability in violation of Article 15 of the \nNew York Executive Law § 296(5)(a)(2). \n117.  Defendants’ conduct, as described above, constitutes printing or circulating or \ncausing to be printed or circulated a statement, advertisement, publication, or using a form of \napplication for rental, or making a record or inquiry in conjunction with a prospective rental, \nwhich expresses, directly or indirectly, a limitation, specification, or discrimination, or an intent \nto make such limitation, specification, or discrimination based on disability in violation of \nArticle 15 of the New York Executive Law § 296(5)(a)(3). \n118.  Plaintiff has been injured by Defendants’ discriminatory conduct and has suffered \ndamages as a result.    \n119.  Defendants’ conduct was intentional, willful, and made in reckless disregard for \nthe rights of others.   \n \n \n\nCase 1:25-cv-01256     Document 1     Filed 03/05/25     Page 25 of 31 PageID #: 25\nCOUNT IV  \nNew York City Human Rights Law: \nDiscrimination based on Disability, Religion, Race, and Color \n(New York Administrative Code § 8-107 et seq.) \n120.  Plaintiff repeats and realleges the foregoing paragraphs of its complaint as though \nfully set forth herein. \n121.  Defendants’ facilities have been places of public accommodation as defined by \nSection 8-102(9) of the New York City Administrative Code \n122.  Defendants own and lease housing accommodations, as defined by Section 8-\n102(10) of the New York City Administrative Code to include “any building . . . which is used or \noccupied . . . as the home, residence or sleeping place of one or more human beings.” \n123.  The New York Court of Appeals has recognized that “the NYCHRL was intended \nto be more protective than the state and federal counterparts . . . with the aim of making it the \nmost progressive in the nation.” Makinen v. City of N.Y., 30 N.Y.3d 81, 88 (N.Y. 2017) (cleaned \nup). In Williams v. N.Y.C. Hous. Auth., 61 A.D.3d 62 (1st Dep’t 2009), for example, the \nAppellate Division “adopt[ed] a new . . . standard for determining liability” in favor of a new \nstandard “that ‘is most faithful to the uniquely broad and remedial purposes of [the statute]’”—\neven “without any input from the parties concerned.” Id. at 83 (Andrias, J., concurring); see also \nid. at 78. The majority opinion in Williams was one of three opinions ratified by the Restoration \nAct as having “correctly understood and analyzed the liberal construction requirement of . . . [8-\n130] and that have developed legal doctrines accordingly that reflect the broad and remedial \npurposes of [the NYCHRL].” N.Y.C. Admin. Code § 8-130(c). \n124.  Defendants’ conduct, as described above, constitutes refusing to rent or lease, \nrefusing to approve the rental or lease, or otherwise denying or withholding a housing \n\nCase 1:25-cv-01256     Document 1     Filed 03/05/25     Page 26 of 31 PageID #: 26\naccommodation because of disability, in violation of New York Administrative Code § 8-\n107(5)(a)(1).   \n125.  Defendants’ conduct, as described above, constitutes discrimination in the terms, \nconditions, or privileges of the rental of a housing accommodation because of disability, in \nviolation of New York Administrative Code § 8-107(5)(a)(2).    \n126.  Defendants’ conduct, as described above, constitutes declaring, printing, or \ncirculating a statement, advertisement, publication, or using a form of application for rental, or \nmaking a record or inquiry in conjunction with a prospective rental, which expresses, directly or \nindirectly, a limitation, specification, or discrimination, or an intent to make such limitation, \nspecification, or discrimination based on disability in violation of New York Administrative \nCode § 8-107(5)(a)(3).    \n127.  Plaintiff has been injured by Defendants’ discriminatory conduct and has suffered \ndamages as a result.    \n128.  Defendants’ conduct was intentional, willful, and made in disregard for the rights \nof others.   \n129.  Accordingly, under the New York Administrative Code § 8-502(a) and (f), \nPlaintiff is entitled to actual damages, punitive damages, injunctive relief, and reasonable \nattorneys’ fees and costs. \n130.  Plaintiff is complying with the notice requirements of the New York City Human \nRights Law by serving a copy of the complaint upon the City Commission on Human Rights and \nCorporation Counsel on March 5, 2025, contemporaneously with the filing of this action, \npursuant to the New York City Administrative Code § 8-502(c). \n \n\nCase 1:25-cv-01256     Document 1     Filed 03/05/25     Page 27 of 31 PageID #: 27\nPRAYER FOR RELIEF \nWHEREFORE, Plaintiff respectfully requests that judgment be entered against Defendants as \nfollows: \n(a)  Declaring that Defendants’ discriminatory practices violate the Fair Housing Act, \nas amended, 42 U.S.C. § 3601 et seq., Section 504 of the Rehabilitation Act of \n1973, 29 U.S.C. § 794, the New York State Human Rights Law, New York \nExecutive Law § 290 et seq.; and the New York City Human Rights Law, New \nYork Administrative Code § 8-107 et seq. \n(b)  Enjoining Defendants and their agents, employees, and successors, and all other \npersons in active concert or participation from discriminating on the basis of \ndisability, including the following: \n(i)  Making, printing, or publishing, or causing to be made, printed, or \npublished a notice, statement, or advertisement, with respect to the \nrental of a dwelling that indicates a preference, limitation, or \ndiscrimination;  \n(ii)  Representing to any person that a dwelling is not available for \ninspection or rental when such dwelling is in fact available; \n(iii)  Denying or withholding housing or otherwise making housing \nunavailable on the basis of disability;  \n(iv)  Discriminating in the terms, conditions, or privileges of rental; \n(v)  Refusing to make reasonable accommodations in rules, policies, \npractices, or services, when such accommodations may be \nnecessary to afford equal opportunity to use and enjoy a dwelling; \n\nCase 1:25-cv-01256     Document 1     Filed 03/05/25     Page 28 of 31 PageID #: 28\n(vi)  Refusing to administer programs in a manner that does not \ndiscriminate against people with disabilities;  \n(vii)  Refraining from inquiring about a potential resident’s use of a \nwheelchair or other assistive mobility devices or incontinence \nduring the application process, including during the site tour or in \nthe application materials; initial telephone inquiries, tours, \nmeetings or other informal interactions occurring before an \nassessment that is intended to develop a plan of care and determine \nany necessary accommodations; and  \n(viii)  Using criteria or methods of administration the purpose or effect of \nwhich would defeat or substantially impair the accomplishment of \nthe objectives of their federally assisted program or activity for \nqualified individuals with a particular handicap.  \n(c)  Enjoining Defendants and their agents, employees, and successors, and all other \npersons in active concert or participation to take all affirmative steps necessary to \nremedy the effects of the illegal discriminatory conduct alleged in this Complaint \nand to prevent repeated occurrences in the future.  Such affirmative steps should \ninclude, but are not limited to, the following: \n(d)  Make all necessary modifications to their policies, practices, and procedures to \ncomply with the Fair Housing Act, the Rehabilitation Act, the New York State \nHuman Rights Law; and the New York City Human Rights Law. \n(i)  Eliminate the use of a “no wheelchair” policy; \n(ii)  Eliminate the use of a “no motorized wheelchair” policy;  \n\nCase 1:25-cv-01256     Document 1     Filed 03/05/25     Page 29 of 31 PageID #: 29\n(iii)  Eliminate any policies that preclude the use of other mobility \ndevices; \n(iv)  Eliminate the use of a policy barring individuals who are \nincontinent; \n(v)  Develop appropriate criteria for pre-admission screening of ACF \nresidents based solely on resident suitability factors (e.g., level of \nneeded assistance with activities of daily living); \n(vi)  Develop appropriate, non-discriminatory procedures for \nreadmission of ACF residents who already have admission \nagreements;  \n(vii)  Adopt an anti-discrimination policy prohibiting discrimination \nbased on race, religion, sex, sexual orientation, national original, \ngenetic information, and disability, and in particular the use of \nwheelchairs and other mobility devices or the use of incontinence \naids; \n(viii)  Train all management, agents, and employees on the Fair Housing \nAct, the Rehabilitation Act, New York State Human Rights Law; \nand New York City Human Rights Law; \n(ix)  Advertise available apartments and rooms and/or other available \nplacements in a non-discriminatory manner, including displaying \nan Equal Housing Opportunity logo (or statement to that effect) on \nall print and internet advertisements and displaying in all offices \nand facility buildings appropriate fair housing law posters; \n\nCase 1:25-cv-01256     Document 1     Filed 03/05/25     Page 30 of 31 PageID #: 30\n(x)  Use human models on websites and in other marketing materials \nthat depict residents with mobility disabilities, including residents \nwho use wheelchairs; \n(xi)  Allow monitoring of their application, admission and retention \nprocess; \n(xii)  Retain advertising, application, admission, and retention records to \nallow for appropriate monitoring;  \n(xiii)  Develop written procedures on application, admission and \nretention process and fair housing policy to be distributed to all \nemployees, agents, residents, and applicants;  \n(xiv)  Establish a system for testing agents and employees for unlawful \ndiscriminatory practices; and \n(xv)  Submit any changes to Defendants’ admissions policies for FHJC \nand court approval. \n(e)  Awarding such damages to Plaintiff FHJC as will fully compensate for the \ndiversion of resources and frustration of mission caused by Defendants’ unlawful \npractices;   \n(f)  Awarding punitive damages to Plaintiff;  \n(g)  Awarding Plaintiff reasonable attorneys’ fees, costs, and expenses incurred in \nprosecuting this action; \n(h)  Granting Plaintiff such other further relief as may be just and proper. \n \n \n\nCase 1:25-cv-01256     Document 1     Filed 03/05/25     Page 31 of 31 PageID #: 31\nJURY DEMAND \nPlaintiff hereby demands a trial on the merits by jury pursuant to Fed. R. Civ. P. 38.   \n \n \nDated: New York, New York \n  March 5, 2025 \n \n \nEISENBERG & BAUM LLP \n           \nBy:_/s/ David John Hommel____________                                                     \nDavid John Hommel \nAndrew Rozynski \nReyna Lubin \n24 Union Square East, PH              \nNew York, New York 10003 \n(212) 353-8700 \n \nMOBILIZATION FOR JUSTICE, INC.  \n \n           \nBy:_/s/ Tanya Kessler__________________                                                     \nTanya Kessler, Esq. (TK-0940), of counsel  \nto Tiffany Liston, Esq. \nJota Borgmann, Esq. (JB-1227) \nKevin M. Cremin, Esq. (KC-4319) \n100 William Street, 6th Floor \nNew York, NY 10038 \n(212) 417-3811 \n \nAttorneys for Plaintiff ",
+      "document_type_other": null,
+      "external_url": "https://www.courtlistener.com/docket/69707419/1/fair-housing-justice-center-inc-v-brooklyn-boulevard-alp-llc/",
+      "ecf_number": "1",
+      "clearinghouse_link": "clearinghouse.net/doc/157468"
+    }
+  ],
+  "document_count": 2
+}

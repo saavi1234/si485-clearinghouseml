@@ -1,0 +1,975 @@
+{
+  "case_id": 12407,
+  "fetched_at": "2025-10-22T00:18:37.215369",
+  "case_data": {
+    "attorney_orgs": [
+      "MALDEF"
+    ],
+    "available_documents": [
+      "Trial Court Docket",
+      "Injunctive (or Injunctive-like) Relief"
+    ],
+    "case_defendants": [
+      {
+        "defendant_level": null,
+        "institution": "",
+        "institution_alt_state": null,
+        "institution_city": "",
+        "institution_county": null,
+        "name": "Illinois Department of Children and Family Services",
+        "defendant_level_other": "",
+        "is_active": true
+      }
+    ],
+    "case_ongoing": "Yes",
+    "case_status": "Approved",
+    "case_types": [
+      "Child Welfare"
+    ],
+    "cause_other": "",
+    "causes": [
+      "42 U.S.C. § 1983",
+      "Title VI, Civil Rights Act of 1964, 42 U.S.C. § 2000d et seq."
+    ],
+    "class_action_granted": "Granted",
+    "class_action_sought": "Yes",
+    "closing_year": null,
+    "constitutional_clause": [
+      {
+        "value": "Equal Protection"
+      }
+    ],
+    "content_of_injunction": [
+      {
+        "value": "Hire"
+      },
+      {
+        "value": "Discrimination Prohibition"
+      },
+      {
+        "value": "Develop anti-discrimination policy"
+      },
+      {
+        "value": "Other requirements regarding hiring, promotion, retention"
+      },
+      {
+        "value": "Reporting"
+      },
+      {
+        "value": "Monitor/Master"
+      },
+      {
+        "value": "Recordkeeping"
+      },
+      {
+        "value": "Auditing"
+      },
+      {
+        "value": "Monitoring"
+      },
+      {
+        "value": "Goals (e.g., for hiring, admissions)"
+      }
+    ],
+    "court": "Northern District of Illinois",
+    "custom_issues": [],
+    "defendant_payment": "unknown",
+    "defendant_type": [
+      {
+        "value": "Jurisdiction-wide"
+      }
+    ],
+    "docket_status": "Incomplete",
+    "facility_type": [],
+    "filing_date": "1975-11-20",
+    "filing_year": 1975,
+    "id": 12407,
+    "injunction_duration": "",
+    "issues": [
+      "General/Misc.: Family reunification",
+      "General/Misc.: Foster care (benefits, training)",
+      "General/Misc.: Language access/needs",
+      "General/Misc.: Parents (visitation, involvement)",
+      "Discrimination Basis: Language discrimination",
+      "Discrimination Basis: Race discrimination",
+      "Affected National Origin/Ethnicity(s): Hispanic",
+      "Affected Language(s), Affected National Origin/Ethnicity(s): Spanish",
+      "Discrimination Basis: National origin discrimination",
+      "Discrimination Basis: Family discrimination",
+      "Discrimination Area: Disparate Impact",
+      "Discrimination Area: Disparate Treatment"
+    ],
+    "last_checked_date": "2021-11-05T00:00:00-04:00",
+    "main_docket": {
+      "id": 30966,
+      "docket_entries": [
+        {
+          "row_number": 25,
+          "id": 2057741,
+          "entry_number": "21",
+          "date_filed": "2019-06-25T01:00:00-04:00",
+          "attachments": [],
+          "url": "https://www.courtlistener.com/docket/14983773/21/burgos-v-dcfs/",
+          "recap_pdf_url": "https://www.courtlistener.com/recap/gov.uscourts.ilnd.153126/gov.uscourts.ilnd.153126.21.0_2.pdf",
+          "pacer_doc_id": "067022609417",
+          "description": "EXECUTIVE COMMITTEE ORDER: Case reassigned to the Honorable Gary Feinerman for all further proceedings. Honorable James B. Zagel no longer assigned to the case. Signed by Executive Committee on 6/25/2019.(cc, ) (Entered: 06/25/2019)"
+        },
+        {
+          "row_number": 0,
+          "id": 1570241,
+          "entry_number": "1",
+          "date_filed": "1993-12-17T00:00:00-05:00",
+          "attachments": null,
+          "url": "nan",
+          "recap_pdf_url": null,
+          "pacer_doc_id": null,
+          "description": "COURT'S MONITOR'S REPORT (Exhibits) ; notice of filing. (fce) (Entered: 12/20/1993)"
+        },
+        {
+          "row_number": 6,
+          "id": 1570247,
+          "entry_number": "2",
+          "date_filed": "1996-08-15T00:00:00-04:00",
+          "attachments": null,
+          "url": "nan",
+          "recap_pdf_url": null,
+          "pacer_doc_id": null,
+          "description": "ATTORNEY APPEARANCE for plaintiffs by Patricia Mendoza with Rule 39 Affidavit (eav) (Entered: 08/16/1996)"
+        },
+        {
+          "row_number": 7,
+          "id": 1570248,
+          "entry_number": "3",
+          "date_filed": "1997-07-25T00:00:00-04:00",
+          "attachments": null,
+          "url": "nan",
+          "recap_pdf_url": null,
+          "pacer_doc_id": null,
+          "description": "MOTION by plaintiffs to extend court monitor appointment (Exhibits); Notice of motion (hp) (Entered: 08/12/1997)"
+        },
+        {
+          "row_number": 8,
+          "id": 1570249,
+          "entry_number": "5",
+          "date_filed": "1999-11-12T00:00:00-05:00",
+          "attachments": null,
+          "url": "nan",
+          "recap_pdf_url": null,
+          "pacer_doc_id": null,
+          "description": "AGREED MOTION by plaintiffs' to present monitor's report, workplan, and other relief (Attachments); Notice. (vmj) (Entered: 11/26/1999)"
+        },
+        {
+          "row_number": 9,
+          "id": 1570250,
+          "entry_number": "6",
+          "date_filed": "1999-11-18T00:00:00-05:00",
+          "attachments": null,
+          "url": "nan",
+          "recap_pdf_url": null,
+          "pacer_doc_id": null,
+          "description": "MINUTE ORDER of 11/18/99 by Hon. James B. Zagel: Plaintiffs' motion to present monitor's report, workplan, and other relief is granted [5−1]. No notice (vmj) (Entered: 11/26/1999)"
+        },
+        {
+          "row_number": 10,
+          "id": 1570251,
+          "entry_number": "7",
+          "date_filed": "1999-12-01T00:00:00-05:00",
+          "attachments": null,
+          "url": "nan",
+          "recap_pdf_url": null,
+          "pacer_doc_id": null,
+          "description": "MINUTE ORDER of 12/1/99 by Hon. James B. Zagel: (Entered Agreed Order to file Monitor's report and Workplan, instanter, and for provision of services). No notice (vmj) (Entered: 01/28/2000)"
+        },
+        {
+          "row_number": 11,
+          "id": 1570252,
+          "entry_number": "8",
+          "date_filed": "2003-07-17T00:00:00-04:00",
+          "attachments": null,
+          "url": "https://ecf.ilnd.uscourts.gov/doc1/06713062816?caseid=153126&de_seq_num=15&pdf_header=1&pdf_toggle_possible=1",
+          "recap_pdf_url": null,
+          "pacer_doc_id": null,
+          "description": "MOTION by plaintiffs to withdraw Patricia Mendoza and to substitute counsel Maria Valdez and Alonzo Rivas ; Notice of motion (eav) (Entered: 07/31/2003)"
+        },
+        {
+          "row_number": 12,
+          "id": 1570253,
+          "entry_number": "10",
+          "date_filed": "2003-07-17T00:00:00-04:00",
+          "attachments": null,
+          "url": "https://ecf.ilnd.uscourts.gov/doc1/0671321692?caseid=153126&de_seq_num=17&pdf_header=1&pdf_toggle_possible=1",
+          "recap_pdf_url": null,
+          "pacer_doc_id": null,
+          "description": "ATTORNEY APPEARANCE for plaintiffs by Maria Valdez and Alonzo Rivas (eav) (Entered: 07/31/2003)"
+        },
+        {
+          "row_number": 13,
+          "id": 1570254,
+          "entry_number": "9",
+          "date_filed": "2003-07-22T00:00:00-04:00",
+          "attachments": null,
+          "url": "https://ecf.ilnd.uscourts.gov/doc1/06713062541?caseid=153126&de_seq_num=16&pdf_header=1&pdf_toggle_possible=1",
+          "recap_pdf_url": null,
+          "pacer_doc_id": null,
+          "description": "MINUTE ORDER of 7/22/03 by Hon. James B. Zagel : Motion to withdraw and substitute counsel is granted. [8−1] The appearance of Patricia Mendoza is withdrawn. No notices mailed (eav) (Entered: 07/31/2003)"
+        },
+        {
+          "row_number": 14,
+          "id": 1570255,
+          "entry_number": "11",
+          "date_filed": "2005-05-19T00:00:00-04:00",
+          "attachments": null,
+          "url": "https://ecf.ilnd.uscourts.gov/doc1/0670784388?caseid=153126&de_seq_num=6998238&pdf_header=1&pdf_toggle_possible=1",
+          "recap_pdf_url": null,
+          "pacer_doc_id": null,
+          "description": "MOTION by Plaintiffs to withdraw and substitute counsel(gma, ) Additional attachment(s) added on 5/20/2005 (gma, ). (Entered: 05/20/2005)"
+        },
+        {
+          "row_number": 15,
+          "id": 1570256,
+          "entry_number": "12",
+          "date_filed": "2005-05-19T00:00:00-04:00",
+          "attachments": null,
+          "url": "https://ecf.ilnd.uscourts.gov/doc1/06713402883?caseid=153126&de_seq_num=6998241&pdf_header=1&pdf_toggle_possible=1",
+          "recap_pdf_url": null,
+          "pacer_doc_id": null,
+          "description": "NOTICE of Motion by Alonzo Rivas for presentment of MOTION by Plaintiffs to withdraw and substitute counsel 11 before Honorable James B. Zagel on 5/24/2005 at 10:15 AM. (gma, ) (Entered: 05/20/2005)"
+        },
+        {
+          "row_number": 16,
+          "id": 1570257,
+          "entry_number": "13",
+          "date_filed": "2005-05-24T00:00:00-04:00",
+          "attachments": null,
+          "url": "https://ecf.ilnd.uscourts.gov/doc1/0671841056?caseid=153126&de_seq_num=6998244&pdf_header=1&pdf_toggle_possible=1",
+          "recap_pdf_url": null,
+          "pacer_doc_id": null,
+          "description": "MINUTE entry before Judge James B. Zagel : Motion to withdraw 11 the appearance of Maria Valdez as attorney for all the plaintiffs is granted. Mailed notice (eav, ) (Entered: 06/01/2005)"
+        },
+        {
+          "row_number": 17,
+          "id": 1570258,
+          "entry_number": "14",
+          "date_filed": "2006-03-24T00:00:00-05:00",
+          "attachments": null,
+          "url": "https://ecf.ilnd.uscourts.gov/doc1/06712730310?caseid=153126&de_seq_num=6998248&pdf_header=1&pdf_toggle_possible=1",
+          "recap_pdf_url": null,
+          "pacer_doc_id": null,
+          "description": "MINUTE entry before Judge James B. Zagel : MOTION by Plaintiffs Leopoldo Burgos, Iris Burgos, Miguel Mendez, Idanina Mendez to substitute attorney is granted. MOTION by Plaintiffs Leopoldo Burgos, Iris Burgos, Miguel Mendez, Idanina Mendez to withdraw as attorney 11 is granted. Maria Valdez terminated. (drw, ) (Entered: 03/26/2006)"
+        },
+        {
+          "row_number": 18,
+          "id": 1570259,
+          "entry_number": "15",
+          "date_filed": "2006-08-04T00:00:00-04:00",
+          "attachments": null,
+          "url": "https://ecf.ilnd.uscourts.gov/doc1/06711397419?caseid=153126&de_seq_num=6998253&pdf_header=1&pdf_toggle_possible=1",
+          "recap_pdf_url": null,
+          "pacer_doc_id": null,
+          "description": "ATTORNEY Appearance for Plaintiffs Leopoldo Burgos, Iris Burgos, Miguel Mendez, Idanina Mendez by Ricardo Meza; Notice. (vkd, ) (Entered: 08/08/2006)"
+        },
+        {
+          "row_number": 19,
+          "id": 1570260,
+          "entry_number": "16",
+          "date_filed": "2010-08-27T00:00:00-04:00",
+          "attachments": null,
+          "url": "https://ecf.ilnd.uscourts.gov/doc1/06718299035?caseid=153126&de_seq_num=6998259&pdf_header=1&pdf_toggle_possible=1",
+          "recap_pdf_url": null,
+          "pacer_doc_id": null,
+          "description": "MOTION by counsel for Plaintiffs Iris Burgos, Leopoldo Burgos to withdraw as attorney (Meza, Ricardo) (Entered: 08/27/2010)"
+        },
+        {
+          "row_number": 20,
+          "id": 1570261,
+          "entry_number": "17",
+          "date_filed": "2010-08-27T00:00:00-04:00",
+          "attachments": null,
+          "url": "https://ecf.ilnd.uscourts.gov/doc1/06718299050?caseid=153126&de_seq_num=6998261&pdf_header=1&pdf_toggle_possible=1",
+          "recap_pdf_url": null,
+          "pacer_doc_id": null,
+          "description": "NOTICE of Motion by Ricardo Meza for presentment of motion to withdraw as attorney 16 before Honorable James B. Zagel on 9/2/2010 at 10:15 AM. (Meza, Ricardo) (Entered: 08/27/2010)"
+        },
+        {
+          "row_number": 21,
+          "id": 1570262,
+          "entry_number": "18",
+          "date_filed": "2010-09-01T00:00:00-04:00",
+          "attachments": null,
+          "url": "https://ecf.ilnd.uscourts.gov/doc1/06718318766?caseid=153126&de_seq_num=6998264&pdf_header=1&pdf_toggle_possible=1",
+          "recap_pdf_url": null,
+          "pacer_doc_id": null,
+          "description": "MINUTE entry before Honorable James B. Zagel:Motion to withdraw as attorney 16 is granted. The appearance of attorney Ricardo Meza is withdrawn.Mailed notice (drw, ) (Entered: 09/01/2010)"
+        },
+        {
+          "row_number": 26,
+          "id": 2057742,
+          "entry_number": "22",
+          "date_filed": "2019-06-25T01:00:00-04:00",
+          "attachments": [],
+          "url": "https://www.courtlistener.com/docket/14983773/22/burgos-v-dcfs/",
+          "recap_pdf_url": "https://www.courtlistener.com/recap/gov.uscourts.ilnd.153126/gov.uscourts.ilnd.153126.22.0.pdf",
+          "pacer_doc_id": "067022609719",
+          "description": "NOTICE of Motion by Griselda Vega Samuel for presentment of motion to withdraw as attorney 20 before Honorable Gary Feinerman on 7/2/2019 at 09:00 AM. (Vega Samuel, Griselda) (Entered: 06/25/2019)"
+        },
+        {
+          "row_number": 15,
+          "id": 2057731,
+          "entry_number": "11",
+          "date_filed": "2005-05-19T01:00:00-04:00",
+          "attachments": [
+            {
+              "recap_id": 155483934,
+              "pacer_url": "https://ecf.ilnd.uscourts.gov/doc1/0670801353?caseid=153126",
+              "description": "Attorney Appearance",
+              "attachment_number": 2
+            }
+          ],
+          "url": "https://www.courtlistener.com/docket/14983773/11/burgos-v-dcfs/",
+          "recap_pdf_url": null,
+          "pacer_doc_id": "0670784388",
+          "description": "MOTION by Plaintiffs to withdraw and substitute counsel(gma, ) Additional attachment(s) added on 5/20/2005 (gma, ). (Entered: 05/20/2005)"
+        },
+        {
+          "row_number": 35,
+          "id": 9503336,
+          "entry_number": "31",
+          "date_filed": "2024-09-16T00:00:00-04:00",
+          "attachments": [],
+          "url": "https://www.courtlistener.com/docket/14983773/31/burgos-v-dcfs/",
+          "recap_pdf_url": "https://www.courtlistener.com/recap/gov.uscourts.ilnd.153126/gov.uscourts.ilnd.153126.31.0.pdf",
+          "pacer_doc_id": "067031126712",
+          "description": "attorney appearance"
+        },
+        {
+          "row_number": 30,
+          "id": 9308197,
+          "entry_number": "26",
+          "date_filed": "2024-01-11T00:00:00-05:00",
+          "attachments": [],
+          "url": "https://www.courtlistener.com/docket/14983773/26/burgos-v-dcfs/",
+          "recap_pdf_url": "https://www.courtlistener.com/recap/gov.uscourts.ilnd.153126/gov.uscourts.ilnd.153126.26.0.pdf",
+          "pacer_doc_id": "067029802089",
+          "description": "Attorney Appearance Form for Susana Sandoval Vargas by Leopoldo Burgos (Sandoval Vargas, Susana) (Entered: 01/11/2024)"
+        },
+        {
+          "row_number": 0,
+          "id": 2057716,
+          "entry_number": "1",
+          "date_filed": "1993-12-17T01:00:00-05:00",
+          "attachments": [],
+          "url": "https://www.courtlistener.com/docket/14983773/1/burgos-v-dcfs/",
+          "recap_pdf_url": null,
+          "pacer_doc_id": null,
+          "description": "COURT'S MONITOR'S REPORT (Exhibits) ; notice of filing. (fce) (Entered: 12/20/1993)"
+        },
+        {
+          "row_number": 1,
+          "id": 2057717,
+          "entry_number": null,
+          "date_filed": "1995-09-14T01:00:00-04:00",
+          "attachments": [],
+          "url": "https://www.courtlistener.com",
+          "recap_pdf_url": null,
+          "pacer_doc_id": null,
+          "description": "JOINT MOTION to recommend appointment of a new monitor (Attachment/Exhibits) ; Notice of motion (fce)"
+        },
+        {
+          "row_number": 4,
+          "id": 2057720,
+          "entry_number": null,
+          "date_filed": "1996-07-12T01:00:00-04:00",
+          "attachments": [],
+          "url": "https://www.courtlistener.com",
+          "recap_pdf_url": null,
+          "pacer_doc_id": null,
+          "description": "MINUTE ORDER of 7/12/96 by Hon. James B. Zagel : Granting plaintiffs motion for substitution of counsel Patricia Mendoza. [0-1] Mailed notice (eav)"
+        },
+        {
+          "row_number": 6,
+          "id": 2057722,
+          "entry_number": "2",
+          "date_filed": "1996-08-15T01:00:00-04:00",
+          "attachments": [],
+          "url": "https://www.courtlistener.com/docket/14983773/2/burgos-v-dcfs/",
+          "recap_pdf_url": null,
+          "pacer_doc_id": null,
+          "description": "ATTORNEY APPEARANCE for plaintiffs by Patricia Mendoza with Rule 39 Affidavit (eav) (Entered: 08/16/1996)"
+        },
+        {
+          "row_number": 8,
+          "id": 2057724,
+          "entry_number": "4",
+          "date_filed": "1997-08-07T01:00:00-04:00",
+          "attachments": [],
+          "url": "https://www.courtlistener.com/docket/14983773/4/burgos-v-dcfs/",
+          "recap_pdf_url": null,
+          "pacer_doc_id": null,
+          "description": "MINUTE ORDER of 8/7/97 by Hon. James B. Zagel : Plaintiffs' motion to extend court monitor appointment to and including 10/31/97 is granted. [3-1] Mailed notice (hp) (Entered: 08/12/1997)"
+        },
+        {
+          "row_number": 9,
+          "id": 2057725,
+          "entry_number": "5",
+          "date_filed": "1999-11-12T01:00:00-05:00",
+          "attachments": [],
+          "url": "https://www.courtlistener.com/docket/14983773/5/burgos-v-dcfs/",
+          "recap_pdf_url": null,
+          "pacer_doc_id": null,
+          "description": "AGREED MOTION by plaintiffs' to present monitor's report, workplan, and other relief (Attachments); Notice. (vmj) (Entered: 11/26/1999)"
+        },
+        {
+          "row_number": 10,
+          "id": 2057726,
+          "entry_number": "6",
+          "date_filed": "1999-11-18T01:00:00-05:00",
+          "attachments": [],
+          "url": "https://www.courtlistener.com/docket/14983773/6/burgos-v-dcfs/",
+          "recap_pdf_url": null,
+          "pacer_doc_id": null,
+          "description": "MINUTE ORDER of 11/18/99 by Hon. James B. Zagel: Plaintiffs' motion to present monitor's report, workplan, and other relief is granted [5-1]. No notice (vmj) (Entered: 11/26/1999)"
+        },
+        {
+          "row_number": 11,
+          "id": 2057727,
+          "entry_number": "7",
+          "date_filed": "1999-12-01T01:00:00-05:00",
+          "attachments": [],
+          "url": "https://www.courtlistener.com/docket/14983773/7/burgos-v-dcfs/",
+          "recap_pdf_url": null,
+          "pacer_doc_id": null,
+          "description": "MINUTE ORDER of 12/1/99 by Hon. James B. Zagel: (Entered Agreed Order to file Monitor's report and Workplan, instanter, and for provision of services). No notice (vmj) (Entered: 01/28/2000)"
+        },
+        {
+          "row_number": 12,
+          "id": 2057728,
+          "entry_number": "8",
+          "date_filed": "2003-07-17T01:00:00-04:00",
+          "attachments": [],
+          "url": "https://www.courtlistener.com/docket/14983773/8/burgos-v-dcfs/",
+          "recap_pdf_url": null,
+          "pacer_doc_id": "06703062816",
+          "description": "MOTION by plaintiffs to withdraw Patricia Mendoza and to substitute counsel Maria Valdez and Alonzo Rivas ; Notice of motion (eav) (Entered: 07/31/2003)"
+        },
+        {
+          "row_number": 14,
+          "id": 2057730,
+          "entry_number": "9",
+          "date_filed": "2003-07-22T01:00:00-04:00",
+          "attachments": [],
+          "url": "https://www.courtlistener.com/docket/14983773/9/burgos-v-dcfs/",
+          "recap_pdf_url": null,
+          "pacer_doc_id": "06703062541",
+          "description": "MINUTE ORDER of 7/22/03 by Hon. James B. Zagel : Motion to withdraw and substitute counsel is granted. [8-1] The appearance of Patricia Mendoza is withdrawn. No notices mailed (eav) (Entered: 07/31/2003)"
+        },
+        {
+          "row_number": 16,
+          "id": 2057732,
+          "entry_number": "12",
+          "date_filed": "2005-05-19T01:00:00-04:00",
+          "attachments": [],
+          "url": "https://www.courtlistener.com/docket/14983773/12/burgos-v-dcfs/",
+          "recap_pdf_url": "https://www.courtlistener.com/recap/gov.uscourts.ilnd.153126/gov.uscourts.ilnd.153126.12.0.pdf",
+          "pacer_doc_id": "06703402883",
+          "description": "NOTICE of Motion by Alonzo Rivas for presentment of MOTION by Plaintiffs to withdraw and substitute counsel 11 before Honorable James B. Zagel on 5/24/2005 at 10:15 AM. (gma, ) (Entered: 05/20/2005)"
+        },
+        {
+          "row_number": 17,
+          "id": 2057733,
+          "entry_number": "13",
+          "date_filed": "2005-05-24T01:00:00-04:00",
+          "attachments": [],
+          "url": "https://www.courtlistener.com/docket/14983773/13/burgos-v-dcfs/",
+          "recap_pdf_url": null,
+          "pacer_doc_id": "0670841056",
+          "description": "MINUTE entry before Judge James B. Zagel : Motion to withdraw 11 the appearance of Maria Valdez as attorney for all the plaintiffs is granted. Mailed notice (eav, ) (Entered: 06/01/2005)"
+        },
+        {
+          "row_number": 18,
+          "id": 2057734,
+          "entry_number": "14",
+          "date_filed": "2006-03-24T01:00:00-05:00",
+          "attachments": [],
+          "url": "https://www.courtlistener.com/docket/14983773/14/burgos-v-dcfs/",
+          "recap_pdf_url": null,
+          "pacer_doc_id": "06702730310",
+          "description": "MINUTE entry before Judge James B. Zagel : MOTION by Plaintiffs Leopoldo Burgos, Iris Burgos, Miguel Mendez, Idanina Mendez to substitute attorney is granted. MOTION by Plaintiffs Leopoldo Burgos, Iris Burgos, Miguel Mendez, Idanina Mendez to withdraw as attorney 11 is granted. Maria Valdez terminated. (drw, ) (Entered: 03/26/2006)"
+        },
+        {
+          "row_number": 22,
+          "id": 2057738,
+          "entry_number": "18",
+          "date_filed": "2010-09-01T01:00:00-04:00",
+          "attachments": [],
+          "url": "https://www.courtlistener.com/docket/14983773/18/burgos-v-dcfs/",
+          "recap_pdf_url": null,
+          "pacer_doc_id": "06708318766",
+          "description": "MINUTE entry before Honorable James B. Zagel:Motion to withdraw as attorney 16 is granted. The appearance of attorney Ricardo Meza is withdrawn.Mailed notice (drw, ) (Entered: 09/01/2010)"
+        },
+        {
+          "row_number": 32,
+          "id": 9308199,
+          "entry_number": "28",
+          "date_filed": "2024-01-11T00:00:00-05:00",
+          "attachments": [],
+          "url": "https://www.courtlistener.com/docket/14983773/28/burgos-v-dcfs/",
+          "recap_pdf_url": null,
+          "pacer_doc_id": "067029804755",
+          "description": "MOTION by Attorney Francisco Fernandez del Castillo to withdraw as attorney for Iris Burgos, Leopoldo Burgos. No party information provided (Vega Samuel, Griselda) (Entered: 01/11/2024)"
+        },
+        {
+          "row_number": 33,
+          "id": 9308200,
+          "entry_number": "29",
+          "date_filed": "2024-01-12T00:00:00-05:00",
+          "attachments": [],
+          "url": "https://www.courtlistener.com/docket/14983773/29/burgos-v-dcfs/",
+          "recap_pdf_url": null,
+          "pacer_doc_id": "067029809189",
+          "description": "EXECUTIVE COMMITTEE ORDER: Case reassigned to the Honorable Charles P. Kocoras for all further proceedings. Honorable Gary _Feinerman no longer assigned to the case pursuant to IOP13(J). Signed by Executive Committee on 1/12/2024. (jn, ) (Entered: 01/12/2024)"
+        },
+        {
+          "row_number": 24,
+          "id": 2057740,
+          "entry_number": "20",
+          "date_filed": "2019-06-24T01:00:00-04:00",
+          "attachments": [],
+          "url": "https://www.courtlistener.com/docket/14983773/20/burgos-v-dcfs/",
+          "recap_pdf_url": "https://www.courtlistener.com/recap/gov.uscourts.ilnd.153126/gov.uscourts.ilnd.153126.20.0.pdf",
+          "pacer_doc_id": "067022606898",
+          "description": "MOTION by Attorney Alonzo Rivas to withdraw as attorney for Iris Burgos, Leopoldo Burgos, Idanina Mendez, Miguel Mendez. No party information provided (Vega Samuel, Griselda) (Entered: 06/24/2019)"
+        },
+        {
+          "row_number": 2,
+          "id": 2057718,
+          "entry_number": null,
+          "date_filed": "1995-09-14T01:00:00-04:00",
+          "attachments": [],
+          "url": "https://www.courtlistener.com",
+          "recap_pdf_url": null,
+          "pacer_doc_id": null,
+          "description": "MINUTE ORDER of 9/14/95 by Hon. James B. Zagel : Granting joint motion to recommend appointment of a new monitor [0-1]. The appointment of Ruben Castillo as special master is vacated and substituted with that of Layla Suleiman. No notice (fce)"
+        },
+        {
+          "row_number": 3,
+          "id": 2057719,
+          "entry_number": null,
+          "date_filed": "1996-07-12T01:00:00-04:00",
+          "attachments": [],
+          "url": "https://www.courtlistener.com",
+          "recap_pdf_url": null,
+          "pacer_doc_id": null,
+          "description": "MOTION by plaintiffs for substitution of counsel Patricia Mendoza ; Notice of motion (eav)"
+        },
+        {
+          "row_number": 21,
+          "id": 2057737,
+          "entry_number": "17",
+          "date_filed": "2010-08-27T01:00:00-04:00",
+          "attachments": [],
+          "url": "https://www.courtlistener.com/docket/14983773/17/burgos-v-dcfs/",
+          "recap_pdf_url": null,
+          "pacer_doc_id": "06708299050",
+          "description": "NOTICE of Motion by Ricardo Meza for presentment of motion to withdraw as attorney 16 before Honorable James B. Zagel on 9/2/2010 at 10:15 AM. (Meza, Ricardo) (Entered: 08/27/2010)"
+        },
+        {
+          "row_number": 28,
+          "id": 9308195,
+          "entry_number": "24",
+          "date_filed": "2021-10-06T00:00:00-04:00",
+          "attachments": [],
+          "url": "https://www.courtlistener.com/docket/14983773/24/burgos-v-dcfs/",
+          "recap_pdf_url": "https://www.courtlistener.com/recap/gov.uscourts.ilnd.153126/gov.uscourts.ilnd.153126.24.0.pdf",
+          "pacer_doc_id": "067026256997",
+          "description": "ATTORNEY Appearance for Plaintiffs Iris Burgos, Leopoldo Burgos, Idanina Mendez, Miguel Mendez by Francisco Fernandez Del Castillo (Fernandez Del Castillo, Francisco) (Entered: 10/06/2021)"
+        },
+        {
+          "row_number": 31,
+          "id": 9308198,
+          "entry_number": "27",
+          "date_filed": "2024-01-11T00:00:00-05:00",
+          "attachments": [],
+          "url": "https://www.courtlistener.com/docket/14983773/27/burgos-v-dcfs/",
+          "recap_pdf_url": null,
+          "pacer_doc_id": "067029804668",
+          "description": "MOTION by Attorney Griselda Vega Samuel to withdraw as attorney for Iris Burgos, Leopoldo Burgos. No party information provided (Vega Samuel, Griselda) (Entered: 01/11/2024)"
+        },
+        {
+          "row_number": 1,
+          "id": 1570242,
+          "entry_number": null,
+          "date_filed": "1995-09-14T00:00:00-04:00",
+          "attachments": [],
+          "url": "nan",
+          "recap_pdf_url": null,
+          "pacer_doc_id": null,
+          "description": "JOINT MOTION to recommend appointment of a new monitor (Attachment/Exhibits) ; Notice of motion (fce) (Entered: 09/21/1995)"
+        },
+        {
+          "row_number": 2,
+          "id": 1570243,
+          "entry_number": null,
+          "date_filed": "1995-09-14T00:00:00-04:00",
+          "attachments": [],
+          "url": "nan",
+          "recap_pdf_url": null,
+          "pacer_doc_id": null,
+          "description": "MINUTE ORDER of 9/14/95 by Hon. James B. Zagel : Granting joint motion to recommend appointment of a new monitor [0−1]. The appointment of Ruben Castillo as special master is vacated and substituted with that of Layla Suleiman. No notice (fce) (Entered: 09/21/1995)"
+        },
+        {
+          "row_number": 34,
+          "id": 9503335,
+          "entry_number": "30",
+          "date_filed": "2024-01-16T00:00:00-05:00",
+          "attachments": [],
+          "url": "https://www.courtlistener.com/docket/14983773/30/burgos-v-dcfs/",
+          "recap_pdf_url": null,
+          "pacer_doc_id": "067029818005",
+          "description": "MINUTE entry before the Honorable Charles P. Kocoras: Motions to withdraw 27, 28 are granted. Attorney Francisco Fernandez Del Castillo and Griselda Vega Samuel terminated. Mailed notice. (kp, ) (Entered: 01/16/2024)"
+        },
+        {
+          "row_number": 3,
+          "id": 1570244,
+          "entry_number": null,
+          "date_filed": "1996-07-12T00:00:00-04:00",
+          "attachments": [],
+          "url": "nan",
+          "recap_pdf_url": null,
+          "pacer_doc_id": null,
+          "description": "MOTION by plaintiffs for substitution of counsel Patricia Mendoza ; Notice of motion (eav) (Entered: 07/17/1996)"
+        },
+        {
+          "row_number": 4,
+          "id": 1570245,
+          "entry_number": null,
+          "date_filed": "1996-07-12T00:00:00-04:00",
+          "attachments": [],
+          "url": "nan",
+          "recap_pdf_url": null,
+          "pacer_doc_id": null,
+          "description": "MINUTE ORDER of 7/12/96 by Hon. James B. Zagel : Granting plaintiffs motion for substitution of counsel Patricia Mendoza. [0−1] Mailed notice (eav) (Entered: 07/17/1996)"
+        },
+        {
+          "row_number": 5,
+          "id": 1570246,
+          "entry_number": null,
+          "date_filed": "1996-07-17T00:00:00-04:00",
+          "attachments": [],
+          "url": "nan",
+          "recap_pdf_url": null,
+          "pacer_doc_id": null,
+          "description": "MAILED Rule 3.14 letter to Patricia Mendoza (eav) (Entered: 07/17/1996)"
+        },
+        {
+          "row_number": 7,
+          "id": 2057723,
+          "entry_number": "3",
+          "date_filed": "1997-07-25T01:00:00-04:00",
+          "attachments": [],
+          "url": "https://www.courtlistener.com/docket/14983773/3/burgos-v-dcfs/",
+          "recap_pdf_url": null,
+          "pacer_doc_id": null,
+          "description": "MOTION by plaintiffs to extend court monitor appointment (Exhibits); Notice of motion (hp) (Entered: 08/12/1997)"
+        },
+        {
+          "row_number": 13,
+          "id": 2057729,
+          "entry_number": "10",
+          "date_filed": "2003-07-17T01:00:00-04:00",
+          "attachments": [],
+          "url": "https://www.courtlistener.com/docket/14983773/10/burgos-v-dcfs/",
+          "recap_pdf_url": null,
+          "pacer_doc_id": "0670321692",
+          "description": "ATTORNEY APPEARANCE for plaintiffs by Maria Valdez and Alonzo Rivas (eav) (Entered: 07/31/2003)"
+        },
+        {
+          "row_number": 19,
+          "id": 2057735,
+          "entry_number": "15",
+          "date_filed": "2006-08-04T01:00:00-04:00",
+          "attachments": [],
+          "url": "https://www.courtlistener.com/docket/14983773/15/burgos-v-dcfs/",
+          "recap_pdf_url": null,
+          "pacer_doc_id": "06701397419",
+          "description": "ATTORNEY Appearance for Plaintiffs Leopoldo Burgos, Iris Burgos, Miguel Mendez, Idanina Mendez by Ricardo Meza; Notice. (vkd, ) (Entered: 08/08/2006)"
+        },
+        {
+          "row_number": 20,
+          "id": 2057736,
+          "entry_number": "16",
+          "date_filed": "2010-08-27T01:00:00-04:00",
+          "attachments": [],
+          "url": "https://www.courtlistener.com/docket/14983773/16/burgos-v-dcfs/",
+          "recap_pdf_url": null,
+          "pacer_doc_id": "06708299035",
+          "description": "MOTION by counsel for Plaintiffs Iris Burgos, Leopoldo Burgos to withdraw as attorney (Meza, Ricardo) (Entered: 08/27/2010)"
+        },
+        {
+          "row_number": 37,
+          "id": 9503338,
+          "entry_number": "33",
+          "date_filed": "2024-10-01T00:00:00-04:00",
+          "attachments": [],
+          "url": "https://www.courtlistener.com/docket/14983773/33/burgos-v-dcfs/",
+          "recap_pdf_url": "https://www.courtlistener.com/recap/gov.uscourts.ilnd.153126/gov.uscourts.ilnd.153126.33.0.pdf",
+          "pacer_doc_id": "067031208675",
+          "description": "order on motion to withdraw as attorney"
+        },
+        {
+          "row_number": 5,
+          "id": 2057721,
+          "entry_number": null,
+          "date_filed": "1996-07-17T01:00:00-04:00",
+          "attachments": [],
+          "url": "https://www.courtlistener.com",
+          "recap_pdf_url": null,
+          "pacer_doc_id": null,
+          "description": "MAILED Rule 3.14 letter to Patricia Mendoza (eav)"
+        },
+        {
+          "row_number": 29,
+          "id": 9308196,
+          "entry_number": "25",
+          "date_filed": "2021-10-06T00:00:00-04:00",
+          "attachments": [],
+          "url": "https://www.courtlistener.com/docket/14983773/25/burgos-v-dcfs/",
+          "recap_pdf_url": "https://www.courtlistener.com/recap/gov.uscourts.ilnd.153126/gov.uscourts.ilnd.153126.25.0.pdf",
+          "pacer_doc_id": "067026257954",
+          "description": "ATTORNEY Appearance for Defendants Illinois Department of Children and Family Services, Marc D. Smith by Barbara Lynn Greenspan (Greenspan, Barbara) (Entered: 10/06/2021)"
+        },
+        {
+          "row_number": 36,
+          "id": 9503337,
+          "entry_number": "32",
+          "date_filed": "2024-09-30T00:00:00-04:00",
+          "attachments": [],
+          "url": "https://www.courtlistener.com/docket/14983773/32/burgos-v-dcfs/",
+          "recap_pdf_url": "https://www.courtlistener.com/recap/gov.uscourts.ilnd.153126/gov.uscourts.ilnd.153126.32.0.pdf",
+          "pacer_doc_id": "067031202388",
+          "description": "motion to withdraw as attorney"
+        },
+        {
+          "row_number": 23,
+          "id": 2057739,
+          "entry_number": "19",
+          "date_filed": "2019-06-18T01:00:00-04:00",
+          "attachments": [],
+          "url": "https://www.courtlistener.com/docket/14983773/19/burgos-v-dcfs/",
+          "recap_pdf_url": "https://www.courtlistener.com/recap/gov.uscourts.ilnd.153126/gov.uscourts.ilnd.153126.19.0_2.pdf",
+          "pacer_doc_id": "067022577217",
+          "description": "ATTORNEY Appearance for Plaintiffs Iris Burgos, Leopoldo Burgos, Idanina Mendez, Miguel Mendez by Griselda Vega Samuel (Vega Samuel, Griselda) (Entered: 06/18/2019)"
+        },
+        {
+          "row_number": 27,
+          "id": 3553719,
+          "entry_number": "23",
+          "date_filed": "2019-06-26T00:00:00-04:00",
+          "attachments": [],
+          "url": "https://www.courtlistener.com/docket/14983773/23/burgos-v-dcfs/",
+          "recap_pdf_url": "https://www.courtlistener.com/recap/gov.uscourts.ilnd.153126/gov.uscourts.ilnd.153126.23.0.pdf",
+          "pacer_doc_id": "067022617413",
+          "description": "MINUTE entry before the Honorable Gary Feinerman:Motion to withdraw as attorney 20 is granted. Attorney Alonzo Rivas is terminated as counsel for Plaintiffs. Motion hearing set for 7/2/2019 20 is stricken. Mailed notice. (jlj, ) (Entered: 06/26/2019)"
+        }
+      ],
+      "docket_case_type": "cv",
+      "docket_year": 1975,
+      "docket_filing_number": 3974,
+      "is_main_docket": true,
+      "court": "Northern District of Illinois",
+      "state": "Illinois",
+      "docket_office_number": "1",
+      "docket_number_manual": "1:75-cv-03974",
+      "scales_html": "https://clearinghouse-umich-production.s3.amazonaws.com/media/docket-html/ilnd--1-75-cv-03974.html",
+      "recap_link": "https://www.courtlistener.com/docket/14983773/burgos-v-dcfs/",
+      "is_active": true
+    },
+    "name": "Burgos v. DCFS",
+    "never_filed": false,
+    "non_docket_case_number": "",
+    "non_docket_case_number_type": null,
+    "non_docket_case_number_type_other": "",
+    "order_end_year": null,
+    "order_start_year": 1977,
+    "permanent_injunction": false,
+    "plaintiff_description": "Class of Puerto Rican parents in the metropolitan Chicago area, whose children were or had been in the custody of the Illinois Department of Children and Family Services.",
+    "plaintiff_type": [
+      {
+        "value": "Private Plaintiff"
+      }
+    ],
+    "prevailing_party": "Plaintiff",
+    "pro_se_status": "No",
+    "public_interest_lawyer": "Yes",
+    "related_cases": [],
+    "relief_natures": [
+      "Injunction / Injunctive-like Settlement"
+    ],
+    "relief_nature_other": "",
+    "relief_sources": [
+      "Settlement"
+    ],
+    "settlement_agreement": [
+      "Court Approved Settlement or Consent Decree"
+    ],
+    "settlement_judgment_date": null,
+    "settlement_judgment_year": null,
+    "special_collections": [],
+    "special_case_type": [],
+    "state": "Illinois",
+    "summary": "<p>On November 20, 1975, this class action was filed by several Puerto Rican parents in the metropolitan Chicago area, who alleged that they and their children, who were or had been in the custody of the Illinois Department of Children and Family Services (DCFS), were being discriminated against based on their race and national origin. They were represented by the Mexican American Legal Defense Fund, and sought injunctive relief under Title VI of the Civil Rights Act of 1964. The lawsuit was filed in the United States District Court for the Northern District of Illinois, against DCFS and several of its officers.</p>\r\n<p>The suit resulted in a Consent Decree, dated January 14, 1977, wherein DCFS agreed to make appropriate services and documents available in Spanish and to hire bilingual employees to work in certain areas. Spanish documents, including forms and informational brochures, were to be made available in numbers proportional to the Spanish-speaking community. The Decree required all Hispanic clients be informed of their rights under the Decree and how to maintain those rights. The Decree required that Spanish-language signs announcing the availability of these services in Spanish be posted in all metro-Chicago DCFS offices, displaying a phone number where a bilingual ombudsperson could be reached. It required DFCS to place children whose first language was Spanish with Spanish-speaking foster parents. Where bilingual social workers were not available, the Decree required that social workers assigned to Spanish-speaking clients be accompanied by an interpreter.</p>\r\n<p>According to a summary of the Burgos Consent Decree, <a href=\"http://research.jacsw.uic.edu/icwnn/files/2013/03/IL_Burgos-Consent-Decree-Summary.pdf\" target=\"_blank\" rel=\"noopener\">available here,</a> the Court issued an agreed order in December of 1990 indicating that the DCFS was not in compliance with the Decree and appointing a Special Master. The Special Master prepared a compliance report, which led to the March 1992 the appointment of a permanent Court Monitor to oversee DCFS' compliance with the Decree. The docket last mentions the Monitor in 1999, and so it is unclear whether this position still exists. Also in the mid-1990s, the Mexican American Legal Defense and Educational Fund (MALDEF) took over representation of families in the Burgos litigation. After assuming control of the case, MALDEF encountered difficulty accessing information to monitor DCFS's compliance with the consent decree. The Consent Decree did not have an expiration date.</p>\r\n<p>In 2019, there was a minor uptick in activity following a ProPublica investigation into DCFS compliance with the consent decree. The investigation revealed systemic compliance issues and focused on the tragic story of one Spanish-speaking undocumented father whose children were assigned to a household that spoke primarily Slovak at home. The father experienced difficulty bonding with his children, in part due to the language barrier. A DCFS inspector general report later found that the father's Burgos rights were violated, but he was deported and his children continue to reside in the US (the article is <a href=\"https://features.propublica.org/illinois-dcfs/illinois-child-welfare-agency-burgos-consent-decree-spanish-language-issues/\" target=\"_blank\" rel=\"noopener\">available here</a>). According to their reporting, nearly 300 Burgos violations had occurred since 2005. This number is likely an undercount because data regarding race, ethnicity, and language preferences was reportedly unreliable and even deliberately fabricated in some cases. Following the publication of the story, MALDEF filed their first court appearance since 2006.</p>\r\n<p>The publication of the story also led to a reassignment of the case. The case had long been assigned to Judge James B. Zagel. By 2019, Judge Zagel was on senior status and no longer an active judge on the Court. On June 25, 2019, the Executive Committee of the Court ordered the case to be reassigned from Judge Zagel to Judge Gary Feinerman for future proceedings.</p>\r\n<p>Although it appeared that plaintiffs' counsel were considering reopening the litigation, as of November 2021, there was little docket activity aside from attorney appearances.</p>\r\n<p>In August 2021, ProPublica revisited their earlier investigation finding that DCFS continued to violate its requirements under Burgos (the article is <a href=\"https://www.propublica.org/article/illinois-child-welfare-agency-continues-to-fail-spanish-speaking-families\" target=\"_blank\" rel=\"noopener\">available here</a>). MALDEF again made an appearance before the Court following the reporting.</p>",
+    "summary_published_date": "2025-08-27T15:00:02.122711-04:00",
+    "summary_short": "On November 20, 1975, this class action was filed by several Puerto Rican parents in the metropolitan Chicago area, who alleged that they and their children, who were or had been in the custody of the Illinois Department of Children and Family Services (DCFS), were being discriminated against based on their race and national origin. They sought injunctive relief under Title VI of the Civil Rights Act of 1964. The lawsuit was filed in the United States District Court for the Northern District of Illinois, against DCFS and several of its officers. \r\n\r\nThe suit resulted in a Consent Decree, dated January 14, 1977, wherein DCFS agreed to make appropriate services and documents available in Spanish and to hire bilingual employees to work in specific certain areas. It required DFCS to place children whose first language was Spanish with Spanish-speaking foster parents.  The Court issued an agreed order in December of 1990 indicating that the DCFS was not in compliance with the Decree and appointing a Special Master, who prepared a compliance report. In March of 1992 the Court appointed a permanent Court Monitor to oversee DCFS' compliance with the Decree. The Consent Decree did not have an expiration date.",
+    "summary_tiny": "Recent reporting by @ProPublica raises questions about compliance with a consent decree entered by the Illinois Dep't of Children and Family Services.",
+    "terminating_date": null,
+    "clearinghouse_link": "clearinghouse.net/case/12407",
+    "is_active": true,
+    "case_documents_url": "https://clearinghouse.net/api/v2/documents/?case=12407",
+    "case_dockets_url": "https://clearinghouse.net/api/v2/dockets/?case=12407",
+    "case_resources_url": "https://clearinghouse.net/api/v2/resources/?case=12407"
+  },
+  "documents": [
+    {
+      "date": null,
+      "date_is_estimate": false,
+      "date_not_available": false,
+      "description": null,
+      "document_source": null,
+      "document_status": null,
+      "document_type": null,
+      "order_type": null,
+      "citation_paren": null,
+      "cite_1_page": null,
+      "cite_1_reporter": null,
+      "cite_1_vol": null,
+      "cite_2_page": null,
+      "cite_2_reporter": null,
+      "cite_2_vol": null,
+      "cite_3_page": null,
+      "cite_3_reporter": null,
+      "cite_3_vol": null,
+      "citation_status": null,
+      "court": null,
+      "no_title": false,
+      "party_types": [],
+      "per_curium": false,
+      "is_core_document": true,
+      "id": 117165,
+      "file": null,
+      "title": null,
+      "text": null,
+      "document_type_other": null,
+      "external_url": null,
+      "ecf_number": null,
+      "clearinghouse_link": "clearinghouse.net/doc/117165"
+    },
+    {
+      "date": "1977-01-14",
+      "date_is_estimate": false,
+      "date_not_available": false,
+      "description": null,
+      "document_source": null,
+      "document_status": "Coding Complete",
+      "document_type": "Settlement Agreement",
+      "order_type": "Consent Decree",
+      "citation_paren": null,
+      "cite_1_page": null,
+      "cite_1_reporter": null,
+      "cite_1_vol": null,
+      "cite_2_page": null,
+      "cite_2_reporter": null,
+      "cite_2_vol": null,
+      "cite_3_page": null,
+      "cite_3_reporter": null,
+      "cite_3_vol": null,
+      "citation_status": "Not applicable",
+      "court": "Northern District of Illinois",
+      "no_title": false,
+      "party_types": [
+        "Court",
+        "Defendant",
+        "Plaintiff"
+      ],
+      "per_curium": false,
+      "is_core_document": true,
+      "id": 51741,
+      "file": "https://clearinghouse-umich-production.s3.amazonaws.com/media/doc/51741.pdf",
+      "title": "Consent Decree",
+      "text": "     \n  \n \nt\na\nIN  THE  UNITED  STATES  DISTRICT  COURT \nFOR  THE  NORTHERN  DISTRICT  OF  ILLINOIS \nEASTERN  DIVISION \nLMIEGOUPEOLL DOM ENBDUERZG,O S, andI RIISD AIBNUAR GOS,  |  Sec? \nMaEndN DEZal,l   oont hebre haplefr soonfs  thseimmsiellavrelsy   Nell Neal? \nsituated,  Sect Neat? \nPlaintiffs,  Ne? Sea \n-vVs-  ea?  NO.  75  €  3974 \nea \nILLINOIS  DEPARTMENT  OF  CHILDREN  Neat \nAND  FAMILY  SERVICES  (DCFS);  Neat \nRICHARD  S$.-LAYMON,  individually  Se \nand  in  his  official  capacity  as  Seat \nGuardianship  Administrator  of  Nec \n \na\nDCFS;  MARY  LEE  LEAHY,  individually  N\n \na\nand  in  her  official  capacity  as   N\nDirector  of  DCFS;  ROSE  GETER,  N\nN\nindividually  and  in  her  official   \nP\ncapacity  as  Affirmative  Action  N\n \nP\nOfficer  of  DCFS;  LUTHERAN  CHILD   N\nP\nAND  FAMILY  SERVICES,  a  Not-For-  N\n \nProfit  Illinois  Corporetion;  and  N\nI\nN\nBENSENVILLE  HOME  SOCIETY,  a  Not-   \nP\nFor-Profit  Illinois  Corporation,  N\n \nN\nP\nDefendants. \nRe \nCONSENT  DECREE \nThe  plaintiffs  having  filed  their  complaint  herein  on \nNovember  20,  1975,  on  their  own  behalf  and  on  behalf  ef  all \nother  persons  similarly  situated  in  the  Chicago  metropolitan \narea,  alleging  that  the  Defendants  Illinois  Department  of \nChildren  and  Family  Services  (\"DCFS\"),  its  administrators  and \ntwo  private  child  welfare  agencies  were  administering  child \nplacement  and  social  services  programs  in  a  manner  such  that \nmembers  of  the  plaintiff  class  were  being  excluded  from  full \n  \n  \n \n  \n-3- \nhaving  considered  that  this  case  raised  substantial,  complex, \nand  contested  issues  of  law  and  fact  and  that  the  public  | \ninterest.was  significantly  involved  herein  and  having  considered \n‘the  possible  benefits  of  litigation  to  members  of  plaintiff \nclass  as  compared  with  the  benefits  offered  by  the  Consent \nDecree,  and  being  of  the  opinion  that  the  Consent  Decree \nrepresents  a  fair  solution  of  the  competing  interests  of  the \nplaintiff  class  and  defendants,  and  concluding  that  it  is  fair, \nreasonable  and  adequate,  and  should  be  and  is  approved  pursuant \nto  F.R.C.P.  23,  now,  therefore,  upon  the  Stipulation  for. \nEntry  of  a  Consent  Decree  between  the  plaintiffs  and  the  defendants, \ndated  Sanvery  fo  ,  1977,  upon  all  prior  proceedings  had  | \nherein,  and  upon  the  consent  of  the  parties  hereto,  it  is \nORDERED,  ADJUDGED  AND  DECREED  that: \nA.  Definitions \n1.  As  used  herein,  the  following  terms  have  the  meanings \nindicated:  | \na)  “\"DCFS'\"  means  the  Defendant  Illinois  Department  of \nChildren  and  Family  Services.  | \nb)  “State  Defendants”  means  DCFS;  Richard  S.  Laymon, \nGuardianship  Administrator  of  DCFS  (and  his  successors  in  office); \nMary  Lee Leahy,  Director  of  DCFS  (and  her  successors  in  office); \nand  Rose  Geter,  Affirmative  Action  Officer  of  DCFS  (and  her \nsuccessors  in  office). \n°)  “Lutheran”  means  the  Defendant  Lutheran  Child  and \nFamily  Services. \n  \n \n    \natt \nd)  “Bensen  Le\"  means  the  Defendant  |  : asenville  Home \n+ \nSociety. \ne)  “Plaintiffs”  means  the  class  of  persons  defined  as \nAll  persons  who  were  born  in Puerto  Rico  and  are \nnow  residing  in  the  Chicago  metropolitan  area  whose \nchildren  have  been,  are,  or  will  be  placed  wnder  the \nguardianship  and/or  custody  of  the  DCFS  without \naccommodating  the  national  origin  of  the  parents. \n£)  “Other  Hispanic  parents\"  means  any  persons  of \nMexican,  Central,  South  American  or  other  Hispanic  origin \nwho  are  now  residing  in  the  Chicago  metropolitan  area  and  whose \nchildren  have  been,  are,  or  will  be  placed  under  the  guardianship \n_— \nand/or  custody  of  DCFS. \ng)  “Hispanic  children\"  means  all children  of  plaintiffs \nand  other  Hispanic  parents. \nh)  \"Hispanic  client\"  means  all  plaintiffs,  other \nHispanic  parents  and  Hispanic  children. \ni)  “Client  contact  position\"  means  the  following  positions \nincluded  in  the  Equal  Employment  Opportunity  (EEO)  categories \nof  “Officials  and  Managers,\"  “Professionals,”  \"Para-Professionals,\" \nand  “Office  Clerical\": \nChild  Welfare  Administrator  Social  Service  Career  Trainee \nAssistant  Guardianship  Administrator  Social  Service  Consultant \nChild  Welfare  Staff  Development  Social  Worker  |  7 \nCoordinator  \"  Voluntary  Service  Coordinator. \nChild  Care  Progress  Supervisor  Activity  Program  Aide \nHearing  and  Speech  Specialist  Child  Care  Service  Worker \nHomemaker  Service  Supervisor  Child  Care  Trainee  |  . \nHuman  Relations  Consultant  Community  Development  Aide \nNurse.  |  Community  Worker \nPhysical  Rehabilitation  Therapist  Counselor  Aide \nPsychologist  |  Multi-Purpose  Practioner \nPhysician  Physical  Therapist  Aide \nRecreational  Worker  Social  Service  Worker  Trainee \nRehabilitation  Teacher  Supervisor  Social  Service  Aide  Trainee \nSocial  Service  Community  Planner  Student  Worker \nSocial  Service  Progress  Planner  Switchboard  Operator \nDay  Care  Licensing  Representative \n      \n    \nas \nj)  \"Foster  parent\"  means  any  person  who  has  been \nlicensebdy   DCFS  or  any  public  ox  private  child  welfare  agency \nto  provide  foster  care  on  sn  emergency,  temporary  or  long-term. \nbasis, \n\"k)  “Spanish  speakinga\"s   applied  to  plaintiffs,  other \nHispanic  parents,  foster  parents,  and  the  general  public, \nmeans  thet  Spanish  is  the  language  primarily  relied  upon  for \noral  and/or  written  communications. \n1)  “Spanish  speaking  children\"  means  children  who  either \nprimarily  rely  upon  Spanish  or  who  are  too  young  to  talk  and \nwhose  parents  are  Spanish  speaking  as  defined  herein. \n-m)  \"Bilingual  employee\"  means  an  employee  of  DCFS  or  of \na  vendor  or  subcontractor  of  a  vendor  in  a  position  who,  in \naddition  to  possessing  the  necessary  qualifications  for  the \nparticular  job  position,  is  proficient  and  fluent  in  oral  and \nwritten  communication  in  English  and  Spanish. \nn)  “Child  welfare  services\"  means  all  those  services \nidentified  now  and  in  the  future  in  the  Child  Welfare  Service, \nInventory  of  DCFS,  attached  hereto  as  Exhibit  A,  or  in  any \nsuccessor  inventory  which  contains  substantiallyth.e   same \ninformation. \n0)  \"Essential  child  welfare  services”  means  those  child \nwelfare  services  identified  now  and  in  the  future  as  “essential \nby  the  Child  Welfare  Inventory  of  DCFS. \np)  \"Adjunctive  Child  Welfare  Services\"  mean  those  child \nwelfare  services  identified  now  and  in  the  future  as  \"adjunctive™ \n'  by  the  Child  Welfare  Service  Inventory  of  DCFS. \n   \n  \n    \n(oy \n(q)  “Supportive  Services”  mean  those  child  welfere \n'  gervices  identified  now  and  in  the  future  as  \"supportive™  by  the \nChild. Welfare  Service  Inventory  of  DCFS, \n(r)  \"Vendor\"  means  any  individual,  private  or  public \nagency,  and  public  or  private  institution  which  contract  with  | \nDCFS  by  grant  er  purchase  agreement  to  provide  child  welfare \nservices, \n(s)  “Chicago  Area  offices\"  when  applied  to  a  DCFS  service \nerea  means: \ni.  Chicago  East  Area  Office  and  all  its  field  and/or \noutpost  offices; \n4i.  Chicago  North  Area  Office  and  all  its  field  and/or \noutpost  offices; \nfii,  Chicago  South  Area  office  and  all  its  field  and/or \noutpost  offices; \nivy.  Chicago  West  Area  Office  and  all  its  field  and/or \n.  outpost  offices; \nv.  All  Emergency  Protective  Services  Offices  in \nChicago;  and  . \niv,  Central  Resource  Unit. \n(t)  \"Chicago  metropolitan area  offices\"  when  applied  to_ \nthe  DCFS  service  area  means: \ni.  <All  Chicago  area offices; \n41,  Avrora  Area  Office  and  all  its  field  and/or \noutpost  offices; \n$41.  Lake-McHenry  Area  Office  and  all  its  field  and/Or \n_mutpast  offices;  and \niv.  Joliet  Area  Office  and  all its  field  and/or \noutpost  offices, \n{u)  “Chicago  metropolitan  area\"  ‘means  the  area  served  by \nall  Chicago  metropolitan  area  offices  of  DCFS. \n  \n \nAt  a  oe  -7- \n-  |  w)  “October  6,  1976,\" when  used  to  refer  to  the  numbers \nand/or  employment  positions  of  bilingual  employees  in  one  or \nmore  of  the  Chicago  Area  Offices,  refers  to  the  numbers  and/or \nemployment  positions  of  bilingual  employees  in  such  offices \nas  specified  in  the  letter  attached  hereto  as  Exhibit  B,  di- \nrected  to  the  plaintiffs\"  counsel  from  the  state  defendants’ \ncounsel. \n(w)  \"Documents\"  shall  mean  bulletins,pamphlets,  posters \nforms,  notices  or  letters  furnished,  sent  to,  or  otherwise  made \navailable  to  DCFS  to  its  recipients  of  child  welfare  services \nand/or  persons  who  inquire  about  or  request  such  child  welfare \nservices, \nB.  Bilingual  Emplovees \n1,  All  persons  are  entitled  not  to  be  excluded  from  partici- \npation  in,  denied  the  benefits  of,  or  otherwise  subjected  to \ndiscrimination  on  the  basis  of  race,  color or  national  origin \nin  regard  to  the  delivery  of  any  child  welfare  services  provided \nby  DCFS  and  its  vendors.  |  . \n(2,  State  defendants  will  maintain  their  practice  of  having \nbilingual  employees  in  each  of  the  six  clusters  of  offices \nwhich  comprise  the  Chicago  area  officesas  defined  in  Paragraph  A \n(1) (s)  herein,  and  will  by  April  30,  1977,  hire  and  assign  to \nclient  contact  positions  in  those  offices  that  additional  | \nmumber  of  bilingual  employees  as  shall  result  in  a  net  increase \nof  fifteen  bilingual  employees  to  the  number  of  bilingual  employee: \nthat  were  in  said  offices  as  of  October  6,  -1976.\n       \nexcluding  the  cl  Jago  area  offices,  the  sta  defendants  will, \nby  April  30,  1977,  hire  and  assign  to  client  contact  positions \nin  the  professional  categories  designated  \"official  managers\" \nor  \"professional”  by  the  Equal  Employment  Opportunity  Commission  . \nthat  ‘additional  number  of  bilingual  employees  as  shall  result  | \nin  a  total  of  no  less  than: \na,  Two  bilingual  employees  in  the  Aurora  Area  Offices; \nb.  One  bilingual  employee  in  the  Lake-McHenry  Area \nOffices:  and \nc.  One  bilingual  employee  in  the  Joliet  Area  Offices. \n4.  Decisions  related  to  the  hiring  and  assignment  of  | \nemployees  hired  pursuant  to  Paragraphs  2  and  3  shall  be  made \nby  the  state  defendants,  subject  however  to  Paragraphs  5,  6, \n7,and  8,  | \nTim \n5.  The  employees  hired  pursuant  to  Paragraphs 3 amick  shall: \n|  a.  have,  as  a  qualification  for  employment  a  proficiency \nand  fluency  in  oral  and  written  communication  in  Spanish,  said \nproficienctyo   be  verified  by  an  employee  of  DCFS  whose  native  | \nlanguage  is  Spanish;  and \nb.  all  be  assigned  to  the  above-specified  client  contact \npositions  and  offices  where  such  bilingual  employees  are  needed. \n6.  By  assignment  of  the  employees  hired  pursuant  to \nParagraph  B(2),or  by  reassignment  of  bilingual  employees  otherwise \nemployed,  there  shall  be,  as  of  February  1,  1977,  at  least  one \nbilingual  employee  classified  as  a  “professional”  by  DCFS \n   \n  \n-9- \nwho  shall  be  available  24  hours  a  day  at  a  central  telephone \nnumber  in  Chicago  to  assist  Spanish  speaking  clients  and  other \nmembers  of  the  Spanish  speaking  public  with  specific  or  general \ninquirieosr   complaints  concerning  the  provision  of  child  welfare \nservices  by  DCFS  and/or  its  vendors.  DCFS  shall  institute  proce- \ndures  to  facilitate  coordination  and  communication  between  the \nbilingual  employee(s)  providing  the  services  described  herein  and \n(1)  the  bilingual  assistant  ombudsperson  described  in  Paragraph \nB(7),  infra;  and  (2)  the  DCFS  caseworkers  whose  clients  have \ncalled  the  above described  telephone  number.  DCFS  shall  publicize \nthe  availability  of  bilingual services  described  in  this  paragraph \nby  posting  a  Spanish  language  notice  describing  the  same  in  a \nconspicuous  location  in  all  Chicago  metropolitan  area  offices.  In \naddition,  DCFS  shall  make  all  reasonable  efforts  to  publicize  said \nServices  through  the  Spanish  language  media  and  shall  provide \ncounsel  for  the  plaintiffs  with  no  less  than  500  one-page \ndescriptions  of  said  services. \n7.  By  assignment  of  the  employees  hired  pursuantto   Paragraph \nB(2),  or  by  reassignment  of  bilingual  employees  otherwise  employed, \nthe  state  defendants  shall  designataet   least  one  person  in \nChicago  whose  responsibilities  shall  include  being  named  the \nassistant  to  the  ombudsperson  for  DCFS  and  whose  duties  shall \ninclude  assisting  Hispanic  clients,  Spanish-speaking  foster  parents \nand  other  Spanish-specking  persons  who  inquire  about  or  request  . \naid  to  child  welfare  services  from  DCFS  or  its  vendors  or  who \nhave  complaints  concerning  the  manner  in  which  such  services \nare  being  provided  or  the  failure  by  DCFS  to  meet  its  obligations \n \nes  described  in  th’  Consent  Decree.  A  notici  (n  the  Spanish \n‘language  shall  be  prominantly posted  in  all  of  the  Chicago  metro- \npolitan  offices  informing  clients  of  the  telephone  number  and \npurpose  of  the  bilingual  ombudsperson  end  the  availability  of  a \nbilingual  essistant  to  the  ombudsperson.  | \n&.  As  a  ‘result  of  the  action  taken  pursuant  to  Paragraphs \nB(2)  ané  3(a}-(c)  and  inclusive  of  any  specific  assignments  of \nemployees  made  pursuant  to  Paragraphs  'B(6)-(7),  there  shall  be, \n.  as  of  April  30,  1977:  | \na.  At  least  15  more  bilingual  employees  in  client  contact \npositions  in  Chicago  area  offices  than  there  were  as  of  October \n6,  1976,  and  no  less  than  four  bilinguel  employees  in  the  remaining \nChicago  metropolitan  area  pursuant  to  the  terms  of  B(a)-(c),  supra; \n|  b.  In  each  Chicago  metropolitan  area  office  with  any  | \nSpanish-speaking  Latino  clients,  at  least  that  same  number  of \nbilingual  social  workers  as  there  were  in  each  such  office  as  of \nOctober  6,  1976.  |  | \n9.  Nothing  in  Paragraphs  2-8,  supra,  shall  be  construed  to \npermit  violation  of  the  “Personnel  Code,\"  I1l.Rev.Stat.,  Ch.  127, \n563-101,  et  seg.,  but  defendants  represent  that  they  know  of \nnothing  in  the  Personnel  Code  which  would  preclude  compliance  with. \nthe  provisions  of  said  paragraphs.  | \nCc.  Spani sh-Language  Documents \nl.  The  stete  defendants,  Lutheran,  and  Bensenville  shall  give  — \n.  “  ; \nhighest  priority  to  insuring  that  all  Hispanic  clients  know  what \ntheir  rights  are  and  how  to  preserve  them.  If  a  Hispanic  client \nshould  waive  any  of  his/her  rights,  he/she  should  do  so  with  full \n \n     \nBF \n.  i  . \ny  ,  t \n! \nknowledge  of  what  he/she  is  doing  and  without  the  slightest  t \ndoubt  that  his/her  limited  English  speaking  ability  prevents \nsuch  knowledge.  The  state  defendants  further  recognize  an \nobligation  to  inform  both  their  Hispanic elients  and  the \nSpanish-speaking  general  public  of  all  child  welfare  services  - \navailable  through  DCFS  and  its  vendors.  In  order  to  effect \nthese  goals,  the  state  defendants  shall  implement  by  March  31, \n1977,  the  following  practices  and  procedures  in  ail  the  Chicago \n|  metropolitan  area  offices: \na.  No  documents  listed  in  Paragraph  C(1)(e),  infra, \nshall  be  given  to  @  Spanish-speaking  Hispanic  client  without \na  Spanish  translation  accompanying  it.  Subject  to  the  limita- \ntions  in  Paragraph  C(1)(@),  infra,  the  translation  may  be \ninterlinear,  on  the  reverse  side  of  the  page,  in  an  adj  acent \ncolumn  on  the  same  page  or  on  a  separate  sheet  of  paper. \nCommunications  to  Spanish-speaking  Hispanic  clients  written  only \nin  the  Spanish  language  will  be  sufficient.  | \nb.  Any  document  listed  in  Paragraph  C(1)(e),  infra,  requir- \ning  a  Spanish-speaking  Hispanic  client's  signature  on  the \nEnglish version  of  the  document  shall  contain  an  affidavit  from \na  bilingual  employee  in  English  at  the  end  of  the  docu- \nment  followed  by  a  statement  from  the  client  in  Spanish  that  the \ndocument  has  been  translated  and  explained  to  him/her.  A \n \n       \nSpanish  trensla{ on  of  the  document  shall  i  .o  be  signed  by \nthe  client  and  attached  to  the  English  version.  The  interpreter's \naffidavit  and  client's  statement  shall  be  as  follows: \n{ \nSTATE  OF  ILLINOIS  ) \n>  ss. \nCOUNTY  OF  ) \nXINTERPRETER'S  AFFIDAVIT \nMy  name  is  |  «  Tecan  read  and  speak \nboth  English  and  Spanish  fluently.  I  read  the  foregoing \n(document  title  and  identification  mumber)  to \n  \n(client),  translating  it  from  English  into \n  \nSpanish,  When  I  finished  reading  it,  he/she  signed the \ndocument  voluntarily. \n interpreter   \nSubscribed  and  Sworn  to \nbefore  me  this  day \n-  of  _»  19. \n  \n NOTARY  PUBLIC   \nYo,  :  :  digo  que  el  documento  que  ante-. \n  \ncede  me  ha  sido  leido,  traducido  y  explicado  en  espanol  y  que \ncomprendo  y  entiento  correctemente  lo  que  en  el  se  dice. \n  \nTranslation:  (I,  ,  state  that  the  document  herein \n  \nhas  been  read,  translated  and  explained  to  me  in  Spanish  and  that  1 \nunderstand  correctly  what  it  says.) \n  \n \n  \nc,  All  informational  and  educational  pamphlets,  booklets, \nand  posters  listed  in  Paragraph  C  (1)(e)  and  (f),  infra,  shall \nbe  available  and  distributed  in  quantities  proportionate  to  the \nEnglish  and  Spanish  speaking  clientele  of  each  area  office.  ‘They \nwill  be  openly  and  readily  available  to  all  Spanish-speaking  per- \nsons  who  inquire  about  or  request  aid  or  any  child  welfare  ser- \nvices  from  DCFS. \nd.  All  documents  listed  in  Paragraph  C  (1) (e)  and  (Cf), \ninfra,  and  presently  available  in  the  Spanish  language  shall  be \ndistributed  and  used  pursuant  to  Paragraph  C(1)  (a)-(e). \ne.  The  state  defendants  shall,  by  March  31,  1977,  have \ntranslated  into  the  Spanish  languagien   accordance  to  Paragraph \nC  (1) (b),  supra,  and  have  begun  using  in  all  contacts  with  Span- \nish-speaking  Latino  clients  the  following  documents: \nCFS  150  Service  Appeal  Request \nCFS  220  (2/65)  Application \nCFS  403  Medical  Consent  of  Parent  or  Guardian \nCFS  403-1  :  Consent  for  Medical  Care \nCFS  420-175  Elegibilidad  y  Servicio \nCFS  424  Parental  Affidavit  (of  having  read  and \nunderstood  the  Adoptive  Surrender  Form) \nCFS  425  Foster  Home  Placement  Agreement \nCFS  426  Adoption  Placement  Agreement \nCFS  433  Waiver  of  Religious  Preference \nCFS  433-1  Waiver  of  Religious  Preference  in  Adoptive \n|  Placement \nCFS  434  Consent  for  Baptism  or  Confirmation \nCFS  435  Final  and  Irrevocable  Surrender  to  an \nAgency  for  Purposes  of  Adoption  of  a  Born \nChild \nCFS  435-1  Entry  of  Appearance  and  Surrender  to  Agency \nwith  Consent  to  the  Appointment  of \nGuardian  with  Power  to  Consent  to  Adoption \nCFS  435-2  Surrender  to  an  Agency  for  Purposes  of . \nAdoption  of  an  Unborn  Child(ren) \nCFS  437-1  Request  for  Notice  to  Putative  Father/ \nffidavit \nCFS  437-2  Affidavit  of  Mother  to  Support  Notice  to \nPutative  Father  . \n \n  \n-14-  . \nCFS  Notice  to  Putative  Father \nCFS  —  Purchase  of  Care  Agreement  (Foster \nFamily  Care)  | \nCFS  Voluntary  Placement  Agreement \nCFS,  Request  for  Termination  of  Temporary \nCustody  : \nAffidavit  Acknowledging  Paternity \nNotice  of  Parental  Rights  in  Dependency \nand  Neglect  Proceedings \nSubsidized  Adoption  Program  Family  | \nIncome  and  Expenditures \nApplication  for  Subsidy \nAnnual  Reapplication  . \nService  Plan  Statement \nShort-term  Goals \nAuthorization  for  Release  of  Informaticn \nConsent  for  Treatment  (By  Adult  Receiving \nDepartment  Services) \nApplication  for  Homemaker  Position \nVoluntary  Financial  Agreement  |  | \nFinancial  Statement  for  Payment  Determination \nFollow-up  Letter  for  Parents  who  have  not \nReturned  Financial  Information \nForm  Letter:  Homemaker  Services \n_  Informing  Parents  of  Liability  Determination \nIndividual  Contract \nSpecialized  Foster  Home  Agreement  (contract) \nPermission  for  Use  of  Photographs  of \nPatients \n1050-S \na  Programas  y  Servicios \n1050-15 \nChild  Welfare  Services \n1050-148 \nIf  You're  Thinking  About  Reporting  Child \nAbuse \n1050-175  A  Licensed  Child  Care  Home \n1050-185  Seria  Usted  Un  Buen  Padre  Foster? \n1050-195 ©  Adopcion  o  Mas  Espera? \n1050-245  Hogares  de  Crianza  |  | \n1050-25  Common  Questions  About  Adoption-No  Address  | \n1050-30  What  About  Day  Care?  a \n1050-31  WiAt Lihttl e  Help \n1050-325  Su  Servicio  de  Apelacion \n1050-37F  Jobs  Available-Different  Job  Title \n1050-40  Child  Abuse  Alert \n£.  The  state  defendants  shall,  by  May  31,  1977,  have  trans- \nlated  into  the  Spanish  language  in  accordance  with  Paragraph  C(1)(b), \nsupra,  and  have  begun  using  in  all  contacts  with  Spanish \nSpeaking  Latino  clients  the  following  documents: \nCFS  1050-7  Commmity  Services  for  the  Visually \n“BRandicapped\n  \n  \nCFS  1050-8  You  Can  Make  the  Difference  Through  - \nTeen  Foster  Care \nCFS.   1050-105  Be  Alert  for  Child  Abuse \n1050-12F  A  Lonely  Childhood  Lasts  a  Lifetime \nCFS  1050-29  Understanding  Child  Abuse \nCFs  1050-33  If  You've  Got  a  Lot  of  Love  to  Give \nCFs  1050-38  Want  to  be  a  Foster  Family? \nCFS  1050-41  I  Want  My  Mommy  |  ; \nCFS  1050-42  Kid  Yourself \n1050-44 \nCFS  Foster  Parents  Needed  (use  picture  of \nLatino  child) \nCFS  1050-47  Be  the  Family  in  His  Future \nCFS  1050-2  illinois  Braille  and  Sight  Saving  School \nCFS  1050-3  Illinois  School  for  the  Deaf \nCFS  1050-5  Illinois  Soldiers  and  Sailors \nChildren's  School \nCFS  1050-6  illinois  Visually  Handicapped  Institute \n1050-13  Illinois  Children's  Hospital-School \nCFS  1050-23  Advisory  Council \nCFS  -  1050-36  Give  a  Little  Help  | \nWe  Care  for  Kids:  A  Handbook  for  Foster \nParents \ng.  Any  present  or  successor  forms  and  notices  to \nthose  specified  in  Paragraph  C(1)  (e)  and  (f)  which,  though \ndifferently  numbered  and  characterized,  seek  to  commmicate \nsubstantially  the  same  information  and  are  used for \nsubstantially  the  same  purposes  as  those  forms  or  notices~  \nshall  be  translated  and  distributed. \nh.  All  individualized  written  commumications  mailed \nto  Spanish-speaking  plaintiffs  and  other  Spanish-speaking, \nHispanic  parents  by  DCFS  or  its  vendors  shall  be  in  the \nSpanish  language. \n  \n    \n-  16 - \nD.  Provision  of  Child  Welfare  Services \n1,  The  state  defendants,  Lutheran,  and  Bensenville  recognize \nthe  importance  of  assuring  that  child  welfare  services  are  pro- \nvided  to  Hispanic  clients  by  DCFS  and  its  vendors  in  such  a  way \nas  to  accommodate  the  parents\"  national  origin  and  primary \nLanguage;  to  preserve  and  strengthen  the  Hispanic  child’s  family \nties  whenever  possible;  and  when  the  Hispanic  child  is  removed \nfrom  his  family,  to  secure  for  him  custody,  care  and  discipline \n|  as  nearly  as  possible  equivalent  to  that  which  should  be  given \nby  his  parents.  In  order  to  implement  these  goals,  the  state  } \ndefendants  shall  by  March  31,  1977,  assure  that: \na.  All  Spanish-speaking  children  of  Spanish-speaking  Hispanic \nclients  who  are  placed  with  foster  parents  shall  be  placed  only \nwith  Spanish-  speaking  foster  patents,  subject  to  the  conditions \nset  forth  in  Paragraphs  .D(3)-(4)  herein. \nb  The  social workers  assigned  by  DCFS  or  its  vendors  to \nprovide  child  welfare  and  counselling  services  to  Spanish=s peaking \nBispanic  ¢lients shall  be bilingual  employees;  and  such  social  | \nworkers  shall  not  have  caseloads  substantially  larger  than  these \nof  corresponding  persons  in  the  same  area  office  who  work  with \nEnglish-speaking  clients. \nce,  All  essential  child  welfare  services  provided  by  state \n \ndefendants  or  its  vendors  which  involve  @irect  contact  end \ncommunication  with  Spanish-speaking  Hispanic  clients  shall  be \n     \n§ \nable  efforts  to  provide  adjunctive  and  supportive  child  welfare \nservices  for  Spanish-speaking  Hispanic  clients  through  bilingual \nemployees,  and  in  no  case  shall  an  Hispanic  client  be  denied  such \nservices  by  the  state  defendants  because  the  parent  or  child  is \nunable  to  speak English.  | \ne.  If,  after  reasonable  efforts  to  do  so,  a  vendor  is \nunable  to  provide  Spanish-speaking  foster  parents  for  a  child \nof  Spanish-speaking  Hispanic  clients  or  is  unable  to  provide \nbilingual  employees  for  the  delivery  of  the  services  described \nin  ParagDr(1a) p(bh)-(sd) ,  supra,  to  Spanish-speaking  Hispanic \nclients  or  their  children,  the  vendor  may, decline  or  terminate \n|  .  to  said  clients  or  children.  - \nits  DCFS  contract  for  the  delivery  of  such  services/  Prior  to- \nterminating  their  contract  with  DCFS  as  provided  herein,  all \nvendors  shall  be  required  by  DCFS  to  document  in  detail  all \nefforts  made  to  locate  Spanish-speaking  foster  parents  or  bilin- \ngual  employees  and  shall  provide  such  documentation  to  DCFS \nprior  to  terminating  the  contract. \n2.  The  requirements  of  Paragraph  D(1)(a)-(e)  shall  be  met  “by \nthe  state  defendants  and  their  vendors  for  all  new  Hispanic \nclients  whose  cases  are  accepted  through  the  state  defendants’ \nintake,  beginning  30  days  from  the  date  of  entry  of  this  Decree. \n3.  Within  90  deys  after  the  entry  of  this  Decree,  the  state  def- \nendants  shall  review  all  cases  of  Hispanic  clients  whose  cases  were \naccepted  through  the  state  defendants’  intake  prior  to  those  noted  in \nParagraph  D(2)  and  readjust  placements  or  service  delivery  assignments \nto  comply \n \n-18- \nwith  the  requirements  of  Paragraph  D(1)(a)-(e),  unless,  in  any  - \nparticular  case,  the  state  defendants  conclude  after  a  full  case \nreview,  including  a  discussion  of  the  matter  with  the  parents, \nthat  the  replacement  or  reassignment  would  be  harmful  for  the \nchild  or  his/her  family.  |  | \n  \n4.  The  requirements  of  Paragraphs  D{1)-(3)  may  be  suspended \nin  reference  to  the  child  welfare  services  provided  to  a  Spanish- \nspeaking  child  if  one  of  the  following  conditions  is  met: \na.  The  Spanish-speaking  parents  of  the  Spanish-speaking \nchild  in  question  request  services  in  the  English \nlanguage  and  sign  &  separate  statement  written  both \nin  Spanish  and  English  that  they  have  been  informed  | \nthat  services  are  available  in  the  Spanish  language \nbut  that  they  desire  services  for  themselves  and/or \ntheir  children  in  the  English  language. \nb.  For  a  single  period  of  not  longer  than  sixty  days \nimmediately  following  the  removal  by  DCFS  of  the \n'  ¢ghild  from  his/her  family,  or  for  a  period  of  not  _ \nlonger  than  twenty  days  at  any  subsequent  time  when  o. \nreplacement  becomes  necessary,  after  an  extensive  oe \neearch  by  DCFS,  if  no  service  resources  with  capacity \nto  provide  services  in  the  Spanish  language  are \navailable  but  only  until  such  resources  become \navailable. \n5.  The  provisions  of  Paragraphs  D(1)  (a)  and  D(4)(b)  are \n‘gubject  to  the  following  terms:  ;  |  a \ne.  Starting  within  90  days  after  the  entry  of  this  Decree \nand  every  three  months  thereafter,  DCFS  shall  report \nthe  total  number  of  Spanish-speaking  children  whom  it \nhas  attemptetdo   place  or  assign  pursuant  to  Para- \ngraphs  D(1)(a)  and  (2),  the  number  of  such  children \nwhom  it  could  net  place  within  the  60  days  or  20  days \nprovided  by  Paragraph  D(4)(b),  the  percentege  of \ntotal  children  who  could  not  be  placed  within  the \n60-day  or  2U-day  period  and  a  summary  of  all  measures \ntaken  by  DCFS  to  locate  child  welfere  services \nYequired  by  Paragraph  D(1)(a)  for  every  child  who  is \nnot  placed  within  the  required  60  or  20  day  period. \nFor  every  three  month  period  in  which  the  percentage \nof  total  children  who  could  not  be  placed  within  the \n    \n   RA  re\n  \n  \n-19- \nrequired  time  period  exceeds  10  per  cent  of  the  total  _ \nmumber  of  such  children  it  has  attempted  to  place, \nthe  state  defendants  shall,  within  30  days  from the \nend  of  each  said  quarter,  fill  an  additional  , \nbilingual  stafi  position  for  resource  development \nto  meet  the  terms  of  this  Decree.  For  one  year \nafter  the  date  of  entry  of  this  Decree,  the  state \ndefendants  shall  cause  to  be  filed  with  the  Court \nand  served  upon  counsel  for  the  plaintiffs,  the \ndocumentation  required  herein.  Thereafter,  said \ndocumentation  shall  be  kept  by  the  Assistant  Deputy \nDirector  for  Operations  in  Chicago  and  made  accessible \nto  counsel  for  the  plaintiffs  to  inspect  within  two \nweeks  of  a  request  for  inspection. \nWithin  30  days  after  the  fourth  reporting  period \nrequired  in  Paragraph  D(5) (a),  the  state  defendants \nshall  prepare  a  written  evaluation,  a  copy  of  which \nshall  be  provided  to  counsel  for  the  plaintiffs,  of \nwhether  the  hiring  of  additional  bilingual  employees \n(if  such  hiring  is  necessary  pursuant  to  the  terms \nof  this  paragraph)  has  substantially  decreased  the \nnumber  and  percentage  of  Spanish-speaking  children \nwho  are  not  placed  or  assigned  within  the  60  or  20- \nday  period  as  required  herein.  If  the  state  defendants \nconclude  in  this  evaluation  that  alternative  measures \nrequiring  no  less  funding  than  necessitated  by  the \nhiring  of  additional  bilingual  employees  during  the \nfirst  four  reporting  periods  would  be  more  effective \nthan  the  hiring  of  additional  bilingual  employees  to \nassure  that  larger  numbers  and  a  higher  percentage  of \nSpanish-speaking  children  are  placed  or  assigned  as \nrequired  herein,  representatives  from  DCFS  shall  con- \nsult  with  counsel  for  the  plaintiffs  within  the \naforesaid  30  day  period;  and  if  cowsel  for  the \nplaintiffs  approve  the  proposed  alternative measures, \nsuch  measures  shall  be  instituted  immediately  by  DCFS \nfor  the  ensuing  four  reporting  periods.  The  same  — \nprocedure  shall  be  followed  by  DCFS  after  the  second \nseries  of  four  reporting  periods  and  thereafter  for  | \neach  series  of  four  reporting  periods  wntil  DCFS  can \ndocument  for  four  consecutive  quarters  within  a \nreporting  series  that  90  percent  or  more  of  all \nSpanish-speaking  children  (whose  parents  have  not \nwaived  bilingual  child  welfare  services)  have  been \nplaced  ir.  accordance  with  the  terms  of  Paragraph  D(1) (a). \nUpon  request  by  counsel  for  the  plaintiffs,  the  state \ndefendants  shall  provide  documentation  of  the  fiumding \nused  by  DCFS  to  implement  the  provisions  of  this \nparagraph. \n \n  \n—- ew    \noe  ee \nE.  Identification  er  Hispanic  Ciients. \n1.  On  or  before  March  31,  1977,  the  state  defendants  shall \ninitiate  record  keeping  procedures  in  the  Chicago  metropolitan \narea  offices  to  insure  that  DCFS  and  dts  vendors  identify  accur- \nately  both  the national  origin  of  all  Hispanic  clients  who  are \nor  should  be  receiving  child  welfare  services  ana'the  language. \nwhich  such  clients  primarily  rely  upon  for  oral  and  written \ncommunication.  If  any  Hispanic  client  indicates  that  he  or  she \nis  Spanish-speaking  as  defined  herein,  DCFS  shall  take  all \nnecessary  Measures  to  assure  that  such  elient  receives  Spanish- \nlenguege  dociments  pursuant  to  Paragraphs  C(1)(a)-(g),  supra, \nand  child  welfare  services  from  Spanish-language  employees \npursuant  to  Paragraphs  D(1)-(4),  supra.  . \n2.  In  order  to  identify  all  Hispanic  clients  pursuant  to \nParegraphs  E(1),  supra,  DCFS  shall  request-that  the  plaintiffs \nand  other  Hispanic  parents  entitled  to  receive  child  welfare \nservices  sign a  form  in  Spanish  and  English  indicating  the  — \nlanguage  which  the  client  primarily  relies  upon  for  oral  and \nwritten  communication,  The  determination  of  a  Hispanic  child's. \n-  primary  language  shall  be  made  by  a  bilingual  sociaa l  worker  from \neither  DCFS  or  the  vendor  who  is  primarily  responsible  for \nproviding  child welfare  services  for.such  children. \n3.  On  or  before  March  31,  1977,  DCFS  and  its  vendors  shall \nhave  identified  all  Spanish-speaking  licensed  foster  parents  in \nthe  Chicago  metropolitan  area. \n4.  On  or  before  March  31,  1977,  DCFS  shall  have  compiled \n)  and  thereafter  shall  continue  to  update  at  monthly  intervals  the \n   \n  \n“  ,  °  .  -21- \nfollowing  information  concerning  Hispanic  clients  residing  in \nthe  Chicago  metropolitan  area: \na.  name  of  all  children  under  custody  or  guardianship \nof  DCFS;.  \nb.  name  of  parents  of  said  children; \ne.  information  whether  children  and  parents  identified \nin  \"a\"  and  \"b\"  are  Spanish-speaking  as:  defined  herein  and  their \nnational  origin; \nd.  information  whether  foster  parents  of  children \nidentified  in  \"a\"  are  Spanish-speaking  and  specifying  the \nnational  origin  of  said  foster  parents; \ne.  name  of  social  worker  employed  by  DCFS  or  vendor  who \nis  primarily  responsible  for  providing  child  welfare  services  to \npersons  identified  in  \"a\"  and  \"b\";  and \nf.  information  whether  such  persons  referred  to  in  “e\" \nere  bilingual  employees  as  defined  herein. \n5.  Copies  of  the  information  and  records  compiled  by  DCFS \npursuant  to  Paragraphs  E(4)(a)-(f),  supra,  shall  be  made  avail- \nable  to  the  Assistant  Deputy  Director  for  Operations  in  Chicago \nwho  shall  allow  counsel  for  the  plaintiffs,  within  one  week  of- \na  request,  to  inspect  said  records  which  for  such  purposes  may \nbe  coded  in  order  to  make  the  identity  of  the  children  and \nparents  anonymous. \nF.  Monitoring  Vendors’  Delivery  of  Child  Welfare  Services \n1.  Within  30  days  after  the  entry  of  this  Consent  Decree,’ \nthe  State  defendants  shall  distribute  to  all  of  its  vendors  in. \n.  the  Chicago  metropolitan  area  a  simmary  of  the  terms  contained \neee\n ~22-    oo  a  _.  Korte  re |  ee\n“*  gn  this  Consent  Decree,  including  but  not  limitced  to  a  verbatim \ninsertion  of  Paragraph  D(l),  supra,  and  shall  inform  in  writing \nall  such  vendors  that  the  information  described  in  Paragraph  E, \nsupra,  ‘shall  be  collected  on  or  before  March  31,  1977,  and  - \nupdated  thereafter  in  a  uniform  manner  from  all  Hispanic  elients \nof  DOFS  for  whom  the  vendor  has  contracted  to  provide  child \nwelfare  sexvices.  DCFS  shall  provide  to  plaintiffs’  counsel a \ncopy  of  all  form  written  notifications  sent  to  vendors  pursuant \nto  this  paragreph. \n2.  The  state  defendants  shall  conduct  annual  civil  rights \ncompliance  reviews  of  each  vendor  referred  to  in  Paragraph  F(l), \nsupra,  and  shall  inform  each  vendor  in  writing  within  30  days  | \nafter  the  entry  of  this  Consent  Decree  that  eB  determination  of \nwhether  they  are  in  compliance  with  Title  VI  of  the  1964  Civil \nRights  Act  shall  depend  in  part  upon  the  information  supplied \npursuant  to  Paragraph  F(1),  supra;  and  that  failure  to  supply \nsuch  information  when  requested  may  constitute  by  itself  non- \ncompliance  with  Title  VI.  DCFS  shall  provide  to  plaintifis’ \n‘counsel  a  copy  of  all  form  written  notifications  sent  to  vendors \npursuant  to  this  paragraph. \nG.  Reporting \n1.  On  or  before  April  30,  1977,  DCFS  shall  file  with  the \ncourt  and  provide  copies  to  counsel  for  the  plaintiffs  the \nfollowing  information  and/or  documentation: \na.  Names  and  job  titles  of  all  bilingual  employees  in \nelient  contact  positions  in  the  Chicago  metropolitan  area  offices \nof  DCFS; \n  \n  \n:  -23-  . \nb.  Copies  of  all  forms  and  informational  materials \ntranslated  into  Spanish  pursuant  to  Paragraph  C(1)(a)-(g),  supra; \n|  ¢.  All  information  collected  pursuant  to  Patagraphs \n£03)  and  (4),  supra;  | \n\"  d..The  numbers  of  all  Spanish-speaking  parents  who  agreed \npursuant  to  Paragraph  D(4)(a)  that  child  welfare  services  could \n-  be  provided  to  them  or  their  Spanish-speaking  Chileeem.  1  Euglith.  g \nZz.  For  one  year  after  the  date  of  entry  of  this  Consent \nDecree,  the  state  defendants  shall  cause  to  be  filed  with  the \nCourt  and  served  upon  counsel  for  the  plaintiffs  every  three \nmonths  updated  information  and  documentation  specified  in \nParagraphs  G1) (e)-(d);  supra. \n3.  Within  90  days  after  the  entry  of  this  Decree,  the \nstate  defendants  shall  cause  to  be  filed  with  the  Court  and \nserved  upon  counsel  for  the  plaintiffs,  a  list  of  all  the  Hispanic \ncases  reviewed  by  DCFS  ‘pursuant  to  Paragraph  D(3),  supra,  and \nShall  note  (1)  those-cases  in  which  placements  have  been  readjusted \nor  service  delivery  personnel  reassigned  pursuant to  the  require-  | \nments  of  Paragraph  D(1)(a)-(d);  and  (2)  those  cases  in  which  the \nstate  defendants  concluded  that  the  replacement  or  reassignment \nwould  be  harmful  for  the  child  or  his/her  parents.  For  each \ncase  in  which  DCFS  concluded  that  replacement  or \nreassignment  would  be  harmful  for  the  child  or  his/her  parents, \nthe  state  defendants  shall  summarize  in  the  documentation  filed \nwith  the  Court  the  reasons  for  such  a  conclusion.  DCFS  may  use \n eode  designations  in  order  to  preserve  the  anonymity  of  the \nchildren  and  parents  in  question. \n \n     \n,  H,  Individual  Plaintiffs \n1.  Upon  entry  of  the  Consent  Decree,  state  defendants  shell \nimmediately  assign  a  bilingual  employee  to  provide  social  services \n   to Leopoldo  Burgos,  Iris  Burgos,  Miguel  Mendez  and  Idaina  Mendez;  - \n‘and  thereafter  DCFS  shall  assign  a  bilingual  employee  to  the \nindividual  plaintiffs  for  as  long  as  the  state  defendants  have \ncustody  or  guardianship  of  any  of  the  individual  plaintiffs'  children. \n2.  To  the  extent  that  either  Lutheran  or  Bensenville  provides  | \n‘child  welfare  services  for  the  individual  plaintiffs  or  otherwise \nhes  occasion  to  contact  them  concerning  their  children,  Lutheran \nand  Bensenville  shall  make  such  contact  through  either  bilingual \nemployees  or  qualified  interpreters. \n3.  From  the  date  of  entry  of  the  Consent  Decree,  all  written \ncomminications  from  the  state  defendants,  Lutheran,  and  Bensenville \nto  the  named  plaintiffs  shall  be  in  the  Spanish  lenguage  for  as \nlong  as  any  of  the  children  of  the  individual  plaintiffs  are  under \nthe  custody  or  guardianship  of  DCFS.  |  |  . \n1.  This  Consent  Decree  is  binding  upon  the  defendants,  their \n‘guccessors  in  office,  agents,  employees,  and  those  persons  in \nactive  concert  or  participation  with  them;  except  that  the  terms \nof  this  Decree  shall  not  be  enforceable  against  Defendants \nLutheran  and  Bensenville  to  any  greater  extent  than  they  would \nbe  enforceable  against  other  vendors  (as  defined  herein)  not \nparties  to  the  instant  litigation,  with  the  exception  that  the \nDecree  shall  be  enforceable  against  said  defendants  insofar  as \nit  relates  to  the  named  plaintiffs  as  set  forth  in  Paragraphs \nH(2)-(3)  herein. \n  \n \n     \nENTER: \nLesre(Ertsc eNnLgle . \n.  2ZHOMAS  R.  McMILLeEN \nUnited  States  District  Judge \nDated:  JAN  14  1977 \n   \nrhe  Child  Welfare  Service  Inventory \n_CODE:  Al represents  an  essential service; a  2 represents  an  adjunctive  service; a blank represents  a supportive \nuh  service. \n   The  following services are  essential  for  all  risk  populations:  interpreters for  the  non-English  speaking, outreach, \n-  client  advocacy, follow-up  on  services. \nUnmarried  Dependent/  .  Child  - \nSERVICES  .«  Mothers  egiecied  Child  Abuse  Behavior  |  Ramil \niL  PREVENTATIVE AND COORDINATIVE \nBERVICES \nA MEDICAL SERVICES \n1.  Genetic screening \n& Lead screening  for high-risk children  .  0.5  eee cece  neem  cnc  cc  ce  nanan mnmanctnnwecescnconeld \n.  \"  3.  Well  Baby  Clinic...  cs  ccc  mem  m  meee  nee naes  knee  ee  meastsessencenedld \n*,  4.  Immunization  program  . \n.  &. Abortion.  ...  ccc  cnccnwccemanncavseouael  “  o \n6.  Abortion counseling  ....22-  ncceccvevcscel \n; \n7.  Nutritional!  program \n  \na For  children in day care and schools  ..  0...  cccncccncaedd  .  , \nb.  For pregnant women  ....ccscncccnecesd  - \n8.  Genera!  medical  care \na Pedistric  medicine...  ce  ec  nn  meee  wwe  a  Re  eee  rans  De  newenccakeccnccesn dD \nb. Adolescent medicine...  .  cae  cence  name  rcacccce  reas er  ncamenaanneanacsacced \ne. Gynecclinoic .l. 0o... gce aie ccecea celase d \n€@. Hospital  a  re  ere | \n   e.  Free medical clinic.  ...2  ccc  rece  nnccecldl \nRegular physical examinations  for  all \neazy  care  and  schoo!  children required \nand  provided  free  if necessary  .  . \n10.  Prenatal  health  maintenance  programs \n)  free to  thoinr neeed. ..  we  eee  ten  ee  teed  . \n11.  Identification  of children  at risk  .  2c  e  cece  nner  eee  nncencsccccanas  dona  anenaed \n32.  Identification  of parents at risk.  we  cee  c  asec  eraccecnsencteasereccesl \n38,  Routine home  visit  for al]  infants  born \nat risk  eet  a  enter  cece emcee ean  new  ce  Rene  mnanceetnananecakncnnncncsncevensseadd \n34.  Horne  visiting program  for toddlers \nat risk  ee  ete  ewe  ee  Ree  ew  eam  ee  eh  ae  ee  eRe  eh  eee ees  Reta  saeeesessereeee \n15.  Routine audiological  screening  in  schools \npnd day Care...  scree  ence  tenn  neces  crceccececcencsancensecsenascasrassanssese \n16.  Routine visual screening  in schools and \nGay  COTE  rece  eee  ee   rc  ee  treatm  eee  meen  ane  een  tence aeseea  seen  enassseesenee \n17. Routine  dental screening  in schools...  0.  ea  ec  eee  me  meee  w  cena  nce  na  Recent  aanececenssaee \n18.  Ophthalmological screening as  necessary.  cc  ccc  cece ec  ce  come  e  enews  nner  emer  seeeureseeseene \n18.  Nevrologica!  screening as necessary  ..  0...  ee  ce  rene  cen  nec  en  cane  eae  tenet  neers  eeew  nese  necaned \n20.  Routine  developmental!  screening  in \nhomer or  physicians’ offices...  ca  ce  cece  ae  Race  c  asec  Ree  n  swe  na tat  nepenacesnsessseee \n2).  Venerea!  disease program for  adolescents  2...  2.  Bi  ccc  nec  c  ences  wr  aceenacesacceset \nB. SCHOOL  SERVICES  . \n3.  Parental  preparation  and  training  for men \nand  women and  child  care  im  high  schools... 2...  we  ee  we  Be  wen  ece  ea  De \n2  Bex and  family  life education \na  Grade school  ee  ee  matt  eee  ee  eta  sae  ae  treet  ence  ewww  ew  ee  eee \nb. Junior high school  2...  cc  mene  ae  cee  w  emcee  e  Roce  ecceelt \n.  @.  Highathool,...  cc  tcc  wwe  w  wc  ce  wane  te cccenccs  Beaccsenseldld \n*  @ Residential  school  2...  cee  ccc  ew  ce  nce  Bene  nc  cece  Becccnceceldl \n3.  Learning  ditabilitier screening  in  grade \nschool and  upper grades.  we  ete  mace  mwa  cater  eben  een  e  meee  e  et  esscees  tea  nseceeee \n4.  Perceptual motor screening \nm. In day Care  2...  cece  ce  caw  c  aan  ena  cnc  enc  m  ee necwcccnsenesscasscerevesnsaseed \n,  APPENDICES  .  ,  .  83 \n \n  \nUnmarried  Dependent/  Child  Family \nMothers  Neglected  Child  Abuse  Behavior  Stress \nb. In grade school  wet  m emcee  mene  nent  es  ee  ates  seem  nce  seeecsceranaensesessessoee \n|  In  Upper grades  cece  cca  mene  ewe  wrt  etme  eect  ee  teem  ee  ees  een  mesneeaeaseserssese \n5.  Screening  and  testing  for giftednesisn  \ngrade school...  cee  ceca  cece  een  cence  een  sse  net  eenn  sew macccnneceensaeessaeenee \nC.  COORDINATIVE  SERVICES \n1, Case coordination  counsel  ..  2.  es eceeccucesBecaccacesBevccancscRecvcuccesBucesenseed \n® Council of social agencies...  2c  ccc  cc  ener  c  ee  Dene  amacce  Dace  wnwtacncenceccenesscenoneee \n3. Community  mental  health  board...  2.  pccc  seen  een  scan  ccsccncn  dese  e  eves  ate  esaeaveea. \n4 Public  health  district.  2...  ce  ewww  mew  ee  ee  Dea  enw  eens  Sem  weeatas  senses  nesescessneen \n5. Inter-agency  Haison  12...  ee  mc  ewww  were  ne  Sec  w  nc  eaten  wwnecasdensancevatssanssssee \nD.  FAMILY  SUPPORT SERVICES \n1.  Family  planning  for  adults.  .  2...  2.22522020-   doce  cee  ne  teen  seccase \n2. Family  planning  for teenagers...  2  ee  eee ence dla  rcctcncnesenecsewaseeeanaseed \n%. Financial assistance  2...  ccc  cece cence  ee  Leena  cc  ans  Sewanee ms  nasser  cccees  Deewaseecen \n4.  Financial  and  budget  counseling  ..  2.2  ccc  ee  ue  Zecsccns  ee  tem  wea  wcc  a  tases  ensavacsesscene \n5.  Community-supported  teen  centers  ..  ee.  ence  erence  nme  scn  ses  es  sense  c  sac enenese  a \n6. Transportation......  ee  rrr  2  er  rrr  ee \n4.  Supervised summer  recreation.  2...  eee  ee  werner  cea  meena  nm  eae  renner ssanaaaseee \n8.  Supervised  weekend  recreation...  ccc  ew  wee serene  nace  e  emacs  aa  secre  eceace \n9.  Supervised  after-school recreation  ....2..  222s  en  we  mason  nemac  ces  ncasenascoeane \n10. Basic  legal  services  .....,.0085  se  s#e  were  ee  bene  cc  ee  Ze  wwe  een  nn  Daw  mana  c  es  Dee  nnncneee \n11.  Training for  parein nbethavsio r  manage- \nment.  eenv@®@eaee  cea  mm  ew  ee  cree  mene  eae  wae  cena  ewe  eseteasmeassncesedecenanscoed \n12  Prenatal  parenting education. ....  wee  enneeaal \n13.  Postnatal  parenting  education  on \ndevelopmental  stages  2...  ce  ec  wwe  en  Re  ee  mea  se  arate  ewe  eds  ntee  ness  See  aeneseee. \n14. Public  education  .....  ewe  mene  meee  eae  denne  r  eww  areas  a  reads  ere  snes  s  das  wnsccnse \nE. INFORMATION  AND  REFERRAL \nSERVICES \ni. Centra!  referral agency  .....  ae  wee  em  cc  ae  wear  ce  rsa  reese  se  sccceoad \n2. No-deciine  service  agreemen2t.0s n.ee. .en   cenneae  ee  weet  ee  ee  ee  ee  eee  ee  ees  eae  eae  enae \n’  3.  Orieofn judtgesa, sttatei's on attorneys........ eee  ta  wee  tem  eee  mene  eee  enw  neae \n4. Orientoaf pthyisiocinan s  2...  cca  se  acer ccc  scan  caen  wares  esaneceell \nIL EMERGENCY  SERVICES \n1.  Child  abuse  hotline  ++  +2es2 en c ence  neces  cee  cama  new  esccnsensB  \n2 Child  abuse  site  investigation  «2. ees  es  cccsan  nee  nncccscseceseel \n3. Child  neglect site  investigation  -  +.  2c  eee  eee  er asec  nessacal \n4. Child  abuse report and follow-up  .-  22sec  cesses  cca  cnaweacecsesesel \n5.  Child  neglect report  and  follow-up  ....-.  seer  saw  ener  saeld \né.  Emergency  shelter  for  families  cee  ese  wr  r  ams  e  ewe  eesaana  decease  ewan  Qe  naan  seseasreneccean  D \n7.  Emershelgter eforn chicldryen  «....0-00..  see  licen  ancccle  nae  wena  den  eawLee csnesaneeee ?  \n&. Drop-in center  for  famili2s e2cs e.e e.en. a sec  cacae  wen  maswoaseceaa  D  ; \n9,  24-hour crisis line.  .....«0.  sen  cnecennas  tLe  cee  meee  e  Le  renee  ree  Le  seneneneLesenecneeel \n10.  24-hour  walk-in service  +.  cece  weer  ccc  cece  w  mwa  awww  ease  nccecaa  Denese  enacl \nIl.  24-hour  site  visit  ....-..¢.  mmm  we  m  ewe  scm  me  een  e  cane  dere  eeeese dl] \n12. Financial assistance  zs eees  eon  m  aes  evreuneaas  Zan  ex ean  elon  ecc  cen  mas  acermncnerasreaccarsen  DZ \n13,  Cothing..  seeece  Peer  ere  secre  cre  neaceseseneccesd \n24,  Food...  sue  ecceccene  eepeaes  “wen  eauenvuacas  wesescccued \n15. Drug  detoxification  Beer  meee  ween e  ene  wees  mm ae  wate  neatorama  toccenswecccena  Qenacnenaed \n26.  Alcohol  detoxification \naX  For  adolescents  Sree  em  ew  ee  ewes  ere  m  manera  as  ee  ent  eenaetoreeens Qeanceneaene \nb.  For adults  se  ewee  oem tsevsp ee  @eeenew@ewncaaeaeeasasae  eee  wwe  eee  ewe  eee  mea Dre  eee  nn  ee \n17,  24-hour medical  care  available  .....---...0.  l...-.  ene  e  cc  ccesenael \n18.  Family crisis  intervention  .----+..seeees  wee  Qe  nn  aw  aaw  cen  ncaenenad s sane  snasdeseacccsceel \n18,  Emergency  homemaker  or  caretaker  Sten  ewe  en  wear  ee  be  scene  rea  dense  enees  Qensevcecul \n20.  Parents  Anonymous hotline  -  -  aeeve  @eeaneacsa  Bm  wee  awenatacvesnasacl \nM1.  DIAGNOSTIC  AND  EVALUATIVE  SERVICES \n1.  Psychiatric  evaluation  and  diagnosis  eeeoeren  anaes ane  seme  c  an  ZBewesascaadesecseeredacaancenss  2 \n2.  Psychological  evaluation  06+  ss  ence  ewe  acc  nese  neces  ccna  Ze  nce  nccealecscenncedecccsnens dD \n'  CHILDREN  AND  FAMILY SERVICES \n \n  \nye  !  ae  Unmarried  Dependent!  '  Chitd  Family \n‘Se  Mothers  Negiectr’  Child  Abuse  Behavior  Stress \n,  3.  Speech and hearing evaluation  CCC  MS SOMES ee EEO OEE  OREO SED EdEdeEOESEEEHED EEE  EHESESEEAE \n”  °  4, Occupational  therapy  evaluation  «scccsccsenesnccesnassanseseeseseceassanessesseesseed \n4  8, Physical  therapy  evaluation  Sesame  ae  F  Ose OeCBDES  HCC  AEaeenHerHerasenusesaasasasesesedd \n“Y  6.  Neurological!  evaluation  PoP  m  ee  DEDeFoe  Meneses oneanessnstessesenseesseaneseesnessanadh \n?  7.  Ophthalmological evaluation  Pome  emer  eset  neon eres  asters senses  neonessenesereseetesese \n8. Orthopedic  evaluation.  «.cccrcccncescncensaweeseasecnnsereserssscenaneaesssasesesd \n@.  Denia! evaluation \n370.  Nutritional evaluation  a  nc envccscoenncana Ra nensseneBrorccncncsecccaccccecescvecce®  , \n12. Boris! evaluation  wee ewe  ces  eae temas  cces ds  sensccce  leccwccccehocvenesnacdssesesevcl \n32. Physical evaluation...  cc  acconnccsesesccedsesnesoses  favncvsccedesncceansceceenasancecg \n13. Alcoholism evaluation  Cw  erm  meas  eceaesnesecemeence  See vraeseseesacsecacePeesaneseasd  , \n14. Drug  evaluation  -c-c  es  ccc new cesncccscnccnsescneseecconsccsssnssesneskestassecend \n15. Brief inpatient  diagnostic unit  Come  em ee neta  saat  nan  anemasessaseseeeesreteasecd \n16.  Vocational  testing  sewn  wee  rc  cece  ass  eases Sr  msec  enssccsscnsccatannsvcsencs®l \n17.  Multi-discipsinary  diagnostic  tearn \n‘  .& Medical assessment  me  meme  rece s mene  Damas nce  n  Re  cmmcnesa  da  naccacatereanceseoed \n°  b. Psychistric consultant +.  ccc  es  ccn  nen  scerccsascconnesnsesscadsasncensed \ne. Leg! consultant  weet  eee  e  newt  ewes Le  cenc eens  Benccnenssdecerseceed \nd@.  Psychiatric  nurse  ere  eee  eww  wae  e  ee ee  ene  essa  srersesanasesenen® \n@.  Rehabilitation counselor  «2c  cw  asennnncecanccee  sess  sanenereatanensaesesnacenaascecd \nf.  Clinical psychologist».  0.  ee  cece  cence  eee  Beceem  cere  Bere  nccccederccsanendesvacccced \ng- Social worker  were ee  c  era  wae  t  as  eraseedscccssace  heorccseonednsnsavansngoannannesoed \nTY.COUNSELING  AND  CASEWORK  SERVICES \n1. Individual case advocates  mem  mee  eee  sates  acces awendscceccvansadkacvcsenaetdeocncsencel \n2 Marita! counseling  see  tee  mee  mm  ee  meaner  nennncanen  teccensc  es  tenses  nace  mace  asccoal \nSB. Adoptive services...  cc  cere  cece  nas  ne  nna  de  ccacsananleccccsesel \n4.  Family counseling  eam  meee  mer  ar  ede  e  rae  ee  mace  seas  dsc  esccase  Sn  evsewces  hace  ccasesll \n5.  Conjoint  and  farnily  counseling \nand family therapy...  ec  ccc  cece  cca  c  cece  Baca  cc  ccc  Bence cennedeccccccca  Br  svccaaced \n-  6. Individual therapy  ...  cc  cece  anne  scan  non  Devas  cccce  Seow  cenenedeccnavsssdkssscsasecld \n7.  Parents  Anonymous...  cc  ee  cece  ences  et  neccccnscsncsasesseseel \nB.  Medication  management  2...  ccc  enn  rere  cc  eaanncarecenseseeaeecerSrsees enaccsseensd  \n9.  Vocational counseling  2.  cen  cccescccBecc eenscennssn  et  ae  wesenseesntcenrae Rreenacsard \n>  10.  Groupcounseling  ccc  cn  cnce  reese  ccc  rer  Seen  c  manna Re  maseonssassssessacdt \n11.  Peercounseling  ..  ccc  ee  neces  ens  en  smc  entewrsassananseesasesewesnessasesd  = \n12. Alcoholics Anonymous...  0.  cc  neces  cccncccwaptee neesctcecnaeld  \n13. Counseling  for  families of alcoholics  .  0.  cece  ccm  cmc  cc  ee  ma  ce  etme  ewe  Renee  arn  e  rere  aaeseeae \n14, Counseling  for teenage  alcoholics  ..  cece  eee  e  wenn  cca  nn  tee  mere  newer  uate  east  meta  tesesee \n16. Employment  placement.  2.. ce.ce cs.c ccn a Beene  ena  ns  Peete  sence  esse  nscaneeesecanaeee \n<  *  16,  Drug education  program  oc  ncencanccnnanacasencscnansccesannsesssesacasade \n.  17.  Group  drug treatment  Pec  e  deca  cee  reese  en  ae  eee ta  eases  sascesseesesessecee \n~  18  Methodone  trestment \n.  38, Genetic counseling as  needed  2.0... eee  e  ne  Beceem  cen  e  ceca  tet  e  nn  aeeneaeeneeesaseand \n20.  Advoicn jauvetnilee csour t  a  ecw  ce  ewww  tne  n  cence acne  Rec  cccccne  Re  acesesaedd \n-  -,  21,  Foster parents/grandpatroe nsetrsve  \nas teachers in child rearing  .  cc  ccc  cc  ccs  Bence  we  vcedanccccccs  Revcencona  tee  nwuceesd \n22.  Training  for parents in  behavior \nSDAMAZEMENL  wee  eee eee  renee  cee  e  Bec  ee  enc  en  ce ccessece  Reve  recnsedeccecnceed \n4 \nV.  DAY PROGRAMS \na.  Infant  day  care  wc  cee  cen sce  seen  en  ncn  cce  das  wwmenaa  ten  ceetenednussencscansccenceee \n“2 Day care \na Regular  weet  cet  wc  w  we  cena  eet  a  we  we  nw  eww  nccs  de  va meter  adesetssssasenesesssed \nb.  For behaviorally  disordered  children  2.0.  cc  cnc  ccc  ene n  cee  s  cence  necceseseeed \n©. Forhandicapped  children  2.2...  cece  cca  crewn  wes  cc  ccns  anne eceteusessesasensscsesd \n@.  For mentally retarded  children  2.  occ cence  wc  cee  cece  e  nec  e  nec  cnn  ewe  een  er  eceeseeeed \n@.  Therapentic  .  0.  cc  cc  ce  ewer  c  cece  cme  e  cnc  c  ee  Rene  ac  cc  ee  men  eeensene \nB. Afterschool care...  cee  eee  e  ee  ca  ct  eet e ete  c  ae  Rec  cccee  ce  Beeman  ene  Re  cncesened \n4. Night care  enc  cect  emcees  we  ces  eet  sese  de  secucesnas  eww  c cca  Dec  nnnc  cca  Resncnsecarldl \nSB.  Housekeeper  cc  ccc  cece  ccc  ence  meee  ee  wean  nencene \n8.  Homemaker \n@ Genera!  ween  c  cw  cence  eee  eet  eee  te  Recs  nn  cree dace  necccnseeecseeseanaswaweerl \nD  APPENDICES  95\n  \n  \n¢  ,  Unmarried  -  Dependent/  Child  Family \n°  -  Mothers  Neyected  Child  Abuse  Behavior  Stress \nb, Therapeutic  eect  e  eee  te  meme  eee  ee  er  tere  ewes  ee  enasessesredansennnneserssseccsed \nc.  Long-term \n  Lay  therapists  25.2  c  ccc  ewww  erence  em  eee  eee  eee  ne  cette oe  nats  aeeeaeseene \n3\n-0.  Sheltered  workshop  Reece  enema  ne  eee  eset  eee  aa  meee  ae  tem  nescence  enereseeeseesnnased \n0.  Day treatment  program  for \n \n©\nemotionally  disturbed \na. Acute  wwe  eee  tee  ee  tee  ee  ee  tee  ee  ae  eee  eet  aaa  t  eee  aanesanesee \nb, Chronic  .  ccc  cece  ccc  nc  reece  tee  wate  erect  tame  nea  ewe  ee  necro  ee  esseeenesaesancend \n10.  Physical rehabilitation  rer  a  eer  oP | \n11, Social rehabilitation  and  habilitation  a  ccc  eee  tame  ews  cent  are  tn  scanmanumesaeenasacaed \n12.  Vocational  training  .....  oe  ew  eee  weet  een  wens  e  ea  wee  enema  neetsensewseeeeseenaee \n13.  Adequate schooling \na  Special  programs  for children  with \nemotiona!  and  intellectual  - \ndifficulties  ..  a.  cee  cc  ee  wre  meee  ee  meee  aeeenaaae  wee  a  cence  rec  cas  dans  cscnsae \n.  b.  Special  classes  and supports  for the \ngifort taelednt ed.....  pe  cesscsccs  ee  eww  c  emer  ewan  craw  erase  neacesaoascanneee \nce.  Alternative  education  .......-  COR  em  mee  ramet  mamas  eers  anes  seaceaeresesdaccanansed \na.  Half-day  vocational  school  release  . \nprogram  with  apprenticeship  if \nappropriate ashen  eseorneanee  Cee  ee  deeraccrevcccceccccssesortssenznesse \ne.  Special]  schools  and  classes  for \nthe  handicapped  .....  ee  me  mmm  anata  eee  e  mace  wane  ene  ast ewes  enaeaceseeusne  eee \nf.  Homebound  educational services  .......  ede  meme  w  eee  ane  e  rea  nec  ascen  seen  ceeeneanaee \ng.  Personality  development and \nchild  rearing»...  cnc  cence  wwe  Den  cn  cence  Dee  ene  enael \nh.  Vocational  planning and \ncareer  consultation........-  wee  ee  eee  we  reer cee  eee  meat  tween  eee  aes  taesneee \ni.  Program  for unmarried  and  married \nparents  allowing mothers  to  remain \nin school  pre-  and  post-delivery  .......+.  i \n14.  Day  hospital  care...  cee  ee  wee  meee  ee  ee  wan  enon  ence  aes  wee  ewww  none \n15, Day  progforr thae rmetasrde d  ...  0.20  nec  ance  n  sec  e  nee  nas  nasacsceanee  Cece  vesacecsececra \nVLTRANSITIONAL  RESIDENTIAL CARE \n1.  Group  home  --  cc  cce  eens  e  ee  cee  mem  eee  Dew  em  ewe  ee  Dace  n  aren  scncevenseald \n2. Adoptive  placement  -.+  seer  ee  eaaee  ee  en  ce  enn  w  vee  uskesscavecald \n8.  Adolescent training and support program...  22  -Lecsce  wees  Zecna  neces  Qe  cnencasall \n4. Maternity  home...  0-2  e  cece  reece  ree  eene  DZ \n8.  Foster care «2  pcs  cc  seer  wen  res  sccesease  Desa  sanlaesasceseccedeevevnccerld \n&.  Residential  care  for  families \n7. Halfway house  «--  ccc  cn  sec  asec  cance  sac  asannecanseteesDecenc nscecnceeed  \n8.  Mutual  care  home  «cece  cn  ween  ccs  vacveed \nYILSHORT-TERM  RESIDENTIAL CARE  - \n(less  than  three  months) \n1. Theraor sppeceialuizedt foisterc ca re  --  1.  2a  Qecacccnnskbesssevacnlencevceaedd  1 \n2%  Diagnostic/evaluative  placement  .-  ccc  casccrcccnsenceduaencacceslecsccsuseld \n3. Protective  placement  --  scene  eee  n  een  e  ecw  mecca senncalocsnaaccaael \n4.  Respite care  or  weekend  foster care  ccc  c  eee  nec  r  ncn  s  cc  ae  Deen eaeee  sD \n5. Residential  treatment  for  farnilies  ..  0.  cence  cece  ane  nccnanascencces D? \n6.  Care for children  needing more secure \n. \nsetting  ote  ep eeoeoeeaseueceeose  ea eenzeevaeuesanee  nw  neeaanuna  whee  wm sees  are  tenses  eg \nTL.LONG-TERM  RESIDENTIAL CARE \n1.  Group home  «1  sec  c  ccc  nw  cance  ecm  ana  m  ete neat  sence  wens  ncencensacaseend \n2 Foster care  oc  es  enc  ec  ccc  acc  n  nce  em  cc  cc  cns  enc  a  en  Desa  cenean  Seow  ranened \n3.  Institutions  Ome  ea  Bem  emer eee  mace  deer  ater  eed  e  ew  tte  ee  een  nwr senor  emereaeeeasus  a \n4.  Nursing home  a  a  ee  ee a  ee  a  ae \n§. Shelter care  eemenee@unseanuseetenaoseeaneeveseseeraeeeeateaneannaane  ase  nw  eae  cas  esecanennesenensee  Z \nCHILOREN  AND  FAMILY SERVICES \n       \nIN  THE  UNITED  STATES  DISTRICT  COURT \nFOR  THE  NORTHERN  DISTRICT  OF  ILLINOIS \nEASTERN  DIVISION  — \n.  REC  wer; \nLECPCLDO  BURGOS,  etal,  MAR \n \ne\nM\nPlaintaieff s,  Cag  ONIMTe fSOST~ L sm~ :.- \ntat \n \nl\n“Ve  T NO.  75C  3974 \nCee \n \nILLINOIS  DEPARTMENT  OF  CHILDREN  Oe\nand  FAMILY  SERVICES, et  al.,  Ne \nMeet \nDefendants.   Nae \ne\nR\nSTIPULATION  TO  WITHDRAW \nCONTEMPT  MOTION \nThe  parties  to  this  action,  by  and  through  their  undersigned \nattorneys,  do  hereby  stipulate  and  agree  to  the  following: \n1.  The  plaintiffs  hereby  withdraw  the  \"Motion  for  a  Rule \nto  Show  Cause  Why  State  Defendants  Should  Not  Be  Held  In  Contempt  Of \nConsent  Decree  entered  on  January  14,  1977,\"  filed  April,  1979.  | \n2.  The  Illinois  Department  of  Children  and  Family  Services \n(\"DCFS\")  hereby  agrees  to  the  following: \na.  DCFS  agrees  to  undertake  new  efforts  to  recruit \nand  obtain  additional  Spanish-speaking  foster  parents  : \nand  homes  in  the  Chicago  metropolitan  area. \nb.  DCFS  agrees  to  conduct  annual  civil  rights \ncompliance  reviews  of  each  vendor  agency  referred  to \nin  paragraph  F(1)  of  the  Consent  Decree  in  this  action. \nc.  DCFS  agrees  to  regularly  obtain  from  vendor \nagencies  referred  to  in  paragraph  F(1}  of  the  Consent \nDecree  documentation  which  verifies  vendor  compliance \nwith  the  Consent  Decree. \n22 \nee | \nExhibit  B \nSe \nen \nA  er are  Sa  rr  re  ere\n-  d.  DCPS  agrees  to  provide  plaintiffs’  counsel \n'  quarterly  statistical  information  specified  in  para- \ngraphs  G{i)  (c)-(d)  of  the  Consent  Decree,  until \nDecember,  1983. \ne.  DCPS  agrees  to  provide  plaintiffs’  counsel \nsemi-annual  written  reports  or  other  documentation \nverifying  actions  taken  in  complaince  with  paragraphs \n2(aj)-(c)  supra.  The  initial  report  shall  be  prepared \nby  June,  1982  and  the  final  report  shall  be  due  in \nDecember,  1983.  : \n£.  DCPS  agrees  to  reimburse  plaintiffs'  counsel, \nathin  60  days,  $7700  for  attorneys’  fees  and  costs \nexpended  in  connection  with  the  prosecution  of  the \nontempt  Motion. \nUh \nG arden  Joins    A lan  A.  Alop   / \nDeputy  Dips  ,  Division  of  Attorney  for  Plaintiffs \nA Program  ations  legal  Assistance  Foundation \nILlincis  Department  af  Children  and  of  Chicago \nFamily  Services  1661  South  Blue  Island  Aveme \n160  North  LaSalle  Street  Chicago,  IL  60608  . \nRoom  1700  \"  \"  los \nChicago,  IL  60601 \nKaren  R.  Goodman \nAttorney  for  Illinois  Department \nef  Children  am  Family \nServices \n160  North  LaSalle  Street  -  Rm.  1700 \nChicago,  IL  60601\n",
+      "document_type_other": null,
+      "external_url": "",
+      "ecf_number": null,
+      "clearinghouse_link": "clearinghouse.net/doc/51741"
+    },
+    {
+      "date": "2011-04-11",
+      "date_is_estimate": true,
+      "date_not_available": false,
+      "description": null,
+      "document_source": null,
+      "document_status": "Coding Complete",
+      "document_type": "Press Release",
+      "order_type": null,
+      "citation_paren": null,
+      "cite_1_page": null,
+      "cite_1_reporter": null,
+      "cite_1_vol": null,
+      "cite_2_page": null,
+      "cite_2_reporter": null,
+      "cite_2_vol": null,
+      "cite_3_page": null,
+      "cite_3_reporter": null,
+      "cite_3_vol": null,
+      "citation_status": "Not applicable",
+      "court": "No Court",
+      "no_title": false,
+      "party_types": [],
+      "per_curium": false,
+      "is_core_document": true,
+      "id": 51743,
+      "file": "https://clearinghouse-umich-production.s3.amazonaws.com/media/doc/51743.pdf",
+      "title": "Burgos Consent Decree [informational brochure for DCFS clients]",
+      "text": "Burgos Consent \nFor additional information, contact\nDecree\nLourdes M. Rodríguez\nBurgos Coordinator\nDCFS Ofﬁ ce of Afﬁ rmative Action\n1911-1921 South Indiana, 4th ﬂ oor\nChicago IL  60616\nPhone: 312/808-5264 \nFax: 312/808-5134\nThe Burgos Consent Decree \nYou may also visit the DCFS Web site:\nmay give you the right\nwww.state.il.us/dcfs\nto the following services:\nIf you are having difﬁ culty obtaining \nTo have a bilingual social services \nservices in Spanish, please call \ncaseworker in charge of your case\nthe Advocacy Ofﬁ ce for Children \nand Family Services\nTo receive DCFS documents \n800/232-3798\nand correspondence in Spanish\n \nTo receive services for your family, \nchildren and yourself in Spanish\nTo have your child placed with a \nSpanish-speaking, bilingual foster family \nTo have access to a \nSpanish-English interpreter\nPrinted by Authority of the State of Illinois\nDCFS #815 – April 2011 – 5,000 Copies\nCFS 1050-63-2 – Rev. 4/11\n\nI am the subject of a child abuse/neglect  Can I receive services in Spanish if I  My  child  is  placed  with  relatives \ninvestigation and I only speak Spanish.  have an open case with DCFS but my  that only speak Spanish. Can I get a \nAre there bilingual investigators? children still live with me? bilingual worker assigned to work with \nthem?\nYes. DCFS will send out a bilingual investigator.  If a  Yes, if you have indicated on the language determination \nbilingual investigator is not available, then an interpreter  form that you need or request the services in Spanish and  Yes.  If your child is placed with relatives that only \nwill accompany the non-bilingual investigator on all  you have an open case with DCFS where a worker comes  speak Spanish, a bilingual worker will be assigned or \ncontacts with persons who only speak Spanish.  Your  into your home to provide services for you and your  an interpreter provided to accompany the caseworker \nchildren may not be used as interpreters. children. Services for intact families in Spanish include  on all visits to the home. \nthe same services as described above.\nHow will I let the Department of Children  Does DCFS have Spanish-speaking \nI only speak Spanish, but a bilingual \nand Family Services (DCFS) know that  interpreters?\ncaseworker was not available. How will \nI want services in Spanish? \nYes.  DCFS contracts with Spanish-speaking interpreter \nthe caseworker communicate with me? \nYou will determine in what language, Spanish or English,  services.  Spanish interpreter services are available if you \nyou want to receive services by communicating your  DCFS will have an interpreter accompany non-bilingual  request them and/or when needed.  You can make that \nlanguage preference to your caseworker.  The caseworker  caseworkers on all visits with you.  request to your caseworker. \nwill then record your indicated language preference on \na language determination form that will become part of \nyour case ﬁ le.  Will I receive letters, notices, rules and  Is there other information available in \ndocuments in Spanish?\nSpanish that I can request?\nYes.  DCFS will send all letters, notices, service plans and \nYes.    There are several important brochures that can be \nWhat services are available in Spanish \nother correspondence in Spanish to Spanish speakers or \nof help, including:\nfor my children, my family or me?\nthose who request them in Spanish.  \n1.  You, Your Children, the Illinois Department of \n \nServices that are needed by Spanish speakers only shall  Children and Family Services and Child Abuse: \nbe provided, in Spanish.  Services for those who have  Guide for Parents Who are Mexican Nationals: \nMy child only speaks Spanish.  Will my \nrequested services in the Spanish language shall also be  2006\nprovided in Spanish.  Services available in Spanish may  child be placed in a Spanish-speaking  2.  What you need to know about child abuse and \ninclude, but are not limited to: individual and family  foster home or placement where he/ neglect investigations \ncounseling, domestic violence counseling, psychological  she will be able to communicate with  3.  The Service Appeal Process\nand psychiatric evaluation and treatment, parenting  4.  The Advocacy Ofﬁ ce for Children and Families \nthe foster parent or staff?\nclasses, alcohol and substance abuse evaluation and  5.  Norman Services\ntreatment, and sexual abuse evaluation and treatment.  Yes.  DCFS will place Spanish-speaking only children in  6.  Protect Your Rights as a Father\na foster home where Spanish is spoken.  However, many  7.  What you need to know about being a relative \nchildren come to DCFS with special needs that require  caregiver\nspecialized placements.  In the event your child needs a \nspecial home, DCFS will make the best placement choice  DCFS has other materials in Spanish.  Make sure to ask \nconsidering language, but ﬁ rst ensuring your child’s  your caseworker for the information in your preferred \nwell-being and safety.  language.",
+      "document_type_other": "",
+      "external_url": "http://www.state.il.us/DCFS/docs/Burgos_Bro.pdf",
+      "ecf_number": null,
+      "clearinghouse_link": "clearinghouse.net/doc/51743"
+    },
+    {
+      "date": "2010-09-01",
+      "date_is_estimate": false,
+      "date_not_available": false,
+      "description": null,
+      "document_source": "PACER [Public Access to Court Electronic Records]",
+      "document_status": "Coding Complete",
+      "document_type": "Docket",
+      "order_type": null,
+      "citation_paren": null,
+      "cite_1_page": null,
+      "cite_1_reporter": null,
+      "cite_1_vol": null,
+      "cite_2_page": null,
+      "cite_2_reporter": null,
+      "cite_2_vol": null,
+      "cite_3_page": null,
+      "cite_3_reporter": null,
+      "cite_3_vol": null,
+      "citation_status": "Not applicable",
+      "court": "Northern District of Illinois",
+      "no_title": false,
+      "party_types": [
+        "Court"
+      ],
+      "per_curium": false,
+      "is_core_document": true,
+      "id": 44137,
+      "file": "https://clearinghouse-umich-production.s3.amazonaws.com/media/doc/44137.pdf",
+      "title": "Docket [PACER]",
+      "text": "Case: 1:75-cv-3974   As of: 09/19/2012 06:31 PM CDT   1 of 4\nTERMED\nUnited States District Court\nNorthern District of Illinois − CM/ECF LIVE, Ver 5.0.3 (Chicago)\nCIVIL DOCKET FOR CASE #: 1:75−cv−03974\nBurgos, et al v. DCFS, et al Date Filed: 11/20/1975\nAssigned to: Honorable James B. Zagel Date Terminated: 01/14/1977\nDemand: $15,000 Nature of Suit: 440 Civil Rights: Other\nCause: 28:1331 Federal Question: Other Civil Rights Jurisdiction: Federal Question\nSpecial Master\nLayla Suleiman\nPlaintiff\nLeopoldo Burgos represented by Maria Valdez\nMexican American Legal Defense\n&Educational\nFund\n188 West Randolph Street\nSuite 1405\nChicago, IL 60601\n(312) 782−1422\nTERMINATED: 05/24/2005\nLEAD ATTORNEY\nATTORNEY TO BE NOTICED\nPatricia Mendoza\nMexican American Legal Defense\n&Educational\nFund\n188 West Randolph Street\nSuite 1405\nChicago, IL 60601\n(312) 782−1422\nTERMINATED: 07/22/2003\nLEAD ATTORNEY\nATTORNEY TO BE NOTICED\nRicardo Meza\nMexican American Legal Defense &Ed.\nFund\n11 E. Adams Street\nSuite 700\nChicago, IL 60603\n(312) 427−0701\nEmail: rmeza@maldef.org\nTERMINATED: 09/01/2010\nLEAD ATTORNEY\nAlonzo Rivas\nMexican−American Legal Defense and\nEducational Fund\n11 East Adams\nSuite 700\nChicago, IL 60603\n(312) 427−0701\nEmail: arivas@law−rb.com\nATTORNEY TO BE NOTICED\nPlaintiff\nIris Burgos represented by Maria Valdez\n(See above for address)\n\nCase: 1:75-cv-3974   As of: 09/19/2012 06:31 PM CDT   2 of 4\nTERMINATED: 05/24/2005\nLEAD ATTORNEY\nATTORNEY TO BE NOTICED\nPatricia Mendoza\n(See above for address)\nTERMINATED: 07/22/2003\nLEAD ATTORNEY\nATTORNEY TO BE NOTICED\nRicardo Meza\n(See above for address)\nTERMINATED: 09/01/2010\nLEAD ATTORNEY\nAlonzo Rivas\n(See above for address)\nATTORNEY TO BE NOTICED\nPlaintiff\nMiguel Mendez represented by Maria Valdez\n(See above for address)\nTERMINATED: 05/24/2005\nLEAD ATTORNEY\nATTORNEY TO BE NOTICED\nPatricia Mendoza\n(See above for address)\nTERMINATED: 07/22/2003\nLEAD ATTORNEY\nATTORNEY TO BE NOTICED\nRicardo Meza\n(See above for address)\nTERMINATED: 09/01/2010\nLEAD ATTORNEY\nAlonzo Rivas\n(See above for address)\nATTORNEY TO BE NOTICED\nPlaintiff\nIdanina Mendez represented by Maria Valdez\n(See above for address)\nTERMINATED: 05/24/2005\nLEAD ATTORNEY\nATTORNEY TO BE NOTICED\nPatricia Mendoza\n(See above for address)\nTERMINATED: 07/22/2003\nLEAD ATTORNEY\nATTORNEY TO BE NOTICED\nRicardo Meza\n(See above for address)\nTERMINATED: 09/01/2010\nLEAD ATTORNEY\nAlonzo Rivas\n(See above for address)\nATTORNEY TO BE NOTICED\n\nCase: 1:75-cv-3974   As of: 09/19/2012 06:31 PM CDT   3 of 4\nV.\nDefendant\nIllinois Department of Children and\nFamily Services\nDefendant\nRichard S Laymon\nindividually and in his official capacity as\nGuardianship Administrator of DCFS\nDefendant\nMary Lee Leahy\nindividually and in her official capacity as\nDirector of DCFS\nDefendant\nRose Jeeter\nindividually and in her official capacity as\nAffirmative Action Officer of DCFS\nDefendant\nLutheran Child and Familly Services\na not−for−profit Illinois Corporation\nDefendant\nBensenville Home Security represented by Samuel A. Purves\na not−for−profit Illinois Corporation McKenna, Storer, Rowe, White &Farrug\n33 North LaSalle Street\nSuite 1400\nChicago, IL 60602−2610\n(312)558−3900\nLEAD ATTORNEY\nATTORNEY TO BE NOTICED\nDate Filed # Docket Text\n12/17/1993 1  COURT'S MONITOR'S REPORT (Exhibits) ; notice of filing. (fce) (Entered:\n12/20/1993)\n09/14/1995 JOINT MOTION to recommend appointment of a new monitor\n(Attachment/Exhibits) ; Notice of motion (fce) (Entered: 09/21/1995)\n09/14/1995 MINUTE ORDER of 9/14/95 by Hon. James B. Zagel : Granting joint motion to\nrecommend appointment of a new monitor [0−1]. The appointment of Ruben\nCastillo as special master is vacated and substituted with that of Layla Suleiman.\nNo notice (fce) (Entered: 09/21/1995)\n07/12/1996 MOTION by plaintiffs for substitution of counsel Patricia Mendoza ; Notice of\nmotion (eav) (Entered: 07/17/1996)\n07/12/1996 MINUTE ORDER of 7/12/96 by Hon. James B. Zagel : Granting plaintiffs motion\nfor substitution of counsel Patricia Mendoza. [0−1] Mailed notice (eav) (Entered:\n07/17/1996)\n07/17/1996 MAILED Rule 3.14 letter to Patricia Mendoza (eav) (Entered: 07/17/1996)\n08/15/1996 2  ATTORNEY APPEARANCE for plaintiffs by Patricia Mendoza with Rule 39\nAffidavit (eav) (Entered: 08/16/1996)\n07/25/1997 3  MOTION by plaintiffs to extend court monitor appointment (Exhibits); Notice of\nmotion (hp) (Entered: 08/12/1997)\n\nCase: 1:75-cv-3974   As of: 09/19/2012 06:31 PM CDT   4 of 4\n08/07/1997 4  MINUTE ORDER of 8/7/97 by Hon. James B. Zagel : Plaintiffs' motion to extend\ncourt monitor appointment to and including 10/31/97 is granted. [3−1] Mailed\nnotice (hp) (Entered: 08/12/1997)\n11/12/1999 5  AGREED MOTION by plaintiffs' to present monitor's report, workplan, and other\nrelief (Attachments); Notice. (vmj) (Entered: 11/26/1999)\n11/18/1999 6  MINUTE ORDER of 11/18/99 by Hon. James B. Zagel: Plaintiffs' motion to\npresent monitor's report, workplan, and other relief is granted [5−1]. No notice\n(vmj) (Entered: 11/26/1999)\n12/01/1999 7  MINUTE ORDER of 12/1/99 by Hon. James B. Zagel: (Entered Agreed Order to\nfile Monitor's report and Workplan, instanter, and for provision of services). No\nnotice (vmj) (Entered: 01/28/2000)\n07/17/2003 8  MOTION by plaintiffs to withdraw Patricia Mendoza and to substitute counsel\nMaria Valdez and Alonzo Rivas ; Notice of motion (eav) (Entered: 07/31/2003)\n07/17/2003 10  ATTORNEY APPEARANCE for plaintiffs by Maria Valdez and Alonzo Rivas\n(eav) (Entered: 07/31/2003)\n07/22/2003 9  MINUTE ORDER of 7/22/03 by Hon. James B. Zagel : Motion to withdraw and\nsubstitute counsel is granted. [8−1] The appearance of Patricia Mendoza is\nwithdrawn. No notices mailed (eav) (Entered: 07/31/2003)\n05/19/2005 11  MOTION by Plaintiffs to withdraw and substitute counsel(gma, ) Additional\nattachment(s) added on 5/20/2005 (gma, ). (Entered: 05/20/2005)\n05/19/2005 12  NOTICE of Motion by Alonzo Rivas for presentment of MOTION by Plaintiffs to\nwithdraw and substitute counsel 11 before Honorable James B. Zagel on 5/24/2005\nat 10:15 AM. (gma, ) (Entered: 05/20/2005)\n05/24/2005 13  MINUTE entry before Judge James B. Zagel : Motion to withdraw 11 the\nappearance of Maria Valdez as attorney for all the plaintiffs is granted. Mailed\nnotice (eav, ) (Entered: 06/01/2005)\n03/24/2006 14  MINUTE entry before Judge James B. Zagel : MOTION by Plaintiffs Leopoldo\nBurgos, Iris Burgos, Miguel Mendez, Idanina Mendez to substitute attorney is\ngranted. MOTION by Plaintiffs Leopoldo Burgos, Iris Burgos, Miguel Mendez,\nIdanina Mendez to withdraw as attorney 11 is granted. Maria Valdez terminated.\n(drw, ) (Entered: 03/26/2006)\n08/04/2006 15  ATTORNEY Appearance for Plaintiffs Leopoldo Burgos, Iris Burgos, Miguel\nMendez, Idanina Mendez by Ricardo Meza; Notice. (vkd, ) (Entered: 08/08/2006)\n08/27/2010 16  MOTION by counsel for Plaintiffs Iris Burgos, Leopoldo Burgos to withdraw as\nattorney (Meza, Ricardo) (Entered: 08/27/2010)\n08/27/2010 17  NOTICE of Motion by Ricardo Meza for presentment of motion to withdraw as\nattorney 16 before Honorable James B. Zagel on 9/2/2010 at 10:15 AM. (Meza,\nRicardo) (Entered: 08/27/2010)\n09/01/2010 18  MINUTE entry before Honorable James B. Zagel:Motion to withdraw as attorney\n16 is granted. The appearance of attorney Ricardo Meza is withdrawn.Mailed\nnotice (drw, ) (Entered: 09/01/2010)",
+      "document_type_other": "",
+      "external_url": null,
+      "ecf_number": null,
+      "clearinghouse_link": "clearinghouse.net/doc/44137"
+    }
+  ],
+  "document_count": 4
+}

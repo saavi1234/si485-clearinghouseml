@@ -1,0 +1,458 @@
+{
+  "case_id": 6430,
+  "fetched_at": "2025-10-22T00:08:40.155645",
+  "case_data": {
+    "attorney_orgs": [
+      "EEOC"
+    ],
+    "available_documents": [
+      "Trial Court Docket",
+      "Monetary Relief",
+      "Injunctive (or Injunctive-like) Relief"
+    ],
+    "case_defendants": [
+      {
+        "defendant_level": null,
+        "institution": null,
+        "institution_alt_state": null,
+        "institution_city": "",
+        "institution_county": null,
+        "name": "Summit Sales Company, Inc.",
+        "defendant_level_other": null,
+        "is_active": true
+      }
+    ],
+    "case_ongoing": "No",
+    "case_status": "Coding Complete",
+    "case_types": [
+      "Equal Employment"
+    ],
+    "cause_other": "",
+    "causes": [
+      "Age Discrimination in Employment Act (ADEA), 29 U.S.C. §§ 621 et seq."
+    ],
+    "class_action_granted": "Not sought",
+    "class_action_sought": "No",
+    "closing_year": 1998,
+    "constitutional_clause": [],
+    "content_of_injunction": [
+      {
+        "value": "Neutral/Positive Reference"
+      },
+      {
+        "value": "Discrimination Prohibition"
+      },
+      {
+        "value": "Retaliation Prohibition"
+      },
+      {
+        "value": "Post/Distribute Notice of Rights / EE Law"
+      },
+      {
+        "value": "Provide antidiscrimination training"
+      },
+      {
+        "value": "Reporting"
+      }
+    ],
+    "court": "Northern District of Texas",
+    "custom_issues": [],
+    "defendant_payment": "15000",
+    "defendant_type": [],
+    "docket_status": "Complete as of retrieval date",
+    "facility_type": [],
+    "filing_date": "1997-09-08",
+    "filing_year": 1997,
+    "id": 6430,
+    "injunction_duration": "",
+    "issues": [
+      "Discrimination Basis: Age discrimination",
+      "Discrimination Area: Disparate Treatment",
+      "Discrimination Area: Discharge / Constructive Discharge / Layoff",
+      "EEOC-centric: Direct Suit on Merits"
+    ],
+    "last_checked_date": "2007-06-05T00:00:00-04:00",
+    "main_docket": {
+      "id": 36640,
+      "docket_entries": [
+        {
+          "row_number": 16,
+          "id": 1283759,
+          "entry_number": null,
+          "date_filed": "1998-04-17T00:00:00-04:00",
+          "attachments": [],
+          "url": "nan",
+          "recap_pdf_url": null,
+          "pacer_doc_id": null,
+          "description": "Case closed (jrb) (Entered: 04/17/1998)"
+        },
+        {
+          "row_number": 15,
+          "id": 1283758,
+          "entry_number": "12",
+          "date_filed": "1998-04-17T00:00:00-04:00",
+          "attachments": [],
+          "url": "nan",
+          "recap_pdf_url": null,
+          "pacer_doc_id": null,
+          "description": "MEMORANDUM DIRECTING ADMINISTRATIVE CLOSURE per chambers of Chief Judge Jerry Buchmeyer (jrb) (Entered: 04/17/1998)"
+        },
+        {
+          "row_number": 5,
+          "id": 1283748,
+          "entry_number": "4",
+          "date_filed": "1997-09-29T00:00:00-04:00",
+          "attachments": [],
+          "url": "nan",
+          "recap_pdf_url": null,
+          "pacer_doc_id": null,
+          "description": "Original ANSWER to Complaint by defendant Summit Sales Co Inc (Attorney Emily Gail Tobolowsky), (2) (jrb) (Entered: 09/29/1997)"
+        },
+        {
+          "row_number": 18,
+          "id": 1283761,
+          "entry_number": "14",
+          "date_filed": "1998-10-02T00:00:00-04:00",
+          "attachments": [],
+          "url": "nan",
+          "recap_pdf_url": null,
+          "pacer_doc_id": null,
+          "description": "Alternative Dispute Resolution Summary. Filed by ADR Provider Louis J Weber . Attorneys in attendance Louis J Weber, Emily Gail Tobolowsky, Nancy S Brewer, Jeffrey Charles Bannon. Prv Fee: $ 1900.00 Disposition: Settled In ADR (djd) (Entered: 10/02/1998)"
+        },
+        {
+          "row_number": 7,
+          "id": 1283750,
+          "entry_number": "5",
+          "date_filed": "1997-10-16T00:00:00-04:00",
+          "attachments": [],
+          "url": "nan",
+          "recap_pdf_url": null,
+          "pacer_doc_id": null,
+          "description": "STATUS REPORT ORDER. Joint Status report due on 12/16/97 ( signed by JB) Copies to counsel: 10/17/97 Page(s): 15 (jrb) (Entered: 10/17/1997)"
+        },
+        {
+          "row_number": 4,
+          "id": 1283747,
+          "entry_number": "3",
+          "date_filed": "1997-09-12T00:00:00-04:00",
+          "attachments": [],
+          "url": "nan",
+          "recap_pdf_url": null,
+          "pacer_doc_id": null,
+          "description": "RETURN OF SERVICE executed as to defendant Summit Sales Co Inc...by deliverying to registered agent 9/9/97 Answer due on 9/29/97 for Summit Sales Co Inc (1) (jrb) (Entered: 09/15/1997)"
+        },
+        {
+          "row_number": 0,
+          "id": 1283743,
+          "entry_number": "1",
+          "date_filed": "1997-09-08T00:00:00-04:00",
+          "attachments": [],
+          "url": "nan",
+          "recap_pdf_url": null,
+          "pacer_doc_id": null,
+          "description": "COMPLAINT filed; (5) (alh) (Entered: 09/09/1997)"
+        },
+        {
+          "row_number": 2,
+          "id": 1283745,
+          "entry_number": null,
+          "date_filed": "1997-09-08T00:00:00-04:00",
+          "attachments": [],
+          "url": "nan",
+          "recap_pdf_url": null,
+          "pacer_doc_id": null,
+          "description": "PRELIMINARY ASSIGNMENT TO Magistrate Judge Wm F Sanderson Jr (alh) (Entered: 09/09/1997)"
+        },
+        {
+          "row_number": 3,
+          "id": 1283746,
+          "entry_number": "2",
+          "date_filed": "1997-09-08T00:00:00-04:00",
+          "attachments": [],
+          "url": "nan",
+          "recap_pdf_url": null,
+          "pacer_doc_id": null,
+          "description": "SUMMONS(ES) issued for defendant Summit Sales Co Inc (Iss-1) (alh) (Entered: 09/09/1997)"
+        },
+        {
+          "row_number": 9,
+          "id": 1283752,
+          "entry_number": "6",
+          "date_filed": "1997-12-15T00:00:00-05:00",
+          "attachments": [],
+          "url": "nan",
+          "recap_pdf_url": null,
+          "pacer_doc_id": null,
+          "description": "Joint STATUS REPORT by plaintiff EEOC, defendant Summit Sales Co Inc (3) (jrb) (Entered: 12/16/1997)"
+        },
+        {
+          "row_number": 12,
+          "id": 1283755,
+          "entry_number": "9",
+          "date_filed": "1998-03-02T00:00:00-05:00",
+          "attachments": [],
+          "url": "nan",
+          "recap_pdf_url": null,
+          "pacer_doc_id": null,
+          "description": "Agreed ORDER granting [8-1] joint motion to extend time/to extend mediation deadline...until 3/30/98. ( signed by JB) Copies to counsel: 3/3/98 Page(s) 2 (jrb) (Entered: 03/03/1998)"
+        },
+        {
+          "row_number": 13,
+          "id": 1283756,
+          "entry_number": "10",
+          "date_filed": "1998-03-02T00:00:00-05:00",
+          "attachments": [],
+          "url": "nan",
+          "recap_pdf_url": null,
+          "pacer_doc_id": null,
+          "description": "Confidentiality ORDER...see order for specifics. ( signed by JB) Copies to counsel: 3/3/98 Page(s) (jrb) (Entered: 03/03/1998)"
+        },
+        {
+          "row_number": 17,
+          "id": 1283760,
+          "entry_number": "13",
+          "date_filed": "1998-05-18T00:00:00-04:00",
+          "attachments": [],
+          "url": "nan",
+          "recap_pdf_url": null,
+          "pacer_doc_id": null,
+          "description": "Consent Decree/ORDER...see order for specifics. ( signed by JB) Copies to counsel: 5/19/98 Page(s) 7 (jrb) (Entered: 05/19/1998)"
+        },
+        {
+          "row_number": 14,
+          "id": 1283757,
+          "entry_number": "11",
+          "date_filed": "1998-04-03T00:00:00-05:00",
+          "attachments": [],
+          "url": "nan",
+          "recap_pdf_url": null,
+          "pacer_doc_id": null,
+          "description": "RETURN OF SERVICE executed re: subpoena in a civil case to Keeper of the Records Rampak. (1) (jrb) (Entered: 04/06/1998)"
+        },
+        {
+          "row_number": 1,
+          "id": 1283744,
+          "entry_number": "1",
+          "date_filed": "1997-09-08T00:00:00-04:00",
+          "attachments": [],
+          "url": "nan",
+          "recap_pdf_url": null,
+          "pacer_doc_id": null,
+          "description": "DEMAND for jury trial by plaintiff EEOC (5) (alh) (Entered: 09/09/1997)"
+        },
+        {
+          "row_number": 10,
+          "id": 1283753,
+          "entry_number": "8",
+          "date_filed": "1998-02-24T00:00:00-05:00",
+          "attachments": [],
+          "url": "nan",
+          "recap_pdf_url": null,
+          "pacer_doc_id": null,
+          "description": "Agreed/JOINT MOTION to extend time/to extend mediation deadline by plaintiff EEOC, defendant Summit Sales Co Inc (3) (jrb) (Entered: 02/25/1998)"
+        },
+        {
+          "row_number": 6,
+          "id": 1283749,
+          "entry_number": "5",
+          "date_filed": "1997-10-16T00:00:00-04:00",
+          "attachments": [],
+          "url": "nan",
+          "recap_pdf_url": null,
+          "pacer_doc_id": null,
+          "description": "Standard SCHEDULING ORDER setting Docket call set for 11/5/98 ; Amending of Pleadings on 2/17/98 ; Deadline for filing of dispositive motions 5/15/98 ; Discovery cutoff 4/16/98 ; Pretrial materials due on 10/20/98 Pretrial conference for 10:00 10/30/98 ; ( signed by JB) Copies to counsel: 10/17/97 Page(s): 15 (jrb) (Entered: 10/17/1997)"
+        },
+        {
+          "row_number": 11,
+          "id": 1283754,
+          "entry_number": "8",
+          "date_filed": "1998-02-24T00:00:00-05:00",
+          "attachments": [],
+          "url": "nan",
+          "recap_pdf_url": null,
+          "pacer_doc_id": null,
+          "description": "MEMORANDUM by plaintiff EEOC, defendant Summit Sales Co Inc in support of [8-1] joint motion to extend time/to extend mediation deadline (3) (jrb) (Entered: 02/25/1998)"
+        },
+        {
+          "row_number": 8,
+          "id": 1283751,
+          "entry_number": null,
+          "date_filed": "1997-10-16T00:00:00-04:00",
+          "attachments": [],
+          "url": "nan",
+          "recap_pdf_url": null,
+          "pacer_doc_id": null,
+          "description": "Utility Flag set. JURY (jrb) (Entered: 10/17/1997)"
+        }
+      ],
+      "docket_case_type": "cv",
+      "docket_year": 1997,
+      "docket_filing_number": 2200,
+      "is_main_docket": true,
+      "court": "Northern District of Texas",
+      "state": "Texas",
+      "docket_office_number": "3",
+      "docket_number_manual": "3:97-cv-02200",
+      "scales_html": "https://clearinghouse-umich-production.s3.amazonaws.com/media/docket-html/txnd--3-97-cv-02200.html",
+      "recap_link": null,
+      "is_active": true
+    },
+    "name": "EEOC v. SUMMIT SALES COMPANY, INC.",
+    "never_filed": false,
+    "non_docket_case_number": "",
+    "non_docket_case_number_type": null,
+    "non_docket_case_number_type_other": "",
+    "order_end_year": null,
+    "order_start_year": null,
+    "permanent_injunction": false,
+    "plaintiff_description": "Equal Employment Opportunity Commission, on behalf of one or more workers.",
+    "plaintiff_type": [
+      {
+        "value": "EEOC Plaintiff"
+      }
+    ],
+    "prevailing_party": "Plaintiff",
+    "pro_se_status": "No",
+    "public_interest_lawyer": "Yes",
+    "related_cases": [],
+    "relief_natures": [
+      "Injunction / Injunctive-like Settlement",
+      "Damages"
+    ],
+    "relief_nature_other": "",
+    "relief_sources": [
+      "Settlement"
+    ],
+    "settlement_agreement": [
+      "Court Approved Settlement or Consent Decree"
+    ],
+    "settlement_judgment_date": "1998-05-18",
+    "settlement_judgment_year": null,
+    "special_collections": [
+      "EEOC Study — in sample"
+    ],
+    "special_case_type": [],
+    "state": "Texas",
+    "summary": "<p>The Dallas District Office of the EEOC brought this action in the U.S. District Court for the Northern District of Texas, against Summit Sales Company, Inc. The complaint, filed in September 1997, alleged age discrimination in violation of the Age Discrimination in Employment Act (ADEA); specifically that Defendant subjected him to disparate treatment and discharged him from his position because of his age (67).  The case was referred to mediation in January 1998 and in May 1998 the parties entered into a consent decree. </p><p>The decree provided for the Defendant to pay the charging party a total of $15,000, provide him with a neutral employment reference, and assume some the responsibility of the charging party's indebtedness to the Defendant's 401K plan. Defendant was enjoined from discriminating or retaliating in violation of the ADEA and was required to post a notice of non-discrimination at its facility and provide annual ADEA training to its employees. </p><p></p>",
+    "summary_published_date": "2007-07-24T00:00:00-04:00",
+    "summary_short": null,
+    "summary_tiny": null,
+    "terminating_date": "1998-05-18",
+    "clearinghouse_link": "clearinghouse.net/case/6430",
+    "is_active": true,
+    "case_documents_url": "https://clearinghouse.net/api/v2/documents/?case=6430",
+    "case_dockets_url": "https://clearinghouse.net/api/v2/dockets/?case=6430",
+    "case_resources_url": "https://clearinghouse.net/api/v2/resources/?case=6430"
+  },
+  "documents": [
+    {
+      "date": null,
+      "date_is_estimate": false,
+      "date_not_available": false,
+      "description": null,
+      "document_source": null,
+      "document_status": null,
+      "document_type": null,
+      "order_type": null,
+      "citation_paren": null,
+      "cite_1_page": null,
+      "cite_1_reporter": null,
+      "cite_1_vol": null,
+      "cite_2_page": null,
+      "cite_2_reporter": null,
+      "cite_2_vol": null,
+      "cite_3_page": null,
+      "cite_3_reporter": null,
+      "cite_3_vol": null,
+      "citation_status": null,
+      "court": null,
+      "no_title": false,
+      "party_types": [],
+      "per_curium": false,
+      "is_core_document": true,
+      "id": 124874,
+      "file": null,
+      "title": null,
+      "text": null,
+      "document_type_other": null,
+      "external_url": null,
+      "ecf_number": null,
+      "clearinghouse_link": "clearinghouse.net/doc/124874"
+    },
+    {
+      "date": "1998-10-02",
+      "date_is_estimate": false,
+      "date_not_available": false,
+      "description": null,
+      "document_source": "PACER [Public Access to Court Electronic Records]",
+      "document_status": "Coding Complete",
+      "document_type": "Docket",
+      "order_type": null,
+      "citation_paren": null,
+      "cite_1_page": null,
+      "cite_1_reporter": null,
+      "cite_1_vol": null,
+      "cite_2_page": null,
+      "cite_2_reporter": null,
+      "cite_2_vol": null,
+      "cite_3_page": null,
+      "cite_3_reporter": null,
+      "cite_3_vol": null,
+      "citation_status": "Not applicable",
+      "court": "Northern District of Texas",
+      "no_title": false,
+      "party_types": [
+        "Court"
+      ],
+      "per_curium": false,
+      "is_core_document": true,
+      "id": 19411,
+      "file": "https://clearinghouse-umich-production.s3.amazonaws.com/media/doc/19411.pdf",
+      "title": "Docket [PACER]",
+      "text": "District Version 3.0.3 - Docket Report https://ecf.txnd.uscourts.gov/cgi-bin/DktRpt.pl?380514794139493-L_3...\nADR, CLOSED, JURY, MREF, SANDERSON\nU.S. District Court\nNorthern District of Texas (Dallas)\nCIVIL DOCKET FOR CASE #: 3:97-cv-02200\nEEOC v. Summit Sales Co Inc Date Filed: 09/08/1997\nAssigned to: Judge Jerry Buchmeyer Date Terminated: 04/17/1998\nDemand: $0 Jury Demand: Plaintiff\nCause: 29:626 Job Discrimination (Age) Nature of Suit: 442 Civil Rights: Jobs\nJurisdiction: U.S. Government Plaintiff\nPlaintiff\nEqual Employment Opportunity  represented by Jeffrey Charles Bannon \nCommission Equal Employment Opportunity \nCommission \nDallas District Office \n207 S Houston \n3rd Floor \nDallas, TX 75202 \n214/655-3300 \nFax: 214/655-3331 FAX \nLEAD ATTORNEY \nATTORNEY TO BE NOTICED\nNancy S Brewer \nEqual Employment Opportunity \nCommission \nDallas District Office \n207 S Houston \n3rd Floor \nDallas, TX 75202 \n214/655-3300 \nFax: 214/655-3331 FAX\nRobert A Canino, Jr \nEqual Employment Opportunity \nCommission \nDallas District Office \n207 S Houston 3rd Floor \nDallas, TX 75202 \n214/253-2750 \nEmail: robert.canino@eeoc.gov\nV.\nDefendant\n1 of 3 6/5/2007 9:17 AM\n\nDistrict Version 3.0.3 - Docket Report https://ecf.txnd.uscourts.gov/cgi-bin/DktRpt.pl?380514794139493-L_3...\nSummit Sales Company Inc represented by Emily Gail Tobolowsky \nLaw Office of Emily G Tobolowsky \n3500 Oak Lawn Ave \nSuite 400 \nDallas, TX 75219 \n214/523-9523 \nLEAD ATTORNEY \nATTORNEY TO BE NOTICED\nProvider\nLouis J Weber represented by Louis J Weber \nLaw Office of Louis J Weber \n5949 Sherry Lane \nSuite 1575 \nDallas, TX 75225 \n469/232-5063 \nFax: 214/987-1506 FAX \nPRO SE\nDate Filed # Docket Text\n09/08/1997 1 COMPLAINT filed; (5) (alh) (Entered: 09/09/1997)\n09/08/1997 1 DEMAND for jury trial by plaintiff EEOC (5) (alh) (Entered: 09/09/1997)\n09/08/1997   PRELIMINARY ASSIGNMENT TO Magistrate Judge Wm F Sanderson Jr (alh) \n(Entered: 09/09/1997)\n09/08/1997 2 SUMMONS(ES) issued for defendant Summit Sales Co Inc (Iss-1) (alh) \n(Entered: 09/09/1997)\n09/12/1997 3 RETURN OF SERVICE executed as to defendant Summit Sales Co Inc...by \ndeliverying to registered agent 9/9/97 Answer due on 9/29/97 for Summit Sales \nCo Inc (1) (jrb) (Entered: 09/15/1997)\n09/29/1997 4 Original ANSWER to Complaint by defendant Summit Sales Co Inc (Attorney \nEmily Gail Tobolowsky), (2) (jrb) (Entered: 09/29/1997)\n10/16/1997 5 Standard SCHEDULING ORDER setting Docket call set for 11/5/98 ; Amending \nof Pleadings on 2/17/98 ; Deadline for filing of dispositive motions 5/15/98 ; \nDiscovery cutoff 4/16/98 ; Pretrial materials due on 10/20/98 Pretrial conference \nfor 10:00 10/30/98 ; ( signed by JB) Copies to counsel: 10/17/97 Page(s): 15 (jrb) \n(Entered: 10/17/1997)\n10/16/1997 5 STATUS REPORT ORDER. Joint Status report due on 12/16/97 ( signed by JB) \nCopies to counsel: 10/17/97 Page(s): 15 (jrb) (Entered: 10/17/1997)\n10/16/1997   Utility Flag set. JURY (jrb) (Entered: 10/17/1997)\n12/15/1997 6 Joint STATUS REPORT by plaintiff EEOC, defendant Summit Sales Co Inc (3) \n(jrb) (Entered: 12/16/1997)\n2 of 3 6/5/2007 9:17 AM\n\nDistrict Version 3.0.3 - Docket Report https://ecf.txnd.uscourts.gov/cgi-bin/DktRpt.pl?380514794139493-L_3...\n01/09/1998 7 ORDER referring case to ADR; Louis J Weber ADR provider; Type of ADR: \nmediation Requested by: court ( Signed by JB) Copies to counsel: 1/9/98 Page(s): \n2 (jrb) (Entered: 01/09/1998)\n02/24/1998 8 Agreed/JOINT MOTION to extend time/to extend mediation deadline by \nplaintiff EEOC, defendant Summit Sales Co Inc (3) (jrb) (Entered: 02/25/1998)\n02/24/1998 8 MEMORANDUM by plaintiff EEOC, defendant Summit Sales Co Inc in support \nof [8-1] joint motion to extend time/to extend mediation deadline (3) (jrb) \n(Entered: 02/25/1998)\n03/02/1998 9 Agreed ORDER granting [8-1] joint motion to extend time/to extend mediation \ndeadline...until 3/30/98. ( signed by JB) Copies to counsel: 3/3/98 Page(s) 2 (jrb) \n(Entered: 03/03/1998)\n03/02/1998 10 Confidentiality ORDER...see order for specifics. ( signed by JB) Copies to \ncounsel: 3/3/98 Page(s) (jrb) (Entered: 03/03/1998)\n04/03/1998 11 RETURN OF SERVICE executed re: subpoena in a civil case to Keeper of the \nRecords Rampak. (1) (jrb) (Entered: 04/06/1998)\n04/17/1998 12 MEMORANDUM DIRECTING ADMINISTRATIVE CLOSURE per chambers \nof Chief Judge Jerry Buchmeyer (jrb) (Entered: 04/17/1998)\n04/17/1998   Case closed (jrb) (Entered: 04/17/1998)\n05/18/1998 13 Consent Decree/ORDER...see order for specifics. ( signed by JB) Copies to \ncounsel: 5/19/98 Page(s) 7 (jrb) (Entered: 05/19/1998)\n10/02/1998 14 Alternative Dispute Resolution Summary. Filed by ADR Provider Louis J Weber \n. Attorneys in attendance Louis J Weber, Emily Gail Tobolowsky, Nancy S \nBrewer, Jeffrey Charles Bannon. Prv Fee: $ 1900.00 Disposition: Settled In ADR \n(djd) (Entered: 10/02/1998)\nPACER Service Center\nTransaction Receipt\n06/05/2007 09:15:57\nPACER Login: hs0328 Client Code: eeoc \nDescription: Docket Report Search Criteria: 3:97-cv-02200\nBillable Pages: 2 Cost: 0.16\n3 of 3 6/5/2007 9:17 AM",
+      "document_type_other": null,
+      "external_url": null,
+      "ecf_number": null,
+      "clearinghouse_link": "clearinghouse.net/doc/19411"
+    },
+    {
+      "date": "1998-05-18",
+      "date_is_estimate": false,
+      "date_not_available": false,
+      "description": "",
+      "document_source": null,
+      "document_status": "Coding Complete",
+      "document_type": "Order/Opinion",
+      "order_type": "Consent Decree",
+      "citation_paren": null,
+      "cite_1_page": null,
+      "cite_1_reporter": null,
+      "cite_1_vol": null,
+      "cite_2_page": null,
+      "cite_2_reporter": null,
+      "cite_2_vol": null,
+      "cite_3_page": null,
+      "cite_3_reporter": null,
+      "cite_3_vol": null,
+      "citation_status": "Not applicable",
+      "court": "Northern District of Texas",
+      "no_title": false,
+      "party_types": [
+        "Court",
+        "Defendant",
+        "Plaintiff"
+      ],
+      "per_curium": false,
+      "is_core_document": true,
+      "id": 19412,
+      "file": "https://clearinghouse-umich-production.s3.amazonaws.com/media/doc/19412.pdf",
+      "title": "Consent Decree",
+      "text": "u.s. \nDISTRICT C,:)URT \nNORTHERN DISTRICT OF TEXAS \nF I LED \nMAY  I 8 1998 \nIN  THE  UNITED  STATES  DISTRIC \nFOR  THE  NORTHERN  DISTRICT  0 \nNCY DOHERTY. CLERK \nDALLAS  DIVISION  BY __________-  ---\nDepu-ty-  ---\n~-----------\nEQUAL  EMPLOYMENT  OPPORTUNITY  } \nCOMMISSION  } \n} \n}  CIVIL  ACTION  NO. \n} \nR \nPlaintiff,  }  3: 97-CV-2200-/ \n} \n} \n} \nv.  } \n} \n} \nSUMMIT  SALES  COMPANY,  INC.  }  ENTERED ON DOCKET \n}  --,.-__, PURSUANT \nDefendant.  }  TO F. R. C. P: RULES \n58 AND 79a \n----------------------------------} \nCONSENT  DECREE \nTHIS  CONSENT  DECREE  is  made  and  entered  into  by  and  between \nthe  Equal  Employment  Opportunity  Commission  (\"EEOC\")  and  Summit \nSales  Company,  Inc.  ( \" Summit  Sales\")  in  the  United  States  District \nCourt  for  the  Northern  District  of  Texas,  Dallas  Division,  with \nregard  to  the  EEOC's  Complaint  filed  on  September  8,  1997 \n(\"Complaint\"),  in  Civil  Action  No.  3-97CV-2200-R.  The  Complaint \nwas  based  upon  a  charge  of  discrimination  filed  by  Philip  Strull, \nCharging  Party,  against  Summit  Sales. \nThe  above  referenced  Complaint  alleges  that  Summit  Sales \nviolated  Section  4 (a) (1)  of  the  Age  Discrimination  in  Employ:nent \nAct  of  1967,  as  amended  (\"ADEA\"),  29  U.S.C.  Section  623,  by \n\nsubjecting  him  to  disparate  treatment  and  discharging  him  from  his \nposition  of  Sales  Representative  because  of  his  age  (67). \nThe  EEOC  and  Summit  Sales  agree  to  compromise  and  settle  the \ndifferences  embodied  in  the  Complaint,  and  intend  that  the  terms \nand  conditions  of  the  compromise  and  settlement  be  set  forth  in \nthis  Consent  Decree  (\"Consent  Decree\"). \nNOW,  THEREFORE,  in  consideration  of  the  mutual  promises  and \nagreements  set  forth  herein,  the  sufficiency  of  which  is  hereby \nacknowledged,  the  parties  agree  as  follows,  the  Court  finds \nappropriate,  and  therefore,  it  is  ORDERED,  ADJUDGED  AND  DECREED \nthat: \n1.  By  entering  into  this  Consent  Decree,  Summit  Sales  admits \nno  violation  of  the  ADEA. \n2.  This  Consent  Decree  resolves  all  issues  raised  in  EEOC \nCharge  No.  310-96-2329. \n3.  Summit  Sales  agrees  that  it shall  conduct  all  employment \npractices  in  a  manner  which  does  not  subj ect  any  employee  to \ndiscrimination  under  the  ADEA. \n4.  Summit  Sales  agrees  that  there  shall be  no  discrimination \nor  retaliation of  any  kind  against  any  person because  of  opposition \nto  any  practice declared unlawful  under  the ADEA,  or because  of  the \nfiling of a  charge;  giving testimony or assistance or participating \nin any manner  in any  investigation,  proceeding or hearing  under  the \nADEA \n5.  Summit  Sales  agrees  to  post  the  Notice  appended  hereto  as \n\nAttachment  \"A\"  on  the  employee  bulletin board  at  the  headquarters \noffice within ten  (10)  days  after the  entry of this Consent  Decree. \nSummit  Sales  will  report  to the  EEOC  that  it has  complied with  this \nrequirement  within  14  days  after  posting  the  notice. \n6.  For  each  year  that  this  Consent  Decree  is  in  effect, \nSummit  Sales  agrees  to  conduct  training  for  all  employees, \nincluding  supervisors,  managers  and  hourly  workers,  advising  them \nof  the  requirements  and  prohibitions  of  the  ADEA.  The  training \nwill  inform  the  employees  of  the  complaint  procedure  for \nindividuals  who  believe  they  have  experienced  discrimination.  The \ntraining  will  also  advise  employees ,  including  supervisors  and \nmanagers,  of  the  consequences  of  violating the ADEA.  The  training \nshall be  at  least  two  hours  in  duration,  and  shall  be  conducted  by \nEmily  Tobolowsky.  Within  10  days  after the  training  is  conducted, \nSummit  Sales,  by  and  through  Emily  Tobolowsky,  will  confirm  that \nthe  requirements  of  this  paragraph  have  been  met. \n7.  Upon  any  inquiry  regarding  the  employment  of  Philip \nStrull,  Summit  Sales  agrees  to  limit  its  response  to:  the \ninclusive  dates  of  his  employment;  his  job  title  when  last \nemployed;  that he  was  a  good person;  and  that  he  was  a  satisfactory \nemployee. \n8.  All  Summit  Sales  employees  whose  duties  include  providing \nreferences  to prospective employers  shall be  informed  in writing as \nto  the  agreements  set  forth  in  paragraph  7,  above. \nCONSENT  DECREE \n\n9.  Summit  Sales  agrees  to  pay monetary  relief  in the  amount \nof  $15,000.00  to  Philip  Strull. \n10.  The  payment  referenced  in  paragraph  9,  above,  shall  be \nmade  by  cashier's  check  made  payable  to  Philip  Strull  and  dated \nJanuary  21,  1999.  The  check  shall be  sent  on  January  21,  1999,  by \ncertified mail,  return  receipt  requested,  to  Mr.  Strull  at  13121 \nFlagstone,  Dallas,  TX  75240.  In  the  event  that  Mr.  Strull  shall \npredecease  the  designated  date  of  payment  referenced  in  this \nparagraph,  the  check  shall  be  made  payable  to  the  Estate  of  Philip \nStrull. \n11.  Summit  Sales  agrees  to  assume  a  portion  of  Philip \nStrull's indebtedness  to the  Summit  Sales  401K  Plan by  assuming  the \nquarterly  repayments  owed  by  Strull  to  the  plan  as  follows: \nOn  each  of  the  seven  (7)  dates  listed  below,  Summit  Sales \nshall  send by  United States mail  a  check  in the  amount  of  $2,432.75 \nmade  payable  to Allmerica  Financial  Life. \nJuly  19,  1998 \nOctober  19,  1998 \nJanuary  19,  1999 \nApril  19,  1999 \nJuly  19,  1999 \nOctober  19,  1999 \nJanuary  19,  2000 \nEach  payment  shall  bemailedto:P.O.Box8632.Boston.MA \nCONSENT  DECREE \n\n02266-8632.  Summi t  Sales  agrees  to  send  a  copy  of  each  check \nconcurrently  to  the  EEOC,  Attention:  Toby  Costas,  Legal  Unit. \n12.  Summit  Sales  agrees  to  report  to  the  EEOC  within  14  days \nafter  entry  of  this  Consent  Decree  regarding  its  compliance  with \nthe  agreement  set  forth  in paragraph  8,  above. \n13.  All  reports  to the  EEOC  required by  this  Decree  shall be \nsent  to  Toby  Costas,  Legal  Unit,  EEOC,  207  S.  Houston,  Dallas, \nTexas  75202. \n14.  If  Summit  Sales  fails  to  tender  payment  or  otherwise \nfails  to  timely  comply  with  the  terms  of  paragraphs  8,  10  and  11, \nabove,  Summit  Sales  shall: \na.  Pay  interest  at  the  rate  calculated pursuant  to  26 \nU. S. C.  Section  6621 (b)  on  any  untimely  or  unpaid \namounts;  and \nb.  Bear  any  additional  costs  incurred  by  the  EEOC \ncaused  by  the  non-compliance  or  delay  of  the \ndefendant. \n15 .  Neither  the  EEOC  nor  Summit  Sales  shall  contest  the \nvalidity of this Consent  Decree  nor  the  jurisdiction of  the  federal \ndistrict  court  to  enforce  this  Consent  Decree  and  its terms  or  the \nright  of  either party to  the  Consent  Decree  to bring  an  enforcement \naction  upon  breach  of  any  term  of  this  Consent  Decree  by  either \nsuch  party.  Nothing  in this  Decree  shall  be  construed  to  preclude \nthe  EEOC  from  enforcing  this  Decree  in  the  event  that  Summit  Sales \nfails  to perform the promises  and  representations  contained herein. \nThe  EEOC  and  Summit  Sales  shall  determine  whether  Summit  Sales  has \nCONSENT  DECREE  § \n\ncomplied  with  the  terms  of  this  Consent  Decree  and  shall  be \nauthorized to  seek compliance with the Consent  Decree  through  civil \naction  in the  United States  District Court.  The  EEOC  also  reserves \nthe  right  to  seek  contempt  sanctions  for  non-payment  and  non \ncompliance  with  this  Court  Order. \n16.  The  parties  to  this  Consent  Decree  agree  to  bear  their \nown  costs  associated  with  the  above-referenced  Complaint. \n17.  The  term  of  this  Decree  shall  be  for  30  days  subsequent \nto  the  last  payment  required  under  paragraph  11,  above. \nCONSENT  DECREE \n\nbIc-\n/ R \nSO  ORDERED,  ADJUDGED  AND  DECREED  this  day  of \n~~~~~~,------'  9~. \n____  19 \nRICT  COURT  JUD \nAPPROVED  AS  TO  FORM  AND  SUBSTANCE: \nCounsel  for  the  plaintiff:  Counsel  for  defendant: \n~NON \nEMILY~_ TOBOLOWSKY  \\~ \nRegional  Attorney  Texas  State  Bar  ' \nConnecticut  State  Bar  No.  301166  20087600 \nNewsom,  Terry  & Newsom \nSterling  Plaza,  Suite  600 \n5949  Sherry \nDallas,  TX  75225 \n(214)  739-1000 \n(214)  739-9009  (fax) \nROBERT  A.  CANINO \nSupervisory  Trial  Attorney \nOklahoma  Bar  No.  011782 \nTOBY  WOSK  COSTAS \nSenior  Trial  Attorney \nTexas  State  Bar  No.  04855720 \nEQUAL  EMPLOYMENT  OPPORTUNITY \nCOMMISSION \n207  South  Houston \nDallas,  Texas  75202 \n(214)  655-3335 \n(214)  655-3331  (fax) \nCONSENT  DECREE ",
+      "document_type_other": "",
+      "external_url": "",
+      "ecf_number": "13",
+      "clearinghouse_link": "clearinghouse.net/doc/19412"
+    }
+  ],
+  "document_count": 3
+}

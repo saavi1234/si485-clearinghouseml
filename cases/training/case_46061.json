@@ -1,0 +1,498 @@
+{
+  "case_id": 46061,
+  "fetched_at": "2025-10-22T00:43:38.618297",
+  "case_data": {
+    "attorney_orgs": [],
+    "available_documents": [
+      "Trial Court Docket",
+      "Complaint (any)"
+    ],
+    "case_defendants": [
+      {
+        "defendant_level": null,
+        "institution": "",
+        "institution_alt_state": "- United States (national) -",
+        "institution_city": "",
+        "institution_county": null,
+        "name": "United States",
+        "defendant_level_other": "",
+        "is_active": true
+      }
+    ],
+    "case_ongoing": "Yes",
+    "case_status": "Coding Complete",
+    "case_types": [
+      "Environmental Justice"
+    ],
+    "cause_other": "Comprehensive Environmental Response, Compensation, and Liability Act of 1980, as amended, 42 U.S.C. §§ 9601 et seq.",
+    "causes": [
+      "State law"
+    ],
+    "class_action_granted": "Not sought",
+    "class_action_sought": "No",
+    "closing_year": null,
+    "constitutional_clause": [],
+    "content_of_injunction": [],
+    "court": "District of District of Columbia",
+    "custom_issues": [],
+    "defendant_payment": "",
+    "defendant_type": [
+      {
+        "value": "Jurisdiction-wide"
+      }
+    ],
+    "docket_status": "Complete as of retrieval date",
+    "facility_type": [],
+    "filing_date": "2025-01-10",
+    "filing_year": 2025,
+    "id": 46061,
+    "injunction_duration": "",
+    "issues": [
+      "Environmental Justice and Resources: Petroleum and petroleum byproducts",
+      "Environmental Justice and Resources: Groundwater"
+    ],
+    "last_checked_date": "2025-02-20T00:00:00-05:00",
+    "main_docket": {
+      "id": 60732,
+      "docket_entries": [
+        {
+          "row_number": 0,
+          "id": 9321932,
+          "entry_number": "1",
+          "date_filed": "2025-01-10T00:00:00-05:00",
+          "attachments": [
+            {
+              "recap_id": 426720310,
+              "pacer_url": "https://ecf.dcd.uscourts.gov/doc1/045011120881?caseid=276305",
+              "description": "Civil Cover Sheet",
+              "attachment_number": 1
+            },
+            {
+              "recap_id": 426720311,
+              "pacer_url": "https://ecf.dcd.uscourts.gov/doc1/045011120882?caseid=276305",
+              "description": "Summons",
+              "attachment_number": 2
+            }
+          ],
+          "url": "https://www.courtlistener.com/docket/69533268/1/district-of-columbia-v-united-states/",
+          "recap_pdf_url": "https://www.courtlistener.com/recap/gov.uscourts.dcd.276305/gov.uscourts.dcd.276305.1.0.pdf",
+          "pacer_doc_id": "045011120880",
+          "description": "COMPLAINT for environmental damages against UNITED STATES OF AMERICA (Fee Status:Filing Fee Waived) filed by DISTRICT OF COLUMBIA. (Attachments: # 1 Civil Cover Sheet, # 2 Summons)(Rosenfeld, Wesley) (Entered: 01/10/2025)"
+        },
+        {
+          "row_number": 10,
+          "id": 9321942,
+          "entry_number": "7",
+          "date_filed": "2025-01-28T00:00:00-05:00",
+          "attachments": [],
+          "url": "https://www.courtlistener.com/docket/69533268/7/district-of-columbia-v-united-states/",
+          "recap_pdf_url": "https://www.courtlistener.com/recap/gov.uscourts.dcd.276305/gov.uscourts.dcd.276305.7.0.pdf",
+          "pacer_doc_id": "045011161781",
+          "description": "NOTICE of Appearance by Elliot Higgins on behalf of All Defendants (Higgins, Elliot) (Entered: 01/28/2025)"
+        },
+        {
+          "row_number": 14,
+          "id": 9321934,
+          "entry_number": null,
+          "date_filed": "2025-01-10T00:00:00-05:00",
+          "attachments": [],
+          "url": "https://www.courtlistener.com",
+          "recap_pdf_url": null,
+          "pacer_doc_id": null,
+          "description": "Case Assigned to Judge Dabney L. Friedrich. (zmtm)"
+        },
+        {
+          "row_number": 15,
+          "id": 9321935,
+          "entry_number": null,
+          "date_filed": "2025-01-10T00:00:00-05:00",
+          "attachments": [],
+          "url": "https://www.courtlistener.com",
+          "recap_pdf_url": null,
+          "pacer_doc_id": null,
+          "description": "Notice of Error- New Case"
+        },
+        {
+          "row_number": 5,
+          "id": 9321936,
+          "entry_number": "2",
+          "date_filed": "2025-01-10T00:00:00-05:00",
+          "attachments": [
+            {
+              "recap_id": 428466161,
+              "pacer_url": "https://ecf.dcd.uscourts.gov/doc1/045011122085?caseid=276305",
+              "description": "Notice and Consent",
+              "attachment_number": 1
+            }
+          ],
+          "url": "https://www.courtlistener.com/docket/69533268/2/district-of-columbia-v-united-states/",
+          "recap_pdf_url": null,
+          "pacer_doc_id": "045011122084",
+          "description": "SUMMONS (1) Issued Electronically as to UNITED STATES OF AMERICA through U.S. Attorney General (Attachments: # 1 Notice and Consent)(zmtm) (Entered: 01/10/2025)"
+        },
+        {
+          "row_number": 16,
+          "id": 9321937,
+          "entry_number": null,
+          "date_filed": "2025-01-10T00:00:00-05:00",
+          "attachments": [],
+          "url": "https://www.courtlistener.com",
+          "recap_pdf_url": null,
+          "pacer_doc_id": null,
+          "description": "NOTICE OF NEW CASE ERROR The following error(s) need correction: Missing summonses- U.S. government. When naming a U.S. government agent or agency as a defendant, you must supply additional summons for the U.S. Attorney. Please submit using the event Request for Summons to Issue. (zmtm)"
+        },
+        {
+          "row_number": 7,
+          "id": 9321939,
+          "entry_number": "4",
+          "date_filed": "2025-01-14T00:00:00-05:00",
+          "attachments": [],
+          "url": "https://www.courtlistener.com/docket/69533268/4/district-of-columbia-v-united-states/",
+          "recap_pdf_url": null,
+          "pacer_doc_id": "045011129403",
+          "description": "REQUEST FOR SUMMONS TO ISSUE filed by DISTRICT OF COLUMBIA. Related document: 1 Complaint filed by DISTRICT OF COLUMBIA.(Rosenfeld, Wesley) (Entered: 01/14/2025)"
+        },
+        {
+          "row_number": 8,
+          "id": 9321940,
+          "entry_number": "5",
+          "date_filed": "2025-01-15T00:00:00-05:00",
+          "attachments": [
+            {
+              "recap_id": 427360465,
+              "pacer_url": "https://ecf.dcd.uscourts.gov/doc1/045011131438?caseid=276305",
+              "description": "Notice and Consent",
+              "attachment_number": 1
+            }
+          ],
+          "url": "https://www.courtlistener.com/docket/69533268/5/district-of-columbia-v-united-states/",
+          "recap_pdf_url": null,
+          "pacer_doc_id": "045011131437",
+          "description": "SUMMONS (1) Reissued Electronically as to UNITED STATES OF AMERICA (Attachments: # 1 Notice and Consent)(mg) (Entered: 01/15/2025)"
+        },
+        {
+          "row_number": 9,
+          "id": 9321941,
+          "entry_number": "6",
+          "date_filed": "2025-01-24T00:00:00-05:00",
+          "attachments": [],
+          "url": "https://www.courtlistener.com/docket/69533268/6/district-of-columbia-v-united-states/",
+          "recap_pdf_url": null,
+          "pacer_doc_id": "045011155868",
+          "description": "NOTICE of Appearance by Heather E. Gange on behalf of All Defendants (Gange, Heather) (Entered: 01/24/2025)"
+        },
+        {
+          "row_number": 1,
+          "id": 9392529,
+          "entry_number": "10",
+          "date_filed": "2025-02-21T00:00:00-05:00",
+          "attachments": [
+            {
+              "recap_id": 431878932,
+              "pacer_url": "https://ecf.dcd.uscourts.gov/doc1/045011213309?caseid=276305",
+              "description": "Text of Proposed Order",
+              "attachment_number": 1
+            }
+          ],
+          "url": "https://www.courtlistener.com/docket/69533268/10/district-of-columbia-v-united-states/",
+          "recap_pdf_url": null,
+          "pacer_doc_id": "045011213308",
+          "description": "Unopposed MOTION for Extension of Time to File Response to Complaint, Opposition, and Reply by DISTRICT OF COLUMBIA. (Attachments: # 1 Text of Proposed Order)(Rosenfeld, Wesley) (Entered: 02/21/2025)"
+        },
+        {
+          "row_number": 17,
+          "id": 9392530,
+          "entry_number": null,
+          "date_filed": "2025-02-21T00:00:00-05:00",
+          "attachments": [],
+          "url": "https://www.courtlistener.com",
+          "recap_pdf_url": null,
+          "pacer_doc_id": null,
+          "description": "Order on Motion for Extension of Time to"
+        },
+        {
+          "row_number": 18,
+          "id": 9392531,
+          "entry_number": null,
+          "date_filed": "2025-02-21T00:00:00-05:00",
+          "attachments": [],
+          "url": "https://www.courtlistener.com",
+          "recap_pdf_url": null,
+          "pacer_doc_id": null,
+          "description": "MINUTE ORDER granting the plaintiff's unopposed 10 Motion for Extension of Time. Accordingly, the government shall answer or otherwise respond to the plaintiff's 1 Complaint on or before May 23, 2025. Further, if the government files a motion to dismiss, the plaintiff shall file its opposition on or before July 15, 2025, and the government shall file any reply on August 15, 2025. So Ordered by Judge Dabney L. Friedrich on February 21, 2025. (lcdlf2)"
+        },
+        {
+          "row_number": 19,
+          "id": 10146043,
+          "entry_number": null,
+          "date_filed": "2025-02-23T00:00:00-05:00",
+          "attachments": [],
+          "url": "https://www.courtlistener.com",
+          "recap_pdf_url": null,
+          "pacer_doc_id": null,
+          "description": "Set/Reset Deadlines"
+        },
+        {
+          "row_number": 20,
+          "id": 10146044,
+          "entry_number": null,
+          "date_filed": "2025-02-23T00:00:00-05:00",
+          "attachments": [],
+          "url": "https://www.courtlistener.com",
+          "recap_pdf_url": null,
+          "pacer_doc_id": null,
+          "description": "Set/Reset Deadlines: Government shall answer or otherwise respond to the plaintiff's 1 Complaint on or before May 23, 2025. Further, if the government files a motion to dismiss, the plaintiff shall file its opposition on or before July 15, 2025, and the government shall file any reply on August 15, 2025. (smc)"
+        },
+        {
+          "row_number": 2,
+          "id": 10342979,
+          "entry_number": "11",
+          "date_filed": "2025-05-14T00:00:00-04:00",
+          "attachments": null,
+          "url": "https://www.courtlistener.com/docket/69533268/11/district-of-columbia-v-united-states/",
+          "recap_pdf_url": "https://www.courtlistener.com/recap/gov.uscourts.dcd.276305/gov.uscourts.dcd.276305.11.0.pdf",
+          "pacer_doc_id": "045011385062",
+          "description": "Motion to Hold in Abeyance"
+        },
+        {
+          "row_number": 3,
+          "id": 10342980,
+          "entry_number": "12",
+          "date_filed": "2025-09-11T00:00:00-04:00",
+          "attachments": null,
+          "url": "https://www.courtlistener.com/docket/69533268/12/district-of-columbia-v-united-states/",
+          "recap_pdf_url": null,
+          "pacer_doc_id": "045011623864",
+          "description": "Status Report"
+        },
+        {
+          "row_number": 4,
+          "id": 10342981,
+          "entry_number": "13",
+          "date_filed": "2025-09-12T00:00:00-04:00",
+          "attachments": null,
+          "url": "https://www.courtlistener.com/docket/69533268/13/district-of-columbia-v-united-states/",
+          "recap_pdf_url": null,
+          "pacer_doc_id": "045011628091",
+          "description": "Notice of Appearance"
+        },
+        {
+          "row_number": 21,
+          "id": 10342982,
+          "entry_number": null,
+          "date_filed": "2025-05-14T00:00:00-04:00",
+          "attachments": null,
+          "url": "https://www.courtlistener.com",
+          "recap_pdf_url": null,
+          "pacer_doc_id": null,
+          "description": "Order on Motion to Hold in Abeyance AND Set/Reset Deadlines"
+        },
+        {
+          "row_number": 12,
+          "id": 9392528,
+          "entry_number": "9",
+          "date_filed": "2025-02-03T00:00:00-05:00",
+          "attachments": [],
+          "url": "https://www.courtlistener.com/docket/69533268/9/district-of-columbia-v-united-states/",
+          "recap_pdf_url": "https://www.courtlistener.com/recap/gov.uscourts.dcd.276305/gov.uscourts.dcd.276305.9.0.pdf",
+          "pacer_doc_id": "045011172764",
+          "description": "AFFIDAVIT of Mailing re 1 Complaint and summons served on US Attorney General by DISTRICT OF COLUMBIA. (Rosenfeld, Wesley) Modified event on 2/4/2025 (mg). (Entered: 02/03/2025)"
+        },
+        {
+          "row_number": 13,
+          "id": 9321933,
+          "entry_number": null,
+          "date_filed": "2025-01-10T00:00:00-05:00",
+          "attachments": [],
+          "url": "https://www.courtlistener.com",
+          "recap_pdf_url": null,
+          "pacer_doc_id": null,
+          "description": "Case Assigned/Reassigned"
+        },
+        {
+          "row_number": 11,
+          "id": 9392527,
+          "entry_number": "8",
+          "date_filed": "2025-02-03T00:00:00-05:00",
+          "attachments": [],
+          "url": "https://www.courtlistener.com/docket/69533268/8/district-of-columbia-v-united-states/",
+          "recap_pdf_url": "https://www.courtlistener.com/recap/gov.uscourts.dcd.276305/gov.uscourts.dcd.276305.8.0.pdf",
+          "pacer_doc_id": "045011172761",
+          "description": "RETURN OF SERVICE/AFFIDAVIT of Summons and Complaint Executed as to the United States Attorney. Date of Service Upon United States Attorney on 1/22/2025. Answer due for ALL FEDERAL DEFENDANTS by 3/23/2025. (Rosenfeld, Wesley) (Entered: 02/03/2025)"
+        },
+        {
+          "row_number": 6,
+          "id": 9321938,
+          "entry_number": "3",
+          "date_filed": "2025-01-11T00:00:00-05:00",
+          "attachments": [],
+          "url": "https://www.courtlistener.com/docket/69533268/3/district-of-columbia-v-united-states/",
+          "recap_pdf_url": "https://www.courtlistener.com/recap/gov.uscourts.dcd.276305/gov.uscourts.dcd.276305.3.0.pdf",
+          "pacer_doc_id": "045011124402",
+          "description": "STANDARD ORDER for CIVIL CASES. See text for details. Signed by Judge Dabney L. Friedrich on January 11, 2025. (lcdlf2) (Entered: 01/11/2025)"
+        }
+      ],
+      "docket_case_type": "cv",
+      "docket_year": 2025,
+      "docket_filing_number": 65,
+      "is_main_docket": true,
+      "court": "District of District of Columbia",
+      "state": "District of Columbia",
+      "docket_office_number": "1",
+      "docket_number_manual": "1:25-cv-00065",
+      "scales_html": null,
+      "recap_link": "https://www.courtlistener.com/docket/69533268/district-of-columbia-v-united-states/",
+      "is_active": true
+    },
+    "name": "District of Columbia v. United States",
+    "never_filed": false,
+    "non_docket_case_number": "",
+    "non_docket_case_number_type": null,
+    "non_docket_case_number_type_other": "",
+    "order_end_year": null,
+    "order_start_year": null,
+    "permanent_injunction": false,
+    "plaintiff_description": "The District of Columbia",
+    "plaintiff_type": [
+      {
+        "value": "State Plaintiff"
+      }
+    ],
+    "prevailing_party": "None Yet / None",
+    "pro_se_status": "No",
+    "public_interest_lawyer": "No",
+    "related_cases": [],
+    "relief_natures": [
+      "None yet"
+    ],
+    "relief_nature_other": "",
+    "relief_sources": [
+      "None yet"
+    ],
+    "settlement_agreement": [],
+    "settlement_judgment_date": null,
+    "settlement_judgment_year": null,
+    "special_collections": [],
+    "special_case_type": [],
+    "state": "District of Columbia",
+    "summary": "<p>On January 10, 2025, the District of Columbia (&ldquo;the District&rdquo;) sued the United States of America in the United States District Court for the District of Columbia. The District alleged that the federal government was liable for over 150 years of pollution of the Anacostia River under the Comprehensive Environmental Response, Compensation, and Liability Act (&ldquo;CERCLA&rdquo;) and the District of Columbia Brownfield Revitalization Act of 2000 (the &ldquo;Brownfield Act&rdquo;). The District sought costs related to the District&rsquo;s new Anacostia River revitalization plan, as well as natural resource damages arising from the contamination. The complaint also sought declaration of future liability against the U.S. arising from the District&rsquo;s investigation of contamination of the Anacostia. The case was assigned to Judge Dabney L. Friedrich.&nbsp;</p>\r\n<p>In its complaint, the District alleged that generations of residents had not been able to enjoy the use of the River due to decades of contamination, and that the U.S. has been the biggest polluter of the River. The complaint stated that several federal government projects and agencies had contributed to the River&rsquo;s contamination. For example, the complaint alleged that the federal naval operations at Washington Navy Yard, including shipbuilding and gun manufacturing, polluted the River with heavy metals and other toxic chemicals. In addition, the District cited the Arms Corps and Department of Interior selection of Kenilworth Park, an area on the banks of the River, as a burning waste dump site as another example of harmful treatment. Starting in 2013, the District began to investigate and eliminate contamination in the River, and confirmed that hazardous substances increased the risk of various diseases, including cancer, diabetes and asthma. As a result of the independent investigation, the District planned to implement an extensive cleanup project to decontaminate the River, starting in 2025.&nbsp;</p>\r\n<p>As of February 2025, the case is ongoing.&nbsp;</p>",
+    "summary_published_date": "2025-05-22T12:33:08.881030-04:00",
+    "summary_short": "On January 10, 2025, the District of Columbia brought this lawsuit against the United States of America in the United States District Court for the District of Columbia, seeking to hold the federal government liable for over 150 years of pollution of the Anacostia River. The lawsuit argued that the United States was liable under the Comprehensive Environmental Response, Compensation, and Liability Act (CERCLA) and the Brownfield Act for its participation in contamination of the River. The case is ongoing.",
+    "summary_tiny": null,
+    "terminating_date": null,
+    "clearinghouse_link": "clearinghouse.net/case/46061",
+    "is_active": true,
+    "case_documents_url": "https://clearinghouse.net/api/v2/documents/?case=46061",
+    "case_dockets_url": "https://clearinghouse.net/api/v2/dockets/?case=46061",
+    "case_resources_url": "https://clearinghouse.net/api/v2/resources/?case=46061"
+  },
+  "documents": [
+    {
+      "date": null,
+      "date_is_estimate": false,
+      "date_not_available": false,
+      "description": null,
+      "document_source": null,
+      "document_status": null,
+      "document_type": null,
+      "order_type": null,
+      "citation_paren": null,
+      "cite_1_page": null,
+      "cite_1_reporter": null,
+      "cite_1_vol": null,
+      "cite_2_page": null,
+      "cite_2_reporter": null,
+      "cite_2_vol": null,
+      "cite_3_page": null,
+      "cite_3_reporter": null,
+      "cite_3_vol": null,
+      "citation_status": null,
+      "court": null,
+      "no_title": false,
+      "party_types": [],
+      "per_curium": false,
+      "is_core_document": true,
+      "id": 154997,
+      "file": null,
+      "title": null,
+      "text": null,
+      "document_type_other": null,
+      "external_url": null,
+      "ecf_number": null,
+      "clearinghouse_link": "clearinghouse.net/doc/154997"
+    },
+    {
+      "date": "2025-01-10",
+      "date_is_estimate": false,
+      "date_not_available": false,
+      "description": "Complaint",
+      "document_source": "PACER [Public Access to Court Electronic Records]",
+      "document_status": "Coding Complete",
+      "document_type": "Complaint",
+      "order_type": null,
+      "citation_paren": null,
+      "cite_1_page": null,
+      "cite_1_reporter": null,
+      "cite_1_vol": null,
+      "cite_2_page": null,
+      "cite_2_reporter": null,
+      "cite_2_vol": null,
+      "cite_3_page": null,
+      "cite_3_reporter": null,
+      "cite_3_vol": null,
+      "citation_status": "Not applicable",
+      "court": "District of District of Columbia",
+      "no_title": false,
+      "party_types": [
+        "Plaintiff"
+      ],
+      "per_curium": false,
+      "is_core_document": true,
+      "id": 154998,
+      "file": "https://clearinghouse-umich-production.s3.amazonaws.com/media/doc/154998.pdf",
+      "title": "Complaint",
+      "text": "Case 1:25-cv-00065-DLF     Document 1     Filed 01/10/25     Page 1 of 33\nIN THE UNITED STATES DISTRICT COURT  \nFOR THE DISTRICT OF COLUMBIA \n \n \n \nDISTRICT OF COLUMBIA      ) \n              )     \n        Plaintiff,    )     Civil Action No. \n              )    \n  v.            ) \n              )     \nUNITED STATES OF AMERICA     ) \n              ) \n              )     \n        Defendant.    )      \n              )            \n \nCOMPLAINT \n \n  The District of Columbia  (“District”), through its chief legal officer, the Attorney General, \nbrings this civil action against the United States of America, through its departments, agencies, \nand instrumentalities (“the Defendant U.S.”), under the Comprehensive Environmental Response, \nCompensation, and Liability Act of 1980, as amended, 42 U.S.C. §§ 9601 et seq. (“CERCLA”), \nand the District of Columbia Brownfield Revitalization Act of 2000, as amended, D.C. Code §§ 8-\n631.01 et seq. (“Brownfield Act”). The District seeks costs, damages, and a declaration of future \nliability against the Defendant U.S. arising from the District’s investigation and remediation of the \ncontamination of the Anacostia River (“River”). The Defendant U.S. is jointly and severally liable \nto the District for these remedies because it owns and controls the Riverbed where hazardous \nsubstances are located, has owned and operated facilities that released and continue to release \nhazardous substances into the River, and generated, transported, and arranged for the storage or \ndisposal of hazardous substances that released into the River.   \nThe District states, claims, and alleges as follows: \n \n1 \n \n\nCase 1:25-cv-00065-DLF     Document 1     Filed 01/10/25     Page 2 of 33\nINTRODUCTION \n1.  The River has been and must be a vital public resource—a resource for recreation, \nfishing, wildlife, and more. Yet, because of decades of pollution, generations of District residents \nhave never known what it is like to use and enjoy a healthy River.  \n2.  From its confluence with the Potomac River all the way to present day Bladensburg, \nMaryland, the River was once pristine, crystal clear, and 40 feet deep. The River and its 176 square \nmile watershed were home to a wide variety of wildlife, including bald eagles, osprey, cranes, \nkingfishers, shad, herring, and eel. District residents enjoyed abundant fishing, boating and other \nrecreational activities. Many residents along and east of the River relied on subsistence fishing as \ntheir principal source of protein.  \n3.  Beginning in the 1800s, the River became a dumping ground for sewage, trash and \nindustrial waste.  \n4.  The Defendant U.S. bears substantial responsibility for the pollution of the River \nover the past 150 years. Indeed, it has been the biggest polluter. It has systematically contaminated \nthe River through the indiscriminate dumping and release of hazardous substances and through \ndestructive dredge and fill operations. These practices severely degraded the River’s water quality \nand spoiled the River’s sediment and shoreline.  \n5.  By using the River as a cost-free toxic dumping ground, the Defendant U.S. has \ninflicted catastrophic harm on the District and its residents, exposing them to dangerous chemicals \nand depriving them of the use and enjoyment of a once vital natural resource. The Defendant U.S.’s \nconduct has contributed to a decades-long “No Swimming” ban and continuous fishing advisories, \ndevastated a once flourishing wildlife habitat, and turned much of the River into an eyesore.  \n2 \n \n\nCase 1:25-cv-00065-DLF     Document 1     Filed 01/10/25     Page 3 of 33\n6.  The Defendant U.S.’s reckless conduct has inflicted disproportionate harm on \ndisadvantaged, predominantly Black communities who live near and have had a long relationship \nwith the River.  \n7.  The Defendant U.S. owns and controls the Riverbed where hazardous substances \nare concentrated. In addition, the facilities and operations of the Defendant U.S. have been the \nsingle largest culprit of hazardous substance releases into the River. The Defendant U.S. released \ncontaminants into the River from dredge and fill operations by the Army Corps of Engineers; the \nmanufacture of guns and ordnance at the Washington Navy Yard; the dumping of military and \nother waste at the former Kenilworth Landfill; disposal operations at the former Naval Receiving \nStation at Poplar Point and Fort McNair; printing operations at the Bureau of Engraving and \nPrinting; open burning at  Langston Golf Course site; coal burning at the Capitol Power Plant; the \nstorage of leaking electrical transformers at service areas; and other operations at federal buildings \nalong the River and Washington Channel. \n8.  Prior to 1973, when the District secured Home Rule, the Defendant U.S. also \nreleased hazardous substances into the River from the District’s sewer system and waste disposal \noperations, which the Defendant U.S. then owned and controlled. \n9.  Beginning in 2013, the District commenced the Anacostia River Sediment Project \n(“ARSP”) to investigate and eliminate contamination in the River, restore damaged natural \nresources,  and  compensate  the  public  for  the  harm  wrought  by  the  contamination  (“ARSP \ninvestigation”).  \n10.  The ARSP investigation confirmed the presence of hazardous substances in the \nRiver. These hazardous substances have posed and continue to pose a substantial risk to human \nhealth and the environment. They increase the risk of cancer, liver disease, diabetes, asthma, and \n3 \n \n\nCase 1:25-cv-00065-DLF     Document 1     Filed 01/10/25     Page 4 of 33\ncardiovascular disease; harm fetal development; cause memory loss and learning disabilities; and \nreduce fertility. These hazardous substances also impair the survival, growth, and reproduction of \naquatic wildlife.  \n11.  As a result of the ARSP investigation, the District will implement an extensive and \nexpensive interim cleanup project scheduled to begin in 2025. The interim cleanup project will \naddress the most significant contamination in the River. Additional cleanup, at additional cost, will \nlikely be necessary after the interim cleanup is completed. In addition, an accounting for the past, \npresent, and future damages that the Defendant U.S. and other parties liable for the contamination \nhave caused to the District’s natural resources, such as damages to compensate for the public’s \nloss of the use of the River, must be made. Like future cleanup costs, these natural resource \ndamages are not included in the costs of the interim cleanup project. \n12.  On June 14, 2021, the District notified the Defendant U.S. and other liable parties \nof their responsibility to pay for the costs the District is incurring to clean up the River, known as \n“Response Costs,” as well as their liability for natural resource damages. In September 2023, the \nDistrict entered an historic settlement with one of those parties, the Potomac Electric Power \nCompany, which agreed to pay the District’s interim Response Costs, estimated at $47 million. \nThe Defendant U.S., however, continues to refuse to take responsibility for its indisputable role as \nthe biggest polluter of the River.  \n13.  The  federal  government  must  be  held  accountable  for  its  unlawful  conduct. \nThrough this civil action, the District seeks to recover costs and damages from the Defendant U.S., \nand a declaration of future liability for releases of hazardous substances into the River. \n4 \n \n\nCase 1:25-cv-00065-DLF     Document 1     Filed 01/10/25     Page 5 of 33\nJURISDICTION \n14.  This Court has subject matter jurisdiction over the Defendant U.S. pursuant to 42 \nU.S.C. §§ 9607, 9613 (CERCLA §§ 107 and 113), 28 U.S.C. § 1331 (a civil action arising under \nthe laws of the United States), and 28 U.S.C. § 2201 and 42 U.S.C. 9613(g)(2) (declaratory relief). \nJurisdiction is also proper in this Court under 42 U.S.C. § 9613(b) and (g)(2). \n15.  The  Defendant  U.S.  has  waived  sovereign  immunity  under  CERCLA.  The \nDefendant  U.S.  is  subject  to  CERCLA  in  the  same  manner  and  to  the  same  extent,  both \nprocedurally and substantively, as any non-governmental entity. 42 U.S.C. § 9620(a)(l). \n16.  The Defendant U.S. is also subject to State laws concerning removal and remedial \naction, including State laws regarding enforcement at facilities owned or operated by a department, \nagency, or instrumentality of the United States when such facilities are not included on the National \nPriorities List set forth in 42 U.S.C.§ 9620(a)(4). None of the facilities identified herein are on the \nNational Priorities List, except for the Washington Navy Yard.  \n17.  The liability of the Defendant U.S. is preserved under other federal or state laws, \nincluding common law, with respect to releases of hazardous substances or other pollutants or \ncontaminants.  42 U.S.C. § 9652(d). \nVENUE \n18.  Venue is proper in this district under 28 U.S.C. § 1391(b)(1), (c)(2), and (e)(1)(A), \nand 42 U.S.C. § 9613(b). \nPARTIES \n19.  Plaintiff, the District of Columbia, is a municipal corporation empowered to sue \nand be sued. The District is represented by and through its chief legal officer, the elected, \nindependent Attorney General for the District of Columbia. The District is also a trustee over \n5 \n \n\nCase 1:25-cv-00065-DLF     Document 1     Filed 01/10/25     Page 6 of 33\npublic natural resources, including the River’s water, fish, wildlife, and biota. See 42 U.S.C. § \n9607(f)(1), (2)(b). The Attorney General has general charge and conduct of all legal business of \nthe District and all suits initiated by and against the District and is responsible for upholding the \npublic interest. D.C. Code § 1-301.81(a)(1). The Attorney General also has the authority to bring \nthis action pursuant to CERCLA and the Brownfield Act. 42 U.S.C. § 9607(a)(1)-(4), (f)(1); D.C. \nCode § 8-634.07.  \n20.  The Defendant U.S. owns and controls the Riverbed where hazardous substances \nare  located,  owned  and  operated  facilities  that  released  and  continue  to  release  hazardous \nsubstances into the River, and generated and transported hazardous substances that it dumped or \nreleased into the River.  \n21.  As described in more detail below, the following agencies of the United States have \nbeen responsible for releasing hazardous substances into the River: the Architect of the Capitol, \nthe Army Corps of Engineers, the Bureau of Engraving and Printing, the Department of the Army, \nthe Department of the Interior, the Department of the Navy, the General Services Administration, \nthe National Park Service, and the United States Park Police.  \nSTATEMENT OF FACTS \nI.  The Defendant U.S. Polluted the Anacostia River for Decades. \n \n22.   As  detailed  below,  the  Defendant  U.S.  has  contaminated  the  River  and  is \nresponsible for Response Costs and natural resource damages to restore the River because it: (1) \nowns and controls the Riverbed where hazardous substances are located and from which hazardous \nsubstances have been and continue to be released; (2) owns or operates, or owned or operated, \nfacilities that are releasing and/or released hazardous substances into the River; (3) generated, \ntransported, deposited, or otherwise released hazardous substances from various locations directly \n6 \n \n\nCase 1:25-cv-00065-DLF     Document 1     Filed 01/10/25     Page 7 of 33\ninto the River or from locations along the River, which eventually migrated into the River; (4) \narranged for the disposal of hazardous substances at various locations into the River or at locations \nalong the River that migrated into the River; and (5) contributed to the hazardous substance \ncontamination of the River by an act or omission that it had a reason to know would cause the \ncontamination.  \nA.  The Defendant U.S. Owns and Exerts Operational Control Over the Anacostia \nRiverbed.  \n \n23.  The Defendant U.S. owns the Riverbed where hazardous substances have come to \nbe located and from which hazardous substances have been and continue to be released.  \n24.  The Defendant U.S. operates on and exercises significant control over the Riverbed.  \n25.  Together with the National Park Service, the Army Corps of Engineers (“Army \nCorps”) controls the River’s navigational channel, including any activity or operation that impacts \nthe channel. \n26.  Demonstrating the Defendant U.S.’s control of the Riverbed, the Army Corps \nissues permits for dredge and fill operations in the River, and the National Park Service issues \npermits for any disturbance of the Riverbed, such as sampling of River sediment.  \nB.  The U.S. Army Corps of Engineers Released Hazardous Substances Into the \nRiver Through Its Dredging Operations.  \n \n27.  Since  the  19th  century,  the  Army  Corps  has  performed  dredging  and  filling \noperations within and along the River, from Bladensburg Marina in Maryland downstream to the \nconfluence of the Anacostia and Potomac Rivers at the southern tip of the District. The Army \nCorps dredged the River on at least 26 occasions from 1938 to 2000, with more significant \ndredging for navigation every ten to twelve years.  \n7 \n \n\nCase 1:25-cv-00065-DLF     Document 1     Filed 01/10/25     Page 8 of 33\n28.  By dredging the River, the Army Corps created new land within and adjacent to the \nRiver and altered the course and entire ecosystem of the River. From 1902 until 1940, the Army \nCorps channelized the River, built sea walls, constructed Kingman Lake and Kingman and \nHeritage Islands, and filled in more than 1,000 acres of mudflats and wetlands with material \ndredged from the River.  \n29.  During these activities, the Army Corps spread and released hazardous substances \nthroughout the River and along its shoreline.  \n30.  The Army Corps’ internal documents describe how dredging and filling activities \ncan cause releases of hazardous substances by resuspension and dispersion of contaminated \nsediment. The Army Corps also acknowledges that the “environmental integrity of much of the \nAnacostia River and its tributaries has been severely degraded by urbanization and [the Army \nCorps’] previous construction of Federal works to meet flood control and navigation needs.” \n31.  As one example of the Army Corps’ contamination of the River through dredging \nand  filling  operations,  in  the  late  1990s,  the  Army  Corps  dumped  into  Kingman  Lake \napproximately 36,000 cubic yards of sediment dredged from a portion of the River extending from \nthe CSX bridge to Benning Road. Notably, this occurred during a time when the River was under \na fishing advisory because of hazardous substances in the River. Now, Kingman Lake requires \nremedial action because hazardous substances from the dredged sediment pose a significant threat \nto human health and the environment.  \nC.  The  Defendant  U.S.  Has  Owned  and  Operated  Facilities  That  Have \nContaminated and Continue to Contaminate the River.  \n \n32.  The  Defendant  U.S.  owns  and  operates  multiple  landside  facilities  that  have \nreleased and continue to release hazardous substances into the River. Some of the Defendant U.S.’s \nfacilities housed operations that generated toxic contaminants that polluted the River. Other \n8 \n \n\nCase 1:25-cv-00065-DLF     Document 1     Filed 01/10/25     Page 9 of 33\nfacilities of the Defendant U.S. were themselves constructed with contaminated landfill material \nthat has leeched into the water.  \n1.   The Washington Navy Yard and the Southeast Federal Center. \n33.  The Defendant U.S. has owned and operated the Washington Navy Yard (“Navy \nYard”) since its establishment in 1799. The Navy Yard is currently located on approximately 66.3 \nacres of land at 9th Street and M Street S.E. in the District.  \n34.  Prior to 1963, the Navy Yard also included about 60 acres directly to the west of its \nexisting facility.   \n35.  The western part of the Navy Yard is now known as the Southeast Federal Center \nand, since 1963, has been under the control of the U.S. General Services Administration.  \n36.  The Navy Yard, including the Southeast Federal Center, is the nation’s oldest \ncontinuously operated federal facility in the District. Its primary role evolved through several \nphases, from shipbuilding in the early 1800s, to ordnance production from the late 1800s through \nWorld War II, and finally for use as office and storage space in more recent years.  \n37.  Over the facility’s operational life, the U.S. Navy’s operations generated hazardous \nsubstances, many of which discharged into the River. These contaminating operations have \nincluded: ship repair; gun manufacturing; smelting and metal foundry casting; metal pressing; \npaint spraying at a paint shop; oil and chemical storage; electrical and steam power generation, \nincluding  electric  transformer  operations;  storage  of  scrap  metal  and  coal;  incineration; \nelectroplating and polishing; photographic processing; laboratory operations; and laundry facility \noperations.  \n38.  Even after these operations ceased, hazardous substances generated at the Navy \nYard continue to pollute the River through stormwater runoff and other land-to-water pathways. \n9 \n \n\nCase 1:25-cv-00065-DLF     Document 1     Filed 01/10/25     Page 10 of 33\n39.  In 1988, the Environmental Protection Agency (“EPA”) placed the Navy Yard on \nits National Priorities List due to soil and groundwater contamination on the site.  \n40.  In 1999, the U.S. Navy, EPA, and the District entered into a Federal Facilities \nAgreement under CERCLA to clean up the Navy Yard site. Separately, in 2014, pursuant to an \nAdministrative Order issued by the EPA, the General Services Administration was required to \ninvestigate hazardous substance releases at the Southeast Federal Center.  \n41.  The Federal Facilities Agreement designated multiple areas at the Navy Yard for \ninvestigation and remediation. One is known as the Near-Shore Sediment operable unit, which \nincludes the site’s waterfront and extends into the River as far as the length of the facility’s former \npiers—approximately 200 feet.  \n42.  The Federal Facilities Agreement documents the release at the Navy Yard of oil \nand  petroleum,  polychlorinated  biphenyls  (“PCBs”),  dioxins,  heavy  metals  and  polycyclic \naromatic  hydrocarbons  (“PAHs”),  solvents,  chemicals  such  as  carbon  tetrachloride, \ndichloroethane,  perchloroethylene  and  vinyl  chloride,  and  metals  such  as  lead,  chromium, \ncadmium, and antimony. Similar hazardous substance releases have been found in the subsurface \nat the Southeast Federal Center and in the River sediments in front of the Center. \n43.  The U.S. Navy’s prior industrial activities at the Navy Yard also released hazardous \nsubstances into the River through discharges to outfalls from its stormwater drain system. The U.S. \nNavy’s investigation—performed since the Federal Facilities Agreement—indicates that the Navy \nYard, including the Southeast Federal Center, is a source of PCB contamination to an outfall that \ndischarges to the River. The U.S. Navy’s investigation also reveals that drains connected to the \nRiver captured historical spills, wastewater, grit, and other by-products of industrial processes, in \naddition to stormwater runoff containing potentially contaminated eroded soils and debris from \n10 \n \n\nCase 1:25-cv-00065-DLF     Document 1     Filed 01/10/25     Page 11 of 33\nparking areas. Additionally, the investigation found that stormwater outfalls from the Navy Yard \nare likely to have discharged contaminants, including PCB-contaminated solids, to the River. \nSimilarly, sewer drainage and overland runoff from the Southeast Federal Center carried hazardous \nsubstances to the River. The darker-colored water in the picture below, taken from an aerial \nphotograph in 1957, shows pollutants releasing from an outfall connected to the Navy Yard: \n \n44.  Further evidence that the Navy Yard is a significant source of hazardous substance \nreleases into the River, sampling results in near-shore sediments adjacent to the Navy Yard and \nthe Southeast Federal Center show elevated concentrations of PCBs and PAHs. \n11 \n \n\nCase 1:25-cv-00065-DLF     Document 1     Filed 01/10/25     Page 12 of 33\n45.  As the U.S. Navy has acknowledged, stormwater and cooling water discharges \nfrom the basement of Building 18 at the Navy Yard, a former power plant housing electrical \ntransformers and other electrical equipment, are additional potential sources of PCB contamination \nto the River.    \n46.  The U.S. Navy also discharged into the River stormwater that was contaminated \nwith hazardous substances from a coal storage area and coal ash sluice pit, which operated at the \nNavy Yard between 1940 and 1980. During a cleanout in 1997, samples of debris in this area \ncontained extremely high concentrations of PCBs.  \n47.  The contamination from the Navy Yard and the Southeast Federal Center extends \nfar beyond the facilities’ shore and near-shore area. PCBs, PAHs, and other contaminants have \nmigrated both upstream and downstream from the Navy Yard and Southeast Federal Center \nfacilities due to tidal and other influences and because of the Army Corps of Engineers’ dredge \nand fill operations.  \n2.  Kenilworth Landfill \n48.  In or about 1942, the Army Corps and Department of the Interior selected an area \nnow known as Kenilworth Park on the banks of the River to serve as a burning waste dump to \naddress the need for landfill space within the District.  \n49.  At that time, a three-member Board of Commissioners appointed by the President \ngoverned the District. The District had no independent authority or budget to purchase or construct \na landfill site either within or outside District limits.  \n50.  The Army Corps created most of the waste dump from contaminated dredged spoils \nfrom the River.   \n12 \n \n\nCase 1:25-cv-00065-DLF     Document 1     Filed 01/10/25     Page 13 of 33\n51.  The National Park Service directed the District how and where to build the dump, \nincluding the grade and elevation, and how to operate the dump. The National Park Service was \nintimately involved in the day-to-day operation of the dump, including approving wastes that could \nenter the dump. To this day, the Defendant U.S. still owns the land where the dump is located. \n52.  The Kenilworth Landfill operated between 1942 and 1968. The Defendant U.S. was \none of the largest generators of waste disposed at the Landfill, often using its own vehicles to \ntransport waste to the Landfill. Some of that waste included spent refractory material from the \nNaval Gun Factory at the Navy Yard, partially burned computing equipment, and waste generated \nfrom 1,300 federal buildings throughout the District.  \n53.  The Kenilworth Landfill is currently undergoing a remedial investigation and a \nproposed remedial action under CERCLA. Hazardous substances found on the site include PCBs, \nPAHs, and metals such as arsenic and mercury.  \n54.  A 2008 Remedial Investigation of the Kenilworth Landfill found that hazardous \nsubstances released from the Landfill are migrating to the River via surface water runoff.  \n3.  Poplar Point \n55.  Prior to 1882, Poplar Point consisted of little more than a grove of poplar trees, \nadjacent wetlands, and tidal marshes located in a delta of Stickfoot Creek, which drains into the \nRiver. The Army Corps filled and replaced Stickfoot Creek with the Stickfoot Branch sewer. \n56.  Between 1882 and 1927, the Army Corps dredged sediment from the River near \nthe Navy Yard and the Washington Gas East Station, a former coal gasification plant, and used the \nmaterial to fill the tidal marshes adjacent to Poplar Point. Coal tar from the gasification plant has \nbeen found in the fill material bordering the River at Poplar Point.  \n13 \n \n\nCase 1:25-cv-00065-DLF     Document 1     Filed 01/10/25     Page 14 of 33\n56.  The Defendant U.S. has owned Poplar Point since the Army Corps created it, and \nseveral U.S. agencies have operated at Poplar Point, releasing hazardous substances to the River. \n57.  The Defendant U.S. designated a parcel at Poplar Point for use by the U.S. Navy as \nthe Naval Receiving Station, which operated from the 1940s through the 1960s. The Naval \nReceiving  Station  housed  dry-cleaning  facilities,  weapons  testing  for  the  Naval  Ordnance \nLaboratory,  and  several  buildings  for  chemical,  oil,  and  paint  storage  in  underground  and \naboveground storage tanks. \n58.  Currently, the former Naval Receiving Station parcel contains the National Park \nService Headquarters for National Capital Parks-East, the U.S. Park Police Anacostia Operations \nFacility, an Aviation Hangar, various storage buildings, and open, undeveloped grassy areas. \n59.  The U.S. Park Police has used the site for gasoline and chemical storage, jet \npropellant storage tanks, and motorcycle repair. \n60.  On September 25, 2024, the District notified the National Park Service of ongoing \nPCB releases from the former Naval Receiving Station in an area where the Naval Receiving \nStation operated a heating plant and housed large electrical transformers.  There, the District found \nPCBs in soil that are actively entering an adjacent storm sewer system outfall \n61.  The Defendant U.S. designated another parcel at Poplar Point for the Architect of \nthe Capitol to operate the Botanic Garden Greenhouse and Nursery. The Architect of the Capitol \noperated the Greenhouse and Nursery between 1927 and 1993, releasing pesticides and other \nhazardous substances into the River. \n62.  Surveys and sampling of environmental media at the Poplar Point Site have been \nconducted over the past couple of decades. These investigations found numerous hazardous \nsubstances, including PCBs and arsenic, PAHs, pesticides (4,4’-DDT, 4,4’-DDD, 4,4’-DDE, and \n14 \n \n\nCase 1:25-cv-00065-DLF     Document 1     Filed 01/10/25     Page 15 of 33\nchlordane), and dioxins in the soil at the former Garden Greenhouse and Nursery and at the Naval \nReceiving Station. Groundwater at these areas contained toxic metals such as arsenic, barium, iron, \nmanganese, nickel, thallium, vanadium, and zinc. \n63.  From approximately 1942 until at least 1993, agencies of the Defendant U.S. \noperating  at  Poplar  Point  released hazardous  substances into  a  ditch  system  that  conveyed \nstormwater into Stickfoot Creek and then directly into the River. The existing storm sewer, \ngroundwater seepage, and surface water runoff also previously transported and are likely actively \ntransporting hazardous substances to the River. PCBs, PAHs, and chlordane have been found in \nRiver sediment directly offshore from Poplar Point.  \n4.  The Bureau of Engraving and Printing Complex \n64.  The Bureau of Engraving and Printing is an agency of the U.S. Department of the \nTreasury. Since approximately 1914, the Bureau of Engraving and Printing has owned and \noperated its printing and associated operations in three buildings—the Main Building, the Annex \nBuilding, and the Freight Building, located at 14th and C Streets SW, Washington, D.C.  \n65.  The  Bureau  of  Engraving  and  Printing’s  primary  operations  include  printing \n(intaglio, offset, and letterpress), engraving, plating, trimming, packaging, storage, and shipment. \nAdditional operations include ink manufacturing, wiping solution manufacturing, press roller \nreconditioning, equipment service, electric shops, paper shredding, waste collection, and disposal. \nThese  operations  used  hazardous  substances,  including  PCBs,  solvents,  oils,  metal  plating \nsolutions, inks, pigments, and other chemicals. The Bureau also formerly had twelve PCB-\ncontaining transformers and 42 large PCB-containing capacitors at the buildings.   \n15 \n \n\nCase 1:25-cv-00065-DLF     Document 1     Filed 01/10/25     Page 16 of 33\n66.  The Bureau of Engraving and Printing released these hazardous substances within \ntheir facilities. For example, extensive PCB contamination was found in the Bureau’s transformer \nstorage areas and adjacent areas in their Annex.  \n67.  Prior to 1938, when the District’s wastewater treatment plant at Blue Plains was \nconstructed, the Bureau of Engraving and Printing discharged wastewater directly into the Tidal \nBasin and Washington Channel. After 1938, the Bureau continued to release hazardous substances \ninto internal drains. These drains emptied into the District’s storm sewers, which in turn discharged \ninto Washington Channel. \n68.  The Bureau of Engraving and Printing’s internal records indicate that operational \nwastes and chemical spills discharged to the storm sewer. Some of these releases contained PCBs. \nOne report identified extensive PCB contamination in the transformer and adjacent areas on the \nsite. The Bureau’s annual reports to EPA reveal PCB transformer spills and PCBs in the floor \ndrains that emptied into the storm sewer.  \n69.  The District has identified highly PCB-contaminated sediment in Washington \nChannel directly in front of the storm sewer outfall that drains from the Bureau of Engraving and \nPrinting’s site.  \n70.  In December 2023, the District’s Department of Energy and Environment issued \nan Administrative Order against the Bureau of Engraving and Printing due to the Bureau’s \ndischarge of PCBs into the Washington Channel.  \n5.  Langston Golf Course \n71.  The Langston Golf Course consists of two parcels connected by bridges across \nKingman Lake. The west side extends from Benning Road to the National Arboretum, and along \n16 \n \n\nCase 1:25-cv-00065-DLF     Document 1     Filed 01/10/25     Page 17 of 33\nthe south and east side of the Arboretum to Kingman Lake. The east side sits on an island between \nKingman Lake and the Anacostia River. \n72.  In 1891, the site consisted predominantly of mud flats and marshes. The Army \nCorps dredged the mudflats and filled in this area of the River with landfill waste, creating the \nisland that exists today.  \n73.  The National Park Service, an agency within the Department of the Interior of the \nDefendant U.S., has owned and operated on the island since it was created. The National Park \nService directed the placement and oversaw the management of open burning and dumping of \nwaste on the island beginning around 1930.  \n74.  The National Park Service also permitted the dumping of waste directly into \nKingman Lake.  In 1937, the National Park Service directed the closure and covering of the \nlandfill; this area is now occupied by a nine-hole golf course, which opened as Langston Golf \nCourse in 1939. The National Park Service continued to manage and operate a dump with open \nburning on the west bank of the River until the early 1950s, when that land became part of the golf \ncourse. \n75.  The National Park Service’s operation of the dump caused severe contamination of \nthe River through seepage and runoff of hazardous substances. Rainfall permeated clays under the \nsite, causing hazardous substances from  the dump  to  discharge to  surface water, including \nKingman Lake and Hickey Run at the north end of the golf course.  \n76.  The facility remains an ongoing source of contamination through surface and \nsubsurface discharges of hazardous substances left behind from prior federal operations. \n \n \n17 \n \n\nCase 1:25-cv-00065-DLF     Document 1     Filed 01/10/25     Page 18 of 33\n6.  Fort McNair \n77.  Fort McNair is a 108-acre facility operated by the Department of the Army adjacent \nto the mouth of the River. It occupies the peninsula separating the River from the Washington \nChannel. The Defendant U.S. established Fort McNair in 1794 as an arsenal, and the Fort has \nserved multiple purposes throughout its operational years, including as an Army training facility, \na federal penitentiary, and a general hospital. \n78.  The  Department  of  the  Army  identified  nine  contaminated  areas  within  Fort \nMcNair between 1984 and 1997. At least two of those areas have documented contamination from \nleaking underground storage tanks. The Physical Fitness Center site contained two 20,000-gallon \nunderground storage tanks filled with oil. They were removed in 1987. Leaks from the storage \ntanks contaminated soil with hazardous substances, including lead and arsenic. The Department of \nthe Army removed some of the contaminated soil from the Physical Fitness Center site during \nconstruction, but residual contamination remains. \n79.  The Army and Air Force Exchange Service Station Remediation site at Fort McNair \ncontained seven underground storage tanks. They were removed in 1991. After their removal, \ngasoline was observed in the base of the pits. A groundwater sampling at the site in 2011 detected \nnaphthalene, a hazardous substance. \n80.  The hazardous substance releases at Fort McNair entered the River via several \npathways, including stormwater runoff, soil erosion, and groundwater leaching. Storm sewers \nadjacent to Fort McNair drain to the Washington Channel, which empties into the River near Hains \nPoint. Sampling in the Washington Channel near the storm sewer outlets revealed hazardous \nsubstances in near-shore sediment.  \n \n18 \n \n\nCase 1:25-cv-00065-DLF     Document 1     Filed 01/10/25     Page 19 of 33\n7.  Capitol Power Plant \n81.  The Defendant U.S. owns, and its agency the Architect of the Capitol operates, the \nCapitol Power Plant, a fossil-fuel-burning power plant located at 25 E Street, S.E. The Power Plant \nbegan operations in 1910, providing steam and electricity to the Capitol Building, primarily by \nburning coal. In 1952, the Power Plant ceased producing electricity but continued to use coal-fired \nboilers to generate steam and chilled water for the Capitol Complex. Beginning in 2007, the Power \nPlant began transitioning to natural gas as a fuel source. \n82.  The Architect of the Capitol used several PCB-containing electrical transformers \nduring operations at the Power Plant. The General Services Administration also used the Power \nPlant’s outdoor coal yard from the mid-1980s to early 1991 to store drums of hazardous waste \ngenerated at other General Services Administration facilities. \n83.  The  operations  of  the  Architect  of  the  Capitol  and  the  General  Services \nAdministration released hazardous substances, including PCBs and PAHs, at the Power Plant. Dye \ntesting in 1999 confirmed that, during rain events, storm drains at the outdoor coal yard actively \ndischarged hazardous substances associated with coal (PAHs) into the River. The hazardous \nsubstances entered the River through drains at the Power Plant that were inter-connected and \ndischarged to the River primarily through the O Street Outfall. River sediment in front of the O \nStreet Outfall is contaminated with hazardous substances, including PCBs and PAHs. \n84.  Through its current connection to the combined sewer system, the Power Plant \ncontinues to release hazardous substances into the River through the Power Plant’s cooling water \nintake pump house discharges, stormwater discharges, and other pathways.  \n \n \n19 \n \n\nCase 1:25-cv-00065-DLF     Document 1     Filed 01/10/25     Page 20 of 33\n8.  The General Services Administration Transformer Service Area \n85.  From the mid-1970s to 1980, the General Services Administration operated a \ntransformer service area at 10 P Street, SW, now a U-Haul facility. \n86.  The  General  Services  Administration  performed  maintenance  on  electric \ntransformers and stored drums of PCBs and other waste at the facility. Employees of the General \nServices Administration complained about PCB exposure during maintenance activities, triggering \nthe  inspection  of  transformers  at  General  Services  Administration  facilities  throughout  the \nNational Capital Region. \n87.  During  a  Congressional  hearing,  an  employee  of  the  General  Services \nAdministration  testified  under  oath  that  dielectric  fluids  containing  PCBs  were  routinely \ndischarged into floor drains at the transformer service area until approximately 1977. These floor \ndrains are connected to the storm sewer or combined sewer system, and both discharge to the \nRiver. \nD.  The  Federal  Government  Created  and  Controlled  the  District’s  Sewage \nSystem That Released Hazardous Substances to the River. \n \n87.  The Defendant U.S. also contaminated the River through its historical control of \nDistrict operations, including designing and constructing the District’s combined sewer system, \nwhich sent raw sewage and hazardous substances directly into the River. \n88.  In 1790, Congress created what is now known as the District of Columbia through \nits enactment of the Residence Act of 1790, 1 Stat. 130 (July 16, 1790). This Act declared that the \nDistrict would be the seat of the Government of the United States, created through a donation from \nthe states of Maryland and Virginia of ten square miles of land along the Potomac River between \nthe Eastern Branch (now the Anacostia River) and Conococheague Creek (a northern tributary of \nthe Potomac River).  \n20 \n \n\nCase 1:25-cv-00065-DLF     Document 1     Filed 01/10/25     Page 21 of 33\n89.  In  1871,  Congress  enacted  a  law  that  combined  the  city  of  Washington, \nGeorgetown,  and  Washington  County—which  was  also  inside  of  the  District—under  one \ngovernment headed by a governor appointed by the President.  \n90.  In 1874, Congress established a Presidentially appointed three-member Board of \nCommissioners to govern the District. The Board of Commissioners governed the District for \nnearly 100 years, until 1967, when Congress replaced the Commissioner system with a mayor and \ncity council, still appointed by the President.  \n91.  In 1973, Congress passed the Home Rule Act, which gave residents of the District \nthe right to elect the city council and mayor but reserved Congressional authority to approve or \ndisapprove District legislation. This system of governance remains in existence today. \n92.  During the 19th and most of the 20th centuries, the Defendant U.S. controlled most \naspects of the District’s affairs, including the location, operation, and closure of the Kenilworth \nand Langston Landfills, and the design and creation of the city’s storm drain and sewage system.   \n93.  The District’s sewer system dates to approximately 1810. During these early years, \nmost sewage from the District discharged directly into the former Washington Canal that connects \nto the River near Hains Point. \n94.  In 1871, prior to creating the Board of Commissioners, Congress created and \nappointed a D.C. Board of Public Works. From 1871 to 1874, the Board constructed about 80 \nmiles of sewers, including the B Street and Tiber Creek sewers, which conveyed sewage from the \nWashington Canal to the marshes along the Anacostia and Potomac Rivers. \n95.  For nine decades, Congress appointed an Army Corps Engineering Commissioner \nto a seat on the Board of Public Works for the District. The Army Corps Commissioner retained \ntwo deputies, one of whom managed the D.C. storm and sewage system. \n21 \n \n\nCase 1:25-cv-00065-DLF     Document 1     Filed 01/10/25     Page 22 of 33\n96.  In the 1890s, after public debate, the Army Corps Commissioner declined to build \na sewer system that separates sewage flow from stormwater flow. The Board of Public Works \ndecided to keep and extend the then-existing combined sewer system, allowing stormwater to mix \nwith sewage before discharge to the River. This created combined storm and sewer overflows, \nwhich dumped directly into the River and other water bodies. Currently, there are 14 active \ncombined sewer outfalls along the River. Up until 2018, the combined sewer outfalls overflowed \ninto the River approximately 84 times a year, dumping an average of 2.1 billion gallons of sewage \ndirectly into the River each year.  \n97.  Pollutants in sewage contain numerous hazardous substances, including PCBs, \nlead, mercury, and volatile organic compounds. \n98.  Through rate increases from the District’s water utility, District residents have \nfunded projects to modernize the antiquated and poorly designed sewer system, including the \nAnacostia River Tunnel at a cost of $1.8 billion. In September 2023, D.C. Water completed the \nfinal segment of the tunnel, which will prevent 98% of sewer overflows into the River. \n99.  The Defendant U.S., including the Army Corps, as controlling members of the \nDistrict of Columbia Board of Commissioners, exercised ownership and control over the District’s \nsewer system and, therefore, are liable for releasing hazardous substances into the River. \nII.  The District, at Enormous Cost, Has Begun Cleaning Up the River and Restoring the \nRiver’s Natural Resources.  \n \n100.  The  Defendant  U.S.  and  the  District  have  long  recognized  the  necessity  of \ninvestigating and remediating the pollution in the River. Prior studies of the River concluded that \nthe  River  suffered  from  persistent  contamination  and  water  quality  degradation.  Without \ngovernmental action, the River was likely to remain a hazard to District residents, particularly \nthose who rely on it for recreation, commerce or subsistence.   \n22 \n \n\nCase 1:25-cv-00065-DLF     Document 1     Filed 01/10/25     Page 23 of 33\n101.  The District has begun the process of cleaning up the River and restoring its natural \nresources. \nA.  Remediating Contamination in the River \n102.  In  2013,  pursuant  to  its  authority  under  the  Brownfield  Act,  the  District’s \nDepartment of Energy and Environment began a comprehensive investigation of hazardous \nsubstances in the nine-mile tidal portion of the River and its tributaries, beginning at the confluence \nof the Northwest and Northeast Branches of the River near Bladensburg, Maryland, and extending \ndownstream to the confluence of the River and the Potomac River, including Kingman Lake and \nWashington Channel (“the River Project Site”). The objective of this investigation, known as the \nAnacostia River Sediment Project or ARSP, is to investigate the types, location and sources of \ncontamination along the River Project Site. The River Project Site is outlined in red below:  \n \n23 \n \n\nCase 1:25-cv-00065-DLF     Document 1     Filed 01/10/25     Page 24 of 33\n103.  On December 31, 2019, as part of the ARSP, the District completed and published \nfor public comment: (i) a Remedial Investigation Report, and (ii) a Feasibility Study Report, \nincluding  a  Focused  Feasibility  Study  Report  and  a  River-Wide  Feasibility  Study  Report \n(collectively, “RI/FS”). The RI/FS details the nature and extent of the sediment contamination at \nthe River Project Site, the risks posed to human health and the environment by contaminated \nsediments, and an evaluation of potential remedies to eliminate or mitigate those risks. \n104.  The RI/FS concluded that  certain chemical  contaminants found in the River, \nnamely PCBs, dioxin, and chlordane (a common pesticide banned from use), pose unacceptable \nrisks to human health and the environment. The RI/FS also identified other chemicals, including \nPAHs (commonly found in petroleum and petroleum byproducts), arsenic, mercury, and other \npesticides, as contaminants of concern because they, too, pose risks to human health and the \nenvironment, albeit less severe than the risks posed by PCBs, dioxin, and chlordane.   \n105.  Because PCBs pose the highest risk, the District selected PCBs as the remedy \n“driver,” meaning that by focusing the remedy on eliminating or reducing the risks posed by PCBs, \nthe selected remedy would also eliminate or reduce to acceptable levels the risk posed by other \nhazardous substances.  \n106.  On September 30, 2020, the District completed and published for public comment \nan Interim Record of Decision (“Interim ROD”) for the River Project Site, which documents the \nDistrict’s  decision  to  conduct  early  remedial action,  a  recognized remedial  approach  under \nCERCLA. The Interim ROD, among other things, establishes specific numerical cleanup goals for \nPCBs and identifies for early remedial action eleven (11) “Early Action Areas” or “hot spots” \nwhere PCB contamination is the highest. The Interim ROD is intended to eliminate or minimize \n24 \n \n\nCase 1:25-cv-00065-DLF     Document 1     Filed 01/10/25     Page 25 of 33\nthe risks posed by all other hazardous substances that are also located within the Early Action \nAreas.  \n107.  By  removing  or  containing  the  most  contaminated  sediments,  the  District’s \nimplementation of the Interim ROD, expected to commence in 2025, will substantially reduce risk \nto human health and the environment while evaluations of the contamination of the entire River \nProject  Site  continue.  To  implement  the  Interim  ROD,  the  District  will  use  an  adaptive \nmanagement approach, which is intended to reduce the contamination in River sediment, track the \nresults of the interim remedial action, and inform further actions by the Department of Energy and \nEnvironment that may be necessary to achieve the numeric cleanup goals established for the River \nProject Site. Achieving these cleanup goals may require implementing subsequent remedial \nactions or modifying a selected interim remedy at one or more locations. Either of these actions \nwould result in significant additional cost to the District. \n108.  To date, the District has incurred over $46 million dollars in investigative costs. \nThe District anticipates spending much more to achieve the ARSP’s remedial objectives.  \nB.  Restoring the River’s Natural Resources  \n \n109.  CERCLA,  the  District’s  Brownfield  Act,  the  National  Oil  and  Hazardous \nSubstances Contingency Plan, 43 C.F. R. §§300 et seq., the Federal Water Pollution Control Act, \n33  U.S.C.  §§1241  et  seq.,  the  Oil  Pollution  Act,  33  U.S.C.  §§2701  et  seq.,  the  District’s \nDepartment of the Environment Establishment Act, D.C. Code §8-151.08, and the District’s Water \nPollution Control Act, §8-103.03, authorize the Defendant U.S. and the District to act on behalf of \nthe public as trustees to protect and preserve natural resources along the River. As trustees, the \nDefendant U.S. and the District may assess and recover damages for natural resource injuries \nresulting from the release of hazardous substances or oil into the River.    \n25 \n \n\nCase 1:25-cv-00065-DLF     Document 1     Filed 01/10/25     Page 26 of 33\n110.  In July 2021, the District, in concert with the U.S. Department of the Interior and \nthe National Oceanic and Atmospheric Administration, in their joint capacity as trustees for the \nRiver watershed, began an assessment of natural resource damages at the River Project Site. \nPreliminary findings indicate widespread natural resource damages, including diminishment of \nwildlife habitat as well as economic loss to District residents who rely on the River for subsistence \nfishing. The trustees published a “Pre-Assessment Screen” documenting their determination that \nfurther efforts to investigate and assess damages to natural resources at the River Project Site are \nwarranted. \nCLAIMS FOR RELIEF \nFIRST CAUSE OF ACTION \n \nRECOVERY OF INCURRED RESPONSE COSTS AND NATURAL RESOURCE \nDAMAGES AND DECLARATORY JUDGMENT FOR FUTURE RESPONSE COSTS  \nAND NATURAL RESOURCE DAMAGES UNDER CERCLA \n \n111.  The District incorporates the allegations in all preceding paragraphs. \n112.  The Defendant U.S. is a “person” within the meaning of Section 101(21) of \nCERCLA, 42 U.S.C. § 9601(21).  \n113.  A person incurs liability under CERCLA when the person is: (i) an “owner or \noperator” of a “facility” that has released, caused to be released, or threatened to release hazardous \nsubstances; (ii) a “transporter” of hazardous substances that have been released to a “facility”; or \n(iii) an “arranger,” or person who arranges for, the storage or disposal of hazardous substances that \nhave been released to or at a “facility.” 42 U.S.C. § 9607(a)(1)-(4).  \n114.  Under  CERCLA,  a  “facility”  is  “(A)  any  building,  structure,  installation, \nequipment, pipe or pipeline (including any pipe into a sewer or publicly owned treatment works), \nwell, pit, pond, lagoon, impoundment, ditch, landfill, storage container, motor vehicle, rolling \n26 \n \n\nCase 1:25-cv-00065-DLF     Document 1     Filed 01/10/25     Page 27 of 33\nstock, or aircraft, or (B) any site or area where a hazardous substance has been deposited, stored, \ndisposed of, or placed, or otherwise come to be located; but does not include any consumer product \nin consumer use or any vessel.” 42 U.S.C. § 9601(9).   \n115.  The Defendant U.S. is liable under CERCLA because it owns and operates, and \nowned and operated, numerous facilities that released, caused to be released, or threaten to release, \nwithin the meaning of Section 101(22) of CERCLA, 42 U.S.C. § 9601(22), hazardous substances \ninto the River. As defined by Section 101(9) of CERCLA, 42 U.S.C. § 9601(9), these facilities \ninclude the Riverbed, the Washington Navy Yard and Southeast Federal Center, the Kenilworth \nLandfill, operations at Poplar Point, Fort McNair, the Bureau of Engraving and Printing complex, \nthe Langston Golf Course site, the Capitol Power Plant, the General Service Administration’s \nelectric transformer service area, and the District’s combined sewer system.   \n116.  The Defendant U.S. is also liable under CERCLA because it generated, transported \nand arranged for the storage or disposal of hazardous substances released to a facility, i.e., the \nRiver, including from the dredging and filling operations of the Army Corps of Engineers and the \noperation of the facilities identified in the preceding paragraph. \n117.  By engaging in these activities that make it liable under CERCLA, the Defendant \nU.S. has harmed and will continue to harm the River. \n118.  Because the Defendant U.S. has harmed and will continue to harm the River, the \nDistrict has incurred and will continue to incur Response Costs—i.e., the costs the District is \nincurring to clean up the River.  \n119.  A person liable under Section 107(a)(4)(A) of CERCLA is liable for all response \ncosts that a State incurs to clean up hazardous substances and that are not inconsistent with the \nNational Contingency Plan. 42 U.S.C. § 9607(a)(4)(A).  \n27 \n \n\nCase 1:25-cv-00065-DLF     Document 1     Filed 01/10/25     Page 28 of 33\n120.  The definition of “State” specifically includes the District of Columbia under \nCERCLA, 42 U.S.C. § 9601(27), and the District’s Response Costs are not inconsistent with the \nNational Contingency Plan, 40 C.F.R. Part 300.  \n121.  Under Section 107(a)(4)(A) of CERCLA, the Defendant U.S. is liable for the \nDistrict’s Response Costs, including interest. \n122.  Because the Defendant U.S. has harmed and will continue to harm the River, the \nDistrict has suffered and will continue to suffer damages to its natural resources. \n123.  A  person  liable  under  Section  107(a)(4)(A)  of  CERCLA,  42  U.S.C. \n§ 9607(a)(4)(A), is also liable for “damages for injury to, destruction of, or loss of natural resources \n. . .” \n124.  Under Section 107(a)(4)(A) of CERCLA, 42 U.S.C. § 9607(a), the Defendant U.S. \nis liable to the District for natural resource damages.   \n125.  Section 113(g)(2) of CERCLA, 42 U.S.C. § 9613(g)(2), specifies that in any action \nfor recovery of costs under Section 107 of CERCLA, 42 U.S.C. § 9607, “the court shall enter a \ndeclaratory judgment on liability for response costs or damages that will be binding on any \nsubsequent action or actions to recover further response costs . . . .” \n126.  The District is entitled to entry of a declaratory judgment that the Defendant U.S. \nis liable to the District for Response Costs, including interest, as well as for natural resource \ndamages.  \n127.  In the alternative, the Defendant U.S. is liable to the District under Section 113(f)(1) \nof CERCLA, 42 U.S.C. § 9613(f)(1), for contribution for all costs in excess of the fair and \nequitable share of Response Costs the District has incurred and will incur for the ARSP and natural \nresource damages. \n28 \n \n\nCase 1:25-cv-00065-DLF     Document 1     Filed 01/10/25     Page 29 of 33\nSECOND CAUSE OF ACTION \n \nRECOVERY OF INCURRED RESPONSE COSTS AND NATURAL RESOURCE \nDAMAGES AND DECLARATORY JUDGMENT FOR FUTURE RESPONSE COSTS AND \nNATURAL RESOURCE DAMAGES UNDER THE BROWNFIELD ACT \n \n128.  The District incorporates the allegations in all preceding paragraphs. \n129.  The Defendant U.S. is a person within the meaning of the Brownfield Act, D.C. \nCode § 8-631.02(12).  \n130.  Under the Brownfield Act, a person incurs liability as a “responsible person” when, \nwith regard to a property from which there is a release of a hazardous substance, the person is: (i) \nan “owner or operator” of the property; (ii) a “transporter” of hazardous substances that were \nreleased at the property; (iii) an “arranger,” or person who arranges for, the storage or disposal of \nhazardous substances on the property; or (iv) a person who contributes to contamination by an act \nor omission that they had reason to know would cause the contamination at the property. D.C. \nCode § 8-632.01(c)(1)-(5).  \n131.  The Defendant U.S. is a responsible person under the Brownfield Act because it \nowns and operates, and owned and operated, numerous properties that released, caused to be \nreleased, or threaten to release, within the meaning of D.C. Code § 8-631.02(14), hazardous \nsubstances into the River. These properties include the Riverbed, the Washington Navy Yard and \nSoutheast Federal Center, the Kenilworth Landfill, operations at Poplar Point, Fort McNair, the \nBureau of Engraving and Printing complex, the Langston Golf Course site, the Capitol Power \nPlant, the General Service Administration’s electric transformer service area, and the District’s \ncombined sewer system.   \n132.  The Defendant U.S. is also a responsible person under the Brownfield Act because \nit generated, transported, and arranged for the storage or disposal of hazardous substances released \n29 \n \n\nCase 1:25-cv-00065-DLF     Document 1     Filed 01/10/25     Page 30 of 33\nto a property, i.e., the River, including from the dredging and filling operations of the Army Corps \nof Engineers and the operation of the facilities identified in the preceding paragraph. \n133.  The Defendant U.S. is also a responsible person under the Brownfield Act because \nit contributed to the hazardous substance contamination of a property, i.e., the River, by an act or \nomission that it had reason to know would cause the contamination, including the dredging and \nfilling operations of the Army Corps of Engineers and the operation of the facilities identified in \nParagraph 131. \n134.  By engaging in these activities that make it a responsible person, the Defendant \nU.S. has harmed and will continue to harm the River. \n135.  Because the Defendant U.S. has harmed and will continue to harm the River, the \nDistrict has incurred and will continue to incur Response Costs. \n136.  These Response Costs are not inconsistent with the National Contingency Plan, 40 \nC.F.R. Part 300, as required by D.C. Code § 8-104. \n137.  Because the Defendant U.S. has harmed and will continue to harm the River, the \nDistrict has suffered and will continue to suffer damages to its natural resources. \n138.  Under the Brownfield Act, D.C.  Code § 8-632.01, the  Defendant U.S., as  a \nresponsible person, is strictly, jointly, and severally liable to the District for Response Costs, \nincluding interest, and natural resource damages. \n139.  D.C. Code § 8-634.07 provides the Attorney General for the District of Columbia \nthe authority to request a declaration of future liability for Response Costs and natural resource \ndamages.  \n30 \n \n\nCase 1:25-cv-00065-DLF     Document 1     Filed 01/10/25     Page 31 of 33\n140.  The District is entitled to entry of a declaratory judgment that the Defendant U.S. \nis liable to the District for Response Costs, including interest, as well as for natural resource \ndamages. \n141.  In the alternative, the Defendant U.S. is liable to the District for contribution under \nthe Brownfield Act, D.C. Code § 8-634.09, for all costs in excess of the fair and equitable share of \nResponse Costs the District has incurred and will incur for the ARSP and natural resource \ndamages. \nPRAYER FOR RELIEF \nWHEREFORE, the District prays that this Court: \na.  Enter judgment in favor of the District jointly and severally against the Defendant \nU.S., pursuant to Section 107(a) of CERCLA, 42 U.S.C. § 9607(a), for all Response Costs not \ninconsistent with the National Contingency Plan, plus interest, in an amount to be proven at trial. \nb.  Enter judgment in favor of the District jointly and severally against the Defendant \nU.S., pursuant to Section 107(a) of CERCLA, 42 U.S.C. § 9607(a), for all natural resource \ndamages related to the ARSP, plus interest, in an amount to be proven at trial. \nc.  Enter judgment in favor of the District jointly and severally against the Defendant \nU.S., pursuant to the Brownfield Act, D.C. Code § 8-632.01(b), for all Response Costs not \ninconsistent with the National Contingency Plan, plus interest, in an amount to be proven at trial. \nd.  Enter judgment in favor of the District jointly and severally against the Defendant \nU.S., pursuant to the Brownfield Act, D.C. Code § 8-632.01(b), for all natural resource damages \nor related to the ARSP, plus interest, in an amount to be proven at trial. \n31 \n \n\nCase 1:25-cv-00065-DLF     Document 1     Filed 01/10/25     Page 32 of 33\ne.  Enter declaratory judgment of liability in favor of the District jointly and severally \nagainst the Defendant U.S. for all future Response Costs and natural resource damages pursuant \nto Section 113(g)(2) of CERCLA, 42 U.S.C. § 9613(g)(2).    \nf.  Enter declaratory judgment of liability in favor of the District jointly and severally \nagainst the Defendant U.S. for future Response Costs and natural resource damages pursuant to \nthe Brownfield Act, D.C. Code § 8-634.07.    \ng.  Alternatively, in the event the District is liable for any Response Costs or natural \nresource damages arising from the contamination of the River, enter judgment in favor of the \nDistrict jointly and severally against the Defendant U.S. for all Response Costs and natural \nresource damages in excess of the District’s fair and equitable share.  \nh.  Enter judgment in favor of the District and  jointly and severally against the \nDefendant U.S. for the costs and attorneys’ fees it incurs litigating this action. \ni.  Order such other and further relief as the Court deems just and equitable. \nDated:  January 10, 2025 \nRespectfully submitted, \nBRIAN L. SCHWALB \nAttorney General for the District of Columbia \n \nBETH MELLEN \nWILLIAM STEPHENS \nAssistant Deputy Attorneys General \nPublic Advocacy Division \n \nLAURA BECKERMAN \nActing Chief, Housing and Environmental Justice Section \n \n/s/ Wesley Rosenfeld \nWESLEY ROSENFELD [#1002428] \nSEAN POWERS [#198053]* \nALEC BOWMAN [#90019707]* \nAssistant Attorneys General \n32 \n \n\nCase 1:25-cv-00065-DLF     Document 1     Filed 01/10/25     Page 33 of 33\n \n/s/ David S. Hoffmann \nDAVID S. HOFFMANN [#983129] \nBRIAN CALDWELL [#979680]* \nSenior Assistant Attorneys General  \nOffice of the Attorney General for the District of Columbia \n400 Sixth St., NW \nWashington, D.C. 20001 \n(202) 368-2569  \nWesley.rosenfeld1@dc.gov \nDavid.hoffmann@dc.gov \n \nAttorneys for the District of Columbia \n \n \n* application/certification for admission to Court forthcoming or pending \n33 \n ",
+      "document_type_other": null,
+      "external_url": "https://www.courtlistener.com/docket/69533268/1/district-of-columbia-v-united-states/",
+      "ecf_number": "1",
+      "clearinghouse_link": "clearinghouse.net/doc/154998"
+    },
+    {
+      "date": "2025-02-03",
+      "date_is_estimate": false,
+      "date_not_available": false,
+      "description": "",
+      "document_source": "RECAP",
+      "document_status": "Deleted",
+      "document_type": "Other",
+      "order_type": null,
+      "citation_paren": null,
+      "cite_1_page": null,
+      "cite_1_reporter": null,
+      "cite_1_vol": null,
+      "cite_2_page": null,
+      "cite_2_reporter": null,
+      "cite_2_vol": null,
+      "cite_3_page": null,
+      "cite_3_reporter": null,
+      "cite_3_vol": null,
+      "citation_status": "Not applicable",
+      "court": "District of District of Columbia",
+      "no_title": false,
+      "party_types": [
+        "Plaintiff"
+      ],
+      "per_curium": false,
+      "is_core_document": true,
+      "id": 155565,
+      "file": "https://clearinghouse-umich-production.s3.amazonaws.com/media/doc/155565.pdf",
+      "title": "Declaration of Service by Staff Assistant Mina Kasama",
+      "text": "Case 1:25-cv-00065-DLF     Document 9     Filed 02/03/25     Page 1 of 2\nGOVERNMENT OF THE DISTRICT OF COLUMBIA \nOFFICE OF THE ATTORNEY GENERAL \n \n   \nDISTRICT OF COLUMBIA,  Case No: 25-cv-00065-DLF \n  Judge: Dabney Friedrich \nPlaintiff, \nv. \n \nUNITED STATES OF AMERICA, \n                                    Defendant. \n \nDECLARATION OF SERVICE BY STAFF ASSISTANT MINA KASAMA \n \nI, Mina Kasama, Staff Assistant, Office of the Attorney General for the District of Columbia (District), \nhereby declare as follows: \n1.  My name is Mina Kasama, and I am assisting Assistant Attorney General (AAG) Wesley \nRosenfeld in the above captioned matter. My business address is 400 6th Street, N.W., Washington, \nDC 20001. I am over the age of eighteen years and I am competent to make this declaration. \n2.  On January 16, 2025, I served the stamped Complaint in the above captioned matter, the \nSummons addressed to the United States Attorney General, and Notice of Right to Consent to Trial \nBefore a United States Magistrate Judge, via U.S.P.S. certified mail addressed to: Attorney \nGeneral of the United States, 950 Pennsylvania Avenue NW, Washington, DC 20530, pursuant to \nFederal Rule of Civil Procedure 4(i)(1)(B). \n3.  On January 22, 2025, I served the stamped Complaint in the above captioned matter, the \nSummons addressed to the United States Attorney for the District of Columbia, and the Notice of \nRight  to  Consent  to  Trial  Before  a  United  States  Magistrate  Judge,  via  email  to \n  1 \n\nCase 1:25-cv-00065-DLF     Document 9     Filed 02/03/25     Page 2 of 2\nUSADC.ServiceCivil@usdoj.gov in accordance with the U.S. Attorney’s email service  protocol. \nSee  https://www.justice.gov/usao-dc/civil-division.  On  February  1,  2025,  I  received  a \nconfirmation email from USADC.ServiceCivil@usdoj.gov stating, “Your service package has \nbeen received and accepted with a service date of January 22, 2025.” \n \nI declare under penalty of perjury that the foregoing is true and correct. Executed on February \n3, 2025. \n \n  /s/ Mina Kasama    \n  Mina Kasama \nStaff Assistant \n  2 ",
+      "document_type_other": null,
+      "external_url": "https://www.courtlistener.com/docket/69533268/9/district-of-columbia-v-united-states/",
+      "ecf_number": "9",
+      "clearinghouse_link": "clearinghouse.net/doc/155565"
+    }
+  ],
+  "document_count": 3
+}

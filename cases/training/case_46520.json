@@ -1,0 +1,583 @@
+{
+  "case_id": 46520,
+  "fetched_at": "2025-10-22T00:46:01.043748",
+  "case_data": {
+    "attorney_orgs": [],
+    "available_documents": [
+      "Trial Court Docket",
+      "Complaint (any)"
+    ],
+    "case_defendants": [
+      {
+        "defendant_level": null,
+        "institution": "",
+        "institution_alt_state": null,
+        "institution_city": "",
+        "institution_county": null,
+        "name": "State of Hawai'i",
+        "defendant_level_other": "",
+        "is_active": true
+      }
+    ],
+    "case_ongoing": "Yes",
+    "case_status": "Approved",
+    "case_types": [
+      "Environmental Justice"
+    ],
+    "cause_other": "",
+    "causes": [
+      "Declaratory Judgment Act, 28 U.S.C. § 2201",
+      "All Writs Act, 28 U.S.C. § 1651"
+    ],
+    "class_action_granted": "Not sought",
+    "class_action_sought": "No",
+    "closing_year": null,
+    "constitutional_clause": [
+      {
+        "value": "Commerce Power"
+      },
+      {
+        "value": "Supremacy Clause"
+      }
+    ],
+    "content_of_injunction": [],
+    "court": "District of Hawaii",
+    "custom_issues": [],
+    "defendant_payment": "",
+    "defendant_type": [
+      {
+        "value": "Jurisdiction-wide"
+      }
+    ],
+    "docket_status": "Complete as of retrieval date",
+    "facility_type": [],
+    "filing_date": "2025-04-30",
+    "filing_year": 2025,
+    "id": 46520,
+    "injunction_duration": "",
+    "issues": [
+      "Affected National Origin/Ethnicity(s), Affected Language(s), General/Misc.: Other"
+    ],
+    "last_checked_date": "2025-10-08T00:00:00-04:00",
+    "main_docket": {
+      "id": 61562,
+      "docket_entries": [
+        {
+          "row_number": 15,
+          "id": 10177366,
+          "entry_number": "23",
+          "date_filed": "2025-07-28T00:00:00-04:00",
+          "attachments": [],
+          "url": "https://www.courtlistener.com/docket/70017206/23/united-states-v-state-of-hawaii/",
+          "recap_pdf_url": "https://www.courtlistener.com/recap/gov.uscourts.hid.173534/gov.uscourts.hid.173534.23.0.pdf",
+          "pacer_doc_id": "06104366638",
+          "description": "EO: On July 25, 2025, Defendants State of Hawaii, Joshua Booth Green, and Anne E. Lopez filed:MOTION FOR JUDGMENT ON THE PLEADINGS. (ECF No. 22 ).Plaintiff shall file an Opposition on or before Monday, August 25, 2025.Defendants shall file a Reply on or before Monday, September 15, 2025.The Court will notify the parties in due course whether a hearing on the matter will be held in court, by video conference, or by telephone conference, or whether the matter will be decided without a hearing pursuant to District of Hawaii Local Rule 7.1(c). (SENIOR JUDGE HELEN GILLMOR)(rls) (Entered: 07/28/2025)"
+        },
+        {
+          "row_number": 21,
+          "id": 10350760,
+          "entry_number": "29",
+          "date_filed": "2025-09-24T00:00:00-04:00",
+          "attachments": null,
+          "url": "https://www.courtlistener.com/docket/70017206/29/united-states-v-state-of-hawaii/",
+          "recap_pdf_url": "https://www.courtlistener.com/recap/gov.uscourts.hid.173534/gov.uscourts.hid.173534.29.0.pdf",
+          "pacer_doc_id": "06104396468",
+          "description": "MEMORANDUM in Opposition re 22 MOTION for Judgment on the Pleadings filed by United States of America. (Heminger, Justin) (Entered: 09/24/2025)"
+        },
+        {
+          "row_number": 22,
+          "id": 9766846,
+          "entry_number": "3",
+          "date_filed": "2025-05-01T00:00:00-04:00",
+          "attachments": [],
+          "url": "https://www.courtlistener.com/docket/70017206/3/united-states-v-state-of-hawaii/",
+          "recap_pdf_url": null,
+          "pacer_doc_id": "06104323431",
+          "description": "Order Setting Telephonic Rule 16 Scheduling Conference is set for 09:00AM on 6/30/2025 before MAGISTRATE JUDGE WES REBER PORTER - Signed by CHIEF JUDGE DERRICK K. WATSON on 5/1/2025. ATTACH THE SCHEDULING ORDER TO THE INITIATING DOCUMENT (COMPLAINT/NOTICE OF REMOVAL). THE SCHEDULING ORDER MUST BE SERVED WITH THE DOCUMENT. (eta) (Entered: 05/01/2025)"
+        },
+        {
+          "row_number": 24,
+          "id": 9766848,
+          "entry_number": "5",
+          "date_filed": "2025-05-19T00:00:00-04:00",
+          "attachments": [],
+          "url": "https://www.courtlistener.com/docket/70017206/5/united-states-v-state-of-hawaii/",
+          "recap_pdf_url": null,
+          "pacer_doc_id": null,
+          "description": "EO: In order to allow time for service of the Complaint, the Court CONTINUES the Telephonic Rule 16 Scheduling Conference from 6/30/2025 to 8/12/2025 at 8:30 AM before MAGISTRATE JUDGE WES REBER PORTER via Zoom: Dial in number: 1-833-568-8864; Meeting ID: 161 0084 2470. (MAGISTRATE JUDGE WES REBER PORTER)(wrp1) (Entered: 05/19/2025)"
+        },
+        {
+          "row_number": 25,
+          "id": 9988895,
+          "entry_number": "6",
+          "date_filed": "2025-05-22T00:00:00-04:00",
+          "attachments": [],
+          "url": "https://www.courtlistener.com/docket/70017206/6/united-states-v-state-of-hawaii/",
+          "recap_pdf_url": null,
+          "pacer_doc_id": "06104334528",
+          "description": "Summons (Proposed) (Heminger, Justin) (Entered: 05/22/2025)"
+        },
+        {
+          "row_number": 27,
+          "id": 9988897,
+          "entry_number": "8",
+          "date_filed": "2025-05-22T00:00:00-04:00",
+          "attachments": [],
+          "url": "https://www.courtlistener.com/docket/70017206/8/united-states-v-state-of-hawaii/",
+          "recap_pdf_url": null,
+          "pacer_doc_id": "06104334534",
+          "description": "Summons (Proposed) (Heminger, Justin) (Entered: 05/22/2025)"
+        },
+        {
+          "row_number": 28,
+          "id": 9988898,
+          "entry_number": "9",
+          "date_filed": "2025-05-22T00:00:00-04:00",
+          "attachments": [],
+          "url": "https://www.courtlistener.com/docket/70017206/9/united-states-v-state-of-hawaii/",
+          "recap_pdf_url": null,
+          "pacer_doc_id": "06104334537",
+          "description": "Summons (Proposed) (Heminger, Justin) (Entered: 05/22/2025)"
+        },
+        {
+          "row_number": 2,
+          "id": 9988900,
+          "entry_number": "11",
+          "date_filed": "2025-06-30T00:00:00-04:00",
+          "attachments": [],
+          "url": "https://www.courtlistener.com/docket/70017206/11/united-states-v-state-of-hawaii/",
+          "recap_pdf_url": null,
+          "pacer_doc_id": "06104352156",
+          "description": "SUMMONS Returned Executed by United States of America. Anne E. Lopez served on 5/30/2025. (Heminger, Justin) (Entered: 06/30/2025)"
+        },
+        {
+          "row_number": 3,
+          "id": 9988901,
+          "entry_number": "12",
+          "date_filed": "2025-06-30T00:00:00-04:00",
+          "attachments": [],
+          "url": "https://www.courtlistener.com/docket/70017206/12/united-states-v-state-of-hawaii/",
+          "recap_pdf_url": null,
+          "pacer_doc_id": "06104352159",
+          "description": "SUMMONS Returned Executed by United States of America. Joshua Booth Green served on 6/2/2025. (Heminger, Justin) (Entered: 06/30/2025)"
+        },
+        {
+          "row_number": 5,
+          "id": 9988903,
+          "entry_number": "14",
+          "date_filed": "2025-06-30T00:00:00-04:00",
+          "attachments": [],
+          "url": "https://www.courtlistener.com/docket/70017206/14/united-states-v-state-of-hawaii/",
+          "recap_pdf_url": null,
+          "pacer_doc_id": "06104352174",
+          "description": "SUMMONS Returned Executed by United States of America. State of Hawaii served on 5/30/2025. (Heminger, Justin) (Entered: 06/30/2025)"
+        },
+        {
+          "row_number": 6,
+          "id": 9988904,
+          "entry_number": "15",
+          "date_filed": "2025-06-30T00:00:00-04:00",
+          "attachments": [],
+          "url": "https://www.courtlistener.com/docket/70017206/15/united-states-v-state-of-hawaii/",
+          "recap_pdf_url": null,
+          "pacer_doc_id": "06104352267",
+          "description": "Request for Entry of Default by United States of America. (Attachments: # 1 Declaration, # 2 Certificate of Service)(Heminger, Justin) (Entered: 06/30/2025)"
+        },
+        {
+          "row_number": 9,
+          "id": 9988907,
+          "entry_number": "18",
+          "date_filed": "2025-06-30T00:00:00-04:00",
+          "attachments": [],
+          "url": "https://www.courtlistener.com/docket/70017206/18/united-states-v-state-of-hawaii/",
+          "recap_pdf_url": null,
+          "pacer_doc_id": "06104352579",
+          "description": "NOTICE of Appearance by Caitlyn B. Carpenter on behalf of Joshua Booth Green, Anne E. Lopez, State of Hawaii on behalf of Joshua Booth Green, Anne E. Lopez, State of Hawaii. (Carpenter, Caitlyn) (Entered: 06/30/2025)"
+        },
+        {
+          "row_number": 10,
+          "id": 9988908,
+          "entry_number": "19",
+          "date_filed": "2025-06-30T00:00:00-04:00",
+          "attachments": [],
+          "url": "https://www.courtlistener.com/docket/70017206/19/united-states-v-state-of-hawaii/",
+          "recap_pdf_url": null,
+          "pacer_doc_id": "06104352940",
+          "description": "Defendants' ANSWER to 1 Complaint for Declaratory and Injunctive Relief by Joshua Booth Green, Anne E. Lopez, State of Hawaii.(Hughes, Thomas) (Entered: 06/30/2025)"
+        },
+        {
+          "row_number": 14,
+          "id": 10177365,
+          "entry_number": "22",
+          "date_filed": "2025-07-25T00:00:00-04:00",
+          "attachments": [
+            {
+              "pdf_url": "https://www.courtlistener.com/recap/gov.uscourts.hid.173534/gov.uscourts.hid.173534.22.1.pdf",
+              "recap_id": 448762894,
+              "pacer_url": "https://ecf.hid.uscourts.gov/doc1/06104366264?caseid=173534",
+              "description": "Memorandum in Support of Motion",
+              "attachment_number": 1
+            },
+            {
+              "recap_id": 448762895,
+              "pacer_url": "https://ecf.hid.uscourts.gov/doc1/06104366265?caseid=173534",
+              "description": "Appendix A",
+              "attachment_number": 2
+            },
+            {
+              "recap_id": 448762896,
+              "pacer_url": "https://ecf.hid.uscourts.gov/doc1/06104366266?caseid=173534",
+              "description": "Appendix B",
+              "attachment_number": 3
+            },
+            {
+              "recap_id": 448762897,
+              "pacer_url": "https://ecf.hid.uscourts.gov/doc1/06104366267?caseid=173534",
+              "description": "Certificate of Service",
+              "attachment_number": 4
+            }
+          ],
+          "url": "https://www.courtlistener.com/docket/70017206/22/united-states-v-state-of-hawaii/",
+          "recap_pdf_url": null,
+          "pacer_doc_id": "06104366263",
+          "description": "MOTION for Judgment on the Pleadings Kalikoonalani Diara Fernandes appearing for Defendants Joshua Booth Green, Anne E. Lopez, State of Hawaii (Attachments: # 1 Memorandum in Support of Motion, # 2 Appendix A, # 3 Appendix B, # 4 Certificate of Service)(Fernandes, Kalikoonalani) (Entered: 07/25/2025)"
+        },
+        {
+          "row_number": 18,
+          "id": 10247208,
+          "entry_number": "26",
+          "date_filed": "2025-08-22T00:00:00-04:00",
+          "attachments": null,
+          "url": "https://www.courtlistener.com/docket/70017206/26/united-states-v-state-of-hawaii/",
+          "recap_pdf_url": null,
+          "pacer_doc_id": "06104380328",
+          "description": "RESPONSE to Motion re 25 First MOTION for Extension of Time to File Response/Reply as to 22 MOTION for Judgment on the Pleadings filed by Joshua Booth Green, Anne E. Lopez, State of Hawaii. (Attachments: # 1 Declaration of Lauren K. Chun, # 2 Certificate of Service)(Chun, Lauren) (Entered: 08/22/2025)"
+        },
+        {
+          "row_number": 19,
+          "id": 10247209,
+          "entry_number": "27",
+          "date_filed": "2025-08-23T00:00:00-04:00",
+          "attachments": null,
+          "url": "https://www.courtlistener.com/docket/70017206/27/united-states-v-state-of-hawaii/",
+          "recap_pdf_url": null,
+          "pacer_doc_id": "06104380381",
+          "description": "EO: On August 22, 2025, Plaintiff United States of America filed:PLAINTIFF'S FIRST MOTION FOR EXTENSION OF TIME. (ECF No. 25 ).Also on August 22, 2025, Defendant filed a Response in opposition (ECF No. 26 ).Plaintiff requests a 30-day extension to respond to Defendants' Motion for Judgment on the Pleadings from August 25, 2025, to September 24, 2025.Plaintiff's Motion for Extension of Time (ECF No. 25) is GRANTED.Plaintiff shall file an Opposition on or before Wednesday, September 24, 2025.Defendants shall file a Reply on or before Wednesday, October 22, 2025.The Court will notify the parties in due course whether a hearing on the matter will be held in court, by video conference, or by telephone conference, or whether the matter will be decided without a hearing pursuant to District of Hawaii Local Rule 7.1(c). (SENIOR JUDGE HELEN GILLMOR)(rlfh) (Entered: 08/23/2025)"
+        },
+        {
+          "row_number": 26,
+          "id": 9988896,
+          "entry_number": "7",
+          "date_filed": "2025-05-22T00:00:00-04:00",
+          "attachments": [],
+          "url": "https://www.courtlistener.com/docket/70017206/7/united-states-v-state-of-hawaii/",
+          "recap_pdf_url": null,
+          "pacer_doc_id": "06104334531",
+          "description": "Summons (Proposed) (Heminger, Justin) (Entered: 05/22/2025)"
+        },
+        {
+          "row_number": 1,
+          "id": 9988899,
+          "entry_number": "10",
+          "date_filed": "2025-05-22T00:00:00-04:00",
+          "attachments": [],
+          "url": "https://www.courtlistener.com/docket/70017206/10/united-states-v-state-of-hawaii/",
+          "recap_pdf_url": null,
+          "pacer_doc_id": "06104334619",
+          "description": "Summons Issued as to Joshua Booth Green, Anne E. Lopez, State of Hawaii. (Attachments: # 1 Issued Summons to Joshua Booth Green, M.D. c/o Anne E. Lopez, # 2 Issued Summons as to Joshua Booth Green, M.D., # 3 Issued Summons as to State of Hawaii c/o Anne E. Lopez)(cib) (Entered: 05/22/2025)"
+        },
+        {
+          "row_number": 4,
+          "id": 9988902,
+          "entry_number": "13",
+          "date_filed": "2025-06-30T00:00:00-04:00",
+          "attachments": [],
+          "url": "https://www.courtlistener.com/docket/70017206/13/united-states-v-state-of-hawaii/",
+          "recap_pdf_url": null,
+          "pacer_doc_id": "06104352168",
+          "description": "SUMMONS Returned Executed by United States of America. Joshua Booth Green served on 5/30/2025. (Heminger, Justin) (Entered: 06/30/2025)"
+        },
+        {
+          "row_number": 7,
+          "id": 9988905,
+          "entry_number": "16",
+          "date_filed": "2025-06-30T00:00:00-04:00",
+          "attachments": [],
+          "url": "https://www.courtlistener.com/docket/70017206/16/united-states-v-state-of-hawaii/",
+          "recap_pdf_url": null,
+          "pacer_doc_id": "06104352569",
+          "description": "NOTICE of Appearance by Lauren K. Chun on behalf of Joshua Booth Green, Anne E. Lopez, State of Hawaii on behalf of Joshua Booth Green, Anne E. Lopez, State of Hawaii. (Chun, Lauren) (Entered: 06/30/2025)"
+        },
+        {
+          "row_number": 8,
+          "id": 9988906,
+          "entry_number": "17",
+          "date_filed": "2025-06-30T00:00:00-04:00",
+          "attachments": [],
+          "url": "https://www.courtlistener.com/docket/70017206/17/united-states-v-state-of-hawaii/",
+          "recap_pdf_url": null,
+          "pacer_doc_id": "06104352576",
+          "description": "NOTICE of Appearance by Thomas J. Hughes on behalf of Joshua Booth Green, Anne E. Lopez, State of Hawaii on behalf of Joshua Booth Green, Anne E. Lopez, State of Hawaii. (Hughes, Thomas) (Entered: 06/30/2025)"
+        },
+        {
+          "row_number": 17,
+          "id": 10247207,
+          "entry_number": "25",
+          "date_filed": "2025-08-22T00:00:00-04:00",
+          "attachments": null,
+          "url": "https://www.courtlistener.com/docket/70017206/25/united-states-v-state-of-hawaii/",
+          "recap_pdf_url": null,
+          "pacer_doc_id": "06104379930",
+          "description": "First MOTION for Extension of Time to File Response/Reply as to 22 MOTION for Judgment on the Pleadings Justin D. Heminger appearing for Plaintiff United States of America (Attachments: # 1 Exhibit 1, # 2 Exhibit 2 )(Heminger, Justin) Modified on 8/25/2025 (eta). (Entered: 08/22/2025)"
+        },
+        {
+          "row_number": 20,
+          "id": 10247210,
+          "entry_number": "28",
+          "date_filed": "2025-08-25T00:00:00-04:00",
+          "attachments": null,
+          "url": "https://www.courtlistener.com/docket/70017206/28/united-states-v-state-of-hawaii/",
+          "recap_pdf_url": null,
+          "pacer_doc_id": null,
+          "description": "EO: In light of the pending 22 Motion for Judgment on the Pleadings, the Court CONTINUES the Telephonic Rule 16 Scheduling Conference from 11/4/2025 to 12/15/2025 at 9:30 AM before MAGISTRATE JUDGE WES REBER PORTER via Zoom: Dial in number: 1-833-568-8864; Meeting ID: 161 0084 2470. (MAGISTRATE JUDGE WES REBER PORTER)(wrp1) (Entered: 08/25/2025)"
+        },
+        {
+          "row_number": 23,
+          "id": 9766847,
+          "entry_number": "4",
+          "date_filed": "2025-05-01T00:00:00-04:00",
+          "attachments": [],
+          "url": "https://www.courtlistener.com/docket/70017206/4/united-states-v-state-of-hawaii/",
+          "recap_pdf_url": null,
+          "pacer_doc_id": "06104323434",
+          "description": "CIVIL Waiver of Service Packet ~ Notice to Parties Regarding Service Pursuant to Rule 4 of the Federal Rules of Civil Procedure. (Attachments: # 1 AO 398 Notice of a Lawsuit and Request to Waive Service of a Summons, # 2 AO 399 Waiver of the Service of Summons)(eta) (Entered: 05/01/2025)"
+        },
+        {
+          "row_number": 11,
+          "id": 9766845,
+          "entry_number": "2",
+          "date_filed": "2025-05-01T00:00:00-04:00",
+          "attachments": [],
+          "url": "https://www.courtlistener.com/docket/70017206/2/united-states-v-state-of-hawaii/",
+          "recap_pdf_url": null,
+          "pacer_doc_id": null,
+          "description": "NOTICE of Case Assignment: Please reflect Civil case number CV 25-00179 HG-WRP on all further pleadings. (eta) (Entered: 05/01/2025)"
+        },
+        {
+          "row_number": 12,
+          "id": 10177363,
+          "entry_number": "20",
+          "date_filed": "2025-07-03T00:00:00-04:00",
+          "attachments": [],
+          "url": "https://www.courtlistener.com/docket/70017206/20/united-states-v-state-of-hawaii/",
+          "recap_pdf_url": null,
+          "pacer_doc_id": null,
+          "description": "EO: The Court reviewed 15 the Government's Request for Clerk to Enter Default Against Defendants (Request). According to the Request, State Defendants \"have failed to appear or otherwise defend.\" However, the same day the Request was filed, attorneys for State Defendants appeared and filed an 19 Answer to the Complaint. In light of State Defendants' response to the complaint, albeit untimely, the Court DENIES 15 the Government's Request for Entry of Default. See Jennings v. Cnty. of Riverside, No. 5:19-01523 JFW (ADS), 2022 WL 19829433, at *1 (C.D. Cal. Oct. 31, 2022) (\"Default may not be entered once a defendant has filed an answer.\" (citations omitted)); Thomas v. Mark Kuo, 2017 WL 3720752, at *1 (E.D. Cal. Aug. 29, 2017) (\"[I]n light of the late answer, entry of default is inappropriate.\"). (MAGISTRATE JUDGE WES REBER PORTER) (jo) (Entered: 07/03/2025)"
+        },
+        {
+          "row_number": 13,
+          "id": 10177364,
+          "entry_number": "21",
+          "date_filed": "2025-07-25T00:00:00-04:00",
+          "attachments": [],
+          "url": "https://www.courtlistener.com/docket/70017206/21/united-states-v-state-of-hawaii/",
+          "recap_pdf_url": null,
+          "pacer_doc_id": "06104366259",
+          "description": "NOTICE of Appearance by Kalikoonalani Diara Fernandes on behalf of Joshua Booth Green, Anne E. Lopez, State of Hawaii on behalf of Joshua Booth Green, Anne E. Lopez, State of Hawaii. (Attachments: # 1 Certificate of Service)(Fernandes, Kalikoonalani) (Entered: 07/25/2025)"
+        },
+        {
+          "row_number": 16,
+          "id": 10201011,
+          "entry_number": "24",
+          "date_filed": "2025-07-29T00:00:00-04:00",
+          "attachments": [],
+          "url": "https://www.courtlistener.com/docket/70017206/24/united-states-v-state-of-hawaii/",
+          "recap_pdf_url": null,
+          "pacer_doc_id": null,
+          "description": "EO: In light of 22 Defendants' Motion for Judgment on the Pleadings, the Court CONTINUES the Telephonic Rule 16 Scheduling Conference from 8/12/2025 to 11/4/2025 at 9:30 AM before MAGISTRATE JUDGE WES REBER PORTER via Zoom: Dial in number: 1-833-568-8864; Meeting ID: 161 0084 2470. (MAGISTRATE JUDGE WES REBER PORTER) (jo) (Entered: 07/29/2025)"
+        },
+        {
+          "row_number": 0,
+          "id": 9645097,
+          "entry_number": "1",
+          "date_filed": "2025-04-30T00:00:00-04:00",
+          "attachments": [
+            {
+              "recap_id": 438151220,
+              "pacer_url": "https://ecf.hid.uscourts.gov/doc1/06104323399?caseid=173534",
+              "description": "Civil Cover Sheet",
+              "attachment_number": 1
+            }
+          ],
+          "url": "https://www.courtlistener.com/docket/70017206/1/united-states-v-state-of-hawaii/",
+          "recap_pdf_url": "https://www.courtlistener.com/recap/gov.uscourts.hid.173534/gov.uscourts.hid.173534.1.0.pdf",
+          "pacer_doc_id": "06104323398",
+          "description": "COMPLAINT for Declaratory and Injunctive Relief against All Defendants, filed by United States of America. (Attachments: # 1 Civil Cover Sheet)(Heminger, Justin) (Entered: 04/30/2025)"
+        }
+      ],
+      "docket_case_type": "cv",
+      "docket_year": 2025,
+      "docket_filing_number": 179,
+      "is_main_docket": true,
+      "court": "District of Hawaii",
+      "state": "Hawaii",
+      "docket_office_number": "1",
+      "docket_number_manual": "1:25-cv-00179",
+      "scales_html": null,
+      "recap_link": "https://www.courtlistener.com/docket/70017206/united-states-v-state-of-hawaii/",
+      "is_active": true
+    },
+    "name": "United States v. State of Hawaii",
+    "never_filed": false,
+    "non_docket_case_number": "",
+    "non_docket_case_number_type": null,
+    "non_docket_case_number_type_other": "",
+    "order_end_year": null,
+    "order_start_year": null,
+    "permanent_injunction": false,
+    "plaintiff_description": "United States",
+    "plaintiff_type": [
+      {
+        "value": "U.S. Dept of Justice plaintiff"
+      }
+    ],
+    "prevailing_party": "None Yet / None",
+    "pro_se_status": "No",
+    "public_interest_lawyer": "No",
+    "related_cases": [],
+    "relief_natures": [
+      "None yet"
+    ],
+    "relief_nature_other": "",
+    "relief_sources": [
+      "None yet"
+    ],
+    "settlement_agreement": [],
+    "settlement_judgment_date": null,
+    "settlement_judgment_year": null,
+    "special_collections": [
+      "Trump Administration 2.0: Litigation and Investigations Involving the Government"
+    ],
+    "special_case_type": [],
+    "state": "Hawaii",
+    "summary": "<p>On April 30, 2025, the United States filed this lawsuit against Hawai'i, its Governor, and its Attorney General in the United States District Court for the District of Hawai'i. The DOJ brought this action after it learned that the state of Hawai'i had plans to bring a lawsuit against fossil fuel companies to hold them liable for their contribution to climate change and its effects. The DOJ argued that such a lawsuit was pre-empted by the Clean Air Act and the federal government's control over foreign affairs, that it would constitute unconstitutional regulation by a state of territory outside the state, and that it would violate the Interstate Commerce and Foreign Commerce Clauses. Specifically, the DOJ argued that through the Clean Air Act, the Congress anointed the federal EPA as the regulator of greenhouse gas emissions, and therefore, under the Supremacy Clause, states were pre-empted from regulating greenhouse gas emissions through state law. The DOJ asked the court to declare that Hawai'i's state law claims were unconstitutional, and to permanently enjoin Hawai'i from taking actions to assert Hawai'i's state law claims.</p>\r\n<p>Despite this lawsuit, Hawai'i went ahead with its climate change lawsuit the next day, May 1, in the Circuit Court for the First Circuit of Hawai'i, naming seven fossil fuel companies as defendants. <em>State of Hawai&lsquo;i v. BP p.l.c.,</em> No. 1CCV-25-0000717 (Haw. Cir. Ct. filed May 1, 2025). Hawai'i brought state claims of negligence, public nuisance, private nuisance, trespass, harm to public trust resources, civil aiding and abetting, unfair or deceptive acts or practices, and strict liability for failure to warn. The State argued that the fossil fuel companies had known for decades about the harmful effects of fossil fuel emissions, and to protect their businesses, \"mounted a decades-long campaign of deception to discredit the scientific consensus on climate change; create doubt in the minds of consumers, the media, business leaders, and the public about the climate change impacts of burning fossil fuels; and delay the energy economy's transition to a lower-carbon future while maximizing their own profits.\"</p>\r\n<p>On June 17, in the First Circuit of Hawai'i, Defendants filed a motion to stay proceedings pending resolution of their action against the State in the District Court.&nbsp;</p>\r\n<p>The case is ongoing.</p>",
+    "summary_published_date": "2025-07-16T13:34:11.469507-04:00",
+    "summary_short": "On April 30, 2025, the U.S. Department of Justice (DOJ) filed a lawsuit against the State of Hawai‘i, its Governor, and Attorney General in the U.S. District Court for the District of Hawai‘i. The DOJ initiated this suit after learning of Hawai‘i’s plans to sue fossil fuel companies for their contributions to climate change. The DOJ argued that Hawai‘i’s proposed lawsuit was pre-empted by the federal Clean Air Act, which grants the EPA the authority to regulate greenhouse gas emissions, making state action in this area unconstitutional under the Supremacy Clause. The DOJ also claimed Hawai‘i’s actions would improperly regulate conduct outside its borders and violate the Interstate and Foreign Commerce Clauses. The DOJ sought a declaration that Hawai‘i’s state law claims were unconstitutional and an injunction to prevent Hawai‘i from proceeding.\r\n\r\nNevertheless, on May 1, 2025, Hawai‘i filed its climate change lawsuit in state court against seven fossil fuel companies, citing negligence, nuisance, trespass, harm to public trust resources, civil aiding and abetting, unfair or deceptive practices, and failure to warn. Hawai‘i alleged the companies deliberately misled the public about the dangers of fossil fuels. After defendants moved to stay state proceedings, the court partially granted the motion, pausing the case pending the federal court’s resolution. The litigation is ongoing.",
+    "summary_tiny": null,
+    "terminating_date": null,
+    "clearinghouse_link": "clearinghouse.net/case/46520",
+    "is_active": true,
+    "case_documents_url": "https://clearinghouse.net/api/v2/documents/?case=46520",
+    "case_dockets_url": "https://clearinghouse.net/api/v2/dockets/?case=46520",
+    "case_resources_url": "https://clearinghouse.net/api/v2/resources/?case=46520"
+  },
+  "documents": [
+    {
+      "date": null,
+      "date_is_estimate": false,
+      "date_not_available": false,
+      "description": null,
+      "document_source": null,
+      "document_status": null,
+      "document_type": null,
+      "order_type": null,
+      "citation_paren": null,
+      "cite_1_page": null,
+      "cite_1_reporter": null,
+      "cite_1_vol": null,
+      "cite_2_page": null,
+      "cite_2_reporter": null,
+      "cite_2_vol": null,
+      "cite_3_page": null,
+      "cite_3_reporter": null,
+      "cite_3_vol": null,
+      "citation_status": null,
+      "court": null,
+      "no_title": false,
+      "party_types": [],
+      "per_curium": false,
+      "is_core_document": true,
+      "id": 159776,
+      "file": null,
+      "title": null,
+      "text": null,
+      "document_type_other": null,
+      "external_url": null,
+      "ecf_number": null,
+      "clearinghouse_link": "clearinghouse.net/doc/159776"
+    },
+    {
+      "date": "2025-04-30",
+      "date_is_estimate": false,
+      "date_not_available": false,
+      "description": "",
+      "document_source": "RECAP",
+      "document_status": "Coding Complete",
+      "document_type": "Complaint",
+      "order_type": null,
+      "citation_paren": null,
+      "cite_1_page": null,
+      "cite_1_reporter": null,
+      "cite_1_vol": null,
+      "cite_2_page": null,
+      "cite_2_reporter": null,
+      "cite_2_vol": null,
+      "cite_3_page": null,
+      "cite_3_reporter": null,
+      "cite_3_vol": null,
+      "citation_status": "Not applicable",
+      "court": "District of Hawaii",
+      "no_title": false,
+      "party_types": [
+        "Plaintiff"
+      ],
+      "per_curium": false,
+      "is_core_document": true,
+      "id": 159777,
+      "file": "https://clearinghouse-umich-production.s3.amazonaws.com/media/doc/159777.pdf",
+      "title": "Complaint for Declaratory and Injunctive Relief",
+      "text": "Case 1:25-cv-00179     Document 1     Filed 04/30/25     Page 1 of 31  PageID.1\nADAM R.F. GUSTAFSON \nActing Assistant Attorney General \nROBERT N. STANDER \nDeputy Assistant Attorney General \nJUSTIN D. HEMINGER \nAttorney \nEnvironment and Natural Resources Division \nU.S. Department of Justice \nPost Office Box 7415 \nWashington, D.C. 20044 \nTelephone: (202) 514-2689 \nFacsimile: (202) 305-0506 \nEmail: justin.heminger@usdoj.gov \nIN THE UNITED STATES DISTRICT COURT \nFOR THE DISTRICT OF HAWAII \n_________________________________________  \n) \nUNITED STATES OF AMERICA,  ) \n) \nPlaintiff,  ) \n) \nv.  ) \n)    No. 1:25-cv-00179 \nSTATE OF HAWAII; JOSHUA BOOTH  ) \nGREEN, Governor of Hawaii, in his    )      \nofficial capacity; and ANNE E. LOPEZ, in her  ) \nofficial capacity as Hawaii Attorney General,  ) \n) \nDefendants.       ) \n_________________________________________) \nCOMPLAINT FOR DECLARATORY AND INJUNCTIVE RELIEF \n\nCase 1:25-cv-00179     Document 1     Filed 04/30/25     Page 2 of 31  PageID.2\n \nPlaintiff United States of America bring this civil action against Defendants \nand alleges as follows: \nINTRODUCTION \n \n1.  The United States is facing an energy crisis. Overly restrictive policies \nand regulation have caused inadequate development of America’s abundant energy \nresources. Yet “[a]n affordable and reliable domestic energy supply is essential to \nthe national and economic security of the United States, as well as our foreign \npolicy.” Executive Order 14260, Protecting American Energy From State \nOverreach § 1.  \n2.  As a result, on January 20, 2025, President Trump declared an energy \nemergency, concluding that the United States’ “insufficient energy production, \ntransportation, refining, and generation constitutes an unusual and extraordinary \nthreat to our Nation’s economy, national security, and foreign policy.” Executive \nOrder 14156, Declaring a National Energy Emergency § 1.  \n3.  As a result of state restrictions and burdens on energy production, the \nAmerican people are paying more for energy, and the United States is less able to \ndefend itself from hostile foreign actors. Id. \n4.  Hawaii intends to sue fossil fuel companies to seek damages for \nalleged climate change harms. See Sam Spangler, Hawaii To File Lawsuit Against \nFossil Fuel Companies, Khon2 (Apr. 28, 2025), https://www.khon2.com/local-\n2 \n \n\nCase 1:25-cv-00179     Document 1     Filed 04/30/25     Page 3 of 31  PageID.3\n \nnews/hawaii-to-file-lawsuit-against-fossil-fuel-companies/ (“‘We will be filing \nsuit, I believe, on Thursday against the fossil fuel companies. They have to pay \ntheir share because climate change and the climate impact is definitely connected \nto generations of extra fossil fuel that’s been burned.’”). At a time when States \nshould be contributing to a national effort to secure reliable sources of domestic \nenergy, Hawaii is choosing to stand in the way. This Nation’s Constitution and \nlaws do not tolerate this interference. \nJURISDICTION AND VENUE \n \n5.  This Court has jurisdiction under 28 U.S.C. §§ 1331 and 1345. \n6.  This Court has authority to provide the relief requested under the U.S. \nConstitution, 28 U.S.C. §§ 1651, 2201, and 2202, and its inherent legal and \nequitable powers. \n7.  The United States has standing to vindicate its sovereign, proprietary, \nand parens patriae interests. E.g., Arizona v. United States, 567 U.S. 387 (2012). \nThe United States’ sovereign interests include ensuring that States do not interfere \nwith federal law, including the Clean Air Act, or with the federal government’s \nexclusive authority over interstate and foreign commerce, greenhouse gas \nregulation, and national energy policy. The United States’ proprietary interests \ninclude its economic interests in revenue from fossil fuel leasing on federal lands, \n3 \n \n\nCase 1:25-cv-00179     Document 1     Filed 04/30/25     Page 4 of 31  PageID.4\nwhich generated over $13.8 billion in 2024,1 and its costs for purchasing fossil \nfuels, which will increase if Hawaii and other states seek damages from fossil fuel \ncompanies. See City of New York v. Chevron Corp., 993 F.3d 81, 103 (2d Cir. \n2021) (observing that holding fossil fuel producers “accountable for purely foreign \nactivity (especially the Foreign Producers) would require them to internalize the \ncosts of climate change and would presumably affect the price and production of \nfossil fuels abroad.”). Additionally, the United States has parens patriae standing to \nprotect the economic well-being of its citizens and the national energy market from \nHawaii’s attempts to impose extraterritorial and excessive burdens on fossil fuel \ncompanies, which will raise energy costs for consumers nationwide and disrupt the \nuniform regulation of fossil fuel production. These harms affect a substantial \nsegment of the population, and individual litigants, such as fossil fuel businesses, \ncannot fully address the nationwide economic and constitutional injuries caused by \nHawaii’s overreach. \n1 The Department of the Interior manages land owned by the United States. The \nDepartment issues leases to produce fossil fuels from federal lands and for \nproduction in areas of the Outer Continental Shelf. Each year, the Department \ncollects substantial revenue from those onshore and offshore leases. In 2024, the \nDepartment collected revenue of more than $490 million for coal, $950 million for \ngas, and $12.4 billion for oil. See U.S. DEP’T OF THE INTERIOR, NATURAL \nRESOURCES REVENUE DATA, https://revenuedata.doi.gov/ (last visited Apr. \n30, 2025). \n4 \n\nCase 1:25-cv-00179     Document 1     Filed 04/30/25     Page 5 of 31  PageID.5\n8. This Court has personal jurisdiction over Defendants because they\nreside in, or conduct a substantial portion of their official business in, Hawaii. See \nFed. R. Civ. P. 4(k)(1). \n9. Venue is proper in the District of Hawaii pursuant to 28 U.S.C.\n§ 1391, because at least one Defendant resides in the District and because a\nsubstantial part of the acts giving rise to this suit occurred within the District. \nPARTIES \n10. Plaintiff is the United States of America, suing on its own behalf, on\nbehalf of its citizens, and on behalf of its executive departments and \nother subdivisions. \n11. Defendant State of Hawaii is a State of the United States.\n12. Defendant Joshua Booth Green is the Governor of the State of Hawaii.\nHe is sued in his official capacity. \n13. Defendant Anne E. Lopez is the Attorney General of the State of\nHawaii. She is sued in her official capacity. \nALLEGATIONS AND APPLICABLE LAW \nHawaii’s Climate Change Claims \n14. Hawaii has announced its intent to file litigation seeking to hold fossil\nfuel companies liable for purported contributions to greenhouse gas emissions. See \nSam Spangler, Hawaii To File Lawsuit Against Fossil Fuel Companies, Khon2 \n5 \n\nCase 1:25-cv-00179     Document 1     Filed 04/30/25     Page 6 of 31  PageID.6\n(Apr. 28, 2025), https://www.khon2.com/local-news/hawaii-to-file-lawsuit-\nagainst-fossil-fuel-companies/. The specific theories on which Hawaii would sue \nare known only to Hawaii, but the goal of the lawsuit is clear—to extract large \nsums of money from fossil fuel companies for purportedly causing climate change \nimpacts to Hawaii. See id. (“‘Frankly, fossil fuels deserve to pay their share,’ \nGovernor Green said. ‘We were able to weather all of those costs, but it would \nhave been nice to have a couple of billion extra dollars from the fossil fuel \ncompanies. And I will be negotiating that over time.’”). \nThe Clean Air Act Comprehensively Regulates Nationwide Air Pollution \n15. The Clean Air Act, 42 U.S.C. § 7401 et seq., creates a comprehensive\nprogram for regulating air pollution in the United States and “displaces” the ability \nof States to regulate greenhouse gas emissions beyond their borders. City of New \nYork, 993 F.3d at 96. The Act improves the Nation’s air quality by delegating \nauthority to EPA to prescribe national standards for air pollutants, which States \nthen implement. See, e.g., 42 U.S.C. § 7411. \n16. In Massachusetts v. EPA, 549 U.S. 497 (2007), the Supreme Court\nconcluded that greenhouse gases, such as carbon dioxide and methane, are within \nthe Clean Air Act’s unambiguous definition of “air pollutant,” 42 U.S.C. \n§ 7602(g). Id. at 528-529. Thus, the Clean Air Act delegates to EPA authority to\n6 \n\nCase 1:25-cv-00179     Document 1     Filed 04/30/25     Page 7 of 31  PageID.7\n \nset nationwide standards for greenhouse gases. See Am. Electric Power Co., Inc. v. \nConnecticut, 564 U.S. 410, 424-429 (2011) (AEP). \n17.  For in-state stationary sources, the Clean Air Act generally preserves \nthe ability of States to adopt and enforce air pollution control requirements and \nlimitations on in-state sources, so long as those are at least as stringent as the \ncorresponding federal requirements. See 42 U.S.C. § 7416. For out-of-state \nsources, however, the “Act gives states a much more limited role,” even if the \npollution from those sources causes harm within their borders. City of New York, \n993 F.3d at 88. Affected States can: (1) comment on proposed EPA rules and \ncertain permits and plans, see id. § 7607(d)(5), § 7475(a)(2), § 7410(a)(2)(C); 40 \nC.F.R. § 51.102(a); (2) seek judicial review if their concerns are not addressed, see \n42 U.S.C. § 7607(b); and (3) petition EPA in certain instances, see id. \n§ 7410(k)(5). \nThe United States’ Foreign Policy on \nGreenhouse Gas Regulation and Energy Development \n \n18.  Greenhouse gas emissions “present[] a uniquely international problem \nof national concern.” City of New York, 993 F.3d at 85. Regulating these emissions \n“implicates” not only “the conflicting rights of states” but also “our relations with \nforeign nations.” Id. at 92.  \n19.  Consistent with the Constitution’s allocation of supremacy in the field \nof foreign policy to the federal government, see Hines v. Davidowitz, 312 U.S. 52, \n7 \n \n\nCase 1:25-cv-00179     Document 1     Filed 04/30/25     Page 8 of 31  PageID.8\n \n62 (1941), the federal government has demonstrated an active and continuous \ninterest in reconciling protection of the environment, promotion of economic \ngrowth, and maintenance of national security when regulating greenhouse gas \nemissions and fossil fuels, see City of New York, 993 F.3d at 93 (recognizing \nresponsibility of federal government in striking the right “balance” in promoting \nthese goals). The federal government has been actively exercising its authority here \nand has been continually evaluating national interests as is its responsibility under \nthe Constitution. It has “in fact . . . addressed” these interwoven issues on many \noccasions. Am. Ins. Ass’n v. Garamendi, 539 U.S. 396, 421 (2003). \n20.  In 1987, Congress enacted the Global Climate Protection Act. See \nPub. L. No. 100-204, Title XI, §§ 1101–1106, 101 Stat. 1331, 1407–09 (1987), \nreprinted as note to 15 U.S.C. § 2901. Among its other goals, the Protection Act \nprovided that the United States should “work toward multilateral agreements” on \nthe issue of greenhouse gas emissions. Id. § 1103(a)(4), 101 Stat. at 1408. It \nassigned to the President and EPA the responsibility for devising a “coordinated \nnational policy on global climate change.” Id. § 1103(b), 101 Stat. at 1408. And the \nProtection Act assigned to the President and the Secretary of State the \nresponsibility for coordination of climate change policy “in the international \narena.” Id. § 1103(c), 101 Stat. at 1409. \n8 \n \n\nCase 1:25-cv-00179     Document 1     Filed 04/30/25     Page 9 of 31  PageID.9\n \n21.  In 1992, President George H. W. Bush signed, and the Senate \nunanimously approved, the United Nations Framework Convention on Climate \nChange, May 9, 1992, S. Treaty Doc. No. 102-38, 1771 U.N.T.S. 107 (entered into \nforce Mar. 21, 1994), which has as its “ultimate objective . . . stabilization of \ngreenhouse gas concentrations in the atmosphere at a level that would prevent \ndangerous anthropogenic interference with the climate system.” Id., Art. 2. \n22.  Under the Framework Convention, “[a]ll Parties,” including the \nUnited States, “shall . . . .  (b) [f]ormulate, implement, publish and regularly update \nnational and, where appropriate, regional programmes containing measures to \nmitigate climate change by addressing anthropogenic emissions by sources and \nremovals by sinks of all greenhouse gases not controlled by the Montreal Protocol, \nand measures to facilitate adequate adaptation to climate change [and] (c) \n[p]romote and cooperate in the development, application and diffusion, including \ntransfer, of technologies, practices and processes that control, reduce or prevent \nanthropogenic emissions of greenhouse gases not controlled by the Montreal \nProtocol in all relevant sectors . . . .” Id., Art. 4.1(b), (c). \n23.  The Framework Convention does not set binding limits on greenhouse \ngas emissions for individual countries. It contains no enforcement mechanism. \nInstead, it includes general obligations addressing climate change and creates a \nframework for cooperation by its parties. Among other things, it contemplates the \n9 \n \n\nCase 1:25-cv-00179     Document 1     Filed 04/30/25     Page 10 of 31  PageID.10\n \npossibility of its parties negotiating “protocols” or other specific international \nagreements in pursuit of its objective. \n24.  Since approving the Framework Convention, the United States has \nengaged in international efforts regarding climate change and greenhouse gas \nemissions, balancing foreign policy considerations and domestic energy needs. In \nparticular, the United States is also a party to the Kigali Amendment to the \nMontreal Protocol. See Amendment to the Montreal Protocol on Substances that \nDeplete the Ozone Layer, Oct. 15, 2016, S. Treaty Doc. No. 117-1, C.N.730.2017. \nThe Amendment commits the United States and other signatory countries to phase \ndown the production and consumption of hydrofluorocarbons, a greenhouse gas. \nThe Senate ratified the Kigali Amendment in 2022, but only after Congress \nenacted the American Innovation and Manufacturing Act, 42 U.S.C. § 7675 in \n2020, giving EPA authority under the Clean Air Act to reduce production and \nconsumption of hydrofluorocarbons. \n25.  By contrast, the United States is not a party to the Kyoto Protocol of \n1997, which provided for greenhouse gas emission reduction targets on UNFCCC \nAnnex I parties, including the United States. Though the United States signed the \nprotocol, President Clinton never submitted it to the Senate for ratification. Instead, \nthe Senate passed a unanimous resolution expressing disapproval of any protocol \n10 \n \n\nCase 1:25-cv-00179     Document 1     Filed 04/30/25     Page 11 of 31  PageID.11\n \nor other agreement that provides for disparate treatment of economically \ndeveloping countries. S. Res. 98, 105th Cong. (1997).  \n26.  The United States is similarly not a party to the December 12, 2015 \nParis Climate Accord (the Paris Agreement). Paris Agreement to the United \nNations Framework Convention on Climate Change, Dec. 13, 2015, in Rep. of the \nConference of the Parties on the Twenty-First Session, U.N. Doc. \nFCCC/CP/2015/10/Add.1, annex (2016). In September 2016, President Obama \nsigned the Paris Agreement but did not submit it to the Senate for ratification. On \nMarch 28, 2017, President Trump described how the United States would seek to \nreconcile the Nation’s environmental, economic, and strategic concerns. See Exec. \nOrder 13,783, 82 Fed. Reg. 16,093 (Mar. 28, 2017).  On November 4, 2019, the \nUnited States deposited a notification of withdrawal from the Paris Agreement. \nAlthough on February 19, 2021, President Biden announced that he rejoined this \nexpensive and destructive protocol, on February 13, 2025, President Trump \nwithdrew the United States from the Paris Agreement. See Executive Order 14162, \nPutting America First in International Agreements § 3(a). The President explained \nthat “[i]t is the policy of my Administration to put the interests of the United States \nand the American people first in the development and negotiation of any \ninternational agreements with the potential to damage or stifle the American \neconomy” and that such agreements “must not unduly or unfairly burden the \n11 \n \n\nCase 1:25-cv-00179     Document 1     Filed 04/30/25     Page 12 of 31  PageID.12\n \nUnited States.” Id. § 2. In other words, the President would put the interests of the \nAmerican people first in negotiating the terms of any future treaty to implement the \nFramework Convention \n27.  More recently, on April 2, 2025, President Trump invoked his \nauthority under the International Emergency Economic Powers Act of 1977 to \nstrengthen our Nation’s international economic position by imposing reciprocal \ntariffs on U.S. trading partners. See Executive Order 14257, Regulating Imports \nWith a Reciprocal Tariff To Rectify Trade Practices That Contribute to Large and \nPersistent Annual United States Goods Trade Deficits. The Executive Order \nspecifically exempts “energy and energy products” from the tariffs. Id. § 3(b); see \nalso Annex II. \nCLAIMS FOR RELIEF \n \nCOUNT I \nClean Air Act Preemption \n \n28.  The United States incorporates by reference all allegations stated \nabove. \n29.  The Supremacy Clause of the United States Constitution provides that \n“[t]his Constitution, and the Laws of the United States which shall be made in \nPursuance thereof . . . shall be the supreme Law of the Land . . . any Thing in the \n12 \n \n\nCase 1:25-cv-00179     Document 1     Filed 04/30/25     Page 13 of 31  PageID.13\n \nConstitution or Laws of any State to the Contrary notwithstanding.” U.S. Const. \nart. VI, cl. 2.  \n30.  A state law is preempted under the Supremacy Clause when it \nintrudes into a field exclusively occupied by federal law (field preemption) or \nwhen it conflicts with federal law by standing as an obstacle to the accomplishment \nof Congress’s objectives (conflict preemption). See City of Milwaukee v. Illinois, \n451 U.S. 304, 316-17 (1981) (field preemption); Hillsborough County v. \nAutomated Medical Labs., Inc., 471 U.S. 707, 713 (1985) (conflict preemption). \n31.  Hawaii’s state law claims are preempted by the Clean Air Act, 42 \nU.S.C. §§ 7401 et seq., because they impermissibly regulate out-of-state \ngreenhouse gas emissions and obstructs the Clean Air Act’s comprehensive \nfederal-state framework and EPA’s regulatory discretion, see, e.g., Int’l Paper Co. \nv. Ouellette, 479 U.S. 481, 500 (1987) (“The [Clean Water] Act pre-empts state \nlaw to the extent that the state law is applied to an out-of-state point source.”); \nArizona, 567 U.S. at 399-400 (discussing preemption). \n32.  “The Clean Air Act is a comprehensive statutory scheme that anoints \nthe EPA as the ‘primary regulator of [domestic] greenhouse gas emissions.” City of \nNew York, 993 F.3d at 99 (quoting AEP, 564 U.S. at 428).  \n33.  Congress delegated to EPA the authority to determine whether and \nhow to regulate greenhouse gas emissions, thereby displacing federal common law \n13 \n \n\nCase 1:25-cv-00179     Document 1     Filed 04/30/25     Page 14 of 31  PageID.14\n \nclaims and occupying the field of interstate air pollution regulation. See \nMassachusetts, 549 U.S. at 528-29 (holding that greenhouse gases are “air \npollutants” under 42 U.S.C. § 7602(g)); AEP, 564 U.S. at 426 (“The critical point \nis that Congress delegated to EPA the decision whether and how to regulate \ncarbon-dioxide emissions . . . the delegation displaces federal common law.”); City \nof Milwaukee v. Illinois, 451 U.S. 304, 317 (1981) (holding that the Federal Water \nPollution Control Act’s comprehensive regulatory program displaced federal \ncommon law of nuisance, as Congress occupied the field of water pollution \nregulation). \n34.  The Clean Air Act’s comprehensive framework, which includes \nspecific provisions for regulating emissions from stationary and mobile sources \n(see, e.g., 42 U.S.C. §§ 7410, 7411, 7521), preempts state attempts to regulate out-\nof-state greenhouse gas emissions. See City of New York, 993 F.3d at 90-100. \nHawaii’s claims seeking to hold fossil fuel businesses liable for global greenhouse \ngas emissions usurp this federal authority. Hawaii’s attempt to make fossil fuel \ncompanies “pay their share” for greenhouse gas emissions worldwide, most of \nwhich occur outside Hawaii’s borders, is the type of state regulation of out-of-state \ngreenhouse gas emissions preempted by the Clean Air Act. Sam Spangler, Hawaii \nTo File Lawsuit Against Fossil Fuel Companies, Khon2 (Apr. 28, 2025), \n14 \n \n\nCase 1:25-cv-00179     Document 1     Filed 04/30/25     Page 15 of 31  PageID.15\n \nhttps://www.khon2.com/local-news/hawaii-to-file-lawsuit-against-fossil-fuel-\ncompanies/. \n35.  Hawaii’s state law claims conflict with the Clean Air Act’s purposes \nand objectives by undermining its carefully calibrated cooperative federalism \nscheme and EPA’s discretion in regulating greenhouse gas emissions. \n36.  The Clean Air Act establishes a structured partnership between the \nfederal government and States, allowing States to regulate in-state stationary \nsources under specific conditions, see, e.g., 42 U.S.C. §§ 7401(a)(3), \n7410(a)(2)(C), 7411(d), 7416, but limiting their role in regulating out-of-state or \nglobal emissions, see, e.g., 42 U.S.C. §§ 7410(a)(2)(C), 7410(k)(5), 7475(a)(2), \n7607(b). See also City of New York, 993 F.3d at 88. And the Clean Air Act \ncontains a citizen-suit savings clause. 42 U.S.C. § 7604(e). When read together, the \nClean Air Act “plainly permit[s] [S]tates to create and enforce their own emissions \nstandards applicable to in-state polluters.” City of New York, 993 F.3d at 99. This \nrole “no doubt holds true for both state legislation and common law claims under \nstate law.” Id. at 100 (citing Merrick v. Diageo Americas Supply, Inc., 805 F.3d \n685, 690-91 (6th Cir. 2015)). “But that authorization is narrowly circumscribed, \nand has been interpreted to permit only state lawsuits brought under ‘the law of the \n[pollution’s] source [s]tate.’” Id. (citations omitted). \n15 \n \n\nCase 1:25-cv-00179     Document 1     Filed 04/30/25     Page 16 of 31  PageID.16\n \n37.  Hawaii’s anticipated lawsuit “does not seek to take advantage of this \nslim reservoir of state common law.” City of New York, 993 F.3d at 99. Rather, the \nState’s suit interferes with the Clean Air Act’s balance by effectively regulating \nout-of-state emissions. This extraterritorial regulation creates a patchwork of state-\nlevel penalties that undermines state authority over pollution sources within state \nborders and frustrates the Clean Air Act’s goal of efficiency and predictability in \nthe permit system. See Ouellette, 479 U.S. at 496; see also AEP, 564 U.S. at 426 \n(holding that the Clean Air Act’s delegation to the EPA to regulate greenhouse gas \nemissions displaces federal common law, reflecting federal primacy). Such state \nencroachment on federal authority is preempted, as it obstructs the Clean Air Act’s \nintegrated approach to air pollution control. See Ouellette, 479 U.S. at 497; see \nalso City of New York, 993 F.3d at 90-95. \n38.  Moreover, Hawaii’s anticipated lawsuit obstructs EPA’s discretion to \nbalance environmental, economic, and energy considerations in regulating \ngreenhouse gases. The Clean Air Act grants EPA broad authority to promulgate \nregulations based on its expert judgment, including whether to impose emissions \nstandards for stationary sources under 42 U.S.C. § 7411 and for mobile sources \nunder 42 U.S.C. § 7521. By imposing retroactive liability for lawful conduct, \nHawaii would second-guess EPA’s regulatory choices and imposes penalties that \nCongress did not authorize. \n16 \n \n\nCase 1:25-cv-00179     Document 1     Filed 04/30/25     Page 17 of 31  PageID.17\n \n39.  Hawaii’s state law claims would further undermine federal objectives \nby increasing energy costs and disrupting the national energy market, contrary to \nthe Clean Air Act’s integration with national energy policy. As noted in Executive \nOrder 14156 (¶ 2), insufficient energy production due to restrictive state policies \nthreatens national security and economic prosperity. By targeting major fossil fuel \nbusinesses, many of which operate on federal lands or supply federal agencies, \nHawaii’s anticipated lawsuit would raise costs for federal operations and \nconsumers nationwide, obstructing the Clean Air Act’s goal of balancing \nenvironmental protection with economic growth. See 42 U.S.C. § 7401(b)(1) \n(CAA’s purpose includes protecting air quality “to promote the public health and \nwelfare and the productive capacity of its population”). \n40.  If Hawaii is permitted to pursue these sorts of state law claims, other \nStates could pursue similar claims, leading to a chaotic “patchwork” of regulations \nthat undermine the national interest in readily available and affordable energy and \nthe government’s ability to effectively administer coherent national environmental \npolicy and regulation of global pollution. City of New York, 993 F.3d at 86. Such \nfragmentation would frustrate Congress’s intent for a unified federal approach to \nglobal air pollution. See Hines, 312 U.S. at 67 (state law preempted when it \nobstructs federal objectives). \n41.  Thus, Hawaii’s state law claims are preempted by the Clean Air Act. \n17 \n \n\nCase 1:25-cv-00179     Document 1     Filed 04/30/25     Page 18 of 31  PageID.18\n \nCOUNT II \nUnconstitutional Extraterritorial Regulation \n \n42.  The United States incorporates by reference all allegations stated \nabove. \n43.  The Constitution’s structure and provisions, including the Due \nProcess Clause, as well as concepts of State sovereignty and federalism, prohibit a \nState from regulating transactions, and imposing liability for conduct, occurring \noutside its borders. Hawaii’s state law claims violate the Constitution by imposing \nextraterritorial liability for primarily out-of-state extraction and refining activities \nand out-of-state greenhouse gas emissions. Hawaii’s anticipated lawsuit is \nirreconcilable with the Constitution’s commitment of such matters to the federal \ngovernment and the relative rights and obligations of the federal government and \nthe States under the Constitution. \n44.  The United States has standing to assert this claim to protect its \nsovereign, proprietary, and parens patriae interests. Hawaii’s anticipated lawsuit, \nwhich would seek extraterritorial liability, interferes with the federal government’s \nauthority to regulate interstate and foreign commerce and greenhouse gas \nemissions, undermining national energy policy. The financial burdens of Hawaii’s \nanticipated lawsuit on fossil fuel businesses increase the United States’ costs for \npurchasing fuels and threaten revenue from federal leasing. In its parens patriae \ncapacity, the United States seeks to protect citizens nationwide from higher energy \n18 \n \n\nCase 1:25-cv-00179     Document 1     Filed 04/30/25     Page 19 of 31  PageID.19\n \ncosts and economic disruption caused by Hawaii’s anticipated overreach, which \nindividual litigants cannot fully address due to the nationwide impact of Hawaii’s \nstate law claims. \n45.  The Due Process Clause of the Fourteenth Amendment provides: \n“[N]or shall any State deprive any person of life, liberty, or property, without due \nprocess of law . . . .” U.S. Const. amend. XIV, § 1. The fossil fuel businesses \ntargeted by Hawaii’s state law claims are persons under the Fourteenth \nAmendment. \n46.  The Constitution’s structure and principles of due process mandate \nthat while States are sovereign within their borders, they cannot regulate conduct \nbeyond their borders, such as by imposing liability for pollution from out-of-state \nsources. “The concept of Due Process constraints on a state legislature’s ability to \nregulate subject matters and transactions beyond the state’s boundaries, while \nperhaps infrequently litigated in those terms, is not new.” Gerling Glob. \nReinsurance Corp. of Am. v. Gallagher, 267 F.3d 1228, 1236-37 (11th Cir. 2001) \n(discussing Due Process limits on legislative jurisdiction). Indeed, “[t]o resolve \ndisputes about the reach of one State’s power,” the Supreme Court “has long \nconsulted … the Constitution’s structure and the principles of ‘sovereignty and \ncomity’ it embraces,” along with “the Due Process Clause.” Nat’l Pork Producers \nCouncil v. Ross, 598 U.S. 356, 376 (2023) (citation omitted). \n19 \n \n\nCase 1:25-cv-00179     Document 1     Filed 04/30/25     Page 20 of 31  PageID.20\n \n47.  It is a well-established “due process principle that a state is without \npower to exercise ‘extra territorial jurisdiction,’ that is, to regulate and control \nactivities wholly beyond its boundaries.”  Watson v. Emps. Liab. Assur. Corp., 348 \nU.S. 66, 70 (1954) (citing Home Ins. Co. v. Dick, 281 U.S. 397 (1930)). “The \nsovereignty of each State, in turn, implie[s] a limitation on the sovereignty of all of \nits sister States—a limitation express or implicit in both the original scheme of the \nConstitution and the Fourteenth Amendment.” World-Wide Volkswagen Corp. v. \nWoodson, 444 U.S. 286, 293 (1980). \n48.  Indeed, the Due Process Clause embodies “more than a guarantee of \nimmunity from inconvenient or distant litigation” but also imposes “territorial \nlimitations on the power of the respective States.” Bristol-Myers Squibb Co. v. \nSuperior Ct. of California, San Francisco Cnty., 582 U.S. 255, 263 (2017) (quoting \nHanson v. Denckla, 357 U.S. 235, 251 (1958)) (discussing how the sovereignty of \neach state imposes limitations on sovereignty of other states). \n49.  No single State can enact policies for the entire Nation, nor can a State \n“even impose its own policy choice on neighboring States.” BMW of N. Am., Inc. \nv. Gore, 517 U.S. 559, 570-71 (1996). “[I]t follows from these principles of state \nsovereignty and comity that a State may not impose economic sanctions on \nviolators of its laws with the intent of changing the tortfeasors’ lawful conduct in \nother States.” Id. at 572. “The states are not nations, either as between themselves \n20 \n \n\nCase 1:25-cv-00179     Document 1     Filed 04/30/25     Page 21 of 31  PageID.21\n \nor towards foreign nations,” and “their sovereignty stops short of nationality.” New \nHampshire v. Louisiana, 108 U.S. 76, 90 (1883). And “interstate . . . pollution is a \nmatter of federal, not state, law.” Ouellette, 479 U.S. at 488. \n50.  Hawaii’s state law claims violate the Constitution’s structure and \nprinciples of due process by seeking to impose economic sanctions on fossil fuel \nbusinesses for economic activities that occurred primarily in other States and \naround the world. \n51.  Hawaii’s anticipated lawsuit would improperly seek to “impose strict \nliability for the damages caused by fossil fuel emissions no matter where in the \nworld those emissions were released (or who released them),” City of New York, \n993 F.3d at 93, including activities in other States and in foreign countries with no \nconnection to Hawaii. “Such a sprawling” scope “is simply beyond the limits of \nstate law.” Id. at 92. \n52.  Even if an entity has some contacts with Hawaii, such as in-state sales \nor operations, Hawaii’s effort to collect damages for out-of-state greenhouse gas \nemissions does not arise from or relate to those contacts, violating the requirement \nthat a State’s regulatory authority be limited to conduct with a substantial nexus to \nthe State. \n53.  Moreover, the global scope of Hawaii’s state law claims inherently \noverreaches by seeking to regulate conduct far beyond Hawaii’s territorial \n21 \n \n\nCase 1:25-cv-00179     Document 1     Filed 04/30/25     Page 22 of 31  PageID.22\n \njurisdiction, contravening the Due Process Clause’s territorial limitations on state \nsovereignty. \n54.  Thus, Hawaii’s state law claims violate the Constitution’s limits on \nextraterritorial legislation. \nCOUNT III \nViolation of the Interstate Commerce Clause \n \n55.  The United States incorporates by reference all allegations stated \nabove. \n56.  The Constitution gives Congress “Power . . . [t]o regulate Commerce . \n. . among the several States.” U.S. Const. art. I, § 8, cl. 3. \n57.  State laws that discriminate against interstate commerce are \nunconstitutional, even in the absence of federal legislation regulating the activity in \nquestion. Oklahoma Tax Comm’n v. Jefferson Lines, Inc., 514 U.S. 175, 179 \n(1995). \n58.  Hawaii’s state law claims discriminate against interstate commerce \nfacially, in practical effect, and in purpose by targeting commercial activity—fossil \nfuel extraction and refining—that occurs primarily if not exclusively in States other \nthan Hawaii, including Texas, New Mexico, Louisiana, West Virginia, \nPennsylvania, Oklahoma, and North Dakota. \n59.  Because Hawaii’s state law claims discriminate against interstate \ncommerce, strict scrutiny applies, and its anticipated lawsuit can be pursued only if \n22 \n \n\nCase 1:25-cv-00179     Document 1     Filed 04/30/25     Page 23 of 31  PageID.23\n \n“it advances a legitimate local purpose that cannot be adequately served by \nreasonable nondiscriminatory alternatives.” New Energy Co. of Indiana v. \nLimbach, 486 U.S. 269, 278 (1988). \n60.  Upon information and belief, Hawaii has no legitimate local public \ninterest in discriminating against interstate commerce. \n61.  Moreover, even if Hawaii’s state law claims did not facially \ndiscriminate against interstate commerce and did not have non-discriminatory \nalternatives, it would still violate the Interstate Commerce Clause under the \nbalancing test articulated in Pike v. Bruce Church, Inc., 397 U.S. 137, 142 (1970). \nUnder Pike, a state law that regulates evenhandedly and has only incidental effects \non interstate commerce is unconstitutional if the burden imposed on interstate \ncommerce is “clearly excessive in relation to the putative local benefits.” Id. \n62.  Hawaii’s anticipated lawsuit would also impose substantial burdens \non interstate commerce. By targeting fossil fuel businesses for extraction and \nrefining activities and greenhouse gas emissions occurring primarily in other States \nand foreign countries, Hawaii would disrupt the national market for fossil fuels. \nHawaii’s request for damages would increase energy costs for consumers and \nbusinesses nationwide, as these costs are passed through the interstate energy \nmarket. The potential for other States to adopt similar laws creates a risk of \nregulatory fragmentation, undermining the uniform national energy market. \n23 \n \n\nCase 1:25-cv-00179     Document 1     Filed 04/30/25     Page 24 of 31  PageID.24\n \n63.  Hawaii’s state law claims would impose a substantial and undue \nburden on interstate commerce that is clearly excessive in relation to any putative \nlocal benefits. \n64.  Thus, Hawaii’s anticipated lawsuit would violate the Interstate \nCommerce Clause. \nCOUNT IV \nViolation of the Foreign Commerce Clause \n \n65.  The United States incorporates by reference all allegations stated \nabove. \n66.  The Constitution provides that “[t]his Constitution, and the Laws of \nthe United States which shall be made in Pursuance thereof; and all Treaties made, \nor which shall be made, under the Authority of the United States, shall be the \nsupreme Law of the Land; . . . any Thing in the Constitution or Laws of any State \nto the Contrary notwithstanding.”  U.S. Const. art. VI, cl. 2. \n67.  The Constitution gives Congress the “Power . . . [t]o regulate \nCommerce with foreign Nations . . . .”  U.S. Const. art. I, § 8, cl. 3. \n68.  The Foreign Commerce Clause has a negative application. Thus, for \nexample, State laws that impose taxes on foreign commerce “will not survive \nCommerce Clause scrutiny if the taxpayer demonstrates that the tax” implicates \none of the four concerns identified in Complete Auto Transit, Inc. v. Brady, 430 \nU.S. 274, 279 (1977). A State law imposing taxes is unconstitutional if it (1) \n24 \n \n\nCase 1:25-cv-00179     Document 1     Filed 04/30/25     Page 25 of 31  PageID.25\n \napplies to an activity lacking a substantial nexus to the State; (2) is not fairly \napportioned; (3) discriminates against interstate commerce; or (4) is not fairly \nrelated to the services provided by the State. See Barclays Bank PLC v. Franchise \nTax Bd. Of California, 512 U.S. 298, 310-11 (1994) (citing Complete Auto, 430 \nU.S. at 279). “In the unique context of foreign commerce, a State’s power is \nfurther constrained because of the special need for federal uniformity.” Id. at 311 \n(cleaned up). Thus, “[a] tax affecting foreign commerce therefore raises two \nconcerns in addition to the four delineated in Complete Auto.” Id. “The first is \nprompted by the enhanced risk of multiple taxation. The second relates to the \nFederal Government’s capacity to speak with one voice when regulating \ncommercial relations with foreign governments.” Id. (cleaned up). \n69.  Hawaii’s anticipated lawsuit is not a state tax. But the same limiting \nprinciples that apply to a State’s power to impose taxes on foreign commerce also \napply to a State’s power to impose penalties, fines, and other civil liability on \nforeign commerce. \n70.  Hawaii’s state law claims discriminate against foreign commerce \nfacially, in practical effect, and in purpose by imposing penalties or fines that \ndirectly and substantially burden foreign commerce. Hawaii would seek to impose \nliability on fossil fuel businesses for activities—extraction and refining of fossil \nfuels—that occurred “worldwide” in foreign countries. Hawaii would seek to \n25 \n \n\nCase 1:25-cv-00179     Document 1     Filed 04/30/25     Page 26 of 31  PageID.26\n \nimpose liability on these foreign activities even though they lack a substantial \nnexus to Hawaii. Hawaii also would discriminate against foreign commerce and \nimposes liability that is not fairly related to the services provided by the State. \nHawaii’s anticipated lawsuit would enhance the risk of multiple States imposing \noverlapping liability on foreign commerce for the same activities. And it would \nharm the federal government’s capacity to speak with one voice when conducting \ncommercial relations with foreign governments on issues such as regulation of \ngreenhouse gas emissions, trade policy, exports and imports of fossil fuels, and \nnational security.  \n71.  The United States does not challenge Hawaii’s authority to regulate \nthe local activities of international corporations, such as emissions from in-state \nfacilities or taxes on in-state sales. Ordinary state regulations that incidentally \naffect foreign commerce without such extraterritorial scope or federal interference \nremain permissible under the Foreign Commerce Clause. But Hawaii’s anticipated \nlawsuit does not fall within this permissible role for States. Rather, Hawaii’s \nattempt to take “a couple billion extra dollars from the fossil fuel companies” for \nworldwide extraction and refining with minimal nexus to Hawaii, imposes a \ndisproportionate burden on foreign commerce, and undermine the federal \ngovernment’s ability to maintain uniformity in regulating environmental, trade, and \nnational security policy. \n26 \n \n\nCase 1:25-cv-00179     Document 1     Filed 04/30/25     Page 27 of 31  PageID.27\n \n72.  Thus, Hawaii’s state law claims violate the Foreign Commerce \nClause. \nCOUNT V \nForeign Affairs Preemption \n \n73.  The United States incorporates by reference all allegations stated \nabove. \n74.  The Constitution provides that “[t]his Constitution, and the Laws of \nthe United States which shall be made in Pursuance thereof; and all Treaties made, \nor which shall be made, under the Authority of the United States, shall be the \nsupreme Law of the Land; . . . any Thing in the Constitution or Laws of any State \nto the Contrary notwithstanding.” U.S. Const. art. VI, cl. 2. \n75.  Even aside from his military powers as the “Commander in Chief of \nthe Army and Navy,” U.S. Const. art. II, § 2, cl. 1, the Constitutions vests broad \nresponsibility for the conduct of foreign affairs in the President of the United \nStates. \n76.  The President has “Power, by and with the Advice and Consent of the \nSenate, to make Treaties, provided two thirds of the Senators present concur.” Id., \nart. II, § 2, cl. 2. \n77.  The President “nominate[s], and by and with the Advice and Consent \nof the Senate, . . . appoint[s] Ambassadors, other public Ministers and Consuls.” \nId. \n27 \n \n\nCase 1:25-cv-00179     Document 1     Filed 04/30/25     Page 28 of 31  PageID.28\n \n78.  The President “receive[s] Ambassadors and other public Ministers.” \nId., , art. II, § 3 \n79.  The Constitution authorizes the President to “take Care that the Laws \nbe faithfully executed.” Id. \n80.  In short, “the supremacy of the national power in the general field of \nforeign affairs . . . is made clear by the Constitution.” Hines, 312 U.S. at 62. \n81.  The Supreme Court has interpreted the provisions of the Constitution \nthat vest authority over foreign affairs in the President to prohibit actions by the \nStates that lie outside their traditional and localized areas of responsibility and \ninstead interfere with the federal government’s foreign policy, or otherwise has \nmore than an incidental effect in conflict with express foreign policy. See \nGaramendi, 539 U.S. at 418-20. \n82.  Hawaii’s state law claims fall outside the area of any traditional state \ninterest. They instead regulate “a uniquely international problem” that is “not well-\nsuited to the application of state law.” City of New York, 993 F.3d at 85-86. \n83.  By adopting the Framework Convention, the federal government \nundertook to formulate foreign policy with respect to the “stabilization of \ngreenhouse gas concentrations in the atmosphere at a level that would prevent \ndangerous anthropogenic interference with the climate system.”  Framework \nConvention, Art. 2. \n28 \n \n\nCase 1:25-cv-00179     Document 1     Filed 04/30/25     Page 29 of 31  PageID.29\n \n84.  By attempting to impose liability based on greenhouse gas emissions \npurportedly attributable to worldwide fossil fuel extraction and refining, Hawaii’s \nanticipated lawsuit could undermine the ability of the United States to speak with \none voice on a matter of pressing interest around the globe. Hawaii’s state law \nclaims also could complicate the United States’ relations with foreign countries \nconcerning regulation of greenhouse gas emissions, trade policy, and exports and \nimports of fossil fuels. And Hawaii’s state law claims penalize extraction and \nrefining activities in foreign countries despite the President’s explicit judgment that \nenergy imports should be exempt from the tariffs imposed under Executive Order \n14257. \n85.  Hawaii’s anticipated lawsuit interferes with the United States’ foreign \npolicy on greenhouse gas regulation, including but not limited to the United States’ \nparticipation in the Framework Convention and announcement of its intention to \nwithdraw from the Paris Agreement, and is therefore preempted. \n86.  This claim does not challenge Hawaii’s authority to enact local \nregulations that incidentally affect international corporations, such as \nenvironmental standards for in-state operations. Instead, the United States seeks to \nprevent Hawaii from pursuing its state law claims because its imposition of \nliability for worldwide greenhouse gas emissions directly intrudes on the federal \ngovernment’s exclusive authority over foreign affairs, including the United \n29 \n \n\nCase 1:25-cv-00179     Document 1     Filed 04/30/25     Page 30 of 31  PageID.30\n \nNations Framework Convention on Climate Change and trade policy. This \nextraordinary extraterritorial reach and conflict with federal foreign policy \ndistinguish Hawaii’s state law claims from ordinary state regulations that do not \nundermine the United States’ ability to speak with one voice in international \nrelations. \n87.  Simply put, Hawaii’s attempt “to recover damages for the harms \ncaused by global greenhouse gas emissions may” not “proceed under [Hawaii] \nlaw.” City of New York, 993 F.3d at 91. \n88.  Thus, Hawaii’s state law claims are preempted by the foreign affairs \ndoctrine. \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n30 \n \n\nCase 1:25-cv-00179     Document 1     Filed 04/30/25     Page 31 of 31  PageID.31\n \nPRAYER FOR RELIEF \n \nWHEREFORE, the United States respectfully requests that this Court: \nA.  Declare Hawaii’s state law claims unconstitutional under 28 U.S.C. \n§ 2201; \nB.  Permanently enjoin Defendants from taking actions to assert Hawaii’s \nstate law claims; \nC.  Award the United States its costs and disbursements in this action; \nand \nD.  Award such other and further relief as the Court may deem just and \nproper. \n  Respectfully submitted, \n   \nADAM R.F. GUSTAFSON \n \nActing Assistant Attorney General \n \nROBERT N. STANDER \nDeputy Assistant Attorney General \n \ns/ Justin D. Heminger \nJUSTIN D. HEMINGER \nAttorney \nEnvironment and Natural Resources Division \nU.S. Department of Justice \nPost Office Box 7415 \nWashington, D.C. 20044 \nTelephone: (202) 514-2689 \nFacsimile: (202) 305-0506 \nEmail: justin.heminger@usdoj.gov   \n \n31 \n ",
+      "document_type_other": null,
+      "external_url": "https://www.courtlistener.com/docket/70017206/1/united-states-v-state-of-hawaii/",
+      "ecf_number": "1",
+      "clearinghouse_link": "clearinghouse.net/doc/159777"
+    },
+    {
+      "date": "2025-05-08",
+      "date_is_estimate": false,
+      "date_not_available": false,
+      "description": "Docket sheet from Hawaii state court system",
+      "document_source": "State Court Website",
+      "document_status": "Approved",
+      "document_type": "Docket",
+      "order_type": null,
+      "citation_paren": null,
+      "cite_1_page": null,
+      "cite_1_reporter": null,
+      "cite_1_vol": null,
+      "cite_2_page": null,
+      "cite_2_reporter": null,
+      "cite_2_vol": null,
+      "cite_3_page": null,
+      "cite_3_reporter": null,
+      "cite_3_vol": null,
+      "citation_status": "Not applicable",
+      "court": "Hawaii state trial court",
+      "no_title": false,
+      "party_types": [
+        "Court"
+      ],
+      "per_curium": false,
+      "is_core_document": true,
+      "id": 160047,
+      "file": "https://clearinghouse-umich-production.s3.amazonaws.com/media/doc/160047.pdf",
+      "title": "Docket",
+      "text": "PRINTABLE CASE VIEW\n \nGenerated: 8-MAY-2025 07:08 AM\nSearch Criteria: Case ID or Citation Number: 1CCV-25-0000717\n1 record(s) total\nCase ID: 1CCV-25-0000717 - STATE OF HAWAII v. BP P.L.C., et al. Filing Date: THURSDAY, MAY 1, 2025\nType: CV - Circuit Court Civil Court: FIRST CIRCUIT\nStatus: ACTIVE - Active Case Location: PUNCHBOWL\nLast Updated: 06-May-2025\nRelated Cases \nNo related cases were found.\nCase Parties \nSeq # Assoc End Date Type ID Name / Aliases\n1 Deputy Attorney General A10209 Kolonie, Melissa Jean\n2 Attorney A11790 Liang, William\n3 Deputy Attorney General A7897 Hargrove III, Wade Hampton\n4 Deputy Attorney General A9376 Leonard, Lyle  Tetsuo\n5 Defendant @4931360 BP P.L.C.\n6 Defendant @6517494 BP AMERICA INC.\n7 Defendant @6744495 BP PRODUCTS NORTH AMERICA INC.\n8 Defendant @4266928 CHEVRON CORP\n9 Defendant @477736 Chevron Usa Inc\n10 Defendant @4600371 EXXON MOBIL CORP.\n11 Defendant @4600373 EXXONMOBIL OIL CORPORATION\n12 Defendant @4931330 Shell PLC fka Royal Dutch Shell\n13 Defendant @4931460 Shell USA, Inc. (fka Shell Oil Company)\n14 Defendant @3700421 EQUILON ENTERPRISES LLC\n15 Defendant @6744497 SHELL TRADING (US) COMPANY\n16 Defendant @4600367 SUNOCO LP\n17 Defendant @36381 Aloha Petroleum Ltd\nAloha Company Petroleum Ltd,\n18 Defendant @4340609 ALOHA PETROLEUM LLC\n19 Defendant @4600394 CONOCOPHILLIPS\n20 Defendant @4600398 CONOCOPHILLIPS COMPANY\n21 Defendant @4600399 PHILLIPS 66\n22 Defendant @4600400 PHILLIPS 66 COMPANY\n1 of 2\n\nSeq # Assoc End Date Type ID Name / Aliases\n23 Defendant @6744499 WOODSIDE ENERGY HAWAII INC. f/k/a\nBHP HAWAII INC.\n24 Defendant @6744500 AMERICAN PETROLEUM INSTITUTE\n25 Defendant @6744503 DOES 1 through 100, inclusive,\n26 Plaintiff SOHCR1DIS State of Hawaii\n27 Other D1C16 First Circuit Court 16th Division\n28 Other @3839753 ALL PARTIES-RE DOCKET ONLY-NOT\nPARTY RE SERVICE REQUIREMENT\n29 Attorney A6021 Bail, Lisa A.\nBail / Bond Information \nNo Bails were found. \n \nEvents \nNo Case Events were found. \n \nDockets \nDocket # Date Docket Document Name Parties Filing Party\n1 05/01/2025 Complaint and Summons COMPLAINT; SUMMONS JURY TRIAL  State of Hawaii - Plaintiff Hargrove III, Wade\nEFile Document upload of type DEMANDED Hampton\nComplaint and Summons\n3 05/01/2025 Civil Information Sheet Civil Information Sheet  State of Hawaii - Plaintiff Hargrove III, Wade\nEFile Document upload of type Civil Hampton\nInformation Sheet\n5 05/01/2025 New Case Assignment  ALL PARTIES-RE\nCASE ASSIGNED TO THE 16TH DOCKET ONLY-NOT\nDIVISION, HONORABLE JORDON J PARTY RE SERVICE\nKIMURA, JUDGE PRESIDING REQUIREMENT - Other\n7 05/06/2025 Notice of Adding Parties All Case Parties\n2 of 2",
+      "document_type_other": null,
+      "external_url": "",
+      "ecf_number": "",
+      "clearinghouse_link": "clearinghouse.net/doc/160047"
+    }
+  ],
+  "document_count": 3
+}

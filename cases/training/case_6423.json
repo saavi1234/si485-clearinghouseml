@@ -1,0 +1,442 @@
+{
+  "case_id": 6423,
+  "fetched_at": "2025-10-22T00:08:26.290059",
+  "case_data": {
+    "attorney_orgs": [
+      "EEOC"
+    ],
+    "available_documents": [
+      "Trial Court Docket"
+    ],
+    "case_defendants": [
+      {
+        "defendant_level": null,
+        "institution": null,
+        "institution_alt_state": null,
+        "institution_city": "",
+        "institution_county": null,
+        "name": "Flynn Construction, Inc. ",
+        "defendant_level_other": null,
+        "is_active": true
+      }
+    ],
+    "case_ongoing": "No",
+    "case_status": "Coding Complete",
+    "case_types": [
+      "Equal Employment"
+    ],
+    "cause_other": "",
+    "causes": [
+      "Title VII (including PDA), 42 U.S.C.  § 2000e"
+    ],
+    "class_action_granted": "Not sought",
+    "class_action_sought": "No",
+    "closing_year": 2004,
+    "constitutional_clause": [],
+    "content_of_injunction": [],
+    "court": "Western District of Pennsylvania",
+    "custom_issues": [],
+    "defendant_payment": "",
+    "defendant_type": [],
+    "docket_status": "Complete as of retrieval date",
+    "facility_type": [],
+    "filing_date": "2004-03-30",
+    "filing_year": 2004,
+    "id": 6423,
+    "injunction_duration": "",
+    "issues": [
+      "Discrimination Basis: Race discrimination",
+      "Discrimination Area: Disparate Treatment",
+      "Discrimination Area: Harassment / Hostile Work Environment",
+      "EEOC-centric: Direct Suit on Merits"
+    ],
+    "last_checked_date": "2007-06-07T00:00:00-04:00",
+    "main_docket": {
+      "id": 36649,
+      "docket_entries": [
+        {
+          "row_number": 3,
+          "id": 1258061,
+          "entry_number": "5",
+          "date_filed": "2004-04-13T00:00:00-04:00",
+          "attachments": [],
+          "url": "nan",
+          "recap_pdf_url": null,
+          "pacer_doc_id": null,
+          "description": "MOTION by FLYNN CONSTRUCTION to Extend Time w/in which to respond to complaint and for rescheduling of case management conference , with Proposed Order. (tt) (Entered: 04/13/2004)"
+        },
+        {
+          "row_number": 20,
+          "id": 1258078,
+          "entry_number": "22",
+          "date_filed": "2004-08-12T00:00:00-04:00",
+          "attachments": [],
+          "url": "nan",
+          "recap_pdf_url": null,
+          "pacer_doc_id": null,
+          "description": "CONSENT DECREE by EQUAL EMPLOYMENT, FLYNN CONSTRUCTION with proposed order. (ces) (Entered: 08/13/2004)"
+        },
+        {
+          "row_number": 12,
+          "id": 1258070,
+          "entry_number": "14",
+          "date_filed": "2004-05-11T00:00:00-04:00",
+          "attachments": [],
+          "url": "nan",
+          "recap_pdf_url": null,
+          "pacer_doc_id": null,
+          "description": "MOTION by FLYNN CONSTRUCTION to Dismiss pltf's claim for hostile environment racial harassment pursuant to F.R.Civ.P. 12(b)(6) , with Proposed Order. (tt) (Entered: 05/11/2004)"
+        },
+        {
+          "row_number": 5,
+          "id": 1258063,
+          "entry_number": "7",
+          "date_filed": "2004-04-26T00:00:00-04:00",
+          "attachments": [],
+          "url": "nan",
+          "recap_pdf_url": null,
+          "pacer_doc_id": null,
+          "description": "MOTION by FLYNN CONSTRUCTION to Dismiss Plaintiff's Claim for Hostile Environment Racial Harassment and Claims for an Award of Backpay and Frontpay with Proposed Order. (Attorney: Joseph Mack III, Richard V. Sica, Terrence M. Lewis) (jsp) (Entered: 04/26/2004)"
+        },
+        {
+          "row_number": 11,
+          "id": 1258069,
+          "entry_number": "13",
+          "date_filed": "2004-05-04T00:00:00-04:00",
+          "attachments": [],
+          "url": "nan",
+          "recap_pdf_url": null,
+          "pacer_doc_id": null,
+          "description": "FIRST AMENDED COMPLAINT by EQUAL EMPLOYMENT (Answer due 5/11/04 for FLYNN CONSTRUCTION ) amending [1-1] complaint ; Jury Trial Demanded (tt) (Entered: 05/04/2004)"
+        },
+        {
+          "row_number": 18,
+          "id": 1258076,
+          "entry_number": "20",
+          "date_filed": "2004-06-10T00:00:00-04:00",
+          "attachments": [],
+          "url": "nan",
+          "recap_pdf_url": null,
+          "pacer_doc_id": null,
+          "description": "ORDER seeting Firm Trial Date. Jury Selection and Trial set for 9:00 10/4/04 . ( signed by Judge Arthur J. Schwab on 6/10/04 ) CM all parties of record. (tt) (Entered: 06/10/2004)"
+        },
+        {
+          "row_number": 6,
+          "id": 1258064,
+          "entry_number": "8",
+          "date_filed": "2004-04-26T00:00:00-04:00",
+          "attachments": [],
+          "url": "nan",
+          "recap_pdf_url": null,
+          "pacer_doc_id": null,
+          "description": "BRIEF by FLYNN CONSTRUCTION in support of [7-1] motion to Dismiss Plaintiff's Claim for Hostile Environment Racial Harassment and Claims for an Award of Backpay and Frontpay by FLYNN CONSTRUCTION (jsp) (Entered: 04/26/2004)"
+        },
+        {
+          "row_number": 0,
+          "id": 1258058,
+          "entry_number": "1",
+          "date_filed": "2004-03-30T00:00:00-05:00",
+          "attachments": [],
+          "url": "nan",
+          "recap_pdf_url": null,
+          "pacer_doc_id": null,
+          "description": "COMPLAINT with summons issued; jury demand (tt) (Entered: 03/30/2004)"
+        },
+        {
+          "row_number": 16,
+          "id": 1258074,
+          "entry_number": "18",
+          "date_filed": "2004-05-27T00:00:00-04:00",
+          "attachments": [],
+          "url": "nan",
+          "recap_pdf_url": null,
+          "pacer_doc_id": null,
+          "description": "ORDER denying deft's [14-1] motion to Dismiss pltf's claim for hostile environment racial harassment pursuant to F.R.Civ.P. 12(b)(6). ( signed by Judge Arthur J. Schwab on 5/26/04 ) CM all parties of record. (tt) (Entered: 05/27/2004)"
+        },
+        {
+          "row_number": 2,
+          "id": 1258060,
+          "entry_number": "4",
+          "date_filed": "2004-04-07T00:00:00-04:00",
+          "attachments": [],
+          "url": "nan",
+          "recap_pdf_url": null,
+          "pacer_doc_id": null,
+          "description": "ORDER, set Case Management Conference for 8:00 4/27/04 . Proposed Case Management Order / Discovery Plan to be submitted by 4/20/04. ( signed by Judge Arthur J. Schwab on 4/6/04 ) CM all parties of record. (tt) (Entered: 04/07/2004)"
+        },
+        {
+          "row_number": 7,
+          "id": 1258065,
+          "entry_number": "9",
+          "date_filed": "2004-04-28T00:00:00-04:00",
+          "attachments": [],
+          "url": "nan",
+          "recap_pdf_url": null,
+          "pacer_doc_id": null,
+          "description": "Status Conference held 4/27/04 before Judge Arthur J. Schwab [ Reporter: none ] (tt) (Entered: 04/28/2004)"
+        },
+        {
+          "row_number": 17,
+          "id": 1258075,
+          "entry_number": "19",
+          "date_filed": "2004-06-04T00:00:00-04:00",
+          "attachments": [],
+          "url": "nan",
+          "recap_pdf_url": null,
+          "pacer_doc_id": null,
+          "description": "ANSWER and Affirmative Defenses by FLYNN CONSTRUCTION to pltf's first amended complaint; jury demand (tt) (Entered: 06/07/2004)"
+        },
+        {
+          "row_number": 21,
+          "id": 1258079,
+          "entry_number": null,
+          "date_filed": "2004-08-18T00:00:00-04:00",
+          "attachments": [],
+          "url": "nan",
+          "recap_pdf_url": null,
+          "pacer_doc_id": null,
+          "description": "ORDER upon motion granting [22-1] decree consent ( signed by Judge Arthur J. Schwab on 8/18/04 ) CM all parties of record. (ksa) (Entered: 08/19/2004)"
+        },
+        {
+          "row_number": 14,
+          "id": 1258072,
+          "entry_number": "16",
+          "date_filed": "2004-05-25T00:00:00-04:00",
+          "attachments": [],
+          "url": "nan",
+          "recap_pdf_url": null,
+          "pacer_doc_id": null,
+          "description": "BRIEF by EQUAL EMPLOYMENT in opposition to deft's [14-1] motion to Dismiss pltf's claim for hostile environment racial harassment (tt) (Entered: 05/25/2004)"
+        },
+        {
+          "row_number": 22,
+          "id": 1258080,
+          "entry_number": null,
+          "date_filed": "2004-08-18T00:00:00-04:00",
+          "attachments": [],
+          "url": "nan",
+          "recap_pdf_url": null,
+          "pacer_doc_id": null,
+          "description": "Case closed (ksa) (Entered: 08/19/2004)"
+        },
+        {
+          "row_number": 15,
+          "id": 1258073,
+          "entry_number": "17",
+          "date_filed": "2004-05-27T00:00:00-04:00",
+          "attachments": [],
+          "url": "nan",
+          "recap_pdf_url": null,
+          "pacer_doc_id": null,
+          "description": "MEMORANDUM OPINION regarding deft's [14-1] motion to dismiss pltf's claim for hostile environment racial harassment pursuant to Rule 12(b)(6). ( signed by Judge Arthur J. Schwab on 5/26/04 ) CM all parties of record. (tt) (Entered: 05/27/2004)"
+        },
+        {
+          "row_number": 19,
+          "id": 1258077,
+          "entry_number": "21",
+          "date_filed": "2004-08-02T00:00:00-04:00",
+          "attachments": [],
+          "url": "nan",
+          "recap_pdf_url": null,
+          "pacer_doc_id": null,
+          "description": "ORDER, reset Preliminary Pretrial Conference for 10:00 9/17/04 ; Final Pretrial Conference set for 8:00 9/23/04 ; reset Jury Selection and Trial for 9:00 9/27/04 . ( signed by Judge J. Schwab on 8/2/04 ) CM all parties of record. (tt) (Entered: 08/03/2004)"
+        },
+        {
+          "row_number": 8,
+          "id": 1258066,
+          "entry_number": null,
+          "date_filed": "2004-04-28T00:00:00-04:00",
+          "attachments": [],
+          "url": "nan",
+          "recap_pdf_url": null,
+          "pacer_doc_id": null,
+          "description": "CASE DESIGNATED to Track 1. (tt) (Entered: 04/28/2004)"
+        },
+        {
+          "row_number": 13,
+          "id": 1258071,
+          "entry_number": "15",
+          "date_filed": "2004-05-11T00:00:00-04:00",
+          "attachments": [],
+          "url": "nan",
+          "recap_pdf_url": null,
+          "pacer_doc_id": null,
+          "description": "BRIEF by FLYNN CONSTRUCTION in support of [14-1] motion to Dismiss pltf's claim for hostile environment racial harassment pursuant to F.R.Civ.P. 12(b)(6) (tt) (Entered: 05/11/2004)"
+        },
+        {
+          "row_number": 9,
+          "id": 1258067,
+          "entry_number": "10",
+          "date_filed": "2004-04-28T00:00:00-04:00",
+          "attachments": [],
+          "url": "nan",
+          "recap_pdf_url": null,
+          "pacer_doc_id": null,
+          "description": "CASE MANAGEMENT ORDER that pltf may file an amended complaint by 5/4/04 ; Deft may file an answer or revised motion to dismiss by 5/11/04 ; Discovery cutoff on 7/1/04 ; Pltf's expert reports due 7/5/04 ; Deft's expert reports due 7/19/04 ; Expert depositions to be completed by 7/28/04 ; Motions for Summary Judgment due 8/4/04 ; Responses to Summary Judgment motions due 8/16/04 ; Pretrial Statements for Plaintiffs due 9/2/04 ; Pretrial Statements for Defendants due 9/9/04 ; Parties to file an indication as to whether or not they are willing to proceed to trial before a Mag. Judge by 5/30/04. ( signed by Judge Arthur J. Schwab on 4/27/04 ) CM all parties of record. (tt) (Entered: 04/28/2004)"
+        },
+        {
+          "row_number": 1,
+          "id": 1258059,
+          "entry_number": "2",
+          "date_filed": "2004-04-07T00:00:00-04:00",
+          "attachments": [],
+          "url": "nan",
+          "recap_pdf_url": null,
+          "pacer_doc_id": null,
+          "description": "ORDER, set Answer deadline to 4/20/04 for FLYNN CONSTRUCTION ( signed by Judge Arthur J. Schwab on 4/6/04 ) CM all parties of record. (tt) (Entered: 04/07/2004)"
+        },
+        {
+          "row_number": 4,
+          "id": 1258062,
+          "entry_number": "6",
+          "date_filed": "2004-04-14T00:00:00-04:00",
+          "attachments": [],
+          "url": "nan",
+          "recap_pdf_url": null,
+          "pacer_doc_id": null,
+          "description": "ORDER granting in part, denying in part [5-1] motion to Extend Time w/in which to respond to complaint and for rescheduling of case management conference; reset Answer deadline to 12:00 4/26/04 for FLYNN CONSTRUCTION . The case management conference will occur as scheduled on 4/27/04 at 8:00 a.m. ( signed by Judge Arthur J. Schwab on 4/14/04 ) CM all parties of record. (tt) (Entered: 04/15/2004)"
+        },
+        {
+          "row_number": 10,
+          "id": 1258068,
+          "entry_number": "11",
+          "date_filed": "2004-04-28T00:00:00-04:00",
+          "attachments": [],
+          "url": "nan",
+          "recap_pdf_url": null,
+          "pacer_doc_id": null,
+          "description": "PRETRIAL ORDER setting Jury Selection and Trial for 9:00 10/4/04 ; Plaintiff's witness list and offers of proof due 9/2/04 ; Defendant's witness list and offers of proof due 9/9/04 ; Designation of excerpts to be offered at trial due 9/16/04 ; Motions in Limine due 9/16/04 ; Responses to Motions in Limine due 9/20/04 ; Proposed Jury Instructions & Verdict Slips due 9/16/04 ; Proposed Voir Dire due 9/16/04 ; Joint Stipulations due 9/16/04 ; Final Pretrial Conference set for 8:00 9/28/04. ( signed by Judge Arthur J. Schwab on 4/27/04 ) CM all parties of record. (tt) (Entered: 04/28/2004)"
+        }
+      ],
+      "docket_case_type": "cv",
+      "docket_year": 2004,
+      "docket_filing_number": 490,
+      "is_main_docket": true,
+      "court": "Western District of Pennsylvania",
+      "state": "Pennsylvania",
+      "docket_office_number": "2",
+      "docket_number_manual": "04-490",
+      "scales_html": "https://clearinghouse-umich-production.s3.amazonaws.com/media/docket-html/pawd--2-04-cv-00490.html",
+      "recap_link": null,
+      "is_active": true
+    },
+    "name": "EEOC v. FLYNN CONSTRUCTION, INC.",
+    "never_filed": false,
+    "non_docket_case_number": "",
+    "non_docket_case_number_type": null,
+    "non_docket_case_number_type_other": "",
+    "order_end_year": null,
+    "order_start_year": null,
+    "permanent_injunction": false,
+    "plaintiff_description": "Equal Employment Opportunity Commission, on behalf of one or more workers.",
+    "plaintiff_type": [
+      {
+        "value": "EEOC Plaintiff"
+      }
+    ],
+    "prevailing_party": "Plaintiff",
+    "pro_se_status": "No",
+    "public_interest_lawyer": "Yes",
+    "related_cases": [],
+    "relief_natures": [
+      "Unknown"
+    ],
+    "relief_nature_other": "",
+    "relief_sources": [
+      "Settlement"
+    ],
+    "settlement_agreement": [
+      "Court Approved Settlement or Consent Decree"
+    ],
+    "settlement_judgment_date": "2004-08-12",
+    "settlement_judgment_year": null,
+    "special_collections": [
+      "EEOC Study — in sample"
+    ],
+    "special_case_type": [],
+    "state": "Pennsylvania",
+    "summary": "<p>In March 2004, the Philadelphia (along with the Pittsburgh) office of the EEOC brought this suit against Flynn Construction, Inc. in the U.S. District Court for the Western District of Pennsylvania.  After the court denied the defendant's motion to dismiss EEOC's claims of hostile work environment and race discrimination, the case settled by entry of a consent decree in August 2004. No information was made available pertaining to the nature of the suit or the consent decree.</p><p></p>",
+    "summary_published_date": "2007-07-23T00:00:00-04:00",
+    "summary_short": null,
+    "summary_tiny": null,
+    "terminating_date": "2004-08-18",
+    "clearinghouse_link": "clearinghouse.net/case/6423",
+    "is_active": true,
+    "case_documents_url": "https://clearinghouse.net/api/v2/documents/?case=6423",
+    "case_dockets_url": "https://clearinghouse.net/api/v2/dockets/?case=6423",
+    "case_resources_url": "https://clearinghouse.net/api/v2/resources/?case=6423"
+  },
+  "documents": [
+    {
+      "date": null,
+      "date_is_estimate": false,
+      "date_not_available": false,
+      "description": null,
+      "document_source": null,
+      "document_status": null,
+      "document_type": null,
+      "order_type": null,
+      "citation_paren": null,
+      "cite_1_page": null,
+      "cite_1_reporter": null,
+      "cite_1_vol": null,
+      "cite_2_page": null,
+      "cite_2_reporter": null,
+      "cite_2_vol": null,
+      "cite_3_page": null,
+      "cite_3_reporter": null,
+      "cite_3_vol": null,
+      "citation_status": null,
+      "court": null,
+      "no_title": false,
+      "party_types": [],
+      "per_curium": false,
+      "is_core_document": true,
+      "id": 124563,
+      "file": null,
+      "title": null,
+      "text": null,
+      "document_type_other": null,
+      "external_url": null,
+      "ecf_number": null,
+      "clearinghouse_link": "clearinghouse.net/doc/124563"
+    },
+    {
+      "date": "2004-08-18",
+      "date_is_estimate": false,
+      "date_not_available": false,
+      "description": null,
+      "document_source": "PACER [Public Access to Court Electronic Records]",
+      "document_status": "Coding Complete",
+      "document_type": "Docket",
+      "order_type": null,
+      "citation_paren": null,
+      "cite_1_page": null,
+      "cite_1_reporter": null,
+      "cite_1_vol": null,
+      "cite_2_page": null,
+      "cite_2_reporter": null,
+      "cite_2_vol": null,
+      "cite_3_page": null,
+      "cite_3_reporter": null,
+      "cite_3_vol": null,
+      "citation_status": "Not applicable",
+      "court": "Western District of Pennsylvania",
+      "no_title": false,
+      "party_types": [
+        "Court"
+      ],
+      "per_curium": false,
+      "is_core_document": true,
+      "id": 20678,
+      "file": "https://clearinghouse-umich-production.s3.amazonaws.com/media/doc/20678.pdf",
+      "title": "Docket (PACER)",
+      "text": "CM/ECF - pawd - Docket Report https://ecf.pawd.uscourts.gov/cgi-bin/DktRpt.pl?626691114206579-L_...\nCLOSED\n  U.S. District Court\nWestern District of Pennsylvania (Pittsburgh)\nCIVIL DOCKET FOR CASE #: 2:04-cv-00490-AJS\nEQUAL EMPLOYMENT v. FLYNN CONSTRUCTION Date Filed: 03/30/2004\nAssigned to: Judge Arthur J. Schwab Jury Demand: Both\nDemand: $0 Nature of Suit: 442 Civil Rights: Jobs\nCause: 42:2000 Job Discrimination (Race) Jurisdiction: U.S. Government Plaintiff\nPlaintiff\nEQUAL EMPLOYMENT  represented by Jacqueline H. McNair \nOPPORTUNITY COMMISSION Equal Employment Opportunity \nCommission \n21 South Fifth Street \nSuite 400, The Bourse Building \nPhiladelphia, PA 19106 \n(215) 440-2666 \nEmail: Jacqueline.McNair@eeoc.gov \nLEAD ATTORNEY \nATTORNEY TO BE NOTICED\nJudith A. O'Boyle \nEqual Employment Opportunity \nCommission \n21 South Fifth Street \nSuite 400, The Bourse Building \nPhiladelphia, PA 19106 \n(215) 440-2666 \nEmail: Judith.Oboyle@EEOC.gov \nLEAD ATTORNEY \nATTORNEY TO BE NOTICED\nM. Jean Clickner \nEqual Employment Opportunity \nCommission \n1001 Liberty Avenue \nSuite 300, Liberty Center \nPittsburgh, PA 15222 \n(412) 644-6439 \nFirm: (412) 644-4935 \nEmail: jean.clickner@eeoc.gov \nLEAD ATTORNEY \nATTORNEY TO BE NOTICED\nTerrence R. Cook \nEqual Employment Opportunity \nCommission \n1 of 5 6/7/2007 3:05 PM\n\nCM/ECF - pawd - Docket Report https://ecf.pawd.uscourts.gov/cgi-bin/DktRpt.pl?626691114206579-L_...\n21 South Fifth Street \nSuite 400, The Bourse Building \nPhiladelphia, PA 19106 \n(215) 440-2666 \nLEAD ATTORNEY \nATTORNEY TO BE NOTICED\nV.\nDefendant\nFLYNN CONSTRUCTION  represented by Joseph Mack, III \nMANAGEMENT - GENERAL  Thorp, Reed & Armstrong \nCONTRACTING, INC. 301 Grant Street \nOne Oxford Centre, 14th Floor \nPittsburgh, PA 15222-4895 \n(412) 394-7797 \nFirm: (412) 394-7711 \nLEAD ATTORNEY \nATTORNEY TO BE NOTICED\nRichard V. Sica \nThorp, Reed & Armstrong \n301 Grant Street, 14th Floor \nPittsburgh, PA 15219-1425 \n(412) 394-7769 \nFirm: 4123942555 \nEmail: rsica@thorpreed.com \nLEAD ATTORNEY \nATTORNEY TO BE NOTICED\nTerrence M. Lewis \nMarcus & Shapira \n301 Grant Street \n35th Floor, One Oxford Centre \nPittsburgh, PA 15219-6401 \n(412) 802-6997 \nFirm: (412) 647-7710 \nEmail: lewist2@upmc.edu \nLEAD ATTORNEY \nATTORNEY TO BE NOTICED\nDate Filed # Docket Text\n03/30/2004 1 COMPLAINT with summons issued; jury demand (tt) (Entered: 03/30/2004)\n04/07/2004 2 ORDER, set Answer deadline to 4/20/04 for FLYNN CONSTRUCTION ( signed \nby Judge Arthur J. Schwab on 4/6/04 ) CM all parties of record. (tt) (Entered: \n04/07/2004)\n2 of 5 6/7/2007 3:05 PM\n\nCM/ECF - pawd - Docket Report https://ecf.pawd.uscourts.gov/cgi-bin/DktRpt.pl?626691114206579-L_...\n04/07/2004 3 ORDER on Motions Practice ( signed by Judge Arthur J. Schwab on 4/6/04 ) CM \nall parties of record. (tt) (Entered: 04/07/2004)\n04/07/2004 4 ORDER, set Case Management Conference for 8:00 4/27/04 . Proposed Case \nManagement Order / Discovery Plan to be submitted by 4/20/04. ( signed by \nJudge Arthur J. Schwab on 4/6/04 ) CM all parties of record. (tt) (Entered: \n04/07/2004)\n04/13/2004 5 MOTION by FLYNN CONSTRUCTION to Extend Time w/in which to respond \nto complaint and for rescheduling of case management conference , with \nProposed Order. (tt) (Entered: 04/13/2004)\n04/14/2004 6 ORDER granting in part, denying in part [5-1] motion to Extend Time w/in \nwhich to respond to complaint and for rescheduling of case management \nconference; reset Answer deadline to 12:00 4/26/04 for FLYNN \nCONSTRUCTION . The case management conference will occur as scheduled \non 4/27/04 at 8:00 a.m. ( signed by Judge Arthur J. Schwab on 4/14/04 ) CM all \nparties of record. (tt) (Entered: 04/15/2004)\n04/26/2004 7 MOTION by FLYNN CONSTRUCTION to Dismiss Plaintiff's Claim for Hostile \nEnvironment Racial Harassment and Claims for an Award of Backpay and \nFrontpay with Proposed Order. (Attorney: Joseph Mack III, Richard V. Sica, \nTerrence M. Lewis) (jsp) (Entered: 04/26/2004)\n04/26/2004 8 BRIEF by FLYNN CONSTRUCTION in support of [7-1] motion to Dismiss \nPlaintiff's Claim for Hostile Environment Racial Harassment and Claims for an \nAward of Backpay and Frontpay by FLYNN CONSTRUCTION (jsp) (Entered: \n04/26/2004)\n04/28/2004 9 Status Conference held 4/27/04 before Judge Arthur J. Schwab [ Reporter: none ] \n(tt) (Entered: 04/28/2004)\n04/28/2004   CASE DESIGNATED to Track 1. (tt) (Entered: 04/28/2004)\n04/28/2004 10 CASE MANAGEMENT ORDER that pltf may file an amended complaint by \n5/4/04 ; Deft may file an answer or revised motion to dismiss by 5/11/04 ; \nDiscovery cutoff on 7/1/04 ; Pltf's expert reports due 7/5/04 ; Deft's expert reports \ndue 7/19/04 ; Expert depositions to be completed by 7/28/04 ; Motions for \nSummary Judgment due 8/4/04 ; Responses to Summary Judgment motions due \n8/16/04 ; Pretrial Statements for Plaintiffs due 9/2/04 ; Pretrial Statements for \nDefendants due 9/9/04 ; Parties to file an indication as to whether or not they are \nwilling to proceed to trial before a Mag. Judge by 5/30/04. ( signed by Judge \nArthur J. Schwab on 4/27/04 ) CM all parties of record. (tt) (Entered: \n04/28/2004)\n04/28/2004 11 PRETRIAL ORDER setting Jury Selection and Trial for 9:00 10/4/04 ; Plaintiff's \nwitness list and offers of proof due 9/2/04 ; Defendant's witness list and offers of \nproof due 9/9/04 ; Designation of excerpts to be offered at trial due 9/16/04 ; \nMotions in Limine due 9/16/04 ; Responses to Motions in Limine due 9/20/04 ; \nProposed Jury Instructions & Verdict Slips due 9/16/04 ; Proposed Voir Dire due \n9/16/04 ; Joint Stipulations due 9/16/04 ; Final Pretrial Conference set for 8:00 \n9/28/04. ( signed by Judge Arthur J. Schwab on 4/27/04 ) CM all parties of \nrecord. (tt) (Entered: 04/28/2004)\n3 of 5 6/7/2007 3:05 PM\n\nCM/ECF - pawd - Docket Report https://ecf.pawd.uscourts.gov/cgi-bin/DktRpt.pl?626691114206579-L_...\n05/03/2004 12 RETURN OF SERVICE executed as to FLYNN CONSTRUCTION 4/20/04 \nAnswer due on 5/10/04 for FLYNN CONSTRUCTION (tt) (Entered: \n05/03/2004)\n05/04/2004 13 FIRST AMENDED COMPLAINT by EQUAL EMPLOYMENT (Answer due \n5/11/04 for FLYNN CONSTRUCTION ) amending [1-1] complaint ; Jury Trial \nDemanded (tt) (Entered: 05/04/2004)\n05/11/2004 14 MOTION by FLYNN CONSTRUCTION to Dismiss pltf's claim for hostile \nenvironment racial harassment pursuant to F.R.Civ.P. 12(b)(6) , with Proposed \nOrder. (tt) (Entered: 05/11/2004)\n05/11/2004 15 BRIEF by FLYNN CONSTRUCTION in support of [14-1] motion to Dismiss \npltf's claim for hostile environment racial harassment pursuant to F.R.Civ.P. \n12(b)(6) (tt) (Entered: 05/11/2004)\n05/25/2004 16 BRIEF by EQUAL EMPLOYMENT in opposition to deft's [14-1] motion to \nDismiss pltf's claim for hostile environment racial harassment (tt) (Entered: \n05/25/2004)\n05/27/2004 17 MEMORANDUM OPINION regarding deft's [14-1] motion to dismiss pltf's \nclaim for hostile environment racial harassment pursuant to Rule 12(b)(6). ( \nsigned by Judge Arthur J. Schwab on 5/26/04 ) CM all parties of record. (tt) \n(Entered: 05/27/2004)\n05/27/2004 18 ORDER denying deft's [14-1] motion to Dismiss pltf's claim for hostile \nenvironment racial harassment pursuant to F.R.Civ.P. 12(b)(6). ( signed by Judge \nArthur J. Schwab on 5/26/04 ) CM all parties of record. (tt) (Entered: \n05/27/2004)\n06/04/2004 19 ANSWER and Affirmative Defenses by FLYNN CONSTRUCTION to pltf's first \namended complaint; jury demand (tt) (Entered: 06/07/2004)\n06/10/2004 20 ORDER seeting Firm Trial Date. Jury Selection and Trial set for 9:00 10/4/04 . ( \nsigned by Judge Arthur J. Schwab on 6/10/04 ) CM all parties of record. (tt) \n(Entered: 06/10/2004)\n08/02/2004 21 ORDER, reset Preliminary Pretrial Conference for 10:00 9/17/04 ; Final Pretrial \nConference set for 8:00 9/23/04 ; reset Jury Selection and Trial for 9:00 9/27/04 . \n( signed by Judge J. Schwab on 8/2/04 ) CM all parties of record. (tt) (Entered: \n08/03/2004)\n08/12/2004 22 CONSENT DECREE by EQUAL EMPLOYMENT, FLYNN CONSTRUCTION \nwith proposed order. (ces) (Entered: 08/13/2004)\n08/18/2004   ORDER upon motion granting [22-1] decree consent ( signed by Judge Arthur J. \nSchwab on 8/18/04 ) CM all parties of record. (ksa) (Entered: 08/19/2004)\n08/18/2004   Case closed (ksa) (Entered: 08/19/2004)\nPACER Service Center\nTransaction Receipt\n4 of 5 6/7/2007 3:05 PM\n\nCM/ECF - pawd - Docket Report https://ecf.pawd.uscourts.gov/cgi-bin/DktRpt.pl?626691114206579-L_...\n06/07/2007 16:06:37\nPACER \nhs0328 Client Code:\nLogin:\nDocket  Search \nDescription: 2:04-cv-00490-AJS\nReport Criteria:\nBillable Pages: 3 Cost: 0.24\n5 of 5 6/7/2007 3:05 PM",
+      "document_type_other": null,
+      "external_url": null,
+      "ecf_number": null,
+      "clearinghouse_link": "clearinghouse.net/doc/20678"
+    }
+  ],
+  "document_count": 2
+}

@@ -1,0 +1,183 @@
+{
+  "case_id": 9963,
+  "fetched_at": "2025-10-22T00:10:42.812446",
+  "case_data": {
+    "attorney_orgs": [],
+    "available_documents": [
+      "Any published opinion"
+    ],
+    "case_defendants": [
+      {
+        "defendant_level": null,
+        "institution": "",
+        "institution_alt_state": null,
+        "institution_city": "",
+        "institution_county": "Pinellas",
+        "name": "Pinellas County",
+        "defendant_level_other": "",
+        "is_active": true
+      }
+    ],
+    "case_ongoing": "Unknown",
+    "case_status": "Coding Complete",
+    "case_types": [
+      "Jail Conditions"
+    ],
+    "cause_other": "",
+    "causes": [
+      "State law"
+    ],
+    "class_action_granted": "Not sought",
+    "class_action_sought": "No",
+    "closing_year": null,
+    "constitutional_clause": [],
+    "content_of_injunction": [],
+    "court": "Florida state appellate court",
+    "custom_issues": [],
+    "defendant_payment": "",
+    "defendant_type": [],
+    "docket_status": "None",
+    "facility_type": [
+      {
+        "value": "Government-run"
+      }
+    ],
+    "filing_date": "1992-06-17",
+    "filing_year": 1992,
+    "id": 9963,
+    "injunction_duration": "",
+    "issues": [
+      "General/Misc.: Search policies",
+      "Affected Sex/Gender(s): Female",
+      "Policing: Strip search policy (policing)"
+    ],
+    "last_checked_date": "2007-07-18T00:00:00-04:00",
+    "main_docket": {
+      "id": 47225,
+      "docket_entries": [],
+      "docket_case_type": null,
+      "docket_year": 1993,
+      "docket_filing_number": 1783,
+      "is_main_docket": true,
+      "court": "Florida state appellate court",
+      "state": "Florida",
+      "docket_office_number": null,
+      "docket_number_manual": "93-01783",
+      "scales_html": null,
+      "recap_link": null,
+      "is_active": true
+    },
+    "name": "Welch v. Rice",
+    "never_filed": false,
+    "non_docket_case_number": "",
+    "non_docket_case_number_type": null,
+    "non_docket_case_number_type_other": "",
+    "order_end_year": null,
+    "order_start_year": null,
+    "permanent_injunction": false,
+    "plaintiff_description": "Plaintiff Doris Welch was arrested when stopped for a traffic violation because of an outstanding warrant for her arrest due to her lack of certificate for her cat.  She was strip searched upon arrival at the jail.",
+    "plaintiff_type": [],
+    "prevailing_party": "Unknown",
+    "pro_se_status": "Unknown",
+    "public_interest_lawyer": "No",
+    "related_cases": [],
+    "relief_natures": [
+      "Unknown"
+    ],
+    "relief_nature_other": "",
+    "relief_sources": [
+      "Unknown"
+    ],
+    "settlement_agreement": [],
+    "settlement_judgment_date": "1994-04-29",
+    "settlement_judgment_year": null,
+    "special_collections": [
+      "Strip Search Cases"
+    ],
+    "special_case_type": [],
+    "state": "Florida",
+    "summary": "<p>This case was brought in Florida state court on June 17, 1992, by a woman who was strip searched after being arrested for a traffic violation. According to the appellate court opinion, the only document available for this case, plaintiff failed to appear for her arraignment on the traffic charge and was later picked up for another traffic violation and for \"indirect criminal contempt of court.\" The trial court entered final summary judgment against the plaintiff and she appealed.</p><p>On April 29, 1994, the District Court of Appeal of Florida, Second District, in a per curiam decision, reversed the trial court and remanded for further proceedings. The appellate court determined that even if the criminal contempt was not a \"traffic, regulatory, or misdemeanor offense\" for which strip searches are prohibited, plaintiff's claim that the defendant performed the search without written authorization of a supervising officer was sufficient to establish a violation.</p><p>We have no further information about this case.</p><p></p>",
+    "summary_published_date": "2012-03-20T00:00:00-04:00",
+    "summary_short": "",
+    "summary_tiny": null,
+    "terminating_date": null,
+    "clearinghouse_link": "clearinghouse.net/case/9963",
+    "is_active": true,
+    "case_documents_url": "https://clearinghouse.net/api/v2/documents/?case=9963",
+    "case_dockets_url": "https://clearinghouse.net/api/v2/dockets/?case=9963",
+    "case_resources_url": "https://clearinghouse.net/api/v2/resources/?case=9963"
+  },
+  "documents": [
+    {
+      "date": null,
+      "date_is_estimate": false,
+      "date_not_available": false,
+      "description": null,
+      "document_source": null,
+      "document_status": null,
+      "document_type": null,
+      "order_type": null,
+      "citation_paren": null,
+      "cite_1_page": null,
+      "cite_1_reporter": null,
+      "cite_1_vol": null,
+      "cite_2_page": null,
+      "cite_2_reporter": null,
+      "cite_2_vol": null,
+      "cite_3_page": null,
+      "cite_3_reporter": null,
+      "cite_3_vol": null,
+      "citation_status": null,
+      "court": null,
+      "no_title": false,
+      "party_types": [],
+      "per_curium": false,
+      "is_core_document": true,
+      "id": 121325,
+      "file": null,
+      "title": null,
+      "text": null,
+      "document_type_other": null,
+      "external_url": null,
+      "ecf_number": null,
+      "clearinghouse_link": "clearinghouse.net/doc/121325"
+    },
+    {
+      "date": "1994-04-29",
+      "date_is_estimate": false,
+      "date_not_available": false,
+      "description": null,
+      "document_source": "Google Scholar",
+      "document_status": "Coding Complete",
+      "document_type": "Order/Opinion",
+      "order_type": "Unknown",
+      "citation_paren": null,
+      "cite_1_page": 172,
+      "cite_1_reporter": "So.2d",
+      "cite_1_vol": 636,
+      "cite_2_page": null,
+      "cite_2_reporter": null,
+      "cite_2_vol": null,
+      "cite_3_page": null,
+      "cite_3_reporter": null,
+      "cite_3_vol": null,
+      "citation_status": "Official citation found/coded",
+      "court": "Florida state appellate court",
+      "no_title": false,
+      "party_types": [
+        "Court"
+      ],
+      "per_curium": true,
+      "is_core_document": true,
+      "id": 60253,
+      "file": "https://clearinghouse-umich-production.s3.amazonaws.com/media/doc/60253.pdf",
+      "title": "Appellate Decision [District Court of Appeal of Florida, Second District]",
+      "text": "636 So.2d 172 (1994)\nDoris WELCH, Appellant,\nv.\nEverett S. RICE, Sheriff of Pinellas County, and Pinellas County, a political subdivision of\nthe State of Florida, Appellees.\nNo. 93-01783.\nDistrict Court of Appeal of Florida, Second District.\nApril 29, 1994.\n173 *173 John A. Henninger, Pope & Henninger, P.A., St. Petersburg, for appellant.\nRobert F. Jagger, Sr. Asst. County Atty., Clearwater, for appellee Pinellas County.\nPER CURIAM.\nDoris Welch appeals from a final summary judgment in favor of Everett S. Rice, Sheriff of Pinellas County. We\nreverse because the trial court erred in finding that subsection 901.211(5), Florida Statutes (1991), does not\napply in this case. Subsection 901.211(5) requires the written authorization of a supervising officer to conduct a\nstrip search.\nPrior to September 29, 1989, Welch was issued a citation charging a violation of Pinellas County Ordinance No.\n87-48. The offense was the failure to have a license for her cat. The citation required Welch to appear in court on\nSeptember 29 for arraignment. When she failed to appear, the court ordered a capias for her arrest pursuant to\nsection 901.11, Florida Statutes (1989). Section 901.11 provides that failure to appear is \"an indirect criminal\ncontempt of court\" punishable by a fine not to exceed $100.\nThe capias lay dormant until March 30, 1991, when it was executed after Welch was stopped for a traffic\nviolation. She was transported to the Pinellas County Jail, booked and, according to the allegations of her\ncomplaint, strip searched.\n[1]\nOn June 17, 1992, Welch filed a complaint against Pinellas County and Rice, as Sheriff of Pinellas County,\n[2]\nalleging that she had been unlawfully strip searched in violation of section 901.211, Florida Statutes (1991).\nShe contended that she was immune from such a search by subsection 901.211(2) which prohibits, with some\nexceptions not applicable here, strip searches of persons arrested for a \"traffic, regulatory, or misdemeanor\noffense.\" She also contended that the search was conducted without the written authorization of a supervising\nofficer as required by subsection 901.211(5).\nOn April 23, 1993, the trial court entered summary judgment in Rice's favor, holding that section 901.211 was not\napplicable to Welch. Apparently, the court determined that indirect criminal contempt of court is not \"a traffic,\nregulatory, or misdemeanor offense\" for which strip searching is prohibited, without the presence of the additional\nfactors in subsections 901.211(2)(a) and (b). To this extent, we agree with the trial court and affirm on this issue.\nHowever, we reverse because the trial court's judgment, by denying Welch any protection under section 901.211,\n174 also holds that subsection 901.211(5), *174 requiring the written authorization of a supervising officer, does not\napply. Subsection (5) clearly applies to all strip searches, as Welch asserts. We therefore reverse the final\nsummary judgment and remand for further proceedings consistent with this opinion.\nReversed and remanded.\nPATTERSON, A.C.J., and ALTENBERND and QUINCE, JJ., concur.\n[1] Summary judgment was entered in favor of Pinellas County on September 14, 1992, and not appealed.\n\n[2] Strip searches of persons arrested; body cavity search. 00\n97\n(1) As used in this section, the term \"strip search\" means having an arrested person remove or arrange some or\nall of his or her clothing so as to permit a visual or manual inspection of the genitals; buttocks; anus; breasts, in\nthe case of a female; or undergarments of such person.\n(2) No person arrested for a traffic, regulatory, or misdemeanor offense, except in a case which is violent in\nnature, which involves a weapon, or which involves a controlled substance, shall be strip searched unless:\n(a) There is probable cause to believe that the individual is concealing a weapon, a controlled substance, or\nstolen property; or\n(b) A judge at first appearance has found that the person arrested cannot be released either on recognizance or\nbond and therefore shall be incarcerated in the county jail.\n(3) Each strip search shall be performed by a person of the same gender as the arrested person and on premises\nwhere the search cannot be observed by persons not physically conducting or observing the search pursuant to\nthis section. Any observer shall be of the same gender as the arrested person.\n(4) Any body cavity search must be performed under sanitary conditions.\n(5) No law enforcement officer shall order a strip search within the agency or facility without obtaining the written\nauthorization of the supervising officer on duty.\n(6) Nothing in this section shall be construed as limiting any statutory or common-law right of any person for\npurposes of any civil action or injunctive relief.\nSave trees - read court opinions online on Google Scholar.",
+      "document_type_other": null,
+      "external_url": "",
+      "ecf_number": null,
+      "clearinghouse_link": "clearinghouse.net/doc/60253"
+    }
+  ],
+  "document_count": 2
+}

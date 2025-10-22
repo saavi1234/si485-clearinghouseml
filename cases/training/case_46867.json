@@ -1,0 +1,819 @@
+{
+  "case_id": 46867,
+  "fetched_at": "2025-10-22T00:47:44.975057",
+  "case_data": {
+    "attorney_orgs": [],
+    "available_documents": [
+      "Trial Court Docket",
+      "Complaint (any)"
+    ],
+    "case_defendants": [
+      {
+        "defendant_level": null,
+        "institution": "",
+        "institution_alt_state": "- United States (national) -",
+        "institution_city": "",
+        "institution_county": null,
+        "name": "U.S. Department of Justice",
+        "defendant_level_other": "",
+        "is_active": true
+      },
+      {
+        "defendant_level": null,
+        "institution": "",
+        "institution_alt_state": "- United States (national) -",
+        "institution_city": "",
+        "institution_county": null,
+        "name": "U.S. Attorney General",
+        "defendant_level_other": "",
+        "is_active": true
+      },
+      {
+        "defendant_level": null,
+        "institution": "",
+        "institution_alt_state": "- United States (national) -",
+        "institution_city": "",
+        "institution_county": null,
+        "name": "Office of Justice Programs",
+        "defendant_level_other": "",
+        "is_active": true
+      },
+      {
+        "defendant_level": null,
+        "institution": "",
+        "institution_alt_state": "- United States (national) -",
+        "institution_city": "",
+        "institution_county": null,
+        "name": "Office of Justice Programs",
+        "defendant_level_other": "",
+        "is_active": true
+      },
+      {
+        "defendant_level": null,
+        "institution": "",
+        "institution_alt_state": "- United States (national) -",
+        "institution_city": "",
+        "institution_county": null,
+        "name": "Office for Victims of Crime",
+        "defendant_level_other": "",
+        "is_active": true
+      }
+    ],
+    "case_ongoing": "Yes",
+    "case_status": "Approved",
+    "case_types": [
+      "Presidential/Gubernatorial Authority"
+    ],
+    "cause_other": "",
+    "causes": [
+      "Administrative Procedure Act, 5 U.S.C. §§ 551 et seq."
+    ],
+    "class_action_granted": "Not sought",
+    "class_action_sought": "No",
+    "closing_year": null,
+    "constitutional_clause": [
+      {
+        "value": "Spending/Appropriations Clauses"
+      },
+      {
+        "value": "Separation of Powers"
+      }
+    ],
+    "content_of_injunction": [],
+    "court": "District of Rhode Island",
+    "custom_issues": [],
+    "defendant_payment": "",
+    "defendant_type": [
+      {
+        "value": "Jurisdiction-wide"
+      }
+    ],
+    "docket_status": "Complete as of retrieval date",
+    "facility_type": [
+      {
+        "value": "Government-run"
+      }
+    ],
+    "filing_date": "2025-08-18",
+    "filing_year": 2025,
+    "id": 46867,
+    "injunction_duration": "",
+    "issues": [
+      "General/Misc., Reproductive rights, Environmental Justice and Resources: Funding",
+      "General/Misc.: Public assistance grants",
+      "General/Misc.: Government services",
+      "Presidential/Gubernatorial Authority: Commandeering"
+    ],
+    "last_checked_date": "2025-10-16T00:00:00-04:00",
+    "main_docket": {
+      "id": 62122,
+      "docket_entries": [
+        {
+          "row_number": 0,
+          "id": 10199066,
+          "entry_number": "1",
+          "date_filed": "2025-08-18T00:00:00-04:00",
+          "attachments": [
+            {
+              "pdf_url": "https://www.courtlistener.com/recap/gov.uscourts.rid.60243/gov.uscourts.rid.60243.1.1.pdf",
+              "recap_id": 449386835,
+              "pacer_url": "https://ecf.rid.uscourts.gov/doc1/16102394051?caseid=60243",
+              "description": "Exhibit",
+              "attachment_number": 1
+            },
+            {
+              "pdf_url": "https://www.courtlistener.com/recap/gov.uscourts.rid.60243/gov.uscourts.rid.60243.1.2.pdf",
+              "recap_id": 449386836,
+              "pacer_url": "https://ecf.rid.uscourts.gov/doc1/16102394052?caseid=60243",
+              "description": "Exhibit",
+              "attachment_number": 2
+            },
+            {
+              "pdf_url": "https://www.courtlistener.com/recap/gov.uscourts.rid.60243/gov.uscourts.rid.60243.1.3.pdf",
+              "recap_id": 449386837,
+              "pacer_url": "https://ecf.rid.uscourts.gov/doc1/16102394053?caseid=60243",
+              "description": "Exhibit",
+              "attachment_number": 3
+            },
+            {
+              "pdf_url": "https://www.courtlistener.com/recap/gov.uscourts.rid.60243/gov.uscourts.rid.60243.1.4.pdf",
+              "recap_id": 449386838,
+              "pacer_url": "https://ecf.rid.uscourts.gov/doc1/16102394054?caseid=60243",
+              "description": "Civil Cover Sheet",
+              "attachment_number": 4
+            },
+            {
+              "pdf_url": "https://www.courtlistener.com/recap/gov.uscourts.rid.60243/gov.uscourts.rid.60243.1.5.pdf",
+              "recap_id": 449386839,
+              "pacer_url": "https://ecf.rid.uscourts.gov/doc1/16102394055?caseid=60243",
+              "description": "Summons Request",
+              "attachment_number": 5
+            },
+            {
+              "pdf_url": "https://www.courtlistener.com/recap/gov.uscourts.rid.60243/gov.uscourts.rid.60243.1.6.pdf",
+              "recap_id": 449386840,
+              "pacer_url": "https://ecf.rid.uscourts.gov/doc1/16102394056?caseid=60243",
+              "description": "Summons Request",
+              "attachment_number": 6
+            },
+            {
+              "pdf_url": "https://www.courtlistener.com/recap/gov.uscourts.rid.60243/gov.uscourts.rid.60243.1.7.pdf",
+              "recap_id": 449386841,
+              "pacer_url": "https://ecf.rid.uscourts.gov/doc1/16102394057?caseid=60243",
+              "description": "Summons Request",
+              "attachment_number": 7
+            },
+            {
+              "pdf_url": "https://www.courtlistener.com/recap/gov.uscourts.rid.60243/gov.uscourts.rid.60243.1.8.pdf",
+              "recap_id": 449386842,
+              "pacer_url": "https://ecf.rid.uscourts.gov/doc1/16102394058?caseid=60243",
+              "description": "Summons Request",
+              "attachment_number": 8
+            },
+            {
+              "pdf_url": "https://www.courtlistener.com/recap/gov.uscourts.rid.60243/gov.uscourts.rid.60243.1.9.pdf",
+              "recap_id": 449386843,
+              "pacer_url": "https://ecf.rid.uscourts.gov/doc1/16102394059?caseid=60243",
+              "description": "Summons Request",
+              "attachment_number": 9
+            },
+            {
+              "pdf_url": "https://www.courtlistener.com/recap/gov.uscourts.rid.60243/gov.uscourts.rid.60243.1.10.pdf",
+              "recap_id": 449386844,
+              "pacer_url": "https://ecf.rid.uscourts.gov/doc1/16102394060?caseid=60243",
+              "description": "Summons Request",
+              "attachment_number": 10
+            }
+          ],
+          "url": "https://www.courtlistener.com/docket/71135488/1/state-of-new-jersey-v-united-states-department-of-justice/",
+          "recap_pdf_url": "https://www.courtlistener.com/recap/gov.uscourts.rid.60243/gov.uscourts.rid.60243.1.0_1.pdf",
+          "pacer_doc_id": "16102394050",
+          "description": "COMPLAINT ( filing fee paid $ 405.00, receipt number ARIDC-2173180 ), filed by State of Rhode Island. (Attachments: # 1 Exhibit, # 2 Exhibit, # 3 Exhibit, # 4 Civil Cover Sheet, # 5 Summons Request, # 6 Summons Request, # 7 Summons Request, # 8 Summons Request, # 9 Summons Request, # 10 Summons Request)(Giarrano, Leonard) (Entered: 08/18/2025)"
+        },
+        {
+          "row_number": 34,
+          "id": 10387429,
+          "entry_number": "40",
+          "date_filed": "2025-10-20T00:00:00-04:00",
+          "attachments": null,
+          "url": "https://www.courtlistener.com/docket/71135488/40/state-of-new-jersey-v-united-states-department-of-justice/",
+          "recap_pdf_url": "https://www.courtlistener.com/recap/gov.uscourts.rid.60243/gov.uscourts.rid.60243.40.0.pdf",
+          "pacer_doc_id": "16102418888",
+          "description": "Stipulation"
+        },
+        {
+          "row_number": 41,
+          "id": 10199068,
+          "entry_number": null,
+          "date_filed": "2025-08-18T00:00:00-04:00",
+          "attachments": [],
+          "url": "https://www.courtlistener.com",
+          "recap_pdf_url": null,
+          "pacer_doc_id": null,
+          "description": "Case assigned to Chief Judge John J. McConnell, Jr. and Magistrate Judge Amy E. Moses. (Hill, Cherelle)"
+        },
+        {
+          "row_number": 11,
+          "id": 10199069,
+          "entry_number": "2",
+          "date_filed": "2025-08-18T00:00:00-04:00",
+          "attachments": [],
+          "url": "https://www.courtlistener.com/docket/71135488/2/state-of-new-jersey-v-united-states-department-of-justice/",
+          "recap_pdf_url": null,
+          "pacer_doc_id": "16102394250",
+          "description": "CASE OPENING NOTICE ISSUED (Hill, Cherelle) (Entered: 08/18/2025)"
+        },
+        {
+          "row_number": 22,
+          "id": 10199070,
+          "entry_number": "3",
+          "date_filed": "2025-08-18T00:00:00-04:00",
+          "attachments": [],
+          "url": "https://www.courtlistener.com/docket/71135488/3/state-of-new-jersey-v-united-states-department-of-justice/",
+          "recap_pdf_url": null,
+          "pacer_doc_id": "16102394262",
+          "description": "Summons Issued as to Pamela J. Bondi, Maureen Henneberg, Office for Victims of Crime, Office of Justice Programs, Katherine Darke Schmitt, United States Department of Justice (Attachments: # 1 Maureen Henneberg Summons, # 2 Office for Victims of Crime Summons, # 3 Office of Justice Programs Summons, # 4 Pamela J. Bondi Summons, # 5 United States Department of Justice Suumons)(Hill, Cherelle) (Entered: 08/18/2025)"
+        },
+        {
+          "row_number": 37,
+          "id": 10215331,
+          "entry_number": "7",
+          "date_filed": "2025-08-21T00:00:00-04:00",
+          "attachments": null,
+          "url": "https://www.courtlistener.com/docket/71135488/7/state-of-new-jersey-v-united-states-department-of-justice/",
+          "recap_pdf_url": null,
+          "pacer_doc_id": "16102395449",
+          "description": "NOTICE of Appearance by Rosanna E. Gibson on behalf of State of Delaware (Gibson, Rosanna) (Entered: 08/21/2025)"
+        },
+        {
+          "row_number": 4,
+          "id": 10246690,
+          "entry_number": "13",
+          "date_filed": "2025-08-21T00:00:00-04:00",
+          "attachments": null,
+          "url": "https://www.courtlistener.com/docket/71135488/13/state-of-new-jersey-v-united-states-department-of-justice/",
+          "recap_pdf_url": null,
+          "pacer_doc_id": "16102395856",
+          "description": "NOTICE of Appearance by Joel Marrero on behalf of State of California (Marrero, Joel) (Entered: 08/21/2025)"
+        },
+        {
+          "row_number": 6,
+          "id": 10246692,
+          "entry_number": "15",
+          "date_filed": "2025-08-22T00:00:00-04:00",
+          "attachments": null,
+          "url": "https://www.courtlistener.com/docket/71135488/15/state-of-new-jersey-v-united-states-department-of-justice/",
+          "recap_pdf_url": null,
+          "pacer_doc_id": "16102396277",
+          "description": "NOTICE of Appearance by Shankar Duraiswamy on behalf of State of New Jersey (Duraiswamy, Shankar) (Entered: 08/22/2025)"
+        },
+        {
+          "row_number": 8,
+          "id": 10246694,
+          "entry_number": "17",
+          "date_filed": "2025-08-22T00:00:00-04:00",
+          "attachments": null,
+          "url": "https://www.courtlistener.com/docket/71135488/17/state-of-new-jersey-v-united-states-department-of-justice/",
+          "recap_pdf_url": null,
+          "pacer_doc_id": "16102396323",
+          "description": "NOTICE of Appearance by Mayur Prasad Saxena on behalf of State of New Jersey (Saxena, Mayur) (Entered: 08/22/2025)"
+        },
+        {
+          "row_number": 10,
+          "id": 10246696,
+          "entry_number": "19",
+          "date_filed": "2025-08-25T00:00:00-04:00",
+          "attachments": null,
+          "url": "https://www.courtlistener.com/docket/71135488/19/state-of-new-jersey-v-united-states-department-of-justice/",
+          "recap_pdf_url": null,
+          "pacer_doc_id": "16102396532",
+          "description": "NOTICE of Appearance by Natalie Moreland Villalon on behalf of All Defendants (Moreland Villalon, Natalie) (Entered: 08/25/2025)"
+        },
+        {
+          "row_number": 15,
+          "id": 10246700,
+          "entry_number": "23",
+          "date_filed": "2025-08-27T00:00:00-04:00",
+          "attachments": null,
+          "url": "https://www.courtlistener.com/docket/71135488/23/state-of-new-jersey-v-united-states-department-of-justice/",
+          "recap_pdf_url": null,
+          "pacer_doc_id": "16102397388",
+          "description": "NOTICE of Appearance by John S. Pallas on behalf of State of Michigan (Pallas, John) (Entered: 08/27/2025)"
+        },
+        {
+          "row_number": 20,
+          "id": 10264385,
+          "entry_number": "28",
+          "date_filed": "2025-09-03T00:00:00-04:00",
+          "attachments": null,
+          "url": "https://www.courtlistener.com/docket/71135488/28/state-of-new-jersey-v-united-states-department-of-justice/",
+          "recap_pdf_url": null,
+          "pacer_doc_id": "16102399870",
+          "description": "NOTICE of Appearance by Kalikoonalani Diara Fernandes on behalf of State of Hawai'i (Fernandes, Kalikoonalani) (Entered: 09/03/2025)"
+        },
+        {
+          "row_number": 21,
+          "id": 10264386,
+          "entry_number": "29",
+          "date_filed": "2025-09-03T00:00:00-04:00",
+          "attachments": null,
+          "url": "https://www.courtlistener.com/docket/71135488/29/state-of-new-jersey-v-united-states-department-of-justice/",
+          "recap_pdf_url": null,
+          "pacer_doc_id": "16102399878",
+          "description": "NOTICE of Appearance by David Dana Day on behalf of State of Hawai'i (Day, David) (Entered: 09/03/2025)"
+        },
+        {
+          "row_number": 28,
+          "id": 10338079,
+          "entry_number": "35",
+          "date_filed": "2025-09-09T00:00:00-04:00",
+          "attachments": null,
+          "url": "https://www.courtlistener.com/docket/71135488/35/state-of-new-jersey-v-united-states-department-of-justice/",
+          "recap_pdf_url": null,
+          "pacer_doc_id": "16102401770",
+          "description": "NOTICE of Appearance by Cristina Sepe on behalf of State of Washington (Sepe, Cristina) (Entered: 09/09/2025)"
+        },
+        {
+          "row_number": 44,
+          "id": 10387430,
+          "entry_number": null,
+          "date_filed": "2025-10-20T00:00:00-04:00",
+          "attachments": null,
+          "url": "https://www.courtlistener.com",
+          "recap_pdf_url": null,
+          "pacer_doc_id": null,
+          "description": "Order on Motion to Stay"
+        },
+        {
+          "row_number": 45,
+          "id": 10387431,
+          "entry_number": null,
+          "date_filed": "2025-10-21T00:00:00-04:00",
+          "attachments": null,
+          "url": "https://www.courtlistener.com",
+          "recap_pdf_url": null,
+          "pacer_doc_id": null,
+          "description": "Order Entering Stipulation AND ~Util - Set Deadlines"
+        },
+        {
+          "row_number": 35,
+          "id": 10215329,
+          "entry_number": "5",
+          "date_filed": "2025-08-21T00:00:00-04:00",
+          "attachments": null,
+          "url": "https://www.courtlistener.com/docket/71135488/5/state-of-new-jersey-v-united-states-department-of-justice/",
+          "recap_pdf_url": null,
+          "pacer_doc_id": "16102395443",
+          "description": "NOTICE of Appearance by Ian Liston on behalf of State of Delaware (Liston, Ian) (Entered: 08/21/2025)"
+        },
+        {
+          "row_number": 36,
+          "id": 10215330,
+          "entry_number": "6",
+          "date_filed": "2025-08-21T00:00:00-04:00",
+          "attachments": null,
+          "url": "https://www.courtlistener.com/docket/71135488/6/state-of-new-jersey-v-united-states-department-of-justice/",
+          "recap_pdf_url": null,
+          "pacer_doc_id": "16102395446",
+          "description": "NOTICE of Appearance by Vanessa L. Kassab on behalf of State of Delaware (Kassab, Vanessa) (Entered: 08/21/2025)"
+        },
+        {
+          "row_number": 43,
+          "id": 10215333,
+          "entry_number": null,
+          "date_filed": "2025-08-20T00:00:00-04:00",
+          "attachments": null,
+          "url": "https://www.courtlistener.com",
+          "recap_pdf_url": null,
+          "pacer_doc_id": null,
+          "description": "TEXT ORDER: Pursuant to LR Gen 101(c), the Court suspends LR Gen 201(a) and any attorney employed by a State or the District of Columbia and who is a member in good standing of the bar of another federal district court and each jurisdiction in which that attorney has been admitted may appear and practice in this matter without being admitted pro hac vice. Attorneys appearing on behalf of the States and the District of Columbia are directed to obtain filing privileges via PACER and to enter their appearances. So Ordered by Chief Judge John J. McConnell, Jr. on 8/20/2025. (Jackson, Ryan)"
+        },
+        {
+          "row_number": 38,
+          "id": 10246685,
+          "entry_number": "8",
+          "date_filed": "2025-08-21T00:00:00-04:00",
+          "attachments": null,
+          "url": "https://www.courtlistener.com/docket/71135488/8/state-of-new-jersey-v-united-states-department-of-justice/",
+          "recap_pdf_url": null,
+          "pacer_doc_id": "16102395821",
+          "description": "NOTICE of Appearance by Lee Sherman on behalf of State of California (Sherman, Lee) (Entered: 08/21/2025)"
+        },
+        {
+          "row_number": 39,
+          "id": 10246686,
+          "entry_number": "9",
+          "date_filed": "2025-08-21T00:00:00-04:00",
+          "attachments": null,
+          "url": "https://www.courtlistener.com/docket/71135488/9/state-of-new-jersey-v-united-states-department-of-justice/",
+          "recap_pdf_url": null,
+          "pacer_doc_id": "16102395832",
+          "description": "NOTICE of Appearance by Deylin O Thrift-Viveros on behalf of State of California (Thrift-Viveros, Deylin) (Entered: 08/21/2025)"
+        },
+        {
+          "row_number": 1,
+          "id": 10246687,
+          "entry_number": "10",
+          "date_filed": "2025-08-21T00:00:00-04:00",
+          "attachments": null,
+          "url": "https://www.courtlistener.com/docket/71135488/10/state-of-new-jersey-v-united-states-department-of-justice/",
+          "recap_pdf_url": null,
+          "pacer_doc_id": "16102395842",
+          "description": "NOTICE of Appearance by Delbert Tran on behalf of State of California (Tran, Delbert) (Entered: 08/21/2025)"
+        },
+        {
+          "row_number": 2,
+          "id": 10246688,
+          "entry_number": "11",
+          "date_filed": "2025-08-21T00:00:00-04:00",
+          "attachments": null,
+          "url": "https://www.courtlistener.com/docket/71135488/11/state-of-new-jersey-v-united-states-department-of-justice/",
+          "recap_pdf_url": null,
+          "pacer_doc_id": "16102395845",
+          "description": "NOTICE of Appearance by Luke Freedman on behalf of State of California (Freedman, Luke) (Entered: 08/21/2025)"
+        },
+        {
+          "row_number": 3,
+          "id": 10246689,
+          "entry_number": "12",
+          "date_filed": "2025-08-21T00:00:00-04:00",
+          "attachments": null,
+          "url": "https://www.courtlistener.com/docket/71135488/12/state-of-new-jersey-v-united-states-department-of-justice/",
+          "recap_pdf_url": null,
+          "pacer_doc_id": "16102395848",
+          "description": "NOTICE of Appearance by Newton Knowles, III on behalf of State of California (Knowles, Newton) (Entered: 08/21/2025)"
+        },
+        {
+          "row_number": 5,
+          "id": 10246691,
+          "entry_number": "14",
+          "date_filed": "2025-08-22T00:00:00-04:00",
+          "attachments": null,
+          "url": "https://www.courtlistener.com/docket/71135488/14/state-of-new-jersey-v-united-states-department-of-justice/",
+          "recap_pdf_url": null,
+          "pacer_doc_id": "16102396057",
+          "description": "NOTICE of Appearance by Jonathan T. Rose on behalf of State of Vermont (Rose, Jonathan) (Entered: 08/22/2025)"
+        },
+        {
+          "row_number": 7,
+          "id": 10246693,
+          "entry_number": "16",
+          "date_filed": "2025-08-22T00:00:00-04:00",
+          "attachments": null,
+          "url": "https://www.courtlistener.com/docket/71135488/16/state-of-new-jersey-v-united-states-department-of-justice/",
+          "recap_pdf_url": null,
+          "pacer_doc_id": "16102396298",
+          "description": "NOTICE of Appearance by Heidi Joya on behalf of State of California (Joya, Heidi) (Entered: 08/22/2025)"
+        },
+        {
+          "row_number": 9,
+          "id": 10246695,
+          "entry_number": "18",
+          "date_filed": "2025-08-23T00:00:00-04:00",
+          "attachments": null,
+          "url": "https://www.courtlistener.com/docket/71135488/18/state-of-new-jersey-v-united-states-department-of-justice/",
+          "recap_pdf_url": null,
+          "pacer_doc_id": "16102396336",
+          "description": "NOTICE of Appearance by Zoe Levine on behalf of State of New York (Levine, Zoe) (Entered: 08/23/2025)"
+        },
+        {
+          "row_number": 12,
+          "id": 10246697,
+          "entry_number": "20",
+          "date_filed": "2025-08-25T00:00:00-04:00",
+          "attachments": null,
+          "url": "https://www.courtlistener.com/docket/71135488/20/state-of-new-jersey-v-united-states-department-of-justice/",
+          "recap_pdf_url": null,
+          "pacer_doc_id": "16102396560",
+          "description": "NOTICE of Appearance by Hannah Vail on behalf of Commonwealth of Massachusetts (Vail, Hannah) (Entered: 08/25/2025)"
+        },
+        {
+          "row_number": 13,
+          "id": 10246698,
+          "entry_number": "21",
+          "date_filed": "2025-08-25T00:00:00-04:00",
+          "attachments": null,
+          "url": "https://www.courtlistener.com/docket/71135488/21/state-of-new-jersey-v-united-states-department-of-justice/",
+          "recap_pdf_url": null,
+          "pacer_doc_id": "16102396767",
+          "description": "NOTICE of Appearance by Natasha Korgaonkar on behalf of State of New York (Korgaonkar, Natasha) (Entered: 08/25/2025)"
+        },
+        {
+          "row_number": 14,
+          "id": 10246699,
+          "entry_number": "22",
+          "date_filed": "2025-08-26T00:00:00-04:00",
+          "attachments": null,
+          "url": "https://www.courtlistener.com/docket/71135488/22/state-of-new-jersey-v-united-states-department-of-justice/",
+          "recap_pdf_url": null,
+          "pacer_doc_id": "16102397044",
+          "description": "NOTICE of Appearance by David Moskowitz on behalf of State of Colorado (Moskowitz, David) (Entered: 08/26/2025)"
+        },
+        {
+          "row_number": 17,
+          "id": 10255147,
+          "entry_number": "25",
+          "date_filed": "2025-08-27T00:00:00-04:00",
+          "attachments": null,
+          "url": "https://www.courtlistener.com/docket/71135488/25/state-of-new-jersey-v-united-states-department-of-justice/",
+          "recap_pdf_url": null,
+          "pacer_doc_id": "16102397656",
+          "description": "NOTICE of Appearance by Neil Giovanatti on behalf of State of Michigan (Giovanatti, Neil) (Entered: 08/27/2025)"
+        },
+        {
+          "row_number": 18,
+          "id": 10255148,
+          "entry_number": "26",
+          "date_filed": "2025-08-29T00:00:00-04:00",
+          "attachments": null,
+          "url": "https://www.courtlistener.com/docket/71135488/26/state-of-new-jersey-v-united-states-department-of-justice/",
+          "recap_pdf_url": null,
+          "pacer_doc_id": "16102398602",
+          "description": "NOTICE of Appearance by Thomas H. Castelli on behalf of State of Oregon (Castelli, Thomas) (Entered: 08/29/2025)"
+        },
+        {
+          "row_number": 19,
+          "id": 10264384,
+          "entry_number": "27",
+          "date_filed": "2025-09-03T00:00:00-04:00",
+          "attachments": null,
+          "url": "https://www.courtlistener.com/docket/71135488/27/state-of-new-jersey-v-united-states-department-of-justice/",
+          "recap_pdf_url": null,
+          "pacer_doc_id": "16102399706",
+          "description": "NOTICE of Appearance by Heidi Parry Stern on behalf of State of Nevada (Stern, Heidi) (Entered: 09/03/2025)"
+        },
+        {
+          "row_number": 24,
+          "id": 10289561,
+          "entry_number": "31",
+          "date_filed": "2025-09-05T00:00:00-04:00",
+          "attachments": null,
+          "url": "https://www.courtlistener.com/docket/71135488/31/state-of-new-jersey-v-united-states-department-of-justice/",
+          "recap_pdf_url": null,
+          "pacer_doc_id": "16102401012",
+          "description": "NOTICE of Appearance by Robert Henry Weaver on behalf of State of Illinois (Weaver, Robert) (Entered: 09/05/2025)"
+        },
+        {
+          "row_number": 25,
+          "id": 10338076,
+          "entry_number": "32",
+          "date_filed": "2025-09-09T00:00:00-04:00",
+          "attachments": null,
+          "url": "https://www.courtlistener.com/docket/71135488/32/state-of-new-jersey-v-united-states-department-of-justice/",
+          "recap_pdf_url": null,
+          "pacer_doc_id": "16102401752",
+          "description": "NOTICE of Appearance by Marsha Chien on behalf of State of Washington (Chien, Marsha) (Entered: 09/09/2025)"
+        },
+        {
+          "row_number": 26,
+          "id": 10338077,
+          "entry_number": "33",
+          "date_filed": "2025-09-09T00:00:00-04:00",
+          "attachments": null,
+          "url": "https://www.courtlistener.com/docket/71135488/33/state-of-new-jersey-v-united-states-department-of-justice/",
+          "recap_pdf_url": null,
+          "pacer_doc_id": "16102401757",
+          "description": "NOTICE of Appearance by Tyler S. Roberts on behalf of State of Washington (Roberts, Tyler) (Entered: 09/09/2025)"
+        },
+        {
+          "row_number": 27,
+          "id": 10338078,
+          "entry_number": "34",
+          "date_filed": "2025-09-09T00:00:00-04:00",
+          "attachments": null,
+          "url": "https://www.courtlistener.com/docket/71135488/34/state-of-new-jersey-v-united-states-department-of-justice/",
+          "recap_pdf_url": null,
+          "pacer_doc_id": "16102401767",
+          "description": "NOTICE of Appearance by Benjamin M. Seel on behalf of State of Washington (Seel, Benjamin) (Entered: 09/09/2025)"
+        },
+        {
+          "row_number": 29,
+          "id": 10338080,
+          "entry_number": "36",
+          "date_filed": "2025-09-12T00:00:00-04:00",
+          "attachments": null,
+          "url": "https://www.courtlistener.com/docket/71135488/36/state-of-new-jersey-v-united-states-department-of-justice/",
+          "recap_pdf_url": null,
+          "pacer_doc_id": "16102403397",
+          "description": "NOTICE of Appearance by Benjamin Daniel Liebowitz on behalf of State of New York (Liebowitz, Benjamin) (Entered: 09/12/2025)"
+        },
+        {
+          "row_number": 31,
+          "id": 10366778,
+          "entry_number": "38",
+          "date_filed": "2025-09-30T00:00:00-04:00",
+          "attachments": null,
+          "url": "https://www.courtlistener.com/docket/71135488/38/state-of-new-jersey-v-united-states-department-of-justice/",
+          "recap_pdf_url": null,
+          "pacer_doc_id": "16102410675",
+          "description": "NOTICE of Appearance by Ashley H. Meskill on behalf of State of Connecticut (Meskill, Ashley) (Entered: 09/30/2025)"
+        },
+        {
+          "row_number": 32,
+          "id": 10377963,
+          "entry_number": "39",
+          "date_filed": "2025-10-15T00:00:00-04:00",
+          "attachments": null,
+          "url": "https://www.courtlistener.com/docket/71135488/39/state-of-new-jersey-v-united-states-department-of-justice/",
+          "recap_pdf_url": null,
+          "pacer_doc_id": "16102417122",
+          "description": "Stay"
+        },
+        {
+          "row_number": 40,
+          "id": 10199067,
+          "entry_number": null,
+          "date_filed": "2025-08-18T00:00:00-04:00",
+          "attachments": [],
+          "url": "https://www.courtlistener.com",
+          "recap_pdf_url": null,
+          "pacer_doc_id": null,
+          "description": "Case Assigned/Reassigned"
+        },
+        {
+          "row_number": 16,
+          "id": 10255146,
+          "entry_number": "24",
+          "date_filed": "2025-08-27T00:00:00-04:00",
+          "attachments": null,
+          "url": "https://www.courtlistener.com/docket/71135488/24/state-of-new-jersey-v-united-states-department-of-justice/",
+          "recap_pdf_url": null,
+          "pacer_doc_id": "16102397653",
+          "description": "NOTICE of Appearance by Stanley William Abraham, III on behalf of State of Maine (Abraham, Stanley) (Entered: 08/27/2025)"
+        },
+        {
+          "row_number": 23,
+          "id": 10289560,
+          "entry_number": "30",
+          "date_filed": "2025-09-04T00:00:00-04:00",
+          "attachments": null,
+          "url": "https://www.courtlistener.com/docket/71135488/30/state-of-new-jersey-v-united-states-department-of-justice/",
+          "recap_pdf_url": null,
+          "pacer_doc_id": "16102400247",
+          "description": "NOTICE of Appearance by Michael M. Tresnowski on behalf of State of Illinois (Tresnowski, Michael) (Entered: 09/04/2025)"
+        },
+        {
+          "row_number": 30,
+          "id": 10366777,
+          "entry_number": "37",
+          "date_filed": "2025-09-26T00:00:00-04:00",
+          "attachments": null,
+          "url": "https://www.courtlistener.com/docket/71135488/37/state-of-new-jersey-v-united-states-department-of-justice/",
+          "recap_pdf_url": null,
+          "pacer_doc_id": "16102409523",
+          "description": "NOTICE of Appearance by Colin T. Roth on behalf of State of Wisconsin (Roth, Colin) (Entered: 09/26/2025)"
+        },
+        {
+          "row_number": 42,
+          "id": 10215332,
+          "entry_number": null,
+          "date_filed": "2025-08-20T00:00:00-04:00",
+          "attachments": null,
+          "url": "https://www.courtlistener.com",
+          "recap_pdf_url": null,
+          "pacer_doc_id": null,
+          "description": "Order"
+        },
+        {
+          "row_number": 33,
+          "id": 10215328,
+          "entry_number": "4",
+          "date_filed": "2025-08-19T00:00:00-04:00",
+          "attachments": null,
+          "url": "https://www.courtlistener.com/docket/71135488/4/state-of-new-jersey-v-united-states-department-of-justice/",
+          "recap_pdf_url": null,
+          "pacer_doc_id": "16102394673",
+          "description": "SUMMONS Returned Executed by State of Rhode Island. All Defendants. (Attachments: # 1 Signed Proof of Service (Pamela J. Bondi), # 2 Signed Proof of Service (OJP), # 3 Signed Proof of Service (Maureen Henneberg), # 4 Signed Proof of Service (OVC), # 5 Signed Proof of Service (Katherine Darke Schmitt))(Giarrano, Leonard) (Entered: 08/19/2025)"
+        }
+      ],
+      "docket_case_type": "cv",
+      "docket_year": 2025,
+      "docket_filing_number": 404,
+      "is_main_docket": true,
+      "court": "District of Rhode Island",
+      "state": "Rhode Island",
+      "docket_office_number": "1",
+      "docket_number_manual": "1:25-cv-00404",
+      "scales_html": null,
+      "recap_link": "https://www.courtlistener.com/docket/71135488/state-of-new-jersey-v-united-states-department-of-justice/",
+      "is_active": true
+    },
+    "name": "State of New Jersey v. United States Department of Justice",
+    "never_filed": false,
+    "non_docket_case_number": "",
+    "non_docket_case_number_type": null,
+    "non_docket_case_number_type_other": "",
+    "order_end_year": null,
+    "order_start_year": null,
+    "permanent_injunction": false,
+    "plaintiff_description": "The District of Columbia and several states, including New Jersey, Rhode Island, California, Delaware, Illinois, Colorado, Connecticut, Hawaii, Maine, Maryland, Massachusetts, Michigan, Minnesota, Nevada, New Mexico, New York, Oregon, Vermont, Washington, and Wisconsin.",
+    "plaintiff_type": [
+      {
+        "value": "State Plaintiff"
+      }
+    ],
+    "prevailing_party": "None Yet / None",
+    "pro_se_status": "No",
+    "public_interest_lawyer": "Yes",
+    "related_cases": [],
+    "relief_natures": [
+      "None yet"
+    ],
+    "relief_nature_other": "",
+    "relief_sources": [
+      "None yet"
+    ],
+    "settlement_agreement": [],
+    "settlement_judgment_date": null,
+    "settlement_judgment_year": null,
+    "special_collections": [
+      "Trump Administration 2.0: Challenges to the Government",
+      "Trump Administration 2.0: Challenges to the Government"
+    ],
+    "special_case_type": [],
+    "state": "Rhode Island",
+    "summary": "<p>The Victims of Crime Act (VOCA) was enacted by Congress in 1984 after a 1982 report from President Ronald Reagan's Task Force on Victims of Crime concluded that the \"neglect of crime victims is a national disgrace\". VOCA created a series of grant programs to help states provide critical resources and services to victims and survivors of crime, such as emergency shelter, sexual assault forensic exams, medical expenses, lost wages, and counseling. The intent was to provide direct compensation and service programs with minimal bureaucratic \"strings attached\" to support inadequately funded state and local victim assistance programs. The Act also created the Crime Victims Fund, which is financed by penalties and fees from federal offenders, not from taxpayers.</p>\r\n<p>In July 2025, the Office for Victims of Crime (OVC), an agency within the U.S. Department of Justice (DOJ), attempted to impose new immigration enforcement conditions on federal grants provided to states under VOCA. This case challenges those conditions.&nbsp;</p>\r\n<p>On August 18, 2025, several states and the District of Columbia filed this lawsuit in the U.S. District Court for the District of Rhode Island against the U.S. Department of Justice (DOJ); the U.S. Attorney General; the Office of Justice Programs (OJP) and its Acting Assistant Attorney General; and the Office for Victims of Crime (OVC) and its Acting Director. The plaintiffs alleged that the defendants&rsquo; actions violated the Administrative Procedure Act, the Separation of Powers, the Spending Clause, and were ultra vires. Represented by their Attorneys General, the plaintiffs sought declaratory and injunctive relief to enjoin the defendants from implementing or enforcing the conditions on the FY 2024 VOCA victim assistance grants. Judge John James McConnell Jr. presides over the case.&nbsp;</p>\r\n<p>The plaintiffs argued that the conditions were unlawful because they lacked statutory authorization and were arbitrary and capricious under the Administrative Procedure Act, as they failed to account for states&rsquo; reliance interests or the conditions&rsquo; adverse impact on victims. They further contended that the conditions violated the Spending Clause, being unrelated to VOCA&rsquo;s purpose, impermissibly ambiguous, and coercive in forcing states to forfeit either critical funding or their sovereign control over local resources. Additionally, the plaintiffs raised Separation of Powers and ultra vires claims, asserting that the DOJ and OVC had exceeded their statutory authority. They maintained that Congress, not federal agencies, retained the &ldquo;power of the purse&rdquo; and that nothing in VOCA or any other statute authorized the imposition of immigration-related funding conditions.</p>\r\n<p>A month after filing the complaint, on October 3, 2025, New Jersey Attorney General Matthew J. Platkin and officials announced that the DOJ had agreed to &ldquo;drop illegal conditions on this critical funding, which will ensure that advocacy services, sexual assault forensic exams, medical and funeral expenses, and other critical resources for victims of crimes will continue to be available.&rdquo;</p>\r\n<p>On October 15, 2025, the court ordered a stay.</p>\r\n<p>This case is ongoing.&nbsp;</p>",
+    "summary_published_date": "2025-10-21T21:51:08.641342-04:00",
+    "summary_short": "In 1984, Congress enacted the Victims of Crime Act (VOCA) to provide states with grant programs supporting victims of crime, including emergency shelter, medical expenses, counseling, and lost wages, funded by penalties from federal offenders rather than taxpayers. VOCA aimed to deliver aid with minimal bureaucratic restrictions to underfunded state and local programs. In July 2025, the Office for Victims of Crime (OVC) sought to impose new immigration enforcement conditions on VOCA grants. On August 18, 2025, several states and the District of Columbia sued the DOJ, the U.S. Attorney General, the Office of Justice Programs, and OVC, alleging violations of the Administrative Procedure Act, Separation of Powers, the Spending Clause, and ultra vires authority. Represented by their Attorneys General, plaintiffs sought declaratory and injunctive relief to block enforcement of the FY 2024 grant conditions. They argued the conditions were unauthorized, arbitrary, coercive, and exceeded statutory authority, undermining Congress’s “power of the purse.” The case is ongoing before Judge John James McConnell Jr.",
+    "summary_tiny": null,
+    "terminating_date": null,
+    "clearinghouse_link": "clearinghouse.net/case/46867",
+    "is_active": true,
+    "case_documents_url": "https://clearinghouse.net/api/v2/documents/?case=46867",
+    "case_dockets_url": "https://clearinghouse.net/api/v2/dockets/?case=46867",
+    "case_resources_url": "https://clearinghouse.net/api/v2/resources/?case=46867"
+  },
+  "documents": [
+    {
+      "date": null,
+      "date_is_estimate": false,
+      "date_not_available": false,
+      "description": null,
+      "document_source": null,
+      "document_status": null,
+      "document_type": null,
+      "order_type": null,
+      "citation_paren": null,
+      "cite_1_page": null,
+      "cite_1_reporter": null,
+      "cite_1_vol": null,
+      "cite_2_page": null,
+      "cite_2_reporter": null,
+      "cite_2_vol": null,
+      "cite_3_page": null,
+      "cite_3_reporter": null,
+      "cite_3_vol": null,
+      "citation_status": null,
+      "court": null,
+      "no_title": false,
+      "party_types": [],
+      "per_curium": false,
+      "is_core_document": true,
+      "id": 162636,
+      "file": null,
+      "title": null,
+      "text": null,
+      "document_type_other": null,
+      "external_url": null,
+      "ecf_number": null,
+      "clearinghouse_link": "clearinghouse.net/doc/162636"
+    },
+    {
+      "date": "2025-08-18",
+      "date_is_estimate": false,
+      "date_not_available": false,
+      "description": "",
+      "document_source": "RECAP",
+      "document_status": "Coding Complete",
+      "document_type": "Complaint",
+      "order_type": null,
+      "citation_paren": null,
+      "cite_1_page": null,
+      "cite_1_reporter": null,
+      "cite_1_vol": null,
+      "cite_2_page": null,
+      "cite_2_reporter": null,
+      "cite_2_vol": null,
+      "cite_3_page": null,
+      "cite_3_reporter": null,
+      "cite_3_vol": null,
+      "citation_status": "Not applicable",
+      "court": "District of Rhode Island",
+      "no_title": false,
+      "party_types": [
+        "Plaintiff"
+      ],
+      "per_curium": false,
+      "is_core_document": true,
+      "id": 162637,
+      "file": "https://clearinghouse-umich-production.s3.amazonaws.com/media/doc/162637.pdf",
+      "title": "Complaint for Declaratory and Injunctive Relief",
+      "text": "Case 1:25-cv-00404     Document 1     Filed 08/18/25     Page 1 of 50 PageID #: 1\n \nUNITED STATES DISTRICT COURT \nFOR THE DISTRICT OF RHODE ISLAND  \n \n \nSTATE  OF  NEW  JERSEY;  STATE  OF \nRHODE ISLAND; STATE OF CALIFORNIA; \nSTATE  OF  DELAWARE;  STATE  OF \nILLINOIS; STATE OF COLORADO; STATE \nOF  CONNECTICUT;  DISTRICT  OF \nCOLUMBIA; STATE OF HAWAI‘I; STATE \nOF  MAINE;  STATE  OF  MARYLAND; \nCOMMONWEALTH OF MASSACHUSETTS; \nSTATE  OF  MICHIGAN;  STATE  OF \nMINNESOTA; STATE OF NEVADA; STATE \nOF NEW MEXICO; STATE OF NEW YORK; \nSTATE  OF  OREGON;  STATE  OF \nVERMONT;  STATE  OF  WASHINGTON; \nSTATE OF WISCONSIN, \nPlaintiffs, \nNo. 1:25-cv-__________ \nv. \nUNITED  STATES  DEPARTMENT  OF \nJUSTICE; PAMELA J. BONDI, in her official \ncapacity  as  Attorney  General  of  the  United \nStates; OFFICE OF JUSTICE PROGRAMS; \nMAUREEN  HENNEBERG,  in  her  official \ncapacity as Acting Assistant Attorney General \nfor the  Office of Justice Programs; OFFICE \nFOR  VICTIMS  OF  CRIME;  KATHERINE \nDARKE SCHMITT, in her official capacity as \nActing Director of the Office for Victims of \nCrime, \nDefendants. \n \n \nCOMPLAINT FOR DECLARATORY AND INJUNCTIVE RELIEF \n \n1.  More than 40 years ago, Congress enacted the Victims of Crime Act (VOCA) to \naddress the criminal justice system’s neglect of crime victims—which had become, in the words \nof a Presidential Task Force, a “national disgrace.” VOCA created a series of grant programs to \n1 \n \n\nCase 1:25-cv-00404     Document 1     Filed 08/18/25     Page 2 of 50 PageID #: 2\n \nenable States to provide critical resources and services to victims and survivors of crime as they \nsought to recover and restore normalcy: victim and witness advocacy services; emergency shelter; \nsexual assault forensic exams; medical, funeral, and burial expenses; compensation for lost wages; \nand much more. These funding streams—totaling more than a billion dollars for this year alone—\nhave long aided States in fulfilling their fundamental duty to protect public safety and assist victims \nof crime. Between 2021 and 2024, States have used federal VOCA funds to assist, on average, \nmore than 8.5 million crime victims per year and to pay more than 200,000 claims per year for \nlosses suffered by crime victims.  \n2.  In enacting these grant programs, Congress’s focus was crystal clear: the funds must \nbe used to help victims. Indeed, Congress mandated the distribution of nearly all VOCA funds to \nStates based on fixed statutory formulas. Yet the Office for Victims of Crime (OVC), an agency \nhoused within the U.S. Department of Justice (USDOJ) that is charged with administering VOCA \ngrants, has now declared that States will be unable to access VOCA funds unless they accede to \nthe  Executive  Branch’s  immigration  enforcement  priorities. This  new  policy  would  impose \nunprecedented conditions on the use of VOCA funds, requiring States to assist the U.S. Department \nof Homeland Security (DHS) in unrelated immigration enforcement efforts.  \n3.  Defendants’ brazen attempt to manipulate critical funding for crime victims to \nstrong-arm States into supporting the Administration’s immigration policies runs headlong into \ntwo basic principles of American governance: separation of powers and federalism. A federal \nagency has “no power to act ... unless and until Congress confers power upon it.” La. Pub. Serv. \nComm’n v. FCC, 476 U.S. 355, 374 (1986). That is particularly so when it comes to federal \nfunding, where Congress retains the power of the purse, and thus establishes the criteria USDOJ \nmust use when awarding its grants. And because the imposition of these immigration-related \n2 \n\nCase 1:25-cv-00404     Document 1     Filed 08/18/25     Page 3 of 50 PageID #: 3\n \nconditions would dramatically upset the federal-state balance—forcing the States to change their \npolicies to gain access to vast sums of federal victims’ services dollars—there must be a “clear \nstatement” in the statute showing that Congress intended to impose them. Gregory v. Ashcroft, 501 \nU.S. 452, 461 (1991). But nothing in VOCA or any other statute authorizes USDOJ to impose \nimmigration-related funding conditions on grant programs intended to support the victims of \ncrime. Because USDOJ lacks the statutory authority to impose these conditions, they are unlawful. \n4.  Nor is that the sole legal defect. For one, even if USDOJ somehow enjoyed the \nauthority  to  condition  funds  for  victims  of  crime  on  unrelated  immigration  objectives,  the \nimposition of these conditions would be arbitrary and capricious, as USDOJ (1) failed to grapple \nwith the States’ reliance on these congressionally approved grants and the harms the States will \nsuffer if they are required to abandon their law enforcement policies or are forced to scale back \nservices for crime victims, (2) imposed conditions based on immigration policy concerns that \nCongress plainly did not intend the agency to consider in deciding how to administer the program, \nand (3) failed to consider how these conditions would undermine rather than support VOCA’s goal \nof assisting crime victims. Further, given the coercive nature of the challenged conditions, their \nambiguity, and lack of relatedness to the underlying grant programs at issue, they run afoul of the \nSpending Clause as well. \n5.  Action by this Court is urgently needed. Defendants’ imposition of new conditions \nforces Plaintiff States either to abandon critical funds to support crime victims or relinquish their \nsovereign rights to decide how to use state and local resources. Many Plaintiff States have long \nconcluded that public safety is best protected by focusing their limited law enforcement resources \non core public safety missions and ensuring that victims and witnesses to a crime will not hesitate \nto come forward due to their immigration status. Other Plaintiff States have chosen to permit their \n3 \n\nCase 1:25-cv-00404     Document 1     Filed 08/18/25     Page 4 of 50 PageID #: 4\n \npolitical subdivisions or law enforcement agencies to exercise their own discretion in determining \nwhether law enforcement resources are best spent assisting the federal government in immigration \nmatters.  Still  other  Plaintiff  States  must  comply  with  state  court  rulings  that  restrict  their \ncooperation with federal immigration enforcement. See, e.g., Lunn v. Commonwealth, 78 N.E. 3d \n1143 (Mass. 2017). The challenged conditions would force these States into an untenable position: \neither forfeit access to critical resources for vulnerable crime victims and their families, or accept \nunlawful conditions, allowing the federal government to conscript state and local officials to \nenforce federal immigration law and destroying trust between law enforcement and immigrant \ncommunities that is critical to preventing and responding to crime. To prevent the extraordinary \nand  irreparable  harms  that  will  arise  from  OVC’s  new  policy  of  imposing  these  unlawful \nconditions, this Court should swiftly enjoin their implementation and enforcement and set aside \nthe challenged conditions. \nJURISDICTION AND VENUE \n \n6.  The Court has jurisdiction pursuant to 28 U.S.C. §§ 1331 and 1346. The Court has \nauthority to grant declaratory, injunctive, and other relief pursuant 28 U.S.C. §§ 2201-2202 and 5 \nU.S.C. §§ 702, 705, and 706. \n7.  Venue is proper in this district pursuant to 28 U.S.C. §§ 1391(b)(2) and 1391(e)(1). \nDefendants include a United States officer sued in her official capacity. The State of Rhode Island \nis a resident of this judicial district, and a substantial part of the events or omissions giving rise to \nthis Complaint occurred within the District of Rhode Island. \nPARTIES \nI.  Plaintiffs \n \n8.  Plaintiff the State of New Jersey, represented by and through its Attorney General, \nMatthew J. Platkin, is a sovereign State in the United States of America. As the State’s chief legal \n4 \n\nCase 1:25-cv-00404     Document 1     Filed 08/18/25     Page 5 of 50 PageID #: 5\n \nofficer, the Attorney General is authorized to act on behalf of the State in this matter. The Attorney \nGeneral is also head of the New Jersey Department of Law and Public Safety, which is the agency \nresponsible for applying for, obtaining, and disbursing funds pursuant to the federal grant programs \nthat are the subject of this litigation. See N.J. Stat. Ann. § 52:17B-2. \n9.  Plaintiff the State of Rhode Island, represented by and through its Attorney General, \nPeter F. Neronha, is a sovereign State in the United States of America. As the State’s chief legal \nofficer, the Attorney General is authorized to act on behalf of the State in this matter.  \n10.  Plaintiff the State of California, represented by and through its Attorney General, \nRob Bonta, is a sovereign State in the United States of America. As the State’s chief legal officer, \nthe Attorney General is authorized to act on behalf of the State in this matter. \n11.  Plaintiff the State of Delaware, represented by and through its Attorney General, \nKathleen Jennings, is a sovereign State in the United States of America. This action is brought on \nbehalf of the State by Attorney General Jennings as the “chief law officer of the State.” Darling \nApartment Co. v. Springer, 22 A.2d 397, 403 (Del. 1941). Attorney General Jennings also brings \nthis action on behalf of the State pursuant to statutory authority. Del. Code Ann. tit. 29, § 2504.  \n12.  Plaintiff the State of Illinois, represented by and through its Attorney General, \nKwame Raoul, is a sovereign State in the United States of America. As the State’s chief legal \nofficer, the Attorney General is authorized to act on behalf of the State in this matter. \n13.  Plaintiff the State of Colorado is a sovereign State in the United States of America. \nColorado is represented by Phil Weiser, the Attorney General of Colorado. The Attorney General \nacts as the chief legal representative of the State and is authorized by Colo. Rev. Stat. § 24-31-101 \nto pursue this action.  \n5 \n\nCase 1:25-cv-00404     Document 1     Filed 08/18/25     Page 6 of 50 PageID #: 6\n \n14.  Plaintiff the State of Connecticut is a sovereign State in the United States of \nAmerica. Connecticut is represented by and through its chief legal officer, Attorney General \nWilliam Tong, who is authorized under Connecticut General Statutes § 3-125 to act on behalf of \nthe State.  \n15.  Plaintiff the District of Columbia is a municipal corporation organized under the \nConstitution of the United States. It is empowered to sue and be sued, and it is the local government \nfor  the  territory  constituting  the  permanent  seat  of  the  federal  government. The  District  is \nrepresented by and through its chief legal officer, Attorney General Brian L. Schwalb. The \nAttorney General has general charge and conduct of all legal business of the District and all suits \ninitiated by and against the District and is responsible for upholding the public interest. D.C. Code. \n§ 1-301.81. \n16.  Plaintiff State of Hawaiʻi is a sovereign State in the United States of America. \nHawaiʻi is represented by Attorney General Anne E. Lopez, Hawai‘i’s chief legal officer and chief \nlaw enforcement officer, who is authorized by Hawai‘i Revised Statutes § 28-1 to pursue this \naction. \n17.  Plaintiff the State of Maine is a sovereign State in the United States of America. \nMaine is represented by Aaron M. Frey, the Attorney General of Maine. The Attorney General is \nauthorized to pursue this action pursuant to 5 Me. Rev. Stat. Ann. § 191. \n18.  Plaintiff the State of Maryland is a sovereign State in the United States of America. \nMaryland is represented by Attorney General Anthony G. Brown, who is the chief law officer of \nMaryland. \n6 \n\nCase 1:25-cv-00404     Document 1     Filed 08/18/25     Page 7 of 50 PageID #: 7\n \n19.  Plaintiff the Commonwealth of Massachusetts is a sovereign State in the United \nStates of America. Massachusetts is represented by Attorney General Andrea Joy Campbell, who \nis the chief law enforcement officer of Massachusetts.  \n20.  Plaintiff the State of Michigan is a sovereign State in the United States of America. \nMichigan is represented by Attorney General Dana Nessel, who is the chief law enforcement \nofficer of Michigan.  \n21.  Plaintiff the State of Minnesota is a sovereign State in the United States of America. \nMinnesota is represented by Keith Ellison, the Attorney General of the State of Minnesota. The \nAttorney General’s powers and duties include acting in federal court in matters of State concern. \nMinn. Stat. § 8.01.  \n22.  Plaintiff the State of Nevada, represented by and through Attorney General Aaron \nD. Ford, is a sovereign State in the United States of America. The Attorney General is the chief \nlaw enforcement of the State of Nevada and is authorized to pursue this action under Nev. Rev. \nStat. 228.110 and Nev. Rev. Stat. 228.170. \n23.  Plaintiff the State of New Mexico is a sovereign State in the United States of \nAmerica. New Mexico is represented by Attorney General Raúl Torrez, who is the chief law \nenforcement officer of New Mexico.  \n24.  Plaintiff the State of New York, represented by and through its Attorney General, \nLetitia James, is a sovereign State in the United States of America. The Attorney General is New \nYork State’s chief law enforcement officer and is authorized under N.Y. Executive Law § 63 to \npursue this action. \n7 \n\nCase 1:25-cv-00404     Document 1     Filed 08/18/25     Page 8 of 50 PageID #: 8\n \n25.  Plaintiff the State of Oregon, represented by and through its Attorney General Dan \nRayfield, is a sovereign State in the United States of America. As the State’s chief legal officer, the \nAttorney General is authorized to act on behalf of the State in this matter.  \n26.  Plaintiff the State of Vermont is a sovereign State in the United States of America. \nVermont is represented by Attorney General Charity Clark, who is the chief law enforcement \nofficer and is authorized by law to initiate litigation on behalf of the State.  \n27.  Plaintiff the State of Washington, represented by and through its Attorney General, \nNicholas W. Brown, is a sovereign State in the United States of America. The Attorney General of \nWashington is the chief legal advisor to the State and is authorized to act in federal court on behalf \nof the State on matters of public concern under Wash. Rev. Code ch. 43.10. \n28.  Plaintiff the State of Wisconsin is a sovereign State in the United States of America. \nWisconsin is represented by Joshua L. Kaul, the Attorney General of Wisconsin. Attorney General \nKaul is authorized under Wis. Stat. § 165.25(1m) to pursue this action on behalf of the State of \nWisconsin. \nII.  Defendants \n \n29.  Defendant United States Department of Justice is an agency and the executive \ndepartment  of  the  United  States  government  that  has  responsibility  for  administering  grant \nprograms authorized by VOCA. \n30.  Defendant Pamela J. Bondi is the United States Attorney General and the federal \nofficial in charge of USDOJ. The Attorney General is sued in her official capacity. \n31.  Defendant Office of Justice Programs (OJP) is the largest grantmaking component \nof USDOJ. OJP oversees the work of the Office for Victims of Crime. \n8 \n\nCase 1:25-cv-00404     Document 1     Filed 08/18/25     Page 9 of 50 PageID #: 9\n \n32.  Defendant Maureen Henneberg (Acting AAG) is the Deputy Assistant Attorney \nGeneral for Operations and Management within USDOJ currently in charge of OJP in an acting \ncapacity. The Acting AAG is sued in her official capacity. \n33.  Defendant Office for Victims of Crime (OVC) is a Program Office within USDOJ \nwith responsibility for administering the grant programs authorized by VOCA. \n34.  Defendant Katherine Darke Schmitt (Acting OVC Director) is the Acting Director \nwithin USDOJ in charge of OVC. The Acting OVC Director is sued in her official capacity. \nALLEGATIONS \n \nI.  Congress Has Long Authorized Grants To States Under The Victims Of Crime Act To \nSupport Crime Victims, Survivors, And Their Families. \n \n35.  Federal grants administered by USDOJ have long been instrumental in supporting \nstate programs that provide compensation and assistance to victims of crime.  \n36.  In December 1982, President Ronald Reagan’s Task Force on Victims of Crime \nissued a report concluding that “[t]he neglect of crime victims is a national disgrace.” Among the \nreport’s key recommendations was to “enact legislation to provide federal funding to assist state \ncrime victim compensation programs” and “provide federal funding, reasonably matched by local \nrevenues, to assist in the operation of federal, state, local, and private nonprofit victim/witness \nassistance agencies that make comprehensive assistance available to all victims of crime.”  \n37.  Congress answered the call two years later, passing VOCA, which created the \nCrime Victims Fund within the U.S. Treasury and established OVC as an office within USDOJ. \nCongress structured VOCA “with minimal bureaucratic ‘strings attached,’ for direct compensation \nand service programs to assist victims of crime” in order to support inadequately funded state and \nlocal victim assistance programs. S. Rep. No. 497, 98th Cong., 2d Sess. at 1, 3 (1984), reprinted \nin 1984 U.S.C.C.A.N. 3607, 3607, 1984 WL 37447. “Unlike some past compensation bills,” \n9 \n\nCase 1:25-cv-00404     Document 1     Filed 08/18/25     Page 10 of 50 PageID #: 10\n \nVOCA is “intended to keep conditions on Federal Aid to a bare minimum.” Id. at 9. The U.S. \nAttorney General at the time emphasized that the new grants would not “creat[e] an unnecessary \nbureaucracy  to  impose  the  Federal  government’s  priorities  on  the  States  ....  [T]he  Federal \ngovernment will provide money to the States to enable the States to effectively run their own \nprograms.” 130 Cong. Rec. S5252, 5352 (Mar. 13, 1984) (statement of Attorney General William \nFrench Smith).  \n38.  Over the years, Congress has amended VOCA to “allow a greater measure of \nflexibility to ... State and local victims’ assistance programs” and provide “greater certainty” that \nVOCA funding “will not wax and wane with events .... [Grant recipients] need to be able to plan \nand hire and have a sense of stability if these measures are to achieve their fullest potential.” S. \nRep. No. 179, 104th Cong., 1st Sess. at 29 (1995), reprinted in 1996 U.S.C.C.A.N. 924, 941, 1995 \nWL 731704. \n39.  VOCA directs that the U.S. government shall deposit into the Crime Victims Fund \nvarious penalties and fees recovered from individuals convicted of federal offenses.  \n40.  VOCA further directs that the federal government shall draw on the Crime Victims \nFund to issue annual grants to States for victim compensation and assistance. 34 U.S.C. §§ 20101-\n20111.  \n41.  Since VOCA’s enactment, VOCA funds have been instrumental in providing \ncritical support to millions of victims and survivors (and their families) of serious crime in all \nStates and territories. See, e.g., Office for Victims of Crime, VOCA Victim Compensation Data \nDashboard: Data Analyses for Fiscal Years 2021-2024, https://tinyurl.com/3xt53tpd; Office for \nVictims of Crime, VOCA Victim Assistance Data Dashboard: Data Analyses for Fiscal Years 2021-\n2024, https://tinyurl.com/mr28xvfp. For example, in Federal Fiscal Year (FY) 2024 alone, VOCA \n10 \n\nCase 1:25-cv-00404     Document 1     Filed 08/18/25     Page 11 of 50 PageID #: 11\n \ngrants enabled assistance to more than 2.8 million crime victims in Plaintiff States and payment \nfor more than 88,000 claims for losses suffered by crime victims in Plaintiff States. Id. \n42.  As available amounts in the Crime Victims Fund have fluctuated over the years, \nCongress has taken action to make additional funds available, including by amendments to VOCA \nthrough the 2001 USA PATRIOT ACT, Pub. L. 107-56, and the VOCA Fix to Sustain the Crime \nVictims Fund Act of 2021, Pub. L. 117-27. In January 2002, Congress also appropriated $68.1 \nmillion for the Crime Victims Fund to assist in providing relief to 9/11 victims. Emergency \nSupplemental Appropriations for Recovery from and Response to Terrorist Attacks on the United \nStates Act, Pub. L. 107-117. \nA.  VOCA Formula Grants \n43.  Congress has directed OVC to administer two formula grant programs pursuant to \nVOCA that support crime victim compensation and assistance: Victim Compensation Formula \nGrants and Victim Assistance Formula Grants.  \n44.  The Victim Compensation and Victim Assistance grants are formula grants, not \ncompetitive grants, which means each State is entitled to a specific amount of funding based on \nthe applicable statutory formula. The relevant statutory formulas are detailed below. \n45.  For FY 2025, over $178 million from the Crime Victims Fund is to be awarded to \nStates under the Victim Compensation Formula Grant, and over $1.2 billion is to be awarded to \nStates under the Victim Assistance Formula Grant. Based on the applicable statutory formulas, \nOVC has calculated that Plaintiff States are collectively entitled to approximately $81 million of \nthe Victim Compensation Formula Grant funds and approximately $594 million of the Victim \nAssistance Formula Grant funds.  \n11 \n\nCase 1:25-cv-00404     Document 1     Filed 08/18/25     Page 12 of 50 PageID #: 12\n \n46.  Because each VOCA formula grant typically remains open for four years, and is \nsubject to further extension, an award in one fiscal year can allow States to continue to support \nprogram activities in at least the three years thereafter.  \n1.  Victim Compensation Formula Grants \n47.  Victim Compensation Formula Grants provide funding from the U.S. Treasury’s \nCrime Victims Fund to all qualifying state-run crime victim compensation programs. 34 U.S.C. § \n20102.  \n48.  The purpose of these grants is to provide compensation to eligible crime victims \nfor costs resulting from crime, including for medical care, lost wages, mental health counseling, \nfuneral expenses, and crime scene clean-up. The grants are designed to supplement state and \nterritory efforts to provide financial compensation to crime victims. Ex. 1 at 8.  \n49.  VOCA provides that the OVC Director “shall make an annual grant” to eligible \nvictim compensation programs based on a fixed statutory formula. 34 U.S.C. § 20102(a).  \n50.  VOCA delineates a precise set of requirements that a state victim compensation \nprogram must satisfy to be eligible for a grant, requiring, for example, that States pay for certain \nvictim expenses, treat federal and state crimes and residents and non-residents the same, and do \nnot  deny  compensation  based  on  a  victim’s  familial  relationship  with  an  offender.  Id.  § \n20102(b)(1)-(9). The recipient State must also certify that grant funds will “not be used to supplant \nState funds otherwise available to provide crime victim compensation.” See id. § 20102(b)(3). \nNone of the statutory eligibility or certification requirements relates to immigration enforcement. \n51.  Victim  Compensation  Formula  Grants  are  distributed  among  eligible  state \nprograms based on a statutory formula that accounts for the amount of money each state crime \nvictim compensation program distributed to victims in the preceding fiscal year. Specifically, the \n12 \n\nCase 1:25-cv-00404     Document 1     Filed 08/18/25     Page 13 of 50 PageID #: 13\n \nOVC “Director shall make an annual grant from the Fund to an eligible crime victim compensation \nprogram of 75 percent of the amounts awarded” by the state compensation program “during the \npreceding fiscal year, other than amounts awarded for property damage.” Id. § 20102(a)(1). \n52.  The statute recognizes only one exception to this statutory formula. If the Crime \nVictims Fund is “insufficient” to provide 75 percent of the amount distributed by each State in the \npreceding fiscal year, “the [OVC] Director shall make, from the sums available, a grant to each \neligible crime victim compensation program so that all such programs receive the same percentage \nof the amounts awarded by such program during the preceding fiscal year, other than amounts \nawarded for property damage.” Id. § 20102(a)(2). \n53.  The statutory formula makes no reference to federal immigration policy. And \nPlaintiffs are unaware of OVC ever having previously conditioned Victim Compensation funding \non States assisting with federal immigration enforcement efforts. \n54.  States have used Victim Compensation Formula Grant funds to compensate victims \nand survivors of crime for various injuries and losses that they have suffered as a result of the \ncrime. \n55.  For example, in FY 2024, New Jersey used Victim Compensation grant funds, along \nwith associated state funds, to provide over $21.8 million in compensation to over 5,500 claimants, \nincluding victims and survivors of domestic violence, sexual assault, homicide, child abuse, and \nhuman trafficking. These payments covered funeral and burial costs, relocation expenses, crime \nscene cleanup, loss of support, attorney fees, and other necessary expenses.  \n56.  In FY 2024, California’s Victim Compensation Board (CalVCB) received $23.2 \nmillion in VOCA Compensation Program awards, and CalVCB reimbursed 24,639 applications \nfrom victims and survivors of assault, homicide, child abuse, and other crimes for funeral, medical, \n13 \n\nCase 1:25-cv-00404     Document 1     Filed 08/18/25     Page 14 of 50 PageID #: 14\n \nmental  health,  relocation,  and  other  costs  incurred  because  of  crime. The  vast  majority  of \nCalVCB’s budget is spent providing direct compensation to victims whose financial losses are not \ncovered by insurance or other sources. CalVCB plans to use VOCA Compensation Program funds \nin FY 2025 for these same purposes.  \n57.  Rhode Island received a VOCA Compensation Program award of $290,000 in FY \n2024, and the State has likewise used this funding to, for example, help victims and survivors pay \nfor out-of-pocket medical expenses, funeral and burial costs, relocation expenses, mental health \ncounseling fees, and crime scene clean-up costs.  \n58.  Between FY 2022 and 2024, Delaware received a total of $2,050,000 in VOCA \nVictim Compensation funding. These funds supported state compensation programs that provided \nfinancial assistance to victims of crime for crime-related expenses such as medical care, lost wages, \nmental health counseling, and other costs.  \n59.  Other Plaintiff States have likewise used Victim Compensation grants, along with \nassociated state funds, to provide compensation to victims and their families for crime-related \nexpenses. These federal funds have enabled Plaintiff States to pay for a wide range of victim and \nsurvivor services in the immediate aftermath of a crime (for example, the timely use of rape kits), \nand to help them heal from the lasting impacts of crime (for example, counseling for child \nwitnesses to violent crime). These funds are also used to foster trust-based participation in the \ncriminal justice system for victims, witnesses, and their families, by facilitating, for example, safe \nand secure transportation to and from court hearings.  \n60.  OVC allocated Victim Compensation Formula Grant funds to Plaintiff States from \nFY 2021 to FY 2024 in the following amounts as shown in Table 1 below:  \n14 \n\nCase 1:25-cv-00404     Document 1     Filed 08/18/25     Page 15 of 50 PageID #: 15\n \nPlaintiff  FY 2021  FY 2022  FY2023  FY2024 \nCalifornia   $36,000,000   $32,389,000    $25,746,000    $23,206,000 \nColorado   $7,546,000    $6,770,000    $5,841,000    $7,510,000  \nConnecticut   $1,269,000    $755,000    $844,000    $1,076,000  \nDelaware   $1,219,000    $495,000    $721,000    $834,000  \nD.C.  $1,131,000  $1,045,000  $2,668,000  $3,122,000 \nHawai‘i   $257,000    $192,000    $262,000    $318,000  \nIllinois   $1,615,000    $860,000    $3,405,000    $7,549,000  \nMaine   $443,000    $416,000    $363,000    $404,000  \nMaryland   $1,617,000    $1,257,000    $1,081,000    $1,369,000  \nMassachusetts   $1,558,000    $1,669,000    $2,019,000    $1,452,000  \nMichigan   $1,815,000    $1,201,000    $1,316,000    $2,680,000  \nMinnesota   $1,363,000    $1,759,000    $2,545,000    $2,106,000  \nNevada   $1,119,000    $2,349,000    $1,030,000    $2,362,000  \nNew Jersey   $3,252,000    $6,103,000    $9,522,000    $9,996,000  \nNew Mexico   $937,000    $1,003,000    $1,176,000    $1,221,000 \nNew York   $11,842,000    $9,588,000    $10,880,000    $6,789,000  \nOregon   $2,457,000    $2,253,000    $1,981,000    $3,062,000  \nRhode Island   $502,000    $231,000    $642,000    $290,000  \nVermont   $369,000    $257,000    $168,000    $268,000  \nWashington   $9,769,000    $10,877,000    $7,951,000    $4,354,000  \nWisconsin   $2,481,000    $2,424,000    $2,524,000    $3,008,000  \nTotals  $88,561,000  $83,893,000  $82,685,000  $82,976,000 \n \n61.  Plaintiff States have applied for and obtained Victim Compensation Formula Grant \nfunds for decades.  \n62.  Final applications for Victim Compensation Formula Grants for FY 2025 are due \non August 20, 2025. Plaintiff States intend to apply, and some have already submitted applications, \n15 \n\nCase 1:25-cv-00404     Document 1     Filed 08/18/25     Page 16 of 50 PageID #: 16\n \nfor these grant funds. Plaintiff States do not agree to comply with the Immigration Enforcement \nConditions set forth in the NOFO for these funds. \n2.  Victim Assistance Formula Grants \n63.  Victim Assistance  Formula  Grants  provide  funding  to  each  State  to  provide \nfinancial support for eligible crime victim assistance programs. 34 U.S.C. § 20103(a)(1). \n64.  The purpose of Victim Assistance Formula Grants is to improve the treatment of \nvictims of crime by providing them with the assistance, support, and services necessary to aid their \nrestoration and healing after a criminal act. Ex. 2 at 8. These grants are intended to enable States \nto provide subgrants to local community-based organizations and public agencies that provide \nservices directly to crime victims, including but not limited to victim and witness advocacy \nservices; crisis counseling; telephone and onsite information and referrals; criminal justice support \nand advocacy; emergency shelter; therapy; and consistent communication about significant events \nin their case. Id. These services are to be administered without regard to a victim’s immigration \nstatus. See, e.g., 28 C.F.R. § 94.103(a). \n65.  VOCA provides that the OVC Director “shall make an annual grant” to the chief \nexecutive of each State to provide financial support to eligible victim assistance programs. 34 \nU.S.C. § 20103(a). Each State subgrants such funds out to community-based organizations and \npublic agencies that provide services directly to crime victims. Id. § 20103(b)-(c).  \n66.  Congress has specified the criteria for determining the eligibility of a victim \nassistance program to receive Victim Assistance grant funds. Id. § 20103(b). A program is eligible \nunder these statutory criteria if, among other things, it is run by a public agency or nonprofit \norganization, has a demonstrated record of providing effective services to crime victims, assists \nvictims in seeking compensation benefits, and does not discriminate against victims because they \n16 \n\nCase 1:25-cv-00404     Document 1     Filed 08/18/25     Page 17 of 50 PageID #: 17\n \ndisagree with how a case is prosecuted. Id. Congress has also specified which certifications are \nrequired of a State’s chief executive, including that “funds awarded to eligible crime victim \nassistance programs will not be used to supplant State and local funds otherwise available for crime \nvictim assistance.” Id. § 20103(a)(2). None of the eligibility criteria or required certifications \nspecified in the statute relate to immigration enforcement.  \n67.  Victim Assistance Formula Grants are distributed among the States based on a fixed \nstatutory formula. Under that formula, each State is entitled to a base amount of $500,000 and an \nadditional share of the remaining available money in the Crime Victims Fund based on “each \nState’s population in relation to the population of all States.” Id. § 20103(a)(3). \n68.  The  statutory  formula  makes  no  reference  to  civil  immigration  policy. And \nPlaintiffs are unaware of OVC ever having previously conditioned Victim Assistance funding on \nStates assisting with federal immigration enforcement efforts. \n69.  States use Victim Assistance Formula Grants to fund a wide range of activities that \nprovide support to victims who are navigating the criminal justice system and addressing the \ntrauma and disruption suffered as a result of their victimization. \n70.  For example, in FY 2024, New Jersey subgranted VOCA victim assistance funds \nand associated state funds to dozens of subrecipients that provide victim services across the State. \nOver $33 million in funds were subgranted to public agencies, including: county prosecutors’ \noffices, to help guide victims and witnesses through criminal and civil processes, and for Sexual \nAssault Response Teams and Forensic Nurse Examiner programs to assist victims of sexual \nassault; the Division of Criminal Justice, to support a statewide automatic notification service for \nvictims when individuals convicted of sex crimes are released from custody; and the Department \nof Corrections, to support domestic violence survivors. Another $61 million in funds were \n17 \n\nCase 1:25-cv-00404     Document 1     Filed 08/18/25     Page 18 of 50 PageID #: 18\n \nsubgranted to victim support organizations to support a wide array of services for victims and \nsurvivors, including trauma recovery centers, clinical counseling, medical and behavioral health \nassessments, and legal representation. With those funds, over 34,000 calls were fielded by crisis \nhotlines,  and  over  9,400  individuals  were  assisted  with  shelter  and  supportive  housing. \nCollectively,  Victim  Assistance  funds  and  associated  state  funds  were  used  to  support \napproximately 433,000 victims in New Jersey in FY 2024. \n71.  In Illinois, the Illinois Criminal Justice Information Authority (ICJIA) applied in \nFY 2024 for a VOCA Assistance Program award and received $28,385,202. ICJIA subgrants \nVOCA funds to over 60 subgrantees, three of which are lead entity programs that pass-through \nfunds to 124 recipients. VOCA Assistance Program funds support a range of programming, \nincluding:  services to domestic violence victims, including crisis response, legal advocacy, shelter, \ncounseling, and case management through a statewide network of service providers; services to \nvictims of sexual assault, including support for over 30 rape crisis centers in Illinois that provide \n24/7 advocacy, medical accompaniment, counseling, support groups, and prevention education; \nand services to victims of child abuse, including forensic interviews, medical exams, counseling, \nand family advocacy to child victims of abuse, working closely with law enforcement and DCFS. \nThese services include programs in schools and communities that work to prevent sexual violence \nbefore it happens; transitional housing services that provide safe, supportive housing for victims \nof domestic violence, trafficking, or other violent crimes; and trauma recovery centers that provide \ncrime victims with mental health care, substance abuse support, and intensive case management, \nparticularly for those who do not traditionally seek help.  \n72.  Rhode Island received $2,935,210 in VOCA Assistance Program funds in FY 2024.  \nThese funds, which have been distributed to over two-dozen subgrantees throughout the State, \n18 \n\nCase 1:25-cv-00404     Document 1     Filed 08/18/25     Page 19 of 50 PageID #: 19\n \nsupport  wrap-around  services  such  as  counseling,  housing,  job  training,  life  skills  training, \nfinancial education, advocacy, resource referrals, case management, language services, and other \nsupport for victims of violent crimes and their families. Those services include support for human \ntrafficking  and  domestic  violence  victims,  advocacy  and  support  for  child  sexual  assault \ninvestigations,  a  domestic  violence  and  sexual  assault  victim  hotline,  court  advocates  to \naccompany victims through the criminal justice process, clinics for uninsured victims as well as \nthose seeking to preserve their anonymity, shelters for domestic violence victims and their families, \nadvocacy services for the deaf and the elderly,  and other support for community-based advocacy \ngroups. The State also used VOCA Assistance Program funds to establish a multiagency platform \nto provide victims and their advocates information on offender compliance and release, as well as \nto allow victims to submit impact statements for parole hearings. In FY 2024 alone, over 40,000 \nindividuals received services paid for by VOCA Assistance Program funds.  \n73.  California uses VOCA Victim Assistance funds to support various victim assistance \nefforts through 35 programs, including subgrants to Victim Witness Assistance Centers at district \nattorney’s offices in each of California’s 58 counties, to provide comprehensive services to victims \nand witnesses of all types of violent crime; subgrants through the Domestic Violence Assistance \nProgram to 98 non-government organizations throughout the state to provide comprehensive \nsupport, including emergency shelter, food, and clothing to victims of domestic violence and their \nchildren, a 24-hour crisis hotline, and local assistance to domestic violence service providers.  \n74.  Other Plaintiff States have also used Victim Assistance funds for services such as \ninformation and referral, advocacy and accompaniment, support and safety, shelter and housing, \nand assistance with navigating the justice system. And they have used the funds for organizations \nthat include child advocacy centers, rape crisis centers, sexual assault nurse examiner programs, \n19 \n\nCase 1:25-cv-00404     Document 1     Filed 08/18/25     Page 20 of 50 PageID #: 20\n \ndomestic violence shelters and services providers, human trafficking service providers, legal \nservices for victims, elder abuse resources, trauma recovery centers, and more.  \n75.  OVC allocated Victim Assistance Formula Grant funds to Plaintiff States from FY \n2021 to FY 2024 in the following amounts as shown in Table 2 below: \nPlaintiff  FY 2021  FY 2022  FY2023  FY2024 \nCalifornia  $120,361,953   $165,115,554   $153,789,867    $87,080,017  \nColorado   $18,182,462    $24,883,530    $23,436,628    $13,559,953  \nConnecticut   $11,329,832    $15,626,659    $14,742,118    $8,537,306  \nDelaware   $3,504,486    $4,709,524    $4,499,806    $2,792,843  \nD.C.  $2,670,274  $3,311,079  $3,138,542  $2,008,665 \nHawai‘i   $4,783,838    $6,547,786    $6,156,448    $3,688,853  \nIllinois   $38,824,602    $53,660,957    $49,916,616    $28,385,202  \nMaine   $4,610,705    $6,257,025    $5,940,998    $3,601,271  \nMaryland   $18,937,787    $26,364,732    $24,712,038    $14,232,420  \nMassachusetts   $21,488,509    $29,803,197    $27,992,083    $16,056,993  \nMichigan   $30,844,655    $42,666,439    $39,909,525    $22,802,629  \nMinnesota   $17,724,617    $24,444,368    $22,954,552    $13,249,553  \nNevada   $10,054,895    $13,690,070    $12,980,873    $7,597,406  \nNew Jersey   $27,543,696    $39,378,641    $36,875,827    $21,144,096  \nNew Mexico   $6,913,001    $9,376,796    $8,800,274    $5,198,098  \nNew York   $59,373,683    $83,718,142    $77,783,082    $43,986,920  \nOregon   $13,413,897    $18,314,009    $17,153,369    $9,906,452  \nRhode Island   $3,718,574    $5,096,442    $4,795,700    $2,935,210  \nVermont   $2,397,872    $3,208,377    $3,041,379    $1,938,654  \nWashington   $23,924,343    $32,996,334    $31,079,099    $17,860,091  \nWisconsin   $18,258,383    $25,235,262    $23,643,268    $13,634,045  \nTotals  $458,862,064  $634,404,923  $593,342,092  $340,196,677 \n \n20 \n\nCase 1:25-cv-00404     Document 1     Filed 08/18/25     Page 21 of 50 PageID #: 21\n \n76.  Plaintiff States have applied for and obtained Victim Assistance Formula Grant \nFunds for decades. \n77.  Final applications for Victim Assistance Formula Grants for FY 2025 are due on \nAugust 20, 2025. Plaintiff States intend to apply, and some have already submitted applications, \nfor these grant funds. Plaintiff States do not agree to comply with the Immigration Enforcement \nConditions set forth in the NOFO for these funds. \nB.  VOCA Competitive Grants  \n78.  OVC also administers certain competitive grant programs authorized by VOCA, \nincluding: Services for Victims of Crime; Emergency and Transitional Pet Shelter and Housing \nAssistance for Victims of Domestic Violence Program; Technology to Support Services for Victims \nof Crime; Services for Victims of Technology-Facilitated Abuse; Sexual Assault Nurse Examiner \nProgram  Development  and  Operation  Guide;  National  Crime  Victim  Crisis  Hotlines;  and \nIncreasing Availability of Medical Forensic Examinations for Victims of Sexual Assault.  \n79.  Awards under these programs support a range of initiatives designed to expand and \nstrengthen services for crime victims, including funding specialized assistance for children, elders, \nand victims of technology-facilitated abuse; providing housing assistance for victims; expanding \nvictims’ access to specialized medical forensic professionals and examinations; and development \nof statewide technology programs to improve the quality and reach of victim services. Collectively, \nthey enhance the quality and accessibility of services for victims of crime nationwide. \n80.  VOCA’s competitive grants are generally governed by 34 U.S.C. § 20103(c), which \nspecifies the purpose of competitive grants. VOCA provides that the OVC Director “shall make \ngrants” for “victim services, demonstration projects, program evaluation, compliance efforts, and \ntraining and technical assistance services to eligible crime victim assistance programs” and “for \n21 \n\nCase 1:25-cv-00404     Document 1     Filed 08/18/25     Page 22 of 50 PageID #: 22\n \nthe financial support of services to victims of Federal crime by eligible crime victim assistance \nprograms.” Id. § 20103(c)(1)(A)-(B). The OVC Director “shall … use funds made available” for \nthese  grants  “pursuant  to  rules  or  guidelines  that  generally  establish  a  publicly-announced, \ncompetitive process.” Id. § 20103(c)(3)(E). The statutory purposes of VOCA competitive grant \nfunds do not relate in any way to immigration enforcement.  \n81.  Congress  has  also  specified  certain  criteria  for  creating  and  awarding  these \ncompetitive grant funds under VOCA. The only relevant restriction that Congress has placed on \nthe use of these funds is that not more than 50 percent of available funds shall be used for support \nof victims of Federal crime. See id. § 20103(c)(2)(A)-(B). Plaintiffs are unaware of OVC ever \nhaving  previously  conditioned  VOCA  competitive  grants  on  States  assisting  with  federal \nimmigration enforcement efforts. \n82.  Several Plaintiff States (including Colorado, Massachusetts, Michigan, New Jersey, \nRhode Island, and Wisconsin) intend to apply for various VOCA competitive grants in FY 2025. \n83.  For example, Rhode Island intends to apply for a VOCA Technology Grant award \nfor continued improvements to the state’s VOICE (Victims Outreach Integrated Community \nEnvironment) System, a secure portal that provides real-time access to cases, offender status, and \nother information to crime victims, advocates, and state agencies. And Wisconsin’s Department of \nJustice intends to apply for a Services for Victims of Crime Grant award to work with the \nUniversity of Wisconsin – Green Bay to fund a project to enhance victim-centered services to older \nadults who have experienced elder abuse, fraud, or exploitation. The project’s goal and expected \noutcome is to unify and coordinate state and local resources, both private and public, to increase \ncapacity  and  coordination  for  victim  identification  and  victim  services,  provide  increased \n22 \n\nCase 1:25-cv-00404     Document 1     Filed 08/18/25     Page 23 of 50 PageID #: 23\n \neducation, and support system reforms to reduce elder financial abuse and exploitation, a large and \nrapidly growing problem in Wisconsin. \nII.  Plaintiffs’ Law Enforcement Policies \n \n84.  Plaintiff States are responsible for maintaining the day-to-day safety of all residents \nof their communities. Plaintiff States enact statutes and establish policies to effectively enforce \nstate and local laws, keep public order, and provide public safety services. See United States v. \nMorrison, 529 U.S. 598, 618 (2000) (“Indeed, we can think of no better example of the police \npower, which the Founders denied the National Government and reposed in the States, than the \nsuppression of violent crime and vindication of its victims.”). \n85.  Many Plaintiff States and their political subdivisions have long enacted laws or \npolicies designed to ensure that state and local law enforcement can focus on fulfilling their core \nmission of public safety and criminal enforcement, including when working with witnesses and \nvictims from local immigrant communities.  \n86.  Evidence and experience teach that undocumented immigrants and their families \nare less willing to engage with law enforcement, even if they have been victims or witnesses to a \ncrime, if their engagement with law enforcement could risk deportation. See, e.g., N.J. Att’y Gen. \nDirective 2018-6 (N.J. Directive) at 1 (recognizing that the fear of engaging with state and local \nlaw enforcement “makes it more difficult for officers to solve crimes and bring suspects to \njustice”);  Cal.  Gov’t  Code  §  7284.2  (finding  that  “immigrant  community  members  fear \napproaching  police”  and  “[e]ntangling  state  and  local  agencies  with  federal  immigration \nenforcement programs diverts already limited resources and blurs the lines of accountability \nbetween local, state, and federal governments”); N.Y. Exec. Order No. 170, Sep. 15, 2017 \n(recognizing that “the reporting of unlawful activity by immigrant witnesses and victims is critical \n23 \n\nCase 1:25-cv-00404     Document 1     Filed 08/18/25     Page 24 of 50 PageID #: 24\n \nto strengthening ties between immigrants and law enforcement, reducing crime, and enhancing the \nState’s ability to protect all residents.”); Wash. Rev. Code § 43.10.315 (recognizing that restricting \nparticipation in federal immigration enforcement “ensure[s] state and law enforcement agencies \nare able to foster the community trust necessary to maintain public safety”).  \n87.  Those concerns have been substantiated, time and again, by law enforcement \nagencies and independent studies. See Cnty. of Ocean v. Grewal, 475 F. Supp. 3d 355, 363 n.5 \n(D.N.J. 2020) (noting “a number of studies that confirm that immigration-related fears prevent \nindividuals from reporting crimes”), aff’d sub nom., Ocean Cnty. Bd. of Commissioners v. Att’y \nGen. of State of New Jersey, 8 F.4th 176 (3d Cir. 2021); Rafaela Rodrigues et al., Promoting Access \nto Justice for Immigrant and Limited English Proficient Crime Victims in an Age of Increased \nImmigration  Enforcement:  Initial  Report  from  a  2017  National  Survey  at  72-73,  National \nImmigrant Women’s Advocacy Project (May 3, 2018), available at http://library.niwap.org/wp-\ncontent/uploads/Immigrant-Access-to-Justice-National-Report.pdf. The current Administration’s \npolicies and practices make these concerns even more acute, by making individuals in periods of \nauthorized stay amenable to removal and criminalizing conduct related to immigration status. \n88.  In light of these concerns, several Plaintiff States and local governments have \nadopted policies to ensure that an immigrant can come forward to state and local law enforcement \nagencies when, inter alia, they have been victims or witnesses to a crime, without fear that this \nwill lead to their deportation. See, e.g., N.J. Att’y Gen. Directive 2018-6; 5 Ill. Comp. Stat. § 805/1 \nto /20; Cal. Gov. Code §§ 7282.5, 7284.6; Wash. Rev. Code Ann. § 10.93.160; Colo. Rev. Stat. § \n24-76.6-102 to -103; Conn. Gen. Stat. Ann. § 54-192h; D.C. Code § 24-211.07; Or. Rev. Stat. § \n181A.820; Vt. Stat. Ann. tit. 20, § 4651; N.Y. Exec. Orders 170 and 170.1. Although these various \npolicies are by no means identical, they seek to promote effective state and local law enforcement \n24 \n\nCase 1:25-cv-00404     Document 1     Filed 08/18/25     Page 25 of 50 PageID #: 25\n \nby ensuring a clear distinction between the roles of state and local officers who enforce state \ncriminal law and federal immigration officers who enforce federal civil immigration law.  \n89.  As relevant, New Jersey’s Immigrant Trust Directive restricts state and local law \nenforcement officers from voluntarily assisting in the civil enforcement of federal immigration \nlaw. For example, it restricts state and local law enforcement officers from participating in civil \nimmigration raids, from providing federal civil immigration officials with access to state or local \nlaw enforcement facilities, and from giving notice to officials of certain low-level detainees’ \nupcoming release dates from state custody. Issued by the New Jersey Attorney General, the State’s \nchief law enforcement officer, the Directive carries the force of law and is binding on all New \nJersey law enforcement agencies. It is designed to help communities draw a clear distinction \nbetween state and local officers who enforce state criminal law, and federal immigration officers \nwho enforce federal civil immigration law. See N.J. Directive at 3-4.  \n90.  Similarly, Illinois has codified its commitment to building trust between immigrant \ncommunities and state and local law enforcement officers in the TRUST Act, which was enacted \nin 2017 by the Illinois General Assembly and signed into law by Bruce Rauner, then the Republican \nGovernor of Illinois. The TRUST Act provides that law enforcement agencies and officers in \nIllinois may not detain a person solely on the basis of an “immigration detainer” or a civil \nimmigration warrant, 5 Ill. Comp. Stat. § 805/15(a), and generally prohibits detaining people solely \non the basis of citizenship or immigration status, id. § 805/15(b). The statute also prohibits state \nand local law enforcement officials from assisting federal immigration agents in any enforcement \noperations, id. § 805/15(h)(1); providing access to detained individuals to immigration agents, id. \n§ 805/15(h)(2); and giving immigration agents non-public information about the release dates of \ndetained individuals, id. § 805/15(h)(7). \n25 \n\nCase 1:25-cv-00404     Document 1     Filed 08/18/25     Page 26 of 50 PageID #: 26\n \n91.  Likewise, in 2017, California enacted Senate Bill 54, known as the California \nValues Act, Cal. Gov’t Code §§ 7284-7284.12, to “foster trust between California’s immigrant \ncommunity and state and local agencies;” to “ensure effective policing, to protect the safety, well-\nbeing, and constitutional rights of the people of California”; and “to direct the state’s limited \nresources  to  matters  of  greatest  concern  to  state  and  local  governments.”  Id.  §  7284.2.  In \nfurtherance of those objectives, the Values Act sets the parameters under which California law \nenforcement agencies may assist in immigration enforcement. For example, the Values Act: (a) \nprohibits  compliance  with  detainer  hold  requests,  id.  §  7284.6(a)(1)(B);  (b)  defines  when \nCalifornia law enforcement agencies may comply with requests by immigration authorities seeking \nthe release date and time of a person in advance of the person’s release, i.e., notification requests, \nid. §§ 7282.5(a), 7284.6(a)(1)(C); (c) defines when California law enforcement agencies may \ntransfer an individual to immigration authorities—including when authorized by a judicial warrant \nor judicial probable cause determination, id. §§ 7282.5(a), 7284.6(a)(4); and (d) restricts California \nlaw enforcement agencies from “[p]roviding personal information ... about an individual” for \n“immigration  enforcement  purposes,”  unless  that  information  is  publicly  available,  id.  § \n7284.6(a)(1)(D). \n92.  Some States have likewise determined that diverting their resources to engaging in \nunnecessary inquiries into individuals’ immigration status, fulfilling information requests by \nfederal immigration officials not required by law, or facilitating civil immigration arrests in state \nbuildings will interfere with important public functions and should be limited. See, e.g., 11 Del. § \n8402B; New York Exec. Order 170 (Sept. 15, 2017); New York Exec. Order 170.1 (Apr. 25, 2018); \nWash. Rev. Code § 10.93.160(2) (“The legislature finds that it is not the primary purpose of state \n26 \n\nCase 1:25-cv-00404     Document 1     Filed 08/18/25     Page 27 of 50 PageID #: 27\n \nand  local  law  enforcement  agencies  or  school  resources  officers  to  enforce  civil  federal \nimmigration law.”).  \n93.  Of course, there are important exceptions. Most obviously, although not every state \nstatute or policy is the same, a range of Plaintiff States authorize state and local law enforcement \nto collaborate with federal civil immigration officials in order to facilitate the removal of violent \ncriminals. See, e.g., N.J. Directive at §§ II.B.5-6 (authorizing law enforcement agencies to provide \ncivil immigration authorities with notice of the release date, and to continue the detention of, any \ninmate or detainee convicted of any crime in the last five years or who is charged with or has ever \nbeen convicted of serious or violent offenses); Cal. Gov’t Code §§ 7284.6(a)(1)(C), 7282.5(a)(1) \n(permitting law enforcement agencies to respond to requests from immigration authorities for \nnotice of the release date of an individual who has been convicted of a serious or violent felony); \n5 Ill. Comp. Stat. § 805/15(i) (allowing law enforcement officials to cooperate in criminal \ninvestigations conducted by federal immigration authorities). \n94.  Many of these state policies also include express exceptions confirming that state \nand local officials must comply with the law, including clarifications that, inter alia: (i) state and \nlocal law enforcement will support federal civil immigration authorities “when required to do so \nby law,” including to comply with federal court orders (such as a removal order signed by a federal \njudge) and judicially issued arrest warrants, N.J. Directive at 1-2; 5 Ill. Comp. Stat. § 805/15(h); \nCal Gov’t Code §§ 7282.5(a), 7284.6(a)(4); 11 Del. C. § 8402B(c); New York Exec. Order 170 \n(Sept. 15, 2017); Wash. Rev. Code § 10.93.160(16); and (ii) state and local law enforcement are in \nno way restricted from sharing with federal civil immigration authorities the citizenship or \nimmigration status of any individual, N.J. Directive at § II.C.10 (citing 8 U.S.C. §§ 1373 and \n27 \n\nCase 1:25-cv-00404     Document 1     Filed 08/18/25     Page 28 of 50 PageID #: 28\n \n1664); 5 Ill. Comp. Stat. § 805/5; Cal Gov’t Code § 7284.6(e); Wash. Rev. Code § 43.17.425; \nWash. Sess. Laws of 2019, ch. 440, § 8.  \n95.  Many of these measures have been in place for several years. For example, New \nJersey adopted its policy in November 2018. See N.J. Directive at 1. Illinois and California enacted \ntheir laws in 2017. New York’s EO 170 has been in place since 2017. Washington’s law was \nenacted in 2019. Oregon’s law was enacted in 2021.  \n96.  Plaintiffs’ policies have sometimes been challenged in court, and to date, they have \nbeen consistently upheld. See, e.g., Ocean Cnty., 8 F.4th at 182; United States v. New Jersey, Civ. \nNo. 2013-64, 2021 WL 252270, at *1 (D.N.J. Jan. 26, 2021); United States v. California, 921 F.3d \n865, 873 (9th Cir. 2019); McHenry Cnty. v. Raoul, 44 F.4th 581, 594 (7th Cir. 2022); United States \nv. Illinois, Civ. No. 25-1285, slip op. at 1 (N.D. Ill. July 25, 2025). \n97.  Although other Plaintiff States do not have statewide directives regarding the use \nof law-enforcement resources to assist in federal immigration law (meaning that they do not have \nany statewide limitations on the use of law-enforcement resources to assist in the enforcement of \nfederal immigration law), they nonetheless do not impose categorical requirements that state and \nlocal law-enforcement officers provide on-demand assistance to federal immigration authorities \neither.  Many  of  these  States  have  concluded  that  they  can  best  protect  their  residents  by \nmaintaining control over state and local law-enforcement resources and/or by empowering law-\nenforcement officials to exercise discretion in determining when it would best promote public \nsafety to assist federal immigration-enforcement efforts, rather than affirmatively requiring law \nenforcement officers to devote state and local resources to federal immigration enforcement on the \nfederal government’s command.  \n28 \n\nCase 1:25-cv-00404     Document 1     Filed 08/18/25     Page 29 of 50 PageID #: 29\n \n98.  Other States are subject to different rules. For instance, some Plaintiff States must \ncomply with state court rulings that restrict their cooperation with civil immigration detainer \nrequests. See, e.g., Lunn v. Commonwealth, 78 N.E.3d 1143, 1146 (Mass. 2017). Still other Plaintiff \nStates have concluded that participating in federal immigration-enforcement efforts imposes \nsubstantial costs on local jurisdictions, not only in the form of personnel and resources but also in \nthe form of potential civil liability.  \n99.  While Plaintiff States’ decisions in this area have differed, all are consistent with \nthe basic rule that the States “remain independent and autonomous within their proper sphere of \nauthority,” Printz v. United States, 521 U.S. 898, 928 (1997)—a principle that has no greater force \nthan in the context of States’ exercise of their police powers for the protection of their residents. \nIII.  The Challenged Grant Conditions \n100.  On Inauguration Day, January 20, 2025, President Donald J. Trump issued an \nexecutive order directing the Attorney General and Secretary of Homeland Security to “ensure that \nso-called ‘sanctuary’ jurisdictions … do not receive access to Federal funds” and to take “any other \nlawful actions, criminal or civil, that they deem warranted.” Exec. Order No. 14159, 90 C.F.R. \n8443 (2025).  \n101.  The following day, then-Acting Deputy Attorney General Emil Bove issued a \nmemorandum to USDOJ employees asserting that “[f]ederal law prohibits state and local actors \nfrom resisting, obstructing, and otherwise failing to comply with lawful immigration-related \ncommands and requests,” and immediately requiring all USDOJ employees to “work with the \nnewly established Sanctuary Cities Enforcement Working Group … to identify state and local \nlaws, policies, and activities that are inconsistent with Executive Branch immigration initiatives \nand, where appropriate, to take legal action to challenge such laws.” That directive further required \nthat U.S. Attorney’s Offices and USDOJ litigating components “shall investigate … for potential \n29 \n\nCase 1:25-cv-00404     Document 1     Filed 08/18/25     Page 30 of 50 PageID #: 30\n \nprosecution”  any  and  all  “resistance,  obstruction,  or  other  non-compliance  with  lawful \nimmigration-related commands.”  \n102.  On February 5, 2025, the day after she was confirmed as U.S. Attorney General, \nPamela Bondi issued a memorandum to USDOJ, titled “Sanctuary Jurisdiction Directives” (the \n“Bondi Directive”), that directed USDOJ to undertake wide-ranging efforts to punish “so-called \n‘sanctuary jurisdictions’” for failing to assist in federal immigration enforcement. The Bondi \nDirective required USDOJ attorneys to evaluate “all contracts, grants, or other agreements with \norganizations that support or provide services to removable or illegal aliens” for their potential \ntermination.  The  Bondi  Directive  instructed  USDOJ  attorneys  to  investigate  and  prosecute \n“violations of federal laws such as 18 U.S.C. § 371 and 8 U.S.C. §§ 1324 and 1373,” to promptly \nreport declination decisions to USDOJ leadership, and to investigate and challenge state and local \nlaws and policies “that facilitate violations of federal immigration laws or impede lawful federal \nimmigration operations.”  \n103.  “In furtherance of that objective,” the Bondi Directive declares: \n[T]he Department of Justice will ensure that, consistent with law, \n‘sanctuary jurisdictions’ do not receive access to Federal funds from \nthe Department. Consistent with applicable statutes, regulations, \ncourt orders, and terms, the Department of Justice shall pause the \ndistribution of all funds until a review has been completed, terminate \nany agreements that are in violation of law or are the source of \nwaste,  fraud,  or  abuse,  and  initiate  clawback  or  recoupment \nprocedures, where appropriate. \n \n104.  The Bondi Directive further reiterated that “[s]anctuary jurisdictions should not \nreceive access to federal grants administered by the Department of Justice.” \n105.  USDOJ’s grant-funding offices proceeded to give effect to the Administration’s \ndirectives requiring States to cooperate with federal civil immigration-enforcement efforts.  \n30 \n\nCase 1:25-cv-00404     Document 1     Filed 08/18/25     Page 31 of 50 PageID #: 31\n \n106.  OVC has adopted a policy, which it has implemented across all OVC-administered \ngrants, of refusing to allow grant recipients to use any awarded funds for victim compensation and \nassistance unless the grant recipients agree to broadly support and assist federal immigration \nenforcement by DHS. \n107.  On July 21, 2025, OVC issued Notices of Funding Opportunity (NOFOs) for its \nVictim Compensation Formula Grant, Ex. 1, Victim Assistance Formula Grant, Ex. 2, and various \ncompetitive grants, e.g., Ex. 3, specifying new immigration-related conditions on issuance of \nfunding for FY 2025.  \n108.  In accordance with OVC’s policy, every one of the OVC NOFOs provides, in \nrelevant part, that “[a]ny program or activity that, directly or indirectly, violates (or promotes or \nfacilitates the violation of) federal immigration law (including 8 U.S.C. § 1373) or impedes or \nhinders the enforcement of federal immigration law—including by failing to comply with 8 U.S.C. \n§ 1373, give access to DHS agents, or honor DHS requests and provide requested notice to DHS \nagents” is “out of the program scope and will not be funded” (collectively, the “Immigration \nEnforcement Conditions” or “Conditions”). Ex. 1 at 8; Ex. 2 at 9; Ex. 3 at 9-10.  \n109.  Although styled as a restriction on the “unallowable use of funds,” this language \nfunctions as an eligibility requirement: OVC “will not … fund” “[a]ny program or activity” unless \nit agrees to (1) provide notice to DHS agents on demand, (2) give unfettered access to DHS agents, \n(3) comply with 8 U.S.C. § 1373, and (4) honor any and all DHS requests. Further, funds will not \nbe provided to any program if DHS concludes that the program is directly or indirectly “imped[ing] \nor hinder[ing] enforcement of federal immigration law” in any other way. The NOFOs impose all \nof these requirements on any and all FY 2025 grant awards under VOCA. \n31 \n\nCase 1:25-cv-00404     Document 1     Filed 08/18/25     Page 32 of 50 PageID #: 32\n \n110.  The NOFOs do not explain what, if any, limits exist on the “notice” and “access” \nthat must be provided and the “requests” that must be honored. The NOFOs also do not define \n“program or activity” or “promoting or facilitating.” And it is unclear what an “indirect” violation \nof the immigration laws (or “indirectly” promoting or facilitating a violation of the immigration \nlaws)  constitutes.  On  their  face,  however,  the  Conditions  would  require  States  to  provide \ninformation about, and access to, victims with whom States may interact in operating their victim \nservices programs, that DHS is targeting for potential immigration enforcement.  \n111.  States are responsible for operating the victim compensation programs that are \nfunded by the Victim Compensation Formula Grant. They or their subdivisions are likewise \nresponsible for operating many of the victim assistance programs that are funded by the Victim \nAssistance Formula Grant. The Immigration Enforcement Conditions thus burden States directly, \ndenying them access to funding on which they have long relied, unless they either abandon policies \nthat affirmatively limit their role in civil immigration enforcement or cease providing discretion to \nstate officials on when and whether to participate in federal immigration enforcement.  \n112.  The  Immigration  Enforcement  Conditions  also  burden  and  constrain  Plaintiff \nStates’ ability to select the subgrantees of their choice, as States will be barred from choosing \nsubgrantees that will not comply with the Conditions. In addition, States are required to monitor \ntheir subrecipients’ compliance with subaward conditions. See 2 C.F.R. § 200.332(e). Each \nPlaintiff subawards Victim Assistance funds to dozens of subrecipients—with some States issuing \nsubawards to well over one hundred different public agencies and organizations. Monitoring \nsubgrantees’ compliance with the Conditions would impose a substantial new burden on States. \n113.  Consistent with the Bondi Directive, other components within USDOJ have begun \nto  incorporate  immigration-related  conditions  into  their  grants.  For  example,  the  Office  on \n32 \n\nCase 1:25-cv-00404     Document 1     Filed 08/18/25     Page 33 of 50 PageID #: 33\n \nViolence Against Women administers formula grant funds provided under the Violence Against \nWomen Act (VAWA). In May 2025, the Office on Violence Against Women issued NOFOs that \nincluded a list of activities that the Office now believes cannot be funded because they are out of \nthe  VAWA  grant-funding  program’s  scope,  including  activities  related  to  the  immigrant \npopulations that those grants are intended to serve. Those new out-of-scope activities included, \namong other things, “[p]rograms that discourage collaboration with law enforcement or oppose or \nlimit the role of police, prosecutors, or immigration enforcement in addressing violence against \nwomen.” A coalition of non-profit organizations that had previously received federal funds through \nVAWA-authorized grants challenged these out-of-scope activities conditions and recently obtained \na preliminary stay of those conditions. See Rhode Island Coalition Against Domestic Violence v. \nBondi, Civ. No. 25-279, Dkt. No. 34 (D.R.I. Aug. 8, 2025). \nIV.  The Immigration Enforcement Conditions Are Unlawful.  \n114.  The Immigration Enforcement Conditions are unlawful for multiple, independent \nreasons: USDOJ lacks requisite statutory authority to impose them; their imposition was arbitrary \nand capricious; and even if authorized by statute, they violate the Spending Clause. \n115.  First, USDOJ has no statutory authority to impose the Immigration Enforcement \nConditions.  USDOJ’s  “power  to  act  is  ‘authoritatively  prescribed  by  Congress.’”  City  of \nProvidence v. Barr, 954 F.3d 23, 31 (1st Cir. 2020) (quoting City of Arlington v. FCC, 569 U.S. \n290, 297 (2013)). USDOJ “literally has no power to act … unless and until Congress confers power \nupon it.” Id. (quoting La. Pub. Serv. Comm’n, 476 U.S. at 374). Not only do Executive Branch \nagencies violate the law when they act without a congressional grant of authority, but that statutory \nauthority must be clearly stated where the executive branch would upset any federal-state balance \nof power. See Gregory, 501 U.S. at 461. Here, these principles are fatal to the Immigration \n33 \n\nCase 1:25-cv-00404     Document 1     Filed 08/18/25     Page 34 of 50 PageID #: 34\n \nEnforcement  Conditions:  no  statutes,  including  the  statutes  that  authorize  the VOCA  grant \nprograms, furnish USDOJ the authority to impose the Conditions.  \n116.  Initially, the statutes defining the duties of the leader of USDOJ’s Office of Justice \nPrograms, its largest grantmaking entity, and of the Director of OVC do not grant these officials \nfreestanding authority to impose the Immigration Enforcement Conditions. See, e.g., 34 U.S.C. § \n20111(c). \n117.  The statutes directing OVC to provide formula grants to the States likewise do not \nauthorize the Immigration Enforcement Conditions. Rather, those laws expressly set forth the \ncriteria for eligibility for the VOCA formula grants and fixed a formula for determining the \nallocation of awards to the States. See Providence, 954 F.3d at 34-35. And those criteria do not \ninclude any demands relating to federal immigration enforcement. In addition, the federal statutes \nauthorizing VOCA  competitive  grants  do  not  give  USDOJ  unfettered  discretion  to  impose \nconditions that have no nexus to the purpose and nature of the grant programs, as defined by \nstatute. Here, nothing in the authorizing statute suggests that VOCA grant funds are intended to \nsupport federal civil immigration enforcement. \n118.  8  U.S.C.  §  1373  also  does  not  authorize  OVC  to  impose  the  Immigration \nEnforcement Conditions on these grants. Section 1373(a) prohibits States and local governments \nfrom  restricting  the  sharing  of  citizenship  or  immigration  status  information  with  federal \nimmigration authorities, but it does not require States or local governments to provide the type of \nassistance mandated by the Conditions, nor does it in any way concern the receipt of federal funds. \n119.  In addition to being contrary to VOCA, the Immigration Enforcement Conditions \nare contrary to 34 U.S.C. § 10228(a), which states that “[n]othing in this chapter or any other Act \nshall be construed to authorize any department, agency, officer, or employee of the United States \n34 \n\nCase 1:25-cv-00404     Document 1     Filed 08/18/25     Page 35 of 50 PageID #: 35\n \nto exercise any direction, supervision, or control over any police force or any other criminal justice \nagency of any State or any political subdivision thereof.” 34 U.S.C. § 10228(a). The Conditions \nare vague but appear to require, at least, that state recipients give DHS agents access to detainees, \nprovide DHS agents with notice of when such detainees are released from custody, and otherwise \nhonor DHS requests—and warn that if any of these requirements are not met the recipient’s victim-\nservices programs and activities “will not be funded.” But that is the type of federal “direction, \nsupervision, or control” over state police and criminal justice agencies that section 10228(a) \nforbids.  \n120.  The Immigration Enforcement Conditions therefore violate Congress’s carefully \ndesigned statutory schemes for these VOCA grant programs. USDOJ cannot cite a clear statement \nof statutory authority to justify imposition of the Immigration Enforcement Conditions.  \n121.  Second, the Immigration Enforcement Conditions are arbitrary and capricious \nagency action in violation of the APA, which requires that agencies’ decisions be supported by a \nrational connection between the choice made and the facts underlying that choice, and that any \ndeviation from agency policy be supported by a reasoned explanation or justification. In imposing \nthe Immigration Enforcement Conditions, USDOJ arbitrarily relied on immigration-related factors \nthat Congress did not authorize it to rely on in allocating federal grant monies to support victims. \nIndeed, by conscripting victim services’ programs into federal immigration enforcement, the \nConditions would undermine the federal policy under VOCA as expressed in USDOJ’s own \nregulations  stating  that  victim  eligibility  for  assistance  “is  not  dependent  on  the  victim’s \nimmigration status,” 28 C.F.R. § 94.103(a), and would undermine rather than support state and \nlocal efforts to assist victims without regard to their immigration status. Further, USDOJ failed to \nconsider the States’ reliance interests in their continued receipt of congressionally authorized \n35 \n\nCase 1:25-cv-00404     Document 1     Filed 08/18/25     Page 36 of 50 PageID #: 36\n \nfunding  on  an  annual  basis  to  support  ongoing  state-run  victim  services  programs  and  in \nmaintaining policies that promote public safety by ensuring trust with immigrant communities.  \n122.  Third, even if the Immigration Enforcement Conditions had been authorized by \nCongress, they would exceed Congress’s authority under the Spending Clause. Where, as here, a \nnew funding condition is unrelated to existing uses of federal funds, is so ambiguous as to prevent \nStates from exercising their choice knowingly as to whether to comply, and instead serves only to \ncoerce unwilling States to implement some other federal policy objective, it cannot be justified \nunder the Spending Clause.  \nV.  The Immigration Enforcement Conditions Harm The States. \n123.  USDOJ’s  imposition  of  the  Immigration  Enforcement  Conditions  causes \nsignificant harm to Plaintiff States by subjecting them to an impossible dilemma: either forego \ncontrol over use of their own law enforcement resources and allow the federal government to \ninvade their sovereign right to determine how best to exercise state police power, or forego \nhundreds of millions in critical federal funds that are necessary to sustain ongoing state victim-\nservices programs.  \n124.  Plaintiffs have long relied on federal VOCA funding to support critical victim \nservices—from medical expenses, funeral expenses, crime-scene cleanup, sexual assault forensic \nexams, victim and witness advocacy services, counseling, and emergency shelter, among other \nforms of compensation and assistance provided to crime victims and their families. Plaintiff States \nhave had access to this funding for decades and reasonably expected that they would continue to \nbe able to do so. That is especially true for the Victim Compensation and Assistance Formula \nGrants,  which  promise  allocations  each  year  based  on  settled  criteria  defined  by  statute—\n36 \n\nCase 1:25-cv-00404     Document 1     Filed 08/18/25     Page 37 of 50 PageID #: 37\n \nallocations  that  Plaintiffs  States  reasonably  anticipate  unless  Congress  itself  amends  those \nstatutory provisions. \n125.  With VOCA  formula  grant  awards  open  for  four  years,  Plaintiff  States  have \nsustained  multi-year  compensation  and  assistance  efforts  that  would  be  interrupted  by  any \ndisruption in funding. State compensation programs issue awards that crime victims can spend \ndown over a multi-year period for a variety of expenses, and States closely coordinate their \nassistance programs and support multi-year projects with victim-services providers based on the \nreasonable expectation that they can rely on consistent federal formula funding for these activities. \n126.  In short, lapses in grant funding, even if temporary, would result in the sudden and \nmassive disruption of state victim services programs that have historically been supported by \nUSDOJ grant funds.  \n127.  The consequences of such a disruption would be disastrous for Plaintiff States. In \nFY 2024 alone, VOCA compensation funding supported Plaintiff States in making over $191 \nmillion in payments to over 88,000 victims of crime, and VOCA assistance funding supported \nPlaintiff  States  in  subawarding  over  $1.2  billion  in  funding  to  public  agencies  and  local \ncommunity-based organizations, which, in turn, provided services to over 2.8 million individual \nvictims of crime.   \n128.  For example, New Jersey has received between $30 million and $94 million in \nVOCA funding for each of the past 10 years. Loss of grant funding, even for just a single fiscal \nyear, would require New Jersey to significantly scale back its victim compensation and assistance \ninitiatives, undermining the State’s ability to provide victim services to some of its most vulnerable \nresidents and harming crime victims and their families. Likewise, California has received over \n$487 million in VOCA Assistance and Compensation Grant funds from FY 2022 to 2024, and its \n37 \n\nCase 1:25-cv-00404     Document 1     Filed 08/18/25     Page 38 of 50 PageID #: 38\n \nanticipated allocation for FY 2025 is $165,356,925. If California does not receive USDOJ grant \nfunds in FY 2025, it will soon have to reduce the funding it provides to existing victim-assistance \nprograms and will have to eliminate some programs altogether.  \n129.  Other Plaintiff States receive similarly substantial sums annually, and the loss of \neven one fiscal year of funding would have an immediate impact on their victim compensation and \nvictim assistance work: requiring them to reduce or to delay the availability of critical services to \nvictims. Among other things, this could result in unsafe conditions for victims and their families. \nFurthermore, this loss in VOCA funding and curtailment of victim support services would likely \nimpact  victims’  willingness  to  cooperate  with  law  enforcement  and  adversely  impact  law \nenforcement efforts throughout the State.  \n130.  Nor can Plaintiffs simply avoid these harms by acceding to the Immigration \nEnforcement  Conditions,  because  doing  so  would  subject  the  States  to  equally  grave  and \nirreparable harms.  \n131.  If Plaintiff States were to accept the Conditions, they would lose their abilities as \nsovereigns  to  maintain  what  evidence  and  experience  have  taught  them  are  optimal  law \nenforcement policies—including the ability to determine on a case-by-case basis if an inquiry into \nwhether a witness or victim lacks lawful immigration status will promote or harm public safety.  \n132.  USDOJ’s  imposition  of  the  Immigration  Enforcement  Conditions  thus  puts \nPlaintiff States in the untenable position of having to choose between refusing to comply with the \nunauthorized Conditions and facing substantial program disruption and loss of crucial federal \nfunding, or forfeiting their law enforcement discretion and control of their law enforcement \nagencies by complying with the Conditions.  \n38 \n\nCase 1:25-cv-00404     Document 1     Filed 08/18/25     Page 39 of 50 PageID #: 39\n \n133.  Moreover, the harms threatened by the Immigration Enforcement Conditions are \nimminent and require urgent relief. Plaintiffs’ applications for both VOCA formula grants and all \nbut one of the VOCA competitive grants are due on August 20, and OVC plans to issue funding \nawards by the end of the Federal Fiscal Year on September 30. If USDOJ refuses to award funds \nto Plaintiff States that do not comply with the Immigration Enforcement Conditions, the window \nfor Plaintiffs to have secured FY 2025 VOCA funding will have passed. As a result, even if \nPlaintiffs ultimately prevail in having the Conditions vacated and declared unlawful, critical \nprograms for victims and survivors that have long been supported by USDOJ grants will be \nirreparably disrupted. \n134.  The imminent harms that would flow from Plaintiff States’ loss of VOCA funding \ncannot be remedied by payment of damages at the conclusion of this litigation. Initially, sovereign \nimmunity would prevent Plaintiffs from recovering damages against the federal government. And \neven if such damages were ultimately recoverable, even a short-term disruption to Plaintiff States’ \naccess to federal VOCA funding would require Plaintiffs to cut back significantly their vital victim-\nservices programs and activities. \n135.  Curtailing victim assistance programs would likely make States unable to support \nmany critical and time-sensitive services, including maintaining emergency hotlines, deploying \nsexual assault response teams, and providing notification to victims when perpetrators are released \nfrom incarceration. And it could interrupt the long-running efforts of victim and witness advocates \nto maintain relationships that ensure the continued engagement required for successful criminal \nprosecutions and civil restraining order proceedings. It would also result in harms to victims of \ncrime and their families—the persons the state programs are meant to assist—especially because \nstate victim compensation programs act as payors of last resort, paying for expenses only when \n39 \n\nCase 1:25-cv-00404     Document 1     Filed 08/18/25     Page 40 of 50 PageID #: 40\n \ncrime  victims  have  no  other  option.  Interrupting  such  payments  would  likely  result  in  the \ninterruption of ongoing courses of medical treatment or mental-health counseling, and lead crime \nvictims to be unable to afford time-sensitive services, such as funerals, burials, and crime-scene \nclean-up. \n136.  Urgent relief from this Court is therefore required to avert the immediate and \nirreparable harm that would result from States being forced to choose either of the two equally \nuntenable options presented by USDOJ’s imposition of the Conditions.  \nFIRST CAUSE OF ACTION \nViolation of Administrative Procedure Act \nAgency Action In Excess of Statutory Authority and Contrary to Law \n \n137.  Plaintiffs reallege and incorporate by reference the allegations set forth in each of \nthe preceding paragraphs. \n138.  The APA requires that a court “hold unlawful and set aside agency action” that is \n“in excess of statutory jurisdiction, authority, or limitations, or short of statutory right,” 5 U.S.C. \n§ 706(2)(C), or that is “not in accordance with law,” id. § 706(2)(A). \n139.  Defendants have no statutory authority to impose the Immigration Enforcement \nConditions. The statutes authorizing Defendants to administer the VOCA grant programs lay out \na specific set of eligibility criteria, none of which authorize the imposition of these conditions. See \n34 U.S.C. §§ 20102(b), 20103(b). Nor does any other statute authorize USDOJ to impose these \nConditions on VOCA grants.  \n140.  Further,  Defendants’  adoption  of  the  Immigration  Enforcement  Conditions  is \ncontrary to specific statutory provisions. See 34 U.S.C. § 20102(a) (requiring that the OVC \nDirector “shall make an annual grant from the Fund to an eligible crime victim compensation \nprogram”); 34 U.S.C. § 20103(a) (requiring that the OVC Director “shall make an annual grant \n40 \n\nCase 1:25-cv-00404     Document 1     Filed 08/18/25     Page 41 of 50 PageID #: 41\n \nfrom any portion of the Fund … to the chief executive of each State for the financial support of \neligible crime victim assistance programs”); see also 34 U.S.C. § 10228(a) (“Nothing in this \nchapter or any other Act shall be construed to authorize any department, agency, officer, or \nemployee of the United States to exercise any direction, supervision, or control over any police \nforce or any other criminal justice agency of any State or any political subdivision thereof.”). \n141.  Defendants have therefore exceeded their statutory authority and acted contrary to \nlaw in adopting the Immigration Enforcement Conditions.  \n142.  The Immigration Enforcement Conditions will cause significant, imminent, and \nirreparable harm to Plaintiff States. \nSECOND CAUSE OF ACTION \n \nUltra Vires Agency Action \n \n143.  Plaintiffs reallege and incorporate by reference the allegations set forth in each of \nthe preceding paragraphs. \n144.  Defendants may exercise only that authority which is conferred by statute. See City \nof Arlington v. FCC, 569 U.S. 290, 297-98 (2013). When an Executive agency acts in a manner \nthat violates a specific statutory provision, such agency action is ultra vires. Nuclear Regul. \nComm’n v. Texas, 605 U.S. 665, 681 (2025). \n145.  The Immigration Enforcement Conditions violate specific statutory provisions. See \n34 U.S.C. § 20102(a) (requiring that the OVC Director “shall make an annual grant from the Fund \nto an eligible crime victim compensation program”); 34 U.S.C. § 20103(a) (requiring that the OVC \nDirector “shall make an annual grant from any portion of the Fund … to the chief executive of \neach State for the financial support of eligible crime victim assistance programs”); see also 34 \nU.S.C. § 10228(a) (“Nothing in this chapter or any other Act shall be construed to authorize any \n41 \n\nCase 1:25-cv-00404     Document 1     Filed 08/18/25     Page 42 of 50 PageID #: 42\n \ndepartment,  agency,  officer,  or  employee  of  the  United  States  to  exercise  any  direction, \nsupervision, or control over any police force or any other criminal justice agency of any State or \nany political subdivision thereof.”). \n146.  The Immigration Enforcement Conditions impose new eligibility criteria on VOCA \ngrant funding that are contrary to the criteria set forth in VOCA. In doing so, they violate specific \nfederal statutory provisions and constitute ultra vires agency action.  \n147.  The Immigration Enforcement Conditions will cause significant, imminent, and \nirreparable harm to Plaintiff States. \nTHIRD CAUSE OF ACTION \n \nViolation of U.S. Constitution \nSeparation of Powers \n \n148.  Plaintiffs reallege and incorporate by reference the allegations set forth in each of \nthe preceding paragraphs. \n149.  The Constitution vests the spending power in Congress, not in the President or in \nany executive agency. U.S. Const. art. I, § 8, cl. 1. An executive agency therefore does not have \nunilateral authority to refuse to spend funds that Congress has directed it to disburse. And an \nexecutive agency likewise lacks authority to condition funds on satisfaction of eligibility criteria \nother than the ones that Congress authorized it to impose.  \n150.  Defendants  acted  without  statutory  or  constitutional  authority  to  impose  the \nImmigration Enforcement Conditions. Imposing these Conditions on the VOCA grant programs \namounts to refusing to spend money that Congress intends to be used for crime victims until the \nConditions are satisfied. Therefore, Defendants’ imposition of the Immigration Enforcement \nConditions amounts to improper usurpation of Congress’s spending power by the Executive \nBranch.  \n42 \n\nCase 1:25-cv-00404     Document 1     Filed 08/18/25     Page 43 of 50 PageID #: 43\n \n151.  The Immigration Enforcement Conditions will cause significant, imminent, and \nirreparable harm to Plaintiff States. \nFOURTH CAUSE OF ACTION \n \nViolation of Administrative Procedure Act \nArbitrary and Capricious Agency Action \n \n152.  Plaintiffs reallege and incorporate by reference the allegations set forth in each of \nthe preceding paragraphs. \n153.  Under the APA, a court must “hold unlawful and set aside agency action” that is \n“arbitrary, capricious, an abuse of discretion, or otherwise not in accordance with the law,” 5 \nU.S.C. § 706(2)(A); see Motor Vehicle Mfrs. Ass’n of U.S., Inc. v. State Farm Mut. Auto. Ins. Co., \n463 U.S. 29, 52 (1983) (agency action must be supported by a “rational connection between the \nfacts found and the choice made” (citation omitted)); FCC v. Fox Television Stations, Inc., 556 \nU.S. 502, 515 (2009) (agency must provide “reasoned explanation” for departing from prior policy \nand must provide “a more detailed justification than what would suffice for a new policy” when \n“its prior policy has engendered serious reliance interests that must be taken into account”).  \n154.  In imposing the Immigration Enforcement Conditions, Defendants failed to account \nfor the States’ reliance on these congressionally approved grants and the harms the States and their \nresidents will suffer if they are forced to scale back services for crime victims or abandon their law \nenforcement policies. Defendants also imposed conditions based on immigration policy concerns \nthat Congress plainly did not intend the agency to consider in deciding how to administer the \nprogram. Further, Defendants failed to consider how the Conditions would undermine rather than \nsupport VOCA’s goal of assisting crime victims. Individually and taken together, these errors all \nrender the agency’s imposition of the Conditions arbitrary and capricious. \n43 \n\nCase 1:25-cv-00404     Document 1     Filed 08/18/25     Page 44 of 50 PageID #: 44\n \n155.  The Immigration Enforcement Conditions will cause significant, imminent, and \nirreparable harm to Plaintiff States. \nFIFTH CAUSE OF ACTION \n \nViolation of U.S. Constitution \nSpending Clause \n \n156.  Plaintiffs reallege and incorporate by reference the allegations set forth in each of \nthe preceding paragraphs. \n157.  The Constitution vests the spending power in Congress, not the President or any \nexecutive agency. U.S. Const. art. I, § 8, cl. 1. \n158.  Even if Congress had (contrary to Counts 1 and 2) delegated to Defendants power \nto impose the Immigration Enforcement Conditions, the Constitution prohibits grant conditions \nthat are not reasonably related to the purposes of the grants; that are so ambiguous as to prevent \nrecipients from exercising their choice knowingly; or that are “so coercive as to pass the point at \nwhich pressure turns into compulsion.” S. Dakota v. Dole, 483 U.S. 203, 211 (citation omitted) \n(1987). USDOJ violates all three limits here: These Conditions are not related to the purposes of \nVOCA,  supporting  victims  of  crime  through  compensation  and  assistance;  are  improperly \nambiguous  as  to  what  it  means  to  “promote[]”  or  “facilitate[]”  a  violation  of  the  federal \nimmigration  laws,  what  it  means  to  “indirectly”  violate  the  federal  immigration  laws  (or \n“indirectly” promote or facilitate a violation of the immigration laws), what it means to “hinder[]” \nor “impede[]” immigration enforcement, which DHS “requests” Plaintiff States must ”honor,” and \nwhat kind of “notice” they must give and what kind of “access” Plaintiff States must provide; and \ncoercively condition substantial and crucial victims’ grants on federal civil immigration demands.  \n159.  The Immigration Enforcement Conditions will cause significant, imminent, and \nirreparable harm to Plaintiff States.  \n44 \n\nCase 1:25-cv-00404     Document 1     Filed 08/18/25     Page 45 of 50 PageID #: 45\n \nSIXTH CAUSE OF ACTION \nViolation of Administrative Procedure Act \nAgency Action Contrary to Constitutional Right \n160.  Under the APA, a court must “hold unlawful and set aside agency action” that is \n“contrary to constitutional right, power, privilege, or immunity.” 5 U.S.C. § 706(2)(B). \n161.  For the reasons discussed above, the Immigration Enforcement Conditions violate \nthe U.S. Constitution’s separation of powers and Spending Clause. U.S. Const. art. I, § 8, cl. 1. \n162.  The Immigration Enforcement Conditions will cause significant, imminent, and \nirreparable harm to Plaintiff States. \nPRAYER FOR RELIEF \n \nWHEREFORE, Plaintiffs pray that the Court: \na.  Declare that Defendants’ adoption of the Immigration Enforcement Conditions is \ncontrary to the Constitution and federal laws; \nb.  Declare that Defendants’ adoption of the Immigration Enforcement Conditions and any \nactions Defendants, or any agencies or individuals working in concert with Defendants, \ntake to implement or enforce the Conditions violate the Administrative Procedure Act, \nand to the extent that they rely on statutory authority, exceed Congress’s powers under \nthe Spending Clause; \nc.  Preliminarily and permanently enjoin Defendants from implementing or enforcing the \nImmigration  Enforcement  Conditions  against  Plaintiff  States,  including  their \nsubdivisions and instrumentalities; \nd.  Vacate and set aside OVC’s adoption of the Immigration Enforcement Conditions and \nany actions taken by Defendants to implement or enforce them;  \ne.  Retain jurisdiction to monitor Defendants’ compliance with this Court’s judgment; \n45 \n\nCase 1:25-cv-00404     Document 1     Filed 08/18/25     Page 46 of 50 PageID #: 46\n \nf.  Award Plaintiff States their reasonable fees, costs, and expenses, including attorney’s \nfees; and  \ng.  Award such additional relief as this Court may deem just and proper. \nRespectfully submitted, \nMATTHEW J. PLATKIN \n  ATTORNEY GENERAL OF NEW JERSEY \n  \nBy: /s/ Mayur P. Saxena \nJeremy M. Feigenbaum* \n  Solicitor General \nShankar Duraiswamy* \n  Deputy Solicitor General \nMayur P. Saxena* \n  Assistant Attorney General \nSurinder K. Aggarwal* \nBassam F. Gergi* \nAnaiis Gonzalez* \nOlivia C. Mendes* \nPhoenix N. Meyers* \nSarah Nealon* \nDaniel Resler* \nNathaniel F. Rubin*     \n  Deputy Attorneys General \n \nNew Jersey Office of the Attorney General \n124 Halsey Street, 5th Floor \nNewark, NJ 07101 \n(609) 696-5365 \nMayur.Saxena@law.njoag.gov \nAttorneys for the State of New Jersey \n \n46 \n\nCase 1:25-cv-00404     Document 1     Filed 08/18/25     Page 47 of 50 PageID #: 47\n \nPETER F. NERONHA   ROB BONTA \n  ATTORNEY GENERAL OF RHODE ISLAND      ATTORNEY GENERAL OF CALIFORNIA \n   \nBy: /s/ Patrick J. Dolan  Michael L. Newman* \nPatrick J. Dolan (RI No. 10462)      Senior Assistant Attorney General \n  Senior Counsel to the Attorney General  Joel Marrero* \nLeonard Giarrano IV (RI No. 10731)  James E. Stanley* \n  Special Assistant Attorney General     Supervising Deputy Attorneys General \n150 South Main Street   Brandy Doyle* \nProvidence, RI 02903   Luke Freedman* \n(401) 274-4400   Heidi Joya* \nPDolan@riag.ri.gov  Newton Knowles* \nLGiarrano@riag.ri.gov   Deylin Thrift-Viveros* \nAttorneys for the State of Rhode Island  Delbert Tran* \n     Deputy Attorneys General \n \nBy: /s/ Lee I. Sherman \nLee I. Sherman* \n   Deputy Attorney General \nCalifornia Department of Justice \n300 South Spring Street, Suite 1702 \nLos Angeles, CA 90013 \n(213) 269-6000 \nlee.sherman@doj.ca.gov  \nAttorneys for the State of California \n \nKATHLEEN JENNINGS   KWAME RAOUL \n   ATTORNEY GENERAL OF DELAWARE    ATTORNEY GENERAL OF ILLINOIS \n    \nBy: /s/ Vanessa L. Kassab  By: /s/ Alex Hemmer \nIan R. Liston*  Alex Hemmer* \n  Director of Impact Litigation    Deputy Solicitor General \nVanessa L. Kassab*  Christopher G. Wells* \n  Deputy Attorney General    Chief of the Public Interest Division \nRose Gibson*  Michael M. Tresnowski* \n  Assistant Attorney General  R. Henry Weaver* \nDelaware Department of Justice    Assistant Attorneys General \n820 N. French Street  Office of the Illinois Attorney General \nWilmington, DE 19801  115 LaSalle Street \n(302) 683-8899  Chicago, IL 60603 \nvanessa.kassab@delaware.gov    (773) 590-7932 \nAttorneys for the State of Delaware  alex.hemmer@ilag.gov  \n  Attorneys for the State of Illinois \n \n47 \n\nCase 1:25-cv-00404     Document 1     Filed 08/18/25     Page 48 of 50 PageID #: 48\n \nPHILIP J. WEISER   WILLIAM TONG \n  ATTORNEY GENERAL OF COLORADO    ATTORNEY GENERAL OF CONNECTICUT  \n    \nBy: /s/ David Moskowitz  By: /s/ Ashley Meskill \nDavid Moskowitz*  Ashley Meskill* \n  Deputy Solicitor General    Assistant Attorney General \nColorado Department of Law   Connecticut Office of the Attorney General \n1300 Broadway, 10th Floor   165 Capitol Avenue \nDenver, CO 80203   Hartford, CT 06106 \n(720) 508-6000   (860) 808-5270 \ndavid.moskowitz@coag.gov  ashley.meskill@ct.gov  \nAttorneys for the State of Colorado  Attorneys for the State of Connecticut \n   \nBRIAN L. SCHWALB  ANNE E. LOPEZ \n  ATTORNEY  GENERAL  OF  THE  DISTRICT  OF    ATTORNEY GENERAL OF HAWAIʻI \nCOLUMBIA   \n   By: /s/ Kalikoʻonālani D. Fernandes \nBy: /s/ Mitchell P. Reich  David D. Day* \nMitchell P. Reich*    Special Assistant to the Attorney General \n  Senior Counsel to the Attorney General  Kalikoʻonālani D. Fernandes* \nOffice of the Attorney General for the District    Solicitor General  \nof Columbia  425 Queen Street \n400 Sixth Street, NW  Honolulu, HI 96813 \nWashington, D.C. 20001  (808) 586-1360 \n(202) 279-1261   david.d.day@hawaii.gov \nmitchell.reich@dc.gov   kaliko.d.fernandes@hawaii.gov \nAttorneys for the District of Columbia  Attorneys for the State of Hawaiʻi \n   \nAARON M. FREY  ANTHONY G. BROWN \n  ATTORNEY GENERAL OF MAINE    ATTORNEY GENERAL OF MARYLAND \n     \nBy: /s/ Stanley Abraham  By: /s/ Virginia A. Williamson \nStanley Abraham*  Virginia A. Williamson* \n  Assistant Attorney General    Assistant Attorney General \nOffice of the Attorney General  Office of the Attorney General \n6 State House Station  200 Saint Paul Place, 20th Floor \nAugusta, ME 04333-0006  Baltimore, MD 21202 \n(207) 626-8800  (410) 576-6584 \nStanley.Abraham@maine.gov   VWilliamson@oag.state.md.us \nAttorneys for the State of Maine  Attorneys for the State of Maryland \n \n48 \n\nCase 1:25-cv-00404     Document 1     Filed 08/18/25     Page 49 of 50 PageID #: 49\n \nANDREA JOY CAMPBELL  DANA NESSEL  \n  ATTORNEY GENERAL OF MASSACHUSETTS    ATTORNEY GENERAL OF MICHIGAN  \n    \nBy: /s/ Hannah C. Vail  By: /s/ Neil Giovanatti  \nKatherine Dirks*  Neil Giovanatti*  \n  Chief State Trial Counsel  John Pallas* \nHannah C. Vail*    Assistant Attorneys General  \n  Assistant Attorney General  Michigan Department of Attorney General  \nOffice of the Massachusetts Attorney General  525 W. Ottawa  \n1 Ashburton Place  Lansing, MI 48909  \nBoston, MA 02108  (517) 335-7603  \n(617) 963-2512  GiovanattiN@michigan.gov   \nkatherine.dirks@mass.gov  PallasJ@michigan.gov   \nhannah.vail@mass.gov  Attorneys for the State of Michigan \nAttorneys for the  \nCommonwealth of Massachusetts \n \nKEITH ELLISON  AARON D. FORD \n  ATTORNEY GENERAL OF MINNESOTA    ATTORNEY GENERAL OF NEVADA \n     \nBy: /s/ Brian S. Carter  By: /s/ Heidi Parry Stern \nBrian S. Carter*  Heidi Parry Stern* \n  Special Counsel    Solicitor General \n445 Minnesota Street, Suite 1400  Office of the Nevada Attorney General \nSt. Paul, MN 55101  1 State of Nevada Way, Ste. 100 \n(651) 300-7403  Las Vegas, NV 89119 \nBrian.carter@ag.state.mn.us  HStern@ag.nv.gov   \nAttorneys for the State of Minnesota   Attorneys for the State of Nevada \n   \nRAÚL TORREZ   LETITIA JAMES  \n  ATTORNEY GENERAL OF NEW MEXICO    ATTORNEY GENERAL OF NEW YORK  \n \n \nBy: /s/ Natasha M. Korgaonkar  \nBy: /s/ Mark Noferi  \nNatasha M. Korgaonkar*  \nMark Noferi*  \n  Special Counsel for Federal Initiatives \n  Senior Litigation Counsel   Rabia Muqaddam* \nNew Mexico Department of Justice     Chief Counsel for Federal Initiatives  \n408 Galisteo Street   Zoe Levine* \n  Special Counsel for Immigrant Justice \nSanta Fe, NM 87501  \nBenjamin Liebowitz*  \n(505) 490-4060  \n  Assistant Attorney General \nMNoferi@nmdoj.gov   \n28 Liberty Street \nAttorneys for the State of New Mexico   New York, NY 10005  \n  (212) 416-6557  \nNatasha.Korgaonkar@ag.ny.gov   \nAttorneys for the State of New York \n \n49 \n\nCase 1:25-cv-00404     Document 1     Filed 08/18/25     Page 50 of 50 PageID #: 50\n \nDAN RAYFIELD  CHARITY T. CLARK \n  ATTORNEY GENERAL OF OREGON    ATTORNEY GENERAL OF VERMONT \n   \nBy: /s/ Thomas H. Castelli   By: /s/ Jonathan T. Rose  \nThomas H. Castelli*  Jonathan T. Rose* \n  Senior Assistant Attorney General    Solicitor General \nOregon Department of Justice  109 State Street \n100 SW Market Street  Montpelier, VT 05609 \nPortland, OR 97201  (802) 828-3171 \n(971) 673-1880  Jonathan.Rose@vermont.gov  \nthomas.castelli@doj.oregon.gov  Attorneys for the State of Vermont \nAttorneys for the State of Oregon   \n \nNICHOLAS W. BROWN  JOSHUA L. KAUL \n  ATTORNEY GENERAL OF WASHINGTON    ATTORNEY GENERAL OF WISCONSIN \n   \nBy: /s/ Benjamin Seel  By: /s/ Colin T. Roth  \nBenjamin Seel*  Colin T. Roth* \nTyler Roberts*    Assistant Attorney General \n  Assistant Attorneys General  Wisconsin Department of Justice \nMarsha Chien*  17 West Main Street \nCristina Sepe*  Post Office Box 7857 \n  Deputy Solicitors General   Madison, WI 53707-7857 \nWashington State Office   (608) 266-7636 \nof the Attorney General  rothct1@doj.state.wi.us  \n800 Fifth Avenue, Suite 2000  Attorneys for the State of Wisconsin \nSeattle, WA 98104-3188   \n(206) 464-7744 \nBenjamin.Seel@atg.wa.gov \nAttorneys for the State of Washington \n \n*Pro hac vice application forthcoming \n \n \n50 ",
+      "document_type_other": null,
+      "external_url": "https://www.courtlistener.com/docket/71135488/1/state-of-new-jersey-v-united-states-department-of-justice/",
+      "ecf_number": "1",
+      "clearinghouse_link": "clearinghouse.net/doc/162637"
+    }
+  ],
+  "document_count": 2
+}

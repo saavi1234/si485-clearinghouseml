@@ -1,0 +1,338 @@
+{
+  "case_id": 46971,
+  "fetched_at": "2025-10-22T00:48:31.881187",
+  "case_data": {
+    "attorney_orgs": [],
+    "available_documents": [
+      "Trial Court Docket",
+      "Complaint (any)"
+    ],
+    "case_defendants": [
+      {
+        "defendant_level": null,
+        "institution": "",
+        "institution_alt_state": "- United States (national) -",
+        "institution_city": "",
+        "institution_county": null,
+        "name": "Internal Revenue Service",
+        "defendant_level_other": "",
+        "is_active": true
+      },
+      {
+        "defendant_level": null,
+        "institution": "",
+        "institution_alt_state": null,
+        "institution_city": "",
+        "institution_county": null,
+        "name": "Department of Treasurey",
+        "defendant_level_other": "",
+        "is_active": true
+      }
+    ],
+    "case_ongoing": "Yes",
+    "case_status": "Coding Complete",
+    "case_types": [
+      "Presidential/Gubernatorial Authority"
+    ],
+    "cause_other": "",
+    "causes": [
+      "Declaratory Judgment Act, 28 U.S.C. § 2201",
+      "Privacy Act, 5 U.S.C.  § 552a"
+    ],
+    "class_action_granted": "Not sought",
+    "class_action_sought": "No",
+    "closing_year": null,
+    "constitutional_clause": [],
+    "content_of_injunction": [],
+    "court": "District of District of Columbia",
+    "custom_issues": [],
+    "defendant_payment": "",
+    "defendant_type": [],
+    "docket_status": "Complete as of retrieval date",
+    "facility_type": [],
+    "filing_date": "2025-09-18",
+    "filing_year": 2025,
+    "id": 46971,
+    "injunction_duration": "",
+    "issues": [
+      "General/Misc.: Records Disclosure"
+    ],
+    "last_checked_date": "2025-10-17T00:00:00-04:00",
+    "main_docket": {
+      "id": 62282,
+      "docket_entries": [
+        {
+          "row_number": 0,
+          "id": 10338848,
+          "entry_number": "1",
+          "date_filed": "2025-09-18T00:00:00-04:00",
+          "attachments": null,
+          "url": "https://www.courtlistener.com/docket/71378201/1/paz-v-internal-revenue-service/",
+          "recap_pdf_url": "https://www.courtlistener.com/recap/gov.uscourts.dcd.285003/gov.uscourts.dcd.285003.1.0.pdf",
+          "pacer_doc_id": "045011638171",
+          "description": "COMPLAINT against DEPARTMENT OF TREASURY, INTERNAL REVENUE SERVICE ( Filing fee $ 405 receipt number ADCDC-11965619) filed by HOLLY PAZ. (Attachments: # 1 Civil Cover Sheet, # 2 Summons USADC, # 3 Summons AG, # 4 Summons IRS, # 5 Summons Treasury)(Moss, Bradley) (Entered: 09/18/2025)"
+        },
+        {
+          "row_number": 1,
+          "id": 10338849,
+          "entry_number": "2",
+          "date_filed": "2025-09-18T00:00:00-04:00",
+          "attachments": null,
+          "url": "https://www.courtlistener.com/docket/71378201/2/paz-v-internal-revenue-service/",
+          "recap_pdf_url": null,
+          "pacer_doc_id": "045011638824",
+          "description": "ERRATA regarding LCvR 5.1(c) errors by HOLLY PAZ re 1 Complaint,. (Attachments: # 1 Errata Corrected Complaint)(Moss, Bradley) (Entered: 09/18/2025)"
+        },
+        {
+          "row_number": 2,
+          "id": 10338850,
+          "entry_number": "3",
+          "date_filed": "2025-09-18T00:00:00-04:00",
+          "attachments": null,
+          "url": "https://www.courtlistener.com/docket/71378201/3/paz-v-internal-revenue-service/",
+          "recap_pdf_url": null,
+          "pacer_doc_id": "045011638840",
+          "description": "SEALED DOCUMENT filed by HOLLY PAZ(This document is SEALED and only available to authorized persons.)(Moss, Bradley) (Entered: 09/18/2025)"
+        },
+        {
+          "row_number": 4,
+          "id": 10367351,
+          "entry_number": "5",
+          "date_filed": "2025-09-22T00:00:00-04:00",
+          "attachments": null,
+          "url": "https://www.courtlistener.com/docket/71378201/5/paz-v-internal-revenue-service/",
+          "recap_pdf_url": null,
+          "pacer_doc_id": "045011646702",
+          "description": "NOTICE of Appearance by Mark Steven Zaid on behalf of HOLLY PAZ (Zaid, Mark) (Entered: 09/22/2025)"
+        },
+        {
+          "row_number": 6,
+          "id": 10367353,
+          "entry_number": "7",
+          "date_filed": "2025-10-03T00:00:00-04:00",
+          "attachments": null,
+          "url": "https://www.courtlistener.com/docket/71378201/7/paz-v-internal-revenue-service/",
+          "recap_pdf_url": null,
+          "pacer_doc_id": "045011672655",
+          "description": "STANDING ORDER. The parties are ordered to comply with the directives set forth in the attached standing order. See document for details. Signed by Judge Amir H. Ali on 10/3/2025. (lcaha2) (Entered: 10/03/2025)"
+        },
+        {
+          "row_number": 3,
+          "id": 10338851,
+          "entry_number": "4",
+          "date_filed": "2025-09-18T00:00:00-04:00",
+          "attachments": null,
+          "url": "https://www.courtlistener.com/docket/71378201/4/paz-v-internal-revenue-service/",
+          "recap_pdf_url": null,
+          "pacer_doc_id": "045011638883",
+          "description": "SUMMONS (4) Issued Electronically as to All Defendants, U.S. Attorney and U.S. Attorney General (Attachments: # 1 Notice and Consent)(zmtm) (Entered: 09/18/2025)"
+        },
+        {
+          "row_number": 7,
+          "id": 10338852,
+          "entry_number": null,
+          "date_filed": "2025-09-18T00:00:00-04:00",
+          "attachments": null,
+          "url": "https://www.courtlistener.com",
+          "recap_pdf_url": null,
+          "pacer_doc_id": null,
+          "description": "Notice of Error- New Case"
+        },
+        {
+          "row_number": 8,
+          "id": 10338853,
+          "entry_number": null,
+          "date_filed": "2025-09-18T00:00:00-04:00",
+          "attachments": null,
+          "url": "https://www.courtlistener.com",
+          "recap_pdf_url": null,
+          "pacer_doc_id": null,
+          "description": "NOTICE OF NEW CASE ERROR The following error(s) need correction: Noncompliance with LCvR 5.1(c). Please file a Notice of Errata stating the error and attach the corrected initiating pleading to include the name & full residence address of each party and file using the event Errata. Invalid signature. Please file the signed document using the event Errata. All filings must have an original signature or /s/ Attorney Name of the attorney representing the plaintiff as appearing in the docket, to represent an electronic signature of the filer. COMPLIANCE DEADLINE is by close of business today. This case will not proceed any further until all errors are satisfied. (zmtm)"
+        },
+        {
+          "row_number": 5,
+          "id": 10367352,
+          "entry_number": "6",
+          "date_filed": "2025-09-22T00:00:00-04:00",
+          "attachments": null,
+          "url": "https://www.courtlistener.com/docket/71378201/6/paz-v-internal-revenue-service/",
+          "recap_pdf_url": null,
+          "pacer_doc_id": "045011646890",
+          "description": "RETURN OF SERVICE/AFFIDAVIT of Summons and Complaint Executed as to the United States Attorney. Date of Service Upon United States Attorney on 9/18/2025. Answer due for ALL FEDERAL DEFENDANTS by 11/17/2025. (Attachments: # 1 Exhibit 1 - Proof of Service USAO DC)(Zaid, Mark) (Entered: 09/22/2025)"
+        },
+        {
+          "row_number": 12,
+          "id": 10367355,
+          "entry_number": null,
+          "date_filed": "2025-10-03T00:00:00-04:00",
+          "attachments": null,
+          "url": "https://www.courtlistener.com",
+          "recap_pdf_url": null,
+          "pacer_doc_id": null,
+          "description": "MINUTE ORDER. A responsive pleading in this matter shall be filed in accordance with the time allowed under the applicable federal and local rules. A party that intends to move for dismissal of the complaint in this matter shall, before filing a motion to dismiss, file a premotion statement of no more than five double-spaced pages setting forth the basis for the anticipated motion. The statement shall identify whether the party intends to seek full or partial dismissal of the complaint and state the basis for dismissal, including the legal standards applicable to the claims at issue. The filing date of the premotion statement shall serve as the operative date for determining compliance with Rule 12's timing requirement. Within fourteen days of such a premotion statement being filed, the party opposing dismissal shall file a responsive statement of no more than five double-spaced pages, identifying their anticipated responses to the proposed motion. The responsive statement shall also include at least three one-hour windows in which counsel for both parties would be available for a premotion conference on a Wednesday or Thursday between 2:00 p.m. and 4:00 p.m. The parties shall also indicate their preference for an in-person or Zoom conference and shall provide a joint proposed briefing schedule for the motion to dismiss. Upon receiving the parties' statements, the Court will schedule a premotion conference or set a briefing schedule for the motion to dismiss. Signed by Judge Amir H. Ali on 10/3/2025. (lcaha2)"
+        },
+        {
+          "row_number": 9,
+          "id": 10338854,
+          "entry_number": null,
+          "date_filed": "2025-09-18T00:00:00-04:00",
+          "attachments": null,
+          "url": "https://www.courtlistener.com",
+          "recap_pdf_url": null,
+          "pacer_doc_id": null,
+          "description": "Case Assigned/Reassigned"
+        },
+        {
+          "row_number": 10,
+          "id": 10338855,
+          "entry_number": null,
+          "date_filed": "2025-09-18T00:00:00-04:00",
+          "attachments": null,
+          "url": "https://www.courtlistener.com",
+          "recap_pdf_url": null,
+          "pacer_doc_id": null,
+          "description": "Case Assigned to Judge Amir H. Ali. (zmtm)"
+        },
+        {
+          "row_number": 11,
+          "id": 10367354,
+          "entry_number": null,
+          "date_filed": "2025-10-03T00:00:00-04:00",
+          "attachments": null,
+          "url": "https://www.courtlistener.com",
+          "recap_pdf_url": null,
+          "pacer_doc_id": null,
+          "description": ".Order"
+        }
+      ],
+      "docket_case_type": "cv",
+      "docket_year": 2025,
+      "docket_filing_number": 3256,
+      "is_main_docket": true,
+      "court": "District of District of Columbia",
+      "state": "District of Columbia",
+      "docket_office_number": "1",
+      "docket_number_manual": "1:25-cv-03256",
+      "scales_html": null,
+      "recap_link": "https://www.courtlistener.com/docket/71378201/paz-v-internal-revenue-service/",
+      "is_active": true
+    },
+    "name": "Paz v. Internal Revenue Service",
+    "never_filed": false,
+    "non_docket_case_number": "",
+    "non_docket_case_number_type": null,
+    "non_docket_case_number_type_other": "",
+    "order_end_year": null,
+    "order_start_year": null,
+    "permanent_injunction": false,
+    "plaintiff_description": "The plaintiff is Holly Paz, a former IRS official.",
+    "plaintiff_type": [
+      {
+        "value": "Private Plaintiff"
+      }
+    ],
+    "prevailing_party": "None Yet / None",
+    "pro_se_status": "No",
+    "public_interest_lawyer": "No",
+    "related_cases": [],
+    "relief_natures": [
+      "None yet"
+    ],
+    "relief_nature_other": "",
+    "relief_sources": [
+      "None yet"
+    ],
+    "settlement_agreement": [],
+    "settlement_judgment_date": null,
+    "settlement_judgment_year": null,
+    "special_collections": [
+      "Trump Administration 2.0: Challenges to the Government",
+      "Trump Administration 2.0: Challenges to the Government"
+    ],
+    "special_case_type": [],
+    "state": "District of Columbia",
+    "summary": "<p>The plaintiff, Holly Paz, is the former Internal Revenue Service (IRS) Commissioner of Large Business and International Division. At the beginning of September, 2025, the IRS issued a Notice of Proposed Adverse Action (&ldquo;Proposal&rdquo;) to Ms. Paz that proposes to remove her from federal service &ldquo;in order to promote the efficiency of the Service.\" The plaintiff alleged that the IRS relied on allegations dating back two decades that had been previously investigated in the plaintiffs favor. The IRS granted the plaintiff &nbsp;until on or before October 17, 2025, to submit her written response to the Proposal.</p>\r\n<p>On September 9, 2025, Fox News published an article with the headline: <a href=\"https://www.foxbangor.com/news/national/irs-fires-top-aide-linked-to-obama-era-tea-party-targeting-scandal/article_42bbe71d-6fa7-53f6-b20f-a068b3bbd74d.html\" target=\"_blank\" rel=\"noopener\">&ldquo;IRS fires top aide linked to Obama-era Tea Party targeting scandal.&rdquo;</a> Allegedly, other news sources went on to echo the Fox story. The plaintiff alleged that the IRS unlawfully disclosed her termination and proposed firing to Fox News. She further alleged that this is not the first time that the IRS has disclosed information about her from her Privacy Act Systems of Records to unauthorized individuals.&nbsp;</p>\r\n<p>Following these events, the plaintiff brought this suit against the IRS and the Department of Treasury in the United States District Court for the District of Columbia. The complaint alleged violations of the Privacy Act (5 U.S.C. &sect; 552a(b), (g)), requested the court declare the government's actions unlawful, and that the plaintiff be awarded monetary damages. This case has been assigned to Judge Amir H. Ali.</p>\r\n<p>&nbsp;</p>",
+    "summary_published_date": "2025-10-17T22:21:39.086733-04:00",
+    "summary_short": "Plaintiff Holly Paz challenged the IRS's handling of her proposed removal from federal service. Paz alleged that the IRS unlawfully disclosed confidential employment information to Fox News, which reported on her termination, though no final decision on her employment had been made. Paz contended that the disclosure violated the Privacy Act, 5 U.S.C. § 552a(b), (g), as it involved information drawn from her Privacy Act Systems of Records and was made without authorization. She sought declaratory relief deeming the disclosures unlawful and monetary damages. The case is assigned to Judge Amir H. Ali.",
+    "summary_tiny": null,
+    "terminating_date": null,
+    "clearinghouse_link": "clearinghouse.net/case/46971",
+    "is_active": true,
+    "case_documents_url": "https://clearinghouse.net/api/v2/documents/?case=46971",
+    "case_dockets_url": "https://clearinghouse.net/api/v2/dockets/?case=46971",
+    "case_resources_url": "https://clearinghouse.net/api/v2/resources/?case=46971"
+  },
+  "documents": [
+    {
+      "date": "2025-09-18",
+      "date_is_estimate": false,
+      "date_not_available": false,
+      "description": "",
+      "document_source": "RECAP",
+      "document_status": "Coding Complete",
+      "document_type": "Complaint",
+      "order_type": null,
+      "citation_paren": null,
+      "cite_1_page": null,
+      "cite_1_reporter": null,
+      "cite_1_vol": null,
+      "cite_2_page": null,
+      "cite_2_reporter": null,
+      "cite_2_vol": null,
+      "cite_3_page": null,
+      "cite_3_reporter": null,
+      "cite_3_vol": null,
+      "citation_status": "Not applicable",
+      "court": "District of District of Columbia",
+      "no_title": false,
+      "party_types": [
+        "Plaintiff"
+      ],
+      "per_curium": false,
+      "is_core_document": true,
+      "id": 163233,
+      "file": "https://clearinghouse-umich-production.s3.amazonaws.com/media/doc/163233.pdf",
+      "title": "Complaint",
+      "text": "Case 1:25-cv-03256     Document 1     Filed 09/18/25     Page 1 of 8\n \nUNITED STATES DISTRICT COURT \nFOR THE DISTRICT OF COLUMBIA \n \nHOLLY PAZ1         * \n            *   \nPlaintiff,        *   \n*   \nv.          *   \n            * \nINTERNAL REVENUE SERVICE    *  \n1111 Constitution Avenue, N.W.    *  Civil Action No: 25-3256 \nWashington, D.C. 20224      * \n            * \n  and          * \n            * \nDEPARTMENT OF TREASURY     *   \n1500 Pennsylvania Avenue, N.W.    * \nWashington, D.C. 20220      * \n            * \nDefendants.        * \n*  *  *  *  *  *  *  *  *  *  *  * \nCOMPLAINT \n  Plaintiff Holly Paz (“Ms. Paz”) brings this action against the Internal Revenue \nService (“Defendant IRS”) and its parent agency the Department of Treasury \n(“Defendant Treasury”)(collectively “Defendants”) for the purposes of seeking \ndeclaratory relief as well as damages pursuant to the Privacy Act, 5 U.S.C. § 552a et seq., \nthe Federal Declaratory Judgment Act, 28 U.S.C. § 2201, and the All Writs Act,  \n28 U.S.C. § 1651.  \n  Ms. Paz is the subject of an intentional vindictive, retaliatory undertaking by officials \nemployed by the Defendants who are unlawfully leaking information retrieved from her \nPrivacy Act Systems of Records to third parties, to include the media. This behavior is  \n \n \n1 Pursuant to LCvR 5.1(c)(1), as revised March 23, 2022, the Plaintiff’s home address is \nbeing filed under seal with the Court in a separate Notice of Filing. \n \n\nCase 1:25-cv-03256     Document 1     Filed 09/18/25     Page 2 of 8\n \nthe epitome of the unprofessionalism that has permeated the current leadership at the \nDefendants.     \nJURISDICTION \n  1.  This Court has jurisdiction over this action pursuant to 5 U.S.C. §§ 552a(g) and \n28 U.S.C. § 1331. \nVENUE \n  2.  Venue is appropriate in this District under 5 U.S.C. §§ 552a(g)(5) and  \n28 U.S.C. § 1391. \nPARTIES \n  3.  Ms. Paz assumed the role of IRS Commissioner of Large Business and \nInternational Division on an acting basis in August 2022 and was permanently selected \nfor the position in July 2023. Prior to her current position, Ms. Paz served as the Deputy \nCommissioner for the division beginning in May of 2021. She has worked at the IRS for \nover eighteen years and became a member of the Senior Executive Service in 2013. Over \nthe course of her career, Ms. Paz has regularly been promoted to positions of higher \nleadership under IRS Commissioners appointed by both Republican and Democratic \nadministrations, and has consistently received top performance evaluations, including \nduring her time as Commissioner of the Large Business & International Division.  \n  4.  Defendant IRS is an agency of the United States as defined by 5 U.S.C.  \n§§ 552a(a), (e), and subject to the jurisdiction of this Court. One or more employees of \nthe IRS are responsible for the unlawful actions taken against Ms. Paz. \n \n \n2 \n\nCase 1:25-cv-03256     Document 1     Filed 09/18/25     Page 3 of 8\n \n  5.  Defendant Treasury is an agency of the United States as defined by 5 U.S.C.  \n§§ 552a(a), (e), and subject to the jurisdiction of this Court. Treasury is responsible for \nthe actions of its component Defendant IRS. Additionally, the Secretary of the Treasury \nScott Bessant also serves as the Acting IRS Commissioner. \nFACTS \n  6.  On or about July 29, 2025, Defendant IRS placed Ms. Paz on paid administrative \nleave. No reason was provided for this action. \n  7.  On or about September 2, 2025, Defendant IRS issued a Notice of Proposed \nAdverse Action (“Proposal”) to Ms. Paz that proposes to remove her from federal service  \n“in order to promote the efficiency of the Service.” Defendant IRS is relying upon \nallegations that date back nearly two decades and involve matters that had been \npreviously investigated and resolved in her favor. By the very nature of the title of this \ndocument, this is a proposed action that does not presently modify Ms. Paz’s status with \nDefendant IRS. She remains fully employed, though still on administrative leave, while \nthis administrative disciplinary process continues. \n  8.  By e-mail sent at 9:00 am EDT on Tuesday, September 9, 2025, Defendant IRS \ngranted Ms. Paz until on or before October 17, 2025, to submit her written response to \nthe Proposal. Per her request, Defendant IRS has also granted Ms. Paz the opportunity to \nrespond to the Proposal in an oral reply, the date of which has not yet been set. \n  9.  Notwithstanding the above, FoxNews.com published an article written by reporter \nBrooke Singman at 11:28 am EDT (updated 11:58 am EDT) on Tuesday, September 9, \n2025, with the headline: “IRS fires top aide linked to Obama-era Tea Party targeting \nscandal”. The article went on to falsely state that “Sources told Fox News Digital that \n3 \n\nCase 1:25-cv-03256     Document 1     Filed 09/18/25     Page 4 of 8\n \nHolly Paz, who served as the IRS Commissioner of Large Business and International \nDivision, was terminated Monday [September 8, 2025].” Ms. Singman further noted that \nMs. Paz had been “subsequently fired following an internal review, sources say.”  \n  10. The FoxNews.com false reporting was echoed by the Washington Examiner in an \narticle with the headline “IRS aide Holly Paz fired after review of her targeting \nconservative organizations,” which was written by David Zimmermann and posted online \nat 3:12 pm EDT on September 9, 2025. \n  11. Upon being notified that Ms. Paz had, in fact, not been terminated from her \nemployment, FoxNews.com edited its story at 8:10 pm EDT on September 9, 2025, so \nthat its headline now reads “IRS issues termination notice to top aide linked to Obama-\nera Tea Party targeting scandal” with a sub-headline: “Sources say Holly Paz was given a \nnotice of proposed removal by her IRS supervisor Monday after being placed on \nadministrative leave”. Beyond the many factual errors in the revised article, Ms. Singman \nfurther noted that “Sources told Fox News Digital that Paz, who served as the IRS \nCommissioner of the Large Business and International Division, received the notice on \nMonday.” The Washington Examiner similarly modified its headline to read  \n“IRS official Holly Paz proposed for removal after review of her targeting conservative \norganizations”. \n  12. By e-mail sent at 1:53 pm EDT on September 10, 2025, Defendant IRS confirmed \nto the undersigned counsel that “Ms. Paz has not been fired. Currently, she is a federal \nemployee on administrative leave; the Agency has proposed her removal and she is \ncurrently in the advance notice period.”  \n4 \n\nCase 1:25-cv-03256     Document 1     Filed 09/18/25     Page 5 of 8\n \n  13. The unlawful disclosure of Ms. Paz’s false termination and then proposed firing \nwas not the first time the Defendants sought to smear her name by retrieving information \nfrom one or more of her Privacy Act Systems of Records and then disclosing it to \nunauthorized individuals. On July 29, 2025, at 8:52 pm EDT, Ms. Paz was notified by \nDefendant IRS she was being placed on administrative leave. No reason was given for \nthis action. Not even an hour later, at 9:38 pm EDT, Bloomberg Tax, in an article entitled \n“IRS Heads of Large Business Unit, Tax Pro Oversight Put on Leave,” reported this personnel \naction had taken place “according to a person familiar with the situation.” The article \nfurther indicated that Ms. Paz and a colleague “were put on leave while the IRS \ninvestigates their conduct against Republicans, the source said, adding that the leave \ndoesn’t mean they are fired.” \n  14. Information concerning Ms. Paz’s employment, to include proposed adverse \nactions or final disciplinary decisions, is maintained within one or more Systems of \nRecords maintained by the Defendants. The information contained in the articles by \nFoxNews.com and repeated by the Washington Examiner relied upon information \nidentifiable to Ms. Paz and retrieved from one or more Privacy Act Systems of Records. \nFIRST CAUSE OF ACTION \nPRIVACY ACT – 5 U.S.C. § 552a(b), (g) \n \n  15. Ms. Paz repeats and realleges the allegations contained in paragraphs 6 through \n14 above, inclusive. \n  16. Pursuant to 5 U.S.C. § 552a(b), no agency shall disclose any record which is \ncontained in a system of records by any means of communications to any person, or to \nanother agency, without prior written consent of the individual to whom the record \npertains, with certain enumerated exceptions.  \n5 \n\nCase 1:25-cv-03256     Document 1     Filed 09/18/25     Page 6 of 8\n \n  17. There is no exception that permitted Defendants IRS/Treasury to retrieve and then \ndisseminate Privacy Act-protected information concerning Ms. Paz, particularly that of \nher being placed on administrative leave and proposed termination, to the news media \nand/or other unauthorized third parties. \n  18. Ms. Paz never provided Defendants IRS/Treasury with written (or verbal) consent \nto disseminate any information retrieved from one or more Systems of Records that was \nidentifiable to her. \n  19. Pursuant to 5 U.S.C. § 552a(g)(1), Ms. Paz may bring a civil action against \nDefendants IRS/Treasury for the unauthorized dissemination of information contained in \na system of records. \n  20. Pursuant to 5 U.S.C. § 552a(g)(4), Ms. Paz is entitled to monetary damages in an \namount not less than $1,000, due to the intentional and willful dissemination of \ninformation by Defendants IRS/Treasury to the media and/or elsewhere in violation of  \n5 U.S.C. § 552a(b). \nSECOND CAUSE OF ACTION \nPRIVACY ACT – 5 U.S.C. § 552a(e)(6) \n \n  21. Ms. Paz repeats and realleges the allegations contained in paragraphs 6 through \n14 above, inclusive. \n  22. Defendants IRS/Treasury maintain records within one or more Privacy Act \nSystems of Records that pertain to Ms. Paz. \n  23. Prior to disseminating records about Ms. Paz, Defendants IRS/Treasury failed to \nmake reasonable efforts to assure that such records are accurate, complete, timely, and \nrelevant for agency purposes and thereby violated 5 U.S.C. § 552a(e)(6). Specifically, \nDefendants IRS/Treasury failed to ensure those records accurately reflected only that  \n6 \n\nCase 1:25-cv-03256     Document 1     Filed 09/18/25     Page 7 of 8\n \nMs. Paz had been proposed for termination, not that she had in fact already been \nterminated.  \n  24. Defendants IRS/Treasury, their employees and officers, knew or should have \nknown that their actions were improper, unlawful and/or in violation of the Privacy Act.  \n  25. Defendants IRS/Treasury, their employees and officers, acted intentionally or \nwillfully in violation of Ms. Paz’ privacy rights. \n  26. As a result of the Defendants IRS/Treasury’s violations of the Privacy Act, Ms. \nPaz has suffered adverse and harmful effects, including, but not limited to, lost or \njeopardized present or future financial opportunities. \nTHIRD CAUSE OF ACTION \nDECLARATORY JUDGMENT ACT – 28 U.S.C. §§ 2201 and 2202 \n \n  27. Ms. Paz repeats and realleges the allegations contained in paragraphs 6 through \n14 above, inclusive. \n  28. Ms. Paz is entitled to declaratory relief on the basis of all claims identified. There \nis a substantial and ongoing controversy between Ms. Paz and the Defendants, and a \ndeclaration of rights under the Declaratory Judgment Act is both necessary and \nappropriate to establish that the Defendants did not have authority to disclose privacy \nprotected information publicly about her, particularly with an intent to harm her career \nand professional reputation. \n  29. Ms. Paz has suffered adverse and harmful effects, including, but not limited to, \nlost or jeopardized present or future financial opportunities.  \n \n \n7 \n\nCase 1:25-cv-03256     Document 1     Filed 09/18/25     Page 8 of 8\n \nWHEREFORE, Plaintiff Holly Paz requests that the Court award her the following \nrelief: \n(1) A declaration that Defendants IRS/Treasury’s actions violated 5 U.S.C.  \n§§ 552a(b) and/or (e)(6), and for each provision award monetary damages of not less than \n$1,000, the specific amount of which is to be determined at an evidentiary hearing;  \n  (2) Award of the costs of this action and reasonable attorney fees under the Equal \nAccess to Justice Act or any other applicable law; and,     \n  (3) grant such other relief as the Court may deem just and proper. \nDate:  September 18, 2025 \n              Respectfully submitted, \n \n                   s/Mark S. Zaid \n            __________________________ \n    Mark S. Zaid, Esq. \n    D.C. Bar #440532 \nBradley P. Moss, Esq. \nD.C. Bar #975905 \nMark S. Zaid, P.C. \n1250 Connecticut Avenue, N.W. \nSuite 700 \nWashington, D.C. 20036 \n(202) 498-0011 \nMark@MarkZaid.com \nBrad@MarkZaid.com \n \n            Attorneys for Plaintiff \n \n8 ",
+      "document_type_other": null,
+      "external_url": "https://www.courtlistener.com/docket/71378201/1/paz-v-internal-revenue-service/",
+      "ecf_number": "1",
+      "clearinghouse_link": "clearinghouse.net/doc/163233"
+    },
+    {
+      "date": null,
+      "date_is_estimate": false,
+      "date_not_available": false,
+      "description": null,
+      "document_source": null,
+      "document_status": null,
+      "document_type": null,
+      "order_type": null,
+      "citation_paren": null,
+      "cite_1_page": null,
+      "cite_1_reporter": null,
+      "cite_1_vol": null,
+      "cite_2_page": null,
+      "cite_2_reporter": null,
+      "cite_2_vol": null,
+      "cite_3_page": null,
+      "cite_3_reporter": null,
+      "cite_3_vol": null,
+      "citation_status": null,
+      "court": null,
+      "no_title": false,
+      "party_types": [],
+      "per_curium": false,
+      "is_core_document": true,
+      "id": 163232,
+      "file": null,
+      "title": null,
+      "text": null,
+      "document_type_other": null,
+      "external_url": null,
+      "ecf_number": null,
+      "clearinghouse_link": "clearinghouse.net/doc/163232"
+    }
+  ],
+  "document_count": 2
+}

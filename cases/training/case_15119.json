@@ -1,0 +1,1385 @@
+{
+  "case_id": 15119,
+  "fetched_at": "2025-10-22T00:24:13.953448",
+  "case_data": {
+    "attorney_orgs": [],
+    "available_documents": [
+      "Trial Court Docket",
+      "Complaint (any)",
+      "Any published opinion"
+    ],
+    "case_defendants": [
+      {
+        "defendant_level": null,
+        "institution": "",
+        "institution_alt_state": null,
+        "institution_city": "Washington",
+        "institution_county": null,
+        "name": "Transportation Security Administration",
+        "defendant_level_other": "",
+        "is_active": true
+      },
+      {
+        "defendant_level": null,
+        "institution": "",
+        "institution_alt_state": null,
+        "institution_city": "Washington",
+        "institution_county": null,
+        "name": "U.S. Department of Justice",
+        "defendant_level_other": "",
+        "is_active": true
+      },
+      {
+        "defendant_level": null,
+        "institution": "",
+        "institution_alt_state": null,
+        "institution_city": "Washington",
+        "institution_county": null,
+        "name": "Federal Bureau of Investigation",
+        "defendant_level_other": "",
+        "is_active": true
+      }
+    ],
+    "case_ongoing": "No",
+    "case_status": "Coding Complete",
+    "case_types": [
+      "National Security"
+    ],
+    "cause_other": "",
+    "causes": [
+      "Administrative Procedure Act, 5 U.S.C. §§ 551 et seq.",
+      "Declaratory Judgment Act, 28 U.S.C. § 2201"
+    ],
+    "class_action_granted": "Not sought",
+    "class_action_sought": "No",
+    "closing_year": 2018,
+    "constitutional_clause": [
+      {
+        "value": "Due Process"
+      }
+    ],
+    "content_of_injunction": [],
+    "court": "Eastern District of Michigan",
+    "custom_issues": [],
+    "defendant_payment": "",
+    "defendant_type": [
+      {
+        "value": "Law-enforcement"
+      },
+      {
+        "value": "Jurisdiction-wide"
+      }
+    ],
+    "docket_status": "Complete as of retrieval date",
+    "facility_type": [],
+    "filing_date": "2013-05-08",
+    "filing_year": 2013,
+    "id": 15119,
+    "injunction_duration": "",
+    "issues": [
+      "General/Misc.: Record-keeping",
+      "Affected National Origin/Ethnicity(s): Arab/Afgani/Middle Eastern",
+      "General/Misc.: Terrorism/Post 9-11 issues",
+      "General/Misc.: Records Disclosure",
+      "Affected Sex/Gender(s): Male",
+      "Policing: Inadequate citizen complaint investigations and procedures",
+      "General/Misc.: Racial profiling",
+      "Immigration/Border: Border police",
+      "Immigration/Border: Constitutional rights",
+      "Discrimination Basis: National origin discrimination",
+      "General/Misc.: Watchlist"
+    ],
+    "last_checked_date": "2018-03-31T00:00:00-04:00",
+    "main_docket": {
+      "id": 29428,
+      "docket_entries": [
+        {
+          "row_number": 52,
+          "id": 8703747,
+          "entry_number": "57",
+          "date_filed": "2016-08-10T00:00:00-04:00",
+          "attachments": [],
+          "url": "https://www.courtlistener.com/docket/4292256/57/mokdad-v-holder/",
+          "recap_pdf_url": "https://www.courtlistener.com/recap/gov.uscourts.mied.280727/gov.uscourts.mied.280727.57.0.pdf",
+          "pacer_doc_id": "09708794292",
+          "description": "ORDER Granting  47   Motion to Dismiss. Signed by District Judge Victoria A. Roberts. (see image for details and dates)  (LVer)"
+        },
+        {
+          "row_number": 60,
+          "id": 10138395,
+          "entry_number": "64",
+          "date_filed": "2017-11-21T00:00:00-05:00",
+          "attachments": [],
+          "url": "https://www.courtlistener.com/docket/4292256/64/mokdad-v-holder/",
+          "recap_pdf_url": "https://www.courtlistener.com/recap/gov.uscourts.mied.280727/gov.uscourts.mied.280727.64.0.pdf",
+          "pacer_doc_id": "09709697910",
+          "description": "OPINION and JUDGMENT from U.S. Court of Appeals - Sixth Circuit re 62 Appeal Order/Opinion/Judgment, 59 Notice of Appeal filed by Saeb Mokdad [Appeal Case Number 16-2442] (DWor) (Entered: 11/21/2017)"
+        },
+        {
+          "row_number": 7,
+          "id": 8703693,
+          "entry_number": "16",
+          "date_filed": "2013-07-22T00:00:00-04:00",
+          "attachments": [
+            {
+              "recap_id": 156595107,
+              "pacer_url": "https://ecf.mied.uscourts.gov/doc1/09706574526?caseid=280727",
+              "description": "Exhibit Exhibit A",
+              "attachment_number": 1
+            }
+          ],
+          "url": "https://www.courtlistener.com/docket/4292256/16/mokdad-v-holder/",
+          "recap_pdf_url": null,
+          "pacer_doc_id": "09706574525",
+          "description": "MOTION to Dismiss by All Defendants. (Attachments: # 1 Exhibit Exhibit A) (Folio, Joseph) (Entered: 07/22/2013)"
+        },
+        {
+          "row_number": 0,
+          "id": 8703677,
+          "entry_number": "1",
+          "date_filed": "2013-05-08T00:00:00-04:00",
+          "attachments": [],
+          "url": "https://www.courtlistener.com/docket/4292256/1/mokdad-v-holder/",
+          "recap_pdf_url": "https://www.courtlistener.com/recap/gov.uscourts.mied.280727.1.0.pdf",
+          "pacer_doc_id": "09706410972",
+          "description": "COMPLAINT filed by Saeb Mokdad against All Defendants. Plaintiff requests summons issued. Receipt No: 0645-4083278 - Fee: $ 400. County of 1st Plaintiff: wayne - County Where Action Arose: Wayne - County of 1st Defendant: D.C.. [Previously dismissed case: No] [Possible companion case(s): None] (Ayad, Nabih) (Entered: 05/08/2013)"
+        },
+        {
+          "row_number": 44,
+          "id": 8703681,
+          "entry_number": "5",
+          "date_filed": "2013-05-08T00:00:00-04:00",
+          "attachments": [],
+          "url": "https://www.courtlistener.com/docket/4292256/5/mokdad-v-holder/",
+          "recap_pdf_url": null,
+          "pacer_doc_id": "09706411404",
+          "description": "SUMMONS Issued for the United States Attorney and the Office of the Attorney General. (DWor) (Entered: 05/08/2013)"
+        },
+        {
+          "row_number": 6,
+          "id": 8703692,
+          "entry_number": "15",
+          "date_filed": "2013-07-18T00:00:00-04:00",
+          "attachments": [],
+          "url": "https://www.courtlistener.com/docket/4292256/15/mokdad-v-holder/",
+          "recap_pdf_url": null,
+          "pacer_doc_id": "09706567875",
+          "description": "STIPULATION AND ORDER ENLARGING PAGE LIMITS FOR BRIEFING ON MOTION TO DISMISS, Signed by District Judge Victoria A. Roberts. (Ciesla, C) (Entered: 07/18/2013)"
+        },
+        {
+          "row_number": 8,
+          "id": 8703694,
+          "entry_number": "17",
+          "date_filed": "2013-07-23T00:00:00-04:00",
+          "attachments": [],
+          "url": "https://www.courtlistener.com/docket/4292256/17/mokdad-v-holder/",
+          "recap_pdf_url": null,
+          "pacer_doc_id": "09706576035",
+          "description": "Emergency MOTION for Order Permitting Immediate Travel by All Plaintiffs. (Ayad, Nabih) (Entered: 07/23/2013)"
+        },
+        {
+          "row_number": 17,
+          "id": 8703702,
+          "entry_number": "25",
+          "date_filed": "2013-08-20T00:00:00-04:00",
+          "attachments": [],
+          "url": "https://www.courtlistener.com/docket/4292256/25/mokdad-v-holder/",
+          "recap_pdf_url": null,
+          "pacer_doc_id": "09706637563",
+          "description": "REPLY to Response re 17 Emergency MOTION for Order Permitting Immediate Travel & MOTION TO STRIKE RESPONSE filed by Saeb Mokdad. (Ayad, Nabih) (Entered: 08/20/2013)"
+        },
+        {
+          "row_number": 18,
+          "id": 8703703,
+          "entry_number": "26",
+          "date_filed": "2013-08-22T00:00:00-04:00",
+          "attachments": [
+            {
+              "recap_id": 156595111,
+              "pacer_url": "https://ecf.mied.uscourts.gov/doc1/09706641376?caseid=280727",
+              "description": "Index of Exhibits",
+              "attachment_number": 1
+            },
+            {
+              "recap_id": 156595112,
+              "pacer_url": "https://ecf.mied.uscourts.gov/doc1/09706641377?caseid=280727",
+              "description": "Exhibit A - Stirton v. Mich. Tooling Ass'n, 2005 WL 3502153 (E.D. Mich. 200",
+              "attachment_number": 2
+            },
+            {
+              "recap_id": 156595113,
+              "pacer_url": "https://ecf.mied.uscourts.gov/doc1/09706641378?caseid=280727",
+              "description": "Exhibit Dearborn Lodging, Inc. v. City of Dearborn, 2012 WL 1658684 (E.D. Mich.",
+              "attachment_number": 3
+            }
+          ],
+          "url": "https://www.courtlistener.com/docket/4292256/26/mokdad-v-holder/",
+          "recap_pdf_url": null,
+          "pacer_doc_id": "09706641375",
+          "description": "RESPONSE to 25 Reply to Response to Motion Defendants' Response to Plaintiff's Motion to Strike by All Defendants. (Attachments: # 1 Index of Exhibits, # 2 Exhibit A - Stirton v. Mich. Tooling Ass'n, 2005 WL 3502153 (E.D. Mich. 2005), # 3 Exhibit Dearborn Lodging, Inc. v. City of Dearborn, 2012 WL 1658684 (E.D. Mich. 2012)) (Folio, Joseph) (Entered: 08/22/2013)"
+        },
+        {
+          "row_number": 23,
+          "id": 8703707,
+          "entry_number": "30",
+          "date_filed": "2013-08-29T00:00:00-04:00",
+          "attachments": [
+            {
+              "recap_id": 156595114,
+              "pacer_url": "https://ecf.mied.uscourts.gov/doc1/09706658226?caseid=280727",
+              "description": "Index of Exhibits",
+              "attachment_number": 1
+            },
+            {
+              "recap_id": 156595115,
+              "pacer_url": "https://ecf.mied.uscourts.gov/doc1/09706658227?caseid=280727",
+              "description": "Exhibit A - Thomson v. Stone (E.D. Mich.)",
+              "attachment_number": 2
+            },
+            {
+              "recap_id": 156595116,
+              "pacer_url": "https://ecf.mied.uscourts.gov/doc1/09706658228?caseid=280727",
+              "description": "Exhibit B - Latif v. Holder (D. Or.)",
+              "attachment_number": 3
+            },
+            {
+              "recap_id": 156595117,
+              "pacer_url": "https://ecf.mied.uscourts.gov/doc1/09706658229?caseid=280727",
+              "description": "Exhibit C - Bennafield v. City of Canton Police Dep't (6th Cir.)",
+              "attachment_number": 4
+            },
+            {
+              "recap_id": 156595118,
+              "pacer_url": "https://ecf.mied.uscourts.gov/doc1/09706658230?caseid=280727",
+              "description": "Exhibit D - Shearson v. Holder (6th Cir.)",
+              "attachment_number": 5
+            }
+          ],
+          "url": "https://www.courtlistener.com/docket/4292256/30/mokdad-v-holder/",
+          "recap_pdf_url": null,
+          "pacer_doc_id": "09706658225",
+          "description": "REPLY to Response re 16 MOTION to Dismiss filed by All Defendants. (Attachments: # 1 Index of Exhibits, # 2 Exhibit A - Thomson v. Stone (E.D. Mich.), # 3 Exhibit B - Latif v. Holder (D. Or.), # 4 Exhibit C - Bennafield v. City of Canton Police Dep't (6th Cir.), # 5 Exhibit D - Shearson v. Holder (6th Cir.)) (Folio, Joseph) (Entered: 08/29/2013)"
+        },
+        {
+          "row_number": 25,
+          "id": 8703709,
+          "entry_number": "32",
+          "date_filed": "2013-09-04T00:00:00-04:00",
+          "attachments": [],
+          "url": "https://www.courtlistener.com/docket/4292256/32/mokdad-v-holder/",
+          "recap_pdf_url": null,
+          "pacer_doc_id": "09706665128",
+          "description": "ORDER Denying Motions to Strike 25 and 31 . Signed by District Judge Victoria A. Roberts. (LVer) (Entered: 09/04/2013)"
+        },
+        {
+          "row_number": 31,
+          "id": 8703715,
+          "entry_number": "38",
+          "date_filed": "2014-06-25T00:00:00-04:00",
+          "attachments": [],
+          "url": "https://www.courtlistener.com/docket/4292256/38/mokdad-v-holder/",
+          "recap_pdf_url": null,
+          "pacer_doc_id": "09707263995",
+          "description": "ORDER from U.S. Court of Appeals - Sixth Circuit re 36 Notice of Appeal filed by Saeb Mokdad [Appeal Case Number 14-1094] (KKra) (Entered: 06/26/2014)"
+        },
+        {
+          "row_number": 74,
+          "id": 8703731,
+          "entry_number": null,
+          "date_filed": "2016-04-12T00:00:00-04:00",
+          "attachments": [],
+          "url": "https://www.courtlistener.com",
+          "recap_pdf_url": null,
+          "pacer_doc_id": null,
+          "description": "Set Deadlines/Hearings: TELEPHONIC Status Conference reset for 4/26/2016 03:00 PM before District Judge Victoria A. Roberts (CPin)"
+        },
+        {
+          "row_number": 75,
+          "id": 8703732,
+          "entry_number": null,
+          "date_filed": "2016-04-27T00:00:00-04:00",
+          "attachments": [],
+          "url": "https://www.courtlistener.com",
+          "recap_pdf_url": null,
+          "pacer_doc_id": null,
+          "description": "Minute Entry for proceedings before District Judge Victoria A. Roberts: Telephonic Status Conference held on 4/27/2016 (CPin)"
+        },
+        {
+          "row_number": 47,
+          "id": 8703741,
+          "entry_number": "52",
+          "date_filed": "2016-07-11T00:00:00-04:00",
+          "attachments": [],
+          "url": "https://www.courtlistener.com/docket/4292256/52/mokdad-v-holder/",
+          "recap_pdf_url": null,
+          "pacer_doc_id": "09708735931",
+          "description": "ORDER granting 51 Motion for Leave to File Excess Pages. Signed by District Judge Victoria A. Roberts. (CPin) (Entered: 07/11/2016)"
+        },
+        {
+          "row_number": 50,
+          "id": 8703744,
+          "entry_number": "55",
+          "date_filed": "2016-07-27T00:00:00-04:00",
+          "attachments": [],
+          "url": "https://www.courtlistener.com/docket/4292256/55/mokdad-v-holder/",
+          "recap_pdf_url": null,
+          "pacer_doc_id": "09708767595",
+          "description": "SUPPLEMENTAL BRIEF re 54 Order Requiring Responsive Pleading, Order Setting Hearing on Motion,, filed by Timothy J Healy, Eric Holder, Robert S Mueller. (Bowen, Brigham) (Entered: 07/27/2016)"
+        },
+        {
+          "row_number": 78,
+          "id": 8703746,
+          "entry_number": null,
+          "date_filed": "2016-08-09T00:00:00-04:00",
+          "attachments": [],
+          "url": "https://www.courtlistener.com",
+          "recap_pdf_url": null,
+          "pacer_doc_id": null,
+          "description": "Minute Entry for proceedings before District Judge Victoria A. Roberts: Motion Hearing held on 8/9/2016 re 47 MOTION to Dismiss for Lack of Jurisdiction and Failure to State a Claim Upon Which Relief Can Be Granted filed by Timothy J Healy, Eric Holder, Robert S Mueller Disposition: Motion granted (Court Reporter: Janice Coleman) (CPin)"
+        },
+        {
+          "row_number": 69,
+          "id": 8703723,
+          "entry_number": null,
+          "date_filed": "2015-12-03T00:00:00-05:00",
+          "attachments": [],
+          "url": "https://www.courtlistener.com",
+          "recap_pdf_url": null,
+          "pacer_doc_id": null,
+          "description": "Set Deadlines/Hearings: TELEPHONIC Status Conference set for 12/14/2015 at 10:00 AM before District Judge Victoria A. Roberts. (LVer)"
+        },
+        {
+          "row_number": 71,
+          "id": 8703728,
+          "entry_number": null,
+          "date_filed": "2016-01-12T00:00:00-05:00",
+          "attachments": [],
+          "url": "https://www.courtlistener.com",
+          "recap_pdf_url": null,
+          "pacer_doc_id": null,
+          "description": "Set Deadlines/Hearings: TELEPHONIC Status Conference set for 4/4/2016 at 10:00 AM before District Judge Victoria A. Roberts. The Court will initiate the call. (LVer)"
+        },
+        {
+          "row_number": 73,
+          "id": 8703730,
+          "entry_number": null,
+          "date_filed": "2016-04-04T00:00:00-04:00",
+          "attachments": [],
+          "url": "https://www.courtlistener.com",
+          "recap_pdf_url": null,
+          "pacer_doc_id": null,
+          "description": "Set Deadlines/Hearings: TELEPHONIC Status Conference set for 4/14/2016 at 2:00 PM before District Judge Victoria A. Roberts. The Court will initiate the call. (LVer)"
+        },
+        {
+          "row_number": 49,
+          "id": 8703743,
+          "entry_number": "54",
+          "date_filed": "2016-07-19T00:00:00-04:00",
+          "attachments": [],
+          "url": "https://www.courtlistener.com/docket/4292256/54/mokdad-v-holder/",
+          "recap_pdf_url": null,
+          "pacer_doc_id": "09708752762",
+          "description": "ORDER Requiring Briefing regarding 47 Motion to Dismiss Notice of Hearing on Motion 47 MOTION to Dismiss for Lack of Jurisdiction and Failure to State a Claim Upon Which Relief Can Be Granted :( Motion Hearing set for 8/9/2016 at 2:30 PM before District Judge Victoria A. Roberts) Response due by 7/27/2016 Signed by District Judge Victoria A. Roberts. (see image for details and dates) (LVer) (Entered: 07/19/2016)"
+        },
+        {
+          "row_number": 53,
+          "id": 8703748,
+          "entry_number": "58",
+          "date_filed": "2016-08-16T00:00:00-04:00",
+          "attachments": [],
+          "url": "https://www.courtlistener.com/docket/4292256/58/mokdad-v-holder/",
+          "recap_pdf_url": null,
+          "pacer_doc_id": "09708804294",
+          "description": "DECLARATION by Timothy P. Groh re 57 Order on Motion to Dismiss filed by Timothy J Healy, Eric Holder, Robert S Mueller (Bowen, Brigham) (Entered: 08/16/2016)"
+        },
+        {
+          "row_number": 54,
+          "id": 8703749,
+          "entry_number": "59",
+          "date_filed": "2016-10-06T00:00:00-04:00",
+          "attachments": [],
+          "url": "https://www.courtlistener.com/docket/4292256/59/mokdad-v-holder/",
+          "recap_pdf_url": null,
+          "pacer_doc_id": "09708905944",
+          "description": "NOTICE OF APPEAL by Saeb Mokdad. Receipt No: 0645-5904639 - Fee: $ 505 - Fee Status: Fee Paid. (Ayad, Nabih) (Entered: 10/06/2016)"
+        },
+        {
+          "row_number": 56,
+          "id": 8703750,
+          "entry_number": "60",
+          "date_filed": "2016-10-06T00:00:00-04:00",
+          "attachments": [],
+          "url": "https://www.courtlistener.com/docket/4292256/60/mokdad-v-holder/",
+          "recap_pdf_url": null,
+          "pacer_doc_id": "09708906018",
+          "description": "Certificate of Service re 59 Notice of Appeal. (SOso) (Entered: 10/06/2016)"
+        },
+        {
+          "row_number": 59,
+          "id": 10138394,
+          "entry_number": "63",
+          "date_filed": "2017-11-21T00:00:00-05:00",
+          "attachments": [],
+          "url": "https://www.courtlistener.com/docket/4292256/63/mokdad-v-holder/",
+          "recap_pdf_url": null,
+          "pacer_doc_id": "09709697871",
+          "description": "ORDER from U.S. Court of Appeals - Sixth Circuit re 59 Notice of Appeal filed by Saeb Mokdad [Appeal Case Number 16-2442] (DWor) (Entered: 11/21/2017)"
+        },
+        {
+          "row_number": 61,
+          "id": 10138396,
+          "entry_number": "65",
+          "date_filed": "2018-01-10T00:00:00-05:00",
+          "attachments": [],
+          "url": "https://www.courtlistener.com/docket/4292256/65/mokdad-v-holder/",
+          "recap_pdf_url": null,
+          "pacer_doc_id": "09709780402",
+          "description": "Appeal Mandate"
+        },
+        {
+          "row_number": 11,
+          "id": 8703678,
+          "entry_number": "2",
+          "date_filed": "2013-05-08T00:00:00-04:00",
+          "attachments": [],
+          "url": "https://www.courtlistener.com/docket/4292256/2/mokdad-v-holder/",
+          "recap_pdf_url": null,
+          "pacer_doc_id": "09706411392",
+          "description": "SUMMONS Issued for *Eric Holder* (DWor) (Entered: 05/08/2013)"
+        },
+        {
+          "row_number": 65,
+          "id": 8703682,
+          "entry_number": null,
+          "date_filed": "2013-05-08T00:00:00-04:00",
+          "attachments": [],
+          "url": "https://www.courtlistener.com",
+          "recap_pdf_url": null,
+          "pacer_doc_id": null,
+          "description": "A United States Magistrate Judge of this Court is available to conduct all proceedings in this civil action in accordance with 28 U.S.C. 636c and FRCP 73. The Notice, Consent, and Reference of a Civil Action to a Magistrate Judge form is available for download at http://www.mied.uscourts.gov (DWor)"
+        },
+        {
+          "row_number": 55,
+          "id": 8703683,
+          "entry_number": "6",
+          "date_filed": "2013-05-09T00:00:00-04:00",
+          "attachments": [
+            {
+              "recap_id": 156595105,
+              "pacer_url": "https://ecf.mied.uscourts.gov/doc1/09706413739?caseid=280727",
+              "description": "Exhibit Verification",
+              "attachment_number": 1
+            },
+            {
+              "recap_id": 156595106,
+              "pacer_url": "https://ecf.mied.uscourts.gov/doc1/09706413740?caseid=280727",
+              "description": "Exhibit TRIP Inquiries",
+              "attachment_number": 2
+            }
+          ],
+          "url": "https://www.courtlistener.com/docket/4292256/6/mokdad-v-holder/",
+          "recap_pdf_url": null,
+          "pacer_doc_id": "09706413738",
+          "description": "INDEX of Exhibits re 1 Complaint, by Saeb Mokdad (Attachments: # 1 Exhibit Verification, # 2 Exhibit TRIP Inquiries) (Ayad, Nabih) (Entered: 05/09/2013)"
+        },
+        {
+          "row_number": 62,
+          "id": 8703684,
+          "entry_number": "7",
+          "date_filed": "2013-06-10T00:00:00-04:00",
+          "attachments": [],
+          "url": "https://www.courtlistener.com/docket/4292256/7/mokdad-v-holder/",
+          "recap_pdf_url": null,
+          "pacer_doc_id": "09706482523",
+          "description": "CERTIFICATE of Service/Summons Returned Executed. Office of U.S. Attorney General served on 05/20/2013. (Ayad, Nabih) (Entered: 06/10/2013)"
+        },
+        {
+          "row_number": 63,
+          "id": 8703685,
+          "entry_number": "8",
+          "date_filed": "2013-06-10T00:00:00-04:00",
+          "attachments": [],
+          "url": "https://www.courtlistener.com/docket/4292256/8/mokdad-v-holder/",
+          "recap_pdf_url": null,
+          "pacer_doc_id": "09706482535",
+          "description": "CERTIFICATE of Service/Summons Returned Executed. FBI served on 05/20/2013. (Ayad, Nabih) (Entered: 06/10/2013)"
+        },
+        {
+          "row_number": 64,
+          "id": 8703686,
+          "entry_number": "9",
+          "date_filed": "2013-06-10T00:00:00-04:00",
+          "attachments": [],
+          "url": "https://www.courtlistener.com/docket/4292256/9/mokdad-v-holder/",
+          "recap_pdf_url": null,
+          "pacer_doc_id": "09706482540",
+          "description": "CERTIFICATE of Service/Summons Returned Executed. U.S. Attorney General served on 05/20/2013. (Ayad, Nabih) (Entered: 06/10/2013)"
+        },
+        {
+          "row_number": 2,
+          "id": 8703688,
+          "entry_number": "11",
+          "date_filed": "2013-06-10T00:00:00-04:00",
+          "attachments": [],
+          "url": "https://www.courtlistener.com/docket/4292256/11/mokdad-v-holder/",
+          "recap_pdf_url": null,
+          "pacer_doc_id": "09706482601",
+          "description": "CERTIFICATE of Service/Summons Returned Executed. FBI served on 05/20/2013. (Ayad, Nabih) (Entered: 06/10/2013)"
+        },
+        {
+          "row_number": 16,
+          "id": 8703701,
+          "entry_number": "24",
+          "date_filed": "2013-08-16T00:00:00-04:00",
+          "attachments": [
+            {
+              "recap_id": 156595108,
+              "pacer_url": "https://ecf.mied.uscourts.gov/doc1/09706632131?caseid=280727",
+              "description": "Index of Exhibits",
+              "attachment_number": 1
+            },
+            {
+              "recap_id": 156595109,
+              "pacer_url": "https://ecf.mied.uscourts.gov/doc1/09706632132?caseid=280727",
+              "description": "Exhibit A - Lubman Declaration",
+              "attachment_number": 2
+            },
+            {
+              "recap_id": 156595110,
+              "pacer_url": "https://ecf.mied.uscourts.gov/doc1/09706632133?caseid=280727",
+              "description": "Exhibit B - Allied Erecting and Dismantling Co., Inc. v. Genesis Equip. & Mfg.,",
+              "attachment_number": 3
+            }
+          ],
+          "url": "https://www.courtlistener.com/docket/4292256/24/mokdad-v-holder/",
+          "recap_pdf_url": null,
+          "pacer_doc_id": "09706632130",
+          "description": "RESPONSE to 17 Emergency MOTION for Order Permitting Immediate Travel filed by All Defendants. (Attachments: # 1 Index of Exhibits, # 2 Exhibit A - Lubman Declaration, # 3 Exhibit B - Allied Erecting and Dismantling Co., Inc. v. Genesis Equip. & Mfg., Inc., 511 F. App'x 398 (6th Cir. 2013)) (Folio, Joseph) (Entered: 08/16/2013)"
+        },
+        {
+          "row_number": 19,
+          "id": 8703704,
+          "entry_number": "27",
+          "date_filed": "2013-08-23T00:00:00-04:00",
+          "attachments": [],
+          "url": "https://www.courtlistener.com/docket/4292256/27/mokdad-v-holder/",
+          "recap_pdf_url": null,
+          "pacer_doc_id": "09706644976",
+          "description": "REPLY to Response re 17 Emergency MOTION for Order Permitting Immediate Travel With Request to Strike filed by Saeb Mokdad. (Ayad, Nabih) (Entered: 08/23/2013)"
+        },
+        {
+          "row_number": 26,
+          "id": 8703710,
+          "entry_number": "33",
+          "date_filed": "2013-10-25T00:00:00-04:00",
+          "attachments": [
+            {
+              "recap_id": 156595119,
+              "pacer_url": "https://ecf.mied.uscourts.gov/doc1/09706774452?caseid=280727",
+              "description": "Exhibit Letter from General Consulate of Lebanon",
+              "attachment_number": 1
+            }
+          ],
+          "url": "https://www.courtlistener.com/docket/4292256/33/mokdad-v-holder/",
+          "recap_pdf_url": null,
+          "pacer_doc_id": "09706774451",
+          "description": "EXHIBIT re 25 Reply to Response to Motion, 17 Emergency MOTION for Order Permitting Immediate Travel by Saeb Mokdad (Attachments: # 1 Exhibit Letter from General Consulate of Lebanon) (Ayad, Nabih) (Entered: 10/25/2013)"
+        },
+        {
+          "row_number": 29,
+          "id": 8703713,
+          "entry_number": "36",
+          "date_filed": "2014-01-24T00:00:00-05:00",
+          "attachments": [],
+          "url": "https://www.courtlistener.com/docket/4292256/36/mokdad-v-holder/",
+          "recap_pdf_url": null,
+          "pacer_doc_id": "09706937804",
+          "description": "NOTICE OF APPEAL by Saeb Mokdad re 35 Judgment, 34 Order on Motion to Dismiss, Order on Motion for Order. Receipt No: 0645-4470669 - Fee: $ 505 - Fee Status: Fee Paid. (Ayad, Nabih) (Entered: 01/24/2014)"
+        },
+        {
+          "row_number": 30,
+          "id": 8703714,
+          "entry_number": "37",
+          "date_filed": "2014-01-24T00:00:00-05:00",
+          "attachments": [],
+          "url": "https://www.courtlistener.com/docket/4292256/37/mokdad-v-holder/",
+          "recap_pdf_url": null,
+          "pacer_doc_id": "09706937839",
+          "description": "Certificate of Service re 36 Notice of Appeal. (TMcg) (Entered: 01/24/2014)"
+        },
+        {
+          "row_number": 22,
+          "id": 8703679,
+          "entry_number": "3",
+          "date_filed": "2013-05-08T00:00:00-04:00",
+          "attachments": [],
+          "url": "https://www.courtlistener.com/docket/4292256/3/mokdad-v-holder/",
+          "recap_pdf_url": null,
+          "pacer_doc_id": "09706411395",
+          "description": "SUMMONS Issued for *Robert S Mueller* (DWor) (Entered: 05/08/2013)"
+        },
+        {
+          "row_number": 33,
+          "id": 8703680,
+          "entry_number": "4",
+          "date_filed": "2013-05-08T00:00:00-04:00",
+          "attachments": [],
+          "url": "https://www.courtlistener.com/docket/4292256/4/mokdad-v-holder/",
+          "recap_pdf_url": null,
+          "pacer_doc_id": "09706411401",
+          "description": "SUMMONS Issued for *Timothy J Healy* (DWor) (Entered: 05/08/2013)"
+        },
+        {
+          "row_number": 1,
+          "id": 8703687,
+          "entry_number": "10",
+          "date_filed": "2013-06-10T00:00:00-04:00",
+          "attachments": [],
+          "url": "https://www.courtlistener.com/docket/4292256/10/mokdad-v-holder/",
+          "recap_pdf_url": null,
+          "pacer_doc_id": "09706482577",
+          "description": "CERTIFICATE of Service/Summons Returned Executed. U.S. Attorney on behalf of All Plaintiffs. (Ayad, Nabih) (Entered: 06/10/2013)"
+        },
+        {
+          "row_number": 3,
+          "id": 8703689,
+          "entry_number": "12",
+          "date_filed": "2013-07-10T00:00:00-04:00",
+          "attachments": [],
+          "url": "https://www.courtlistener.com/docket/4292256/12/mokdad-v-holder/",
+          "recap_pdf_url": null,
+          "pacer_doc_id": "09706549071",
+          "description": "NOTICE of Appearance by Joseph C. Folio, III on behalf of All Defendants. (Folio, Joseph) (Entered: 07/10/2013)"
+        },
+        {
+          "row_number": 4,
+          "id": 8703690,
+          "entry_number": "13",
+          "date_filed": "2013-07-10T00:00:00-04:00",
+          "attachments": [],
+          "url": "https://www.courtlistener.com/docket/4292256/13/mokdad-v-holder/",
+          "recap_pdf_url": null,
+          "pacer_doc_id": "09706549171",
+          "description": "STIPULATION to Extend Time for Defendants to Answer or Otherwise Respond by All Parties (Folio, Joseph) (Entered: 07/10/2013)"
+        },
+        {
+          "row_number": 5,
+          "id": 8703691,
+          "entry_number": "14",
+          "date_filed": "2013-07-12T00:00:00-04:00",
+          "attachments": [],
+          "url": "https://www.courtlistener.com/docket/4292256/14/mokdad-v-holder/",
+          "recap_pdf_url": null,
+          "pacer_doc_id": "09706553289",
+          "description": "ORDER Extending Time, (Responses due by 7/22/2013). Signed by District Judge Victoria A. Roberts. (Ciesla, C) (Entered: 07/12/2013)"
+        },
+        {
+          "row_number": 10,
+          "id": 8703696,
+          "entry_number": "19",
+          "date_filed": "2013-07-25T00:00:00-04:00",
+          "attachments": [],
+          "url": "https://www.courtlistener.com/docket/4292256/19/mokdad-v-holder/",
+          "recap_pdf_url": null,
+          "pacer_doc_id": "09706582027",
+          "description": "Emergency MOTION for Extension of Time to File Response/Reply as to 18 Order, Set Motion and R&R Deadlines/Hearings,,,, by Saeb Mokdad. (Ayad, Nabih) (Entered: 07/25/2013)"
+        },
+        {
+          "row_number": 12,
+          "id": 8703697,
+          "entry_number": "20",
+          "date_filed": "2013-07-25T00:00:00-04:00",
+          "attachments": [],
+          "url": "https://www.courtlistener.com/docket/4292256/20/mokdad-v-holder/",
+          "recap_pdf_url": null,
+          "pacer_doc_id": "09706583169",
+          "description": "RESPONSE to 19 Emergency MOTION for Extension of Time to File Response/Reply as to 18 Order, Set Motion and R&R Deadlines/Hearings,,,, filed by All Defendants. (Folio, Joseph) (Entered: 07/25/2013)"
+        },
+        {
+          "row_number": 13,
+          "id": 8703698,
+          "entry_number": "21",
+          "date_filed": "2013-07-26T00:00:00-04:00",
+          "attachments": [],
+          "url": "https://www.courtlistener.com/docket/4292256/21/mokdad-v-holder/",
+          "recap_pdf_url": null,
+          "pacer_doc_id": "09706584803",
+          "description": "ORDER Granting 19 Motion and Striking Briefing Schedule. Signed by District Judge Victoria A. Roberts. (see image for details and dates) (LVer) (Entered: 07/26/2013)"
+        },
+        {
+          "row_number": 15,
+          "id": 8703700,
+          "entry_number": "23",
+          "date_filed": "2013-08-14T00:00:00-04:00",
+          "attachments": [],
+          "url": "https://www.courtlistener.com/docket/4292256/23/mokdad-v-holder/",
+          "recap_pdf_url": null,
+          "pacer_doc_id": "09706624693",
+          "description": "STIPULATED ORDER Enlarging Page Limits for Defendants' Response to Plaintiff's 17 Emergency MOTION for Order Permitting Immediate Travel. Signed by District Judge Victoria A. Roberts. (Loury, R) (Entered: 08/14/2013)"
+        },
+        {
+          "row_number": 21,
+          "id": 8703706,
+          "entry_number": "29",
+          "date_filed": "2013-08-28T00:00:00-04:00",
+          "attachments": [],
+          "url": "https://www.courtlistener.com/docket/4292256/29/mokdad-v-holder/",
+          "recap_pdf_url": null,
+          "pacer_doc_id": "09706652758",
+          "description": "ORDER Granting 28 Motion for Leave to File Excess Pages. Signed by District Judge Victoria A. Roberts. (Loury, R) (Entered: 08/28/2013)"
+        },
+        {
+          "row_number": 24,
+          "id": 8703708,
+          "entry_number": "31",
+          "date_filed": "2013-09-03T00:00:00-04:00",
+          "attachments": [],
+          "url": "https://www.courtlistener.com/docket/4292256/31/mokdad-v-holder/",
+          "recap_pdf_url": null,
+          "pacer_doc_id": "09706664196",
+          "description": "MOTION to Strike 30 Reply to Response to Motion, by Saeb Mokdad. (Ayad, Nabih) (Entered: 09/03/2013)"
+        },
+        {
+          "row_number": 27,
+          "id": 8703711,
+          "entry_number": "34",
+          "date_filed": "2013-12-05T00:00:00-05:00",
+          "attachments": [],
+          "url": "https://www.courtlistener.com/docket/4292256/34/mokdad-v-holder/",
+          "recap_pdf_url": null,
+          "pacer_doc_id": "09706853458",
+          "description": "ORDER granting 16 Motion to Dismiss; terminating 17 Motion for Order for Emergency Travel. See order for details. Signed by District Judge Victoria A. Roberts. (CPin) (Entered: 12/05/2013)"
+        },
+        {
+          "row_number": 28,
+          "id": 8703712,
+          "entry_number": "35",
+          "date_filed": "2013-12-05T00:00:00-05:00",
+          "attachments": [],
+          "url": "https://www.courtlistener.com/docket/4292256/35/mokdad-v-holder/",
+          "recap_pdf_url": null,
+          "pacer_doc_id": "09706853618",
+          "description": "JUDGMENT in favor of Defendants against Plaintiff Signed by District Judge Victoria A. Roberts. (CPin) (Entered: 12/05/2013)"
+        },
+        {
+          "row_number": 35,
+          "id": 8703716,
+          "entry_number": "41",
+          "date_filed": "2015-10-26T00:00:00-04:00",
+          "attachments": [],
+          "url": "https://www.courtlistener.com/docket/4292256/41/mokdad-v-holder/",
+          "recap_pdf_url": null,
+          "pacer_doc_id": "09708326377",
+          "description": "OPINION from U.S. Court of Appeals - Sixth Circuit re 36 Notice of Appeal filed by Saeb Mokdad [Appeal Case Number 14-1094] (Ahmed, N) (Entered: 12/15/2015)"
+        },
+        {
+          "row_number": 36,
+          "id": 8703717,
+          "entry_number": "42",
+          "date_filed": "2015-10-26T00:00:00-04:00",
+          "attachments": [],
+          "url": "https://www.courtlistener.com/docket/4292256/42/mokdad-v-holder/",
+          "recap_pdf_url": null,
+          "pacer_doc_id": "09708326383",
+          "description": "JUDGMENT from U.S. Court of Appeals - Sixth Circuit re 36 Notice of Appeal filed by Saeb Mokdad [Appeal Case Number 14-1094] (Ahmed, N) (Entered: 12/15/2015)"
+        },
+        {
+          "row_number": 66,
+          "id": 8703718,
+          "entry_number": null,
+          "date_filed": "2015-10-29T00:00:00-04:00",
+          "attachments": [],
+          "url": "https://www.courtlistener.com",
+          "recap_pdf_url": null,
+          "pacer_doc_id": null,
+          "description": "Set Deadlines/Hearings: TELEPHONIC Status Conference set for 11/17/2015 at 4:00 PM before District Judge Victoria A. Roberts. The Court will initiate the call. (LVer)"
+        },
+        {
+          "row_number": 32,
+          "id": 8703719,
+          "entry_number": "39",
+          "date_filed": "2015-11-17T00:00:00-05:00",
+          "attachments": [],
+          "url": "https://www.courtlistener.com/docket/4292256/39/mokdad-v-holder/",
+          "recap_pdf_url": null,
+          "pacer_doc_id": "09708272310",
+          "description": "NOTICE of Appearance by Brigham Bowen on behalf of Timothy J Healy, Eric Holder, Robert S Mueller. (Bowen, Brigham) (Entered: 11/17/2015)"
+        },
+        {
+          "row_number": 34,
+          "id": 8703720,
+          "entry_number": "40",
+          "date_filed": "2015-11-18T00:00:00-05:00",
+          "attachments": [],
+          "url": "https://www.courtlistener.com/docket/4292256/40/mokdad-v-holder/",
+          "recap_pdf_url": null,
+          "pacer_doc_id": "09708274901",
+          "description": "STIPULATION AND ORDER of Attorney Withdrawal by Joseph Folio. Signed by District Judge Victoria A. Roberts. (CPin) (Entered: 11/18/2015)"
+        },
+        {
+          "row_number": 67,
+          "id": 8703721,
+          "entry_number": null,
+          "date_filed": "2015-11-23T00:00:00-05:00",
+          "attachments": [],
+          "url": "https://www.courtlistener.com",
+          "recap_pdf_url": null,
+          "pacer_doc_id": null,
+          "description": "Set Deadlines/Hearings: TELEPHONIC Status Conference set for 12/3/2015 at 2:00 PM before District Judge Victoria A. Roberts. The Court will initiate the call. (LVer)"
+        },
+        {
+          "row_number": 68,
+          "id": 8703722,
+          "entry_number": null,
+          "date_filed": "2015-11-24T00:00:00-05:00",
+          "attachments": [],
+          "url": "https://www.courtlistener.com",
+          "recap_pdf_url": null,
+          "pacer_doc_id": null,
+          "description": "Set Deadlines/Hearings: TELEPHONIC Status Conference reset for 12/3/2015 at 12:30 PM before District Judge Victoria A. Roberts. PLEASE NOTE THIS IS A TIME CHANGE ONLY. (LVer)"
+        },
+        {
+          "row_number": 70,
+          "id": 8703724,
+          "entry_number": null,
+          "date_filed": "2015-12-14T00:00:00-05:00",
+          "attachments": [],
+          "url": "https://www.courtlistener.com",
+          "recap_pdf_url": null,
+          "pacer_doc_id": null,
+          "description": "Minute Entry for proceedings before District Judge Victoria A. Roberts: Telephonic Status Conference held on 12/14/2015 (CPin)"
+        },
+        {
+          "row_number": 37,
+          "id": 8703725,
+          "entry_number": "43",
+          "date_filed": "2015-12-16T00:00:00-05:00",
+          "attachments": [],
+          "url": "https://www.courtlistener.com/docket/4292256/43/mokdad-v-holder/",
+          "recap_pdf_url": null,
+          "pacer_doc_id": "09708330113",
+          "description": "ORDER. TELEPHONIC Status Conference set for 1/12/2016 at 9:30 AM before District Judge Victoria A. Roberts. Signed by District Judge Victoria A. Roberts. (see image for details and dates) (LVer) (Entered: 12/16/2015)"
+        },
+        {
+          "row_number": 38,
+          "id": 8703726,
+          "entry_number": "44",
+          "date_filed": "2015-12-18T00:00:00-05:00",
+          "attachments": [],
+          "url": "https://www.courtlistener.com/docket/4292256/44/mokdad-v-holder/",
+          "recap_pdf_url": null,
+          "pacer_doc_id": "09708333450",
+          "description": "MANDATE from U.S. Court of Appeals - Sixth Circuit as to 42 Appeal Order/Opinion/Judgment [Appeal Case Number 14-1094] (Ahmed, N) (Entered: 12/18/2015)"
+        },
+        {
+          "row_number": 39,
+          "id": 8703727,
+          "entry_number": "45",
+          "date_filed": "2015-12-24T00:00:00-05:00",
+          "attachments": [
+            {
+              "recap_id": 156595121,
+              "pacer_url": "https://ecf.mied.uscourts.gov/doc1/09708344797?caseid=280727",
+              "description": "Exhibit - DHS TRIP Response Letter",
+              "attachment_number": 1
+            }
+          ],
+          "url": "https://www.courtlistener.com/docket/4292256/45/mokdad-v-holder/",
+          "recap_pdf_url": null,
+          "pacer_doc_id": "09708344796",
+          "description": "NOTICE by All Defendants re 43 Order, Set Deadlines/Hearings - Notice of DHS TRIP Response (Attachments: # 1 Exhibit - DHS TRIP Response Letter) (Bowen, Brigham) (Entered: 12/24/2015)"
+        },
+        {
+          "row_number": 40,
+          "id": 8703733,
+          "entry_number": "46",
+          "date_filed": "2016-04-29T00:00:00-04:00",
+          "attachments": [],
+          "url": "https://www.courtlistener.com/docket/4292256/46/mokdad-v-holder/",
+          "recap_pdf_url": null,
+          "pacer_doc_id": "09708594013",
+          "description": "Order Setting Briefing Schedule. Signed by District Judge Victoria A. Roberts. (see image for details and dates) (LVer) (Entered: 04/29/2016)"
+        },
+        {
+          "row_number": 41,
+          "id": 8703734,
+          "entry_number": "47",
+          "date_filed": "2016-05-18T00:00:00-04:00",
+          "attachments": [],
+          "url": "https://www.courtlistener.com/docket/4292256/47/mokdad-v-holder/",
+          "recap_pdf_url": null,
+          "pacer_doc_id": "09708633848",
+          "description": "MOTION to Dismiss for Lack of Jurisdiction and Failure to State a Claim Upon Which Relief Can Be Granted by Timothy J Healy, Eric Holder, Robert S Mueller. (Bowen, Brigham) (Entered: 05/18/2016)"
+        },
+        {
+          "row_number": 42,
+          "id": 8703735,
+          "entry_number": "48",
+          "date_filed": "2016-06-09T00:00:00-04:00",
+          "attachments": [],
+          "url": "https://www.courtlistener.com/docket/4292256/48/mokdad-v-holder/",
+          "recap_pdf_url": null,
+          "pacer_doc_id": "09708677500",
+          "description": "(STRICKEN)STIPULATION by Saeb Mokdad (Ayad, Nabih)[STIPULATION TO EXTEND RESPONSE DEADLINE] Modified on 6/10/2016 (DPer). Modified on 6/10/2016 (CPin). (Entered: 06/09/2016)"
+        },
+        {
+          "row_number": 77,
+          "id": 8703737,
+          "entry_number": null,
+          "date_filed": "2016-06-10T00:00:00-04:00",
+          "attachments": [],
+          "url": "https://www.courtlistener.com",
+          "recap_pdf_url": null,
+          "pacer_doc_id": null,
+          "description": "Strike AND Text-Only Order"
+        },
+        {
+          "row_number": 43,
+          "id": 8703738,
+          "entry_number": "49",
+          "date_filed": "2016-06-14T00:00:00-04:00",
+          "attachments": [],
+          "url": "https://www.courtlistener.com/docket/4292256/49/mokdad-v-holder/",
+          "recap_pdf_url": null,
+          "pacer_doc_id": "09708683839",
+          "description": "STIPULATION AND ORDER to Extend Time to Filre Response re 47 MOTION to Dismiss for Lack of Jurisdiction and Failure to State a Claim Upon Which Relief Can Be Granted filed by Timothy J Healy, Eric Holder, Robert S Mueller. Response due by 6/24/2016 Reply due by 7/15/2016 Signed by District Judge Victoria A. Roberts. (CPin) (Entered: 06/14/2016)"
+        },
+        {
+          "row_number": 45,
+          "id": 8703739,
+          "entry_number": "50",
+          "date_filed": "2016-06-24T00:00:00-04:00",
+          "attachments": [],
+          "url": "https://www.courtlistener.com/docket/4292256/50/mokdad-v-holder/",
+          "recap_pdf_url": null,
+          "pacer_doc_id": "09708707978",
+          "description": "RESPONSE to 47 MOTION to Dismiss for Lack of Jurisdiction and Failure to State a Claim Upon Which Relief Can Be Granted filed by Saeb Mokdad. (Ayad, Nabih) (Entered: 06/24/2016)"
+        },
+        {
+          "row_number": 46,
+          "id": 8703740,
+          "entry_number": "51",
+          "date_filed": "2016-07-08T00:00:00-04:00",
+          "attachments": [],
+          "url": "https://www.courtlistener.com/docket/4292256/51/mokdad-v-holder/",
+          "recap_pdf_url": null,
+          "pacer_doc_id": "09708733581",
+          "description": "Ex Parte MOTION for Leave to File Excess Pages by All Defendants. (Bowen, Brigham) (Entered: 07/08/2016)"
+        },
+        {
+          "row_number": 51,
+          "id": 8703745,
+          "entry_number": "56",
+          "date_filed": "2016-07-27T00:00:00-04:00",
+          "attachments": [
+            {
+              "recap_id": 156595122,
+              "pacer_url": "https://ecf.mied.uscourts.gov/doc1/09708768318?caseid=280727",
+              "description": "Exhibit",
+              "attachment_number": 1
+            }
+          ],
+          "url": "https://www.courtlistener.com/docket/4292256/56/mokdad-v-holder/",
+          "recap_pdf_url": null,
+          "pacer_doc_id": "09708768317",
+          "description": "SUPPLEMENTAL BRIEF re 54 Order Requiring Responsive Pleading, Order Setting Hearing on Motion,, 50 Response to Motion filed by All Plaintiffs. (Attachments: # 1 Exhibit) (Ayad, Nabih) (Entered: 07/27/2016)"
+        },
+        {
+          "row_number": 58,
+          "id": 8703752,
+          "entry_number": "62",
+          "date_filed": "2017-11-13T00:00:00-05:00",
+          "attachments": [],
+          "url": "https://www.courtlistener.com/docket/4292256/62/mokdad-v-holder/",
+          "recap_pdf_url": null,
+          "pacer_doc_id": "09709680698",
+          "description": "OPINION from U.S. Court of Appeals - Sixth Circuit re 59 Notice of Appeal filed by Saeb Mokdad [Appeal Case Number 16-2442] (DWor) (Entered: 11/13/2017)"
+        },
+        {
+          "row_number": 76,
+          "id": 8703736,
+          "entry_number": null,
+          "date_filed": "2016-06-10T00:00:00-04:00",
+          "attachments": [],
+          "url": "https://www.courtlistener.com",
+          "recap_pdf_url": null,
+          "pacer_doc_id": null,
+          "description": "TEXT-ONLY ORDER STRIKING 48 Stipulation and Order filed by Saeb Mokdad Signed by District Judge Victoria A. Roberts. (CPin)"
+        },
+        {
+          "row_number": 9,
+          "id": 8703695,
+          "entry_number": "18",
+          "date_filed": "2013-07-24T00:00:00-04:00",
+          "attachments": [],
+          "url": "https://www.courtlistener.com/docket/4292256/18/mokdad-v-holder/",
+          "recap_pdf_url": null,
+          "pacer_doc_id": "09706579619",
+          "description": "**STICKEN** ORDER EXPEDITING BRIEFING ON PENDING MOTIONS re 16 MOTION to Dismiss filed by Timothy J Healy, Eric Holder, Robert S Mueller AND 17 Emergency MOTION for Order Permitting Immediate Travel filed by Saeb Mokdad. Set Motion and R&R Deadlines/Hearings as to 16 MOTION to Dismiss AND 17 Emergency MOTION: (Responses due by 7/29/2013, Replies due by 8/2/2013). Signed by District Judge Victoria A. Roberts. (Ciesla, C) Modified on 7/26/2013 (LVer). (Entered: 07/24/2013)"
+        },
+        {
+          "row_number": 14,
+          "id": 8703699,
+          "entry_number": "22",
+          "date_filed": "2013-08-12T00:00:00-04:00",
+          "attachments": [],
+          "url": "https://www.courtlistener.com/docket/4292256/22/mokdad-v-holder/",
+          "recap_pdf_url": null,
+          "pacer_doc_id": "09706618304",
+          "description": "RESPONSE to 16 MOTION to Dismiss filed by Saeb Mokdad. (Ayad, Nabih) (Entered: 08/12/2013)"
+        },
+        {
+          "row_number": 20,
+          "id": 8703705,
+          "entry_number": "28",
+          "date_filed": "2013-08-27T00:00:00-04:00",
+          "attachments": [],
+          "url": "https://www.courtlistener.com/docket/4292256/28/mokdad-v-holder/",
+          "recap_pdf_url": null,
+          "pacer_doc_id": "09706649681",
+          "description": "MOTION for Leave to File Excess Pages by All Defendants. (Folio, Joseph) (Entered: 08/27/2013)"
+        },
+        {
+          "row_number": 72,
+          "id": 8703729,
+          "entry_number": null,
+          "date_filed": "2016-01-12T00:00:00-05:00",
+          "attachments": [],
+          "url": "https://www.courtlistener.com",
+          "recap_pdf_url": null,
+          "pacer_doc_id": null,
+          "description": "Minute Entry for proceedings before District Judge Victoria A. Roberts: Telephonic Status Conference held on 1/12/2016 (CPin)"
+        },
+        {
+          "row_number": 48,
+          "id": 8703742,
+          "entry_number": "53",
+          "date_filed": "2016-07-15T00:00:00-04:00",
+          "attachments": [],
+          "url": "https://www.courtlistener.com/docket/4292256/53/mokdad-v-holder/",
+          "recap_pdf_url": null,
+          "pacer_doc_id": "09708746689",
+          "description": "REPLY to Response re 47 MOTION to Dismiss for Lack of Jurisdiction and Failure to State a Claim Upon Which Relief Can Be Granted filed by Timothy J Healy, Eric Holder, Robert S Mueller. (Bowen, Brigham) (Entered: 07/15/2016)"
+        },
+        {
+          "row_number": 57,
+          "id": 8703751,
+          "entry_number": "61",
+          "date_filed": "2016-12-13T00:00:00-05:00",
+          "attachments": [],
+          "url": "https://www.courtlistener.com/docket/4292256/61/mokdad-v-holder/",
+          "recap_pdf_url": null,
+          "pacer_doc_id": "09709034983",
+          "description": "TRANSCRIPT of Motion to Dismiss held on August 9, 2016. (Court Reporter/Transcriber: Janice Coleman) (Number of Pages: 43) (Appeal Purposes) The parties have 21 days to file with the court and Court Reporter/Transcriber a Redaction Request of this transcript. If no request is filed, the transcript may be made remotely electronically available to the public without redaction after 90 days. Redaction Request due 1/3/2017. Redacted Transcript Deadline set for 1/13/2017. Release of Transcript Restriction set for 3/13/2017. Transcript may be viewed at the court public terminal or purchased through the Court Reporter/Transcriber at www.transcriptorders.com before the deadline for Release of Transcript Restriction. After that date, the transcript is publicly available. (Coleman, J.) (Entered: 12/13/2016)"
+        }
+      ],
+      "docket_case_type": "cv",
+      "docket_year": 2013,
+      "docket_filing_number": 12038,
+      "is_main_docket": true,
+      "court": "Eastern District of Michigan",
+      "state": "Michigan",
+      "docket_office_number": "2",
+      "docket_number_manual": "2:13-cv-12038",
+      "scales_html": "https://clearinghouse-umich-production.s3.amazonaws.com/media/docket-html/mied--2-13-cv-12038.html",
+      "recap_link": "https://www.courtlistener.com/docket/4292256/mokdad-v-holder/",
+      "is_active": true
+    },
+    "name": "Mokdad v. Lynch",
+    "never_filed": false,
+    "non_docket_case_number": "",
+    "non_docket_case_number_type": null,
+    "non_docket_case_number_type_other": "",
+    "order_end_year": null,
+    "order_start_year": null,
+    "permanent_injunction": false,
+    "plaintiff_description": "A private individual who was previously denied boarding on commercial airline flights.",
+    "plaintiff_type": [
+      {
+        "value": "Private Plaintiff"
+      }
+    ],
+    "prevailing_party": "Defendant",
+    "pro_se_status": "No",
+    "public_interest_lawyer": "Yes",
+    "related_cases": [],
+    "relief_natures": [
+      "None"
+    ],
+    "relief_nature_other": "",
+    "relief_sources": [
+      "None"
+    ],
+    "settlement_agreement": [],
+    "settlement_judgment_date": null,
+    "settlement_judgment_year": null,
+    "special_collections": [
+      "Multi-LexSum (in sample)"
+    ],
+    "special_case_type": [],
+    "state": "Michigan",
+    "summary": "<p>On May 8, 2013, a private individual who was previously denied boarding on commercial airline flights filed this lawsuit in the U.S. District Court for the Eastern District of Michigan. Represented by private counsel, the plaintiff brought this action against the U.S. Department of Justice and the Federal Bureau of Investigation under the Administrative Procedures Act, 5 U.S.C. &sect;&sect; 551 et seq. and the Declaratory Judgment Act, 28 U.S.C. &sect; 2201.</p>\r\n<p>Specifically, the plaintiff, a U.S. citizen, claimed that he was previously denied boarding of flights to and from the United States to his home country of Lebanon. The plaintiff claimed that he was listed on the Transportation Security Administration's No Fly List, which is maintained by the Terrorist Screening Center (TSC), a division of the FBI. Individuals who are listed on the No Fly List are able to complain via the Traveler Redress Inquiry Program (TRIP) to the U.S. Department of Homeland Security. The plaintiff claimed to have filed three TRIP inquiries with the DHS, to no avail. As such, he had been unable to visit his family members in Lebanon or be present in Lebanon for an ongoing civil suit that he was a participant in. The plaintiff claimed the government's actions violated his Due Process rights under the Fifth Amendment and his rights under the Administrative Procedures Act to adequate redress regarding his placement on the No Fly List. The plaintiff requested declaratory and injunctive relief, as well as attorneys' fees and litigation costs.</p>\r\n<p>On July 22, 2013, the government moved to dismiss for lack of subject-matter jurisdiction under 49 U.S.C. &sect; 46110. This statute limits jurisdiction of TSA orders to U.S. Courts of Appeal. On December 5, U.S. District Judge Victoria Roberts granted the government's motion and dismissed this case. 2013 WL 8840322.</p>\r\n<p>On January 24, 2014, the plaintiff appealed the District Court's decision to the U.S. Court of Appeals for the Sixth Circuit. The plaintiff argued &sect; 46110 did not apply because he was contesting his placement on the No Fly List by the TSC, which is not part of the TSA. The plaintiff relied on <a href=\"http://www.clearinghouse.net/detail.php?id=13632\" target=\"_blank\" rel=\"noopener\"><em>Ibrahim v. Department of Homeland Security</em></a>, 538 F.3d 1250 (9th Cir. 2008), which held that the TSC was not covered by &sect; 46110. On October 26, 2015, the Sixth Circuit issued a decision reversing the District Court's dismissal. The Sixth Circuit agreed with the Ninth Circuit, holding that the plaintiff was indeed challenging a TSC order, not a TSA order. However, the Sixth Circuit dismissed the plaintiff's challenges to the adequacy of the redress process because the TSA was not joined as a defendant. The Sixth Circuit remanded this case to the District Court for further proceedings on plaintiff's \"Challenge to his alleged placement on the No Fly List by TSC.\" 2015 WL 6444668.</p>\r\n<p>On May 18, 2015, the defendants moved for dismissal for lack of jurisdiction and failure to state a claim. The Court granted the motion on August 10, 2016. The Court found that since the defendants issued a letter stating the plaintiff was not on the No Fly List, plaintiff's claim regarding his inclusion on the No Fly List was moot, no live controversy remained, and the Court lacked subject matter jurisdiction to continue to hear the case. 2016 WL 4205909.</p>\r\n<p>The plaintiff appealed the district court's decision on October 17, 2016. On November 13, 2017, the Sixth Circuit Court (Judge Julia Smith Gibbons, Judge Alice Moore Batchelder, and Judge Ronald Lee Gilman) affirmed the district court's August 10 decision. As the issue on remand was narrowly plaintiff's challenge to his placement on the No Fly List by TSC, and the defendant stipulated that the plaintiff was not on that list, the issue before the court was resolved. Although the plaintiff alleged placement on other watch lists, the district court could not resolve those claims as it was not within the issue before the court, the plaintiff could not identify those lists, and the district court was given no basis for relief regarding those lists. 876 F.3d 167.</p>\r\n<p>As of March 25, 2018, there has been no action on the docket since November 21, 2017.</p>",
+    "summary_published_date": "2023-03-19T15:05:32.200784-04:00",
+    "summary_short": "In May 2013, a private individual who claimed he was listed on the TSA's No Fly List filed this lawsuit against the DOJ and FBI. The plaintiff claimed his placement on the No Fly List violated his Due Process rights under the Fifth Amendment, and that there was inadequate redress process regarding his placement on the No Fly List. The defendants issued a letter stating the plaintiff was not on the no fly list, because of this letter, the case was dismissed for lack of subject-matter jurisdiction. The plaintiff appealed this decision and the Sixth Circuit affirmed. The case is closed.",
+    "summary_tiny": null,
+    "terminating_date": null,
+    "clearinghouse_link": "clearinghouse.net/case/15119",
+    "is_active": true,
+    "case_documents_url": "https://clearinghouse.net/api/v2/documents/?case=15119",
+    "case_dockets_url": "https://clearinghouse.net/api/v2/dockets/?case=15119",
+    "case_resources_url": "https://clearinghouse.net/api/v2/resources/?case=15119"
+  },
+  "documents": [
+    {
+      "date": null,
+      "date_is_estimate": false,
+      "date_not_available": false,
+      "description": null,
+      "document_source": null,
+      "document_status": null,
+      "document_type": null,
+      "order_type": null,
+      "citation_paren": null,
+      "cite_1_page": null,
+      "cite_1_reporter": null,
+      "cite_1_vol": null,
+      "cite_2_page": null,
+      "cite_2_reporter": null,
+      "cite_2_vol": null,
+      "cite_3_page": null,
+      "cite_3_reporter": null,
+      "cite_3_vol": null,
+      "citation_status": null,
+      "court": null,
+      "no_title": false,
+      "party_types": [],
+      "per_curium": false,
+      "is_core_document": true,
+      "id": 116443,
+      "file": null,
+      "title": null,
+      "text": null,
+      "document_type_other": null,
+      "external_url": null,
+      "ecf_number": null,
+      "clearinghouse_link": "clearinghouse.net/doc/116443"
+    },
+    {
+      "date": "2017-11-13",
+      "date_is_estimate": false,
+      "date_not_available": false,
+      "description": null,
+      "document_source": "PACER [Public Access to Court Electronic Records]",
+      "document_status": "Coding Complete",
+      "document_type": "Order/Opinion",
+      "order_type": "Non-Decree",
+      "citation_paren": null,
+      "cite_1_page": 167,
+      "cite_1_reporter": "F.3d",
+      "cite_1_vol": 876,
+      "cite_2_page": 5329340,
+      "cite_2_reporter": "WL",
+      "cite_2_vol": 2017,
+      "cite_3_page": null,
+      "cite_3_reporter": null,
+      "cite_3_vol": null,
+      "citation_status": "Official citation found/coded",
+      "court": "U.S. Court of Appeals for the Sixth Circuit",
+      "no_title": false,
+      "party_types": [
+        "Court"
+      ],
+      "per_curium": false,
+      "is_core_document": true,
+      "id": 95695,
+      "file": "https://clearinghouse-umich-production.s3.amazonaws.com/media/doc/95695.pdf",
+      "title": "Opinion [USCA 6th Circuit]",
+      "text": "2:13-  c v  - 1C2a0s3e8: -1V6A-2R4-4R2S  W    D   oDcoucm #e n6t2:  2  9 F-1ile   d   F11ile/1d3: /1117/ 1  3 P/2g0 11 7o f   7   P  a Pgge :I D1 665 (1 of 7)\nUNITED STATES COURT OF APPEALS \nFOR THE SIXTH CIRCUIT  \n100 EAST FIFTH STREET, ROOM 540 \nDeborah S. Hunt  POTTER STEWART U.S. COURTHOUSE   Tel. (513) 564-7000 \nClerk  CINCINNATI, OHIO 45202-3988   www.ca6.uscourts.gov\n \n   Filed: November 13, 2017 \nMr. Nabih H. Ayad \nLaw Offices  \n645 Griswold Street \nSuite 2202 \nDetroit, MI 48226 \n \nMs. Sharon Swingle \nU.S. Department of Justice  \nCivil Division, Appellate Staff \n950 Pennsylvania Avenue, N.W. \nWashington, DC 20530 \n \nMr. Joshua Paul Waldman \nU.S. Department of Justice  \nCivil Division, Appellate Staff \n950 Pennsylvania Avenue, N.W. \nWashington, DC 20530 \nRe: Case No. 16-2442, Saeb Mokdad v. Jefferson B. Sessions, III, et al \n  \nOriginating Case No. : 2:13-cv-12038 \nDear Counsel: \n     The Court issued the enclosed Opinion today in this case. \n   Sincerely yours,  \n     \ns/Amy E. Gigliotti \n   Case Manager  \nDirect Dial No. 513-564-7012 \ncc:  Mr. David J. Weaver \n \nEnclosure  \nMandate to issue \n\n2:13-  c v  - 1C2a0s3e8: -1V6A-2R4-4R2S  W    D   oDcoucm #e n6t2:  2  9 F-2ile   d   F11ile/1d3: /1117/ 1  3 P/2g0 21 7o f   7   P  a Pgge :I D1 666 (2 of 7)\nNOT RECOMMENDED FOR PUBLICATION \nFile Name:  17a0627n.06 \n \nNo. 16-2442 \n \n \nUNITED STATES COURTS OF APPEALS \nFOR THE SIXTH CIRCUIT \n \nSAEB MOKDAD,  ) \n  ) \n  Plaintiff-Appellant,  ) \n  ) \nv.  )  ON APPEAL FROM THE \n  )  UNITED STATES DISTRICT \nJEFFERSON B. SESSIONS, III, et al.  )  COURT FOR THE EASTERN \n  )  DISTRICT OF MICHIGAN \n  Defendants-Appellees.  ) \n  ) \n  ) \n \n \nBEFORE:  GIBBONS, BATCHELDER, and GILMAN, Circuit Judges. \nJULIA SMITH GIBBONS, Circuit Judge.  Saeb Mokdad appeals the district court’s \ndecision to dismiss his suit for lack of subject matter jurisdiction after finding that Mokdad’s \ncase is moot.  Because we agree that Mokdad’s case is moot following the Terrorist Screening \nCenter’s (TSC’s) declaration that Mokdad is not on the No Fly List and will not be placed on that \nlist based on currently available information, we affirm. \nI. \nA. \n  Saeb Mokdad is a naturalized United States citizen who resides in Dearborn, Michigan.  \nThis case originated in May 2013, when Mokdad filed suit seeking injunctive and declaratory \nrelief against the United States Attorney General, the Director of the FBI, and the Director of the \nTerrorist Screening Center based on three alleged instances where he was denied boarding on \n\n2:13-  c v  - 1C2a0s3e8: -1V6A-2R4-4R2S  W    D   oDcoucm #e n6t2:  2  9 F-2ile   d   F11ile/1d3: /1117/ 1  3 P/2g0 31 7o f   7   P  a Pgge :I D2 667 (3 of 7)\nNo. 16-2442, Mokdad v. Sessions \n \ncommercial  airline  flights  between  the  United  States  and  his  native  country  of  Lebanon.  \nClaiming that his application for redress under the Department of Homeland Security Traveler \nRedress Inquiry Program (“DHS TRIP”) was not adequately resolved, he requested that the \ndistrict court order the defendants to remove him from the No Fly List and any other such list \nthat  prevented  him  from  traveling,  and  to  order  defendants  to  provide  him  notice  and  an \nopportunity to contest his placement on the No Fly List.  The district court concluded that it \nlacked subject matter jurisdiction over Mokdad’s claims and dismissed his complaint pursuant to \nFederal Rule of Civil Procedure 12(b)(1).  Mokdad v. Holder, No. 13–12038, 2013 WL 8840322, \nat *5 (E.D. Mich. Dec. 5, 2013). \nB. \n  On appeal, we held that the district court had subject matter jurisdiction to hear Mokdad’s \nclaim challenging his placement on the No Fly List and reversed and remanded for further \nproceedings to determine Mokdad’s status on the list.  Mokdad v. Lynch, 804 F.3d 807, 808 (6th \nCir. 2015).  We declined to reach Mokdad’s claim about the adequacy of the procedures to \ncontest inclusion on the No Fly List because Mokdad did not join a necessary party—the \nTransportation Security Administration (TSA)—as a defendant.  Id. at 815. \n  We noted that the sole issue remanded to the district court was “Mokdad’s claim directly \nchallenging his placement by TSC on the No Fly List.”  Id.  On remand, TSC re-examined \nMokdad’s DHS TRIP request and notified him in a December 22, 2015 letter that he was not on \nthe No Fly List.  TSC subsequently moved to dismiss Mokdad’s challenge to his No Fly List \nstatus, arguing that the case was moot.  TSC also agreed to issue a declaration that Mokdad is not \non the No Fly List and will not be placed back on the list based on the currently available \ninformation.  The district court held a hearing on the motion to dismiss on August 9, 2016 and \n-2- \n \n\n2:13-  c v  - 1C2a0s3e8: -1V6A-2R4-4R2S  W    D   oDcoucm #e n6t2:  2  9 F-2ile   d   F11ile/1d3: /1117/ 1  3 P/2g0 41 7o f   7   P  a Pgge :I D3 668 (4 of 7)\nNo. 16-2442, Mokdad v. Sessions \n \ngranted TSC’s motion.  The district court ordered TSC to issue the declaration and file a copy of \nthe letter with the court no later than August 16, 2016.  Timothy Groh, TSC’s Deputy Director \nfor Operations, executed the declaration on August 15, 2016, and it was filed with the court.  \nMokdad filed a timely notice of appeal to challenge the court’s determination that the case was \nmoot.   \nII. \nThis court reviews de novo a district court’s decision to dismiss for lack of subject matter \njurisdiction.  Muniz-Muniz v. U.S. Border Patrol, 741 F.3d 668, 671 (6th Cir. 2013). \nA. \n  Under Article III of the United States Constitution, federal courts have the power to \nadjudicate only “Cases” and “Controversies.”  Already, LLC v. Nike, Inc., 133 S. Ct. 721, 726 \n(2013).  “A case becomes moot—and therefore no longer a ‘Case’ or ‘Controversy’ for purposes \nof Article III—‘when the issues presented are no longer “live” or the parties lack a legally \ncognizable interest in the outcome.’”  Id. at 726–27 (quoting Murphy v. Hunt, 455 U.S. 478, 481 \n(1982) (per curiam)).  Parties lack a legally cognizable interest in a case’s outcome when \n“events . . . make it ‘impossible for the court to grant any effectual relief whatever to a prevailing \nparty.’”  Fialka-Feldman v. Oakland Univ. Bd. of Trs., 639 F.3d 711, 713 (6th Cir. 2011) \n(quoting Church of Scientology v. United States, 506 U.S. 9, 12 (1992)). \nMokdad argues that his case still presents a live issue for the court because he continued \nto experience unreasonable delays in boarding even after receiving TSC’s letter stating that he is \nnot on the No Fly List.  He suggests that these injuries are “plausibly related to or caused by [his] \ninitial inclusion on the No Fly List or some other watch list.”  CA6 R. 20, Appellant Br., at 12.  \nHowever, Mokdad’s new factual allegations do not save his case from mootness because the \n-3- \n \n\n2:13-  c v  - 1C2a0s3e8: -1V6A-2R4-4R2S  W    D   oDcoucm #e n6t2:  2  9 F-2ile   d   F11ile/1d3: /1117/ 1  3 P/2g0 51 7o f   7   P  a Pgge :I D4 669 (5 of 7)\nNo. 16-2442, Mokdad v. Sessions \n \nnarrow issue remanded to the district court was “Mokdad’s challenge to his alleged placement on \nthe No Fly List by TSC.”  Mokdad, 804 F.3d at 815 (emphasis added).  Mokdad’s placement on \n“some other watch list” was therefore not before the district court.  When TSC agreed to \nstipulate that Mokdad was not on the No Fly List and would not be put on the list based on \ncurrent information, it resolved the narrow issue before the court.  After TSC’s stipulation, the \ndistrict court could not “grant any effectual relief” to Mokdad because TSC’s declaration had \nresolved the only claim before the court.  Thus, there was no live case or controversy, and the \ndistrict court properly dismissed Mokdad’s claim for lack of subject matter jurisdiction. \nEven if Mokdad has in fact been placed on another watch list, Mokdad did not identify \nany other lists or name other defendants in his complaint.  There would still be no way for this \ncourt to grant effectual relief because Mokdad has not provided us with any basis on which to do \nso—there are no other named defendants against whom the court could enter a judgment and no \nother causes of action alleging a basis for relief.   \nMokdad relies on a case from the Northern District of California, Ibrahim v. Dep’t of \nHomeland Sec., 62 F. Supp. 3d 909 (N.D. Cal. 2014), for his argument that his case has not yet \nbeen fully resolved.1  After finding that the plaintiff had been mistakenly entered on the No Fly \nList, the Ibrahim court ordered the government to “search and trace all of its terrorist watchlists \nand records . . . and the no-fly and selectee lists, for entries identifying Dr. Ibrahim” and to \nremove her from those lists.  Ibrahim, 62 F. Supp. 3d at 936.  Mokdad argues that the district \n                                                 \n1 In Ibrahim, the plaintiff was a Malaysian citizen who had been admitted to the United States to study at \nStanford University. Ibrahim, 62 F. Supp. 3d at 911.  In 2005, she attempted to board a plane in San Francisco and \nwas taken to a holding cell and informed that she was on the No Fly List.  Id.  She was eventually permitted to fly to \nHawaii and ultimately to Malaysia.  Id.  Her student visa was revoked in Malaysia and she was unable to return to \nthe United States.  Id.  After protracted litigation over whether or not the plaintiff, a nonimmigrant alien, had \nstanding, the Ninth Circuit ruled that she did because she “had a ‘substantial voluntary connection’ to the United \nStates.”  Id. at 912 (quoting Ibrahim v. Dep’t of Homeland Sec., 669 F.3d 983, 993–94 (9th Cir. 2012)).  The case \nwas remanded to the district court and a bench trial was held. Id. at 914–15. It was determined at trial that the \nplaintiff had been entered on the No Fly List by mistake.  Id. at 916. \n-4- \n \n\n2:13-  c v  - 1C2a0s3e8: -1V6A-2R4-4R2S  W    D   oDcoucm #e n6t2:  2  9 F-2ile   d   F11ile/1d3: /1117/ 1  3 P/2g0 61 7o f   7   P  a Pgge :I D5 670 (6 of 7)\nNo. 16-2442, Mokdad v. Sessions \n \ncourt in his case should have followed the Ibrahim court’s example and removed his name “from \nany list that prevents him from exercising his constitutionally guaranteed right to travel.”  CA6 \nR. 20, Appellant Br., at 18.   \nMokdad’s  reliance  on  Ibrahim  is  misplaced  for  two  reasons.    First,  in  Ibrahim  the \nplaintiff had been entered on the No Fly List by “human error.”  Id. at 916.  By contrast, Mokdad \nhas not established that his placement on the No Fly List was due to human error.  As the district \ncourt noted in the hearing on the defendants’ motion to dismiss, the government has not even \nadmitted that Mokdad was ever on the No Fly List in the first place.  Second, the plaintiff in \nIbrahim presented evidence at trial showing her status on various watchlists and so the court \ngranted relief specific to this evidence.  In contrast, Mokdad has failed to even amend his \ncomplaint to add new defendants or new causes of action.  Based on the “narrowness” of \nMokdad’s claim, the district court could not grant any relief to Mokdad because the court could \nnot “order what [TSC has] already agreed that they won’t do.”  DE 61, Hearing Tr., Page ID 643.  \nIf Mokdad believes that he is on another type of government list, the proper way for him to \nremedy the situation, as the district court has stated, is to file a new action.   \nB. \nMokdad also argues that his case cannot be moot because TSC’s actions fall under the \nvoluntary cessation doctrine.  “A defendant’s voluntary cessation of allegedly unlawful conduct \nordinarily does not suffice to moot a case.”  Friends of the Earth, Inc. v. Laidlaw Envtl. Servs. \n(TOC), Inc., 528 U.S. 167, 174 (2000).  The reason for this, the Supreme Court has explained, is \nto prevent underhanded litigation tactics: “Otherwise, a defendant could engage in unlawful \nconduct, stop when sued to have the case declared moot, then pick up where he left off, repeating \nthis cycle until he achieves all his unlawful ends.”  Already, 133 S. Ct. at 727.   \n-5- \n \n\n2:13-  c v  - 1C2a0s3e8: -1V6A-2R4-4R2S  W    D   oDcoucm #e n6t2:  2  9 F-2ile   d   F11ile/1d3: /1117/ 1  3 P/2g0 71 7o f   7   P  a Pgge :I D6 671 (7 of 7)\nNo. 16-2442, Mokdad v. Sessions \n \nThe voluntary-cessation doctrine does not apply here because the government’s actions \nwere not voluntary.  See Am. Bar Ass’n v. Trade Comm’n, 636 F.3d 641, 648 (D.C. Cir. 2011).  \nIn a December 16, 2015 order, the district court held that “Defendant must immediately reopen \nPlaintiff’s [DHS TRIP] request” and “[i]ssue a letter to Plaintiff and the Court, stating whether or \nnot he is on the No Fly List.”  DE 43, Order, Page ID 457.  TSC complied with the order and \nissued Mokdad a letter dated December 22, 2015, informing him that he was not on the No Fly \nList.  TSC thus made the determination that Mokdad is not currently on the No Fly List to \ncomply with a court order—hardly a voluntary action.   \nSimilarly, in the hearing on the defendants’ motion to dismiss, the district court asked if \nthe government would be “willing” to make a supplemental declaration, which the government \nagreed to do.  DE 61, Hearing Tr., Page ID 623.  Although such a request is not mandatory \n(unlike a court order), it does suggest that TSC did not agree to issue the formal declaration \nentirely of its own free will.  In fact, the defendants had initially argued that such a declaration \nwas unnecessary.  Moreover, in its order granting the motion to dismiss, the district court \nincorporated TSC’s offer to issue a formal declaration and ordered that “[t]he declaration must, \nat a minimum, state that Mokdad will not be placed back on the No Fly List based on the \ncurrently  available  information.”    DE  57,  Order  Granting  Mot.  to  Dismiss,  Page  ID  614 \n(emphasis added).  Because TSC did not issue the declaration of its own volition, its actions do \nnot fall under the voluntary cessation doctrine.   \nIII. \n  For the foregoing reasons, we affirm the district court’s dismissal of Mokdad’s case. \n-6- \n ",
+      "document_type_other": "",
+      "external_url": "",
+      "ecf_number": "62",
+      "clearinghouse_link": "clearinghouse.net/doc/95695"
+    },
+    {
+      "date": "2016-08-10",
+      "date_is_estimate": false,
+      "date_not_available": false,
+      "description": null,
+      "document_source": "PACER [Public Access to Court Electronic Records]",
+      "document_status": "Coding Complete",
+      "document_type": "Order/Opinion",
+      "order_type": "Non-Decree",
+      "citation_paren": null,
+      "cite_1_page": null,
+      "cite_1_reporter": null,
+      "cite_1_vol": null,
+      "cite_2_page": null,
+      "cite_2_reporter": null,
+      "cite_2_vol": null,
+      "cite_3_page": null,
+      "cite_3_reporter": null,
+      "cite_3_vol": null,
+      "citation_status": "Not applicable",
+      "court": "Eastern District of Michigan",
+      "no_title": false,
+      "party_types": [
+        "Court"
+      ],
+      "per_curium": false,
+      "is_core_document": true,
+      "id": 95693,
+      "file": "https://clearinghouse-umich-production.s3.amazonaws.com/media/doc/95693.pdf",
+      "title": "Order Granting Defendant's Motion to Dismiss",
+      "text": "UNITED STATES DISTRICT COURT\nEASTERN DISTRICT OF MICHIGAN\nSOUTHERN DIVISION\nSAEB MOKDAD,\nPlaintiff,\nCase No. 13-CV-12038\nv.\nHONORABLE VICTORIA A. ROBERTS\nLORETTA E. LYNCH et al.,\nDefendants.\n                                                                   /\nORDER GRANTING DEFENDANTS’ MOTION TO DISMISS\nOn August 9, 2016, the Court held a hearing regarding Defendants’ motion to\ndismiss for lack of subject-matter jurisdiction and for failure to state a claim, pursuant to\nFederal Rules of Civil Procedure 12(b)(1) and 12(b)(6). For the reasons stated on the\nrecord, Defendants’ motion to dismiss for lack of subject-matter jurisdiction is granted.\nPlaintiff’s claims regarding his alleged inclusion on the No Fly List are moot as a result\nof Defendants’ issuance of a letter stating that Mokdad is not on such a list. To the\nextent that his claims implicate other lists, Plaintiff fails to identify those lists or name the\nnecessary defendants. Accordingly, because of the narrow scope of the case remanded\nto this Court and Defendants’ declaration that Mokdad is not on the No Fly List, no live\ncase or controversy remains; Mokdad’s suit is moot and the Court lacks subject-matter\njurisdiction to continue to hear the matter. \nDefendant Terrorist Screening Center has voluntarily agreed to issue Mokdad a\ndeclaration that tracks the substance of the declarations referred to in Tarhuni v. Lynch,\n129 F.Supp.3d 1052 (D. Oregon 2015) and referred to by Defendants in their reply brief\n1\n\nin footnote 5. The declaration must, at a minimum, state that Mokdad will not be placed\nback on the No Fly List based on the currently available information. Defendants must\nfurnish this letter to Mokdad and file a copy of the letter with the Court by August 16,\n2016.     \nIT IS ORDERED.\nS/Victoria A. Roberts                                  \nVictoria A. Roberts\nUnited States District Judge\nDated:  August 10, 2016\nThe undersigned certifies that a copy of this\ndocument was served on the attorneys of\nrecord by electronic means or U.S. Mail on\nAugust 10, 2016.\ns/Linda Vertriest                                \nDeputy Clerk\n2",
+      "document_type_other": "",
+      "external_url": "",
+      "ecf_number": "57",
+      "clearinghouse_link": "clearinghouse.net/doc/95693"
+    },
+    {
+      "date": "2013-05-08",
+      "date_is_estimate": false,
+      "date_not_available": false,
+      "description": null,
+      "document_source": "PACER [Public Access to Court Electronic Records]",
+      "document_status": "Coding Complete",
+      "document_type": "Complaint",
+      "order_type": null,
+      "citation_paren": null,
+      "cite_1_page": null,
+      "cite_1_reporter": null,
+      "cite_1_vol": null,
+      "cite_2_page": null,
+      "cite_2_reporter": null,
+      "cite_2_vol": null,
+      "cite_3_page": null,
+      "cite_3_reporter": null,
+      "cite_3_vol": null,
+      "citation_status": "Not applicable",
+      "court": "Eastern District of Michigan",
+      "no_title": false,
+      "party_types": [
+        "Plaintiff"
+      ],
+      "per_curium": false,
+      "is_core_document": true,
+      "id": 79703,
+      "file": "https://clearinghouse-umich-production.s3.amazonaws.com/media/doc/79703.pdf",
+      "title": "Plaintiff's Verified Complaint for Injunctive and Declaratory Relief",
+      "text": "2:13-cv-12038-VAR-RSW   Doc # 1   Filed 05/08/13   Pg 1 of 10    Pg ID 1\n \nUNITED STATES DISTRICT COURT \nFOR THE EASTERN DISTRICT OF MICHIGAN \nSOUTHERN DIVISION \n \n \nSAEB MOKDAD, \n \nPlaintiff, \n \nvs.                Case No.: \n                  Hon. \nERIC  H.  HOLDER,  JR.  in  his  official \ncapacity  as  Attorney  General  of  the  United \nStates of America; ROBERT S. MUELLER, \n \n.\nC III, in his official capacity as Director of the  PLAINTIFF’S VERIFIED \nP. Federal  Bureau  of  Investigation;  and  COMPLAINT FOR \n  TIMOTHY  J.  HEALY,  in  his  official  INJUNCTIVE AND \nS\n \nE20 capacity as Director of the Terrorist Screening  DECLARATORY RELIEF \nATe 2  Center, \nES SOCId, Suit 481870     Defenda nts.             \nCSoaAN50\n AW OFFI&AYAD  ton Center RTON, MICHIG (734) 983-0 NNA22AAtt0oBB0rI nIHCHe aHy nH .ft ooA. rnAY  PCAYlDaeAin n(DtPtei r5f& f9R 5 dA1.,8S S)S tOe.C 2I2A0T  ES, P.C. \nLAnN Canton, MI 48187 \naA\n CC (734) 983-0500 \n. \nH0\n0  \n2\n 2\nH  \nI\nB PLAINTIFF’S VERIFIED COMPLAINT FOR  \nA INJUNCTIVE AND DECLARATORY RELIEF \nN\nViolation of the Fifth Amendment to the \nUnited States Constitution \nAnd \nThe Administrative Procedures Act \n \nNOW COMES, Plaintiff by and through undersigned counsel and respectfully submits \nthe following as Plaintiff’s Verified Complaint: \n \n \n1 | P a g e  \n \n\n2:13-cv-12038-VAR-RSW   Doc # 1   Filed 05/08/13   Pg 2 of 10    Pg ID 2\n \nPRELIMINARY STATEMENT \n \n1.  Free and unabridged access to commercial air travel is an integral component to a \ncitizen’s modern exercise of their fundamental right to movement and travel. The “No Fly List” \nrepresents the most visible and egregious impediment to this right. Presently, the United State’s \nsystem of screening prospective travelers through the No Fly List is clandestine; forestalling \nprospective  travelers  from  obtaining  any  information  about  their  inclusion  on  the  list  or \nproviding any cognizable process for challenging the same. \n \n.\nC\n. 2.  The Plaintiff to this Action is a United States citizen who was, and continues to \nP\n \nS\n \nE0 be, denied boarding flights to and from the United States to his home country of Lebanon. \n2\nT2\nAe  \nES SOCId, Suit 481870  3.  Plaintiff has made several unsuccessful attempts to board flights within the United \nCSoaAN50 States  but  has  been  denied,  apparently  due  to  the  Transportation  Security  Administration’s \nIARG0\n AW OFF&YAD  ton Center TON, MICHI (734) 983- represen4t.a tion tPhlaati nhtei fifs  doone tsh en oNt ok nFolyw L wisht.y  he is allegedly on the No Fly List and government \nLAnN\naA\n CC officials have been unable or unwilling to explain why he is on the No Fly List, or further, how \n. \nH0\n0\n2\n 2\nH Plaintiff can be removed from the No Fly List. \nI\nB\nA 5.  Plaintiff has made numerous, albeit unsuccessful, attempts to receive additional \nN\ninformation and remove himself from the no fly list. \n6.  The  government’s  inability  or  unwillingness  to  cooperate  in  any  meaningful \nfashion has caused Plaintiff to file the present action seeking declaratory and injunctive relief. \nNamely, the removal of his name from the No Fly List or any other such list that would prevent \nPlaintiff from boarding a commercial aircraft. \n \n2 | P a g e  \n \n\n2:13-cv-12038-VAR-RSW   Doc # 1   Filed 05/08/13   Pg 3 of 10    Pg ID 3\n \nPARTIES \n7.  Plaintiff Saeb Mokdad is a forty six year old male and resident of Dearborn, Michigan. \nHe has been residing within the United States for over twenty-six (26) years was proud to \nreceive his United States Citizenship on or about 1991. \n8.  Plaintiff is a successful concert promoter and entrepreneur in Dearborn, and has a number \nof active business matter in Beirut that need to be concluded. Specifically, Mr. Mokdad  \nneeds to conclude a lawsuit in Beirut in which he is the Plaintiff, set to settle on May 8, \n \n.\nC\n. 2013.  \nP\n \nS\n \nE0 9.  Defendant Eric Holder, Jr. is the Attorney General of the United States of America and \n2\nT2\nAe  \nES SOCId, Suit 481870  leads the Department of Justice (hereinafter “DOJ”), a department of the United States \nCSoaAN50 that oversees the Federal Bureau of Investigations (hereinafter “FBI”). Defendant Holder \nIARG0\n AW OFF&YAD  ton Center TON, MICHI (734) 983- 10. iTsh seu FedB iIn m haisin otaffinicsi aaln cda opvaceirtsye.e s the Terrorist Screen Center (hereinafter “TSC”). \nLAnN\naA\n CC 11. The TSC develops and maintains the federal government’s consolidated Terrorist \n. \nH0\n0\n2\n 2\nH Screening Database and the No Fly List. \nI\nB\nA 12. Defendant Robert S. Mueller is the Director of the FBI and he is sued in his official \nN\ncapacity. \n13. Defendant Timothy J. Healy is the Director of the Terrorist Screening Center and is sued \nin his official capacity.  \nJURISDICTION AND VENUE \n14.  This  Verified  Complaint  against  the  Federal  Bureau  of  Investigations,  the \nTerrorist Screening Center, and the United States Department of Justice is to bring redress for a \n3 | P a g e  \n \n\n2:13-cv-12038-VAR-RSW   Doc # 1   Filed 05/08/13   Pg 4 of 10    Pg ID 4\n \nviolation  had  under  the  Fifth  Amendment  to  the  United  States  Constitution  and  the \nAdministrative Procedures Act (hereinafter “APA”). \n15.  Subject matter jurisdiction is established by and through 28 USC 1331 and 5 USC \n702. \n16.  This Honorable Court has authority to grant declaratory relief pursuant to the \nDeclaratory Judgment Act found at 28 USC 2201 and 2202. \n17.  The APA, 5 USC 706, vests this Honorable Court with the power to challenge and \n \n.\nC review agency actions that are unlawfully withheld or unreasonably delayed and to set aside the \n.\nP\n  challenged agency action. Further authority for this action for injunctive relief is found in the \nS\n \nE0\n2\nATe 2  Due Process Clause of the United States Constitution.  \nES SOCId, Suit 481870  18.  Venue is properly before this Court. Pursuant to 28 USC 1391(e) the above \nCSoaAN50\n AW OFFI&AYAD  ton Center RTON, MICHIG (734) 983-0 noaffmiceidal  Dcaepfeancditaiensts a asr es uocfhfi. cFeursr tohfe ra,g Pelnaciinetsif of fr ethsied eUsn witeitdh iSnt attheiss  odfi sAtrmicet raicnad  aan sdu abrset asnuteiadl  ipna trht eoifr  \nLAnN the events, acts, and omissions giving rise to this action occurred within this district. \naA\n CC\n. \nH0\n0\n2\n 2\nH STATEMENT OF FACTS \nI\nB\nA\nN\n19.  Upon  information  and  belief  the  No  Fly  List  finds  its  beginnings  with  the \n“Terrorist  Screening  Center”  (hereinafter  “TSC”)  established  in  2003  to  consolidate  the \ngovernment’s approach to identifying and tracking individuals suspected of terrorist activities \nand/or those individuals that are known associates of the same. \n20.  Upon information and belief, the TSC is managed by the FBI, which develops, \nmaintains, and amends the consolidated Terrorist Screening Database (colloquially known as the \n“Terrorist Watch List”). \n4 | P a g e  \n \n\n2:13-cv-12038-VAR-RSW   Doc # 1   Filed 05/08/13   Pg 5 of 10    Pg ID 5\n \n21.  The TSC shares information with other law enforcement agencies such as the \nTransportation  Security  Administration  (hereinafter  “TSA”),  and  U.S.  Customs  and  Border \nProtection (hereinafter “CBP”) for use in screening travelers entering the United States. \n22.  Upon information and belief, an individual can be nominated for inclusion on \neither the No Fly List or the Terrorist Watch List by either the National Counterterrorism Center \nor the FBI. \n23.  Upon information and belief, following nomination by either the NCC or the FBI,  \n \n.\nC the TSC determines whether or not the subject individual qualifies as a “known or suspected \n.\nP\n  terrorist.” Individuals determined to be known or suspected terrorists are placed on the Terrorist \nS\n \nE0\n2\nATe 2  Watch List. It is presently unknown what standards are applied to placing an individual on the \nES SOCId, Suit 481870  No Fly List. \nCSoaAN50\n AW OFFI&AYAD  ton Center RTON, MICHIG (734) 983-0 mechan2is4m.  thaFt uwrtohuelrd  Dalelofewn daafnfetsc tehda vined ifvaiidleuda lst oto  pcrhoavlildene gea  thfaeiirr  ianncdlu stiroann sopna reeintht err etmhee dNiaol  \nLAnN Fly List or the Terrorist Watch List. \naA\n CC\n. \nH0\n0 25.  An individual aggrieved by their inclusion on the No Fly List is afforded a single \n2\n 2\nH\nI\nB remedy – file a Traveler Redress Inquiry Program (TRIP) complaint with the Department of \nA\nN\nHomeland Security. \n26.  Upon information and belief, TRIP transfers the individuals complaint to the TSC \nwhich, in secret, determines whether any action should be taken. Upon information and belief \nTSC provides no publicly available information about its decision making process. \n27.  Upon information and belief, the TSC is the agency that determines the propriety \nof an individual’s inclusion on the No Fly List. The TSC then informs DHS of its decision. DHS \nTRIP then responds to the individual with a vague and confusing letter that neither confirms nor \n5 | P a g e  \n \n\n2:13-cv-12038-VAR-RSW   Doc # 1   Filed 05/08/13   Pg 6 of 10    Pg ID 6\n \ndenies the existence of any terrorist watch list records relating to the individual, nor does the \nletter provide a factual basis for the determination, or the criteria considered. \n28.  Plaintiff has made three (3) such inquires with DHS, on or about September 22, \n2012, October 22, 2012, and January 4, 2013; but the Defendants have failed to correct the \nmatter.  \n29.  Plaintiff has continuously resided in or around the Dearborn area since 1986. He \nis married to a United States citizen and has four (4) children; all United States Citizens. His \n \n.\nC family is currently residing in Lebanon and has been prevented from traveling to the US to live \n.\nP\n  with Plaintiff.   \nS\n \nE0\n2\nATe 2  30.  Plaintiff has been unable to see his family for over seven months due to the \nES SOCId, Suit 481870  restriction on his travel.  \nCSoaAN50\n AW OFFI&AYAD  ton Center RTON, MICHIG (734) 983-0 was in B31ei.r ut foOrn a  ovri saitb owuitt hS heipst efammbielyr  2an2d,  2w0a1s2 p, rPelvaeinnttiefdf,  fraottmem flpytiendg  ttoo  tDraevtreol itt of rDomet rPoaitr,i sa. s  Ohne  \nLAnN or about this date, he was sent back to Beirut from Paris and notified by authorities he could not \naA\n CC\n. \nH0\n0 return to the US.  \n2\n 2\nH\nI\nB 32.  Upon learning about this apparent restriction of his travel, Plaintiff inquired with \nA\nN\nthe American Embassy in Paris, was told to head back to Beirut, and had to wait two weeks \nbefore he could be cleared for travel back to the United States.  \n33.  On Friday January 4, 2013, Plaintiff attempted to board a Lufthansa Airlines \nflight with connections to Beirut, Lebanon. Plaintiff attempted to travel to Beirut to visit with his \nfamily  for  ten  days.  Plaintiff  was  restricted  from  boarding  the  flight  by  law  enforcement \npersonnel at Metro Airport.  \n34.  Last week, on Wednesday May 1, 2013 Plaintiff attempted to board a Delta \nAirlines flight to Beirut, Lebanon. Plaintiff needed to be physically present in Beirut for his \n6 | P a g e  \n \n\n2:13-cv-12038-VAR-RSW   Doc # 1   Filed 05/08/13   Pg 7 of 10    Pg ID 7\n \nongoing civil suit and settlement set for May 8, 2013.  Plaintiff was again prevented from \nboarding the flight by law enforcement personnel at Metro Airport. \nFIRST CLAIM FOR RELIEF \nFAILURE TO PROVIDE POST-DEPRIVATION NOTICE AND HEARING \nViolation of the Fifth Amendment Due Process Clause of the United States Constitution \n35.  Plaintiff  incorporates  each  and  every  allegation  above  as  though  fully  plead \nherein. \n36.  Plaintiff has a liberty interest in traveling free from unreasonable burdens within, \n \n.\nC\n. to or from the United States of America. \nP\n \nS\n \nE0 37.  Further, Plaintiff has the right to be free from the false allegation that he is a \n2\nT2\nAe  \nES SOCId, Suit 481870  terrorist or that he is associated with terrorist activities when such harm arises in conjunction \nCSoaAN50 with  the  deprivation  of  his  constitutionally  protected  right  to  travel  pursuant  to  the  Fifth \nIARG0\n AW OFF&YAD  ton Center TON, MICHI (734) 983- Amend3m8.e nt DPulea iPnrtiofcf ehsass C al aliubseer.t y interest in not being singled out for punishment without trial \nLAnN\naA\n.  CC or  without  due  process  of  law.  Defendants’  actions  have  singled  out  Plaintiff  for  such \nH0\n0\n2\n 2\nH punishment, by way of example, by preventing Plaintiff from traveling by air through United \nI\nB\nA States airspace, effectively preventing Plaintiff from traveling to Lebanon. \nN\n39.  Plaintiff is entitled to a legal system that affords him notice and an opportunity to \ncontest the deprivation of his right to travel. \n40.  Defendants have violated Plaintiff’s rights without affording him due process of \nlaw and will continue to do so into the future so long as Plaintiff intends upon traveling to \nLebanon. \n \n7 | P a g e  \n \n\n2:13-cv-12038-VAR-RSW   Doc # 1   Filed 05/08/13   Pg 8 of 10    Pg ID 8\n \nSECOND CLAIM FOR RELIEF \nUNLAWFUL AGENCY ACTION \n5 USC 702, 706 \n41.  Plaintiff  incorporates  each  and  every  allegation  above  as  though  fully  plead \nherein. \n42.  Defendants’ actions as described herein were arbitrary, capricious, an abuse of \ndiscretion, otherwise not in accordance with law, and contrary to constitutional rights, power, \nprivilege, or immunity, and should be adjudicated as unlawful and set aside as such pursuant to \n \n.\nC 5 U.S.C. § 706. \n.\nP\n  43.  Defendants’ failure to provide Plaintiff with a constitutionally adequate remedy \nS\n \nE0\n2\nT2\nAe   that affords, at a minimum, notice and an opportunity to contest his placement on the No Fly \nES SOCId, Suit 481870  List  after  being  denied  access  to  commercial  flights  is  arbitrary,  capricious,  an  abuse  of \nCSoaAN50\n AW OFFI&AYAD  ton Center RTON, MICHIG (734) 983-0 dpirsivcrileetgioen, ,o or tihmemrwuinsiet yn, oatn idn  sahcocuolrdd baen csee tw aistihd el aaws ,u nanladw cfounl tpruarrysu taon tc toon 5st iUtu.Sti.oCn.a §l  r7i0g6h.t s, power, \nLAnN\naA\n.  CC PRAYER FOR RELIEF \nH0\n0\n2\n 2\nH\nI\nB WHEREFORE, Plaintiff respectfully requests that this Honorable Court enter an Order: \nA\nN\nA. Declaring that Defendants’ policies, practices, and customs violate the Fifth \nAmendment of the United States Constitution and the Administrative Procedure Act; \nB.  Enjoining Defendants and requiring them to remedy the constitutional and statutory \nviolations by removing Plaintiff from the No Fly List or any other list that prevents \nPlaintiff from exercising his constitutionally guaranteed right to travel; \n8 | P a g e  \n \n\n2:13-cv-12038-VAR-RSW   Doc # 1   Filed 05/08/13   Pg 9 of 10    Pg ID 9\n \nC.  Enjoining Defendants and requiring them to provide a valid legal mechanism that \naffords notice of the factual basis for the placement of individuals on the No Fly List \nand a meaningful opportunity to contest their inclusion on said list; \nD. Award attorney’s fees, costs, and expenses of all litigation pursuant to 28 USC 2412; \nand \nE.  Enter any and all other relief as this Court deems just and equitable. \n \n \n.\nC  \n.  \nP\n   \nS\n \nE0 Respectfully Submitted \n2\nT2\nAe    \nES SOCId, Suit 481870  N  ABIH H. AYAD & ASSOCIATES P.C. \nCSoaAN50 /s/ Nabih H. Ayad \n AW OFFI&AYAD  ton Center RTON, MICHIG (734) 983-0 Dated: May 8, 2013        _NA2_2at_t0bo_0irh_ nC _eHa_yn._  ftA_oo_ryn _a PC_dl_ae (in_Pnt_5te_ir9f_ f5R _1o_8a_)d_ ,_ S_u_i_t_e _2_2_0_ ____ \nLAnN Canton, MI 48187 \naA\n CC Phone: (734) 983-0500 \n. \nH0\n0 Fax: (734) 983-0520 \n2\n 2\nH  \nI\nB  \nA  \nN\n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n9 | P a g e  \n \n\n2:13-cv-12038-VAR-RSW   Doc # 1   Filed 05/08/13   Pg 10 of 10    Pg ID 10\n \n \n \n \nVERIFICATION \nI, the undersigned, hereby swear under oath, that I have read the entire complaint and I \nam in agreement to its contents in its entirety and that it is my understanding and knowledge to \nthe best of my recollection, at this time, that all information contained therein is true and \naccurate. \n \n.\nC\n.       /S/ SAEB MOKDAD \nP\n                ___________________________________ \nS\n \nE0                 SAEB MOKDAD \n2\nT2\nAe    \nES SOCId, Suit 481870    \nCSoaAN50  \n AW OFFI&AYAD  ton Center RTON, MICHIG (734) 983-0   \nLAnN\naA\n CC\n. \nH0\n0\n2\n 2\nH\nI\nB\nA\nN\n10 | P a g e  \n ",
+      "document_type_other": null,
+      "external_url": "",
+      "ecf_number": "1",
+      "clearinghouse_link": "clearinghouse.net/doc/79703"
+    },
+    {
+      "date": "2015-10-26",
+      "date_is_estimate": false,
+      "date_not_available": false,
+      "description": null,
+      "document_source": "PACER [Public Access to Court Electronic Records]",
+      "document_status": "Coding Complete",
+      "document_type": "Order/Opinion",
+      "order_type": "Non-Decree",
+      "citation_paren": null,
+      "cite_1_page": 807,
+      "cite_1_reporter": "F.3d",
+      "cite_1_vol": 804,
+      "cite_2_page": 6444668,
+      "cite_2_reporter": "WL",
+      "cite_2_vol": 2015,
+      "cite_3_page": null,
+      "cite_3_reporter": null,
+      "cite_3_vol": null,
+      "citation_status": "Official citation found/coded",
+      "court": "U.S. Court of Appeals for the Sixth Circuit",
+      "no_title": false,
+      "party_types": [
+        "Court"
+      ],
+      "per_curium": false,
+      "is_core_document": true,
+      "id": 79719,
+      "file": "https://clearinghouse-umich-production.s3.amazonaws.com/media/doc/79719.pdf",
+      "title": "Opinion [of the Sixth Circuit]",
+      "text": "      Case: 14-1094     Document: 36-2     Filed: 10/26/2015     Page: 1\nRECOMMENDED FOR FULL-TEXT PUBLICATION \nPursuant to Sixth Circuit I.O.P. 32.1(b) \n \nFile Name: 15a0256p.06 \n \nUNITED STATES COURT OF APPEALS \n \nFOR THE SIXTH CIRCUIT \n_________________ \n \n \nSAEB MOKDAD,  ┐   \nPlaintiff-Appellant,  │   \n│   \n \n│  No. 14-1094 \nv.  │   \n>\n \n│ \nLORETTA E. LYNCH, Attorney General, et al.  │ \nDefendants-Appellees.  │ \n┘ \n \nAppeal from the United States District Court  \nfor the Eastern District of Michigan at Detroit. \nNo. 2:13-cv-12038—Victoria A. Roberts, District Judge. \n \nArgued:  October 8, 2014 \n \nDecided and Filed:  October 26, 2015 \n \nBefore:  BATCHELDER, GILMAN, and GIBBONS, Circuit Judges. \n_________________ \nCOUNSEL \nARGUED:  Nabih H. Ayad, AYAD LAW, PLLC, Canton, Michigan, for Appellant.  Joshua \nWaldman, UNITED STATES DEPARTMENT OF JUSTICE, Washington, D.C., for Appellees.  \nON BRIEF:  Nabih H. Ayad, AYAD LAW, PLLC, Canton, Michigan, for Appellant.  Joshua \nWaldman, Sharon Swingle, UNITED STATES DEPARTMENT OF JUSTICE, Washington, \nD.C., for Appellees. \n \n  GIBBONS, J., delivered the opinion of the court in which GILMAN, J., joined, and \nBATCHELDER, J., joined in Sections I through III.  BATCHELDER, J. (pg. 13), delivered a \nseparate opinion concurring in part and dissenting Section IV. \n1 \n\n      Case: 14-1094     Document: 36-2     Filed: 10/26/2015     Page: 2\nNo. 14-1094  Mokdad v. Lynch, et al.  Page 2 \n \n_________________ \n \nOPINION \n_________________ \nJULIA SMITH GIBBONS, Circuit Judge.  This case presents issues of first impression in \nthis circuit: whether a district court has subject-matter jurisdiction to hear (1) a plaintiff’s direct \nchallenge to his placement on the No Fly List, a placement that is made by an agency called the \nTerrorist Screening Center, and (2) his challenge to the adequacy of the procedures to contest his \ninclusion  on  the  No  Fly  List,  a  process  that  is  governed  by  the  Transportation  Security \nAdministration (TSA).  On the former, we hold that the district court does have subject-matter \njurisdiction; we reverse the district court’s contrary holding and remand for further proceedings.  \nOn  the  latter,  we  decline  to  reach  the  question  and  dismiss  the  plaintiff’s  claims  without \nprejudice because he failed to join a necessary party (TSA) as a defendant. \nI. \nSaeb Mokdad is a naturalized United States citizen and resident of Dearborn, Michigan \nwho alleges that on at least three occasions since September 2012, he has been denied boarding \non commercial airline flights between the United States and his native country of Lebanon.  \nMokdad alleges that he has been placed on the federal government’s No Fly List.  \nMokdad alleges that on three occasions he applied for redress under the Department of \nHomeland Security (DHS) Traveler Redress Inquiry Program (TRIP).  On November 19, 2012, \nMokdad received a letter from DHS that did not confirm or deny whether he was on the No Fly \nList but informed him that “[i]n response to [your] request, we have conducted a review of any \napplicable records in consultation with other federal agencies, as appropriate.  It has been \ndetermined that no changes or corrections are warranted at this time.”  Compl. Ex. 2, 3, ECF No. \n6-2.  The letter notified him of his right to “file a request for administrative appeal with the \nTransportation Security Administration (TSA)” within 30 days, and further informed him that \nthe DHS TRIP determination would become final if he did not do so.  Id.  The letter stated that \n“[f]inal  determinations  are  reviewable  by  the  United  States  Court  of  Appeals  pursuant  to \n49 U.S.C. § 46110.”  Id.  \n\n      Case: 14-1094     Document: 36-2     Filed: 10/26/2015     Page: 3\nNo. 14-1094  Mokdad v. Lynch, et al.  Page 3 \n \nMokdad did not file an administrative appeal with the TSA or a petition with the Court of \nAppeals but instead filed a complaint, dated May 8, 2013, in the United States District Court for \nthe Eastern District of Michigan seeking injunctive and declaratory relief against the Attorney \nGeneral of the United States, the Director of the Federal Bureau of Investigation, and the \nDirector of the Terrorist Screening Center.  Mokdad did not name TSA or any TSA officer as a \ndefendant.  Mokdad requested, in part, that the district court order Defendants to remove him \nfrom the No Fly List and order Defendants to provide “notice of the factual basis for the \nplacement of individuals on the No Fly List and a meaningful opportunity to contest their \ninclusion on said list.”  Compl., 8-9, ECF No. 1.  \nThe government moved to dismiss Mokdad’s complaint on the basis that 49 U.S.C. \n§ 46110 stripped the district court of subject-matter jurisdiction.  Section 46110 makes clear that \nthe federal courts of appeals have exclusive jurisdiction to review the orders of certain federal \nagencies, including the Transportation Security Administration (TSA): \n[A] person disclosing a substantial interest in an order issued by the Secretary of \nTransportation (or the Under Secretary of Transportation for Security with respect \nto security duties and powers designated to be carried out by the Under Secretary \nor  the  Administrator  of  the  Federal  Aviation  Administration  with  respect  to \naviation duties and powers designated to be carried out by the Administrator) in \nwhole or in part under this part, part B, or subsection (l) or (s) of section 114 may \napply for review of the order by filing a petition for review in the United States \nCourt of Appeals for the District of Columbia Circuit or in the court of appeals of \nthe United States for the circuit in which the person resides or has its principal \nplace of business. \n49 U.S.C. § 46110(a).  (The Under Secretary of Transportation for Security was the head of TSA \nwhen TSA was created in 2001 as part of the Department of Transportation; TSA and its \n“functions,  personnel,  assets,  and  liabilities”  were  moved  to  DHS  in  2002.    See  6  U.S.C. \n§ 203(2).) \n[T]he court has exclusive jurisdiction to affirm, amend, modify, or set aside any \npart of the order and may order the Secretary, Under Secretary, or Administrator \nto conduct further proceedings.  . . .  [T]he court may grant interim relief by \nstaying the order or taking other appropriate action when good cause for its action \nexists.  Findings of fact by the Secretary, Under Secretary, or Administrator, if \nsupported by substantial evidence, are conclusive. \n49 U.S.C. § 46110(c). \n\n      Case: 14-1094     Document: 36-2     Filed: 10/26/2015     Page: 4\nNo. 14-1094  Mokdad v. Lynch, et al.  Page 4 \n \nThe No Fly List, however, is developed and maintained by the Terrorist Screening Center \n(TSC), a multi-agency center that was created in 2003 and is administered by the Federal Bureau \nof Investigation (FBI), which in turn is part of the Department of Justice.  TSC is staffed by \nofficials from multiple agencies, including the FBI, DHS, Department of State, Customs and \nBorder Protection, and TSA.  The No Fly List is a subset of the Terrorist Screening Database \n(TSDB), the U.S. government’s consolidated terrorist watchlist that is also maintained by TSC.  \nInclusion on the No Fly List “requires heightened derogatory criteria over and above the general \nreasonable suspicion standard for inclusion in the TSDB.”  Lubman Decl., 7, ECF No. 24-2.  \nTSC personnel decide whether to accept or reject the “nomination” of a person by the FBI or the \nNational Counterterrorism Center (NCTC) to the TSDB or the No Fly List.  TSC also decides \nwhether to remove a name from the TSDB after it receives a redress request that has been \nsubmitted through DHS TRIP.1   \nMokdad thus argued that § 46110 does not divest the district court of subject-matter \njurisdiction over his claims, because he sought to challenge not TSA’s redress letter issued to \nhim but rather his underlying placement on the No Fly List—a placement made by TSC, which \nis not one of the agencies enumerated in § 46110.  Mokdad relied on Ibrahim v. Department of \nHomeland Security, 538 F.3d 1250, 1256 (9th Cir. 2008), which held that the district court had \nsubject-matter jurisdiction over the plaintiff’s claim regarding placement of her name on the No \nFly List because “[t]he No Fly List is maintained by the Terrorist Screening Center, and section \n46110 doesn’t apply to that agency’s actions.”  Ibrahim also suggested that the doctrine of \n“inescapable intertwinement”—under which a special review statute such as § 46110 applies not \nonly to challenges to orders by a covered agency, but to claims inescapably intertwined with an \norder by a covered agency—does not extend to orders (such as TSC’s order placing a person on \nthe No Fly List) that are intertwined with orders of agencies that fall under the special review \nstatute (such as TSA).  See id. at 1255–56.  Latif v. Holder, 686 F.3d 1122, 1130 (9th Cir. 2012), \non which Mokdad also relied, extended Ibrahim to plaintiffs’ claim “that the government failed \n                                                 \n1\nAccording to TSC Acting Deputy Director for Operations Debra I. Lubman, this is true “unless the legal \nauthority to make such a determination resides, in whole or in part, with another government agency.  In such cases, \nTSC will only prepare a recommendation for the decision-making agency and will implement any determination \nonce made.”  Lubman Decl., 19, ECF No. 24-2.  No one—including Lubman in her declaration, or the government \nin its brief before this court—has suggested that TSA is one of the special agencies with statutory authority to make \nits own decision, separate from TSC, about whether someone belongs in the TSDB or on the No Fly List. \n\n      Case: 14-1094     Document: 36-2     Filed: 10/26/2015     Page: 5\nNo. 14-1094  Mokdad v. Lynch, et al.  Page 5 \n \nto afford them an adequate opportunity to contest their apparent inclusion on the [No Fly] \nList”—a claim challenging the adequacy of the redress process. \nThe district court in this case declined to follow Ibrahim and Latif, finding that the Ninth \nCircuit had “appl[ied] a narrow reading of the statute.”  Mokdad v. Holder, No. 13-12038, 2013 \nWL 8840322, at *4 (E.D. Mich. Dec. 5, 2013).  The district court found that TSC’s alleged order \nplacing Mokdad on the No Fly List was inescapably intertwined with TSA orders.  Id. at *4–5.  \nThe district court thus concluded that it lacked subject-matter jurisdiction over Mokdad’s claims \nand dismissed his complaint pursuant to Fed. R. Civ. P. 12(b)(1).  Id. at *5. \nMokdad timely appealed.  We have jurisdiction to hear this appeal under 28 U.S.C. \n§ 1291, and we review de novo a district court’s dismissal of a cause of action for lack of \nsubject-matter jurisdiction.  Portsmouth Ambulance, Inc. v. United States, 756 F.3d 494, 498 \n(6th Cir. 2014). \nII. \nAt the outset we must focus closely on what exactly Mokdad has alleged and against \nwhom.  Mokdad styled his complaint to raise two claims, each against three defendants: the \nAttorney General, the Director of the FBI, and the Director of the TSC.  First, Mokdad alleged \nthat defendants violated the Fifth Amendment Due Process Clause by harming his reputation and \ndepriving of him of his right to travel while failing to provide post-deprivation notice and a \nhearing.  Second, Mokdad alleged that defendants had engaged in unlawful agency action under \nthe Administrative Procedure Act (APA).  Mokdad’s APA claim is premised on his contention \nthat “defendants’ actions as described herein”—namely, allegedly placing him on the No Fly \nList, and “fail[ing] to provide a fair and transparent remedial mechanism that would allow \naffected  individuals  to  challenge  their  inclusion”—“were  arbitrary,  capricious,  an  abuse  of \ndiscretion,  otherwise  not  in  accordance  with  law,  and  contrary  to  constitutional  rights,”  in \nviolation of 5 U.S.C. § 706.  Compl., 1, 8, ECF No. 1. \nFor the purposes of the exclusive-review statute, § 46110, it is significant that Mokdad’s \narguments fall into two groups.  First, Mokdad challenges the adequacy of the procedures \nestablished for him to contest his alleged inclusion on the No Fly List (i.e., the redress process): \n\n      Case: 14-1094     Document: 36-2     Filed: 10/26/2015     Page: 6\nNo. 14-1094  Mokdad v. Lynch, et al.  Page 6 \n \nhe argues that the procedures are unlawful under the APA and unconstitutional under the Fifth \nAmendment.  Second, Mokdad challenges his alleged placement on the No Fly List: he argues \nthat  defendants’  actions  were  unlawful  under  the  APA.    We  consider  these  two  types  of \nchallenges in turn. \nIII. \nTo the extent that Mokdad challenges the adequacy of the redress process, his claims \namount to a challenge to a TSA order.  Congress has specifically directed DHS and TSA—not \nTSC—to establish a redress process for travelers who believe they have been wrongly included \non the No Fly List.  “The Secretary of Homeland Security shall establish a timely and fair \nprocess for individuals who believe they have been delayed or prohibited from boarding a \ncommercial aircraft because they were wrongly identified as a threat under the regimes utilized \nby the Transportation Security Administration, United States Customs and Border Protection, or \nany other office or component of the Department of Homeland Security.”  49 U.S.C. § 44926(a).  \nThe head of TSA is required to “establish a procedure to enable airline passengers, who are \ndelayed  or  prohibited  from  boarding  a  flight  because  the  advanced  passenger  prescreening \nsystem determined that they might pose a security threat, to appeal such determination and \ncorrect  information  contained  in  the  system.”    49  U.S.C.  §  44903(j)(2)(C)(iii)(I).    TSA  is \nadditionally required to “establish a timely and fair process for individuals identified as a threat \nunder [the passenger screening system] to appeal to the Transportation Security Administration \nthe determination and correct any erroneous information.”  49 U.S.C. § 44903(j)(2)(G)(i). \nTSA  has  issued  regulations  carrying  out  its  responsibilities  under  these  statutory \nauthorities.  49 C.F.R. §§ 1560.201–.207.  Under § 1560.205(d), “TSA, in coordination with the \nTSC and other appropriate Federal law enforcement or intelligence agencies, if necessary, will \nreview all the documentation and information requested from the individual” who is seeking \nredress, “correct any erroneous information, and provide the individual with a timely written \nresponse.”    However,  according  to  Lubman,  TSC  determines  “whether  the  identity  should \ncontinue to be in the TSDB or whether the status should be changed (for example, No Fly to \nSelectee).”  Lubman Decl., 18, ECF No. 24-2.  Mokdad complains that “[a]s TSA cannot make \ncorrections or changes in the TSDB, the current system for redress is meaningless and futile,” \n\n      Case: 14-1094     Document: 36-2     Filed: 10/26/2015     Page: 7\nNo. 14-1094  Mokdad v. Lynch, et al.  Page 7 \n \nsuch that it constitutes a “complete and utter denial of due process.”  R. 17, Appellant Br., 38.  \nWhether or not Mokdad is correct about the futility of the redress system, it is clear that he is \ncomplaining about the adequacy of the redress procedures established by TSA pursuant to its \nstatutory authorities outlined above. \nTSA is, therefore, a required party to Mokdad’s litigation about the adequacy of the \nredress procedures.  See Fed. R. Civ. P. 19.  But Mokdad failed to join TSA as a defendant.  \nFailure to join a required party is an issue that may be raised for the first time on appeal and that \nthe court may raise sua sponte.  Boles v. Greeneville Hous. Auth., 468 F.2d 476, 479 n.4 (6th Cir. \n1972) (citing Provident Tradesmens Bank and Trust Co. v. Patterson, 390 U.S. 102, 111 (1969)).  \nWe dismiss without prejudice Mokdad’s claims challenging the adequacy of the redress process.  \nSee id.  We decline to opine at this time whether § 46110 would deprive the district court of \nsubject-matter  jurisdiction  over  Mokdad’s  claims  challenging  the  adequacy  of  the  redress \nprocess, including any broad constitutional claims, if he were to file a new suit naming TSA as a \ndefendant.  Cf. Burdue v. FAA, 774 F.3d 1076 (6th Cir. 2014).  \nIV. \nTo the extent that Mokdad brings a direct challenge to his placement by TSC on the No \nFly List, however, he is challenging a TSC order, not a TSA order.  As discussed above, \nalthough  Congress  has  given  TSA  the  responsibility  of  establishing  redress  procedures  for \ntravelers who believe they have been wrongly included on the No Fly List, TSA does not \ndetermine who is placed on the No Fly List; TSC does.  Notwithstanding the government’s \nattempts to characterize his claim as a challenge to TSA’s decision to deny him boarding, \nMokdad makes clear that he is “challeng[ing] his actual placement on the No Fly List by the \nTSC.”  R. 17, Appellant Br., 11.  TSC is administered by the FBI.  The fact that TSC is an inter-\nagency  center  that  is  staffed  by  officials  from  multiple  agencies,  including  the  FBI,  DHS, \nDepartment of State, Customs and Border Protection, and also TSA, does not transform TSC’s \norder placing an individual on the No Fly List into an order of the TSA.  See Ibrahim, 538 F.3d \nat 1254–56. \nThe district court found that even if Mokdad’s claim challenging his placement on the No \nFly List is a challenge to a TSC order, that claim is “inescapably intertwined” with a TSA order \n\n      Case: 14-1094     Document: 36-2     Filed: 10/26/2015     Page: 8\nNo. 14-1094  Mokdad v. Lynch, et al.  Page 8 \n \nand therefore the court of appeals has exclusive jurisdiction under § 46110.  2013 WL 8840322, \nat *4–5.  We find this to be a misreading of the doctrine of inescapable intertwinement and we \nreject it, consistent with the Ninth Circuit’s holding in Ibrahim.  538 F.3d at 1255–56.  Under the \ndoctrine of inescapable intertwinement, “statutes such as Section 46110(c) that vest judicial \nreview of administrative orders exclusively in the courts of appeals also preclude district courts \nfrom hearing claims that are ‘inescapably intertwined’ with review of such orders.”  Merritt v. \nShuttle, Inc. (Merritt II), 245 F.3d 182, 187 (2d Cir. 2001).  The purpose of the inescapable-\nintertwinement doctrine is to prevent a plaintiff from “circumvent[ing] the exclusive jurisdiction \nof the court of appeals by collaterally attacking an administrative order in a federal district \ncourt.”  Ligon v. LaHood, 614 F.3d 150, 155 (5th Cir. 2010) (citing Green v. Brantley, 981 F.2d \n514, 521 (11th Cir. 1993)). \nThe leading Supreme Court case discussing the scope of exclusive-jurisdiction provisions \nsuch as § 46110 is City of Tacoma v. Taxpayers of Tacoma, 357 U.S. 320 (1958).2  There, the \nstatutory provision at issue was section 313(b) of the Federal Power Act, which vested in the \ncourt  of  appeals  exclusive  jurisdiction  for  judicial  review  of  orders  of  the  Federal  Power \nCommission.  357 U.S. at 335.  The Court ruled that this provision \nnecessarily precluded de novo litigation between the parties of all issues inhering \nin the controversy, and all other modes of judicial review.  Hence, upon judicial \nreview of the Commission’s order, all objections to the order, to the license it \ndirects to be issued, and to the legal competence of the licensee to execute its \nterms, must be made in the Court of Appeals or not at all. \nId. at 336 (footnote omitted).  The Second Circuit observed that the “inhering in the controversy” \nlanguage in City of Tacoma, although broad on its face, \nmust be read in relation to the Supreme Court’s other statements that, under \nSection 313(b), a party aggrieved by an administrative order may seek judicial \nreview of the order in the courts of appeals, that the courts of appeals have \nexclusive jurisdiction to affirm, modify or set aside such orders, and that all \nobjections to such orders must be made in the courts of appeals or not at all. We \nthus read City of Tacoma as holding that Section 313(b) precludes (i) de novo \nlitigation of issues inhering in a controversy over an administrative order, where \n                                                 \n2\nOur sister circuits have characterized City of Tacoma as the leading case on this issue.  See, e.g., Merritt \nII, 245 F.3d at 187 (citing Williams Natural Gas Co. v. City of Oklahoma City, 890 F.2d 255, 261 (10th Cir. 1989)). \n\n      Case: 14-1094     Document: 36-2     Filed: 10/26/2015     Page: 9\nNo. 14-1094  Mokdad v. Lynch, et al.  Page 9 \n \none party alleges that it was aggrieved by the order, and (ii) all other modes of \njudicial review of the order. \nMerritt II, 245 F.3d at 188.  Later decisions of the Supreme Court have reiterated that exclusive-\njurisdiction provisions bar litigants from “requesting the District Court to enjoin action that is the \noutcome of the agency’s order,” FCC v. ITT World Commc’ns, Inc., 466 U.S. 463, 468 (1984), \nbut not claims that are “wholly collateral to a statute’s review provisions,” Thunder Basin, \n510 U.S. at 212 (internal quotation marks omitted) (citing Heckler v. Ringer, 466 U.S. 602, 618 \n(1984)). \nConsistent  with  these  decisions,  our  sister  circuits  that  have  addressed  inescapable \nintertwinement in the context of § 46110 have asked whether the claim that the plaintiff seeks to \nraise—typically  a  constitutional  tort  claim—is  inescapably  intertwined  with  an  order  of  a \ncovered agency.  “A claim is inescapably intertwined [with an agency order] if it alleges that the \nplaintiff was injured by such an order and that the court of appeals has authority to hear the claim \non direct review of the agency order.”  Merritt II, 245 F.3d at 187 (citing City of Tacoma, \n357 U.S. at 336, 339).  “[D]istrict courts lack jurisdiction not only over direct challenges to \nFAA3 orders, but also over damages claims that are ‘inescapably intertwined with a review of the \nprocedures and merits surrounding an FAA order.’”  Ligon, 614 F.3d at 155 (quoting Zephyr \nAviation, LLC v. Dailey, 247 F.3d 565, 572 (5th Cir. 2001)).  An illustrative example is the Ninth \nCircuit’s decision in Tur v. FAA, 104 F.3d 290 (9th Cir. 1997).  Tur was a helicopter pilot whose \nairman’s certificate had been revoked by the FAA, a revocation that was affirmed by the Ninth \nCircuit.  Id. at 291.  Tur then sued two FAA attorneys, “seek[ing] monetary damages . . . for \ndepriving him of his property interest in his airman’s certificate without due process of law \nthrough their knowing use of false testimony against him before the ALJ.”  Id.  The Ninth Circuit \ndismissed, finding that “Tur’s claims are inescapably intertwined with the merits of the previous \nrevocation order.”  Id. at 292. \nHere, by contrast, the government in effect urges that we find that a direct challenge to \none agency’s order is inescapably intertwined with another agency’s order—that Mokdad’s \nchallenge to TSC’s order placing him on the No Fly List is inescapably intertwined with both \n                                                 \n3\nThe FAA is also covered by § 46110.  See 49 U.S.C. § 46110(a). \n\n      Case: 14-1094     Document: 36-2     Filed: 10/26/2015     Page: 10\nNo. 14-1094  Mokdad v. Lynch, et al.  Page 10 \n \nTSA’s order denying him boarding and TSA’s orders governing the redress process.  This would \nbe an unprecedented departure from the doctrine of inescapable intertwinement as applied in \nother circuits. \nThe government contends that this approach—namely, finding that a direct challenge to \none agency’s order can be brought only in the court of appeals because the order of a second \nagency (which is covered by a special-review statute) is dependent on the first agency’s order—\nwould be consistent with Americans for Safe Access v. DEA, 706 F.3d 438 (D.C. Cir. 2013).  The \ngovernment, however, misreads that case.  Under 21 U.S.C. § 877, the courts of appeals have \nexclusive jurisdiction over final determinations of the Drug Enforcement Administration (DEA).  \nUnder 21 U.S.C. § 811, when DEA considers whether to reschedule a drug, DEA must request \nfrom the Department of Health and Human Services (HHS) “a scientific and medical evaluation” \nof the drug, and is bound by HHS’s evaluation “as to such scientific and medical matters.”  The \ngovernment reads Americans for Safe Access to hold that an attack on HHS’s “underlying \nevaluation of the scientific and medical evidence” cannot be brought as a district court action \ndirected at HHS, but can be brought only in the court of appeals pursuant to the exclusive \njurisdiction provision that applies to DEA.  R. 20, Appellee Br., 27.  This proposition lacks \nsupport in the text of the opinion, which simply reiterates that “DHHS’ recommendations are \nbinding on the DEA insofar as they rest on scientific and medical determinations.”  Ams. for Safe \nAccess, 706 F.3d at 450.  The plaintiff-appellants in that case chose to attack HHS’s finding as \npart of their case against DEA, but the court did not hold that they could not have separately \nattacked HHS’s finding in a direct challenge had they chosen to do so.  Id. \nIndeed, the D.C. Circuit has made clear in another case—a case about the very statute at \nissue in this case, § 46110—that the doctrine of inescapable intertwinement has never been \nconstrued in the way that the government urges.  See Ege v. U.S. Dep’t of Homeland Security, \nNo. 13-1110, 2015 WL 1903206, at *3 (D.C. Cir. Apr. 28, 2015) (“Although courts use the \n‘inescapably intertwined’ doctrine to review a claim not expressly included in a jurisdictional \ngrant, we are aware of no case—and neither party cites one—in which a court has used the \n‘inescapably intertwined’ doctrine to enjoin a party not so included.”). \n\n      Case: 14-1094     Document: 36-2     Filed: 10/26/2015     Page: 11\nNo. 14-1094  Mokdad v. Lynch, et al.  Page 11 \n \nNor does our decision in Shearson v. Holder, 725 F.3d 588 (6th Cir. 2013), compel us to \nconclude that Mokdad’s claims against the TSC are channeled by § 46110 exclusively to the \ncourt of appeals.  Our holding in Shearson was simply that a plaintiff seeking to challenge her \nalleged inclusion on the No Fly List must first exhaust her administrative remedies, including the \nTSA’s redress program.  Id. at 594.  Here, the government conceded at oral argument that \nMokdad has exhausted his administrative remedies.  The government argues, however, that \nbecause plaintiffs are required to exhaust their administrative remedies through TSA’s redress \nprocess, any further claims related somehow to one’s alleged inclusion on the No Fly List—\nwhether against TSA or TSC—must be brought only to the court of appeals, pursuant to § 46110.  \nWe disagree.  The question of whether a plaintiff must exhaust administrative remedies before \nbringing suit is distinct from the question of in which court a plaintiff can sue after exhaustion.  \nAs we emphasized in Shearson, practical considerations of promoting judicial efficiency and \ngiving agencies the first “opportunity to resolve problems with their procedures” undergird the \nexhaustion requirement.  Id.  These considerations were the basis for our holding that even a \nplaintiff seeking to bring claims against TSC must first exhaust her administrative remedies \nthrough TSA.  By contrast, the purpose of the doctrine of inescapable intertwinement is to \nprevent plaintiffs from circumventing specialized review statutes set up by Congress.  The \npractical  rationale  underlying  our  holding  in  Shearson  does  not  extend  to  the  context  of \ninescapable intertwinement. \nIn sum, we decline to accept the government’s invitation to expand the inescapable-\nintertwinement doctrine so as to find that Mokdad’s claim against the TSC is pulled within the \nambit  of  the  exclusive-review  statute  that  applies  to  TSA.    Doing  so  not  only  would  be \ninconsistent with existing law but also would run the risk of inadvertently expanding the number \nand range of agency orders that might fall under exclusive-jurisdiction provisions that Congress \ndid not intend to sweep so broadly.  We therefore reverse the district court’s judgment that it \nlacked subject-matter jurisdiction to hear Mokdad’s claim directly challenging his placement by \nTSC on the No Fly List.  That claim is remanded to the district court, which has subject-matter \njurisdiction under 28 U.S.C. § 1331 that has not been displaced by 49 U.S.C. § 46110. \n\n      Case: 14-1094     Document: 36-2     Filed: 10/26/2015     Page: 12\nNo. 14-1094  Mokdad v. Lynch, et al.  Page 12 \n \nV. \nFor the foregoing reasons, we dismiss without prejudice Mokdad’s challenges to the \nadequacy of the redress process, because he failed to join TSA as a defendant.  We reverse the \njudgment of the district court dismissing Mokdad’s challenge to his alleged placement on the No \nFly List by TSC and remand for further proceedings in the district court. \n   \n\n      Case: 14-1094     Document: 36-2     Filed: 10/26/2015     Page: 13\nNo. 14-1094  Mokdad v. Lynch, et al.  Page 13 \n \n_____________________________________________________ \n \nCONCURRING IN PART AND DISSENTING IN PART \n_____________________________________________________ \n  ALICE M. BATCHELDER, Circuit Judge, concurring in part and dissenting in part.  \nI concur in Sections I through III of this panel’s opinion, but I dissent from Section IV.  I would \nhold  that  Mokdad’s  challenge  to  the  TSC’s  inclusion  of  his  name  on  the  No-Fly  List  is \ninescapably intertwined with the actions of the TSA and DHS.  Therefore, according to the broad \nlanguage of 42 U.S.C. § 46110, original jurisdiction lies in this court, not in the district court. \n  As stated in the panel’s decision, “[a] claim is inescapably intertwined [with an agency \norder] if it alleges that the plaintiff was injured by such an order and that the court of appeals has \nauthority to hear the claim on direct review of the agency order.”  Merritt II, 245 F.3d at 187 \n(citing  City  of  Tacoma,  357  U.S.  at  336,  339).    Here,  Mokdad’s  challenge  to  the  TSC’s \nplacement of his name on the No-Fly List implicates two other relevant agency actions.  First, \nthe TSA prevented Mokdad from boarding flights to and from the United States.  Second, the \nDHS denied Mokdad’s request for relief in a TRIP determination, stating that no changes or \ncorrections were warranted at that time.  Both of these other agency actions are specifically \nmentioned in Mokdad’s complaint.  In the absence of these other agency actions, Mokdad would \nnot have suffered the damages he alleged and his challenge to the TSC’s action would be \nmeaningless.  The actions of the TSA and DHS give teeth to the actions of the TSC and therefore \nthey must be considered together.  Thus, Mokdad’s challenge to the No-Fly List is inescapably \nintertwined with the TSA’s decision to prevent him from boarding and the DHS’s determination \nto deny him relief.   \n  For these reasons, I dissent from Section IV of this panel’s decision.  Original jurisdiction \nproperly lies in this court, not in the district court. ",
+      "document_type_other": "",
+      "external_url": "",
+      "ecf_number": "36-2",
+      "clearinghouse_link": "clearinghouse.net/doc/79719"
+    },
+    {
+      "date": "2018-01-10",
+      "date_is_estimate": false,
+      "date_not_available": false,
+      "description": null,
+      "document_source": "PACER [Public Access to Court Electronic Records]",
+      "document_status": "Coding Complete",
+      "document_type": "Docket",
+      "order_type": null,
+      "citation_paren": null,
+      "cite_1_page": null,
+      "cite_1_reporter": null,
+      "cite_1_vol": null,
+      "cite_2_page": null,
+      "cite_2_reporter": null,
+      "cite_2_vol": null,
+      "cite_3_page": null,
+      "cite_3_reporter": null,
+      "cite_3_vol": null,
+      "citation_status": "Not applicable",
+      "court": "Eastern District of Michigan",
+      "no_title": false,
+      "party_types": [
+        "Court"
+      ],
+      "per_curium": false,
+      "is_core_document": true,
+      "id": 79701,
+      "file": "https://clearinghouse-umich-production.s3.amazonaws.com/media/doc/79701.pdf",
+      "title": "Docket [PACER]",
+      "text": "Case: 2:13-cv-12038   As of: 03/31/2018 08:07 PM EDT   1 of 6\nCLOSED,REOPENED\nU.S. District Court\nEastern District of Michigan (Detroit)\nCIVIL DOCKET FOR CASE #: 2:13−cv−12038−VAR−RSW\nMokdad v. Holder et al Date Filed: 05/08/2013\nAssigned to: District Judge Victoria A. Roberts Date Terminated: 08/10/2016\nReferred to: Magistrate Judge R. Steven Whalen Jury Demand: None\nCase in other court:  U.S. Court of Appeals − Sixth Circuit, Nature of Suit: 440 Civil Rights: Other\n14−01094 Jurisdiction: U.S. Government Defendant\nU.S. Court of Appeals − Sixth Circuit,\n14−01094\nU.S. Court of Appeals − Sixth Circuit,\n16−02442\nU.S. Court of Appeals − Sixth Circuit,\n16−02442\nCause: 28:1331 Federal Question: Other Civil Rights\nPlaintiff\nSaeb Mokdad represented by Nabih H. Ayad\nAyad Law, P.L.L.C.\n645 Griswold Street\nSuite 2202\nDetroit, MI 48226\n313−983−4600\nFax: 313−983−4665\nEmail: ayadlaw@hotmail.com\nATTORNEY TO BE NOTICED\nV.\nDefendant\nEric Holder represented by Brigham Bowen\nU.S. Department of Justice\nCivil Division, Federal Programs Branch\n20 Massachusetts, N.W.\nWashington, DC 20001\n202−514−6289\nFax: 202−616−8470\nEmail: brigham.bowen@usdoj.gov\nATTORNEY TO BE NOTICED\nJoseph C. Folio , III\nU.S. Department of Justice\nCivil Divison, Federal Programs Branch\n20 Massachusetts Ave., NW\nWashington, DC 20001\n202−305−4968\nFax: 202−616−8470\nEmail: Joseph.Folio@usdoj.gov\nTERMINATED: 11/18/2015\nATTORNEY TO BE NOTICED\nDefendant\nRobert S Mueller represented by Brigham Bowen\n(See above for address)\nATTORNEY TO BE NOTICED\nJoseph C. Folio , III\n(See above for address)\n\nCase: 2:13-cv-12038   As of: 03/31/2018 08:07 PM EDT   2 of 6\nTERMINATED: 11/18/2015\nATTORNEY TO BE NOTICED\nDefendant\nTimothy J Healy represented by Brigham Bowen\n(See above for address)\nATTORNEY TO BE NOTICED\nJoseph C. Folio , III\n(See above for address)\nTERMINATED: 11/18/2015\nATTORNEY TO BE NOTICED\nDate Filed # Docket Text\n05/08/2013 1  COMPLAINT filed by Saeb Mokdad against All Defendants. Plaintiff requests\nsummons issued. Receipt No: 0645−4083278 − Fee: $ 400. County of 1st Plaintiff:\nwayne −County Where Action Arose: Wayne −County of 1st Defendant: D.C..\n[Previously dismissed case: No] [Possible companion case(s): None] (Ayad, Nabih)\n(Entered: 05/08/2013)\n05/08/2013 2  SUMMONS Issued for *Eric Holder* (DWor) (Entered: 05/08/2013)\n05/08/2013 3  SUMMONS Issued for *Robert S Mueller* (DWor) (Entered: 05/08/2013)\n05/08/2013 4  SUMMONS Issued for *Timothy J Healy* (DWor) (Entered: 05/08/2013)\n05/08/2013 5  SUMMONS Issued for the United States Attorney and the Office of the Attorney\nGeneral. (DWor) (Entered: 05/08/2013)\n05/08/2013 A United States Magistrate Judge of this Court is available to conduct all proceedings\nin this civil action in accordance with 28 U.S.C. 636c and FRCP 73. The Notice,\nConsent, and Reference of a Civil Action to a Magistrate Judge form is available for\ndownload at http://www.mied.uscourts.gov (DWor) (Entered: 05/08/2013)\n05/09/2013 6  INDEX of Exhibits re 1 Complaint, by Saeb Mokdad (Attachments: # 1 Exhibit\nVerification, # 2 Exhibit TRIP Inquiries) (Ayad, Nabih) (Entered: 05/09/2013)\n06/10/2013 7  CERTIFICATE of Service/Summons Returned Executed. Office of U.S. Attorney\nGeneral served on 05/20/2013. (Ayad, Nabih) (Entered: 06/10/2013)\n06/10/2013 8  CERTIFICATE of Service/Summons Returned Executed. FBI served on 05/20/2013.\n(Ayad, Nabih) (Entered: 06/10/2013)\n06/10/2013 9  CERTIFICATE of Service/Summons Returned Executed. U.S. Attorney General\nserved on 05/20/2013. (Ayad, Nabih) (Entered: 06/10/2013)\n06/10/2013 10  CERTIFICATE of Service/Summons Returned Executed. U.S. Attorney on behalf of\nAll Plaintiffs. (Ayad, Nabih) (Entered: 06/10/2013)\n06/10/2013 11  CERTIFICATE of Service/Summons Returned Executed. FBI served on 05/20/2013.\n(Ayad, Nabih) (Entered: 06/10/2013)\n07/10/2013 12  NOTICE of Appearance by Joseph C. Folio, III on behalf of All Defendants. (Folio,\nJoseph) (Entered: 07/10/2013)\n07/10/2013 13  STIPULATION to Extend Time for Defendants to Answer or Otherwise Respond by\nAll Parties (Folio, Joseph) (Entered: 07/10/2013)\n07/12/2013 14  ORDER Extending Time, (Responses due by 7/22/2013). Signed by District Judge\nVictoria A. Roberts. (Ciesla, C) (Entered: 07/12/2013)\n07/18/2013 15  STIPULATION AND ORDER ENLARGING PAGE LIMITS FOR BRIEFING ON\nMOTION TO DISMISS, Signed by District Judge Victoria A. Roberts. (Ciesla, C)\n(Entered: 07/18/2013)\n07/22/2013 16  MOTION to Dismiss by All Defendants. (Attachments: # 1 Exhibit Exhibit A) (Folio,\nJoseph) (Entered: 07/22/2013)\n\nCase: 2:13-cv-12038   As of: 03/31/2018 08:07 PM EDT   3 of 6\n07/23/2013 17  Emergency MOTION for Order Permitting Immediate Travel by All Plaintiffs. (Ayad,\nNabih) (Entered: 07/23/2013)\n07/24/2013 18  **STICKEN** ORDER EXPEDITING BRIEFING ON PENDING MOTIONS re 16\nMOTION to Dismiss filed by Timothy J Healy, Eric Holder, Robert S Mueller AND\n17 Emergency MOTION for Order Permitting Immediate Travel filed by Saeb\nMokdad. Set Motion and R&R Deadlines/Hearings as to 16 MOTION to Dismiss\nAND 17 Emergency MOTION: (Responses due by 7/29/2013, Replies due by\n8/2/2013). Signed by District Judge Victoria A. Roberts. (Ciesla, C) Modified on\n7/26/2013 (LVer). (Entered: 07/24/2013)\n07/25/2013 19  Emergency MOTION for Extension of Time to File Response/Reply as to 18 Order,\nSet Motion and R&R Deadlines/Hearings,,,, by Saeb Mokdad. (Ayad, Nabih)\n(Entered: 07/25/2013)\n07/25/2013 20  RESPONSE to 19 Emergency MOTION for Extension of Time to File\nResponse/Reply as to 18 Order, Set Motion and R&R Deadlines/Hearings,,,, filed by\nAll Defendants. (Folio, Joseph) (Entered: 07/25/2013)\n07/26/2013 21  ORDER Granting 19 Motion and Striking Briefing Schedule. Signed by District Judge\nVictoria A. Roberts. (see image for details and dates) (LVer) (Entered: 07/26/2013)\n08/12/2013 22  RESPONSE to 16 MOTION to Dismiss filed by Saeb Mokdad. (Ayad, Nabih)\n(Entered: 08/12/2013)\n08/14/2013 23  STIPULATED ORDER Enlarging Page Limits for Defendants' Response to Plaintiff's\n17 Emergency MOTION for Order Permitting Immediate Travel. Signed by District\nJudge Victoria A. Roberts. (Loury, R) (Entered: 08/14/2013)\n08/16/2013 24  RESPONSE to 17 Emergency MOTION for Order Permitting Immediate Travel filed\nby All Defendants. (Attachments: # 1 Index of Exhibits, # 2 Exhibit A − Lubman\nDeclaration, # 3 Exhibit B − Allied Erecting and Dismantling Co., Inc. v. Genesis\nEquip. & Mfg., Inc., 511 F. App'x 398 (6th Cir. 2013)) (Folio, Joseph) (Entered:\n08/16/2013)\n08/20/2013 25  REPLY to Response re 17 Emergency MOTION for Order Permitting Immediate\nTravel & MOTION TO STRIKE RESPONSE filed by Saeb Mokdad. (Ayad, Nabih)\n(Entered: 08/20/2013)\n08/22/2013 26  RESPONSE to 25 Reply to Response to Motion Defendants' Response to Plaintiff's\nMotion to Strike by All Defendants. (Attachments: # 1 Index of Exhibits, # 2 Exhibit A\n− Stirton v. Mich. Tooling Ass'n, 2005 WL 3502153 (E.D. Mich. 2005), # 3 Exhibit\nDearborn Lodging, Inc. v. City of Dearborn, 2012 WL 1658684 (E.D. Mich. 2012))\n(Folio, Joseph) (Entered: 08/22/2013)\n08/23/2013 27  REPLY to Response re 17 Emergency MOTION for Order Permitting Immediate\nTravel With Request to Strike filed by Saeb Mokdad. (Ayad, Nabih) (Entered:\n08/23/2013)\n08/27/2013 28  MOTION for Leave to File Excess Pages by All Defendants. (Folio, Joseph) (Entered:\n08/27/2013)\n08/28/2013 29  ORDER Granting 28 Motion for Leave to File Excess Pages. Signed by District Judge\nVictoria A. Roberts. (Loury, R) (Entered: 08/28/2013)\n08/29/2013 30  REPLY to Response re 16 MOTION to Dismiss filed by All Defendants.\n(Attachments: # 1 Index of Exhibits, # 2 Exhibit A − Thomson v. Stone (E.D. Mich.),\n# 3 Exhibit B − Latif v. Holder (D. Or.), # 4 Exhibit C − Bennafield v. City of Canton\nPolice Dep't (6th Cir.), # 5 Exhibit D − Shearson v. Holder (6th Cir.)) (Folio, Joseph)\n(Entered: 08/29/2013)\n09/03/2013 31  MOTION to Strike 30 Reply to Response to Motion, by Saeb Mokdad. (Ayad, Nabih)\n(Entered: 09/03/2013)\n09/04/2013 32  ORDER Denying Motions to Strike 25 and 31 . Signed by District Judge Victoria A.\nRoberts. (LVer) (Entered: 09/04/2013)\n10/25/2013 33  EXHIBIT re 25 Reply to Response to Motion, 17 Emergency MOTION for Order\nPermitting Immediate Travel by Saeb Mokdad (Attachments: # 1 Exhibit Letter from\n\nCase: 2:13-cv-12038   As of: 03/31/2018 08:07 PM EDT   4 of 6\nGeneral Consulate of Lebanon) (Ayad, Nabih) (Entered: 10/25/2013)\n12/05/2013 34  ORDER granting 16 Motion to Dismiss; terminating 17 Motion for Order for\nEmergency Travel. See order for details. Signed by District Judge Victoria A. Roberts.\n(CPin) (Entered: 12/05/2013)\n12/05/2013 35  JUDGMENT in favor of Defendants against Plaintiff Signed by District Judge Victoria\nA. Roberts. (CPin) (Entered: 12/05/2013)\n01/24/2014 36  NOTICE OF APPEAL by Saeb Mokdad re 35 Judgment, 34 Order on Motion to\nDismiss, Order on Motion for Order. Receipt No: 0645−4470669 − Fee: $ 505 − Fee\nStatus: Fee Paid. (Ayad, Nabih) (Entered: 01/24/2014)\n01/24/2014 37  Certificate of Service re 36 Notice of Appeal. (TMcg) (Entered: 01/24/2014)\n06/25/2014 38  ORDER from U.S. Court of Appeals − Sixth Circuit re 36 Notice of Appeal filed by\nSaeb Mokdad [Appeal Case Number 14−1094] (KKra) (Entered: 06/26/2014)\n10/26/2015 41  OPINION from U.S. Court of Appeals − Sixth Circuit re 36 Notice of Appeal filed by\nSaeb Mokdad [Appeal Case Number 14−1094] (Ahmed, N) (Entered: 12/15/2015)\n10/26/2015 42  JUDGMENT from U.S. Court of Appeals − Sixth Circuit re 36 Notice of Appeal filed\nby Saeb Mokdad [Appeal Case Number 14−1094] (Ahmed, N) (Entered: 12/15/2015)\n10/29/2015 Set Deadlines/Hearings:  TELEPHONIC Status Conference set for 11/17/2015 at\n4:00 PM before District Judge Victoria A. Roberts. The Court will initiate the call.\n(LVer) (Entered: 10/29/2015)\n11/17/2015 39  NOTICE of Appearance by Brigham Bowen on behalf of Timothy J Healy, Eric\nHolder, Robert S Mueller. (Bowen, Brigham) (Entered: 11/17/2015)\n11/18/2015 40  STIPULATION AND ORDER of Attorney Withdrawal by Joseph Folio. Signed by\nDistrict Judge Victoria A. Roberts. (CPin) (Entered: 11/18/2015)\n11/23/2015 Set Deadlines/Hearings:  TELEPHONIC Status Conference set for 12/3/2015 at\n2:00 PM before District Judge Victoria A. Roberts. The Court will initiate the call.\n(LVer) (Entered: 11/23/2015)\n11/24/2015 Set Deadlines/Hearings:  TELEPHONIC Status Conference reset for 12/3/2015 at\n12:30 PM before District Judge Victoria A. Roberts. PLEASE NOTE THIS IS A\nTIME CHANGE ONLY. (LVer) (Entered: 11/24/2015)\n12/03/2015 Set Deadlines/Hearings:  TELEPHONIC Status Conference set for 12/14/2015 at\n10:00 AM before District Judge Victoria A. Roberts. (LVer) (Entered: 12/03/2015)\n12/14/2015 Minute Entry for proceedings before District Judge Victoria A. Roberts: Telephonic\nStatus Conference held on 12/14/2015 (CPin) (Entered: 12/14/2015)\n12/16/2015 43  ORDER.  TELEPHONIC Status Conference set for 1/12/2016 at 9:30 AM before\nDistrict Judge Victoria A. Roberts. Signed by District Judge Victoria A. Roberts.\n(see image for details and dates) (LVer) (Entered: 12/16/2015)\n12/18/2015 44  MANDATE from U.S. Court of Appeals − Sixth Circuit as to 42 Appeal\nOrder/Opinion/Judgment [Appeal Case Number 14−1094] (Ahmed, N) (Entered:\n12/18/2015)\n12/24/2015 45  NOTICE by All Defendants re 43 Order, Set Deadlines/Hearings − Notice of DHS\nTRIP Response (Attachments: # 1 Exhibit − DHS TRIP Response Letter) (Bowen,\nBrigham) (Entered: 12/24/2015)\n01/12/2016 Set Deadlines/Hearings:  TELEPHONIC Status Conference set for 4/4/2016 at\n10:00 AM before District Judge Victoria A. Roberts. The Court will initiate the\ncall. (LVer) (Entered: 01/12/2016)\n01/12/2016 Minute Entry for proceedings before District Judge Victoria A. Roberts: Telephonic\nStatus Conference held on 1/12/2016 (CPin) (Entered: 01/12/2016)\n04/04/2016 Set Deadlines/Hearings:  TELEPHONIC Status Conference set for 4/14/2016 at\n2:00 PM before District Judge Victoria A. Roberts. The Court will initiate the call.\n(LVer) (Entered: 04/04/2016)\n\nCase: 2:13-cv-12038   As of: 03/31/2018 08:07 PM EDT   5 of 6\n04/12/2016 Set Deadlines/Hearings:  TELEPHONIC Status Conference reset for 4/26/2016\n03:00 PM before District Judge Victoria A. Roberts (CPin) (Entered: 04/12/2016)\n04/27/2016 Minute Entry for proceedings before District Judge Victoria A. Roberts: Telephonic\nStatus Conference held on 4/27/2016 (CPin) (Entered: 04/27/2016)\n04/29/2016 46  Order Setting Briefing Schedule. Signed by District Judge Victoria A. Roberts. (see\nimage for details and dates) (LVer) (Entered: 04/29/2016)\n05/18/2016 47  MOTION to Dismiss for Lack of Jurisdiction and Failure to State a Claim Upon\nWhich Relief Can Be Granted by Timothy J Healy, Eric Holder, Robert S Mueller.\n(Bowen, Brigham) (Entered: 05/18/2016)\n06/09/2016 48  (STRICKEN)STIPULATION by Saeb Mokdad (Ayad, Nabih)[STIPULATION TO\nEXTEND RESPONSE DEADLINE] Modified on 6/10/2016 (DPer). Modified on\n6/10/2016 (CPin). (Entered: 06/09/2016)\n06/10/2016 TEXT−ONLY ORDER STRIKING 48 Stipulation and Order filed by Saeb Mokdad\nSigned by District Judge Victoria A. Roberts. (CPin) (Entered: 06/10/2016)\n06/14/2016 49  STIPULATION AND ORDER to Extend Time to Filre Response re 47 MOTION to\nDismiss for Lack of Jurisdiction and Failure to State a Claim Upon Which Relief Can\nBe Granted filed by Timothy J Healy, Eric Holder, Robert S Mueller. Response due\nby 6/24/2016Reply due by 7/15/2016 Signed by District Judge Victoria A. Roberts.\n(CPin) (Entered: 06/14/2016)\n06/24/2016 50  RESPONSE to 47 MOTION to Dismiss for Lack of Jurisdiction and Failure to State a\nClaim Upon Which Relief Can Be Granted filed by Saeb Mokdad. (Ayad, Nabih)\n(Entered: 06/24/2016)\n07/08/2016 51  Ex Parte MOTION for Leave to File Excess Pages by All Defendants. (Bowen,\nBrigham) (Entered: 07/08/2016)\n07/11/2016 52  ORDER granting 51 Motion for Leave to File Excess Pages. Signed by District Judge\nVictoria A. Roberts. (CPin) (Entered: 07/11/2016)\n07/15/2016 53  REPLY to Response re 47 MOTION to Dismiss for Lack of Jurisdiction and Failure\nto State a Claim Upon Which Relief Can Be Granted filed by Timothy J Healy, Eric\nHolder, Robert S Mueller. (Bowen, Brigham) (Entered: 07/15/2016)\n07/19/2016 54  ORDER Requiring Briefing regarding 47 Motion to Dismiss Notice of Hearing on\nMotion 47 MOTION to Dismiss for Lack of Jurisdiction and Failure to State a Claim\nUpon Which Relief Can Be Granted :( Motion Hearing set for 8/9/2016 at 2:30 PM\nbefore District Judge Victoria A. Roberts) Response due by 7/27/2016 Signed by\nDistrict Judge Victoria A. Roberts. (see image for details and dates) (LVer) (Entered:\n07/19/2016)\n07/27/2016 55  SUPPLEMENTAL BRIEF re 54 Order Requiring Responsive Pleading, Order Setting\nHearing on Motion,, filed by Timothy J Healy, Eric Holder, Robert S Mueller.\n(Bowen, Brigham) (Entered: 07/27/2016)\n07/27/2016 56  SUPPLEMENTAL BRIEF re 54 Order Requiring Responsive Pleading, Order Setting\nHearing on Motion,, 50 Response to Motion filed by All Plaintiffs. (Attachments: # 1\nExhibit) (Ayad, Nabih) (Entered: 07/27/2016)\n08/09/2016 Minute Entry for proceedings before District Judge Victoria A. Roberts: Motion\nHearing held on 8/9/2016 re 47 MOTION to Dismiss for Lack of Jurisdiction and\nFailure to State a Claim Upon Which Relief Can Be Granted filed by Timothy J\nHealy, Eric Holder, Robert S Mueller Disposition: Motion granted (Court Reporter:\nJanice Coleman) (CPin) (Entered: 08/15/2016)\n08/10/2016 57  ORDER Granting 47 Motion to Dismiss. Signed by District Judge Victoria A. Roberts.\n(see image for details and dates) (LVer) (Entered: 08/10/2016)\n08/16/2016 58  DECLARATION by Timothy P. Groh re 57 Order on Motion to Dismiss filed by\nTimothy J Healy, Eric Holder, Robert S Mueller (Bowen, Brigham) (Entered:\n08/16/2016)\n\nCase: 2:13-cv-12038   As of: 03/31/2018 08:07 PM EDT   6 of 6\n10/06/2016 59  NOTICE OF APPEAL by Saeb Mokdad. Receipt No: 0645−5904639 − Fee: $ 505 −\nFee Status: Fee Paid. (Ayad, Nabih) (Entered: 10/06/2016)\n10/06/2016 60  Certificate of Service re 59 Notice of Appeal. (SOso) (Entered: 10/06/2016)\n12/13/2016 61  TRANSCRIPT of Motion to Dismiss held on August 9, 2016. (Court\nReporter/Transcriber: Janice Coleman) (Number of Pages: 43) (Appeal Purposes) The\nparties have 21 days to file with the court and Court Reporter/Transcriber a Redaction\nRequest of this transcript. If no request is filed, the transcript may be made remotely\nelectronically available to the public without redaction after 90 days. Redaction\nRequest due 1/3/2017. Redacted Transcript Deadline set for 1/13/2017. Release of\nTranscript Restriction set for 3/13/2017. Transcript may be viewed at the court public\nterminal or purchased through the Court Reporter/Transcriber at\nwww.transcriptorders.com before the deadline for Release of Transcript Restriction.\nAfter that date, the transcript is publicly available. (Coleman, J.) (Entered: 12/13/2016)\n11/13/2017 62  OPINION from U.S. Court of Appeals − Sixth Circuit re 59 Notice of Appeal filed by\nSaeb Mokdad [Appeal Case Number 16−2442] (DWor) (Entered: 11/13/2017)\n11/21/2017 63  ORDER from U.S. Court of Appeals − Sixth Circuit re 59 Notice of Appeal filed by\nSaeb Mokdad [Appeal Case Number 16−2442] (DWor) (Entered: 11/21/2017)\n11/21/2017 64  OPINION and JUDGMENT from U.S. Court of Appeals − Sixth Circuit re 62 Appeal\nOrder/Opinion/Judgment, 59 Notice of Appeal filed by Saeb Mokdad [Appeal Case\nNumber 16−2442] (DWor) (Entered: 11/21/2017)\n01/10/2018 65  MANDATE from U.S. Court of Appeals − Sixth Circuit as to 62 Appeal\nOrder/Opinion/Judgment [Appeal Case Number 16−2442] (SKra) (Entered:\n01/10/2018)",
+      "document_type_other": "",
+      "external_url": "",
+      "ecf_number": null,
+      "clearinghouse_link": "clearinghouse.net/doc/79701"
+    },
+    {
+      "date": "2013-12-05",
+      "date_is_estimate": false,
+      "date_not_available": false,
+      "description": null,
+      "document_source": "PACER [Public Access to Court Electronic Records]",
+      "document_status": "Coding Complete",
+      "document_type": "Order/Opinion",
+      "order_type": "Non-Decree",
+      "citation_paren": null,
+      "cite_1_page": null,
+      "cite_1_reporter": null,
+      "cite_1_vol": null,
+      "cite_2_page": 8840322,
+      "cite_2_reporter": "WL",
+      "cite_2_vol": 2013,
+      "cite_3_page": null,
+      "cite_3_reporter": null,
+      "cite_3_vol": null,
+      "citation_status": "WL/LEXIS only: No official citation available",
+      "court": "Eastern District of Michigan",
+      "no_title": false,
+      "party_types": [
+        "Court"
+      ],
+      "per_curium": false,
+      "is_core_document": true,
+      "id": 79705,
+      "file": "https://clearinghouse-umich-production.s3.amazonaws.com/media/doc/79705.pdf",
+      "title": "Order Granting Defendant's Motion to Dismiss",
+      "text": "2:13-cv-12038-VAR-RSW   Doc # 34   Filed 12/05/13   Pg 1 of 9    Pg ID 422\nUNITED STATES DISTRICT COURT\nEASTERN DISTRICT OF MICHIGAN\nSOUTHERN DIVISION\nSaeb Mokdad,\nPlaintiff,\nVs Case No:  13-12038\nHonorable Victoria A. Roberts\nEric Holder, et al, \nDefendants\n_______________________________/\nORDER GRANTING DEFENDANTS’ MOTION TO DISMISS\nI. Introduction\nSaeb Mokdad (“Plaintiff”), a United States citizen, filed an action seeking injunctive and\ndeclaratory relief after he was denied boarding on commercial flights between the United States\nand Lebanon by the Transportation Security Administration (“TSA”). Plaintiff challenges the\nconstitutionality of the No-Fly List maintained by Defendants to identify passengers as potential\nthreats to aviation security. \nPlaintiff  claims  that  he  was  placed  on  the  No-Fly  List  without  reason  and  the\nGovernment is violating his constitutional right by not allowing him to travel to Lebanon. \nPlaintiff asks the Court to issue an Order giving him an emergency travel waiver which would\neffectively remove his name from the No-Fly list pending: (1) resolution of his civil lawsuit in\nLebanon and (2) registration of his divorce with the Lebanese government; this would allow his\nchildren to travel to the United States.   \nThe Government says that this Court does not have subject-matter jurisdiction under 49\nU.S.C. § 46110; this statute prohibits direct review of a TSA order by district courts.  Under this\n1\n\n2:13-cv-12038-VAR-RSW   Doc # 34   Filed 12/05/13   Pg 2 of 9    Pg ID 423\nstatute, an individual denied travel can only seek review of a TSA order through the United\nStates Court of Appeals. The Government makes additional arguments regarding Plaintiff’s\nclaim; they need not be addressed because the Court finds that it lacks subject-matter jurisdiction\nof this matter. \nDefendants’ Motion to Dismiss is GRANTED. Plaintiff’s complaint is DISMISSED. \nThis action must be filed with the Court of Appeals.  \nII. Background Facts \nThe Department of Homeland Security (“DHS”) is primarily responsible for preventing\nterrorist attacks within the United States and reducing its vulnerability to terrorism. The TSA, an\nagency within the DHS, is responsible for security in all modes of transportation. 49 U.S.C.\n114(d).  The TSA is required to implement procedures which allow law enforcement agencies to\nquickly identify individuals who pose a risk or threat to airline or passenger safety. 49 U.S.C.\n§114(h)(2). \n The TSA established Security Directives relating to two groups of people determined to\npose  a  risk  to  aviation  safety:  the  first  group,  identified  on  a  “No-Fly  List,”  consists  of\nindividuals who are prohibited from flying at all. The No-Fly List is maintained by the Terrorist\nScreening  Center  (“TSC”);  the  second  group,  identified  on  a  “Selectee  List,”  consists  of\nindividuals who must be “selected” by air carriers for additional screening before they are\npermitted to fly.\nThe TSC, created in 2003 by Executive Order, was formed to provide the Government\nwith  an  effective  consolidated  approach  to  terrorism  screening.    The  TSC  develops  and\nmaintains the federal government’s consolidated Terrorist Screening Database (“TSDB”).  The\nTSC receives sensitive unclassified information to be included in the TSDB from the National\n2\n\n2:13-cv-12038-VAR-RSW   Doc # 34   Filed 12/05/13   Pg 3 of 9    Pg ID 424\nCounterterrorism Center and the Federal Bureau of Investigation; this information allows the\nTSC to create the Lists. The No-Fly List is a subset of the TSDB. \nBased on preliminary information collected about an individual, a person is “nominated”\nto be included on one of the two lists by a government agency. If a person is nominated for\neither list, additional “derogatory” information must exist which demonstrates the individual\nmeets the criteria for placement on a list. The government does not define the term “derogatory.” \nThe No-Fly List identifies individuals suspected of involvement in terrorist activities. Placement\non the No-Fly List requires more than general reasonable suspicion, and cannot be based solely\nupon race, ethnicity, national origin, or religious affiliation. Each list has distinct requirements\nwhich must be met before an individual can be placed on it. The lists contain sensitive security\ninformation and are not available to the public. If a person is prevented from boarding and\nwishes to file an inquiry he or she may do so using the Department of Homeland Security\nTraveler Inquiry Program. (“DHS TRIP”). \nTRIP was created in response to Congress’s statutory mandate to “establish a timely and\nfair redress process for individuals who believe they were delayed or prohibited from boarding a\ncommercial aircraft because they were wrongly identified as a threat.” 49 U.S.C. §44926.  This\nprocess is available to people who believe they were wrongly placed on either the No-Fly List or\nSelectee List.\nAn inquiry is forwarded to the appropriate agency for review.  Upon review, if it is\ndetermined that a person with the same or similar name is on either list, the inquiry will be\nforwarded to the TSC to ensure the problem is not one of misidentification. The TSC does not\ndirectly accept inquiries from the public. During its review, the “TSA, in coordination with the\nTSC and other appropriate federal law enforcement or intelligence agencies, if necessary, will\n3\n\n2:13-cv-12038-VAR-RSW   Doc # 34   Filed 12/05/13   Pg 4 of 9    Pg ID 425\nreview  all  the  documentation  and  information  requested  from  the  individual,  correct  any\nerroneous information, and provide the individual with a timely written response.” 49 C.F.R. §\n1560.205(d). \n After the review is complete, DHS TRIP sends a determination letter to the individual\nindicating the agency’s findings and the complainant’s right to file an administrative appeal with\nthe TSA. The determination letter neither confirms nor denies placement on the No-Fly List. In\nsome cases, the TRIP letter informs the recipient that he or she can seek judicial review of the\norder in a United States Court of Appeals under §46110.  \nHere, Plaintiff says that the TSA prevented him from boarding three flights between\nLebanon and the United States. He used the TRIP process after he was informed that he was on\nthe No-Fly List; he requested permission to board a flight to Lebanon. \nIn  accordance  with  the  procedures  outlined  in  49  C.F.R.  1560.205,  TSA  reviewed\nPlaintiff’s  inquiry.    DHS  issued  a  final  determination  letter  stating  that  “no  changes  or\ncorrections are warranted at this time.”  While the letter did not confirm or deny his placement\non a list, it did indicate that he could file an administrative appeal with the TSA; or, seek judicial\nreview of the TSA order after thirty days, in the Court of Appeals.  Instead, Plaintiff filed a\nComplaint  in  this  Court  against  the  TSC,  among  others,  alleging  constitutional  violations\nstemming from his inclusion on the No-Fly List. \nPlaintiff’s Complaint alleges violations of his Fifth Amendment right to due process and\ninfringement upon his right to travel.  Specifically, Plaintiff contends that the process used by the\n“TSC” to place people on the No-Fly List is arbitrary and capricious.     \nDefendants filed a motion to dismiss claiming that the Court does not have subject-matter\njurisdiction under 49 U.S.C. § 46110.  Plaintiff moved for a preliminary injunction, seeking an\n4\n\n2:13-cv-12038-VAR-RSW   Doc # 34   Filed 12/05/13   Pg 5 of 9    Pg ID 426\nEmergency Travel Waiver which would allow him to take at least one commercial flight to\nLebanon to resolve a pending civil lawsuit and to properly register his divorce with the Lebanese\ngovernment. \nIII. Standard of Review \nDefendants move to dismiss Plaintiff's Complaint for lack of subject-matter jurisdiction\nunder FED. R. CIV. P. 12(b)(1), and also under12(b)(6) for failure to state a claim for which\nrelief may be granted. The Court must first decide the jurisdictional question; the Court cannot\ndispose of the Rule 12(b)(6) motion on the merits if the Court lacks subject-matter jurisdiction.\nMoir v. Greater Cleveland Regional Transit Authority, 895 F.2d 266, 267 (6th Cir. 1990). \nIV. Analysis \nA. Jurisdiction\nPlaintiff argues his placement on the No-Fly List can be challenged in any federal district\ncourt because the TSC is not governed by § 46110. He sues TSC because he says it is the only\nagency  with  authority  to  remove  him  from  the  No-Fly  List.    Plaintiff  makes  the  nuanced\nargument that he is not challenging the TSA order; rather, he is challenging the TSC’s decision\nand the procedures used to place him on the No-Fly List. \nDefendants says that under § 46110, any action for judicial review of a TSA order must\nbe filed with the court of appeals; they also argue that the TSC is inescapably intertwined with\nthe TSA order. \nThe relevant portion of 49 U.S.C. § 46110 states: \n [A] person disclosing a substantial interest in an order issued by\nthe  Secretary  of  Transportation  (or  the  Under  Secretary  of\nTransportation  for  Security  with  respect  to  security  duties  and\npowers designated to be carried out by the Under Secretary or the\nAdministrator of the Federal Aviation Administration with respect\nto aviation duties and powers designated to be carried out by the\n5\n\n2:13-cv-12038-VAR-RSW   Doc # 34   Filed 12/05/13   Pg 6 of 9    Pg ID 427\nAdministrator)  in  whole  or  in  part  under  this  part,  part  B,  or\nsubsection (l) or (s) of section 114 may apply for review of the\norder by filing a petition for review in the United States Court of\nAppeals for the District of Columbia Circuit or in the court of\nappeals of the United States for the circuit in which the person\nresides or has its principal place of business.\n49 U.S.C. § 46110. \nWhen the petition is sent to the Secretary, Under Secretary, or\nAdministrator, the court [of appeals] has exclusive jurisdiction to\naffirm, amend, modify, or set aside any part of the order and may\norder the Secretary, Under Secretary, or Administrator to conduct\nfurther proceedings…the court may grant interim relief by staying\nthe order or taking other appropriate action when good cause for\nits action exists.\n49 U.S.C. § 46110(c).\nPlaintiff requests this Court to rule as the court did in Latif v. Holder, 686 F.3d. 1122 (9th\nCir. 2012), and find jurisdiction over his substantive and procedural constitutional claims.  In\nLatif, plaintiffs challenged the inclusion of their names on the No-Fly List. The court held that\nbecause TSC, not TSA, compiled the actual list of names placed on the No-Fly List, § 46110 did\nnot  strip  the  district  court  of  federal  question  jurisdiction  over  the  plaintiffs’  substantive\nchallenges.  The Latif court held as Plaintiff urges here:  TSC is not governed by Section 46110.\nThe court also concluded that the district court had jurisdiction over plaintiffs’ broad procedural\nclaims, and held the claims were not inescapably intertwined with a review of the procedures\nand merits surrounding the agency's order.  Id. at 1127-29. \nThe Latif decision is largely based on the Ninth Circuit’s holding in Ibrahim v. Dep’t of\nHomeland Security, 538 F.3d 1250 (9th Cir. 2008). In Ibrahim, the majority concluded that\nbecause the TSC - an agency within the FBI - compiled the No-Fly List, that placement on the\nNo-Fly List was an order from an agency not named in Section 46110.  Id. at 1255. In each case,\nthe Ninth Circuit appears to apply a narrow reading of the statute to reach its decision.  The\nCourt respectfully declines to adopt Latif’s inescapable intertwinement analysis. \n6\n\n2:13-cv-12038-VAR-RSW   Doc # 34   Filed 12/05/13   Pg 7 of 9    Pg ID 428\nB. Inescapable Intertwinement Doctrine \nDistrict courts are precluded from hearing matters that are inescapably intertwined with\norders that fall within the purview of §46110. See, Merritt v. Shuttle, Inc., 245 F. 3d 182, 187 (2d\nCir. 2001). Courts have held that Security Directives issued by the TSA are “orders” within the\nmeaning of § 46110. Green v. Transportation Security Administration, 351 F.Supp.2d 1119,\n1125  (W.D.Wash.2005).  Accordingly,  the  Court  must  consider  the  relationship  that  exists\nbetween the TSA Security Directives and the No-Fly List.\n“A claim is inescapably intertwined ... if it alleges that the plaintiff was injured by [the]\norder and that the court of appeals has authority to hear the claim on direct review of the agency\norder.” Merritt, at 178. The inescapable-intertwinement doctrine gives the court of appeals\njurisdiction over direct and indirect challenges to final agency orders. The Court must also\ndetermine whether a review and adjudication by the court of appeals could provide Plaintiff with\nthe relief sought. Id. \nAlthough the TSC maintains the No-Fly List, there is a relationship between the No-Fly\nList and the Security Directives issued by TSA; Congress delegated the authority to create\nregulations and directives relating to the No-Fly List to the TSA under 49 U.S.C. §114(h)(3) and\n44903(j). \n  Section 44903(j)(2)(E)(iii), provides:\n“[t]he Secretary of Homeland Security, in consultation with the\nTerrorist Screening Center, shall design and review, as necessary,\nguidelines, policies, and operating procedures for the collection,\nremoval, and updating of data maintained, or to be maintained, in\nthe no fly and automatic selectee lists. \n49 U.S.C. 44903(j)(2)(E)(iii). \nMoreover,  the  TSA  is  required  to  use  information  developed  by  other  government\nagencies, including the TSC, to identify individuals on passenger lists who may be a threat to\n7\n\n2:13-cv-12038-VAR-RSW   Doc # 34   Filed 12/05/13   Pg 8 of 9    Pg ID 429\ncivil aviation or national security and take appropriate action; such action includes preventing\ncertain individuals from boarding aircraft. 49 U.S.C. 114(h). The Court of Appeals has the power\nto amend, modify, set aside and order further proceedings.\nThe purpose of the inescapably-intertwinement doctrine is to prevent plaintiffs from\navoiding special review statutes through creative pleading. United Transp. Union v. Norfolk &\nW. Ry. Co., 822 F.2d 1114, 1120 (D.C.Cir.1987). The No-Fly List is a direct result of the\nstatutory mandates imposed upon the TSA by Congress;  and, the two lists are given operational\neffect based on the TSA Security Directives, which are subject to review under §46110. Thus, at\nminimum, any claim related to the No-Fly List requires review of TSA policies and regulations.\nIf a plaintiff can ignore the process and proceed to district court merely by seeking injunctive\nrelief  preventing  the  agency  from  enforcing  the  order  in  question,  that  purpose  would  be\ndefeated. \nAdditionally,  the  TRIP  redress  process  is  administered  by  DHS,  but  the  final\ndetermination letter indicates that an administrative appeal could be filed with the TSA.  The fact\nthat  the  TSC  does  not  directly  accept  grievances  concerning  inclusion  on  a  watch  list\ndemonstrates the intertwinement between the agencies. Moreover, Plaintiff’s determination letter\nexplicitly says that the determination becomes final unless an administrative appeal is filed\nwithin thirty days, and that final determinations are reviewable by the United States Court of\nAppeals.  \nThis Court holds that it does not have subject-matter jurisdiction over this matter under\n§46110; plaintiff’s claim is inescapably intertwined with a TSA order.  The court of appeals\nmust hear plaintiff’s constitutional challenges. “The Sixth Circuit has also found that § 1486(a)\n[predecessor to §46110] provides significant procedural safeguards with ultimate review in the\n8\n\n2:13-cv-12038-VAR-RSW   Doc # 34   Filed 12/05/13   Pg 9 of 9    Pg ID 430\ncourt of appeals where a litigant is free to raise any constitutional issues.”  Thompson v. Stone,\nCase 05-cv-70825, 2006 WL 770449 *3 (E.D. Mich. 2006); Robinson v. Dow, 522 F.2d 855, 858\n(6th Cir.1975). \nII. CONCLUSION \nDefendants’  Rule  12(b)(1)  Motion  to  Dismiss  is  GRANTED.    The  Court  has  no\njurisdiction  to  consider  either  the  Government’s  12(b)(6)  Motion  To  Dismiss  or  Plaintiff’s\nMotion for Emergency Travel.\nIT IS ORDERED.\nS/Victoria A. Roberts                                  \nVictoria A. Roberts\nUnited States District Judge\nDated:  December 5, 2013\nThe undersigned certifies that a copy of\nthis  document  was  served  on  the\nattorneys of record by electronic means\nor U.S. Mail on December 5, 2013.\nS/Linda Vertriest                                \nDeputy Clerk\n9",
+      "document_type_other": null,
+      "external_url": "",
+      "ecf_number": "34",
+      "clearinghouse_link": "clearinghouse.net/doc/79705"
+    }
+  ],
+  "document_count": 7
+}

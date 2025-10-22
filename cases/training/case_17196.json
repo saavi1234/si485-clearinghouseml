@@ -1,0 +1,835 @@
+{
+  "case_id": 17196,
+  "fetched_at": "2025-10-22T00:29:54.880356",
+  "case_data": {
+    "attorney_orgs": [
+      "Civil Rights Corps"
+    ],
+    "available_documents": [
+      "Trial Court Docket",
+      "Complaint (any)"
+    ],
+    "case_defendants": [
+      {
+        "defendant_level": "Judge",
+        "institution": "County Court",
+        "institution_alt_state": null,
+        "institution_city": "Galveston",
+        "institution_county": "Galveston",
+        "name": "Judge",
+        "defendant_level_other": "Judge",
+        "is_active": true
+      }
+    ],
+    "case_ongoing": "No",
+    "case_status": "Approved",
+    "case_types": [
+      "Indigent Defense"
+    ],
+    "cause_other": "",
+    "causes": [
+      "42 U.S.C. § 1983"
+    ],
+    "class_action_granted": "Not sought",
+    "class_action_sought": "No",
+    "closing_year": 2019,
+    "constitutional_clause": [
+      {
+        "value": "Freedom of speech/association"
+      }
+    ],
+    "content_of_injunction": [],
+    "court": "Southern District of Texas",
+    "custom_issues": [],
+    "defendant_payment": "",
+    "defendant_type": [],
+    "docket_status": "Complete as of retrieval date",
+    "facility_type": [],
+    "filing_date": "2018-03-19",
+    "filing_year": 2018,
+    "id": 17196,
+    "injunction_duration": "",
+    "issues": [
+      "General/Misc.: Access to lawyers or judicial system",
+      "General/Misc.: Courts"
+    ],
+    "last_checked_date": "2019-05-26T00:00:00-04:00",
+    "main_docket": {
+      "id": 28236,
+      "docket_entries": [
+        {
+          "row_number": 11,
+          "id": 8622555,
+          "entry_number": "2",
+          "date_filed": "2018-03-19T00:00:00-04:00",
+          "attachments": [],
+          "url": "https://www.courtlistener.com/docket/6349187/2/willey-v-ewing/",
+          "recap_pdf_url": null,
+          "pacer_doc_id": "179029621295",
+          "description": "Request for Issuance of Summons as to Jack Ewing, filed.(Gerstein, Charles) (Entered: 03/19/2018)"
+        },
+        {
+          "row_number": 0,
+          "id": 8622556,
+          "entry_number": "1",
+          "date_filed": "2018-03-19T00:00:00-04:00",
+          "attachments": [
+            {
+              "recap_id": 25627465,
+              "pacer_url": "https://ecf.txsd.uscourts.gov/doc1/179029621266?caseid=1490816",
+              "description": "Civil Cover Sheet",
+              "attachment_number": 1
+            }
+          ],
+          "url": "https://www.courtlistener.com/docket/6349187/1/willey-v-ewing/",
+          "recap_pdf_url": "https://www.courtlistener.com/recap/gov.uscourts.txsd.1490816/gov.uscourts.txsd.1490816.1.0.pdf",
+          "pacer_doc_id": "179029621265",
+          "description": "COMPLAINT against Jack Ewing (Filing fee $ 400 receipt number 0541-19759518) filed by Andrew Willey. (Attachments: # 1 Civil Cover Sheet)(Gerstein, Charles) (Entered: 03/19/2018)"
+        },
+        {
+          "row_number": 37,
+          "id": 8622558,
+          "entry_number": null,
+          "date_filed": "2018-03-20T00:00:00-04:00",
+          "attachments": [],
+          "url": "https://www.courtlistener.com",
+          "recap_pdf_url": null,
+          "pacer_doc_id": null,
+          "description": "Summons Issued/Not Issued"
+        },
+        {
+          "row_number": 22,
+          "id": 8622559,
+          "entry_number": "3",
+          "date_filed": "2018-04-06T00:00:00-04:00",
+          "attachments": [],
+          "url": "https://www.courtlistener.com/docket/6349187/3/willey-v-ewing/",
+          "recap_pdf_url": null,
+          "pacer_doc_id": "179029753436",
+          "description": "ORDER for Initial Pretrial and Scheduling Conference and Order to Disclose Interested Persons. Initial Conference set for 7/31/2018 at 09:30 AM in 7th Floor Courtroom before Magistrate Judge Andrew M Edison(Signed by Judge George C Hanks, Jr) Parties notified.(dwilkerson, 3) (Entered: 04/06/2018)"
+        },
+        {
+          "row_number": 30,
+          "id": 8622560,
+          "entry_number": "4",
+          "date_filed": "2018-04-09T00:00:00-04:00",
+          "attachments": [],
+          "url": "https://www.courtlistener.com/docket/6349187/4/willey-v-ewing/",
+          "recap_pdf_url": null,
+          "pacer_doc_id": "179029765374",
+          "description": "CERTIFICATE OF INTERESTED PARTIES by Andrew Willey, filed.(Gerstein, Charles) (Entered: 04/09/2018)"
+        },
+        {
+          "row_number": 31,
+          "id": 8622561,
+          "entry_number": "5",
+          "date_filed": "2018-04-16T00:00:00-04:00",
+          "attachments": [],
+          "url": "https://www.courtlistener.com/docket/6349187/5/willey-v-ewing/",
+          "recap_pdf_url": null,
+          "pacer_doc_id": "179029810914",
+          "description": "WAIVER OF SERVICE Returned Executed as to Jack Ewing served on 3/23/2018, answer due 5/22/2018, filed.(Gerstein, Charles) (Entered: 04/16/2018)"
+        },
+        {
+          "row_number": 32,
+          "id": 8622562,
+          "entry_number": "6",
+          "date_filed": "2018-05-22T00:00:00-04:00",
+          "attachments": [],
+          "url": "https://www.courtlistener.com/docket/6349187/6/willey-v-ewing/",
+          "recap_pdf_url": null,
+          "pacer_doc_id": "179030080087",
+          "description": "MOTION to Dismiss 1 Complaint by Request of Pre-Motion Conference Letter by Jack Ewing, filed. Motion Docket Date 6/12/2018. (Lowenberg, Michael) . (Entered: 05/22/2018)"
+        },
+        {
+          "row_number": 34,
+          "id": 8622563,
+          "entry_number": "8",
+          "date_filed": "2018-05-25T00:00:00-04:00",
+          "attachments": [
+            {
+              "recap_id": 157185308,
+              "pacer_url": "https://ecf.txsd.uscourts.gov/doc1/179030120538?caseid=1490816",
+              "description": "Appendix De Luna v. Hidalgo County, Doc. 50",
+              "attachment_number": 1
+            }
+          ],
+          "url": "https://www.courtlistener.com/docket/6349187/8/willey-v-ewing/",
+          "recap_pdf_url": null,
+          "pacer_doc_id": "179030120537",
+          "description": "RESPONSE to 6 REQUEST for pre-motion conference filed by Andrew Willey. (Attachments: # 1 Appendix De Luna v. Hidalgo County, Doc. 50)(Gerstein, Charles) (Entered: 05/25/2018)"
+        },
+        {
+          "row_number": 33,
+          "id": 8622564,
+          "entry_number": "7",
+          "date_filed": "2018-05-25T00:00:00-04:00",
+          "attachments": [],
+          "url": "https://www.courtlistener.com/docket/6349187/7/willey-v-ewing/",
+          "recap_pdf_url": null,
+          "pacer_doc_id": "179030117020",
+          "description": "NOTICE of Setting re: 6 REQUEST for pre-motion conference. Parties notified. Telephone Conference set for 6/20/2018 at 10:15 AM by telephone before Judge George C Hanks Jr, filed. Please call the conference line at 409-763-7801 ten minutes prior to the scheduled hearing. Once you call the number, you will be connected to the meet-me-line; there will be silence so please hold until the Case Manager calls in to connect all parties. Everyone must be on a landline. No cell phones or speaker phones are permitted. If you have a volume control, please be sure that it is turned up. If more than one attorney/party is on the line, for clarity of the record, please state your name when responding to the Court.(agould, 3) (Entered: 05/25/2018)"
+        },
+        {
+          "row_number": 35,
+          "id": 8622565,
+          "entry_number": "9",
+          "date_filed": "2018-06-06T00:00:00-04:00",
+          "attachments": [],
+          "url": "https://www.courtlistener.com/docket/6349187/9/willey-v-ewing/",
+          "recap_pdf_url": null,
+          "pacer_doc_id": "179030195852",
+          "description": "NOTICE of Resetting as to 7 Notice of Setting. Parties notified. Telephone Conference set for 6/20/2018 at 10:15 AM by telephone before Judge George C Hanks Jr, filed. This is to notify the parties of the new conference line call in information. (SusanGram, 3) (Entered: 06/06/2018)"
+        },
+        {
+          "row_number": 2,
+          "id": 8622566,
+          "entry_number": "11",
+          "date_filed": "2018-06-13T00:00:00-04:00",
+          "attachments": [],
+          "url": "https://www.courtlistener.com/docket/6349187/11/willey-v-ewing/",
+          "recap_pdf_url": null,
+          "pacer_doc_id": "179030277503",
+          "description": "ORDER granting 10 MOTION for Eric Halperin to Appear Pro Hac Vice, Attorney Eric Halperin for Andrew Willey added (Signed by Judge George C Hanks, Jr) Parties notified.(dperez, 3) (Entered: 06/15/2018)"
+        },
+        {
+          "row_number": 3,
+          "id": 8622569,
+          "entry_number": "12",
+          "date_filed": "2018-06-20T00:00:00-04:00",
+          "attachments": [],
+          "url": "https://www.courtlistener.com/docket/6349187/12/willey-v-ewing/",
+          "recap_pdf_url": null,
+          "pacer_doc_id": "179030309254",
+          "description": "NOTICE of Resetting as to 6 REQUEST for pre-motion conference. Parties notified. Telephone Conference set for 6/20/2018 at 12:30 PM by telephone before Judge George C Hanks Jr, filed. (SusanGram, 3) (Entered: 06/20/2018)"
+        },
+        {
+          "row_number": 6,
+          "id": 8622570,
+          "entry_number": "15",
+          "date_filed": "2018-07-11T00:00:00-04:00",
+          "attachments": [],
+          "url": "https://www.courtlistener.com/docket/6349187/15/willey-v-ewing/",
+          "recap_pdf_url": null,
+          "pacer_doc_id": "179030492370",
+          "description": "PROPOSED ORDER of Dismissal Pursuant to Rule 12 (b), filed.(Lowenberg, Michael) (Entered: 07/11/2018)"
+        },
+        {
+          "row_number": 9,
+          "id": 8622572,
+          "entry_number": "18",
+          "date_filed": "2018-07-20T00:00:00-04:00",
+          "attachments": [],
+          "url": "https://www.courtlistener.com/docket/6349187/18/willey-v-ewing/",
+          "recap_pdf_url": null,
+          "pacer_doc_id": "179030570425",
+          "description": "CERTIFICATE OF INTERESTED PARTIES by Jack Ewing, filed.(Lowenberg, Michael) (Entered: 07/20/2018)"
+        },
+        {
+          "row_number": 8,
+          "id": 8622573,
+          "entry_number": "17",
+          "date_filed": "2018-07-20T00:00:00-04:00",
+          "attachments": [],
+          "url": "https://www.courtlistener.com/docket/6349187/17/willey-v-ewing/",
+          "recap_pdf_url": null,
+          "pacer_doc_id": "179030570324",
+          "description": "JOINT DISCOVERY/CASE MANAGEMENT PLAN by Jack Ewing, filed.(Lowenberg, Michael) (Entered: 07/20/2018)"
+        },
+        {
+          "row_number": 7,
+          "id": 8622574,
+          "entry_number": "16",
+          "date_filed": "2018-07-20T00:00:00-04:00",
+          "attachments": [
+            {
+              "recap_id": 157185310,
+              "pacer_url": "https://ecf.txsd.uscourts.gov/doc1/179030570302?caseid=1490816",
+              "description": "Proposed Order Proposed Order - Adjourn Initial Pretrial Conference",
+              "attachment_number": 1
+            }
+          ],
+          "url": "https://www.courtlistener.com/docket/6349187/16/willey-v-ewing/",
+          "recap_pdf_url": null,
+          "pacer_doc_id": "179030570301",
+          "description": "MOTION for Extension of Time Initial Pretrial Conference by Jack Ewing, filed. Motion Docket Date 8/10/2018. (Attachments: # 1 Proposed Order Proposed Order - Adjourn Initial Pretrial Conference)(Lowenberg, Michael) (Entered: 07/20/2018)"
+        },
+        {
+          "row_number": 13,
+          "id": 8622576,
+          "entry_number": "21",
+          "date_filed": "2018-07-31T00:00:00-04:00",
+          "attachments": [],
+          "url": "https://www.courtlistener.com/docket/6349187/21/willey-v-ewing/",
+          "recap_pdf_url": null,
+          "pacer_doc_id": "179030647007",
+          "description": "RESPONSE in Opposition to 14 MOTION TO DISMISS FOR FAILURE TO STATE A CLAIM MOTION to Dismiss, filed by Andrew Willey. (Gerstein, Charles) (Entered: 07/31/2018)"
+        },
+        {
+          "row_number": 12,
+          "id": 8622577,
+          "entry_number": "20",
+          "date_filed": "2018-07-31T00:00:00-04:00",
+          "attachments": [],
+          "url": "https://www.courtlistener.com/docket/6349187/20/willey-v-ewing/",
+          "recap_pdf_url": null,
+          "pacer_doc_id": "179030641731",
+          "description": "SCHEDULING ORDER entered. ETT: 5 Days. Bench Trial. Amended Pleadings due by 10/11/2018. Joinder of Parties due by 8/17/2018. Pltf Expert Report due by 2/15/2019. Deft Expert Report due by 3/15/2019. Discovery due by 5/10/2019. Dispositive Motion Filing due by 5/24/2019. Non-Dispositive Motion Filing due by 6/21/2019. Joint Pretrial Order due by 8/26/2019. Docket Call set for 9/6/2019 at 09:30 AM in Sixth Floor Courtroom before Judge George C Hanks Jr. (Signed by Magistrate Judge Andrew M Edison) Parties notified. (wbostic, 4) (Entered: 07/31/2018)"
+        },
+        {
+          "row_number": 15,
+          "id": 8622580,
+          "entry_number": "23",
+          "date_filed": "2018-10-31T00:00:00-04:00",
+          "attachments": [],
+          "url": "https://www.courtlistener.com/docket/6349187/23/willey-v-ewing/",
+          "recap_pdf_url": null,
+          "pacer_doc_id": "179031434933",
+          "description": "NOTICE of Referral of Motion to Magistrate Judge Andrew Edison re 14 MOTION TO DISMISS FOR FAILURE TO STATE A CLAIM MOTION to Dismiss, filed. (jegonzalez, 3) (Entered: 10/31/2018)"
+        },
+        {
+          "row_number": 16,
+          "id": 8622581,
+          "entry_number": "24",
+          "date_filed": "2018-11-01T00:00:00-04:00",
+          "attachments": [],
+          "url": "https://www.courtlistener.com/docket/6349187/24/willey-v-ewing/",
+          "recap_pdf_url": null,
+          "pacer_doc_id": "179031441429",
+          "description": "NOTICE of Setting as to 14 MOTION TO DISMISS FOR FAILURE TO STATE A CLAIM MOTION to Dismiss . Parties notified. Motion Hearing set for 11/29/2018 at 10:00 AM in 7th Floor Courtroom before Magistrate Judge Andrew M Edison, filed. (wbostic, 4) (Entered: 11/01/2018)"
+        },
+        {
+          "row_number": 39,
+          "id": 8622582,
+          "entry_number": null,
+          "date_filed": "2018-11-29T00:00:00-05:00",
+          "attachments": [],
+          "url": "https://www.courtlistener.com",
+          "recap_pdf_url": null,
+          "pacer_doc_id": null,
+          "description": "Minute entry for proceedings before Magistrate Judge Andrew M. Edison. Motion hearing held on November 29, 2018. The Court heard arguments on the Motion to Dismiss [Dkt. 14] and the motion is taken under advisement. Appearances: Eric Halperin and Charles Gerstein for the plaintiff Andrew Willey and Michael Lowenberg for the defendant Hon. Jack Ewing. (ERO:Yes), filed. (wbostic, 4)"
+        },
+        {
+          "row_number": 17,
+          "id": 8622583,
+          "entry_number": "25",
+          "date_filed": "2018-11-30T00:00:00-05:00",
+          "attachments": [],
+          "url": "https://www.courtlistener.com/docket/6349187/25/willey-v-ewing/",
+          "recap_pdf_url": null,
+          "pacer_doc_id": "179031666297",
+          "description": "AO 435 TRANSCRIPT REQUEST by Charles Gerstein for Transcript of Motion Hearing on 11/29/2018 Before Judge Edison. Ordinary (30 days) turnaround requested. Court Reporter/Transcriber: Trinity Transcription Services, filed. (Gerstein, Charles) ELECTRONICALLY FORWARDED TO TRINITY TRANSCRIPTION SERVICES 12/3/2018 (agould, 3). (Entered: 11/30/2018)"
+        },
+        {
+          "row_number": 20,
+          "id": 8622586,
+          "entry_number": "28",
+          "date_filed": "2019-01-02T00:00:00-05:00",
+          "attachments": [],
+          "url": "https://www.courtlistener.com/docket/6349187/28/willey-v-ewing/",
+          "recap_pdf_url": null,
+          "pacer_doc_id": "179031892817",
+          "description": "TRANSCRIPT re: Motion Hearing held on November 29, 2018 before Magistrate Judge Andrew M Edison. Court Reporter/Transcriber Trinity Transcription Services. Ordering Party Charles L. Gerstein, Esq. Release of Transcript Restriction set for 4/2/2019., filed. (cbattaglia, ) (Entered: 01/02/2019)"
+        },
+        {
+          "row_number": 23,
+          "id": 8622588,
+          "entry_number": "30",
+          "date_filed": "2019-01-22T00:00:00-05:00",
+          "attachments": [],
+          "url": "https://www.courtlistener.com/docket/6349187/30/willey-v-ewing/",
+          "recap_pdf_url": null,
+          "pacer_doc_id": "179032057844",
+          "description": "REPLY to 26 Memorandum and Recommendations, Reply in Support of Objections, filed by Jack Ewing. (Lowenberg, Michael) (Entered: 01/22/2019)"
+        },
+        {
+          "row_number": 26,
+          "id": 8622590,
+          "entry_number": "33",
+          "date_filed": "2019-04-04T00:00:00-04:00",
+          "attachments": [],
+          "url": "https://www.courtlistener.com/docket/6349187/33/willey-v-ewing/",
+          "recap_pdf_url": null,
+          "pacer_doc_id": "179032661041",
+          "description": "ORDER granting 32 Letter of Agreement (Signed by Judge George C Hanks, Jr) Parties notified.(agould, 3) (Entered: 04/05/2019)"
+        },
+        {
+          "row_number": 25,
+          "id": 8622591,
+          "entry_number": "32",
+          "date_filed": "2019-04-04T00:00:00-04:00",
+          "attachments": [],
+          "url": "https://www.courtlistener.com/docket/6349187/32/willey-v-ewing/",
+          "recap_pdf_url": null,
+          "pacer_doc_id": "179032656786",
+          "description": "LETTER OF AGREEMENT re: Mediation with Magistrate by Jack Ewing, filed.(Lowenberg, Michael) (Entered: 04/04/2019)"
+        },
+        {
+          "row_number": 27,
+          "id": 8622592,
+          "entry_number": "34",
+          "date_filed": "2019-04-05T00:00:00-04:00",
+          "attachments": [],
+          "url": "https://www.courtlistener.com/docket/6349187/34/willey-v-ewing/",
+          "recap_pdf_url": null,
+          "pacer_doc_id": "179032662383",
+          "description": "NOTICE of Setting. Parties notified. Mediation set for 4/9/2019 at 08:30 AM in 7th Floor Courtroom before Magistrate Judge Andrew M Edison, filed. (wbostic, 4) (Entered: 04/05/2019)"
+        },
+        {
+          "row_number": 41,
+          "id": 8622594,
+          "entry_number": null,
+          "date_filed": "2019-04-09T00:00:00-04:00",
+          "attachments": [],
+          "url": "https://www.courtlistener.com",
+          "recap_pdf_url": null,
+          "pacer_doc_id": null,
+          "description": "Minute Entry for proceedings held before Magistrate Judge Andrew M Edison. MEDIATION held on 4/9/2019, filed. (wbostic, 4)"
+        },
+        {
+          "row_number": 29,
+          "id": 10144383,
+          "entry_number": "36",
+          "date_filed": "2019-04-22T00:00:00-04:00",
+          "attachments": [],
+          "url": "https://www.courtlistener.com/docket/6349187/36/willey-v-ewing/",
+          "recap_pdf_url": "https://www.courtlistener.com/recap/gov.uscourts.txsd.1490816/gov.uscourts.txsd.1490816.36.0.pdf",
+          "pacer_doc_id": "179032796447",
+          "description": "AGREED FINAL JUDGMENT. Case terminated on April 22, 2019(Signed by Judge George C Hanks, Jr) Parties notified.(ltrevino, 3) (Entered: 04/22/2019)"
+        },
+        {
+          "row_number": 24,
+          "id": 8622589,
+          "entry_number": "31",
+          "date_filed": "2019-01-24T00:00:00-05:00",
+          "attachments": [],
+          "url": "https://www.courtlistener.com/docket/6349187/31/willey-v-ewing/",
+          "recap_pdf_url": "https://www.courtlistener.com/recap/gov.uscourts.txsd.1490816/gov.uscourts.txsd.1490816.31.0.pdf",
+          "pacer_doc_id": "179032080862",
+          "description": " ORDER ADOPTING MEMORANDUM AND RECOMMENDATIONS re:  26   Memorandum and Recommendations GRANTING IN PART AND DENYING IN PART  14    MOTION TO DISMISS FOR FAILURE TO STATE A CLAIM   MOTION to Dismiss   (Signed by Judge George C Hanks, Jr)  Parties notified.(dperez, 3)"
+        },
+        {
+          "row_number": 18,
+          "id": 8622584,
+          "entry_number": "26",
+          "date_filed": "2018-12-17T00:00:00-05:00",
+          "attachments": [],
+          "url": "https://www.courtlistener.com/docket/6349187/26/willey-v-ewing/",
+          "recap_pdf_url": "https://www.courtlistener.com/recap/gov.uscourts.txsd.1490816/gov.uscourts.txsd.1490816.26.0.pdf",
+          "pacer_doc_id": "179031795348",
+          "description": " MEMORANDUM AND RECOMMENDATION entered. The Court RECOMMENDS that Defendant'sMotion to Dismiss [Dkt. 14] be GRANTED in part and DENIED in part. Specifically, Willey's claims for injunctive relief and attorney's fees under 42 U.S.C. § 1988 should be DISMISSED. The motion should be denied in all other respects. Objections to M&R due by 12/31/2018. (Signed by Magistrate Judge Andrew M Edison)  Parties notified. (wbostic, 4)"
+        },
+        {
+          "row_number": 5,
+          "id": 8622571,
+          "entry_number": "14",
+          "date_filed": "2018-07-11T00:00:00-04:00",
+          "attachments": [
+            {
+              "recap_id": 67367370,
+              "pacer_url": "https://ecf.txsd.uscourts.gov/doc1/179030492284?caseid=1490816",
+              "description": "Exhibit Galveston County Indigent Defense Plan",
+              "attachment_number": 1
+            }
+          ],
+          "url": "https://www.courtlistener.com/docket/6349187/14/willey-v-ewing/",
+          "recap_pdf_url": "https://www.courtlistener.com/recap/gov.uscourts.txsd.1490816/gov.uscourts.txsd.1490816.14.0.pdf",
+          "pacer_doc_id": "179030492283",
+          "description": "MOTION TO DISMISS FOR FAILURE TO STATE A CLAIM, MOTION to Dismiss ( Motion Docket Date 8/1/2018.) by Jack Ewing, filed. (Attachments: # 1 Exhibit Galveston County Indigent Defense Plan)(Lowenberg, Michael) (Entered: 07/11/2018)"
+        },
+        {
+          "row_number": 14,
+          "id": 8622579,
+          "entry_number": "22",
+          "date_filed": "2018-08-07T00:00:00-04:00",
+          "attachments": [],
+          "url": "https://www.courtlistener.com/docket/6349187/22/willey-v-ewing/",
+          "recap_pdf_url": null,
+          "pacer_doc_id": "179030705564",
+          "description": "REPLY to Response to 14 MOTION TO DISMISS FOR FAILURE TO STATE A CLAIM MOTION to Dismiss, filed by Jack Ewing. (Lowenberg, Michael) (Entered: 08/07/2018)"
+        },
+        {
+          "row_number": 19,
+          "id": 8622585,
+          "entry_number": "27",
+          "date_filed": "2018-12-31T00:00:00-05:00",
+          "attachments": [],
+          "url": "https://www.courtlistener.com/docket/6349187/27/willey-v-ewing/",
+          "recap_pdf_url": null,
+          "pacer_doc_id": "179031891978",
+          "description": "OBJECTIONS to 26 Memorandum and Recommendations, filed by Jack Ewing. (Lowenberg, Michael) (Entered: 12/31/2018)"
+        },
+        {
+          "row_number": 21,
+          "id": 8622587,
+          "entry_number": "29",
+          "date_filed": "2019-01-14T00:00:00-05:00",
+          "attachments": [],
+          "url": "https://www.courtlistener.com/docket/6349187/29/willey-v-ewing/",
+          "recap_pdf_url": null,
+          "pacer_doc_id": "179031988308",
+          "description": "RESPONSE to 27 Objections to Memorandum and Recommendations, filed by Andrew Willey. (Gerstein, Charles) (Entered: 01/14/2019)"
+        },
+        {
+          "row_number": 28,
+          "id": 10144384,
+          "entry_number": "35",
+          "date_filed": "2019-04-22T00:00:00-04:00",
+          "attachments": [
+            {
+              "pdf_url": "https://www.courtlistener.com/recap/gov.uscourts.txsd.1490816/gov.uscourts.txsd.1490816.35.1.pdf",
+              "recap_id": 67366716,
+              "pacer_url": "https://ecf.txsd.uscourts.gov/doc1/179032794559?caseid=1490816",
+              "description": "Exhibit 1 Settlement Agreement",
+              "attachment_number": 1
+            }
+          ],
+          "url": "https://www.courtlistener.com/docket/6349187/35/willey-v-ewing/",
+          "recap_pdf_url": null,
+          "pacer_doc_id": "179032794558",
+          "description": "Agreed MOTION for Entry of Judgment by Andrew Willey, filed. Motion Docket Date 5/13/2019. (Attachments: # 1 Exhibit 1 Settlement Agreement)(Gerstein, Charles) (Entered: 04/22/2019)"
+        },
+        {
+          "row_number": 10,
+          "id": 8622575,
+          "entry_number": "19",
+          "date_filed": "2018-07-26T00:00:00-04:00",
+          "attachments": [],
+          "url": "https://www.courtlistener.com/docket/6349187/19/willey-v-ewing/",
+          "recap_pdf_url": null,
+          "pacer_doc_id": "179030610889",
+          "description": "ORDER denying 16 Motion for Extension of Time.(Signed by Judge George C Hanks, Jr) Parties notified.(agould, 3) (Entered: 07/26/2018)"
+        },
+        {
+          "row_number": 36,
+          "id": 8622557,
+          "entry_number": null,
+          "date_filed": "2018-03-20T00:00:00-04:00",
+          "attachments": [],
+          "url": "https://www.courtlistener.com",
+          "recap_pdf_url": null,
+          "pacer_doc_id": null,
+          "description": "Summons Issued as to Jack Ewing. Issued summons delivered to plaintiff by First-class mail, filed.(agould, 3)"
+        },
+        {
+          "row_number": 1,
+          "id": 8622567,
+          "entry_number": "10",
+          "date_filed": "2018-06-13T00:00:00-04:00",
+          "attachments": [],
+          "url": "https://www.courtlistener.com/docket/6349187/10/willey-v-ewing/",
+          "recap_pdf_url": null,
+          "pacer_doc_id": "179030253035",
+          "description": "MOTION for Eric Halperin to Appear Pro Hac Vice by Civil Rights Corps, filed. Motion Docket Date 7/5/2018. (Gerstein, Charles) (Entered: 06/13/2018)"
+        },
+        {
+          "row_number": 4,
+          "id": 8622568,
+          "entry_number": "13",
+          "date_filed": "2018-06-20T00:00:00-04:00",
+          "attachments": [],
+          "url": "https://www.courtlistener.com/docket/6349187/13/willey-v-ewing/",
+          "recap_pdf_url": null,
+          "pacer_doc_id": "179030365235",
+          "description": "Minute Entry for proceedings held before Judge George C Hanks, Jr. At the hearing, the following rulings were made as stated on the record. Telephone conference held on Defendants request for a pre-motion conference. (Dkt 6 . Defendants 12(b) motion is due Wednesday, July 11, 2018, at 5:00 PM.Plaintiffs response is due 21 days after the motion is filed. Defendants reply, if necessary, is due 7 days after response is filed. Appearances: Michael Jude Lowenberg, Eric Halperin, Charles Lewis Gerstein.(Digital # 12:28 pm - 12:42 pm)(ERO:Lorraine Trevino), filed.(ltrevino, 3) (Entered: 06/26/2018)"
+        },
+        {
+          "row_number": 38,
+          "id": 8622578,
+          "entry_number": null,
+          "date_filed": "2018-07-31T00:00:00-04:00",
+          "attachments": [],
+          "url": "https://www.courtlistener.com",
+          "recap_pdf_url": null,
+          "pacer_doc_id": null,
+          "description": "Minute entry for proceedings before Magistrate Judge Andrew M. Edison. Initial conference held on July 31, 2018. The court and parties conferred and the court set out a schedule for the case. The scheduling order will be entered separately. Appearances: Michael Jude Lowenberg, Eric Halperin and Charles Lewis Gerstein. (ERO:Yes), filed. (wbostic, 4)"
+        },
+        {
+          "row_number": 40,
+          "id": 8622593,
+          "entry_number": null,
+          "date_filed": "2019-04-09T00:00:00-04:00",
+          "attachments": [],
+          "url": "https://www.courtlistener.com",
+          "recap_pdf_url": null,
+          "pacer_doc_id": null,
+          "description": "Settlement Conference"
+        }
+      ],
+      "docket_case_type": "cv",
+      "docket_year": 2018,
+      "docket_filing_number": 81,
+      "is_main_docket": true,
+      "court": "Southern District of Texas",
+      "state": "Texas",
+      "docket_office_number": "3",
+      "docket_number_manual": "3:18-cv-00081",
+      "scales_html": "https://clearinghouse-umich-production.s3.amazonaws.com/media/docket-html/txsd--3-18-cv-00081.html",
+      "recap_link": "https://www.courtlistener.com/docket/6349187/willey-v-ewing/",
+      "is_active": true
+    },
+    "name": "Willey v. Ewing",
+    "never_filed": false,
+    "non_docket_case_number": "",
+    "non_docket_case_number_type": null,
+    "non_docket_case_number_type_other": "",
+    "order_end_year": null,
+    "order_start_year": null,
+    "permanent_injunction": false,
+    "plaintiff_description": "Criminal defense lawyer who represented indigent defendants in Galveston, Texas.",
+    "plaintiff_type": [
+      {
+        "value": "Private Plaintiff"
+      }
+    ],
+    "prevailing_party": "Plaintiff",
+    "pro_se_status": "No",
+    "public_interest_lawyer": "Yes",
+    "related_cases": [],
+    "relief_natures": [
+      "Injunction / Injunctive-like Settlement"
+    ],
+    "relief_nature_other": "",
+    "relief_sources": [
+      "Settlement"
+    ],
+    "settlement_agreement": [
+      "Court Approved Settlement or Consent Decree"
+    ],
+    "settlement_judgment_date": "2019-04-22",
+    "settlement_judgment_year": null,
+    "special_collections": [
+      "Multi-LexSum (in sample)"
+    ],
+    "special_case_type": [],
+    "state": "Texas",
+    "summary": "<p>On March 19, 2018, a criminal defense attorney in Galveston, Texas, filed this lawsuit in the U.S. District Court for the Southern District of Texas. He sued a Galveston County Court judge under 42 U.S.C. § 1983. The plaintiff, represented by the Civil Rights Corps, requested declaratory and injunctive relief together with attorney's fees. He claimed that the defendant judge had retaliated against him for speaking out against abusive practices in the Galveston County criminal justice system in violation of his First Amendment rights. </p><p>According to <i>Muting Gideon's Trumpet: The Crisis in Indigent Criminal Defense in Texas</i>, indigent defendants in Texas struggle to obtain competent representation. Judges frequently appoint defense lawyers based on their reputations for moving cases along quickly, personal friendship, or political support. In the early 21st Century, the state adopted the Texas Fair Defense Act (TFDA) to standardize how courts appoint lawyers for indigent defendants. Under TFDA, judges appoint the lawyer whose name appears at the top of a rotating list. </p><p>The plaintiff provided criminal defense services to indigent defendants in Galveston, Texas. The defendant judge appointed him to represent several indigent defendants under TFDA. In one case, the plaintiff hired a third party investigator to interview witnesses. In others, he challenged the constitutionality of jailing defendants who could not afford bail. Later, the plaintiff complained to the Texas Indigent Defense Commission about several abusive practices in the Galveston criminal justice system. </p><p>The relationship between the plaintiff and the defendant judge quickly broke down. The complaint alleged that the defendant judge refused to authorize the plaintiff to spend funds he requested for additional investigators. The judge also cut back on the plaintiff's compensation, citing the plaintiff's \"excessive out of court hours.\" Eventually, the defendant judge removed the plaintiff from all but one of his cases and, with one exception, stopped assigning him to new cases. </p><p>In response, the plaintiff filed this lawsuit against the defendant judge for retaliation in violation of the plaintiff's First Amendment rights. The defendant judge promptly moved to dismiss the case. First, he argued that the plaintiff lacked standing to bring a claim on behalf of indigent defendants. Second, he argued that the complaint was too vague and speculatory to state a claim for retaliation. </p><p>On December 17, 2018, Magistrate Judge Andrew M. Edison issued a report and recommendation granting in part and denying in part the defendant judge's motion to dismiss. Judge Edison rejected the defendant judge's argument that the plaintiff lacked standing as \"predicated on an inaccurate summation\" of the complaint, which alleged harm to the plaintiff rather than the plaintiff's clients. He also found that the plaintiff had properly pleaded the elements of a First Amendment retaliation claim: (1) an adverse employment action; (2) speech involving a matter of public concern; (3) the public interest in disclosure outweighed the defendant's interest in efficiency; and (4) the speech was a substantial factor in the adverse employment action. </p><p>Nevertheless, Judge Edison recommended that the plaintiff's claims for injunctive relief and attorney's fees be dismissed under <i>Davis v. Tarrant</i>. In <i>Davis</i>, the Fifth Circuit held that appointing an attorney under TFDA is a judicial act, so judges enjoy broad immunity from suits brought under § 1983 for violations of TFDA. District Judge George C. Hanks, Jr. signed an order adopting the Magistrate's recommendations on January 24, 2019. </p><p>The plaintiff pressed on with his claim for declaratory relief. On April 4, 2019, the parties notified the court of third party mediation and soon reached a settlement. The settlement provided that: <ul><li>Both parties would follow the TFDA and Galveston County Indigent Defense Plan;</li><li>The plaintiff's obligations would be contingent on his continued acceptance of appointments; and</li><li>The defendant judge would not admit any wrongdoing.</li></ul> Judge Hanks entered an order directing the parties to agree to the terms of the settlement agreement on April 22, 2019. The case is now closed. </p><p>Related Opinions:</p><p>2018 WL 7115180 </p><p>2019 WL 313432 </p><p></p>",
+    "summary_published_date": "2019-05-26T00:00:00-04:00",
+    "summary_short": "A defense lawyer sued a judge who he alleged had removed him from cases for spending too much time and money on indigent defendants under 42 U.S.C. § 1983 in the U.S. District Court for the Southern District of Texas. The lawyer's claims for injunctive relief were dismissed due to judicial immunity, and the lawyer settled his declaratory claims with the judge. ",
+    "summary_tiny": "Defense lawyer settles lawsuit against judge he alleged retaliated against him for representing indigent defendants too effectively (S.D. Tex.)",
+    "terminating_date": "2019-04-22",
+    "clearinghouse_link": "clearinghouse.net/case/17196",
+    "is_active": true,
+    "case_documents_url": "https://clearinghouse.net/api/v2/documents/?case=17196",
+    "case_dockets_url": "https://clearinghouse.net/api/v2/dockets/?case=17196",
+    "case_resources_url": "https://clearinghouse.net/api/v2/resources/?case=17196"
+  },
+  "documents": [
+    {
+      "date": "2019-04-22",
+      "date_is_estimate": false,
+      "date_not_available": false,
+      "description": null,
+      "document_source": "PACER [Public Access to Court Electronic Records]",
+      "document_status": "Coding Complete",
+      "document_type": "Settlement Agreement",
+      "order_type": "Consent Decree",
+      "citation_paren": null,
+      "cite_1_page": null,
+      "cite_1_reporter": null,
+      "cite_1_vol": null,
+      "cite_2_page": null,
+      "cite_2_reporter": null,
+      "cite_2_vol": null,
+      "cite_3_page": null,
+      "cite_3_reporter": null,
+      "cite_3_vol": null,
+      "citation_status": "Not applicable",
+      "court": "Southern District of Texas",
+      "no_title": false,
+      "party_types": [
+        "Defendant",
+        "Plaintiff"
+      ],
+      "per_curium": false,
+      "is_core_document": true,
+      "id": 102208,
+      "file": "https://clearinghouse-umich-production.s3.amazonaws.com/media/doc/102208.pdf",
+      "title": "Settlement Agreement",
+      "text": "Case 3:18-cv-00081   Document 35-1   Filed on 04/22/19 in TXSD   Page 1 of 3\nUNITED STATES DISTRICT COURT \nSOUTHERN DISTRICT OF TEXAS \nGALVESTON DIVISION \nANDREW WILLEY  § \n§ \nPlaintiff.  § \n§ \nvs. \n§  CIVIL ACTION NO. 3:18-CV-00081 \n§ \nHON. JACK EWING  § \n§ \nDefendant.  § \nSETTLEMENT AGREEMENT \nWHEREAS,  Plaintiff Andrew  Willey  (\"Willey\")  and  Defendant  Hon.  Jack  Ewing  (\"Judge \nEwing\") share the goal of providing the highest-quality defense services for indigent people in \nGalveston County, Texas; and \nWHEREAS, They are both mutually committed to following Texas Law and the United States \nConstitution when providing those services; and \nWHEREAS, They are both committed to using this settlement agreement to continuously evaluate \nimprovements to the provision of defense services to indigent people in Galveston County, Texas, \nWilley and Ewing THEREFORE agree to settle all claims and controversies now existing \nbetween them according to the following terms: \n(1) This settlement agreement is in compromise of disputed claims between the parties. \nNothing in this settlement agreement should be considered as an admission by Judge \nEwing of any wrongdoing. \n(2) The parties agree to comply and abide by the provisions of (i) the Texas Fair Defense \nAct governing the appointment of counsel, and (ii) the Galveston County Indigent \n1/3 \n\nCase 3:18-cv-00081   Document 35-1   Filed on 04/22/19 in TXSD   Page 2 of 3\nDefense Plan. 1  The parties agree not to cause or ask others to violate the Texas Fair \nDefense Act and/or the Galveston County Indigent Defense Plan. \n(3) Willey's obligations under this agreement are contingent on his continued acceptance \nof appointments under the Galveston County Indigent Defense Plan.  Nothing in this \nagreement shall be construed to impose any consequence on his failure to comply with \nthe Texas Fair Defense Act and the Galveston County Indigent Defense Plan beyond \nthe remedies available under the Galveston County Indigent Defense Plan. \n(4) The parties agree to jointly file  a Final Judgment incorporating the terms  of this \nagreement, and all discovery and deadlines are suspended. \n(5) Each signatory warrants and represents that he has the authority to bind the parties for \nwhom that signatory acts. \n( 6) Each signatory to this settlement has carefully read each and every provision of this \nagreement  and has  entered into  the  same  freely  and  without duress  after having \nconsulted with professionals  of his  choice.  Each party acknowledges that (a)  the \nmediator is not the attorney for any party, (b) the party has conferred with counsel \nregarding the advisability of entering this agreement prior to signing it, (c) the party's \ncounsel has independently reviewed this  agreement prior to  its  execution,  (d)  the \nmediator has not given any advice or made any recommendations concerning this \nsettlement agreement or the terms hereof. \n(7) This  settlement  agreement  is  contingent  on  approval  by  the  Galveston  County \nCommissioners' Court at its April22, 2019 meeting. \n1 All references in this settlement agreement to the Texas Fair Defense Act and/or the Galveston \nCounty Indigent Defense Plan refer to the current versions and any subsequent amendments to \nand/or modifications of those provisions. \n2/3 \n\nCase 3:18-cv-00081   Document 35-1   Filed on 04/22/19 in TXSD   Page 3 of 3\nSigned in Galveston, Texas this 9th day of April, 2019. \nPlaintiff: \nApproved by Attorney for the Plaintiff: \nDefendant: \nApproved by Attorney for the Defendant: \n3/3 ",
+      "document_type_other": "",
+      "external_url": "",
+      "ecf_number": "35-1",
+      "clearinghouse_link": "clearinghouse.net/doc/102208"
+    },
+    {
+      "date": null,
+      "date_is_estimate": false,
+      "date_not_available": false,
+      "description": null,
+      "document_source": null,
+      "document_status": null,
+      "document_type": null,
+      "order_type": null,
+      "citation_paren": null,
+      "cite_1_page": null,
+      "cite_1_reporter": null,
+      "cite_1_vol": null,
+      "cite_2_page": null,
+      "cite_2_reporter": null,
+      "cite_2_vol": null,
+      "cite_3_page": null,
+      "cite_3_reporter": null,
+      "cite_3_vol": null,
+      "citation_status": null,
+      "court": null,
+      "no_title": false,
+      "party_types": [],
+      "per_curium": false,
+      "is_core_document": true,
+      "id": 115101,
+      "file": null,
+      "title": null,
+      "text": null,
+      "document_type_other": null,
+      "external_url": null,
+      "ecf_number": null,
+      "clearinghouse_link": "clearinghouse.net/doc/115101"
+    },
+    {
+      "date": "2018-12-17",
+      "date_is_estimate": false,
+      "date_not_available": false,
+      "description": null,
+      "document_source": "PACER [Public Access to Court Electronic Records]",
+      "document_status": "Coding Complete",
+      "document_type": "Magistrate Report/Recommendation",
+      "order_type": "Non-Decree",
+      "citation_paren": null,
+      "cite_1_page": null,
+      "cite_1_reporter": null,
+      "cite_1_vol": null,
+      "cite_2_page": 7115180,
+      "cite_2_reporter": "WL",
+      "cite_2_vol": 2018,
+      "cite_3_page": 220109,
+      "cite_3_reporter": "U.S.Dist.LEXIS",
+      "cite_3_vol": 2018,
+      "citation_status": "WL/LEXIS only: No official citation available",
+      "court": "Southern District of Texas",
+      "no_title": false,
+      "party_types": [
+        "Court"
+      ],
+      "per_curium": false,
+      "is_core_document": true,
+      "id": 102205,
+      "file": "https://clearinghouse-umich-production.s3.amazonaws.com/media/doc/102205.pdf",
+      "title": "Memorandum and Recommendation",
+      "text": "Case 3:18-cv-00081   Document 26   Filed in TXSD on 12/17/18   Page 1 of 15\nUnited States District Court\nSouthern District of Texas\nENTERED\nDecember 17, 2018\nUNITED STATES DISTRICT COURT \nDavid J. Bradley, Clerk\nSOUTHERN DISTRICT OF TEXAS \nGALVESTON DIVISION \nANDREW WILLEY  § \n§ \nPlaintiff.  § \n§ \nvs. \n§  CIVIL ACTION NO. 3:18-CV-00081 \n§ \nHON. JACK EWING  § \n§ \nDefendant.  § \nMEMORANDUM AND RECOMMENDATION \nPlaintiff Andrew Willey  (\"Willey\"),  a  criminal  defense attorney. who regularly \ntakes  appointed cases in Galveston County,  alleges that Defendant Judge Jack Ewing \n(\"Judge Ewing\") removed him from cases to which he was assigned and refused to assign \nhim to new cases after he engaged in speech critical of certain practices in the Galveston \nCounty criminal courts.  Under 42  U.S.C.  § 1983,  Willey asserts  a First Amendment \nretaliation claim against Judge Ewing, seeking declaratory relief,  injunctive relief,  and \nattorney's fees under 42 U.S.C. § 1988. \nPending before the Court is Defendant's Rule 12(b)(l) Motion to Dismiss for Lack \nof Subject Matter Jurisdiction and Rule 12(b).(6) Motion to Dismiss for Failure to State a \nCause of Action (''Defendant's Motion to Dismiss\").  Dkt.  14.  Defendant's Motion to \nDismiss was referred t~ this Court pursuant to 28 U.S.C. § 636(b)(l).  Dkt. 23. \nHaving considered the parties' briefing, the applicable legal authorities, and oral \nargument, the Court recommends that Willey's claims for injunctive relief and attorney's \n\nCase 3:18-cv-00081   Document 26   Filed in TXSD on 12/17/18   Page 2 of 15\nfees under 42 U.S.C. § 1988 be dismissed, and Defendant's Motion to Dismiss be denied \nin all other respects.· \nBACKGROUND \nWilley  is  a  criminal  defense  attorney,  with  a  particular  interest  in  providing \ndefense  to  indigent  individuals  in  and  around  Galveston  County.  Willey  regularly \naccepts appointments to represent indigent defendants in the Galveston County Courts at \nLaw.  Judge Ewing is  the judge of Galveston  County  Court at Law Number Three.  · \nWilley  has  ·appeared  before  Judge  Ewing  on  several  occasions  after  receiving \nappointments to represent indigent defendants in his court. \nWilley alleges that as a result of his practice in the Galveston C<?unty Courts at \nLaw, he has discovered a myriad of troubling, if not unconstitutional, practices that occur \nin Galveston County's courts.  For example, Willey alleges that (1) appointed attorneys \nare given inadequate resources to represent their clients; (2) Galveston County has an \nunconstitutional money bail system; (3) the courts' dockets are impermissibly controlled \nby  the  district  attorney's  office;  and  ( 4)  defense  attorneys  cannot  confidentially \ncommunicate with their clients.  Willey alleges that he spoke out against these practices \nin three ways:  he advocated out of court and filed  complaints with state agencies; he \nmade requests for fees and appealed their denial; and he advocated in court.. . \nWilley claims that as a result of his zealous advocacy for changes to the Galveston \nCounty criminal courts and on behalf of indigent defendants, Judge Ewing removed him \nfrom cases to which he was already assigned (in Judge Ewing's court).and refused to \n2 \n\nCase 3:18-cv-00081   Document 26   Filed in TXSD on 12/17/18   Page 3 of 15\nassign him to new cases in his court.  Based on Judge Ewing's alleged conduct, Willey \nfiled this First Amendment retaliation suit. \n· Judge Ewing moves to dismiss Willey's Complaint. \nMOTION TO DISMISS STANDARD \nBecause Defendant's Motion to Dismiss seeks dismissal under Federal Rules of \nCivil Procedure 12(b)(l) and  12(b)(6), the Court will first address the applicable.legal \nstandards. \nA.  Rule 12(b) (1) \nFederal Rule of Civil Procedure 12(b)(l) allows a party to challenge the subject \nmatter  of the  district  court  to  hear  a  case.  When  a  court  evaluates  subject  matter \njurisdiction, it may consider \"(1) the complaint alone; (2) the complaint supplemented by \nundisputed  facts  evidenced  in  the  record;  or  (3)  the  complaint  supplemented  by \nundisputed facts plus the court's resolution of the disputed facts.\"  Spotts v.  United States, \n613 F.3d 559, 566 (5th Cir. 2010) (internal quotation marks and citation omitted). \nThe  standard of review for  a  12(b)(l) motion to  dismiss turns  on whether the \n. defendant  has  made  a  \"facial\"  or  \"factual\"  jurisdictional  attack· on  the  plaintiff's . \ncomplaint.  See Paterson v.  Weinberger, 644 F.2d 521, 523 (5th Cir. 1981).  A defendant \nmakes  a \"facial\" jurisdictional attack by  merely  filing  a motion under Rule  12(b)(l) \nchallenging the court's jurisdiction.  See id.  Under a \"facial\" attack, the court is only \nrequired to assess the sufficiency of the allegations contained in the plaintiff's complaint, \nwhich  are  presumed to  be  true.  See  id.  A  \"factual\"  attack,  however,  is  made  by \nproviding affidavits, testimony and other evidentiary materials  challenging the court's \n3 \n\nCase 3:18-cv-00081   Document 26   Filed in TXSD on 12/17/18   Page 4 of 15\njurisdiCtion.  See id.  When a \"factual\" jurisdictional attack is made by a defendant, the \nplaintiff must submit facts in support of the court's jurisdiction, and he bears the burden \nof proving by a preponderance of the evidence that the court, in fact, has subject-matter \njurisdiction.  See id.  Because Judge Ewing challenges the sufficiency of the pleadings \nand d9es not provide affidavits, testimony and other evidentiary materials, his motion \n· will be analyzed as a facial attack. \nB.  Rule 12(b)(6) \nA pleading must contain \"a short and plain statement of the claim showing that the \n.  . \npleader is entitled to relief.''  FED. R. CIV. P.  8(a)(2).  This pleading standard does not \nrequire  \"detailed  factual  allegations,  but  it  demands  more  than  an  unadorned,  the \ndefendant-unlawfully-harmed-me  accusation.\"  Ashcroft v.  Iqbal,  556  U.S.  662,  678 \n(2009) (citing Bell At!.  Corp.  v.  Twombly, 550 U.S. 544, 555 (2007)) (internal quotation \nmarks omitted).  Under Rule 12(b)(6), a party may \"move for dismissal for a failure to \nstate a claim upon which relief can be granted.\"  Lemieux v.  Am.  Optical Corp., 712 F. \nApp'x 409, 412 (5th Cir. 2018) (internal quotation marks omitted).  \"The complaint must \nbe liberally construed in favor of the plaintiff, and all facts pleaded in the complaint must \nbe taken as true.\"  Lowrey v.  Tex.  A&M Univ.  Syst.,  117 F.3d 242, 247 (5th Cir.  1997) \n(citation omitted). \nDismissal is appropriate \"when a plaintiff fails to allege sufficient facts that, taken \nas true, state a claim that is plausible on its face.\"  Amacker v.  Renaissance Asset Mgmt. \nLLC,  657  F.3cl  252,  254  (5th Cir.  2011) (citation omitted).  However,  \"[m]otions to \ndismiss un.der Rule 12(b)(6) are viewed with disfavor and are rarely granted.\"  Lormand \n4 \n\nCase 3:18-cv-00081   Document 26   Filed in TXSD on 12/17/18   Page 5 of 15\nv.  US  Unwired,  Inc.,  565 F.3d 228, 232 (5th Cir. 2009) (internal quota~ion marks and \ncitation omitted).  \"Determining whether the plausibility standard has  been met is  'a \ncontext-specific task that requires the reviewing court to draw on. its judicial experience \nand common sense.\"'  Turner v.  Pleasant, 663 F.3d 770,775 (5th Cir. 2011) (quoting \nIqbal, 556 U.S. at 679). \nSUBJECT MATTER JURISDICTION \nJudge Ewing argues that Willey lacks standing to proceed against him because \nWilley cannot demonstrate the elements required to invoke the Court's jurisdiction.1 \nArticle  III  of the  U.S.  Constitution  limits  the  power  of federal  courts  to  the \nresolution of \"Cases\" or \"Controversies.\" U.S. CONST. art. III, § 2.  The requirement that \na plaintiff establish standing to bring suit \"is an essential and unchanging part of the case-\nor-controversy requirement of Article III.\"  Lujan v. Defs. of Wildlife, 504 U.S. 555, 560 \n(1992).  Every federal court plaintiff must therefore meet the \"irreducible constitutional \nminimum\" of Article III standing, which requires: (1) an injury in fact that is concrete, \nparticularized, and. actual  or  imminent;  (2)  that  the  injury  be  fairly  traceable  to  the \nchallenged action; and (3) that the injury can be tedressed by a favorable ruling.  !d.  at \n560-61.  See also Monsanto Co. v.  Geertson Seed Farms, 561 U.S. 139, 149 (2010). \nInjury  In  Fact:  Judge  Ewing  argues  that  Willey  has  failed  to  allege  facts \nindicating that he. has suffered an injury in fact.  \"To establish injury in fact, a plaintiff \n1 Judge Ewing also argues that Willey \"lacks standing to challenge the statutory indigent defense \nsystem.\"  Dk~. 14 at 16.  This argument fails and is not worthy of a more robust discussion \nbecause  Willey has  not filed  a claim  attempting to  challenge the  statutory indigent defense \nsystem.  See  Dkt.  21  at  14  (\"Willey's  standing to  challenge the  indigent defense  system is \nirrelevant because Willey does not challenge that system.\"). \n5 \n\nCase 3:18-cv-00081   Document 26   Filed in TXSD on 12/17/18   Page 6 of 15\nmust show that he  or she suffered 'an invasion of a legally protected interest'  that is \n'concrete and particularized.\"'  Spokeo,  Inc ..v .  Robins,  136  S.  Ct.  1540,  1548 (2016) \n(quoting Lujan, 504 U.S. at 560). \nThe Complaint describes, in great detail, the legal mechanisms in place to ensure \nthat cases  involving indigent defendants  in  Galveston  County  are  directed to  suitable \ndefense attorneys.  A part of this process involves the creation and administration of a list \nof attorneys who have been selected to receive appointments.  The Complaint details how \ncertain rules are in place to  ensure that appointments among those listed attorneys are \nproperly allocated.  Other rules detail the requirements necessary to remove an attorney \nfrom the list or to skip an attorney once his or her name has percolated to the top of the \nlist.  These allegations demonstrate the plausible existence of a legally protected interest. \nThe  Complaint  also  expressly  alleges  that,  prior to  Judge  Ewing's retaliatory \nconduct,  Willey received appointments  (for which he was  paid)  to  represent indigent \ndefendants in Judge Ewing's court.·  Willey goes on to  allege that since Judge Ewing \nbegan  retaliating,  he  has  not  received  any  appointments  from  Judge  Ewing, \nnotWithstanding the fact that he is still on the Galveston County appointment list and no \nofficial actions have been taken to remove him from the list.  The Court finds Willey has \nalleged a concrete harm.2 \n2 Judge Ewing also argues that Willey's harm is speculative in that he \nfails to indicate whether or not he was receiving appointments from other judges \nduring  this  time  period  and  fails  to  allege  he  was  available  to  receive \nappointments during the time period in question.  Willey merely speculates that it \nis unlikely random selection would have caused the lack of appointments. \n6 \n\nCase 3:18-cv-00081   Document 26   Filed in TXSD on 12/17/18   Page 7 of 15\nCausation: Judge Ewing next argues that Willey has not demonstrated a causal \nconnection between the injury and his alleged conduct.  This argument fails.  Article III \nstanding does  not require that Judge Ewing be the most immediate cause,  or even a \nproximate cause, of Willey's injuries; rather, it requires only that those injuries be \"fairly \ntraceable\" to  Judge Ewing.  League of United Latin Am.  Citizens,  Dist.  19 v.  City of \nBoerne, 659 F.3d 421, 431  (5th Cir. 2011) (\"The causation element does not require a \nparty  to  establish  proximate  causation,  hut  only  requires  that  the  injury  be  'fairly \ntraceable'  to the defendant.\") (citing Bennett v.  Spear,  520 U.S.  154,  168-69 (1997)). \nThus, Willey need only allege an injury that fairly can be traced to the actions of Judge \nEwing.  See Spokeo, 136 S. Ct. at 1547.  Willey's allegations easily cross this threshold. \nRedressability: Next, Judge Ewing contends that Willey has failed to allege facts \nsufficient to demonstrate that his injury will be redressed by a favorable ruling. \nJudge Ewing first  argues  that although Willey has  sought injunctive relief and \nattorney's fees, such relief is foreclosed by the Fifth Circuit's opinion in Davis v.  Tarrant \nCounty,  Texas,  565  F.3d 214 (5th Cir. 2009).  In the Complaint, Willey concedes that \nunder the holding of Davis, \"an injunction ... may not issue against Judge Ewing under \n42 U.s.-c. § 1983\" and \"attorney's fees are unavailable.\"  Dkt. 1 at 20.  Willey explains that \nhe  included  those  requests  for  relief \"only  to  preserve  his  argument  that  the  Fifth \nDkt. 14 at 13.  The Court is not persuaded by this logic.  Willey has alleged he'has not received \nany appointments from Judge Ewing due to retaliation.  For this Court's purposes at this stage of \nthe case, it does not matter if Willey received any appointments from another judge.  If Judge \nEwing  wants  to  argue  that  Willey's  unavailability  is  the  real  reason  Judge  Ewing  stopped \nappointing Willey to  cases,  he will have  an opportunity to  present such an argument in the \ncontext of a Motion for Summary Judgment or at trial. \n7 \n\nCase 3:18-cv-00081   Document 26   Filed in TXSD on 12/17/18   Page 8 of 15\nCircuit's holding [in Davis] ... is incorrect.\"  Id.  The Court concurs with both parties; \nDavis is controlling authority in this case.  See 565 F.3d at 227.  Accordingly, Willey's \nrequests for injunctive relief and attorney's fees are dismissed. \nWith respect to Willey's request for declaratory relief, Judge Ewing argues that \nthe Court cannot grant declaratory relief because he has no interest adverse to Willey, and \n· in any event, no continuing controversy exists between them.  \"For the Court to gr~nt \ndeclaratory relief, there must be a 'substantial and continuing controversy between two \nadverse parties' and 'a substantial likelihood that the Plaintiffs will suffer injury in the \nfuture.\"'  Browning v. PHH Mortg. Corp., No. CIV.A. H-12-0886, 2013 WL 3244094, at \n*6 (S.D. Tex. June 26, 2013) (quoting Bauer v.  Texas, 341 F.3d 352, 358 (5th Cir. 2008)) \n(brackets omitted). \nIn arguing that he.lacks an interest adverse to Willey, Judge Ewing· contends that \nWilley challenges his  \"actions, or lack thereof, taken while handling litigation on his \ndocket\" and \"[a] judge acting in his judicial capacity and an attorney defending a client \ndo not have adverse legal interests because the judge has no personal or institutional stake \nin  the  controversy.\"  Dkt.  14  at  10.  Judge  Ewing's  argument  is  predicated  on  an \ninaccurate  summation  of Willey's  Complaint.  Although  Willey  does  allege  that his \ninteractions  with  Judge  Ewing  arose  in  certain  cases,  he  does  not  allege  that  Judge \nEwing's retaliatory  conduct manifested as  a result of Judge Ewing's adjudications  in \nthose cases.  Said another way,  Willey has  not alleged that Judge Ewing's retaliatory \nconduct is based on an adjudication made against any of the parties to any of the cases \nWilley mentions in his Complaint.  Instead, Willey alleges that Judge Ewing took actions \n8 \n\nCase 3:18-cv-00081   Document 26   Filed in TXSD on 12/17/18   Page 9 of 15\nagainst his personal  legal  interest in  continuing to  serve  as  appointed  counsel within \nJudge Ewing's  court.  That certain of Willey's  instances  of alleged protected speech \n.  ' \nconcerned or were made at some point within the context of a case does not mean Judge \nEwing's decision to disrupt Willey's ability to act as appointed counsel in his court was \nmade while he was acting in his adjudicatory capacity.  This is fatal to Judge Ewing's _ \nargument.  See,  e.g,  Terrebonne Par.  N.A.A.C.P.  v.  Jindal,  No.  CIV.  A:  14-069-JJB-\nSCR, 2014 WL 3586549, at *3 (M.D. La. July 21, 2014) (explaining that the defendant's \nargument that \"standing was absent due to a lack of adversity between the plaintiff and \nthe d~fendant\" was \"misguided\" and \"unavailing\" because unlike in Bauer, there were no \nfacts  presented  that the  defendant  \"was  acting  in  his  adjudicatory  capacity\")  (citing \nBauer, 341 F.3d at 359). \nJudge Ewing's argument regarding the existence of a continuing controversy is \nalso unpersuasive.  Judge Ewing contends that no continuing controversy exists because \nafter Willey's alleged protected speech occurred, he spoke with Willey and \"explained \nthe reasons for  [Willey's] removal from the  ~ases at issue· and that said reasons were \ninconsistent with retaliation.\" Id.  at 11.  Judge Ewing implies that Willey accepted the \nresolution afforded by their conversation and therefore no continuing controversy exists.  \n. See  id.  This argument has no teeth.  Although Judge Ewing might have explained his \nreasons for removing Willey from cases, Willey certainly did not accept those reasons. \nTo the contrary, Willey forcefully argues (as evinced by the filling of this lawsuit) that a \ncontroversy exists.  Thus, Judge Ewing's argument fails. \n9 \n\nCase 3:18-cv-00081   Document 26   Filed in TXSD on 12/17/18   Page 10 of 15\n.  . \nJudge Ewing also contends that the declaratory relief Willey seeks will not redress \nhis harm.  In support of this claim, Judge Ewing makes several arguments about what \nsuch prospective relief might look like and how such declarations will interact with the \nJudicial Canons and other laws.  The Court finds such arguments to be premature.  At this \nstage,  the  Court  will  not  burden  itself  by  attempting  to  discern  all  the  possible \npermutations that could be appropriate for a future declaration.  The Court will consider \nthe specific construction of any declaration, if and when, such becomes necessary. \nIn  sum,  the  Court  finds  that  Willey's  allegations  are  sufficient  to  establish \nstanding.  See Spokeo, 136 S. Ct. at 1547 (\"Where, as here, a case is at the pleading stage, \nthe plaintiff must clearly allege facts  demonstrating each element.\") (internal quotation \nmarks, alteration, and citation omitted). \nThe  Court now turns  to  Judge  Ewing's argument that  Willey  failed  to  state  a \nclaim. \nFAILURE TO STATE A CLAIM \nTo  establish  a First Amendment  retaliation  claim  under  Section  1983,  Willey \n\"must  show  that  (1)  []he  suffered  an  adverse  employment  action;  (2)  h[is]  speech \ninvolved a matter of public concern; (3) h[is] interest in commenting on matters of public \nconcern outweighed the defendant's interest in promoting ... efficiency; and (4) h[is] \nspeech was  a substantial or mo~iyating factor  in the  defendant's  adverse  employment \naction.\"  Burnside v. Kaelin, 773 F.3d 624, 626 (5th Cir. 2014) (collecting cases). \nJudge Ewing asserts that Willey's Complaint fails to allege sufficient facts to show \neach element. \n10 \n\nCase 3:18-cv-00081   Document 26   Filed in TXSD on 12/17/18   Page 11 of 15\nAdverse Employment Decision:  As  described above,  Willey  alleges  that as  a \nresult of engaging in protected speech, Judge Ewing removed him.from cases to which he \nwas assigned and refused to assign him. to new cases in his court.  Judge Ewing argues \nthat those factual allegations are insufficient because \"Willey fails to indicate whether or \nnot he was receiving appointments from other judges during this time period and fails to \nallege he was available to receive appointments during the time period in question.\"  Dkt. \n14 at 13.  And, thus, \"Willey merely speculates that it is unlikely random selection would \n. have caused the lack of appointments.\" !d.  The Court is not persuaded by Judge Ewing's \nargument.  At this stage, the Court must accept all of Willey's factual allegations as true \nand  make  all  reasonable  inferences  in  Willey's  favor.  See  Allen v.  Walmart  Stores, \nL.L.C., 907 F.3d 170, 177 (5th Cir. 2018) (\"we will accept all well-pleaded facts as true, \nviewing them in the light most favorable to the plaintiff') (internal quotation marks and \ncitation omitted).  In light of the highly deferential standard applicable at this stage of the \nlitigation,  and  considering  Willey's  well-pleaded  factual  allegations,  the  Court  finds \nWilley has sufficiently alleged an adverse employment decision. \nMatter of Public Concern: Whether Willey's speech relates to a matter of public \nconcern is a question of law to be resolved by the court.  See Markos v.  City ofA  tlanta, \n364 F.3d 567, 570 (5th Cir, 2004).  \"An employee's speech may contain an element of \npersonal interest and yet still qualify as speech on a matter of public concern.\"  Harris v. \nVictoria Ind.  Sch.  Dist., 168 F.3d 216, 222 (5th Cir.  1999) (citation omitted). \"{E]ven a \nmere scintilla of speech regarding a matter of public concern is  sufficient to treat the \n. entire communication as mixed speech.\"  Stotier v.  Univ.  of Tex.  at San Antonio, 508 \n11 \n\nCase 3:18-cv-00081   Document 26   Filed in TXSD on 12/17/18   Page 12 of 15\nF.3d 812,  826  (5th Cir. 2007).  \"In mixed speech cases, to determine whether speech \naddresses  a matter  of public  concern,  a  court  must  evaluate  the  'content,  form,  and \ncontext of a given statement, as revealed by the whole record.\"'  Brown v.  Leflore Cty., \n150 F. Supp. 3d 753, 762 (N.D. Miss. 2015) (quoting Connick v.  Myers, 461  U.S.  138, \n147-48 (1983)) (emphasis added). \nWilley contends that he engaged in protected speech concerning unconstitutional \npractices in the Galveston County criminal courts  in  three ways:  he advocated out of \ncourt and filed complaints with state agencies; he made requests for fees .a nd appealed \ntheir denial; and he advocated in court.  The specific content of Willey's speech was not \ndetailed in the Coni. plaint, but Willey does generally describe the type of unconstitutional \nconduct that Galveston County allegedly engaged in that served as the subject of,  and \nreason for,  him speaking out.  Such speech presumptively involves a matter of public \nconcern.  In order to fully evaluate the nature of Willey's speech, the Court will need to \nconsider the content, form, and context of the statements made, as revealed by the whole \ncourt record.  Thus, the Court finds that the factual allegations in the Complaint plausibly \nsuggest an entitlement to relief, which is  sufficient to withstand a motion to dismiss at \nthis time. \nBalancing Public Concern and Efficiency: \"In stating a prima facie case at the \n· motion-to-dismiss stage of a case, there is a rebuttable presumption that no balancing is \nrequired to state a claim.\"· Burnside, 773 F.3d at 628 (citation omitted).  H' ere, \"nothing \nin [Willey's] [C]omplaint indicates that [his] interest in commenting on [certain practices \nin the Galveston County criminal courts] was surpassed by [Judge Ewing's] interest in \n12 \n\nCase 3:18-cv-00081   Document 26   Filed in TXSD on 12/17/18   Page 13 of 15\nworkplace efficiency.  Thus, the [C]omplaint's allegations are sufficient to survive [Judge \nEwing's] motion to dismiss.\" Id. at 628-29. \nMotivating Factor: Willey alleges Judge Ewing took adverse actions against him \nbecause he engaged in protected speech.  At least one of the forms of protected speech \ntook place only several days before Judge Ewing's alleged adverse actions began.  See \ne.g., Dkt.  1 ~~ 62 (Willey filed complaint with Texas Indigent Defense Commission on \nMay 20, 2016), 64 (on May 31, 2016, Willey discovered Judge Ewing removed him from \na case).  The Court finds, therefore, that Willey has sufficiently alleged that his protected \n.  I \n·speech motivated Judge Ewing's actions.  See Mooney v. Lafayette Cty. Sch. Dist., 538 F.: \nApp'x 447, 454 (5th Cir. 2013) (\"Close timing between ... protected [speech]  and an \nadverse  employment  action  can  be  a  sufficient. basis  for  a  court  to  find  a  causal \nconnection required to make out a prima facie case of retaliation.\"); Smith v.  Call.  of the \nMainland, 63 F. Supp. 3d 712, 719 (S.D. Tex. 2014) (\"closeness intime is ... relevant in \nthe First Amendment retaliation context\") (citation omitted). \nRemaining  Arguments:  Judge  Ewing  also  seems  to. imply  that  Willey  was \nrequired  to,  at  a  minimum,  specifically. recite  the  elements  of his  First Amendment \nretaliation cause of action.  See Dkt. 14 at 20 (\"In this case, Plaintiff fails to provide even \na formulaic recitation of the elements of his cause of action for retaliation for exercise of \nfree speech.\").  This argument is nonsensical because our case law makes clear that the \nsufficiency  of  a  Complaint  is  determined  by  considering  its  substance  (factual \nallegations), not its form.  See,  e.g., Rios v.  City of Del Rio, 444 F.3d 417, 420-21 (5th \nCir. 2006) (\"the complaint must contain either direct allegations on every material point \n13 \n\nCase 3:18-cv-00081   Document 26   Filed in TXSD on 12/17/18   Page 14 of 15\nnecessary to sustain a recovery or contain allegations from which an inference fairly may \nbe drawn that evidence on these material points will be  introduced at trial\")  (internal \nquotation marks, ellipses, and citations omitted).  In this case, Willey provides 20 pages \nof factual  allegations  and  specifically  states  that  his  claims  for  relief are  based  on \n\"Retaliation in Violation of Willey's First Amendment Rights.\"  Dkt. 1 at 19.  Although \nWilley does not cite a case in his Complaint setting forth the· elements required to state \nsuch a claim, he has clearly alleged facts addressing each element.  \"The Court concludes \nthat  these  allegations  suffice  to  withstand  a  Rule  12(b )( 6)  motion  at  this  time.\" \nKleppinger v.  Tex.  Dep't ofTransp., No. CV L-10-124, 2012 WL 12893480, at *3 (S.D. \nTex. 2012). \nJudge  Ewing  also. argues  that  Willey  has  failed  to  state  a  claim  because  the \nComplaint fails to allege facts demonstrating that declaratory judgment is \"necessary.\" \nDkt.  14  at  27.  Judge  Ewing  claims  that  \"the  factual  assertions  made  by  Plaintiff \naffirmatively demonstrate that declaratory relief is not required as the Galveston County \nIndigent Defense Plan  already  has  procedures  in  place  to  address  Plaintiffs  alleged \ncomplaints,\" and Willey has already sought relief through \"the proper state established \nvehicles for redress\"  !d.  These arguments are not persuasive.  In the Complaint, Willey \ndescribes  the  ins-and-outs  of attorney  appointments  in  Galveston  County~ including \ncertain. avenues  of relief (under  state  law)  that  might  be  available  to  an  aggrieved \nattorney.  The mere existence of some avenue of relief-whether Willey avails himself of \nsuch relief or not-does not undermine Willey's claim for declaratory relief at this stage \nof the case.  Willey has  alleged sufficient factual  allegations to  support his  claim for \n14 \n\nCase 3:18-cv-00081   Document 26   Filed in TXSD on 12/17/18   Page 15 of 15\n· declaratory relief, and in this Court's view, the necessity of such relief has been plausibly \nalleged. \nFinally, Judge Ewing argues that he \"is entitled to judicial immunity in all actions \ntaken in his judicial capacity.\"  Jd.  at 26.  However, \"judicial immunity i$ not a bar to \nprospective injunctive relief against a judicial officer.\"  Pulliam v.  Allen, 466 U.S. 522, \n541 (1984).  Thus, Judge Ewing's judicial immunity argument fails. \nCONCLUSION AND RECOMMENDATION \nFor  the  reasons  stated  above,  the  Court  RECOMMENDS  that  Defendant's \nMotion to Dismiss be GRANTED in part and DENIED in part.  Specifically, Willey's \nclaims  for  injunctive  relief and  attorney's  fees  under  42  U.S.C.  §  1988  should  be \nDISMISSED.  The motion should be denied in all other respects. \nThe Clerk shall provide copies of this Memorandum and Recommendation to the \nrespective  parties  who  have  fourteen  days  from  the  receipt  thereof _t~  file  written \nobjections pursuant to Federal Rule of Civil Procedure 72(b) and General Order 2002-13. \nFailure to file written objections within the time period mentioned shall bar an aggrieved · \nparty from attacking the factual findings and legal conclusions on appeal. \nSIGNED at Galveston, Texas, this 17th day of December, 2018. \n~rsoN \nUNITED STATES MAGISTRATE WDGE \n15 ",
+      "document_type_other": "",
+      "external_url": "",
+      "ecf_number": "26",
+      "clearinghouse_link": "clearinghouse.net/doc/102205"
+    },
+    {
+      "date": "2019-01-24",
+      "date_is_estimate": false,
+      "date_not_available": false,
+      "description": null,
+      "document_source": "PACER [Public Access to Court Electronic Records]",
+      "document_status": "Coding Complete",
+      "document_type": "Order/Opinion",
+      "order_type": "Non-Decree",
+      "citation_paren": null,
+      "cite_1_page": null,
+      "cite_1_reporter": null,
+      "cite_1_vol": null,
+      "cite_2_page": 313432,
+      "cite_2_reporter": "WL",
+      "cite_2_vol": 2019,
+      "cite_3_page": 11361,
+      "cite_3_reporter": "U.S.Dist.LEXIS",
+      "cite_3_vol": 2019,
+      "citation_status": "WL/LEXIS only: No official citation available",
+      "court": "Southern District of Texas",
+      "no_title": false,
+      "party_types": [
+        "Court"
+      ],
+      "per_curium": false,
+      "is_core_document": true,
+      "id": 102206,
+      "file": "https://clearinghouse-umich-production.s3.amazonaws.com/media/doc/102206.pdf",
+      "title": "Order Adopting Magistrate Judge's Memorandum and Recommendation",
+      "text": "Case 3:18-cv-00081   Document 31   Filed on 01/24/19 in TXSD   Page 1 of 2\nUnited States District Court\nSouthern District of Texas\nENTERED\nJanuary 24, 2019\nUNITED STATES DISTRICT COURT \nSOUTHERN DISTRICT OF TEXAS  David J. Bradley, Clerk\nGALVESTON DIVISION \n \nANDREW WILLEY        § \n              § \n    Plaintiff.        § \n              § \nVS.              §  CIVIL ACTION NO. 3:18–CV–00081 \n              § \nHON. JACK EWING        § \n  § \nDefendant.        § \n \n \nORDER ADOPTING MAGISTRATE JUDGE’S MEMORANDUM AND \nRECOMMENDATION \n \nPending before the Court is the Memorandum and Recommendation of United States \nMagistrate Judge Andrew Edison.  Dkt. 26.  On October 31, 2018, Defendant’s Rule 12(b)(1) \nMotion to Dismiss for Lack of Subject Matter Jurisdiction and Rule 12(b)(6) Motion to Dismiss \nfor Failure to State a Cause of Action (“Defendant’s Motion to Dismiss”) was referred to Judge \nEdison pursuant to 28 U.S.C. § 636.  Dkt. 23.   \nOn December 31, 2018, Defendant filed his Objections (Dkt. 27).  On January 14, 2019, \nPlaintiff responded to Defendant’s objections.  (Dkt. 29).  In accordance with 28 U.S.C. § \n636(b)(1), this Court is required to “make a de novo determination of those portions of the \n[magistrate  judge’s]  report  or  specified  proposed  findings  or  recommendations  to  which \nobjection [has been] made.”  After conducting this de novo review, the Court may “accept, \nreject, or modify, in whole or in part, the findings or recommendations made by the magistrate \njudge.”  Id.; see also Fed. R. Civ. P. 72(b)(3). \n\nCase 3:18-cv-00081   Document 31   Filed on 01/24/19 in TXSD   Page 2 of 2\nBased on the pleadings, the record and the applicable law, the Court ACCEPTS Judge \nEdison’s Memorandum and Recommendation and ADOPTS it as the opinion of the Court.  It is \ntherefore ORDERED that \n(1) Defendant’s Objections (Dkt. 27) are OVERRULED;  \n(2)  Judge  Edison’s  Memorandum  and  Recommendation  is  APPROVED  AND \nADOPTED in its entirety as the holding of the Court; and \n(3) Defendant’s Motion to Dismiss (Dkt. 14) is GRANTED in part and DENIED in \npart.  Specifically, Willey’s claims for injunctive relief and attorney’s fees under 42 U.S.C. § \n1988 are DISMISSED.  Defendant’s Motion to Dismiss is DENIED in all other respects.   \nIt is so ORDERED. \n  SIGNED at Galveston, Texas, this 24th day of January, 2019. \n \n \n___________________________________ \nGeorge C. Hanks Jr. \nUnited States District Judge \n2 \n ",
+      "document_type_other": "",
+      "external_url": "",
+      "ecf_number": "31",
+      "clearinghouse_link": "clearinghouse.net/doc/102206"
+    },
+    {
+      "date": "2018-03-19",
+      "date_is_estimate": false,
+      "date_not_available": false,
+      "description": null,
+      "document_source": "PACER [Public Access to Court Electronic Records]",
+      "document_status": "Coding Complete",
+      "document_type": "Complaint",
+      "order_type": null,
+      "citation_paren": null,
+      "cite_1_page": null,
+      "cite_1_reporter": null,
+      "cite_1_vol": null,
+      "cite_2_page": null,
+      "cite_2_reporter": null,
+      "cite_2_vol": null,
+      "cite_3_page": null,
+      "cite_3_reporter": null,
+      "cite_3_vol": null,
+      "citation_status": "Not applicable",
+      "court": "Southern District of Texas",
+      "no_title": false,
+      "party_types": [
+        "Plaintiff"
+      ],
+      "per_curium": false,
+      "is_core_document": true,
+      "id": 102203,
+      "file": "https://clearinghouse-umich-production.s3.amazonaws.com/media/doc/102203.pdf",
+      "title": "Complaint",
+      "text": "Case 3:18-cv-00081   Document 1   Filed in TXSD on 03/19/18   Page 1 of 20\nIN THE UNITED STATES DISTRICT COURT \nFOR THE SOUTHERN DISTRICT OF TEXAS \nGALVESTON DIVISION \n  )\nANDREW WILLEY,  )\n  )\nPlaintiff,  )\n  )\nv.  ) Case No.  18-CV-81 \n  )  \nTHE HONORABLE JACK EWING, in his  )  \ncapacity as Judge of Galveston County Court  ) \nat Law Number Three,    ) \n  ) \nDefendant.  ) \n  ) \n \nCOMPLAINT \nThe American criminal system is adversarial. In an adversarial system, cases are resolved \nnot by the inquiries of a judge, but instead by the confrontational testing of facts by the state and \ndefense counsel. For this to work, defense counsel must be independent of the judge: he must be \nfree to express his views and to advocate for his clients without fear of personal retaliation from \nthe court. “Indeed,” the United States Supreme Court has said, “an indispensable element of the \neffective  performance  of  [the  defense  function]  is  the  ability  to  act  independently  of  the \nGovernment and to oppose it in adversary litigation.” Ferri v. Ackerman, 444 U.S. 193, 204 (1979). \nAndrew “Drew” Willey is a criminal defense attorney who vigorously advocated for his \nclients in court. He also publicly expressed the view that his clients deserve to be treated fairly \neven though they are too poor to afford an attorney. He sought to provide them with a defense that \nmet the minimal standards of the State Bar of Texas and of the United States Constitution. In \nretaliation, Defendant Judge Jack Ewing attempted to silence him by improperly removing him \nfrom cases to which he was assigned and by passing him over for future appointments. Willey files \n\nCase 3:18-cv-00081   Document 1   Filed in TXSD on 03/19/18   Page 2 of 20\nthis suit to vindicate his right to advocate for his clients and to speak out on their behalf without \nfear that he will be removed from his position as a result.      \nParties \n1.  Plaintiff Drew Willey is a graduate of Gideon’s Promise, a non-profit organization, \nformerly known as the Southern Public Defender Training Center, that aims to provide a “voice \nfor the voiceless” by giving “new public defenders the skills and knowledge necessary to become \nexcellent advocates for those they represent.” Through Gideon’s Promise, Willey attended training \nat the Harris County Public Defender’s office. \n2.  Willey is passionately committed to indigent defense. He believes that commitment \nto be commanded by his Christian faith. And in the service of that commitment, he has created a \nnon-profit organization called Restoring Justice, whose “mission is to pursue Christ’s justice” \nthrough “loving and fighting for the people the system has forgotten.”  \n3.  While he is working to get the non-profit off the ground, Willey maintains a \nsuccessful criminal-defense practice. He takes both appointed and retained cases in Houston, \nGalveston, and their environs. \n4.  Willey’s private practice is financially successful. He takes appointed cases in \nGalveston because he believes that it is his duty as an attorney and as a person to use his experience \nand skills to help those in need and to use his practice to change the criminal system for the better.   \n5.  Defendant Judge Jack Ewing is the judge of Galveston County Court at Law \nNumber Three. He was first elected in 2014. He is sued in his official capacity. \nIndigent Defense in Texas and Galveston County \n6.  The indigent defense system in Texas is in crisis. Lawyers throughout the state are \nforced to handle so many cases that they could not possibly provide their clients the defense \n\nCase 3:18-cv-00081   Document 1   Filed in TXSD on 03/19/18   Page 3 of 20\nrequired by the Constitution. In 2015, the Texas Indigent Defense Commission studied the problem \nof inadequate defense throughout the state. It found that a constitutionally adequate defense system \nrequired a 66% increase in attorney time for indigent defendants, a 500% increase in attorney time \nspent filing motions, and a 1,300% increase in investigator time.  \n7.  Under Texas law, judges control the appointment of counsel for indigent people \ncharged with crimes. Although some judges authorize a public defender’s office to represent \ndefendants in their courts,1 the overwhelming majority of indigent defendants in Texas are \nappointed private counsel selected by the judges before whom the defendants’ cases are pending. \nThis creates an entrenched conflict of interest: instead of fighting for the undivided interests of \ntheir clients, lawyers must ensure they do not upset or inconvenience the judges. Throughout \nTexas, lawyers fear retaliation if they advocate too vigorously for their clients.  \n8.  Before 2001, each Texas judge was solely responsible for the appointment of \ncounsel in her courtroom. According to expert reports prepared at the time, this resulted in a \n“hodgepodge” of systems that varied between counties and between individual judges within \ncounties. Many people were convicted and sentenced to jail without counsel at all. When lawyers \nwere appointed, they were often untrained in criminal law and ill-equipped to handle their cases. \nThe State exercised no oversight over indigent defense. TEXAS APPLESEED, THE FAIR DEFENSE \nREPORT 44–45 (2000).  \n9.  In 2000, a survey revealed that judges in Texas were abusing their appointment \npowers. “Nearly half of . . . judges [surveyed] (46.4 percent) report[ed] that their peers sometimes \nappoint counsel because they have a reputation for moving cases, regardless of the quality of the \n                                            \n1 In Texas, each court has only one judge. Galveston County has four Justice of the Peace \nCourts (numbered 1–4); three County Courts at Law (numbered 1–3); six Judicial District Courts \n(the 10th, 56th, 112nd, 212th, 306th, and 405th); and one probate court.  \n\nCase 3:18-cv-00081   Document 1   Filed in TXSD on 03/19/18   Page 4 of 20\ndefense they provide . . . [and] [n]early four in ten judges (39.5 percent) indicate[d] that their peers \noccasionally appoint an attorney because he or she is a friend, while roughly one-third of judges \nsometimes consider whether the attorney is a political supporter (35.1 percent) or has contributed \nto their campaign (30.3 percent).” ALLAN K. BUTCHER & STEPHEN K. MOORE, THE TEXAS STATE \nBAR ASSOCIATION, MUTING GIDEON’S TRUMPET: THE CRISIS IN INDIGENT CRIMINAL DEFENSE IN \nTEXAS 12 (2000) (emphasis in original). \n10.  In 2001, in response to widespread problems with the assigned-counsel system, \nTexas passed the Texas Fair Defense Act (TFDA), which requires that counties adopt formalized \n“indigent defense plans” and that those plans meet a few minimal requirements. \n11.  Although the TFDA allows counties to establish public defender offices, each judge \nis empowered to determine whether that office may represent clients in that judge’s court. The vast \nmajority of judges do not use a public defender, either because no public defender is established \nin their county or because they choose not to allow the public defender to appear in their court.    \n12.  The TFDA requires that counties employ a “system of rotation” to assign counsel \nfor criminal defendants. In each case, “[t]he court shall appoint attorneys from among the next five \nnames on the appointment list in the order in which the attorneys’ names appear on the list, unless \nthe court makes a finding of good cause on the record for appointing an attorney out of order. An \nattorney who is not appointed in the order in which the attorney’s name appears on the list shall \nremain next in order on the list.” Tex. Code Crim. P. art. 26.04 (a). The act specifically requires \nthat county plans “ensure that appointments are allocated among qualified attorneys in a manner \nthat is fair, neutral, and nondiscriminatory.” Id. at (b)(6).2  \n                                            \n2 Some counties may use an “alternative plan.” Tex. Code Crim. P. art 26.04(g). These plans are \nchiefly used in small counties that join other small counties to coordinate services. In counties using an \nalternative plan, “appointments [must be] reasonably and impartially allocated among qualified \nattorneys.” Id. \n\nCase 3:18-cv-00081   Document 1   Filed in TXSD on 03/19/18   Page 5 of 20\n13.  Galveston County’s indigent defense plan mirrors the TFDA. Galveston’s plan \ncreates a graduated list of attorneys under which more experienced attorneys may be appointed to \nrepresent clients charged with more serious crimes. The plan also creates the office of an Indigent \nDefense Services Coordinator tasked with maintaining the list of attorneys, ensuring that the \nattorneys on the list are qualified, ensuring that the Criminal Courts “follow the plan for appointing \nattorneys,” and processing complaints about appointed attorneys.  \n14.  By March 1 of each year, the Criminal Courts Board—which is composed of all \ndistrict and county-court-at-law judges with jurisdiction over Galveston County—must conduct a \nperformance review of every attorney on the list. By majority vote, the judges determine if each \nattorney should stay at the same level on the graduated list, go up a level, go down a level, or be \nremoved from the list.  \n15.  The plan lists eight specific grounds for removal from the list, but, regardless of the \nother grounds, the plan allows an attorney to be removed from the list “for good cause at the \ndiscretion of a majority vote of the Criminal Courts Board.”  \n16.  If someone makes a complaint about an attorney, the Plan provides that the \nCoordinator shall forward the complaint to the Board. The Board “shall schedule a hearing to \naddress the complaint.” The Coordinator “shall notify the attorney, in writing, of the Board \nmeeting and shall provide the attorney copies of the written and signed complaint. The attorney \nmay respond to the complaint by providing a written, signed response to the Board, by appearing \nin person at the Board meeting to address the Board, or both.”  \n17.  In the County Courts at Law, attorneys are appointed to individual cases of non-\njailed defendants from within the first five names on the level of the graduated list to which the \ncase belongs. No attorney may be passed over from within those five “more than twice” unless the \n\nCase 3:18-cv-00081   Document 1   Filed in TXSD on 03/19/18   Page 6 of 20\ncourt finds, in writing, that she is conflicted out of the case or that there is other “good cause” for \nfailing to appoint her.  \n18.  The County Court at Law judge who is assigned to the jail docket appoints two \nattorneys to represent defendants charged on that docket “for a period not to exceed one week.” \nThe two attorneys generally agree that each will represent half of the defendants charged that week. \nAccording to the Galveston County Plan, “the County Court at Law Judge shall appoint the \nattorneys for the week from within the first five names on the . . . Graduated List with the \nunderstanding that the attorney appointed for the week must come from within the first five names \non the appointment list.”  \n19.  The Galveston County Plan requires that “[e]xcept where otherwise provided for in \nSection XII C of the Plan [which covers people arrested on warrants from other counties], the \nattorney representing the defendant at jail docket is appointed to represent the defendant in the \npending criminal matter until final resolution of the case.”  \n20.  If a judge wishes to replace appointed counsel, the judge may do so only after \n“entering written findings in the record showing good cause for the replacement and no prejudice \nto the defendant, including, without limitation: (a) Current information about the defendant and \ncharges indicates that counsel of different qualifications is appropriate for the defendant under \nthese rules; or (b) Replacement of appointed counsel in a death penalty case is required under . . . \nthe Code of Criminal Procedure.” Otherwise, the attorney must remain on the case absent a request \nby the defendant or the attorney.  \n21.  If an attorney believes that a client’s case requires the assistance of an investigator \nor mental-health professional, the attorney must move the court for approval of funds for those \n\nCase 3:18-cv-00081   Document 1   Filed in TXSD on 03/19/18   Page 7 of 20\nservices. If the request is approved, the service providers submit their bills directly to the Indigent \nDefense Services Coordinator.  \n22.  After a case or appointment is completed, the attorney submits a voucher to the \ncourt that presided over the case. If that court’s judge does not approve the full voucher amount, \nshe must “make written findings stating . . . the reason for approving an amount different from the \nrequested amount.” The attorney may then “file an appeal with the Presiding Judge of the 2nd \nAdministrative Region,” which contains Galveston County. The trial judge then has an opportunity \nto increase the voucher amount. If the trial judge declines to increase the amount, or if the increased \namount remains insufficient to satisfy the attorney’s fee, the Presiding Judge rules on the appeal \nand determines the final approved amount.      \nThe Galveston Jail Docket \n23.  People arrested in Galveston County who cannot immediately pay a secured money \nbail amount—and who are therefore jailed—appear before a County Court at Law Judge on a “jail \ndocket.”  \n24.  Defendants on the jail  docket are brought in shackles to a courtroom in the \nGalveston County Jail. In the courtroom, the defendants remain behind a Plexiglas wall that \ndivides the courtroom roughly in half.     \n25.  On either side of the courtroom sit two attorney-consultation areas where lawyers \nmay speak to their clients, also through Plexiglas and aided by a telephone.  \n26.  A Galveston County Court at Law judge presides over the docket from chambers \nvia a videolink system. The judges preside over the jail docket in weeklong rotations. On the jail \ndocket, judges appear on the videolink only when it is time to formally appoint counsel and accept \nbargained-for pleas.  \n\nCase 3:18-cv-00081   Document 1   Filed in TXSD on 03/19/18   Page 8 of 20\n27.  Before the daily court sessions begin, the defense attorneys plea bargain with the \nprosecutor in the courtroom. The defense attorneys relay offers from the assistant district attorney \non duty in the courtroom to their clients via the Plexiglas-partitioned telephone system. This is the \nfirst occasion that an attorney and client have met, and no legal or factual investigation has been \ndone on the case.  If a detained person decides to accept a plea offer, that person may enter her \nplea when court begins. If she does not accept a plea offer, she will be jailed until her trial unless \nshe can pay a money-bail amount. \nJudge Ewing Removed Willey from Cases to Which he had Been Assigned and \nRefuses to Assign Him to Further Cases Because of His Constitutionally Required \nAdvocacy on Behalf of his Clients in their Cases and his Political Advocacy Concerning \nSystemic Constitutional Violations \n \n28.  On June 22, 2015, Judge Ewing appointed Willey to represent W.L., who had been \ncharged with Burglary of a Vehicle, a Class A Misdemeanor under Texas law.  \n29.  When Willey initially began work on the case, he quickly discovered blatant \ninconsistencies in the arresting police officer’s statements regarding the case.  \n30.  Willey accordingly asked the assistant district attorney working on the case to \ndismiss the burglary charge or, alternatively, to reduce it to an attempted burglary charge. The \nassistant district attorney refused. \n31.  Unable  to  persuade  the  assistant  district  attorney  that  the  charges  were \nunsupportable, Willey needed to prepare the case for trial. To do that, he needed to interview \nwitnesses, some of whom were potentially adverse to his client.         \n32.  The State Bar of Texas’s Non-Capital Defense Performance Guidelines read: “If \nCounsel conducts interviews of potential witnesses adverse to the client, counsel should attempt \nto do so in the presence of an investigator or other third person in a manner that permits counsel \nto effectively impeach the witness with statements made during the interview.”  \n\nCase 3:18-cv-00081   Document 1   Filed in TXSD on 03/19/18   Page 9 of 20\n33.  Consistent with the State Bar of Texas’s guidelines, Willey hired an investigator, \nGeoff Anderson.  \n34.  After  several  months  of  investigating,  negotiating  with  the  assistant  district \nattorney, and appearing in court, Willey secured a plea offer from the State with terms that were \nvery favorable to W.L.  \n35.  W.L. accepted the offer. On February 23, 2016, W.L. disposed of his case by \npleading guilty to a Class C Misdemeanor.  \n36.  On February 29, 2016, Willey submitted a payment voucher to the Galveston \nCounty Criminal Courts at Law for $1,320.  \n37.  By email, Judge Ewing altered the voucher, approving only $511.15.  \n38.  Judge  Ewing  wrote  that  the  payable  amount  had  been  reduced  because  of \n“excessive out of court hours.” \n39.  Willey appealed that determination to the presiding judge of the administrative \nregion containing Galveston County.  \n40.  In response to the appeal, Judge Ewing added roughly $300 to the voucher request. \n41.  Willey  continued  to  request  the  full  amount,  and  the  presiding  judge,  after \nreviewing Willey’s appeal, approved the full voucher amount.  \n42.  Willey later discussed the voucher issues with Judge Ewing and explained that he \nbelieved that a constitutionally adequate defense required the expenditures that he made. He \nexplained that his concern was less with a few hundred dollars and more with the principle that \nthe County should provide constitutionally adequate funds for indigent defense.  \n43.  Previously, on November 4, 2015, Judge Ewing appointed Willey to represent C.L., \nwho had been charged with a Class B misdemeanor.  \n\nCase 3:18-cv-00081   Document 1   Filed in TXSD on 03/19/18   Page 10 of 20\n44.  Willey helped C.L. negotiate a disposition that required her to participate in a \ndiversion program in order for her case to be dismissed. Because C.L. is indigent, Willey needed \nto work closely with her to ensure that she was placed in a program without unaffordable fees—\nmost such programs in Texas currently require defendants to pay money not to be prosecuted—\nand to convince the district attorney on the case that such a program was appropriate.  \n45.  On April 28, 2016, C.L.’s case was dismissed. Willey submitted a voucher on May \n2, 2016.  \n46.  Willey’s voucher for C.L.’s was for $528. On May 3, 2016, Judge Ewing reduced \nthat amount, by email, to $330, citing excessive time for a case that was ultimately dismissed. \nWilley appealed Judge Ewing’s decision, and the Presiding Judge denied the appeal.  \n47.  On May 3, 2016, Willey sent Judge Ewing a letter explaining his concerns about \nthe lack of resources for appointed attorneys in Galveston. In the letter, Willey discussed a denied \nrequest for investigator funds in the case of M.M., one of the clients whom Willey represented. \nWilley also discussed the vouchers he submitted on behalf of W.L. and C.L.  \nWilley Diligently Advocates for his Jail-Docket Clients in May 2016  \n \n48.  Willey was appointed to work the jail docket for the week of May 2, 2016, \nalongside another local attorney named Mark W. Stevens. Judge Ewing was on the bench in the \njail docket that week. \n49.  As is typical on the jail docket, Willey and Stevens agreed that each would represent \nhalf of the defendants charged that week.  \n50.  Of the clients Willey represented on the jail docket, only four clients did not plead \nguilty that week: C.N., J.F., K.N., and J.P. Willey began working on their cases.  \n\nCase 3:18-cv-00081   Document 1   Filed in TXSD on 03/19/18   Page 11 of 20\n51.  In the jail docket, Willey filed motions for release on personal recognizance on \nbehalf of all four clients. \n52.  In support of the motions, Willey submitted an extensive memorandum of law.  \n53.  Willey  argued  in  the  memorandum  accompanying  the  motions  that  it  is \nunconstitutional to jail someone solely because she cannot afford to pay a secured money bail \namount.  \n54.  No attorney appears to have argued before in the Galveston Criminal Courts that it \nis unconstitutional to jail someone solely because she cannot afford to pay a secured money bail \namount, even though courts across the country—including the United States Court of Appeals for \nthe Fifth Circuit—have recently held that it is.3  \n55.  Judge Ewing summarily denied the motions. \n56.  Willey also filed motions for waiver of court costs for those who could not afford \nto pay them and for credit for time served for impoverished people who were jailed because they \ncould not pay court costs. (Impoverished people are routinely jailed in Galveston County because \nthey  cannot  pay  court  costs.)  In  support  of  these  motions,  Willey  submitted  an  extensive \nmemorandum of law in which he argued that it is unconstitutional to jail someone solely because \nshe is poor.  \n57.  No attorney appears to have made this argument before in the Galveston Criminal \nCourts, even though the Supreme Court has for decades held that it is illegal to jail someone solely \nbecause she cannot pay a sum of money.4 \n                                            \n3 ODonnell v. Harris Cnty., Tex., ___ F.3d ___, 2018 WL 851776, at *10 (5th Cir. Feb. 14, 2018) \n(striking down the use of secured money bail without inquiry into ability to pay because it invidiously \ndiscriminates against the poor). \n4 Bearden v. Georgia, 461 U.S. 660, 672–73 (1983); Tate v. Short, 401 U.S. 395, 398 (1971); Williams v. \nIllinois, 399 U.S. 235, 241 (1970). \n\nCase 3:18-cv-00081   Document 1   Filed in TXSD on 03/19/18   Page 12 of 20\n58.  Judge Ewing summarily denied the motions.  \n59.  Willey’s jail docket assignment ended on May 6, 2016. \n60.  At that time, Willey believed that Judge Ewing  would follow the Galveston \nIndigent Defense plan and formally appoint Willey to represent the clients with whom he consulted \nand whose cases remained pending.  \n61.  Willey discussed the appointments with Mark Stevens, the other lawyer assigned \nto the jail docket, and Mr. Stevens also believed that Willey would be appointed to represent the \nclients with whom he consulted and whose cases remained pending.  \nWilley Files a Complaint with the Texas Indigent Defense Commission Alleging Systemic \nConstitutional Violations in the Jail Docket  \n \n62.  On May 20, 2016, Willey filed a complaint with the Texas Indigent Defense \nCommission.  \n63.  In  the  complaint,  Willey  explained  several  problems  with  the  jail  docket  in \nGalveston. He argued that the money-bail system in Galveston is unconstitutional, that the \nvideolink system used by the court violates Texas law, that inmates are systematically serving jail \ntime because they are unable to pay court costs, that the docket is impermissibly controlled by the \ndistrict attorney’s office, and that attorneys cannot communicate with their clients confidentially.  \nJudge Ewing Removes Willey from Cases to Which He Had Been Appointed \n \n64.  On May 31, 2016, Willey discovered that he was no longer appointed to represent \nJ.P.  \n65.  By May 31, 2016, J.P.’s case had been assigned to Judge John Grady, Judge of \nGalveston County Criminal Court at Law Number 1.  \n\nCase 3:18-cv-00081   Document 1   Filed in TXSD on 03/19/18   Page 13 of 20\n66.  Willey spoke with Judge Grady’s clerk, Ms. Connie Nolan, who told him via email \nthat she would correct what she thought must have been an error, and that she would reassign \nWilley to the case.  \n67.  Willey also emailed Case Management Specialist Roger Morrison, who apologized \nfor the inconvenience and said that he would see what could be done.  \n68.  Later that day, Nolan told Willey that Aimee Rowe, Judge Ewing’s clerk, had \nvisited Nolan that morning and told Nolan that Judge Ewing had told Rowe not to assign Willey \nto the case because he was upset with Willey over “something that happened in jail docket.”    \n69.  When Nolan told Judge Grady about Judge Ewing’s instructions, Judge Grady \ninstructed Nolan not to reassign the case to Willey. \n70.  Willey emailed Nolan asking her to confirm what happened. She wrote back that \nhe should “take that up with Judge Ewing.”  \n71.  Willey then checked his files and compared them with Galveston county’s online \nsystem. He discovered that he had been removed from the cases of C.N., J.F., K.N., and J.P. All \nfour cases had been assigned to Mark Stevens.  \n72.  By that point, only J.P.’s case remained pending. So, the same day, Willey emailed \nStevens to discuss J.P.’s case. Willey told Stevens that he had met with J.P. outside of the jail and \nhad gone to view evidence at the police station. Willey told Stevens that he believed J.P.’s case \npresented serious due process concerns.  \n73.  Later in the day on May 31, 2016, Willey emailed Judge Ewing and Ms. Rowe to \nask for clarification. Willey told Judge Ewing and Ms. Rowe that, despite being appointed to \nrepresent the clients on the jail docket, meeting the clients, advising the clients, and doing work \n\nCase 3:18-cv-00081   Document 1   Filed in TXSD on 03/19/18   Page 14 of 20\nfor the clients, he was no longer appointed to represent them. Willey asked Judge Ewing to confirm \nthat he had, in fact, asked Ms. Rowe to remove him from the cases. \n74.  By June 9, 2016, Judge Ewing still had not responded to Willey’s email. So Willey \nemailed to follow up with him about the appointments issue and two outstanding concerns: an \nunpaid voucher and an unfilled request for investigator funds.  \n75.  In response, Judge Ewing wrote only that he had denied the request for investigator \nfunds. Judge Ewing did not provide a reason for denying the request for investigator funds. \nThe Galveston County Office of Justice Administration Falsely Accuses Willey of \nIncompetence  \n \n76.  On July 8, 2016, Bonita Quiroga, the Director of the Galveston County Office of \nJustice Administration (“OJA”), which supervises the Indigent Defense Coordinator and other \noffices, filed a response to Willey’s complaint with the Texas Indigent Defense Commission. OJA \ndisputed Willey’s constitutional arguments and practical concerns.  \n77.  But  OJA  went  further.  In  response  to  Willey’s  concerns  about  counsel \nappointments, OJA wrote that “a Court may assign a case to an attorney other than the jail docket \nattorney if the Judge of the Court believes the assigned attorney is not competent to represent the \ndefendant. Although this happen [sic] very infrequently, it did happen with a case Mr. Willey was \nassigned to handle.”  \n78.  Willey was very concerned that OJA had inaccurately reported the reason he had \nbeen removed from J.P.’s case. No one had alleged (much less found) Willey to be incompetent in \nany respect. OJA’s letter offered no basis for its allegation, and OJA has not offered one since.  \n \n \n    \n\nCase 3:18-cv-00081   Document 1   Filed in TXSD on 03/19/18   Page 15 of 20\nJudge Ewing Explains His Retaliation and Promises to Remedy It \n \n79.  On or around July 15, 2016, Judge Ewing met with Willey to discuss the response \nto his complaint and his removal from the cases to which he had been assigned in the jail docket. \nWilley recorded their conversation.  \n80.  During the conversation, Judge Ewing began by saying that “it’s my prerogative \nwho to appoint to represent people and I don’t have to justify why I appoint certain people and \nwhy I don’t.” He claimed that attorneys assigned to the jail docket are not necessarily appointed \nto represent their clients throughout their cases. Therefore, Judge Ewing said, Willey had not been \n“removed” from his clients’ cases; he had not been appointed to their cases in the first place.  \n81.  But  Judge  Ewing  immediately  contradicted  this  view.  In  explaining  why  he \nappointed Mark Stevens to Willey’s clients’ cases, Judge Ewing said that “Mark Stevens happened \nto be on the jail docket and there were a number [of cases] that went without getting resolved that \nweek.” If jail docket appointments did not ordinarily lead to appointments for the remainder of the \ncase, Mark Stevens ought to have been as likely to be appointed as anyone else. \n82.  Judge Ewing revealed that he did not remove Willey from his clients’ cases because \nhe believed Willey was incompetent. “I never said I didn’t think you were competent, but I decided \nthat Mark Stevens should receive some of those cases.” Judge Ewing said he “felt as though there \nwere two attorneys and they [the cases] should be divided up equally.” \n83.  The cases were not divided equally. Of the cases that were not resolved during the \njail docket, Stevens was appointed to all of them and Willey appointed to none. When Willey \npointed out this obvious fact, Judge Ewing responded by saying only “I don’t have to answer to \nyou why I appoint people and why I don’t.” \n\nCase 3:18-cv-00081   Document 1   Filed in TXSD on 03/19/18   Page 16 of 20\n84.  Judge Ewing  and Willey  then went  back  and forth  over whether  jail docket \nattorneys are supposed to represent clients throughout their cases. Judge Ewing maintained that \nthere is no restriction on when a judge can replace counsel during the pendency of a case because \nindigent defendants do not have a right to choose their attorneys.  \n85.  Then Judge Ewing  abruptly shifted gears. He had been justifying appointing \nStevens to represent Willey’s clients by claiming that he wanted appointments to be equally \ndistributed. But then, unprompted, he said “I do feel as though you are the only attorney that on \nalmost every case you had in my court, did you ask for an appointment of an investigator.” Judge \nEwing revealed that “[i]n the year and a half that I’ve been judge—trust me—there are no others.” \n86.  Judge Ewing explained that he was concerned that Willey worked too many hours \non cases in which the client pleaded guilty. For a case that is resolved in a guilty plea to warrant \nmore than three hours of work, Judge Ewing said, there needed to be an “emergency.”  \n87.  Willey has worked more than three hours on several cases that resulted in guilty \npleas. \n88.  Willey explained, with respect to one particular case, that “the reason it took more \nwork was because the prosecutors were unreasonable with their offer and then they became \nreasonable after four or five hundred dollars’ worth of work . . . . And after all that work then they \nsaw that it was reasonable. So sometimes pleas don’t just mean pleas; sometimes you’ve gotta \nwork and show the prosecutors the realities.” \n89.  Willey then asked Judge Ewing to clarify that he had never said, and did not believe, \nthat Willey is incompetent. Judge Ewing said “I did not. I haven’t told anybody anything [and] I \ndon’t have to explain to anybody the reason I don’t appoint somebody.” \n\nCase 3:18-cv-00081   Document 1   Filed in TXSD on 03/19/18   Page 17 of 20\n90.  Instead, Judge Ewing turned to his third inconsistent explanation for removing \nWilley from his cases. This time, Judge Ewing explained that Willey “lacked . . . the experience \nthat Mark Stevens has, which is true by, 20 some odd years. So you lack the experience he has.” \n91.  Willey asked whether Judge Ewing believed that he did not have enough experience \nto represent the clients from whose cases he had been removed.  \n92.  Judge Ewing did not contend that Willey lacked the experience to competently \nrepresent the clients from whose cases he had been removed. \n93.  Instead, Judge Ewing explained that Willey lacked the experience to “to know what \nis reasonably needed sometimes to handle the case.” Judge Ewing said he “think[s] [Willey] \noverwork[s] cases.” \n94.  Court appointments, Judge Ewing said, “[are] not a glamorous thing to do. I did my \ntour of duty on court appointments. And it is very hard, when you start, to understand the volume \nof people that come through and the cases that we have to handle. There is a delicate balance \nbetween making sure that that person gets adequately represented, as opposed to did they get the \nbest representation.”  \n95.  Judge Ewing had previously said that Willey was the only lawyer in his court to \nrequest funds for an investigator in any misdemeanor cases. As the Texas State Bar’s guidelines \nconfirm, it is impossible to provide an adequate defense in many cases without an investigator.   \n96.  Willey said that he was “gonna be honest on my timesheets on the time that I spend \nand if you’ve got to cut ‘em for budgetary reasons, whatever, you know, that’s, we’ll deal with \nthat, and that’s not my big issue right now. My big issue was being pulled off a case because of \nwhatever thoughts about that.” Willey meant that Judge Ewing and he could deal with disputes \n\nCase 3:18-cv-00081   Document 1   Filed in TXSD on 03/19/18   Page 18 of 20\nover the appropriate payment for his work through the process established by the Galveston \nIndigent Defense Plan and the Texas Fair Defense Act. \n97.  Judge Ewing responded that it’s “within my prerogative as a judge, moving our \ndocket, who to assign cases and who not to.” \n98.  Willey continued to explain that his primary concern was with continuity of \nrepresentation for his clients. Judge Ewing asked whether Willey wanted to be re-appointed to \nJ.P.’s case, and when Willey said he did, Judge Ewing said “I’ll do that.” \nWilley Files a Complaint with the State Commission on Judicial Conduct \n \n99.  By June 15, 2017, Judge Ewing still had not appointed (or asked Judge Grady to \nappoint) Willey to J.P.’s case, as he had promised to do.   \n100.  On June 15, 2017, Willey filed a complaint with the State Commission on Judicial \nConduct alleging that Judge Ewing violated the principles requiring continuity of representation.  \n101.  On October 17, 2017, the Commission wrote back to Willey. The Commission \nexplained that “the judge’s conduct in this instance, while not necessarily appropriate, did not rise \nto the level of sanctionable misconduct.” The Commission “remains confident that the conduct \nwill not occur in the future.”  \nJudge Ewing Further Retaliates by Refusing to Appoint Willey to New Cases \n \n102.  Since the May 2, 2016, jail docket, Willey has been appointed to only one case \nbefore Judge Ewing.  \n103.  In that case, Willey was appointed pursuant to recently revised procedures during \nthe jail docket over which another judge was presiding. These new procedures require that \nattorneys be appointed immediately for anyone who has been arrested, but that appointment is \n\nCase 3:18-cv-00081   Document 1   Filed in TXSD on 03/19/18   Page 19 of 20\neffected only through handing the lawyer a piece of paper with the client’s name on it; the lawyer \ndoes not receive a formal appointment until a later stage of the proceedings.  \n104.  Therefore, Judge Ewing did not choose to appoint Willey to the one case to which \nWilley has been appointed in Judge Ewing’s court. \n105.  Willey has not been appointed to any non-jail-docket cases in Judge Ewing’s court \nsince May 2016. \n106.  Before May 2016, Willey regularly received appointments to non-jail-docket cases \nin Judge Ewing’s court. And given the number of attorneys on the panel in Galveston, it is very \nunlikely (even without knowledge that Judge Ewing had previously intentionally removed Willey \nfrom cases because of his advocacy) that random selection would have caused Willey to receive \nzero appointments in non-jail-docket cases before Judge Ewing over this period.   \n107.  Judge Ewing has not issued any findings that Willey is conflicted or otherwise \nineligible to be appointed to cases in his court.  \n108.  Throughout his time representing indigent clients in Galveston County, Willey has \nworked diligently on behalf of his clients and has billed only reasonably necessary hours.    \nClaim for Relief \n \nCount One: Retaliation in Violation of Willey’s First Amendment Rights \n \n109.  Willey incorporates by reference paragraphs 1–108 of this Complaint. \n110.  Judge  Ewing  removed  Willey  from  the  cases  to  which  he  had  already  been \nappointed and refuses to assign him to additional cases because Willey publicly complained about \nthe practices in the Galveston County criminal system, because he sought to provide a vigorous \nlegal and factual defense for his clients, and because he made reasonable requests for the funds \nnecessary to provide a vigorous legal and factual defense for his clients.     \n\nCase 3:18-cv-00081   Document 1   Filed in TXSD on 03/19/18   Page 20 of 20\n111.  Judge Ewing retaliated against Willey because of his constitutionally protected \nadvocacy, which includes, but is not limited to, non-frivolous (indeed meritorious) motions, \nrequests for reasonable funds, complaints to state authorities, in- and out-of-court memoranda, and \nin-person conversations with Judge Ewing. \nPrayer for Relief \n \nPlaintiff Andrew Willey respectfully requests: \n  A declaratory judgment that Judge Ewing may not retaliate against him for filing non-\nfrivolous motions, requesting reasonable funds, and for advocating in and out of court; \n  An injunction requiring Judge Ewing to reinstate Willey to his previous position on the \ngraduated list and to resume appointing him to cases5; \n  An award of reasonable attorney’s fees under 42 U.S.C. § 19886; \n  And any other relief this Court considers appropriate. \n \nRespectfully submitted, \n \n/s/ Charles Gerstein \nCharles Gerstein  \nAttorney in Charge \n(S.D. Tex. Bar No. 2998395) \nEric Halperin  \n(pro hac vice application forthcoming) \nCivil Rights Corps \n910 17th Street NW, Suite 200 \nWashington, DC 20006 \n        charlie@civilrightscorps.org \n        (202) 670-4809 \n                                            \n5 Willey recognizes that the Fifth Circuit has held that maintaining and administering a panel for \ncounsel appointments is a judicial act, and he recognizes that an injunction therefore may not issue \nagainst Judge Ewing under 42 U.S.C. § 1983 unless declaratory relief was unavailable or unless Judge \nEwing violates a declaratory decree. Davis v. Tarrant Cnty., Tex., 565 F.3d 214, 227 (5th Cir. 2009). \nWilley includes this claim for relief only to preserve his argument that the Fifth Circuit’s holding on this \npoint is incorrect. See, e.g., Mitchell v. Fishbein, 377 F.3d 157, 174 (2d Cir. 2004).   \n6 Willey also recognizes that attorney’s fees are unavailable under Davis. Willey includes this \nrequest to preserve his argument that the Fifth Circuit’s holding in Davis is incorrect. ",
+      "document_type_other": "",
+      "external_url": "",
+      "ecf_number": "1",
+      "clearinghouse_link": "clearinghouse.net/doc/102203"
+    },
+    {
+      "date": "2019-04-22",
+      "date_is_estimate": false,
+      "date_not_available": false,
+      "description": null,
+      "document_source": "PACER [Public Access to Court Electronic Records]",
+      "document_status": "Coding Complete",
+      "document_type": "Docket",
+      "order_type": null,
+      "citation_paren": null,
+      "cite_1_page": null,
+      "cite_1_reporter": null,
+      "cite_1_vol": null,
+      "cite_2_page": null,
+      "cite_2_reporter": null,
+      "cite_2_vol": null,
+      "cite_3_page": null,
+      "cite_3_reporter": null,
+      "cite_3_vol": null,
+      "citation_status": "Not applicable",
+      "court": "Southern District of Texas",
+      "no_title": false,
+      "party_types": [
+        "Court"
+      ],
+      "per_curium": false,
+      "is_core_document": true,
+      "id": 102202,
+      "file": "https://clearinghouse-umich-production.s3.amazonaws.com/media/doc/102202.pdf",
+      "title": "Docket [PACER]",
+      "text": "Case: 3:18-cv-81   As of: 05/26/2019 12:59 PM CDT   1 of 4\nCLOSED,MOTREF\nU.S. District Court\nSOUTHERN DISTRICT OF TEXAS (Galveston)\nCIVIL DOCKET FOR CASE #: 3:18−cv−00081\nWilley v. Ewing Date Filed: 03/19/2018\nAssigned to: Judge George C Hanks, Jr Date Terminated: 04/22/2019\nCause: 42:1983 Civil Rights Act Jury Demand: None\nNature of Suit: 440 Civil Rights: Other\nJurisdiction: Federal Question\nPlaintiff\nAndrew Willey represented by Eric Halperin\nCivil Rights Corps\n910 17th Street\nNW Suite 200\nWashington, DC 20006\n202−854−1518\nEmail: eric@civilrightscorps.org\nLEAD ATTORNEY\nATTORNEY TO BE NOTICED\nCharles Lewis Gerstein\nCivil Rights Corps\n910 17th Street NE\nSuite 200\nWashington, DC 20006\n202−670−4809\nEmail: charlie@civilrightscorps.org\nATTORNEY TO BE NOTICED\nV.\nDefendant\nHon. Jack Ewing represented by Michael Jude Lowenberg\nLowenberg Law Firm PLLC\n7941 Katy Freeway\n#306\nHouston, TX 77024\n832−241−6000\nFax: 832−241−6001\nEmail: mike@thetexastriallawyers.com\nLEAD ATTORNEY\nATTORNEY TO BE NOTICED\nDate Filed # Docket Text\n03/19/2018 1  COMPLAINT against Jack Ewing (Filing fee $ 400 receipt number 0541−19759518)\nfiled by Andrew Willey. (Attachments: # 1 Civil Cover Sheet)(Gerstein, Charles)\n(Entered: 03/19/2018)\n03/19/2018 2  Request for Issuance of Summons as to Jack Ewing, filed.(Gerstein, Charles) (Entered:\n03/19/2018)\n03/20/2018 Summons Issued as to Jack Ewing. Issued summons delivered to plaintiff by\nFirst−class mail, filed.(agould, 3) (Entered: 03/20/2018)\n04/06/2018 3  ORDER for Initial Pretrial and Scheduling Conference and Order to Disclose\nInterested Persons. Initial Conference set for 7/31/2018 at 09:30 AM in 7th Floor\nCourtroom before Magistrate Judge Andrew M Edison(Signed by Judge George C\nHanks, Jr) Parties notified.(dwilkerson, 3) (Entered: 04/06/2018)\n\nCase: 3:18-cv-81   As of: 05/26/2019 12:59 PM CDT   2 of 4\n04/09/2018 4  CERTIFICATE OF INTERESTED PARTIES by Andrew Willey, filed.(Gerstein,\nCharles) (Entered: 04/09/2018)\n04/16/2018 5  WAIVER OF SERVICE Returned Executed as to Jack Ewing served on 3/23/2018,\nanswer due 5/22/2018, filed.(Gerstein, Charles) (Entered: 04/16/2018)\n05/22/2018 6  MOTION to Dismiss 1 Complaint by Request of Pre−Motion Conference Letter by\nJack Ewing, filed. Motion Docket Date 6/12/2018. (Lowenberg, Michael) . (Entered:\n05/22/2018)\n05/25/2018 7  NOTICE of Setting re: 6 REQUEST for pre−motion conference. Parties notified.\nTelephone Conference set for 6/20/2018 at 10:15 AM by telephone before Judge\nGeorge C Hanks Jr, filed. Please call the conference line at 409−763−7801 ten minutes\nprior to the scheduled hearing. Once you call the number, you will be connected to the\nmeet−me−line; there will be silence so please hold until the Case Manager calls in to\nconnect all parties. Everyone must be on a landline. No cell phones or speaker phones\nare permitted. If you have a volume control, please be sure that it is turned up. If more\nthan one attorney/party is on the line, for clarity of the record, please state your name\nwhen responding to the Court.(agould, 3) (Entered: 05/25/2018)\n05/25/2018 8  RESPONSE to 6 REQUEST for pre−motion conference filed by Andrew Willey.\n(Attachments: # 1 Appendix De Luna v. Hidalgo County, Doc. 50)(Gerstein, Charles)\n(Entered: 05/25/2018)\n06/06/2018 9  NOTICE of Resetting as to 7 Notice of Setting. Parties notified. Telephone Conference\nset for 6/20/2018 at 10:15 AM by telephone before Judge George C Hanks Jr, filed.\nThis is to notify the parties of the new conference line call in information.\n(SusanGram, 3) (Entered: 06/06/2018)\n06/13/2018 10  MOTION for Eric Halperin to Appear Pro Hac Vice by Civil Rights Corps, filed.\nMotion Docket Date 7/5/2018. (Gerstein, Charles) (Entered: 06/13/2018)\n06/13/2018 11  ORDER granting 10 MOTION for Eric Halperin to Appear Pro Hac Vice, Attorney\nEric Halperin for Andrew Willey added (Signed by Judge George C Hanks, Jr) Parties\nnotified.(dperez, 3) (Entered: 06/15/2018)\n06/20/2018 12  NOTICE of Resetting as to 6 REQUEST for pre−motion conference. Parties notified.\nTelephone Conference set for 6/20/2018 at 12:30 PM by telephone before Judge\nGeorge C Hanks Jr, filed. (SusanGram, 3) (Entered: 06/20/2018)\n06/20/2018 13  Minute Entry for proceedings held before Judge George C Hanks, Jr. At the hearing,\nthe following rulings were made as stated on the record. Telephone conference held on\nDefendants request for a pre−motion conference. (Dkt 6 . Defendants 12(b) motion is\ndue Wednesday, July 11, 2018, at 5:00 PM.Plaintiffs response is due 21 days after the\nmotion is filed. Defendants reply, if necessary, is due 7 days after response is filed.\nAppearances: Michael Jude Lowenberg, Eric Halperin, Charles Lewis\nGerstein.(Digital # 12:28 pm − 12:42 pm)(ERO:Lorraine Trevino), filed.(ltrevino, 3)\n(Entered: 06/26/2018)\n07/11/2018 14  MOTION TO DISMISS FOR FAILURE TO STATE A CLAIM , MOTION to\nDismiss ( Motion Docket Date 8/1/2018.) by Jack Ewing, filed. (Attachments: # 1\nExhibit Galveston County Indigent Defense Plan)(Lowenberg, Michael) (Entered:\n07/11/2018)\n07/11/2018 15  PROPOSED ORDER of Dismissal Pursuant to Rule 12 (b), filed.(Lowenberg,\nMichael) (Entered: 07/11/2018)\n07/20/2018 16  MOTION for Extension of Time Initial Pretrial Conference by Jack Ewing, filed.\nMotion Docket Date 8/10/2018. (Attachments: # 1 Proposed Order Proposed Order −\nAdjourn Initial Pretrial Conference)(Lowenberg, Michael) (Entered: 07/20/2018)\n07/20/2018 17  JOINT DISCOVERY/CASE MANAGEMENT PLAN by Jack Ewing,\nfiled.(Lowenberg, Michael) (Entered: 07/20/2018)\n07/20/2018 18  CERTIFICATE OF INTERESTED PARTIES by Jack Ewing, filed.(Lowenberg,\nMichael) (Entered: 07/20/2018)\n07/26/2018 19  ORDER denying 16 Motion for Extension of Time.(Signed by Judge George C Hanks,\nJr) Parties notified.(agould, 3) (Entered: 07/26/2018)\n\nCase: 3:18-cv-81   As of: 05/26/2019 12:59 PM CDT   3 of 4\n07/31/2018 Minute entry for proceedings before Magistrate Judge Andrew M. Edison. Initial\nconference held on July 31, 2018. The court and parties conferred and the court set out\na schedule for the case. The scheduling order will be entered separately. Appearances:\nMichael Jude Lowenberg, Eric Halperin and Charles Lewis Gerstein. (ERO:Yes),\nfiled. (wbostic, 4) (Entered: 07/31/2018)\n07/31/2018 20  SCHEDULING ORDER entered. ETT: 5 Days. Bench Trial. Amended Pleadings due\nby 10/11/2018. Joinder of Parties due by 8/17/2018. Pltf Expert Report due by\n2/15/2019. Deft Expert Report due by 3/15/2019. Discovery due by 5/10/2019.\nDispositive Motion Filing due by 5/24/2019. Non−Dispositive Motion Filing due by\n6/21/2019. Joint Pretrial Order due by 8/26/2019. Docket Call set for 9/6/2019 at 09:30\nAM in Sixth Floor Courtroom before Judge George C Hanks Jr. (Signed by Magistrate\nJudge Andrew M Edison) Parties notified. (wbostic, 4) (Entered: 07/31/2018)\n07/31/2018 21  RESPONSE in Opposition to 14 MOTION TO DISMISS FOR FAILURE TO STATE\nA CLAIM MOTION to Dismiss , filed by Andrew Willey. (Gerstein, Charles)\n(Entered: 07/31/2018)\n08/07/2018 22  REPLY to Response to 14 MOTION TO DISMISS FOR FAILURE TO STATE A\nCLAIM MOTION to Dismiss , filed by Jack Ewing. (Lowenberg, Michael) (Entered:\n08/07/2018)\n10/31/2018 23  NOTICE of Referral of Motion to Magistrate Judge Andrew Edison re 14 MOTION\nTO DISMISS FOR FAILURE TO STATE A CLAIM MOTION to Dismiss , filed.\n(jegonzalez, 3) (Entered: 10/31/2018)\n11/01/2018 24  NOTICE of Setting as to 14 MOTION TO DISMISS FOR FAILURE TO STATE A\nCLAIM MOTION to Dismiss . Parties notified. Motion Hearing set for 11/29/2018 at\n10:00 AM in 7th Floor Courtroom before Magistrate Judge Andrew M Edison, filed.\n(wbostic, 4) (Entered: 11/01/2018)\n11/29/2018 Minute entry for proceedings before Magistrate Judge Andrew M. Edison. Motion\nhearing held on November 29, 2018. The Court heard arguments on the Motion to\nDismiss [Dkt. 14] and the motion is taken under advisement. Appearances: Eric\nHalperin and Charles Gerstein for the plaintiff Andrew Willey and Michael\nLowenberg for the defendant Hon. Jack Ewing. (ERO:Yes), filed. (wbostic, 4)\n(Entered: 11/29/2018)\n11/30/2018 25  AO 435 TRANSCRIPT REQUEST by Charles Gerstein for Transcript of Motion\nHearing on 11/29/2018 Before Judge Edison. Ordinary (30 days) turnaround\nrequested. Court Reporter/Transcriber: Trinity Transcription Services, filed. (Gerstein,\nCharles) ELECTRONICALLY FORWARDED TO TRINITY TRANSCRIPTION\nSERVICES 12/3/2018 (agould, 3). (Entered: 11/30/2018)\n12/17/2018 26  MEMORANDUM AND RECOMMENDATION entered. The Court RECOMMENDS\nthat Defendant'sMotion to Dismiss [Dkt. 14] be GRANTED in part and DENIED in\npart. Specifically, Willey's claims for injunctive relief and attorney's fees under 42\nU.S.C. § 1988 should be DISMISSED. The motion should be denied in all other\nrespects. Objections to M&R due by 12/31/2018. (Signed by Magistrate Judge Andrew\nM Edison) Parties notified. (wbostic, 4) (Entered: 12/17/2018)\n12/31/2018 27  OBJECTIONS to 26 Memorandum and Recommendations, filed by Jack Ewing.\n(Lowenberg, Michael) (Entered: 12/31/2018)\n01/02/2019 28  TRANSCRIPT re: Motion Hearing held on November 29, 2018 before Magistrate\nJudge Andrew M Edison. Court Reporter/Transcriber Trinity Transcription Services.\nOrdering Party Charles L. Gerstein, Esq. Release of Transcript Restriction set for\n4/2/2019., filed. (cbattaglia, ) (Entered: 01/02/2019)\n01/14/2019 29  RESPONSE to 27 Objections to Memorandum and Recommendations , filed by\nAndrew Willey. (Gerstein, Charles) (Entered: 01/14/2019)\n01/22/2019 30  REPLY to 26 Memorandum and Recommendations, Reply in Support of Objections,\nfiled by Jack Ewing. (Lowenberg, Michael) (Entered: 01/22/2019)\n01/24/2019 31  ORDER ADOPTING MEMORANDUM AND RECOMMENDATIONS re: 26\nMemorandum and Recommendations GRANTING IN PART AND DENYING IN\nPART 14 MOTION TO DISMISS FOR FAILURE TO STATE A CLAIM MOTION\n\nCase: 3:18-cv-81   As of: 05/26/2019 12:59 PM CDT   4 of 4\nto Dismiss (Signed by Judge George C Hanks, Jr) Parties notified.(dperez, 3) (Entered:\n01/24/2019)\n04/04/2019 32  LETTER OF AGREEMENT re: Mediation with Magistrate by Jack Ewing,\nfiled.(Lowenberg, Michael) (Entered: 04/04/2019)\n04/04/2019 33  ORDER granting 32 Letter of Agreement (Signed by Judge George C Hanks, Jr)\nParties notified.(agould, 3) (Entered: 04/05/2019)\n04/05/2019 34  NOTICE of Setting. Parties notified. Mediation set for 4/9/2019 at 08:30 AM in 7th\nFloor Courtroom before Magistrate Judge Andrew M Edison, filed. (wbostic, 4)\n(Entered: 04/05/2019)\n04/09/2019 Minute Entry for proceedings held before Magistrate Judge Andrew M Edison.\nMEDIATION held on 4/9/2019, filed. (wbostic, 4) (Entered: 04/09/2019)\n04/22/2019 35  Agreed MOTION for Entry of Judgment by Andrew Willey, filed. Motion Docket\nDate 5/13/2019. (Attachments: # 1 Exhibit 1 Settlement Agreement)(Gerstein,\nCharles) (Entered: 04/22/2019)\n04/22/2019 36  AGREED FINAL JUDGMENT. Case terminated on April 22, 2019(Signed by Judge\nGeorge C Hanks, Jr) Parties notified.(ltrevino, 3) (Entered: 04/22/2019)",
+      "document_type_other": "",
+      "external_url": "",
+      "ecf_number": null,
+      "clearinghouse_link": "clearinghouse.net/doc/102202"
+    }
+  ],
+  "document_count": 6
+}

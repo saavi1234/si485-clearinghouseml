@@ -1,0 +1,212 @@
+{
+  "case_id": 351,
+  "fetched_at": "2025-10-22T00:03:48.063562",
+  "case_data": {
+    "attorney_orgs": [
+      "U.S. Dept. of Justice Civil Rights Division"
+    ],
+    "available_documents": [
+      "Findings Letter/Report"
+    ],
+    "case_defendants": [
+      {
+        "defendant_level": null,
+        "institution": "",
+        "institution_alt_state": null,
+        "institution_city": "",
+        "institution_county": null,
+        "name": "State of Montana",
+        "defendant_level_other": "",
+        "is_active": true
+      },
+      {
+        "defendant_level": "school ",
+        "institution": "",
+        "institution_alt_state": null,
+        "institution_city": "Helena",
+        "institution_county": null,
+        "name": "Mountain View School for Girls",
+        "defendant_level_other": "school ",
+        "is_active": true
+      }
+    ],
+    "case_ongoing": "No",
+    "case_status": "Coding Complete",
+    "case_types": [
+      "Juvenile Institution"
+    ],
+    "cause_other": "",
+    "causes": [
+      "Civil Rights of Institutionalized Persons Act (CRIPA), 42 U.S.C. § 1997 et seq."
+    ],
+    "class_action_granted": "Not sought",
+    "class_action_sought": "No",
+    "closing_year": null,
+    "constitutional_clause": [],
+    "content_of_injunction": [],
+    "court": "No Court",
+    "custom_issues": [],
+    "defendant_payment": "",
+    "defendant_type": [],
+    "docket_status": "None",
+    "facility_type": [
+      {
+        "value": "Government-run"
+      }
+    ],
+    "filing_date": null,
+    "filing_year": null,
+    "id": 351,
+    "injunction_duration": "",
+    "issues": [
+      "General/Misc.: Classification / placement",
+      "Jails, Prisons, Detention Centers, and Other Institutions: Disciplinary segregation",
+      "General/Misc.: Disciplinary procedures",
+      "General/Misc.: Food service / nutrition / hydration",
+      "General/Misc.: Sanitation / living conditions",
+      "General/Misc.: Fire safety",
+      "Medical/Mental Health Care: Mental health care, general",
+      "Discrimination Basis: Disability (inc. reasonable accommodations)",
+      "General/Misc.: Education",
+      "Affected Sex/Gender(s): Female",
+      "Jails, Prisons, Detention Centers, and Other Institutions: Restraints (physical)",
+      "Jails, Prisons, Detention Centers, and Other Institutions: Confinement/isolation"
+    ],
+    "last_checked_date": "2007-11-08T00:00:00-05:00",
+    "main_docket": {
+      "id": 42732,
+      "docket_entries": [],
+      "docket_case_type": "",
+      "docket_year": null,
+      "docket_filing_number": null,
+      "is_main_docket": true,
+      "court": "No Court",
+      "state": "Montana",
+      "docket_office_number": "",
+      "docket_number_manual": "No Court Case",
+      "scales_html": null,
+      "recap_link": null,
+      "is_active": false
+    },
+    "name": "CRIPA Investigation, Helena (MT)",
+    "never_filed": true,
+    "non_docket_case_number": "Searched 1/28/18, no find",
+    "non_docket_case_number_type": "DJ",
+    "non_docket_case_number_type_other": "",
+    "order_end_year": null,
+    "order_start_year": null,
+    "permanent_injunction": false,
+    "plaintiff_description": "United States Department of Justice",
+    "plaintiff_type": [
+      {
+        "value": "U.S. Dept of Justice plaintiff"
+      }
+    ],
+    "prevailing_party": "Unknown",
+    "pro_se_status": "No",
+    "public_interest_lawyer": "Yes",
+    "related_cases": [],
+    "relief_natures": [
+      "Unknown"
+    ],
+    "relief_nature_other": "",
+    "relief_sources": [
+      "Unknown"
+    ],
+    "settlement_agreement": [],
+    "settlement_judgment_date": null,
+    "settlement_judgment_year": null,
+    "special_collections": [
+      "Civil Rights Division Archival Collection"
+    ],
+    "special_case_type": [
+      {
+        "value": "Out-of-court"
+      }
+    ],
+    "state": "Montana",
+    "summary": "<p>On June 30, 1992, the U.S. Department of Justice initiated an investigation of the Mountain View School for Girls pursuant to the Civil Rights of Institutionalized Persons Act (CRIPA), 42 U.S.C. § 1997. The investigation occurred on November 9-10, 1992 and the Justice Department issued its findings letter on February 26, 1993. The Department of Justice concluded that certain conditions at the detention center deprived the girls detained there of their constitutional rights. The investigation revealed that the mental health services were deficient, that juveniles with disabilities were not properly evaluated or provided with appropriate educational services in violation of the Individuals with Disabilities Educational Act, and that the discipline system in place gave the staff unbridled discretion, which resulted in the placement of children with self-destructive behavior in seclusion and the use of mechanical restraints under circumstances that did not justify their use. Additionally, the investigation revealed that the environment in the building was unsafe and unsanitary as a result of the inadequate maintenance, fire safety risks, and the threat of food-borne illnesses. The detention center also required additional staff, and adequate training for the existing staff. </p><p>The Department of Justice required that remedial measures be taken to ensure that the constitutional rights of the juveniles were no longer violated. The measures suggested were the development and implementation of a mental health care delivery system, the compliance with the Individuals with Disabilities Educational Act, the modification of the disciplinary policies and procedures, the elimination of unsafe and unsanitary conditions, and the enhancement of professional resources. </p><p>We have no additional information on this investigation, or any communications or proceedings that may have followed.</p><p></p>",
+    "summary_published_date": "2007-11-08T00:00:00-05:00",
+    "summary_short": "",
+    "summary_tiny": null,
+    "terminating_date": null,
+    "clearinghouse_link": "clearinghouse.net/case/351",
+    "is_active": false,
+    "case_documents_url": "https://clearinghouse.net/api/v2/documents/?case=351",
+    "case_dockets_url": "https://clearinghouse.net/api/v2/dockets/?case=351",
+    "case_resources_url": "https://clearinghouse.net/api/v2/resources/?case=351"
+  },
+  "documents": [
+    {
+      "date": "1993-02-26",
+      "date_is_estimate": false,
+      "date_not_available": false,
+      "description": null,
+      "document_source": "U.S. Department of Justice, Civil Rights Division, Special Litigation Section",
+      "document_status": "Coding Complete",
+      "document_type": "Findings Letter/Report",
+      "order_type": null,
+      "citation_paren": null,
+      "cite_1_page": null,
+      "cite_1_reporter": null,
+      "cite_1_vol": null,
+      "cite_2_page": null,
+      "cite_2_reporter": null,
+      "cite_2_vol": null,
+      "cite_3_page": null,
+      "cite_3_reporter": null,
+      "cite_3_vol": null,
+      "citation_status": "Not applicable",
+      "court": "No Court",
+      "no_title": false,
+      "party_types": [
+        "Plaintiff"
+      ],
+      "per_curium": false,
+      "is_core_document": true,
+      "id": 1549,
+      "file": "https://clearinghouse-umich-production.s3.amazonaws.com/media/doc/1549.pdf",
+      "title": "Findings Letter re: Mountain View School for Girls, Helena, Montana",
+      "text": "CRIPA Investigation\nT.  2-3-93 JI-MT-002-001\nJPT:AEP:MHN:RHS:LJW:VBR:eh\nDJ 168-44-10\nFEB 2 6 Î993\nREGISTERED MAIL\nRETURN RECEIPT REQUESTED\nThe Honorable Marc Racicot\nGovernor\nState of Montana\nState Capitol\nHelena, Montana  59620\nRe: Mountain View School for Girls\nHelena, Montana\nDear Governor Racicot:\nBy letter dated June 30, 1992, we advised then Governor Stan\nStephens that we were initiating an investigation of the Mountain\nView School for Girls (Mountain View), Helena, Montana, pursuant\nto the Civil Rights of Institutionalized Persons Act, 42 U.S.C.\n§ 1997.  Consistent with statutory requirements, we are now\nwriting to advise you of our findings.  I regret to advise you\nthat our investigation identified conditions at the facility that\ndeprive juveniles confined there of their constitutional and\nfederal statutory rights.  The remedial measures necessary to\ncorrect these violations are set forth below.\nWe have assessed the constitutionality of conditions at this\njuvenile facility in light of a narrow constitutional standard.\nInstitutional administrators are granted wide discretion in the\noperation of the facility; only those restrictions on juveniles\nwhich do not further or are not reasonably related to the\nlegitimate governmental objectives of rehabilitation, safety and\ninternal security violate constitutional standards.  Bell v.\nWolfish. 441 U.S. 520, 539 (1979).  Conditions have also been\nevaluated for compliance with federal statutory standards.\nBased on our investigation, we have concluded that the\nfollowing conditions violate the constitutional or federal\nstatutory rights of juveniles confined at Mountain View:\n1.  Mental health services, including measures to protect\nand treat juveniles posing the risk of suicide, are not adequate\nto meet the serious mental health needs of juveniles.\ncc: Records  chrono  Peabody  Nelson  Stern  Weinstein  Ryan\n\n- 2 -\n2.  Services for juveniles with disabilities do not meet the\nrequirements of the Individuals with Disabilities Education Act,\n20 U.S.C. § 1400 et sea.\n3.  Disciplinary measures, including the use of seclusion\nand mechanical restraints, are imposed arbitrarily and without\npenological justification in violation of constitutional\nstandards.\n4.  Unsafe and unsanitary conditions exist throughout the\nfacility.\n5.  Professional resources at Mountain View, including\ncompetent and qualified staff, are inadequate.\nThe Attachment to this letter sets forth the facts supporting the\nfindings of constitutional and statutory violations.\nRemedial measures must be taken to ensure that juveniles\nconfined in the facility are not deprived of their constitutional\nand federal statutory rights.  These measures must include, at a\nminimum, the following remedies:\n1.  A mental health care delivery system designed to meet\nthe serious mental health needs of juveniles must be developed\nand imp1emented.\n2.  Juveniles evaluated as being handicapped within the\nmeaning of the Individuals with Disabilities Education Act must\nreceive services consistent with statutory requirements.\n3.  Disciplinary policies and procedures must be modified,\nas appropriate, to comply with constitutional standards.\n4.  Unsafe and unsanitary conditions must be eliminated.\n5.  Enhanced professional resources, including the provision\nof competent and qualified staff as well as mandatory staff\ntraining programs, are required.\nYou may wish to contact the regional offices of the\nDepartment of Health and Human Services and the Department of\nEducation, as well as the National Institute of Corrections and\nthe Bureau of Justice Assistance, with regard to any federal\nfinancial assistance which may be available to assist you in the\ncorrection of these deficiencies.  If we can assist you in this\nregard, please let us know.\nWe appreciate the assistance and cooperation of State and\ninstitutional officials extended to us during the course of this\ninvestigation.  My staff will contact appropriate officials in\nthe near future to discuss this matter further.  If, in the\n\n- 3 -\nmeantime, you or any member of your staff has any questions,\nplease feel free to contact Arthur E. Peabody, Jr., Chief,\nSpecial Litigation Section, at (202) 514-6255.\nSincerely,\nJames P. Turner\nActing Assistant Attorney General\nCivil Rights Division\nEnclosure\ncc:  The Honorable Joseph Mazurek\nAttorney General\nState of Montana\nMr. Henry Hudson\nDirector\nDepartment of Family Services\nMr. Al Davis\nDepartment of Family Services\nJuvenile Corrections Division\nThe Honorable Doris Poppler\nUnited States Attorney\nDistrict of Montana\n\nATTACHMENT\nFACTS SUPPORTING FINDINGS OF CONSTITUTIONAL\nAND STATUTORY VIOLATIONS\nAs part of our investigation, attorneys from this Division\ntoured the Mountain View School for Girls on November 9-10,\n1992, with consultants in the areas of psychiatry, sanitation\nand juvenile justice.  We observed conditions in the various\nbuildings constituting the facility, spoke to juveniles,\ninterviewed staff and reviewed a variety of institutional\nrecords.\nAt the outset, we should note that our juvenile justice\nconsultant stated that many of the deficient conditions\nreferenced in this attachment are the result of \"years of\nneglect.\"  He observed that while many of the professional staff\nassociated with the facility were undoubtedly committed to a high\nlevel of professional performance, they were being asked to do\ntoo large a job with too few resources.  He indicated that the\nfacility has no defined operational mission inside the State's\njuvenile justice system to provide guidance to the management\nteam at Mountain View.  Various conditions at the facility were\ncharacterized by him as unsafe, indiscriminate and \"insidious.\"\nWe bring these severe criticisms and the findings set forth below\nto your specific attention here in order that you may be aware of\nthe dimension of the deficiencies at Mountain View.\nl·  Mental Health Services\nIn critical areas, mental health services intended to serve\njuveniles with serious mental health needs are grossly deficient.\nThe system currently in place to evaluate the needs of juveniles\ncommitted to the facility is badly fragmented, disorganized, and\ndoes not allow for the timely identification of juveniles with\nserious mental health problems.  Our consultant determined that\nprofessionals at the facility either do not identify juveniles\nwith psychiatric problems or, if such problems are identified,\nfail to take steps to provide adequate treatment.\nSpecifically, our consultant found that the sporadic efforts\nto determine the mental status of juveniles by the administration\nof a mental status examination were generally untimely.  As a\nresult, individuals at risk of suicide or those with other\nclearly identifiable mental health problems, including\ndepression, hallucinations, delusions, or paranoia, are not\ndiagnosed or afforded treatment consistent with generally\naccepted medical standards.\n\n- 2 -\nFurther, our consultant found serious problems in the use of\npsychotropic and other controlled drugs at the facility.  There\nis no professionally based system in place for monitoring the\npotentially dangerous side-effects of psychotropic medication on\njuveniles, including policies and procedures to monitor for\ntardive dyskinesia, a potentially irreversible side effect of\nsuch medication.  In addition, our consultant specifically noted\nthe lack of adequate monitoring of numerous individuals who have\nbeen prescribed anti-depressant medication.  The failure to\nmonitor these medications in these individuals places them at\ngreat risk of serious, indeed, life-threatening side effects.\nRemarkably, records indicated that control drugs are, at times,\nreported as \"missing.\"\nDue to the absence of adequate nursing staff, cottage staff\nroutinely dispense medication.  The use of untrained staff to\ndispense medication is a serious deficiency.  Cottage staff are\nin no position to monitor for drug reactions or other side\neffects and cannot exercise professional judgment in this clearly\nmedically related area.\n2.  Juveniles with Disabilities\nBased upon a review of records and observation of juveniles\nat the facility, our consultant concluded that juveniles with\ndisabilities are neither properly evaluated or, when identified,\nprovided with appropriate educational services as mandated by the\nIndividuals with Disabilities Education Act  (IDEA).  For example,\nrecords reviewed indicated that juveniles with identified\nsymptoms of learning disabilities on psychological testing, were\nneither referred for nor provided any special education services.\nA review of the individual education plans for those\nindividuals who had been identified as being handicapped within\nthe meaning of the statute indicates that such plans do not\ncontain many of the elements required by the statute's\nimplementing regulations.  For example, none of the plans\ncontained a \"special needs\" section; others lacked behavioral\nobservations, statements of goals, and assessment information.\nIndeed, the deficiencies in such plans were so severe that our\nconsultant described them as \"primitive.\"\nThe failure to evaluate school aged juveniles to determine\ntheir disability, if any, and to provide appropriate educational\nservices as defined in implementing regulations violates IDEA.\n3.  Discipline\nThe current \"system\" in place at Mountain View for the\nadministration of discipline fails to meet any known professional\nstandard.  Cottage staff are essentially afforded total\ndiscretion in administering discipline to juveniles.\n\n- 3 -\nConsequently, most measures they employ are arbitrary.  Further,\ninstitutional administrators have neither developed nor\nimplemented any behavior management program for the juveniles, a\nprogram by which juveniles are rewarded for appropriate behavior\nand appropriately disciplined for unacceptable behavior.  The\nabsence of such a program in a juvenile facility represents a\nsubstantial departure from generally accepted professional\nstandards for the operation of such a facility.\nDue to the lack of a professionally based system for\ndiscipline, most cottage staff simply resort to placing disturbed\nyouth alone in a locked room, i.e., seclusion, without\nconsideration of other alternatives.  This practice is especially\ndangerous for juveniles exhibiting self destructive behaviors.\nOur juvenile justice consultant specifically noted that, in his\nopinion, the frequency and duration of seclusions are \"extreme.\"\nMoreover, he determined that not all occurrences of seclusion are\nrecorded, individuals in seclusion are not monitored at timely\nintervals, and that on too frequent occasions seclusion is\nemployed outside the scope of existing policy and procedure.\nOur consultant went so far as to characterize the use of\nseclusion at Mountain View as \"routinely excessive\" and\n\"dehumanizing.\"  In sum, imposition of discipline at Mountain\nView is arbitrary, capricious and a substantial departure from\nprofessional standards.\nOur consultant also found that mechanical restraints,\nincluding handcuffs and leg irons, are routinely used in\ncircumstances which cannot be justified by any rationale for\ncontrol, order, or safety.  Furthermore, such restraints are\nutilized absent documentation, without proper authorization of\ninstitutional administrators, and without proper controls.  In\nbrief, our consultant characterized the use of mechanical\nrestraints at Mountain View as \"insidious\" and \"egregious\" and\na complete departure from applicable professional standards.\n4.  Unsafe and Unsanitary Environment\nOur consultants uniformly agreed that the physical\nstructures constituting Mountain View are in serious disrepair\nand its preventive maintenance program is inadequate.  Several\ncottages had broken windows which represent a safety and security\nthreat.  Others lack ventilation.  Some shower areas have\ndecaying walls.  Exposed lightbulbs, non-secure fixtures, and\ngrossly inadequate lighting present security and safety hazards.\nSeclusion rooms present similar hazards and contain blind spots.\nFire safety risks of a serious dimension are also present\nthroughout the facility.  The almost wholly wooden structures\nlack sprinklers, fire resistant doors and safety glass.  The key\nsystem presents a particularly dangerous hazard.  During a fire\ndrill conducted during part of our tour, juveniles were unable to\n\n- 4 -\nexit from a cottage because no one present had the key to the\ndoor.  The absence of any secondary door lock release system\nposes severe fire safety risks at Mountain View.  In addition,\nproper egress is impeded by doors which open inward.  Further,\nthere are an insufficient number of smoke detectors throughout\nthe facility.  Combustible materials are present in great number\nin all cottages and range from combustible curtains and drapes to\nflammable mattresses.  Poor and exposed electrical wiring was\nidentified in most buildings.  Furthermore, each cottage requires\nevaluation to ensure proper smoke compartmentation and other\nnecessary fire safety precautions.\nAlthough we found the food service to be generally adequate,\n\"hot\" food served to juveniles was so cold that it constituted a\nthreat of food borne illness.  Further, individuals using\ndishwashing facilities failed to employ proper sanitizing agents,\ne.g.. soap, thereby presenting similar risks.  Other chemical and\ncleaning agents are not properly stored.\n5.  Inadequate Resources\nWhile some additional professional staff are required at\nMountain View, e.g.. nurses and special education teachers, our\nconsultants determined a far greater need to adequately train the\npresent staff.  Many of the deficiencies identified above, e.g..\nuse of seclusion and mechanical restraints, are attributable, in\nlarge part, to the lack of knowledge by staff as to how to\nfulfill their overall job responsibilities and how to interact\nand handle juveniles of the kind found at Mountain View.  Present\nstaff training, including training for professional staff, is\ngrossly inadequate.\n\nAEP:MHN:RHS:LJW:VBR:eh\nDJ 168-44-10\nMountain View School for Girls\nProposed Findings Letter  p¡:ß 3\nJames P. Turner  Arthur E. Peabody, Jr.\nActing Assistant Attorney General  Chief\nCivil Rights Division  Special Litigation Section\nRecommendation\nWe recommend that you sign the attached findings letter to\nMarc Racicot, Governor of Montana, informing him and other\nappropriate State officials that our investigation of the\nMountain View School for Girls pursuant to the Civil Rights of\nInstitutionalized Persons Act (CRIPA) has disclosed the existence\nof unconstitutional conditions and other violations of federal\nlaw at this facility-\nBackground\nThe Mountain View School for Girls, Helena Montana, was\nopened in 1921 and. has a present bed capacity of approximately\n60 girls.  The School is a juvenile detention facility operated\nby the Montana Department of Family Services, and is one of two\njuvenile detention facilities operated by the State.  The other\nis the Pine Hills School for Boys in Miles City which, as you are\naware, has also recently been investigated by our office. 1/\niij  Indeed, information acquired during the investigative tour of the\n}\\  Pine Hills facility contributed to the decision to proceed\n'  likewise with an investigation of conditions at Mountain View.\nOn June 30, 1992, we notified State officials of our\nintention to initiate this investigation.  In the first half\nof November 1992, a team of expert consultants accompanied by\nattorneys conducted a thorough investigative tour of the\nfacility.  The consultants utilized were Ronald Stepanik, a\npenologist with expertise in »juvenile detention, Dr. Pam\nMcPherson, a psychiatrist with expertise in child psychiatry,\nand James Balsamo, an expert in environmental health and safety.\nThe tour included observation of conditions, interviews with\nstaff and residents, and extensive review of documents.\nAs contained in the attached findings letter, our\ninvestigation uncovered conditions which, in our assessment,\nviolate constitutional requirements and federal statutory\n1/ The findings letter in that action was forwarded to the State\nlast September.\n: Records Ohrono  Peabody  Nelson  Stern  Weinstein  Ryan  Hold\ncc\n\n- 2 -\nstandards for juvenile detention facilities. 7J  Briefly, they\nare outlined as follows.\nFirst, Mountain View is failing to provide adequate mental\nhealth services to juvenile detainees with serious mental health\nneeds.  Mentally ill juveniles are not identified or, if\nidentified, fail to receive treatment.  In these circumstances,\njuveniles are subjected to unreasonable risks of harm.  There are\nadditional, significant deficiencies in medication practices.\nSecond, the facility is failing to provide services for\nhandicapped juveniles with special education needs as reguired\nunder the Individuals with Disabilities Education Act, 2 0 U.S.C.\n§ 1400 et seg.\nThird, Mountain View is failing to meet acceptable standards\nin its imposition of disciplinary measures against juveniles,\nincluding its use of seclusion and restraints.  Such measures are\nbeing imposed arbitrarily, excessively and without penological\njustification.\nFourth, Mountain View is grossly deficient in terms of\nenvironmental and fire safety.  The buildings are in disrepair\nand seriously hazardous.\nSignificantly, our juvenile justice consultant described\nmany of these conditions as the result of \"years of neglect.\"\nMoreover, he characterized various conditions as \"insidious,\"\nvery serious criticisms which aptly describe the seriousness of\nthe identified violations.  While many personnel at Mountain View\nare making efforts to conduct their duties in a professional\nmanner, resources are inadequate.  Staff need significant\ntraining to permit professional performance.\nConclusion\nTransmission of the attached findings letter is necessary to\nsatisfy our obligations under CRIPA with regard to notifying the\nState of Montana of the unconstitutional conditions existing at\nthe Mountain View School for Girls.  See 42 U.S.C. § 1997b.  For\nall of the foregoing reasons, we recommend your approval of and\nsignature on the attached letter regarding this facility.\n2/ The letter is consistent with the legal standards utilized\nrecently in the Pine Hills and Central Alabama Youth Services\njuvenile matters.  As such, no lengthy legal analysis is provided.\n\n- 3 -\nAttachment\nApproved:\nDisapproved:\nComments:",
+      "document_type_other": null,
+      "external_url": "",
+      "ecf_number": null,
+      "clearinghouse_link": "clearinghouse.net/doc/1549"
+    },
+    {
+      "date": null,
+      "date_is_estimate": false,
+      "date_not_available": false,
+      "description": null,
+      "document_source": null,
+      "document_status": null,
+      "document_type": null,
+      "order_type": null,
+      "citation_paren": null,
+      "cite_1_page": null,
+      "cite_1_reporter": null,
+      "cite_1_vol": null,
+      "cite_2_page": null,
+      "cite_2_reporter": null,
+      "cite_2_vol": null,
+      "cite_3_page": null,
+      "cite_3_reporter": null,
+      "cite_3_vol": null,
+      "citation_status": null,
+      "court": null,
+      "no_title": false,
+      "party_types": [],
+      "per_curium": false,
+      "is_core_document": true,
+      "id": 129100,
+      "file": null,
+      "title": null,
+      "text": null,
+      "document_type_other": null,
+      "external_url": null,
+      "ecf_number": null,
+      "clearinghouse_link": "clearinghouse.net/doc/129100"
+    }
+  ],
+  "document_count": 2
+}

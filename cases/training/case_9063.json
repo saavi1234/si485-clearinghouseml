@@ -1,0 +1,1397 @@
+{
+  "case_id": 9063,
+  "fetched_at": "2025-10-22T00:09:06.906699",
+  "case_data": {
+    "attorney_orgs": [
+      "EEOC"
+    ],
+    "available_documents": [
+      "Trial Court Docket",
+      "Complaint (any)",
+      "Monetary Relief",
+      "Injunctive (or Injunctive-like) Relief"
+    ],
+    "case_defendants": [
+      {
+        "defendant_level": null,
+        "institution": null,
+        "institution_alt_state": null,
+        "institution_city": "Monterey, California",
+        "institution_county": null,
+        "name": "Rowtown, Inc.",
+        "defendant_level_other": null,
+        "is_active": true
+      },
+      {
+        "defendant_level": null,
+        "institution": null,
+        "institution_alt_state": null,
+        "institution_city": "",
+        "institution_county": null,
+        "name": "Rowtown, Inc.",
+        "defendant_level_other": null,
+        "is_active": true
+      }
+    ],
+    "case_ongoing": "No",
+    "case_status": "Coding Complete",
+    "case_types": [
+      "Equal Employment"
+    ],
+    "cause_other": "",
+    "causes": [
+      "Title VII (including PDA), 42 U.S.C.  § 2000e",
+      "State Anti-Discrimination Law"
+    ],
+    "class_action_granted": "Not sought",
+    "class_action_sought": "No",
+    "closing_year": 2008,
+    "constitutional_clause": [],
+    "content_of_injunction": [
+      {
+        "value": "Discrimination Prohibition"
+      },
+      {
+        "value": "Retaliation Prohibition"
+      },
+      {
+        "value": "Post/Distribute Notice of Rights / EE Law"
+      },
+      {
+        "value": "Provide antidiscrimination training"
+      },
+      {
+        "value": "Implement complaint/dispute resolution process"
+      },
+      {
+        "value": "Reporting"
+      }
+    ],
+    "court": "Northern District of California",
+    "custom_issues": [],
+    "defendant_payment": "200000",
+    "defendant_type": [],
+    "docket_status": "Complete as of retrieval date",
+    "facility_type": [],
+    "filing_date": "2003-04-10",
+    "filing_year": 2003,
+    "id": 9063,
+    "injunction_duration": "36",
+    "issues": [
+      "Discrimination Basis: Sex discrimination",
+      "Affected Sex/Gender(s): Female",
+      "General/Misc.: Retaliation",
+      "Discrimination Area: Disparate Treatment",
+      "Discrimination Area: Harassment / Hostile Work Environment",
+      "Discrimination Area: Discharge / Constructive Discharge / Layoff",
+      "EEOC-centric: Direct Suit on Merits",
+      "EEOC-centric: Private Party intervened in EEOC suit"
+    ],
+    "last_checked_date": "2017-05-31T00:00:00-04:00",
+    "main_docket": {
+      "id": 26813,
+      "docket_entries": [
+        {
+          "row_number": 22,
+          "id": 8555374,
+          "entry_number": "3",
+          "date_filed": "2003-06-13T00:00:00-04:00",
+          "attachments": [],
+          "url": "https://www.courtlistener.com/docket/4165322/3/equal-employment-opportunity-commission-v-rowtown-inc/",
+          "recap_pdf_url": null,
+          "pacer_doc_id": "03501181805",
+          "description": "ANSWER to Complaint by Rowtown, Inc.. (Kennedy, Eileen) (Entered: 06/13/2003)"
+        },
+        {
+          "row_number": 66,
+          "id": 8555378,
+          "entry_number": "7",
+          "date_filed": "2003-06-26T00:00:00-04:00",
+          "attachments": [],
+          "url": "https://www.courtlistener.com/docket/4165322/7/equal-employment-opportunity-commission-v-rowtown-inc/",
+          "recap_pdf_url": null,
+          "pacer_doc_id": "0350851253",
+          "description": "Certificate of Interested Entities or Persons by Masumeh T. Zanganeh. (cfe, ) Additional attachment(s) added on 7/2/2003 (cfe, ). (Entered: 06/27/2003)"
+        },
+        {
+          "row_number": 1,
+          "id": 8555381,
+          "entry_number": "10",
+          "date_filed": "2003-06-26T00:00:00-04:00",
+          "attachments": [],
+          "url": "https://www.courtlistener.com/docket/4165322/10/equal-employment-opportunity-commission-v-rowtown-inc/",
+          "recap_pdf_url": null,
+          "pacer_doc_id": "03502806470",
+          "description": "AFFIDAVIT re 5 of Matthew T. Losinski in Support of Motion to Intervene as a Plaintiff by Masumeh T. Zanganeh. (cfe, ) Additional attachment(s) added on 7/2/2003 (cfe, ). (Entered: 06/27/2003)"
+        },
+        {
+          "row_number": 2,
+          "id": 8555382,
+          "entry_number": "11",
+          "date_filed": "2003-06-26T00:00:00-04:00",
+          "attachments": [],
+          "url": "https://www.courtlistener.com/docket/4165322/11/equal-employment-opportunity-commission-v-rowtown-inc/",
+          "recap_pdf_url": null,
+          "pacer_doc_id": "03502804597",
+          "description": "CERTIFICATE/PROOF OF SERVICE by Masumeh T. Zanganeh re 5, 6, 7, 8, 9, 10, 4 (cfe, ) Additional attachment(s) added on 7/2/2003 (cfe, ). (Entered: 06/27/2003)"
+        },
+        {
+          "row_number": 3,
+          "id": 8555383,
+          "entry_number": "12",
+          "date_filed": "2003-06-27T00:00:00-04:00",
+          "attachments": [],
+          "url": "https://www.courtlistener.com/docket/4165322/12/equal-employment-opportunity-commission-v-rowtown-inc/",
+          "recap_pdf_url": null,
+          "pacer_doc_id": "0350753883",
+          "description": "CERTIFICATE/PROOF OF SERVICE by Masumeh T. Zanganeh (Amended) of Motion to Intervene as a Plaintiff (cfe, ) Additional attachment(s) added on 7/2/2003 (cfe, ). (Entered: 06/30/2003)"
+        },
+        {
+          "row_number": 6,
+          "id": 8555386,
+          "entry_number": "15",
+          "date_filed": "2003-07-08T00:00:00-04:00",
+          "attachments": [],
+          "url": "https://www.courtlistener.com/docket/4165322/15/equal-employment-opportunity-commission-v-rowtown-inc/",
+          "recap_pdf_url": null,
+          "pacer_doc_id": "03501224815",
+          "description": "Memorandum in Opposition re 5 Zanganeh's Motion to Intervene filed by Rowtown, Inc.. (Long, Christine) (Entered: 07/08/2003)"
+        },
+        {
+          "row_number": 7,
+          "id": 8555387,
+          "entry_number": "16",
+          "date_filed": "2003-07-11T00:00:00-04:00",
+          "attachments": [],
+          "url": "https://www.courtlistener.com/docket/4165322/16/equal-employment-opportunity-commission-v-rowtown-inc/",
+          "recap_pdf_url": null,
+          "pacer_doc_id": "03501237160",
+          "description": "Consent to Proceed Before a U.S. Magistrate Judge by Rowtown, Inc.. (Kennedy, Eileen) (Entered: 07/11/2003)"
+        },
+        {
+          "row_number": 8,
+          "id": 8555388,
+          "entry_number": "17",
+          "date_filed": "2003-07-14T00:00:00-04:00",
+          "attachments": [],
+          "url": "https://www.courtlistener.com/docket/4165322/17/equal-employment-opportunity-commission-v-rowtown-inc/",
+          "recap_pdf_url": null,
+          "pacer_doc_id": "03503482192",
+          "description": "Declination to Proceed Before a U.S. Magistrate Judge by Equal Employment Opportunity Commission. (Rosas, Lucila) (Entered: 07/14/2003)"
+        },
+        {
+          "row_number": 9,
+          "id": 8555389,
+          "entry_number": "18",
+          "date_filed": "2003-07-14T00:00:00-04:00",
+          "attachments": [],
+          "url": "https://www.courtlistener.com/docket/4165322/18/equal-employment-opportunity-commission-v-rowtown-inc/",
+          "recap_pdf_url": null,
+          "pacer_doc_id": "03503482196",
+          "description": "Statement of Non-Opposition re 5 filed by Equal Employment Opportunity Commission. (Related document(s) 5 ) (Rosas, Lucila) (Entered: 07/14/2003)"
+        },
+        {
+          "row_number": 10,
+          "id": 8555390,
+          "entry_number": "19",
+          "date_filed": "2003-07-14T00:00:00-04:00",
+          "attachments": [],
+          "url": "https://www.courtlistener.com/docket/4165322/19/equal-employment-opportunity-commission-v-rowtown-inc/",
+          "recap_pdf_url": null,
+          "pacer_doc_id": "03501253763",
+          "description": "CLERK'S NOTICE of Impending Reassignment to U.S. District Judge (pmc, ) (Entered: 07/14/2003)"
+        },
+        {
+          "row_number": 13,
+          "id": 8555392,
+          "entry_number": "21",
+          "date_filed": "2003-07-16T00:00:00-04:00",
+          "attachments": [],
+          "url": "https://www.courtlistener.com/docket/4165322/21/equal-employment-opportunity-commission-v-rowtown-inc/",
+          "recap_pdf_url": null,
+          "pacer_doc_id": "03503486869",
+          "description": "CLERK'S NOTICE Continuing Motion Hearing on Zanganeh's Motion to Intervene. Motion Hearing set for 8/22/2003 09:00 AM. (jv, ) (Entered: 07/16/2003)"
+        },
+        {
+          "row_number": 14,
+          "id": 8555393,
+          "entry_number": "22",
+          "date_filed": "2003-08-07T00:00:00-04:00",
+          "attachments": [],
+          "url": "https://www.courtlistener.com/docket/4165322/22/equal-employment-opportunity-commission-v-rowtown-inc/",
+          "recap_pdf_url": null,
+          "pacer_doc_id": "03501243888",
+          "description": "Reply to Opposition re 5 filed by Masumeh T. Zanganeh. (Chow, Dorothy) (Entered: 08/07/2003)"
+        },
+        {
+          "row_number": 15,
+          "id": 8555394,
+          "entry_number": "23",
+          "date_filed": "2003-08-07T00:00:00-04:00",
+          "attachments": [],
+          "url": "https://www.courtlistener.com/docket/4165322/23/equal-employment-opportunity-commission-v-rowtown-inc/",
+          "recap_pdf_url": null,
+          "pacer_doc_id": "03503453473",
+          "description": "DECLARATION in Support re 5 Reply filed by Masumeh T. Zanganeh. (Related document(s) 5 ) (Chow, Dorothy) (Entered: 08/07/2003)"
+        },
+        {
+          "row_number": 16,
+          "id": 8555395,
+          "entry_number": "24",
+          "date_filed": "2003-08-07T00:00:00-04:00",
+          "attachments": [],
+          "url": "https://www.courtlistener.com/docket/4165322/24/equal-employment-opportunity-commission-v-rowtown-inc/",
+          "recap_pdf_url": null,
+          "pacer_doc_id": "03501243889",
+          "description": "MOTION to Intervene Notice of Motion filed by Masumeh T. Zanganeh. Motion Hearing set for 8/22/2003 09:00 AM. (Chow, Dorothy) (Entered: 08/07/2003)"
+        },
+        {
+          "row_number": 17,
+          "id": 8555396,
+          "entry_number": "25",
+          "date_filed": "2003-08-14T00:00:00-04:00",
+          "attachments": [],
+          "url": "https://www.courtlistener.com/docket/4165322/25/equal-employment-opportunity-commission-v-rowtown-inc/",
+          "recap_pdf_url": null,
+          "pacer_doc_id": "03501244921",
+          "description": "NOTICE of need of ADR Phone Conference (Rosas, Lucila) (Entered: 08/14/2003)"
+        },
+        {
+          "row_number": 20,
+          "id": 8555399,
+          "entry_number": "28",
+          "date_filed": "2003-08-25T00:00:00-04:00",
+          "attachments": [],
+          "url": "https://www.courtlistener.com/docket/4165322/28/equal-employment-opportunity-commission-v-rowtown-inc/",
+          "recap_pdf_url": null,
+          "pacer_doc_id": "03503473120",
+          "description": "Minute Entry: Motion Hearing re 24 held on 8/22/2003 before Ronald M. Whyte. (Court Reporter Lee-Anne Shortridge.) (jv, ) (Entered: 08/25/2003)"
+        },
+        {
+          "row_number": 21,
+          "id": 8555400,
+          "entry_number": "29",
+          "date_filed": "2003-08-29T00:00:00-04:00",
+          "attachments": [],
+          "url": "https://www.courtlistener.com/docket/4165322/29/equal-employment-opportunity-commission-v-rowtown-inc/",
+          "recap_pdf_url": null,
+          "pacer_doc_id": "03503493857",
+          "description": "ORDER by Judge Ronald M. Whyte granting 5 Motion to Intervene (rmwlc2) (Entered: 08/29/2003)"
+        },
+        {
+          "row_number": 23,
+          "id": 8555401,
+          "entry_number": "30",
+          "date_filed": "2003-09-10T00:00:00-04:00",
+          "attachments": [],
+          "url": "https://www.courtlistener.com/docket/4165322/30/equal-employment-opportunity-commission-v-rowtown-inc/",
+          "recap_pdf_url": null,
+          "pacer_doc_id": "03501261640",
+          "description": "ADR Clerks Notice Of Appointment Of Mediator, Debra L. Mellinkoff, dated 9/10/2003. (af, ) (Entered: 09/10/2003)"
+        },
+        {
+          "row_number": 24,
+          "id": 8555402,
+          "entry_number": "31",
+          "date_filed": "2003-09-12T00:00:00-04:00",
+          "attachments": [],
+          "url": "https://www.courtlistener.com/docket/4165322/31/equal-employment-opportunity-commission-v-rowtown-inc/",
+          "recap_pdf_url": null,
+          "pacer_doc_id": "03501291813",
+          "description": "NOTICE of Change of Address by Masumeh T. Zanganeh. (Chow, Dorothy) (Entered: 09/12/2003)"
+        },
+        {
+          "row_number": 26,
+          "id": 8555404,
+          "entry_number": "33",
+          "date_filed": "2003-12-02T00:00:00-05:00",
+          "attachments": [],
+          "url": "https://www.courtlistener.com/docket/4165322/33/equal-employment-opportunity-commission-v-rowtown-inc/",
+          "recap_pdf_url": null,
+          "pacer_doc_id": "0350848334",
+          "description": "Letter from Frank R. Ubhaus dated 12/1/03 requesting to be excused for attending mediation. (dhm, COURT STAFF) (Filed on 12/2/2003) (Entered: 12/04/2003)"
+        },
+        {
+          "row_number": 28,
+          "id": 8555406,
+          "entry_number": "35",
+          "date_filed": "2003-12-14T00:00:00-05:00",
+          "attachments": [],
+          "url": "https://www.courtlistener.com/docket/4165322/35/equal-employment-opportunity-commission-v-rowtown-inc/",
+          "recap_pdf_url": null,
+          "pacer_doc_id": "03501198190",
+          "description": "Proposed Order to Mediate and to Set Further Case Management Conference by Rowtown, Inc.. (Kennedy, Eileen) (Filed on 12/14/2003) (Entered: 12/14/2003)"
+        },
+        {
+          "row_number": 29,
+          "id": 8555407,
+          "entry_number": "36",
+          "date_filed": "2003-12-19T00:00:00-05:00",
+          "attachments": [],
+          "url": "https://www.courtlistener.com/docket/4165322/36/equal-employment-opportunity-commission-v-rowtown-inc/",
+          "recap_pdf_url": null,
+          "pacer_doc_id": "0350794206",
+          "description": "Proposed Order Stipulated Protective Order by Rowtown, Inc.. (Kennedy, Eileen) (Filed on 12/19/2003) (Entered: 12/19/2003)"
+        },
+        {
+          "row_number": 34,
+          "id": 8555411,
+          "entry_number": "40",
+          "date_filed": "2004-02-05T00:00:00-05:00",
+          "attachments": [],
+          "url": "https://www.courtlistener.com/docket/4165322/40/equal-employment-opportunity-commission-v-rowtown-inc/",
+          "recap_pdf_url": null,
+          "pacer_doc_id": "0350709199",
+          "description": "STIPULATION (Joint) To Reset The Further Case Management Conference by Equal Employment Opportunity Commission. (Hill, Sanya) (Filed on 2/5/2004) (Entered: 02/05/2004)"
+        },
+        {
+          "row_number": 35,
+          "id": 8555412,
+          "entry_number": "41",
+          "date_filed": "2004-02-07T00:00:00-05:00",
+          "attachments": [],
+          "url": "https://www.courtlistener.com/docket/4165322/41/equal-employment-opportunity-commission-v-rowtown-inc/",
+          "recap_pdf_url": null,
+          "pacer_doc_id": "0350741203",
+          "description": "AMENDED COMPLAINT in Intervention against Rowtown, Inc.. Filed by Masumeh T. Zanganeh. (Chow, Dorothy) (Filed on 2/7/2004) (Entered: 02/07/2004)"
+        },
+        {
+          "row_number": 37,
+          "id": 8555414,
+          "entry_number": "43",
+          "date_filed": "2004-02-27T00:00:00-05:00",
+          "attachments": [],
+          "url": "https://www.courtlistener.com/docket/4165322/43/equal-employment-opportunity-commission-v-rowtown-inc/",
+          "recap_pdf_url": null,
+          "pacer_doc_id": "0350950696",
+          "description": "Answer to Amended Complaint 41 in Intervention for Damages and Injunctive Relief by Rowtown, Inc.. (Kennedy, Eileen) (Filed on 2/27/2004) (Entered: 02/27/2004)"
+        },
+        {
+          "row_number": 39,
+          "id": 8555416,
+          "entry_number": "45",
+          "date_filed": "2004-04-26T00:00:00-04:00",
+          "attachments": [],
+          "url": "https://www.courtlistener.com/docket/4165322/45/equal-employment-opportunity-commission-v-rowtown-inc/",
+          "recap_pdf_url": null,
+          "pacer_doc_id": "03503049542",
+          "description": "Minute Entry: Initial Case Management Conference held on 4/23/2004 before Ronald M. Whyte (Date Filed: 4/26/2004). Discovery cutoff by 12/17/2004. Jury Trial set for 5/11/2005 01:30 PM. Motion Hearing set for 3/11/2005 09:00 AM. Pretrial Conference set for 4/21/2005 02:00 PM. Settlement Conference with Judge Lloyd.(Court Reporter Not Reported.) (jg, Court Staff) (Date Filed: 4/26/2004) (Entered: 04/26/2004)"
+        },
+        {
+          "row_number": 43,
+          "id": 8555420,
+          "entry_number": "49",
+          "date_filed": "2004-07-26T00:00:00-04:00",
+          "attachments": [],
+          "url": "https://www.courtlistener.com/docket/4165322/49/equal-employment-opportunity-commission-v-rowtown-inc/",
+          "recap_pdf_url": null,
+          "pacer_doc_id": "03503593644",
+          "description": "NOTICE by Masumeh T. Zanganeh Notice of Motion (Chow, Dorothy) (Filed on 7/26/2004) (Entered: 07/26/2004)"
+        },
+        {
+          "row_number": 47,
+          "id": 8555423,
+          "entry_number": "52",
+          "date_filed": "2004-07-26T00:00:00-04:00",
+          "attachments": [],
+          "url": "https://www.courtlistener.com/docket/4165322/52/equal-employment-opportunity-commission-v-rowtown-inc/",
+          "recap_pdf_url": null,
+          "pacer_doc_id": "03503594960",
+          "description": "Proposed Order by Masumeh T. Zanganeh. (Chow, Dorothy) (Filed on 7/26/2004) (Entered: 07/26/2004)"
+        },
+        {
+          "row_number": 49,
+          "id": 8555425,
+          "entry_number": "54",
+          "date_filed": "2004-07-26T00:00:00-04:00",
+          "attachments": [],
+          "url": "https://www.courtlistener.com/docket/4165322/54/equal-employment-opportunity-commission-v-rowtown-inc/",
+          "recap_pdf_url": null,
+          "pacer_doc_id": "03503595637",
+          "description": "First MOTION to Shorten Time Application for OST filed by Masumeh T. Zanganeh. Motion Hearing set for 8/20/2004 09:00 AM. (Chow, Dorothy) (Filed on 7/26/2004) (Entered: 07/26/2004)"
+        },
+        {
+          "row_number": 50,
+          "id": 8555426,
+          "entry_number": "55",
+          "date_filed": "2004-07-26T00:00:00-04:00",
+          "attachments": [],
+          "url": "https://www.courtlistener.com/docket/4165322/55/equal-employment-opportunity-commission-v-rowtown-inc/",
+          "recap_pdf_url": null,
+          "pacer_doc_id": "03501377014",
+          "description": "CERTIFICATE OF SERVICE by Masumeh T. Zanganeh Certificate in Support of Application for OST (Chow, Dorothy) (Filed on 7/26/2004) (Entered: 07/26/2004)"
+        },
+        {
+          "row_number": 51,
+          "id": 8555427,
+          "entry_number": "56",
+          "date_filed": "2004-07-26T00:00:00-04:00",
+          "attachments": [],
+          "url": "https://www.courtlistener.com/docket/4165322/56/equal-employment-opportunity-commission-v-rowtown-inc/",
+          "recap_pdf_url": null,
+          "pacer_doc_id": "03503593847",
+          "description": "Proposed Order for Order Shortening Time by Masumeh T. Zanganeh. (Chow, Dorothy) (Filed on 7/26/2004) (Entered: 07/26/2004)"
+        },
+        {
+          "row_number": 52,
+          "id": 8555428,
+          "entry_number": "57",
+          "date_filed": "2004-07-30T00:00:00-04:00",
+          "attachments": [],
+          "url": "https://www.courtlistener.com/docket/4165322/57/equal-employment-opportunity-commission-v-rowtown-inc/",
+          "recap_pdf_url": null,
+          "pacer_doc_id": "03503594515",
+          "description": "ORDER by Magistrate Judge Howard R. Lloyd denying 54 Application to Shorten Time (hrllc1, ) (Filed on 7/30/2004) (Entered: 07/30/2004)"
+        },
+        {
+          "row_number": 58,
+          "id": 8555433,
+          "entry_number": "62",
+          "date_filed": "2004-08-30T00:00:00-04:00",
+          "attachments": [],
+          "url": "https://www.courtlistener.com/docket/4165322/62/equal-employment-opportunity-commission-v-rowtown-inc/",
+          "recap_pdf_url": null,
+          "pacer_doc_id": "03502876662",
+          "description": "Letter from Christine Long Requesting Telephonic Appearance. (Long, Christine) (Filed on 8/30/2004) (Entered: 08/30/2004)"
+        },
+        {
+          "row_number": 60,
+          "id": 8555435,
+          "entry_number": "64",
+          "date_filed": "2004-08-31T00:00:00-04:00",
+          "attachments": [],
+          "url": "https://www.courtlistener.com/docket/4165322/64/equal-employment-opportunity-commission-v-rowtown-inc/",
+          "recap_pdf_url": null,
+          "pacer_doc_id": "03503051637",
+          "description": "Minute Entry: Motion Hearing held on 8/31/2004 before Magistrate Judge Howard R. Lloyd (Date Filed: 8/31/2004). (Tape #FTR.) (pmc, COURT STAFF) (Date Filed: 8/31/2004) (Entered: 08/31/2004)"
+        },
+        {
+          "row_number": 62,
+          "id": 8555437,
+          "entry_number": "66",
+          "date_filed": "2004-09-15T00:00:00-04:00",
+          "attachments": [],
+          "url": "https://www.courtlistener.com/docket/4165322/66/equal-employment-opportunity-commission-v-rowtown-inc/",
+          "recap_pdf_url": null,
+          "pacer_doc_id": "03501082448",
+          "description": "STIPULATION re 47 Order,, by Equal Employment Opportunity Commission. (Rosas, Lucila) (Filed on 9/15/2004) (Entered: 09/15/2004)"
+        },
+        {
+          "row_number": 63,
+          "id": 8555438,
+          "entry_number": "67",
+          "date_filed": "2004-11-03T00:00:00-05:00",
+          "attachments": [],
+          "url": "https://www.courtlistener.com/docket/4165322/67/equal-employment-opportunity-commission-v-rowtown-inc/",
+          "recap_pdf_url": null,
+          "pacer_doc_id": "0350761049",
+          "description": "STIPULATION AND ORDER AMENDING CASE MANAGEMENT ORDER. Jury Trial set for 10/11/2005 01:30 PM. Pretrial Conference set for 9/22/2005 02:00 PM. Dispositive Motions Hearing set for 8/12/05 @ 9:00 am. Discovery cutoff 5/20/05. Signed by Judge Ronald M. Whyte on 11/3/04. (jg, Court Staff) (Filed on 11/3/2004) (Entered: 11/03/2004)"
+        },
+        {
+          "row_number": 65,
+          "id": 8555440,
+          "entry_number": "69",
+          "date_filed": "2005-04-01T00:00:00-05:00",
+          "attachments": [],
+          "url": "https://www.courtlistener.com/docket/4165322/69/equal-employment-opportunity-commission-v-rowtown-inc/",
+          "recap_pdf_url": null,
+          "pacer_doc_id": "035072011",
+          "description": "NOTICE of Change In Counsel by Linda S. Ordonio-Dixon (Ordonio-Dixon, Linda) (Filed on 4/1/2005) (Entered: 04/01/2005)"
+        },
+        {
+          "row_number": 67,
+          "id": 8555441,
+          "entry_number": "70",
+          "date_filed": "2005-04-20T00:00:00-04:00",
+          "attachments": [],
+          "url": "https://www.courtlistener.com/docket/4165322/70/equal-employment-opportunity-commission-v-rowtown-inc/",
+          "recap_pdf_url": null,
+          "pacer_doc_id": "0350451446",
+          "description": "STIPULATION AND ORDER TO CONTINUE PRETRIAL AND TRIAL DEADLINES: Jury Trial set for 1/30/2006 01:30 PM in Courtroom 6, 4th Floor, San Jose. Motion Hearing set for 11/18/2005 09:00 AM in Courtroom 6, 4th Floor, San Jose. Pretrial Conference set for 1/12/2006 02:00 PM in Courtroom 6, 4th Floor, San Jose. Discovery cutoff 8/19/05. Signed by Judge Ronald M. Whyte on 4/14/05. (jg, Court Staff) (Filed on 4/20/2005) (Entered: 04/20/2005)"
+        },
+        {
+          "row_number": 68,
+          "id": 8555442,
+          "entry_number": "71",
+          "date_filed": "2005-06-17T00:00:00-04:00",
+          "attachments": [
+            {
+              "recap_id": 155277148,
+              "pacer_url": "https://ecf.cand.uscourts.gov/doc1/0350149123?caseid=12121",
+              "description": "Points & Authorities",
+              "attachment_number": 1
+            },
+            {
+              "recap_id": 155277149,
+              "pacer_url": "https://ecf.cand.uscourts.gov/doc1/0350149127?caseid=12121",
+              "description": "Proposed Order",
+              "attachment_number": 2
+            },
+            {
+              "recap_id": 155277150,
+              "pacer_url": "https://ecf.cand.uscourts.gov/doc1/0350149128?caseid=12121",
+              "description": "Affidavit",
+              "attachment_number": 3
+            },
+            {
+              "recap_id": 155277151,
+              "pacer_url": "https://ecf.cand.uscourts.gov/doc1/0350149129?caseid=12121",
+              "description": "Exhibit Exhibit 1",
+              "attachment_number": 4
+            },
+            {
+              "recap_id": 155277152,
+              "pacer_url": "https://ecf.cand.uscourts.gov/doc1/0350149133?caseid=12121",
+              "description": "Exhibit Exhibit 2",
+              "attachment_number": 5
+            },
+            {
+              "recap_id": 155277153,
+              "pacer_url": "https://ecf.cand.uscourts.gov/doc1/0350149134?caseid=12121",
+              "description": "Exhibit Exhibit 3",
+              "attachment_number": 6
+            },
+            {
+              "recap_id": 155277154,
+              "pacer_url": "https://ecf.cand.uscourts.gov/doc1/0350149137?caseid=12121",
+              "description": "Exhibit Exhibit 4",
+              "attachment_number": 7
+            },
+            {
+              "recap_id": 155277155,
+              "pacer_url": "https://ecf.cand.uscourts.gov/doc1/0350149138?caseid=12121",
+              "description": "Exhibit Exhibit 5",
+              "attachment_number": 8
+            },
+            {
+              "recap_id": 155277156,
+              "pacer_url": "https://ecf.cand.uscourts.gov/doc1/0350149144?caseid=12121",
+              "description": "Exhibit Exhibit 6",
+              "attachment_number": 9
+            },
+            {
+              "recap_id": 155277158,
+              "pacer_url": "https://ecf.cand.uscourts.gov/doc1/0350147599?caseid=12121",
+              "description": "Exhibit Exhibit 7",
+              "attachment_number": 10
+            },
+            {
+              "recap_id": 155277159,
+              "pacer_url": "https://ecf.cand.uscourts.gov/doc1/0350147600?caseid=12121",
+              "description": "Exhibit Exhibit 8",
+              "attachment_number": 11
+            },
+            {
+              "recap_id": 155277160,
+              "pacer_url": "https://ecf.cand.uscourts.gov/doc1/0350147602?caseid=12121",
+              "description": "Exhibit Exhibit 9",
+              "attachment_number": 12
+            }
+          ],
+          "url": "https://www.courtlistener.com/docket/4165322/71/equal-employment-opportunity-commission-v-rowtown-inc/",
+          "recap_pdf_url": null,
+          "pacer_doc_id": "0350149114",
+          "description": "MOTION to Quash or Modify Defendant's Subpoenas filed by Equal Employment Opportunity Commission. Motion Hearing set for 7/26/2005 10:00 AM in Courtroom 2, 5th Floor, San Jose. (Attachments: # 1 Points & Authorities# 2 Proposed Order # 3 Affidavit # 4 Exhibit Exhibit 1# 5 Exhibit Exhibit 2# 6 Exhibit Exhibit 3# 7 Exhibit Exhibit 4# 8 Exhibit Exhibit 5# 9 Exhibit Exhibit 6# 10 Exhibit Exhibit 7# 11 Exhibit Exhibit 8# 12 Exhibit Exhibit 9)(Ordonio-Dixon, Linda) (Filed on 6/17/2005) (Entered: 06/17/2005)"
+        },
+        {
+          "row_number": 4,
+          "id": 8555384,
+          "entry_number": "13",
+          "date_filed": "2003-06-27T00:00:00-04:00",
+          "attachments": [],
+          "url": "https://www.courtlistener.com/docket/4165322/13/equal-employment-opportunity-commission-v-rowtown-inc/",
+          "recap_pdf_url": null,
+          "pacer_doc_id": "0350336738",
+          "description": "CERTIFICATE/PROOF OF SERVICE by Masumeh T. Zanganeh re [] (cfe, ) Additional attachment(s) added on 7/2/2003 (cfe, ). (Entered: 06/30/2003)"
+        },
+        {
+          "row_number": 12,
+          "id": 8555391,
+          "entry_number": "20",
+          "date_filed": "2003-07-14T00:00:00-04:00",
+          "attachments": [],
+          "url": "https://www.courtlistener.com/docket/4165322/20/equal-employment-opportunity-commission-v-rowtown-inc/",
+          "recap_pdf_url": null,
+          "pacer_doc_id": "0350857587",
+          "description": "ORDER REASSIGNING CASE. Case reassigned to Judge Ronald M. Whyte and Howard R. Lloyd for all further proceedings. Signed by Executive Committee on 7/14/03. (lrd, ) Additional attachment(s) added on 7/15/2003 (lrd, ). (Entered: 07/15/2003)"
+        },
+        {
+          "row_number": 18,
+          "id": 8555397,
+          "entry_number": "26",
+          "date_filed": "2003-08-14T00:00:00-04:00",
+          "attachments": [],
+          "url": "https://www.courtlistener.com/docket/4165322/26/equal-employment-opportunity-commission-v-rowtown-inc/",
+          "recap_pdf_url": null,
+          "pacer_doc_id": "03503465244",
+          "description": "JOINT CASE MANAGEMENT STATEMENT and Proposed Order filed by Equal Employment Opportunity Commission. (Rosas, Lucila) (Entered: 08/14/2003)"
+        },
+        {
+          "row_number": 25,
+          "id": 8555403,
+          "entry_number": "32",
+          "date_filed": "2003-10-22T00:00:00-04:00",
+          "attachments": [],
+          "url": "https://www.courtlistener.com/docket/4165322/32/equal-employment-opportunity-commission-v-rowtown-inc/",
+          "recap_pdf_url": null,
+          "pacer_doc_id": "03503560135",
+          "description": "NOTICE of Change of Address of Sanya P. Hill Maxion by Equal Employment Opportunity Commission. (Rosas, Lucila) (Entered: 10/22/2003)"
+        },
+        {
+          "row_number": 30,
+          "id": 8555408,
+          "entry_number": "37",
+          "date_filed": "2003-12-31T00:00:00-05:00",
+          "attachments": [],
+          "url": "https://www.courtlistener.com/docket/4165322/37/equal-employment-opportunity-commission-v-rowtown-inc/",
+          "recap_pdf_url": null,
+          "pacer_doc_id": "03501219403",
+          "description": "STIPULATED PROTECTIVE ORDER. Signed by Magistrate Judge Howard R. Lloyd on 12/31/03. (hrllc2) (Filed on 12/31/2003) (Entered: 12/31/2003)"
+        },
+        {
+          "row_number": 32,
+          "id": 8555410,
+          "entry_number": "39",
+          "date_filed": "2004-02-05T00:00:00-05:00",
+          "attachments": [],
+          "url": "https://www.courtlistener.com/docket/4165322/39/equal-employment-opportunity-commission-v-rowtown-inc/",
+          "recap_pdf_url": null,
+          "pacer_doc_id": "03502763172",
+          "description": "CERTIFICATION OF MEDIATION Session dated 1/31/04; Mediation session held 1/29/04; Second mediation session set for 4/8/04. (cmf, COURT STAFF) (Filed on 2/5/2004) (Entered: 02/05/2004)"
+        },
+        {
+          "row_number": 36,
+          "id": 8555413,
+          "entry_number": "42",
+          "date_filed": "2004-02-11T00:00:00-05:00",
+          "attachments": [],
+          "url": "https://www.courtlistener.com/docket/4165322/42/equal-employment-opportunity-commission-v-rowtown-inc/",
+          "recap_pdf_url": null,
+          "pacer_doc_id": "03502866905",
+          "description": "STIPULATION AND ORDER to Reset the Further Case Management Conference. Further Case Management Conference is set for 4/23/04 @ 10:30 am. Signed by Judge Ronald M. Whyte on 2/11/04. (jg, Court Staff) (Filed on 2/11/2004) (Entered: 02/11/2004)"
+        },
+        {
+          "row_number": 38,
+          "id": 8555415,
+          "entry_number": "44",
+          "date_filed": "2004-04-16T00:00:00-04:00",
+          "attachments": [],
+          "url": "https://www.courtlistener.com/docket/4165322/44/equal-employment-opportunity-commission-v-rowtown-inc/",
+          "recap_pdf_url": null,
+          "pacer_doc_id": "03503042898",
+          "description": "JOINT CASE MANAGEMENT STATEMENT (1st Supplement) and Proposed Order filed by Equal Employment Opportunity Commission. (Hill, Sanya) (Filed on 4/16/2004) (Entered: 04/16/2004)"
+        },
+        {
+          "row_number": 40,
+          "id": 8555417,
+          "entry_number": "46",
+          "date_filed": "2004-05-19T00:00:00-04:00",
+          "attachments": [],
+          "url": "https://www.courtlistener.com/docket/4165322/46/equal-employment-opportunity-commission-v-rowtown-inc/",
+          "recap_pdf_url": null,
+          "pacer_doc_id": "03501001631",
+          "description": "Proposed Order Further Case Management Order by Equal Employment Opportunity Commission. (Hill, Sanya) (Filed on 5/19/2004) (Entered: 05/19/2004)"
+        },
+        {
+          "row_number": 45,
+          "id": 8555421,
+          "entry_number": "50",
+          "date_filed": "2004-07-26T00:00:00-04:00",
+          "attachments": [],
+          "url": "https://www.courtlistener.com/docket/4165322/50/equal-employment-opportunity-commission-v-rowtown-inc/",
+          "recap_pdf_url": null,
+          "pacer_doc_id": "03501378196",
+          "description": "First MOTION for Protective Order Motion and Memo of Law filed by Masumeh T. Zanganeh. Motion Hearing set for 8/20/2004 09:00 AM. (Chow, Dorothy) (Filed on 7/26/2004) (Entered: 07/26/2004)"
+        },
+        {
+          "row_number": 46,
+          "id": 8555422,
+          "entry_number": "51",
+          "date_filed": "2004-07-26T00:00:00-04:00",
+          "attachments": [],
+          "url": "https://www.courtlistener.com/docket/4165322/51/equal-employment-opportunity-commission-v-rowtown-inc/",
+          "recap_pdf_url": null,
+          "pacer_doc_id": "03501377882",
+          "description": "Declaration in Support filed by Masumeh T. Zanganeh. (Chow, Dorothy) (Filed on 7/26/2004) (Entered: 07/26/2004)"
+        },
+        {
+          "row_number": 48,
+          "id": 8555424,
+          "entry_number": "53",
+          "date_filed": "2004-07-26T00:00:00-04:00",
+          "attachments": [],
+          "url": "https://www.courtlistener.com/docket/4165322/53/equal-employment-opportunity-commission-v-rowtown-inc/",
+          "recap_pdf_url": null,
+          "pacer_doc_id": "03503592939",
+          "description": "CERTIFICATE OF SERVICE by Masumeh T. Zanganeh Proof of Service (Chow, Dorothy) (Filed on 7/26/2004) (Entered: 07/26/2004)"
+        },
+        {
+          "row_number": 53,
+          "id": 8555429,
+          "entry_number": "58",
+          "date_filed": "2004-08-03T00:00:00-04:00",
+          "attachments": [],
+          "url": "https://www.courtlistener.com/docket/4165322/58/equal-employment-opportunity-commission-v-rowtown-inc/",
+          "recap_pdf_url": null,
+          "pacer_doc_id": "03501405728",
+          "description": "Statement of Non-Opposition re 50 Motion for Protective Order filed by Equal Employment Opportunity Commission. (Related document(s) 50 ) (Rosas, Lucila) (Filed on 8/3/2004) (Entered: 08/03/2004)"
+        },
+        {
+          "row_number": 57,
+          "id": 8555432,
+          "entry_number": "61",
+          "date_filed": "2004-08-19T00:00:00-04:00",
+          "attachments": [],
+          "url": "https://www.courtlistener.com/docket/4165322/61/equal-employment-opportunity-commission-v-rowtown-inc/",
+          "recap_pdf_url": null,
+          "pacer_doc_id": "03503598404",
+          "description": "REPLY to Response to Motion for Protective Order filed by Masumeh T. Zanganeh. (Losinski, Matthew) (Filed on 8/19/2004) (Entered: 08/19/2004)"
+        },
+        {
+          "row_number": 71,
+          "id": 10150978,
+          "entry_number": "74",
+          "date_filed": "2005-11-21T00:00:00-05:00",
+          "attachments": [],
+          "url": "https://www.courtlistener.com/docket/4165322/74/equal-employment-opportunity-commission-v-rowtown-inc/",
+          "recap_pdf_url": "https://www.courtlistener.com/recap/gov.uscourts.cand.12121.74.0.pdf",
+          "pacer_doc_id": "03501086742",
+          "description": "CONSENT DECREE: ***Civil Case Terminated.  Signed by Judge Ronald M. Whyte on 11/21/05. (jg, COURT STAFF) (Filed on 11/21/2005)"
+        },
+        {
+          "row_number": 0,
+          "id": 8555372,
+          "entry_number": "1",
+          "date_filed": "2003-04-10T00:00:00-04:00",
+          "attachments": [
+            {
+              "recap_id": 1564191,
+              "pacer_url": "https://ecf.cand.uscourts.gov/doc1/0350724877?caseid=12121",
+              "description": "",
+              "attachment_number": 1
+            }
+          ],
+          "url": "https://www.courtlistener.com/docket/4165322/1/equal-employment-opportunity-commission-v-rowtown-inc/",
+          "recap_pdf_url": "https://www.courtlistener.com/recap/gov.uscourts.cand.12121.1.0.pdf",
+          "pacer_doc_id": "0350724874",
+          "description": "COMPLAINT Civil Rights Employment Discrimination; Summons Issued; Fees Waived against Rowtown, Inc. (). Filed by Equal Employment Opportunity Commission. (cfe, ) Modified on 4/10/2003 (cfe, ). Additional attachment(s) added on 4/15/2003 (cfe, ). (Entered: 04/10/2003)"
+        },
+        {
+          "row_number": 11,
+          "id": 8555373,
+          "entry_number": "2",
+          "date_filed": "2003-04-10T00:00:00-04:00",
+          "attachments": [
+            {
+              "recap_id": 155277141,
+              "pacer_url": "https://ecf.cand.uscourts.gov/doc1/03501082212?caseid=12121",
+              "description": "Standing Order",
+              "attachment_number": 1
+            }
+          ],
+          "url": "https://www.courtlistener.com/docket/4165322/2/equal-employment-opportunity-commission-v-rowtown-inc/",
+          "recap_pdf_url": null,
+          "pacer_doc_id": "03501082211",
+          "description": "ADR SCHEDULING ORDER: Case Management Statement due by 8/5/2003. Case Management Conference set for 8/12/2003 at 01:30 PM.. Signed by Judge Howard R. Lloyd on 8/22/02. (Attachments: # 1 Standing Order)(cfe, ) (Entered: 04/10/2003)"
+        },
+        {
+          "row_number": 33,
+          "id": 8555375,
+          "entry_number": "4",
+          "date_filed": "2003-06-26T00:00:00-04:00",
+          "attachments": [],
+          "url": "https://www.courtlistener.com/docket/4165322/4/equal-employment-opportunity-commission-v-rowtown-inc/",
+          "recap_pdf_url": null,
+          "pacer_doc_id": "03502805687",
+          "description": "Intervenor COMPLAINT for Damages and Injunctive Relief (Jury Demand). Filed by Masumeh T. Zanganeh. (cfe, ) Additional attachment(s) added on 7/2/2003 (cfe, ). (Entered: 06/27/2003)"
+        },
+        {
+          "row_number": 44,
+          "id": 8555376,
+          "entry_number": "5",
+          "date_filed": "2003-06-26T00:00:00-04:00",
+          "attachments": [],
+          "url": "https://www.courtlistener.com/docket/4165322/5/equal-employment-opportunity-commission-v-rowtown-inc/",
+          "recap_pdf_url": null,
+          "pacer_doc_id": "03502806502",
+          "description": "MOTION to Intervene as a Plaintiff filed by Masumeh T. Zanganeh. Motion Hearing set for 7/29/2003 10:00 AM. (cfe, ) Additional attachment(s) added on 7/2/2003 (cfe, ). (Entered: 06/27/2003)"
+        },
+        {
+          "row_number": 55,
+          "id": 8555377,
+          "entry_number": "6",
+          "date_filed": "2003-06-26T00:00:00-04:00",
+          "attachments": [],
+          "url": "https://www.courtlistener.com/docket/4165322/6/equal-employment-opportunity-commission-v-rowtown-inc/",
+          "recap_pdf_url": null,
+          "pacer_doc_id": "03502902227",
+          "description": "NOTICE re 5 of Motion to Intervene as a Plaintiff by Masumeh T. Zanganeh. (cfe, ) Additional attachment(s) added on 7/2/2003 (cfe, ). (Entered: 06/27/2003)"
+        },
+        {
+          "row_number": 72,
+          "id": 8555379,
+          "entry_number": "8",
+          "date_filed": "2003-06-26T00:00:00-04:00",
+          "attachments": [],
+          "url": "https://www.courtlistener.com/docket/4165322/8/equal-employment-opportunity-commission-v-rowtown-inc/",
+          "recap_pdf_url": null,
+          "pacer_doc_id": "03502909294",
+          "description": "AFFIDAVIT re 5 in Support of Motion to Intervene as a Plaintiff by Masumeh T. Zanganeh. (cfe, ) Additional attachment(s) added on 7/2/2003 (cfe, ). (Entered: 06/27/2003)"
+        },
+        {
+          "row_number": 73,
+          "id": 8555380,
+          "entry_number": "9",
+          "date_filed": "2003-06-26T00:00:00-04:00",
+          "attachments": [],
+          "url": "https://www.courtlistener.com/docket/4165322/9/equal-employment-opportunity-commission-v-rowtown-inc/",
+          "recap_pdf_url": null,
+          "pacer_doc_id": "0350752721",
+          "description": "MEMORANDUM in Support re 5 of Points and Authorities of Motion to Intervene as Plaintiff filed by Masumeh T. Zanganeh. (Related document(s) 5 ) (cfe, ) Additional attachment(s) added on 7/2/2003 (cfe, ). (Entered: 06/27/2003)"
+        },
+        {
+          "row_number": 5,
+          "id": 8555385,
+          "entry_number": "14",
+          "date_filed": "2003-07-08T00:00:00-04:00",
+          "attachments": [
+            {
+              "recap_id": 155277142,
+              "pacer_url": "https://ecf.cand.uscourts.gov/doc1/03503370223?caseid=12121",
+              "description": "Exhibit A",
+              "attachment_number": 1
+            },
+            {
+              "recap_id": 155277143,
+              "pacer_url": "https://ecf.cand.uscourts.gov/doc1/03503370224?caseid=12121",
+              "description": "Exhibit B",
+              "attachment_number": 2
+            },
+            {
+              "recap_id": 155277144,
+              "pacer_url": "https://ecf.cand.uscourts.gov/doc1/03503370225?caseid=12121",
+              "description": "Exhibit C",
+              "attachment_number": 3
+            },
+            {
+              "recap_id": 155277145,
+              "pacer_url": "https://ecf.cand.uscourts.gov/doc1/03503370226?caseid=12121",
+              "description": "Exhibit D",
+              "attachment_number": 4
+            }
+          ],
+          "url": "https://www.courtlistener.com/docket/4165322/14/equal-employment-opportunity-commission-v-rowtown-inc/",
+          "recap_pdf_url": null,
+          "pacer_doc_id": "03503370222",
+          "description": "AFFIDAVIT in Opposition re 5 Declaration of Eileen P. Kennedy filed by Rowtown, Inc.. (Attachments: # 1 Exhibit A# 2 Exhibit B# 3 Exhibit C# 4 Exhibit D)(Long, Christine) (Entered: 07/08/2003)"
+        },
+        {
+          "row_number": 19,
+          "id": 8555398,
+          "entry_number": "27",
+          "date_filed": "2003-08-18T00:00:00-04:00",
+          "attachments": [],
+          "url": "https://www.courtlistener.com/docket/4165322/27/equal-employment-opportunity-commission-v-rowtown-inc/",
+          "recap_pdf_url": null,
+          "pacer_doc_id": "03501244845",
+          "description": "CLERK'S NOTICE: ADR Phone Conference scheduled for 8/20/03 at 2:30 p.m. Please take note that plaintiff's counsel initiates the call to all parties. (tjs, ) (Entered: 08/18/2003)"
+        },
+        {
+          "row_number": 27,
+          "id": 8555405,
+          "entry_number": "34",
+          "date_filed": "2003-12-02T00:00:00-05:00",
+          "attachments": [],
+          "url": "https://www.courtlistener.com/docket/4165322/34/equal-employment-opportunity-commission-v-rowtown-inc/",
+          "recap_pdf_url": null,
+          "pacer_doc_id": "0350852102",
+          "description": "ORDER: Mr. Ubhaus is excused from attending the mediation currently set for 1/29/04 at 10:00 AM. Signed by Magistrate Judge Wayne Brazil on 12/1/2003. (dhm, COURT STAFF) (Filed on 12/2/2003) (Entered: 12/04/2003)"
+        },
+        {
+          "row_number": 31,
+          "id": 8555409,
+          "entry_number": "38",
+          "date_filed": "2004-01-08T00:00:00-05:00",
+          "attachments": [],
+          "url": "https://www.courtlistener.com/docket/4165322/38/equal-employment-opportunity-commission-v-rowtown-inc/",
+          "recap_pdf_url": null,
+          "pacer_doc_id": "03502788004",
+          "description": "ORDER to Mediate and to Set a Further Case Management Conference.Case Management Conference set for 2/13/2004 10:30 AM. Signed by Judge Ronald M. Whyte on 1/8/04. (jg, Court Staff) (Filed on 1/8/2004) (Entered: 01/08/2004)"
+        },
+        {
+          "row_number": 41,
+          "id": 8555418,
+          "entry_number": "47",
+          "date_filed": "2004-05-27T00:00:00-04:00",
+          "attachments": [],
+          "url": "https://www.courtlistener.com/docket/4165322/47/equal-employment-opportunity-commission-v-rowtown-inc/",
+          "recap_pdf_url": null,
+          "pacer_doc_id": "03503038491",
+          "description": "FURTHER CASE MANAGEMENT ORDER: Non-expert discovery due 12/17/2004; Disclosure of Expert Testimony & Reports due 1/21/2005; Disclosure of Rebuttal Expert Witnesses due 2/11/2005; Expert Discovery due 2/25/2005; Deadline for Filing Dispositive Motions 1/28/2005; Dispositive Motion Hearing set for 3/11/2005; Pretrial Statement due 4/15/2005; Pretrial Conference sent for 4/21/2005 at 2:00 p.m.; Trial set for 5/11/2005 at 1:30 p.m.. Signed by Judge Ronald M. Whyte on 5/25/2004. (dhm, COURT STAFF) (Filed on 5/27/2004) (Entered: 05/27/2004)"
+        },
+        {
+          "row_number": 42,
+          "id": 8555419,
+          "entry_number": "48",
+          "date_filed": "2004-06-29T00:00:00-04:00",
+          "attachments": [],
+          "url": "https://www.courtlistener.com/docket/4165322/48/equal-employment-opportunity-commission-v-rowtown-inc/",
+          "recap_pdf_url": null,
+          "pacer_doc_id": "03503588537",
+          "description": "NOTICE of Appearance by Lucila G. Rosas Attorney for Plaintiff (Rosas, Lucila) (Filed on 6/29/2004) (Entered: 06/29/2004)"
+        },
+        {
+          "row_number": 54,
+          "id": 8555430,
+          "entry_number": "59",
+          "date_filed": "2004-08-12T00:00:00-04:00",
+          "attachments": [],
+          "url": "https://www.courtlistener.com/docket/4165322/59/equal-employment-opportunity-commission-v-rowtown-inc/",
+          "recap_pdf_url": null,
+          "pacer_doc_id": "03503597970",
+          "description": "Memorandum in Opposition re 50 First MOTION for Protective Order Motion and Memo of Law filed by Rowtown, Inc.. (Long, Christine) (Filed on 8/12/2004) (Entered: 08/12/2004)"
+        },
+        {
+          "row_number": 56,
+          "id": 8555431,
+          "entry_number": "60",
+          "date_filed": "2004-08-12T00:00:00-04:00",
+          "attachments": [
+            {
+              "recap_id": 155277146,
+              "pacer_url": "https://ecf.cand.uscourts.gov/doc1/03501402597?caseid=12121",
+              "description": "Exhibit A - Deposition Excerpts",
+              "attachment_number": 1
+            }
+          ],
+          "url": "https://www.courtlistener.com/docket/4165322/60/equal-employment-opportunity-commission-v-rowtown-inc/",
+          "recap_pdf_url": null,
+          "pacer_doc_id": "03501402595",
+          "description": "DECLARATION of Christine H. Long in Opposition to 59 Motion for Protective Order filed by Rowtown, Inc.. (Attachments: # 1 Exhibit A - Deposition Excerpts)(Related document(s) 59 ) (Long, Christine) (Filed on 8/12/2004) (Entered: 08/12/2004)"
+        },
+        {
+          "row_number": 59,
+          "id": 8555434,
+          "entry_number": "63",
+          "date_filed": "2004-08-30T00:00:00-04:00",
+          "attachments": [],
+          "url": "https://www.courtlistener.com/docket/4165322/63/equal-employment-opportunity-commission-v-rowtown-inc/",
+          "recap_pdf_url": null,
+          "pacer_doc_id": "03502892279",
+          "description": "ORDER re 62 granting defendant's request to appear telephonically. Signed by Magistrate Judge Howard R. Lloyd on 8/30/04. (hrllc1, ) (Filed on 8/30/2004) (Entered: 08/30/2004)"
+        },
+        {
+          "row_number": 61,
+          "id": 8555436,
+          "entry_number": "65",
+          "date_filed": "2004-08-31T00:00:00-04:00",
+          "attachments": [],
+          "url": "https://www.courtlistener.com/docket/4165322/65/equal-employment-opportunity-commission-v-rowtown-inc/",
+          "recap_pdf_url": null,
+          "pacer_doc_id": "03503069230",
+          "description": "ORDER by Magistrate Judge Howard R. Lloyd granting in part and denying in part 50 Motion for Protective Order (hrllc1, ) (Filed on 8/31/2004) (Entered: 08/31/2004)"
+        },
+        {
+          "row_number": 64,
+          "id": 8555439,
+          "entry_number": "68",
+          "date_filed": "2005-04-01T00:00:00-05:00",
+          "attachments": [
+            {
+              "recap_id": 155277147,
+              "pacer_url": "https://ecf.cand.uscourts.gov/doc1/0350206583?caseid=12121",
+              "description": "Declaration of Ordonio-Dixon",
+              "attachment_number": 1
+            }
+          ],
+          "url": "https://www.courtlistener.com/docket/4165322/68/equal-employment-opportunity-commission-v-rowtown-inc/",
+          "recap_pdf_url": null,
+          "pacer_doc_id": "0350206582",
+          "description": "STIPULATION REQUESTING ORDER CHANGING TIME & PROPOSED ORDER by Equal Employment Opportunity Commission. (Attachments: # 1 Declaration of Ordonio-Dixon)(Ordonio-Dixon, Linda) (Filed on 4/1/2005) (Entered: 04/01/2005)"
+        },
+        {
+          "row_number": 69,
+          "id": 8555443,
+          "entry_number": "72",
+          "date_filed": "2005-07-01T00:00:00-04:00",
+          "attachments": [],
+          "url": "https://www.courtlistener.com/docket/4165322/72/equal-employment-opportunity-commission-v-rowtown-inc/",
+          "recap_pdf_url": null,
+          "pacer_doc_id": "0350870962",
+          "description": "Notice of Withdrawal of Motion re 71 Quashing of Defendant's Subpoenas filed byEqual Employment Opportunity Commission. (Ordonio-Dixon, Linda) (Filed on 7/1/2005) (Entered: 07/01/2005)"
+        },
+        {
+          "row_number": 70,
+          "id": 8555444,
+          "entry_number": "73",
+          "date_filed": "2005-10-14T00:00:00-04:00",
+          "attachments": [
+            {
+              "recap_id": 155277157,
+              "pacer_url": "https://ecf.cand.uscourts.gov/doc1/03503175657?caseid=12121",
+              "description": "Exhibit \"A\" (Will be filed w/Clerk under seal)",
+              "attachment_number": 1
+            }
+          ],
+          "url": "https://www.courtlistener.com/docket/4165322/73/equal-employment-opportunity-commission-v-rowtown-inc/",
+          "recap_pdf_url": null,
+          "pacer_doc_id": "03503175655",
+          "description": "Proposed Order CONSENT DECREE by Equal Employment Opportunity Commission. (Attachments: # 1 Exhibit \"A\" (Will be filed w/Clerk under seal))(Ordonio-Dixon, Linda) (Filed on 10/14/2005) (Entered: 10/14/2005)"
+        }
+      ],
+      "docket_case_type": "cv",
+      "docket_year": 2003,
+      "docket_filing_number": 1522,
+      "is_main_docket": true,
+      "court": "Northern District of California",
+      "state": "California",
+      "docket_office_number": "5",
+      "docket_number_manual": "5:03-cv-01522-RMW",
+      "scales_html": "https://clearinghouse-umich-production.s3.amazonaws.com/media/docket-html/cand--5-03-cv-01522.html",
+      "recap_link": "https://www.courtlistener.com/docket/4165322/equal-employment-opportunity-commission-v-rowtown-inc/",
+      "is_active": true
+    },
+    "name": "EEOC v. ROWTOWN INC (d/b/a THE FISH HOPPER RESTAURANT)",
+    "never_filed": false,
+    "non_docket_case_number": "",
+    "non_docket_case_number_type": null,
+    "non_docket_case_number_type_other": "",
+    "order_end_year": 2008,
+    "order_start_year": 2005,
+    "permanent_injunction": false,
+    "plaintiff_description": "Equal Employment Opportunity Commission, on behalf of one or more workers.",
+    "plaintiff_type": [
+      {
+        "value": "Private Plaintiff"
+      },
+      {
+        "value": "EEOC Plaintiff"
+      }
+    ],
+    "prevailing_party": "Plaintiff",
+    "pro_se_status": "No",
+    "public_interest_lawyer": "Yes",
+    "related_cases": [],
+    "relief_natures": [
+      "Injunction / Injunctive-like Settlement",
+      "Damages"
+    ],
+    "relief_nature_other": "",
+    "relief_sources": [
+      "Settlement"
+    ],
+    "settlement_agreement": [
+      "Court Approved Settlement or Consent Decree"
+    ],
+    "settlement_judgment_date": "2005-11-21",
+    "settlement_judgment_year": null,
+    "special_collections": [
+      "EEOC Study — in sample",
+      "Multi-LexSum (in sample)"
+    ],
+    "special_case_type": [],
+    "state": "California",
+    "summary": "The EEOC's San Francisco office filed this suit in April 2003 in the U.S. District Court for the Northern District of California, San Jose Division. The complaint alleged that defendant Rowtown, Inc., doing business as The Fish Hopper Restaurant, violated Title VII by creating a hostile work environment and causing the constructive discharge of a female employee because of her gender. The complainant was allegedly subjected to inappropriate comments and touching. The complainant intervened in the suit. The case was settled and the court entered a consent decree in November of 2005. The defendant agreed in the consent decree to pay the complainant $200,000, update its policies on sexual harassment, provide training for all of its employees and impose strict disciplinary guidelines for supervisors who engage in or permit harassment or retaliation. The decree was to last for three years. The docket sheet doesn't show show any further enforcement took place; the case was presumably closed in 2008.",
+    "summary_published_date": "2025-05-27T22:43:55.664432-04:00",
+    "summary_short": "",
+    "summary_tiny": null,
+    "terminating_date": null,
+    "clearinghouse_link": "clearinghouse.net/case/9063",
+    "is_active": true,
+    "case_documents_url": "https://clearinghouse.net/api/v2/documents/?case=9063",
+    "case_dockets_url": "https://clearinghouse.net/api/v2/dockets/?case=9063",
+    "case_resources_url": "https://clearinghouse.net/api/v2/resources/?case=9063"
+  },
+  "documents": [
+    {
+      "date": "2005-11-21",
+      "date_is_estimate": true,
+      "date_not_available": false,
+      "description": null,
+      "document_source": null,
+      "document_status": "Coding Complete",
+      "document_type": "Press Release",
+      "order_type": null,
+      "citation_paren": null,
+      "cite_1_page": null,
+      "cite_1_reporter": null,
+      "cite_1_vol": null,
+      "cite_2_page": null,
+      "cite_2_reporter": null,
+      "cite_2_vol": null,
+      "cite_3_page": null,
+      "cite_3_reporter": null,
+      "cite_3_vol": null,
+      "citation_status": "Not applicable",
+      "court": "No Court",
+      "no_title": false,
+      "party_types": [
+        "Plaintiff"
+      ],
+      "per_curium": false,
+      "is_core_document": true,
+      "id": 26891,
+      "file": "https://clearinghouse-umich-production.s3.amazonaws.com/media/doc/26891.pdf",
+      "title": "EEOC Litigation Settlement Report (November 2005)",
+      "text": "EEOC LITIGATION SETTLEMENT REPORT - November 2005 http://www.eeoc.gov/litigation/settlements/settlement11-05.html\nEEOC v. Rowtown, Inc., d/b/a The Fish Hopper Restaurant\nNo. C-03-01522-RMW (HRL) (N.D. Ca. Nov. 21, 2005)\nIn this Title VII complaint, the San Francisco District Office alleged that defendant, a Monterey,\nCalifornia restaurant, subjected charging party and other young waitresses and hostesses (some just\n17 or 18 years old) to sexual harassment and retaliated against charging party for complaining about\nthe harassment. The women's male supervisors and coworkers engaged in severe and pervasive\nphysical and verbal sexual harassment (calling women \"sexy,\" \"sweetie,\" or \"babe,\" commenting on\ntheir bodies, whistling, leering, touching, grabbing, hugging, and kissing). Defendant initially took no\naction in response to charging party's several complaints about a particular coworker who subjected\nher to an escalating course of harassment over about 4 months. Defendant fired the perpetrator in\nearly January 1998 after he came up behind charging party, grabbed her breasts, and kissed her on\nthe cheek. After terminating the man, defendant disciplined the charging party three times in 2«\nweeks, and warned her that additional discipline would lead to termination. Due the continuing\nharassment and the retaliatory disciplinary actions, charging party quit, feeling she had no choice.\nUnder the 3-year consent decree resolving this case, defendant will pay seven claimants a total of\n$200,000 in monetary relief (in individual amounts to be determined by EEOC) in two equal\ninstallments due within 30 days and 90 days of the lodging of the decree. Defendant will ensure that\nits procedures and policies include an employee's right to complain about sexual harassment and\nretaliation, specific contact information (including an 800 number) for reporting discrimination, and a\ncomplaint and investigation procedure (with prompt and confidential investigations and, at the\nconclusion of the investigation, communication of the results and any remedial action).\n1 of 1 7/31/2007 11:45 AM",
+      "document_type_other": "",
+      "external_url": null,
+      "ecf_number": null,
+      "clearinghouse_link": "clearinghouse.net/doc/26891"
+    },
+    {
+      "date": "2005-11-21",
+      "date_is_estimate": false,
+      "date_not_available": false,
+      "description": null,
+      "document_source": "PACER [Public Access to Court Electronic Records]",
+      "document_status": "Coding Complete",
+      "document_type": "Settlement Agreement",
+      "order_type": "Consent Decree",
+      "citation_paren": null,
+      "cite_1_page": null,
+      "cite_1_reporter": null,
+      "cite_1_vol": null,
+      "cite_2_page": null,
+      "cite_2_reporter": null,
+      "cite_2_vol": null,
+      "cite_3_page": null,
+      "cite_3_reporter": null,
+      "cite_3_vol": null,
+      "citation_status": "Not applicable",
+      "court": "Northern District of California",
+      "no_title": false,
+      "party_types": [
+        "Court",
+        "Defendant",
+        "Plaintiff",
+        "Plaintiff-Intervenor"
+      ],
+      "per_curium": false,
+      "is_core_document": true,
+      "id": 26890,
+      "file": "https://clearinghouse-umich-production.s3.amazonaws.com/media/doc/26890.pdf",
+      "title": "Consent Decree",
+      "text": "Case 5:03-cv-01522-RMW     Document 74      Filed 11/21/2005     Page 1 of 11\n1  WILLIMI R. TAl'>lA YO _ #084965 (CA) \nJONATHANT. PECK -#1230] (VA) \n2  LIJIo'DA S. ORDONIO-DlXON . #178]40 (CA) \nSANYA HILL MAXION -11l7]9(WA) \n3  EQUAL EMPLOYMENT OPPORTUNITY COMMISSION \nSan Francisco District Office \n4  350 The Emhlrcldero, Suite 500 \nSin Frlncbco, CA 94105-1260 \n5  Telephone No. (41S) 625-5654 \nFacsimile No. (41S) 62S-5657 \n6 \nAltorueys for Plaintiff EEOC \n7 \n8 \n9 \n10  UNITED STATES DISTRICT COURT \nNORTHERN OISTRICT OF CALIFORNIA \n11  *E-FILED - 11/21/05*\n) \n12  EQUAL EMPLOYMENT  CIVIL ACTION NO. \n) \nOPPORTUNITY  C-Ol-G1522- RMW (HRL) \n) \n13  COMMISSION, \n) \n) \n14  Plaintiff,  CONSENT DECREE \n) \n) \n15  ltlASUMEH ZANGANEII, lodi,idull, \n) \n) \n16  luttn,enu,  .. \n) \n. \n. ) \n17  v.  ) \n) \n18  ROWTOWN, INC. DfBlA THE FISH \n) \nHOPPER RESTAURANT,  ! \n19 \nDefendlnt. \n20 \n21 \n22  l.  INTRODUCfION \n23  On April  10, 2003, Plaintiff Equal Employment Opponunity Commission (\",EEOC\" or \n24  \"Commi:s.sion\"} filed this action pursuant to Tille VII of the Civil Rights Act of 1964 (\"Title Vir,), \n25  and Title I of the Civil Rights Act of 1991. The EEOC alleged that Defendant Ru...1own tnc. dIbIa \n26  The Fish Hopper Restaurant {\"Defendant''}discriminatedagainst Charging PartyMasumeh Zanganc:h \n27  and other similarly situated fcmaleemployees.  Specifically, the EEOC Illeged that the women were \n28  subje<:ted to a sexually hostile work environment and that Ms. Zanganeh was retaliated against for \nCoo ...,  1>« ... \nC_'J·ol~n_ UtW (IIRl) \n\nCase 5:03-cv-01522-RMW     Document 74      Filed 11/21/2005     Page 2 of 11\n1  her complaints  about  the  harassment.  The  EEOC  further  alleges  that  Ms.  Zanganeh  was \n2  constructively discharged due 10 retaliation and Defendanl\"s failure 10 rake <;orrec::tive a:;tion in \n3  response 10 her comp\\.aint. \n4  The Fish Ho~r denies the EEOC's and Ms. Zanganeh's allegations.  The Fish Hopper \n5  became aware of virtually all of Ms.  Zanganeh's complaints of sexual harassment after she \n6  voluntarily resigned and filed a Charge ofDiscriminatioo with the EEOC.  During her tenure, The \n7  Fish Hopper was aware of only one of her complainlll of sexual harassment, pe~ed by a \n8  coworker, and The Fish Hopper terminated the cmplo}ment of that coworker.  The Fish Hopper \n9  denies that Ms. Zanganeh ever complained to any mem!J.er of management about any of the other \n10  a!iegations of sexual harassment made in this action.  Regarding the eomplainlll oftbe similarly \n11  situated females, The Fish Hopper was aware of only one compbint by one claimant and took \n12  appropriate correclive action immediately after becoming awareofthe complaint. The Fish Hopper \n13  denies that any of the remaining claimants reported the alleged sexual harusment w thaI il bad \n14  reason to know of the alleged harassment and claims that it is therefore not liable for the alleged \n15  harassmenL \n\" \nu. \n17  JIOON-AD;\\DSSION OF LlABlLITY \n18  This consent decree is not an adjudication or finding on the merits of this case and shall oot \n19  be construed as an admission oCa violation of Title vn by Defendant. \n20  The Court has reviewed the terms nflhis Cooseol Decree in ligbl oft he pleadings, the =nrd \n21  herein, and !he applicable law, and DOW approves the Consenl Dccree in its entirety. \n22  Therefwe, IT IS HEREBY ORDERED, ADJUDGED AND DECREED as follows: \n23 \nm. \n24  GElIoTRAL PROVISIONS \n25  I.  This Court bas jurisdiction over the subject matter and the parties to this action. \n26  2.  This Consent Decree constitutes a full resolution of the EEOC's complaint and the \n\"Zl  Intervener's Amended Complaint in Intervention in Ci\\il Action C-03-01S22- RMW (HRL). \n28  3.  This Consent DecKe shall become effective upon its mtryby the Court.. \nC(l!lSt~1 Deer• •  P.,. -2-\nC-.l-GUn_ RMW (HRLj \n\nCase 5:03-cv-01522-RMW     Document 74      Filed 11/21/2005     Page 3 of 11\n1  4.  This Consent 0ccTee is final.nd binding upon the Parties, their $Uttes5Ol'!i and assigns. \n2  ,. The EEOC and ~fendant shall bear their OWll oosts and l!!Orner fees. \n3 \n,4  IV.  GENERAL INJUNCTIVE RELIEF \nI.  Sexual Hanssll1ent \n6  Defeodanl,  its  officers,  Igenu.  managemall  (including  aU  llUJlaViSOl'y  cmplo)'tts, \n7  SIICCenors and assigns, Ind III those in activc concen or participation with them, or any of them, \n8  hereby IgrCe not to: (I) o:ug-ae in orbe I  party to any action, policy or practice thaI is inleOOed to \n9  or is known to them to have the effect of $eXually harassing Or intimid.ltiJla any employee 011 the \n10  buis of sex ; or (c) en:ale, facilitate or permit the existence nf discrimination on the basis of sex. \n11  2.  Retaliation \n12  Defendant, illl omeen, agents, management (including supervisory cmplo)'I:CS), SllCCesson \n13  or assigns, and all those in active eOllnen or participation  with them, agree not to engage in, \n14  implement or permit any action, policy or plllcticewith the pwpose ofr etaliatins ssainst anyClll'Talt \n15  or former employee of~fendant because he or she complained about sexual barassmenl, filed a \n16  charge of discrimination alleginS any JUCh practi<:e; testified or participated. in any manner in any \n17  investigation (includiDa, without limiutioo, any internal investiptioo UIldoertakm by ~fendant), \n18  proceedi.ngor bearing in COMeCtion with this ease, and/or rel.oDng to any claim ofs exual barusrnmt \n19  or reu.Ji.ation, or; was identified as a possible wimess in this action. \n20 \n21  V.  SPEcmc INJU1'\\'CTIVE RELIEF \n22  In ordertoefTo:;tuatethe objeetivuembodied in thisConseD.t DecMe, wimin thirly(JO)days \n23  after the CDtry of this COIIlIfiI Decree, Defendant shall insure that its policies, procedure and \n24  pr.ctioes include the foUowina: \n2S  I.  Policies \nwi \n26  (i) the policy  include an employ«'s right to complaint n:ganiing sexual harassment and \nXl  maliation; \n28  (ii) the policy will provide specific contact information, with an ~800· phone D\\IJt\\ber, fur \nCo ..o ., Door« \nc·n·11! !l· R1'IW (HRL)  P.~ .J. \n\nCase 5:03-cv-01522-RMW     Document 74      Filed 11/21/2005     Page 4 of 11\n1  compIailllS ofdiscriminatiOil or harassment as Defendant bas done in the past; \n2  (iii) the policy will provide • prompt in\"e~tiptioo .fter •  complaint is made, and for \n3  respooding 10 the request or complaint; \n4  (iv) the policy \"'ill requi~ that promptly upon the condllSion of i15  investigllion of. \n5  complaint, Defendant \"'ill communicate to the eruplo)'t'e the company's decision on the results of \n6  the invt:itigation and the remedial actions taken or proposed if any. \n7  (v) the policy will include. definition ofr etaliation and!troog non-retaliation language with \n8  examples. \n9  2.  Polic,' Dinemh\" tloa: \n10  (I) beginning within 60 days of the enttyofthis decree, Ibe policy, as di5CUS5Cd !Ibo\"e, will \n11  be hand -ddivered 10 elCh and evay nnplo~ ofIXfendanl; and \n12  (ii) the poliq will be posted on.ll companybulletin boanis for the duration oflbe decree. \n13  J. Supervisor AttOuntlblUty Policy: \n14  (i) Defendant agrees  that it shall impose substantial discipline - up 10  and including \n15  termination, suspension without pay or demotion - upon any supervisor or other manager, woo \n16  engages in sexuaillarassment or Mali.1ion or, \",'110 pennil any such conduct 10 occur in his Or her \n17  'NOfk au or among emplo~ WKIer hls or her supervision. \n18  (ii) Supervis<n and !JUNgtn abo shall be xcountable for forwanling complaints ofs exu.al \n19  bll'llSSmenl and/or retaliation 10 the individuals charged with handling such compl.linu pursumtlo \n20  DefeDdant's existing policy. \n21  (iii) Defendanllgrees thaI il will advise all current and new managers and supervisors oft heir \n22  dUlies under these policies; \n23  (iv) DefendantlgretS thaI il will revise its supervisor ~ew pro<:ess, as necessary, 10 ensure \n24  !hilI appropriate communication of IDti~tion policies and appropriale handling of sexual \n25  barassment complaints are included U  III element of the reviews. \n26  4. \nT7  Defendanl shall insure its complainl procedwe designed 10 encounge employees to come \n28  forward with complaints of sexual harassment andIor retaliation. \nCo ••••(  D. ..... \nC4J4 L!U_ RMW (HRL)  P• •e  -4. \n\nCase 5:03-cv-01522-RMW     Document 74      Filed 11/21/2005     Page 5 of 11\n1  All pan of the policy, Defendanl shall provide its employees with convenienl, confidential \n2  and reliable mechanisms for reponing incidenl$ ofsexu.tlltarassmenl and retalialion.  Defendml \n3  shall designale each manager and supcrvi$OT as a contact person with responsibility for responding \n4  to  and/or  turning  cornplainlS o~= to  Hwnan  Resources  or to a  third party  responsible  for \n5  in\\·estigating such CO\\IlpwnlS .. \n6  The complaint procedure shall provide that: (a) complainlS ofd iscrimination or harassment \n7  andlor retaliation will be accepted by Defendant both in writing and orally; (b) the Company will \n8  promptlycommence an investigation after a complaint i, made or recei\\·ed, and for remedial EDon \n9  if any 10 be taken upon conclusion of an investigation; and (c) promptly upon the conclusion of the \n10  investigation of a complaint, Defendant will communicate to the cmp\\o~ the results of the \n11  investigation, including what remed.ialactions ifany have been taken, or are planned. \n12  5_ Training Program \n13  Defendant will presentlo aU ofils C\\lJRnl employees, including management employees and \n14  supervisors, at least two boursofmandatol)'equal employmetllopportunitytraining, once everyyear \n15  for ~ duration of this Consent Decree. The first training shall be beld 011 or before July I, 2006 in \n16  recognitiOIl of the fact that ruch tntining has already been conducled for 2005.  The cost of the \n17  training shall be borne by Defendant \n18  The training described in the proeeding pantgntph shall be in-P=On or inleracti ~·e tra.ining. \n19  accomp.an.ied by materials prepared byexperienced educators and/or in\\·estigata\"5, and shall educate \n20  the employees about the problems of discrimination in the wolkplace.  The purpose of the training \n21  will be 10 give panicipants a thorough understanding of discrimination and hanwment issues, \n22  including but not limiled to theories of liability under Title VII, sources of legal protection for \n23  victims of discrimination and harassment, and the  employer's obligatioll to  take  preventive, \n24  investigative, and remedial action with respect to discriminatiOll andltarassmellt complaints, and to \n25  review company policies (including discipline policies) and practices related 10 discrimination, \n26  harassment and retaHatioll_  The training will further inform each participant that he or she is \nXl  responsible fur knowill8 and complying with the  contents of D:fendanl', equal employmellt \n28  cppommity policy. \nCo ...! >! 0«. .. \nC·U_IISII_ RMW (HRL) \n\nCase 5:03-cv-01522-RMW     Document 74      Filed 11/21/2005     Page 6 of 11\n1  Defendant shall provide 10 the EEOC len (I 0) days in advance of the each training' copy of \n2  the course syllabus lOr the training. \n3  All persons attending each mandatory equal emplo)1lWnt opportunity Imining shill sign an \n4  ackDowledpnentofhis or her attendance _ the trl.ining.1M dale Iha\"eol, and hi$ or herposition ~h \n5  the company. All panicip.mts shall ,Iso be given • quc:stiolWlire through which they will be asked. \n6  tocritiquethe trlining and 10 providesuggestiOD$ to 1mJro,·e future training sessions. Dd\"endantwill \n7  provide a copy of these attendance re<:ords, the completed post-trl.ininll qlK'Stionnains, and the \n8  training materials to the Commission within thiny (30) days of completion oflhc training. \n9  Ii_ Postlllg l .. d other Notices to Employees \n10  Defendant will posta copy ofiU policies reg;uWng sexuallwassment and the botline as \n11  ~ in Section VO) ofchis Consent Decree in clearly visible locations where such DOlicn \n12  generally addressing employee issues are normally and customarily posted. \n13  Each employee mall be asked. to sign an acknowledgment that he or she has reccived and \n14  read the policy. The same acknowledgment shall be required olall newly hired employees, including \n15  all rnaMgcTS and supervi.sono, at the ltart of their empIoymcot. \n16 \n17  VlL  MONETARY RELIEF \n18  Defendant agrees to pay the total sum ofTwo Hundred Thousand Dollars, to be allocated as \n19  detemlined by the Commission to Claimants for their clainu IISSC! forth in this Decree. Within 30 \n20  (thiny) days liter the date of the lod&in& of this Decree with the Court\"anci it being fullyueeutcd, \n21  Defendant shall pay directly to EEOC !be fll\"lit of two equal installment payments, each instaIhneoI \n22  payment set forth in attached hhibit A.  Exhibit A is incorporated herrin by rd\"ermc:e and \"ill be \n23  separately med. with the Court under seal. The 5eCODd installment paymeot shall bcdueon orbefore \n24  90 days after the date of the lodging oflhi! Decree.  Each installment plyment sllall be in the form \n25  of a certified theck:, made payable dirc<:tJy to the individual Claimant and mailed diJutly to the \n26  EEOC  in  care of Linda  Ordonio-Dilwn  It the  EEOC's  San  Francisco  offices  It 3'0 The \nZ7  Embarcadero Street, Suile '00, San Francisco, CA 94105-1260_ \n28  Defendant's payment shall be considemi timelyifi! is postmarl:ed within three days alter \nc\"\". .f tt Otcr« \n\",006_ \nC-tlofl!U_ RMW (HRL) \n\nCase 5:03-cv-01522-RMW     Document 74      Filed 11/21/2005     Page 7 of 11\n1  the due date.  In the event that the EEOC does not receive a payment within five days after the due \n2  date,!be EEOC shall give Defendant written norice of !be alleged default by cmified mai~ and \n3  thereafter Defendant shall have ten days within wIDch to eun: the alleged default  In the e\\'ent \n4  Defendant then makes payment of the amount in default within len days after it receives ootice of \n5  !be alleged default by certified mail, the payment schedule shall remain in effect.  In the event, \n6  . however, that Defendanl fails to make anypaymenl within the aforementioned ten days, EEOC may \n7  at il$ option, move the Court for entry ofj udgment against Defendant in the amount of the unpaid \n8  balance of the Two Hundred Thousand Doll.ar:s settlement amount, plus interest on sueh l1Dp3.id \n9  amount al!be rate of 10% per annum from the date of me defaultooly, less all amounlS previoosly \n10  paid by Defendanl EEOC shall give notice of any such motion for entry ofj udgment to Defendant \n11  and ilS attorneys. Ifjudgmcot is entered against Defiendant on sueh motions, EEOC may enforce and \n12  collect !be judglllCl!l \n13  2.  The amounts above are being paid in complete compromise of all disputed issues, \n14  including Intervener's state law claims, arising OUI of the Complaint and the Amended Complaint \n15  in Intervention filed in this laWl;uil, Civil Action No. C-03..(11~22· RMW (HRL) EEOC v. Rowtown \n16  Inc.,d.h.a. The Fish Hopper Restaurant in the United States DisuictCoun for the Northern Disllict \n17  ofCalifornil. \n18 \n19  VIII. REPORTING \n20  I.  Six months after entry of the Decree and every six months thereafter, Defendant will \n21  submit reports to the Commission summarizing any requests for sexual b.arassment or retaliation \n22  rece;\\'ed by Defendantduring the precedingsix-month period. ~ reports will include the identities \n23  of the complainant(s) and the alleged harasser(s), if any, and a summary of action taken in response \n24  to the request or complainl \n25  2.  Within sixty (60) days of the entry of this Consent Decree, Defendant will send to the \n26  EEOC a copy of the Equal Employment Opportunity Policy. \n27  3. Within lhirty (30) days afteroomplction oft he yearly employee and supervisory trainings \n2B  described in Section V(~) above, Defendant will send the Commission appropriate verification of \nConmlt ~c!ee \nC·U·tISU· RMW (HRL) \n\nCase 5:03-cv-01522-RMW     Document 74      Filed 11/21/2005     Page 8 of 11\n1  its completion ofuaining, and will provide a copy of the records indi<.;atcd in Section V(6). \n2  4.  Defendant shall submit a final repon 10 the EEOC thirty (30) days !xfore!be CollKllt \n3  Decree expireseontaining a statement verifying its compliance with the terms of!be Consent~. \n4 \n5  IX.  RETENTION OF JURISDICfION AJlm \nEXPIRATION OF COi\"iSEl'Io'T DECREE \n6 \nI. The duration of this Consent Decree shall be three (3)years from the date of enay of the \n7 \nDecree, provided that defendant has complied SIIbstantiaUy with the terms of this Consent Decree. \n8 \nDefendant will !x deemed 10 have complied !;Ubstanlially if the Court b.as nOt made any fmding or \n9 \norrlen during the term oft he Consent Decree thal the defendant has failed to comply with any ternl$ \n10 \nof this Consent Decr«. \n11 \n2.  The EEOC shall be entitled to its reasonable costs and attorneys' fees in connection with \n12 \nany civil action to enfo\"'e compliance with the terms and f;onditions of this Consent [)c(:rec. \n13 \n3.  This Coun shall retain jurisdiction o\\·er this matler and !be Parties for !be pW]lOSC of \n14 \nenforcing compliance with !be Consent Decree, including issuing such ord= as may !x requimlto \n\" \neffrouate its pwposes. \n16 \n4.  Ifany provisions of this Consent ~ is found to be unenfo\",eable by a court of \n17 \ncompetent jurisdif;tion, only the spe<:ific provision in question shall be affected and the other \n18 \nenforceable provisions shall remain in full furte and effed. \n19 \n5. Any documents or information required to be submined by Defendant to the EEOC under \n2J) \nthe lernl$ oft his Consent Decr« shall be addressed to Linda Ordonio-Dixon, Trial Attorney, EEoc, \n21 \n350 The Embarcadero Street, Suite 500, San Francisco, California 94102. \n22 \n/I \n23 \n/I \n24 \n/I \n25 \n/I \n26  /I \nZ1  /I \n28  /I \nCou on! D«ftt \nC_13\"'1522_ RMW (HRL) \n\nCase 5:03-cv-01522-RMW     Document 74      Filed 11/21/2005     Page 9 of 11\n1 \n2  '11, \n~D; \nDate<!:  r  . \n3  FRANK UBHAUS \n•  Berliner COOen \nwJ<2r \nGII1_)  -I \n5  Dated:  ~ ~  1',/,,6  ;G \nEILEEN KENNEDY \n6  Berliner Cohen \n7 \nDated: \n8  CHRIS PA  NETT A \nFenlOn Keller \n9 \n10  On behalf of Plaintiff: \n11 \n12 \n13 \nII! \nI. \n15 \n16 \n17 \n18 \n19 \n'\" \n21 \n22 \n23 \n24 \n25 \n26 \nX7 \n28 \nCO ....I  D'~f •• \nC-U-OUll_ P.l>IW (HRL) \n\nCase 5:03-cv-01522-RMW     Document 74      Filed 11/21/2005     Page 10 of 11\n,~~ \nBorll'. • ,t'h\". \n, \n011 bo~ ofDdi:. .d anl: \n,2  \n0 ... \n.fl\"l.\"M''\"K  l/EHAUS \n\"\"\"\" \n• \n, \n0 ....'  \n6 \n7  I,I 'I'S \n• 0 .... 'j \n, \n\"  On behalfofPW:!IIire \nn \n\" \n\" \n\" \n\" \n\" \n\" \n\"''''' \n\"  JONAtHAN T. PECK \nEOryTrialA~.v \n19  UAL EMPLOYM£N \nPORTlJI'>.TIY COM:\\ilSSlON \n20 \n\" \n))atod: \nLn\\'OA ORDOl'.1o.DIXON \n22  Tria! Atloroey \nEQVALEMPLOYMENT \n\" \nOl'I'ORnINITY COMMISSION \n\" \nau behalf of Intt:rv= \n\" \n16  !hIed: \nDORO'IHYcfrow.t:OSiNOO \n27  a-r lMiIlsIti \n16 \n... Lo...... \n~_ \n(' ..3 -1 ..\" . aM ....'  (lIItL)  ~.~ • .f. \n\nCase 5:03-cv-01522-RMW     Document 74      Filed 11/21/2005     Page 11 of 11\n1121/05 /S/ RONALD M. WHYTE",
+      "document_type_other": null,
+      "external_url": null,
+      "ecf_number": "74",
+      "clearinghouse_link": "clearinghouse.net/doc/26890"
+    },
+    {
+      "date": null,
+      "date_is_estimate": false,
+      "date_not_available": false,
+      "description": null,
+      "document_source": null,
+      "document_status": null,
+      "document_type": null,
+      "order_type": null,
+      "citation_paren": null,
+      "cite_1_page": null,
+      "cite_1_reporter": null,
+      "cite_1_vol": null,
+      "cite_2_page": null,
+      "cite_2_reporter": null,
+      "cite_2_vol": null,
+      "cite_3_page": null,
+      "cite_3_reporter": null,
+      "cite_3_vol": null,
+      "citation_status": null,
+      "court": null,
+      "no_title": false,
+      "party_types": [],
+      "per_curium": false,
+      "is_core_document": true,
+      "id": 113298,
+      "file": null,
+      "title": null,
+      "text": null,
+      "document_type_other": null,
+      "external_url": null,
+      "ecf_number": null,
+      "clearinghouse_link": "clearinghouse.net/doc/113298"
+    },
+    {
+      "date": "2003-06-26",
+      "date_is_estimate": false,
+      "date_not_available": false,
+      "description": null,
+      "document_source": null,
+      "document_status": "Coding Complete",
+      "document_type": "Complaint",
+      "order_type": null,
+      "citation_paren": null,
+      "cite_1_page": null,
+      "cite_1_reporter": null,
+      "cite_1_vol": null,
+      "cite_2_page": null,
+      "cite_2_reporter": null,
+      "cite_2_vol": null,
+      "cite_3_page": null,
+      "cite_3_reporter": null,
+      "cite_3_vol": null,
+      "citation_status": "Not applicable",
+      "court": "Northern District of California",
+      "no_title": false,
+      "party_types": [
+        "Plaintiff-Intervenor"
+      ],
+      "per_curium": false,
+      "is_core_document": true,
+      "id": 26886,
+      "file": "https://clearinghouse-umich-production.s3.amazonaws.com/media/doc/26886.pdf",
+      "title": "Complaint in Intervention for Damages and Injunctive Relief",
+      "text": " \n1 Matthew T. Losinski, Esq. (CA Bar No. 177323) \nDorothy K. Chow, Esq. (CA Bar No.  208364) \n2\nLAW OFFICES OF CHOW & LOSINSKI  \n109 Jackson Street, Suite 220 \n3\nHayward, California 94544-1948 \n4 Telephone No.:  (510) 727-9817 \nFacsimile No.:   (510) 582-2334 \n5\n \nAttorneys for Intervenor \n6\nMASUMEH ZANGANEH \n7  \n8 UNITED STATES DISTRICT COURT \n9 NORTHERN DISTRICT OF CALIFORNIA \n10 SAN JOSE DIVISION \n11    \n12 EQUAL EMPLOYMENT OPPORTUNITY)  CIVIL ACTION NO. C0301522 HRL \nCOMMISSION,        ) \n13\n            )  COMPLAINT IN INTERVENTION \n14 Plaintiff,    )  FOR DAMAGES AND INJUNCTIVE \n            )  RELIEF \n15     v        )   \n            )  JURY TRIAL DEMAND \n16\nROWTOWN, INC. D/B/A      )   \n17 THE FISH HOPPER RESTAURANT,         )   \n            ) \n18\nand DOES 1 THROUGH 50,           ) \n                               )   \n19\n      Defendants,    ) \n20             ) \n MASUMEH ZANGANEH, individual,      ) \n21\n            ) \n      Intervenor.    ) \n22\n            ) \n23 -----------------------------------------------------  \n \n24\nIntervenor Masumeh Zanganeh complains and alleges as follows:  \n25\nPARTIES \n26\n  1.    At all material times, Intervenor Masumeh Zanganeh was a resident of the State of \n27\nCalifornia.  The employment contract on which she sues herein was made in and was to be \n28\nCOMPLAINT IN INTERVENTION FOR DAMAGES AND INJUCTIVE RELIEF  \n \n1 \n\n \n1 performed in the State of California.  At all material times, Intervenor Masumeh Zanganeh \n2\nworked for Rowtown, Inc. d/b/a The Fish Hopper Restaurant (hereafter “Defendant” or “Fish \n3\nHopper”) in the State of California. \n4\n  2.    Intervenor Masumeh Zanganeh is informed and believes that defendant Rowtown, Inc. \n5\nd/b/a The Fish Hopper Restaurant is a California corporation with its principal place of business \n6\n7 in the State of California. \n8\n  3.    The true names and capacities of the defendants named herein as Does 1 through 50, \n9\ninclusive, whether individual, corporate, associate, or otherwise, are unknown to Intervenor who \n10\ntherefore sues such defendants by fictitious names under California Code of Civil Procedure \n11\n12 §474.  Intervenor is informed and believes that Doe defendants are California residents.  \n13\nIntervenor will amend this Complaint to show such true names and capacities when they have \n14\nbeen determined.  Each defendant was an agent of the other defendants and ratified the conduct \n15\nof the other defendants. \n16\nJURISDICTION AND VENUE AS TO FIRST CAUSE OF ACTION \n17\n      4.  Jurisdiction of this court is invoked pursuant to 28 U.S.C. Sections 451, 1331, 1337, 1343 \n18\nand 1345. \n19\n      5.  The unlawful employment practices alleged herein were committed in Monterey County, \n20\nwithin the jurisdiction of the United States District Court for the Northern District of California. \n21\nJURISDICTION AND VENUE AS TO REMAINING  \n22\nCAUSES OF ACTION OTHER THAN FIRST CAUSE OF ACTION \n23  \n      6.     This is an action for sexual harassment based on state law pursuant to California \n24\nGovernment Code Section 12940 et seq., and the court should exercise jurisdiction over this \n25\naction pursuant to section 1367 of Title 28 of the United States Code, for the following reasons:  \n26\n(1)  the action for the Title VII federal claim which is alleged in the First Cause of Action of this \n27\nComplaint arises under Title VII of the Civil Rights Act of 1964, 42 U.S.C. Section 2000 et seq.  \n28\nCOMPLAINT IN INTERVENTION FOR DAMAGES AND INJUCTIVE RELIEF  \n \n2 \n\n \n1 and Title I of the Civil Rights Act of 1991, 42 U.S.C. Section 1981(a), and the jurisdiction of the \n2 action is conferred upon the court pursuant to 28 U.S.C. Sections 451, 1331, 1337, 1343 and \n3 1345; (2)  as more clearly appears below, the remaining causes of action based on California \n4 Government Code Section 12940 et seq., and California State Law are so related to the claim in \n5 the action alleged in the First Cause of Action that all Causes of Action form part of the same \n6 case or controversy under Article III of the United States Constitution; (3)  the action for sexual \n7 harassment based on state law pursuant to California Government Code Section 12940 et seq., \n8 and the remaining causes of action, which is based on California State Law neither raise a novel \n9 or complex issue of state law, nor substantially predominate over the federal claim which is \n10 alleged in the First Cause of Action of this Complaint; and 4)  there are no other compelling \n11 reasons for the court to decline jurisdiction over the Second through Tenth (inclusive) causes of \n12 action for sexual harassment based on state law pursuant to California Government Code Section \n13 12940 et seq. and California State Law. \n14       7.     The unlawful employment practices alleged herein were committed in Monterey \n15 County, within the jurisdiction of the United States District Court for the Northern District of \n16 California. \n17 INTRA-DISTRICT ASSIGNMENT \n18         8.      This action is appropriate for assignment to the San Jose division because the unlawful \n19 employment practices alleged were committed in Monterey County, within the jurisdiction of the \n20 United States District Court for the Northern District of California.   \n21 ADMINISTRATIVE PROCEEDINGS \n22       9.  Prior to filing of this action, Ms. Zanganeh filed a charge with the Equal Employment \n23 Opportunity Commission (“EEOC”), the Intervenor in this action. \n24       10.   Ms. Zanganeh concurrently filed with the Equal Employment Opportunity Commission \n25 (EEOC) and the California Department of Fair Employment and Housing (DFEH) a charge of \n26 discrimination in a timely manner and the DFEH issued a right-to-sue letter in conjunction with \n27 a decision to defer its investigation of the charge to the EEOC.   \n28\nCOMPLAINT IN INTERVENTION FOR DAMAGES AND INJUCTIVE RELIEF  \n \n3 \n\n \n1      11.  On April 10, 2003, EEOC filed this lawsuit on behalf of all female employees in \n2 Defendant’s restaurant, including Ms. Zanganeh.  All conditions precedent to the institution of \n3 this lawsuit have been fulfilled. \n4       12.  Ms. Zanganeh hereby files a Motion to Intervene as a Plaintiff under Rule 24(a)(1) of Fed. R. \n5 Civ. P. because, as an “aggrieved person”, she has an unconditional right to intervene in a civil action \n6 brought by the EEOC as provided in 42 U.S.C. Section 2000e-5(f)(1).  \n7 FACTUAL BACKGROUND \n8\n      13.    On or about September 28, 1997, Intervenor Masumeh Zanganeh began employment at \n9\nThe Fish Hopper Restaurant as an AM server and hostess.   \n10\n      14. From the onset of employment, Defendant Doe 1, the executive chief, Defendant Doe 2, \n11\nanother server, Defendant Doe 5, owner, as well the restaurant cooks and bussers, began \n12\n13 subjecting Intervenor Masumeh Zanganeh to a pattern of offensive and unwanted sexual \n14\nbehavior at work, including, but not limited to:  \n15\nA.  Walking up behind Intervenor and giving her a non-concensual shoulder \n16\nmassage;  \n17\n18 B.  Walking up and putting their arms around her; \n19\nC.  Touching Intervenor on her back and shoulders; \n20\nD.  Kissing her forehead and nonconsensual hugs; \n21\nE.  Making statements about Intervonor’s body parts;  \n22\nF.  Continually staring at Intervenor’s buttocks; \n23\n24 G.  Touching Intervenor by purposely bumping into her and bushing up against \n25\nher; \n26\nH.  Whistling at Intervenor when she walked back to the kitchen; \n27\n28\nCOMPLAINT IN INTERVENTION FOR DAMAGES AND INJUCTIVE RELIEF  \n \n4 \n\n \n1 I.  Asking inappropriate questions regarding Intervenor’s sex life such as, “How \n2\nmany times a day does she have sex?”, “How old was she the first time she \n3\nhad sex?”, “Did she moan or did she scream in bed?” and “Did she like it soft  \n4\n      or hard?”; \n5\nJ.  Making lewd sexual statements to Intervenor such as, “If she were my \n6\n7 girlfriend, I would do her five (5) times a day.”,  \n8\nK.  When Intervenor would ask for anything extra for her tickets, the cooks would \n9\nmake statements such as, “What am I going to get for it?” \n10\nL.  The above conduct occurred every time I was scheduled to work between the \n11\n12 months of September 1997 and January 1998.  Defendants’ gradually \n13\nincreased the frequency and the explicitness of the above listed sexual \n14\ncomments and actions.  They even stated unanimously that if they all had it \n15\ntheir way again, they would all choose to lose their virginity to Intervenor.     \n16\n      15.    Since the first week Intervenor was employed, she brought these complaints to the \n17\n18 attention of Defendant Doe 3, manager.  Defendant Doe 3 did nothing to stop the harassment and \n19\ninstead stated to Intervenor that she was getting all the attention because she was pretty.  \n20\nDefendant Doe 3 did nothing to rectify the problems Intervenor complained of nor prevented \n21\nfuture problems from reoccurring.  Instead, management began to retaliate against Intervenor for \n22\ncomplaining by “writing her up” for things she had done a week prior.  Management specifically \n23\n24 targeted Intervenor for “write-ups” and nobody else as another employee who was also late for \n25\nwork was not written up.  Intervenor never encouraged the sexual behavior nor indicated in any \n26\nway that it was welcome.  In fact, Intervenor’s attire was that of a long black skirt.  Since \n27\nmanagement did not do anything to stop the harassment, Intervenor began telling Defendant Doe \n28\nCOMPLAINT IN INTERVENTION FOR DAMAGES AND INJUCTIVE RELIEF  \n \n5 \n\n \n1 1, the executive chef, to stop his harassing behavior.  He just laughed.  When Intervenor told \n2\nDefendant Doe 4, another manager, that she did not feel that she was being treated right, \n3\nDefendant Doe 4 stated to Intervenor that “it is all up to you.”  After that statement by Defendant \n4\nDoe 4, Intervenor knew that the harassment was not going to stop.  \n5\n      16.    On or about January 13, 1998, Intervenor was working the soup station when \n6\n7 Defendant Doe 2 came up from behind her and grabbed her breasts and kissed her cheek.  \n8\nIntervenor was startled and spilled a cup of soup on her hand.  She then turned around and \n9\nscreamed for him to get off her.  Defendant Doe 2 then told Intervenor not to get so emotional.  \n10\nIntervenor looked around and saw that the entire kitchen crew was staring at her because she was \n11\n12 yelling.  Defendant Doe 1 saw the entire incident and did nothing.  Intervenor was left \n13\nembarrassed, angry and humiliated.   \n14\n      17.    Intervenor fought back her tears and went to inform Defendant Doe 3, a manager, of \n15\nwhat had happened.  Intervenor was not able to inform Defendant Doe 3 of what had occurred \n16\nuntil about two hours later.  When Intervenor was finally able to tell Defendant Doe 3 of what \n17\n18 had happened, her response was, “Didn’t we already talk to him about this last time?”  Defendant \n19\nDoe 3 then failed to fully investigate the matter, failed to acknowledge the severe psychological \n20\nreaction to the assault Intervenor had experienced, failed to discipline or warn Defendant Doe 2 \n21\nabout his behavior, and indicated in various ways that Intervenor was responsible for the assault \n22\nand other sexual behavior. \n23\n24       18.    After each report by Intervenor of Defendant Doe 2’s behavior, Intervenor was either \n25\n“written-up” for things she had done a week ago, reassigned to the back tables of the restaurant \n26\nwhere the tips were not nearly as lucrative and management acted in a hostile manner toward \n27\nher.  Another server stated to Intervenor that, “they were probably trying to get her out since she \n28\nCOMPLAINT IN INTERVENTION FOR DAMAGES AND INJUCTIVE RELIEF  \n \n6 \n\n \n1 is a threat to the company.”  Intervenor was forced to quit her employment on or about January \n2\n19, 1998 because of the Fish Hopper’s failure to take immediate or appropriate corrective action \n3\nin response to her complaints of harassment and her complaints of the supervisors’ retaliation in \n4\nbeing written-up unfairly and reassigned to an economically less lucrative assignment.  \n5\n      19.    Several Fish Hopper employees with no need to know were told by Defendant Doe 3, \n6\n7 manager, about the sexual behavior and assault Intervenor had experienced, and that she had \n8\noverreacted.  These communications resulted in further anguish and emotional distress to \n9\nIntervenor. \n10\n      20.  On or about December 31, 1997, Intervenor went to the back of the kitchen to retrieve \n11\n12 some of her belongings.  Defendant Doe 5, owner, was in the back of the kitchen and Intervenor \n13\nstopped to inquire as to how business was fairing.  When he responded that business was “great”, \n14\nIntervenor attempted to give Defendant Doe 5 a “high-five”.  Instead of doing same, Defendant \n15\nDoe 5 wrapped his arms around Intervenor giving her a hug.  Intervenor pulled away from \n16\nDefendant Doe 5 and pushed him off her.   \n17\n18 FIRST CAUSE OF ACTION \n(Sex Discrimination/Sexual Harassment) \n19\n(Title VII) \n \n20\n      21.  The allegations of paragraphs 1 through 20 and 44 are realleged and incorporated herein \n21\nby reference. This cause of action is pleaded against all defendants. \n22\n      22.  This is an action under Title VII of the Civil Rights Act of 1964, 42 U.S.C. Section 2000 \n23\net seq. and Title I of the Civil Rights Act of 1991, 42 U.S.C. Section 1981(a) to correct unlawful \n24\nemployment practices on the basis of sex, retaliation and constructive discharge and to provide \n25\nappropriate relief to Ms. Masumeh Zanganeh (“Intervenor”).  As alleged below, Defendants \n26\nunlawfully subjected Intervenor to sexual harassment and a hostile work environment.  \n27\nIntervenor also alleges that Defendants subjected her to retaliation and constructive discharge  \n28\n \nCOMPLAINT IN INTERVENTION FOR DAMAGES AND INJUCTIVE RELIEF  \n \n7 \n\n \n1 because she engaged in a protected activity. \n2       23.   Intervenor was employed as a server and hostess in Defendant’s restaurant located in the \n3 City of Monterey, California. \n4       24. During her employment, Intervenor had been subjected to sexual harassment from both \n5 her co-workers and her supervisor in the form of statements and inappropriate touching. \n6       25. Intervenor complained repeatedly to the Managers about the conduct of the co-workers \n7 and the supervisor; however the Managers took no corrective action and ignored Intervenor’s \n8 complaints. \n9       26. Further, Defendant Fish Hopper and its Managers subjected Intervenor to adverse \n10 employment actions in retaliation for her opposition to and rejection of the sexual harassment.  \n11       27. Because Intervenor could no longer tolerate the discriminatory conduct toward her, she \n12 voluntarily terminated her employment. \n13       28. The effect of Defendants’ practices complained of above has deprived Intervenor of equal \n14 employment opportunities and otherwise adversely affected her employment status because of \n15 her sex and on account of retaliation and constructive discharge. \n16       29. The unlawful employment practices complained of above were intentional and were done \n17 with malice and/or reckless disregard to the federally protected rights of Intervenor. \n18 SECOND CAUSE OF ACTION \n(Sex Discrimination/Sexual Harassment) \n19\n(Cal. Government Code §12940) \n \n20\n      30.    The allegations of paragraphs 1 through 20, 22 through 29, and 44 are realleged and \n21\nincorporated herein by reference. This cause of action is pleaded against all defendants. \n22\n      31.    Defendant Fish Hopper was at all material times an employer within the meaning of \n23\n24 California Government Code §12926(d) and, as such, barred from discrimination or retaliating in \n25\nemployment decisions on the basis of sex as set forth in California Government code §12940.   \n26\n      32.    Intervenor was at all material times an employee covered by California Government \n27\nCode §12940 prohibiting discrimination or retaliation in employment on the basis of sex. \n28\nCOMPLAINT IN INTERVENTION FOR DAMAGES AND INJUCTIVE RELIEF  \n \n8 \n\n \n1       33.    Defendants and each of them engaged in a pattern and practice of discrimination \n2\nagainst female employees, including Intervenor, on the basis of sex in violation of California \n3\nGovernment Code §12940 by engaging in a course of conduct that included subjecting \n4\nIntervenor to sexual harassment and hostility because of her sex.  This behavior continued until \n5\nIntervenor was constructively terminated. \n6\n7       34.    Further, Doe defendants and each of them, aided and abetted defendant Fish Hopper in \n8\nengaging in illegal discrimination on the basis of sex against female employees, including \n9\nsubjecting Intervenor to sexual harassment and hostility because of her sex, in violation of  \n10\nCalifornia Government Code §12940 (g).  \n11\n12       35.    Intervenor concurrently filed a timely charge of sex discrimination and retaliation with \n13\nthe California Department of Fair Employment & Housing and the United States Equal \n14\nEmployment Opportunity Commission and has received a right-to-sue letter.  Thus, she has \n15\nexhausted her administrative remedies. \n16\n      36.    As a proximate result of defendants’ conduct, Intervenor has suffered and continues to \n17\n18 suffer substantial losses incurred in seeking and performing substitute employment and in \n19\nearnings, and other employment benefits she would have received had defendants not taken such \n20\nadverse employment actions against her. \n21\n      37.    As a proximate result of defendants’ conduct, Intervenor has suffered and continues to \n22\nsuffer embarrassment, anxiety, humiliation, and emotional distress, all to her damage in an \n23\n24 amount according to proof.   \n25\n      38.    Defendants committed the acts alleged herein maliciously, fraudulently, and \n26\noppressively, in bad faith, with the wrongful intention of injuring Intervenor, from an improper \n27\nand evil motive amounting to malice, and in conscious disregard of Intervenor’s rights.  \n28\nCOMPLAINT IN INTERVENTION FOR DAMAGES AND INJUCTIVE RELIEF  \n \n9 \n\n \n1 Intervenor thus is entitled to recover punitive damages from defendants in an amount according \n2\nto proof. \n3\n      39.    As a result of defendants’ discriminatory acts as alleged herein, Intervenor has no plain, \n4\nadequate, or complete remedy at law, and defendants continue to engage in said wrongful \n5\npractices.  Therefore, Intervenor requests: \n6\n7 (a) That she be made whole and afforded all benefits attendant thereto that would have \n8\nbeen afforded Intervenor but for said discrimination; and \n9\n(b) that defendants, their agents, successors, employees, and those acting in concert \n10\nwith them be enjoined permanently from engaging in each of the unlawful practices, \n11\n12 policies, usages and customs set forth herein, and that they be required to develop \n13\nposting policies, grievance procedures, and training regarding sexual harassment. \n14\n     40.    As a result of defendants’ discriminatory acts as alleged herein, Intervenor is entitled to \n15\nreasonable attorney fees and costs of suit as provided by California Government Code §12965 \n16\n(b). \n17\n18 WHEREFORE, Intervenor requests relief as hereinafter provided. \n19\nTHIRD CAUSE OF ACTION \n(Failure to Maintain Environment Free from Harassment) \n20\n(California Government Code §12940 (i)) \n21  \n      41.    The allegations of paragraphs 1 through 20, 22 through 29, 31 through 40 and 44, are \n22\nrealleged and incorporated herein by reference.  This cause of action is pleaded against \n23\n24 Defendant Fish Hopper. \n25\n      42.    Defendants failed to take all reasonable steps to prevent discrimination and harassment \n26\nagainst Intervenor from occurring, and to take immediate and appropriate corrective action to \n27\n28\nCOMPLAINT IN INTERVENTION FOR DAMAGES AND INJUCTIVE RELIEF  \n \n10 \n\n \n1 remedy the harassment, in violation of California Government Code §12940 (i), by engaging in \n2\nthe course of conduct set forth in paragraphs 12 through 18, among other things.   \n3\n      43.    Specifically, defendant Fish Hopper failed to take any disciplinary action against their \n4\nemployees, such as issuing a formal warning, providing counseling, or imposing probation, \n5\nsuspension, or termination.  \n6\n7       44.    Intervenor is informed and believes that defendant Fish Hopper has never had a written \n8\npolicy about sexual harassment, has never conducted any sexual harassment training, and has \n9\nnever posted any sexual harassment policies for its supervisors or employees in a conspicuous \n10\nplace as required by law. \n11\n12               WHEREFORE, Intervenor requests relief as hereinafter provided. \n13\nFOURTH CAUSE OF ACTION \n(Retaliation–California Government Code §12940 (f)) \n14\n \n15       45.    The allegations of paragraphs 1 through 20, 22 through 29, 31 through 40 and 42 \n16\nthrough 44 are realleged and incorporated herein by reference.  This cause of action is pleaded \n17\nagainst all defendants. \n18\n      46.  Defendants and each of them have retaliated against the Intervenor in violation of \n19\nGovernment Code §12940(f), by engaging in a course of retaliatory conduct, including, among \n20\n21 other things, the conduct set forth in paragraphs 12 through 18 above, when she complained \n22\nabout sexual harassment and hostility and conduct based on sex discrimination.  This retaliation \n23\ncontinued until Intervenor’s constructive discharge which was carried out by managers of \n24\ndefendant Fish Hopper and employees acting within the course and scope of their employment. \n25\n26   WHEREFORE, Intervenor requests relief as hereinafter provided. \n27 /// \n \n28\n \nCOMPLAINT IN INTERVENTION FOR DAMAGES AND INJUCTIVE RELIEF  \n \n11 \n\n \n1 FIFTH CAUSE OF ACTION \n(Intentional infliction of Emotional Distress) \n2\n \n      47.  The allegations of paragraphs 1 through 20, 22 through 29, 31 through 40 and 42 through \n3\n4 44 are realleged and incorporated herein by reference.  This cause of action is pleaded against all \n5\ndefendants. \n6\n      48.  The conduct set forth hereinabove was extreme and outrageous and an abuse of the \n7\nauthority and position of defendants and each of them.  Said conduct was intended to cause \n8\n9 severe emotional distress, or was done in a conscious disregard of the probability of causing such \n10 distress.  Said conduct exceeded the inherent risks of employment and was not the sort of \n11\nconduct normally expected to occur in the work place.  Defendants and each of them abused \n12\ntheir position of authority toward Intervenor, and engaged in conduct intended to humiliate \n13\nIntervenor and to convey the message that she was powerless to defend her rights.  Defendant \n14\n15 Fish Hopper abused its authority and directly injured Intervenor by its ratification of its \n16\nemployees’ acts and by its managers’ actions in failing to protect and violating the privacy of \n17\nIntervenor. \n18\n      49.  The foregoing conduct did in fact cause Intervenor to suffer extreme emotional distress.  \n19\nAs a proximate result of said conduct, Intervenor suffered embarrassment, anxiety, humiliation, \n20\n21 and emotional distress, and will continue to suffer emotional distress in the future in an amount \n22\naccording to proof. \n23\n  THEREFORE, Intervenor requests relief as hereinafter provided. \n24\n/// \n25\n \n26 /// \n \n27 /// \n \n28\n \nCOMPLAINT IN INTERVENTION FOR DAMAGES AND INJUCTIVE RELIEF  \n \n12 \n\n \n1 SIXTH CAUSE OF ACTION \n(Invasion of Privacy) \n2\n \n      50.  The allegations of paragraphs 1 through 20, 22 through 29, 31 through 40, 42 through \n3\n4 44, 48 and 49 are realleged and incorporated herein by reference.  This cause of action is pleaded \n5\nagainst all defendants. \n6\n      51.  Defendant Doe 2, without Intervenor’s consent, repeatedly intruded into Intervenor’s \n7\nprivacy by the conduct set forth above. \n8\n9       52.  Defendant Fish Hopper ratified Defendant Doe 2’s conduct invading Intervenor’s \n10 privacy and directly violated Intervenor’s privacy by communicating private information to other \n11\nemployees about Intervenor who had no need to know the information. \n12\n      53.  The intrusions described above were offensive and objectionable to Intervenor and to a \n13\nreasonable person of ordinary sensibilities.  The intrusions were into aspects of Intervenor’s life  \n14\n15 that were private and were entitled to remain private. \n16\n  WHEREFORE, Intervenor requests relief as hereinafter provided. \n17\nSEVENTH CAUSE OF ACTION \n18 (Sexual Battery-Civil Code §1708.5) \n \n19\n      54.  The allegations of paragraphs 1 through 20, 22 through 29, 31 through 40, 42 through \n20\n44, 48, 49 and 51 through 53 are realleged and incorporated herein by reference.  This cause of \n21\naction is pleaded against all defendants. \n22\n      55.  The above conduct by Defendant Doe 2 is a violation of Civil Code §1708.5 in that \n23\n24 Defendant Doe 2 acted with the intent to cause a harmful or offensive contact with an intimate \n25\npart of Intervenor, and a sexually offensive contact with Intervenor directly occurred.  Defendant \n26\nDoe 2’s conduct also caused Intervenor to suffer imminent apprehension of such a contact \n27\n28\nCOMPLAINT IN INTERVENTION FOR DAMAGES AND INJUCTIVE RELIEF  \n \n13 \n\n \n1 occurring.  Defendant Fish Hopper failed to take corrective action and thereby ratified the \n2\nconduct of Defendant Doe 2 and is therefore liable under the doctrine of respondent superior.   \n3\n            WHEREFORE, Intervenor requests relief as hereinafter provied. \n4\nEIGHTH CAUSE OF ACTION \n5\n(Negligent Infliction of Emotional Distress) \n6  \n      56.  The allegations of paragraphs 1 through 20, 22 through 29, 31 through 40, 42 through \n7\n44, 48, 49, 51 through 53 and 55 are realleged and incorporated herein by reference.  This cause \n8\n9 of action is pleaded against all defendants \n10       57.  In carrying out the above conduct, defendants breached a duty owed to Intervenor to \n11\nprovide a workplace free from unfair treatment, discrimination, and retaliation, and abused their \n12\npositions of authority toward her.  Said conduct exceeded the inherent risks of employment and \n13\nwas not the sort of conduct normally expected to occur in the workplace.  The Fish Hopper \n14\n15 violated said duty directly by ratifying the employees’ and managers’ conduct. \n16\n      58. Defendants and each of them knew, or should have known, that said conduct would cause \n17\nIntervenor extreme emotional distress.  As a proximate result of defendants’ negligent conduct, \n18\nIntervenor suffered and will continue to suffer extreme humiliation, embarrassment, mental \n19\nanguish, and emotional distress in an amount according to proof.   \n20\n21 WHEREFORE, Intervenor requests relief as hereinafter provided. \n22\nNINTH CAUSE OF ACTION\n(Breach of Implied-in-Fact Contract)  \n23\n \n24       59. The allegations of paragraphs 1 through 20, 22 through 29, 31 through 40, 42 through 44, \n25\n48, 49, 51 through 53, 55, 57 and 58 are realleged and incorporated herein by reference.  This \n26\ncause of action is pleaded against Defendant Fish Hopper. \n27\n28\nCOMPLAINT IN INTERVENTION FOR DAMAGES AND INJUCTIVE RELIEF  \n \n14 \n\n \n1       60. During the entire course of Intervenor’s employment with the Fish Hopper, an \n2\nemployment agreement existed between Intervenor and the Fish Hopper, which included, but \n3\nwas not limited to, the following terms and conditions:  \n4\n(a) Intervenor would be able to continue her employment with the Fish Hopper \n5\nindefinitely as long as she carried out her duties in a proper and competent manner; \n6\n7 (b) Intervenor would not be denied fair treatment or be compelled to resign for other than \n8\ngood cause; \n9\n(c) the Fish Hopper would not discriminate against Intervenor on the basis of sex or allow \n10\nher to be sexually harassed or retaliated against. \n11\n12       61. This total employment agreement was evidenced by oral representations to Intervenor by \n13\nthe Fish Hopper’s agents and employees, and the parties’ entire course of conduct, including the \n14\nfollowing:  \n15\n(a) There is an established policy within the Fish Hopper known to Intervenor and relied  \n16\non by her, that employees such as Intervenor, who had performed services as good and faithful \n17\n18 employees, would be treated fairly, would not have employment decisions made about them \n19\nwithout good cause, and would not be subjected to discrimination or retaliation; and \n20\n  (b)  Intervenor’s employment history at the Fish Hopper was excellent during the three \n21\nand a half months that she worked there.  She received no indication that her performance was \n22\nlacking and she was initially assigned to economically lucrative tables.; \n23\n24       62.  As a result of the above representations, Intervenor came reasonably to expect and to \n25\nrely on the promise of job security and fair treatment.  Such statements and acts of the Fish \n26\nHopper communicated to Intervenor the idea that she had performed satisfactorily and that job \n27\n28\nCOMPLAINT IN INTERVENTION FOR DAMAGES AND INJUCTIVE RELIEF  \n \n15 \n\n \n1 opportunities would be available.  Intervenor in good faith relied upon these representations and \n2\nbelieved them to be true. \n3\n      63.  Intervenor’s reliance on and belief in and acceptance in good faith of all the assurances, \n4\npromises  \n5\nand representations as listed in paragraphs 59, led Intervenor throughout her employment with \n6\n7 Defendant Fish Hopper to reasonably believe that her employment was secure and that there \n8\nexisted thereby a contract of continuous employment with the Fish Hopper.  As independent \n9\nconsideration for this contract of continuing employment, and as evidence of Intervenor’s \n10\nreliance thereon, in addition to performing her regular duties as an employee of defendant Fish \n11\n12 Hopper, Intervenor gave up and refrained from seeking other employment opportunities. \n13\n      64.  Intervenor undertook and continued employment and duly performed all conditions of \n14\nthe agreement to be performed by her.  Intervenor has at all times been ready, willing, and able \n15\nto perform and has offered to perform all conditions of this agreement to be performed by her. \n16\n      65.  Despite the representations made to Intervenor and the reliance she placed on them, the \n17\n18 Fish Hopper failed to carry out its responsibilities under, and breached the terms of, the \n19\nemployment agreement by, among other things, the following conduct: \n20\n  (a)  By failing to provide Intervenor with a work environment free from harassment, \n21\ndiscrimination and retaliation; \n22\n  (b)  By denying Intervenor fair treatment, a promotion, and work opportunities \n23\n24 comparable to those of other employees; and \n25\n  (c)  By retaliating against and constructively discharging Intervenor when she \n26\ncomplained of unfair treatment. \n27\n28\nCOMPLAINT IN INTERVENTION FOR DAMAGES AND INJUCTIVE RELIEF  \n \n16 \n\n \n1       66.  At all times material hereto, Intervenor performed her job in a satisfactory and \n2\ntrustworthy manner. \n3\n      67.  The Fish Hopper breached the aforementioned total employment agreement by the \n4\nconduct set forth above without regard to or in compliance with the requirements of the aforesaid \n5\nagreement, and for reasons that were pretextual and untrue.  Despite complaints to management \n6\n7 regarding the harassment by all defendants, it was never stopped.  In fact, Intervenor’s \n8\nunwillingness to accept the harassment resulted in increased harassment and other retaliatory \n9\nbehavior. \n10\n  WHEREFORE, Intervenor requests relief as hereinafter provided. \n11\n12 TENTH CAUSE OF ACTION \n(Breach of the Covenant of Good Faith and Fair Dealing) \n13\n \n      68.  The allegations of paragraphs 1 through 20, 22 through 29, 31 through 40, 42 through \n14\n15 44, 48, 49, 51 through 53, 55, 57, 58 and 60 through 67 are realleged and incorporated herein by \n16\nreference.  This cause of actions is pleaded against Defendant Fish Hopper. \n17\n      69.  The aforementioned employment agreement contained an implied covenant of good and \n18\nfair dealing by which the Fish Hopper promised to give full cooperation to Intervenor and her \n19\nperformance under the employment agreement and to refrain from doing any act that would \n20\n21 prevent to impede Intervenor from performing all the conditions of the agreement to be \n22\nperformed by her or any act that would prevent or impede Intervenor’s enjoyment of the fruits of \n23\nsaid agreement.  Specifically, said covenant of good faith and fair dealing required defendants to \n24\nfairly, honestly, and reasonably perform the terms and conditions of said agreement. \n25\n26       70.  Defendant Fish Hopper breached said implied covenant of good faith and fair dealing by \n27 denying Intervenor a work environment free from harassment, discriminations and retaliation.  \n28\nDefendant Fish Hopper further breached said implied covenant of good faith and fair dealing by \nCOMPLAINT IN INTERVENTION FOR DAMAGES AND INJUCTIVE RELIEF  \n \n17 \n\n \n1 denying Intervenor fair treatment, and compelling her resignations.  Such actions were taken at a \n2\ntime when Intervenor was fully capable of and was in fact performing her job in a fully \n3\nsatisfactory manner.  Such actions by Defendant Fish Hopper were not taken because of \n4\nunsatisfactory job performance by Intervenor; they were taken at least in part because of \n5\nIntervenor’s complaints of harassment and retaliation. \n6\n7       71.  Intervenor is informed and believes that defendant Fish Hopper breached its contract \n8\nwith Intervenor without conducting any reasonable investigation concerning its obligations under \n9\nsaid contract, without good or sufficient cause, for reasons extraneous to the contract, and for the \n10\npurpose of frustrating Intervenor’s enjoyment of the benefits of the contract. \n11\n12   WHEREFORE, Intervenor requests relief as hereinafter provide. \n13\nPRAYER FOR RELIEF \n14\n  WHEREFORE, Intervenors request relief as follows: \n15\n  1.  For special and economic damages, including back pay and front pay, for all Causes \n16\nof Action. \n17\n18   2.  For general and noneconomic damages for all Causes of Action except the Ninth and \n19\nTenth; \n20\n  3.  For punitive damages according to proof for all Causes of Action except the Eighth, \n21\nNinth, and Tenth; \n22\n  4.  For prejudgment interest at the prevailing legal rate; \n23\n24   5.  For injunctive relief including requiring defendants to adopt reasonable postings and \n25\nchanges in personnel policies and procedures regarding sexual harassment and retaliations, \n26\nrequiring training about sexual harassment for all employees, for a permanent injunction \n27\nenjoining defendants, their agents, successors, employees, and those acting in concert with them \n28\nCOMPLAINT IN INTERVENTION FOR DAMAGES AND INJUCTIVE RELIEF  \n \n18 \n\n \n1 from engaging in each unlawful practice, policy, usage, and custom set forth hereinabove, and \n2\nfor such other injunctive relief as the Court may deem proper; \n3\n6.  For costs of the suit, including reasonable attorney frees; and \n4\n7.  For such other and further relief as the Court may deem proper. \n5\n6 CERTIFICATION OF INTERESTED ENTITIES OR PERSONS \n  Pursuant to Civil L.R. 3-16, the undersigned certifies that as of this date, other than the \n7\n8 named parties, there is no such interest to report.   \n9\n \n10\nDate: June 17, 2003        LAW OFFICES OF CHOW & LOSINSKI \n11\n          By:_________________________________________ \n12\n                       Matthew T. Losinski, Esq. \n13                        Attorneys for Intervenor \n \n14\n \nJURY DEMANDS \n15\n16   Intervenor demands trial by jury in this action. \n17\nDate: June 17, 2003        LAW OFFICES OF CHOW & LOSINSKI \n18\n                                                 By:_________________________________________ \n19                                  Matthew T. Losinski, Esq. \n                      Attorneys for Intervenor \n20\n \n21\n22\n23\n24\n25\n26\n27\n28\nCOMPLAINT IN INTERVENTION FOR DAMAGES AND INJUCTIVE RELIEF  \n \n19 ",
+      "document_type_other": "",
+      "external_url": "",
+      "ecf_number": "4",
+      "clearinghouse_link": "clearinghouse.net/doc/26886"
+    },
+    {
+      "date": "2003-04-10",
+      "date_is_estimate": false,
+      "date_not_available": false,
+      "description": null,
+      "document_source": null,
+      "document_status": "Coding Complete",
+      "document_type": "Complaint",
+      "order_type": null,
+      "citation_paren": null,
+      "cite_1_page": null,
+      "cite_1_reporter": null,
+      "cite_1_vol": null,
+      "cite_2_page": null,
+      "cite_2_reporter": null,
+      "cite_2_vol": null,
+      "cite_3_page": null,
+      "cite_3_reporter": null,
+      "cite_3_vol": null,
+      "citation_status": "Not applicable",
+      "court": "Northern District of California",
+      "no_title": false,
+      "party_types": [
+        "Plaintiff"
+      ],
+      "per_curium": false,
+      "is_core_document": true,
+      "id": 26885,
+      "file": "https://clearinghouse-umich-production.s3.amazonaws.com/media/doc/26885.pdf",
+      "title": "Complaint",
+      "text": " \n1 WILLIAM R. TAMAYO (CA Bar No. 084965)\nJONATHAN T. PECK (VA Bar No. 12303)\n2 SANYA P. HILL (WA Bar No. 18739)\nEQUAL EMPLOYMENT OPPORTUNITY COMMISSION\n3 San Francisco District Office\n901 Market Street, Suite 500\n4 San Francisco, CA 94103\nTelephone No. (415) 356-5235\n5 Facsimile No. (415) 356-5046\n6 LUCILA G. ROSAS (CA Bar No. 187345)\nEQUAL EMPLOYMENT OPPORTUNITY COMMISSION\n7 San Jose Local Office\n96 North Third Street, Suite 200\n8 San Jose, CA 95112\nTelephone No. (408) 291-6401\n9 Facsimile No. (408) 291-4539\n10 Attorneys for Plaintiff\nEqual Employment Opportunity Commission\n11\n12 UNITED STATES DISTRICT COURT \n13 NORTHERN DISTRICT OF CALIFORNIA\n14 SAN JOSE DIVISION\n)\n15 EQUAL EMPLOYMENT OPPORTUNITY  CIVIL ACTION NO.\n)\nCOMMISSION, \n)\n16\n)\n)\n17 Plaintiff,\n)\nCOMPLAINT\n)\n18 v. Civil Rights\n)\nEmployment Discrimination\n)\n19 ROWTOWN, INC. D/B/A\n)\nTHE FISH HOPPER RESTAURANT, JURY TRIAL DEMAND\n)\n20  \n)\nDefendant.\n)\n21\n)\n)\n22\nNATURE OF THE ACTION\n23\nThis is an action under Title VII of the Civil Rights Act of 1964 and Title I of the Civil\n24\nRights Act of 1991 to correct unlawful employment practices on the basis of sex, retaliation and\n25\nconstructive discharge and to provide appropriate relief to Ms. Masumeh Zanganeh and other \n26\nsimilarly situated female employees of the Defendant.  As alleged below, Defendant unlawfully\n27\nsubjected Ms. Zanganeh and other similarly situated female employees to sexual harassment and\n28\nCOMPLAINT\n1\n\n \n1 a hostile work environment.   Plaintiff also alleges that Defendant subjected Ms. Zanganeh to\n2 retaliation and constructive discharge because she engaged in a protected activity.\n3 JURISDICTION AND VENUE\n4 1. Jurisdiction of this Court is invoked pursuant to 28 U.S.C. §§ 451, 1331, 1337,\n5 1343 and 1345.  This action is authorized and instituted pursuant to Section 706 (f) (1) and (3) of\n6 Title VII of the Civil Rights Act of 1964, as amended (Title VII), 42 U.S.C. §2000e-5 (f) (1) and\n7 (3), and Section 102 of the Civil Rights Act of 1991, 42 U.S.C. §1981(a).\n8 INTRA-DISTRICT ASSIGNMENT\n9 2. This action is appropriate for assignment to the San Jose division because the\n10 unlawful employment practices alleged were committed in Monterey County, within the\n11 jurisdiction of the United States District Court for the Northern District of California.\n12 PARTIES\n13 3. Plaintiff, the Equal Employment Opportunity Commission (the “Commission”), is\n14 the agency of the United States of America charged with the administration, interpretation and\n15 enforcement of Title VII, and is expressly authorized to bring this action by Sections 706 (f) (1)\n16 and (3) of Title VII, 42 U.S.C. §2000e-5 (f) (1) and (3).\n17 4. At all relevant times, Defendant, Rowtown, Inc. D/B/A The Fish Hopper\n18 Restaurant (“Defendant or Fish Hopper”), has continuously been, and is now, a California\n19 business, qualified and doing business in the State of California and the City of Monterey and has\n20 continuously had and does now have at least 15 employees.\n21 5. At all relevant times, Defendant has continuously been an employer engaged in an\n22 industry affecting commerce within the meaning of Sections 701(b), (g) and (h) of Title VII, 42\n23 U.S.C. §§ 2000e(b), (g) and (h).\n24 STATEMENT OF CLAIMS\n25 6. More than thirty days prior to the institution of this lawsuit, Ms. Masumeh\n26 Zanganeh filed a charge with the Commission alleging violations of Title VII by Defendant.  All\n27 conditions precedent to the institution of this lawsuit have been fulfilled.\n28 ///\nCOMPLAINT\n2\n\n \n1 7. Since at least 1997, Defendant has engaged in unlawful employment practices of\n2 sex discrimination in violation of Section 703 (a) (1)  of Title VII, 42 U.S.C. § 2000e-2 (a) (1). \n3 These practices include subjecting Ms. Zanganeh and other similarly situated female employees\n4 of the Defendant to sexual harassment, creating a hostile, abusive, intimidating and\n5 discriminatory work environment, including constructive discharge. \n6 8.   Since at least 1998, Defendant has subjected Ms. Zanganeh to adverse\n7 employment actions in retaliation for her opposition to and rejection of the sexual harassment in\n8 violation of Section 704 (a) of Title VII, 42 U.S.C. Section 2000e-3 (a).  These practices include\n9 retaliatory discipline and constructive discharge.    \n10 9. The effect of the practices complained of above has been to deprive Ms. Zanganeh\n11 and other similarly situated female employees of equal employment opportunities and otherwise\n12 adversely affect their employment status because of their sex and on account of retaliation and\n13 constructive discharge.\n14 10. The unlawful employment practices complained of above were and are\n15 intentional.  \n16 11. The unlawful employment practices complained of above were done with malice\n17 and/or reckless indifference to the federally protected rights of Ms. Zanganeh and other similarly\n18 situated female employees of the Defendant.\n19 PRAYER FOR RELIEF\n20 Wherefore, the Commission respectfully requests that this Court:\n21 A. Grant a permanent injunction enjoining Defendant, their officers, successors,\n22 assigns, and all persons in active concert or participation with it, from engaging in sexual\n23 harassment, retaliation, constructive discharge and any other employment practice which\n24 discriminates on the basis of sex.\n25 B. Order Defendant to carry out policies, practices, and programs which provide\n26 equal employment opportunities for women and those persons who complain about sexual\n27 harassment, and which eradicate the effects of its past and present unlawful employment\n28 practices. \nCOMPLAINT\n3\n\n \n1 C. Order Defendant to make whole Ms. Zanganeh and other similarly situated female\n2 employees by providing appropriate back pay with prejudgment interest, in amounts to be\n3 determined at trial, and other affirmative relief necessary to eradicate the effects of their unlawful\n4 employment practices.\n5 D. Order Defendant to make whole Ms. Zanganeh and other similarly situated female\n6 employees by providing compensation for past and future pecuniary losses resulting from the\n7 unlawful employment practices described above, including but not limited to medical expenses,\n8 with interest, in amounts to be determined at trial.\n9 E. Order Defendant to make whole Ms. Zanganeh and other similarly situated female\n10 employees by providing compensation for past and future non-pecuniary losses caused by the\n11 above unlawful conduct, including pain and suffering, emotional distress, indignity, loss of\n12 enjoyment of life, loss of self-esteem and humiliation, in amounts to be determined at trial.\n13 F. Order Defendant to pay Ms. Zanganeh and other similarly situated female\n14 employees punitive damages for its malicious and reckless conduct described above, in amounts\n15 to be determined at trial.\n16 G. Grant such further relief as the Court deems necessary and proper in the public\n17 interest.\n18 K. Award the Commission its costs of this action.\n19 ///\n20 ///\n21 ///\n22 ///\n23 ///\n24 ///\n25 ///\n26 ///\n27 ///\n28 ///\nCOMPLAINT\n4\n\n \n1 JURY TRIAL DEMAND\n2 The Commission requests a jury trial on all questions of fact raised by its complaint.\n3\n4\n5 Respectfully submitted,\n6\n7 NICHOLAS INZEO \nActing General Counsel\n8\nEQUAL EMPLOYMENT OPPORTUNITY \n9 COMMISSION\nOffice of the General Counsel\n10 Washington, DC 20507\n11\n12  \nDated:          4/9/03                           s/William R. Tamayo                                  \n13 WILLIAM R. TAMAYO\nRegional Attorney\n14\n15\n16 Dated:           4/9/03                             s/Jonathan T. Peck                                       \nJONATHAN T. PECK\n17 Supervisory Trial Attorney\n18\n19 Dated:            4/9/03                       s/Lucila G. Rosas\nLUCILA G. ROSAS\n20 Trial Attorney\n21\n22 EQUAL EMPLOYMENT OPPORTUNITY\nCOMMISSION\n23 San Jose Local Office\n96 North Third Street, Suite 200\n24 San Jose, CA 95112\n25\n26\n27\n28\nCOMPLAINT\n5",
+      "document_type_other": "",
+      "external_url": "",
+      "ecf_number": "1",
+      "clearinghouse_link": "clearinghouse.net/doc/26885"
+    },
+    {
+      "date": "2006-09-29",
+      "date_is_estimate": false,
+      "date_not_available": false,
+      "description": null,
+      "document_source": "PACER [Public Access to Court Electronic Records]",
+      "document_status": "Coding Complete",
+      "document_type": "Docket",
+      "order_type": null,
+      "citation_paren": null,
+      "cite_1_page": null,
+      "cite_1_reporter": null,
+      "cite_1_vol": null,
+      "cite_2_page": null,
+      "cite_2_reporter": null,
+      "cite_2_vol": null,
+      "cite_3_page": null,
+      "cite_3_reporter": null,
+      "cite_3_vol": null,
+      "citation_status": "Not applicable",
+      "court": "Northern District of California",
+      "no_title": false,
+      "party_types": [
+        "Court"
+      ],
+      "per_curium": false,
+      "is_core_document": true,
+      "id": 26884,
+      "file": "https://clearinghouse-umich-production.s3.amazonaws.com/media/doc/26884.pdf",
+      "title": "Docket (PACER)",
+      "text": "CAND-ECF - Docket Report https://ecf.cand.uscourts.gov/cgi-bin/DktRpt.pl?576650472691775-L_3...\nADRMOP, CLOSED, E-Filing, MEDTERM, REFSET-HRL\nU.S. District Court\nCalifornia Northern District (San Jose)\nCIVIL DOCKET FOR CASE #: 5:03-cv-01522-RMW\nEqual Employment Opportunity Commission et al v. Rowtown,  Date Filed: 04/10/2003\nInc.  Date Terminated: 11/21/2005\nAssigned to: Hon. Ronald M. Whyte Jury Demand: Plaintiff\nReferred to: Magistrate Judge Howard R. Lloyd Nature of Suit: 442 Civil Rights: Jobs\nCause: 42:2000e Job Discrimination (Employment) Jurisdiction: U.S. Government Plaintiff\nPlaintiff\nEqual Employment Opportunity  represented by Linda S. Ordonio-Dixon \nCommission Equal Employment Opportunity \nCommission \n350 Embarcadero Street \nSuite 500 \nSan Francisco, CA 94105-1687 \n(415) 625-5654 \nFax: (415) 625-5657 \nEmail: linda.ordonio-dixon@eeoc.gov \nLEAD ATTORNEY \nATTORNEY TO BE NOTICED\nLucila G. Rosas \nU.S. EEOC \n96 North Third Street \nSuite 200 \nSan Jose, CA 95112 \n(408) 291-6401 \nFax: (408) 291-4539 \nEmail: Lucila.Rosas@eeoc.gov \nTERMINATED: 04/04/2005 \nLEAD ATTORNEY \nATTORNEY TO BE NOTICED\nJonathan T. Peck \nU.S. EEOC \n350 Embarcadero Street \nSuite 500 \nSan Francisco, CA 94105-1687 \n415/625-5600 \nFax: 415-625-5657 \nEmail: Jonathan.Peck@eeoc.gov \nATTORNEY TO BE NOTICED\nSanya P. Hill Maxion \nU.S. EEOC \n1 of 9 7/31/2007 11:37 AM\n\nCAND-ECF - Docket Report https://ecf.cand.uscourts.gov/cgi-bin/DktRpt.pl?576650472691775-L_3...\n350 The Embarcadero \nSuite 500 \nSan Francisco, CA 94105-1260 \n415-625-5650 \nFax: 415-625-5657 \nEmail: sanya.hill@eeoc.gov \nATTORNEY TO BE NOTICED\nWilliam Robert Tamayo \nU.S. EEOC \n350 Embarcadero Street \nSuite 500 \nSan Francisco, CA 94105-1687 \n415-625-5645 \nFax: 415-625-5657 \nEmail: william.tamayo@eeoc.gov \nATTORNEY TO BE NOTICED\nPlaintiff\nMasumeh T. Zanganeh represented by Matthew Thomas Losinski \nLaw Offices of Chow & Losinski \n303 W. Joaquin Ave., Suite 200 \nSan Leandro, CA 94577-3666 \n510-895-9099 \nFax: 510-895-9119 \nEmail: chow_losinski@sbcglobal.net \nLEAD ATTORNEY \nATTORNEY TO BE NOTICED\nDorothy K. Chow-Losinski \nLaw Offices of Chow & Losinski \n303 W. Joaquin Avenue, Suite 200 \nSan Leandro, CA 94577 \n(510) 895-9099 \nFax: (510) 895-9119 \nEmail: dorchow@hotmail.com \nATTORNEY TO BE NOTICED\nV.\nDefendant\nRowtown, Inc.  represented by Christine H. Long \nThe Fish Hopper Restaurant Berliner Cohen \nTen Almaden Blvd. Eleventh Floor \nSan Jose, CA 95113-2233 \n408/286-5800 \nFax: 408-998-5388 \nEmail: christine.long@berliner.com \nATTORNEY TO BE NOTICED\n2 of 9 7/31/2007 11:37 AM\n\nCAND-ECF - Docket Report https://ecf.cand.uscourts.gov/cgi-bin/DktRpt.pl?576650472691775-L_3...\nEileen P. Kennedy \nBerliner Cohen \nTen Almaden Boulevard \n11th Floor \nSan Jose, CA 95113 \n408-286-5800 \nFax: 408-998-5388 \nEmail: epk@berliner.com \nATTORNEY TO BE NOTICED\nDate Filed # Docket Text\n04/10/2003 1 COMPLAINT Civil Rights Employment Discrimination; Summons Issued; Fees \nWaived against Rowtown, Inc. (). Filed by Equal Employment Opportunity \nCommission. (cfe, ) Modified on 4/10/2003 (cfe, ). Additional attachment(s) \nadded on 4/15/2003 (cfe, ). (Entered: 04/10/2003)\n04/10/2003 2 ADR SCHEDULING ORDER: Case Management Statement due by 8/5/2003. \nCase Management Conference set for 8/12/2003 at 01:30 PM.. Signed by Judge \nHoward R. Lloyd on 8/22/02. (Attachments: # 1 Standing Order)(cfe, ) (Entered: \n04/10/2003)\n04/10/2003   CASE DESIGNATED for Electronic Filing. (cfe, ) (Entered: 04/10/2003)\n04/10/2003   Summons Issued as to Rowtown, Inc. (cfe, ) (Entered: 04/10/2003)\n06/13/2003 3 ANSWER to Complaint by Rowtown, Inc.. (Kennedy, Eileen) (Entered: \n06/13/2003)\n06/26/2003 4 Intervenor COMPLAINT for Damages and Injunctive Relief (Jury Demand). \nFiled by Masumeh T. Zanganeh. (cfe, ) Additional attachment(s) added on \n7/2/2003 (cfe, ). (Entered: 06/27/2003)\n06/26/2003 5 MOTION to Intervene as a Plaintiff filed by Masumeh T. Zanganeh. Motion \nHearing set for 7/29/2003 10:00 AM. (cfe, ) Additional attachment(s) added on \n7/2/2003 (cfe, ). (Entered: 06/27/2003)\n06/26/2003 6 NOTICE re 5 of Motion to Intervene as a Plaintiff by Masumeh T. Zanganeh. \n(cfe, ) Additional attachment(s) added on 7/2/2003 (cfe, ). (Entered: 06/27/2003)\n06/26/2003 7 Certificate of Interested Entities or Persons by Masumeh T. Zanganeh. (cfe, ) \nAdditional attachment(s) added on 7/2/2003 (cfe, ). (Entered: 06/27/2003)\n06/26/2003 8 AFFIDAVIT re 5 in Support of Motion to Intervene as a Plaintiff by Masumeh T. \nZanganeh. (cfe, ) Additional attachment(s) added on 7/2/2003 (cfe, ). (Entered: \n06/27/2003)\n06/26/2003 9 MEMORANDUM in Support re 5 of Points and Authorities of Motion to \nIntervene as Plaintiff filed by Masumeh T. Zanganeh. (Related document(s)5) \n(cfe, ) Additional attachment(s) added on 7/2/2003 (cfe, ). (Entered: 06/27/2003)\n3 of 9 7/31/2007 11:37 AM\n\nCAND-ECF - Docket Report https://ecf.cand.uscourts.gov/cgi-bin/DktRpt.pl?576650472691775-L_3...\n06/26/2003 10 AFFIDAVIT re 5 of Matthew T. Losinski in Support of Motion to Intervene as a \nPlaintiff by Masumeh T. Zanganeh. (cfe, ) Additional attachment(s) added on \n7/2/2003 (cfe, ). (Entered: 06/27/2003)\n06/26/2003 11 CERTIFICATE/PROOF OF SERVICE by Masumeh T. Zanganeh re 5, 6, 7, 8, 9, \n10, 4 (cfe, ) Additional attachment(s) added on 7/2/2003 (cfe, ). (Entered: \n06/27/2003)\n06/27/2003   Received Order by Masumeh T. Zanganeh. (cfe, ) (Entered: 06/30/2003)\n06/27/2003 12 CERTIFICATE/PROOF OF SERVICE by Masumeh T. Zanganeh (Amended) of \nMotion to Intervene as a Plaintiff (cfe, ) Additional attachment(s) added on \n7/2/2003 (cfe, ). (Entered: 06/30/2003)\n06/27/2003 13 CERTIFICATE/PROOF OF SERVICE by Masumeh T. Zanganeh re [] (cfe, ) \nAdditional attachment(s) added on 7/2/2003 (cfe, ). (Entered: 06/30/2003)\n07/08/2003 14 AFFIDAVIT in Opposition re 5 Declaration of Eileen P. Kennedy filed by \nRowtown, Inc.. (Attachments: # 1 Exhibit A# 2 Exhibit B# 3 Exhibit C# 4\nExhibit D)(Long, Christine) (Entered: 07/08/2003)\n07/08/2003 15 Memorandum in Opposition re 5 Zanganeh's Motion to Intervene filed by \nRowtown, Inc.. (Long, Christine) (Entered: 07/08/2003)\n07/11/2003 16 Consent to Proceed Before a U.S. Magistrate Judge by Rowtown, Inc.. (Kennedy, \nEileen) (Entered: 07/11/2003)\n07/14/2003 17 Declination to Proceed Before a U.S. Magistrate Judge by Equal Employment \nOpportunity Commission. (Rosas, Lucila) (Entered: 07/14/2003)\n07/14/2003 18 Statement of Non-Opposition re 5 filed by Equal Employment Opportunity \nCommission. (Related document(s)5) (Rosas, Lucila) (Entered: 07/14/2003)\n07/14/2003 19 CLERK'S NOTICE of Impending Reassignment to U.S. District Judge (pmc, ) \n(Entered: 07/14/2003)\n07/14/2003   Set/Reset Deadlines:, Set/Reset Hearings: Case Management Statement due by \n8/15/2003. Case Management Conference set for 8/22/2003 at 10:30 AM. before \nJudge Ronald M. Whyte (pmc, ) (Entered: 07/14/2003)\n07/14/2003 20 ORDER REASSIGNING CASE. Case reassigned to Judge Ronald M. Whyte and \nHoward R. Lloyd for all further proceedings. Signed by Executive Committee on \n7/14/03. (lrd, ) Additional attachment(s) added on 7/15/2003 (lrd, ). (Entered: \n07/15/2003)\n07/16/2003 21 CLERK'S NOTICE Continuing Motion Hearing on Zanganeh's Motion to \nIntervene. Motion Hearing set for 8/22/2003 09:00 AM. (jv, ) (Entered: \n07/16/2003)\n08/07/2003 22 Reply to Opposition re 5 filed by Masumeh T. Zanganeh. (Chow, Dorothy) \n(Entered: 08/07/2003)\n08/07/2003 23 DECLARATION in Support re 5 Reply filed by Masumeh T. Zanganeh. (Related \ndocument(s)5) (Chow, Dorothy) (Entered: 08/07/2003)\n08/07/2003 24 MOTION to Intervene Notice of Motion filed by Masumeh T. Zanganeh. Motion \nHearing set for 8/22/2003 09:00 AM. (Chow, Dorothy) (Entered: 08/07/2003)\n4 of 9 7/31/2007 11:37 AM\n\nCAND-ECF - Docket Report https://ecf.cand.uscourts.gov/cgi-bin/DktRpt.pl?576650472691775-L_3...\n08/14/2003 25 NOTICE of need of ADR Phone Conference (Rosas, Lucila) (Entered: \n08/14/2003)\n08/14/2003 26 JOINT CASE MANAGEMENT STATEMENT and Proposed Order filed by \nEqual Employment Opportunity Commission. (Rosas, Lucila) (Entered: \n08/14/2003)\n08/18/2003 27 CLERK'S NOTICE: ADR Phone Conference scheduled for 8/20/03 at 2:30 p.m. \nPlease take note that plaintiff's counsel initiates the call to all parties. (tjs, ) \n(Entered: 08/18/2003)\n08/20/2003   ADR Phone Conference by HAH (tjs, ) (Entered: 08/21/2003)\n08/25/2003 28 Minute Entry: Motion Hearing re 24 held on 8/22/2003 before Ronald M. Whyte. \n(Court Reporter Lee-Anne Shortridge.) (jv, ) (Entered: 08/25/2003)\n08/28/2003   CASE REFERRED to Mediation per docket entry number 28. (af, Court Staff) \n(Entered: 08/28/2003)\n08/29/2003 29 ORDER by Judge Ronald M. Whyte granting 5 Motion to Intervene (rmwlc2) \n(Entered: 08/29/2003)\n09/10/2003 30 ADR Clerks Notice Of Appointment Of Mediator, Debra L. Mellinkoff, dated \n9/10/2003. (af, ) (Entered: 09/10/2003)\n09/12/2003   Pre MED phone conference --Mediator available on 9/17, 9/19, 10/2, and \n10/3/2003. (af, ) (Entered: 09/12/2003)\n09/12/2003 31 NOTICE of Change of Address by Masumeh T. Zanganeh. (Chow, Dorothy) \n(Entered: 09/12/2003)\n09/15/2003   Pre MED phone conference set for 10/2/2003 at 3:00 PM., Mediator's office will \ninitiate the call. (af, ) (Entered: 09/15/2003)\n10/20/2003   Set/Reset Hearings: Mediation Hearing set for 1/29/2004 10:00 AM., at Equal \nEmployment Opportunity Commission, 96 North Third St., Suite 200, San Jose, \nCA. Written statements due by close of business on 1/20/2004. (af, COURT \nSTAFF) (Entered: 10/20/2003)\n10/22/2003 32 NOTICE of Change of Address of Sanya P. Hill Maxion by Equal Employment \nOpportunity Commission. (Rosas, Lucila) (Entered: 10/22/2003)\n12/02/2003 33 Letter from Frank R. Ubhaus dated 12/1/03 requesting to be excused for \nattending mediation. (dhm, COURT STAFF) (Filed on 12/2/2003) (Entered: \n12/04/2003)\n12/02/2003 34 ORDER: Mr. Ubhaus is excused from attending the mediation currently set for \n1/29/04 at 10:00 AM. Signed by Magistrate Judge Wayne Brazil on 12/1/2003. \n(dhm, COURT STAFF) (Filed on 12/2/2003) (Entered: 12/04/2003)\n12/14/2003 35 Proposed Order to Mediate and to Set Further Case Management Conference by \nRowtown, Inc.. (Kennedy, Eileen) (Filed on 12/14/2003) (Entered: 12/14/2003)\n12/19/2003 36 Proposed Order Stipulated Protective Order by Rowtown, Inc.. (Kennedy, \nEileen) (Filed on 12/19/2003) (Entered: 12/19/2003)\n5 of 9 7/31/2007 11:37 AM\n\nCAND-ECF - Docket Report https://ecf.cand.uscourts.gov/cgi-bin/DktRpt.pl?576650472691775-L_3...\n12/31/2003 37 STIPULATED PROTECTIVE ORDER. Signed by Magistrate Judge Howard R. \nLloyd on 12/31/03. (hrllc2) (Filed on 12/31/2003) (Entered: 12/31/2003)\n01/08/2004 38 ORDER to Mediate and to Set a Further Case Management Conference.Case \nManagement Conference set for 2/13/2004 10:30 AM. Signed by Judge Ronald \nM. Whyte on 1/8/04. (jg, Court Staff) (Filed on 1/8/2004) (Entered: 01/08/2004)\n02/05/2004 39 CERTIFICATION OF MEDIATION Session dated 1/31/04; Mediation session \nheld 1/29/04; Second mediation session set for 4/8/04. (cmf, COURT STAFF) \n(Filed on 2/5/2004) (Entered: 02/05/2004)\n02/05/2004   Set/Reset Hearings: Second Mediation Hearing set for 4/8/2004. (cmf, COURT \nSTAFF) (Filed on 2/5/2004) (Entered: 02/05/2004)\n02/05/2004 40 STIPULATION (Joint) To Reset The Further Case Management Conference by \nEqual Employment Opportunity Commission. (Hill, Sanya) (Filed on 2/5/2004) \n(Entered: 02/05/2004)\n02/07/2004 41 AMENDED COMPLAINT in Intervention against Rowtown, Inc.. Filed by \nMasumeh T. Zanganeh. (Chow, Dorothy) (Filed on 2/7/2004) (Entered: \n02/07/2004)\n02/11/2004 42 STIPULATION AND ORDER to Reset the Further Case Management \nConference. Further Case Management Conference is set for 4/23/04 @ 10:30 \nam. Signed by Judge Ronald M. Whyte on 2/11/04. (jg, Court Staff) (Filed on \n2/11/2004) (Entered: 02/11/2004)\n02/27/2004 43 Answer to Amended Complaint 41 in Intervention for Damages and Injunctive \nRelief by Rowtown, Inc.. (Kennedy, Eileen) (Filed on 2/27/2004) (Entered: \n02/27/2004)\n04/16/2004 44 JOINT CASE MANAGEMENT STATEMENT (1st Supplement) and Proposed \nOrder filed by Equal Employment Opportunity Commission. (Hill, Sanya) (Filed \non 4/16/2004) (Entered: 04/16/2004)\n04/26/2004 45 Minute Entry: Initial Case Management Conference held on 4/23/2004 before \nRonald M. Whyte (Date Filed: 4/26/2004). Discovery cutoff by 12/17/2004. Jury \nTrial set for 5/11/2005 01:30 PM. Motion Hearing set for 3/11/2005 09:00 AM. \nPretrial Conference set for 4/21/2005 02:00 PM. Settlement Conference with \nJudge Lloyd.(Court Reporter Not Reported.) (jg, Court Staff) (Date Filed: \n4/26/2004) (Entered: 04/26/2004)\n05/19/2004 46 Proposed Order Further Case Management Order by Equal Employment \nOpportunity Commission. (Hill, Sanya) (Filed on 5/19/2004) (Entered: \n05/19/2004)\n05/27/2004 47 FURTHER CASE MANAGEMENT ORDER: Non-expert discovery due \n12/17/2004; Disclosure of Expert Testimony & Reports due 1/21/2005; \nDisclosure of Rebuttal Expert Witnesses due 2/11/2005; Expert Discovery due \n2/25/2005; Deadline for Filing Dispositive Motions 1/28/2005; Dispositive \nMotion Hearing set for 3/11/2005; Pretrial Statement due 4/15/2005; Pretrial \nConference sent for 4/21/2005 at 2:00 p.m.; Trial set for 5/11/2005 at 1:30 p.m.. \nSigned by Judge Ronald M. Whyte on 5/25/2004. (dhm, COURT STAFF) (Filed \non 5/27/2004) (Entered: 05/27/2004)\n6 of 9 7/31/2007 11:37 AM\n\nCAND-ECF - Docket Report https://ecf.cand.uscourts.gov/cgi-bin/DktRpt.pl?576650472691775-L_3...\n06/29/2004 48 NOTICE of Appearance by Lucila G. Rosas Attorney for Plaintiff (Rosas, Lucila) \n(Filed on 6/29/2004) (Entered: 06/29/2004)\n07/26/2004 49 NOTICE by Masumeh T. Zanganeh Notice of Motion (Chow, Dorothy) (Filed on \n7/26/2004) (Entered: 07/26/2004)\n07/26/2004 50 First MOTION for Protective Order Motion and Memo of Law filed by Masumeh \nT. Zanganeh. Motion Hearing set for 8/20/2004 09:00 AM. (Chow, Dorothy) \n(Filed on 7/26/2004) (Entered: 07/26/2004)\n07/26/2004 51 Declaration in Support filed by Masumeh T. Zanganeh. (Chow, Dorothy) (Filed \non 7/26/2004) (Entered: 07/26/2004)\n07/26/2004 52 Proposed Order by Masumeh T. Zanganeh. (Chow, Dorothy) (Filed on \n7/26/2004) (Entered: 07/26/2004)\n07/26/2004 53 CERTIFICATE OF SERVICE by Masumeh T. Zanganeh Proof of Service\n(Chow, Dorothy) (Filed on 7/26/2004) (Entered: 07/26/2004)\n07/26/2004 54 First MOTION to Shorten Time Application for OST filed by Masumeh T. \nZanganeh. Motion Hearing set for 8/20/2004 09:00 AM. (Chow, Dorothy) (Filed \non 7/26/2004) (Entered: 07/26/2004)\n07/26/2004 55 CERTIFICATE OF SERVICE by Masumeh T. Zanganeh Certificate in Support \nof Application for OST (Chow, Dorothy) (Filed on 7/26/2004) (Entered: \n07/26/2004)\n07/26/2004 56 Proposed Order for Order Shortening Time by Masumeh T. Zanganeh. (Chow, \nDorothy) (Filed on 7/26/2004) (Entered: 07/26/2004)\n07/30/2004 57 ORDER by Magistrate Judge Howard R. Lloyd denying 54 Application to \nShorten Time (hrllc1, ) (Filed on 7/30/2004) (Entered: 07/30/2004)\n08/03/2004 58 Statement of Non-Opposition re 50 Motion for Protective Order filed by Equal \nEmployment Opportunity Commission. (Related document(s)50) (Rosas, Lucila) \n(Filed on 8/3/2004) (Entered: 08/03/2004)\n08/12/2004 59 Memorandum in Opposition re 50 First MOTION for Protective Order Motion \nand Memo of Law filed by Rowtown, Inc.. (Long, Christine) (Filed on 8/12/2004) \n(Entered: 08/12/2004)\n08/12/2004 60 DECLARATION of Christine H. Long in Opposition to 59 Motion for Protective \nOrder filed by Rowtown, Inc.. (Attachments: # 1 Exhibit A - Deposition \nExcerpts)(Related document(s)59) (Long, Christine) (Filed on 8/12/2004) \n(Entered: 08/12/2004)\n08/19/2004 61 REPLY to Response to Motion for Protective Order filed by Masumeh T. \nZanganeh. (Losinski, Matthew) (Filed on 8/19/2004) (Entered: 08/19/2004)\n08/30/2004 62 Letter from Christine Long Requesting Telephonic Appearance. (Long, \nChristine) (Filed on 8/30/2004) (Entered: 08/30/2004)\n08/30/2004 63 ORDER re 62 granting defendant's request to appear telephonically. Signed by \nMagistrate Judge Howard R. Lloyd on 8/30/04. (hrllc1, ) (Filed on 8/30/2004) \n(Entered: 08/30/2004)\n7 of 9 7/31/2007 11:37 AM\n\nCAND-ECF - Docket Report https://ecf.cand.uscourts.gov/cgi-bin/DktRpt.pl?576650472691775-L_3...\n08/31/2004 64 Minute Entry: Motion Hearing held on 8/31/2004 before Magistrate Judge \nHoward R. Lloyd (Date Filed: 8/31/2004). (Tape #FTR.) (pmc, COURT STAFF) \n(Date Filed: 8/31/2004) (Entered: 08/31/2004)\n08/31/2004 65 ORDER by Magistrate Judge Howard R. Lloyd granting in part and denying in \npart 50 Motion for Protective Order (hrllc1, ) (Filed on 8/31/2004) (Entered: \n08/31/2004)\n09/15/2004 66 STIPULATION re 47 Order,, by Equal Employment Opportunity Commission. \n(Rosas, Lucila) (Filed on 9/15/2004) (Entered: 09/15/2004)\n11/03/2004 67 STIPULATION AND ORDER AMENDING CASE MANAGEMENT ORDER. \nJury Trial set for 10/11/2005 01:30 PM. Pretrial Conference set for 9/22/2005 \n02:00 PM. Dispositive Motions Hearing set for 8/12/05 @ 9:00 am. Discovery \ncutoff 5/20/05. Signed by Judge Ronald M. Whyte on 11/3/04. (jg, Court Staff) \n(Filed on 11/3/2004) (Entered: 11/03/2004)\n04/01/2005 68 STIPULATION REQUESTING ORDER CHANGING TIME & PROPOSED \nORDER by Equal Employment Opportunity Commission. (Attachments: # 1\nDeclaration of Ordonio-Dixon)(Ordonio-Dixon, Linda) (Filed on 4/1/2005) \n(Entered: 04/01/2005)\n04/01/2005 69 NOTICE of Change In Counsel by Linda S. Ordonio-Dixon (Ordonio-Dixon, \nLinda) (Filed on 4/1/2005) (Entered: 04/01/2005)\n04/20/2005 70 STIPULATION AND ORDER TO CONTINUE PRETRIAL AND TRIAL \nDEADLINES: Jury Trial set for 1/30/2006 01:30 PM in Courtroom 6, 4th Floor, \nSan Jose. Motion Hearing set for 11/18/2005 09:00 AM in Courtroom 6, 4th \nFloor, San Jose. Pretrial Conference set for 1/12/2006 02:00 PM in Courtroom 6, \n4th Floor, San Jose. Discovery cutoff 8/19/05. Signed by Judge Ronald M. Whyte \non 4/14/05. (jg, Court Staff) (Filed on 4/20/2005) (Entered: 04/20/2005)\n06/17/2005 71 MOTION to Quash or Modify Defendant's Subpoenas filed by Equal \nEmployment Opportunity Commission. Motion Hearing set for 7/26/2005 10:00 \nAM in Courtroom 2, 5th Floor, San Jose. (Attachments: # 1 Points & \nAuthorities# 2 Proposed Order # 3 Affidavit # 4 Exhibit Exhibit 1# 5 Exhibit \nExhibit 2# 6 Exhibit Exhibit 3# 7 Exhibit Exhibit 4# 8 Exhibit Exhibit 5# 9\nExhibit Exhibit 6# 10 Exhibit Exhibit 7# 11 Exhibit Exhibit 8# 12 Exhibit \nExhibit 9)(Ordonio-Dixon, Linda) (Filed on 6/17/2005) (Entered: 06/17/2005)\n07/01/2005 72 Notice of Withdrawal of Motion re 71 Quashing of Defendant's Subpoenas filed \nbyEqual Employment Opportunity Commission. (Ordonio-Dixon, Linda) (Filed \non 7/1/2005) (Entered: 07/01/2005)\n10/14/2005 73 Proposed Order CONSENT DECREE by Equal Employment Opportunity \nCommission. (Attachments: # 1 Exhibit \"A\" (Will be filed w/Clerk under \nseal))(Ordonio-Dixon, Linda) (Filed on 10/14/2005) (Entered: 10/14/2005)\n11/21/2005 74 CONSENT DECREE: ***Civil Case Terminated. Signed by Judge Ronald M. \nWhyte on 11/21/05. (jg, COURT STAFF) (Filed on 11/21/2005) (Entered: \n11/21/2005)\n09/29/2006   FILE located at Federal Records Center (FRC) San Bruno, CA. Accession \nNo:021-06-0082; Location No:746147; Box No:50. (pmc, COURT STAFF) \n(Filed on 9/29/2006) (Entered: 09/29/2006)\n8 of 9 7/31/2007 11:37 AM\n\nCAND-ECF - Docket Report https://ecf.cand.uscourts.gov/cgi-bin/DktRpt.pl?576650472691775-L_3...\nPACER Service Center\nTransaction Receipt\n07/31/2007 09:35:00\nPACER \nhs0328 Client Code: eeoc \nLogin:\nDocket  Search \nDescription: 5:03-cv-01522-RMW\nReport Criteria:\nBillable \n6 Cost: 0.48\nPages:\n9 of 9 7/31/2007 11:37 AM",
+      "document_type_other": null,
+      "external_url": null,
+      "ecf_number": null,
+      "clearinghouse_link": "clearinghouse.net/doc/26884"
+    },
+    {
+      "date": "2004-08-31",
+      "date_is_estimate": false,
+      "date_not_available": false,
+      "description": null,
+      "document_source": "PACER [Public Access to Court Electronic Records]",
+      "document_status": "Coding Complete",
+      "document_type": "Order/Opinion",
+      "order_type": "Non-Decree",
+      "citation_paren": null,
+      "cite_1_page": null,
+      "cite_1_reporter": null,
+      "cite_1_vol": null,
+      "cite_2_page": null,
+      "cite_2_reporter": null,
+      "cite_2_vol": null,
+      "cite_3_page": null,
+      "cite_3_reporter": null,
+      "cite_3_vol": null,
+      "citation_status": "No citation available",
+      "court": "Northern District of California",
+      "no_title": false,
+      "party_types": [
+        "Court"
+      ],
+      "per_curium": false,
+      "is_core_document": true,
+      "id": 26888,
+      "file": "https://clearinghouse-umich-production.s3.amazonaws.com/media/doc/26888.pdf",
+      "title": "Order on Intervenor's Motion for a Protective Order",
+      "text": "Case 5:03-cv-01522-RMW     Document 65      Filed 08/31/2004     Page 1 of 5\n1\n2\n3 E-Filed: 8/31/04\n4\n5\n6\n7 IN THE UNITED STATES DISTRICT COURT\n8\nFOR THE NORTHERN DISTRICT OF CALIFORNIA\n9\nSAN JOSE DIVISION\n10\nEQUAL EMPLOYMENT OPPORTUNITY\n11 COMMISSION, Case No.  C03-01522 RMW (HRL)\nt\nr\nu\no 12 Plaintiff, ORDER ON INTERVENOR'S MOTION\n C ornia FOR A PROTECTIVE ORDER\nct alif 13 MASUMEH ZANGANEH,\ni C\ntr of \n Dis District  14 Plaintiff/Intervenor,    \ntes hern  15 v.\nSta Nort 16 ROWTOWN, INC. D/B/A THE FISH HOPPER\ned  or the  RESTAURANT AND DOES 1-50\nt F 17\ni\nn Defendants.\nU\n18\n                                                                             /\n19\n20 BACKGROUND\n21 Plaintiff Equal Employment Opportunity Commission (EEOC) filed this action against\n22 defendant Rowtown, Inc. on April 10, 2004, alleging that defendant violated of Title VII of the Civil\n23 Rights Acts by subjecting female employees to sexual harassment.  Judge Whyte granted Masumeh\n24 Zanganeh's (intervenor's) motion to intervene in part, allowing her to assert her sexual harassment\n25 claims under Title VII and the California Fair Employment & Housing Act.  Intervenor’s complaint\n26 included an emotional distress claim as well as a claim for front and back pay. \n27 At intervenor’s January 14, 2004 deposition, she identified several doctors and a\n28 therapist with whom she had spoken regarding her emotional distress.  On July 6, 2004, defendant\n\nCase 5:03-cv-01522-RMW     Document 65      Filed 08/31/2004     Page 2 of 5\n1 subpoenaed intervenor's doctors and therapist, seeking all medical and psychological records relating\n2 to intervenor.  Defendant also subpoenaed intervenor’s employers for her employment records. \n3 Intervenor's counsel objected to the subpoenas on July 12, 2004, alleging that they were overbroad\n4 and impinged on private and privileged information.  After the parties were unable to resolve the\n5 dispute, intervenor filed this motion for a protective order on July 27, 2004, over a week after the due\n6 date on the subpoena, but before the documents had been produced.  Basically, she seeks to limit the\n7 scope of the subpoenas.  EEOC filed a statement of non-opposition to intervenor’s motion. \n8 Defendant opposes the motion.  \n9 ANALYSIS\n10 I. Whether Intervenor's Motion is Untimely\n11 Upon “timely motion,” the court may modify a subpoena if it “requires disclosure of privileged\nt\nr\nu\no 12 or other protected material.”  Fed. R. Civ. P. 45(c)(3)(A).  Protective orders are appropriate to limit\nC nia\n  or\nct alif 13 or modify the scope of a subpoena.  In re Coordinated Pretrial Proceedings in Petroleum\ni C\ntr of \n Dis District  14 Products Antitrust Litigation, 669 F.2d 620, 621 (10th Cir. 1982).  In considering the timeliness of\ntes hern  15 a motion for a protective order, courts should “look to all of the circumstances in determining whether\ned Sta or the Nort 16 the motion is timely.” 8 WRIGHT, MILLER, AND MARCUS, FEDERAL PRACTICE AND PROCEDURE §\nt F 17 2035 (2d ed. 2004).  \ni\nn\nU\n18 Here, there appears to be good reason for intervenor’s delay in bringing the motion. \n19 Intervenor’s counsel contacted defense counsel on July 12 and July 16 to inform them of their\n20 objections to the subpoenas, and attempt to resolve the issue.  It was only after the parties were\n21 unable to resolve the matter that intervenor brought the motion for a protective order.   Given that the\n22 slight delay in bringing the motion was due to intervenor’s attempt to meet and confer, as required by\n23 Civ. L. R. 37-1, intervenor’s motion is timely.\n24 II. Whether Intervenor has Demonstrated Good Cause to Warrant a Protective Order\n25 Pursuant to Fed. R. Civ. P. 26(c) a party may move the court for an order “to protect a party\n26 or person from annoyance, embarrassment, oppression, or undue burden or expense.”  Parties may\n27 also request modifications to existing protective orders.  Osband v. Woodford, 290 F.3d 1036, 1039\n28 (9th Cir. 2002).  Courts retain great flexibility in fashioning protective orders, and may enter a\n2\n\nCase 5:03-cv-01522-RMW     Document 65      Filed 08/31/2004     Page 3 of 5\n1 protective order based upon “the necessities of a particular case.”  United States v. Columbia\n2 Broadcasting Systems, Inc., 666 F.2d 364, 369 (9th Cir. 1982).  The party seeking the protective\n3 order bears the burden of showing good cause, demonstrating that “specific prejudice or harm will\n4 result if no protective order is granted.”  Foltz v. State Farm Mut. Auto. Ins. Co., 331 F.3d 1122,\n5 1130 (9th Cir. 2003).  “[B]road allegations of harm, unsubstantiated by specific examples or\n6 articulated reasoning, do not satisfy the Rule 26(c) test.”  Id. at 1130 (quoting Cipollone v. Liggett\n7 Group, Inc., 785 F.2d 1108, 1121 (3d Cir. 1986)).\n8 A. Subpoena Dr. Richards\n9 Intervenor saw Dr. Richards for prenatal care.  “Pure” medical records do not constitute\n10 relevant, discoverable information where a party makes no claim for physical injury in conjunction with\n11 a claim for emotional distress.  See Fitzgerald v. Cassil, 216 F.R.D. 632, 634 (N.D. Cal 2003). \nt\nr\nu\no 12 Here, although intervenor has not stated a claim for physical injury with her emotional distress claim,\nC nia\n  or\nct alif 13 the subpoena requests all of intervenor's records.  Intervenor does state that she asked Dr. Richards to\ni C\ntr of \n Dis District  14 prescribe medication for depression, but she was not prescribed any and was not otherwise treated by\ntes hern  15 Dr. Richards for her emotional distress.  Mot. at 6:4-7.  See also Doe v. City of Chula Vista, 196\nSta Nort 16 F.R.D. 562, 570 (S.D. Cal. 1999) (“[D]efendants have no need to access records relating to the birth\ned  or the \nt F 17 of Doe’s child.”).  \ni\nn\nU\n18 B. Subpoenas to Drs. Burnham and Hopkins\n19 The subpoenas to Drs. Burnham and Hopkins, however, are not overbroad, as intervenor\n20 testified that she only saw those doctors concerning the alleged emotional distress she suffered as a\n21 result of defendant's conduct.  Ex. A to Decl. of C. Long at 40-41, 48-50.   \n22 C. Subpoena to Connie Rodgers, MFT\n23 Where a party makes a claim for emotional distress, psychological records are relevant in\n24 determining the extent of the distress as well as other possible stressors.  See Fitzgerald, 216 F.R.D.\n25 at 634.  The subpoena to Rodgers is appropriate, as intervenor said she began seeing her after the\n26 alleged discrimination occurred, solely for distress related to the claimed harassment.  Ex. A to Decl.\n27 of C. Long at 43-44.  As such, the records are relevant to her claims. \n28 //\n3\n\nCase 5:03-cv-01522-RMW     Document 65      Filed 08/31/2004     Page 4 of 5\n1 D. Subpoena of Employment Records\n2 The court finds that Intervenor has not demonstrated good cause for a protective order limiting\n3 the subpoenas of her employment records to wage information only.  “[N]either personnel records nor\n4 employment agreements are, without more, legitimate categories of confidential information,”\n5 necessitating a protective order.  Pierson v. Indianapolis Power & Light Co., 205 F.R.D. 646, 647\n6 (S.D. Ind. 2002).  Intervenor has provided no specific facts that would demonstrate good cause for a\n7 protective order.  See id. (noting that the parties’ conclusory allegations failed to demonstrate good\n8 cause necessary for a protective order).  \n9 ORDER\n10 Based on the forgoing, IT IS ORDERED THAT:\n11 1)  The subpoena for Dr. Richard's records is quashed.\nt\nr\nu\no 12 2)  The motion is denied as to the subpoenas to Dr. Burnham, Dr. Hopkins, and Connie\nC nia\n  or\nct alif 13 Rodgers, M.F.T. \ni C\ntr of \n Dis District  14 3)  The motion is denied as to the subpoenas to Initiative Media Worldwide, Inc., Manpower\ntes hern  15 Inc., and Applebee's Neighborhood Grill & Bar.  \nSta Nort 16 4)   Intervenor may designate the above-produced material as confidential pursuant to the\ned  or the \nt F 17 existing protective order in this case. \ni\nn\nU\n18 IT IS SO ORDERED.\n19 Dated:  8/31/04        /s/ Howard R. Lloyd                         \nHOWARD R. LLOYD\n20 UNITED STATES MAGISTRATE JUDGE\n21\n22\n23\n24\n25\n26\n27\n28\n4\n\nCase 5:03-cv-01522-RMW     Document 65      Filed 08/31/2004     Page 5 of 5\n1 THIS SHALL CERTIFY THAT A COPY OF THIS ORDER WILL BE SENT TO:\n2 Dorothy Karen Chow     dorchow@hotmail.com, dorchow@hotmail.com\n3 Sanya P. Hill     sanya.hill@eeoc.gov\n4 Eileen P. Kennedy     epk@berliner.com\n5 Christine H. Long     christine.long@berliner.com, cathy.sandifer@berliner.com\n6 Matthew T. Losinski     dorchow@hotmail.com,\n7 Jonathan T. Peck     JPeck@eeoc.gov\n8 Lucila G. Rosas     Lucila.Rosas@eeoc.gov\n9 William Robert Tamayo     william.tamayo@eeoc.gov\n10 * Counsel are responsible for providing copies of this order to co-counsel who have not registered\nunder the Court's ECF system.\n11\nt\nr\nu\no 12 Dated: 8/31/04\nC nia\n  or\nct alif 13                                                                    /s/  KWN                      \ni C\ntr of          Chambers of Magistrate Judge Lloyd\n Dis District  14\ntes hern  15\nSta Nort 16\ned  or the \nt F 17\ni\nn\nU\n18\n19\n20\n21\n22\n23\n24\n25\n26\n27\n28\n5",
+      "document_type_other": null,
+      "external_url": "",
+      "ecf_number": "65",
+      "clearinghouse_link": "clearinghouse.net/doc/26888"
+    },
+    {
+      "date": "2004-02-07",
+      "date_is_estimate": false,
+      "date_not_available": false,
+      "description": null,
+      "document_source": "PACER [Public Access to Court Electronic Records]",
+      "document_status": "Coding Complete",
+      "document_type": "Complaint",
+      "order_type": null,
+      "citation_paren": null,
+      "cite_1_page": null,
+      "cite_1_reporter": null,
+      "cite_1_vol": null,
+      "cite_2_page": null,
+      "cite_2_reporter": null,
+      "cite_2_vol": null,
+      "cite_3_page": null,
+      "cite_3_reporter": null,
+      "cite_3_vol": null,
+      "citation_status": "Not applicable",
+      "court": "Northern District of California",
+      "no_title": false,
+      "party_types": [
+        "Plaintiff-Intervenor"
+      ],
+      "per_curium": false,
+      "is_core_document": true,
+      "id": 26887,
+      "file": "https://clearinghouse-umich-production.s3.amazonaws.com/media/doc/26887.pdf",
+      "title": "Amended Complaint in Intervention for Damages and Injunctive Relief",
+      "text": "Case 5:03-cv-01522-RMW     Document 41      Filed 02/07/2004     Page 1 of 13\n \n1 Matthew T. Losinski, Esq. (CA Bar No. 177323) \nDorothy K. Chow, Esq. (CA Bar No.  208364) \n2\nLAW OFFICES OF CHOW & LOSINSKI  \n303 W. Joaquin Avenue, Suite 200 \n3\nSan Leandro, California 94577-3666 \n4 Telephone No.:  (510) 895-9099 \nFacsimile No.:   (510) 895-9119 \n5  \nAttorneys for Intervenor:  MASUMEH ZANGANEH \n6\n \n \n7\n \n \n8\nUNITED STATES DISTRICT COURT \n9\nNORTHERN DISTRICT OF CALIFORNIA \n10\nSAN JOSE DIVISION \n11\n \n12\nEQUAL EMPLOYMENT OPPORTUNITY  )  CIVIL ACTION NO.  \nCOMMISSION,  )   \n13\n)  C-03-01522 (RMW) HRL  \n                  Plaintiff, \n)   \n14   )   \nMASUMEH ZANGANEH,       )   \n15\n                                                                            )  AMENDED COMPLAINT IN \n                         Plaintiff/Intervenor,  )  INTERVENTION FOR DAMAGES AND \n16\n) \n  INJUNCTIVE RELIEF \n) \n17         v.   \n) \n  )  JURY TRIAL DEMAND\n18\n) \nROWTOWN, INC. D/B/A  \n) \n19 THE FISH HOPPER RESTAURANT,  \n) \n  ) \n20\n    ) \n  ) \n21\n) \n                                  Defendant.                 \n) \n22\n \n23\nIntervenor Masumeh Zanganeh complains and alleges as follows:  \n24\n \nPARTIES \n25\n  1.    At all material times, Intervenor Masumeh Zanganeh was a resident of the State of \n26\n27 California.  At all material times, Intervenor Masumeh Zanganeh worked for Rowtown, Inc.  \n28\n \nAMENDED COMPLAINT IN INTERVENTION FOR DAMAGES AND INJUCTIVE RELIEF  \n \n1 \n\nCase 5:03-cv-01522-RMW     Document 41      Filed 02/07/2004     Page 2 of 13\n \n1 d/b/a The Fish Hopper Restaurant (hereafter “Defendant Fish Hopper”) in the State of California. \n2\n  2.    Intervenor Masumeh Zanganeh is informed and believes that defendant Rowtown, Inc. \n3\nd/b/a The Fish Hopper Restaurant is a California corporation with its principal place of business \n4\nin the State of California. \n5\n \n6\nJURISDICTION AND VENUE AS TO FIRST CAUSE OF ACTION \n7\n      3.  Jurisdiction of this court is invoked pursuant to 28 U.S.C. Sections 451, 1331, 1337, 1343 \n8\nand 1345. \n9\n      4.  The unlawful employment practices alleged herein were committed in Monterey County, \n10\nwithin the jurisdiction of the United States District Court for the Northern District of California. \n11\n \n12 JURISDICTION AND VENUE AS TO REMAINING  \nCAUSES OF ACTION OTHER THAN FIRST CAUSE OF ACTION \n13\n \n      5.     This is an action for sexual harassment based on state law pursuant to California \n14\nGovernment Code Section 12940 et seq., and the court should exercise jurisdiction over this \n15\naction pursuant to section 1367 of Title 28 of the United States Code, for the following reasons:  \n16\n(1)  the action for the Title VII federal claim which is alleged in the First Cause of Action of this \n17\nComplaint arises under Title VII of the Civil Rights Act of 1964, 42 U.S.C. Section 2000 et seq.  \n18\nand Title I of the Civil Rights Act of 1991, 42 U.S.C. Section 1981(a), and the jurisdiction of the \n19\naction is conferred upon the court pursuant to 28 U.S.C. Sections 451, 1331, 1337, 1343 and \n20\n1345; (2)  as more clearly appears below, the remaining causes of action based on California \n21\nGovernment Code Section 12940 et seq., and California State Law are so related to the claim in \n22\nthe action alleged in the First Cause of Action that all Causes of Action form part of the same \n23\ncase or controversy under Article III of the United States Constitution; (3)  the actions for sexual \n24\nharassment based on state law pursuant to California Government Code Section 12940 et seq., \n25\nwhich are based on California State Law neither raise a novel or complex issue of state law, nor \n26\nsubstantially predominate over the federal claim which is alleged in the First Cause of Action of \n27\nthis Complaint; and (4)  there are no other compelling reasons for the court to decline jurisdiction  \n28\n \nAMENDED COMPLAINT IN INTERVENTION FOR DAMAGES AND INJUCTIVE RELIEF  \n \n2 \n\nCase 5:03-cv-01522-RMW     Document 41      Filed 02/07/2004     Page 3 of 13\n \n1 over the Second through Fourth (inclusive) causes of action for sexual harassment based on state  \n2 law pursuant to California Government Code Section 12940 et seq. and California State Law. \n3       6.     The unlawful employment practices alleged herein were committed in Monterey \n4 County, within the jurisdiction of the United States District Court for the Northern District of \n5 California. \n6  \nINTRA-DISTRICT ASSIGNMENT \n7\n        7.      This action is appropriate for assignment to the San Jose division because the unlawful \n8\nemployment practices alleged were committed in Monterey County, within the jurisdiction of the \n9\nUnited States District Court for the Northern District of California.   \n10\n \n11\nADMINISTRATIVE PROCEEDINGS \n12\n      8.  Prior to filing of this action, Ms. Zanganeh filed a charge with the Equal Employment \n13\nOpportunity Commission (“EEOC”), the Intervenor in this action. \n14\n      9.   Ms. Zanganeh concurrently filed with the Equal Employment Opportunity Commission \n15\n(EEOC) and the California Department of Fair Employment and Housing (DFEH) a charge of \n16\ndiscrimination in a timely manner and the DFEH issued a right-to-sue letter in conjunction with \n17\na decision to defer its investigation of the charge to the EEOC.   \n18\n     10. On  April  10,  2003,  EEOC  filed  this  lawsuit  on  behalf  of  all  female  employees  in \n19\nDefendant’s restaurant, including Ms. Zanganeh.  All conditions precedent to the institution of \n20\nthis lawsuit have been fulfilled. \n21\n      11. Ms. Zanganeh hereby files a Motion to Intervene as a Plaintiff under Rule 24(a)(1) of \n22\nFed. R. Civ. P. because, as an “aggrieved person”, she has an unconditional right to intervene in \n23\na civil action brought by the EEOC as provided in 42 U.S.C. Section 2000e-5(f)(1).  \n24\n \nFACTUAL BACKGROUND \n25\n26       12.    On or about September 28, 1997, Intervenor Masumeh Zanganeh began employment at \n27\nThe Fish Hopper Restaurant as an AM server and hostess.   \n28\nAMENDED COMPLAINT IN INTERVENTION FOR DAMAGES AND INJUCTIVE RELIEF  \n \n3 \n\nCase 5:03-cv-01522-RMW     Document 41      Filed 02/07/2004     Page 4 of 13\n \n1       13. From the onset of employment, Dennis Bybee, the executive chef of Defendant Fish \n2\nHopper,  Jimmy  Ugaz,  another  server  at  Defendant  Fish  Hopper,  Chris  Shake,  owner  of \n3\nDefendant Fish Hopper, and/or the restaurant cooks and bussers, began subjecting Intervenor \n4\nMasumeh Zanganeh to a pattern of offensive and unwanted sexual behavior at work, including, \n5\nbut not limited to:  \n6\n7 A.  Walking  up  behind  Intervenor  and  giving  her  non-consensual  shoulder \n8\nmassages;  \n9\nB.  Walking up and putting their arms around her; \n10\nC.  Touching Intervenor on her back and shoulders; \n11\n12 D.  Kissing her forehead; \n13\nE.  Giving Intervenor nonconsensual hugs; \n14\nF.  Making statements about Intervonor’s body parts;  \n15\nG.  Continually staring at Intervenor’s buttocks; \n16\nH.  Slapping Intervenor on her buttocks; \n17\n18 I.  Grabbing Intervenor’s breasts; \n19\nJ.  Touching Intervenor by purposely bumping into her and brushing up against \n20\nher; \n21\nK.  Whistling at Intervenor when she walked back to the kitchen; \n22\nL.  Asking inappropriate questions regarding Intervenor’s sex life such as, “How \n23\n24 many times a day do you have sex?”, “How old were you the first time you \n25\nhad sex?”, “Do you moan or do you scream in bed?” and “Do you like it soft  \n26\n      or hard?”; \n27\n28\nAMENDED COMPLAINT IN INTERVENTION FOR DAMAGES AND INJUCTIVE RELIEF  \n \n4 \n\nCase 5:03-cv-01522-RMW     Document 41      Filed 02/07/2004     Page 5 of 13\n \n1 M. Making  lewd  sexual  statements  to  Intervenor  such  as,  “If  you  were  my \n2\ngirlfriend, I would do you five (5) times a day.”; and \n3\nN.  When Intervenor would ask for anything extra for her tickets, the cooks would \n4\nmake statements such as, “What am I going to get for it?”. \n5\n     14. The  above  conduct  occurred  almost  every  time  Intervenor  was  scheduled  to  work \n6\n7 between the months of September 1997 and January 1998.  Dennis Bybee and Jimmy Ugaz \n8\ngradually increased the frequency and the explicitness of the above listed sexual comments and \n9\nactions.  The kitchen crew even stated unanimously that if they all had it their way again, they \n10\nwould all choose to lose their virginity to Intervenor.     \n11\n12       15.    Since the first week Intervenor was employed, Intervenor was sexually harassed.  \n13\nIntervenor brought these complaints to the attention of, among others, Jeanne David, a manager \n14\nof Defendant Fish Hopper.  Each time Intervenor complained, she was assured by management \n15\nthat “it” would be taken care of.  However, the harassment never ceased and continued to \n16\nworsen.  Despite management’s assurances, Defendant Fish Hopper did nothing to stop the \n17\n18 harassment.  Jeanne David later stated to Intervenor that she was getting all the attention because \n19\nshe was pretty.  Defendant Fish Hopper did nothing to rectify the problems of which Intervenor \n20\ncomplained nor did it prevent future problems from reoccurring.  Instead, management began to \n21\nretaliate against Intervenor for complaining by “writing her up” for things she had done weeks \n22\nprior and assigning Intervenor to economically less lucrative tables.  Management specifically \n23\n24 targeted Intervenor for “write-ups” and failed to “write-up” others similarly situated.  Intervenor \n25\nnever encouraged the sexual behavior nor indicated in any way that it was welcome.  When \n26\nIntervenor told Arlene Shake, another manager of Defendant Fish Hopper, that she did not feel \n27\nthat she was being treated right, Arlene Shake stated to Intervenor, “it’s all up to you”.   \n28\nAMENDED COMPLAINT IN INTERVENTION FOR DAMAGES AND INJUCTIVE RELIEF  \n \n5 \n\nCase 5:03-cv-01522-RMW     Document 41      Filed 02/07/2004     Page 6 of 13\n \n1       16.    On or about January 13, 1998, Intervenor was working the soup station when Jimmy \n2\nUgaz came up from behind her and grabbed her breasts and kissed her cheek.  Intervenor was so \n3\nstartled that she spilled onto her hand the cup of soup she was holding.  Intervenor then screamed \n4\nfor Jimmy Ugaz to get off her.  Jimmy Ugaz then said to Intervenor “don’t get so emotional.”  \n5\nIntervenor looked around and saw that the entire kitchen crew was staring at her because she was \n6\n7 screaming.  Dennis Bybee was present, saw the entire incident and did nothing.  Intervenor was \n8\nleft embarrassed, violated, angry and humiliated.   \n9\n      17.    Intervenor tried to fight back her tears but she could not.  She had been violated in front \n10\nof the entire kitchen staff, Dennis Bybee, as well as others seated nearby.  Intervenor ran to \n11\n12 inform Jeanne David, a manager of Defendant Fish Hopper, of how Jimmy Ugaz grabbed her \n13\nbreasts.      Instead  of  immediately  addressing  the  egregious  conduct  of  Jimmy  Ugaz  and \n14\ninvestigating the matter by questioning those who witnessed the event, Jeanne David dismissed \n15\nthe situation as “just another incident” and instructed Intervenor to resume working.  It was not \n16\nuntil two hours later that Intervenor was able to fully describe to management the battery that \n17\n18 had taken place.  Jeanne David and Defendant Fish Hopper failed to fully investigate the severity \n19\nand continuous nature of this matter throughout the term of Intervenor’s employment with the \n20\nFish  Hopper,  failed  to  acknowledge  the  severe  psychological  reaction  to  the  assaults  and \n21\nbatteries Intervenor had experienced, failed to adequately discipline or warn Dennis Bybee, \n22\nJimmy Ugaz and the other harassers about their behavior, and indicated in various ways that \n23\n24 Intervenor was responsible for the assaults and batteries inflicted upon her and the other sexual \n25\nbehavior.  In addition to the above-mentioned incidents, Intervenor was subjected daily to verbal \n26\nharassment and a hostile work environment.   \n27\n28\nAMENDED COMPLAINT IN INTERVENTION FOR DAMAGES AND INJUCTIVE RELIEF  \n \n6 \n\nCase 5:03-cv-01522-RMW     Document 41      Filed 02/07/2004     Page 7 of 13\n \n1       18.    After reporting the incidents of sexual harassment, Intervenor eventually began to be \n2\nthe  subject  of  retaliation  by  Defendant  Fish  Hopper  and  its  agents  in  the  form  of  being \n3\nunnecessarily “written-up”, reassigned to the back tables of the restaurant where the tips were \n4\nnot nearly as lucrative and being subjected to hostility by management.  Intervenor was forced to \n5\nquit her employment on or about January 19, 1998 because of Defendant Fish Hopper’s failure to \n6\n7 take immediate or appropriate corrective action in response to her numerous complaints of \n8\nharassment and her complaints of Defendant Fish Hoppers’ supervisors’ retaliation in being \n9\nwritten-up unfairly and reassigned to economically less lucrative tables.  \n10\n      19.    Several Fish Hopper employees, who were not involved in the incident, were told by \n11\n12 Jeanne David, manager, about the sexual assaults and batteries inflicted upon Intervenor, and that \n13\nIntervenor had overreacted.  These communications resulted in further anguish and emotional \n14\ndistress to Intervenor. \n15\n      20.  On or about December 31, 1997, Intervenor went to the back of the kitchen.  Chris \n16\nShake, owner of Defendant Fish Hopper, was in the back of the kitchen and Intervenor stopped \n17\n18 to inquire as to how business was faring.  When he responded that business was “great”, \n19\nIntervenor attempted to give Chris Shake a “high-five”.  Instead of doing the same, Chris Shake \n20\nwrapped his arms around Intervenor pressing her breasts against his chest.  Intervenor pulled \n21\naway from Chris Shake and pushed him off her.   \n22\n \n23\nFIRST CAUSE OF ACTION \n24 (Sex Discrimination/Sexual Harassment) \n(Title VII) \n25\n \n26       21.  The allegations of paragraphs 1 through 20 and 45 are realleged and incorporated herein \n27 by reference. This cause of action is pleaded against defendant. \n28\nAMENDED COMPLAINT IN INTERVENTION FOR DAMAGES AND INJUCTIVE RELIEF  \n \n7 \n\nCase 5:03-cv-01522-RMW     Document 41      Filed 02/07/2004     Page 8 of 13\n \n1       22.  This is an action under Title VII of the Civil Rights Act of 1964, 42 U.S.C. Section 2000 \n2 et seq. and Title I of the Civil Rights Act of 1991, 42 U.S.C. Section 1981(a) to correct unlawful \n3 employment practices on the basis of sex, retaliation and constructive discharge and to provide \n4 appropriate relief to Ms. Masumeh Zanganeh (“Intervenor”).  As alleged below, Defendant \n5 unlawfully  subjected  Intervenor  to  sexual  harassment  and  a  hostile  work  environment.  \n6 Intervenor also alleges that Defendant subjected her to retaliation and constructive discharge  \n7 because she engaged in a protected activity. \n8       23.   Intervenor was employed as a server and hostess in Defendant’s restaurant located in the \n9 City of Monterey, California. \n10       24. During her employment, Intervenor had been subjected to sexual harassment from her co-\n11 workers, supervisors and managers in the form of statements and inappropriate touching. \n12       25. Intervenor complained repeatedly to the managers about the conduct of the co-workers, \n13 supervisors  and  managers;  however  Defendant  Fish  Hopper  took  no  corrective  action  and \n14 ignored Intervenor’s complaints. \n15       26. Further,  Defendant  Fish  Hopper  and  its  Managers  subjected  Intervenor  to  adverse \n16 employment actions in retaliation for her opposition to and rejection of the sexual harassment.  \n17       27. Because Intervenor could no longer tolerate the discriminatory conduct toward her, she \n18 was forced to terminate her employment with Defendant Fish Hopper. \n19       28. The effect of Defendant Fish Hopper’s practices complained of above has deprived \n20 Intervenor of equal employment opportunities and otherwise adversely affected her employment \n21 status because of her sex and on account of retaliation and constructive discharge. \n22       29. The unlawful employment practices complained of above were intentional and were done \n23 with malice and/or reckless disregard to the federally protected rights of Intervenor. \n24       30. Said conduct exceeded the inherent risks of employment and was not the sort of conduct \n25 normally expected to occur in the workplace.   \n26 /// \n/// \n27\n/// \n/// \n28\n \nAMENDED COMPLAINT IN INTERVENTION FOR DAMAGES AND INJUCTIVE RELIEF  \n \n8 \n\nCase 5:03-cv-01522-RMW     Document 41      Filed 02/07/2004     Page 9 of 13\n \n1 SECOND CAUSE OF ACTION \n(Sex Discrimination/Sexual Harassment) \n2\n(Cal. Government Code §12940) \n \n3\n      31.    The allegations of paragraphs 1 through 20, 22 through 30, and 45 are realleged and \n4\nincorporated herein by reference. This cause of action is pleaded against defendant. \n5\n      32.    Defendant Fish Hopper was at all material times an employer within the meaning of \n6\n7 California Government Code §12926(d) and, as such, barred from discrimination or retaliating in \n8\nemployment decisions on the basis of sex as set forth in California Government code §12940.   \n9\n      33.    Intervenor was at all material times an employee covered by California Government \n10\nCode §12940 prohibiting discrimination or retaliation in employment on the basis of sex. \n11\n12       34.        Defendant  engaged  in  a  pattern  and  practice  of  discrimination  against  female \n13\nemployees, including Intervenor, on the basis of sex in violation of California Government Code \n14\n§12940  by  engaging  in  a  course  of  conduct  that  included  subjecting  Intervenor  to  sexual \n15\nharassment and hostility because of her sex.  This behavior continued until Intervenor was \n16\nconstructively terminated. \n17\n18       35.    Furthermore, employees, supervisors and managers of Defendant Fish Hopper aided \n19\nand abetted Defendant Fish Hopper in engaging in illegal discrimination on the basis of sex \n20\nagainst female employees, including subjecting Intervenor to sexual harassment and hostility \n21\nbecause of her sex, in violation of California Government Code §12940 (g).  \n22\n      36.    Intervenor concurrently filed a timely charge of sex discrimination and retaliation with \n23\n24 the  California  Department  of  Fair  Employment  &  Housing  and  the  United  States  Equal \n25\nEmployment Opportunity Commission and has received a right-to-sue letter.  Thus, she has \n26\nexhausted her administrative remedies. \n27\n/// \n28\nAMENDED COMPLAINT IN INTERVENTION FOR DAMAGES AND INJUCTIVE RELIEF  \n \n9 \n\nCase 5:03-cv-01522-RMW     Document 41      Filed 02/07/2004     Page 10 of 13\n \n1       37.    As a proximate result of defendant’s conduct, Intervenor has suffered, and continues to \n2\nsuffer,  substantial  losses  incurred  in  seeking  and  performing  substitute  employment  and  in \n3\nearnings, and other employment benefits she would have received had defendant not taken such \n4\nadverse employment actions against her. \n5\n      38.    As a proximate result of defendant’s conduct, Intervenor has suffered, and continues to \n6\n7 suffer, embarrassment, anxiety, humiliation, and emotional distress, all to her damage in an \n8\namount according to proof.   \n9\n      39.        Defendant  committed  the  acts  alleged  herein  maliciously,  fraudulently,  and \n10\noppressively, in bad faith, with the wrongful intention of injuring Intervenor, from an improper \n11\n12 and  evil  motive  amounting  to  malice,  and  in  conscious  disregard  of  Intervenor’s  rights.  \n13\nIntervenor, thus, is entitled to recover punitive damages from defendant in an amount according \n14\nto proof. \n15\n      40.    As a result of defendant’s discriminatory acts as alleged herein, Intervenor has no plain, \n16\nadequate, or complete remedy at law, and defendant continues to engage in said wrongful \n17\n18 practices.  Therefore, Intervenor requests: \n19\n(a) That she be made whole and afforded all benefits attendant thereto that would have \n20\nbeen afforded Intervenor but for said discrimination; and \n21\n(b) that defendant, their agents, successors, employees, and those acting in concert with \n22\nthem  be  enjoined  permanently  from  engaging  in  each  of  the  unlawful  practices, \n23\n24 policies, usages and customs set forth herein, and that they be required to develop \n25\nposting policies, grievance procedures, and training regarding sexual harassment. \n26\n/// \n27 /// \n/// \n28\nAMENDED COMPLAINT IN INTERVENTION FOR DAMAGES AND INJUCTIVE RELIEF  \n \n10 \n\nCase 5:03-cv-01522-RMW     Document 41      Filed 02/07/2004     Page 11 of 13\n \n1      41.    As a result of defendants’ discriminatory acts as alleged herein, Intervenor is entitled to \n2\nreasonable attorney fees and costs of suit as provided by California Government Code §12965 \n3\n(b). \n4\nWHEREFORE, Intervenor requests relief as hereinafter provided. \n5\n6  \nTHIRD CAUSE OF ACTION \n7 (Failure to Maintain Environment Free from Harassment) \n(California Government Code §12940 (i)) \n8\n \n9       42.    The allegations of paragraphs 1 through 20, 22 through 30, 32 through 41, are realleged \n10 and incorporated herein by reference.  This cause of action is pleaded against Defendant Fish \n11\nHopper. \n12\n      43.    Defendant failed to take all reasonable steps to prevent discrimination and harassment \n13\nagainst Intervenor from occurring, and to take immediate and appropriate corrective action to \n14\n15 remedy the harassment, in violation of California Government Code §12940 (i), by engaging in \n16\nthe course of conduct set forth in paragraphs 12 through 20, among other things.   \n17\n      44.    Specifically, Defendant Fish Hopper failed to take adequate disciplinary action against \n18\ntheir employees, supervisors and/or managers, such as issuing a formal warning, providing \n19\ncounseling,  or  imposing  probation,  suspension,  or  termination  upon  the  above  named \n20\n21 transgressors.  \n22\n      45.    Intervenor is informed and believes that defendant Fish Hopper never had a written \n23\npolicy about sexual harassment, never conducted any sexual harassment training, never gave \n24\nIntervenor information regarding sexual harassment and never posted any sexual harassment \n25\n26 policies for its employees, supervisors or managers in a conspicuous place as required by law \n27 during her term of employment.   \n28\n               \nAMENDED COMPLAINT IN INTERVENTION FOR DAMAGES AND INJUCTIVE RELIEF  \n \n11 \n\nCase 5:03-cv-01522-RMW     Document 41      Filed 02/07/2004     Page 12 of 13\n \n1 WHEREFORE, Intervenor requests relief as hereinafter provided. \n2\n \nFOURTH CAUSE OF ACTION \n3\n(Retaliation–California Government Code §12940 (f)) \n4  \n      46.    The allegations of paragraphs 1 through 20, 22 through 30, 32 through 41 and 43 \n5\nthrough 45 are realleged and incorporated herein by reference.  This cause of action is pleaded \n6\n7 against defendant Fish Hopper. \n8\n      47.  Defendant retaliated against Intervenor in violation of Government Code §12940(f), by \n9\nengaging in a course of retaliatory conduct, including, among other things, the conduct set forth \n10\nin paragraphs 12 through 20 above, when she complained about sexual harassment and hostility \n11\n12 and  conduct  based  on  sex  discrimination.    This  retaliation  continued  until  Intervenor’s \n13\nconstructive discharge which was carried out by supervisors and managers of Defendant Fish \n14\nHopper, as well as, employees acting within the course and scope of their employment. \n15\n  WHEREFORE, Intervenor requests relief as hereinafter provided. \n16\n \n17\nPRAYER FOR RELIEF \n18\n  WHEREFORE, Intervenors request relief as follows: \n19\n  1.  For special and economic damages, including back pay and front pay, for all Causes \n20\n21 of Action. \n22\n  2.  For general and noneconomic damages for all Causes of Action; \n23\n  3.  For punitive damages according to proof for all Causes of Action; \n24\n  4.  For prejudgment interest at the prevailing legal rate; \n25\n26   5.  For injunctive relief including requiring defendants to adopt reasonable postings and \n27 changes in personnel policies and procedures regarding sexual harassment and retaliations,  \n28\nAMENDED COMPLAINT IN INTERVENTION FOR DAMAGES AND INJUCTIVE RELIEF  \n \n12 \n\nCase 5:03-cv-01522-RMW     Document 41      Filed 02/07/2004     Page 13 of 13\n \n1 requiring  training  about  sexual  harassment  for  all  employees,  for  a  permanent  injunction \n2\nenjoining defendants, their agents, successors, employees, and those acting in concert with them \n3\nfrom engaging in each unlawful practice, policy, usage, and custom set forth hereinabove, and \n4\nfor such other injunctive relief as the Court may deem proper; \n5\n6.  For costs of the suit, including reasonable attorney fees; and \n6\n7 7.  For such other and further relief as the Court may deem proper. \n8\n \n9 CERTIFICATION OF INTERESTED ENTITIES OR PERSONS \n10   Pursuant to Civil L.R. 3-16, the undersigned certifies that as of this date, other than the \n11 named parties, there is no such interest to report.   \n12\n \n13 Date: February 5, 2004         LAW OFFICES OF CHOW & LOSINSKI \n14\n          By:_________________________________________ \n                             Matthew T. Losinski, Esq. \n15\n                            Attorney for Intervenor \n16  \n \n17\nBy:_________________________________________ \n                                 Dorothy K. Chow, Esq. \n18\n                                Attorney for Intervenor \n19  \n \n20 JURY DEMANDS \n21   Intervenor demands trial by jury in this action. \n22\nDate: February 5, 2004         LAW OFFICES OF CHOW & LOSINSKI \n23\n          By:_________________________________________ \n24\n                             Matthew T. Losinski, Esq. \n                            Attorney for Intervenor \n25  \n \n26\nBy:_________________________________________ \n27                                  Dorothy K. Chow, Esq. \n                                Attorney for Intervenor \n28  \nAMENDED COMPLAINT IN INTERVENTION FOR DAMAGES AND INJUCTIVE RELIEF  \n \n13 ",
+      "document_type_other": null,
+      "external_url": null,
+      "ecf_number": "41",
+      "clearinghouse_link": "clearinghouse.net/doc/26887"
+    }
+  ],
+  "document_count": 8
+}

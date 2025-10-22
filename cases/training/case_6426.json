@@ -1,0 +1,356 @@
+{
+  "case_id": 6426,
+  "fetched_at": "2025-10-22T00:08:34.640813",
+  "case_data": {
+    "attorney_orgs": [
+      "EEOC"
+    ],
+    "available_documents": [
+      "Trial Court Docket"
+    ],
+    "case_defendants": [
+      {
+        "defendant_level": null,
+        "institution": null,
+        "institution_alt_state": null,
+        "institution_city": "",
+        "institution_county": null,
+        "name": "Marriot Ownership Resorts, Inc.",
+        "defendant_level_other": null,
+        "is_active": true
+      },
+      {
+        "defendant_level": null,
+        "institution": null,
+        "institution_alt_state": null,
+        "institution_city": "",
+        "institution_county": null,
+        "name": "Marriott International, Incorporated",
+        "defendant_level_other": null,
+        "is_active": true
+      }
+    ],
+    "case_ongoing": "No",
+    "case_status": "Coding Complete",
+    "case_types": [
+      "Equal Employment"
+    ],
+    "cause_other": "",
+    "causes": [
+      "Title VII (including PDA), 42 U.S.C.  § 2000e"
+    ],
+    "class_action_granted": "Unknown",
+    "class_action_sought": "Unknown",
+    "closing_year": 2008,
+    "constitutional_clause": [],
+    "content_of_injunction": [],
+    "court": "District of Hawaii",
+    "custom_issues": [],
+    "defendant_payment": "",
+    "defendant_type": [],
+    "docket_status": "Complete as of retrieval date",
+    "facility_type": [],
+    "filing_date": "2004-07-14",
+    "filing_year": 2004,
+    "id": 6426,
+    "injunction_duration": "",
+    "issues": [
+      "Discrimination Area: Disparate Treatment",
+      "EEOC-centric: Direct Suit on Merits",
+      "EEOC-centric: Private Party intervened in EEOC suit"
+    ],
+    "last_checked_date": "2007-06-05T00:00:00-04:00",
+    "main_docket": {
+      "id": 36645,
+      "docket_entries": [
+        {
+          "row_number": 6,
+          "id": 1878298,
+          "entry_number": "8",
+          "date_filed": "2004-09-13T00:00:00-04:00",
+          "attachments": [],
+          "url": "nan",
+          "recap_pdf_url": null,
+          "pacer_doc_id": null,
+          "description": "EO: Continued : [Rule 16 Scheduling Conference] from 10/18/2004 09:00:00 AM to 11/08/2004 09:00:00 AM before BMK. Mediation set for 10/13/2004. Lorraine from Sato's office to notify parties. () JUDGE Mag Judge Barry M. Kurren (afc) (Entered: 09/15/2004)"
+        },
+        {
+          "row_number": 10,
+          "id": 1878302,
+          "entry_number": "12",
+          "date_filed": "2005-01-05T00:00:00-05:00",
+          "attachments": [],
+          "url": "nan",
+          "recap_pdf_url": null,
+          "pacer_doc_id": null,
+          "description": "NOTICE OF WITHDRAWAL of lien claimant G. Todd Withy's notice of lien filed December 10, 2004; certificate of service [11-1] (afc) (Entered: 01/06/2005)"
+        },
+        {
+          "row_number": 1,
+          "id": 1878293,
+          "entry_number": "3",
+          "date_filed": "2004-07-14T00:00:00-04:00",
+          "attachments": [],
+          "url": "nan",
+          "recap_pdf_url": null,
+          "pacer_doc_id": null,
+          "description": "SUMMONS issued to \"all named defendants\" (afc) (Entered: 07/15/2004)"
+        },
+        {
+          "row_number": 9,
+          "id": 1878301,
+          "entry_number": "11",
+          "date_filed": "2004-12-10T00:00:00-05:00",
+          "attachments": [],
+          "url": "nan",
+          "recap_pdf_url": null,
+          "pacer_doc_id": null,
+          "description": "NOTICE OF LIEN; certificate of service - [\"...Marnie L. McClain, and G. Todd Withy (\"Lienor\") in her claim against Marriott International, Incorporated...claims a lien against any verdict, decision, decree award, settlement, judgment or final order made rendered in this action....\"] (afc) (Entered: 12/13/2004)"
+        },
+        {
+          "row_number": 5,
+          "id": 1878297,
+          "entry_number": "7",
+          "date_filed": "2004-08-31T00:00:00-04:00",
+          "attachments": [],
+          "url": "nan",
+          "recap_pdf_url": null,
+          "pacer_doc_id": null,
+          "description": "ANSWER by defendant Marriot Owner Resort, defendant Marriott Intl Inc. to complaint [1-1] filed on July 14, 2004; and certificate of service (eps) (Entered: 09/01/2004)"
+        },
+        {
+          "row_number": 2,
+          "id": 1878294,
+          "entry_number": "4",
+          "date_filed": "2004-07-28T00:00:00-04:00",
+          "attachments": [],
+          "url": "nan",
+          "recap_pdf_url": null,
+          "pacer_doc_id": null,
+          "description": "RETURN OF SERVICE - service of complaint and summons executed via mail & by facsimile to defendant Marriot Ownership Resorts, Inc. c/o Mr. Gregory Sato, Topa Financial Center, 700 Bishop Street Fl. 15, Honolulu, HI. 96813; date: 07/27/04 (afc) (Entered: 08/02/2004)"
+        },
+        {
+          "row_number": 3,
+          "id": 1878295,
+          "entry_number": "5",
+          "date_filed": "2004-07-28T00:00:00-04:00",
+          "attachments": [],
+          "url": "nan",
+          "recap_pdf_url": null,
+          "pacer_doc_id": null,
+          "description": "RETURN OF SERVICE - service of complaint and summons executed via mail & by facsimile to defendant Marriot International, Inc. c/o Mr. Gregory Sato, Topa Financial Center, 700 Bishop Street Fl. 15, Honolulu, HI. 96813; date: 07/27/04 (afc) (Entered: 08/02/2004)"
+        },
+        {
+          "row_number": 12,
+          "id": 1878304,
+          "entry_number": "14",
+          "date_filed": "2005-01-18T00:00:00-05:00",
+          "attachments": [],
+          "url": "nan",
+          "recap_pdf_url": null,
+          "pacer_doc_id": null,
+          "description": "EO: Status Conference Re Dismissal set for 01/20/2005 09:00:00 AM before BMK is taken off the calendar per Wilfredo Tungol. Per Tungol, a Consent Decree was signed by DAE. Tungol to notify parties. () JUDGE Mag Judge Barry M. Kurren (afc) (Entered: 01/20/2005)"
+        },
+        {
+          "row_number": 8,
+          "id": 1878300,
+          "entry_number": "10",
+          "date_filed": "2004-11-23T00:00:00-05:00",
+          "attachments": [],
+          "url": "nan",
+          "recap_pdf_url": null,
+          "pacer_doc_id": null,
+          "description": "EO: Case settled per Gregory Sato. Status Conference Re Dismissal set for 1-20-05 @ 9 a.m., BMK. Notified Gregory Sato, Wilfredo Tungol () JUDGE Mag Judge Barry M. Kurren (afc) (Entered: 11/26/2004)"
+        },
+        {
+          "row_number": 11,
+          "id": 1878303,
+          "entry_number": "13",
+          "date_filed": "2005-01-12T00:00:00-05:00",
+          "attachments": [],
+          "url": "nan",
+          "recap_pdf_url": null,
+          "pacer_doc_id": null,
+          "description": "CONSENT DECREE by Judge David A. Ezra - filed by plaintiff [(1) This consent decree shall terminate 3 years from the day of entry by the Court. EEOC reserves the right to petition this Court for an extension of the Decree because of noncomplaince by defendants. If EEOC determines that a defendant has not complied with the consent decree, EEOC will provide written notification of the alleged breach to defendants and will not petition the Court for enforcement sooner than 60 days after providing written notifiction. The 60 day period following written notice shall be used by the parties for good faith efforts to resolve the issue. If EEOC petitions the Court and the Court finds a defendant to be in substantial violation of the terms of the Decree, the Court may provide whatever relief it deems proper. (2) This Court shall retain jurisdiction over this action for the purposes of enforcing the provisions of this Consent Decree. This Consent Decree shall expire by its own terms at the end of 3 years without further action by the parties] (afc) (Entered: 01/17/2005)"
+        },
+        {
+          "row_number": 0,
+          "id": 1878292,
+          "entry_number": "2",
+          "date_filed": "2004-07-14T00:00:00-04:00",
+          "attachments": [],
+          "url": "nan",
+          "recap_pdf_url": null,
+          "pacer_doc_id": null,
+          "description": "ORDER by Judge David A. Ezra rule 16 conference set for 9:00 10/18/04 before Mag Judge Barry M. Kurren (afc) (Entered: 07/15/2004)"
+        },
+        {
+          "row_number": 4,
+          "id": 1878296,
+          "entry_number": "6",
+          "date_filed": "2004-07-28T00:00:00-04:00",
+          "attachments": [],
+          "url": "nan",
+          "recap_pdf_url": null,
+          "pacer_doc_id": null,
+          "description": "STIPULATION to extend time to answer or otherwise plead to complaint filed July 14, 2004 ; ORDER by Judge David A. Ezra [defendants Marriott Ownwership Resorts, Inc., and Marriott International, Incorporated shall have up to and including August 31, 2004 within which to answer or otherwise plead to the complaint] (afc) (Entered: 08/02/2004)"
+        },
+        {
+          "row_number": 7,
+          "id": 1878299,
+          "entry_number": "9",
+          "date_filed": "2004-10-13T00:00:00-04:00",
+          "attachments": [],
+          "url": "nan",
+          "recap_pdf_url": null,
+          "pacer_doc_id": null,
+          "description": "EO: Continued : [Rule 16 Scheduling Conference] from 11/08/2004 09:00:00 AM to 12/07/2004 09:00:00 AM before BMK. Lorraine from Sato's office to notify parties. () JUDGE Mag Judge Barry M. Kurren (afc) (Entered: 10/15/2004)"
+        },
+        {
+          "row_number": 13,
+          "id": 1878305,
+          "entry_number": "15",
+          "date_filed": "2005-01-19T00:00:00-05:00",
+          "attachments": [],
+          "url": "nan",
+          "recap_pdf_url": null,
+          "pacer_doc_id": null,
+          "description": "SUBMISSION by plaintiff of original signatures on page 16 of consent decree [13-1]; certificate of service (afc) (Entered: 01/20/2005)"
+        }
+      ],
+      "docket_case_type": "cv",
+      "docket_year": 2004,
+      "docket_filing_number": 421,
+      "is_main_docket": true,
+      "court": "District of Hawaii",
+      "state": "Hawaii",
+      "docket_office_number": "1",
+      "docket_number_manual": "1:04-cv-00421-DAE-BMK",
+      "scales_html": "https://clearinghouse-umich-production.s3.amazonaws.com/media/docket-html/hid--1-04-cv-00421.html",
+      "recap_link": null,
+      "is_active": true
+    },
+    "name": "EEOC v. MARRIOTT OWNERSHIP RESORTS, INC.",
+    "never_filed": false,
+    "non_docket_case_number": "",
+    "non_docket_case_number_type": null,
+    "non_docket_case_number_type_other": "",
+    "order_end_year": null,
+    "order_start_year": null,
+    "permanent_injunction": false,
+    "plaintiff_description": "Equal Employment Opportunity Commission, on behalf of one or more workers.",
+    "plaintiff_type": [
+      {
+        "value": "Private Plaintiff"
+      },
+      {
+        "value": "EEOC Plaintiff"
+      }
+    ],
+    "prevailing_party": "Plaintiff",
+    "pro_se_status": "No",
+    "public_interest_lawyer": "Yes",
+    "related_cases": [],
+    "relief_natures": [
+      "Unknown"
+    ],
+    "relief_nature_other": "",
+    "relief_sources": [
+      "Settlement"
+    ],
+    "settlement_agreement": [
+      "Court Approved Settlement or Consent Decree"
+    ],
+    "settlement_judgment_date": "2005-01-12",
+    "settlement_judgment_year": null,
+    "special_collections": [
+      "EEOC Study — in sample",
+      "IWPR/Wage Project Consent Decree Study"
+    ],
+    "special_case_type": [],
+    "state": "Hawaii",
+    "summary": "<p>In July 2004, the Honolulu Local Office of the EEOC filed this lawsuit against Marriott Ownership Resort, Inc., doing business as Marriott Vacations Club International, in the U.S. District Court for the District of Hawaii.  We do not have a copy of the complaint; therefore, the exact allegations are unknown.  The parties settled the lawsuit through a consent decree shortly after the defendant filed an answer to the complaint.  We do not have a copy of the consent decree; therefore, the exact remedy involved is unknown.</p><p></p>",
+    "summary_published_date": "2007-11-08T00:00:00-05:00",
+    "summary_short": null,
+    "summary_tiny": null,
+    "terminating_date": "2008-01-12",
+    "clearinghouse_link": "clearinghouse.net/case/6426",
+    "is_active": true,
+    "case_documents_url": "https://clearinghouse.net/api/v2/documents/?case=6426",
+    "case_dockets_url": "https://clearinghouse.net/api/v2/dockets/?case=6426",
+    "case_resources_url": "https://clearinghouse.net/api/v2/resources/?case=6426"
+  },
+  "documents": [
+    {
+      "date": "2005-01-19",
+      "date_is_estimate": false,
+      "date_not_available": false,
+      "description": null,
+      "document_source": "PACER [Public Access to Court Electronic Records]",
+      "document_status": "Coding Complete",
+      "document_type": "Docket",
+      "order_type": null,
+      "citation_paren": null,
+      "cite_1_page": null,
+      "cite_1_reporter": null,
+      "cite_1_vol": null,
+      "cite_2_page": null,
+      "cite_2_reporter": null,
+      "cite_2_vol": null,
+      "cite_3_page": null,
+      "cite_3_reporter": null,
+      "cite_3_vol": null,
+      "citation_status": "Not applicable",
+      "court": "District of Hawaii",
+      "no_title": false,
+      "party_types": [
+        "Court"
+      ],
+      "per_curium": false,
+      "is_core_document": true,
+      "id": 19387,
+      "file": "https://clearinghouse-umich-production.s3.amazonaws.com/media/doc/19387.pdf",
+      "title": "Docket [PACER]",
+      "text": "CM/ECF-DC V3.0.4 (3/07) **LIVE** - Docket Report https://ecf.hid.uscourts.gov/cgi-bin/DktRpt.pl?392856173242753-L_35...\nTERMED\nU.S. District Court\nDistrict of Hawaii - CM/ECF V3.04 (3/07) (Hawaii)\nCIVIL DOCKET FOR CASE #: 1:04-cv-00421-DAE-BMK\nEEOC v. Marriot Owner Resort, et al Date Filed: 07/14/2004\nAssigned to: Judge David Alan Ezra Date Terminated: 01/12/2005\nReferred to: JUDGE BARRY M. KURREN Jury Demand: Plaintiff\nDemand: $0 Nature of Suit: 442 Civil Rights: Jobs\nCause: 42:2000 Job Discrimination (Sex) Jurisdiction: Federal Question\nPlaintiff\nEqual Employment Opportunity  represented by David F. Offen-Brown \nCommission US Equal Employment Opportunity \nCommission \nSan Francisco District Office \n350 The Embarcadero Ste 500 \nSan Francisco, CA 94105-1260 \n415 625-5649 \nFax: 415 625-5657 \nEmail: David.Offen-Brown@eeoc.gov \nLEAD ATTORNEY \nATTORNEY TO BE NOTICED\nWilfredo O. Tungol \nEqual Employment Opportunity \nCommission \nHonolulu Local Office \n300 Ala Moana Blvd Rm 7-127 \nHonolulu, HI 96813 \n541-3121 \nEmail: wilfredo.tungol@eeoc.gov \nLEAD ATTORNEY \nATTORNEY TO BE NOTICED\nWilliam R. Tamayo \nUS Equal Employment Opportunity \nCommission \nSan Francisco District Office \n350 The Embarcadero Ste 500 \nSan Francisco, CA 94105-1260 \n415 625-5651 \nEmail: William.Tamayo@eeoc.gov \nLEAD ATTORNEY \nATTORNEY TO BE NOTICED\nV.\n1 of 4 6/5/2007 8:46 AM\n\nCM/ECF-DC V3.0.4 (3/07) **LIVE** - Docket Report https://ecf.hid.uscourts.gov/cgi-bin/DktRpt.pl?392856173242753-L_35...\nDefendant\nMarriot Ownership Resorts, Inc.  represented by Gregory M. Sato \ndoing business as Torkildson Katz Fonseca Jaffe Moore & \nMarriott Vacations Club International  Hetherington \nTopa Financial Center Bishop St Tower \n700 Bishop St 15th Floor \nHonolulu, HI 96813 \n523-6000 \nLEAD ATTORNEY \nATTORNEY TO BE NOTICED\nSheri-Ann S.L. Lau Clark \nTorkildson Katz Fonseca Jaffe Moore & \nHetherington \nTopa Financial Center Bishop St Tower \n700 Bishop St 15th Floor \nHonolulu, HI 96813 \n523-6000 \nFax: 523-6001 \nEmail: ssl@torkildson.com \nLEAD ATTORNEY \nATTORNEY TO BE NOTICED\nDefendant\nMarriott International, Incorporated represented by Gregory M. Sato \n(See above for address) \nLEAD ATTORNEY \nATTORNEY TO BE NOTICED\nSheri-Ann S.L. Lau Clark \n(See above for address) \nLEAD ATTORNEY \nATTORNEY TO BE NOTICED\nClaimant\nMarnie L. McClain  represented by G. Todd Withy \nTERMINATED: 01/05/2005 Law Office of G Todd Withy \n888 Mililani St Ste 700 \nHonolulu, HI 96813 \n521-2500 \nEmail: Withylawcourt@aol.com \nTERMINATED: 01/05/2005 \nLEAD ATTORNEY \nATTORNEY TO BE NOTICED\nDate Filed # Docket Text\n2 of 4 6/5/2007 8:46 AM\n\nCM/ECF-DC V3.0.4 (3/07) **LIVE** - Docket Report https://ecf.hid.uscourts.gov/cgi-bin/DktRpt.pl?392856173242753-L_35...\n07/14/2004 1 COMPLAINT Civil Rights-Employment Discrimination; Jury Trial Demand \n(afc) (Entered: 07/15/2004)\n07/14/2004 2 ORDER by Judge David A. Ezra rule 16 conference set for 9:00 10/18/04 before \nMag Judge Barry M. Kurren (afc) (Entered: 07/15/2004)\n07/14/2004 3 SUMMONS issued to \"all named defendants\" (afc) (Entered: 07/15/2004)\n07/28/2004 4 RETURN OF SERVICE - service of complaint and summons executed via mail \n& by facsimile to defendant Marriot Ownership Resorts, Inc. c/o Mr. Gregory \nSato, Topa Financial Center, 700 Bishop Street Fl. 15, Honolulu, HI. 96813; \ndate: 07/27/04 (afc) (Entered: 08/02/2004)\n07/28/2004 5 RETURN OF SERVICE - service of complaint and summons executed via mail \n& by facsimile to defendant Marriot International, Inc. c/o Mr. Gregory Sato, \nTopa Financial Center, 700 Bishop Street Fl. 15, Honolulu, HI. 96813; date: \n07/27/04 (afc) (Entered: 08/02/2004)\n07/28/2004 6 STIPULATION to extend time to answer or otherwise plead to complaint filed \nJuly 14, 2004 ; ORDER by Judge David A. Ezra [defendants Marriott \nOwnwership Resorts, Inc., and Marriott International, Incorporated shall have up \nto and including August 31, 2004 within which to answer or otherwise plead to \nthe complaint] (afc) (Entered: 08/02/2004)\n08/31/2004 7 ANSWER by defendant Marriot Owner Resort, defendant Marriott Intl Inc. to \ncomplaint [1-1] filed on July 14, 2004; and certificate of service (eps) (Entered: \n09/01/2004)\n09/13/2004 8 EO: Continued : [Rule 16 Scheduling Conference] from 10/18/2004 09:00:00 \nAM to 11/08/2004 09:00:00 AM before BMK. Mediation set for 10/13/2004. \nLorraine from Sato's office to notify parties. () JUDGE Mag Judge Barry M. \nKurren (afc) (Entered: 09/15/2004)\n10/13/2004 9 EO: Continued : [Rule 16 Scheduling Conference] from 11/08/2004 09:00:00 \nAM to 12/07/2004 09:00:00 AM before BMK. Lorraine from Sato's office to \nnotify parties. () JUDGE Mag Judge Barry M. Kurren (afc) (Entered: \n10/15/2004)\n11/23/2004 10 EO: Case settled per Gregory Sato. Status Conference Re Dismissal set for \n1-20-05 @ 9 a.m., BMK. Notified Gregory Sato, Wilfredo Tungol () JUDGE \nMag Judge Barry M. Kurren (afc) (Entered: 11/26/2004)\n12/10/2004 11 NOTICE OF LIEN; certificate of service - [\"...Marnie L. McClain, and G. Todd \nWithy (\"Lienor\") in her claim against Marriott International, \nIncorporated...claims a lien against any verdict, decision, decree award, \nsettlement, judgment or final order made rendered in this action....\"] (afc) \n(Entered: 12/13/2004)\n01/05/2005 12 NOTICE OF WITHDRAWAL of lien claimant G. Todd Withy's notice of lien \nfiled December 10, 2004; certificate of service [11-1] (afc) (Entered: 01/06/2005)\n01/12/2005 13 CONSENT DECREE by Judge David A. Ezra - filed by plaintiff [(1) This \nconsent decree shall terminate 3 years from the day of entry by the Court. EEOC \nreserves the right to petition this Court for an extension of the Decree because of \nnoncomplaince by defendants. If EEOC determines that a defendant has not \n3 of 4 6/5/2007 8:46 AM\n\nCM/ECF-DC V3.0.4 (3/07) **LIVE** - Docket Report https://ecf.hid.uscourts.gov/cgi-bin/DktRpt.pl?392856173242753-L_35...\ncomplied with the consent decree, EEOC will provide written notification of the \nalleged breach to defendants and will not petition the Court for enforcement \nsooner than 60 days after providing written notifiction. The 60 day period \nfollowing written notice shall be used by the parties for good faith efforts to \nresolve the issue. If EEOC petitions the Court and the Court finds a defendant to \nbe in substantial violation of the terms of the Decree, the Court may provide \nwhatever relief it deems proper. (2) This Court shall retain jurisdiction over this \naction for the purposes of enforcing the provisions of this Consent Decree. This \nConsent Decree shall expire by its own terms at the end of 3 years without further \naction by the parties] (afc) (Entered: 01/17/2005)\n01/18/2005 14 EO: Status Conference Re Dismissal set for 01/20/2005 09:00:00 AM before \nBMK is taken off the calendar per Wilfredo Tungol. Per Tungol, a Consent \nDecree was signed by DAE. Tungol to notify parties. () JUDGE Mag Judge \nBarry M. Kurren (afc) (Entered: 01/20/2005)\n01/19/2005 15 SUBMISSION by plaintiff of original signatures on page 16 of consent decree \n[13-1]; certificate of service (afc) (Entered: 01/20/2005)\nPACER Service Center\nTransaction Receipt\n06/05/2007 03:43:48\nPACER  Client \nhs0328 eeoc \nLogin: Code:\nDocket  Search \nDescription: 1:04-cv-00421-DAE-BMK\nReport Criteria:\nBillable \n2 Cost: 0.16\nPages:\n4 of 4 6/5/2007 8:46 AM",
+      "document_type_other": null,
+      "external_url": null,
+      "ecf_number": null,
+      "clearinghouse_link": "clearinghouse.net/doc/19387"
+    },
+    {
+      "date": null,
+      "date_is_estimate": false,
+      "date_not_available": false,
+      "description": null,
+      "document_source": null,
+      "document_status": null,
+      "document_type": null,
+      "order_type": null,
+      "citation_paren": null,
+      "cite_1_page": null,
+      "cite_1_reporter": null,
+      "cite_1_vol": null,
+      "cite_2_page": null,
+      "cite_2_reporter": null,
+      "cite_2_vol": null,
+      "cite_3_page": null,
+      "cite_3_reporter": null,
+      "cite_3_vol": null,
+      "citation_status": null,
+      "court": null,
+      "no_title": false,
+      "party_types": [],
+      "per_curium": false,
+      "is_core_document": true,
+      "id": 124935,
+      "file": null,
+      "title": null,
+      "text": null,
+      "document_type_other": null,
+      "external_url": null,
+      "ecf_number": null,
+      "clearinghouse_link": "clearinghouse.net/doc/124935"
+    }
+  ],
+  "document_count": 2
+}

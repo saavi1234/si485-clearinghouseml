@@ -1,0 +1,407 @@
+{
+  "case_id": 17987,
+  "fetched_at": "2025-10-22T00:32:56.485903",
+  "case_data": {
+    "attorney_orgs": [],
+    "available_documents": [
+      "Trial Court Docket",
+      "Complaint (any)"
+    ],
+    "case_defendants": [
+      {
+        "defendant_level": null,
+        "institution": "",
+        "institution_alt_state": null,
+        "institution_city": "",
+        "institution_county": null,
+        "name": "Secretary of the Oklahoma State Election Board",
+        "defendant_level_other": "",
+        "is_active": true
+      }
+    ],
+    "case_ongoing": "No",
+    "case_status": "Approved",
+    "case_types": [
+      "Election/Voting Rights"
+    ],
+    "cause_other": "",
+    "causes": [
+      "42 U.S.C. § 1983"
+    ],
+    "class_action_granted": "Not sought",
+    "class_action_sought": "No",
+    "closing_year": 2020,
+    "constitutional_clause": [
+      {
+        "value": "Due Process"
+      },
+      {
+        "value": "Petitions Clause"
+      },
+      {
+        "value": "Due Process: Procedural Due Process"
+      },
+      {
+        "value": "Freedom of speech/association"
+      },
+      {
+        "value": "Equal Protection"
+      }
+    ],
+    "content_of_injunction": [],
+    "court": "Western District of Oklahoma",
+    "custom_issues": [],
+    "defendant_payment": "",
+    "defendant_type": [
+      {
+        "value": "Jurisdiction-wide"
+      }
+    ],
+    "docket_status": "Complete as of retrieval date",
+    "facility_type": [],
+    "filing_date": "2020-07-15",
+    "filing_year": 2020,
+    "id": 17987,
+    "injunction_duration": "",
+    "issues": [
+      "Voting: Candidate qualifications",
+      "Voting: Election administration",
+      "Voting: Voting: General & Misc."
+    ],
+    "last_checked_date": "2023-01-05T00:00:00-05:00",
+    "main_docket": {
+      "id": 27507,
+      "docket_entries": [
+        {
+          "row_number": 4,
+          "id": 8582873,
+          "entry_number": "3",
+          "date_filed": "2020-07-16T00:00:00-04:00",
+          "attachments": [],
+          "url": "https://www.courtlistener.com/docket/17356279/3/hawkins-v-ziriax/",
+          "recap_pdf_url": null,
+          "pacer_doc_id": "14904917366",
+          "description": "Summons Issued Electronically as to Paul Ziriax. (kmt) (Entered: 07/16/2020)"
+        },
+        {
+          "row_number": 5,
+          "id": 8582874,
+          "entry_number": "4",
+          "date_filed": "2020-07-24T00:00:00-04:00",
+          "attachments": [],
+          "url": "https://www.courtlistener.com/docket/17356279/4/hawkins-v-ziriax/",
+          "recap_pdf_url": null,
+          "pacer_doc_id": "14904926445",
+          "description": "ORDER REASSIGNING CASE. Case reassigned to Honorable Stephen P. Friot for all further proceedings. Honorable Timothy D. DeGiusti no longer assigned to case. Signed by Honorable Timothy D. DeGiusti on 7/24/2020. (mb) (Entered: 07/24/2020)"
+        },
+        {
+          "row_number": 7,
+          "id": 8582876,
+          "entry_number": "6",
+          "date_filed": "2020-07-30T00:00:00-04:00",
+          "attachments": [],
+          "url": "https://www.courtlistener.com/docket/17356279/6/hawkins-v-ziriax/",
+          "recap_pdf_url": null,
+          "pacer_doc_id": "14904931175",
+          "description": "ENTRY of Appearance by Thomas R Schneider on behalf of Paul Ziriax (Schneider, Thomas) (Entered: 07/30/2020)"
+        },
+        {
+          "row_number": 8,
+          "id": 8582877,
+          "entry_number": "7",
+          "date_filed": "2020-07-30T00:00:00-04:00",
+          "attachments": [],
+          "url": "https://www.courtlistener.com/docket/17356279/7/hawkins-v-ziriax/",
+          "recap_pdf_url": null,
+          "pacer_doc_id": "14904931219",
+          "description": "WAIVER OF SERVICE Returned Executed by Defendant Paul Ziriax. Paul Ziriax waiver sent on 7/15/2020, answer due 9/14/2020. (Schneider, Thomas) (Entered: 07/30/2020)"
+        },
+        {
+          "row_number": 10,
+          "id": 8582879,
+          "entry_number": "9",
+          "date_filed": "2020-09-16T00:00:00-04:00",
+          "attachments": [],
+          "url": "https://www.courtlistener.com/docket/17356279/9/hawkins-v-ziriax/",
+          "recap_pdf_url": null,
+          "pacer_doc_id": "14904969463",
+          "description": "ENTRY of Appearance by Kevin L McClure on behalf of Paul Ziriax (McClure, Kevin) (Entered: 09/16/2020)"
+        },
+        {
+          "row_number": 2,
+          "id": 10151583,
+          "entry_number": "11",
+          "date_filed": "2020-10-01T00:00:00-04:00",
+          "attachments": [],
+          "url": "https://www.courtlistener.com/docket/17356279/11/hawkins-v-ziriax/",
+          "recap_pdf_url": null,
+          "pacer_doc_id": "14904982956",
+          "description": "STIPULATION of Dismissal Joint Stipulation of Dismissal by All Plaintiffs. (Linger, James) (Entered: 10/01/2020)"
+        },
+        {
+          "row_number": 1,
+          "id": 8582880,
+          "entry_number": "10",
+          "date_filed": "2020-09-17T00:00:00-04:00",
+          "attachments": [],
+          "url": "https://www.courtlistener.com/docket/17356279/10/hawkins-v-ziriax/",
+          "recap_pdf_url": "https://www.courtlistener.com/recap/gov.uscourts.okwd.111030/gov.uscourts.okwd.111030.10.0.pdf",
+          "pacer_doc_id": "14904970341",
+          "description": "STATUS/SCHEDULING CONFERENCE DOCKET: Telephonic Scheduling Conference set for 10/7/2020 09:15 AM before Honorable Stephen P. Friot. Status Report due by 10/5/2020. (llg) (Entered: 09/17/2020)"
+        },
+        {
+          "row_number": 0,
+          "id": 8582871,
+          "entry_number": "1",
+          "date_filed": "2020-07-15T00:00:00-04:00",
+          "attachments": [
+            {
+              "recap_id": 140016560,
+              "pacer_url": "https://ecf.okwd.uscourts.gov/doc1/14904917358?caseid=111030",
+              "description": "Civil Cover Sheet",
+              "attachment_number": 1
+            }
+          ],
+          "url": "https://www.courtlistener.com/docket/17356279/1/hawkins-v-ziriax/",
+          "recap_pdf_url": "https://www.courtlistener.com/recap/gov.uscourts.okwd.111030/gov.uscourts.okwd.111030.1.0.pdf",
+          "pacer_doc_id": "14904917357",
+          "description": "COMPLAINT against Paul Ziriax filed by John Edward Kenny, Maigan Underwood, James M Branum, Kimberly Dawn Kenny, Howard Hawkins, Aaron James Wenger, Nicholas Hans Josef Frimberger, Harrison David Taylor. (Attachments: # 1 Civil Cover Sheet)(kmt) (Entered: 07/16/2020)"
+        },
+        {
+          "row_number": 3,
+          "id": 8582872,
+          "entry_number": "2",
+          "date_filed": "2020-07-16T00:00:00-04:00",
+          "attachments": [],
+          "url": "https://www.courtlistener.com/docket/17356279/2/hawkins-v-ziriax/",
+          "recap_pdf_url": null,
+          "pacer_doc_id": "14904917363",
+          "description": "Receipt for Money Received from James M Branum, Nicholas Hans Josef Frimberger, Howard Hawkins, John Edward Kenny, Kimberly Dawn Kenny, Harrison David Taylor, Maigan Underwood, Aaron James Wenger in the amount of $400.00, receipt number OKW500081026 regarding 1 Complaint (kmt) (Entered: 07/16/2020)"
+        },
+        {
+          "row_number": 6,
+          "id": 8582875,
+          "entry_number": "5",
+          "date_filed": "2020-07-27T00:00:00-04:00",
+          "attachments": [],
+          "url": "https://www.courtlistener.com/docket/17356279/5/hawkins-v-ziriax/",
+          "recap_pdf_url": null,
+          "pacer_doc_id": "14904927535",
+          "description": "ORDER re 1 Complaint. Plfs' complaint includes a request for preliminary injunctive relief. Plfs are advised that no request for a preliminary injunction will be taken up by the court, and no hearing will be set, by virtue of the filing of the complaint alone. If plfs intend to press a request for preliminary injunctive relief, plfs are required to file a separate motion, along with a supporting brief, and to otherwise comply with Rule 65, Fed.R.Civ.P. If plfs seek a hearing on such a motion, that request shall also be set out in the motion. Upon review of any motion which may be filed, the court will establish procedures for hearing or otherwise determining the motion. Signed by Honorable Stephen P. Friot on 7/27/2020. (llg) (Entered: 07/27/2020)"
+        },
+        {
+          "row_number": 9,
+          "id": 8582878,
+          "entry_number": "8",
+          "date_filed": "2020-09-14T00:00:00-04:00",
+          "attachments": [],
+          "url": "https://www.courtlistener.com/docket/17356279/8/hawkins-v-ziriax/",
+          "recap_pdf_url": null,
+          "pacer_doc_id": "14904967709",
+          "description": "ANSWER to Complaint by Paul Ziriax.(Schneider, Thomas) (Entered: 09/14/2020)"
+        }
+      ],
+      "docket_case_type": "cv",
+      "docket_year": 2020,
+      "docket_filing_number": 687,
+      "is_main_docket": true,
+      "court": "Western District of Oklahoma",
+      "state": "Oklahoma",
+      "docket_office_number": "5",
+      "docket_number_manual": "5:20-cv-00687",
+      "scales_html": null,
+      "recap_link": "https://www.courtlistener.com/docket/17356279/hawkins-v-ziriax/",
+      "is_active": true
+    },
+    "name": "Hawkins v. Ziriax",
+    "never_filed": false,
+    "non_docket_case_number": "",
+    "non_docket_case_number_type": null,
+    "non_docket_case_number_type_other": "",
+    "order_end_year": null,
+    "order_start_year": null,
+    "permanent_injunction": false,
+    "plaintiff_description": "Howard \"Howie\" Hawkins, Green Party presidential candidate; 7 Oklahoma voters",
+    "plaintiff_type": [
+      {
+        "value": "Private Plaintiff"
+      }
+    ],
+    "prevailing_party": "None Yet / None",
+    "pro_se_status": "No",
+    "public_interest_lawyer": "No",
+    "related_cases": [],
+    "relief_natures": [
+      "None"
+    ],
+    "relief_nature_other": "",
+    "relief_sources": [
+      "None"
+    ],
+    "settlement_agreement": [],
+    "settlement_judgment_date": null,
+    "settlement_judgment_year": null,
+    "special_collections": [
+      "COVID-19 (novel coronavirus)",
+      "Healthy Elections COVID litigation tracker"
+    ],
+    "special_case_type": [],
+    "state": "Oklahoma",
+    "summary": "<p>This is a case about the special requirements Oklahoma placed on presidential candidates who wanted to be added to the ballot as representatives of a non-mainstream political party. Seven Oklahoma voters and the Green Party's 2020 U.S. presidential candidate filed this lawsuit against the Secretary of the Oklahoma State Election Board in the U.S. District Court for the Western District of Oklahoma on July 15, 2020.</p>\r\n<p>Oklahoma officially recognized three political parties: Democrat, Republican, and Libertarian. For presidential candidates from unrecognized parties like the Green Party to get their names on the ballot, Oklahoma's Election Code had especially stringent requirements: more petition signatures with an earlier deadline, or payment of a much higher fee ($35,000 for an unrecognized party compared to $5,000 for a recognized party). These requirements did not apply to unrecognized party candidates for non-presidential federal offices, nor did they apply to presidential candidates from the three recognized parties.&nbsp;</p>\r\n<p>The plaintiffs claimed that this differential treatment violated their speech, association, petition, equal protection, and due process rights under the First and Fourteenth Amendments of the U.S. Constitution. Represented by private counsel, they sought a declaration that the applicable sections of Oklahoma's Election Code were unconstitutional, and an injunction to hold those sections unenforceable and place the Green Party candidate's name on the November ballot. They also sought attorneys' fees and costs.</p>\r\n<p>On October 1, 2020, a little over a month before the 2020 general election, the plaintiffs filed a stipulated order for dismissal. We have been unable to find an explanation for the dismissal; the plaintiffs may have realized that the litigation would not be resolved before the election.</p>\r\n<p>The case is closed.</p>",
+    "summary_published_date": "2023-01-07T10:19:55.945447-05:00",
+    "summary_short": "On July 15, 2020, Green Party Presidential candidate Howie Hawkins and seven Oklahoma voters sued the Secretary of the Oklahoma State Election Board in the U.S. District Court for the Western District of Oklahoma. The plaintiffs claimed that their First and Fourteenth Amendment rights were violated by the state's special requirements for presidential candidates from non-mainstream parties. They stipulated to dismissal of their case on October 1, 2020, and the case is now closed.",
+    "summary_tiny": "In 2020, @GreenPartyUS presidential candidate @HowieHawkins and 7 OK voters filed suit to challenge the state's special requirements for non-mainstream party candidates. A month before Election Day, the plaintiffs dismissed their case.",
+    "terminating_date": "2020-10-01",
+    "clearinghouse_link": "clearinghouse.net/case/17987",
+    "is_active": true,
+    "case_documents_url": "https://clearinghouse.net/api/v2/documents/?case=17987",
+    "case_dockets_url": "https://clearinghouse.net/api/v2/dockets/?case=17987",
+    "case_resources_url": "https://clearinghouse.net/api/v2/resources/?case=17987"
+  },
+  "documents": [
+    {
+      "date": null,
+      "date_is_estimate": false,
+      "date_not_available": false,
+      "description": null,
+      "document_source": null,
+      "document_status": null,
+      "document_type": null,
+      "order_type": null,
+      "citation_paren": null,
+      "cite_1_page": null,
+      "cite_1_reporter": null,
+      "cite_1_vol": null,
+      "cite_2_page": null,
+      "cite_2_reporter": null,
+      "cite_2_vol": null,
+      "cite_3_page": null,
+      "cite_3_reporter": null,
+      "cite_3_vol": null,
+      "citation_status": null,
+      "court": null,
+      "no_title": false,
+      "party_types": [],
+      "per_curium": false,
+      "is_core_document": true,
+      "id": 114077,
+      "file": null,
+      "title": null,
+      "text": null,
+      "document_type_other": null,
+      "external_url": null,
+      "ecf_number": null,
+      "clearinghouse_link": "clearinghouse.net/doc/114077"
+    },
+    {
+      "date": "2020-10-01",
+      "date_is_estimate": false,
+      "date_not_available": false,
+      "description": "",
+      "document_source": "PACER [Public Access to Court Electronic Records]",
+      "document_status": "Deleted",
+      "document_type": "Pleading / Motion / Brief",
+      "order_type": null,
+      "citation_paren": null,
+      "cite_1_page": null,
+      "cite_1_reporter": null,
+      "cite_1_vol": null,
+      "cite_2_page": null,
+      "cite_2_reporter": null,
+      "cite_2_vol": null,
+      "cite_3_page": null,
+      "cite_3_reporter": null,
+      "cite_3_vol": null,
+      "citation_status": "Not applicable",
+      "court": "Western District of Oklahoma",
+      "no_title": false,
+      "party_types": [
+        "Defendant",
+        "Plaintiff"
+      ],
+      "per_curium": false,
+      "is_core_document": true,
+      "id": 110671,
+      "file": "https://clearinghouse-umich-production.s3.amazonaws.com/media/doc/110671.pdf",
+      "title": "Joint Stipulation of Dismissal",
+      "text": "Case 5:20-cv-00687-F   Document 11   Filed 10/01/20   Page 1 of 2\nIN THE UNITED STATES DISTRICT COURT FOR THE \nWESTERN DISTRICT OF OKLAHOMA \nHOWARD \"HOWIE\" HAWKINS, et al.,  ) \n) \n..... Plaintiffs,  ) \n) \nv.  )  Case No. 5:20-cv-00687-F \n) \nPAUL ZIRIAX, in his official capacity as  ) \nSecretary of the Oklahoma State Election Board,  ) \n..... Defendant.  ) \nJOINT STIPULATION OF DISMISSAL \nCOME NOW the Plaintiffs and Defendant, by and through their counsel of record, \nand hereby stipulate, pursuant to Fed. R. Civ. P. 4l(a)(l)(A)(ii), that the above-entitled \naction be dismissed without prejudice with each party to  be responsible for their own \ncourt costs and attorney fees. \nDated this 1st day of October, 2020. \ns/ James C. Linger  s/ Thomas R. Schneider \nJames C. Linger, OBA #5441  Thomas R. Sclmeider, OBA #33047 \n17 10 South Boston A venue  Kevin L. McClure, OBA #12767 \nTulsa, OK 74119-4810  Oklahoma Office of Attorney General \n(918) 585-2797 Phone  313 N.E. 21st St. \n(918) 583-8283 Facsimile  Oklahoma City, OK 73105 \nbostonbarris tersr({1tulsacoxma il. com  (405) 521-3921 Phone \nCounselfor Plaintiffs  ( 405) 522-4536 Facsimile \nthomas.schneider(Zi!oa£.ok.gov \nKevin.McC!ure((_i!oag.ok.gov \nCounsel for Defendant \n\nCase 5:20-cv-00687-F   Document 11   Filed 10/01/20   Page 2 of 2\nCERTIFICATE OF SERVICE \nI hereby certify that on the 1st day of October, 2020, I electronically transmitted \nthe foregoing document to the Clerk of the Court using the Electronic Case Filing \nSystem, which will transmit a Notice of Electronic Filing and a copy of the document to \nall counsel who have entered an appearance in this case, including counsel for Defendant. \nThomas R. Schneider, Esq. \nKevin L. McClure, Esq. \nOKLAHOMA OFFICE OF ATTORNEY GENERAL \n313 N.E. 2PT ST. \nOklahoma City, OK 73105 \ns/ James C. Linger \n2 ",
+      "document_type_other": "",
+      "external_url": "",
+      "ecf_number": "11",
+      "clearinghouse_link": "clearinghouse.net/doc/110671"
+    },
+    {
+      "date": "2020-10-01",
+      "date_is_estimate": false,
+      "date_not_available": false,
+      "description": null,
+      "document_source": "PACER [Public Access to Court Electronic Records]",
+      "document_status": "Coding Complete",
+      "document_type": "Docket",
+      "order_type": null,
+      "citation_paren": null,
+      "cite_1_page": null,
+      "cite_1_reporter": null,
+      "cite_1_vol": null,
+      "cite_2_page": null,
+      "cite_2_reporter": null,
+      "cite_2_vol": null,
+      "cite_3_page": null,
+      "cite_3_reporter": null,
+      "cite_3_vol": null,
+      "citation_status": "Not applicable",
+      "court": "Western District of Oklahoma",
+      "no_title": false,
+      "party_types": [
+        "Court"
+      ],
+      "per_curium": false,
+      "is_core_document": true,
+      "id": 110669,
+      "file": "https://clearinghouse-umich-production.s3.amazonaws.com/media/doc/110669.pdf",
+      "title": "Docket [PACER]",
+      "text": "12/22/2020 CM/ECF LIVE - U.S. District Court:okwd\nQuery Reports  Utilities  Help Log Out\nCreate an Alert for This Case on RECAP\nCLOSED,ERWIN,_BG\nU.S. District Court\n \nWestern District of Oklahoma[LIVE] (Oklahoma City)\nCIVIL DOCKET FOR CASE #: 5:20-cv-00687-F\nHawkins et al v. Ziriax Date Filed: 07/15/2020\n   \nAssigned to: Honorable Stephen P. Friot Date Terminated: 10/01/2020\nCause: 42:1983 Civil Rights Act Jury Demand: None\n \nNature of Suit: 441 Civil Rights: Voting\nJurisdiction: Federal Question\nPlaintiff\nHoward Hawkins represented by James C Linger\n \nCandidate for President of the United States Butler & Linger\nalso known as 1710 S Boston Ave\nHowie Tulsa, OK 74119\n918-585-2797\nFax: 918-583-8283\nEmail: bostonbarristers@tulsacoxmail.com\nLEAD ATTORNEY\n \nATTORNEY TO BE NOTICED\nPlaintiff\nAaron James Wenger represented by James C Linger\n(See above for address)\nLEAD ATTORNEY\n \nATTORNEY TO BE NOTICED\nPlaintiff\nJohn Edward Kenny represented by James C Linger\n(See above for address)\nLEAD ATTORNEY\n \nATTORNEY TO BE NOTICED\nPlaintiff\nKimberly Dawn Kenny represented by James C Linger\n(See above for address)\nLEAD ATTORNEY\n \nATTORNEY TO BE NOTICED\nPlaintiff\nHarrison David Taylor represented by James C Linger\n(See above for address)\nLEAD ATTORNEY\n \nATTORNEY TO BE NOTICED\nPlaintiff\nhttps://ecf.okwd.uscourts.gov/cgi-bin/DktRpt.pl?93638138541059-L_1_0-1 1/3\n\n12/22/2020 CM/ECF LIVE - U.S. District Court:okwd\nMaigan Underwood represented by James C Linger \n(See above for address) \n \nLEAD ATTORNEY \n \nATTORNEY TO BE NOTICED\nPlaintiff\nJames M Branum represented by James C Linger \n(See above for address) \n \nLEAD ATTORNEY \n \nATTORNEY TO BE NOTICED\nPlaintiff\nNicholas Hans Josef Frimberger represented by James C Linger \n(See above for address) \n \nLEAD ATTORNEY \n \nATTORNEY TO BE NOTICED\nV.\n \nDefendant\nPaul Ziriax  represented by Kevin L McClure \n \nIn his ofﬁcial capacity as Secretary of the Attorney General's Ofc-NE 21STREET-\nOklahoma State Election Board OKC \n313 NE 21st St \nOklahoma City, OK 73105 \n405-521-4274 \nFax: 405-528-1867 \nEmail: Kevin.McClure@oag.ok.gov \n \nATTORNEY TO BE NOTICED\n \nThomas R Schneider \nAttorney General's Ofc-NE 21STREET-\nOKC \n313 NE 21st St \nOklahoma City, OK 73105 \n405-521-3921 \nFax: 405-522-4536 \nEmail: thomas.schneider@oag.ok.gov \n \nATTORNEY TO BE NOTICED\nDate Filed # Docket Text\n07/15/2020 1   COMPLAINT against Paul Ziriax ﬁled by John Edward Kenny, Maigan Underwood,\nJames M Branum, Kimberly Dawn Kenny, Howard Hawkins, Aaron James Wenger,\nNicholas Hans Josef Frimberger, Harrison David Taylor. (Attachments: # 1 Civil Cover\nSheet)(kmt) (Entered: 07/16/2020)\n07/16/2020 2  Receipt for Money Received from James M Branum, Nicholas Hans Josef Frimberger,\nHoward Hawkins, John Edward Kenny, Kimberly Dawn Kenny, Harrison David Taylor,\nMaigan Underwood, Aaron James Wenger in the amount of $400.00, receipt number\nOKW500081026 regarding 1  Complaint (kmt) (Entered: 07/16/2020)\n07/16/2020 3  Summons Issued Electronically as to Paul Ziriax. (kmt) (Entered: 07/16/2020)\nhttps://ecf.okwd.uscourts.gov/cgi-bin/DktRpt.pl?93638138541059-L_1_0-1 2/3\n\n12/22/2020 CM/ECF LIVE - U.S. District Court:okwd\n07/24/2020 4 ORDER REASSIGNING CASE. Case reassigned to Honorable Stephen P. Friot for all\nfurther proceedings. Honorable Timothy D. DeGiusti no longer assigned to case. Signed\nby Honorable Timothy D. DeGiusti on 7/24/2020. (mb) (Entered: 07/24/2020)\n07/27/2020 5 ORDER re 1  Complaint. Plfs' complaint includes a request for preliminary\ninjunctive relief. Plfs are advised that no request for a preliminary injunction will be\ntaken up by the court, and no hearing will be set, by virtue of the ﬁling of the complaint\nalone. If plfs intend to press a request for preliminary injunctive relief, plfs are required\nto ﬁle a separate motion, along with a supporting brief, and to otherwise comply with\nRule 65, Fed.R.Civ.P. If plfs seek a hearing on such a motion, that request shall also be\nset out in the motion. Upon review of any motion which may be ﬁled, the court will\nestablish procedures for hearing or otherwise determining the motion. Signed by\nHonorable Stephen P. Friot on 7/27/2020. (llg) (Entered: 07/27/2020)\n07/30/2020 6 ENTRY of Appearance by Thomas R Schneider on behalf of Paul Ziriax (Schneider,\nThomas) (Entered: 07/30/2020)\n07/30/2020 7 WAIVER OF SERVICE Returned Executed by Defendant Paul Ziriax. Paul Ziriax\nwaiver sent on 7/15/2020, answer due 9/14/2020. (Schneider, Thomas) (Entered:\n07/30/2020)\n09/14/2020 8 ANSWER to Complaint by Paul Ziriax.(Schneider, Thomas) (Entered: 09/14/2020)\n09/16/2020 9 ENTRY of Appearance by Kevin L McClure on behalf of Paul Ziriax (McClure, Kevin)\n(Entered: 09/16/2020)\n09/17/2020 10 STATUS/SCHEDULING CONFERENCE DOCKET: Telephonic Scheduling\nConference set for 10/7/2020 09:15 AM before Honorable Stephen P. Friot. Status\nReport due by 10/5/2020. (llg) (Entered: 09/17/2020)\n10/01/2020 11 STIPULATION of Dismissal Joint Stipulation of Dismissal by All Plaintiffs. (Linger,\nJames) (Entered: 10/01/2020)\nhttps://ecf.okwd.uscourts.gov/cgi-bin/DktRpt.pl?93638138541059-L_1_0-1 3/3",
+      "document_type_other": "",
+      "external_url": "",
+      "ecf_number": null,
+      "clearinghouse_link": "clearinghouse.net/doc/110669"
+    },
+    {
+      "date": "2020-07-15",
+      "date_is_estimate": false,
+      "date_not_available": false,
+      "description": null,
+      "document_source": "PACER [Public Access to Court Electronic Records]",
+      "document_status": "Coding Complete",
+      "document_type": "Complaint",
+      "order_type": null,
+      "citation_paren": null,
+      "cite_1_page": null,
+      "cite_1_reporter": null,
+      "cite_1_vol": null,
+      "cite_2_page": null,
+      "cite_2_reporter": null,
+      "cite_2_vol": null,
+      "cite_3_page": null,
+      "cite_3_reporter": null,
+      "cite_3_vol": null,
+      "citation_status": "Not applicable",
+      "court": "Western District of Oklahoma",
+      "no_title": false,
+      "party_types": [
+        "Plaintiff"
+      ],
+      "per_curium": false,
+      "is_core_document": true,
+      "id": 110670,
+      "file": "https://clearinghouse-umich-production.s3.amazonaws.com/media/doc/110670.pdf",
+      "title": "Complaint",
+      "text": "Case 5:20-cv-00687-D   Document 1   Filed 07/15/20   Page 1 of 18\nIN THE UNITED STATES DISTRICT COURT FOR THE\nWESTERN DISTRICT OF OKLAHOMA\n(1) HOWARD \"HOWIE\" HAWKINS,\nCandidate for President of the United States;\n(2) AARON JAMES WENGER,\n(3) JOHN EDWARD KENNY,\n(4) KIMBERLY DAWN KENNY,\n(5) HARRISON DAVID TAYLOR,\n(6) MAIGAN UNDERWOOD,\n(7) JAMES M. BRANUM,a nd Case No. CIV-20-687-D\n(8) NICHOLAS HANS-JOSEF FRIMBERGER,\nPlaintiffs,\nV.\n(1)P AUL ZIRIAX, in his official capacity as\nSecretary of the Oklahoma State Election Board,\nDefendant.\nCOMPLAINT\nCOME now the Plaintiffs, and for their cause of action, and allege and state as\nfollows, to-wit:\nPARTIES\nPlaintiff HOWARD \"HOWIE\" HAWKINS is a resident of the State of New York,\nand the Green Party nominee for the office of President of the United States.\nPlaintiffs AARON JAMES WENGER,J OHN EDWARD KENNY,K IMBERLY\nDAWN KENNY,H ARRISON DAVID TAYLOR, MAIGAN UNDERWOOD,J AMES\nM. BRANUM,a nd NICHOLAS HANS-JOSEF FRIMBERGER are residents and\n\nCase 5:20-cv-00687-D   Document 1   Filed 07/15/20   Page 2 of 18\nregistered voters in the State of Oklahoma, and desire to vote for Plaintiff HOWARD \n\"HOWIE\" HAWKINS in the 2020 general election for President of the United States. \nThat the Plaintiff HOWARD \"HOWIE\" HAWKINS (hereinafter referred to as \n\"Hawkins\") has seven Oklahoma registered voters who are willing to serve as \npresidential electors for HAWKINS for President, as required by Okla. Stat., tit. 26, § 10-\n101.1 (A)(3) and will subscribe to the oath required in the aforesaid statute. \nII. \nDefendant PAUL ZIRIAX is the Secretary of the Oklahoma State Election Board \n(hereinafter referred to as Board), which is a state agency and body politic organized \nunder the laws of the State of Oklahoma, viz.:  Okla. Stat. tit. 26, § 2-101, et seq., to \noperate and perform such duties as are prescribed by law for the purposes of overseeing \nelections conducted in the State of Oklahoma.  The aforesaid Defendant Paul Ziriax has \noffices in the State Capitol Building in Oklahoma City, Oklahoma. \nJURISDICTION AND VENUE \nIII. \nThis is an action for declaratory and injunctive relief.  The jurisdiction of this \nCourt is invoked pursuant to Title 28, United States Code,§ 1343(3), (4), 2201, and \n2202, and Title 42, United States Code,§ 1983.  Venue of this Court is invoked pursuant \nto Title 28, United States Code, § 1391.  The rights, privileges, and immunities sought to \nbe declared and redressed are those secured by the First and Fourteenth Amendments to \nthe United States Constitution. \n2 \n\nCase 5:20-cv-00687-D   Document 1   Filed 07/15/20   Page 3 of 18\nIV. \nThis proceeding seeks a judgment declaring Okla. Stat. tit. 26, §§ 5-112 and 10-\n10 1.1, as applied herein to the Plaintiffs for the 2020 Oklahoma General Election and all \nsubsequent General Elections in the State of Oklahoma and the facts and circumstances \nrelating thereto, unconstitutional in that they violate in their application to the Plaintiffs \nherein for the 2020 Oklahoma General Election, and all subsequent Oklahoma General \nElections, the First and Fourteenth Amendments to the United States Constitution and \nTitle 42, United States Code, § 1983, by requiring an unnecessarily early petition filing \ndeadline for Presidential candidates of non-recognized political parties in Oklahoma, and \nunnecessarily high petition signature requirement, and denying Plaintiffs the equal \nprotection of the law and discriminating in favor of Independent non-presidential \ncandidates for statewide federal office, i.e., U.S. Senator, by allowing Independent \ncandidates for U.S. Senator for Oklahoma to pay a filing fee of Two Thousand Dollars, \nbut requiring, in effect, a Thirty-five Thousand Dollar filing fee for unrecognized \npolitical party candidates for President of the United States, thus, creating a \ndiscriminatory treatment within a class of candidates (viz.:  Independent candidates for \nstatewide Federal office as opposed to non-recognized political party candidates for \nPresident of the United States) without a constitutionally compelling interest or rational \nbasis by the State to justify such disparate and unequal treatment, even though the State \nof Oklahoma has a lesser interest in regulating Presidential elections than non \npresidential elections.  This proceeding also seeks an injunction, both temporary and \npermanent, against Secretary, Paul Ziriax, Defendant above-styled, and his agents and \n3 \n\nCase 5:20-cv-00687-D   Document 1   Filed 07/15/20   Page 4 of 18\nemployees, prohibiting said Defendant from following and enforcing the provisions of \nOkla. Stat. tit. 26, §§  5-112 and 10-10 1.1, as applied to the Plaintiffs herein for the 2020 \nOklahoma General Election, and all subsequent Oklahoma General Elections, so as to \nserve to prevent the listing on the Oklahoma ballot of Plaintiff HAWKINS as the Green \nParty candidate for President of the United States. \nELECTION STATUTES IN QUESTION \nv. \nThe laws in question which were stated in rhetorical paragraph IV above are, in \npertinent part, as follows, to-wit: \nOkla. Stat., tit. 26, § 5-112, \nA. A declaration of candidacy must be accompanied by: \n1. A petition supporting a candidate's filing signed by not fewer than two percent (2%) of \nthe number of registered voters in the district, county or state, as appropriate for the \noffice sought; or \n2. A cashier's check or certified check as follows: \na. for candidates for Governor, Two Thousand Dollars ($2,000.00), \nb. for candidates for United States Senator, Two Thousand Dollars ($2,000.00), \nc. for candidates for United States Congress, One Thousand Dollars ($1,000.00), \nd. for candidates for Lieutenant Governor, Corporation Cotnmission, Attorney General, \nState Auditor and Inspector, State Superintendent of Public Instruction, State Treasurer, \nCommissioner of Insurance and Commissioner of Labor, One Thousand Dollars \n($1 ,000.00), \n* * * * \nB. A filing fee received by the Secretary of the State Election Board shall be deposited in \nthe State Election Board Revolving Fund created pursuant to Section 3-107 of this title. A \n4 \n\nCase 5:20-cv-00687-D   Document 1   Filed 07/15/20   Page 5 of 18\nfiling fee received by a secretary of a county election board shall be deposited in the \nCounty Election Board Special Depository Account authorized by Section 3-108 of this \ntitle. \nOkla. Stat., tit. 26, § 10-101.1, \nA. The following procedure shall be observed for Presidential Electors pledged to an \nindependent candidate for President of the United States: \n1. A person wishing to appear on the General Election ballot as an independent candidate \nfor President of the United States shall file a Statement of Candidacy with the Secretary \nof the State Election Board no later than July 15 of a presidential election year; \n2. a. the Statement of Candidacy shall be in a form to be prescribed by the Secretary of \nthe State Election Board, and shall include the candidate's full legal name, the candidate's \naddress of residence, the candidate's mailing address, the name of the candidate as it \nshould appear on the ballot and any other information required by the Secretary of the \nState Election Board, \nb. the candidate shall swear an oath or affirm on the Statement of Candidacy that the \ncandidate meets the qualifications for President of the United States set forth in the \nConstitution of the United States, and the candidate's signature shall be witnessed by a \nnotary public; \n3. The Statement of Candidacy shall be accompanied by a certification of the name and \naddress of residence for each candidate for Presidential Elector pledged to the \nindependent candidate for President of the United States. The number of electors so \ncertified shall be equal to the number apportioned to the State of Oklahoma pursuant to \nthe provisions of Section 1 of Article II of the United States Constitution. Each candidate \nfor Presidential Elector so nominated shall subscribe to an oath prescribed by the \nSecretary of the State Election Board, which shall be in the same manner, substance and \nform as the oath described in Section 10-102 of this title; \n4. a. the Statement of Candidacy shall be accompanied by a petition supporting a \ncandidate's filing, \nb. the form of the petition shall be prescribed by the Secretary of the State Election \nBoard. Each page of the petition must contain the names of registered voters from a \nsingle county, \nc. the petition shall bear the same number of signatures of registered voters that is \nrequired to form a recognized political party as described in Section 1-108 of this title, \n5 \n\nCase 5:20-cv-00687-D   Document 1   Filed 07/15/20   Page 6 of 18\nd. within thirty (30) days after receipt of the petition, the Secretary of the State Election \nBoard shall determine the sufficiency of the petition, \ne. in lieu of the petition required by this subsection, a filing fee for each Presidential \nElector committed to the independent candidate for President of the United States may be \nsubmitted in the form of a cashier's check or certified check made payable to the \nSecretary of the State Election Board. The filing fee for each Presidential Elector shall be \nin an amount equal to the filing fee described in Section 20-102 of this title. The sum of \nthe filing fees for each Presidential Elector may be paid in a single cashier's check or \ncertified check. The filing fees shall be deposited in the State Election Board Revolving \nFund created pursuant to Section 3-107 of this title; and \n5. If the requirements set forth in this section are found by the Secretary of the State \nElection Board to be sufficient, then the independent candidate for President of the \nUnited States shall be qualified to appear on the General Election ballot. The candidate \nshall certify to the Secretary of the State Election Board the name of the candidate's Vice \nPresidential running mate no later than the deadline established in Section 10-10 1 of this \ntitle for the certification by a recognized political party of its nominee for Vice President \nof the United States. \nB. A political party not recognized under the laws of the State of Oklahoma may place its \nnominees for President of the United States, Vice President of the United States and \nPresidential Electors on the ballot subject to the same requirements, restrictions and \ndeadlines as provided for an independent candidate for President of the United States. \nProvided, the national chair of the unrecognized political party shall submit the Statement \nof Candidacy on behalf of the unrecognized political party, and shall provide the \nSecretary of the State Election Board with a separate certificate of nomination for the \nunrecognized political party's nominees for President and Vice President of the United \nStates, in a form and manner prescribed by the Secretary of the State Election Board. \nFACTS \nVI. \nThat, while Okla. Stat. tit. 26, §§ 10-101.1 provides a means through petitioning \nfor Independent and nonrecognized political party candidates for President and Vice \nPresident to appear on the ballot in Oklahoma as an Independent candidate or with the \nparty label of an unrecognized political party, respectively, the petition signature deadline \nis unnecessarily early and before the deadline in 42 states and the District of Columbia. \n6 \n\nCase 5:20-cv-00687-D   Document 1   Filed 07/15/20   Page 7 of 18\nFurther, Okla. Stat. tit. 26, § 5-112 provides a means in lieu of petition signatures for \nIndependent candidates for statewide Federal office in Oklahoma, i.e., United States \nSenator, to appear on the Oklahoma ballot by simply paying a fee by cashier's or certified \ncheck of two thousand dollars ($2,000) and the filing of a Declaration of Candidacy with \nthe Secretary of the State Election Board, while the filing fee for Presidential candidates \nis an unnecessary and unequal, in effect, Thirty-five Thousand Dollars ($35,000). \nAdditionally, all Independent candidates in Oklahoma, whether for a statewide federal \noffice or a statewide state office, since the adoption of the alternate options of paying a \nfiling fee or gathering petition signatures for the statewide federal office of United States \nSenator or the statewide state office of Governor, or any other statewide state office, have \nused the filing fee option for ballot access instead of the petition signature option for \nballot access of Okla. Stat. tit. 26, § 5-112, which was previously until August 27, 2010, \n5 percent of the registered voters eligible to vote for a candidate in the first election \nwherein the candidate's name could appear on the ballot until the Legislature lowered the \npercentage to 4 percent effective August 27, 2010, and then lowered it further to 2 \npercent effective November 1, 2017. \nVII. \nIn fact, while the Oklahoma ballot has been frozen in the status quo since the 1992 \ngeneral election as to Presidential candidates obtaining ballot access status pursuant to \nOkla. Stat. tit. 26, § 10-10 1.1 (with no presidential candidates who are independent or the \nnominees of a non-recognized political party obtaining ballot status in Oklahoma), \nIndependent candidates for U.S. Senator have regularly appeared on the Oklahoma ballot \n7 \n\nCase 5:20-cv-00687-D   Document 1   Filed 07/15/20   Page 8 of 18\nby simply paying a filing fee from 1992 through 2020, with anywhere from one to three \nIndependent U.S. Senate candidates being on the Oklahoma ballot in any general election \nyear in which a U.S. Senator is up for election in Oklahoma.  The filing fee for United \nStates Senator is Two Thousand Dollars, and the filing fee for the other aforesaid \nstatewide state offices is One Thousand Dollars, except for Governor, which is Two \nThousand Dollars.  However, there is a provision in the aforesaid Okla. Stat. tit. 26, § 10-\n101.1 (B) for a filing fee means of candidacy for a non-recognized party candidate in \nOklahoma for President and Vice President of the United States in the amount of Thirty \nfive Thousand Dollars. \nVIII. \nOklahoma has the most restrictive ballot access laws and filing fees for \npresidential and vice-presidential candidates of Independent or non-recognized political \nparty status in the United States.  Most states having a requirement of less than one \npercent (1 percent) of the previous vote for President or Governor, while the only two \nother states which have a filing fee for presidential candidates are Colorado and \nLouisiana, where the filing fees are One Thousand Dollars and Five Hundred Dollars, \nrespectively.  Because of the relatively stringent ballot access laws in Oklahoma and the \nimmense task of obtaining ballot status throughout the United States for a Presidential \ncandidate in 2020, particularly because of the COVID-19 pandemic, the supporters of \nHAWKINS in Oklahoma were unable to marshal their resources in such a manner as to \nconduct a successful petition drive in Oklahoma pursuant to Okla. Stat. tit. 26, §§ 10-\n10  1.1, and also achieve ballot status in the other States and the District of Columbia at \n8 \n\nCase 5:20-cv-00687-D   Document 1   Filed 07/15/20   Page 9 of 18\npresent.  Therefore, as stated hereinabove, the supporters of HAWKINS in Oklahoma, \nrespectively, are willing to forward Declarations of Candidacy on behalf of the Plaintiff \nHOWARD HAWKINS as the Green Party candidate for President of the United States, \nalong with certified checks in the amount of Two Thousand Dollars, or such sum as the \nCourt should direct, to the Defendant PAUL ZIRIAX, Secretary of the Board. \nIX. \nThe Oklahoma ballot access law of Okla. Stat. tit. 26, § 1-10 1.1, as such applies to \na presidential and vice-presidential candidate of a non-recognized political party under \nthe laws of the State of Oklahoma and their presidential electors, sets an unconstitutional \nearly deadline of July 15th in presidential election years and requires an unnecessarily \nhigh percentage of petition signatures.  Said July 15th deadline is before the dates of the \nconventions of the major political parties. \nX. \nIn the year 2020, the Democratic Party will nominate its presidential and vice \npresidential candidates during its national convention from August 17 through August 20, \n2020.  The Republican Party will nominate its presidential and vice-presidential \ncandidates during its national convention from August 24 through August 27, 2020. \nPlaintiff HAWKINS received the Green Party nomination for President of the United \nStates and Angela Walker of South Carolina received the Green Party's nomination for \nVice President of the United States at the Green Party's national convention on July 11, \n2020.  The Defendant herein will not require the aforesaid nominees of the Democratic \nand Republican parties to present any nominating petition indicating their support in \n9 \n\nCase 5:20-cv-00687-D   Document 1   Filed 07/15/20   Page 10 of 18\nOklahoma because said nominees of the Democratic and Republican parties for President \nand Vice President are for parties already recognized in the State of Oklahoma.  In \ncontrast, Presidential candidates of non-recognized political parties in Oklahoma must \nsubmit petition signatures by July 15 of a presidential election year in the amount of three \npercent of the number of total voters in the last gubernatorial election for the presidential \nelection to be conducted in Oklahoma in the year 2020, or pay a filing fee of Thirty-five \nThousand Dollars. \nXI. \nSo restrictive, severe, and discriminative is Oklahoma's ballot access law for \nPresidential candidates who are the nominee of a political party not recognized in the \nState of Oklahoma, that even a prominent Presidential candidate such as Ralph Nader \nfailed to appear on the Oklahoma Presidential ballot in 1996, 2000, and 2004.  In fact, in \n2004, 2008, and 2012, Oklahoma was the only State in which there were only two \ncandidates on the ballot for President of the United States.  In the aforesaid Presidential \nelections in Oklahoma in 2004, 2008, 2012, and 2020, even the nominee for President of \nthe United States of the Democratic Party failed to carry any of the 77 counties of \nOklahoma.  In the most recent Presidential elections in Oklahoma of2012 and 2016, the \nDemocratic candidate for President of the United States (President Barack Obama in \n2012 and Hillary Clinton in 20 16) lost every single county in Oklahoma by landslide \nproportions-viz:, a 10 percent margin or more. \n10 \n\nCase 5:20-cv-00687-D   Document 1   Filed 07/15/20   Page 11 of 18\nXII. \nAs a demonstration of how much Oklahoma's ballot access laws for Presidential \ncandidates maintain the status quo and stifle First Amendment rights, Okla. Stat. tit. 26, § \n10-10 1.1 in its several forms has not been successfully complied with since 1992.  While \nno political party had been able to obtain ballot recognition in Oklahoma, pursuant to \nOkla. Stat., tit. 26, § 1-108, since the 2000 Presidential election through 2015, and \nbecause previous election law changes had moved the deadline for filing political party \nrecognition petitions from May 31 of the general election year to March 1st of the general \nelection year, Oklahoma lowered the petition signature requirement in 2015 from 5 \npercent of the last gubernatorial or presidential vote to 3 percent of the last gubernatorial \nvote.  In 2016, Oklahoma lowered the political party retention requirement of Okla. Stat., \ntit. 26, § 1-109 from 10  percent of the last gubernatorial or presidential election vote to \n2 Y2 percent of the vote for any statewide office, and allowed for the Presidential electors \nof Presidential candidates in Oklahoma not to have their names printed on the Oklahoma \nballot.  Despite these changes, only the Libertarian Party was able to comply with the \nnew requirements of Okla. Stat., tit. 26, § 1-108 for the general election of2016. \nXIII. \nThe early filing deadline, combined with Oklahoma's absolute ban on write-in \nvoting, the unnecessary and burdensome signature requirement, and the high filing fee \nalternative for presidential and vice presidential candidates operates to exclude candidates \nwhose prominence grows out of reactions to the events of the major party's primary \nseason and changing political developments, and who lack a recognized political party \n11 \n\nCase 5:20-cv-00687-D   Document 1   Filed 07/15/20   Page 12 of 18\norganizational structure by the State of Oklahoma.  Only candidates who rely on paid \npetitioners can collect a significant number of signatures by the July 15th presidential \ndeadline (e.g., Ross Perot and 1992).  No previous alternative presidential candidates \nhave been able to appear on the Oklahoma ballot without a substantial expenditure of \nmoney for paid petitioners.  Such monetary expenditures in order to meet petition \nsignature deadlines in Oklahoma operate to deny Oklahoma voters an opportunity to vote \nfor late emerging candidates who have significant public support but lack a recognized \npolitical party organization or extensive financial resources. \nXIV. \nThe early petition signature deadline in Oklahoma for non-recognized political \nparty Presidential candidates, coupled with Oklahoma's absolute ban on write-in voting \nand the significant signature requirement-in contrast to the relatively reasonable and \nless restrictive requirements of other states for candidates for President and Vice \nPresident of the United States seeking ballot access-forces a non-recognized political \nparty Presidential candidate to demonstrate substantial support before the major political \nparties have named their nominees or formally adopted their platform, at a time when \nmany serious alternative candidates for President are still in their formative stage, and \nwhen it is unlikely that potential supporters have developed into a fully cohesive and \nidentifiable group.  Because of the aforesaid hardships, and particularly during this time \ninvolving the negative impacts of the COVID-19 pandemic on petition gathering, \nOklahoma's early presidential deadline, as set forth in Okla. Stat. tit. 26, § 10-1 0 1.1, \neffectively cuts off serious and important candidates from appearing on the Oklahoma \n12 \n\nCase 5:20-cv-00687-D   Document 1   Filed 07/15/20   Page 13 of 18\nballot and transforms the petitioning process from a way to demonstrate popular support \ninto a race to meet an arbitrarily and unnecessarily early deadline.  At present, \nOklahoma's deadline for Independent and non-recognized political party presidential \ncandidates is one of the earliest in the United States.  Forty-two states and the District of \nColumbia have presidential petition deadlines in either late July, August, September, or \nlater of a General Election year.  Oklahoma's early aforesaid presidential deadline places \nan undue, unreasonable, unjustified, and severe burden on unrecognized political party \nand Independent presidential candidates.  The Defendants lack any compelling interest in \nthe aforesaid presidential deadline in Oklahoma as it applies to presidential candidates, \nwhich requires a presidential candidate of a non-recognized Oklahoma political party to \nfile his or her petitions for ballot access well before the nominating conventions of the \ntwo major political parties. \nXV. \nOn information and belief, Plaintiff HAWKINS asserts that absent intervention by \nthis Court, HOWARD HAWKINS will not be on the ballot in Oklahoma as candidate for \nPresident of the United States in the year 2020. \nXVI. \nOklahoma, pursuant to Okla. Stat. tit. 26, § 7-127(1), is one of only five States \nwhich completely bans write-in voting, while South Carolina bans write-in voting only in \nPresidential elections. \n13 \n\nCase 5:20-cv-00687-D   Document 1   Filed 07/15/20   Page 14 of 18\nXVII. \nDefendant Secretary Paul Ziriax has and will exercise his authority under color of \nstate law in enforcing the aforesaid State laws set forth in rhetorical paragraph V above, \nas applied to the Plaintiffs herein for the 2020 Oklahoma General Election, and the facts \nand circumstances relating thereto, in such a manner as to be in an unlawful, \ndiscriminatory, unequal, capricious, and arbitrary manner, in violation of the First and \nFourteenth Amendments to the United States Constitution, and Title 42, United States \nCode,§ 1983, in that: \nOkla. Stat. tit. 26, § § 5-112 and 10-10 1.1, as applied to the Plaintiffs herein for the \n2020 Oklahoma General Election and all subsequent General Elections in Oklahoma, and \nthe facts and circumstances relating thereto, are illegal and unconstitutional, in that they \nviolate the rights of the Plaintiffs under the First and Fourteenth Amendments to the \nUnited States Constitution, and Title 42, United States Code, § 1983, in that the aforesaid \nstatutes are discriminatory, unequal, unduly severe, and not framed in the least restrictive \nmanner necessary to achieve the legitimate State interests in regulating ballot access for a \nPresidential election, particularly as relating to the fact that non-presidential statewide \nfederal offices only require a filing fee of Two Thousand Dollars-as opposed to a \nThirty-five Thousand Dollar filing fee for a candidate of a non-recognized political party \nfor President of the United States-and, further, as applied to non-recognized political \nparty Presidential candidates, Oklahoma's early signature deadline, combined with \nOklahoma's absolute ban on write-in voting, the significant signature requirement, and \nother particular circumstances therein, establishes severe, discriminatory, unreasonable, \n14 \n\nCase 5:20-cv-00687-D   Document 1   Filed 07/15/20   Page 15 of 18\nand an undue burden on non-recognized political party candidates for President of the \nUnited States seeking ballot access in Oklahoma. \nXVIII. \nThe consequences of the aforesaid lack of a reasonable and equal filing fee for a \nnon-recognized political party presidential candidate, while providing a reasonable filing \nfee for U.S. Senator, an absolute ban on write-in voting, relatively high petition signature \nrequirement, the relatively early and unnecessary petition deadline, and the continued \nlack of success and freezing of the status quo as to obtaining ballot access for non \nrecognized political party presidential candidates as opposed to the continuing success of \nIndependent U.S. Senate candidates in obtaining ballot access in Oklahoma by only using \nthe filing fee option, all as complained of hereinabove, is that HOWARD HAWKINS \nwill fail to qualify as a Presidential candidate for the General Election ballot for 2020 in \nOklahoma and voters in Oklahoma will lose their choice to vote for him, thus, consigning \nsome Oklahoma voters to the status quo of foregoing their vote or choosing between the \nPresidential and Vice Presidential candidates of the Republican, Libertarian, and \nDemocratic parties.  Additionally, because votes cast for President of the United States \nare done in the context of a national election, voters outside Oklahoma who cast their \nballots for HOWARD HAWKINS will have their votes effectively diluted by the refusal \nof the Defendant to allow HOWARD HAWKINS on the Oklahoma General Election \nballot for 2020. \n15 \n\nCase 5:20-cv-00687-D   Document 1   Filed 07/15/20   Page 16 of 18\nXIX. \nPlaintiffs herein, as a result and for the reasons set forth hereinabove, and the \naforesaid State laws set forth in rhetorical paragraph V above, will suffer immediate and \nirreparable harm in the event that the aforesaid complained of election laws are followed \nfor the year 2020 and subsequent years-thus, denying the aforesaid candidates for \nPresident and Vice-President a place on the Oklahoma Election ballot for 2020.  Plaintiffs \nwill thus be denied their rights to actively engage in the exercise of their free speech, \nright to political association, petition the government, seek redress of grievances, political \ncandidacy, and equal protection and due process of the laws of the United States of \nAmerica.  Plaintiffs have no adequate remedy at law for the denial of their rights and the \nimpairment of the Constitutional rights, privileges, and immunities enjoyed by citizens of \nthe United States and the State of Oklahoma, and, unless a preliminary injunction and \npermanent injunction are granted, Plaintiffs will suffer great and irreparable harm. \nWHEREFORE, Plaintiffs demand judgment: \n1.  Declaring that Okla. Stat. tit. 26, §§ 5-112 and 10-101.1, as applied to the \nPlaintiffs herein for the 2020 Oklahoma General Election, and all subsequent Oklahoma \nGeneral Elections, and the facts and circumstances relating thereto, are illegal and \nunconstitutional, in that they violate the rights of the Plaintiffs to equal protection under \nthe First and Fourteenth Amendments to the United States Constitution, and Title 42, \nU.S.C. § 1983, in that the aforesaid statutes are discriminatory, unequal, unduly severe \nand burdensome, and not framed in the least restrictive manner necessary to achieve the \nlegitimate State interests in regulating ballot access, particularly as relating to the fact that \n16 \n\nCase 5:20-cv-00687-D   Document 1   Filed 07/15/20   Page 17 of 18\nalternatives of reasonable filing fees are available for the other statewide Federal office, \ni.e., U.S. Senator, but not President and Vice President of the United States-where the \nfiling fee is Thirty-five Thousand Dollars, and, thus, creating a discriminatory and \nunequal treatment within a class of candidates (viz.: Independent Federal candidates for \nstatewide office as opposed to candidates of non-recognized political parties in Oklahoma \nfor President of the United States) without a constitutionally compelling interest or \nrational basis by the State to justify such disparate treatment; and the presidential filing \ndeadline is unconstitutionally and unnecessarily early as applied to non-recognized \npolitical party presidential and vice presidential candidates in the State of Oklahoma. \n2.  Entering preliminary and permanent injunctions restraining, prohibiting, and \nenjoining the Defendant to the instant action, and all persons in active concert and \nparticipation with him, from enforcing, applying, or implementing the aforesaid \ncomplained of State Election laws as applied to the instant Plaintiffs for the year 2020 \nGeneral Election, and all subsequent Oklahoma General Elections, and the facts and \ncircumstances relating thereto. \n3.  Issuing such other injunctive relief as the Court deems necessary to the said \nDefendant, and all persons in active concert and participation with him, ordering them \nnot to take any action that would deny the Plaintiffs who are citizens of the State of \nOklahoma, or any other persons so inclined, the right to cast their votes for HOWARD \nHAWKINS for President of the United States, and ordering said Defendant to place the \nname of HOWARD HAWKINS on the Oklahoma ballot for the General Election in \n2020. \n17 \n\nCase 5:20-cv-00687-D   Document 1   Filed 07/15/20   Page 18 of 18\n4.  Awarding Plaintiffs the reasonable costs and expenses of this action, including \nattorney's fees pursuant to the Civil Rights Attorney's Fees and Awards Act of 1976, 42 \nU.S.C. § 1988; and \n5.  Granting Plaintiffs such other and further relief as to which they may be \nentitled and which the CoUii may deem equitable and just. \nDated this 15'11 day of July, 2020. \nHOWARD HAWKINS, \nCandidate for President of the \nUnited States, et al., Plaintiffs \nS C. LINGER,  BA# \nCounsel for Plaintiffs \n1710 South Boston A venue \nTulsa, OK 74119-4810 \n(918) 585-2797 Telephone \n(918) 583-8283 Facsimile \nboston barristcrs(a).tu lsacoxmai !.com \n18 ",
+      "document_type_other": "",
+      "external_url": "",
+      "ecf_number": "1",
+      "clearinghouse_link": "clearinghouse.net/doc/110670"
+    }
+  ],
+  "document_count": 4
+}

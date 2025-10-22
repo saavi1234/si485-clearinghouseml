@@ -1,0 +1,240 @@
+{
+  "case_id": 11267,
+  "fetched_at": "2025-10-22T00:14:21.942804",
+  "case_data": {
+    "attorney_orgs": [
+      "Law Office of Lainey Feingold"
+    ],
+    "available_documents": [
+      "Injunctive (or Injunctive-like) Relief"
+    ],
+    "case_defendants": [
+      {
+        "defendant_level": null,
+        "institution": "",
+        "institution_alt_state": null,
+        "institution_city": "",
+        "institution_county": null,
+        "name": "Staples",
+        "defendant_level_other": "",
+        "is_active": true
+      }
+    ],
+    "case_ongoing": "No",
+    "case_status": "Approved",
+    "case_types": [
+      "Disability Rights"
+    ],
+    "cause_other": "",
+    "causes": [
+      "Americans with Disabilities Act (ADA), 42 U.S.C. §§ 12111 et seq."
+    ],
+    "class_action_granted": "Not sought",
+    "class_action_sought": "No",
+    "closing_year": 2010,
+    "constitutional_clause": [],
+    "content_of_injunction": [
+      {
+        "value": "Implement complaint/dispute resolution process"
+      },
+      {
+        "value": "Required disclosure"
+      },
+      {
+        "value": "Training"
+      }
+    ],
+    "court": "No Court",
+    "custom_issues": [],
+    "defendant_payment": "",
+    "defendant_type": [],
+    "docket_status": "None",
+    "facility_type": [
+      {
+        "value": "Non-government for-profit"
+      }
+    ],
+    "filing_date": null,
+    "filing_year": 2009,
+    "id": 11267,
+    "injunction_duration": "21",
+    "issues": [
+      "Discrimination Basis: Disability (inc. reasonable accommodations)",
+      "Disability and Disability Rights: Visual impairment"
+    ],
+    "last_checked_date": "2020-01-18T00:00:00-05:00",
+    "main_docket": {
+      "id": 31788,
+      "docket_entries": [],
+      "docket_case_type": "",
+      "docket_year": null,
+      "docket_filing_number": null,
+      "is_main_docket": true,
+      "court": "No Court",
+      "state": "California",
+      "docket_office_number": "",
+      "docket_number_manual": "NA",
+      "scales_html": null,
+      "recap_link": null,
+      "is_active": false
+    },
+    "name": "Staples Accessible Web Site and Point of Sale Settlement Agreement",
+    "never_filed": false,
+    "non_docket_case_number": "",
+    "non_docket_case_number_type": null,
+    "non_docket_case_number_type_other": "",
+    "order_end_year": 2010,
+    "order_start_year": 2009,
+    "permanent_injunction": false,
+    "plaintiff_description": "People with vision loss.",
+    "plaintiff_type": [
+      {
+        "value": "Private Plaintiff"
+      }
+    ],
+    "prevailing_party": "Plaintiff",
+    "pro_se_status": "No",
+    "public_interest_lawyer": "Yes",
+    "related_cases": [],
+    "relief_natures": [
+      "Injunction / Injunctive-like Settlement"
+    ],
+    "relief_nature_other": "",
+    "relief_sources": [
+      "Settlement"
+    ],
+    "settlement_agreement": [
+      "Private Settlement Agreement"
+    ],
+    "settlement_judgment_date": null,
+    "settlement_judgment_year": null,
+    "special_collections": [],
+    "special_case_type": [
+      {
+        "value": "Out-of-court"
+      }
+    ],
+    "state": "California",
+    "summary": "<p>During 2008, public interest attorneys representing the American Council of the Blind (ACB), the American Foundation for the Blind (AFB), the California Council of the Blind (CCB), and the Bay State Council of the Blind (BSCB) used structured negotiation to establish a settlement agreement with the publicly traded office supply company Staples.  </p><p>Under the settlement, Staples agreed to install tactile point of sale devices at all of its California stores by December 31, 2009, and in all of the rest of its stores nationwide by no later than April 30, 2010.  The tactile POS machines have tactile keys arranged like a standard telephone keypad, and allow blind and visually impaired customers to independently enter PINs and other confidential information when purchasing products at Staples stores.  Under the Settlement Agreement, Staples will also upgrade its commercial web site by no later than June 30, 2009 to make it compliant with Priorities 1 and 2 of the Web Content Accessibility Guidelines (WCAG) promulgated by the Web Accessibility Initiative (WAI) of the World Wide Web Consortium.  </p><p>Because there is no record of any disputes between the parties regarding compliance with the agreement, it appears that Staples satisfied its obligations by April 30, 2010. </p>",
+    "summary_published_date": "2009-05-11T00:00:00-04:00",
+    "summary_short": "During 2008, public interest attorneys representing the blind community negotiated a settlement agreement with Staples.  Under the terms of the settlement, Staples agreed to install tactile point of sale devices and upgrade its commercial web site to make it compliant with Priorities 1 and 2 of the Web Content Accessibility Guidelines.",
+    "summary_tiny": null,
+    "terminating_date": null,
+    "clearinghouse_link": "clearinghouse.net/case/11267",
+    "is_active": true,
+    "case_documents_url": "https://clearinghouse.net/api/v2/documents/?case=11267",
+    "case_dockets_url": "https://clearinghouse.net/api/v2/dockets/?case=11267",
+    "case_resources_url": "https://clearinghouse.net/api/v2/resources/?case=11267"
+  },
+  "documents": [
+    {
+      "date": "2009-04-23",
+      "date_is_estimate": false,
+      "date_not_available": false,
+      "description": null,
+      "document_source": "Lainey Feingold website",
+      "document_status": "Coding Complete",
+      "document_type": "Press Release",
+      "order_type": null,
+      "citation_paren": null,
+      "cite_1_page": null,
+      "cite_1_reporter": null,
+      "cite_1_vol": null,
+      "cite_2_page": null,
+      "cite_2_reporter": null,
+      "cite_2_vol": null,
+      "cite_3_page": null,
+      "cite_3_reporter": null,
+      "cite_3_vol": null,
+      "citation_status": "Not applicable",
+      "court": "No Court",
+      "no_title": false,
+      "party_types": [
+        "Defendant",
+        "Plaintiff"
+      ],
+      "per_curium": false,
+      "is_core_document": true,
+      "id": 33925,
+      "file": "https://clearinghouse-umich-production.s3.amazonaws.com/media/doc/33925.pdf",
+      "title": "Press Release",
+      "text": "Blind Community Leaders Applaud Staples’ Initiative to Enhance \nStaples.com and Store Point of Sale Equipment \nFramingham, MA (April 23, 2009)– Major advocacy groups for the visually impaired \napplaud Staples’ new initiatives designed to improve service to its customers with visual \nimpairments. Staples will be improving its payment service terminals at the in-store \npoint-of-sale with tactile keypads to protect the privacy and security of shoppers with \nvisual impairments. The company will also make improvements to Staples.com that will \nbenefit customers with visual impairments and other disabilities.  \nToday’s announcement is the result of collaboration between Staples and major blindness \norganizations including the Bay State Council of the Blind (Massachusetts), the \nAmerican Foundation for the Blind, the American Council of the Blind, and the \nCalifornia Council of the Blind. These organizations praised Staples’ initiative and urged \nother retailers to follow the company’s example.  \nWeb Site Access \nToday’s initiative includes Staples’ commitment to design www.staples.com in \naccordance with guidelines issued by the Web Accessibility Initiative (WAI) of the \nWorld Wide Web Consortium (W3C). The guidelines, which do not affect the content or \nlook and feel of a Web site, ensure that Web sites are accessible to persons with a wide \nrange of disabilities. The guidelines are of particular benefit to blind computer users who \nuse screen reader or magnification technology on their computers and who rely on a \nkeyboard instead of a mouse. \nWeb site accessibility is of critical importance to both the blind \ncommunity and to people with disabilities generally. We applaud Staples’ \ncommitment to address the accessibility of its Web site, thereby improving \nthe browsing and shopping experience for a broad range of on-line \nshoppers.—Paul Schroeder, Vice President Programs and Policy Group, \nAmerican Foundation for the Blind  \nPoint of Sale Improvements \nStaples will be adding tactile keypads to payment services devices throughout the chain. \nThe new units will allow Staples’ shoppers who have difficulty reading information on a \ntouch screen to privately and independently enter their PIN and other confidential \ninformation. Staples stores in Massachusetts will have the new devices by September of \nthis year. All stores in the country are scheduled to have the devices by the middle of next \nyear.  \nThe new devices are designed to protect the financial privacy of shoppers who are blind \nor visually impaired. The devices have tactile keys arranged like a standard telephone \nkeypad and work in conjunction with Staples’ existing point of sale terminals.  \n\nBlind community representatives praised Staples’ plan to enhance its payment services \ndevices.  \nPoint of sale devices need to have keys with tactile markings so people \nwho are blind do not have to ask for assistance or share their PIN with \nstrangers. This settlement and the collaboration that led up to it, \ndemonstrates Staples understanding of this fact and its strong commitment \nto accessibility for blind and visually impaired customers. — Kim \nCharlson, Bay State Council of the Blind  \nAbout Staples \nStaples, the world’s largest office products company, is committed to making it easy for \ncustomers to buy a wide range of office products, including supplies, technology, \nfurniture, and business services. With 2008 sales of $23 billion and 91,000 associates \nworldwide, Staples serves businesses of all sizes and consumers in 27 countries \nthroughout North and South America, Europe, Asia and Australia. In July 2008, Staples \nacquired Corporate Express, one of the world’s leading suppliers of office products to \nbusinesses and institutions. Staples invented the office superstore concept in 1986 and is \nheadquartered outside Boston. More information about Staples (Nasdaq: SPLS) is \navailable at www.staples.com. \nAbout American Council of the Blind (ACB), Bay State Council of the Blind (BSCB) \nand California Council of the Blind (CCB) \nAmerican Council of the Blind is a national consumer-based advocacy organization \nworking on behalf of blind and visually impaired Americans throughout the country, with \nmembers organized through seventy state and special interest affiliates. The Bay State \nCouncil of the Blind and the California Council of the Blind are the Massachusetts and \nCalifornia state affiliates of the ACB. ACB, BSCB and CCB are dedicated to improving \nthe quality of life, equality of opportunity and independence of all people who have \nvisual impairments. Their members and affiliated organizations have a long history of \ncommitment to the advancement of policies and programs which will enhance \nindependence for people who are blind and visually impaired. More information about \nACB, BSCB and CCB can be found by visiting www.acb.org, \nhttp://www.acb.org/baystate/, and www.ccbnet.org. \nAbout American Foundation for the Blind \nThe American Foundation for the Blind (AFB) is a national nonprofit that expands \npossibilities for people with vision loss. AFB’s priorities include broadening access to \ntechnology; elevating the quality of information and tools for the professionals who serve \npeople with vision loss; and promoting independent and healthy living for people with \nvision loss by providing them and their families with relevant and timely resources. AFB \nis also proud to house the Helen Keller Archives and honor the over forty years that \n\nHelen Keller worked tirelessly with AFB. For more information visit us online at \nwww.afb.org. \nFor More Information, Contact \nFor ACB, BSCB, CCB \nMelanie Brunson, 202-467-5081, mbrunson [at] acb.org \nFor AFB \nCaitlin McFeely, AFB Communications, 212-502-7674, cmcfeely [at] afb.net \nFor Staples  \nOwen Davis, 508-253-8468 \n ",
+      "document_type_other": null,
+      "external_url": "http://lflegal.com/2009/04/staples-press/",
+      "ecf_number": null,
+      "clearinghouse_link": "clearinghouse.net/doc/33925"
+    },
+    {
+      "date": null,
+      "date_is_estimate": false,
+      "date_not_available": false,
+      "description": null,
+      "document_source": null,
+      "document_status": null,
+      "document_type": null,
+      "order_type": null,
+      "citation_paren": null,
+      "cite_1_page": null,
+      "cite_1_reporter": null,
+      "cite_1_vol": null,
+      "cite_2_page": null,
+      "cite_2_reporter": null,
+      "cite_2_vol": null,
+      "cite_3_page": null,
+      "cite_3_reporter": null,
+      "cite_3_vol": null,
+      "citation_status": null,
+      "court": null,
+      "no_title": false,
+      "party_types": [],
+      "per_curium": false,
+      "is_core_document": true,
+      "id": 119275,
+      "file": null,
+      "title": null,
+      "text": null,
+      "document_type_other": null,
+      "external_url": null,
+      "ecf_number": null,
+      "clearinghouse_link": "clearinghouse.net/doc/119275"
+    },
+    {
+      "date": null,
+      "date_is_estimate": false,
+      "date_not_available": true,
+      "description": null,
+      "document_source": "Lainey Feingold website",
+      "document_status": "Coding Complete",
+      "document_type": "Settlement Agreement",
+      "order_type": "Consent Decree",
+      "citation_paren": null,
+      "cite_1_page": null,
+      "cite_1_reporter": null,
+      "cite_1_vol": null,
+      "cite_2_page": null,
+      "cite_2_reporter": null,
+      "cite_2_vol": null,
+      "cite_3_page": null,
+      "cite_3_reporter": null,
+      "cite_3_vol": null,
+      "citation_status": "Not applicable",
+      "court": "No Court",
+      "no_title": false,
+      "party_types": [
+        "Defendant",
+        "Plaintiff"
+      ],
+      "per_curium": false,
+      "is_core_document": true,
+      "id": 33924,
+      "file": "https://clearinghouse-umich-production.s3.amazonaws.com/media/doc/33924.pdf",
+      "title": "Settlement Agreement",
+      "text": "SETTLEMENT AGREEMENT \nThis Settlement Agreement (hereinafter “Settlement Agreement”) and the related and \nincorporated document entitled Confidential Addendum to Settlement Agreement (collectively \nreferred to herein as the “Full Agreement”) are entered into as of the Effective Date, as defined \nbelow in Section 1.6, by and between the following parties:  American Council of the Blind \n(“ACB”), American Foundation for the Blind (“AFB”), Bay State Council of the Blind \n(“BSCB”) and California Council of the Blind (“CCB”) (collectively, the “Claimants”), and \nStaples, Inc. (“Staples”).  Claimants and Staples are at times referred to collectively herein as the \n“Parties.” \nRECITALS \nThe Full Agreement is based on the following facts: \nA.  ACB, a non-profit corporation that provides advocacy services in the United \nStates on behalf of individuals who are blind or have visual impairments, is dedicated to \npromoting the full integration of persons who are blind or have visual impairments into all \naspects of society, and provides information to the general public about the accomplishments, \nneeds and contributions of persons who are blind or visually-impaired.  BSCB and CCB are \nACB affiliates, serving the needs of blind and visually-impaired persons throughout \nMassachusetts and California respectively.  ACB is incorporated and has its place of business in \nWashington, D.C.  BSCB is incorporated and has its place of business in the Commonwealth of \nMassachusetts. CCB is incorporated and has its place of business in the State of California. \nB.  AFB is a national non-profit whose mission is to eliminate the inequities faced by \nthe more than ten million blind and visually impaired persons in the United States.  Among other \nthings, AFB is:  the leading publisher of professional materials on blindness and low vision \nthrough its publishing arm, AFB Press; a pioneer in the development of Talking Books; a \nnational advocate representing the interests of blind or visually impaired people before Congress \nand government agencies; and home to the Helen Keller Archives.  \nC.  Staples owns and operates retail stores in Massachusetts, California and other \nstates across the United States. \nD.  Claimants contend that they and their respective boards, staff, members and \nclients, and other blind and visually-impaired persons, have been, are being, and continue to be \ndenied full access to the services provided by retail establishments and are therefore being \ndiscriminated against due to alleged inaccessibility of certain Point of Sale Devices (defined in \nSection 1.8 below) found in Staples Stores and alleged inaccessibility of www.Staples.com.  \nStaples denies that it discriminates against blind and visually-impaired persons, including \nClaimants and their respective boards, staff, members and clients, in any way and specifically \ndenies that it discriminates against such blind and visually-impaired persons due to alleged \ninaccessibility of certain Point of Sale Devices in Staples Stores and/or the alleged inaccessibility \nof www.Staples.com. \nE.  The Parties enter into the Full Agreement in order to resolve the dispute and to \navoid the burden, expense, and risk of potential litigation.  In entering into the Full Agreement, \nWEST\\21650689.1   1 \n\nStaples does not admit, and specifically denies, that it has violated or failed to comply with any \nprovisions of the Americans with Disabilities Act of 1990, 42 U.S.C. § 12101, et seq., and the \nTitle III implementing regulations, 28 C.F.R., Part 36, and any applicable laws of any state \nrelating to accessibility for persons with disabilities to public accommodations, any regulations \nor guidelines promulgated pursuant to those statutes, or any other applicable laws, regulations, or \nlegal requirements.  Neither the Full Agreement, nor any of its terms or provisions, nor any of \nthe negotiations connected with it, shall be construed as an admission or concession by Staples of \nany such violation or failure to comply with any applicable law.  Neither the Full Agreement nor \nany of its terms and provisions shall be offered or received as evidence for any purpose \nwhatsoever against Staples in any action or proceeding, other than a proceeding to enforce the \nterms of the Full Agreement. \nNOW, THEREFORE, the Parties hereby agree to the following provisions: \n1.  Definitions.  As used in the Full Agreement, the following terms shall be as \ndefined below:   \n1.1  Access Laws means the Americans with Disabilities Act (as defined \nbelow) and any applicable laws of any state, county or municipality relating to accessibility for \npersons with disabilities to places of public accommodation, any regulations or guidelines \npromulgated pursuant to those statutes, or any other applicable disability laws, regulations, or \nlegal requirements, including, without limitation, California Civil Code §§ 51, et seq. and 54, et \nseq., California Financial Code § 13082, California Health & Safety § 19955, and Title 24 of the \nCalifornia Code of Regulations and Massachusetts Public Accommodations Law, G.L. c.272, § \n98, and Amendment Article 114 to the Massachusetts Constitution.  \n1.2  Americans with Disabilities Act or ADA means the Americans with \nDisabilities Act of 1990, 42 U.S.C. § 12101, et seq., and the Title III implementing regulations, \n28 C.F.R., Part 36. \n1.3  Back End Checkout Counter means the counter at the back of some \nStaples Stores where a POS Device is placed and which is utilized by Staples employees to assist \ncustomers in paying for products or services. \n1.4  Copy Center Counter means a counter that is separate from a Front End or \nBack End Checkout Counter where a POS Device is placed and which is utilized by Staples \nemployees to assist customers in paying for products or services available at the Copy Center.  \n1.5  Counsel means Goldstein, Demchak, Baller, Borgen and Dardarian, The \nLaw Office of Lainey Feingold, and the attorneys practicing law therein. \n1.6  Effective Date means December 31, 2008. \n1.7  Existing Staples Store means a Staples store that is open to the public on \nDecember 31, 2008. \n1.8  Front End Checkout Counter means the counter at the front of a Staples \nStore where a POS Device is placed and which is utilized by Staples employees to assist \ncustomers in paying for products or services. \nWEST\\21650689.1   2 \n\n1.9  Point of Sale Device Function, or Function means a task related to \npayment for purchases that can be performed by the customer through the Point of Sale Device. \n1.10  Point of Sale Device or POS Device means a device used by a customer at \na point of purchase that allows the customer to pay for items with a debit, credit or other \nelectronic funds card.  POS Device does not include other equipment that may be used by a \ncustomer in conjunction with the Device to scan, price, or weigh products. \n1.11  Tactile Keypad means a number keypad that is part of a unit separate from \nthe Point of Sale Device but which is either snapped onto or plugged into a Point of Sale Device \nand has the following features: Each key (button) is tactually discernable from surrounding \nsurfaces and adjacent keys; Numeric keys are arranged in a 12-key ascending telephone keypad \nlayout; the number five key is tactually distinct from the other keys by means of a raised dot; \nFunction keys have contrasting colors, as follows:  (i) Enter/ Accept (green key); (ii) Cancel (red \nkey); and (iii) Correct / Clear (yellow key).  Claimants agree that the Hypercom overlay bearing \nmodel number 3010, and the Hypercom PIN pad bearing model number P1310 meet these \nrequirements.  A Tactile Keypad may be used to perform the following Functions:  input, correct, \ncancel and enter PIN, telephone number, other numeric information, and cash-back amounts. \n1.12  New Staples Store means a Staples store that is first opened to the public \nafter December 31, 2008. \n1.13  Next Generation POS Device means the POS Device that will replace the \nPOS Devices that exist in Staples Stores as of the Effective Date.  Any such device will include \nan integrated or permanently affixed Tactile Keypad, have raised tactile markings on the \nFunction keys, as follows:  Enter/ Accept (green key with a raised circle); (ii) Cancel (red key \nwith a raised X); and (iii) Correct / Clear (yellow key with a raised backward arrow), and provide \nat least the same level of functionality for customers with visual impairments as provided by the \nTactile Keypad. \n1.14  Personal Identification Number, or PIN means a unique numerical code \nused by individual customers that must be entered into a POS Device before conducting certain \ntransactions on the POS Device. \n1.15  Staples Store(s) means retail stores owned and operated by Staples in the \nUnited States.   \n2.  Duration and Geographic Scope of Agreement.  The Full Agreement shall apply \nto Staples Stores in every State in the United States.  The terms of the Full Agreement shall \nremain in effect from the Effective Date until September 30, 2010. \n3.  Provisions Regarding Tactile Keypads and Point of Sale Devices. \n3.1  Installation of Tactile Keypads in Staples Stores in California.  Staples \nwill permanently affix Tactile Keypads on all POS Devices in all Existing Staples Stores in \nCalifornia no later than December 31, 2009.  Staples will permanently affix Tactile Keypads on \nall POS Devices in all New Staples Stores in California prior to the date on which those stores \nare opened to the public.   \nWEST\\21650689.1   3 \n\n3.2  Schedule for Installing Tactile Keypads in Staples Stores Outside of \nCalifornia.   \n3.2.1  Commencing in February 2009 and completing by no later than \nSeptember 30, 2009, Staples will provide Tactile Keypads as designated in Section 3.3 in 25% of \nExisting and New Staples Stores.  All Staples Stores in Massachusetts will be included within the \n25% of Stores covered by this section 3.2.1.  \n3.2.2  By  no  later  than  April  30,  2010,  Staples  will  provide  Tactile \nKeypads as designated in Section 3.3 in 100% of Existing and New Staples Stores.  \n3.3  Locations of Tactile Keypads in Staples Stores Outside of California.  The \nTactile Keypads installed in each Staples Store pursuant to Section 3.2 shall be placed in the \nStores as follows: \n3.3.1  In Staples Stores without a Back End Checkout Counter, one \nTactile Keypad shall be installed at one POS Device at the Front End Checkout Counter and one \nTactile Keypad shall be installed at the POS Device at the Copy Center Counter.  Subject to \nSection 3.5 herein, each Tactile Keypad described in this section, if not permanently affixed to \nthe POS Device, shall be kept in a designated, labeled compartment or drawer at the Counter \nwith the POS Devices, such that the cashier does not need to leave the POS Device to obtain the \nTactile Keypad at the designated location.  Whenever possible, the Tactile Keypad installed at \nthe Front End Checkout Counter will be installed on the POS Device nearest to the exit door. \n3.3.2  In all Staples Stores with a Back End Checkout Counter, one \nTactile Keypad shall be installed at one POS Device at the Front End Checkout Counter; one \nTactile Keypad shall be installed at one POS Device at the Back End Checkout Counter; and one \nTactile Keypad shall be installed at the POS Device at the Copy Center Counter.  Subject to \nSection 3.5 herein, the Tactile Keypads described in this section, if not permanently affixed to \nthe POS Device, shall be kept in a designated, labeled compartment or drawer at the Counter \nwith the POS Devices, such that the cashier does not need to leave the POS Device to obtain the \nTactile Keypad at the designated location.  Whenever possible, the Tactile Keypads installed at \nthe Front End Checkout Counter will be installed on the POS Devices located nearest to the exit \ndoor.  \n3.4  Signature Block.  If customers are required to sign directly on the Point of \nSale Terminal in order to complete a transaction, the terminal screen shall have no virtual \nfunction keys below the signature line. \n3.5  Maintenance of Tactile Keypads.  Staples will use its best efforts to \nmaintain all Tactile Keypads installed pursuant to this Agreement in operable, working condition \nexcept for isolated or temporary interruptions in service due to maintenance or repairs.  \n3.6  Installation Information to Claimants.  No later than 30 days after the \ndates set forth in Sections 3.1 and 3.2 herein, Staples will provide written confirmation to \nClaimants that the required Tactile Keypads have been installed.  The confirmation provided in \nconnection with Sections 3.2.1 and 3.2.2 will also include the locations of Staples Stores at \nwhich Tactile Keypads have been installed during the reporting period.  \nWEST\\21650689.1   4 \n\n4.  Provisions Regarding Next Generation POS Devices.  Staples will offer \nClaimants the opportunity to test and provide feedback on any Next Generation Device under \nconsideration by Staples during the Term of this Agreement, prior to any final decision being \nmade by Staples regarding the Next Generation Device.  Claimants shall provide any feedback \nwithin fourteen days of their testing.  Staples will consider in good faith the feedback provided \nby Claimants but will not be in breach of this Agreement if Staples does not incorporate the \nfeedback.  Staples will retain the right to decide the type and nature of the Next Generation POS \nDevice. \n5.  Training of Staples Personnel. \n5.1  On or before the date on which the Tactile Keypads are installed pursuant \nto this Agreement, Staples will modify its current training materials to include instruction to its \nmanagers and sales associates regarding:  (i) the installation and location of Tactile Keypads; (ii) \nthe reason blind and visually impaired Staples customers need the devices; (iii) the manner in \nwhich blind Staples customers use the devices; and (iv) guidelines for appropriate interactions \nwith visually impaired customers using the Tactile Keypads.  Additionally, Staples will provide \nall its Stores with an easy to use reference guide to serve as a “refresher” to the training.  \nAppropriate store personnel will be trained to include as part of their daily store closing \nprocedures ensuring that the Tactile Devices, if not affixed to POS Devices, are properly stored \nin their designated compartments or drawers.  Staples will also instruct its district managers to \nconduct a monthly audit to ensure that the Tactile Devices, if not affixed to POS Devices, are \nproperly stored in their designated compartments or drawers. \n5.2  Staples will provide Claimants with a copy of the training materials prior \nto their being finalized.  Review and distribution of the proprietary training material is to be \nlimited to Claimants and their attorneys only for purposes of this dispute.  All training material \nwill be returned to Staples.  Staples will consider the feedback provided by Claimants, but \nStaples retains full discretion over all matters relating to the training materials, including their \nform, content, and implementation. \n5.3  All Staples managers and sales associates will receive the above-\nreferenced training prior to the date on which the Tactile Keypads are installed in their respective \nstores. \n6.  Provisions Regarding Accessibility of www.Staples.com. \n6.1  Staples will continue to use good faith efforts to ensure that all pages of \nwww.Staples.com will substantially comply with the Priority One and Two checkpoints of the \nWeb Content Accessibility Guidelines (hereafter “WCAG” or “Guidelines”) by no later than \nJune 30, 2009.  The Parties recognize that some Priority One or Two checkpoints address \nfeatures or design elements that may not be used on www.Staples.com and in such circumstances \ncompliance with those checkpoints is not required.   \n6.2  To the extent Staples hires contractors or vendors for website development \nand design work on www.Staples.com, it will make a good faith effort to locate and select \ncontractors and vendors that are able to comply with the Guidelines. \n6.3  CAPTCHA \nWEST\\21650689.1   5 \n\n6.3.1  If any Completely Automated Public Turing Test to Tell \nComputers and Humans Apart or similar visual or textual Turing or reverse-Turing verification \ntest (referred herein as “CAPTCHA”) is used on www.staples.com, Staples will incorporate \nalternative security measures that are usable by Persons with Visual Impairments. \n6.3.2  Testing of Proposed Alternatives to Visual Verifications.  If, after \nthe Effective Date, Staples plans to continue using any security measure that includes a \nCAPTCHA on www.staples.com, Staples will provide a method for Claimants’ representatives \nto test the alternative security measure to ensure that it is usable by Persons with Visual \nImpairments.  Such testing will occur no later than April 30, 2009 and Staples will give good \nfaith consideration to all feedback provided by Claimants’ representatives, provided that such \nfeedback is provided within fifteen (15) days of the testing.  Any disagreements regarding this \nfeedback will be treated as a dispute subject to the terms of the dispute resolution provisions of \nSection 8 of this Agreement.  \n6.4  Third-Party Content.  The Parties recognize that there may be certain \ncontent on www.Staples.com that is not written or controlled by Staples (“Third-Party Content”).  \nStaples’s only obligations under this Agreement with respect to Third-Party Content are the \nfollowing:  \n6.4.1  By no later than March 1, 2009, Staples will request in writing that \nthird parties supplying web-content to www.Staples.com voluntarily bring their content into \nconformance with the Priority One and Two Checkpoints of WCAG 1.0 to the extent applicable.   \n6.4.2  If, on or after the Effective Date, Staples issues requests for \nproposals or enters into contracts for development or inclusion of Third-Party Content on \nwww.Staples.com, Staples will include a requirement that the third party make good faith efforts \nto comply with the Guidelines in all such requests for proposals and vendor contracts.  \n6.5  No later than April 30, 2009, Staples will provide Claimants with written \nconfirmation that it has met the requirements of Section 6.1 of this Agreement. \n6.6  Changes to WCAG 1.0.  If WCAG 1.0 is superseded by a later version, \nsuch as the Web Content Accessibility Guidelines 2.0 Working Draft (“Version 2.0”) currently \nunder development, Staples will have the option of complying with either Version 1.0 or Version \n2.0.  If Version 2.0 is selected, Staples will meet conformance level AA.   \n6.7  Accessibility Information.  Staples will post information on its website, \nlinked from the homepage, describing its efforts to comply with the Guidelines.  Staples will \nprovide a method by which users can notify the company about web accessibility concerns.  \nStaples will notify visitors to www.Staples.com when they are linking to Third-Party Content, as \nthat term is used herein. \n7.  Joint Press Release.  The Claimants and Staples may jointly issue a press release \nannouncing the terms of this Agreement.  If the Parties cannot agree on the language of a joint \npress release, either party may issue its own release provided that it is shared with the other \nParties at least three business days prior to issuance and provided that the release is consistent \nwith the terms of this agreement and reflects the collaborative method in which the Parties’ \nDispute was resolved. \nWEST\\21650689.1   6 \n\n8.  Procedures in the Event of Disputes. \n8.1  Notice of Non-Compliance.  If a Party believes that the other Party has not \ncomplied with any provision of the Full Agreement, that party shall provide the other Party with \nNotice of Non-compliance containing the following information: \n8.1.1  the alleged act of non-compliance; \n8.1.2  a reference to the specific provision(s) of the Settlement \nAgreement or Confidential Addendum that are involved; \n8.1.3  a statement of the remedial action sought by the initiating party; \n8.1.4  a brief statement of the specific facts, circumstances and legal \nargument supporting the position of the initiating party. \n8.2  Response.  Within forty-five (45) days of receipt of a Notice provided \npursuant to Section 8.1, the non-initiating Party shall respond to the initiating Party in writing. \n8.3  Meet and Confer.  Within two weeks after the response described above, \nthe Parties shall informally meet and confer and attempt to resolve the issues raised in the \nNotice. \n8.4  Submission to Mediation/Binding Arbitration. \n8.4.1  If the matters raised in a Notice provided pursuant to Section 8.1 \nare not resolved within forty-five (45) days of the initial meet and confer required by Section 8.3, \neither party may submit the unresolved matters to nonbinding mediation before a mediator \naffiliated with JAMS, or such other mediator as the Parties may jointly agree to use. \nIf the dispute is not settled in mediation, it shall be submitted to binding arbitration before \nan arbitrator affiliated with JAMS.  The arbitration hearing shall be conducted, in accordance \nwith the JAMS Streamlined Arbitration Rules & Procedures.  However, those Rules will be \nmodified as necessary to ensure that the hearing is held as soon as practicable after the \nsubmission to arbitration, and that a written decision on the matter is rendered within sixty (60) \ndays of the last hearing date. \n9.  Notice or Communication to Parties.  Any notice or communication required or \npermitted to be given to the Parties hereunder shall be given in writing by email and United \nStates mail, addressed as follows: \nTo Claimants: \nLinda M. Dardarian \nc/o Goldstein, Demchak, Baller, Borgen & Dardarian \n300 Lakeside Drive, Suite 1000 \nOakland, CA  94612 \nemail:  ldardarian@gdblegal.com  \nWEST\\21650689.1   7 \n\nLainey Feingold \nLaw Office of Lainey Feingold \n1524 Scenic Avenue \nBerkeley, CA  94708 \nemail:  LF@LFLegal.com \n \nTo Staples: \nCindy Westervelt \nVice President, Associate General Counsel \nStaples, Inc. \n500 Staples Drive \n2 West \nFramingham, MA  01702 \nemail:  Cindy.Westervelt@Staples.com \n \n10.  Feedback from Claimants.  On a date during the third quarter of 2009 that is \nmutually agreed to by the Parties, Staples will meet by telephone or in person with \nrepresentatives of Claimants to elicit input and receive feedback regarding the implementation of \nthis Agreement and any other issue regarding technology used by Staples customers and its \neffect on customers who are blind or visually impaired.  Staples will also make a good faith \neffort to arrange and participate in a meeting by telephone or in person between Claimants and \nthe manufacturer of Staples’ POS Devices and Tactile Keypads to discuss the inclusion of tactile \nmarkings on the Function keys of such devices. \n11.  Modification in Writing.  No modification of the Full Agreement shall be \neffective unless in writing and signed by authorized representatives of all Parties. \n12.  No Other Representations.  Each Party to the Full Agreement warrants that he, \nshe or it is acting upon his, her or its independent judgment and upon the advice of his, her or its \nown counsel and not in reliance upon any warranty or representation, express or implied, of any \nnature or kind by any other Party, other than the warranties and representations expressly made \nin the Full Agreement. \n13.  Full Agreement Has Been Read.  The Full Agreement has been carefully read by \neach of the Parties, or their responsible officers, and its contents are known and understood by \neach of the Parties.  The Full Agreement is signed freely by each party executing it. \n14.  No Assignment.  No Party to the Full Agreement has heretofore assigned, \ntransferred or granted, or purported to assign, transfer or grant, any of the claims, demands, or \ncause or causes of action disposed of by the Full Agreement. \n15.  Agreement Binding on Assigns And Successors.  The Full Agreement shall bind \nany assigns and successors of the Parties.  \n16.  Force Majeure.  The performance of Staples under this Full Agreement shall be \nexcused during the period and to the extent that such performance is rendered impossible, \nimpracticable or unduly burdensome due to acts of God, strikes or lockouts, or unavailability of \nWEST\\21650689.1   8 \n\noperable parts, equipment or materials through normal supply sources.  If Staples seeks to invoke \nthis Section, it shall notify Counsel in writing as soon as reasonably possible, specifying the \nparticular action that could not be performed and the specific reason for the non-performance.  \nCounsel and Staples will thereafter meet and confer regarding an alternative schedule for \ncompletion of the action that could not be performed, or an alternative action.  Any dispute \nregarding the applicability of this Section, or any future action to be taken, that remains after the \nmeet and confer session will be handled as a dispute pursuant to Section 8 of this Agreement. \n17.  No Admission of Liability.  In entering into the Full Agreement, Staples does not \nadmit, and specifically denies, that it has violated or failed to comply with any Access Laws. \n18.  Authority.  The persons executing the Full Agreement each represent and warrant \nthat he or she has the authority to enter into the Full Agreement, and to resolve the matters set \nforth in the Full Agreement, on behalf of the Party for whom he or she is executing the Full \nAgreement, and that no further approval is necessary in order for the Full Agreement to be \nbinding on the Party for whom he or she is executing. \n19.  Integrated Agreement.  The Full Agreement constitutes the entire agreement \nrelating to the subject matters addressed therein. \n20.  Rules of Construction.  Each party and its legal counsel have reviewed and \nparticipated in the drafting of the Full Agreement; and any rule of construction to the effect that \nambiguities are construed against the drafting party shall not apply in the interpretation or \nconstruction of the Full Agreement.  Section titles used herein are intended for reference \npurposes only and are not to be construed as part of the Full Agreement.  The Recitals are \nintegral to the construction and interpretation of the Full Agreement and are therefore \nincorporated into the Full Agreement in their entirety. \n21.  Triplicate Originals/Execution in Counterparts.  All Parties and their respective \ncounsel shall sign three copies of this document and each such copy shall be considered an \noriginal.  This document may be executed in counterparts. \nPARTIES  APPROVED AS TO FORM: \n   \nSTAPLES, INC.  DLA PIPER LLP (US) \n   \n   \nBy:    By:   \n  Merrill F. (Rick) Storms, Jr., Esq. \n \nAMERICAN COUNCIL OF THE BLIND  GOLDSTEIN, DEMCHAK, BALLER, \n  BORGEN & DARDARIAN \n   \n   \nBy:    By:   \nMelanie Brunson  Linda M. Dardarian, Esq. \nExecutive Director \nWEST\\21650689.1   9 \n\nAMERICAN FOUNDATION FOR THE BLIND  LAW OFFICE OF LAINEY FEINGOLD \n   \n   \nBy:    By:   \nPaul Schroeder  Lainey Feingold, Esq. \nVice President, Programs & Policy Group \n \n \nCALIFORNIA COUNCIL OF THE BLIND \n \n \nBy:   \nJeff Thom \nPresident \n \n \nBAY STATE COUNCIL OF THE BLIND \n \n \nBy:  __________________________________  \n         Bob Hachey \n         President \n \n \nWEST\\21650689.1   10 ",
+      "document_type_other": null,
+      "external_url": "http://lflegal.com/2009/04/staples-settlement-agreement/",
+      "ecf_number": null,
+      "clearinghouse_link": "clearinghouse.net/doc/33924"
+    }
+  ],
+  "document_count": 3
+}

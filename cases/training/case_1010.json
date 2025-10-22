@@ -1,0 +1,551 @@
+{
+  "case_id": 1010,
+  "fetched_at": "2025-10-22T00:06:58.573969",
+  "case_data": {
+    "attorney_orgs": [
+      "Legal Services/Legal Aid"
+    ],
+    "available_documents": [
+      "Trial Court Docket",
+      "Injunctive (or Injunctive-like) Relief"
+    ],
+    "case_defendants": [
+      {
+        "defendant_level": null,
+        "institution": "Housing Authority of Kansas City, Missouri",
+        "institution_alt_state": null,
+        "institution_city": "Kansas City, Missouri",
+        "institution_county": null,
+        "name": "Housing Authority of Kansas City, Missouri",
+        "defendant_level_other": "",
+        "is_active": true
+      }
+    ],
+    "case_ongoing": "No",
+    "case_status": "Approved",
+    "case_types": [
+      "Public Housing"
+    ],
+    "cause_other": "",
+    "causes": [
+      "42 U.S.C. § 1983"
+    ],
+    "class_action_granted": "Granted",
+    "class_action_sought": "Yes",
+    "closing_year": 1988,
+    "constitutional_clause": [
+      {
+        "value": "Due Process"
+      }
+    ],
+    "content_of_injunction": [
+      {
+        "value": "Implement complaint/dispute resolution process"
+      },
+      {
+        "value": "Monitoring"
+      }
+    ],
+    "court": "Western District of Missouri",
+    "custom_issues": [],
+    "defendant_payment": "",
+    "defendant_type": [
+      {
+        "value": "Housing Authority"
+      }
+    ],
+    "docket_status": "Complete as of retrieval date",
+    "facility_type": [
+      {
+        "value": "Government-run"
+      }
+    ],
+    "filing_date": "1984-08-03",
+    "filing_year": 1984,
+    "id": 1010,
+    "injunction_duration": "",
+    "issues": [
+      "General/Misc.: Housing assistance",
+      "Discrimination Area: Housing Sales/Rental",
+      "General/Misc.: Housing"
+    ],
+    "last_checked_date": "2019-10-23T00:00:00-04:00",
+    "main_docket": {
+      "id": 42033,
+      "docket_entries": [
+        {
+          "row_number": 16,
+          "id": 1703101,
+          "entry_number": "57",
+          "date_filed": "1997-10-10T00:00:00-04:00",
+          "attachments": [],
+          "url": "nan",
+          "recap_pdf_url": null,
+          "pacer_doc_id": null,
+          "description": "MOTION by plaintiff Ruth White, plaintiff Elsie Pearl Todd to extend time to resubmit their application f/attys fees (Georgia Kee) (Entered: 10/10/1997)"
+        },
+        {
+          "row_number": 6,
+          "id": 1703091,
+          "entry_number": "47",
+          "date_filed": "1994-06-15T00:00:00-04:00",
+          "attachments": [],
+          "url": "nan",
+          "recap_pdf_url": null,
+          "pacer_doc_id": null,
+          "description": "ORDER by Judge Elmo B. Hunter w/his consent, Case reassigned to Judge Dean Whipple (cc: all counsel) (Court Employee) (Entered: 06/16/1994)"
+        },
+        {
+          "row_number": 18,
+          "id": 1703103,
+          "entry_number": "59",
+          "date_filed": "1997-10-29T00:00:00-05:00",
+          "attachments": [],
+          "url": "nan",
+          "recap_pdf_url": null,
+          "pacer_doc_id": null,
+          "description": "ORDER by Judge Dean Whipple granting plfs' motion to extend time to resubmit their application f/attys fees [57−1] on or before 10/22/97 (cc: all counsel) (Georgia Kee) (Entered: 10/29/1997)"
+        },
+        {
+          "row_number": 14,
+          "id": 1703099,
+          "entry_number": "55",
+          "date_filed": "1997-04-28T00:00:00-04:00",
+          "attachments": [],
+          "url": "nan",
+          "recap_pdf_url": null,
+          "pacer_doc_id": null,
+          "description": "Reply suggestions by plaintiff Ruth White, plaintiff Elsie Pearl Todd to application f/award of statutory atty fees (Georgia Kee) (Entered: 04/29/1997)"
+        },
+        {
+          "row_number": 26,
+          "id": 1703111,
+          "entry_number": "68",
+          "date_filed": "1999-10-28T00:00:00-04:00",
+          "attachments": [],
+          "url": "nan",
+          "recap_pdf_url": null,
+          "pacer_doc_id": null,
+          "description": "MOTION by class plaintiffs for attorney fees (Court Employee) (Entered: 10/28/1999)"
+        },
+        {
+          "row_number": 9,
+          "id": 1703094,
+          "entry_number": "50",
+          "date_filed": "1996-07-05T00:00:00-04:00",
+          "attachments": [],
+          "url": "nan",
+          "recap_pdf_url": null,
+          "pacer_doc_id": null,
+          "description": "ORDER by Judge Dean Whipple granting motion to withdraw attorney Julie E. Levin [48−1] attorney Julie E. Levin for Ruth White (cc: all counsel) (Court Employee) (Entered: 07/05/1996)"
+        },
+        {
+          "row_number": 20,
+          "id": 1703105,
+          "entry_number": "61",
+          "date_filed": "1997-10-31T00:00:00-05:00",
+          "attachments": [],
+          "url": "nan",
+          "recap_pdf_url": null,
+          "pacer_doc_id": null,
+          "description": "RENEWED (APPLICATION) MOTION by plaintiff Ruth White, plaintiff Elsie Pearl Todd for the award of statutory attorney fees w/supporting suggs (Georgia Kee) (Entered: 11/03/1997)"
+        },
+        {
+          "row_number": 13,
+          "id": 1703098,
+          "entry_number": "54",
+          "date_filed": "1997-04-21T00:00:00-04:00",
+          "attachments": [],
+          "url": "nan",
+          "recap_pdf_url": null,
+          "pacer_doc_id": null,
+          "description": "ORDER by Judge Dean Whipple granting dft's motion to extend time to reply to the application of the pla for award of attorneys fees [52−1] to & including 4/15/97 (cc: all counsel) (Georgia Kee) (Entered: 04/21/1997)"
+        },
+        {
+          "row_number": 24,
+          "id": 1703109,
+          "entry_number": "66",
+          "date_filed": "1998-10-30T00:00:00-05:00",
+          "attachments": [],
+          "url": "nan",
+          "recap_pdf_url": null,
+          "pacer_doc_id": null,
+          "description": "(APPLICATION) MOTION by plaintiff Ruth White, plaintiff Elsie Pearl Todd for the award of attorney fees w/supporting suggs (Georgia Kee) (Entered: 11/02/1998)"
+        },
+        {
+          "row_number": 17,
+          "id": 1703102,
+          "entry_number": "58",
+          "date_filed": "1997-10-23T00:00:00-04:00",
+          "attachments": [],
+          "url": "nan",
+          "recap_pdf_url": null,
+          "pacer_doc_id": null,
+          "description": "RENEWED MOTION by plaintiff Ruth White, plaintiff Elsie Pearl Todd to extend time to resubmit their application f/attys' fees (Georgia Kee) (Entered: 10/23/1997)"
+        },
+        {
+          "row_number": 15,
+          "id": 1703100,
+          "entry_number": "56",
+          "date_filed": "1997-09-16T00:00:00-04:00",
+          "attachments": [],
+          "url": "nan",
+          "recap_pdf_url": null,
+          "pacer_doc_id": null,
+          "description": "ORDER by Judge Dean Whipple denying plf's motion f/attys fees & expenses suggestions [53−1] (cc: all counsel) (Georgia Kee) (Entered: 10/08/1997)"
+        },
+        {
+          "row_number": 11,
+          "id": 1703096,
+          "entry_number": "52",
+          "date_filed": "1997-04-07T00:00:00-04:00",
+          "attachments": [],
+          "url": "nan",
+          "recap_pdf_url": null,
+          "pacer_doc_id": null,
+          "description": "MOTION by defendant −Housing Authority to extend time to reply to the application of the pla for award of attorneys fees i (Court Employee) (Entered: 04/07/1997)"
+        },
+        {
+          "row_number": 19,
+          "id": 1703104,
+          "entry_number": "60",
+          "date_filed": "1997-10-29T00:00:00-05:00",
+          "attachments": [],
+          "url": "nan",
+          "recap_pdf_url": null,
+          "pacer_doc_id": null,
+          "description": "ORDER by Judge Dean Whipple granting plfs' motion to extend time to resubmit their application f/attys' fees [58−1] on or before 10/31/97 all counsel) (Georgia Kee) (Entered: 10/29/1997)"
+        },
+        {
+          "row_number": 23,
+          "id": 1703108,
+          "entry_number": "64",
+          "date_filed": "1998-01-15T00:00:00-05:00",
+          "attachments": [],
+          "url": "nan",
+          "recap_pdf_url": null,
+          "pacer_doc_id": null,
+          "description": "ORDER by Judge Dean Whipple granting plfs' motion for the award of statutory attorney fees [61−1] in the amount of $2,225 in attys' fees & expenses (cc: all counsel) (Georgia Kee) (Entered: 01/15/1998)"
+        },
+        {
+          "row_number": 21,
+          "id": 1703106,
+          "entry_number": "62",
+          "date_filed": "1997-11-13T00:00:00-05:00",
+          "attachments": [],
+          "url": "nan",
+          "recap_pdf_url": null,
+          "pacer_doc_id": null,
+          "description": "Suggestions by defendant −Housing Authority in opposition to plt's renewed (application) motion for the award of statutory attorney fees [61−1] (Susan Larson) (Entered: 11/14/1997)"
+        },
+        {
+          "row_number": 25,
+          "id": 1703110,
+          "entry_number": "67",
+          "date_filed": "1998-12-16T00:00:00-05:00",
+          "attachments": [],
+          "url": "nan",
+          "recap_pdf_url": null,
+          "pacer_doc_id": null,
+          "description": "ORDER by Judge Dean Whipple granting plf's motion for the award of attorney fees [66−1] but at a reduced amount (cc: all counsel) (Georgia Kee) (Entered: 12/16/1998)"
+        },
+        {
+          "row_number": 2,
+          "id": 1703087,
+          "entry_number": "42",
+          "date_filed": "1994-04-29T00:00:00-04:00",
+          "attachments": [],
+          "url": "nan",
+          "recap_pdf_url": null,
+          "pacer_doc_id": null,
+          "description": "MOTION by interim receiver of defendant −Housing Authority to/for divisional transfer case & consolidation pursuant to 28 USC 1404(a) & FRCP 42(a) (Court Employee) (Entered: 06/16/1994)"
+        },
+        {
+          "row_number": 22,
+          "id": 1703107,
+          "entry_number": "63",
+          "date_filed": "1997-11-24T00:00:00-05:00",
+          "attachments": [],
+          "url": "nan",
+          "recap_pdf_url": null,
+          "pacer_doc_id": null,
+          "description": "Reply suggestions in support by plaintiff Ruth White, plaintiff Elsie Pearl Todd to motion for the award of statutory attorney fees [61−1] (Georgia Kee) (Entered: 11/24/1997)"
+        },
+        {
+          "row_number": 27,
+          "id": 1703112,
+          "entry_number": "69",
+          "date_filed": "1999-11-29T00:00:00-05:00",
+          "attachments": [],
+          "url": "nan",
+          "recap_pdf_url": null,
+          "pacer_doc_id": null,
+          "description": "ORDER by Judge Dean Whipple granting plfs' motion for attorney fees [68−1] (cc: all counsel) (Georgia Kee) (Entered: 11/29/1999)"
+        },
+        {
+          "row_number": 7,
+          "id": 1703092,
+          "entry_number": "49",
+          "date_filed": "1996-07-01T00:00:00-04:00",
+          "attachments": [],
+          "url": "nan",
+          "recap_pdf_url": null,
+          "pacer_doc_id": null,
+          "description": "ENTRY OF APPEARANCE on behalf of plaintiff Ruth White, plaintiff Elsie Pearl Todd by Gregg F. Lombardi (Court Employee) (Entered: 07/02/1996)"
+        },
+        {
+          "row_number": 8,
+          "id": 1703093,
+          "entry_number": "48",
+          "date_filed": "1996-07-01T00:00:00-04:00",
+          "attachments": [],
+          "url": "nan",
+          "recap_pdf_url": null,
+          "pacer_doc_id": null,
+          "description": "MOTION by plaintiff Ruth White, plaintiff Elsie Pearl Todd to withdraw attorney Julie E. Levin (Court Employee) (Entered: 07/02/1996)"
+        },
+        {
+          "row_number": 10,
+          "id": 1703095,
+          "entry_number": "51",
+          "date_filed": "1996-07-10T00:00:00-04:00",
+          "attachments": [],
+          "url": "nan",
+          "recap_pdf_url": null,
+          "pacer_doc_id": null,
+          "description": "Notice by plaintiff Ruth White, plaintiff Elsie Pearl Todd's attorney Julie E. Levin for withdrawal of cnsl (Court Employee) (Entered: 07/11/1996)"
+        },
+        {
+          "row_number": 12,
+          "id": 1703097,
+          "entry_number": "53",
+          "date_filed": "1997-04-14T00:00:00-04:00",
+          "attachments": [],
+          "url": "nan",
+          "recap_pdf_url": null,
+          "pacer_doc_id": null,
+          "description": "Suggestions by defendant −Housing Authority in opposition to plas' application for the award of attaorneys' fees, w/suggs (Court Employee) (Entered: 04/15/1997)"
+        },
+        {
+          "row_number": 0,
+          "id": 1703085,
+          "entry_number": "5",
+          "date_filed": "1984-08-03T00:00:00-04:00",
+          "attachments": [],
+          "url": "nan",
+          "recap_pdf_url": null,
+          "pacer_doc_id": null,
+          "description": "MOTION AND ORDER granting IFP (Court Employee) (Entered: 06/16/1994)"
+        },
+        {
+          "row_number": 1,
+          "id": 1703086,
+          "entry_number": "39",
+          "date_filed": "1984-12-14T00:00:00-05:00",
+          "attachments": [],
+          "url": "nan",
+          "recap_pdf_url": null,
+          "pacer_doc_id": null,
+          "description": "CONSENT JUDGMENT terminating case [this doc # & previous docket entries are on a hard docket sheet] (Court Employee) (Entered: 06/16/1994)"
+        },
+        {
+          "row_number": 3,
+          "id": 1703088,
+          "entry_number": "43",
+          "date_filed": "1994-04-29T00:00:00-04:00",
+          "attachments": [],
+          "url": "nan",
+          "recap_pdf_url": null,
+          "pacer_doc_id": null,
+          "description": "Suggestions by defendant −Housing Authority in support of motion to/for divisional transfer case & consolidation pursuant to 28 USC 1404(a) & FRCP 42(a) [42−1] (Court Employee) (Entered: 06/16/1994)"
+        },
+        {
+          "row_number": 4,
+          "id": 1703089,
+          "entry_number": "44",
+          "date_filed": "1994-05-05T00:00:00-04:00",
+          "attachments": [],
+          "url": "nan",
+          "recap_pdf_url": null,
+          "pacer_doc_id": null,
+          "description": "Response by plaintiffs to motion of Interim Receiver of dft to/for divisional transfer case & consolidation pursuant to 28 USC 1404(a) & FRCP 42(a) (Court Employee) (Entered: 06/16/1994)"
+        },
+        {
+          "row_number": 5,
+          "id": 1703090,
+          "entry_number": "46",
+          "date_filed": "1994-05-26T00:00:00-04:00",
+          "attachments": [],
+          "url": "nan",
+          "recap_pdf_url": null,
+          "pacer_doc_id": null,
+          "description": "Reply suggestions in support by Interim Receiver of defendant −Housing Authority to motion to/for divisional transfer case & consolidation pursuant to 28 USC 1404(a) & FRCP 42(a) [42−1] (Court Employee) (Entered: 06/16/1994)"
+        }
+      ],
+      "docket_case_type": "cv",
+      "docket_year": 1984,
+      "docket_filing_number": 852,
+      "is_main_docket": true,
+      "court": "Western District of Missouri",
+      "state": "Missouri",
+      "docket_office_number": "4",
+      "docket_number_manual": "4:84-cv-00852",
+      "scales_html": "https://clearinghouse-umich-production.s3.amazonaws.com/media/docket-html/mowd--4-84-cv-00852.html",
+      "recap_link": null,
+      "is_active": true
+    },
+    "name": "Todd v. Housing Authority of Kansas City, Missouri",
+    "never_filed": false,
+    "non_docket_case_number": "",
+    "non_docket_case_number_type": null,
+    "non_docket_case_number_type_other": "",
+    "order_end_year": null,
+    "order_start_year": null,
+    "permanent_injunction": true,
+    "plaintiff_description": "Applicants determined to be ineligible for public housing by the Housing Authority of Kansas City.",
+    "plaintiff_type": [
+      {
+        "value": "Private Plaintiff"
+      }
+    ],
+    "prevailing_party": "Plaintiff",
+    "pro_se_status": "No",
+    "public_interest_lawyer": "Yes",
+    "related_cases": [],
+    "relief_natures": [
+      "Injunction / Injunctive-like Settlement",
+      "Attorneys fees"
+    ],
+    "relief_nature_other": "",
+    "relief_sources": [
+      "Settlement"
+    ],
+    "settlement_agreement": [
+      "Court Approved Settlement or Consent Decree"
+    ],
+    "settlement_judgment_date": null,
+    "settlement_judgment_year": null,
+    "special_collections": [],
+    "special_case_type": [],
+    "state": "Missouri",
+    "summary": "<p>Because this case predates PACER, we had access to a limited number of documents to write this case summary.</p><p>On August 3, 1984, applicants for public housing who had been or would be denied filed this class action in the Western District of Missouri. The plaintiffs sued the Housing Authority of Kansas City and its Executive Director under 42 U.S.C § 1983. Per Carolyn Hoecker Luedtke’s <a href=\"https://scholarship.law.missouri.edu/cgi/viewcontent.cgi?article=3613&context=mlr\">Missouri Law Review article</a>, the plaintiffs alleged that the Housing Authority failed to provide proper due process hearings and notices to public housing applicants who were denied assistance. The plaintiffs were represented by Legal Aid of Western Missouri and they were granted class certification to represent all applicants for public housing operated by the Housing Authority of Kansas City. The case was adjudicated by District Judge Dean Whipple.</p><p>In October 1988, the two parties entered into a consent decree in which the Housing Authority promised to improve its administrative procedures for determining the ineligibility of applicants for public housing. Specifically, the consent decree outlined the rights ineligible applicants can use in a hearing to present any mitigating or extenuating circumstances that resulted in the ineligible determination. The consent decree also allowed applicants owing money to the Housing Authority to enter into a payment plan to pay off their debt in monthly installments that would not cause financial instability to the applicant. Finally, Legal Aid of Western Missouri retained the right to inspect the applications of ineligible applicants every two months. In addition to the consent decree, the plaintiffs were awarded attorney fees. The case is closed.</p>",
+    "summary_published_date": "2019-10-23T00:00:00-04:00",
+    "summary_short": "In 1984, applicants determined to be ineligible for public housing by the Housing Authority of Kansas City filed a class action lawsuit against the organization and its Executive Director under 42 U.S.C § 1983, alleging that they were not granted due process and were denied assistance. In 1988, they entered into a consent decree that granted the plaintiffs greater rights to appeal their ineligibility, the ability to use a payment plan to pay off debts owed to the Housing Authority, and also provided for attorney fees.",
+    "summary_tiny": null,
+    "terminating_date": null,
+    "clearinghouse_link": "clearinghouse.net/case/1010",
+    "is_active": false,
+    "case_documents_url": "https://clearinghouse.net/api/v2/documents/?case=1010",
+    "case_dockets_url": "https://clearinghouse.net/api/v2/dockets/?case=1010",
+    "case_resources_url": "https://clearinghouse.net/api/v2/resources/?case=1010"
+  },
+  "documents": [
+    {
+      "date": "1988-10-24",
+      "date_is_estimate": false,
+      "date_not_available": false,
+      "description": null,
+      "document_source": null,
+      "document_status": "Coding Complete",
+      "document_type": "Order/Opinion",
+      "order_type": "Consent Decree",
+      "citation_paren": null,
+      "cite_1_page": null,
+      "cite_1_reporter": null,
+      "cite_1_vol": null,
+      "cite_2_page": null,
+      "cite_2_reporter": null,
+      "cite_2_vol": null,
+      "cite_3_page": null,
+      "cite_3_reporter": null,
+      "cite_3_vol": null,
+      "citation_status": "No citation available",
+      "court": "Western District of Missouri",
+      "no_title": false,
+      "party_types": [
+        "Court"
+      ],
+      "per_curium": false,
+      "is_core_document": true,
+      "id": 5125,
+      "file": "https://clearinghouse-umich-production.s3.amazonaws.com/media/doc/5125.pdf",
+      "title": "Amended Consent Decree",
+      "text": "`¯ïTo¿L  CØ*&O»Ì-becjreje.  dDcc,`K<. L»`<d-  cSs×ss`}\nUNITED STATES DISTRICT COURT FOR TH¾\nWESTERN DISTRICT OF MISSOURI  ' ¯¯`\nWESTERN DIVISION\nELSIE TODD, et al.,  )\n)\nPlaintiffs,  )\n)\n)  Civil Action No.\nVS.  )  84-O852CV-W-/:7¯¿¿-'ô\n)\nHOUSING AUTHORITY OF KANSAS  )\nCITY, MISSOURI, et al.,  )\n)\nDefendants.  )\nAMENDED CONSENT DECREE\nThe plaintiffs, Elsie Pearl Todd and Ruth M. White,\nhaving filed this Complaint on behalf of themselves and all\nothers similarly situated, and plaintiffs and defendants\nHousing Authority of Kansas City, Missouri, and Venita Fain,\nActing Executive Director of the Housing Authority of Kansas\nCity, Missouri having each consented to the making and entry\nof this Amended Consent Decree, without trial or adjudica-\ntion of any issue of fact or law herein, and the Court\nhaving considered the matters and being duly advised, it is\nHEREBY ORDERED, ADJUDGED, AND DECREED as follows:\n1.  This Court has jurisdiction of the subject matter\nof this action and of the parties hereto.\n2.  The parties stipulate and agree to the certifica-\ntion of a class in this action to be defined as all appli-\ncants for public housing operated by defendants Housing\nAuthority of Kansas City, Missouri, and Venita Fain\n(hereinafter referred to collectively as \"HAKC\") whose\napplications will be denied by defendant HAKC.\nTodd v. Housing Authority of Kansas City, Missouri\nPH-MO-001-001\n\n3.  All procedures agreed to herein and incorporated\nwithin the Consent Decree shall be utilized with respect to\nPlaintiff Elsie Pearl Todd  (hereinafter \"Todd\") and Ruth M.\nWhite  (hereinafter \"White\") as well as all other persons who\nfall within the class as defined in paragraph 2 above.  In\nthe event Todd and/or White are declared eligible for hous-\ning, the Housing Authority of Kansas City, Missouri\n(Hereinafter \"HAKC\"), shall place Todd and/or White, respec-\ntively, in housing as soon as HAKC is reasonably able to do\nso based upon availability of housing.  Both Todd and White\nwill be given priority for placement above all others on the\nwaiting list for housing.  If Todd and/or White are declared\nineligible for placement due to a finding pursuant to the\nprocedures agreed upon herein that either of them owe money\nto HAKC, HAKC will enter into payment agreements with Todd\nand White and shall place Todd and/or White respectively as\nsoon as HAKC is reasonably able to do so based upon avail-\nability of housing even though the entire delinquency may\nnot yet have been paid in full.  Both Todd and White will be\ngiven priority for placement above all others on the waiting\nlist for housing.\n4.  Procedures for determination of ineligibility and\nforms of notice:\n(a)  HAKC shall have two categories as follows:\n(1)  Eligible for placement;\n(2)  Ineligible for placement.\n- 2 -\n\n(b)  Any person who is declared eligible for placement\nshall be placed in housing on the basis of availability of\nhousing and in accordance with HAKC'S usual and customary\npolicies and criteria for placement.  A person who has been\ndeclared ineligible shall not be placed in HAKC housing so\nlong as the declaration of ineligibility remains in effect.\n(c)  At the time of an application fo HAKC housing,\nHAKC shall determine whether or not the applicant is\neligible or ineligible and hand-deliver to the applicant a\ndocument in the form attached hereto as Exhibit A.  If the\napplicant is determined to be ineligible, Exhibits A and C\nwill be hand-delivered to the applicant.  If the applicant\nrequests a hearing, Exhibit B will be hand-delivered or\nmailed by certified and first class mail to the applicant.\nIf the applicant thereafter duly requests a hearing in\naccordance with Exhibits A through C (whichever form or\nforms are applicable to the situation), the applicant shall\nhave each of the following rights:\n(1)  The right to confront and cross-examine live\nadverse witnesses.\n(2)  The right to present oral and written\nevidence to rebut the basis of the\ndetermination of ineligibility or to show\nmitigating or extenuating circumstances in\naccordance with 24 C.F.R. 96O.2O5(d).\n(3)  The right to review at the office of HAKC by\nprior arrangement all of HAKC's files on the\n- 3 -\n\napplicant which relate to the determination\nof ineligibility.  The applicant may arrange\nfor this viewing at any time up to twenty\n(20) minutes prior to the hearing.  Any\ndocuments not made available to the applicant\nafter the request therefore may not be relied\nupon by the HAKC at the hearing.\n(4)  The right to be represented by counsel at the\napplicant's own expense or to be represented\nor assisted by a person of the applicant's\nchoice.\n(5)  A tape recording of the original and one copy\nof the tape recording of the hearing will be\nmade by HAKC.  The original recording shall\nbe retained by HAKC for three (3) months\nfollowing the final determination by the\nhearing office.  The duplicate tape recording\nshall be given to the applicant at the close\nof the hearing.\n(6)  The hearing shall be presided over by an\nimpartial hearing officer who did not\nparticipate in making the determination under\nreview.  The hearing officer will not be an\nemployee of HAKC.\n(7)  Hearsay evidence may be admissible but will\nnot serve as the sole or primary basis for\ndetermination of any ultimate fact unless\n- 4 -\n\nsuch evidence falls within the exceptions\nprovided in Rules 801(d), 803 or 804 of the\nFederal Rules of Evidence.\n(8)  Within ten working days after the hearing,\nthe original or a copy of a written, signed,\ndated determination letter will be sent by\nfirst-class mail to the applicant, and, if\nrepresented, to counsel for the applicant.  A\ncopy will be placed in the applicant's file.\nThe determination shall be based solely on\nthe evidence presented at the hearing and\nupon applicable laws and regulations.\n(9)  The determination set forth in the letter\nshall constitute a final administrative\ndetermination.\n(10)  The determination shall not limit either\nparty's right to take the matter to a court\nof competent jurisdiction.\n5.  Hearings and matters in issue:\n(a)  An applicant shall be entitled to an informal\nhearing if one has been duly requested in writing by the\napplicant in response to any of the notices given by HAKC\nembodied in any of the forms attached hereto as Exhibits A\nthrough C.\n(b)  At any such hearing, evidence can be presented on\nany mitigating or extenuating circumstances relating to the\nissues that caused the determination of ineligibility in\n- 5 -\n\naccordance with 24 C.F.R. 96O.2O5(d).  Additionally, any\nfacts that were at issue or would have been at issue in a\nprevious hearing had it been held, will still be in issue at\nthe current hearing unless HAKC can prove to the hearing\nofficer:\n(1)  That the applicant actually received notice\nof the right to request a previous hearing\nbut did not do so, without good cause, or\nfailed, without good cause, to appear for any\nsuch hearing or;\n(2)  HAKC demonstrates that the applicant  (while a\ntenant of HAKC) had vacated HAKC premises\nwithout authority in breach of the lease and\nthat HAKC did not have a forwarding address\nfor the applicant and that the applicant did\nnot leave a forwarding address with the\nUnited States Post Office within a reasonable\ntime before or after vacating the premises\nwithout HAKC's authority in violation of the\nlease.  In such event, HAKC must only show to\nthe hearing officer that notice of the right\nto a hearing was sent by certified mail,\nreturn receipt requested to the last known\naddress of the applicant but HAKC need not\nprove that the applicant actually received\nany such notice, unless the applicant can\n- 6 -\n\nshow good cause for failing to request a\nhearing.\n(c)  If the hearing officer determines that HAKC has\nmet its burden of establishing that the applicant had a\nprior hearing or had actual notice or notice as provided in\nparagraph 3(b)(2) of the opportunity for a hearing on the\nfacts for which the applicant was determined ineligible as\nprovided in paragraph 3(b)(l) and  (2), the applicant can\nonly have a hearing on all issues establishing any\nmitigating or extenuating circumstances related to the facts\nthat caused the denial of eligibility in accordance with 24\nC.F.F. S 96O.2O5(d).\n(d)  Any notice that could be provided to an applicant\nat the time they were a tenant in public housing, that would\nset forth facts or issues arising out of the former tenancy\nin public housing which could be used as a basis for a later\ndetermination of the tenant's (applicant's) ineligibility\nfor a new tenancy in public housing,  (including but not lim-\nited to a \"notice to quit\" or a \"notice of lease\nviolation\"), must provide the following:\n(1)  Each such notice must state that:  \"In the\nevent that you do not agree that you have\nviolated these sections of the lease or you\ndo not agree with anything stated in this\nnotice, you may submit a written request for\na grievance hearing.  This request must be\nsubmitted within three (3) working days after\n- 7 -\n\nyou have actually received this notice,\nunless you can show good cause why you cannot\nor could not do so.  You must submit this\nwritten request to the central office of the\nHousing Authority of Kansas City, Missouri\n(299 Paseo).  This request must specify your\nreasons for a grievance hearing, your\ndisagreement with this notice and your\nrequest not to be evicted.  You must keep one\ncopy of your request and deliver one copy to\nthe central office of the Housing Authority.\"\n(2)  Each notice will have a form attached to it\nas provided in Exhibit C which will enable\nthe tenant to check off that he/she requests\na hearing and will enable the tenant to mail\nin that form to the Housing Authority and\nretain a copy.\n(3)  Each notice will state that \"unless you can\nshow good cause for not requesting a hearing,\nthe failure of you or your representative to\nrequest a grievance hearing my bar you from\nraising the issues in this notice at a later\ndate and could prevent you from being\nreadmitted into public housing at a later\ntime.  Immediate attention to this matter is\ncrucial to vour continued tenancy with us.\"\n- 8 -\n\n(4)  Each notice will have a signature line\nindicating who received the notice, the date\nsaid notice was received and a line upon\nwhich the signature of the person who\ndelivered said notice will be placed.\n6.  The following administrative procedures shall be\nimplemented by HAKC:\na.  In the event that a public housing applicant\nis determined to be ineligible, a copy of the completed\nExhibit A will be put in files maintained by HAKC for\nall eligible applicants.  The files will be designated\nby month and year and the documents will be filed in\nchronological order.  Each document pertaining to a\nspecific applicant will be fastened together.  If the\napplicant  requests a hearing, then the hearing\nprocedures for the applicant will conform to the\nprocedures in the Consent Decree.  The hearing officer\nwill be fully trained by the defendants.  This training\nwill include an explanation of the Consent Decree\nprocedures for determination of ineligibility, and the\nprocedures for conducting the hearings of ineligible\napplicants.\nb.  In the future, a report will be issued by HAKC\non a quarterly basis to Legal Aid of Western Missouri.\nThis report will state whether or not HAKC is using the\nproper forms and procedures for ineligible applicants.\nThe report  will indicate how many people have had\n- 9 -\n\nhearings and what procedures were used at those\nhearings.  The report will also detail how many\napplicants were determined to be ineligible during that\nperiod and the reasons for their ineligibility.  Upon\nreceipt of the report, Legal Aid staff will be given\nthe opportunity to review all of the files and other\ndocuments that were used to compile the quarterly\nreport.\nc.  Additionally, HAKC shall make all of its files\nof ineligible and rejected applicants available to\nplaintiffs every two months beginning December 1, 1988.\nPlaintiffs can review these files after the Housing\nAuthority Board of Commissioners meeting held on the\nsecond Tuesday of each month.  Plaintiffs need not make\nan appointment to view these files during said time\nperiod, unless plaintiffs wish to view the files at a\ndifferent time.  In that case, counsel for plaintiffs\nand defendants will agree upon a mutually convenient\ntime for the file review.\nd.  The computer system of HAKC will be programmed\nto contain the names, addresses and reason for\ndetermination of ineligibility for all applicants who\nare determined to be ineligible.\ne.  Counsel for defendants will meet with\nappropriate HAKC personnel, including the author of the\nquarterly reports described in part (b) of this\nparagraph and advise them as to the requirements of the\n- 10 -\n\nConsent Decree and the proper preparation of the\nquarterly reports.\n7.  Payment Agreements:\nIn the event that after a hearing, it is determined\nthat an applicant owes money to HAKC arising from a prior\ntenancy in a unit operated by HAKC, HAKC will enter into a\npayment agreement with the applicant that will enable the\napplicant to pay off the debt on a monthly basis without\ncausing unreasonable hardship to the financial stability of\nthe applicant.  After it has been determined that the appli-\ncant is otherwise eligible and upon payment of the entire\ndelinquency, or if agreed to by HAKC, upon entry into the\npayment agreement, the applicant will be eligible for place-\nment based on the availability of housing and in accordance\nwith the normal and customary procedures and criteria of the\nHousing Authority for placement.  The offer of an applicant\nto repay an alleged delinquency or enter into a payment\nagreement will be considered a mitigating circumstance for\npurposes of determining eligibility as provided for in\nparagraph 3(b) and (c).\n8.  The provisions of this Consent Decree shall apply\nto the plaintiffs and the defendant HAKC and to each of\ntheir officers, directors, agents, employees, successors and\nassigns, and to all persons, firms, or corporations in\nactive concert or participation as partner or joint venturer\nwith defendants.\n- 11 -\n\n9.  Jurisdiction is retained by this Court for the pur-\npose of enabling either party to apply to the court at any\ntime for such further orders and directions as may be neces-\nsary or appropriate for the construction or carrying out of\nthis Consent Decree, for the modification or any of the\nprovisions herein, and for the enforcement of compliance\ntherewith and the punishment of violations thereof.\n10.  This decree shall remain in full force and effect\nunless specifically modified by agreement of the parties.\nPrior to initiating formal enforcement proceedings, plain-\ntiffs shall notify defendants of any area(s) of noncompli-\nance and shall attempt to resolve such issues without the\nassistance of the Court.  In the event that the issues are\nnot resolved within thirty (30) days following notice to the\ndefendants, plaintiffs may move the court to enforce this\ndecree.\n11.  It is agreed and the Court so finds that all of the\nforegoing obligations of defendants were agreed upon with\nfull participation of plaintiffs; that all of the foregoing\nobligations benefit the members of the defined plaintiff\nclass; and further, therefore, it shall be sufficient notice\nof this Consent Decree to members of the defined plaintiff\nclass that defendants post copies of this order on the main\nbulletin boards of the defendant HAKC's offices at 299\nPaseo, Kansas city, Missouri.\n- 12 -\n\n12.  The procedures, policies and forms incorporated in\nthis final judgment will be in full force and effect as of\nthis date.\nDated this`2~Q ¢`-¯day of  ûeJç& U<  , 1988.\nUNITËÏ> STATES DISTRICT COURT\nWe hereby consent to the entry of the foregoing Consent\nDecree without further notice.\np  E. LEVIN\nKELLY P. FINN\nLegal Aid of Western Missouri\n600 Lathrop Building\n1005 Grand Avenue\nKansas City, MO  64106\n(816) 474-6750\nATTORNEYS FOR PLAINTIFFS\nKOENGSDORF, WYRSCH & RAMSEY\nBy:\nSTEVEN MIRAKIAN\nKoenigsdorf, Wyrsch & Ramsey\n1050 Home Savings Bldg.\n1006 Grand Ave.\nKansas City, MO  64106\nATTORNEYS FOR DEFENDANTS\n- 13 -\n\nDATE:\nTO:\nDear\nYOUR APPLICATION FOR BOUSIN5 DATED  . HAS BEEN REVIEWED ACT YOU ARE;\n(  )  Eligible for Public Housing.  Estimated date of placement in\nhousing is  .  (The estimated date for place-\nment in housing may change depending upon occupancy rates).\n(  )  Ineligible for Public Housing because:\n(short statement of reason(s) for determination of\nineligibility)\nIf you have been determined ineligible for housing, YOU HAVE THE\nRIGHT TO REQUEST AN INFORMAL HEARING ON THE ISSUE OF THIS DETERMINATION.\nIF YOU DESIRE AN INFORMAL HEARING. YOU MUST REQUEST ONE IN WRITING WITHIN\nTEN (10) DAYS OF THE DATE OF THIS LETTER.  IF YOU DO NOT REQUEST A HEARING\nWITHIN TEN (10) DAYS OF THE DATE OF THJJS L.t·'l'l'klk. YOU VfTT.T, N3T BE ENHIT·FT>\nTO A HEARING AT A LATER DATE.\nYour rights at an informal hearing on the determination of ineligi-\nbility, should you request one, are the following:\n(1)  Right to present oral or written evidence on your behalf;\n(2)  Right to call witnesses on your behalf;\n(3)  Right to question witnesses against you;\n(4)  Right to review the Housing Authority's file by prior arrange-\nment concerning the determination of ineligibility any time up\nto twenty (20) minutes prior to the hearing;\n(5)  Right to be represented or assisted by a lawyer or any other\nperson of your choice;\n(6)  Right to written notice of the designated hearing officer's\ndecision within ten (10) working days after the date of the\nhearing.\n(7)  Right to receive a duplicate copy of the tape recording of the\nhearing.\n(8)  Right to present evidence to rerute the reasons stated for your\nineligibility or to present evidence on why the determination\nof ineligibility is unfair due to a change in your circum-\nstances or for any other reasons.\nI HEREBY ACKNOWLEDGE RECEIPT OF THIS NOTICE, AND I HAVE READ AND\nUNDERSTAND THE CONTENTS OF IT.\nDate:  ;  Signature:  . •\nTHE APPLICANT REFUSED TO SIGN THE ACKNOWLEDGMEÎ:T OF THE NOTICE AND IT WAS\nSENT BY CERTIFIED MAIL TO THE APPLICANT ON THE  DAY OF  , 1*\nHOUSING AUTHORITY OF KANSAS CITY, MISSOURI\nBy:\n\nEXHIBIT B\nNDTIŒ OF\nAt yoL¿¯ request,  an infonral  hearing  regarding  the  determination  that\nyou are  ineligible  for  public housing will  be held on the  day of\n,  19  ,  at  o'clock  at  the  central  office  of  the\nHousing Authority,  299 Paseo,  Kansas City,  Missouri.\nïour  rights  at  an  infomal  hearing on the  determination  of  ineligi-\nbility,  should you request  one,  are  the  following:\n(1)  Right  to  present  oral  or written  evidence  on your  behalf;\n(2)  Right  to call  witnesses  on your  behalf;\n(3)  Right  to question witnesses  against  you;\n(4)  Right  to  review the  Housing Authority's  file  by prior  arrange-\nment concerning the  determination  of  ineligibility  any time up\nto twenty  (20)  minutes  prior  to  the  hearing;\n(5)  Right  to be represented  or  assisted  by a lawyer  or  any other\nperson of  your  choice;\n(6)  Right  to written  notice  of  the  designated hearing  officer's\ndecision within  ten  (10)  working days after  the  date of  the\nhearing.\n(7)  Right  to  receive  a duplicate  copy of  the  tape  recording of\nthe  hearing.\n(8)  Right  to  present  evidence  to  refute  the  reasons  stated  for  your\nineligibility  or  to present  evidence  on why the  determination\nof  ineligibility  is  unfair  due  to a change  in your  circum-\nstances  or  for  any other  reason.\nA CONTINUANCE  WILL  ONLY BE GRANTED  FOR  IU2ESS,  AVOIDABLE  ABSENCE  OF A\nPARTY OR  OTHER GOCD  CAUSE.  IF YOU DESIRE  A CONTINUANCE,  YOU MUST  REQUEST\nONE  IN WRITING  PRIOR  TO THE  DATE  OF THE  HEARIN3.\nHOUSING  AUTHORITY OF  KANSAS  CITY,  MISSOURI\nBy:\nDate:\n\nE:;::IE:T C\nREQUEST FOP HEE¾ING\n(To be returned to the Housing  Authority)\nIf  , request a grievance hearing\nbecause: (state the  reason).\nDate:\nSignature of Applicant\nREQUEST FOR HEARING\n(To be retained to Tenant)\nIf  request a grievance hearing\nbecause:  (state the  reason).\nDate:\nSignature of Tenant",
+      "document_type_other": null,
+      "external_url": "",
+      "ecf_number": null,
+      "clearinghouse_link": "clearinghouse.net/doc/5125"
+    },
+    {
+      "date": "1999-11-29",
+      "date_is_estimate": false,
+      "date_not_available": false,
+      "description": null,
+      "document_source": "PACER [Public Access to Court Electronic Records]",
+      "document_status": "Coding Complete",
+      "document_type": "Docket",
+      "order_type": null,
+      "citation_paren": null,
+      "cite_1_page": null,
+      "cite_1_reporter": null,
+      "cite_1_vol": null,
+      "cite_2_page": null,
+      "cite_2_reporter": null,
+      "cite_2_vol": null,
+      "cite_3_page": null,
+      "cite_3_reporter": null,
+      "cite_3_vol": null,
+      "citation_status": "Not applicable",
+      "court": "Western District of Missouri",
+      "no_title": false,
+      "party_types": [
+        "Court"
+      ],
+      "per_curium": false,
+      "is_core_document": true,
+      "id": 5126,
+      "file": "https://clearinghouse-umich-production.s3.amazonaws.com/media/doc/5126.pdf",
+      "title": "Docket [PACER]",
+      "text": "CLOSED\nU.S. District Court\nWestern District of Missouri (Kansas City)\nCIVIL DOCKET FOR CASE #: 4:84−cv−00852−DW\nTodd v. Housing Authority KC, et al Date Filed: 08/03/1984\nAssigned to: District Judge Dean Whipple Date Terminated: 12/14/1984\nDemand: $0 Jury Demand: None\nCause: 42:1983 Civil Rights Act Nature of Suit: 440 Civil Rights: Other\nJurisdiction: Federal Question\nPlaintiff\nElsie Pearl Todd represented by Gregg F. Lombardi\nNeighborhood Legal Support of Kansas\nCity, Inc.\n300 E. 39th Street\nKansas City\nKansas City, MO 64111\n(816) 401−1951\nFax: (816) 401−1951\nEmail: gregg@nls4kc.org\nLEAD ATTORNEY\nATTORNEY TO BE NOTICED\nJulie E Levin\nLegal Aid of Western Missouri\nSuite 1900\n1125 Grand Boulevard\nKansas City, MO 64106\n816−474−6750\nFax: (816) 474−9751\nEmail: jlevin@lawmo.org\nTERMINATED: 07/10/1996\nLEAD ATTORNEY\nATTORNEY TO BE NOTICED\nPlaintiff\nRuth White represented by Gregg F. Lombardi\non behalf of themselves and all others (See above for address)\nsimilarily situated LEAD ATTORNEY\nATTORNEY TO BE NOTICED\nJulie E Levin\n(See above for address)\nTERMINATED: 07/05/1996\nLEAD ATTORNEY\nATTORNEY TO BE NOTICED\nSamuel I. McHenry\nLegal Aid of Western Missouri\n1125 Grand Boulevard\nSuite 1900\nKansas City, MO 64106\n816−474−6750\nFax: 816−474−9751\nEmail: smchenry@lawmo.org\nLEAD ATTORNEY\nATTORNEY TO BE NOTICED\nV.\nReceiver\n\nPaula L Schwach represented by James F.B. Daniels\nInterim Receiver Of And For The McDowell, Rice, Smith & Buchanan,\nHousing Authority Of Kansas City, PC−KCMO\nMissouri 605 West 47th Street\nSuite 350\nKansas City, MO 64112−1900\n(816) 753−5400\nFax: (816) 753−9996\nEmail: jdaniels@mcdowellrice.com\nLEAD ATTORNEY\nATTORNEY TO BE NOTICED\nV.\nDefendant\nHousing Authority of Kansas City, represented by Stephen G. Mirakian\nMissouri Wyrsch, Hobbs & Mirakian, PC\nOne Kansas City Place\n1200 Main Street\nSuite 2110\nKansas City, MO 64105\n(816)221−0080\nFax: (816)221−3280\nEmail: smirakian@whmlaw.net\nLEAD ATTORNEY\nATTORNEY TO BE NOTICED\nDefendant\nJoseph Anthony Snorgrass represented by Stephen G. Mirakian\nin his official capacity as Executive (See above for address)\nDirector of the Housing Authority of LEAD ATTORNEY\nKansas City, Missouri ATTORNEY TO BE NOTICED\nDefendant\nHenry Cisneros represented by Alleen C. VanBebber\nVanBebber Law Firm LLC\n2029 West 95th Street\nLeawood, KS 66206\n913−384−5359\nEmail: vanbebberlaw@aol.com\nLEAD ATTORNEY\nATTORNEY TO BE NOTICED\nDate Filed # Docket Text\n08/03/1984 5  MOTION AND ORDER granting IFP (Court Employee) (Entered: 06/16/1994)\n12/14/1984 39  CONSENT JUDGMENT terminating case [this doc # & previous docket entries are on\na hard docket sheet] (Court Employee) (Entered: 06/16/1994)\n04/29/1994 42  MOTION by interim receiver of defendant −Housing Authority to/for divisional\ntransfer case & consolidation pursuant to 28 USC 1404(a) & FRCP 42(a) (Court\nEmployee) (Entered: 06/16/1994)\n04/29/1994 43  Suggestions by defendant −Housing Authority in support of motion to/for divisional\ntransfer case & consolidation pursuant to 28 USC 1404(a) & FRCP 42(a) [42−1]\n(Court Employee) (Entered: 06/16/1994)\n05/05/1994 44  Response by plaintiffs to motion of Interim Receiver of dft to/for divisional transfer\ncase & consolidation pursuant to 28 USC 1404(a) & FRCP 42(a) (Court Employee)\n(Entered: 06/16/1994)\n\n05/16/1994 45  Response by defendant Cisneros to motion to/for divisional transfer case &\nconsolidation pursuant to 28 USC 1404(a) & FRCP 42(a) [42−1] (Court Employee)\n(Entered: 06/16/1994)\n05/26/1994 46  Reply suggestions in support by Interim Receiver of defendant −Housing Authority to\nmotion to/for divisional transfer case & consolidation pursuant to 28 USC 1404(a) &\nFRCP 42(a) [42−1] (Court Employee) (Entered: 06/16/1994)\n06/15/1994 47  ORDER by Judge Elmo B. Hunter w/his consent, Case reassigned to Judge Dean\nWhipple (cc: all counsel) (Court Employee) (Entered: 06/16/1994)\n07/01/1996 49  ENTRY OF APPEARANCE on behalf of plaintiff Ruth White, plaintiff Elsie Pearl\nTodd by Gregg F. Lombardi (Court Employee) (Entered: 07/02/1996)\n07/01/1996 48  MOTION by plaintiff Ruth White, plaintiff Elsie Pearl Todd to withdraw attorney\nJulie E. Levin (Court Employee) (Entered: 07/02/1996)\n07/05/1996 50  ORDER by Judge Dean Whipple granting motion to withdraw attorney Julie E. Levin\n[48−1] attorney Julie E. Levin for Ruth White (cc: all counsel) (Court Employee)\n(Entered: 07/05/1996)\n07/10/1996 51  Notice by plaintiff Ruth White, plaintiff Elsie Pearl Todd's attorney Julie E. Levin for\nwithdrawal of cnsl (Court Employee) (Entered: 07/11/1996)\n04/07/1997 52  MOTION by defendant −Housing Authority to extend time to reply to the application\nof the pla for award of attorneys fees i (Court Employee) (Entered: 04/07/1997)\n04/14/1997 53  Suggestions by defendant −Housing Authority in opposition to plas' application for the\naward of attaorneys' fees, w/suggs (Court Employee) (Entered: 04/15/1997)\n04/21/1997 54  ORDER by Judge Dean Whipple granting dft's motion to extend time to reply to the\napplication of the pla for award of attorneys fees [52−1] to & including 4/15/97 (cc: all\ncounsel) (Georgia Kee) (Entered: 04/21/1997)\n04/28/1997 55  Reply suggestions by plaintiff Ruth White, plaintiff Elsie Pearl Todd to application\nf/award of statutory atty fees (Georgia Kee) (Entered: 04/29/1997)\n09/16/1997 56  ORDER by Judge Dean Whipple denying plf's motion f/attys fees & expenses\nsuggestions [53−1] (cc: all counsel) (Georgia Kee) (Entered: 10/08/1997)\n10/10/1997 57  MOTION by plaintiff Ruth White, plaintiff Elsie Pearl Todd to extend time to\nresubmit their application f/attys fees (Georgia Kee) (Entered: 10/10/1997)\n10/23/1997 58  RENEWED MOTION by plaintiff Ruth White, plaintiff Elsie Pearl Todd to extend\ntime to resubmit their application f/attys' fees (Georgia Kee) (Entered: 10/23/1997)\n10/29/1997 59  ORDER by Judge Dean Whipple granting plfs' motion to extend time to resubmit their\napplication f/attys fees [57−1] on or before 10/22/97 (cc: all counsel) (Georgia Kee)\n(Entered: 10/29/1997)\n10/29/1997 60  ORDER by Judge Dean Whipple granting plfs' motion to extend time to resubmit their\napplication f/attys' fees [58−1] on or before 10/31/97 all counsel) (Georgia Kee)\n(Entered: 10/29/1997)\n10/31/1997 61  RENEWED (APPLICATION) MOTION by plaintiff Ruth White, plaintiff Elsie Pearl\nTodd for the award of statutory attorney fees w/supporting suggs (Georgia Kee)\n(Entered: 11/03/1997)\n11/13/1997 62  Suggestions by defendant −Housing Authority in opposition to plt's renewed\n(application) motion for the award of statutory attorney fees [61−1] (Susan Larson)\n(Entered: 11/14/1997)\n11/24/1997 63  Reply suggestions in support by plaintiff Ruth White, plaintiff Elsie Pearl Todd to\nmotion for the award of statutory attorney fees [61−1] (Georgia Kee) (Entered:\n11/24/1997)\n01/15/1998 64  ORDER by Judge Dean Whipple granting plfs' motion for the award of statutory\nattorney fees [61−1] in the amount of $2,225 in attys' fees & expenses (cc: all counsel)\n(Georgia Kee) (Entered: 01/15/1998)\n\n08/20/1998 65  NOTICE by counsel plaintiff Ruth White, plaintiff Elsie Pearl Todd of change of\naddress (Georgia Kee) (Entered: 08/20/1998)\n10/30/1998 66  (APPLICATION) MOTION by plaintiff Ruth White, plaintiff Elsie Pearl Todd for the\naward of attorney fees w/supporting suggs (Georgia Kee) (Entered: 11/02/1998)\n12/16/1998 67  ORDER by Judge Dean Whipple granting plf's motion for the award of attorney fees\n[66−1] but at a reduced amount (cc: all counsel) (Georgia Kee) (Entered: 12/16/1998)\n10/28/1999 68  MOTION by class plaintiffs for attorney fees (Court Employee) (Entered: 10/28/1999)\n11/29/1999 69  ORDER by Judge Dean Whipple granting plfs' motion for attorney fees [68−1] (cc: all\ncounsel) (Georgia Kee) (Entered: 11/29/1999)",
+      "document_type_other": "",
+      "external_url": "",
+      "ecf_number": null,
+      "clearinghouse_link": "clearinghouse.net/doc/5126"
+    },
+    {
+      "date": null,
+      "date_is_estimate": false,
+      "date_not_available": false,
+      "description": null,
+      "document_source": null,
+      "document_status": null,
+      "document_type": null,
+      "order_type": null,
+      "citation_paren": null,
+      "cite_1_page": null,
+      "cite_1_reporter": null,
+      "cite_1_vol": null,
+      "cite_2_page": null,
+      "cite_2_reporter": null,
+      "cite_2_vol": null,
+      "cite_3_page": null,
+      "cite_3_reporter": null,
+      "cite_3_vol": null,
+      "citation_status": null,
+      "court": null,
+      "no_title": false,
+      "party_types": [],
+      "per_curium": false,
+      "is_core_document": true,
+      "id": 124382,
+      "file": null,
+      "title": null,
+      "text": null,
+      "document_type_other": null,
+      "external_url": null,
+      "ecf_number": null,
+      "clearinghouse_link": "clearinghouse.net/doc/124382"
+    }
+  ],
+  "document_count": 3
+}

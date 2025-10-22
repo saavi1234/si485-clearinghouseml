@@ -1,0 +1,429 @@
+{
+  "case_id": 6441,
+  "fetched_at": "2025-10-22T00:08:47.785811",
+  "case_data": {
+    "attorney_orgs": [
+      "EEOC"
+    ],
+    "available_documents": [
+      "Trial Court Docket"
+    ],
+    "case_defendants": [
+      {
+        "defendant_level": null,
+        "institution": null,
+        "institution_alt_state": null,
+        "institution_city": "",
+        "institution_county": null,
+        "name": "L'Osteria Restaurant",
+        "defendant_level_other": null,
+        "is_active": true
+      }
+    ],
+    "case_ongoing": "No",
+    "case_status": "Coding Complete",
+    "case_types": [
+      "Equal Employment"
+    ],
+    "cause_other": "",
+    "causes": [
+      "Title VII (including PDA), 42 U.S.C.  § 2000e"
+    ],
+    "class_action_granted": "Not sought",
+    "class_action_sought": "No",
+    "closing_year": 1999,
+    "constitutional_clause": [],
+    "content_of_injunction": [],
+    "court": "District of Delaware",
+    "custom_issues": [],
+    "defendant_payment": "",
+    "defendant_type": [],
+    "docket_status": "Complete as of retrieval date",
+    "facility_type": [],
+    "filing_date": "1997-11-18",
+    "filing_year": 1997,
+    "id": 6441,
+    "injunction_duration": "",
+    "issues": [
+      "Discrimination Area: Disparate Treatment",
+      "EEOC-centric: Direct Suit on Merits"
+    ],
+    "last_checked_date": "2007-06-05T00:00:00-04:00",
+    "main_docket": {
+      "id": 36628,
+      "docket_entries": [
+        {
+          "row_number": 5,
+          "id": 1465294,
+          "entry_number": "4",
+          "date_filed": "1998-01-14T00:00:00-05:00",
+          "attachments": [],
+          "url": "nan",
+          "recap_pdf_url": null,
+          "pacer_doc_id": null,
+          "description": "ANSWER to Complaint by L'Osteria Restaurant (sm) (Entered: 01/15/1998)"
+        },
+        {
+          "row_number": 18,
+          "id": 1465307,
+          "entry_number": "18",
+          "date_filed": "1999-04-12T00:00:00-04:00",
+          "attachments": [],
+          "url": "nan",
+          "recap_pdf_url": null,
+          "pacer_doc_id": null,
+          "description": "CERTIFICATE OF SERVICE by Equal Employment Com RE: Pltf's 1st notice of depositions. (sm) (Entered: 04/13/1999)"
+        },
+        {
+          "row_number": 15,
+          "id": 1465304,
+          "entry_number": "14",
+          "date_filed": "1999-03-05T00:00:00-05:00",
+          "attachments": [],
+          "url": "nan",
+          "recap_pdf_url": null,
+          "pacer_doc_id": null,
+          "description": "CERTIFICATE OF SERVICE by Equal Employment Com RE: Pltf's 1st set of interrogs. (sm) (Entered: 03/05/1999)"
+        },
+        {
+          "row_number": 17,
+          "id": 1465306,
+          "entry_number": "17",
+          "date_filed": "1999-04-12T00:00:00-04:00",
+          "attachments": [],
+          "url": "nan",
+          "recap_pdf_url": null,
+          "pacer_doc_id": null,
+          "description": "Letter to the Clerk of the Court dated 4/9/99 by David M. Rosenblum, Esq. RE: Enclosed pltf's notice of service of depositions. (sm) (Entered: 04/13/1999)"
+        },
+        {
+          "row_number": 6,
+          "id": 1465295,
+          "entry_number": "5",
+          "date_filed": "1998-01-15T00:00:00-05:00",
+          "attachments": [],
+          "url": "nan",
+          "recap_pdf_url": null,
+          "pacer_doc_id": null,
+          "description": "Letter to the Clerk of Court dated 1/14/98 by U.S. Equal EEOC re: Enclo. return of service. (sm) (Entered: 01/20/1998)"
+        },
+        {
+          "row_number": 1,
+          "id": 1465290,
+          "entry_number": null,
+          "date_filed": "1997-11-18T00:00:00-05:00",
+          "attachments": [],
+          "url": "nan",
+          "recap_pdf_url": null,
+          "pacer_doc_id": null,
+          "description": "DEMAND for jury trial by Equal Employment Com (dab) (Entered: 11/18/1997)"
+        },
+        {
+          "row_number": 3,
+          "id": 1465292,
+          "entry_number": "2",
+          "date_filed": "1997-11-26T00:00:00-05:00",
+          "attachments": [],
+          "url": "nan",
+          "recap_pdf_url": null,
+          "pacer_doc_id": null,
+          "description": "CASE assigned to Judge Joseph J. Farnan Jr. . Notice to all parties. (ntl) (Entered: 11/26/1997)"
+        },
+        {
+          "row_number": 11,
+          "id": 1465300,
+          "entry_number": "10",
+          "date_filed": "1998-12-02T00:00:00-05:00",
+          "attachments": [],
+          "url": "nan",
+          "recap_pdf_url": null,
+          "pacer_doc_id": null,
+          "description": "JOINT DISCOVERY PLAN (sm) (Entered: 12/07/1998)"
+        },
+        {
+          "row_number": 7,
+          "id": 1465296,
+          "entry_number": "6",
+          "date_filed": "1998-01-15T00:00:00-05:00",
+          "attachments": [],
+          "url": "nan",
+          "recap_pdf_url": null,
+          "pacer_doc_id": null,
+          "description": "RETURN OF SERVICE executed as to L'Osteria Restaurant 12/26/97 (sm) (Entered: 01/20/1998)"
+        },
+        {
+          "row_number": 4,
+          "id": 1465293,
+          "entry_number": "3",
+          "date_filed": "1998-01-14T00:00:00-05:00",
+          "attachments": [],
+          "url": "nan",
+          "recap_pdf_url": null,
+          "pacer_doc_id": null,
+          "description": "NOTICE of attorney appearance for L'Osteria Restaurant by Barry M Willoughby (sm) (Entered: 01/15/1998)"
+        },
+        {
+          "row_number": 12,
+          "id": 1465301,
+          "entry_number": "11",
+          "date_filed": "1998-12-02T00:00:00-05:00",
+          "attachments": [],
+          "url": "nan",
+          "recap_pdf_url": null,
+          "pacer_doc_id": null,
+          "description": "JOINT MOTION by Equal Employment Com, L'Osteria Restaurant with Proposed Order For Extension of Time To Conduct Discovery re: [11-1] motion (sm) (Entered: 12/07/1998)"
+        },
+        {
+          "row_number": 14,
+          "id": 1465303,
+          "entry_number": "13",
+          "date_filed": "1999-03-05T00:00:00-05:00",
+          "attachments": [],
+          "url": "nan",
+          "recap_pdf_url": null,
+          "pacer_doc_id": null,
+          "description": "CERTIFICATE OF SERVICE by Equal Employment Com RE: Pltf's 1st request for production of documents. (sm) (Entered: 03/05/1999)"
+        },
+        {
+          "row_number": 16,
+          "id": 1465305,
+          "entry_number": "15",
+          "date_filed": "1999-04-08T00:00:00-04:00",
+          "attachments": [],
+          "url": "nan",
+          "recap_pdf_url": null,
+          "pacer_doc_id": null,
+          "description": "CERTIFICATE OF SERVICE by L'Osteria Restaurant RE: Dft's response to pltf's 1st set of interrogs. propounded to dft. (sm) (Entered: 04/09/1999)"
+        },
+        {
+          "row_number": 21,
+          "id": 1465310,
+          "entry_number": null,
+          "date_filed": "1999-07-26T00:00:00-04:00",
+          "attachments": [],
+          "url": "nan",
+          "recap_pdf_url": null,
+          "pacer_doc_id": null,
+          "description": "Case closed (sm) (Entered: 07/26/1999)"
+        },
+        {
+          "row_number": 20,
+          "id": 1465309,
+          "entry_number": null,
+          "date_filed": "1999-07-26T00:00:00-04:00",
+          "attachments": [],
+          "url": "nan",
+          "recap_pdf_url": null,
+          "pacer_doc_id": null,
+          "description": "So Ordered GRANTING [19-1] dismiss/dismissal stipulation ( signed by Judge Joseph J. Farnan Jr. ) Notice to all parties. (sm) (Entered: 07/26/1999)"
+        },
+        {
+          "row_number": 0,
+          "id": 1465289,
+          "entry_number": "1",
+          "date_filed": "1997-11-18T00:00:00-05:00",
+          "attachments": [],
+          "url": "nan",
+          "recap_pdf_url": null,
+          "pacer_doc_id": null,
+          "description": "COMPLAINT filed; Mag consent notice to pltf. (dab) (Entered: 11/18/1997)"
+        },
+        {
+          "row_number": 2,
+          "id": 1465291,
+          "entry_number": null,
+          "date_filed": "1997-11-18T00:00:00-05:00",
+          "attachments": [],
+          "url": "nan",
+          "recap_pdf_url": null,
+          "pacer_doc_id": null,
+          "description": "SUMMONS(ES) issued for L'Osteria Restaurant (dab) (Entered: 11/18/1997)"
+        },
+        {
+          "row_number": 13,
+          "id": 1465302,
+          "entry_number": "12",
+          "date_filed": "1998-12-21T00:00:00-05:00",
+          "attachments": [],
+          "url": "nan",
+          "recap_pdf_url": null,
+          "pacer_doc_id": null,
+          "description": "AMENDED SCHEDULING ORDER setting Discovery cutoff 4/30/99 ; Deadline for filing dispositive motions 5/21/99 ; Pretrial conference for 10:00 9/23/99 ; Jury Trial Date Deadline 9:00 10/5/99 ; Proposed Pretrial Order due on 9/20/99 ( signed by Judge Joseph J. Farnan Jr. ) copies to: counsel (sm) (Entered: 12/22/1998)"
+        },
+        {
+          "row_number": 10,
+          "id": 1465299,
+          "entry_number": "9",
+          "date_filed": "1998-12-01T00:00:00-05:00",
+          "attachments": [],
+          "url": "nan",
+          "recap_pdf_url": null,
+          "pacer_doc_id": null,
+          "description": "CERTIFICATE OF SERVICE by L'Osteria Restaurant RE: Dft's Rule 26 disclosures. (sm) (Entered: 12/07/1998)"
+        },
+        {
+          "row_number": 9,
+          "id": 1465298,
+          "entry_number": "8",
+          "date_filed": "1998-10-28T00:00:00-05:00",
+          "attachments": [],
+          "url": "nan",
+          "recap_pdf_url": null,
+          "pacer_doc_id": null,
+          "description": "Letter to the Court dated 10/26/98 by David M. Rosenblum, Esq. RE: Attached Pltf's Substitution of Appearance, David M. Rosenblum, Esq. for Jose Perez, Esq. at EEOC in Philadelphia. (sm) Modified on 10/28/1998 (Entered: 10/28/1998)"
+        },
+        {
+          "row_number": 19,
+          "id": 1465308,
+          "entry_number": "19",
+          "date_filed": "1999-07-21T00:00:00-04:00",
+          "attachments": [],
+          "url": "nan",
+          "recap_pdf_url": null,
+          "pacer_doc_id": null,
+          "description": "STIPULATION of dismissal with proposed order that pursuant to Rule 41(a)(1)(ii) of the Fed.R.Civ.P. and the settlement agreement entered into by the parties dismiss this action with prejudice. The Court shall retain jurisdiction over the Settlement Agreement for a period of one year to enforce all provisions and to resolve any disputes between the parties. (sm) (Entered: 07/23/1999)"
+        },
+        {
+          "row_number": 8,
+          "id": 1465297,
+          "entry_number": "7",
+          "date_filed": "1998-07-08T00:00:00-04:00",
+          "attachments": [],
+          "url": "nan",
+          "recap_pdf_url": null,
+          "pacer_doc_id": null,
+          "description": "SCHEDULING ORDER setting Discovery cutoff 12/4/98 ; Deadline for filing dispositive motions 12/30/98 ; Pretrial conference for 2:00 1/28/99 ; Proposed Pretrial Order due on 1/25/99 ( signed by Judge Joseph J. Farnan Jr. ) copies to: counsel (sm) (Entered: 07/09/1998)"
+        }
+      ],
+      "docket_case_type": "cv",
+      "docket_year": 1997,
+      "docket_filing_number": 612,
+      "is_main_docket": true,
+      "court": "District of Delaware",
+      "state": "Delaware",
+      "docket_office_number": "1",
+      "docket_number_manual": "1:97-cv-00612-JJF",
+      "scales_html": "https://clearinghouse-umich-production.s3.amazonaws.com/media/docket-html/ded--1-97-cv-00612.html",
+      "recap_link": null,
+      "is_active": true
+    },
+    "name": "EEOC v. L'OSTERIA RESTAURANT",
+    "never_filed": false,
+    "non_docket_case_number": "",
+    "non_docket_case_number_type": null,
+    "non_docket_case_number_type_other": "",
+    "order_end_year": null,
+    "order_start_year": null,
+    "permanent_injunction": false,
+    "plaintiff_description": "Equal Employment Opportunity Commission, on behalf of one or more workers.",
+    "plaintiff_type": [
+      {
+        "value": "EEOC Plaintiff"
+      }
+    ],
+    "prevailing_party": "Plaintiff",
+    "pro_se_status": "No",
+    "public_interest_lawyer": "Yes",
+    "related_cases": [],
+    "relief_natures": [
+      "Unknown"
+    ],
+    "relief_nature_other": "",
+    "relief_sources": [
+      "Settlement"
+    ],
+    "settlement_agreement": [
+      "Voluntary Dismissal"
+    ],
+    "settlement_judgment_date": "1999-07-26",
+    "settlement_judgment_year": null,
+    "special_collections": [
+      "EEOC Study — in sample"
+    ],
+    "special_case_type": [],
+    "state": "Delaware",
+    "summary": "<p>EEOC's Wilmington, DE office filed this lawsuit against the defendant L'Osteria Restaurant at the United States District Court for the District of Delaware (Wilmington) on 11/18/1997.  On 07/21/1999, the parties filed a joint motion to dismiss the case after reaching a settlement agreement.  District Judge Joseph J. Farnan granted the motion on 07/26/1999 and closed the case.  With access only to the docket, there is no information about the complaint, the complainant, or what kind of relief was obtained.</p><p></p>",
+    "summary_published_date": "2007-08-11T00:00:00-04:00",
+    "summary_short": null,
+    "summary_tiny": null,
+    "terminating_date": "1999-07-26",
+    "clearinghouse_link": "clearinghouse.net/case/6441",
+    "is_active": true,
+    "case_documents_url": "https://clearinghouse.net/api/v2/documents/?case=6441",
+    "case_dockets_url": "https://clearinghouse.net/api/v2/dockets/?case=6441",
+    "case_resources_url": "https://clearinghouse.net/api/v2/resources/?case=6441"
+  },
+  "documents": [
+    {
+      "date": "1999-07-26",
+      "date_is_estimate": false,
+      "date_not_available": false,
+      "description": null,
+      "document_source": "PACER [Public Access to Court Electronic Records]",
+      "document_status": "Coding Complete",
+      "document_type": "Docket",
+      "order_type": null,
+      "citation_paren": null,
+      "cite_1_page": null,
+      "cite_1_reporter": null,
+      "cite_1_vol": null,
+      "cite_2_page": null,
+      "cite_2_reporter": null,
+      "cite_2_vol": null,
+      "cite_3_page": null,
+      "cite_3_reporter": null,
+      "cite_3_vol": null,
+      "citation_status": "Not applicable",
+      "court": "District of Delaware",
+      "no_title": false,
+      "party_types": [
+        "Court"
+      ],
+      "per_curium": false,
+      "is_core_document": true,
+      "id": 19538,
+      "file": "https://clearinghouse-umich-production.s3.amazonaws.com/media/doc/19538.pdf",
+      "title": "Docket [PACER]",
+      "text": "CM/ECF LIVE - U.S. District Court:ded - Docket Report https://ecf.ded.uscourts.gov/cgi-bin/DktRpt.pl?122033597081246-L_35...\nCLOSED\nU.S. District Court\nDistrict of Delaware (Wilmington)\nCIVIL DOCKET FOR CASE #: 1:97-cv-00612-JJF\nEqual Employment Com v. L'Osteria Restaurant Date Filed: 11/18/1997\nAssigned to: Honorable Joseph J. Farnan, Jr. Date Terminated: 07/26/1999\nDemand: $0 Jury Demand: Plaintiff\nCause: 42:2000 Job Discrimination (Sex) Nature of Suit: 442 Civil Rights: Jobs\nJurisdiction: U.S. Government Plaintiff\nPlaintiff\nEqual Employment Opportunity  represented by Gregory M. Sleet \nCommission U.S. Attorney's Office \nThe Nemours Building \n1007 Orange Street, Suite 700 \nP.O. Box 2046 \nWilmington, DE 19899-2046 \n(302) 573-6277 \nTERMINATED: 12/02/1998 \nLEAD ATTORNEY \nATTORNEY TO BE NOTICED\nVirginia Gibson \nU.S. Attorney's Office \nThe Nemours Building \n1007 Orange Street, Suite 700 \nP.O. Box 2046 \nWilmington, DE 19899-2046 \n(302) 573-6277 \nLEAD ATTORNEY \nATTORNEY TO BE NOTICED\nV.\nDefendant\nL'Osteria Restaurant represented by Barry M. Willoughby \nYoung, Conaway, Stargatt & Taylor \nThe Brandywine Building \n1000 West Street, 17th Floor \nP.O. Box 391 \nWilmington, DE 19899-0391 \n(302) 571-6666 \nFax: (302) 576-3345 \nEmail: bwilloughby@ycst.com \nLEAD ATTORNEY \nATTORNEY TO BE NOTICED\n1 of 3 6/5/2007 11:32 AM\n\nCM/ECF LIVE - U.S. District Court:ded - Docket Report https://ecf.ded.uscourts.gov/cgi-bin/DktRpt.pl?122033597081246-L_35...\nDate Filed # Docket Text\n11/18/1997 1 COMPLAINT filed; Mag consent notice to pltf. (dab) (Entered: 11/18/1997)\n11/18/1997   DEMAND for jury trial by Equal Employment Com (dab) (Entered: 11/18/1997)\n11/18/1997   SUMMONS(ES) issued for L'Osteria Restaurant (dab) (Entered: 11/18/1997)\n11/26/1997 2 CASE assigned to Judge Joseph J. Farnan Jr. . Notice to all parties. (ntl) \n(Entered: 11/26/1997)\n01/14/1998 3 NOTICE of attorney appearance for L'Osteria Restaurant by Barry M \nWilloughby (sm) (Entered: 01/15/1998)\n01/14/1998 4 ANSWER to Complaint by L'Osteria Restaurant (sm) (Entered: 01/15/1998)\n01/15/1998 5 Letter to the Clerk of Court dated 1/14/98 by U.S. Equal EEOC re: Enclo. return \nof service. (sm) (Entered: 01/20/1998)\n01/15/1998 6 RETURN OF SERVICE executed as to L'Osteria Restaurant 12/26/97 (sm) \n(Entered: 01/20/1998)\n07/08/1998 7 SCHEDULING ORDER setting Discovery cutoff 12/4/98 ; Deadline for filing \ndispositive motions 12/30/98 ; Pretrial conference for 2:00 1/28/99 ; Proposed \nPretrial Order due on 1/25/99 ( signed by Judge Joseph J. Farnan Jr. ) copies to: \ncounsel (sm) (Entered: 07/09/1998)\n10/28/1998 8 Letter to the Court dated 10/26/98 by David M. Rosenblum, Esq. RE: Attached \nPltf's Substitution of Appearance, David M. Rosenblum, Esq. for Jose Perez, Esq. \nat EEOC in Philadelphia. (sm) Modified on 10/28/1998 (Entered: 10/28/1998)\n12/01/1998 9 CERTIFICATE OF SERVICE by L'Osteria Restaurant RE: Dft's Rule 26 \ndisclosures. (sm) (Entered: 12/07/1998)\n12/02/1998 10 JOINT DISCOVERY PLAN (sm) (Entered: 12/07/1998)\n12/02/1998 11 JOINT MOTION by Equal Employment Com, L'Osteria Restaurant with \nProposed Order For Extension of Time To Conduct Discovery re: [11-1] motion \n(sm) (Entered: 12/07/1998)\n12/21/1998 12 AMENDED SCHEDULING ORDER setting Discovery cutoff 4/30/99 ; \nDeadline for filing dispositive motions 5/21/99 ; Pretrial conference for 10:00 \n9/23/99 ; Jury Trial Date Deadline 9:00 10/5/99 ; Proposed Pretrial Order due on \n9/20/99 ( signed by Judge Joseph J. Farnan Jr. ) copies to: counsel (sm) (Entered: \n12/22/1998)\n03/05/1999 13 CERTIFICATE OF SERVICE by Equal Employment Com RE: Pltf's 1st request \nfor production of documents. (sm) (Entered: 03/05/1999)\n03/05/1999 14 CERTIFICATE OF SERVICE by Equal Employment Com RE: Pltf's 1st set of \ninterrogs. (sm) (Entered: 03/05/1999)\n04/08/1999 15 CERTIFICATE OF SERVICE by L'Osteria Restaurant RE: Dft's response to \npltf's 1st set of interrogs. propounded to dft. (sm) (Entered: 04/09/1999)\n2 of 3 6/5/2007 11:32 AM\n\nCM/ECF LIVE - U.S. District Court:ded - Docket Report https://ecf.ded.uscourts.gov/cgi-bin/DktRpt.pl?122033597081246-L_35...\n04/08/1999 16 CERTIFICATE OF SERVICE by L'Osteria Restaurant RE: Dft's response to \npltf's 1st request for production of documents. (sm) (Entered: 04/09/1999)\n04/12/1999 17 Letter to the Clerk of the Court dated 4/9/99 by David M. Rosenblum, Esq. RE: \nEnclosed pltf's notice of service of depositions. (sm) (Entered: 04/13/1999)\n04/12/1999 18 CERTIFICATE OF SERVICE by Equal Employment Com RE: Pltf's 1st notice \nof depositions. (sm) (Entered: 04/13/1999)\n07/21/1999 19 STIPULATION of dismissal with proposed order that pursuant to Rule \n41(a)(1)(ii) of the Fed.R.Civ.P. and the settlement agreement entered into by the \nparties dismiss this action with prejudice. The Court shall retain jurisdiction over \nthe Settlement Agreement for a period of one year to enforce all provisions and \nto resolve any disputes between the parties. (sm) (Entered: 07/23/1999)\n07/26/1999   So Ordered GRANTING [19-1] dismiss/dismissal stipulation ( signed by Judge \nJoseph J. Farnan Jr. ) Notice to all parties. (sm) (Entered: 07/26/1999)\n07/26/1999   Case closed (sm) (Entered: 07/26/1999)\nPACER Service Center\nTransaction Receipt\n06/05/2007 12:35:12\nPACER  Client \nhs0328 eeoc \nLogin: Code:\nDocket  Search  1:97-cv-00612-JJF Start date: \nDescription:\nReport Criteria: 1/1/1970 End date: 6/5/2007\nBillable \n2 Cost: 0.16\nPages:\n3 of 3 6/5/2007 11:32 AM",
+      "document_type_other": null,
+      "external_url": null,
+      "ecf_number": null,
+      "clearinghouse_link": "clearinghouse.net/doc/19538"
+    },
+    {
+      "date": null,
+      "date_is_estimate": false,
+      "date_not_available": false,
+      "description": null,
+      "document_source": null,
+      "document_status": null,
+      "document_type": null,
+      "order_type": null,
+      "citation_paren": null,
+      "cite_1_page": null,
+      "cite_1_reporter": null,
+      "cite_1_vol": null,
+      "cite_2_page": null,
+      "cite_2_reporter": null,
+      "cite_2_vol": null,
+      "cite_3_page": null,
+      "cite_3_reporter": null,
+      "cite_3_vol": null,
+      "citation_status": null,
+      "court": null,
+      "no_title": false,
+      "party_types": [],
+      "per_curium": false,
+      "is_core_document": true,
+      "id": 124730,
+      "file": null,
+      "title": null,
+      "text": null,
+      "document_type_other": null,
+      "external_url": null,
+      "ecf_number": null,
+      "clearinghouse_link": "clearinghouse.net/doc/124730"
+    }
+  ],
+  "document_count": 2
+}

@@ -1,0 +1,253 @@
+{
+  "case_id": 347,
+  "fetched_at": "2025-10-22T00:03:46.407709",
+  "case_data": {
+    "attorney_orgs": [
+      "U.S. Dept. of Justice Civil Rights Division"
+    ],
+    "available_documents": [
+      "Findings Letter/Report"
+    ],
+    "case_defendants": [
+      {
+        "defendant_level": null,
+        "institution": "",
+        "institution_alt_state": null,
+        "institution_city": "",
+        "institution_county": null,
+        "name": "Harrison County",
+        "defendant_level_other": "",
+        "is_active": true
+      },
+      {
+        "defendant_level": null,
+        "institution": "",
+        "institution_alt_state": null,
+        "institution_city": "Gulfport",
+        "institution_county": null,
+        "name": "Harrison County Youth Detention Center",
+        "defendant_level_other": "",
+        "is_active": true
+      }
+    ],
+    "case_ongoing": "No reason to think so",
+    "case_status": "Coding Complete",
+    "case_types": [
+      "Juvenile Institution",
+      "Healthcare Access and Reproductive Issues"
+    ],
+    "cause_other": "",
+    "causes": [
+      "Civil Rights of Institutionalized Persons Act (CRIPA), 42 U.S.C. § 1997 et seq."
+    ],
+    "class_action_granted": "Not sought",
+    "class_action_sought": "No",
+    "closing_year": 0,
+    "constitutional_clause": [],
+    "content_of_injunction": [],
+    "court": "No Court",
+    "custom_issues": [],
+    "defendant_payment": "",
+    "defendant_type": [],
+    "docket_status": "None",
+    "facility_type": [
+      {
+        "value": "Government-run"
+      }
+    ],
+    "filing_date": null,
+    "filing_year": null,
+    "id": 347,
+    "injunction_duration": "",
+    "issues": [
+      "Jails, Prisons, Detention Centers, and Other Institutions: Crowding (General)",
+      "Jails, Prisons, Detention Centers, and Other Institutions: Suicide prevention (facilities)",
+      "General/Misc.: Personal injury",
+      "General/Misc.: Staff (number, training, qualifications, wages)",
+      "General/Misc.: Counseling",
+      "General/Misc.: Food service / nutrition / hydration",
+      "General/Misc.: Sanitation / living conditions",
+      "Jails, Prisons, Detention Centers, and Other Institutions: Recreation / Exercise",
+      "General/Misc.: Fire safety",
+      "Medical/Mental Health Care: Medical care, general",
+      "Medical/Mental Health Care: Mental health care, general",
+      "Medical/Mental Health Care: Suicide prevention",
+      "General/Misc.: Totality of conditions",
+      "General/Misc.: Education",
+      "Affected Sex/Gender(s): Male",
+      "Jails, Prisons, Detention Centers, and Other Institutions: Assault/abuse by staff (facilities)"
+    ],
+    "last_checked_date": "2015-04-06T00:00:00-04:00",
+    "main_docket": {
+      "id": 42736,
+      "docket_entries": [],
+      "docket_case_type": "",
+      "docket_year": null,
+      "docket_filing_number": null,
+      "is_main_docket": true,
+      "court": "No Court",
+      "state": "Mississippi",
+      "docket_office_number": "",
+      "docket_number_manual": "No Court Case",
+      "scales_html": null,
+      "recap_link": null,
+      "is_active": false
+    },
+    "name": "CRIPA Investigation, Harrison County (MS)",
+    "never_filed": true,
+    "non_docket_case_number": "",
+    "non_docket_case_number_type": null,
+    "non_docket_case_number_type_other": "",
+    "order_end_year": 0,
+    "order_start_year": 0,
+    "permanent_injunction": false,
+    "plaintiff_description": "United States Department of Justice",
+    "plaintiff_type": [
+      {
+        "value": "U.S. Dept of Justice plaintiff"
+      }
+    ],
+    "prevailing_party": "Unknown",
+    "pro_se_status": "No",
+    "public_interest_lawyer": "Yes",
+    "related_cases": [],
+    "relief_natures": [
+      "Unknown"
+    ],
+    "relief_nature_other": "",
+    "relief_sources": [
+      "Unknown"
+    ],
+    "settlement_agreement": [],
+    "settlement_judgment_date": null,
+    "settlement_judgment_year": null,
+    "special_collections": [
+      "Civil Rights Division Archival Collection"
+    ],
+    "special_case_type": [
+      {
+        "value": "Out-of-court"
+      }
+    ],
+    "state": "Mississippi",
+    "summary": "<p>On May 3, 1993, the U.S. Department of Justice opened an investigation of conditions at the Harrison County Youth Detention Center pursuant to the Civil Rights of Institutionalized Persons Act, 42 U.S.C. § 1997 (CRIPA). The investigation was prompted by complaints of unsafe conditions at the detention center including physical abuse of the juveniles by detention officers, unsanitary living conditions, and inadequate educational, medical, and mental health facilities. </p><p>In its notice of findings on September 9, 1993, the Justice Department concluded that the following conditions and policies of HCJDC were in violation of the Constitution: (1) HCJDC's lack of on-site medical and mental health services; (2) failure to monitor suicidal individuals; (3) failure to provide hot water, pest control, adequate bedding, fire safety systems, food sanitation and out-of-cell time; and (4) overcrowding. At minimum, HCJDC was ordered to implement remedial measures including the provision of adequate medical and mental health care, safe and sanitary conditions, and adequate staff training and supervision. These letters are the only information we have on file regarding the investigation, and therefore we do not know what steps HCJDC took to remedy the violations. </p>",
+    "summary_published_date": "2006-05-17T00:00:00-04:00",
+    "summary_short": "",
+    "summary_tiny": null,
+    "terminating_date": null,
+    "clearinghouse_link": "clearinghouse.net/case/347",
+    "is_active": false,
+    "case_documents_url": "https://clearinghouse.net/api/v2/documents/?case=347",
+    "case_dockets_url": "https://clearinghouse.net/api/v2/dockets/?case=347",
+    "case_resources_url": "https://clearinghouse.net/api/v2/resources/?case=347"
+  },
+  "documents": [
+    {
+      "date": "1993-09-09",
+      "date_is_estimate": false,
+      "date_not_available": false,
+      "description": null,
+      "document_source": null,
+      "document_status": "Coding Complete",
+      "document_type": "Findings Letter/Report",
+      "order_type": null,
+      "citation_paren": null,
+      "cite_1_page": null,
+      "cite_1_reporter": null,
+      "cite_1_vol": null,
+      "cite_2_page": null,
+      "cite_2_reporter": null,
+      "cite_2_vol": null,
+      "cite_3_page": null,
+      "cite_3_reporter": null,
+      "cite_3_vol": null,
+      "citation_status": "Not applicable",
+      "court": "No Court",
+      "no_title": false,
+      "party_types": [
+        "Plaintiff"
+      ],
+      "per_curium": false,
+      "is_core_document": true,
+      "id": 1545,
+      "file": "https://clearinghouse-umich-production.s3.amazonaws.com/media/doc/1545.pdf",
+      "title": "Findings Letter re: Harrison County Youth Detention Center, Gulfport , Mississippi",
+      "text": "U.S.  Department  of Justice\nCivil Ri>ihts Division\nCRIPA Investigation\nJI-MS-001-002\notP  9 I993\nREGISTERED MAIL\nRETURN RECEIPT REQUESTED\nMr. Robert Eleuterius\nPresident\nHarrison  County  Board  of  Supervisors\n1801  23rd  Ave.\nGulfport, Mississippi  39502\nRe:  Notice of Findings of Investigation,\nHarrison County Juvenile Detention Center\nDear Mr. Eleuterius:_\nOn May 3, 1993, we notified you of our intent to\ninvestigate the Harrison County Juvenile Detention Center\n(\"HCJDC\") pursuant to the Civil Rights of Institutionalized\nPersons Act, 42 U.S.C. § 1997 et seq.  Consistent with statutory\nrequirements, we are now writing to advise you of the findings of\nour investigation.  Throughout the course of the investigation,\nCounty officials, including the Sheriff, County Attorney, and\njail personnel, provided us with substantial assistance and their\nfull cooperation.  Our consultants expressed appreciation for\nthis assistance, and we wish to join them in thanking you for\nyour cooperation.  ``  —\nIn assessing the constitutionality of conditions at HCJDC,\nthe appropriate legal standard is whether conditions of\nconfinement are reasonably related to the legitimate government\n.^objectives of rehabilitation, safety, internal order and\nsecurity.  Conditions or restrictions which are unrelated to\nthese objectives constitute punishment without due process of law\nand as such may not be inflicted upon juveniles.  Cf. Bell v.\nWolfish. 441 U.S. 520 (1979).  See also Santana v. Collazo. 714\nF.2d 1172, 1179-81 (1st Cir. 1983), cert, denied. 466 U.S. 9J„4\n(1984); Santana v. Collazo. 793 F.2d 41 (1st Cir. 1986).\nJuvenile detainees have a due process right to adequate food,\nclothing and shelter, as well as freedom from unnecessary bodily\nrestraint.  Youngberg v. Romeo. 457 U.S. 307 (1982); Collazo, 714\nF.2d at 1179; ç_f. Morgan v. Sproat, 432 F. Supp. 1130, 1136 (S.D.\nMiss. 1977) (a state has the obligation to provide rehabilitative\ntreatment to those juveniles within its institutions).\nBased on our investigation, we believe that certain >\nconditions at the juvenile detention center violate the\n\n- 2 -\nconstitutional and federal statutory rights of the juveniles.\nThese conditions are set forth below:\n1.  Inadequate Medical Care.\nMedical and mental health services are not provided on-site\nat HCJDC.  Juveniles are sent to and rely upon the main adult\njail for medical and mental health services.  To the extent that\nthe medical and mental health services are inadequate at the\nadult jail, such services are also inadequate to serve the\njuvenile population at HCJDC.  Consequently, the list of\ndeficiencies for the adult jail as contained in the United\nStates' Findings Letter to the Harrison County Board of\nSupervisors also applies to HCJDC.\n2.  Inadequate Mental Health Services and Suicide\nPrevention Measures.\nOur medical, psychology, and suicide consultants found the\nmental health services and suicide prevention procedures at HCJDC\nto be wholly inadequate.  HCJDC fails to provide substantive\nmental health care inside the detention center.  The screening\nprocess at HCJDC is cursory and fails to identify incoming\njuveniles who may have suicidal tendencies.  Officers do not have\nany training in spotting or diagnosing mental health problems.\nMonitoring of suspected suicidal juveniles is also\ninadequate.  Juveniles suspected of attempting suicide are placed\nin the large day room area on the floor*.¯  Staff do not monitor\nthem at specific intervals, often leaving them completely alone\nfor extended periods of time.  .  ,\nThe physical environment of the facility is dangerous and\nconducive to suicide.  Numerous protrusions exist in the housing\nunits, including wide mesh screens over windows and vents and\nceiling light fixtures that are not- recessed.  These protrusions\n.provide mentally ill or depressed juveniles with opportunities\nfor self-mutilation and/or suicide.  Further, youths are often\nrequired to spend upwards of twenty (20) hours a day in their\ncells.  One youth stated to our psychology expert that he\nattempted suicide because he could not stand being in the room\nall day and wanted to do something to get out.\n¯3.  Unhealthy and Unsafe Conditions of Confinement.\nThe physical environment of the facility is decrepit and\ndangerous to the juveniles.  Many cells lack hot water.  In\naddition, there is a recurring problem with clogged sewage pipes\nand backed up sinks and toilets.  Our psychology expert noted raw\nsewage backed up in the hallway.  Pest control throughout the\nfacility is inadequate.  Dead roaches and vermin droppings were\nnoted.  Another of our experts stated that the sleeping\n\n- 3 -\nconditions at the detention center are \"barbaric.\"  Youth are\nforced to sleep on dilapidated mats on a concrete floor.  Pillows\nare not provided, and the linens the-juveniles do receive are\nripped and torn.  The few mattresses available are also cracked\nand torn.  Lighting levels in the cells and shower facilities are\ninadequate.\nThe fact that HCJDC is seriously overcrowded compounds the\nproblem with bed space and supplies.  Some youths were housed on\nthe floor in the facility's day rooms.  In addition, female\nresidents are housed in the same wing as male residents.  HCJDC\nis not designed for co-ed housing, and the present situation not\nonly affords both sexes little privacy, but facilitates\ninappropriate sexual behavior.\nFire safety and security systems are inadequate.  HCJDC does\nnot train officers in the use of fire extinguishers.  HCJDC also\ndoes not test or inspect its fire safety equipment on a regular\nbasis.  There are no provisions for emergency power for lights,\nexit lights, communication and alarm systems.  In addition, the\nfacility does not conduct fire drills, nor are there written\nplans or evacuation procedures for fires or other emergencies.\nThe facility's food sanitation practices are inadequate.\nThe facility's dishwasher is unable to provide the proper\nsanitizing temperature for utensils and equipment.  Food storage\nis also inadequate.  Our expert noted live roaches, dead roaches,\nand roach droppings inside several food boxes.  In addition,\ncardboard containers that were used to store soap were being re-\nused to store flour and sugar.  Older or stronger youth are\nallowed to prey upon younger and weaker ,juveniles, coercing these\nyouth into providing them with canteen items.  Special dietary\nrequirements of juveniles are not being met.  The staff is not\ntrained and no procedures exist governing how to prepare special\ndiets.\nFinally, HCJDC does not provide juveniles adequate out-of-\n¯cell time.  Youths housed at the detention facility are currently\nallowed only two, two-hour blocks of time out of their cells per\nday, i.e., they are kept confined 20 hours per day.  However, if\nstaff decides that their out-of-cell time presents an operational\ninconvenience, the juveniles may be denied even this minimal\namount of time without confinement to their cells.\n4.  Inadequate Staff Training and Supervision.\nStaff at the HCJDC have never been trained to work with\nadolescents.  HCJDC is operated like an adult jail.  Staff see\ntheir duties as simply maintaining order and security.  Staff\nsupervision of juveniles is also inadequate.  There are too few\nstaff to properly monitor juveniles to ensure their safety.\nBecause of the limited number of staff, the detention center\n\n}  `  - 4 -\nj\nrelies upon juvenile trustees who are given power and authority\nover other juveniles.  This increases the possibility that these\ntrustees will exhibit preâatory behavior toward those over whom\nthey exercise authority.  Furthermore, staff often do not make\nperiodic checks of the juveniles, leaving them alone and\nunmonitored for extended periods of time.\nMinimally Required Remedies\nThe minimum remedial measures that HCJDC must implement to\nensure that constitutional standards are achieved are set forth\nbelow:\n1.  HCJDC must provide adequate medical care to all\njuveniles.  Because HCJDC relies exclusively on the adult jail,\nthe remedies outlined in the United States' Findings Letter to\nthe Harrison County Board of Supervisors for the Harrison County\nJail regarding inadequate medical services also apply to the\nyouth detention center.  In addition, the facility must have a\nqualified medical professional evaluate sick call requests.\n2.  HCJDC must provide adequate mental health services and\nsuicide prevention measures to protect the health and safety of\nthe juveniles.  Again, since HCJDC relies exclusively on the\nì  adult jail, the remedies outlined in the United States' Findings\nLetter to the Harrison County Board of Supervisors for the\nHarrison County Jail regarding inadequate mental health services\nalso apply to the youth detention center.  With regard to suicide\nprevention, HCJDC must take the following remedial measures:\na.  Train staff to identify signs of suicidal\ntendencies and require that suicide screening be included in__the\ninitial intake evaluation.\nb.  Provide procedures for monitoring juveniles\nidentified as potential suicides and provide cell(s) specifically\ndesigned to avoid or prevent suicides.\nc.  Juveniles identified as being suicidal must be\nregularly monitored and such monitoring must be documented in\nwriting.\nd.  Provide appropriate mental health services to those\ninmates who are identified as having mental health problems or\nsuicidal tendencies, including, but not limited to, contracting\nfor services of a qualified mental health professional to\nevaluate and monitor juveniles with mental health problems.\ne.  Repair and/or renovate the physical environ¤ent of\n¡  the facility by removing potentially dangerous protrusions.\n\n- 5 -\nf.  Purchase appropriate rescue equipment and ensure\nprompt staff intervention to prevent youth suicide attempts.  See\nUnited States' Findings Letter to the. Harrison County Board of\nSupervisors Regarding the Harrison County Jail.\n3.  HCJDC must provide the juveniles safe conditions of\nconfinement.  In order to provide such safe conditions of\nconfinement, HCJDC must initiate the following remedies:\na.  The facility must properly clean and sanitize\nplates and eating utensils.  Food must be stored in containers\nthat prevent infestation by roaches or other vermin.  The\npractice of \"recycling\" soap boxes and other containers to be\nused for food storage must stop.  Special diets must be provided\nfor juveniles who need them.\nb.  All juveniles must be provided a bed with clean\nlinens, fire safe mattresses, and pillows.\nc.  HCJDC must implement a system to regularly inspect\nthe facility for insects and vermin and provide appropriate\nextermination services.\nd.  HCJDC must purchase and maintain adequate fire\nsafety equipment and train staff in its use.  In addition, and on\na regular basis, there must be fire drills and system checks\nunder the supervision of qualified professionals.  An emergency\npower system with a portable generator must also be installed.\ne.  Hot water must be provide,ð to all the cells, and\nthe sewage systems must be repaired to prevent back-ups and\nclogs.  ¯ .  '\nf.  HCJDC must afford the juveniles adequate\nopportunities for exercise.\n4.  HCJDC must provide adequate' staff. staff supervision,\n'and staff training in order to adequately protect the health and\nsafety of the juveniles.  To provide for adequate staffing and\ntraining, the following remedial measures must be implemented:\na.  Staffing must be increased to three officers per\nshift.\nb.  Staff must be properly trained in all detention\nfacility policies and procedures in addition to specific training\nin how to deal with juveniles.\nc.  Establish clear guidelines and policies for use of\njuvenile trustees.  Under no condition shall trustee youths have\nauthority over or supervise other youths.\n\n- 6 -\nPursuant to CRIPA, the Attorney General may initiate a\nlawsuit to correct deficiencies at an institution 49 days after\nappropriate local officials are notified of them.  42 U.S.C.\n§l997b(a)(1).  That period expires on*October 28, 1993.\n^Therefore, we anticipate hearing from you before that date with\nany response you may have to our findings and a description of\nthe specific steps you will take to implement each of the minimum\nremedies set forth above.  If you do not respond within the\nstated time period, we will consider initiating an action against\nyour jurisdiction to remedy the unconstitutional conditions.\nWe appreciate the assistance and cooperation that the\nrepresentatives of the State, County, and the facility have\nextended to us during this investigation and look forward to\nworking with you to resolve this matter in a reasonable and\nexpeditious manner.  If you or any member of your staff have any\nquestions, please feel free to contact William G. Maddox, Senior\nTrial Attorney, Special Litigation Section, at (202) 514-6251.\nSincerely,\nJames ¾>.  Turner\nActing  Assistant  Attorney  General\nCivil  Rights  Division\nEnclosure\ncc: Joseph R. Meadows, Esquire\nHarrison County Board\nof Supervisors Attorney\nMr. Rick Gaston, Warden\nHarrison County Jail\nMr. Joe Price\nHarrison County Sheriff\nGeorge L. Phillips, Esquire\nUnited States Attorney\nState of Mississippi\nSouthern District",
+      "document_type_other": null,
+      "external_url": "",
+      "ecf_number": null,
+      "clearinghouse_link": "clearinghouse.net/doc/1545"
+    },
+    {
+      "date": null,
+      "date_is_estimate": false,
+      "date_not_available": false,
+      "description": null,
+      "document_source": null,
+      "document_status": null,
+      "document_type": null,
+      "order_type": null,
+      "citation_paren": null,
+      "cite_1_page": null,
+      "cite_1_reporter": null,
+      "cite_1_vol": null,
+      "cite_2_page": null,
+      "cite_2_reporter": null,
+      "cite_2_vol": null,
+      "cite_3_page": null,
+      "cite_3_reporter": null,
+      "cite_3_vol": null,
+      "citation_status": null,
+      "court": null,
+      "no_title": false,
+      "party_types": [],
+      "per_curium": false,
+      "is_core_document": true,
+      "id": 129108,
+      "file": null,
+      "title": null,
+      "text": null,
+      "document_type_other": null,
+      "external_url": null,
+      "ecf_number": null,
+      "clearinghouse_link": "clearinghouse.net/doc/129108"
+    },
+    {
+      "date": "1993-05-03",
+      "date_is_estimate": false,
+      "date_not_available": false,
+      "description": null,
+      "document_source": null,
+      "document_status": "Coding Complete",
+      "document_type": "Notice of Investigation or Suit/Demand Letter",
+      "order_type": null,
+      "citation_paren": null,
+      "cite_1_page": null,
+      "cite_1_reporter": null,
+      "cite_1_vol": null,
+      "cite_2_page": null,
+      "cite_2_reporter": null,
+      "cite_2_vol": null,
+      "cite_3_page": null,
+      "cite_3_reporter": null,
+      "cite_3_vol": null,
+      "citation_status": "Not applicable",
+      "court": "No Court",
+      "no_title": false,
+      "party_types": [
+        "Plaintiff"
+      ],
+      "per_curium": false,
+      "is_core_document": true,
+      "id": 1544,
+      "file": "https://clearinghouse-umich-production.s3.amazonaws.com/media/doc/1544.pdf",
+      "title": "Notice Letter re: Harrison County Youth Detention Center, Gulfport , Mississippi",
+      "text": "U.S. Department  of Justice\nCivil  Rights Division\n<:t· of ike A<¦sish:iit A:n`ru~.  Ci-ncr,¡l  U<u/ii/¡vr.«i. D.C 2'X).<5\nWAY  3  !993\nCRIPA Investigation\nMr. Robert Eleuterius  JI-MS-001-001\nPresident\nHarrison County Board of Supervisors\n1801 23rd Avenue\nGulfport, MS  39502\nRe:  Investigation of the Harrison County Youth\nDetention Center in Gulfport, Mississippi\nDear Mr. Eleuterius:\nI am writing to inform you of our intention to investigate\nconditions at the Harrison County Youth Detention Center\n(\"HCYDC\") in Gulfport, Mississippi.  The investigation is\npursuant to the Civil Rights of Institutionalized Persons Act, 42\nU.S.C. §I997-I997j  (1982).\nThe purpose of the investigation will be to determine\nwhether HCYDC violates the c ;r.stitutional rights of its ir.r.ates.\nThe investigation will focus en, among other things, allegations\nconcerning  (1) an unsafe environment due to physical abuse of  \\\njuveniles by detention officers, (2) lack of supervision by  \\\ndetention officers, (3) conditions of confinement,  (4) inadequate\nmedical and mental health services, and (5) inadequate\neducational services.  Initiating this investigation in no vay\nevidences any prejudgment that HCYDC violates its inmates'\nconstitutional rights.  If any violations are found, however, we\nwill confer with you and your staff concerning appropriate\ncorrective actions.\nAs a means of commencing this investigation, we wish to\narrange for our attorneys, consultants, and perhaps agents of the\n\n- 2 -\nFederal Bureau of Investigation to visit and tour HCYDC.  We\nshall be in touch with your staff to work out the specifics of\nour initial investigation.\nYour cooperation in this matter is greatly appreciated.\nSincerely,\nJames P. Turner\nActing Assistant Attorney General\nCivil Rights Division\ncc:  Robert A. Payne, Esquire\nHarrison County Attorney\nMr. Rick Gaston\nWarden\nHarrison County Jail\n& Youth Detention Center\nMr. Joe Price\nHarrison County Sheriff\nGeorge L. Phillips, Esquire\nUnited States Attorney\nState of Mississippi\nSouthern District",
+      "document_type_other": null,
+      "external_url": "",
+      "ecf_number": null,
+      "clearinghouse_link": "clearinghouse.net/doc/1544"
+    }
+  ],
+  "document_count": 3
+}

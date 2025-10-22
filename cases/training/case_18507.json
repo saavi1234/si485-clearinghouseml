@@ -1,0 +1,392 @@
+{
+  "case_id": 18507,
+  "fetched_at": "2025-10-22T00:35:30.903557",
+  "case_data": {
+    "attorney_orgs": [
+      "NDRN/Protection & Advocacy Organizations"
+    ],
+    "available_documents": [
+      "Complaint (any)"
+    ],
+    "case_defendants": [
+      {
+        "defendant_level": null,
+        "institution": "Columbus City Schools",
+        "institution_alt_state": null,
+        "institution_city": "",
+        "institution_county": null,
+        "name": "Columbus City Schools",
+        "defendant_level_other": "",
+        "is_active": true
+      }
+    ],
+    "case_ongoing": "No",
+    "case_status": "Approved",
+    "case_types": [
+      "Education",
+      "Disability Rights"
+    ],
+    "cause_other": "",
+    "causes": [
+      "Developmental Disabilities Assistance and Bill of Rights Act, 42 U.S.C. § 15001 et seq."
+    ],
+    "class_action_granted": "Not sought",
+    "class_action_sought": "No",
+    "closing_year": 2012,
+    "constitutional_clause": [],
+    "content_of_injunction": [],
+    "court": "Southern District of Ohio",
+    "custom_issues": [],
+    "defendant_payment": "",
+    "defendant_type": [
+      {
+        "value": "Elementary/Secondary School"
+      }
+    ],
+    "docket_status": "Complete as of retrieval date",
+    "facility_type": [],
+    "filing_date": "2012-03-05",
+    "filing_year": 2012,
+    "id": 18507,
+    "injunction_duration": "",
+    "issues": [
+      "Disability and Disability Rights: Mental impairment",
+      "Disability and Disability Rights: P&A access authority",
+      "Disability and Disability Rights: P&A Associational Standing"
+    ],
+    "last_checked_date": "2012-06-29T00:00:00-04:00",
+    "main_docket": {
+      "id": 26963,
+      "docket_entries": [
+        {
+          "row_number": 13,
+          "id": 8559796,
+          "entry_number": null,
+          "date_filed": "2012-03-05T00:00:00-05:00",
+          "attachments": [],
+          "url": "https://www.courtlistener.com",
+          "recap_pdf_url": null,
+          "pacer_doc_id": null,
+          "description": "Filing fee for cv case: $ 350, receipt number 200COL021335. (er1)"
+        },
+        {
+          "row_number": 6,
+          "id": 8559797,
+          "entry_number": "3",
+          "date_filed": "2012-03-27T00:00:00-04:00",
+          "attachments": [],
+          "url": "https://www.courtlistener.com/docket/5094011/3/ohio-legal-rights-service-v-columbus-city-schools/",
+          "recap_pdf_url": null,
+          "pacer_doc_id": "14303970422",
+          "description": "WAIVER OF SERVICE Returned Executed. Waiver sent to Columbus City Schools on 3/5/2012, answer due 5/4/2012. (Tobin, Susan) (Entered: 03/27/2012)"
+        },
+        {
+          "row_number": 7,
+          "id": 8559798,
+          "entry_number": "4",
+          "date_filed": "2012-04-23T00:00:00-04:00",
+          "attachments": [],
+          "url": "https://www.courtlistener.com/docket/5094011/4/ohio-legal-rights-service-v-columbus-city-schools/",
+          "recap_pdf_url": null,
+          "pacer_doc_id": "14304007709",
+          "description": "ANSWER to 2 Complaint filed by Columbus City Schools. (Braverman, Loren) (Entered: 04/23/2012)"
+        },
+        {
+          "row_number": 8,
+          "id": 8559799,
+          "entry_number": "5",
+          "date_filed": "2012-04-24T00:00:00-04:00",
+          "attachments": [],
+          "url": "https://www.courtlistener.com/docket/5094011/5/ohio-legal-rights-service-v-columbus-city-schools/",
+          "recap_pdf_url": null,
+          "pacer_doc_id": "14304008155",
+          "description": "NOTICE of Hearing: Preliminary Pretrial Conference set for 6/6/2012 10:00 AM in Chambers before Magistrate Judge Elizabeth Preston Deavers. (sln1) (Entered: 04/24/2012)"
+        },
+        {
+          "row_number": 9,
+          "id": 8559800,
+          "entry_number": "6",
+          "date_filed": "2012-06-04T00:00:00-04:00",
+          "attachments": [],
+          "url": "https://www.courtlistener.com/docket/5094011/6/ohio-legal-rights-service-v-columbus-city-schools/",
+          "recap_pdf_url": null,
+          "pacer_doc_id": "14304060111",
+          "description": "RULE 26(f) REPORT by Defendant Columbus City Schools. (Braverman, Loren) (Entered: 06/04/2012)"
+        },
+        {
+          "row_number": 14,
+          "id": 8559801,
+          "entry_number": null,
+          "date_filed": "2012-06-06T00:00:00-04:00",
+          "attachments": [],
+          "url": "https://www.courtlistener.com",
+          "recap_pdf_url": null,
+          "pacer_doc_id": null,
+          "description": "Minute Entry for proceedings held before Magistrate Judge Elizabeth Preston Deavers: Preliminary Pretrial Conference held on 6/6/2012. (sln1)"
+        },
+        {
+          "row_number": 11,
+          "id": 8559803,
+          "entry_number": "8",
+          "date_filed": "2012-06-08T00:00:00-04:00",
+          "attachments": [],
+          "url": "https://www.courtlistener.com/docket/5094011/8/ohio-legal-rights-service-v-columbus-city-schools/",
+          "recap_pdf_url": null,
+          "pacer_doc_id": "14304067690",
+          "description": "SCHEDULING ORDER: Dispositive Motions due by 8/3/2012. Bench Trial set for 1/21/2013 09:00 AM in Courtroom 5 - Columbus before Judge Gregory L Frost. Non-oral hearing on all Dispositive Motions set for 9/28/2012. Final Pretrial Conference set for 12/18/2012 12:30 PM in Chambers before Judge Gregory L Frost. Signed by Judge Gregory L Frost on 6/8/12. (sem1) (Entered: 06/08/2012)"
+        },
+        {
+          "row_number": 12,
+          "id": 8559804,
+          "entry_number": "9",
+          "date_filed": "2012-06-08T00:00:00-04:00",
+          "attachments": [],
+          "url": "https://www.courtlistener.com/docket/5094011/9/ohio-legal-rights-service-v-columbus-city-schools/",
+          "recap_pdf_url": null,
+          "pacer_doc_id": "14304067699",
+          "description": "NOTICE of Final Pretrial and Trial. (sem1) (Entered: 06/08/2012)"
+        },
+        {
+          "row_number": 1,
+          "id": 8559805,
+          "entry_number": "10",
+          "date_filed": "2012-06-08T00:00:00-04:00",
+          "attachments": [],
+          "url": "https://www.courtlistener.com/docket/5094011/10/ohio-legal-rights-service-v-columbus-city-schools/",
+          "recap_pdf_url": null,
+          "pacer_doc_id": "14304067713",
+          "description": "NOTICE: Parties are notified the following proceeding is eligible for video recording: 9 1/21/13 Bench Trial. Signed by Judge Gregory L Frost on 6/8/12. (Attachments: # 1 Supplement E-1 form, # 2 Supplement F form) (sem1) (Entered: 06/08/2012)"
+        },
+        {
+          "row_number": 0,
+          "id": 8559794,
+          "entry_number": "1",
+          "date_filed": "2012-03-05T00:00:00-05:00",
+          "attachments": [],
+          "url": "https://www.courtlistener.com/docket/5094011/1/ohio-legal-rights-service-v-columbus-city-schools/",
+          "recap_pdf_url": null,
+          "pacer_doc_id": "14303938704",
+          "description": "Civil Cover Sheet. (er1) (Entered: 03/06/2012)"
+        },
+        {
+          "row_number": 5,
+          "id": 8559795,
+          "entry_number": "2",
+          "date_filed": "2012-03-05T00:00:00-05:00",
+          "attachments": [],
+          "url": "https://www.courtlistener.com/docket/5094011/2/ohio-legal-rights-service-v-columbus-city-schools/",
+          "recap_pdf_url": "https://www.courtlistener.com/recap/gov.uscourts.ohsd.152911/gov.uscourts.ohsd.152911.2.0_1.pdf",
+          "pacer_doc_id": "14303938713",
+          "description": "COMPLAINT filed by Ohio Legal Rights Service against Columbus City Schools. (er1) (Entered: 03/06/2012)"
+        },
+        {
+          "row_number": 10,
+          "id": 8559802,
+          "entry_number": "7",
+          "date_filed": "2012-06-07T00:00:00-04:00",
+          "attachments": [],
+          "url": "https://www.courtlistener.com/docket/5094011/7/ohio-legal-rights-service-v-columbus-city-schools/",
+          "recap_pdf_url": null,
+          "pacer_doc_id": "14304065662",
+          "description": "PRELIMINARY PRETRIAL ORDER: Motions or stipulations addressing the parties or pleadings, if any, must be filed on or before 6/30/2012. All Discovery is STAYED until 6/30/2012. Discovery due by 10/1/2012. Dispositive motions due by 8/3/2012. Final Pretrial Conference ready 2/2013. Signed by Magistrate Judge Elizabeth Preston Deavers on 6/6/2012. (sln1) (Entered: 06/07/2012)"
+        },
+        {
+          "row_number": 4,
+          "id": 10151060,
+          "entry_number": "13",
+          "date_filed": "2012-06-29T00:00:00-04:00",
+          "attachments": [],
+          "url": "https://www.courtlistener.com/docket/5094011/13/ohio-legal-rights-service-v-columbus-city-schools/",
+          "recap_pdf_url": null,
+          "pacer_doc_id": "14304095693",
+          "description": "JUDGMENT entered pursuant to the Order signed by Judge Gregory L Frost on 6/27/12. (sem1) (Entered: 06/29/2012)"
+        },
+        {
+          "row_number": 2,
+          "id": 8559806,
+          "entry_number": "11",
+          "date_filed": "2012-06-26T00:00:00-04:00",
+          "attachments": [],
+          "url": "https://www.courtlistener.com/docket/5094011/11/ohio-legal-rights-service-v-columbus-city-schools/",
+          "recap_pdf_url": "https://www.courtlistener.com/recap/gov.uscourts.ohsd.152911/gov.uscourts.ohsd.152911.11.0.pdf",
+          "pacer_doc_id": "14304090951",
+          "description": "MOTION to Dismiss by Plaintiff Ohio Legal Rights Service. Responses due by 7/20/2012 (Tobin, Susan) (Entered: 06/26/2012)"
+        },
+        {
+          "row_number": 3,
+          "id": 8559807,
+          "entry_number": "12",
+          "date_filed": "2012-06-27T00:00:00-04:00",
+          "attachments": [],
+          "url": "https://www.courtlistener.com/docket/5094011/12/ohio-legal-rights-service-v-columbus-city-schools/",
+          "recap_pdf_url": "https://www.courtlistener.com/recap/gov.uscourts.ohsd.152911/gov.uscourts.ohsd.152911.12.0.pdf",
+          "pacer_doc_id": "14304092144",
+          "description": "ORDER granting  11   Motion to Dismiss. Signed by Judge Gregory L Frost on 6/27/12.  (kn)"
+        }
+      ],
+      "docket_case_type": "cv",
+      "docket_year": 2012,
+      "docket_filing_number": 196,
+      "is_main_docket": true,
+      "court": "Southern District of Ohio",
+      "state": "Ohio",
+      "docket_office_number": "2",
+      "docket_number_manual": "2:12-cv-00196",
+      "scales_html": null,
+      "recap_link": "https://www.courtlistener.com/docket/5094011/ohio-legal-rights-service-v-columbus-city-schools/",
+      "is_active": true
+    },
+    "name": "Ohio Legal Rights Service v. Columbus City Schools",
+    "never_filed": false,
+    "non_docket_case_number": "",
+    "non_docket_case_number_type": null,
+    "non_docket_case_number_type_other": "",
+    "order_end_year": null,
+    "order_start_year": null,
+    "permanent_injunction": false,
+    "plaintiff_description": "protection and advocacy organization",
+    "plaintiff_type": [
+      {
+        "value": "Non-profit NON-religious organization"
+      }
+    ],
+    "prevailing_party": "Plaintiff",
+    "pro_se_status": "No",
+    "public_interest_lawyer": "Yes",
+    "related_cases": [],
+    "relief_natures": [
+      "Unknown"
+    ],
+    "relief_nature_other": "",
+    "relief_sources": [
+      "Unknown"
+    ],
+    "settlement_agreement": [
+      "Voluntary Dismissal"
+    ],
+    "settlement_judgment_date": "2012-06-27",
+    "settlement_judgment_year": 2012,
+    "special_collections": [],
+    "special_case_type": [],
+    "state": "Ohio",
+    "summary": "<p>This is a case about a protection and advocacy (P&amp;A) agency&rsquo;s records access authority. On March 5, 2012, Ohio Legal Rights Service (OLRS), Ohio&rsquo;s P&amp;A, filed this lawsuit in the U.S. District Court for the Southern District of Ohio. OLRS alleged that Columbus City Schools (Columbus) violated the Developmental Disabilities Assistance and Bill of Rights Act (DD Act) when they refused to provide OLRS with records related to the seclusion of a high school student. Judge Gregory L. Frost presided over this matter.</p>\r\n<p>This case arose after a parent informed OLRS that a Columbus school placed their child in a seclusion room and that the child was afraid to return to school. The parent alleged that other students were secluded as well. OLRS requested records related to the seclusion and a copy of the school&rsquo;s seclusion log to identify other impact students. Columbus said there were no seclusion log records, and refused to give OLRS parent directory information for students with disabilities who were secluded. OLRS sought declaratory relief that Columbus violated the DD Act, and injunctive relief to receive the records in question. On June 26, 2012, OLRS filed a motion to voluntarily dismiss the action, which the court granted on June 27, 2012.&nbsp; The case was closed on June 29, 2012.</p>",
+    "summary_published_date": "2023-08-10T20:15:13.911488-04:00",
+    "summary_short": "",
+    "summary_tiny": null,
+    "terminating_date": "2012-06-29",
+    "clearinghouse_link": "clearinghouse.net/case/18507",
+    "is_active": true,
+    "case_documents_url": "https://clearinghouse.net/api/v2/documents/?case=18507",
+    "case_dockets_url": "https://clearinghouse.net/api/v2/dockets/?case=18507",
+    "case_resources_url": "https://clearinghouse.net/api/v2/resources/?case=18507"
+  },
+  "documents": [
+    {
+      "date": "2012-06-27",
+      "date_is_estimate": false,
+      "date_not_available": false,
+      "description": "",
+      "document_source": "RECAP",
+      "document_status": "Coding Complete",
+      "document_type": "Order/Opinion",
+      "order_type": "Non-Decree",
+      "citation_paren": null,
+      "cite_1_page": null,
+      "cite_1_reporter": null,
+      "cite_1_vol": null,
+      "cite_2_page": null,
+      "cite_2_reporter": null,
+      "cite_2_vol": null,
+      "cite_3_page": null,
+      "cite_3_reporter": null,
+      "cite_3_vol": null,
+      "citation_status": "No citation available",
+      "court": "Southern District of Ohio",
+      "no_title": false,
+      "party_types": [
+        "Court"
+      ],
+      "per_curium": false,
+      "is_core_document": true,
+      "id": 139075,
+      "file": "https://clearinghouse-umich-production.s3.amazonaws.com/media/doc/139075.pdf",
+      "title": "Order",
+      "text": "UNITED STATES DISTRICT COURT\nSOUTHERN DISTRICT OF OHIO\nEASTERN DIVISION\nOHIO LEGAL RIGHTS SERVICE,\nPlaintiff, Case No. 2:12-cv-196\nJUDGE GREGORY L. FROST\nv. Magistrate Judge E.A. Preston Deavers\nCOLUMBUS CITY SCHOOLS, \nDefendant.\nORDER\nThis matter is before the Court for consideration of Plaintiff’s Motion to Dismiss.  (ECF\nNo. 11.)  In this motion, Plaintiff seeks to dismiss this action with prejudice pursuant to Federal\nRule of Civil Procedure 41(a)(2).  This Court GRANTS the motion.  The Clerk shall accordingly\nterminate this case on the docket records of the United States District Court for the Southern\nDistrict of Ohio, Eastern Division.    \nIT IS SO ORDERED.\n /s/   Gregory L. Frost                            \nGREGORY L. FROST                                   \nUNITED STATES DISTRICT JUDGE",
+      "document_type_other": null,
+      "external_url": "https://www.courtlistener.com/docket/5094011/12/ohio-legal-rights-service-v-columbus-city-schools/",
+      "ecf_number": "12",
+      "clearinghouse_link": "clearinghouse.net/doc/139075"
+    },
+    {
+      "date": "2012-03-05",
+      "date_is_estimate": false,
+      "date_not_available": false,
+      "description": "",
+      "document_source": "RECAP",
+      "document_status": "Coding Complete",
+      "document_type": "Complaint",
+      "order_type": null,
+      "citation_paren": null,
+      "cite_1_page": null,
+      "cite_1_reporter": null,
+      "cite_1_vol": null,
+      "cite_2_page": null,
+      "cite_2_reporter": null,
+      "cite_2_vol": null,
+      "cite_3_page": null,
+      "cite_3_reporter": null,
+      "cite_3_vol": null,
+      "citation_status": "Not applicable",
+      "court": "Southern District of Ohio",
+      "no_title": false,
+      "party_types": [
+        "Plaintiff"
+      ],
+      "per_curium": false,
+      "is_core_document": true,
+      "id": 139074,
+      "file": "https://clearinghouse-umich-production.s3.amazonaws.com/media/doc/139074.pdf",
+      "title": "Complaint for Declaratory and Injunctive Relief",
+      "text": "Case: 2:12-cv-00196-GLF-EPD Doc #: 2 Filed: 03/05/12 Page: 1 of 8  PAGEID #: 2\n\nCase: 2:12-cv-00196-GLF-EPD Doc #: 2 Filed: 03/05/12 Page: 2 of 8  PAGEID #: 3\n\nCase: 2:12-cv-00196-GLF-EPD Doc #: 2 Filed: 03/05/12 Page: 3 of 8  PAGEID #: 4\n\nCase: 2:12-cv-00196-GLF-EPD Doc #: 2 Filed: 03/05/12 Page: 4 of 8  PAGEID #: 5\n\nCase: 2:12-cv-00196-GLF-EPD Doc #: 2 Filed: 03/05/12 Page: 5 of 8  PAGEID #: 6\n\nCase: 2:12-cv-00196-GLF-EPD Doc #: 2 Filed: 03/05/12 Page: 6 of 8  PAGEID #: 7\n\nCase: 2:12-cv-00196-GLF-EPD Doc #: 2 Filed: 03/05/12 Page: 7 of 8  PAGEID #: 8\n\nCase: 2:12-cv-00196-GLF-EPD Doc #: 2 Filed: 03/05/12 Page: 8 of 8  PAGEID #: 9",
+      "document_type_other": null,
+      "external_url": "https://www.courtlistener.com/docket/5094011/2/ohio-legal-rights-service-v-columbus-city-schools/",
+      "ecf_number": "2",
+      "clearinghouse_link": "clearinghouse.net/doc/139074"
+    },
+    {
+      "date": null,
+      "date_is_estimate": false,
+      "date_not_available": false,
+      "description": null,
+      "document_source": null,
+      "document_status": null,
+      "document_type": null,
+      "order_type": null,
+      "citation_paren": null,
+      "cite_1_page": null,
+      "cite_1_reporter": null,
+      "cite_1_vol": null,
+      "cite_2_page": null,
+      "cite_2_reporter": null,
+      "cite_2_vol": null,
+      "cite_3_page": null,
+      "cite_3_reporter": null,
+      "cite_3_vol": null,
+      "citation_status": null,
+      "court": null,
+      "no_title": false,
+      "party_types": [],
+      "per_curium": false,
+      "is_core_document": true,
+      "id": 113370,
+      "file": null,
+      "title": null,
+      "text": null,
+      "document_type_other": null,
+      "external_url": null,
+      "ecf_number": null,
+      "clearinghouse_link": "clearinghouse.net/doc/113370"
+    }
+  ],
+  "document_count": 3
+}

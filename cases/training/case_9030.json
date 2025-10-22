@@ -1,0 +1,316 @@
+{
+  "case_id": 9030,
+  "fetched_at": "2025-10-22T00:08:59.768406",
+  "case_data": {
+    "attorney_orgs": [
+      "EEOC"
+    ],
+    "available_documents": [
+      "Trial Court Docket",
+      "Complaint (any)",
+      "Monetary Relief",
+      "Injunctive (or Injunctive-like) Relief"
+    ],
+    "case_defendants": [
+      {
+        "defendant_level": null,
+        "institution": null,
+        "institution_alt_state": null,
+        "institution_city": "Mansfield",
+        "institution_county": null,
+        "name": "Chris's Cafe, Inc.",
+        "defendant_level_other": null,
+        "is_active": true
+      }
+    ],
+    "case_ongoing": "No",
+    "case_status": "Coding Complete",
+    "case_types": [
+      "Equal Employment"
+    ],
+    "cause_other": "",
+    "causes": [
+      "Title VII (including PDA), 42 U.S.C.  § 2000e"
+    ],
+    "class_action_granted": "Not sought",
+    "class_action_sought": "No",
+    "closing_year": 2008,
+    "constitutional_clause": [],
+    "content_of_injunction": [
+      {
+        "value": "Expungement of Employment Record"
+      },
+      {
+        "value": "Neutral/Positive Reference"
+      },
+      {
+        "value": "Discrimination Prohibition"
+      },
+      {
+        "value": "Retaliation Prohibition"
+      },
+      {
+        "value": "Develop anti-discrimination policy"
+      },
+      {
+        "value": "Post/Distribute Notice of Rights / EE Law"
+      },
+      {
+        "value": "Provide antidiscrimination training"
+      },
+      {
+        "value": "Implement complaint/dispute resolution process"
+      },
+      {
+        "value": "Reporting"
+      },
+      {
+        "value": "Recordkeeping"
+      },
+      {
+        "value": "Monitoring"
+      }
+    ],
+    "court": "Northern District of Ohio",
+    "custom_issues": [],
+    "defendant_payment": "8000",
+    "defendant_type": [],
+    "docket_status": "Complete as of retrieval date",
+    "facility_type": [],
+    "filing_date": "2005-02-04",
+    "filing_year": 2005,
+    "id": 9030,
+    "injunction_duration": "24",
+    "issues": [
+      "Discrimination Basis: Sex discrimination",
+      "Affected Sex/Gender(s): Female",
+      "Discrimination Area: Disparate Treatment",
+      "General/Misc.: Pattern or Practice",
+      "Discrimination Area: Harassment / Hostile Work Environment",
+      "Discrimination Area: Discharge / Constructive Discharge / Layoff",
+      "EEOC-centric: Direct Suit on Merits"
+    ],
+    "last_checked_date": "2017-05-25T00:00:00-04:00",
+    "main_docket": {
+      "id": 26850,
+      "docket_entries": [
+        {
+          "row_number": 0,
+          "id": 10150984,
+          "entry_number": "16",
+          "date_filed": "2006-03-31T00:00:00-05:00",
+          "attachments": [],
+          "url": "https://www.courtlistener.com/docket/5647418/16/equal-employment-opportunity-commission-v-chriss-cafe-inc/",
+          "recap_pdf_url": "https://www.courtlistener.com/recap/gov.uscourts.ohnd.120392/gov.uscourts.ohnd.120392.16.0.pdf",
+          "pacer_doc_id": "14101987983",
+          "description": "Marginal Entry Order: Joint Motion to Approve and Enter Consent Decree is Granted. (Attachments: # 1 Consent Decree).  Signed by Judge Patricia A. Gaughan on 3/30/06.  (L-C, S)"
+        }
+      ],
+      "docket_case_type": "cv",
+      "docket_year": 2005,
+      "docket_filing_number": 194,
+      "is_main_docket": true,
+      "court": "Northern District of Ohio",
+      "state": "Ohio",
+      "docket_office_number": "1",
+      "docket_number_manual": "1:05-cv-00194-PAG",
+      "scales_html": "https://clearinghouse-umich-production.s3.amazonaws.com/media/docket-html/ohnd--1-05-cv-00194_AGNmQRV.html",
+      "recap_link": "https://www.courtlistener.com/docket/5647418/equal-employment-opportunity-commission-v-chriss-cafe-inc/",
+      "is_active": true
+    },
+    "name": "EEOC v. CHRIS'S CAFE INC",
+    "never_filed": false,
+    "non_docket_case_number": "",
+    "non_docket_case_number_type": null,
+    "non_docket_case_number_type_other": "",
+    "order_end_year": 2008,
+    "order_start_year": 2006,
+    "permanent_injunction": false,
+    "plaintiff_description": "Equal Employment Opportunity Commission, on behalf of one or more workers.",
+    "plaintiff_type": [
+      {
+        "value": "EEOC Plaintiff"
+      }
+    ],
+    "prevailing_party": "Plaintiff",
+    "pro_se_status": "No",
+    "public_interest_lawyer": "Yes",
+    "related_cases": [],
+    "relief_natures": [
+      "Injunction / Injunctive-like Settlement",
+      "Damages"
+    ],
+    "relief_nature_other": "",
+    "relief_sources": [
+      "Settlement"
+    ],
+    "settlement_agreement": [
+      "Court Approved Settlement or Consent Decree"
+    ],
+    "settlement_judgment_date": "2006-03-31",
+    "settlement_judgment_year": null,
+    "special_collections": [
+      "EEOC Study — in sample",
+      "Multi-LexSum (in sample)"
+    ],
+    "special_case_type": [],
+    "state": "Ohio",
+    "summary": "In February 2005, the EEOC's Cleveland office filed this suit against Chris's CafÈ, Inc. in the U.S. District Court for the Northern District of Ohio alleging discrimination based on sex in violation of Title VII of the Civil Rights Act of 1964.  The two  charging parties in the case were formerly waitresses at Chris's CafÈ and alleged that they were subjected to a hostile and sexually charged work environment and constructively discharged.  The EEOC asked the court for an injunction against the defendant and asked for monetary damages for one charging party.  In March 2006 the parties agreed on a consent decree which was subsequently approved by the court.  The decree provided for $4,000 to be paid to each complainant as well as an injunction against the defendant prohibiting them from discriminating on the basis of sex and from retaliating.  In addition, the defendant agreed to institute equal employment opportunity training programs, post information regarding equal employment laws, and certify to the EEOC that it was complying with all provisions of the consent decree. The decree was to last for two years. The docket sheet doesn't show any further enforcement took place; the case was presumably closed in 2008.",
+    "summary_published_date": "2025-05-27T22:39:16.375368-04:00",
+    "summary_short": "",
+    "summary_tiny": null,
+    "terminating_date": "2008-03-31",
+    "clearinghouse_link": "clearinghouse.net/case/9030",
+    "is_active": true,
+    "case_documents_url": "https://clearinghouse.net/api/v2/documents/?case=9030",
+    "case_dockets_url": "https://clearinghouse.net/api/v2/dockets/?case=9030",
+    "case_resources_url": "https://clearinghouse.net/api/v2/resources/?case=9030"
+  },
+  "documents": [
+    {
+      "date": "2006-03-31",
+      "date_is_estimate": false,
+      "date_not_available": false,
+      "description": null,
+      "document_source": null,
+      "document_status": "Coding Complete",
+      "document_type": "Settlement Agreement",
+      "order_type": "Consent Decree",
+      "citation_paren": null,
+      "cite_1_page": null,
+      "cite_1_reporter": null,
+      "cite_1_vol": null,
+      "cite_2_page": null,
+      "cite_2_reporter": null,
+      "cite_2_vol": null,
+      "cite_3_page": null,
+      "cite_3_reporter": null,
+      "cite_3_vol": null,
+      "citation_status": "Not applicable",
+      "court": "Northern District of Ohio",
+      "no_title": false,
+      "party_types": [
+        "Court",
+        "Defendant",
+        "Plaintiff"
+      ],
+      "per_curium": false,
+      "is_core_document": true,
+      "id": 18111,
+      "file": "https://clearinghouse-umich-production.s3.amazonaws.com/media/nonpublic/doc/18111.pdf",
+      "title": "Consent Decree",
+      "text": " \nUNITED STATES DISTRICT COURT \n         NORTHERN  DISTRICT OF OHIO \n      EASTERN  DIVISION \n \n \nEQUAL EMPLOYMENT OPPORTUNITY  ) \nCOMMISSION,           ) \n               ) \n      Plaintiff,  )  Civil Action No. 1:05CV0194 \nv.                  )   \n        )  JUDGE GAUGHAN \n) \nCHRIS’S  CAFÉ, INC         )     \n              ) \n          Defendant.  ) \n__________________________________________) \n   \nCONSENT DECREE \n \nINTRODUCTION \n \n  A.  This action was instituted by the United States Equal Employment Opportunity  \nCommission (the “EEOC” or the “Com mission”) on or about February 4, 2005, against Chris’s \nCafé, Inc.  (“Chris’s Café”)  under Title VII of  the Civil Rights Act of  1964 and Title 1 of the \nCivil Rights Act of 1991 (“Title VII”).  The EEO C alleged that Chris’s Cafe discrim inated \nagainst Brittany Blevins, a waitress, on the basis of her sex, female, when she was subjected to  a \nsexually hostile work environment created  and maintained by Defendant.  \n  B.  This Consent Decree is entered into  by the EEOC and Defendant Chris’s Cafe.  This \nConsent Decree shall be final and binding betw een the EEOC and Defenda nt Chris’s Cafe, its \ndirectors, officers, agents, employees, successors or assigns and all persons in active concert or \nparticipation with it, (hereinafter collectively referred to as “Chris’s Cafe” or “Defendant”). \n \n  1\n\n \n  C.  The Commission and Defendant do hereby agree to the entry of this Consent Decree,  \nwhich shall fully and finally resolve all claims which were or could have been  raised by the \nEEOC in its Com plaint in Civil Action No.  1:05-CV-0194.  This Consent Decree shall not \nconstitute an adjudication of or finding on the merits of the case and shall not be construed as a \nviolation of Title VII by Defendant. \nORDER \n  Upon consent of the parties to this  action, it is hereby ORDERED, ADJUDGED and \nDECREED that: \nNON-DISCRIMINATION AND NON-RETALIATION \n  1.  This Court has jurisdiction over the parties and the subject matter of this action. \n  2.  Defendant is enjoined from engaging in any employment practice which constitutes  \nunlawful discrimination under Title VII.  Specifi cally, Defendant is enjoined from  creating, \nfostering or tolerating a work environment which discriminates based on sex.  \n  3.  Defendant is enjoined from engaging in any employment practices which retaliate in  \nany  manner  against any person, including but not lim ited  to, Brittany Blevins and Jam ie \nDaugherty, because of that person’s opposition to any practice alleged or believed to be unlawful \nunder Title VII, or because of the filing of a charge, the giving of testimony or assistance, or the \nparticipation in any manner in any investigation, hearing or proceeding under Title VII. \n  4.  Defendant shall not divulge, directly or  indirectly, except as required by law, to any \nemployer or potential employers of Brittany Blevins and Jamie Daugherty, any of the facts or \ncircumstances related to the charge of discrim ination against Defendant, or any of the events \nrelating to their participation in the litigation of this matter.   \n  2\n\n \n  5. Chris’s Cafe shall expunge from  the personnel files of Brittany Blevins and Jam ie \nDaugherty any documents, pleadings, correspondence and related papers pertaining to the charge \nof discrimination filed by Brittany Blevins with the Commission.   \n  6.  Defendant shall comply fully with all provisions of Title VII.  Nothing in this  \nConsent Decree, either by inclusion or exclusion,  shall be construed to lim it the obligations of \nDefendant  under Title VII or the EEOC’s author ity  to process or litigate any charge of \ndiscrimination which may be filed against the Chris’s Cafe in the future.  \nMONETARY RELIEF \nBrittany Blevins \n \n  7.  Defendant  agrees to pay monetary relief in the amount of $4,000.00 (four thousand \ndollars)  to Brittany Blevins in full settlement of the claims against Defendant which were raised \nin the Commission’s Complaint.  Defendant shall send a check in the gross sum of $4,000.00 \nwithin ten (10) days after receipt of the signed Consent Decree.  The check will be made payable \nto Brittany Blevins.  If Chris’s Cafe does not make the payment as designated in the manner set \nforth in this Paragraph, the Court will enter a judgment for the entire amount remaining due, plus \nattorneys fees, costs, and interest to be paid at the legal rate, compounded daily.  The check will \nbe mailed to Brittany Blevins by certified mail, return receipt requested, or otherwise delivered \nto her. Defendant will mail a photocopy of the check to the EEOC, to the attention of Donna L. \nWilliams-Alexander, Trial Attorney, EEOC, within five days of issuance to Brittany Blevins.   A \nlate payment will be subject to the accrual of interest on the unpaid amount, calculated pursuant \nto 28 U.S.C. § 1961. \n  3\n\n \n       Jamie  Daugherty \n  8.  Defendant  agrees to pay m onetary relief in the amount of $4,000.00 (four thousand \ndollars)  to Jamie Daugherty in full settlement of the claims against Defendant which were raised \nin the Commission’s Complaint.  Defendant shall send a check in the gross sum  of $4,000.00 \nwithin ten (10) days after receipt of the signed Consent Decree.  The check will be made payable \nto Jamie Daugherty.  If Chris’s Cafe does not make the payment as designated in the manner set \nforth in this Paragraph, the Court will enter a judgment for the entire amount remaining due, plus \nattorneys fees, costs, and interest to be paid at the legal rate, compounded daily.  The check will \nbe mailed to Jamie Daugherty by certified mail, return receipt requested, or otherwise delivered \nto her.  Defendant will mail a photocopy of the check to the EEOC, to the attention of Donna L. \nWilliams-Alexander, Trial Attorney, EEOC, within  five days of issuance to Jam ie Daugherty.   \nA late payment will be subject to the accrua l of interest on the unpaid am ount, calculated \npursuant to 28 U.S.C. § 1961. \n           POSTING OF NOTICE \n  9.  Within ten (10) business days after entry of this Decree, or as soon as practicable, \nthereafter, but no later than thirty (30) business days thereafter, Chris’s Café shall post same-\nsized copies of the Notice attached as Exhibit 1 to this Decree on all bulletin boards located at its \nMansfield, Ohio, location, usually used by Defendant for communicating with employees.  The \nnotice shall remain posted for two (2) years from the date of entry of this Decree.  Counsel for \nDefendant shall provide a copy of the Notice, and an indication of the date and locations of its \nposting(s), to the EEOC’s Cleveland, Ohio Field Office, attention: Donna L. Williams-\nAlexander, within ten (10) days of the posting(s).  Defendant shall permit a representative of the \n  4\n\n \nEEOC to enter Defendant’s Mansfield, Ohio premises for purposes of verifying compliance with \nthis Paragraph at any time during normal business hours without prior notice.  Defendant shall \ntake all reasonable steps to ensure that the posting(s) is/are not altered, defaced or covered by \nany other material.  Should the posted notice(s) become defaced, removed, marred, or otherwise \nillegible, Defendant agrees to as soon as practicable post a readable copy in a manner as \ndescribed herein. \n                         NON-DISCRIMINATION AND ANTI-HARASSMENT POLICIES    \n    AND  COMPLAINT PROCEDURES \n \n  10.  Defendant’s policy or policies against discrimination, harassment and retaliation and \ncomplaint procedures shall be drafted in plain and simple language.  Defendant shall ensure that \nits policy or policies against discrimination, harassment and retaliation and related complaint \nprocedures meet the following minimum criteria: \n  (a)  State that Defendant: (i) prohibits discrimination against employees on the basis \nof  sex, and prohibits retaliation in violation of Title VII; (ii) prohibits retaliation against \nemployees for opposing employment practices they reasonably believe are discriminatory or for \nparticipating in an investigation by the EEOC or a state or local governmental agency of a charge \nof discrimination under Title VII; (iii) prohibits any act, policy or practice that has the effect of \nharassing or intimidating any employee on the basis of sex in violation of Title VII; and (iv) \nprohibits any act, policy or practice that has the effect of creating, facilitating or permitting the \nexistence of a work environment that is hostile to employees through acts such as physical/verbal \nabuse and derogatory comments based on sex in violation of Title VII; \n(b)  Include a complaint procedure designed to encourage employees to come forward  \n  5\n\n \nwith complaints regarding violations of its policy or policies against discrimination, harassment \nand retaliation, which shall meet the following minimum criteria:  (i)  provide effective \nmechanism(s) for reporting incidents of discrimination, harassment and retaliation; (ii) provide \nthat the complaints of discrimination, harassment and/or retaliation can be made either in writing \nor verbally; (iii) identify employees to whom an employee can make a complaint; (iv) on a 24-\nhour basis,  employees may call John Achevich to make a complaint of discrimination, \nharassment or retaliation at (614) 560-4233; (v) provide that, upon an employee’s request, \nDefendant will offer translating assistance for filing a written complaint in English or otherwise \ncommunicating during the investigation of a complaint; (vi) encourage prompt reporting by \nemployees; and (vii) provide assurances that complainants shall not be subjected to retaliation;  \n(c)  Provide for prompt investigation of complaints of harassment and/or retaliation; \n(d)  Provide for prompt communication to the complaining party of the results of the  \ninvestigation and any remedial actions taken or proposed; and \n(e)  Provide for discipline up to and including discharge of an employee or supervisor  \nwho violates Defendant’s policy or policies against discrimination, harassment and retaliation, \nand for increasingly severe discipline for repeat offenders.  \n  10.  Defendant shall distribute to all of its employees and newly-hired employees at its \nMansfield, Ohio location, its policy or policies against discrimination, harassment and retaliation \nwithin 90 days after entry of this Consent Decree.  \n  11.  Within 90 days after entry of this Consent Decree, Defendant shall advise Donna \nWilliams-Alexander that its policy or policies against discrimination, harassment and retaliation \nhave been distributed to current employees either in written or electronic form and that new \n  6\n\n \nemployees will receive these policies and  acknowledge their receipt.   Defendant will retain \ncopies of any acknowledgment of receipt form for employees in their personnel files. \n  12.  Defendant shall twice annually for the duration of the Consent Decree send or \notherwise distribute a copy of its policy or policies against discrimination, harassment and \nretaliation to its employees either in written or electronic form. \n                                        MANAGEMENT ACCOUNTABILITY   \n  13.  Defendant shall promote management and/or supervisor accountability for the \nenforcement of non-discrimination under Title VII of the Civil Rights Act of 1964, by the \nfollowing conduct: \n(a)  Providing annual anti-discrimination training to all of its supervisory and \nmanagerial personnel as set forth in Paragraph 14; \n(b)  Disciplining, up to and including discharge, any supervisor or manager who \nviolates Defendant’s policy or policies against discrimination, harassment and retaliation; \n(c)  Imposing on all managers and supervisory personnel a duty to administer their \nwork areas to ensure compliance with Defendant’s policy or policies against \ndiscrimination, harassment and retaliation; and \n \n(d)  Requiring all managers and supervisors to report any incidents and/or complaints \nof harassment and/or retaliation of which they become aware to the appropriate \nresponsible officials. \nTRAINING \n  14.  Defendant shall provide training on the requirements of Title VII on the following  \n  7\n\n \nterms: \n  a .  Defendant agrees to provide annual training sessions to all of its managers and \nsupervisors who work at its Mansfield, Ohio location to be conducted by EEOC and/or by a \ntrainer or vendor approved by the EEOC, to provide training on an employee's rights under Title \nVII, and the employer’s obligations under Title VII, with an emphasis on what constitutes \nunlawful harassment and differential treatment of protected class employees in the workplace, \nhow to keep Defendant free of such forms of discrimination, and what constitutes unlawful \nretaliation; \n  b.  Each training session will include a live presentation by a high ranking official \nof Defendant, emphasizing Defendant’s commitment to prevent discrimination and harassment; \n  c.  Defendant shall first provide training in accordance with Paragraph 15(a)  no later \nthan six months of entry of this Consent Decree.  Defendant shall then also provide such training \nannually for the duration of this Decree. \n  15.  The Defendant shall obtain EEOC’s approval of its proposed trainer prior to each \nyear’s set of training sessions.  Defendant shall submit the name, address, telephone number and \ncurriculum vitae /resume of the proposed trainer, together with the date(s) of the proposed \ntraining sessions to the EEOC within thirty (30) calendar days prior to the first day of the \nproposed date(s) of training.  The Commission shall have ten (10) calendar days from the date of \nreceipt of the information described above to accept or reject the proposed trainer(s).  In the \nevent the EEOC does not approve Defendant’s designated trainer(s), Defendant  shall have ten \n(10) calendar days to identify an alternate trainer.  The EEOC shall have ten (10) calendar days \nfrom the date of receipt of the information described above to accept or reject the alternate \n  8\n\n \ntrainer.  In the event the Commission does not approve Defendant’s alternate trainer, the \nCommission shall designate the trainer to be retained and paid for by Defendant.  Defendant \nshall have ten (10) calendar days from receipt of the Commission’s recommendation to accept or \nreject the alternate trainer. If Defendant and the Commission cannot agree upon a trainer, or for \nany other reason, Defendant shall retain the option to elect to have the EEOC conduct the \ntraining. \n        16.  Defendant agrees to provide the EEOC with any and all copies of pamphlets, \nbrochures, outlines or other written materials provided to the participants of the training sessions.  \nEven though the Commission has approved of or designated a trainer to provide training for one \nyear, it is not required to approve of or designate the same trainer for future training sessions. \n  17.  Defendant shall certify to the EEOC in writing within five (5) business days after the \ntraining sessions have occurred that the training has taken place and that the required personnel \nhave attended.  Such certification shall include: (i) the dates, location and duration of the training \nsession; (ii) a copy of the registry of attendance, which shall include the name and position of \neach person in attendance; and (iii) a listing of all current employees, including temporary \nemployees, as of the date of the training.   \n      RECORD  KEEPING \n18.  For a period of two (2) years following entry of this Decree, Defendant shall  \nmaintain and make available for inspection and copying by the Commission, records of each \ncomplaint of any incident of sex and/or retaliation discrimination occurring at its Mansfield, Ohio \nlocation.  Each such report shall indicate the date the complaint was made, who made it, what was \nalleged, and what actions the Defendant took to resolve the matter.  The Defendant shall also \n  9\n\n \nmake records of all actions it takes to prevent sex and retaliation discrimination at its Mansfield, \nOhio location during the duration of this Decree. \n  19.  Defendant shall make all documents or records referred to in Paragraph 18, above,  \navailable for inspection and copying within ten (10) business days after the EEOC so requests.  In \naddition, Defendant shall make available for interview all persons within its employ whom the \nEEOC reasonably requests for purposes of verifying compliance with this Decree and shall permit \na representative of the Commission to enter Defendant’s Mansfield, Ohio premises for such \npurposes with five (5) business days’ advance notice by the EEOC.  \n  20.  Nothing contained in this Decree shall be construed to limit any obligation Defendant  \nmay otherwise have under Title VII or any other law or regulation. \n          REPORTING  \n  21.  Defendant shall furnish to the EEOC the following written reports annually for a \nperiod of two (2) years following entry of this Decree.  The first report shall be due six (6) months \nafter entry of the Decree.  The final report shall be due twenty four (24) months after entry of the \nDecree.  Each such report shall contain: \n  a.    A summary of the information recorded by Defendant pursuant to Paragraph 18,  \nincluding the name of the complainant, the allegation of the complaint and the action taken by \nDefendant in response; and  \n  b.  During the period governed by this Consent Decree, Defendant will certify that the \nNotice required to be posted in Paragraph 9, remained posted during the previous six months.  \nSuch certification will be made every six months during the period of this Consent Decree. \nThe EEOC will mail John Achevich and/or counsel for Chris’s Café a demand for this \n  10\n\n \ninformation 30 days before it becomes due.\n      DISPUTE  RESOLUTION \n  22.  In the event that either party to this Decree believes that the other party has failed  \nto comply with any provision(s) of the Decree, the complaining party shall notify the other party \nof the alleged non-compliance within ten (10) days of the alleged non-compliance and shall afford \nthe alleged non-complying party ten (10) business days to remedy the non-compliance or to \nsatisfy the complaining party that the alleged non-complying party has complied.  If the alleged \nnon-complying party has not remedied the alleged non-compliance within ten (10) business days, \nthe complaining party may apply to the Court for appropriate relief.   \n     MISCELLANEOUS  PROVISIONS \n  23.  Each party to this Decree shall bear its own expenses, costs and attorneys’ fees. \n  24.  The terms of this Decree are and shall be binding upon the present and future \nrepresentatives, agents, directors, officers, assigns, and successors of Defendant in their capacities \nas representatives, agents, directors and officers of Defendant, and not in their individual \ncapacities.  This Paragraph shall not be construed as placing any limit on remedies available to \nthe Court in the event that any individual is found to be in contempt for a violation of this Decree. \n  25.  This Consent Decree shall fully and finally resolve all claims which were raised or \ncould have been raised by the EEOC in its Complaint in Civil Action No. 1:05CV0194. \n  26.  This Consent Decree shall be filed in the United States District Court for the Northern  \nDistrict of Ohio and shall continue to be in effect for a period of two (2) years.  Any application \nby any party to modify or vacate this Consent Decree during such period shall be made by motion \nto the Court on no less than thirty (30) days notice to the other party. \n  11\n\n \n  27.  The Court retains jurisdiction over this case in order to enforce the terms of the  \nConsent Decree. \n  28.  The Clerk of the District Court is hereby directed to send a file-stamped copy of  \nthis Consent Decree to counsel of record. \n  12\n\n \n            EXHIBIT 1 \n      NOTICE TO ALL CHRIS’S CAFE, INC.  EMPLOYEES \n  This Notice is being posted pursuant to a Consent Decree entered by the U.S. District Court, \nNorthern District of Ohio in EEOC v. Chris’s Cafe, Inc., Civil Action Number 1:05-CV-0194, resolving a \nlawsuit filed by the Equal Employment Opportunity Commission (“EEOC”) against the Chris’s Café, Inc. \nof Mansfield (“Chris’s Cafe”). \n \n  Title VII of the Civil Rights Act of 1964, 42 U.S.C. Section 2000e, et seq., as amended, (“Title \nVII”), prohibits discrimination against employees and applicants for employment based upon race, color, \nsex, religion or national origin.  Title VII further prohibits retaliation against employees or applicants who \navail themselves of their rights under Title VII by engaging in protected activities, such as opposing \nemployment practices believed to be discriminatory, filing a charge of discrimination and/or testifying or \nparticipating in a Commission investigation.  The EEOC is a federal agency which investigates charges of \nunlawful employment discrimination.  The EEOC has authority to bring lawsuits in Federal Court to \nenforce Title VII. \n \n  In its lawsuit, the EEOC alleged that Chris’s Cafe discriminated against an employee on the basis \nof her sex, (female), when she was subjected to a sexually hostile work environment created and \nmaintained by the Defendant.  \n \n  To resolve the case, Chris’s Cafe and the EEOC have entered into a Consent Decree which \nprovides, among other things, that: (1) Chris’s Cafe will not discriminate on the basis of sex; (2) Chris’s \nCafe will not retaliate against any person because she or he opposes any practice made unlawful by Title \nVII, filed a charge of discrimination, participated in any Title VII proceeding, or asserted any rights under \nthe Consent Decree; and (3) Chris’s Cafe will train all employees at its Mansfield, Ohio location, regarding \nsex discrimination and the restaurant’s policies on that matter. \n \n  If you believe you have been discriminated against, you may contact John Achevich at (614) 560-\n4233, or you may call EEOC at (216) 522-2001.  \n \nTHIS IS AN OFFICIAL NOTICE AND MUST NOT BE DEFACED BY ANYONE \nThis Notice must remain posted for two years from the date below and must not be altered, \ndefaced or covered by any other material.  Any questions about this Notice or compliance \nwith its terms may be directed to the: Associate Regional Attorney, EEOC Cleveland Field \nOffice, AJC Federal Office Building, 1240 East Ninth Street, Suite 3001, Cleveland, Ohio \n44199. \n  13\n\n \n     EXHIBIT  2 \n \n    RELEASE BY CLAIMANT BRITTANY BLEVINS \n \nPursuant to the terms of the Consent Decree entered into by the Equal Employment Opportunity  \nCommission (\"EEOC\") and Chris’ Cafe, Inc. (“Chri s’s Café”), in the above-captioned case, I, \nBrittany Blevins, do hereby waive, remit, release and forever discharge Chris’ Cafe, its subsidiary \ncompanies, and any and all of the officers, dir ectors, agents, employees, and members of such \nentity or entities from any and all claims, demands or causes of action under Title VII, of the Civil \nRights Act of 1964; Title 1 of the Civil Rights Act of 1991 and Chapter 4112 of the Ohio Revised \nCode, arising from any right or entitlem ent now existing until the date of  execution of this \nRelease for facts arising from or by way of allegations which were made or could have been made \nin  EEOC, et al,  v. Chris’ Cafe, Inc. ,  Civil Action No.1:05-CV- 0194,  based on claim s  of \ndiscrimination, occurring prior to this date.  This Release is freely executed in return for the good \nand valuable consideration set forth in the above-referenced Consent Decree.  \n \n \nDate:                             , 2006   SIGNATURE:                                              \n                 \n \n      ______________________________________________ \n      BRITTANY  BLEVINS \n \nSworn to and Subscribed \nBefore me this              day \nof                                                , 2006. \n \n_______________________ \nNOTARY PUBLIC \n \nMy Commission Expires: \n \n  14\n\n \n      EXHIBIT  3 \n    RELEASE BY CLAIMANT JAMIE DAUGHERTY \n \nPursuant to the terms of the Consent Decree entered into by the Equal Employment Opportunity  \nCommission (\"EEOC\") and Chris’ Cafe, Inc. (“Chri s’s Café”), in the above-captioned case, I, \nJamie  Daugherty, do hereby waive, rem it,  release  and forever discharge Chris’ Cafe, its \nsubsidiary companies, and any and all of the officers, directors, agents, em ployees, and members \nof such entity or entities from any and all claims, demands or causes of action under Title VII, of \nthe Civil Rights Act of 1964; T itle 1 of the Civil Rights Act of 1991 and Chapter 4112 of the \nOhio Revised Code, arising from any right or entitlement now existing until the date of execution \nof this Release for facts arising from  or by way  of allegations which were m ade or could have \nbeen made in EEOC, et al,  v. Chris’ Cafe, Inc. , Civil Action No.1:05-CV-0194, based on claims \nof discrimination, occurring prior to this date.  Th is Release is freely executed in return for the \ngood and valuable consideration set forth in the above-referenced Consent Decree.  \n \n \nDate:                             , 2006   SIGNATURE:                                              \n                 \n \n      ______________________________________________ \n      JAMIE  DAUGHERTY \n \nSworn to and Subscribed \nBefore me this              day \nof                                                , 2006. \n \n_______________________ \nNOTARY PUBLIC \n \nMy Commission Expires:  \n \n  15",
+      "document_type_other": "",
+      "external_url": "",
+      "ecf_number": "16",
+      "clearinghouse_link": "clearinghouse.net/doc/18111"
+    },
+    {
+      "date": null,
+      "date_is_estimate": false,
+      "date_not_available": false,
+      "description": null,
+      "document_source": null,
+      "document_status": null,
+      "document_type": null,
+      "order_type": null,
+      "citation_paren": null,
+      "cite_1_page": null,
+      "cite_1_reporter": null,
+      "cite_1_vol": null,
+      "cite_2_page": null,
+      "cite_2_reporter": null,
+      "cite_2_vol": null,
+      "cite_3_page": null,
+      "cite_3_reporter": null,
+      "cite_3_vol": null,
+      "citation_status": null,
+      "court": null,
+      "no_title": false,
+      "party_types": [],
+      "per_curium": false,
+      "is_core_document": true,
+      "id": 113283,
+      "file": null,
+      "title": null,
+      "text": null,
+      "document_type_other": null,
+      "external_url": null,
+      "ecf_number": null,
+      "clearinghouse_link": "clearinghouse.net/doc/113283"
+    },
+    {
+      "date": "2006-03-31",
+      "date_is_estimate": false,
+      "date_not_available": false,
+      "description": null,
+      "document_source": "PACER [Public Access to Court Electronic Records]",
+      "document_status": "Coding Complete",
+      "document_type": "Docket",
+      "order_type": null,
+      "citation_paren": null,
+      "cite_1_page": null,
+      "cite_1_reporter": null,
+      "cite_1_vol": null,
+      "cite_2_page": null,
+      "cite_2_reporter": null,
+      "cite_2_vol": null,
+      "cite_3_page": null,
+      "cite_3_reporter": null,
+      "cite_3_vol": null,
+      "citation_status": "Not applicable",
+      "court": "Northern District of Ohio",
+      "no_title": false,
+      "party_types": [
+        "Court"
+      ],
+      "per_curium": false,
+      "is_core_document": true,
+      "id": 18106,
+      "file": "https://clearinghouse-umich-production.s3.amazonaws.com/media/doc/18106.pdf",
+      "title": "Docket (PACER)",
+      "text": "Northern District of Ohio - Docket Report https://ecf.ohnd.uscourts.gov/cgi-bin/DktRpt.pl?739749266787836-L_3...\nCat03, Perelman, Standard, Termed\nU.S. District Court\nNorthern District of Ohio (Cleveland)\nCIVIL DOCKET FOR CASE #: 1:05-cv-00194-PAG\nEqual Employment Opportunity Commission v. Chris's Cafe,  Date Filed: 02/04/2005\nInc.  Date Terminated: 03/31/2006\nAssigned to: Hon. Patricia A. Gaughan Jury Demand: Both\nCause: 42:2000e Job Discrimination (Employment) Nature of Suit: 442 Civil Rights: Jobs\nJurisdiction: U.S. Government Plaintiff\nPlaintiff\nEqual Employment Opportunity  represented by C. Larry Watson \nCommission U.S. Equal Employment Opportunity \nCommission - Cleveland \n3001 AJC Federal Bldg. \n1240 East Ninth Street \nCleveland, OH 44199 \n216-522-7455 \nFax: 216-522-7430 \nEmail: larry.watson@eeoc.gov \nLEAD ATTORNEY \nATTORNEY TO BE NOTICED\nDonna L. Williams-Alexander \nU.S. Equal Employment Opportunity \nCommission - Cleveland \n3001 AJC Federal Bldg. \n1240 East Ninth Street \nCleveland, OH 44199 \n216-522-7454 \nFax: 216-522-7430 \nEmail: \nDonna.Williams-Alexander@eeoc.gov \nLEAD ATTORNEY \nATTORNEY TO BE NOTICED\nV.\nDefendant\nChris's Cafe, Inc. represented by Brian J. Halligan \n930 Claremont Avenue \nP.O. Box 455 \nAshland, OH 44805 \n419-289-2555 \nFax: 419-281-7878 \nEmail: \n1 of 4 5/31/2007 9:35 AM\n\nNorthern District of Ohio - Docket Report https://ecf.ohnd.uscourts.gov/cgi-bin/DktRpt.pl?739749266787836-L_3...\nbhalligan@halliganandassociates.com \nLEAD ATTORNEY \nATTORNEY TO BE NOTICED\nDennis J. Niermann \n4070 Mayfield Road \nCleveland, OH 44121-3031 \n216-297-1040 \nFax: 216-381-0250 \nEmail: niermann@en.com \nATTORNEY TO BE NOTICED\nDate Filed # Docket Text\n02/04/2005 1 Complaint with jury demand against Chris's Cafe, Inc. (1 summons and \nMagistrate Consent Forms issued to counsel). Filed by Equal Employment \nOpportunity Commission. (Attachments: # 1 Civil Cover Sheet)(C, BA) \n(Entered: 02/04/2005)\n02/04/2005 2 Random Assignment of Magistrate Judge Perelman (C, BA) (Entered: \n02/04/2005)\n02/17/2005 3 Case Management Conference Scheduling Order with case management \nconference set on 4/8/2005 at 09:00 AM to be held telephonically by Hon. \nPatricia A. Gaughan. Signed by Judge Patricia A. Gaughan. (D, Mary) Modified \ntext of docket entry on 2/24/2005 (B, B). (Entered: 02/17/2005)\n02/22/2005 4 Unopposed Motion for leave to Move, Plead or Otherwise Respond to Plaintiff's \nComplaint through March 30, 2005 filed by Chris's Cafe, Inc.. (Niermann, \nDennis) (Entered: 02/22/2005)\n02/22/2005   Order (non-document): Defendant's Unopposed Motion for leave to Move, Plead \nor Otherwise Respond to Plaintiff's Complaint is granted to 3/30/05. Judge \nPatricia A. Gaughan (Related Doc # 4)(L-C, S) (Entered: 02/23/2005)\n03/30/2005 5 Answer to Complaint with Jury Demand (Related Doc # 1) filed by defendant. \n(Niermann, Dennis) Modified text of docket entry on 4/6/2005 (B, B). (Entered: \n03/30/2005)\n04/04/2005 6 Report of Parties' Planning Meeting filed by Equal Employment Opportunity \nCommission. (Williams-Alexander, Donna) Modified text of docket entry on \n4/7/2005 (B, B). (Entered: 04/04/2005)\n04/08/2005 7 Case Management Conference Order: Case assigned to the Standard Track. Case \nis suitable for ECF. Non-expert discovery due by 9/23/05. Parties to be Joined \nand Pleading Amendments due by 7/15/2005. Dispositive Motions due by \n10/21/2005. Status Conference set for 8/23/2005 at 09:00 AM. Partes are not \nrequired to appear in person. Counsel must appear in person unless otherwise \nordered by the Court. Signed by Judge Patricia A. Gaughan (L-C, S) Modified \ntext of docket entry on 4/15/2005 (B, B). (Entered: 04/12/2005)\n2 of 4 5/31/2007 9:35 AM\n\nNorthern District of Ohio - Docket Report https://ecf.ohnd.uscourts.gov/cgi-bin/DktRpt.pl?739749266787836-L_3...\n04/08/2005 8 Order Designating Case for Electronic Filing. Judge Patricia A. Gaughan (L-C, \nS) (Entered: 04/12/2005)\n08/25/2005 9 Minutes/Order: Status Conference was set 8/23/05. Due to plaintiff counsel's \nunavailability on that date, the Status Conference was held on 8/19/05 by \ntelephone. Non-expert discovery deadline is extended to 10/21/05. Dispositive \nmotion deadline is now 11/21/05. Status Conference, with parties present, is set \n10/26/2005 at 09:00 AM. Signed by Judge Patricia A. Gaughan on 8/19/05. (L-C, \nS) (Entered: 08/25/2005)\n10/28/2005 10 Minutes/Order: Status Conference was held. Final Pretrial is set February 14, \n2006 at 9:30 AM. Trial is set February 27, 2006 at 9:30 AM. Signed by Judge \nPatricia A. Gaughan on 10/26/05. (L-C, S) (Entered: 10/28/2005)\n02/17/2006 11 Minutes/Order: At the parties request, status conference set 2/14/06 is cancelled. \nThe Court may anticipate a consent judgment to be filed by 3/10/06. Signed by \nJudge Patricia A. Gaughan on 2/13/06. (L-C, S) (Entered: 02/17/2006)\n03/10/2006 12 Joint Motion for extension of Filing of Consent Decree until 3/24/06 filed by \nEqual Employment Opportunity Commission and Chris's Cafe, Inc. \n(Williams-Alexander, Donna) Modified text of docket entry on 3/13/2006 (B, B). \n(Entered: 03/10/2006)\n03/13/2006 13 Corrected Joint Motion for extension of time to file Consent Decree until March \n24 2006 filed by all parties. Related document(s)12. (Niermann, Dennis) \nModified text of docket entry on 3/14/2006 (B, B). (Entered: 03/13/2006)\n03/14/2006   Order [non-document]: Joint Motion for extension of Filing of Consent Decree \nuntil 3/24/06 is moot. Approved by Judge Patricia A. Gaughan on 3/13/06. 12\n(L-C, S) (Entered: 03/14/2006)\n03/14/2006   Order [non-document]: Corrected Joint Motion for extension of time to file \nConsent Decree is granted to March 24 2006. Approved by Judge Patricia A. \nGaughan on 3/13/06. (Related Doc. 13) (L-C, S) (Entered: 03/14/2006)\n03/23/2006 14 Minute/Order: Joint oral motion for extension of time to submit consent decree is \ngranted to 3/30/06 as parties are finalizing the document. Signed by Judge \nPatricia A. Gaughan on 3/23/06. (D, MB) (Entered: 03/23/2006)\n03/29/2006 15 Joint Motion to Enter and Approve Consent Decree filed by all parties. \n(Attachments: # 1 Consent Decree)(Williams-Alexander, Donna) Modified text \nof docket entry on 3/29/2006 (B, B). (Entered: 03/29/2006)\n03/31/2006 16 Marginal Entry Order: Joint Motion to Approve and Enter Consent Decree is \nGranted. (Attachments: # 1 Consent Decree). Signed by Judge Patricia A. \nGaughan on 3/30/06. (L-C, S) (Entered: 03/31/2006)\nPACER Service Center\nTransaction Receipt\n05/31/2007 10:36:57\n3 of 4 5/31/2007 9:35 AM\n\nNorthern District of Ohio - Docket Report https://ecf.ohnd.uscourts.gov/cgi-bin/DktRpt.pl?739749266787836-L_3...\nPACER \nhs0328 Client Code: eeoc \nLogin:\nDocket  Search \nDescription: 1:05-cv-00194-PAG\nReport Criteria:\nBillable Pages: 2 Cost: 0.16\n4 of 4 5/31/2007 9:35 AM",
+      "document_type_other": null,
+      "external_url": null,
+      "ecf_number": null,
+      "clearinghouse_link": "clearinghouse.net/doc/18106"
+    },
+    {
+      "date": "2005-02-04",
+      "date_is_estimate": false,
+      "date_not_available": false,
+      "description": null,
+      "document_source": null,
+      "document_status": "Coding Complete",
+      "document_type": "Complaint",
+      "order_type": null,
+      "citation_paren": null,
+      "cite_1_page": null,
+      "cite_1_reporter": null,
+      "cite_1_vol": null,
+      "cite_2_page": null,
+      "cite_2_reporter": null,
+      "cite_2_vol": null,
+      "cite_3_page": null,
+      "cite_3_reporter": null,
+      "cite_3_vol": null,
+      "citation_status": "Not applicable",
+      "court": "Northern District of Ohio",
+      "no_title": false,
+      "party_types": [
+        "Plaintiff"
+      ],
+      "per_curium": false,
+      "is_core_document": true,
+      "id": 18110,
+      "file": "https://clearinghouse-umich-production.s3.amazonaws.com/media/nonpublic/doc/18110.pdf",
+      "title": "Complaint",
+      "text": "IN THE UNITED STATES DISTRICT COURT\nFOR THE NORTHERN DISTRICT OF OHIO\nEASTERN DIVISION I\n:051  /0194\nEQUAL EMPLOYMENT OPPORTUNITY ) CIVIL ACTION NO.\n)\nCOMMISSION,\n)\nPlaintiff, )\n)\n)\n) COMPLAINT AND\n) JURY TRIAL DEMAND\n)\nChris’s Caf~, Inc., )\n)\n)\n)\n)\nDefendant. )\n)\n)\nNATURE OF THE ACTION\nThis is an action under Title VII of the Civil Rights Act of 1964, as amended (42\nU.S.C. §2000e, et seq), (\"Title VII\") and Title I of the Civil Rights Act of 1991, to correct\nunlawful employment practices on the basis of sex, female and to make whole Brittany\n\nBlevins and similarly situated employees who were adversely affected by Defendant’s\nunlawful practices.\nDuring the month of November, 2003, Defendant subjected its employee, Brittany\nBlevins, a minor, aged 16 years old, to a pattern of severe and pervasive sexual\nharassment resulting in the creation of a sexually hostile environment and the subsequent\nconstructive discharge of Ms. Blevins.\nJURISDICTION AND VENUE\n1.    Jurisdiction ofthis Courtis invoked pursuant to 28 U.S.C. §§451,1331,1337,\n1343 and 1345. This action is authorized and instituted pursuant to Section 706(f) (1) and\n(3) of Title VII, 42 U.S.C. §2000e-5(f)(1) and (3), and pursuant to Section 102 of the Civil\nRights Act of 1991,42 U.S.C. § 1981a.\n2.    The employment practices alleged to be unlawful were committed within the\njurisdiction of the United States District Court for the Northern District of Ohio, Eastern\nDivision.\nPARTIES\n3.    Plaintiff, the Equal Employment Opportunity Commission (\"Commission\"),\nis the Agency of the United States of America charged with the administration,\ninterpretation and enforcement of Title VII and is expressly authorized to bring this action\nby Section 706(0 (1) and (3) of Title VII, 42 U.S.C. § 2000e-5(f)(1) and (3).\n4.    At all relevant times, Defendant, Chris’s Caf~, Inc. (\"Employer\") has\ncontinuously been a corporation doing business in the State of Ohio and the City of\nMansfield and has continuously had at least 15 employees.\n5.    At all relevant times, Defendant Employer has continuously been an employer\n\nengaged in an industry affecting commerce within the meaning of Section 701 (b), (g) and\n(h) of Title VII, 42 U.S.C. § 2000e (b), (g) and (h).\nSTATEMENT OF CLAIMS\n6.    More than thirty days prior to institution of this lawsuit, Brittany Blevins filed\ncharges with the Commission alleging violations of Title VII by Defendant Employer. All\nconditions precedent to the institution of this suit have been fulfilled.\n7.    During the month of November 2003, Defendant Employer engaged in\nunlawful employment practices in Mansfield, Ohio, in violation of Section 703 of Title VII,\n42 U.S.C. §2000e-2, as follows:\na) Defendant Employer created and maintained a workplace permeated\nwith severe and pervasive harassment based on sex, female;\nb) Defendant Employer subjected Brittany Blevins and similarly situated\nemployees to a pattern of severe and pervasive sexual harassment during\nher/their employment:\nc) Defendant Employer failed to exercise reasonable care to prevent and\neradicate the aforementioned sexual harassment;\nd) Defendant Employer failed to take prompt and effective remedial action\nreasonably calculated to eradicate the aforementioned harassment.\ne) The aforementioned actions of Defendant caused Brittany Blevins to suffer\na constructive discharge from her employment.\n\n8. The effect of the practice(s) complained of deprived Brittany Blevins of equal\nemployment opportunities and adversely affected her status as an employee due to\nimpermissible considerations of sex.\n9.    The unlawful practices complained of above were intentional.\n10. The unlawful employment practices complained of above were undertaken\nwith malice and/or reckless indifference to the federally protected rights of Brittany Blevins.\nPRAYER FOR RELIEF\nWHEREFORE, the Commission respectfully requests that this Court:\nA. Grant a permanent injunction enjoining Defendant Employer, its officers,\nsuccessors, assigns and all persons in active concert or participation with it, from\ndiscriminating against individuals by the implementation of practices and policies which\ndiscriminate on the basis of sex.\nB. Order Defendant Employer to institute and carry out policies, practices and\nprograms which provide equal employment opportunities for persons regardless of sex and\nwhich eradicate the effects of its past and present unlawful employment practices.\nC. Order Defendant Employer to make whole Brittany Blevins by providing\nappropriate backpay with prejudgment interest, in amounts to be determined at trial, and\nother affirmative relief necessary to eradicate the effects of its unlawful employment\npractices.\nD. Order Defendant Employer to make whole Brittany Blevins by providing\naffirmative relief necessary to eradicate the effects of its unlawful employment practices,\nincluding but not limited to, backpay and front pay in amounts to be proven at trial.\n\nE. Order Defendant Employer to make whole Brittany Blevins by providing\ncompensation for past and future pecuniary losses, in amounts to be proven at trial.\nF. Order Defendant Employer to make whole Brittany Blevins by providing\ncompensation for past and future non-pecuniary losses in amounts to be proven at trial.\nG. Grant an order assessing punitive damages against Defendant Employer for\nits malicious and reckless conduct described herein above in amounts to be determined\nat trial.\nH. Grant such further relief as the Court deems necessary and proper in the public\ninterest.\nI. Award the Commission its costs in this action.\nJURY TRIAL DEMAND\nThe Commission requests a jury trial on all questions of fact raised by its Complaint.\nRespectfully submitted,\nERIC S. DREIBAND\nGENERAL COUNSEL\nWashington, D.C.\nJAMES L. LEE\nDEPUTY GENERAL COUNSEL\nGWENDOLYN YOUNG REAMS\nASSOCIATE GENERAL COUNSEL\n\nRegistration No 0,031443\nDonna Williams~AIexander\nTrial Attorney\nRegistration No. 0037838\ndonna.williams~alexander@eeoc.gov\nEQUAL EMPLOYMENT OPPORTUNITY\nCOMMISSION\nCleveland District Office\nI660 West Second Street Suite 850\nCleveland, Ohio 44113~t454\n(216) 522-7454\n(216) 522-7430 fax\nDonna,Williams~A~exander@eeoc.gov",
+      "document_type_other": "",
+      "external_url": "",
+      "ecf_number": "1",
+      "clearinghouse_link": "clearinghouse.net/doc/18110"
+    }
+  ],
+  "document_count": 4
+}

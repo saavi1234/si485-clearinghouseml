@@ -1,0 +1,813 @@
+{
+  "case_id": 44134,
+  "fetched_at": "2025-10-22T00:40:28.495416",
+  "case_data": {
+    "attorney_orgs": [
+      "Institute for Justice"
+    ],
+    "available_documents": [
+      "Trial Court Docket",
+      "Complaint (any)"
+    ],
+    "case_defendants": [
+      {
+        "defendant_level": null,
+        "institution": "",
+        "institution_alt_state": "District of Columbia",
+        "institution_city": "Washington",
+        "institution_county": null,
+        "name": "U.S. Department of Agriculture",
+        "defendant_level_other": "",
+        "is_active": true
+      },
+      {
+        "defendant_level": null,
+        "institution": "",
+        "institution_alt_state": "Maryland",
+        "institution_city": "Silver Spring",
+        "institution_county": null,
+        "name": "Food and Drug Administration (FDA)",
+        "defendant_level_other": "",
+        "is_active": true
+      },
+      {
+        "defendant_level": null,
+        "institution": "",
+        "institution_alt_state": "District of Columbia",
+        "institution_city": "Washington",
+        "institution_county": null,
+        "name": "United States Department of Agriculture's Food Safety and Inspection Service (FSIS)",
+        "defendant_level_other": "",
+        "is_active": true
+      }
+    ],
+    "case_ongoing": "Yes",
+    "case_status": "Approved",
+    "case_types": [
+      "Public Benefits/Government Services",
+      "Speech and Religious Freedom"
+    ],
+    "cause_other": "",
+    "causes": [
+      "Declaratory Judgment Act, 28 U.S.C. § 2201",
+      "Ex parte Young (federal or state officials)"
+    ],
+    "class_action_granted": "Not sought",
+    "class_action_sought": "No",
+    "closing_year": null,
+    "constitutional_clause": [
+      {
+        "value": "Freedom of speech/association"
+      }
+    ],
+    "content_of_injunction": [],
+    "court": "District of Nevada",
+    "custom_issues": [],
+    "defendant_payment": "",
+    "defendant_type": [
+      {
+        "value": "Jurisdiction-wide"
+      }
+    ],
+    "docket_status": "Complete as of retrieval date",
+    "facility_type": [],
+    "filing_date": "2023-03-28",
+    "filing_year": 2023,
+    "id": 44134,
+    "injunction_duration": "",
+    "issues": [
+      "General/Misc.: Classification / placement",
+      "General/Misc.: Government services"
+    ],
+    "last_checked_date": "2023-01-03T00:00:00-05:00",
+    "main_docket": {
+      "id": 57491,
+      "docket_entries": [
+        {
+          "row_number": 5,
+          "id": 3332235,
+          "entry_number": "3",
+          "date_filed": "2023-03-28T00:00:00-04:00",
+          "attachments": [],
+          "url": "https://www.courtlistener.com/docket/67110468/3/przybocki-v-united-states-department-of-agriculture/",
+          "recap_pdf_url": null,
+          "pacer_doc_id": "11509895662",
+          "description": "MOTION/VERIFIED PETITION for Permission to Practice Pro Hac Vice by Paul M. Sherman and DESIGNATION of Local Counsel Matthew T. Dushoff (Filing fee $ 250 receipt number ANVDC-7249095) by Plaintiffs Gourmend Foods, LLC, Michelle Przybocki, Ketan Vakil. (Dushoff, Matthew) (Entered: 03/28/2023)"
+        },
+        {
+          "row_number": 32,
+          "id": 10362279,
+          "entry_number": "63",
+          "date_filed": "2025-09-08T00:00:00-04:00",
+          "attachments": null,
+          "url": "https://www.courtlistener.com/docket/67110468/63/przybocki-v-united-states-department-of-agriculture/",
+          "recap_pdf_url": "https://www.courtlistener.com/recap/gov.uscourts.nvd.161445/gov.uscourts.nvd.161445.63.0.pdf",
+          "pacer_doc_id": "115011095517",
+          "description": " ORDER Granting  62   Unopposed Motion to Withdraw as Attorney.      Signed by Magistrate Judge Daniel J. Albregts on 9/8/2025.   Attorney Elizabeth Tulis terminated.     (Copies have been distributed pursuant to the NEF - RJDG)"
+        },
+        {
+          "row_number": 0,
+          "id": 3332233,
+          "entry_number": "1",
+          "date_filed": "2023-03-28T00:00:00-04:00",
+          "attachments": [
+            {
+              "recap_id": 273283301,
+              "pacer_url": "https://ecf.nvd.uscourts.gov/doc1/11509895609?caseid=161445",
+              "description": "Civil Cover Sheet",
+              "attachment_number": 1
+            },
+            {
+              "recap_id": 273283302,
+              "pacer_url": "https://ecf.nvd.uscourts.gov/doc1/11509895610?caseid=161445",
+              "description": "Summons U.S. Department of Agriculture",
+              "attachment_number": 2
+            },
+            {
+              "recap_id": 273283303,
+              "pacer_url": "https://ecf.nvd.uscourts.gov/doc1/11509895611?caseid=161445",
+              "description": "Summons U.S. Department of Agriculture via U.S. Attorney General",
+              "attachment_number": 3
+            },
+            {
+              "recap_id": 273283304,
+              "pacer_url": "https://ecf.nvd.uscourts.gov/doc1/11509895612?caseid=161445",
+              "description": "Summons U.S. Department of Agriculture via U.S. Attorney's Office",
+              "attachment_number": 4
+            },
+            {
+              "recap_id": 273283305,
+              "pacer_url": "https://ecf.nvd.uscourts.gov/doc1/11509895613?caseid=161445",
+              "description": "Summons Thomas J. Vilsack in his official capacity as Secretary of Agriculture",
+              "attachment_number": 5
+            },
+            {
+              "recap_id": 273283306,
+              "pacer_url": "https://ecf.nvd.uscourts.gov/doc1/11509895614?caseid=161445",
+              "description": "Summons Thomas J. Vilsack via U.S. Attorney General",
+              "attachment_number": 6
+            },
+            {
+              "recap_id": 273283307,
+              "pacer_url": "https://ecf.nvd.uscourts.gov/doc1/11509895615?caseid=161445",
+              "description": "Summons Thomas J. Vilsack via U.S. Attorney's Office",
+              "attachment_number": 7
+            },
+            {
+              "recap_id": 273283308,
+              "pacer_url": "https://ecf.nvd.uscourts.gov/doc1/11509895616?caseid=161445",
+              "description": "Summons U.S. Department of Ag. FSIS",
+              "attachment_number": 8
+            },
+            {
+              "recap_id": 273283309,
+              "pacer_url": "https://ecf.nvd.uscourts.gov/doc1/11509895617?caseid=161445",
+              "description": "Summons U.S. Department of Ag. FSIS via U.S. Attorney Genera",
+              "attachment_number": 9
+            },
+            {
+              "recap_id": 273283310,
+              "pacer_url": "https://ecf.nvd.uscourts.gov/doc1/11509895618?caseid=161445",
+              "description": "Summons U.S. Department of Ag. FSIS via U.S. Attorney's Office",
+              "attachment_number": 10
+            },
+            {
+              "recap_id": 273283311,
+              "pacer_url": "https://ecf.nvd.uscourts.gov/doc1/11509895619?caseid=161445",
+              "description": "Summons Sandra Eskin, in her official capacity as U.S. Deputy Under Secretary fo",
+              "attachment_number": 11
+            },
+            {
+              "recap_id": 273283312,
+              "pacer_url": "https://ecf.nvd.uscourts.gov/doc1/11509895620?caseid=161445",
+              "description": "Summons Sandra Eskin via U.S. Attorney General",
+              "attachment_number": 12
+            },
+            {
+              "recap_id": 273283313,
+              "pacer_url": "https://ecf.nvd.uscourts.gov/doc1/11509895621?caseid=161445",
+              "description": "Summons Sandra Eskin via U.S. Attorney's Office",
+              "attachment_number": 13
+            },
+            {
+              "recap_id": 273283314,
+              "pacer_url": "https://ecf.nvd.uscourts.gov/doc1/11509895622?caseid=161445",
+              "description": "Summons U.S. Food and Drug Administration",
+              "attachment_number": 14
+            },
+            {
+              "recap_id": 273283315,
+              "pacer_url": "https://ecf.nvd.uscourts.gov/doc1/11509895623?caseid=161445",
+              "description": "Summons U.S. Food and Drug Administration via U.S. Attorney General",
+              "attachment_number": 15
+            },
+            {
+              "recap_id": 273283316,
+              "pacer_url": "https://ecf.nvd.uscourts.gov/doc1/11509895624?caseid=161445",
+              "description": "Summons U.S. Food and Drug Administration via U.S. Attorney's Office",
+              "attachment_number": 16
+            },
+            {
+              "recap_id": 273283317,
+              "pacer_url": "https://ecf.nvd.uscourts.gov/doc1/11509895625?caseid=161445",
+              "description": "Summons Robert Califf, in his official capacity as Commissioner",
+              "attachment_number": 17
+            },
+            {
+              "recap_id": 273283318,
+              "pacer_url": "https://ecf.nvd.uscourts.gov/doc1/11509895626?caseid=161445",
+              "description": "Summons Robert Califf via U.S. Attorney General",
+              "attachment_number": 18
+            },
+            {
+              "recap_id": 273283319,
+              "pacer_url": "https://ecf.nvd.uscourts.gov/doc1/11509895627?caseid=161445",
+              "description": "Summons Robert Califf via U.S. Attorney's Office",
+              "attachment_number": 19
+            }
+          ],
+          "url": "https://www.courtlistener.com/docket/67110468/1/przybocki-v-united-states-department-of-agriculture/",
+          "recap_pdf_url": "https://www.courtlistener.com/recap/gov.uscourts.nvd.161445/gov.uscourts.nvd.161445.1.0.pdf",
+          "pacer_doc_id": "11509895608",
+          "description": "COMPLAINT against All Defendants (Filing fee $402 receipt number ANVDC-7248975) by Gourmend Foods, LLC, Ketan Vakil, Michelle Przybocki. Certificate of Interested Parties due by 4/7/2023. Proof of service due by 6/26/2023. (Attachments: # 1 Civil Cover Sheet, # 2 Summons U.S. Department of Agriculture, # 3 Summons U.S. Department of Agriculture via U.S. Attorney General, # 4 Summons U.S. Department of Agriculture via U.S. Attorney's Office, # 5 Summons Thomas J. Vilsack in his official capacity as Secretary of Agriculture, # 6 Summons Thomas J. Vilsack via U.S. Attorney General, # 7 Summons Thomas J. Vilsack via U.S. Attorney's Office, # 8 Summons U.S. Department of Ag. FSIS, # 9 Summons U.S. Department of Ag. FSIS via U.S. Attorney Genera, # 10 Summons U.S. Department of Ag. FSIS via U.S. Attorney's Office, # 11 Summons Sandra Eskin, in her official capacity as U.S. Deputy Under Secretary for Food Safety, # 12 Summons Sandra Eskin via U.S. Attorney General, # 13 Summons Sandra Eskin via U.S. Attorney's Office, # 14 Summons U.S. Food and Drug Administration, # 15 Summons U.S. Food and Drug Administration via U.S. Attorney General, # 16 Summons U.S. Food and Drug Administration via U.S. Attorney's Office, # 17 Summons Robert Califf, in his official capacity as Commissioner, # 18 Summons Robert Califf via U.S. Attorney General, # 19 Summons Robert Califf via U.S. Attorney's Office) (Dushoff, Matthew) NOTICE of Certificate of Interested Parties requirement: Under Local Rule 7.1-1, a party must immediately file its disclosure statement with its first appearance, pleading, petition, motion, response, or other request addressed to the court. (Entered: 03/28/2023)"
+        },
+        {
+          "row_number": 18,
+          "id": 3332237,
+          "entry_number": "5",
+          "date_filed": "2023-03-28T00:00:00-04:00",
+          "attachments": [],
+          "url": "https://www.courtlistener.com/docket/67110468/5/przybocki-v-united-states-department-of-agriculture/",
+          "recap_pdf_url": null,
+          "pacer_doc_id": "11509895692",
+          "description": "MOTION/VERIFIED PETITION for Permission to Practice Pro Hac Vice by Elizabeth L. Sanz and DESIGNATION of Local Counsel Matthew T. Dushoff (Filing fee $ 250 receipt number ANVDC-7249137) by Plaintiffs Gourmend Foods, LLC, Michelle Przybocki, Ketan Vakil. (Dushoff, Matthew) (Entered: 03/28/2023)"
+        },
+        {
+          "row_number": 28,
+          "id": 3332239,
+          "entry_number": "6",
+          "date_filed": "2023-03-28T00:00:00-04:00",
+          "attachments": [],
+          "url": "https://www.courtlistener.com/docket/67110468/6/przybocki-v-united-states-department-of-agriculture/",
+          "recap_pdf_url": null,
+          "pacer_doc_id": "11509896585",
+          "description": "SUMMONS ISSUED re 1 Complaint (HAM) (Entered: 03/28/2023)"
+        },
+        {
+          "row_number": 2,
+          "id": 3438594,
+          "entry_number": "11",
+          "date_filed": "2023-03-31T00:00:00-04:00",
+          "attachments": [],
+          "url": "https://www.courtlistener.com/docket/67110468/11/przybocki-v-united-states-department-of-agriculture/",
+          "recap_pdf_url": null,
+          "pacer_doc_id": null,
+          "description": "CLERK'S NOTICE Regarding Local Rule IC 2-1. Attorney Justin M. Pearson is in violation of Local Rule IC 2-1(a) and 2-1(d). You are required to register to file documents electronically in the Court's electronic filing system (CM/ECF) and the electronic service of pleadings and other papers. Please visit the PACER website www.pacer.gov to complete the registration. (no image attached) (WJ) (Entered: 03/31/2023)"
+        },
+        {
+          "row_number": 3,
+          "id": 3438595,
+          "entry_number": "12",
+          "date_filed": "2023-03-31T00:00:00-04:00",
+          "attachments": [],
+          "url": "https://www.courtlistener.com/docket/67110468/12/przybocki-v-united-states-department-of-agriculture/",
+          "recap_pdf_url": null,
+          "pacer_doc_id": null,
+          "description": "CLERK'S NOTICE Regarding Local Rule IC 2-1. Attorney Elizabeth L. Sanz is in violation of Local Rule IC 2-1(a) and 2-1(d). You are required to register to file documents electronically in the Court's electronic filing system (CM/ECF) and the electronic service of pleadings and other papers. Please visit the PACER website www.pacer.gov to complete the registration. (no image attached) (WJ) (Entered: 03/31/2023)"
+        },
+        {
+          "row_number": 9,
+          "id": 3768850,
+          "entry_number": "37",
+          "date_filed": "2023-06-23T00:00:00-04:00",
+          "attachments": [],
+          "url": "https://www.courtlistener.com/docket/67110468/37/przybocki-v-united-states-department-of-agriculture/",
+          "recap_pdf_url": null,
+          "pacer_doc_id": "115010016592",
+          "description": "Motion Dismiss"
+        },
+        {
+          "row_number": 10,
+          "id": 10162933,
+          "entry_number": "38",
+          "date_filed": "2023-07-24T00:00:00-04:00",
+          "attachments": [],
+          "url": "https://www.courtlistener.com/docket/67110468/38/przybocki-v-united-states-department-of-agriculture/",
+          "recap_pdf_url": null,
+          "pacer_doc_id": "115010055792",
+          "description": "Stipulation"
+        },
+        {
+          "row_number": 13,
+          "id": 10162935,
+          "entry_number": "40",
+          "date_filed": "2023-08-18T00:00:00-04:00",
+          "attachments": [],
+          "url": "https://www.courtlistener.com/docket/67110468/40/przybocki-v-united-states-department-of-agriculture/",
+          "recap_pdf_url": null,
+          "pacer_doc_id": "115010090789",
+          "description": "Response"
+        },
+        {
+          "row_number": 14,
+          "id": 10162936,
+          "entry_number": "41",
+          "date_filed": "2023-09-13T00:00:00-04:00",
+          "attachments": [],
+          "url": "https://www.courtlistener.com/docket/67110468/41/przybocki-v-united-states-department-of-agriculture/",
+          "recap_pdf_url": null,
+          "pacer_doc_id": "115010121636",
+          "description": "Stipulation"
+        },
+        {
+          "row_number": 15,
+          "id": 10162937,
+          "entry_number": "42",
+          "date_filed": "2023-09-14T00:00:00-04:00",
+          "attachments": [],
+          "url": "https://www.courtlistener.com/docket/67110468/42/przybocki-v-united-states-department-of-agriculture/",
+          "recap_pdf_url": null,
+          "pacer_doc_id": "115010123790",
+          "description": "Order on Stipulation"
+        },
+        {
+          "row_number": 16,
+          "id": 10162938,
+          "entry_number": "43",
+          "date_filed": "2023-09-18T00:00:00-04:00",
+          "attachments": [],
+          "url": "https://www.courtlistener.com/docket/67110468/43/przybocki-v-united-states-department-of-agriculture/",
+          "recap_pdf_url": null,
+          "pacer_doc_id": "115010128055",
+          "description": "Reply"
+        },
+        {
+          "row_number": 37,
+          "id": 10162939,
+          "entry_number": null,
+          "date_filed": "2024-04-26T00:00:00-04:00",
+          "attachments": [],
+          "url": "https://www.courtlistener.com",
+          "recap_pdf_url": null,
+          "pacer_doc_id": null,
+          "description": "Minute Order Setting Hearing on Motion"
+        },
+        {
+          "row_number": 38,
+          "id": 10162940,
+          "entry_number": null,
+          "date_filed": "2024-05-10T00:00:00-04:00",
+          "attachments": [],
+          "url": "https://www.courtlistener.com",
+          "recap_pdf_url": null,
+          "pacer_doc_id": null,
+          "description": "Notice Setting Hearing on Motion"
+        },
+        {
+          "row_number": 39,
+          "id": 10162941,
+          "entry_number": null,
+          "date_filed": "2024-05-14T00:00:00-04:00",
+          "attachments": [],
+          "url": "https://www.courtlistener.com",
+          "recap_pdf_url": null,
+          "pacer_doc_id": null,
+          "description": "Minute Order"
+        },
+        {
+          "row_number": 40,
+          "id": 10162942,
+          "entry_number": null,
+          "date_filed": "2024-05-17T00:00:00-04:00",
+          "attachments": [],
+          "url": "https://www.courtlistener.com",
+          "recap_pdf_url": null,
+          "pacer_doc_id": null,
+          "description": "Notice Setting Hearing on Motion"
+        },
+        {
+          "row_number": 41,
+          "id": 10162943,
+          "entry_number": null,
+          "date_filed": "2024-05-17T00:00:00-04:00",
+          "attachments": [],
+          "url": "https://www.courtlistener.com",
+          "recap_pdf_url": null,
+          "pacer_doc_id": null,
+          "description": "Motion Hearing"
+        },
+        {
+          "row_number": 19,
+          "id": 10162945,
+          "entry_number": "50",
+          "date_filed": "2024-06-13T00:00:00-04:00",
+          "attachments": [],
+          "url": "https://www.courtlistener.com/docket/67110468/50/przybocki-v-united-states-department-of-agriculture/",
+          "recap_pdf_url": null,
+          "pacer_doc_id": "115010495244",
+          "description": "Stipulation"
+        },
+        {
+          "row_number": 20,
+          "id": 10162946,
+          "entry_number": "51",
+          "date_filed": "2024-06-17T00:00:00-04:00",
+          "attachments": [],
+          "url": "https://www.courtlistener.com/docket/67110468/51/przybocki-v-united-states-department-of-agriculture/",
+          "recap_pdf_url": null,
+          "pacer_doc_id": "115010498954",
+          "description": "Order on Stipulation"
+        },
+        {
+          "row_number": 21,
+          "id": 10162947,
+          "entry_number": "52",
+          "date_filed": "2024-07-17T00:00:00-04:00",
+          "attachments": [],
+          "url": "https://www.courtlistener.com/docket/67110468/52/przybocki-v-united-states-department-of-agriculture/",
+          "recap_pdf_url": null,
+          "pacer_doc_id": "115010538181",
+          "description": "Order on Motion to Dismiss"
+        },
+        {
+          "row_number": 22,
+          "id": 10162948,
+          "entry_number": "53",
+          "date_filed": "2024-09-12T00:00:00-04:00",
+          "attachments": [],
+          "url": "https://www.courtlistener.com/docket/67110468/53/przybocki-v-united-states-department-of-agriculture/",
+          "recap_pdf_url": null,
+          "pacer_doc_id": "115010613770",
+          "description": "Notice Other"
+        },
+        {
+          "row_number": 23,
+          "id": 10162949,
+          "entry_number": "54",
+          "date_filed": "2024-10-16T00:00:00-04:00",
+          "attachments": [],
+          "url": "https://www.courtlistener.com/docket/67110468/54/przybocki-v-united-states-department-of-agriculture/",
+          "recap_pdf_url": null,
+          "pacer_doc_id": "115010657984",
+          "description": "Notice Appearance of Counsel"
+        },
+        {
+          "row_number": 42,
+          "id": 10162950,
+          "entry_number": null,
+          "date_filed": "2024-10-22T00:00:00-04:00",
+          "attachments": [],
+          "url": "https://www.courtlistener.com",
+          "recap_pdf_url": null,
+          "pacer_doc_id": null,
+          "description": "Withdraw Counsel"
+        },
+        {
+          "row_number": 24,
+          "id": 10162951,
+          "entry_number": "56",
+          "date_filed": "2024-10-30T00:00:00-04:00",
+          "attachments": [],
+          "url": "https://www.courtlistener.com/docket/67110468/56/przybocki-v-united-states-department-of-agriculture/",
+          "recap_pdf_url": null,
+          "pacer_doc_id": "115010678734",
+          "description": "Judgment"
+        },
+        {
+          "row_number": 43,
+          "id": 10162952,
+          "entry_number": null,
+          "date_filed": "2024-10-30T00:00:00-04:00",
+          "attachments": [],
+          "url": "https://www.courtlistener.com",
+          "recap_pdf_url": null,
+          "pacer_doc_id": null,
+          "description": "Minute Order"
+        },
+        {
+          "row_number": 25,
+          "id": 10162953,
+          "entry_number": "57",
+          "date_filed": "2024-11-21T00:00:00-05:00",
+          "attachments": [],
+          "url": "https://www.courtlistener.com/docket/67110468/57/przybocki-v-united-states-department-of-agriculture/",
+          "recap_pdf_url": null,
+          "pacer_doc_id": "115010705695",
+          "description": "Notice Appeal"
+        },
+        {
+          "row_number": 26,
+          "id": 10162954,
+          "entry_number": "58",
+          "date_filed": "2024-12-04T00:00:00-05:00",
+          "attachments": [],
+          "url": "https://www.courtlistener.com/docket/67110468/58/przybocki-v-united-states-department-of-agriculture/",
+          "recap_pdf_url": null,
+          "pacer_doc_id": "115010720211",
+          "description": "Appeal Case Number Assigned"
+        },
+        {
+          "row_number": 27,
+          "id": 10162955,
+          "entry_number": "59",
+          "date_filed": "2024-12-04T00:00:00-05:00",
+          "attachments": [],
+          "url": "https://www.courtlistener.com/docket/67110468/59/przybocki-v-united-states-department-of-agriculture/",
+          "recap_pdf_url": null,
+          "pacer_doc_id": "115010720221",
+          "description": "USCA Order Time Schedule"
+        },
+        {
+          "row_number": 29,
+          "id": 10162956,
+          "entry_number": "60",
+          "date_filed": "2024-12-05T00:00:00-05:00",
+          "attachments": [],
+          "url": "https://www.courtlistener.com/docket/67110468/60/przybocki-v-united-states-department-of-agriculture/",
+          "recap_pdf_url": null,
+          "pacer_doc_id": "115010722840",
+          "description": "Transcript Designation"
+        },
+        {
+          "row_number": 7,
+          "id": 10257641,
+          "entry_number": "34",
+          "date_filed": "2023-05-31T00:00:00-04:00",
+          "attachments": null,
+          "url": "https://www.courtlistener.com/docket/67110468/34/przybocki-v-united-states-department-of-agriculture/",
+          "recap_pdf_url": "https://www.courtlistener.com/recap/gov.uscourts.nvd.161445/gov.uscourts.nvd.161445.34.0.pdf",
+          "pacer_doc_id": "11509989144",
+          "description": "  ORDER granting  33   Stipulation to Extend Time for Defendants To Respond to the Complaint and for Plaintiffs To File Opposition. Defendants deadline to    file their anticipated motion to dismiss the complaint     is extended from June 5, 2023, to  June 16, 2023. Plaintiffs deadline to oppose          Defendants anticipated motion to dismiss is       extended to July 20, 2023. The page limit for Defendants moving brief and for    Plaintiffs opposition   brief is enlarged from 24 pages to 32 pages.                     Signed by District Judge Anne R. Traum on 5/31/2023.      (Copies have been distributed pursuant to the NEF - CAH)"
+        },
+        {
+          "row_number": 30,
+          "id": 10257642,
+          "entry_number": "61",
+          "date_filed": "2025-08-19T00:00:00-04:00",
+          "attachments": null,
+          "url": "https://www.courtlistener.com/docket/67110468/61/przybocki-v-united-states-department-of-agriculture/",
+          "recap_pdf_url": null,
+          "pacer_doc_id": "115011067634",
+          "description": "Notice Appearance of Counsel"
+        },
+        {
+          "row_number": 31,
+          "id": 10257643,
+          "entry_number": "62",
+          "date_filed": "2025-08-22T00:00:00-04:00",
+          "attachments": null,
+          "url": "https://www.courtlistener.com/docket/67110468/62/przybocki-v-united-states-department-of-agriculture/",
+          "recap_pdf_url": null,
+          "pacer_doc_id": "115011072662",
+          "description": "Unopposed Motion"
+        },
+        {
+          "row_number": 17,
+          "id": 10162944,
+          "entry_number": "49",
+          "date_filed": "2024-06-06T00:00:00-04:00",
+          "attachments": [],
+          "url": "https://www.courtlistener.com/docket/67110468/49/przybocki-v-united-states-department-of-agriculture/",
+          "recap_pdf_url": null,
+          "pacer_doc_id": "115010486547",
+          "description": "Transcript"
+        },
+        {
+          "row_number": 11,
+          "id": 10162934,
+          "entry_number": "39",
+          "date_filed": "2023-07-24T00:00:00-04:00",
+          "attachments": [],
+          "url": "https://www.courtlistener.com/docket/67110468/39/przybocki-v-united-states-department-of-agriculture/",
+          "recap_pdf_url": "https://www.courtlistener.com/recap/gov.uscourts.nvd.161445/gov.uscourts.nvd.161445.39.0.pdf",
+          "pacer_doc_id": "115010057025",
+          "description": "  ORDER granting  38   Stipulation to Extend Time for Plaintiffs to Respond to Defendants' 37   Motion to Dismiss and Defendants to File Reply.    Responses due by 8/18/2023.  Replies due by 9/18/2023.  Signed by District Judge Anne R. Traum on 7/24/2023.   (Copies have been distributed pursuant to the NEF - CT)"
+        },
+        {
+          "row_number": 4,
+          "id": 3332234,
+          "entry_number": "2",
+          "date_filed": "2023-03-28T00:00:00-04:00",
+          "attachments": [],
+          "url": "https://www.courtlistener.com/docket/67110468/2/przybocki-v-united-states-department-of-agriculture/",
+          "recap_pdf_url": null,
+          "pacer_doc_id": "11509895644",
+          "description": "CERTIFICATE of Interested Parties by Gourmend Foods, LLC, Michelle Przybocki, Ketan Vakil. There are no known interested parties other than those participating in the case. (Dushoff, Matthew) (Entered: 03/28/2023)"
+        },
+        {
+          "row_number": 12,
+          "id": 3332236,
+          "entry_number": "4",
+          "date_filed": "2023-03-28T00:00:00-04:00",
+          "attachments": [],
+          "url": "https://www.courtlistener.com/docket/67110468/4/przybocki-v-united-states-department-of-agriculture/",
+          "recap_pdf_url": null,
+          "pacer_doc_id": "11509895683",
+          "description": "MOTION/VERIFIED PETITION for Permission to Practice Pro Hac Vice by Justin M. Pearson and DESIGNATION of Local Counsel Matthew T. Dushoff (Filing fee $ 250 receipt number ANVDC-7249111) by Plaintiffs Gourmend Foods, LLC, Michelle Przybocki, Ketan Vakil. (Dushoff, Matthew) (Entered: 03/28/2023)"
+        },
+        {
+          "row_number": 36,
+          "id": 3332238,
+          "entry_number": null,
+          "date_filed": "2023-03-28T00:00:00-04:00",
+          "attachments": [],
+          "url": "https://www.courtlistener.com",
+          "recap_pdf_url": null,
+          "pacer_doc_id": null,
+          "description": "Case randomly assigned to District Judge Anne R. Traum and Magistrate Judge Daniel J. Albregts. (HAM)"
+        },
+        {
+          "row_number": 33,
+          "id": 3332240,
+          "entry_number": "7",
+          "date_filed": "2023-03-29T00:00:00-04:00",
+          "attachments": [],
+          "url": "https://www.courtlistener.com/docket/67110468/7/przybocki-v-united-states-department-of-agriculture/",
+          "recap_pdf_url": null,
+          "pacer_doc_id": "11509900360",
+          "description": "ORDER APPROVING ECF No. 3 Verified Petition for Permission to Practice Pro Hac Vice for Attorney Paul M. Sherman for Michelle Przybocki and approving Designation of Local Counsel Matthew T. Dushoff. Signed by District Judge Anne R. Traum on 3/29/2023. Any Attorney not yet registered with the Court's e-filng system shall register on the PACER website www.pacer.gov(Copies have been distributed pursuant to the NEF - DLS) (Entered: 03/30/2023)"
+        },
+        {
+          "row_number": 34,
+          "id": 3332241,
+          "entry_number": "8",
+          "date_filed": "2023-03-29T00:00:00-04:00",
+          "attachments": [],
+          "url": "https://www.courtlistener.com/docket/67110468/8/przybocki-v-united-states-department-of-agriculture/",
+          "recap_pdf_url": null,
+          "pacer_doc_id": "11509900381",
+          "description": "ORDER APPROVING ECF No. 4 Verified Petition for Permission to Practice Pro Hac Vice for Attorney Justin M. Pearson for Michelle Przybocki and approving Designation of Local Counsel Matthew T. Dushoff. Signed by District Judge Anne R. Traum on 3/29/2023. Any Attorney not yet registered with the Court's e-filng system shall register on the PACER website www.pacer.gov(Copies have been distributed pursuant to the NEF - DLS) (Entered: 03/30/2023)"
+        },
+        {
+          "row_number": 35,
+          "id": 3332242,
+          "entry_number": "9",
+          "date_filed": "2023-03-29T00:00:00-04:00",
+          "attachments": [],
+          "url": "https://www.courtlistener.com/docket/67110468/9/przybocki-v-united-states-department-of-agriculture/",
+          "recap_pdf_url": null,
+          "pacer_doc_id": "11509900430",
+          "description": "ORDER APPROVING ECF No. 5 Verified Petition for Permission to Practice Pro Hac Vice for Attorney Elizabeth L. Sanz for Gourmend Foods, LLC, Michelle Przybocki, and Ketan Vakil and approving Designation of Local Counsel Matthew T. Dushoff. Signed by District Judge Anne R. Traum on 3/29/2023. Any Attorney not yet registered with the Court's e-filng system shall register on the PACER website www.pacer.gov(Copies have been distributed pursuant to the NEF - DLS) (Entered: 03/30/2023)"
+        },
+        {
+          "row_number": 1,
+          "id": 3438593,
+          "entry_number": "10",
+          "date_filed": "2023-03-31T00:00:00-04:00",
+          "attachments": [],
+          "url": "https://www.courtlistener.com/docket/67110468/10/przybocki-v-united-states-department-of-agriculture/",
+          "recap_pdf_url": null,
+          "pacer_doc_id": null,
+          "description": "CLERK'S NOTICE Regarding Local Rule IC 2-1. Attorney Paul M. Sherman is in violation of Local Rule IC 2-1(a) and 2-1(d). You are required to register to file documents electronically in the Court's electronic filing system (CM/ECF) and the electronic service of pleadings and other papers. Please visit the PACER website www.pacer.gov to complete the registration. (no image attached) (WJ) (Entered: 03/31/2023)"
+        },
+        {
+          "row_number": 6,
+          "id": 3438596,
+          "entry_number": "32",
+          "date_filed": "2023-04-25T00:00:00-04:00",
+          "attachments": [],
+          "url": "https://www.courtlistener.com/docket/67110468/32/przybocki-v-united-states-department-of-agriculture/",
+          "recap_pdf_url": null,
+          "pacer_doc_id": "11509933921",
+          "description": "Order on Motion to Admit Government Attorney"
+        },
+        {
+          "row_number": 8,
+          "id": 3768849,
+          "entry_number": "36",
+          "date_filed": "2023-06-16T00:00:00-04:00",
+          "attachments": [],
+          "url": "https://www.courtlistener.com/docket/67110468/36/przybocki-v-united-states-department-of-agriculture/",
+          "recap_pdf_url": "https://www.courtlistener.com/recap/gov.uscourts.nvd.161445/gov.uscourts.nvd.161445.36.0.pdf",
+          "pacer_doc_id": "115010009496",
+          "description": "  ORDER granting  35   Stipulation To Extend Time for  Defendants To Respond to the   Complaint and for Plaintiffs To   File Opposition. Defendants deadline to file their anticipated motion to    dismiss the complaint   is extended from June 16, 2023,  to June 23, 2023. This is the final extension         that   Defendants will receive for their motion and opening brief.       Plaintiffs    deadline to oppose Defendants anticipated motion to dismiss is      extended from July 20, 2023, to August 4, 2023.              Signed by District Judge Anne R. Traum on 6/16/2023.   (Copies have been distributed pursuant to the NEF - CAH)"
+        }
+      ],
+      "docket_case_type": "cv",
+      "docket_year": 2023,
+      "docket_filing_number": 455,
+      "is_main_docket": true,
+      "court": "District of Nevada",
+      "state": "Nevada",
+      "docket_office_number": "2",
+      "docket_number_manual": "2:23-cv-00455",
+      "scales_html": null,
+      "recap_link": "https://www.courtlistener.com/docket/67110468/przybocki-v-united-states-department-of-agriculture/",
+      "is_active": true
+    },
+    "name": "Przybocki v. United States Department of Agriculture",
+    "never_filed": false,
+    "non_docket_case_number": "",
+    "non_docket_case_number_type": null,
+    "non_docket_case_number_type_other": "",
+    "order_end_year": null,
+    "order_start_year": null,
+    "permanent_injunction": false,
+    "plaintiff_description": "A business owner and customer seeking to disseminate and receive, respectively, information about easily-digestible food products.",
+    "plaintiff_type": [
+      {
+        "value": "Private Plaintiff"
+      }
+    ],
+    "prevailing_party": "None Yet / None",
+    "pro_se_status": "No",
+    "public_interest_lawyer": "Yes",
+    "related_cases": [],
+    "relief_natures": [
+      "None yet"
+    ],
+    "relief_nature_other": "",
+    "relief_sources": [
+      "None yet"
+    ],
+    "settlement_agreement": [],
+    "settlement_judgment_date": null,
+    "settlement_judgment_year": null,
+    "special_collections": [],
+    "special_case_type": [],
+    "state": "Nevada",
+    "summary": "<p>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; This is a case about the free speech implications of government restrictions on the labels of various packaged foods. On March 28, 2023, a business owner, his business, and a customer of his business sued the U.S. Department of Agriculture (USDA), its Food Safety and Inspection Service (FSIS) and the Food and Drug Administration (FDA) &nbsp;in the U.S. District Court for the District of Nevada. Represented by local counsel as well as the Institute for Justice, the Plaintiffs sued for violations of the First Amendment and sought declaratory relief, an injunction lifting the ban on their desired labeling, attorneys fees, and any other legal or equitable relief the court deemed fair. The case was assigned to Judge Anne R. Traum and Magistrate Judge Daniel J. Albregts.&nbsp;</p>\r\n<p>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; The business owner and his company allege that FSIS required them to remove terms such as &ldquo;low-FODMAP&rdquo; (an acronym for items low in various difficult-to-digest sugars), &ldquo;deliciously digestible,&rdquo; and &ldquo;gut loving&rdquo; from their product labels. They further allege that the removal violated their First Amendment rights because the statements, while allegedly verifiable and non-misleading, were ultimately impermissible. FSIS and FDA permit claims such as these only if they are defined in their regulations and included on a pre-approved list of similar nutrient content claims (for example, the agencies maintain established standards for what counts as &ldquo;low sodium,&rdquo; but not what count as &ldquo;low-FODMAP&rdquo;). Consequently, plaintiffs allege that this &ldquo;pre-approved and exclusive&rdquo; list of statements violates the First Amendment because it excludes otherwise true and verifiable information that consumers, such as the consumer-plaintiff in this case, might want to know.&nbsp;</p>\r\n<p>On June 23, 2023, defendants filed a motion to dismiss, which the plaintiffs responded to on August 18, 2023. The case is ongoing.&nbsp;</p>",
+    "summary_published_date": "2024-01-03T10:36:31.190227-05:00",
+    "summary_short": "On March 28, 2023, a customer and a small business owner filed suit against the U.S. Department of Agriculture (USDA) and the U.S. Food and Drug Administration (FDA), alleging a policy preventing businesses from truthfully labeling their food products violated the First Amendment. The plaintiffs alleged the agencies' decision to strike desired phrases from their food product labels  — phrases which they claim were verifiable and non-misleading —  violated the FIrst Amendment. As of January 3, 2024, the case is ongoing.",
+    "summary_tiny": null,
+    "terminating_date": null,
+    "clearinghouse_link": "clearinghouse.net/case/44134",
+    "is_active": true,
+    "case_documents_url": "https://clearinghouse.net/api/v2/documents/?case=44134",
+    "case_dockets_url": "https://clearinghouse.net/api/v2/dockets/?case=44134",
+    "case_resources_url": "https://clearinghouse.net/api/v2/resources/?case=44134"
+  },
+  "documents": [
+    {
+      "date": null,
+      "date_is_estimate": false,
+      "date_not_available": false,
+      "description": null,
+      "document_source": null,
+      "document_status": null,
+      "document_type": null,
+      "order_type": null,
+      "citation_paren": null,
+      "cite_1_page": null,
+      "cite_1_reporter": null,
+      "cite_1_vol": null,
+      "cite_2_page": null,
+      "cite_2_reporter": null,
+      "cite_2_vol": null,
+      "cite_3_page": null,
+      "cite_3_reporter": null,
+      "cite_3_vol": null,
+      "citation_status": null,
+      "court": null,
+      "no_title": false,
+      "party_types": [],
+      "per_curium": false,
+      "is_core_document": true,
+      "id": 137815,
+      "file": null,
+      "title": null,
+      "text": null,
+      "document_type_other": null,
+      "external_url": null,
+      "ecf_number": null,
+      "clearinghouse_link": "clearinghouse.net/doc/137815"
+    },
+    {
+      "date": "2023-03-28",
+      "date_is_estimate": false,
+      "date_not_available": false,
+      "description": "Complaint",
+      "document_source": "PACER [Public Access to Court Electronic Records]",
+      "document_status": "Coding Complete",
+      "document_type": "Complaint",
+      "order_type": null,
+      "citation_paren": null,
+      "cite_1_page": null,
+      "cite_1_reporter": null,
+      "cite_1_vol": null,
+      "cite_2_page": null,
+      "cite_2_reporter": null,
+      "cite_2_vol": null,
+      "cite_3_page": null,
+      "cite_3_reporter": null,
+      "cite_3_vol": null,
+      "citation_status": "Not applicable",
+      "court": "District of Nevada",
+      "no_title": false,
+      "party_types": [
+        "Plaintiff"
+      ],
+      "per_curium": false,
+      "is_core_document": true,
+      "id": 144778,
+      "file": "https://clearinghouse-umich-production.s3.amazonaws.com/media/doc/144778.pdf",
+      "title": "Complaint for Declaratory and Injunctive Relief",
+      "text": "Case 2:23-cv-00455-ART-DJA   Document 1   Filed 03/28/23   Page 1 of 32\n1 Matthew T. Dushoff (NV Bar No. 4975) \nSALTZMAN MUGAN DUSHOFF \n2\n1835 Village Center Circle \nLas Vegas, Nevada 89134 \n3\nTel: (702) 405-8500 \n4 Email: mdushoff@nvbusinesslaw.com \n5\nJustin M. Pearson* \n6 INSTITUTE FOR JUSTICE \n2 S. Biscayne Boulevard, Suite 3180 \n7 Miami, Florida 33131 \nTel: (305) 721-1600 \n8\nEmail: jpearson@ij.org  \n9\nPaul M. Sherman* \n10 Elizabeth L. Sanz* \nINSTITUTE FOR JUSTICE \n11\n901 N. Glebe Road, Suite 900 \nArlington, Virginia 22203 \n12\nTel: (703) 682-9320 \n13 Email: psherman@ij.org  \nbsanz@ij.org  \n14\n*Pro hac vice Petition to be filed\n15\n16 Counsel for Plaintiffs \nUNITED STATES DISTRICT COURT \n17\nDISTRICT OF NEVADA \nLAS VEGAS DIVISION \n18\n19 MICHELLE PRZYBOCKI;   Civil Action No. 2_ : _2_3-  C   V   - _ 0_0_4_5_5___ \nKETAN VAKIL; and \n20\nGOURMEND FOODS, LLC, \n21 COMPLAINT FOR DECLARATORY \nPlaintiffs, \nAND INJUNCTIVE RELIEF \n22\nvs. \n23\nUNITED STATES DEPARTMENT OF \n24\nAGRICULTURE;  \n25 THOMAS J. VILSACK, in his official capacity \nas Secretary of Agriculture;  \n26\nUNITED STATES DEPARTMENT OF \nAGRICULTURE FOOD SAFETY AND \n27\nINSPECTION SERVICE;  \n28\n\nCase 2:23-cv-00455-ART-DJA   Document 1   Filed 03/28/23   Page 2 of 32\n \n1 SANDRA ESKIN, in her official capacity as \nUnited States Deputy Under Secretary for Food \n2\nSafety;  \nUNITED STATES FOOD AND DRUG \n3\nADMINISTRATION; and  \n4 ROBERT CALIFF, in his official capacity as \nCommissioner of the United States Food and \n5\nDrug Administration, \n \n6\nDefendants. \n7\n \nPlaintiffs  Michelle  Przybocki,  Ketan  Vakil,  and  Gourmend  Foods,  LLC  file  this \n8\n9 Complaint for Declaratory and Injunctive Relief and sue the United States Department of \n10\nAgriculture (the “USDA”); Thomas J. Vilsack, in his official capacity as United States Secretary \n11\nof Agriculture; the United States Department of Agriculture Food Safety and Inspection Service \n12\n(“FSIS”); Sandra Eskin, in her official capacity as United States Deputy Under Secretary for Food \n13\nSafety; the United States Food and Drug Administration (the “FDA”); and Robert Califf, in his \n14\n15 official capacity as Commissioner of the United States Food and Drug Administration, as follows: \n16\nINTRODUCTION \n17\n1.  This is a First Amendment challenge on behalf of Michelle Przybocki, a consumer \n18\ndesiring factual information about the ingredients in foods, and Ketan Vikal, who, through his \n19\nsmall  business  Gourmend  Foods,  LLC  (“Gourmend”),  wants  to  convey  this  same  factual \n20\n21 information to Michelle and others like her. That information is about difficult-to-digest sugars \n22\nknown  as  FODMAPs  (an  acronym  for  fermentable  oligosaccharides,  disaccharides, \n23\nmonosaccharides  and  polyols).  Gourmend’s  food  products  are  factually,  verifiably  low-\n24\nFODMAP, and Ketan and Gourmend want to convey this truthful information on the Gourmend \n25\nlabels.  Michelle,  who  is  extremely  sensitive  to  FODMAPs,  wants  to  see  these  facts  on \n26\n27 Gourmend’s and many other businesses’ food labels so that she can improve her quality of life \n28\n2 \n\nCase 2:23-cv-00455-ART-DJA   Document 1   Filed 03/28/23   Page 3 of 32\n \n1 by more easily identifying the foods that will not upset her digestion and aggravate her medical \n2\ncondition.  \n3\n2.  But the federal government categorically bans this truthful speech. Worse, this ban \n4\n(the  “Ban”)  is  not  because  of  any  contention  that  the  information  is  inaccurate,  false,  or \n5\nmisleading in any way—Gourmend’s products are verifiably low-FODMAP, and the Agencies \n6\n7 have not claimed otherwise. Rather, the USDA, FSIS, and the FDA (collectively, the “Agencies”) \n8\nBan the use of the words “low-FODMAP” and related factual statements on food labels simply \n9\nbecause they are not on the Agencies’ outdated list of pre-approved nutrient content information \n10\nthat can be provided on food labels. Moreover, even attempting to change the federal regulations \n11\nto add new information to the preapproved list takes years and far more resources than most \n12\n13 people possess. \n14\n3.  This lawsuit seeks to vindicate the First Amendment free speech rights of Ketan \n15\nand Gourmend to tell the truth on food labels and Michelle’s First Amendment right to receive \n16\nthat truthful information that businesses like Gourmend would voluntarily choose to provide but \n17\nfor the Ban. Put simply, the First Amendment does not allow the government to decide which \n18\n19 facts consumers are allowed to learn.  \n20\nTHE PARTIES \n21\n4.  Plaintiff Michelle Przybocki (pronounced Prizz-bahki) is a citizen and resident of \n22\nthis district and was residing in this district during all the events at issue in this lawsuit. \n23\n5.  Plaintiff Ketan Vakil (pronounced Vah-keel) is a citizen and resident of New York \n24\n25 City, New York. Through his business, Gourmend Foods, LLC, Ketan does business in this \n26\ndistrict. \n27\n28\n3 \n\nCase 2:23-cv-00455-ART-DJA   Document 1   Filed 03/28/23   Page 4 of 32\n \n1 6.  Gourmend Foods, LLC (“Gourmend”) is a New York limited liability company in \n2\ngood standing and doing business in this district. \n3\n7.  Ketan is Gourmend’s managing member and sole member. \n4\n8.  Defendant the United States Department of Agriculture (the “USDA”) is a federal \n5\nagency charged with regulating food labeling and enforcing regulations on food labels, among \n6\n7 other things.  \n8\n9.   Defendant Thomas J. Vilsack is the United States Secretary of Agriculture. \n9\nSecretary  Vilsack  has  direct  authority  over  the  United  States  Department  of  Agriculture’s \n10\npersonnel and is charged with the responsibility of enforcing the related laws, regulations, and \n11\npolicies of the United States. He is being sued only in his official capacity.  \n12\n13 10.  Defendant  the  United  States  Department  of  Agriculture  Food  Safety  and \n14\nInspection Service (“FSIS”) is a federal agency that is part of the United States Department of \n15\nAgriculture and is charged with regulating food labeling.  \n16\n11.   Defendant Sandra Eskin is the United States Deputy Under Secretary for Food \n17\nSafety. Deputy Under Secretary Eskin has direct authority over the United States Department of \n18\n19 Agriculture Food Safety and Inspection Service’s personnel and is charged with the responsibility \n20\nof enforcing the related laws, regulations, and policies of the United States. She is being sued \n21\nonly in her official capacity.  \n22\n12.  Defendant the United States Food and Drug Administration (the “FDA”) is a \n23\nfederal agency charged with regulating food labeling. It is part of the United States Department \n24\n25 of Health and Human Services.  \n26\n13.  Defendant Robert Califf is Commissioner of the United States Food and Drug \n27\nAdministration. Commissioner Califf has direct authority over the United States Food and Drug \n28\n4 \n\nCase 2:23-cv-00455-ART-DJA   Document 1   Filed 03/28/23   Page 5 of 32\n \n1 Administration’s personnel and is charged with the responsibility of enforcing the related laws, \n2\nregulations, and policies of the United States. He is being sued only in his official capacity.  \n3\nJURISDICTION AND VENUE \n4\n14.  Plaintiffs bring this civil rights lawsuit pursuant to the United States Constitution \n5\nand the Declaratory Judgment Act (28 U.S.C. § 2201) for violations of the First Amendment to \n6\n7 the United States Constitution.   \n8\n15.  Plaintiffs seek a declaration that the Ban on the use of “Low FODMAP” and \n9\nrelated truthful statements on food labels violates the First Amendment, as well as both temporary \n10\ninjunctive relief and permanent injunctive relief against enforcement of the Ban. \n11\n16.  This Court has subject matter jurisdiction over this action pursuant to 28 U.S.C. \n12\n13 §§ 1331 (federal question jurisdiction) and 1343(a)(3) (civil rights jurisdiction).  \n14\n17.  Venue lies in this Court pursuant to 28 U.S.C. § 1391(b)(2) and (c)(1). Lead \n15\nPlaintiff Michelle Przybocki resides in this District and has done so since 1976. As a result, most \n16\nof the witnesses for this case are located in this district. Additionally, Plaintiffs Ketan Vakil and \n17\nGourmend Foods, LLC, do business in this district, and the Defendants all operate in this district \n18\n19 as well. \n20\nFACTUAL ALLEGATIONS \n21\nA.  Michelle Przybocki needs to be able to easily identify low-FODMAP foods.  \n22\n18.  Plaintiff Michelle Przybocki is a speech therapist living and working in Las Vegas, \n23\nNevada.  \n24\n25 19.  In 2019, Michelle became very ill and nearly died of digestive complications. \n26\nAfter that, whenever Michelle ate, she would often experience debilitating pain. \n27\n28\n5 \n\nCase 2:23-cv-00455-ART-DJA   Document 1   Filed 03/28/23   Page 6 of 32\n \n1 20.  Michelle learned that she had a severe case of irritable bowel syndrome (“IBS”) \n2\nand that if she wanted to reduce the pain to a manageable level, she should follow a low-FODMAP \n3\ndiet.  \n4\n21.  “FODMAP”  is  an  acronym  that  stands  for  “fermentable  oligosaccharides, \n5\ndisaccharides, monosaccharides, and polyols.”  \n6\n7 22.  FODMAPs are certain carbohydrates, or sugars, that can cause intestinal distress.  \n8\n23.  FODMAPs can be found in certain foods and ingredients that are commonly used \n9\nto impart flavor, such as onions and garlic.  \n10\n24.  FODMAPs are well-known in the mainstream scientific and medical communities. \n11\n25.  IBS is a digestive disorder that affects 10-15% of the American population. The \n12\n13 population of the United States is over 330 million people. That means 33 to 50 million Americans \n14\npotentially suffer from IBS.  \n15\n26.  IBS is not the only digestive disorder that impacts the lives of a substantial number \n16\nof Americans. \n17\n27.  Michelle’s IBS symptoms made daily living a struggle. Often, after Michelle ate, \n18\n19 she would suffer from extreme pain that would immobilize her for many hours.  \n20\n28.  Michelle’s symptoms kept her confined to her home for extended periods of time. \n21\n29.  Michelle’s experience is not unique. \n22\n30.  A low-FODMAP diet is commonly recommended by doctors to people who suffer \n23\nfrom IBS and other intestinal issues. \n24\n25 31.  Studies have shown that most patients report significant improvement of their IBS \n26\nsymptoms when they eliminate FODMAPs from their diet.  \n27\n28\n6 \n\nCase 2:23-cv-00455-ART-DJA   Document 1   Filed 03/28/23   Page 7 of 32\n \n1 32.  For many people, following a low-FODMAP diet is the key to avoiding pain and \n2\nto living a normal life.  \n3\n33.  For these reasons, Michelle decided to follow a low-FODMAP diet.  \n4\n34.  Michelle needed to find low-FODMAP foods to have any chance of living a \n5\nsomewhat-normal life.  \n6\n7 35.  Michelle  spent  countless  hours  searching  for  low-FODMAP  foods,  only  to \n8\ndiscover that prepared and packaged foods almost never provided this information.  \n9\n36.  Because this information was not provided on food labels, it was extremely \n10\ndifficult for Michelle to find food products that were certain to be low-FODMAP.  \n11\n37.  This meant that Michelle would typically spend several hours each time she went \n12\n13 to the grocery store scouring food label ingredient lists in the desperate hope of identifying high-\n14\nFODMAP foods, so she could avoid them.  \n15\n38.  But even careful review of an ingredient list typically will not reveal whether a \n16\nfood is high or low in FODMAPs. \n17\n39.  This is because different parts of the same type of ingredient can be high-\n18\n19 FODMAP or low-FODMAP.  \n20\n40.  For example, one part of a green onion will be low-FODMAP, while the rest of \n21\nthe green onion is high-FODMAP, so an ingredient list that includes “green onions” will be of no \n22\nhelp to someone who is searching for low-FODMAP foods. \n23\n41.  When a food product’s ingredient list features an ingredient that could potentially \n24\n25 be low-FODMAP, that food product might nonetheless still be high-FODMAP. \n26\n42.  Conversely, when a food product’s ingredient list features an ingredient that could \n27\npotentially be high-FODMAP, that food product might nevertheless still be low-FODMAP. \n28\n7 \n\nCase 2:23-cv-00455-ART-DJA   Document 1   Filed 03/28/23   Page 8 of 32\n \n1 43.  This made it extremely difficult for Michelle to find packaged foods indicating \n2\nwhether the foods were low-FODMAP.  \n3\n44.  In the first few months in which Michelle attempted to stop eating high-FODMAP \n4\nfoods,  she  barely  ate  because  she  could  not  find  enough  low-FODMAP  foods,  and  she \n5\nconsequently suffered an unhealthy amount of significant weight loss. \n6\n7 45.  Eventually, Michelle was able to piece together a low-FODMAP diet for herself, \n8\nbut the lack of low-FODMAP labeling continues to negatively impact her quality of life.  \n9\n46.  Michelle desperately needs to know which prepared and packaged foods are low-\n10\nFODMAP.  \n11\n47.  Michelle’s quality of life would be substantially improved if food labels were \n12\n13 allowed to indicate whether the foods were low-FODMAP.  \n14\n48.  Upon information and belief, and given the prevalence of IBS and other digestive \n15\ndisorders in the United States, many food businesses would make more low-FODMAP foods if \n16\nthey were allowed to tell consumers on their food labels that the low-FODMAP foods were indeed \n17\nlow-FODMAP. \n18\n19 49.  Michelle knows of at least one food producer that would provide this truthful, \n20\nfactual low-FODMAP information on its food labels if the Ban were not prohibiting the food \n21\nproducer from communicating that information.  \n22\nB.  Plaintiffs Ketan Vakil and Gourmend want customers to know that their foods \n23\nare low-FODMAP. \n \n24\n50.  Ketan Vakil is an entrepreneur who lives in New York, New York. Ketan has a \n25\nmaster's degree in business administration from New York University.  \n26\n51.  Like Michelle, Ketan suffers from a digestive disorder.  \n27\n28\n8 \n\nCase 2:23-cv-00455-ART-DJA   Document 1   Filed 03/28/23   Page 9 of 32\n \n1 52.  Like  Michelle,  Ketan  has  decided  to  follow  a  low-FODMAP  diet  to  avoid \n2\ndigestive pain. \n3\n53.  Like Michelle, when Ketan tried to find packaged foods with labels indicating that \n4\nthey are low-FODMAP, he found it to be nearly impossible and highly frustrating. \n5\n54.  Ketan loves good food. He developed a few recipes for low-FODMAP broths and \n6\n7 spice blends that helped impart great flavor into his low-FODMAP diet so he could continue to \n8\nenjoy eating. \n9\n55.  Eventually, it occurred to Ketan that others like him with sensitive stomachs might \n10\nappreciate his low-FODMAP recipes.   \n11\n56.  Ketan saw—and experienced for himself—an unmet need in the marketplace: \n12\n13 foods that could be trusted to be low-FODMAP.  \n14\n57.  Not realizing that the lack of options in the marketplace had been caused by the \n15\nfederal  government’s  Ban,  Ketan  decided  to  start  a  business  dedicated  to  producing  low-\n16\nFODMAP foods.  \n17\n58.  In 2018, Ketan founded Gourmend to do just that. \n18\n19 59.  Gourmend is a food business that develops, markets, and sells food products that \n20\nare low-FODMAP. \n21\n60.  Ketan is the sole employee of Gourmend. \n22\n61.  Gourmend  works  with  co-manufacturers  and  co-packers  to  manufacture  and \n23\npackage Gourmend’s products to Gourmend’s specifications. \n24\n25 62.  Gourmend currently sells its food products to consumers throughout the United \n26\nStates. \n27\n28\n9 \n\nCase 2:23-cv-00455-ART-DJA   Document 1   Filed 03/28/23   Page 10 of 32\n \n1 63.  The majority of Gourmend’s sales are over the internet, but some of Gourmend’s \n2\nsales are also through retail stores.  \n3\n64.  Ketan has sought and obtained, and intends to continue seeking and obtaining, \n4\nthird party verification of the fact that Gourmend’s products are low-FODMAP.   \n5\n65.  All of Gourmend’s food products have been verified as low-FODMAP by Monash \n6\n7 University.  \n8\n66.  Monash University is a research university. It is Australia’s largest university and \n9\nis considered to be one of the world’s leading universities.   \n10\n67.  Monash University is recognized as the world leader in the area of low-FODMAP \n11\nfoods and diet.  \n12\n13 68.  Monash University lab-tests food products to measure their FODMAP content.  \n14\n69.  If a food is low-FODMAP according to Monash’s standards, it is considered \n15\nMonash University Low FODMAP Certified. \n16\n70.  If a food product is certified low-FODMAP by Monash University, Monash \n17\nUniversity permits the food manufacturer to include the Monash University Low FODMAP \n18\n19 Certified  stamp  of  approval  and  trademarks  on  product  packaging,  promotional  materials, \n20\nwebsites, social media, in-store advertising, and more.  \n21\n71.  Monash University has lab-tested each of Gourmend’s food products. \n22\n72.  Each  of  Gourmend’s  food  products  are  certified  low-FODMAP  by  Monash \n23\nUniversity. Gourmend has the right to use the Monash University Low FODMAP Certified stamp \n24\n25 of approval and trademarks.  \n26\n73.  By the summer of 2022, Gourmend was selling five products. These consisted of \n27\nfour low-FODMAP spice blends and one low-FODMAP chicken broth.  \n28\n10 \n\nCase 2:23-cv-00455-ART-DJA   Document 1   Filed 03/28/23   Page 11 of 32\n \n1 74.  Ketan  included  the  Monash  University  Low  FODMAP  Certified  stamp  of \n2\napproval and/or trademarks on each Gourmend product label. \n3\n75.  Also included on all Gourmend labels at the time were other true, non-misleading, \n4\nstatements  regarding  Gourmend’s  low-FODMAP  foods.  These  provided  information  to \n5\nconsumers that the products: (i) were low-FODMAP; (ii) were for the amount of one serving low \n6\n7 in FODMAPs; and (ii) were Monash low-FODMAP certified. \n8\n76.  Gourmend has since added additional related information to its labels informing \n9\nconsumers that the food products are “deliciously digestible” and “gut loving.” \n10\n77.  For example, the following is a true and correct image of Gourmend’s current \n11\nchicken broth labels with the low-FODMAP information: \n12\n13\n14\n15\n16\n17\n18\n19\n20\n21\n22\n23\n24\n25\n26\n27\n \n28\n11 \n\nCase 2:23-cv-00455-ART-DJA   Document 1   Filed 03/28/23   Page 12 of 32\n \n1 78.  In the summer of 2022, Ketan was ready to expand the Gourmend product line to \n2\ninclude low-FODMAP beef broth.  \n3\n79.  Gourmend attempted to include on its initial low-FODMAP beef broth label the \n4\nsame low-FODMAP information that is included on its low-FODMAP chicken broth label.  \n5\n80.  Ketan and Gourmend intend to sell additional low-FODMAP products with this \n6\n7 labeling information, but the Ban has delayed them from doing so. \n8\nC.  The USDA and FDA have jurisdiction over different food products, but  \n    low-FODMAP information is banned from food labels regardless. \n9\n \n10 81.  The labels on Gourmend’s products are regulated by the USDA, FSIS, and the \n11\nFDA. \n12\n82.  Specifically, the USDA (and therefore FSIS) has jurisdiction over the label for \n13\nGourmend’s low-FODMAP beef broth, while the FDA has jurisdiction over Gourmend’s low-\n14\nFODMAP chicken broth and spice blend labels.  \n15\n16 83.  The USDA has jurisdiction over products containing meat, including beef broth. \n17\n21 U.S.C. §§ 601 et seq. (the Federal Meat Inspection Act (“FMIA”)). Specifically, § 607 of the \n18\nFMIA empowers the USDA to regulate food labels.  \n19\n84.  The Food Safety and Inspection Service (“FSIS”), an agency within the USDA, \n20\nhas been delegated the primary responsibility of regulating meat products under the FMIA, \n21\n22 including the regulation of labels. 7 C.F.R. § 2.18(a)(1)(ii)(B) and § 2.53(a)(2)(ii).  \n23\n85.  The FDA has jurisdiction over food labeling for foods under its purview pursuant \n24\nto 21 U.S.C. §§ 301 et seq. (the Federal Food, Drug, and Cosmetic Act (“FFDCA”)) and 15 U.S.C. \n25\n§§ 1451 et seq. (the Fair Packaging and Labeling Act (“FPLA”)).  \n26\n27\n28\n12 \n\nCase 2:23-cv-00455-ART-DJA   Document 1   Filed 03/28/23   Page 13 of 32\n \n1 86.  21 U.S.C § 607(d) provides that “no article subject to [the FMIA] shall be sold . . . \n2\nunder any name or other marking or labeling which is false or misleading . . . but established trade \n3\nnames and other marking and labeling and containers which are not false or misleading and which \n4\nare approved by the Secretary are permitted.” \n5\n87.  21 U.S.C § 607(e) provides that “[i]f the Secretary has reason to believe that any \n6\n7 marking or labeling . . . in use or proposed for use with respect to any article subject to [the FMIA \n8\n/ the PPIA] is false or misleading in any particular, he may direct that such use be withheld unless \n9\nthe marking, labeling, or container is modified in such manner as he may prescribe so that it will \n10\nnot be false or misleading.” \n11\n88.  21 U.S.C § 601(n)(1) and 21 U.S.C. § 343(a) provide that a food is “misbranded,” \n12\n13 and therefore violates the FMIA or FFDCA, if the food’s label “is false or misleading in any \n14\nparticular.” \n15\n89.  21 U.S.C. § 343(a) states, similar to the FMIA, that a food product is misbranded \n16\nif “its labeling is false or misleading in any particular[.]” \n17\n90.  The FMIA and FFCDA both define “label,” in relevant part, as “a display of \n18\n19 written, printed, or graphic matter upon the immediate container (not including package liners) \n20\nof any article.” 21 U.S.C. § 601(o) and § 321(k). \n21\n91.  The FMIA and FFCDA both define “labeling” as “all labels and other written, \n22\nprinted, or graphic matter (1) upon any article or any of its containers or wrappers, or (2) \n23\naccompanying such article.” 21 U.S.C. § 601(p) and 21 U.S.C. § 321(m). \n24\n25 92.  This definition of “labeling” is broad, making the regulations applicable not only \n26\nto product labels, but also to materials that accompany the product. For instance, the definition \n27\ncan encompass point-of purchase materials.  \n28\n13 \n\nCase 2:23-cv-00455-ART-DJA   Document 1   Filed 03/28/23   Page 14 of 32\n \n1 93.  Congress has directed the USDA and the FDA to consult and cooperate as to \n2\nlabeling standards to avoid inconsistency. 21 U.S.C. § 607(c); 15 U.S.C. § 1455(c). As a result, \n3\nthe USDA’s and the FDA’s food labeling regulations largely mirror each other, and regulators at \n4\nthe Agencies can, and regularly do, consult with one another regarding food labeling.  \n5\n94.  The relevant federal regulations include 9 C.F.R. § 317.313, which states when \n6\n7 nutrient content claims are allowed. \n8\n95.  The result is that “implied” or “undefined” nutrient content claims are not allowed \n9\non food labels (the “Ban”). \n10\n96.  For the purposes of determining whether a nutrient content claim is Banned for \n11\nbeing “implied” or “undefined,” “defined” means defined in the federal regulations.  \n12\n13 97.   For  example,  the  nutrient  content  claim  “low-fat”  is  defined  in  the  federal \n14\nregulations and can therefore be used on food labels if the use is consistent with the federal \n15\nregulations. \n16\n98.  Any nutrient content claims that are not defined in the federal regulations are \n17\nBanned from being used on food labels. \n18\n19 99.  Any nutrient content claims that are merely implied are Banned from being used \n20\non food labels. \n21\n100.  Because low-FODMAP statements are not defined in the federal regulations, they \n22\nare considered either “undefined” or “implied” and are therefore Banned. \n23\nD.  The USDA and FSIS require sellers to obtain preapproval before using food \n24\n    labels, while the FDA does not, but all three Agencies are causing speech to be \n25     chilled. \n \n26\n101.  The USDA, through FSIS, has promulgated rules regulating the content and design \n27\nof meat product labels. 9 C.F.R. §§ 317.1 et seq.  \n28\n14 \n\nCase 2:23-cv-00455-ART-DJA   Document 1   Filed 03/28/23   Page 15 of 32\n \n1 102.  The FDA has promulgated rules regulating the content and design of food labels. \n2\n21 C.F.R. §§ 101.1 et seq. \n3\n103.  Even though USDA and FDA food labeling standards and regulations mirror each \n4\nother, the USDA and the FDA enforce those standards and regulations differently.  \n5\n104.  The relevant USDA enabling statute, the FMIA, provides that “established trade \n6\n7 names and other marking and labeling and containers which are not false or misleading and which \n8\nare approved by the Secretary are permitted.” 21 U.S.C § 607(d). \n9\n105.  The USDA interprets these provisions as mandating that USDA must preapprove \n10\nfood labels before those foods can be offered for sale. Therefore, before a food seller is legally \n11\npermitted to offer a food product for sale, it must get its label pre-approved by the USDA (through \n12\n13 FSIS).  \n14\n106.  The relevant FDA enabling statutes do not have a similar provision. They simply \n15\nprovide  that  misbranded  labels  are  prohibited  and  that  the  Secretary  has  the  authority  to \n16\npromulgate regulations “for the efficient enforcement of [the statute].” 21 U.S.C. 331(a); 21 \n17\nU.S.C. 371(a).  \n18\n19 107.  The FDA has not adopted the USDA’s label pre-approval requirement. Instead, \n20\nthe FDA monitors compliance through surveillance of products already on the market and \n21\nenforces its regulations by sending “warning letters” to food manufacturers.  \n22\n108.  21 U.S.C § 610(c) (FMIA) and 21 U.S.C. § 331 (FFDCA) prohibit the introduction \n23\nof misbranded food into interstate commerce.  \n24\n25 109.  Pursuant to 21 U.S.C. § 676(a) and 21 U.S.C. § 333(a), each violation can result \n26\nin imprisonment of up to one year, a fine of up to $1,000, or both. \n27\n28\n15 \n\nCase 2:23-cv-00455-ART-DJA   Document 1   Filed 03/28/23   Page 16 of 32\n \n1 110.  FSIS may also prohibit the shipment or sale of product (21 U.S.C. § 672; 9 C.F.R. \n2\n§ 500.2)), refuse to allow the marks of inspection to be applied to products (21 U.S.C. § 671; 9 \n3\nC.F.R. § 500.3)), and initiate seizure and condemnation proceedings (21 U.S.C. § 673). \n4\n111.  The fact that the USDA and FSIS require food label preapproval for the types of \n5\nfoods under the USDA’s and FSIS’s jurisdiction means that, because of the Ban, the USDA and \n6\n7 FSIS prevent low-FODMAP information from being provided on those food labels. \n8\n112.  If a food seller attempts to obtain label preapproval from the USDA or FSIS for a \n9\nlabel that includes low-FODMAP information, the USDA and FSIS will refuse to approve the \n10\nlabel until such time as the low-FODMAP information is approved. \n11\n113.  Upon  information  and  belief,  the  USDA  and  FSIS  are  aware  that  the  low-\n12\n13 FODMAP information is truthful, verifiable, factual information that could help tens of millions \n14\nof Americans. \n15\n114.  The USDA and FSIS enforce the Ban anyway. \n16\n115.  The  FDA  does  not  require  food  label  preapproval  for  the  foods  under  its \n17\njurisdiction.  \n18\n19 116.  The FDA enforces the Ban. \n20\n117.  The FDA’s most-common manner of enforcing the Ban is by sending letters (often \n21\nreferred to as “warning letters” or “dear manufacturer letters”) instructing the food sellers that \n22\nthey are violating the Ban and must stop providing information on their labels informing \n23\nconsumers that the food products are low-FODMAP. \n24\n25 118.  In addition to sending “warning letters” and “dear manufacturer letters,” the threat \n26\nof FDA enforcement caused by the fact that Ban exists chills speech. \n27\n28\n16 \n\nCase 2:23-cv-00455-ART-DJA   Document 1   Filed 03/28/23   Page 17 of 32\n \n1 119.  Neither the FDA, the USDA, nor FSIS has ever publicly stated that the Ban will \n2\nnot be enforced. \n3\n120.  Neither the FDA, the USDA, nor FSIS has ever publicly stated that the food sellers \n4\ndo not need to comply with the Ban. \n5\n121.  Upon  information  and  belief,  the  FDA  is  aware  that  the  low-FODMAP \n6\n7 information  is  truthful,  verifiable,  factual  information  that  could  help  tens  of  millions  of \n8\nAmericans. \n9\n122.  The FDA enforces the Ban anyway. \n10\nE.  Gourmend applied for low-FODMAP label approval and was denied. \n11\n123.  In July 2022, Gourmend, through its co-packer, submitted its low-FODMAP beef \n12\n13 broth label to FSIS for preapproval.  \n14\n124.  That is when Ketan learned that his truthful labels were illegal. \n15\n125.  Prior to July 2022, Gourmend had not had any complaints or legal problems. \n16\nIndeed, other than the events discussed in this Complaint, Gourmend has still experienced no \n17\nother complaints or legal problems. \n18\n19 126.  For Gourmend’s low-FODMAP beef broth, Ketan included the same truthful, \n20\nfactual, low-FODMAP statements that are included on all Gourmend’s other labels. \n21\n127.  Gourmend’s beef broth is factually, verifiably low-FODMAP, and the statements \n22\non its label about the fact that it is low-FODMAP were neither false nor misleading.  \n23\n128.  But when Gourmend, through its co-packer, submitted the label for pre-approval, \n24\n25 FSIS demanded Ketan “remove all references to digestible, gut loving, and fodmap.”  \n26\n27\n28\n17 \n\nCase 2:23-cv-00455-ART-DJA   Document 1   Filed 03/28/23   Page 18 of 32\n \n1 129. The USDA expressly instructed Gourmend that Gourmend’s low-FODMAP beef \n2\nbroth label could not receive the necessary preapproval unless it removed all references to being \n3\nlow-FODMAP or easy to digest. \n4\n130.  The USDA expressly instructed Gourmend that no versions of these statements \n5\ncould be made because these entire categories of statements were banned from being included on \n6\n7 food labels as a result of the Ban. \n8\n131.  The USDA expressly instructed Gourmend that nothing could be done to fix these \n9\nstatements other than to remove them because these entire categories of statements were banned \n10\nfrom being included on food labels as a result of the Ban. \n11\n132.  When  Gourmend  expressed  its  dissatisfaction  with  the  USDA’s  and  FSIS’s \n12\n13 official position, the FSIS Deputy Director of Labeling and Program Delivery, Jeffrey Canavan, \n14\ninstructed  Gourmend  on  September  20,  2022,  that  USDA  and  FSIS  staff  had  discussed \n15\nGourmend’s labels with their colleagues at the FDA and that the FDA agreed with the USDA’s \n16\nand FSIS’s position that these types of statements were categorically banned. \n17\n133.  Deputy Director Canavan explained to Gourmend that the Agencies consider the \n18\n19 term “Low FODMAP” and any related factual statements to be undefined nutrient content claims.  \n20\n134.  FSIS defines a nutrient content claim as “[a] claim, which, expressly or by \n21\nimplication, characterizes the level of a nutrient . . . of the type required in nutrition labeling[.]” \n22\n9 C.F.R. § 317.313(b).   \n23\n135.  Similarly, the FDA defines a nutrient content claim as a claim “that expressly or \n24\n25 implicitly characterizes the level of a nutrient of the type required to be in nutrition labeling[.]” \n26\n21 C.F.R. § 101.13(b). \n27\n28\n18 \n\nCase 2:23-cv-00455-ART-DJA   Document 1   Filed 03/28/23   Page 19 of 32\n \n1 136.  An “expressed nutrient content claim” is any direct statement about the level of a \n2\nnutrient in the product,” with one example being “low sodium.” 9 C.F.R. § 317.313(b)(1); 21 \n3\nC.F.R. § 101.13(b)(1). \n4\n137.  FSIS and the FDA prohibit the use of any nutrient content claims that are not \n5\nspecifically defined in the regulations. 9 C.F.R. § 317.313(b); 21 C.F.R. § 101.13(b). See also \n6\n7 FSIS guidance document A Guide to Federal Food Labeling Requirements for Meat, Poultry, and \n8\nEgg Products, at 73, and FDA guidance document Guidance for Industry: Food Labeling Guide, \n9\nat 72. \n10\n138.  Deputy Director Canavan informed Gourmend that “FSIS regulations define ‘low’ \n11\nand  ‘high’  for  various  nutrients  but  do  not  define  ‘low  FODMAP.’”  Furthermore, \n12\n13 “oligosaccharides, disaccharides, and monosaccharides [the O, D and M in “FODMAP”] are a \n14\nsubset of carbohydrates, and FSIS does not have nutrient content claims for carbohydrates.”  \n15\n139.  In other words, the USDA, FSIS, and the FDA enforce a pre-approved and \n16\nexclusive list of the statements that can be made about nutrient contents in food. This list is in the \n17\nfederal regulations, and if a nutrient content claim does not appear on this list, then it cannot be \n18\n19 lawfully used on a food label. \n20\n140.  Deputy  Director  Canavan  explained  that  Gourmend’s  factual  claims  about \n21\nFODMAPs are not on that list and that it is therefore illegal for Gourmend to make those claims. \n22\n141.  At no point has the USDA, FSIS, the FDA, or anyone else ever claimed that \n23\nGourmend’s low-FODMAP statements were false or misleading. \n24\n25 142.  As explained by Deputy Director Canavan, the entire reason Gourmend could not \n26\ntell consumers on its food labels that its low-FODMAP products were low-FODMAP was that \n27\n28\n19 \n\nCase 2:23-cv-00455-ART-DJA   Document 1   Filed 03/28/23   Page 20 of 32\n \n1 this information was prohibited by the Ban because this information does not appear in the \n2\nregulations’ list of preapproved nutrient content claims. \n3\n143.  Deputy Director Canavan was correct that the truthful statements that Gourmend \n4\nwould like to make on its labels about its foods being low-FODMAP are not on the Agencies’ \n5\npreapproved list and are therefore prohibited by the federal regulations’ Ban. \n6\n7 144.  As  a  result,  Gourmend  did  not  appeal  the  USDA’s  determination.  Instead, \n8\nGourmend was forced to amend its application to remove the low-FODMAP statements from its \n9\nbeef broth label, after which the USDA approved the label. \n10\n145.  Gourmend is currently selling its low-FODMAP beef broth, but because of the \n11\nBan, the label cannot inform consumers that it is low-FODMAP. \n12\n13 146.  If Gourmend were to reapply, this truthful, factual information would again be \n14\nrejected by the USDA because the regulations continue to ban this information. \n15\n147.  The following is a true and correct image of the beef broth label with low-\n16\nFODMAP information that Gourmend would be using today but for the Ban: \n17\n18\n19\n20\n21\n22\n23\n24\n25\n26\n27\n28\n20 \n\nCase 2:23-cv-00455-ART-DJA   Document 1   Filed 03/28/23   Page 21 of 32\n \n1\n2\n3\n4\n5\n6\n7\n8\n9\n10\n11\n12\n13\n14\n15\n16\n17\n18\n19\n20\n21\n22\n23\n \n24\n25 148.  The following is a true and correct copy of the beef-broth label without the low-\n26 FODMAP information that Gourmend is currently forced to use because of the Ban: \n27\n28\n21 \n\nCase 2:23-cv-00455-ART-DJA   Document 1   Filed 03/28/23   Page 22 of 32\n \n1\n2\n3\n4\n5\n6\n7\n8\n9\n10\n11\n12\n13\n14\n15\n16\n17\n18\n19\n20\n21\n22\n \n23\n149.  The Ban is unconstitutional. \n24\n25 150.  If  Plaintiffs  were  to  prevail  in  this  lawsuit,  Gourmend  would  reapply  for \n26 preapproval of its preferred beef broth label with the low-FODMAP information, and the label \n27\nwould be approved by the UDSA. \n28\n22 \n\nCase 2:23-cv-00455-ART-DJA   Document 1   Filed 03/28/23   Page 23 of 32\n \n1 151.  Gourmend has not yet received a “warning letter” or “dear manufacturer letter” \n2\nfrom the FDA regarding the labels for its low-FODMAP spices and low-FODMAP chicken broth. \n3\n152.  Based on Gourmend’s communications with the USDA and FSIS, as well as the \n4\nUSDA’s  and  FSIS’s  communications  with  the  FDA  about  Gourmend’s  labels,  there  is  a \n5\nheightened risk that Gourmend will soon receive a “warning letter” or “dear manufacturer letter” \n6\n7 instructing Gourmend to cease informing consumers that its seasoning mixes and chicken broth \n8\nare low-FODMAP.  \n9\n153.  Based on Gourmend’s communications with the USDA and FSIS, it is clear that \n10\nthe labels for the additional low-FODMAP food products that Gourmend intends to sell in the \n11\nfuture would also violate the Ban. As a result, Gourmend has delayed further development of \n12\n13 these additional food products. \n14\nINJURY TO PLAINTIFFS \n15\n154.  Michelle wants businesses, including but not limited to Gourmend, to convey the \n16\ntruthful information on their labels that their low-FODMAP food products are indeed low-\n17\nFODMAP.  \n18\n19 155.  By depriving Michelle of this truthful, factual information, the Ban has materially \n20\nharmed Michelle’s quality of life. \n21\n156.  The Ban has materially harmed the quality of life of millions of Americans. \n22\n157.  Gourmend and other sellers of low-FODMAP food products want to convey this \n23\nlow-FODMAP information to Michelle and other customers. \n24\n25 158.  But for the Ban, Gourmend would be providing more low-FODMAP information \n26\non its food labels to consumers. \n27\n159.  The Ban has censored the speech on Gourmend’s beef broth label. \n28\n23 \n\nCase 2:23-cv-00455-ART-DJA   Document 1   Filed 03/28/23   Page 24 of 32\n \n1 160.  Because of the Ban, Ketan is considering removing the low-FODMAP information \n2\nfrom the labels for Gourmend’s chicken broth and spice blends. \n3\n161.  The Agencies enforce the Ban. \n4\n162.  The Ban and the Agencies’ enforcement of the Ban are chilling Ketan’s speech. \n5\n163.   In addition to Gourmend’s beef broth label, the Ban has further chilled Ketan and \n6\n7 Gourmend’s speech by causing them to delay plans for additional speech and additional low-\n8\nFODMAP food products. \n9\n164.  Upon information and belief, but for the Ban, other businesses would be providing \n10\nmore low-FODMAP information on their food labels to consumers. \n11\n165.  Upon  information  and  belief,  the  presence  of  factual  and  non-misleading \n12\n13 statements on food products that low-FODMAP food products are indeed low-FODMAP would \n14\nimprove the quality of life of millions of Americans. \n15\n166.  The Agencies’ Ban on the factual, non-misleading claim “Low FODMAP” and \n16\nrelated  factual,  non-misleading  claims  about  foods  being  low-FODMAP  does  not  protect \n17\nconsumers but instead harms them. \n18\n19 167.  The Agencies’ censorship of low-FODMAP information on food labels directly \n20\nresults in consumers being kept ignorant of or confused about the content of the foods they \n21\npurchase.  \n22\n168.  Selling Gourmend products without complying with the Ban could result in \n23\nsubstantial fines for Gourmend and numerous other problems, including possible forced closure \n24\n25 of the business.  \n26\n169.  Selling Gourmend products without complying with the Ban could result in \n27\nincarceration of up to one year per offense for Ketan.  \n28\n24 \n\nCase 2:23-cv-00455-ART-DJA   Document 1   Filed 03/28/23   Page 25 of 32\n \n1 170.  Selling Gourmend products without complying with the Ban could result in the \n2\nseizure and condemnation of Gourmend products being shipped across state lines. \n3\n171.  Low-FODMAP foods, including Gourmend’s products, are legal to sell across \n4\nstate lines, provided that labeling requirements are met. \n5\n172.  Other than the labeling requirements challenged here, Gourmend has met all \n6\n7 USDA and FDA requirements for the sale across state lines of its beef broth, chicken broth and \n8\nspice blends.  \n9\n173.  But for the Ban, Michelle would currently be receiving factual, non-misleading \n10\ninformation on each Gourmend product package that the product is low-FODMAP.  \n11\n174.  But for the Ban, Gourmend would be selling its beef broth with an honest, accurate, \n12\n13 non-misleading label providing useful information to consumers that its beef broth is low-\n14\nFODMAP. Instead, it is forced to exclude this truthful, verifiable, factual information from its \n15\nbeef broth label. \n16\n175.  But for the Ban, Gourmend would be truthfully labeling its beef broth as low-\n17\nFODMAP and providing related, truthful statements about the fact that its beef broth is low-\n18\n19 FODMAP. \n20\n176.  If Gourmend were allowed to provide low-FODMAP information on its low-\n21\nFODMAP beef broth, then it would do so. \n22\n177.  Because  its  customers  prefer  low-FODMAP  foods,  Gourmend  is  suffering \n23\nongoing and irreparable harm each day it is not allowed to sell its low-FODMAP beef broth with \n24\n25 an honest, non-misleading label describing its low-FODMAP beef broth as low-FODMAP. \n26\n27\n28\n25 \n\nCase 2:23-cv-00455-ART-DJA   Document 1   Filed 03/28/23   Page 26 of 32\n \n1 178.  Michelle, Gourmend’s customers, and the general public have been harmed by \n2\nGourmend’s inability to lawfully offer low-FODMAP beef broth with an honest, non-misleading \n3\nlabel discussing the fact that it is low-FODMAP due to the Ban.  \n4\n179.  USDA,  FSIS,  and  FDA  procedures  are  inadequate  to  prevent  this  ongoing \n5\nirreparable injury. \n6\n7 180.  Any additional efforts to contact the USDA, FSIS, or the FDA to attempt to resolve \n8\nthese issues would be futile. \n9\n181.  The USDA, FSIS, and the FDA do not have the power to grant the relief Plaintiffs \n10\nseek without an order from this Court. \n11\n182.  Plaintiffs are not required to attempt to change federal regulations before bringing \n12\n13 a First Amendment challenge to those same federal regulations. \n14\nFIRST CAUSE OF ACTION: MICHELLE’S RIGHT TO FIRST AMENDMENT \nFREEDOM OF SPEECH AS A RECIPIENT OF INFORMATION \n15\n \n16 183.  Plaintiffs  incorporate  and  re-allege  the  allegation  contained  in  paragraphs  1 \n17\nthrough 182 of this Complaint as if fully set forth herein.  \n18\n184.  This cause of action is brought under the First Amendment of the United States \n19\nConstitution, which provides that “Congress shall make no law . . . abridging the freedom of \n20\nspeech.” \n21\n22 185.  The Free Speech Clause of the First Amendment protects the right of individuals, \n23\nentrepreneurs, and businesses and to express themselves—including through food labels. It also \n24\nprotects the right of consumers to read or hear that speech that businesses would voluntarily \n25\nchoose to provide, so that the consumers can consider it in making their purchasing decisions. \n26\n27\n28\n26 \n\nCase 2:23-cv-00455-ART-DJA   Document 1   Filed 03/28/23   Page 27 of 32\n \n1 186.   Indeed,  one  of  the  most-important  cases  in  modern  commercial  speech \n2\njurisprudence was a case brought by consumers who challenged a restriction on price advertising \n3\nand prevailed at the United States Supreme Court. See Va. State Bd. of Pharm. v. Va. Citizens \n4\nConsumer Council, Inc., 425 U.S. 748 (1976). \n5\n187.  Labeling low-FODMAP foods as being low FODMAP is truthful, verifiable, non-\n6\n7 misleading speech about lawful activity. \n8\n188.  Labeling low-FODMAP foods with information about how the foods are low \n9\nFODMAP is truthful, verifiable, non-misleading speech about lawful activity. \n10\n189.  All the information that Michelle seeks is truthful, verifiable, non-misleading \n11\nspeech about lawful activity. \n12\n13 190.  But for the Ban, more businesses would provide this information on their labels. \n14\n191.  The businesses that would provide more low-FODMAP information on their food \n15\nlabels but for the Ban include Gourmend. \n16\n192.   Upon information and belief, many additional businesses would provide more \n17\nlow-FODMAP information on their food labels but for the Ban. \n18\n19 193.  If more businesses provided low-FODMAP information on their food labels, \n20\nMichelle would use this information while making purchasing decisions. \n21\n194.  If more businesses provided low-FODMAP information on their food labels, it \n22\nwould materially improve Michelle’s quality of life. \n23\n195.  By banning the honest, accurate, non-misleading description of low-FODMAP \n24\n25 foods, the Ban has violated Michelle’s First Amendment rights. \n26\n27\n28\n27 \n\nCase 2:23-cv-00455-ART-DJA   Document 1   Filed 03/28/23   Page 28 of 32\n \n1 196.  The Ban irreparably harms Michelle by denying her access to truthful information \n2\nthat food sellers would voluntarily choose to provide about lawful goods in the marketplace but \n3\nfor the Ban. \n4\n197.  The irreparable harm that the Ban is causing to Michelle is ongoing. \n5\n198.  The Ban also irreparably harms other consumers by denying them access to \n6\n7 truthful information that food sellers would voluntarily choose to provide about lawful goods in \n8\nthe marketplace but for the Ban, and this irreparable harm is ongoing. \n9\n199.  The Ban is a content-based restriction on speech. \n10\n200.  Banning the use of certain terms like “Low FODMAP” is inherently content based. \n11\n201.   Banning statements related to the fact that a food is low FODMAP is inherently \n12\n13 content based. \n14\n202.  Moreover, even if the Ban were not content based, it would still violate the First \n15\nAmendment’s guarantee of freedom of speech. \n16\n203.  The Ban results in the suppression of truthful speech about the sale of lawful \n17\nproducts. \n18\n19 204.  The Ban results in Michelle and other consumers not getting highly valuable \n20\ninformation that can have a significant impact on their quality of life. \n21\n205.  The Ban does not satisfy any level of First Amendment scrutiny. \n22\n206.  The Ban does not further any legitimate governmental interests at all and only \n23\nharms the public. \n24\n25 207.  The Ban facially violates Michelle’s right to free speech guaranteed by the First \n26\nAmendment to the United States Constitution. \n27\n28\n28 \n\nCase 2:23-cv-00455-ART-DJA   Document 1   Filed 03/28/23   Page 29 of 32\n \n1 208.  As applied to Michelle, the Ban violates her right to free speech guaranteed by the \n2\nFirst Amendment to the United States Constitution. \n3\n209.  Unless Defendants are enjoined from enforcing the Ban, Michelle will continue to \n4\nsuffer ongoing irreparable harm. \n5\nSECOND CAUSE OF ACTION: KETAN’S AND GOURMEND’S RIGHT TO FIRST \n6\nAMENDMENT FREEDOM OF SPEECH \n7  \n210.  Plaintiffs  incorporate  and  re-allege  the  allegation  contained  in  paragraphs  1 \n8\nthrough 182 of this Complaint as if fully set forth herein.  \n9\n10 211.  This cause of action is brought under the First Amendment of the United States \n11\nConstitution, which provides that “Congress shall make no law . . . abridging the freedom of \n12\nspeech.” \n13\n212.  The Free Speech Clause of the First Amendment protects the right of individuals, \n14\nentrepreneurs, and businesses to express themselves—including through food labels. It also \n15\n16 protects the right of consumers to read or hear that speech and consider it in making their \n17\npurchasing decisions. \n18\n213.  Labeling low-FODMAP foods as being low FODMAP is truthful, verifiable, non-\n19\nmisleading speech about lawful activity. \n20\n214.  All the information that Gourmend would like to provide on its food labels consists \n21\n22 of truthful, verifiable, non-misleading speech about lawful activity. This includes (i) “low \n23\nFODMAP”; (ii) “1 serving low in FODMAP”; (iii) “low FODMAP certified”; (iv) “deliciously \n24\ndigestible”; and (v) “gut loving.” \n25\n215.  By banning the honest, accurate, non-misleading description of low-FODMAP \n26\nfoods, the Ban has abridged the freedom of speech of Ketan Vakil and Gourmend Foods, LLC, \n27\n28\n29 \n\nCase 2:23-cv-00455-ART-DJA   Document 1   Filed 03/28/23   Page 30 of 32\n \n1 and of anyone who would otherwise sell perfectly safe, low-FODMAP food products with an \n2\nhonest, accurate, non-misleading label. \n3\n216.  The Ban irreparably harms Gourmend by preventing it from engaging in truthful \n4\nspeech about lawful goods that it wants to sell. \n5\n217.  The Ban also irreparably harms consumers by denying them access to truthful \n6\n7 information that food sellers would voluntarily choose to provide about lawful goods in the \n8\nmarketplace but for the Ban. \n9\n218.  The Ban is a content-based restriction on speech. \n10\n219.  Banning the use of certain terms like “Low FODMAP” is inherently content based. \n11\n220.  Moreover, even if the Ban were not content based, it would still violate the First \n12\n13 Amendment’s guarantee of freedom of speech. \n14\n221.   Banning statements related to the fact that a food is low FODMAP is inherently \n15\ncontent based. \n16\n222.  The Ban results in the suppression of truthful speech about the sale of lawful \n17\nproducts. \n18\n19 223.  The Ban prevents Ketan, Gourmend, and other businesses from providing highly \n20\nvaluable information to consumers. \n21\n224.  The Ban does not satisfy any level of First Amendment scrutiny. \n22\n225.  The Ban does not further any legitimate government interests at all and only causes \n23\nharm to the public. \n24\n25 226.  The Ban facially violates Ketan’s and Gourmend’s right to free speech guaranteed \n26\nby the First Amendment to the United States Constitution. \n27\n28\n30 \n\nCase 2:23-cv-00455-ART-DJA   Document 1   Filed 03/28/23   Page 31 of 32\n \n1 227.  As applied to Ketan and Gourmend, the Ban violates their right to free speech \n2\nguaranteed by the First Amendment to the United States Constitution. \n3\n228.  Unless Defendants are enjoined from enforcing the Ban, Ketan and Gourmend will \n4\ncontinue to suffer ongoing irreparable harm. \n5\nPRAYER FOR RELIEF \n6\n7 WHEREFORE, Plaintiffs pray for judgment as follows: \n8\nA.  An entry of judgment declaring that, both facially and as applied to Michelle \n9\nPrzybocki, the Ban violates the First Amendment to the United States Constitution; \n10\nB.  An entry of judgment declaring that, both facially and as applied to Ketan Vakil \n11\nand  Gourmend  Foods,  LLC,  the  Ban  violates  the  First  Amendment  to  the  United  States \n12\n13 Constitution; \n14\nC.  A temporary injunction prohibiting Defendants or their agents from enforcing the \n15\nBan. \n16\nD.  A permanent injunction prohibiting Defendants or their agents from enforcing the \n17\nBan. \n18\n19 E.   An award of attorneys’ fees, costs, and expenses in this action; and \n20\nF.   Any other legal or equitable relief to which Plaintiffs may show themselves to be \n21\njustly entitled.  \n22\nRESPECTFULLY SUBMITTED on this 28th day of March, 2023. \n23\n/s/ Matthew T. Dushoff \n24\nMatthew T. Dushoff (NV Bar No. 4975) \n25 SALTZMAN MUGAN DUSHOFF \n1835 Village Center Circle \n26\nLas Vegas, Nevada 89134 \nTel: (702) 405-8500 \n27\nEmail: mdushoff@nvbusinesslaw.com \n28\n31 \n\nCase 2:23-cv-00455-ART-DJA   Document 1   Filed 03/28/23   Page 32 of 32\n \n1  \nJustin M. Pearson (FL Bar No. 597791)* \n2\nINSTITUTE FOR JUSTICE \n2 S. Biscayne Boulevard, Suite 3180 \n3\nMiami, Florida 33131 \n4 Tel: (305) 721-1600 \nEmail: jpearson@ij.org  \n5\n \nPaul M. Sherman (VA Bar No. 73410)* \n6\nElizabeth L. Sanz (CA Bar No. 340538)* \n7 INSTITUTE FOR JUSTICE \n901 N. Glebe Road, Suite 900 \n8\nArlington, Virginia 22203 \nTel: (703) 682-9320 \n9\nEmail:  psherman@ij.org  \n10 bsanz@ij.org  \n \n11\n*Pro hac vice Petition to be filed \n \n12\nCounsel for Plaintiffs \n13  \n \n14\n \n15\n16\n17\n18\n19\n20\n21\n22\n23\n24\n25\n26\n27\n28\n32 ",
+      "document_type_other": null,
+      "external_url": "https://www.courtlistener.com/docket/67110468/1/przybocki-v-united-states-department-of-agriculture/",
+      "ecf_number": "1",
+      "clearinghouse_link": "clearinghouse.net/doc/144778"
+    }
+  ],
+  "document_count": 2
+}

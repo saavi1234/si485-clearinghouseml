@@ -1,0 +1,509 @@
+{
+  "case_id": 11907,
+  "fetched_at": "2025-10-22T00:16:40.419661",
+  "case_data": {
+    "attorney_orgs": [
+      "U.S. Dept. of Justice Civil Rights Division"
+    ],
+    "available_documents": [
+      "Trial Court Docket",
+      "Complaint (any)",
+      "Monetary Relief",
+      "Injunctive (or Injunctive-like) Relief"
+    ],
+    "case_defendants": [
+      {
+        "defendant_level": null,
+        "institution": "",
+        "institution_alt_state": null,
+        "institution_city": "Tampa",
+        "institution_county": null,
+        "name": "Robert S. Cairns",
+        "defendant_level_other": "",
+        "is_active": true
+      },
+      {
+        "defendant_level": null,
+        "institution": "",
+        "institution_alt_state": null,
+        "institution_city": "Tampa",
+        "institution_county": null,
+        "name": "Katerina D. Cairns",
+        "defendant_level_other": "",
+        "is_active": true
+      }
+    ],
+    "case_ongoing": "No",
+    "case_status": "Approved",
+    "case_types": [
+      "Fair Housing/Lending/Insurance"
+    ],
+    "cause_other": "",
+    "causes": [
+      "Fair Housing Act/Fair Housing Amendments Act (FHAA), 42 U.S.C. §§ 3601 et seq."
+    ],
+    "class_action_granted": "Not sought",
+    "class_action_sought": "No",
+    "closing_year": 2014,
+    "constitutional_clause": [],
+    "content_of_injunction": [
+      {
+        "value": "Discrimination Prohibition"
+      },
+      {
+        "value": "Comply with advertising/recruiting requirements"
+      }
+    ],
+    "court": "Middle District of Florida",
+    "custom_issues": [],
+    "defendant_payment": "$30,000",
+    "defendant_type": [],
+    "docket_status": "Complete as of retrieval date",
+    "facility_type": [],
+    "filing_date": "2011-01-14",
+    "filing_year": 2011,
+    "id": 11907,
+    "injunction_duration": "36",
+    "issues": [
+      "Discrimination Basis: Race discrimination",
+      "Affected Race(s): Black",
+      "Discrimination Area: Disparate Treatment",
+      "Discrimination Area: Housing Sales/Rental"
+    ],
+    "last_checked_date": "2018-11-17T00:00:00-05:00",
+    "main_docket": {
+      "id": 31058,
+      "docket_entries": [
+        {
+          "row_number": 19,
+          "id": 1658423,
+          "entry_number": "21",
+          "date_filed": "2011-04-13T00:00:00-04:00",
+          "attachments": [],
+          "url": "nan",
+          "recap_pdf_url": null,
+          "pacer_doc_id": null,
+          "description": "ENDORSED ORDER directing clerk to CLOSE the case. Signed by Judge Richard A. Lazzara on 4/13/2011. (SKH) (Entered: 04/13/2011)"
+        },
+        {
+          "row_number": 9,
+          "id": 1658413,
+          "entry_number": "10",
+          "date_filed": "2011-02-24T00:00:00-05:00",
+          "attachments": [],
+          "url": "https://ecf.flmd.uscourts.gov/doc1/04719089311?caseid=253537&de_seq_num=39&pdf_header=1&pdf_toggle_possible=1",
+          "recap_pdf_url": null,
+          "pacer_doc_id": null,
+          "description": "NOTICE by Katerina D. Cairns, Robert S. Cairns (Smith, Thomas) (Entered: 02/24/2011)"
+        },
+        {
+          "row_number": 1,
+          "id": 1658405,
+          "entry_number": "2",
+          "date_filed": "2011-01-14T00:00:00-05:00",
+          "attachments": [],
+          "url": "https://ecf.flmd.uscourts.gov/doc1/04718946319?caseid=253537&de_seq_num=10&pdf_header=1&pdf_toggle_possible=1",
+          "recap_pdf_url": null,
+          "pacer_doc_id": null,
+          "description": "REQUEST FOR WAIVER of Service sent to Katerina D. Cairns, Robert S. Cairns on 01/14/2011 by USA. (DMS) (Entered: 01/14/2011)"
+        },
+        {
+          "row_number": 13,
+          "id": 1658417,
+          "entry_number": "14",
+          "date_filed": "2011-03-29T00:00:00-04:00",
+          "attachments": [],
+          "url": "https://ecf.flmd.uscourts.gov/doc1/04719210534?caseid=253537&de_seq_num=52&pdf_header=1&pdf_toggle_possible=1",
+          "recap_pdf_url": null,
+          "pacer_doc_id": null,
+          "description": "Second MOTION for extension of time to file response/reply by All Defendants. (Smith, Thomas) Motions referred to Magistrate Judge Thomas G. Wilson. (Entered: 03/29/2011)"
+        },
+        {
+          "row_number": 3,
+          "id": 1658407,
+          "entry_number": "4",
+          "date_filed": "2011-02-01T00:00:00-05:00",
+          "attachments": [],
+          "url": "https://ecf.flmd.uscourts.gov/doc1/04719011232?caseid=253537&de_seq_num=14&pdf_header=1&pdf_toggle_possible=1",
+          "recap_pdf_url": null,
+          "pacer_doc_id": null,
+          "description": "NOTICE of pendency of related cases re 3 Related case order and notice of designation of track 2 per Local Rule 1.04(d) by USA. Related case(s): No (Langworthy, Nancy) (Entered: 02/01/2011)"
+        },
+        {
+          "row_number": 5,
+          "id": 1658409,
+          "entry_number": "6",
+          "date_filed": "2011-02-15T00:00:00-05:00",
+          "attachments": [],
+          "url": "https://ecf.flmd.uscourts.gov/doc1/04719061195?caseid=253537&de_seq_num=20&pdf_header=1&pdf_toggle_possible=1",
+          "recap_pdf_url": null,
+          "pacer_doc_id": null,
+          "description": "WAIVER OF SERVICE returned executed on 02/15/2011 by USA as to Katerina D. Cairns, Robert S. Cairns. (Langworthy, Nancy) (Entered: 02/15/2011)"
+        },
+        {
+          "row_number": 7,
+          "id": 1658411,
+          "entry_number": "8",
+          "date_filed": "2011-02-17T00:00:00-05:00",
+          "attachments": [],
+          "url": "https://ecf.flmd.uscourts.gov/doc1/04719068840?caseid=253537&de_seq_num=30&pdf_header=1&pdf_toggle_possible=1",
+          "recap_pdf_url": null,
+          "pacer_doc_id": null,
+          "description": "ORDER granting 7 Motion to Intervene. The Court accepts for filing the complaint attached to the motion. Defendants are directed to file a response within 20 days of this order. Signed by Judge Richard A. Lazzara on 2/17/2011.(SKH) (Entered: 02/17/2011)"
+        },
+        {
+          "row_number": 10,
+          "id": 1658414,
+          "entry_number": "11",
+          "date_filed": "2011-02-24T00:00:00-05:00",
+          "attachments": [],
+          "url": "https://ecf.flmd.uscourts.gov/doc1/04719089337?caseid=253537&de_seq_num=43&pdf_header=1&pdf_toggle_possible=1",
+          "recap_pdf_url": null,
+          "pacer_doc_id": null,
+          "description": "CERTIFICATE of interested persons and corporate disclosure statement re 3 Related case order and notice of designation of track 2 by Katerina D. Cairns, Robert S. Cairns. (Smith, Thomas) (Entered: 02/24/2011)"
+        },
+        {
+          "row_number": 11,
+          "id": 1658415,
+          "entry_number": "12",
+          "date_filed": "2011-03-14T00:00:00-04:00",
+          "attachments": [],
+          "url": "https://ecf.flmd.uscourts.gov/doc1/04719154624?caseid=253537&de_seq_num=46&pdf_header=1&pdf_toggle_possible=1",
+          "recap_pdf_url": null,
+          "pacer_doc_id": null,
+          "description": "MOTION for extension of time to file response/reply by All Defendants. (Smith, Thomas) Motions referred to Magistrate Judge Thomas G. Wilson. (Entered: 03/14/2011)"
+        },
+        {
+          "row_number": 12,
+          "id": 1658416,
+          "entry_number": "13",
+          "date_filed": "2011-03-14T00:00:00-04:00",
+          "attachments": [],
+          "url": "nan",
+          "recap_pdf_url": null,
+          "pacer_doc_id": null,
+          "description": "ENDORSED ORDER granting 12 motion for extension of time to file response to complaint by all Defendants. Defendants shall file their response on or before 3/29/11. Signed by Judge Richard A. Lazzara on 3/14/2011. (DMB) (Entered: 03/14/2011)"
+        },
+        {
+          "row_number": 17,
+          "id": 1658421,
+          "entry_number": "19",
+          "date_filed": "2011-04-08T00:00:00-04:00",
+          "attachments": [],
+          "url": "https://ecf.flmd.uscourts.gov/doc1/04719248950?caseid=253537&de_seq_num=71&pdf_header=1&pdf_toggle_possible=1",
+          "recap_pdf_url": null,
+          "pacer_doc_id": null,
+          "description": "CONSENT DECREE by USA. (Langworthy, Nancy) (Entered: 04/08/2011)"
+        },
+        {
+          "row_number": 15,
+          "id": 1658419,
+          "entry_number": "16",
+          "date_filed": "2011-04-07T00:00:00-04:00",
+          "attachments": [],
+          "url": "https://ecf.flmd.uscourts.gov/doc1/04719246657?caseid=253537&de_seq_num=60&pdf_header=1&pdf_toggle_possible=1",
+          "recap_pdf_url": null,
+          "pacer_doc_id": null,
+          "description": "Unopposed MOTION to appoint Representative as General Guardian ad litem by Devaughn Duncan. (Grossman, Gregory) Motions referred to Magistrate Judge"
+        },
+        {
+          "row_number": 16,
+          "id": 1658420,
+          "entry_number": "18",
+          "date_filed": "2011-04-08T00:00:00-04:00",
+          "attachments": [],
+          "url": "https://ecf.flmd.uscourts.gov/doc1/04719248898?caseid=253537&de_seq_num=64&pdf_header=1&pdf_toggle_possible=1",
+          "recap_pdf_url": null,
+          "pacer_doc_id": null,
+          "description": "MOTION to Approve Settlement in the form of a Consent Decree by All Parties. (Langworthy, Nancy) (Entered: 04/08/2011)"
+        },
+        {
+          "row_number": 6,
+          "id": 1658410,
+          "entry_number": "7",
+          "date_filed": "2011-02-16T00:00:00-05:00",
+          "attachments": [],
+          "url": "https://ecf.flmd.uscourts.gov/doc1/04709067033?caseid=253537&de_seq_num=22&pdf_header=1&pdf_toggle_possible=1",
+          "recap_pdf_url": null,
+          "pacer_doc_id": null,
+          "description": "MOTION to intervene by Devaughn Duncan, James Gainey, Travis Tucker. (Attachments: # 1 Supplement Complaint in Intervention)(Grossman, Gregory) Motions referred to Magistrate Judge Thomas G. Wilson. (Entered: 02/16/2011)"
+        },
+        {
+          "row_number": 8,
+          "id": 1658412,
+          "entry_number": "9",
+          "date_filed": "2011-02-17T00:00:00-05:00",
+          "attachments": [],
+          "url": "https://ecf.flmd.uscourts.gov/doc1/04719069422?caseid=253537&de_seq_num=32&pdf_header=1&pdf_toggle_possible=1",
+          "recap_pdf_url": null,
+          "pacer_doc_id": null,
+          "description": "INTERVENORS' COMPLAINT IN INTERVENTION against Katerina D. Cairns, Robert S. Cairns with Jury Demand filed by Travis Tucker, James Gainey, Devaughn Duncan.(LDB) Modified on 2/17/2011 (LDB). (Entered: 02/17/2011)"
+        },
+        {
+          "row_number": 2,
+          "id": 1658406,
+          "entry_number": "3",
+          "date_filed": "2011-01-19T00:00:00-05:00",
+          "attachments": [],
+          "url": "https://ecf.flmd.uscourts.gov/doc1/04718954329?caseid=253537&de_seq_num=12&pdf_header=1&pdf_toggle_possible=1",
+          "recap_pdf_url": null,
+          "pacer_doc_id": null,
+          "description": "RELATED CASE ORDER AND NOTICE of designation under Local Rule 3.05 − track 2. Notice of pendency of other actions due by 2/2/2011. Signed by Judge Richard A. Lazzara on 1/19/2011. (MSS) (Entered: 01/19/2011)"
+        },
+        {
+          "row_number": 18,
+          "id": 1658422,
+          "entry_number": "20",
+          "date_filed": "2011-04-11T00:00:00-04:00",
+          "attachments": [],
+          "url": "https://ecf.flmd.uscourts.gov/doc1/04719251842?caseid=253537&de_seq_num=76&pdf_header=1&pdf_toggle_possible=1",
+          "recap_pdf_url": null,
+          "pacer_doc_id": null,
+          "description": "CONSENT DECREE Signed by Judge Richard A. Lazzara on 4/8/2011. (see order)(MSS) (Entered: 04/11/2011)"
+        },
+        {
+          "row_number": 0,
+          "id": 1658404,
+          "entry_number": "1",
+          "date_filed": "2011-01-14T00:00:00-05:00",
+          "attachments": [],
+          "url": "https://ecf.flmd.uscourts.gov/doc1/04708946213?caseid=253537&de_seq_num=8&pdf_header=1&pdf_toggle_possible=1",
+          "recap_pdf_url": null,
+          "pacer_doc_id": null,
+          "description": "COMPLAINT against Katerina D. Cairns, Robert S. Cairns with Jury Demand filed by USA. (Attachments: # 1 Civil Cover Sheet) (DMS) (Entered: 01/14/2011)"
+        },
+        {
+          "row_number": 14,
+          "id": 1658418,
+          "entry_number": "15",
+          "date_filed": "2011-03-29T00:00:00-04:00",
+          "attachments": [],
+          "url": "nan",
+          "recap_pdf_url": null,
+          "pacer_doc_id": null,
+          "description": "ENDORSED ORDER granting 14 second motion for extension of time to file response by all Defendants. Defendants shall file their response on or before 4/8/11. Signed by Judge Richard A. Lazzara on 3/29/2011. (DMB) (Entered: 03/29/2011)"
+        },
+        {
+          "row_number": 4,
+          "id": 1658408,
+          "entry_number": "5",
+          "date_filed": "2011-02-01T00:00:00-05:00",
+          "attachments": [],
+          "url": "https://ecf.flmd.uscourts.gov/doc1/04719011425?caseid=253537&de_seq_num=17&pdf_header=1&pdf_toggle_possible=1",
+          "recap_pdf_url": null,
+          "pacer_doc_id": null,
+          "description": "CERTIFICATE of interested persons and corporate disclosure statement re 3 Related case order and notice of designation of track 2 by USA. (Langworthy, Nancy) (Entered: 02/01/2011)"
+        }
+      ],
+      "docket_case_type": "cv",
+      "docket_year": 2011,
+      "docket_filing_number": 100,
+      "is_main_docket": true,
+      "court": "Middle District of Florida",
+      "state": "Florida",
+      "docket_office_number": "8",
+      "docket_number_manual": "8:11-cv-00100-RAL-TGW",
+      "scales_html": "https://clearinghouse-umich-production.s3.amazonaws.com/media/docket-html/flmd--8-11-cv-00100.html",
+      "recap_link": null,
+      "is_active": true
+    },
+    "name": "United States v. Cairns",
+    "never_filed": false,
+    "non_docket_case_number": "",
+    "non_docket_case_number_type": null,
+    "non_docket_case_number_type_other": "",
+    "order_end_year": 2014,
+    "order_start_year": 2011,
+    "permanent_injunction": false,
+    "plaintiff_description": "United States",
+    "plaintiff_type": [
+      {
+        "value": "Private Plaintiff"
+      },
+      {
+        "value": "U.S. Dept of Justice plaintiff"
+      }
+    ],
+    "prevailing_party": "Plaintiff",
+    "pro_se_status": "No",
+    "public_interest_lawyer": "Yes",
+    "related_cases": [],
+    "relief_natures": [
+      "Injunction / Injunctive-like Settlement",
+      "Attorneys fees",
+      "Damages"
+    ],
+    "relief_nature_other": "",
+    "relief_sources": [
+      "Settlement"
+    ],
+    "settlement_agreement": [
+      "Court Approved Settlement or Consent Decree"
+    ],
+    "settlement_judgment_date": null,
+    "settlement_judgment_year": null,
+    "special_collections": [
+      "Multi-LexSum (in sample)"
+    ],
+    "special_case_type": [],
+    "state": "Florida",
+    "summary": "<p>On January 14, 2011, the United States Department of Justice filed this lawsuit in the United States District Court for the Middle District of Florida, under the Fair Housing Act against a landlord. On behalf of a family of African-American tenants alleging housing discrimination, DOJ asked the Court for declaratory, injunctive, and monetary relief. The complaint alleged that the defendant landlords had abusively evicted the tenants and yelled racial epithets at them repeatedly.</p><p>On April 11, 2011, the parties entered into a consent decree which enjoined the defendants from: 1) refusing to rent or negotiate for the rental of a dwelling to any person because of race or color, 2) making any advertising that indicates a preference, limitation, or discrimination based on race or color, and 3) coercing any person in the exercise or enjoyment of, or on account of his or her having exercised or enjoyed, rights granted or protected by the Fair Housing Act. The defendants agreed to pay $25,000 to the tenants and $5,000 in attorneys' fees. The duration of the order was three years.</p><p>There was no further activity on the docket after the three year timeframe ended and now the case is presumed closed. </p>",
+    "summary_published_date": "2018-10-30T00:00:00-04:00",
+    "summary_short": "The United States Department of Justice, on behalf of African-American tenants alleging housing discrimination, filed a lawsuit under the Fair Housing Act against landlords, claiming that the tenants had been evicted based on their race. On April 11, 2011, the parties entered into a consent decree in which the defendants agreed to discontinue any discriminatory practices, and to pay $25,000 to the tenants and $5,000 in attorneys' fees. The duration of the order was three years and the case is now presumed closed. ",
+    "summary_tiny": null,
+    "terminating_date": null,
+    "clearinghouse_link": "clearinghouse.net/case/11907",
+    "is_active": true,
+    "case_documents_url": "https://clearinghouse.net/api/v2/documents/?case=11907",
+    "case_dockets_url": "https://clearinghouse.net/api/v2/dockets/?case=11907",
+    "case_resources_url": "https://clearinghouse.net/api/v2/resources/?case=11907"
+  },
+  "documents": [
+    {
+      "date": "2011-01-14",
+      "date_is_estimate": false,
+      "date_not_available": false,
+      "description": null,
+      "document_source": "PACER [Public Access to Court Electronic Records]",
+      "document_status": "Coding Complete",
+      "document_type": "Complaint",
+      "order_type": null,
+      "citation_paren": null,
+      "cite_1_page": null,
+      "cite_1_reporter": null,
+      "cite_1_vol": null,
+      "cite_2_page": null,
+      "cite_2_reporter": null,
+      "cite_2_vol": null,
+      "cite_3_page": null,
+      "cite_3_reporter": null,
+      "cite_3_vol": null,
+      "citation_status": "Not applicable",
+      "court": "Middle District of Florida",
+      "no_title": false,
+      "party_types": [
+        "Plaintiff"
+      ],
+      "per_curium": false,
+      "is_core_document": true,
+      "id": 40635,
+      "file": "https://clearinghouse-umich-production.s3.amazonaws.com/media/doc/40635.pdf",
+      "title": "Complaint",
+      "text": "Case 8:11-cv-00100-RAL-TGW   Document 1    Filed 01/14/11   Page 1 of 8 PageID 1\nUNITED STA TES DISTRJCT COURT \nFOR THE MIDDLE DISTRJCT OF FLORIDA \nTAMPA DIVISION \nUNITED STATES OF AMERICA,  ) \n) \nPlaintiff,  ) \n) \nv.  ) \n)  CASE NO. \nROBERT S. CAIRNS AND KATERJNA D.  ) \nCAIRNS,  ) \n) \nDefendants.  ) \n----------------------- ) \nCOMPLAINT AND DEMAND FOR JURY TRIAL \nThe United States of America alleges: \n1.  This action is brought by the United States to enforce Title VIII of the Civil Rights Act of \n1968, as amended by the Fair Housing Amendments Act of 1988, 42 U.S.C. §§ 3601, el \nseq. (the \"Fair Housing Act\" or the \"Act\").  The United States brings this action on behalf \nof DeVauglm Duncan and her three children, James Gainey, Charles Tucker and RW, \npursuant to Section 812(0) of the Fair Housing Act, 42 U.S.C. § 3612(0) . \n.J urisdiction and Venue \n2.  This Court has jurisdiction over this action pursuant to 28 U.S.C. §§ 1331 and  1345, and \n42 U.S.C. §§ 3612(0). \n3.  Venue is proper under 28 U.S.C. §  1391  because the events or omissions giving rise to \nthe United States' claims occurred in this judicial district. \nPal-tics and Propcrtv \n4.  Defendants Robert S. Cairns and Katcrina D. Cairns, a married couple, jointly own and \nmanage several rental properties in the Tampa area, including a single-family, three-\n\nCase 8:11-cv-00100-RAL-TGW   Document 1    Filed 01/14/11   Page 2 of 8 PageID 2\nbedroom home located at 11331 Southwind Lake Drive, Gibsonton, Florida (the \"subject \nproperty\").  They have rented these properties through the Tampa Housing Authority \n(\"THA\") Housing Choice Voucher (\"Section 8\") Program. \n5.  The subject property is a dwelling within the meaning of 42 U.S.c. § 3602(b). \n6.  At all times relevant to this action, Defendants were both involved in all aspects of the \nrental of their jointly owned  properties,  including the subject property,  and served  as \nagents for each other with respect to such rentals. \nFactual Allegations \n7.  Complainant DeVaughn Duncan is an African-American woman.  Ms. Duncan's \nchildren, Complainants James Gainey, Charles Tucker and RW, who are also African \nAmerican, were sixteen (16), fifteen (15), and eleven (11)-years old, respectively, in \nAugust 2007. \n8.  In mid-July 2007, Ms. Duncan, who was a participant in THA's Section 8 voucher \nprogram, visited THA's Section 8 office seeking a home for herself and her children. At \nthe office, she saw a listing for the subject property. \n9.  Shortly afterward, Ms. Duncan contacted Mr. Cairns and told him she would like to see \nthe property.  The two met at the property on or about July 9, 2007, and, after Mr. Cairns \nshowed her the home, Ms. Duncan informed him that she would like to rent it for  herself \nand her three minor children begirming in late July or early August 2007. \n10.  On or about July 12,2007, TEA issued Ms. Duncan a Section 8 voucher for the home, \nsetting the maximum monthly rental value of the property and stating that a \"payment \nnotice\" of the rental amount Ms. Duncan would be obligated to pay under the voucher \n2 \n\nCase 8:11-cv-00100-RAL-TGW   Document 1    Filed 01/14/11   Page 3 of 8 PageID 3\nprogram would be issued after the unit passes inspection and the family moves in.  Under \nthe terms of the program, Tl-IA would pay the remainder of any approved rental amount. \nII.  On or about July 30, 2007, Mr. Cairns and Ms. Duncan met again and signed a lease \nfor the subject property, and Mr. Cairns gave Ms. Duncan the keys to the property. \nMr. Cairns informed Ms. Duncan that he would work with her if she were unable to pay a \nfull month's rent and the full security deposit by the move-in date.  Accordingly, the two \nagreed orally that Ms. Duncan would pay approximately half of the first month's rent \nand half of the security deposit after the move-in date. \n12.  Defendants offered 10 reduce or defer move-in payments, such a<; the first month's rent \nand security deposit, to other Section 8 tenants of theirs. \n13.  On August 2, 2007, Ms. Duncan and her three children moved into the subject properly. \nMs. Duncan and Mr. Cairns agreed to meet at the property at I :00 p.m. on August 4, \n2007, at which lime Ms. Duncan was to pay Mr. Cairns approximately halfofthe first \nmonth's rcnt and half of the security deposit, with the expectation that THA would pay \nthe balance of the rent after it inspected the property and set a maximum monthly rent. \n14.  On the even.ing of August 3, 2007, Ms. Duncan telephoned Mr. Cairns to remind him of \ntheir scheduled meeting the next day.  During that conversation, Mr. Cairns said he \nthought they were to meet at 11 :00 a.m., rather than I :00 p.m., but Ms. Duncan reminded \nhim that the scheduled time of their meeting was 1: 00 p.m. \n1S .  On August 4, 2007, Mr. Cairns telephoned Ms. Duncan at her office shortly after 11: 00 \n3.111., infonning her that he was at the property and demanding to know why she was \nnot there to meet him.  She reminded him again that they were to meet at I :00, not \n11 :00, and said that she had arranged to have someone else meet him at the property at \n3 \n\nCase 8:11-cv-00100-RAL-TGW   Document 1    Filed 01/14/11   Page 4 of 8 PageID 4\n1: 00 to pay him because she could not leave work.  Mr. Caims told Ms. Duncan that if \nshe were not at the property in fifteen minutes, he would change the locks on the doors. \n16.  At that point, Ms. Duncan lost her cell phone connection with Mr. Cairns and \nirrunediately tried to call him several times from her office phone, but he did not pick up. \n17.  Ms. Duncan telephoned her husband, Michael Brown, and asked him to go directly to the \nproperty to pay Mr. Cairns with money she had given him previously for that purpose. \nMr. Brown arrived at the property at approximately 12:30 p.rn. with the agreed-upon \namount to pay Mr. Cairns.  Upon his arrival, Mr. Brown saw Mr. Cairns coming out of \nthe house with a clear plastic bag full of locks.  When Mr. Brown approached Mr. Cairns \nand offered him the money, Mr. Cairns told him it was too late because he had already \nchanged the locks. \n18.  Mr. Brown asked Mr. Cairns where Ms. Duncan's children were.  Mr. Cairns replied that \nhe told them they had to get out of the house and to go to the neighbors' house because \nhe was changing the locks.  Then Mr. Cairns drove  away with Mrs. Cairns, who was \nwaiting for him in a vehicle in fTont of the property.  Mr. Brown confirnled that thc locks \nhad been changed and that the children were not inside the house, and he checked the \nneighbors' house but the children were not there. \n19.  Mr. Brown telephoned Ms. Duncan, who became frantic when he told her what had \nhappened.  He initiated a search for the children and found them nearly tJlfee hours later \nunder all underpass approximately a quarter-mile from the subject property.  The children \nwere still dressed in their night clothes. \n20.  Later that day, Ms. Duncan checked into a motel with her three children and drove with \nMr. Brown to the subject property.  From there she telephoned the Hillsborough County \n4 \n\nCase 8:11-cv-00100-RAL-TGW   Document 1    Filed 01/14/11   Page 5 of 8 PageID 5\nSheriffs Department to report that she and her children had been evicted and locked out \nofmeir home.  A sheriffs deputy mel them at the property and telephoned Mr. Cairns \nfrom his cell phone.  When Mr. Cairns answered, the deputy explained to him that \nunder Florida law, he could not evict the family without a court order. \n21.  While the deputy was talking with Mr. Cairns, Mrs. Cairns took the phone and the deputy \nrepeated what he had told her husband.  Mrs. Cairns replied mat it was her house and \nshe could do what she wanted.  When the deputy told her she was mistaken, Mrs. Cairns \nresponded, \"Let me talk to that f**king nigger,\" or words to that effect, referring to Ms. \nDuncan.  The deputy advised her that her language was inappropriate and she cursed at \nhim. \n22.  The deputy handed the phone to Ms. Duncan, and Mrs. Cairns said to her, \"J can't believe \nyou niggers called the police on liS.  You niggers make me sick.  1 just want your nigger \nasses out or my house,\" or words to that effect. \n23.  The Cairns refused to come to the property that night to let Ms. Duncan and her children \nback into the house.  Ms. Duncan anempted to reach them by telephone the next day, \nAugust 5, 2007, but Defendants did not answer the phone or return her phone messages. \n24.  On August 6, 2007, Mrs. Cairns met Ms. Duncan at the property and gave her the keys \nin exchange for the previously-negotiated rental payment and security deposit, the \nsame amount of money Mr. Brown had tendered two days earlier.  The two women \nalso entered into a written agreement that day requiring Ms. Duncan to pay the balance of \nthe monies owed in two installments, on August 11 and August 25, 2007. \n25.  On or about August 6, 2007, Ms. Duncan telephoned her Section 8 counselor to inform \nher of the Cairns' actions.  Her counselor told her that THA would not complete the work \n5 \n\nCase 8:11-cv-00100-RAL-TGW   Document 1    Filed 01/14/11   Page 6 of 8 PageID 6\nnecessary for THA to contribute to Ms. Duncan's rental paymems because the counselor \nhad received an irate call from Mr. Cairns saying he wanted Ms. Duncan out of his home. \n26.  Accordingly, Ms. Duncan and her children moved out of the properly on September 2, \n2007. \nnUl) Administrative Process \n27.  On or abollt December 6, 2007, Complainants filed a complaint with the United States \nDepartment of I-lousing and Urban Development (\"HUD\"), alleging that Defendants \nviolated the Fair Housing Act by discriminating in the rental of the subject property \nbecause of race or color. \n28.  In accordance with 42 U.S.c. §§ 3610(a) and (b), the Secretary of HUD conducted and \ncompleted an investigation of the complaint, attempted conciliation without success, and \nprepared a final investigative report.  Based on the information gathered in this \ninvestigation, the Secretary, pursuant to 42 U.S.C. § 3610(g), determined that reasonable \ncause existed to believe that illegal discriminatory housing practices had occurred. \nTherefore, on or about September 30, 20 I 0, the Secretary issued a charge of \ndiscrimination pursuant to 42 U.S.C. § 361 O(g), charging the Defendants with engaging \nin discriminatory practices on the basis of race or color in violation of the Fair Housing \nAct, 42 §§ 3604(a) and. 3604(c), and 3617. \n29.  On October 25, 20 I 0, Ms. Duncan and her children elected to have the claims asserted in \nHUD's charge resolved in a civil action pursuant to 42 U.S.C. § 3612(a). \n30.  On October 26, 20 I 0, the Administrative Law Judge issued a Notice of Election and \ntenninated the administrative proceeding on the I-IUD complaint. \n6 \n\nCase 8:11-cv-00100-RAL-TGW   Document 1    Filed 01/14/11   Page 7 of 8 PageID 7\n31.  Following this Notice of Election, the Secretary of HUD authorized the Attorney General \nto commence a civil action, pursuant to 42 U.S.C. § 3612(0). \nFair Housing Act Violations \n32.  Plaintiff re-alleges and herein incorporates by reference the allegations set forth in \nparagraphs 1-31, above. \n33.  By the actions set forth above, Defendants have: \n(a)  Refused to negotiate for the rental of housing, or otherwise made unavailable or \ndenied housing because ofrace or color, in violation of 42 U.S.C. § 3604(a); \n(b)  Made or caused to be made one or more statements  with respect to the rental of a \ndwelling that indicated a preference, a limitation, or discrimination based on race or \ncolor, in violation of 42 U.S.C. § 3604(c); and \n(c)  Coerced, intimidated, threatened, or interfered with Complainants in the exercise \nor enjoyment of, or on account of their having exercised or enjoyed, rights granted or \nprotected by Section 804 of the Fair Housing Act, 42 U.S.C. § 3604, based on race or \ncolor, in violation of 42 U.S.C. § 3617. \n34.  The Complainants afe aggrieved persons within the meaning of 42 U.S.c. § 3602(i), and \nhave suffered injuries as a result of Defendants' discriminatory conduct. \n35.  Defendants' actions as described above were intentional, willful, and taken in disregard \nfor the rights of the Complainants. \nPrayer for Relief \nWHEREFORE, the United States requests that tbe Court enter an Order: \nI.  Declaring tJlat the discriminatory conduct of Defendants as set forth above violates the \nFair Housing Act; \n7 \n\nCase 8:11-cv-00100-RAL-TGW   Document 1    Filed 01/14/11   Page 8 of 8 PageID 8\n2.  Enjoining Defendants, their employees, agents, and  successors, and all  other persons in \nactive concert or participation with any of them, from discriminating on the basis of race \nor color in violation of the Fair I-lousing Act; and \n3.  Awarding monetary damages to the Complainants pursuant to 42 U.S.C. §§ 3612(0)(3) \nand 3613(c)(I). \nThe United States further prays  for such additional relief as the interests of justice may \nreqUIre. \nERIC H. HOLDER, JR. \nAttorney General \nCL \n<& \nE \n~ \nTHOMAS E. PEREZ \nAssistant Attorney General \nCivil Rights Division \n~~ \nChief, Housing and Civil Enforcement \nSection \n400 North Tampa Street, Suite 3200 \nTampa, FL 33602 \nPhone: (813) 274-6087 \nFax: (813) 274-6198 \nKenneth.Stegeby@usdoj.gov  Deputy CI ef \nNANCY F. LANGWORTHY \nAttorney \nBarNo. 377947 (D.C.) \nU.S. Department of Justice \nCivil Rights Division \nI-rousing and Civil Enforcement \nSection \n950 Pennsylvania Avenue, N.W. \nWashington, D.C. 20530 \nPhone: (202) 616-8925 \nFax: (202) 514-11 16 \nNancy.Langworthy@usdoj.gov \n8 \n\nCase 8:11-cv-00100-RAL-TGW   Document 1-1    Filed 01/14/11   Page 1 of 2 PageID 9\n''''-is 44  (R.v. 121\\17)  CIVIL COVER SHEET \nThe JS 44 civil cover sheet and the information conlained herein neilher replace nor supplement the fil ing and service ofp leadings or other papers as required by law, except as provided \nby local rules of court. This form, approved by the JudIcial Confcrenceofthc UnIted Slates in September \\ 974, is reqUired for ihe use of the Clerk of Court forthe purpose ofmitiatmg \nthe civil docket sheet.  (SEE INSTRUCTIONS ON THE REVERSE OF THE FORM.) \nI. \nUniled Slates of America  Robert S. Cairns and Kalerina D. Cairns \n(b)  County of Residence of First Listed Plaintiff  County of Residence of First Listed Defendant  Hillsborough County \n(EXCEPT IN US. PLAINTIFF CASES)  (IN U,S. PLAINTIFf CASES ONLY) \nNOTE,  IN LAND CONDBvINATION CASES, USE TIlE LOCATION OF THE \nLAND INVOLVED. \n(c)  Anorney's (Fi~n Name. Ad<hs$,,,,,d Telephone i':umber)  Attorneys (If Known) \nNancy F. Langworthy; Attorney for the United Siales; 9S0  Thomas A. Smith, Esq., 800 W. Plait, Suite 3, Tampa, FL \np~,  ~~~~-..~~~~~~~~-=~~~ \n(Place an \"XHiu One Box Only)  CITIZENSHIP OF NUNCIPAL. PARTIES(Place.n \"XHi n One lIox for Plaintiff \n(Foc Di~rsity C~$ Only)  and Ono Box for DefC[><iru,t) \nIX I  U,S Governmeni  o 3 Federal Que'tion  PTF  Dt:F  \"TF  rH:F \nPlai~,iff  (U.S. Go,'emment Not a Patty)  Ci,i=, of This State  0  I  0  I  [ncorporaled or Principal Place  0  4  a 4 \n\"fBusiness h' \"fnis Slat. \na 2  U.S. Go\"\"mmem  a 4  Diversity  Citi\"\"n of Anothor Slat\"  o 2  a  2  Incorporated ondPrincipoJ PI.ce  LJ  5  a  5 \nDefendl\\tlt  of Business In ATIQth ... St.,. \n(Indica'. Ci,i~onship ofl'arti.s in Item I IJ) \nCiti~en oc Subj..:t ofa  a 3  0  3  Foreil!ll NOli\"\"  LJ  6  a  6 \nm \n0  l'eRSOI';AL INJUIn'  610 Agriculture  422 Appc.128 USC 158  400 State Re.pportionmenl \n0  310 Airplane  62000.,. Food & Drug  423 Withdrawal  410Antitrust \n0  3tS Airpl.\". Product  625 Drug Rela'ed Sci=<:  28 USC 157  430 Bani:.< and Banking \n0  ,;  Liability  of Property 21 USC 881  450 Comme\",e \n0  320 A,saull, Libel &  630 Liquor laW!  460 Depon.,ion \nSlander  640 R.R. & Truck  ,  470 Racketee, In\"\"\"\"oed and \n0 '  \"  330 Fed.\",1 EmplO)lers'  650 Airlille Reg •.  CorruP' Organi ... ,ion! \n0 ;  Liability  660 Occupational  840 Trademarl:  480 Consumer Credit \n340 Mari\".  SafctylHcalth  490 C.ble!Sa, TV \n345 Marine !'TOOuct  810 Solo.ti\". Service \nLiability  ,  850 Securities/Commodities! \n350 Motor Vehicle  Exchonge \n]55 Motor Vehicl.  Ao;  875 C\",\"omerChalienge \n720 Latoor/Mgmt. Relatio\",  12USC3410 \n730 Labor\"'{gmt.Rc-pon;ng  890 Other Statutory Actions \n&; ])i$(;lo.\"n: Aot  891 Agriculmral Acts \n740 Railway Labor Act  892 Economic Stabilization Act \n790 Oth ... Labor Litigation  893 En\\,iron\",.\"t.l Mattcrs \n791 Empl, Ret, Inc.  894 Energy Alloca,ion Act \nSecurity Act  S95 Fre.dom oflnfon\". . tio\" \n900Appcal ofF• • Octenni\".,ion \n;,  U\"d.r Equal Access \nto Ju,tice \nAlien Octainee  950 Cons,itutiOtllt[ity of \n465 O,b.,,-lrrunignnion  Stat. Statute. \nActio1l$ \nV.  OIUCIN  (Place all \"X\" in 0\". Bo .• Ordy)  Appeal to Disaict \n~ I  Original  o 2  Removed from  0  3  Remanded from  0  4 Reinstated or  0  5  Transferr~ ~rom  0  6  Multidistrict  0  7  Judge from \nProceeding  StilteCourt  Ap\"\"'\"-Hale Court  Rco~\"-\"ned  asn oelehl~ r d,stnct  Liti0\"\"~\"\"l ion  JMlIda gimsternatte  \nC\\\",lheU,S, C\\'ll StIIt4te ljnder Whichyol.l an: fiiinl! .(1)0 not cite jurisdictipJllIl ~tlllJtlt$,vnle.ss di,VHs;tY):I'h  H \"  A''') \nor  '-;;I; :e; :V:: :I: :0' :::hi:e: iL'..I:V'iII: =K:l\"g'n-t=s A=C':t\" o:r: :,: ~\"t:n:s:,\" a':s': :a:m::e::n=a=ed=, 4=..::: \"U:.:;=:;'.-L=.. =,.,O=U='I, ':e ':'s:=eq=. =::e \"n':t'-:a:i:r: \"'o:'u:s:=ln=g =c' -'---\nVI.  CAUSE  ACTION \nIEhiefde~cription of cause: \nDetendants made hOUSing unavailable or otherwise denied housing because 01 race. \no \nVII.  REQUESTED IN  CIIECK IF THIS IS A CLASS ACTION  DEMAND 5  CHECK YES only ifdemanded in complain\\' \nCOMPLAINT:  UNDER F.R.cr. 23  JUI~Y DIi:MANI};  \"Yf y(S  a  No \nVIII.  RELATED CASl<~(S) \n(See in.tructiorlS); \nIF ANY  JUDGE  DOCKET NUMBER \n01/14/2011 \nFOil. OFJlIC[ USEOI<iLY \nR£CEII'T ~ - - AMOUNT ---- APPLYlt-:G IFP _______  \n\nCase 8:11-cv-00100-RAL-TGW   Document 1-1    Filed 01/14/11   Page 2 of 2 PageID 10\nJS 44 Re • ....., (Re •. 121(7) \nlNSTRUCTIONS FOR ATTORNEYS COMI'LETING CIVIL COVER SHEET FORM JS 44 \nAuthority For Civil Cover Sheet \nTIle 1S <14 civil cover sheet and the information contained herein neither replaees norsupplcments the filings and service of pleading or other papers as required \nby law, except as provided by local rules of court. 111i$ form, approved by the Judicial Conference of tile United States in September 1974, is required fortile use \noftheClerk ofC  ou n for the purpose ofinitiating the civil docket sheet. Consequently, a civil cover sheet is submitted to tbe Clerk of Court for each civil complaint \nfiled. lbc atlomcy filing a case should complete tbe fOnD as follows: \nI.  (3) PlaintiITs·Ddendanu. Enter names(Iast, first. middle initial) of plaintiff and defendant. Iflhe plaintiffordefcndant is a gO\\'erruncnt agency, use only \nthe full name or sumdard abbreviations. If the plaintiff or defendant is an official within a govemmelllllgeney, identify first the agency and then the official, giving \nboth name and title. \n(b) Coullty of Residence. Forelleh civil case filed, except U.S. plaintiff cases. cnter the name of the county where thc first listed plainliffrcsides at the time \nof filing.  In U.S. plaintiff cases, cntcr thc name of the county in which thc first listed defendant resides at the time of filing. (NOTE: In land condemnatioll cases, \nthe counly of reside lice of the \"defendant\" is the location of the tract of land involved.) \n(c) Attonleys.  Enter the finn n~me, address, telephone number. and allomey of record.  If there nre several allomeys, list them on an attaclunent, noting \nin this section \"(see attachment)\". \nII.  Ju risdiction. The basis ofj urisdiction is sct forth under Rule 8(a), F.R.C.P., which requires thatjurisdiclions be shown in plcadings. Place an \"X\" in one \nof the boxes.  I f there is mort: 1111111 one basis of jurisdiction, precedence is given in the order ShOW11 below. \nUnited States plaintiff. (I) Jurisdiction based on 28 U.S.c. 1345 and 1348. Suits by agencies and omcers of the United States are included here. \nUnited States defendaill.  (2) Whellthe plaintifTis suing the United Statcs, its officers or agencies, place an \"X\" in this box. \nFederal question.  (3) This refers to suits under 28 U.S.C. 1331, where jurisdiction urises under the Constitution of the United States, an amendment to the \nConstitution, an act of Congress or a trealy of the United Stales. In cases where the U.S. is a party. the U.S. plaintiff or defendant code takes precedence, and box \nI or 2 should be marked. \nDiversity of citizenship. (<I) 111is refers to suits under 28 U.S.C. 1332, wbere panics are citizens of different states. When Box 4 is checked, the citizenship of the \ndilTere..nt parties must be checked. (Sec Section 1lJ below; federal question actions take precedence over diversity cases.) \nIll.  I{uidencc (citiu I1Shil) of I'rindllall'artirs. This section oftlle JS 44 is to becornpleted ifdiversity of citizen ship was indicated above. Mark this section \nfor each principtll pany. \nI V.  Nature of Sui I. Place an '?::\" in the appropriate box. Ift he nature ofs ui I cannot be detemlined, be sure the cause ofaction, in Seclion VI below, is sufficient \nto cnable the deputy clerk or the statislieal clerks in the Administrative Office to detemline the nature of suit.  Iftbe cause fits more than one nature of suit, select \nthe most definith·e. \nV.  Odgin. Place an \"X\" in one of the seven boxes. \nOriginal Proceedings. (I) Cases which originate in the United Stales district courts. \nRemoved from Sl<I\\e Coun. (2) Proceedings initiated in state courts may be removed to the district couru under Title 28 U.s.c., Section 1441. When the petition \nfor removal is gmnted. check this box. \nRemanded from Appellate Court. (3) Check Ihis box for cases remanded 10 Ihe district court for further action.  Use the date of remand as the filing date. \nReinstated or Reopened. (4) Check this box for eases reinstated or reopened in the district coun.  Use the reopening date as the filing date. \nTransferred from Another District. (5) For cases tronsferrcd under Title 28 U.S.C. Section 140<l(a).  Do not use this for within district transfers or rnultidistriet \nlitiglltion trnnsfers. \nMultidistrict Litigation. (6) Check this box when a multidistrict case is tmnsferred into the district under authority of Title 28 U.S.C. Section 1407.  When this box \nis checked, do not check (5) above. \nAppcalto District Judge from Magistrate Judgment. (7) Check this box for lin appeal froll] a magistrote judge's decision. \nVI.  CauseofAetioll. Report the civil statute directly relaled to the causcofaction and give It bricfdescriptioll of the cause. Do lIot cite jurisdictional statutes \nunless diversity.  E.~ample:  U.S. Civil Statutc: 47 USC 553 \nBrief Description: Unautnonzed reception of c:1ble service \nVII.  Requ~lcd in Complaint. Class Action.  Place an \"X\" in tilis box if you ure riling a class aelion under Rule 23, F.R.Cv.P. \nDemand.  In this space cnter the dollar amount (in thousands of dollars) being demanded or indicate other demand sueb as a preliminary injunction. \nJury Dcmund. Check the appropriate box to indicate whether or nOI ajury is being demanded. \nVI n.  Related Cucs. This section of tile JS 44 is used to reference related pending cases if any.  If there arc relaled pending cases. insen the docket numbers \nand the corresponding judge names for such cases. \nDate and Attorney SignMlure. Dale and sign the civil co\\'cr sheet. ",
+      "document_type_other": null,
+      "external_url": null,
+      "ecf_number": "1",
+      "clearinghouse_link": "clearinghouse.net/doc/40635"
+    },
+    {
+      "date": "2011-04-13",
+      "date_is_estimate": false,
+      "date_not_available": false,
+      "description": null,
+      "document_source": "PACER [Public Access to Court Electronic Records]",
+      "document_status": "Coding Complete",
+      "document_type": "Docket",
+      "order_type": null,
+      "citation_paren": null,
+      "cite_1_page": null,
+      "cite_1_reporter": null,
+      "cite_1_vol": null,
+      "cite_2_page": null,
+      "cite_2_reporter": null,
+      "cite_2_vol": null,
+      "cite_3_page": null,
+      "cite_3_reporter": null,
+      "cite_3_vol": null,
+      "citation_status": "Not applicable",
+      "court": "Middle District of Florida",
+      "no_title": false,
+      "party_types": [
+        "Court"
+      ],
+      "per_curium": false,
+      "is_core_document": true,
+      "id": 40633,
+      "file": "https://clearinghouse-umich-production.s3.amazonaws.com/media/doc/40633.pdf",
+      "title": "Docket [PACER]",
+      "text": "Case: 8:11-cv-100   As of: 11/04/2018 04:36 PM EST   1 of 4\nCLOSED\nU.S. District Court\nMiddle District of Florida (Tampa)\nCIVIL DOCKET FOR CASE #: 8:11−cv−00100−RAL−TGW\nUSA v. Cairns et al Date Filed: 01/14/2011\nAssigned to: Judge Richard A. Lazzara Date Terminated: 04/13/2011\nReferred to: Magistrate Judge Thomas G. Wilson Jury Demand: Plaintiff\nCause: 42:3601 Fair Housing Act Nature of Suit: 443 Civil Rights:\nAccommodations\nJurisdiction: U.S. Government Plaintiff\nPlaintiff\nUSA represented by Erik Kenneth Stegeby\nUS Attorney's Office − FLM\nSuite 3200\n400 N Tampa St\nTampa, FL 33602−4798\n813/274−6000\nFax: 813/274−6200\nEmail: Kenneth.Stegeby@usdoj.gov\nLEAD ATTORNEY\nATTORNEY TO BE NOTICED\nGregory Sagor Grossman\nRJS Law Group\n240 Apollo Beach Blvd\nApollo Beach, FL 33572\n813/641−0010\nFax: 813/641−0022\nEmail: Greg@RJSLawGroup.com\nLEAD ATTORNEY\nATTORNEY TO BE NOTICED\nMigdalia Figueroa\nBay Area Legal Services, Inc.\n18238 US Hwy 301 S\nWimauma, FL 33598\n813/634−6044\nFax: 813/634−1108\nEmail: mfigueroa@bals.org\nLEAD ATTORNEY\nATTORNEY TO BE NOTICED\nNancy Fay Langworthy\nUS Department of Justice − Civil Rights\nDivision\n950 Pennsylvania Ave NW\nWashington, DC 20530\nEmail: nancy.langworthy@usdoj.gov\nLEAD ATTORNEY\nATTORNEY TO BE NOTICED\nV.\nIntervenor Plaintiff\nDevaughn Duncan represented by Gregory Sagor Grossman\n(See above for address)\nLEAD ATTORNEY\nATTORNEY TO BE NOTICED\nMigdalia Figueroa\n\nCase: 8:11-cv-100   As of: 11/04/2018 04:36 PM EST   2 of 4\n(See above for address)\nLEAD ATTORNEY\nATTORNEY TO BE NOTICED\nNancy Fay Langworthy\n(See above for address)\nLEAD ATTORNEY\nATTORNEY TO BE NOTICED\nIntervenor Plaintiff\nJames Gainey represented by Gregory Sagor Grossman\n(See above for address)\nLEAD ATTORNEY\nATTORNEY TO BE NOTICED\nMigdalia Figueroa\n(See above for address)\nLEAD ATTORNEY\nATTORNEY TO BE NOTICED\nNancy Fay Langworthy\n(See above for address)\nLEAD ATTORNEY\nATTORNEY TO BE NOTICED\nIntervenor Plaintiff\nTravis Tucker represented by Gregory Sagor Grossman\n(See above for address)\nLEAD ATTORNEY\nATTORNEY TO BE NOTICED\nMigdalia Figueroa\n(See above for address)\nLEAD ATTORNEY\nATTORNEY TO BE NOTICED\nNancy Fay Langworthy\n(See above for address)\nLEAD ATTORNEY\nATTORNEY TO BE NOTICED\nV.\nDefendant\nRobert S. Cairns represented by Nancy Fay Langworthy\n(See above for address)\nLEAD ATTORNEY\nATTORNEY TO BE NOTICED\nThomas A. Smith\nThomas A. Smith, Esq.\n10042 Woodstock Rd\nOdessa, FL 33556\n813/254−8934\nFax: 813/251−6621\nEmail: tastpa@aol.com\nLEAD ATTORNEY\nATTORNEY TO BE NOTICED\nDefendant\nKaterina D. Cairns represented by Nancy Fay Langworthy\n(See above for address)\n\nCase: 8:11-cv-100   As of: 11/04/2018 04:36 PM EST   3 of 4\nLEAD ATTORNEY\nATTORNEY TO BE NOTICED\nThomas A. Smith\n(See above for address)\nLEAD ATTORNEY\nATTORNEY TO BE NOTICED\nDate Filed # Docket Text\n01/14/2011 1  COMPLAINT against Katerina D. Cairns, Robert S. Cairns with Jury Demand filed by\nUSA. (Attachments: # 1 Civil Cover Sheet) (DMS) (Entered: 01/14/2011)\n01/14/2011 2  REQUEST FOR WAIVER of Service sent to Katerina D. Cairns, Robert S. Cairns on\n01/14/2011 by USA. (DMS) (Entered: 01/14/2011)\n01/19/2011 3  RELATED CASE ORDER AND NOTICE of designation under Local Rule 3.05 −\ntrack 2. Notice of pendency of other actions due by 2/2/2011. Signed by Judge Richard\nA. Lazzara on 1/19/2011. (MSS) (Entered: 01/19/2011)\n02/01/2011 4  NOTICE of pendency of related cases re 3 Related case order and notice of\ndesignation of track 2 per Local Rule 1.04(d) by USA. Related case(s): No\n(Langworthy, Nancy) (Entered: 02/01/2011)\n02/01/2011 5  CERTIFICATE of interested persons and corporate disclosure statement re 3 Related\ncase order and notice of designation of track 2 by USA. (Langworthy, Nancy)\n(Entered: 02/01/2011)\n02/15/2011 6  WAIVER OF SERVICE returned executed on 02/15/2011 by USA as to Katerina D.\nCairns, Robert S. Cairns. (Langworthy, Nancy) (Entered: 02/15/2011)\n02/16/2011 7  MOTION to intervene by Devaughn Duncan, James Gainey, Travis Tucker.\n(Attachments: # 1 Supplement Complaint in Intervention)(Grossman, Gregory)\nMotions referred to Magistrate Judge Thomas G. Wilson. (Entered: 02/16/2011)\n02/17/2011 8  ORDER granting 7 Motion to Intervene. The Court accepts for filing the complaint\nattached to the motion. Defendants are directed to file a response within 20 days of this\norder. Signed by Judge Richard A. Lazzara on 2/17/2011.(SKH) (Entered: 02/17/2011)\n02/17/2011 9  INTERVENORS' COMPLAINT IN INTERVENTION against Katerina D. Cairns,\nRobert S. Cairns with Jury Demand filed by Travis Tucker, James Gainey, Devaughn\nDuncan.(LDB) Modified on 2/17/2011 (LDB). (Entered: 02/17/2011)\n02/24/2011 10  NOTICE by Katerina D. Cairns, Robert S. Cairns (Smith, Thomas) (Entered:\n02/24/2011)\n02/24/2011 11  CERTIFICATE of interested persons and corporate disclosure statement re 3 Related\ncase order and notice of designation of track 2 by Katerina D. Cairns, Robert S. Cairns.\n(Smith, Thomas) (Entered: 02/24/2011)\n03/14/2011 12  MOTION for extension of time to file response/reply by All Defendants. (Smith,\nThomas) Motions referred to Magistrate Judge Thomas G. Wilson. (Entered:\n03/14/2011)\n03/14/2011 13  ENDORSED ORDER granting 12 motion for extension of time to file response to\ncomplaint by all Defendants. Defendants shall file their response on or before 3/29/11.\nSigned by Judge Richard A. Lazzara on 3/14/2011. (DMB) (Entered: 03/14/2011)\n03/29/2011 14  Second MOTION for extension of time to file response/reply by All Defendants.\n(Smith, Thomas) Motions referred to Magistrate Judge Thomas G. Wilson. (Entered:\n03/29/2011)\n03/29/2011 15  ENDORSED ORDER granting 14 second motion for extension of time to file response\nby all Defendants. Defendants shall file their response on or before 4/8/11. Signed by\nJudge Richard A. Lazzara on 3/29/2011. (DMB) (Entered: 03/29/2011)\n04/07/2011 16  Unopposed MOTION to appoint Representative as General Guardian ad litem by\nDevaughn Duncan. (Grossman, Gregory) Motions referred to Magistrate Judge\n\nCase: 8:11-cv-100   As of: 11/04/2018 04:36 PM EST   4 of 4\nThomas G. Wilson. (Entered: 04/07/2011)\n04/08/2011 17  ORDER granting 16 Unopposed Motion Requesting Appointment of DeVaughn\nDuncan as Representative for Minor RW. DeVaughn Duncan is appointed the\nrepresentative of RW to receive any settlement awards in this case on his behalf.\nDeVaughn Duncan is relieved of the responsibility of reporting to this Court with\nregard to the proceeds, property, and/or benefits of any settlement received in this case\nby RW. Signed by Judge Richard A. Lazzara on 4/8/2011. (SKH) (Entered:\n04/08/2011)\n04/08/2011 18  MOTION to Approve Settlement in the form of a Consent Decree by All Parties.\n(Langworthy, Nancy) (Entered: 04/08/2011)\n04/08/2011 19  CONSENT DECREE by USA. (Langworthy, Nancy) (Entered: 04/08/2011)\n04/11/2011 20  CONSENT DECREE Signed by Judge Richard A. Lazzara on 4/8/2011. (see\norder)(MSS) (Entered: 04/11/2011)\n04/13/2011 21  ENDORSED ORDER directing clerk to CLOSE the case. Signed by Judge Richard A.\nLazzara on 4/13/2011. (SKH) (Entered: 04/13/2011)",
+      "document_type_other": "",
+      "external_url": null,
+      "ecf_number": null,
+      "clearinghouse_link": "clearinghouse.net/doc/40633"
+    },
+    {
+      "date": "2011-04-11",
+      "date_is_estimate": false,
+      "date_not_available": false,
+      "description": null,
+      "document_source": "PACER [Public Access to Court Electronic Records]",
+      "document_status": "Approved",
+      "document_type": "Settlement Agreement",
+      "order_type": "Consent Decree",
+      "citation_paren": null,
+      "cite_1_page": null,
+      "cite_1_reporter": null,
+      "cite_1_vol": null,
+      "cite_2_page": null,
+      "cite_2_reporter": null,
+      "cite_2_vol": null,
+      "cite_3_page": null,
+      "cite_3_reporter": null,
+      "cite_3_vol": null,
+      "citation_status": "Not applicable",
+      "court": "Middle District of Florida",
+      "no_title": false,
+      "party_types": [
+        "Plaintiff-Intervenor",
+        "Plaintiff",
+        "Defendant",
+        "Court"
+      ],
+      "per_curium": false,
+      "is_core_document": true,
+      "id": 40637,
+      "file": "https://clearinghouse-umich-production.s3.amazonaws.com/media/doc/40637.pdf",
+      "title": "Consent Decree",
+      "text": "Case 8:11-cv-00100-RAL-TGW  Document 20  Filed 04/11/11  Page 1 of 13 PageID 93 \nIN THE UNITED STATES DISTRICT COURT \nFOR THE MIDDLE DISTRICT OF FLORIDA \nTAMPA DIVISION \nUNITED STATES OF AMERICA,  ) \n) \n) \nPlaintiff.  ) \n) \nand  ) \n) \nDEVAUGHN DUNCAN, her minor  )  Case No. 8:II-cv-IOO-RAL-TGW \nson, R.W., JAMES GAINEY, and  ) \nTRA VIS TUCKER,  ) \n) \nPlainti ITs-Intervenors,  ) \n) \nv.  ) \n) \nROBERT S. CAIRNS and KA TERINA D.  ) \nCAIRNS,  ) \n) \nDefendants.  ) \n---------------------) \nCONSENT DECREE \nI. Introduction \nOn January 14,201 I. the United States instituted this action against Raben S. Cairns and \nKalerina D. Caims, a married couple, on behalf of Devaughn Duncan and her three children, \nJames C. Gainey. Travis D. Tucker,l and R.W., a minor, pursuant to Section 812(0) of the Fair \nHousing Act, 42 V.S.c. § 3612(0).  On February 16,2011, Ms. Duncan, on behalf of herself and \nR. W., and Mr. Gainey and Mr. Tucker moved to intervene.  (Okt. 7).  That motion was granted on \nFebruary 17,2011. by order orthe Court, which accepted the filing of the complaint orMs. \nI Mr. Tucker was rercrred to as \"Ch3rles\" Tucker in the Uniled Siaies' complain!. in accordance with infonnalion \nprovided Ihe United States by his llllomeys. SL'e United States' complaint (Okl. I) at paragraphs 1 and 7.  His \nattorneys subsequently infonned the Uniled Slales and the Cairns that Mr. Tucker's first name is \"Travis,\" as \nrcnc:-ctoo in the caption above. \n\nCase 8:11-cv-00100-RAL-TGW  Document 20  Filed 04/11/11  Page 2 of 13 PageID 94 \n2 \nDuncan and her children (\"Plaintiffs/Intervenors\") (Dkt. 7-1) on the same date.  (Dkt. 8). Hence, \nthis Consent Decree resolves the claims of PlaintiIT United States and  PlaintifTslfntervenors \nagainst the Cairns. \nThe actions of Plaintiff United States and PlaintiITs/lntervenors were brought pursuant to \nthe Fair Housing Act of 1968, as amended by the Fair Housing Amendments Act of 1988, 42 \nU.S.c. § 3601, et seq. (the \"Act\").  The PlaintiITs' complaints allege that Mr. and Mrs. Cairns \nevicted Ms. Duncan and her children from a single-family rental home in Gibsonton, Florida \nbecause of their race or color, made one or more statements with respect to the rental of the home \nthat indicated a preference, a limitation, or discrimination based on race or color, and, coerced, \nintimidated, threatened or interfered with Ms. Duncan and her children in their exercise or \nenjoyment of, or on account of their having exercised or enjoyed, rights granted or protected by \nSection 804 of the Act, in violation of Sections 804(a) and (c) and 3617 of the Act, 42 U.S.c. §§ \n3604(a) and (c) and 3617. \nThe parties stipulate that this Court has subject matter jurisdiction over this action \npur,uantlo 28 U.S.C. §§ 1331, 1345, and 42 U.S.c. § 3612(0).  The parties wish to avoid \nprotracted and costly litigation and agree that this dispute should be resolved without the \nnecessity of further proceedings or trial.  Therefore, the parties consent to the entry of this \nConsent Decree, as indicated by the signatures below. \nTherefore. it is hereby, ORDERED, ADJUDGED, and DECREED that: \n! The Coun gramed Plaintiffs/lmervenors' molion pursuant 10 Section 812(0)(2) oflhc Fair Housing ACI, which \nprovides Ihal\"[a]ny aggrieved person with respect 10 the issues 10 be determined in a civil action under [Section \n812(0» may intervene as of right in that civil action.\" \n2 \n\nCase 8:11-cv-00100-RAL-TGW  Document 20  Filed 04/11/11  Page 3 of 13 PageID 95 \nII.  Injunctive Relief \nRobert S. Cairns and Katerina D. Cairns, and any agents, employees, successors, and \npersons in active concert or participation with them, are enjoined from: \nA.  Refusing to rent after the making of a bona fide offer, or refusing to negotiate for \nthe rental of. or otherwise making unavailable or denying, a dwelling to any person \nbecause of race or color, in violation of 42 U.S.c. § 3604(a); \nB.  Making, printing or publishing, or causing to be made, printed or published any \nnotice. statement or advertisement. with respect to the rental of a dwelling. that \nindicates any preference, limitation. or discrimination based on race or color, or an \nintention 10 make any such preference, limitation, or discrimination, in violation of \n42 U.S.C. § 3604(c); and \nC  Coercing. intimidating, threatening, or interfering with any person in the exercise \nor enjoyment of, or on account of his or her having exercised or enjoyed, rights \ngranted or protected by Section 804 of the Fair Housing Act, 42 U.S.C. § 3604, \nbased on race or color, in violation of 42 U.S.C § 3617. \nIII.  Mandatory Education and Training \nA.  Within sixty (60) days after the date of entry of this Consent Decree, Defendant \nRobert Cairns and any of Defendants' employees or agents with responsibility for \nrenting or managing dwellings shall attend a program of educational training \nfocusing on the Consent Decree and federal. state and local fair housing laws, \nregulations and ordinances.  Copies of the Consent Decree shall be provided to all \n3 \n\nCase 8:11-cv-00100-RAL-TGW  Document 20  Filed 04/11/11  Page 4 of 13 PageID 96 \nsuch employees and agents in advance of the training.  The training shall be \nconducted by a qualified individual or organization unconnected to the Defendants \nor their counsel that has been previously approved by the United States.  The \ntraining shall be videotaped.  Any expenses associated with this training shall be \nborne by the Defendants.  By October 31, 2011, Defendant Katerina Cairns shall \nattend a similar approved fair housing training. J \nB.  Within ten (10) days after the training required above, the Defendants shall provide \nto the United States and Plaintiffs/Intervenors certificates confirming attendance at \nthe training in the form of Appendix A, as well as copies of certificates of \ncompletion from the trainers, or signatures from the trainers confirming \nattendance. \" \nIV.  Notification to Public of Nondiscrimination Policies \nWithin ten (10) days after the date of entry of this Consent Decree, the Defendants shall \ntake the following steps to notify the public of their nondiscriminatory policies: \nA.  Post and prominently display at any place of business where the Defendants \nconduct renlal activity andlor have personal conlact with applicants for rental of \ntheir property, a Fair Housing Poster.  See 24 C.F.R. Part 110; and \nMs. Cairns is presently oul or the country and will nOI return until September 20 II. Ms. Cairns must sign and \nj \nreturn the training ceniricate to the United States and PlaintirTsIIntervenors by November 10, 2011. SCI! Section III. \nD., below. \n~ The training materials and any other matenilis the Derendants are required to provide the United States and \nPlaintiffs/Intervenors pursuant to this Decrce (see Sections III lind IV, below) shall be submilled, respectively, via \novernight mail 10: Chier, Housing and Civil Enrorcement Scelion, Civil Rights Division, United Slates Departmcnl of \nJustice, 1800 G Slrcct, N. W., Suite 7002, Washington, D.C. 20006, AUn: OJ 1# 175-17M-495; and Migdalia Figueroa, \nEsquire, Bay Area lcgal Services, Inc., 18238 U.S. 301 Soulh, Wimlluma, Floridll 33598. \n4 \n\nCase 8:11-cv-00100-RAL-TGW  Document 20  Filed 04/11/11  Page 5 of 13 PageID 97 \n8.  Include the words, \"Equal Housing Opportunity,\" or the fair housing logo (see 24 \nC.R.F. § 110.25) in any advertising conducted by the Defendants in newspapers, \ntelephone directories, radio,television or other media, and on all billboards, signs, \npamphlets, brochures and other prominent literature.  The words or logo should be \nprominently placed and easily legible. \nC.  Within ten (10) days of displaying the Fair Housing Poster and publishing or \nprinting any advertisements, including billboards, signs, pamphlets and brochures \nregarding any rental properties, the Defendants shall provide the United States and \nPlaintiffs/Intervenors with copies of the poster and any such advertisements. \nV.  Record Keeping and Monitoring \nA.  The Defendants shall preserve all records pertaining to their obligations under the \nDecree.  Upon rcasonable notice to the Defendants' counsel, representatives of the \nUnited States Department of Justice and counsel for Plaintiffs/Intervenors shall be \npennilted to inspect and copy all such records at reasonable times in order to \nmonitor compliance with the Decrec. \nB.  The Defendants shall give counsel for the United States and Plaintiffllntervenors \nwritten notice within fifteen (15) days of receipt of any written or oral complaint \nagainst the Defendants, regarding discrimination on the basis ofrace or color, and \na description of the resolution of any such complaint within fifteen (IS) days of \nresolution.  If the complaint is written, the Defendants shall provide a copy of it \nwith the notice.  The notice shall include the full details of the complaint, including \n5 \n\nCase 8:11-cv-00100-RAL-TGW  Document 20  Filed 04/11/11  Page 6 of 13 PageID 98 \nthe complainant's name, address and telephone number. The Defendants shall also \npromptly provide the United States and Plaintiffsllntervenors with all information \nthey may request concerning any such complaint and its actual or attempted \nresolution. \nVI.  Relleffor DeVaughn Duncan, James Gainey, Travis Tucker and R.W. \nA.  On May 2, 2011, the Defendants shall pay Plaintiffs/Intervenors, Devaughn \nDuncan, James Gainey. Travis Tucker and R. W., S 12,500 in compensatory \ndamages by transferring that amount electronically into an account designated by \nBay Area Legal Services,lnc., attorneys for Plaintiffs/Intervenors.  Payments from \nthat account will be disbursed to Plaintiffs/Intervenors by Bay Area Legal \nServices, Inc. in the following amounts: $3.125 to Devaughn Duncan; $3. J 25 to \nDevaughn Duncan on behalfofR.W.; $3.125 to James Gainey; and $3.125 to \nTravis Tucker.5 \nB.  On June 1,2011, Defendants shall pay Plaintiffsllntervenors an additional $12,500 \nin compensatory damages by transferring that amount electronically into the \naccount designated by Bay Area Legal Services. Inc .• attorneys for \nPlaintiffs/Intervenors.  A second set of payments from the account will be \ndisburscd to Plaintiffs/Intervenors by Bay Area Legal Services, Inc. in the \nfollowing amounts:  $3,125 to Devaughn Duncan; $3,125 to Devaughn Duncan on \nbchalfofR.W.; $3,125 to James Gainey; and $3.125 to Travis Tucker. for a total \n' The identity ofthe financial institution and the number of the account into whieh the funds arc to be transferred will \nbe provided in writing by counsel for Plaintiffs/Intervenors. together with instructions for such transfer, to counsel for \nDefendants no later than April 26, 2011. \n6 \n\nCase 8:11-cv-00100-RAL-TGW  Document 20  Filed 04/11/11  Page 7 of 13 PageID 99 \nof$6,250 in compensatory damages to each Plaintiff/Intervenor and an overall \ntotal of damages in the amount of$25,OOO. \nC.  Upon transfer of the second installment ofSI2,500 into the account, counsel for \nPlaintiffs/Intervenors shall send to the Defendants executed releases, substantially \nin the form of Appendix B, of all claims, legal or equitable, that Ms. Duncan, Mr. \nGainey, Mr. Tucker and R. W. may have against the Defendants relating to the \nclaims asserted in this lawsuit. \nVII.  Attorneys' Fees for Bay Area Legal Services, Inc. \nA.  On May 2, 2011, the Defendants shall pay counsel for Plaintiffs/Intervenors, Bay \nArea Legal Services, Inc., $2,500 in attorneys' fees by transferring that amount \nelectronically into the account designated by Bay Area Legal Services, Inc.6 \nB.  On June 1,20 II, the Defendants shall pay counsel for PlaintiffS/Intervenors, Bay \nArea Legal Services, Inc., an additional $2,500 in attorneys' fees by transferring \nthat amount electronically into the account designated by Bay Area Legal Services, \nInc. \nC.  Upon transfer of the second installment of$2.500 into the account, for a total of \n$5,000, counsel for Plaintiffs/Intervenors shall send to counsel for the Defendants \nwritten confirmation that Defendants' obligation under this section of the Consent \nDecree has been fulfilled. \n6 Again. the identity of the finnncial institution and the number of the account into which the funds are to be \ntransferred will be provided in writing by counsel for Plaintiffs/Intervenors to counsel for DefendanlS,togctherwith \ninstructions for such transfer, no later than April 26. 2011. \n7 \n\nCase 8:11-cv-00100-RAL-TGW  Document 20  Filed 04/11/11  Page 8 of 13 PageID 100 \nVIII.  Duration of Decree and Termination of Legal Action \nA.  The Court shall retain jurisdiction for three (3) years after the date of entry of this \nDecree to enforce the terms of the Decree, at which time the case shall be \ndismissed with prejudice.  Prior to the expiration of the Decree's term, Plaintiff \nUnited States andlor Plaintiffs/Intervenors may move the Court to extend the \nduration of the Decree for good cause, including on the basis that the Defendants \nhave failed to comply with a provision of the Decree. \nB.  The parties shall endeavor in good faith to resolve informally any differences \nregarding interpretation of and compliance with this Decree prior to bringing \nsuch matters to the Court for resolution.  However, in the event of a failure by the \nDefendants to perform in a timely manner any act required by this Decree, or \notherwise to act in violation of any provision thereof, the United States andlor \nPlaintiffs/Intervenors may move this Court to impose any remedy authorized by \nlaw or equity, including, but not limited to, an order requiring performance of such \nact or deeming such act to have been performed, and an award of any damages, \ncosts, and reasonable attorney's fees that may have been occasioned by the \nDefendants' violation or failure to perform. \nIX.  Time for Performance \nAny time limits for perfonnance imposed by this Consent Decree may be extended \nby the mutual, written agreement of the Plaintiffs and the Defendants. \n8 \n\nCase 8:11-cv-00100-RAL-TGW  Document 20  Filed 04/11/11  Page 9 of 13 PageID 101 \nX.  Costs of litigation \nEach party to this Consent Decree shall bear its own costs associated with this action. \nDefendants shall bear their own attorneys' fees and shall pay the fees of the attorneys for \nPlainliITs/lntervenors, Bay Area Legal Services, Inc., in the amount ofS5,OOO, as set forth in \nSection VII, above. \nII is so ORDERED this ~ day of ;!,;' \\., ~  .2011. \n~~-\nUNITED STATES DISTRICT JUDGE \n9 \n\nCase 8:11-cv-00100-RAL-TGW  Document 20  Filed 04/11/11  Page 10 of 13 PageID 102 \nThe undersigned apply ror and consent to the entry orthis Decree. \nFor the Plaintiff United States: \nROBERT E. O'NEILL  THOMAS E. PEREZ \nUnited States Attorney  Assistant Attorney General \nCivil Rights Division \nBy: E. Kennet\" Stegeby  IslNancy F, Langwgrt\"v \nE. KENNETH STEGEBY  STEVEN H. ROSENBAUM \nAssistant United States Attorney  Chief \nUSAONo. 1I2  MICHAEL S. MAURER \n400 Nonh Tampa Street, Suite 3200  Deputy Chier \nTampa, Florida 33602  NANCY F. LANGWORTHY \nPhone: (813) 274-6303  Trial Attorney \nFax: (813) 274-6198  Bar No.:  377947 (D.C.) \nKenncth.StegcbY@usdoi.gov  Housing and Civil Enrorcement \nSection \nCivil Rights Division \nU.S. Depanment of Justice \n950 Pennsylvania Ave .• NW - G SI. \nWashington, D.C. 20530 \nPhone: (202) 616-8925 \nFax:  (202)514-1116 \n';Uln  .Lang \\\\ on 11\\ '(I u:-.~I(li. t!(l\\ \nFor Plaintiffs Devaughn Duncan, James C. Gainey, Travis D. Tucker and R. W. \nIs/Gregory Grossman \nGREGORY GROSSMAN \nFlorida Bar No.:  0044068 \nMIGDALIA FIGUEROA \nFlorida Bar No.:  0050989 \nBay Area Legal Services, Inc. \nt 8238 U.S. 30 I South \nWimauma, Florida 33498 \nPhone: (813) 634-6044, ext. 110 \n10 \n\nCase 8:11-cv-00100-RAL-TGW  Document 20  Filed 04/11/11  Page 11 of 13 PageID 103 \nFax:  (813)634-1106 \nmli gllcroa((t\"ba Is.org \n!!l!I'OS smn Il({i:ba Is. on.!. \nFor Defendants Robert S. Cairns and Katerinn D. Cairns: \n/sfl'homQs A. Smith \nTHOMAS A. SMITH \nFlorida Bar No.:  75720 \nLaw Offices of Thomas A. Smith \n800 West Platt, Suite 3 \nPhone: (813) 254-8934 \nFax: (813) 251-6621 \nIClstpru'iiJnol.com \nII \n\nCase 8:11-cv-00100-RAL-TGW  Document 20  Filed 04/11/11  Page 12 of 13 PageID 104 \nAPPENDIX A \nTraining Certificate \nI certify that on  • 20_. I received training with respect to the Consent \nDecree entered by the Court in UI/iled Slates v. Robert S. Caims alld Kater;na D. Calms, Civil \nAction NO.8: II-cv-IOO (M.D. Fla.), and with respect to federal, stale and local fair housing laws, \nincluding the federal Fair Housing Act.  I have received a copy of and have read the Consent \nDecree, and have had my questions about the Decree answered.  I understand my responsibilities \nunder the Consent Decree and applicable fair housing laws and shall comply with those \nresponsibilities. \nSignature \nPrint Name \nJob Title \nDate \n12 \n\nCase 8:11-cv-00100-RAL-TGW  Document 20  Filed 04/11/11  Page 13 of 13 PageID 105 \nAPPENDIX B \nRelease of Claims \nIn consideration orthe payment of the sum of __- --:-_-;-:----:-;-c::--;-;;-::--__; -;;_ \ndollars ($  ), pursuant to the Consent Decree entered in United Slaies and Devaughn \nDUllcan. el al. v. Robert S. Cairns and Kaler;lIQ D. Cairns, Case No. 8: II-cv-IOO (M. D. Fla.), I, \n-:;-------:---;:-;:--;-:c::---;;----:--,--:--' hereby release the Defendants named in this action \nfrom any and all liability for any claims, legal or equitable, I may have against them arising out of \nthe issues alleged in the action as of the date of entry or that Consent Decree.  I fully acknowledge \nthat I have read and understand this release and have executed it voluntarily and with full \nknowledge of its legal consequences. \nDated: ______  \n(NAME) \n13 ",
+      "document_type_other": null,
+      "external_url": null,
+      "ecf_number": "20",
+      "clearinghouse_link": "clearinghouse.net/doc/40637"
+    },
+    {
+      "date": null,
+      "date_is_estimate": false,
+      "date_not_available": false,
+      "description": null,
+      "document_source": null,
+      "document_status": null,
+      "document_type": null,
+      "order_type": null,
+      "citation_paren": null,
+      "cite_1_page": null,
+      "cite_1_reporter": null,
+      "cite_1_vol": null,
+      "cite_2_page": null,
+      "cite_2_reporter": null,
+      "cite_2_vol": null,
+      "cite_3_page": null,
+      "cite_3_reporter": null,
+      "cite_3_vol": null,
+      "citation_status": null,
+      "court": null,
+      "no_title": false,
+      "party_types": [],
+      "per_curium": false,
+      "is_core_document": true,
+      "id": 118248,
+      "file": null,
+      "title": null,
+      "text": null,
+      "document_type_other": null,
+      "external_url": null,
+      "ecf_number": null,
+      "clearinghouse_link": "clearinghouse.net/doc/118248"
+    }
+  ],
+  "document_count": 4
+}

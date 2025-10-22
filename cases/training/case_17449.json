@@ -1,0 +1,1397 @@
+{
+  "case_id": 17449,
+  "fetched_at": "2025-10-22T00:30:38.578762",
+  "case_data": {
+    "attorney_orgs": [
+      "ACLU Affiliates (any)"
+    ],
+    "available_documents": [
+      "Trial Court Docket",
+      "Non-settlement Outcome",
+      "Any published opinion"
+    ],
+    "case_defendants": [
+      {
+        "defendant_level": null,
+        "institution": "",
+        "institution_alt_state": null,
+        "institution_city": "",
+        "institution_county": null,
+        "name": "Federal Bureau of Prisons",
+        "defendant_level_other": "",
+        "is_active": true
+      }
+    ],
+    "case_ongoing": "Yes",
+    "case_status": "Approved",
+    "case_types": [
+      "Prison Conditions",
+      "Healthcare Access and Reproductive Issues"
+    ],
+    "cause_other": "",
+    "causes": [
+      "Section 504 (Rehabilitation Act), 29 U.S.C. § 701",
+      "Administrative Procedure Act, 5 U.S.C. §§ 551 et seq.",
+      "Declaratory Judgment Act, 28 U.S.C. § 2201"
+    ],
+    "class_action_granted": "Not sought",
+    "class_action_sought": "No",
+    "closing_year": null,
+    "constitutional_clause": [
+      {
+        "value": "Cruel and Unusual Punishment"
+      }
+    ],
+    "content_of_injunction": [],
+    "court": "District of Kansas",
+    "custom_issues": [],
+    "defendant_payment": "",
+    "defendant_type": [
+      {
+        "value": "Corrections"
+      }
+    ],
+    "docket_status": "Complete as of retrieval date",
+    "facility_type": [
+      {
+        "value": "Government-run"
+      }
+    ],
+    "filing_date": "2019-09-06",
+    "filing_year": 2019,
+    "id": 17449,
+    "injunction_duration": "",
+    "issues": [
+      "General/Misc.: Sanitation / living conditions",
+      "Medical/Mental Health Care: Medical care, general",
+      "Medical/Mental Health Care: Medication, administration of",
+      "General/Misc.: Conditions of confinement",
+      "Disability and Disability Rights: Opioid disorder/medication"
+    ],
+    "last_checked_date": "2020-05-21T00:00:00-04:00",
+    "main_docket": {
+      "id": 28047,
+      "docket_entries": [
+        {
+          "row_number": 53,
+          "id": 8609875,
+          "entry_number": null,
+          "date_filed": "2019-09-06T00:00:00-04:00",
+          "attachments": [],
+          "url": "https://www.courtlistener.com",
+          "recap_pdf_url": null,
+          "pacer_doc_id": null,
+          "description": "NOTICE OF JUDGE ASSIGNMENT: Case assigned to District Judge John W. Lungstrum and Magistrate Judge Angel D. Mitchell for all proceedings. (This is a TEXT ENTRY ONLY. There is no.pdf document associated with this entry.) (ca)"
+        },
+        {
+          "row_number": 47,
+          "id": 8609876,
+          "entry_number": "7",
+          "date_filed": "2019-09-06T00:00:00-04:00",
+          "attachments": [],
+          "url": "https://www.courtlistener.com/docket/16166443/7/crews-v-hawk-sawyer/",
+          "recap_pdf_url": null,
+          "pacer_doc_id": "07905427724",
+          "description": "AFFIDAVIT of Amy Crews re 2 MOTION for Temporary Restraining Order by Plaintiff Leaman Crews(Shroff, Zal) (Entered: 09/06/2019)"
+        },
+        {
+          "row_number": 48,
+          "id": 8609877,
+          "entry_number": "8",
+          "date_filed": "2019-09-06T00:00:00-04:00",
+          "attachments": [],
+          "url": "https://www.courtlistener.com/docket/16166443/8/crews-v-hawk-sawyer/",
+          "recap_pdf_url": "https://www.courtlistener.com/recap/gov.uscourts.ksd.128235/gov.uscourts.ksd.128235.8.0.pdf",
+          "pacer_doc_id": "07905427736",
+          "description": "AFFIDAVIT of Jessie Steffan re 2 MOTION for Temporary Restraining Order by Plaintiff Leaman Crews(Shroff, Zal) (Entered: 09/06/2019)"
+        },
+        {
+          "row_number": 49,
+          "id": 8609878,
+          "entry_number": "9",
+          "date_filed": "2019-09-06T00:00:00-04:00",
+          "attachments": [],
+          "url": "https://www.courtlistener.com/docket/16166443/9/crews-v-hawk-sawyer/",
+          "recap_pdf_url": null,
+          "pacer_doc_id": "07905427744",
+          "description": "DESIGNATION OF PLACE OF TRIAL filed by Plaintiff Leaman Crews - trial to be held in Kansas City. (Bonds, Lauren) (Entered: 09/06/2019)"
+        },
+        {
+          "row_number": 9,
+          "id": 8609892,
+          "entry_number": "18",
+          "date_filed": "2019-09-08T00:00:00-04:00",
+          "attachments": [],
+          "url": "https://www.courtlistener.com/docket/16166443/18/crews-v-hawk-sawyer/",
+          "recap_pdf_url": null,
+          "pacer_doc_id": "07905427872",
+          "description": "NOTICE OF SERVICE by Leaman Crews of Notice of Rescheduled TRO Hearing and Extended Response Deadline (Bonds, Lauren) (Entered: 09/08/2019)"
+        },
+        {
+          "row_number": 62,
+          "id": 8609896,
+          "entry_number": null,
+          "date_filed": "2019-09-09T00:00:00-04:00",
+          "attachments": [],
+          "url": "https://www.courtlistener.com",
+          "recap_pdf_url": null,
+          "pacer_doc_id": null,
+          "description": "Motions No Longer Referred"
+        },
+        {
+          "row_number": 63,
+          "id": 8609897,
+          "entry_number": null,
+          "date_filed": "2019-09-09T00:00:00-04:00",
+          "attachments": [],
+          "url": "https://www.courtlistener.com",
+          "recap_pdf_url": null,
+          "pacer_doc_id": null,
+          "description": "Set/Reset Motion and R&R Deadlines/Hearings - Public"
+        },
+        {
+          "row_number": 10,
+          "id": 8609898,
+          "entry_number": "19",
+          "date_filed": "2019-09-09T00:00:00-04:00",
+          "attachments": [],
+          "url": "https://www.courtlistener.com/docket/16166443/19/crews-v-hawk-sawyer/",
+          "recap_pdf_url": null,
+          "pacer_doc_id": "07905427881",
+          "description": "ENTRY OF APPEARANCE by Christopher Allman on behalf of All Defendants (Allman, Christopher) (Entered: 09/09/2019)"
+        },
+        {
+          "row_number": 13,
+          "id": 8609900,
+          "entry_number": "21",
+          "date_filed": "2019-09-09T00:00:00-04:00",
+          "attachments": [],
+          "url": "https://www.courtlistener.com/docket/16166443/21/crews-v-hawk-sawyer/",
+          "recap_pdf_url": null,
+          "pacer_doc_id": null,
+          "description": "ORDER granting 11 Motion to Appear Pro Hac Vice of Jessica Steffan for Leaman Crews pursuant to D. Kan. Rule 83.5.4 for purposes of this case only. Unless already registered, pro hac vice counsel should register for electronic notification pursuant to the court's Administrative Procedures by completing a CM/ECF Electronic Filing Registration Form at http://www.ksd.uscourts.gov/. Signed by Magistrate Judge Angel D. Mitchell on 9/9/2019. (This is a TEXT ENTRY ONLY. There is no.pdf document associated with this entry.) (ydm) (Entered: 09/09/2019)"
+        },
+        {
+          "row_number": 17,
+          "id": 8609904,
+          "entry_number": "25",
+          "date_filed": "2019-09-09T00:00:00-04:00",
+          "attachments": [],
+          "url": "https://www.courtlistener.com/docket/16166443/25/crews-v-hawk-sawyer/",
+          "recap_pdf_url": null,
+          "pacer_doc_id": "07905428413",
+          "description": "Motion for Leave to File Under Seal"
+        },
+        {
+          "row_number": 18,
+          "id": 8609905,
+          "entry_number": "26",
+          "date_filed": "2019-09-09T00:00:00-04:00",
+          "attachments": [],
+          "url": "https://www.courtlistener.com/docket/16166443/26/crews-v-hawk-sawyer/",
+          "recap_pdf_url": null,
+          "pacer_doc_id": null,
+          "description": "Order on Motion for Leave to File Under Seal"
+        },
+        {
+          "row_number": 19,
+          "id": 8609906,
+          "entry_number": "27",
+          "date_filed": "2019-09-09T00:00:00-04:00",
+          "attachments": [],
+          "url": "https://www.courtlistener.com/docket/16166443/27/crews-v-hawk-sawyer/",
+          "recap_pdf_url": null,
+          "pacer_doc_id": "07905428517",
+          "description": "SEALED Response to Motion"
+        },
+        {
+          "row_number": 66,
+          "id": 8609914,
+          "entry_number": null,
+          "date_filed": "2019-10-31T00:00:00-04:00",
+          "attachments": [],
+          "url": "https://www.courtlistener.com",
+          "recap_pdf_url": null,
+          "pacer_doc_id": null,
+          "description": "Summons Issued"
+        },
+        {
+          "row_number": 26,
+          "id": 8609915,
+          "entry_number": "33",
+          "date_filed": "2019-11-07T00:00:00-05:00",
+          "attachments": [],
+          "url": "https://www.courtlistener.com/docket/16166443/33/crews-v-hawk-sawyer/",
+          "recap_pdf_url": null,
+          "pacer_doc_id": "07905487897",
+          "description": "Return of Service of Summons EXECUTED as to USA"
+        },
+        {
+          "row_number": 27,
+          "id": 8609916,
+          "entry_number": "34",
+          "date_filed": "2019-12-20T00:00:00-05:00",
+          "attachments": [],
+          "url": "https://www.courtlistener.com/docket/16166443/34/crews-v-hawk-sawyer/",
+          "recap_pdf_url": null,
+          "pacer_doc_id": "07905524135",
+          "description": "Clerks Order Extending Time to Answer"
+        },
+        {
+          "row_number": 29,
+          "id": 8609918,
+          "entry_number": "36",
+          "date_filed": "2020-01-17T00:00:00-05:00",
+          "attachments": [],
+          "url": "https://www.courtlistener.com/docket/16166443/36/crews-v-hawk-sawyer/",
+          "recap_pdf_url": null,
+          "pacer_doc_id": "07905543030",
+          "description": "Dismiss"
+        },
+        {
+          "row_number": 31,
+          "id": 8609920,
+          "entry_number": "38",
+          "date_filed": "2020-01-24T00:00:00-05:00",
+          "attachments": [],
+          "url": "https://www.courtlistener.com/docket/16166443/38/crews-v-hawk-sawyer/",
+          "recap_pdf_url": null,
+          "pacer_doc_id": "07905548879",
+          "description": "Docket Annotation"
+        },
+        {
+          "row_number": 35,
+          "id": 8609923,
+          "entry_number": "41",
+          "date_filed": "2020-02-07T00:00:00-05:00",
+          "attachments": [],
+          "url": "https://www.courtlistener.com/docket/16166443/41/crews-v-hawk-sawyer/",
+          "recap_pdf_url": null,
+          "pacer_doc_id": "07905560672",
+          "description": "Extension of Time to File Response/Reply"
+        },
+        {
+          "row_number": 36,
+          "id": 8609926,
+          "entry_number": "43",
+          "date_filed": "2020-02-13T00:00:00-05:00",
+          "attachments": [],
+          "url": "https://www.courtlistener.com/docket/16166443/43/crews-v-hawk-sawyer/",
+          "recap_pdf_url": null,
+          "pacer_doc_id": "07905566244",
+          "description": "Extension of Time to File Response/Reply"
+        },
+        {
+          "row_number": 70,
+          "id": 8609928,
+          "entry_number": null,
+          "date_filed": "2020-02-18T00:00:00-05:00",
+          "attachments": [],
+          "url": "https://www.courtlistener.com",
+          "recap_pdf_url": null,
+          "pacer_doc_id": null,
+          "description": "Order on Motion for Extension of Time to File Response/Reply"
+        },
+        {
+          "row_number": 72,
+          "id": 8609932,
+          "entry_number": null,
+          "date_filed": "2020-03-03T00:00:00-05:00",
+          "attachments": [],
+          "url": "https://www.courtlistener.com",
+          "recap_pdf_url": null,
+          "pacer_doc_id": null,
+          "description": "Motions No Longer Referred"
+        },
+        {
+          "row_number": 41,
+          "id": 8609935,
+          "entry_number": "50",
+          "date_filed": "2020-03-19T00:00:00-04:00",
+          "attachments": [],
+          "url": "https://www.courtlistener.com/docket/16166443/50/crews-v-hawk-sawyer/",
+          "recap_pdf_url": null,
+          "pacer_doc_id": "07905599275",
+          "description": "Leave to File Under Seal"
+        },
+        {
+          "row_number": 42,
+          "id": 8609937,
+          "entry_number": "52",
+          "date_filed": "2020-03-20T00:00:00-04:00",
+          "attachments": [],
+          "url": "https://www.courtlistener.com/docket/16166443/52/crews-v-hawk-sawyer/",
+          "recap_pdf_url": null,
+          "pacer_doc_id": "07905599638",
+          "description": "SEALED Exhibits"
+        },
+        {
+          "row_number": 43,
+          "id": 8609938,
+          "entry_number": "53",
+          "date_filed": "2020-03-20T00:00:00-04:00",
+          "attachments": [],
+          "url": "https://www.courtlistener.com/docket/16166443/53/crews-v-hawk-sawyer/",
+          "recap_pdf_url": null,
+          "pacer_doc_id": "07905599644",
+          "description": "SEALED Exhibits"
+        },
+        {
+          "row_number": 75,
+          "id": 8609939,
+          "entry_number": null,
+          "date_filed": "2020-03-20T00:00:00-04:00",
+          "attachments": [],
+          "url": "https://www.courtlistener.com",
+          "recap_pdf_url": null,
+          "pacer_doc_id": null,
+          "description": "Order on Motion for Leave to File Under Seal"
+        },
+        {
+          "row_number": 44,
+          "id": 10145239,
+          "entry_number": "54",
+          "date_filed": "2020-03-31T00:00:00-04:00",
+          "attachments": [],
+          "url": "https://www.courtlistener.com/docket/16166443/54/crews-v-hawk-sawyer/",
+          "recap_pdf_url": "https://www.courtlistener.com/recap/gov.uscourts.ksd.128235/gov.uscourts.ksd.128235.54.0_1.pdf",
+          "pacer_doc_id": "07905608220",
+          "description": " MEMORANDUM AND ORDER granting  36   Motion to Dismiss.  The court determines that it lacks subject matter jurisdiction over this case. The court \"cannot accord [Plaintiff] prospective relief that would  have any effect in the real world.\" J ordan v. Sosa, 654 F.3d 1012, 1029 (10th Cir. 2011). There is no  longer a case or controversy, and Plaintiff's claims are moot. Plaintiff's claims are dismissed without prejudice for lack of subject matter jurisdiction.   Signed by District  Judge John W. Broomes on 3/31/2020.    (sz)"
+        },
+        {
+          "row_number": 45,
+          "id": 10145240,
+          "entry_number": "55",
+          "date_filed": "2020-03-31T00:00:00-04:00",
+          "attachments": [],
+          "url": "https://www.courtlistener.com/docket/16166443/55/crews-v-hawk-sawyer/",
+          "recap_pdf_url": "https://www.courtlistener.com/recap/gov.uscourts.ksd.128235/gov.uscourts.ksd.128235.55.0.pdf",
+          "pacer_doc_id": "07905608223",
+          "description": "Judgment"
+        },
+        {
+          "row_number": 50,
+          "id": 8609866,
+          "entry_number": null,
+          "date_filed": "2019-09-06T00:00:00-04:00",
+          "attachments": [],
+          "url": "https://www.courtlistener.com",
+          "recap_pdf_url": null,
+          "pacer_doc_id": null,
+          "description": "Notice of Judge Assignment"
+        },
+        {
+          "row_number": 52,
+          "id": 8609872,
+          "entry_number": null,
+          "date_filed": "2019-09-06T00:00:00-04:00",
+          "attachments": [],
+          "url": "https://www.courtlistener.com",
+          "recap_pdf_url": null,
+          "pacer_doc_id": null,
+          "description": "NOTICE OF DEFICIENCY - Civil cover sheet is missing. The filing party/attorney is directed to correct the deficiency immediately.(This is a TEXT ENTRY ONLY. There is no.pdf document associated with this entry.) (ca)"
+        },
+        {
+          "row_number": 2,
+          "id": 8609882,
+          "entry_number": "11",
+          "date_filed": "2019-09-07T00:00:00-04:00",
+          "attachments": [
+            {
+              "recap_id": 160920844,
+              "pacer_url": "https://ecf.ksd.uscourts.gov/doc1/07905427802?caseid=128235",
+              "description": "Affidavit Steffan Pro Hac Vice Affidavit",
+              "attachment_number": 1
+            },
+            {
+              "recap_id": 160920845,
+              "pacer_url": "https://ecf.ksd.uscourts.gov/doc1/07905427803?caseid=128235",
+              "description": "ECF Registration Form Steffan ECF Registration Form",
+              "attachment_number": 2
+            }
+          ],
+          "url": "https://www.courtlistener.com/docket/16166443/11/crews-v-hawk-sawyer/",
+          "recap_pdf_url": null,
+          "pacer_doc_id": "07905427801",
+          "description": "MOTION for attorney Jessica Steffan to appear pro hac vice ( Pro hac vice fee $50, Internet Payment Receipt Number AKSDC-4914926.) by Plaintiff Leaman Crews (referred to Magistrate Judge Angel D. Mitchell) (Attachments: # 1 Affidavit Steffan Pro Hac Vice Affidavit, # 2 ECF Registration Form Steffan ECF Registration Form)(Bonds, Lauren) (Entered: 09/07/2019)"
+        },
+        {
+          "row_number": 56,
+          "id": 8609889,
+          "entry_number": null,
+          "date_filed": "2019-09-08T00:00:00-04:00",
+          "attachments": [],
+          "url": "https://www.courtlistener.com",
+          "recap_pdf_url": null,
+          "pacer_doc_id": null,
+          "description": "Reassigning Case"
+        },
+        {
+          "row_number": 57,
+          "id": 8609890,
+          "entry_number": null,
+          "date_filed": "2019-09-08T00:00:00-04:00",
+          "attachments": [],
+          "url": "https://www.courtlistener.com",
+          "recap_pdf_url": null,
+          "pacer_doc_id": null,
+          "description": "~Util - Set Motion and R&R Deadlines/Hearings"
+        },
+        {
+          "row_number": 58,
+          "id": 8609891,
+          "entry_number": null,
+          "date_filed": "2019-09-08T00:00:00-04:00",
+          "attachments": [],
+          "url": "https://www.courtlistener.com",
+          "recap_pdf_url": null,
+          "pacer_doc_id": null,
+          "description": "Order"
+        },
+        {
+          "row_number": 59,
+          "id": 8609893,
+          "entry_number": null,
+          "date_filed": "2019-09-09T00:00:00-04:00",
+          "attachments": [],
+          "url": "https://www.courtlistener.com",
+          "recap_pdf_url": null,
+          "pacer_doc_id": null,
+          "description": "MOTION REFERRAL to Magistrate Judge REMOVED as to: 2 MOTION for Temporary Restraining Order. The motion will be resolved by the District Judge. (ks)"
+        },
+        {
+          "row_number": 12,
+          "id": 8609899,
+          "entry_number": "20",
+          "date_filed": "2019-09-09T00:00:00-04:00",
+          "attachments": [],
+          "url": "https://www.courtlistener.com/docket/16166443/20/crews-v-hawk-sawyer/",
+          "recap_pdf_url": null,
+          "pacer_doc_id": "07905427884",
+          "description": "ENTRY OF APPEARANCE by Bryan C. Clark on behalf of All Defendants (Clark, Bryan) (Entered: 09/09/2019)"
+        },
+        {
+          "row_number": 64,
+          "id": 8609909,
+          "entry_number": null,
+          "date_filed": "2019-09-11T00:00:00-04:00",
+          "attachments": [],
+          "url": "https://www.courtlistener.com",
+          "recap_pdf_url": null,
+          "pacer_doc_id": null,
+          "description": "Notice of Hearing on Motion"
+        },
+        {
+          "row_number": 34,
+          "id": 8609922,
+          "entry_number": "40",
+          "date_filed": "2020-01-30T00:00:00-05:00",
+          "attachments": [],
+          "url": "https://www.courtlistener.com/docket/16166443/40/crews-v-hawk-sawyer/",
+          "recap_pdf_url": null,
+          "pacer_doc_id": "07905553471",
+          "description": "Order on Motion to Stay Discovery"
+        },
+        {
+          "row_number": 51,
+          "id": 8609867,
+          "entry_number": null,
+          "date_filed": "2019-09-06T00:00:00-04:00",
+          "attachments": [],
+          "url": "https://www.courtlistener.com",
+          "recap_pdf_url": null,
+          "pacer_doc_id": null,
+          "description": "Notice of Deficiency"
+        },
+        {
+          "row_number": 54,
+          "id": 8609879,
+          "entry_number": null,
+          "date_filed": "2019-09-07T00:00:00-04:00",
+          "attachments": [],
+          "url": "https://www.courtlistener.com",
+          "recap_pdf_url": null,
+          "pacer_doc_id": null,
+          "description": "ORDER REASSIGNING CASE: Case reassigned to District Judge Carlos Murguia for all further proceedings. District Judge John W. Lungstrum no longer assigned to case. Signed by deputy clerk on 9/7/2019. (This is a TEXT ENTRY ONLY. There is no.pdf document associated with this entry.)(hw)"
+        },
+        {
+          "row_number": 1,
+          "id": 8609881,
+          "entry_number": "10",
+          "date_filed": "2019-09-07T00:00:00-04:00",
+          "attachments": [],
+          "url": "https://www.courtlistener.com/docket/16166443/10/crews-v-hawk-sawyer/",
+          "recap_pdf_url": null,
+          "pacer_doc_id": "07905427798",
+          "description": "NOTICE OF SERVICE by Leaman Crews of Notice of TRO Hearing and Response Deadline (Bonds, Lauren) (Entered: 09/07/2019)"
+        },
+        {
+          "row_number": 14,
+          "id": 8609901,
+          "entry_number": "22",
+          "date_filed": "2019-09-09T00:00:00-04:00",
+          "attachments": [],
+          "url": "https://www.courtlistener.com/docket/16166443/22/crews-v-hawk-sawyer/",
+          "recap_pdf_url": null,
+          "pacer_doc_id": null,
+          "description": "ORDER granting 12 Motion to Appear Pro Hac Vice of Anthony E. Rothert for Leaman Crews pursuant to D. Kan. Rule 83.5.4 for purposes of this case only. Unless already registered, pro hac vice counsel should register for electronic notification pursuant to the court's Administrative Procedures by completing a CM/ECF Electronic Filing Registration Form at http://www.ksd.uscourts.gov/. Signed by Magistrate Judge Angel D. Mitchell on 9/9/2019. (This is a TEXT ENTRY ONLY. There is no.pdf document associated with this entry.) (ydm) (Entered: 09/09/2019)"
+        },
+        {
+          "row_number": 15,
+          "id": 8609902,
+          "entry_number": "23",
+          "date_filed": "2019-09-09T00:00:00-04:00",
+          "attachments": [],
+          "url": "https://www.courtlistener.com/docket/16166443/23/crews-v-hawk-sawyer/",
+          "recap_pdf_url": null,
+          "pacer_doc_id": null,
+          "description": "ORDER granting 13 Motion to Appear Pro Hac Vice of Gillian R. Wilcox for Leaman Crews pursuant to D. Kan. Rule 83.5.4 for purposes of this case only. Unless already registered, pro hac vice counsel should register for electronic notification pursuant to the court's Administrative Procedures by completing a CM/ECF Electronic Filing Registration Form at http://www.ksd.uscourts.gov/. Signed by Magistrate Judge Angel D. Mitchell on 9/9/2019. (ydm) (Entered: 09/09/2019)"
+        },
+        {
+          "row_number": 68,
+          "id": 8609925,
+          "entry_number": null,
+          "date_filed": "2020-02-07T00:00:00-05:00",
+          "attachments": [],
+          "url": "https://www.courtlistener.com",
+          "recap_pdf_url": null,
+          "pacer_doc_id": null,
+          "description": "Order on Motion for Extension of Time to File Response/Reply"
+        },
+        {
+          "row_number": 69,
+          "id": 8609927,
+          "entry_number": null,
+          "date_filed": "2020-02-13T00:00:00-05:00",
+          "attachments": [],
+          "url": "https://www.courtlistener.com",
+          "recap_pdf_url": null,
+          "pacer_doc_id": null,
+          "description": "Motions No Longer Referred"
+        },
+        {
+          "row_number": 38,
+          "id": 8609931,
+          "entry_number": "47",
+          "date_filed": "2020-03-03T00:00:00-05:00",
+          "attachments": [],
+          "url": "https://www.courtlistener.com/docket/16166443/47/crews-v-hawk-sawyer/",
+          "recap_pdf_url": null,
+          "pacer_doc_id": "07905582779",
+          "description": "Extension of Time to File Response/Reply"
+        },
+        {
+          "row_number": 23,
+          "id": 8609911,
+          "entry_number": "30",
+          "date_filed": "2019-09-11T00:00:00-04:00",
+          "attachments": [],
+          "url": "https://www.courtlistener.com/docket/16166443/30/crews-v-hawk-sawyer/",
+          "recap_pdf_url": null,
+          "pacer_doc_id": null,
+          "description": "Notice of Hearing on Motion"
+        },
+        {
+          "row_number": 55,
+          "id": 8609880,
+          "entry_number": null,
+          "date_filed": "2019-09-07T00:00:00-04:00",
+          "attachments": [],
+          "url": "https://www.courtlistener.com",
+          "recap_pdf_url": null,
+          "pacer_doc_id": null,
+          "description": "Order Reassigning Case"
+        },
+        {
+          "row_number": 28,
+          "id": 8609917,
+          "entry_number": "35",
+          "date_filed": "2019-12-26T00:00:00-05:00",
+          "attachments": [],
+          "url": "https://www.courtlistener.com/docket/16166443/35/crews-v-hawk-sawyer/",
+          "recap_pdf_url": null,
+          "pacer_doc_id": "07905526696",
+          "description": "Initial Order Regarding Planning and Scheduling"
+        },
+        {
+          "row_number": 73,
+          "id": 8609933,
+          "entry_number": null,
+          "date_filed": "2020-03-03T00:00:00-05:00",
+          "attachments": [],
+          "url": "https://www.courtlistener.com",
+          "recap_pdf_url": null,
+          "pacer_doc_id": null,
+          "description": "Order on Motion for Extension of Time to File Response/Reply"
+        },
+        {
+          "row_number": 71,
+          "id": 8609930,
+          "entry_number": null,
+          "date_filed": "2020-02-21T00:00:00-05:00",
+          "attachments": [],
+          "url": "https://www.courtlistener.com",
+          "recap_pdf_url": null,
+          "pacer_doc_id": null,
+          "description": "Reassigning Case"
+        },
+        {
+          "row_number": 61,
+          "id": 8609895,
+          "entry_number": null,
+          "date_filed": "2019-09-09T00:00:00-04:00",
+          "attachments": [],
+          "url": "https://www.courtlistener.com",
+          "recap_pdf_url": null,
+          "pacer_doc_id": null,
+          "description": "Order on Motion for Leave to File Under Seal"
+        },
+        {
+          "row_number": 3,
+          "id": 8609883,
+          "entry_number": "12",
+          "date_filed": "2019-09-07T00:00:00-04:00",
+          "attachments": [
+            {
+              "recap_id": 160920842,
+              "pacer_url": "https://ecf.ksd.uscourts.gov/doc1/07905427807?caseid=128235",
+              "description": "Affidavit Rothert PHV Affidavit",
+              "attachment_number": 1
+            },
+            {
+              "recap_id": 160920843,
+              "pacer_url": "https://ecf.ksd.uscourts.gov/doc1/07905427808?caseid=128235",
+              "description": "ECF Registration Form Rothert ECF Form",
+              "attachment_number": 2
+            }
+          ],
+          "url": "https://www.courtlistener.com/docket/16166443/12/crews-v-hawk-sawyer/",
+          "recap_pdf_url": null,
+          "pacer_doc_id": "07905427806",
+          "description": "MOTION for attorney Anthony Rothert to appear pro hac vice ( Pro hac vice fee $50, Internet Payment Receipt Number AKSDC-4914927.) by Plaintiff Leaman Crews (referred to Magistrate Judge Angel D. Mitchell) (Attachments: # 1 Affidavit Rothert PHV Affidavit, # 2 ECF Registration Form Rothert ECF Form)(Bonds, Lauren) (Entered: 09/07/2019)"
+        },
+        {
+          "row_number": 5,
+          "id": 8609885,
+          "entry_number": "14",
+          "date_filed": "2019-09-07T00:00:00-04:00",
+          "attachments": [],
+          "url": "https://www.courtlistener.com/docket/16166443/14/crews-v-hawk-sawyer/",
+          "recap_pdf_url": "https://www.courtlistener.com/recap/gov.uscourts.ksd.128235/gov.uscourts.ksd.128235.14.0.pdf",
+          "pacer_doc_id": "07905427816",
+          "description": "AMENDED COMPLAINT against Leaman Crews, filed by Leaman Crews.(Bonds, Lauren) (Entered: 09/07/2019)"
+        },
+        {
+          "row_number": 39,
+          "id": 8609934,
+          "entry_number": "49",
+          "date_filed": "2020-03-19T00:00:00-04:00",
+          "attachments": [
+            {
+              "recap_id": 160920851,
+              "pacer_url": "https://ecf.ksd.uscourts.gov/doc1/07905599268?caseid=128235",
+              "description": "List of Attachments",
+              "attachment_number": 1
+            },
+            {
+              "recap_id": 160920852,
+              "pacer_url": "https://ecf.ksd.uscourts.gov/doc1/07905599269?caseid=128235",
+              "description": "Declaration of Kristine A. Aulepp, D.O., Clinical Director",
+              "attachment_number": 2
+            },
+            {
+              "recap_id": 160920853,
+              "pacer_url": "https://ecf.ksd.uscourts.gov/doc1/07905599270?caseid=128235",
+              "description": "Declaration of Jason Clark, M.D., Staff Physician",
+              "attachment_number": 3
+            },
+            {
+              "recap_id": 160920854,
+              "pacer_url": "https://ecf.ksd.uscourts.gov/doc1/07905599271?caseid=128235",
+              "description": "Declaration of D. Churchill, Senior Officer Specialist",
+              "attachment_number": 4
+            },
+            {
+              "recap_id": 160920855,
+              "pacer_url": "https://ecf.ksd.uscourts.gov/doc1/07905599272?caseid=128235",
+              "description": "Declaration of J. Herbig, Special Investigative Support Technician",
+              "attachment_number": 5
+            }
+          ],
+          "url": "https://www.courtlistener.com/docket/16166443/49/crews-v-hawk-sawyer/",
+          "recap_pdf_url": null,
+          "pacer_doc_id": "07905599267",
+          "description": "Reply to Response to Motion"
+        },
+        {
+          "row_number": 0,
+          "id": 8609868,
+          "entry_number": "1",
+          "date_filed": "2019-09-06T00:00:00-04:00",
+          "attachments": [],
+          "url": "https://www.courtlistener.com/docket/16166443/1/crews-v-hawk-sawyer/",
+          "recap_pdf_url": "https://www.courtlistener.com/recap/gov.uscourts.ksd.128235/gov.uscourts.ksd.128235.1.0.pdf",
+          "pacer_doc_id": "07905427616",
+          "description": "COMPLAINT with trial location of Kansas City ( Filing fee $400, Internet Payment Receipt Number AKSDC-4914804.), filed by Leaman Crews.(Bonds, Lauren) (Entered: 09/06/2019)"
+        },
+        {
+          "row_number": 11,
+          "id": 8609869,
+          "entry_number": "2",
+          "date_filed": "2019-09-06T00:00:00-04:00",
+          "attachments": [],
+          "url": "https://www.courtlistener.com/docket/16166443/2/crews-v-hawk-sawyer/",
+          "recap_pdf_url": "https://www.courtlistener.com/recap/gov.uscourts.ksd.128235/gov.uscourts.ksd.128235.2.0.pdf",
+          "pacer_doc_id": "07905427639",
+          "description": "MOTION for Temporary Restraining Order by Plaintiff Leaman Crews (Bonds, Lauren) (Entered: 09/06/2019)"
+        },
+        {
+          "row_number": 22,
+          "id": 8609870,
+          "entry_number": "3",
+          "date_filed": "2019-09-06T00:00:00-04:00",
+          "attachments": [
+            {
+              "recap_id": 105906897,
+              "pacer_url": "https://ecf.ksd.uscourts.gov/doc1/07905427652?caseid=128235",
+              "description": "Exhibit BOP Program Statement",
+              "attachment_number": 1
+            },
+            {
+              "recap_id": 105906898,
+              "pacer_url": "https://ecf.ksd.uscourts.gov/doc1/07905427653?caseid=128235",
+              "description": "Exhibit BOP Health Services National Formulary",
+              "attachment_number": 2
+            },
+            {
+              "recap_id": 105906899,
+              "pacer_url": "https://ecf.ksd.uscourts.gov/doc1/07905427654?caseid=128235",
+              "description": "Exhibit US DOJ Letter",
+              "attachment_number": 3
+            }
+          ],
+          "url": "https://www.courtlistener.com/docket/16166443/3/crews-v-hawk-sawyer/",
+          "recap_pdf_url": "https://www.courtlistener.com/recap/gov.uscourts.ksd.128235/gov.uscourts.ksd.128235.3.0.pdf",
+          "pacer_doc_id": "07905427651",
+          "description": "MEMORANDUM IN SUPPORT of 2 MOTION for Temporary Restraining Order by Plaintiff Leaman Crews (Attachments: # 1 Exhibit BOP Program Statement, # 2 Exhibit BOP Health Services National Formulary, # 3 Exhibit US DOJ Letter)(Shroff, Zal) (Entered: 09/06/2019)"
+        },
+        {
+          "row_number": 33,
+          "id": 8609871,
+          "entry_number": "4",
+          "date_filed": "2019-09-06T00:00:00-04:00",
+          "attachments": [
+            {
+              "recap_id": 105905186,
+              "pacer_url": "https://ecf.ksd.uscourts.gov/doc1/07905427678?caseid=128235",
+              "description": "Exhibit MacDonald Curriculum Vitae",
+              "attachment_number": 1
+            },
+            {
+              "recap_id": 105905187,
+              "pacer_url": "https://ecf.ksd.uscourts.gov/doc1/07905427679?caseid=128235",
+              "description": "Exhibit Opioid Substitution Therapy Article",
+              "attachment_number": 2
+            },
+            {
+              "recap_id": 105905188,
+              "pacer_url": "https://ecf.ksd.uscourts.gov/doc1/07905427680?caseid=128235",
+              "description": "Exhibit SAMHSA Paper",
+              "attachment_number": 3
+            },
+            {
+              "recap_id": 105905189,
+              "pacer_url": "https://ecf.ksd.uscourts.gov/doc1/07905427681?caseid=128235",
+              "description": "Exhibit BOP Guidance re Detoxification",
+              "attachment_number": 4
+            },
+            {
+              "recap_id": 105905190,
+              "pacer_url": "https://ecf.ksd.uscourts.gov/doc1/07905427682?caseid=128235",
+              "description": "Exhibit Opioid Substitution Therapy Article",
+              "attachment_number": 5
+            },
+            {
+              "recap_id": 105905191,
+              "pacer_url": "https://ecf.ksd.uscourts.gov/doc1/07905427683?caseid=128235",
+              "description": "Exhibit Release from Prison Article",
+              "attachment_number": 6
+            },
+            {
+              "recap_id": 105905192,
+              "pacer_url": "https://ecf.ksd.uscourts.gov/doc1/07905427684?caseid=128235",
+              "description": "Exhibit Methadone Continuation Article",
+              "attachment_number": 7
+            },
+            {
+              "recap_id": 105905193,
+              "pacer_url": "https://ecf.ksd.uscourts.gov/doc1/07905427685?caseid=128235",
+              "description": "Exhibit Opioid Treatment in Prison Article",
+              "attachment_number": 8
+            },
+            {
+              "recap_id": 105905194,
+              "pacer_url": "https://ecf.ksd.uscourts.gov/doc1/07905427686?caseid=128235",
+              "description": "Exhibit Study re Post-Incarceration Fatal Overdose",
+              "attachment_number": 9
+            },
+            {
+              "recap_id": 105905195,
+              "pacer_url": "https://ecf.ksd.uscourts.gov/doc1/07905427687?caseid=128235",
+              "description": "Exhibit Study re Medication for OUD",
+              "attachment_number": 10
+            },
+            {
+              "recap_id": 105905196,
+              "pacer_url": "https://ecf.ksd.uscourts.gov/doc1/07905427688?caseid=128235",
+              "description": "Exhibit Article re Opioid Substitution Treatment",
+              "attachment_number": 11
+            },
+            {
+              "recap_id": 105905197,
+              "pacer_url": "https://ecf.ksd.uscourts.gov/doc1/07905427689?caseid=128235",
+              "description": "Exhibit Article re mortality risk after MAT",
+              "attachment_number": 12
+            },
+            {
+              "pdf_url": "https://www.courtlistener.com/recap/gov.uscourts.ksd.128235/gov.uscourts.ksd.128235.4.13.pdf",
+              "recap_id": 105905198,
+              "pacer_url": "https://ecf.ksd.uscourts.gov/doc1/07905427690?caseid=128235",
+              "description": "Exhibit Medical Records for Mr. Crews",
+              "attachment_number": 13
+            }
+          ],
+          "url": "https://www.courtlistener.com/docket/16166443/4/crews-v-hawk-sawyer/",
+          "recap_pdf_url": null,
+          "pacer_doc_id": "07905427677",
+          "description": "AFFIDAVIT of Dr. Ross MacDonald re 2 MOTION for Temporary Restraining Order by Plaintiff Leaman Crews (Attachments: # 1 Exhibit MacDonald Curriculum Vitae, # 2 Exhibit Opioid Substitution Therapy Article, # 3 Exhibit SAMHSA Paper, # 4 Exhibit BOP Guidance re Detoxification, # 5 Exhibit Opioid Substitution Therapy Article, # 6 Exhibit Release from Prison Article, # 7 Exhibit Methadone Continuation Article, # 8 Exhibit Opioid Treatment in Prison Article, # 9 Exhibit Study re Post-Incarceration Fatal Overdose, # 10 Exhibit Study re Medication for OUD, # 11 Exhibit Article re Opioid Substitution Treatment, # 12 Exhibit Article re mortality risk after MAT, # 13 Exhibit Medical Records for Mr. Crews)(Shroff, Zal) (Entered: 09/06/2019)"
+        },
+        {
+          "row_number": 40,
+          "id": 8609873,
+          "entry_number": "5",
+          "date_filed": "2019-09-06T00:00:00-04:00",
+          "attachments": [
+            {
+              "recap_id": 105906775,
+              "pacer_url": "https://ecf.ksd.uscourts.gov/doc1/07905427713?caseid=128235",
+              "description": "Exhibit Dr. Witt Curriculum Vitae",
+              "attachment_number": 1
+            },
+            {
+              "recap_id": 105906776,
+              "pacer_url": "https://ecf.ksd.uscourts.gov/doc1/07905427714?caseid=128235",
+              "description": "Exhibit DSM-5 Excerpts",
+              "attachment_number": 2
+            },
+            {
+              "recap_id": 105906777,
+              "pacer_url": "https://ecf.ksd.uscourts.gov/doc1/07905427715?caseid=128235",
+              "description": "Exhibit Article re Opioid Abuse in Chronic Pain",
+              "attachment_number": 3
+            },
+            {
+              "recap_id": 105906778,
+              "pacer_url": "https://ecf.ksd.uscourts.gov/doc1/07905427716?caseid=128235",
+              "description": "Exhibit Risk Factors for Proscribed Opioids Abuse Article",
+              "attachment_number": 4
+            },
+            {
+              "recap_id": 105906779,
+              "pacer_url": "https://ecf.ksd.uscourts.gov/doc1/07905427717?caseid=128235",
+              "description": "Exhibit SG's Report on Addiction",
+              "attachment_number": 5
+            },
+            {
+              "recap_id": 105906780,
+              "pacer_url": "https://ecf.ksd.uscourts.gov/doc1/07905427718?caseid=128235",
+              "description": "Exhibit SAMHSA Medications for OUD",
+              "attachment_number": 6
+            }
+          ],
+          "url": "https://www.courtlistener.com/docket/16166443/5/crews-v-hawk-sawyer/",
+          "recap_pdf_url": null,
+          "pacer_doc_id": "07905427712",
+          "description": "AFFIDAVIT of Dr. Laurel Witt re 2 MOTION for Temporary Restraining Order by Plaintiff Leaman Crews (Attachments: # 1 Exhibit Dr. Witt Curriculum Vitae, # 2 Exhibit DSM-5 Excerpts, # 3 Exhibit Article re Opioid Abuse in Chronic Pain, # 4 Exhibit Risk Factors for Proscribed Opioids Abuse Article, # 5 Exhibit SG's Report on Addiction, # 6 Exhibit SAMHSA Medications for OUD)(Shroff, Zal) (Entered: 09/06/2019)"
+        },
+        {
+          "row_number": 46,
+          "id": 8609874,
+          "entry_number": "6",
+          "date_filed": "2019-09-06T00:00:00-04:00",
+          "attachments": [],
+          "url": "https://www.courtlistener.com/docket/16166443/6/crews-v-hawk-sawyer/",
+          "recap_pdf_url": null,
+          "pacer_doc_id": "07905427721",
+          "description": "CIVIL COVER SHEET by Plaintiff Leaman Crews. (Bonds, Lauren) (Entered: 09/06/2019)"
+        },
+        {
+          "row_number": 4,
+          "id": 8609884,
+          "entry_number": "13",
+          "date_filed": "2019-09-07T00:00:00-04:00",
+          "attachments": [
+            {
+              "recap_id": 160920840,
+              "pacer_url": "https://ecf.ksd.uscourts.gov/doc1/07905427812?caseid=128235",
+              "description": "Affidavit Wilcox PHV Affidavit",
+              "attachment_number": 1
+            },
+            {
+              "recap_id": 160920841,
+              "pacer_url": "https://ecf.ksd.uscourts.gov/doc1/07905427813?caseid=128235",
+              "description": "ECF Registration Form Wilcox ECF Registration Form",
+              "attachment_number": 2
+            }
+          ],
+          "url": "https://www.courtlistener.com/docket/16166443/13/crews-v-hawk-sawyer/",
+          "recap_pdf_url": null,
+          "pacer_doc_id": "07905427811",
+          "description": "MOTION for attorney Gillian Wilcox to appear pro hac vice ( Pro hac vice fee $50, Internet Payment Receipt Number AKSDC-4914929.) by Plaintiff Leaman Crews (referred to Magistrate Judge Angel D. Mitchell) (Attachments: # 1 Affidavit Wilcox PHV Affidavit, # 2 ECF Registration Form Wilcox ECF Registration Form)(Bonds, Lauren) (Entered: 09/07/2019)"
+        },
+        {
+          "row_number": 6,
+          "id": 8609886,
+          "entry_number": "15",
+          "date_filed": "2019-09-07T00:00:00-04:00",
+          "attachments": [],
+          "url": "https://www.courtlistener.com/docket/16166443/15/crews-v-hawk-sawyer/",
+          "recap_pdf_url": "https://www.courtlistener.com/recap/gov.uscourts.ksd.128235/gov.uscourts.ksd.128235.15.0.pdf",
+          "pacer_doc_id": "07905427819",
+          "description": "MEMORANDUM IN SUPPORT of 2 MOTION for Temporary Restraining Order Amended to Correct Misnomer by Plaintiff Leaman Crews(Bonds, Lauren) (Entered: 09/07/2019)"
+        },
+        {
+          "row_number": 7,
+          "id": 8609887,
+          "entry_number": "16",
+          "date_filed": "2019-09-07T00:00:00-04:00",
+          "attachments": [],
+          "url": "https://www.courtlistener.com/docket/16166443/16/crews-v-hawk-sawyer/",
+          "recap_pdf_url": "https://www.courtlistener.com/recap/gov.uscourts.ksd.128235/gov.uscourts.ksd.128235.16.0.pdf",
+          "pacer_doc_id": "07905427822",
+          "description": "APPLICATION FOR WRIT of OF HABEAS CORPUS AD TESTIFICANDUM by Leaman Crews. (Bonds, Lauren) (Entered: 09/07/2019)"
+        },
+        {
+          "row_number": 8,
+          "id": 8609888,
+          "entry_number": "17",
+          "date_filed": "2019-09-08T00:00:00-04:00",
+          "attachments": [],
+          "url": "https://www.courtlistener.com/docket/16166443/17/crews-v-hawk-sawyer/",
+          "recap_pdf_url": null,
+          "pacer_doc_id": null,
+          "description": "ORDER: MOTION HEARING regarding 2 PLAINTIFF'S EMERGENCY MOTION FOR A TEMPORARY RESTRAINING ORDER AND PRELIMINARY INJUNCTION: MOTION HEARING, which tentatively had been set for 9/9/2019, is rescheduled to 9/11/2019 at 01:00 PM in KC Courtroom 463 (CM) before District Judge Carlos Murguia. Defendants shall file any RESPONSES to this 2 MOTION and Plaintiff's 16 PETITION FOR WRIT OF HABEAS CORPUS AD TESTIFICANDUM on or before 1:00 PM CDT on 9/9/2019. Any REPLIES by Plaintiff shall be filed on or before 1:00 PM CDT on 9/10/2019. Plaintiff is ordered to notify defendants of the rescheduled hearing date and time and the extended RESPONSE deadlines and to file notice of confirmation of service with the Court. Signed by District Judge Carlos Murguia on 9/8/2019. (This is a TEXT ENTRY ONLY. There is no.pdf document associated with this entry.) (jsh) (Entered: 09/08/2019)"
+        },
+        {
+          "row_number": 60,
+          "id": 8609894,
+          "entry_number": null,
+          "date_filed": "2019-09-09T00:00:00-04:00",
+          "attachments": [],
+          "url": "https://www.courtlistener.com",
+          "recap_pdf_url": null,
+          "pacer_doc_id": null,
+          "description": "Order on Motion to Appear Pro Hac Vice"
+        },
+        {
+          "row_number": 16,
+          "id": 8609903,
+          "entry_number": "24",
+          "date_filed": "2019-09-09T00:00:00-04:00",
+          "attachments": [],
+          "url": "https://www.courtlistener.com/docket/16166443/24/crews-v-hawk-sawyer/",
+          "recap_pdf_url": null,
+          "pacer_doc_id": "07905428390",
+          "description": "Motion to Withdraw"
+        },
+        {
+          "row_number": 20,
+          "id": 8609907,
+          "entry_number": "28",
+          "date_filed": "2019-09-09T00:00:00-04:00",
+          "attachments": [],
+          "url": "https://www.courtlistener.com/docket/16166443/28/crews-v-hawk-sawyer/",
+          "recap_pdf_url": "https://www.courtlistener.com/recap/gov.uscourts.ksd.128235/gov.uscourts.ksd.128235.28.0.pdf",
+          "pacer_doc_id": "07905428878",
+          "description": "Order on Motion to Withdraw"
+        },
+        {
+          "row_number": 21,
+          "id": 8609908,
+          "entry_number": "29",
+          "date_filed": "2019-09-10T00:00:00-04:00",
+          "attachments": [],
+          "url": "https://www.courtlistener.com/docket/16166443/29/crews-v-hawk-sawyer/",
+          "recap_pdf_url": "https://www.courtlistener.com/recap/gov.uscourts.ksd.128235/gov.uscourts.ksd.128235.29.0.pdf",
+          "pacer_doc_id": "07905429380",
+          "description": "Reply to Response to Motion"
+        },
+        {
+          "row_number": 65,
+          "id": 8609910,
+          "entry_number": null,
+          "date_filed": "2019-09-11T00:00:00-04:00",
+          "attachments": [],
+          "url": "https://www.courtlistener.com",
+          "recap_pdf_url": null,
+          "pacer_doc_id": null,
+          "description": "Motions No Longer Referred"
+        },
+        {
+          "row_number": 24,
+          "id": 8609912,
+          "entry_number": "31",
+          "date_filed": "2019-09-11T00:00:00-04:00",
+          "attachments": [],
+          "url": "https://www.courtlistener.com/docket/16166443/31/crews-v-hawk-sawyer/",
+          "recap_pdf_url": "https://www.courtlistener.com/recap/gov.uscourts.ksd.128235/gov.uscourts.ksd.128235.31.0.pdf",
+          "pacer_doc_id": "07905430999",
+          "description": "Motion to Withdraw"
+        },
+        {
+          "row_number": 25,
+          "id": 8609913,
+          "entry_number": "32",
+          "date_filed": "2019-09-12T00:00:00-04:00",
+          "attachments": [],
+          "url": "https://www.courtlistener.com/docket/16166443/32/crews-v-hawk-sawyer/",
+          "recap_pdf_url": "https://www.courtlistener.com/recap/gov.uscourts.ksd.128235/gov.uscourts.ksd.128235.32.0.pdf",
+          "pacer_doc_id": "07905431245",
+          "description": "Order on Motion to Withdraw"
+        },
+        {
+          "row_number": 30,
+          "id": 8609919,
+          "entry_number": "37",
+          "date_filed": "2020-01-17T00:00:00-05:00",
+          "attachments": [
+            {
+              "recap_id": 120821239,
+              "pacer_url": "https://ecf.ksd.uscourts.gov/doc1/07905543081?caseid=128235",
+              "description": "Attachment Index",
+              "attachment_number": 1
+            },
+            {
+              "recap_id": 120821240,
+              "pacer_url": "https://ecf.ksd.uscourts.gov/doc1/07905543082?caseid=128235",
+              "description": "Attachment A",
+              "attachment_number": 2
+            },
+            {
+              "recap_id": 120821241,
+              "pacer_url": "https://ecf.ksd.uscourts.gov/doc1/07905543083?caseid=128235",
+              "description": "Attachment B",
+              "attachment_number": 3
+            },
+            {
+              "recap_id": 120821242,
+              "pacer_url": "https://ecf.ksd.uscourts.gov/doc1/07905543084?caseid=128235",
+              "description": "Attachment C",
+              "attachment_number": 4
+            },
+            {
+              "recap_id": 120821243,
+              "pacer_url": "https://ecf.ksd.uscourts.gov/doc1/07905543085?caseid=128235",
+              "description": "Attachment D",
+              "attachment_number": 5
+            },
+            {
+              "recap_id": 160920850,
+              "pacer_url": "https://ecf.ksd.uscourts.gov/doc1/07905548847?caseid=128235",
+              "description": "Attachment A (Redacted)",
+              "attachment_number": 6
+            }
+          ],
+          "url": "https://www.courtlistener.com/docket/16166443/37/crews-v-hawk-sawyer/",
+          "recap_pdf_url": null,
+          "pacer_doc_id": "07905543080",
+          "description": "Memorandum in Support of Motion"
+        },
+        {
+          "row_number": 32,
+          "id": 8609921,
+          "entry_number": "39",
+          "date_filed": "2020-01-27T00:00:00-05:00",
+          "attachments": [],
+          "url": "https://www.courtlistener.com/docket/16166443/39/crews-v-hawk-sawyer/",
+          "recap_pdf_url": null,
+          "pacer_doc_id": "07905550096",
+          "description": "Stay Discovery"
+        },
+        {
+          "row_number": 67,
+          "id": 8609924,
+          "entry_number": null,
+          "date_filed": "2020-02-07T00:00:00-05:00",
+          "attachments": [],
+          "url": "https://www.courtlistener.com",
+          "recap_pdf_url": null,
+          "pacer_doc_id": null,
+          "description": "Motions No Longer Referred"
+        },
+        {
+          "row_number": 37,
+          "id": 8609929,
+          "entry_number": "45",
+          "date_filed": "2020-02-20T00:00:00-05:00",
+          "attachments": [
+            {
+              "recap_id": 125779873,
+              "pacer_url": "https://ecf.ksd.uscourts.gov/doc1/07905572785?caseid=128235",
+              "description": "Exhibit Declaration of Leaman Crews",
+              "attachment_number": 1
+            }
+          ],
+          "url": "https://www.courtlistener.com/docket/16166443/45/crews-v-hawk-sawyer/",
+          "recap_pdf_url": null,
+          "pacer_doc_id": "07905572784",
+          "description": "Response to Motion"
+        },
+        {
+          "row_number": 74,
+          "id": 8609936,
+          "entry_number": null,
+          "date_filed": "2020-03-19T00:00:00-04:00",
+          "attachments": [],
+          "url": "https://www.courtlistener.com",
+          "recap_pdf_url": null,
+          "pacer_doc_id": null,
+          "description": "Motions No Longer Referred"
+        }
+      ],
+      "docket_case_type": "cv",
+      "docket_year": 2019,
+      "docket_filing_number": 2541,
+      "is_main_docket": true,
+      "court": "District of Kansas",
+      "state": "Kansas",
+      "docket_office_number": "2",
+      "docket_number_manual": "2:19-cv-02541-CM-ADM",
+      "scales_html": "https://clearinghouse-umich-production.s3.amazonaws.com/media/docket-html/ksd--2-19-cv-02541.html",
+      "recap_link": "https://www.courtlistener.com/docket/16166443/crews-v-hawk-sawyer/",
+      "is_active": true
+    },
+    "name": "Crews v. Sawyer",
+    "never_filed": false,
+    "non_docket_case_number": "",
+    "non_docket_case_number_type": null,
+    "non_docket_case_number_type_other": "",
+    "order_end_year": null,
+    "order_start_year": null,
+    "permanent_injunction": false,
+    "plaintiff_description": "Inmate at Leavenworth Penitentiary previously receiving medication for addiction treatment (MAT) whose medication supply was interrupted upon transfer to Leavenworth",
+    "plaintiff_type": [
+      {
+        "value": "Private Plaintiff"
+      }
+    ],
+    "prevailing_party": "Defendant",
+    "pro_se_status": "No",
+    "public_interest_lawyer": "Yes",
+    "related_cases": [],
+    "relief_natures": [
+      "None"
+    ],
+    "relief_nature_other": "prison changed rules after lawsuit was filed without court intervention",
+    "relief_sources": [
+      "None"
+    ],
+    "settlement_agreement": [],
+    "settlement_judgment_date": "2020-03-31",
+    "settlement_judgment_year": null,
+    "special_collections": [],
+    "special_case_type": [],
+    "state": "Kansas",
+    "summary": "<p>On September 6, 2019, the plaintiff, an individual incarcerated at the Leavenworth prison facility, filed a complaint and an emergency motion for a temporary restraining order in the District Court for the District of Kansas against the Federal Bureau of Prisons (BOP) seeking emergency, temporary, and permanent injunctive relief from a prison policy that forbade prescription of anti-opioid medical treatment to inmates. The plaintiff was represented by attorneys from the American Civil Liberties Union (ACLU) of Kansas and Missouri.</p><p>Specifically, the plaintiff alleged that the prison's policy of withholding medical addiction treatment (MAT) violated the Eighth Amendment's cruel and unusual punishment clause. The plaintiff described that he had not been using opioids for 15 months since his initial prescription of MAT, but if treatment was discontinued, he would experience an increased likelihood of relapse, painful withdrawals, and possible death.  He also alleged that drug addiction was a disability requiring treatment under the Rehabilitation Act 27 U.S.C. 794(a). Finally, he also alleged that, as a federal facility, any of the prison's final decisions were subject to review under the Administrative Procedure Act and claimed that withholding treatment in this manner is arbitrary and capricious or not in accordance with law (5 U.S.C. 706(2)(a)). The plaintiff sought relief under the Declaratory Judgment Act, 28 U.S.C. 2201.</p><p>The plaintiff withdrew his motion for a temporary restraining order on September 11, 2019, saying that the \"parties had reached a resolution in the matter.\" Further discovery and motions showed that the Bureau of Prisons issued interim guidance to prescribe MAT when medically appropriate, and conducted telemedicine conferences to get the plaintiff a prescription for MAT for as long as is medically necessary during his stay in Leavenworth.</p><p>Once this administrative change was made, the BOP filed a motion to dismiss on January 17, 2020, saying that the allegations in the complaint were now moot with the new policy in place. The plaintiff contested this claim, writing in a motion that the injury remains because interim guidance is no guarantee that he would get MAT through his stay and alleging that BOP staff had threatened that his medication would be taken away.</p><p>In a ruling dated March 31, 2020 (2020 WL 1528502), Judge John W. Broomes approved the defendant's motion to dismiss, and dismissed the case without prejudice, saying that the claims in the complaint were rendered moot by the BOP interim guidance. He wrote that the interim guidance was appropriate, and that the plaintiff only asked for injunctive relief, which is no longer necessary with the guidance in place. </p><p>The case was closed and no appeal has yet been filed.</p>",
+    "summary_published_date": "2020-05-21T00:00:00-04:00",
+    "summary_short": "In 2019, an inmate at the Leavenworth federal prison sued the Federal Bureau of Prisons (BOP) in the U.S. District Court for the District of Kansas alleging that the BOP denied him access to medical addiction treatment (MAT) for his opioid addiction. After his complaint was filed, the BOP issued interim guidance allowing prescription of MAT in medically appropriate situations, and got the plaintiff MAT. The plaintiff continued with the suit, seeking more permanent guidance than the interim one, but Judge John W. Broome approved the defendant's motion to dismiss, saying there was no way to fix the issue through injunction. The case closed in March 2020.",
+    "summary_tiny": "Suit from inmate at federal prison prompts interim guidance on opioid treatment in prisons, but fails to secure permanent policy change. @aclukansas and @aclu_mo represented the plaintiff.",
+    "terminating_date": null,
+    "clearinghouse_link": "clearinghouse.net/case/17449",
+    "is_active": true,
+    "case_documents_url": "https://clearinghouse.net/api/v2/documents/?case=17449",
+    "case_dockets_url": "https://clearinghouse.net/api/v2/dockets/?case=17449",
+    "case_resources_url": "https://clearinghouse.net/api/v2/resources/?case=17449"
+  },
+  "documents": [
+    {
+      "date": null,
+      "date_is_estimate": false,
+      "date_not_available": false,
+      "description": null,
+      "document_source": null,
+      "document_status": null,
+      "document_type": null,
+      "order_type": null,
+      "citation_paren": null,
+      "cite_1_page": null,
+      "cite_1_reporter": null,
+      "cite_1_vol": null,
+      "cite_2_page": null,
+      "cite_2_reporter": null,
+      "cite_2_vol": null,
+      "cite_3_page": null,
+      "cite_3_reporter": null,
+      "cite_3_vol": null,
+      "citation_status": null,
+      "court": null,
+      "no_title": false,
+      "party_types": [],
+      "per_curium": false,
+      "is_core_document": true,
+      "id": 114798,
+      "file": null,
+      "title": null,
+      "text": null,
+      "document_type_other": null,
+      "external_url": null,
+      "ecf_number": null,
+      "clearinghouse_link": "clearinghouse.net/doc/114798"
+    },
+    {
+      "date": "2019-09-07",
+      "date_is_estimate": false,
+      "date_not_available": false,
+      "description": null,
+      "document_source": "PACER [Public Access to Court Electronic Records]",
+      "document_status": "Coding Complete",
+      "document_type": "Complaint",
+      "order_type": null,
+      "citation_paren": null,
+      "cite_1_page": null,
+      "cite_1_reporter": null,
+      "cite_1_vol": null,
+      "cite_2_page": null,
+      "cite_2_reporter": null,
+      "cite_2_vol": null,
+      "cite_3_page": null,
+      "cite_3_reporter": null,
+      "cite_3_vol": null,
+      "citation_status": "Not applicable",
+      "court": "District of Kansas",
+      "no_title": false,
+      "party_types": [
+        "Plaintiff"
+      ],
+      "per_curium": false,
+      "is_core_document": true,
+      "id": 106497,
+      "file": "https://clearinghouse-umich-production.s3.amazonaws.com/media/doc/106497.pdf",
+      "title": "First Amended Complaint and Request for Emergency Injunctive Relief",
+      "text": "Case 2:19-cv-02541-JWB-ADM   Document 14   Filed 09/07/19   Page 1 of 20\nUNITED STATES DISTRICT COURT \nDISTRICT OF KANSAS \n \n \nLEAMAN CREWS,   )   \n  )   \n      Plaintiff,  )   \n  )   \nv.  )  No.     19-cv-2541 \n  )   \nKATHLEEN HAWK SAWYER, in her official  )   \ncapacity as the Director of the Bureau of  ) \nPrisons, and Dr. DEBORAH G. SCHULT, in  ) \nher official capacity as Assistant Director for  ) \nthe Health Services Division of the Federal  ) \nBureau of Prisons,   ) \n  ) \n      Defendants.  ) \n \n \n \nFIRST AMENDED COMPLAINT AND REQUEST FOR EMERGENCTY INJUNCTIVE \nRELIEF  \nPlaintiff Leaman Crews, by and through his attorneys, brings this action against \nDefendant Kathleen Hawk Sawyer in her official capacity as the Director of the Bureau of \nPrisons, and Defendant Deborah G. Schult, in her official capacity as the Assistant Director for \nthe Health Services Division for the Federal Bureau of Prisons, and alleges as follows:  \nPRELIMINARY STATEMENT \n1.  This civil rights action challenges the life-threatening and discriminatory denial of \nnecessary medical treatment in Bureau of Prison facilities overseen by Defendants Sawyer and \nSchult. Government officials are obligated to meet the medical needs of people in their custody. \nYet, when it comes opioid use disorder, a deadly disease that afflicts millions of people across \nthe United States, the Bureau’s actions match neither its legal obligations nor the federal \ngovernment’s own admonishments to state and local prisons and jails.  \n1 \n\nCase 2:19-cv-02541-JWB-ADM   Document 14   Filed 09/07/19   Page 2 of 20\n2.  The medical standard of care to treat opioid use disorder is “medication for \naddiction treatment” (also known as “medication-assisted treatment,” or “MAT”), which utilizes \nFDA-approved medications like methadone or buprenorphine.  In recent years, the U.S. \nAttorneys have investigated state prisons and local jails for denying MAT to inmates.  But the \nBureau itself does exactly that; defying medical consensus, it prohibits all of its inmates from \naccessing buprenorphine to treat their opioid use disorders. As applied to Plaintiff Leaman \nCrews, whose opioid use disorder is being successfully treated with buprenorphine, and who \nbegan a 36-month federal sentence on September 4, 2019, the Bureau’s buprenorphine policy \nviolates the Eighth Amendment to the U.S. Constitution, the Rehabilitation Act, and the \nAdministrative Procedures Act (“APA”).  It also places him in grave and immediate danger. \n3.  Plaintiff Leaman Crews has been diagnosed with opioid use disorder. Like many \nAmericans, Crews first took opioids for debilitating pain after a serious car accident. Over time, \nhe became utterly dependent on them.  Mr. Crews unsuccessfully attempted to overcome \naddiction through detoxification. With the help of his doctor-prescribed buprenorphine treatment, \nMr. Crews has escaped more than a decade of active addiction and entered long-term recovery. \nHe has been clean for 15 months with the help of MAT. This is the only treatment that has \nworked for Mr. Crews.  \n4.  Mr. Crews made a grave mistake using his position of employment to gain access \nto money he used to buy opioids. He has accepted responsibility for his actions, pled guilty, \nmade substantial restitution payments, and worked through therapy to make amends to others in \nhis life whom he harmed. Mr. Crew’s mistake was serious but should not claim his life. \n5.  Bureau facilities do not provide buprenorphine-based maintenance treatment to \nany inmates with opioid use disorder.  This policy applies even where, as here, a person is \n2 \n\nCase 2:19-cv-02541-JWB-ADM   Document 14   Filed 09/07/19   Page 3 of 20\nalready taking prescribed buprenorphine when they enter custody, and where the involuntarily \ndiscontinuation of that treatment would violate the standard of care. \n6.  If Mr. Crews is denied his prescribed buprenorphine-based MAT while he is \nincarcerated, he will inevitably suffer and possibly die.  To begin, he will enter an acute and \nextremely painful period of withdrawal, which carries a heightened risk for numerous serious \nmedical conditions.  He will also experience a heightened probability of relapsing into opioid \nuse, both during his incarceration and upon his release, which can result in overdose and death.  \n7.  As applied to Mr. Crews, Defendants’ buprenorphine policy violates his legal \nrights in three ways.   \na.  First, it reflects deliberate indifference to his serious medical need, to his \nsuffering, and to the long-term consequences of forced withdrawal.  Defendants’ \nactions therefore violate Mr. Crews’ Eighth Amendment right to be free from \ncruel and unusual punishment.   \nb.  Second, the denial of necessary medical care violates Mr. Crews’ right, under the \nRehabilitation Act, to be free from discrimination based upon his disability.   \nc.  Finally, the Bureau’s refusal to provide Mr. Crews with access to medically-\nnecessary treatment and its blanket denial of buprenorphine maintenance \ntreatment also violate the APA because these final agency actions are arbitrary, \ncapricious, and unlawful under the Rehabilitation Act.  \n8.  Mr. Crews seeks emergency, preliminary, and permanent relief to require \nDefendants to provide him with adequate medical care and prevent suffering.  Specifically, Mr. \nCrews seeks declaratory and injunctive relief requiring Defendants to provide his with access to \n3 \n\nCase 2:19-cv-02541-JWB-ADM   Document 14   Filed 09/07/19   Page 4 of 20\nhis medically necessary, physician-prescribed buprenorphine-based MAT throughout his \nincarceration at a Bureau facility. \nTHE PARTIES \n9.  Plaintiff Leaman Crews resides in Leavenworth, Kansas.  \n10.  Defendant Kathleen Hawk Sawyer is the Acting Director of the Federal Bureau of \nPrisons. She is being sued in her official capacity only, in which she is responsible for overseeing \nthe operation all 122 Bureau facilities.  \n11.  Defendant Dr. Deborah G. Schult is the Assistant Director of the Health Services \nDivision for the Federal Bureau of Prisons.  She is being sued in her official capacity only, in \nwhich she directs the Bureau’s national medical program and oversees health care delivery for \nthe Bureau.  \nJURISDICTION AND VENUE \n12.  This Court has jurisdiction pursuant to 28 U.S.C. §§ 1331 and 1343.  The \nrequested relief is authorized by the Declaratory Judgment Act, 28 U.S.C. §§ 2201 and 2202.  \nThis action seeks to vindicate rights guaranteed by the Eighth Amendment to the United States \nConstitution, Section 504 of the Rehabilitation Act, 29 U.S.C. § 794, and the Administrative \nProcedures Act, 5 U.S.C. §§ 704 and 706. \n13.  This Court has authority to issue declaratory and injunctive relief under 28 U.S.C. \n§§ 2201 and 2202, 5 U.S.C. § 706, Rules 57 and 65 of the Federal Rules of Civil Procedure and \nthe Court’s inherent equitable powers.  \n14.  Venue lies in the District of Kansas under 28 U.S.C. § 1391.   \nFACTS \nOpioid Use Disorder Is a Life-Threatening Medical Condition and a Public Health \nCrisis. \n4 \n\nCase 2:19-cv-02541-JWB-ADM   Document 14   Filed 09/07/19   Page 5 of 20\n \n15.  Opioids are a class of drugs that inhibit pain and can have euphoric side effects.  \nMany opioids have legitimate medical uses, including chronic pain management.  Others, such as \nheroin, are not generally used in medicine in the United States, but are sold on the black market.   \n16.  Opioid use disorder is a chronic brain disease with potentially deadly \ncomplications.  Signs of opioid use disorder include cravings, increased tolerance to opioids, the \ninability to cut back or control opioid use, withdrawal symptoms, and a loss of control.  \n17.  Like other chronic diseases, opioid use disorder often involves cycles of relapse \nand remission.   \n18.  Without treatment or other recovery, patients with opioid use disorder are \nfrequently unable to control their use of opioids.  Opioid use disorder is progressive and can \nresult in disability or premature death, including due to accidental overdose.  \n19.  Opioid use disorder is a national public health crisis.  As of 2016, 2.1 million \nAmericans suffered from this disease.  Between 1999 and 2017, more than 700,000 people died \nfrom opioid overdose.  The death toll has increased exponentially in the past five years, and the \nnumber of opioid overdose deaths in 2017 was six times higher than in 1999.  Every day in \nAmerica, an average of 130 people die after overdosing on opioids—equivalent to one person \nevery 12.5 minutes.   \n20.  Opioid use disorder is especially dangerous for people who are or have been \nincarcerated.   \n21.  As the 2017 Final Report from the President’s Commission on Combating Drug \nAddiction and the Opioid Crisis 2017 explained, “[i]n the weeks following release from jail or \nprison, individuals with or in recovery from OUD are at elevated risk of overdose and associated \nfatality.”  A recent study by the Massachusetts Department of Public Health similarly found that \n5 \n\nCase 2:19-cv-02541-JWB-ADM   Document 14   Filed 09/07/19   Page 6 of 20\n“[t]he opioid overdose death rate is 120 times higher for those recently released from \nincarceration compared to the rest of the adult population.”   The same study found that \n“[o]pioid-related deaths among persons recently released from incarceration [in Massachusetts] \nhave increased 12-fold between 2011 and 2015,” and, “[i]n 2015, nearly 50% of all deaths \namong those released from incarceration were opioid-related.”  \nMedication for Addiction Treatment Is the Standard of Care for Opioid Use Disorder.  \n22.  MAT is the standard of care for opioid use disorder.  \n23.  MAT “is a comprehensive approach that combines FDA-approved medications \n. . . with counseling and other behavioral therapies to treat patients with opioid use disorder \n(OUD).”   Three medications used in MAT are methadone (sold under brand names such as \nDolophine and Methadose), buprenorphine (sold under brand names such as Subutex, Suboxone, \nand Bunavail), and naltrexone (sold under brand names such as ReVia and Vivitrol).  These \nmedications have been approved by the United States Food and Drug Administration for \ntreatment of opioid addiction.   \n24.  Naltrexone works by blocking opioids from producing their euphoric effects and \nthus reducing a desire for opioids over time.  Buprenorphine and methadone act through a \ndifferent mechanism than naltrexone: both activate rather than block opioid receptors to relieve \nwithdrawal symptoms and control cravings.   \n25.  Because of this important ability to act on opioid receptors without presenting the \nsame risk of overdose, buprenorphine and methadone have both been deemed “essential \nmedicines” according to the World Health Organization.   Both methadone and buprenorphine \nfacilitate extinction learning (a gradual decrease in response to a stimulus, such as an opioid), \n6 \n\nCase 2:19-cv-02541-JWB-ADM   Document 14   Filed 09/07/19   Page 7 of 20\nbecause patients learn that they will not get the same “high” from taking illicit drugs like heroin \nand fentanyl.  \n26.  As with any prescription medication, patients’ responses to these medications are \nindividualized—a patient may find that only one of these medications provides effective \ntreatment without significant adverse side effects.    \n27.  The results of treatment with MAT are dramatically superior to other treatment \noptions.   \n28.  Studies of MAT show improved retention in treatment, abstinence from illicit \ndrugs, and decreased mortality.  MAT has been shown to decrease opioid use, opioid-related \noverdose deaths, criminal activity, and infectious disease transmission.  MAT has also been \nshown to increase patients’ social functioning and retention in treatment.   \n29.  The primary driver of treatment efficacy in MAT regimens is the medication.   \n30.  Studies have shown that maintenance medication treatments of opioid use \ndisorder reduce all cause and overdose mortality and have a more robust effect on treatment \nefficacy than behavioral components of MAT.   Buprenorphine and methadone have been \nclinically proven to reduce opioid use more than (1) no treatment, (2) outpatient treatment \nwithout medication, (3) outpatient treatment with placebo medication, and (4) detoxification \nonly.  One study documented the treatment outcomes from a detoxification facility and showed \n(1) a twenty-nine percent chance of relapse on the day of discharge, (2) a sixty percent chance \nrelapse after one month, and (3) a success rate of only five to ten percent after one year.   \n31.  Once a patient is successfully recovering from opioid use disorder through MAT, \nthe arbitrary and sudden cessation of the medication violates the standard of care and, in the case \n7 \n\nCase 2:19-cv-02541-JWB-ADM   Document 14   Filed 09/07/19   Page 8 of 20\nof methadone and buprenorphine, will cause excruciating withdrawal symptoms within 48 hours \nof cessation.   \n32.  Withdrawal symptoms include severe dysphoria, cravings for opiates, irritability, \nsweating, nausea, tremor, vomiting, insomnia, and muscle pain.  These symptoms can sometimes \nlead to life-threatening complications.   \n33.  Withdrawal is particularly dangerous for patients with pre-existing psychiatric \nconditions, such as bipolar disorder, because withdrawal symptoms can exacerbate their \npsychiatric illness.  \nThe Federal Government Has Widely Adopted the Medical and Scientific Consensus \nthat Medication for Addiction Treatment Is the Standard of Care for Opioid Use Disorder. \n34.  Embracing the medical and scientific consensus, numerous federal entities have \nexpressly endorsed the necessity of MAT, including: the Department of Health and Human \nServices (“HHS”), the Food and Drug Administration (“FDA”), the National Institute on Drug \nAbuse (“NIDA”), the President’s Commission on Combating Drug Addiction and the Opioid \nCrisis, the Office of National Drug Control Policy (“ONDCP”), and the Substance Abuse and \nMental Health Services Administration (“SAMHSA”).  \n35.  For example, emphasizing that “the gold standard for demonstrating efficiency in \nclinical medicine” has shown that MAT is more effective in reducing illicit opioid use than no \nmedication, SAMHSA has concluded that “just as it is inadvisable to deny people with diabetes \nthe medication they need to help manage their illness, it is also not sound medical practice to \ndeny people with OUD access to FDA-approved medications for their illness.”  SAMHSA has \nalso highlighted that “dosing and schedules of pharmacotherapy must be individualized,” and \nthat some individuals may require “lifelong treatment.”   \n8 \n\nCase 2:19-cv-02541-JWB-ADM   Document 14   Filed 09/07/19   Page 9 of 20\n36.  The Department of Justice has confirmed that MAT is the standard of care for \ntreatment of opioid use disorder. \n37.  The Department of Justice has taken the position that denying non-incarcerated \nindividuals suffering from opioid use disorder access to MAT can constitute unlawful disability \ndiscrimination under the Americans with Disabilities Act (“ADA”). \n38.  The Department of Justice has also taken the position that denying incarcerated \nindividuals suffering from opioid use disorder access to MAT can constitute unlawful disability \ndiscrimination under the ADA.  \n39.  The Department of Justice and its subordinates have taken concrete actions to \ncombat this discrimination.  In 2017, the Department of Justice’s Civil Rights Division launched \nthe Opioid Initiative to enforce the ADA and work with U.S. Attorney’s Offices nationwide “to \nensure that people who have completed, or are participating in, treatment for OUD do not face \nunnecessary and discriminatory barriers to recovery.”   \n40.  Also in 2017, the U.S. Attorney for the Southern District of New York sent a 10-\npage letter to the New York State Attorney General, explaining “it has come to our attention that \nthe Family Court and the Surrogate’s Court in Sullivan County, New York, as well as the stake \nholders involved with those courts, may benefit from further information about the ADA’s \napplication to individuals receiving medication-assisted treatment (“MAT”) such as treatment \nwith methadone or buprenorphine, for substance use disorders.”  Emphasizing that “MAT is a \nsafe and widely accepted strategy for treating opioid disorders,” with “broad support [] among \nmedical and substance use experts,” the letter instructed that “the Sullivan family court and \nSullivan surrogate’s court should ensure that their policies and practices with respect to \nindividuals participating in MAT . . . are consistent with ADA requirements.”  \n9 \n\nCase 2:19-cv-02541-JWB-ADM   Document 14   Filed 09/07/19   Page 10 of 20\n41.  In March 2018, the U.S. Attorney for Massachusetts initiated an ADA \ninvestigation of the Massachusetts Department of Correction for its failure to provide non-\npregnant inmates who had been prescribed MAT to treat their opioid use disorder with continued \naccess to MAT during their incarceration.  In so doing, the office emphasized “that all \nindividuals in treatment for OUD, regardless of whether they are inmates or detainees, are \nalready protected by the ADA, and [] the DOC has existing obligations to accommodate this \ndisability.”  \n42.  In October 2018, the U.S. Attorney for Massachusetts initiated an ADA \ninvestigation of several county sheriffs for their failure to provide inmates who had been \nprescribed methadone or buprenorphine to treat their opioid use disorder with continued access \nto these medications during their incarceration.  \nProviding Medication For Addiction Treatment Is Particularly Important, and \nAdministrable, in Correctional Settings. \n43.  Withholding MAT from incarcerated people with opioid use disorder causes some \nof them to die. \n44.  As the President’s Commission on Combating Drug Addiction and the Opioid \nCrisis has explained, “MAT has been found to be correlated with reduced risk of mortality in the \nweeks following release [from incarceration],” and a “large study of individuals with [opioid use \ndisorder] released from prison found that individuals receiving MAT were 75% less likely to die \nof any cause and 85% less likely to die of drug poisoning in the first month after release.”   \n45.  Providing MAT in correctional settings is administrable.  \n46.  Providing MAT in correctional settings also saves lives. \n47.  Numerous authorities have therefore recommended providing MAT in jails and \nprisons to help address the serious risks the opioid crisis poses for incarcerated people.   \n10 \n\nCase 2:19-cv-02541-JWB-ADM   Document 14   Filed 09/07/19   Page 11 of 20\n48.  For example, the Department of Justice’s Adult Drug Court Discretionary Grant \nProgram requires grantees to permit the use of MAT.  \n49.  On behalf of the Trump Administration, the ONDCP’s 2019 report establishes \n“increasing the availability of MAT for incarcerated individuals” as a priority initiative.  \n50.  SAMSHA identifies “making treatment available to criminal justice populations” \nas one of the “remaining challenges” in fighting the opioid public health crisis.  \n51.  In a 2018 report, the National Sheriffs’ Association and the National Commission \non Correctional Health Care explain that “correctional withdrawal alone actually increases the \nchances the person will overdose following community release due to loss of opioid tolerance” \nand “[f]or this reason, all individuals with OUD should be considered for MAT” while they are \nincarcerated.  They emphasize that providing MAT in jails and prisons can “contribut[e] to the \nmaintenance of a safe and secure facility for inmates and staff” and reduce recidivism, \nwithdrawal symptoms, the risk of post-release overdose and death, and disciplinary problems. \n52.  The American Society of Addiction Medicine, the leading professional society in \nthe country on addiction medicine, also recommends treatment with MAT for people with opioid \nuse disorder in the criminal justice system.   \n53.  As recognized by these authorities, opioid use disorder is a chronic relapsing \ncondition that requires medically appropriate treatment just like other chronic diseases.   \n54.  Once patients successfully begin using one form of MAT, they need to be \nmaintained on that treatment under medical supervision to give them the best chance of success.  \n55.  Forced withdrawal is not medically appropriate for patients receiving MAT.   \n56.  Forced withdrawal disrupts their treatment plan, leading to a seven-fold decrease \nin continuing MAT after release.  As the National Sheriffs’ Association and National \n11 \n\nCase 2:19-cv-02541-JWB-ADM   Document 14   Filed 09/07/19   Page 12 of 20\nCommission on Correctional Healthcare emphasize, “forced detoxification of prescribed opioid \nmedication, such as methadone, can undermine an individual’s willingness to engage in MAT in \nthe future, compromising the likelihood of long-term recovery.”  Death is three times as likely \nfor people out of treatment versus when in treatment.  \n57.  Reflecting this knowledge, numerous jails and prisons follow the medical \nstandard of practice and allow prisoners to continue with MAT during incarceration.  Examples \ninclude Bernalillo County Metropolitan Detention Center (New Mexico); Rikers Island \nCorrectional Facility (New York); Kings County Jail (Washington State); Orange County Jail \n(Florida).  The Rhode Island and Vermont Departments of Correction make MAT available to all \nof their prisoners, even those who were not receiving MAT before being incarcerated.   \n58.  Following the medical standard of practice yields positive results.  After the first \nyear of the program within the Rhode Island Department of Corrections, 95% of inmates who \nwere on MAT at the time they were incarcerated continued with their treatment after their \nrelease.  “Research showed that this program reduced post-release deaths by 60% and all opioid-\nrelated deaths in the state by more than 12%.”  \nThe Federal Bureau of Prisons Categorically and Arbitrarily Denies Medication for \nAddiction Treatment for Inmates with Opioid Use Disorder. \n \n59.  The Bureau’s National Formulary and Pharmacy Services Program Statement \nestablish the Bureau’s official prescribing policies.   \n60.  The Bureau’s Formulary instructs that “ALL BOP institutions, including Medical \nCenters, are expected to abide by the [F]ormulary as outlined in the BOP Pharmacy Services \nProgram Statement.”  It further mandates that all clinical directors, health services \nadministrators, associate wardens and wardens are “expected to support and ensure compliance \nwith the BOP National Formulary.”  \n12 \n\nCase 2:19-cv-02541-JWB-ADM   Document 14   Filed 09/07/19   Page 13 of 20\n61.  Under these mandatory policies, the Bureau denies buprenorphine to all inmates \nsuffering from opioid use disorder for “maintenance therapy” and methadone treatment to non-\npregnant inmates.  \n62.  The Bureau’s denial of buprenorphine is arbitrary. \n63.  The Bureau’s denial of buprenorphine to all inmates with opioid use disorder is \nalso categorical; it applies even if buprenorphine has been prescribed by a physician as a \nmedically-necessary treatment for someone placed into the Bureau’s custody.  \n64.  The Bureau’s Program Statement for Pharmacy Services restricts the \ndissemination of buprenorphine treatment of inmates suffering from opioid use disorder, \nproviding that this medication “will only be approved for detoxification, NOT for pain or \nmaintenance therapy.”  \n65.  There are no exceptions to this blanket prohibition.  \n66.  The Bureau’s Clinical Guidance on Detoxification of Chemically Dependent \nInmates instructs Bureau facilities to taper inmates off of buprenorphine over three to ten days.  \n67.  The Bureau’s National Formulary similarly prohibits the use of methadone to \ntreat opioid use disorder, explaining the uses are limited to “treatment of opiate addicted \npregnant inmates; detoxification of opiate addicted inmates; and treatment of severe pain.”  \n68.  Some Bureau facilities have begun to offer Vivitrol, but, on information and \nbelief, they only do so immediately prior to an individual’s transfer out of the Bureau facility. \n69.  Inmates in a Bureau facility depend upon the facility to provide them with all \nmedical care.    \n70.  Bureau facilities provide medically-necessary care to other inmates in their \ncustody, but not to inmates who suffer from opioid use disorder.    \n13 \n\nCase 2:19-cv-02541-JWB-ADM   Document 14   Filed 09/07/19   Page 14 of 20\n71.  For example, buprenorphine is provided to inmates for detoxification, but \nuniformly denied to inmates to treat their opioid use disorder.  \nWithout Judicial Intervention, Mr. Crews Will Be Denied Medically-Necessary Treatment for \nHis Opioid Use Disorder When He Is Incarcerated in a Federal Bureau of Prisons Facility.  \n \n72.  Defendants’ policies, if permitted to be applied to Mr. Crews, will cause him to \nlose access to buprenorphine while he is incarcerated and experience what is known as \n“withdrawal.”  \n73.  Mr. Crews’ buprenorphine treatment is medically necessary.  For him, forced \nwithdrawal would be dangerous and potentially life-threatening.  \n74.  Mr. Crews is diagnosed with opioid use disorder, a serious medical need and a \nrecognized disability.  If untreated, Mr. Crews’ opioid use disorder is likely to result in relapse \nand potentially a fatal opioid overdose, among other things.  \n75.  Mr. Crews has suffered from addiction for years.  Before he was prescribed the \nproper dose of buprenorphine, Mr. Crews unsuccessfully attempted to cure his addiction by \ndiscontinuing opioids.  \n76.  MAT with buprenorphine has been the only treatment that has enabled Mr. Crews \nto remain in active recovery and to get his life back. \n77.  For over a year, Mr. Crews has been prescribed buprenorphine for treatment of \nhis opioid use disorder.  With the help of the proper dose of buprenorphine, he has been in active \nrecovery and has not relapsed.  Buprenorphine is medically necessary for the treatment of Mr. \nCrews’ serious medical condition.  \n78.  Without access to this medically-necessary treatment, Mr. Crews faces a high risk \nof relapse, overdose and death.  \n14 \n\nCase 2:19-cv-02541-JWB-ADM   Document 14   Filed 09/07/19   Page 15 of 20\n79.  Mr. Crews is currently incarcerated at the Bureau’s Leavenworth facility and is \nset to serve a 36-month sentence.   \n80.  If, as the Bureau’s policies mandate, Mr. Crews is prevented from accessing his \nbuprenorphine treatment when he is incarcerated, he will begin experiencing withdrawal \nsymptoms within 48 hours.  These excruciating symptoms will continue for several weeks.  \nReducing Mr. Crews’ dose over three to ten days will similarly trigger withdrawal symptoms \nwithin a matter of days, as that rate is far too fast and much more accelerated than the standard \nprotocol.   \n81.  On August 27, 2019, Mr. Crews’ counsel sent a letter to the Leavenworth Warden \ninforming them of his serious medical need and requesting assurance that Mr. Crews would be \nprovided with his physician-prescribed dose of buprenorphine during his time in their custody. \nCounsel also called and left voicemail messages on multiple occasions. No response has been \nreceived.  \n82.  On September 4 and September 5, 2019, Mr. Crews’ counsel spoke with Bureau \ncounsel. On September 5, Bureau counsel stated that Mr. Crews would be given an \nindividualized assessment of his general medical needs and would be given treatment of some \nkind.  But Bureau counsel would not confirm that, in assessing Mr. Crews, Defendants could or \nwould deviate from their blanket prohibition of buprenorphine treatment. Indeed, Bureau counsel \nconfirmed that Suboxone (buprenorphine-naloxone) is unavailable. \n83.  Accordingly, the relevant officials at the Bureau have been informed of Mr. \nCrews’ diagnosis and need for medical treatment, but it appears that they will not provide such \ntreatment while he is incarcerated in Leavenworth.  In fact, no one on behalf of the Bureau has \n15 \n\nCase 2:19-cv-02541-JWB-ADM   Document 14   Filed 09/07/19   Page 16 of 20\nasserted that, absent a court order, they will even consider continuing Mr. Crews’ buprenorphine \ntreatment. \nCAUSES OF ACTION \nCOUNT I –THE EIGHTH AMENDMENT  \n(Deliberate Indifference to Serious Medical Need in Violation of the Eighth Amendment) \n \n84.  The foregoing allegations are re-alleged and incorporated herein. \n85.  The Defendants, while acting under color of federal law, deliberately, \npurposefully, and knowingly deny or will deny Mr. Crews access to necessary medical treatment \nfor his opioid use disorder, which is a serious medical need.  \n86.  Denying Mr. Crews access to his prescribed dosage of buprenorphine will \nimmediately cause him physical and psychological suffering, will expose him to heightened risk \nfor other serious medical conditions, and could trigger relapse into active addiction, potentially \nresulting in overdose and death.   \n87.  As applied to Mr. Crews, the denial of treatment by Defendants amounts to \ndeliberate indifference to a serious medical need, in violation of the Eighth Amendment’s \nprohibition against cruel and unusual punishment.    \nCOUNT II – REHABILITATION ACT  \n(Unlawful Discrimination Against Qualified Individuals with Disabilities) \n \n88.  The foregoing allegations are re-alleged and incorporated herein.   \n89.  The Bureau of Prisons, which is overseen by Defendants, receives federal funding \nand is a federal agency that is subject to the Rehabilitation Act.  29 U.S.C. § 794(a).   \n90.  Drug addiction is a “disability” under the Rehabilitation Act.  29 U.S.C. \n§ 705(20)(B); 42 U.S.C. §§ 12102 and 12131(2); 28 C.F.R. § 35.108 (the phrase “physical or \nmental impairment includes, but is not limited to . . . drug addiction, and alcoholism”).  \n16 \n\nCase 2:19-cv-02541-JWB-ADM   Document 14   Filed 09/07/19   Page 17 of 20\n91.  The Rehabilitation Act applies to people, like Mr. Crews, who are participating in \na supervised drug rehabilitation program. \n92.   Defendants deny Mr. Crews the benefits of the Federal Bureau of Prisons’ \nmedical programs on the basis of his disability.  \n93.  Defendants refuse to make a reasonable accommodation for Mr. Crews by \nproviding her with access to his prescribed dosage of buprenorphine during his incarceration, \nthereby discriminating against him on the basis of disability, even though accommodation would \nin no way alter the nature of the healthcare program.  On information and belief, Defendants do \nnot deny medically-necessary, physician-prescribed medications to other inmates with serious, \nchronic medical conditions, such as diabetes.  \nCOUNT III – ADMINISTRATIVE PROCEDURES ACT  \n(Agency Action that is Arbitrary, Capricious and Not in Accordance with the Law) \n \n94.  The foregoing allegations are re-alleged and incorporated herein. \n95.  The Federal Bureau of Prisons, which is overseen by Defendants, is a federal \nagency whose final actions are subject to judicial review under the Administrative Procedures \nAct.  5 U.S.C. §§ 701, 704.  \n96.  Under the Administrative Procedures Act, a reviewing court shall “hold unlawful \nand set aside agency actions, findings, and conclusions found to be arbitrary, capricious, an \nabuse of discretion, or otherwise not in accordance with the law.”  5 U.S.C. § 706(2)(A). \n97.  The Federal Bureau of Prisons Pharmacy Services Program Statement No. \n6360.01 and 2018 National Formulary Parts 1 and 2 are the subject of the Bureau’s completed \ndecision-making process. These documents directly affect the parties, as they bind the \nDefendants to prevent all inmates, including Mr. Crews, from continuing their medically-\nnecessary buprenorphine maintenance treatment.  The Federal Bureau of Prisons Pharmacy \n17 \n\nCase 2:19-cv-02541-JWB-ADM   Document 14   Filed 09/07/19   Page 18 of 20\nServices Program Statement No. 6360.01 and 2018 National Formulary Parts 1 and 2 therefore \nconstitute final agency action. \n98.  This final agency action automatically denies reasonable accommodation to any \ninmates suffering from opioid use disorder with a medically-necessary buprenorphine \nprescription, including Mr. Crews. For the reasons described in Count II, this final agency action \nis arbitrary, capricious, and unlawful under the Rehabilitation Act and therefore violates the \nAdministrative Procedures Act. 5 U.S.C. §§ 704, 706 \n99.  Defendants deny Mr. Crews access to his medically-necessary buprenorphine \ntreatment.  This final agency action is arbitrary, capricious, and unlawful under the \nRehabilitation Act for the reasons described in Count II, and therefore violates the \nAdministrative Procedures Act. 5 U.S.C. §§ 704, 706. \n \nPRAYER FOR RELIEF \nWherefore, Mr. Crews asks this Court to GRANT the following relief: \n(a) Emergency, preliminary, and permanent injunctive relief ordering Defendants to provide \nMr. Crews with access to MAT, including the buprenorphine dosage prescribed by his \nphysician, during his entire term of incarceration; \n(b) A declaratory judgment holding that Defendants’ policy denying all inmates access to \nbuprenorphine treatment for opioid use disorder, as applied to Mr. Crews, violates the \nEighth Amendment; \n(c) A declaratory judgment holding that Defendants’ policy denying all inmates access to \nbuprenorphine treatment for opioid use disorder, as applied to Mr. Crews, violates the \nRehabilitation Act and the APA; \n18 \n\nCase 2:19-cv-02541-JWB-ADM   Document 14   Filed 09/07/19   Page 19 of 20\n(d) Award Mr. Crews his attorneys’ fees and costs;  \n(e) Any further relief this Court deems just and proper. \n \nDesignation of Place of Trial \nPursuant to D. Kan. 40.2, Plaintiff designates Kansas City, Kansas as the place of trial.  \n \n \nDated: September 7, 2019 \n                   Respectfully Submitted,  \n \nBy:         /s/ Lauren Bonds______________ \n      Lauren Bonds, KS No. 27807 \n      Zal Kotval Shroff, KS No. 28013 \n      ACLU Foundation of Kansas \n      6701 W. 64th Street, Ste. 210 \n      Overland Park, KS 66202 \n      Phone: (913) 490-4100 \n      Fax: (913) 490-4119  \n      lbonds@aclukansas.org \n      zshroff@aclukansas.org \n \n                     /s/ Anthony E. Rothert  \n                     Anthony E. Rothert*  \n                     Jessica Steffan*  \n                     Gillian Wilcox*  \n                     ACLU of Missouri Foundation \n                                                                                           906 Olive Street, Suite 1130 \n                                                                                           St. Louis, MO 63101 \n                                                                                           Tel: 314-669-3420 \n                                                                                           Fax: 314-652-3112 \n                                                                                           arothert@aclu-mo.org \n                                                                                           jsteffan@aclu-mo.org  \n                                                                                           gwilcox@aclu-mo.org  \n             \n*Application for Pro Hac Vice Forthcoming \n \n   ATTORNEYS FOR PLAINTIFFS \n \n19 \n\nCase 2:19-cv-02541-JWB-ADM   Document 14   Filed 09/07/19   Page 20 of 20\n \nCERTIFICATE OF SERVICE \n  I hereby certify that on September 7, 2019, I electronically filed the foregoing with the \nClerk of Court using the CM/ECF system. On that date, I also served a copy of the Amended on \nthe United State Attorney for the District of Kansas and Federal Bureau of Prisons.   \n \nDated: September 7, 2019 \n \n \n              /s/ Lauren Bonds  \n              Lauren Bonds  \n20 ",
+      "document_type_other": "",
+      "external_url": "",
+      "ecf_number": "14",
+      "clearinghouse_link": "clearinghouse.net/doc/106497"
+    },
+    {
+      "date": "2019-09-06",
+      "date_is_estimate": false,
+      "date_not_available": false,
+      "description": null,
+      "document_source": "PACER [Public Access to Court Electronic Records]",
+      "document_status": "Coding Complete",
+      "document_type": "Complaint",
+      "order_type": null,
+      "citation_paren": null,
+      "cite_1_page": null,
+      "cite_1_reporter": null,
+      "cite_1_vol": null,
+      "cite_2_page": null,
+      "cite_2_reporter": null,
+      "cite_2_vol": null,
+      "cite_3_page": null,
+      "cite_3_reporter": null,
+      "cite_3_vol": null,
+      "citation_status": "Not applicable",
+      "court": "District of Kansas",
+      "no_title": false,
+      "party_types": [
+        "Plaintiff"
+      ],
+      "per_curium": false,
+      "is_core_document": true,
+      "id": 106496,
+      "file": "https://clearinghouse-umich-production.s3.amazonaws.com/media/doc/106496.pdf",
+      "title": "Complaint and Request for Emergency Injunctive Relief",
+      "text": "Case 2:19-cv-02541-CM-ADM   Document 1   Filed 09/06/19   Page 1 of 20\nUNITED STATES DISTRICT COURT \nDISTRICT OF KANSAS \n \n \nLEAMAN CREWS,   )   \n  )   \n      Plaintiff,  )   \n  )   \nv.  )  No.     19-cv-2541 \n  )   \nKATHLEEN HAWK SAWYER, in her official  )   \ncapacity as the Director of the Bureau of  ) \nPrisons, and Dr. DEBORAH G. SCHULT, in  ) \nher official capacity as Assistant Director for  ) \nthe Health Services Division of the Federal  ) \nBureau of Prisons,   ) \n  ) \n      Defendants.  ) \n \n \n \nCOMPLAINT AND REQUEST FOR EMERGENCTY INJUNCTIVE RELIEF  \nPlaintiff Leaman Crews, by and through his attorneys, brings this action against \nDefendant Kathleen Hawk Sawyer in her official capacity as the Director of the Bureau of \nPrisons, and Defendant Deborah G. Schult, in her official capacity as the Assistant Director for \nthe Health Services Division for the Federal Bureau of Prisons, and alleges as follows:  \nPRELIMINARY STATEMENT \n1.  This civil rights action challenges the life-threatening and discriminatory denial of \nnecessary medical treatment in Bureau of Prison facilities overseen by Defendants Sawyer and \nSchult. Government officials are obligated to meet the medical needs of people in their custody. \nYet, when it comes opioid use disorder, a deadly disease that afflicts millions of people across \nthe United States, the Bureau’s actions match neither its legal obligations nor the federal \ngovernment’s own admonishments to state and local prisons and jails.  \n1 \n\nCase 2:19-cv-02541-CM-ADM   Document 1   Filed 09/06/19   Page 2 of 20\n2.  The medical standard of care to treat opioid use disorder is “medication for \naddiction treatment” (also known as “medication-assisted treatment,” or “MAT”), which utilizes \nFDA-approved medications like methadone or buprenorphine.  In recent years, the U.S. \nAttorneys have investigated state prisons and local jails for denying MAT to inmates.  But the \nBureau itself does exactly that; defying medical consensus, it prohibits all of its inmates from \naccessing buprenorphine to treat their opioid use disorders. As applied to Plaintiff Leaman \nCrews, whose opioid use disorder is being successfully treated with buprenorphine, and who \nbegan a 36-month federal sentence on September 4, 2019, the Bureau’s buprenorphine policy \nviolates the Eighth Amendment to the U.S. Constitution, the Rehabilitation Act, and the \nAdministrative Procedures Act (“APA”).  It also places him in grave and immediate danger. \n3.  Plaintiff Lawrence Crews has been diagnosed with opioid use disorder. Like \nmany Americans, Crews first took opioids for debilitating pain after a serious car accident. Over \ntime, he became utterly dependent on them.  Mr. Crews unsuccessfully attempted to overcome \naddiction through detoxification. With the help of his doctor-prescribed buprenorphine treatment, \nMr. Crews has escaped more than a decade of active addiction and entered long-term recovery. \nHe has been clean for 15 months with the help of MAT. This is the only treatment that has \nworked for Mr. Crews.  \n4.  Mr. Crews made a grave mistake using his position of employment to gain access \nto money he used to buy opioids. He has accepted responsibility for his actions, pled guilty, \nmade substantial restitution payments, and worked through therapy to make amends to others in \nhis life whom he harmed. Mr. Crew’s mistake was serious but should not claim his life. \n5.  Bureau facilities do not provide buprenorphine-based maintenance treatment to \nany inmates with opioid use disorder.  This policy applies even where, as here, a person is \n2 \n\nCase 2:19-cv-02541-CM-ADM   Document 1   Filed 09/06/19   Page 3 of 20\nalready taking prescribed buprenorphine when they enter custody, and where the involuntarily \ndiscontinuation of that treatment would violate the standard of care. \n6.  If Mr. Crews is denied his prescribed buprenorphine-based MAT while he is \nincarcerated, he will inevitably suffer and possibly die.  To begin, he will enter an acute and \nextremely painful period of withdrawal, which carries a heightened risk for numerous serious \nmedical conditions.  He will also experience a heightened probability of relapsing into opioid \nuse, both during his incarceration and upon his release, which can result in overdose and death.  \n7.  As applied to Mr. Crews, Defendants’ buprenorphine policy violates his legal \nrights in three ways.   \na.  First, it reflects deliberate indifference to his serious medical need, to his \nsuffering, and to the long-term consequences of forced withdrawal.  Defendants’ \nactions therefore violate Mr. Crews’ Eighth Amendment right to be free from \ncruel and unusual punishment.   \nb.  Second, the denial of necessary medical care violates Mr. Crews’ right, under the \nRehabilitation Act, to be free from discrimination based upon his disability.   \nc.  Finally, the Bureau’s refusal to provide Mr. Crews with access to medically-\nnecessary treatment and its blanket denial of buprenorphine maintenance \ntreatment also violate the APA because these final agency actions are arbitrary, \ncapricious, and unlawful under the Rehabilitation Act.  \n8.  Ms. Crews seeks emergency, preliminary, and permanent relief to require \nDefendants to provide him with adequate medical care and prevent suffering.  Specifically, Mr. \nCrews seeks declaratory and injunctive relief requiring Defendants to provide his with access to \n3 \n\nCase 2:19-cv-02541-CM-ADM   Document 1   Filed 09/06/19   Page 4 of 20\nhis medically necessary, physician-prescribed buprenorphine-based MAT throughout his \nincarceration at a Bureau facility. \nTHE PARTIES \n9.  Plaintiff Leaman Crews resides in Leavenworth, Kansas.  \n10.  Defendant Kathleen Hawk Sawyer is the Acting Director of the Federal Bureau of \nPrisons. She is being sued in her official capacity only, in which she is responsible for overseeing \nthe operation all 122 Bureau facilities.  \n11.  Defendant Dr. Deborah G. Schult is the Assistant Director of the Health Services \nDivision for the Federal Bureau of Prisons.  She is being sued in her official capacity only, in \nwhich she directs the Bureau’s national medical program and oversees health care delivery for \nthe Bureau.  \nJURISDICTION AND VENUE \n12.  This Court has jurisdiction pursuant to 28 U.S.C. §§ 1331 and 1343.  The \nrequested relief is authorized by the Declaratory Judgment Act, 28 U.S.C. §§ 2201 and 2202.  \nThis action seeks to vindicate rights guaranteed by the Eighth Amendment to the United States \nConstitution, Section 504 of the Rehabilitation Act, 29 U.S.C. § 794, and the Administrative \nProcedures Act, 5 U.S.C. §§ 704 and 706. \n13.  This Court has authority to issue declaratory and injunctive relief under 28 U.S.C. \n§§ 2201 and 2202, 5 U.S.C. § 706, Rules 57 and 65 of the Federal Rules of Civil Procedure and \nthe Court’s inherent equitable powers.  \n14.  Venue lies in the District of Kansas under 28 U.S.C. § 1391.   \nFACTS \nOpioid Use Disorder Is a Life-Threatening Medical Condition and a Public Health \nCrisis. \n4 \n\nCase 2:19-cv-02541-CM-ADM   Document 1   Filed 09/06/19   Page 5 of 20\n \n15.  Opioids are a class of drugs that inhibit pain and can have euphoric side effects.  \nMany opioids have legitimate medical uses, including chronic pain management.  Others, such as \nheroin, are not generally used in medicine in the United States, but are sold on the black market.   \n16.  Opioid use disorder is a chronic brain disease with potentially deadly \ncomplications.  Signs of opioid use disorder include cravings, increased tolerance to opioids, the \ninability to cut back or control opioid use, withdrawal symptoms, and a loss of control.  \n17.  Like other chronic diseases, opioid use disorder often involves cycles of relapse \nand remission.   \n18.  Without treatment or other recovery, patients with opioid use disorder are \nfrequently unable to control their use of opioids.  Opioid use disorder is progressive and can \nresult in disability or premature death, including due to accidental overdose.  \n19.  Opioid use disorder is a national public health crisis.  As of 2016, 2.1 million \nAmericans suffered from this disease.  Between 1999 and 2017, more than 700,000 people died \nfrom opioid overdose.  The death toll has increased exponentially in the past five years, and the \nnumber of opioid overdose deaths in 2017 was six times higher than in 1999.  Every day in \nAmerica, an average of 130 people die after overdosing on opioids—equivalent to one person \nevery 12.5 minutes.   \n20.  Opioid use disorder is especially dangerous for people who are or have been \nincarcerated.   \n21.  As the 2017 Final Report from the President’s Commission on Combating Drug \nAddiction and the Opioid Crisis 2017 explained, “[i]n the weeks following release from jail or \nprison, individuals with or in recovery from OUD are at elevated risk of overdose and associated \nfatality.”  A recent study by the Massachusetts Department of Public Health similarly found that \n5 \n\nCase 2:19-cv-02541-CM-ADM   Document 1   Filed 09/06/19   Page 6 of 20\n“[t]he opioid overdose death rate is 120 times higher for those recently released from \nincarceration compared to the rest of the adult population.”   The same study found that \n“[o]pioid-related deaths among persons recently released from incarceration [in Massachusetts] \nhave increased 12-fold between 2011 and 2015,” and, “[i]n 2015, nearly 50% of all deaths \namong those released from incarceration were opioid-related.”  \nMedication for Addiction Treatment Is the Standard of Care for Opioid Use Disorder.  \n22.  MAT is the standard of care for opioid use disorder.  \n23.  MAT “is a comprehensive approach that combines FDA-approved medications \n. . . with counseling and other behavioral therapies to treat patients with opioid use disorder \n(OUD).”   Three medications used in MAT are methadone (sold under brand names such as \nDolophine and Methadose), buprenorphine (sold under brand names such as Subutex, Suboxone, \nand Bunavail), and naltrexone (sold under brand names such as ReVia and Vivitrol).  These \nmedications have been approved by the United States Food and Drug Administration for \ntreatment of opioid addiction.   \n24.  Naltrexone works by blocking opioids from producing their euphoric effects and \nthus reducing a desire for opioids over time.  Buprenorphine and methadone act through a \ndifferent mechanism than naltrexone: both activate rather than block opioid receptors to relieve \nwithdrawal symptoms and control cravings.   \n25.  Because of this important ability to act on opioid receptors without presenting the \nsame risk of overdose, buprenorphine and methadone have both been deemed “essential \nmedicines” according to the World Health Organization.   Both methadone and buprenorphine \nfacilitate extinction learning (a gradual decrease in response to a stimulus, such as an opioid), \n6 \n\nCase 2:19-cv-02541-CM-ADM   Document 1   Filed 09/06/19   Page 7 of 20\nbecause patients learn that they will not get the same “high” from taking illicit drugs like heroin \nand fentanyl.  \n26.  As with any prescription medication, patients’ responses to these medications are \nindividualized—a patient may find that only one of these medications provides effective \ntreatment without significant adverse side effects.    \n27.  The results of treatment with MAT are dramatically superior to other treatment \noptions.   \n28.  Studies of MAT show improved retention in treatment, abstinence from illicit \ndrugs, and decreased mortality.  MAT has been shown to decrease opioid use, opioid-related \noverdose deaths, criminal activity, and infectious disease transmission.  MAT has also been \nshown to increase patients’ social functioning and retention in treatment.   \n29.  The primary driver of treatment efficacy in MAT regimens is the medication.   \n30.  Studies have shown that maintenance medication treatments of opioid use \ndisorder reduce all cause and overdose mortality and have a more robust effect on treatment \nefficacy than behavioral components of MAT.   Buprenorphine and methadone have been \nclinically proven to reduce opioid use more than (1) no treatment, (2) outpatient treatment \nwithout medication, (3) outpatient treatment with placebo medication, and (4) detoxification \nonly.  One study documented the treatment outcomes from a detoxification facility and showed \n(1) a twenty-nine percent chance of relapse on the day of discharge, (2) a sixty percent chance \nrelapse after one month, and (3) a success rate of only five to ten percent after one year.   \n31.  Once a patient is successfully recovering from opioid use disorder through MAT, \nthe arbitrary and sudden cessation of the medication violates the standard of care and, in the case \n7 \n\nCase 2:19-cv-02541-CM-ADM   Document 1   Filed 09/06/19   Page 8 of 20\nof methadone and buprenorphine, will cause excruciating withdrawal symptoms within 48 hours \nof cessation.   \n32.  Withdrawal symptoms include severe dysphoria, cravings for opiates, irritability, \nsweating, nausea, tremor, vomiting, insomnia, and muscle pain.  These symptoms can sometimes \nlead to life-threatening complications.   \n33.  Withdrawal is particularly dangerous for patients with pre-existing psychiatric \nconditions, such as bipolar disorder, because withdrawal symptoms can exacerbate their \npsychiatric illness.  \nThe Federal Government Has Widely Adopted the Medical and Scientific Consensus \nthat Medication for Addiction Treatment Is the Standard of Care for Opioid Use Disorder. \n34.  Embracing the medical and scientific consensus, numerous federal entities have \nexpressly endorsed the necessity of MAT, including: the Department of Health and Human \nServices (“HHS”), the Food and Drug Administration (“FDA”), the National Institute on Drug \nAbuse (“NIDA”), the President’s Commission on Combating Drug Addiction and the Opioid \nCrisis, the Office of National Drug Control Policy (“ONDCP”), and the Substance Abuse and \nMental Health Services Administration (“SAMHSA”).  \n35.  For example, emphasizing that “the gold standard for demonstrating efficiency in \nclinical medicine” has shown that MAT is more effective in reducing illicit opioid use than no \nmedication, SAMHSA has concluded that “just as it is inadvisable to deny people with diabetes \nthe medication they need to help manage their illness, it is also not sound medical practice to \ndeny people with OUD access to FDA-approved medications for their illness.”  SAMHSA has \nalso highlighted that “dosing and schedules of pharmacotherapy must be individualized,” and \nthat some individuals may require “lifelong treatment.”   \n8 \n\nCase 2:19-cv-02541-CM-ADM   Document 1   Filed 09/06/19   Page 9 of 20\n36.  The Department of Justice has confirmed that MAT is the standard of care for \ntreatment of opioid use disorder. \n37.  The Department of Justice has taken the position that denying non-incarcerated \nindividuals suffering from opioid use disorder access to MAT can constitute unlawful disability \ndiscrimination under the Americans with Disabilities Act (“ADA”). \n38.  The Department of Justice has also taken the position that denying incarcerated \nindividuals suffering from opioid use disorder access to MAT can constitute unlawful disability \ndiscrimination under the ADA.  \n39.  The Department of Justice and its subordinates have taken concrete actions to \ncombat this discrimination.  In 2017, the Department of Justice’s Civil Rights Division launched \nthe Opioid Initiative to enforce the ADA and work with U.S. Attorney’s Offices nationwide “to \nensure that people who have completed, or are participating in, treatment for OUD do not face \nunnecessary and discriminatory barriers to recovery.”   \n40.  Also in 2017, the U.S. Attorney for the Southern District of New York sent a 10-\npage letter to the New York State Attorney General, explaining “it has come to our attention that \nthe Family Court and the Surrogate’s Court in Sullivan County, New York, as well as the stake \nholders involved with those courts, may benefit from further information about the ADA’s \napplication to individuals receiving medication-assisted treatment (“MAT”) such as treatment \nwith methadone or buprenorphine, for substance use disorders.”  Emphasizing that “MAT is a \nsafe and widely accepted strategy for treating opioid disorders,” with “broad support [] among \nmedical and substance use experts,” the letter instructed that “the Sullivan family court and \nSullivan surrogate’s court should ensure that their policies and practices with respect to \nindividuals participating in MAT . . . are consistent with ADA requirements.”  \n9 \n\nCase 2:19-cv-02541-CM-ADM   Document 1   Filed 09/06/19   Page 10 of 20\n41.  In March 2018, the U.S. Attorney for Massachusetts initiated an ADA \ninvestigation of the Massachusetts Department of Correction for its failure to provide non-\npregnant inmates who had been prescribed MAT to treat their opioid use disorder with continued \naccess to MAT during their incarceration.  In so doing, the office emphasized “that all \nindividuals in treatment for OUD, regardless of whether they are inmates or detainees, are \nalready protected by the ADA, and [] the DOC has existing obligations to accommodate this \ndisability.”  \n42.  In October 2018, the U.S. Attorney for Massachusetts initiated an ADA \ninvestigation of several county sheriffs for their failure to provide inmates who had been \nprescribed methadone or buprenorphine to treat their opioid use disorder with continued access \nto these medications during their incarceration.  \nProviding Medication For Addiction Treatment Is Particularly Important, and \nAdministrable, in Correctional Settings. \n43.  Withholding MAT from incarcerated people with opioid use disorder causes some \nof them to die. \n44.  As the President’s Commission on Combating Drug Addiction and the Opioid \nCrisis has explained, “MAT has been found to be correlated with reduced risk of mortality in the \nweeks following release [from incarceration],” and a “large study of individuals with [opioid use \ndisorder] released from prison found that individuals receiving MAT were 75% less likely to die \nof any cause and 85% less likely to die of drug poisoning in the first month after release.”   \n45.  Providing MAT in correctional settings is administrable.  \n46.  Providing MAT in correctional settings also saves lives. \n47.  Numerous authorities have therefore recommended providing MAT in jails and \nprisons to help address the serious risks the opioid crisis poses for incarcerated people.   \n10 \n\nCase 2:19-cv-02541-CM-ADM   Document 1   Filed 09/06/19   Page 11 of 20\n48.  For example, the Department of Justice’s Adult Drug Court Discretionary Grant \nProgram requires grantees to permit the use of MAT.  \n49.  On behalf of the Trump Administration, the ONDCP’s 2019 report establishes \n“increasing the availability of MAT for incarcerated individuals” as a priority initiative.  \n50.  SAMSHA identifies “making treatment available to criminal justice populations” \nas one of the “remaining challenges” in fighting the opioid public health crisis.  \n51.  In a 2018 report, the National Sheriffs’ Association and the National Commission \non Correctional Health Care explain that “correctional withdrawal alone actually increases the \nchances the person will overdose following community release due to loss of opioid tolerance” \nand “[f]or this reason, all individuals with OUD should be considered for MAT” while they are \nincarcerated.  They emphasize that providing MAT in jails and prisons can “contribut[e] to the \nmaintenance of a safe and secure facility for inmates and staff” and reduce recidivism, \nwithdrawal symptoms, the risk of post-release overdose and death, and disciplinary problems. \n52.  The American Society of Addiction Medicine, the leading professional society in \nthe country on addiction medicine, also recommends treatment with MAT for people with opioid \nuse disorder in the criminal justice system.   \n53.  As recognized by these authorities, opioid use disorder is a chronic relapsing \ncondition that requires medically appropriate treatment just like other chronic diseases.   \n54.  Once patients successfully begin using one form of MAT, they need to be \nmaintained on that treatment under medical supervision to give them the best chance of success.  \n55.  Forced withdrawal is not medically appropriate for patients receiving MAT.   \n56.  Forced withdrawal disrupts their treatment plan, leading to a seven-fold decrease \nin continuing MAT after release.  As the National Sheriffs’ Association and National \n11 \n\nCase 2:19-cv-02541-CM-ADM   Document 1   Filed 09/06/19   Page 12 of 20\nCommission on Correctional Healthcare emphasize, “forced detoxification of prescribed opioid \nmedication, such as methadone, can undermine an individual’s willingness to engage in MAT in \nthe future, compromising the likelihood of long-term recovery.”  Death is three times as likely \nfor people out of treatment versus when in treatment.  \n57.  Reflecting this knowledge, numerous jails and prisons follow the medical \nstandard of practice and allow prisoners to continue with MAT during incarceration.  Examples \ninclude Bernalillo County Metropolitan Detention Center (New Mexico); Rikers Island \nCorrectional Facility (New York); Kings County Jail (Washington State); Orange County Jail \n(Florida).  The Rhode Island and Vermont Departments of Correction make MAT available to all \nof their prisoners, even those who were not receiving MAT before being incarcerated.   \n58.  Following the medical standard of practice yields positive results.  After the first \nyear of the program within the Rhode Island Department of Corrections, 95% of inmates who \nwere on MAT at the time they were incarcerated continued with their treatment after their \nrelease.  “Research showed that this program reduced post-release deaths by 60% and all opioid-\nrelated deaths in the state by more than 12%.”  \nThe Federal Bureau of Prisons Categorically and Arbitrarily Denies Medication for \nAddiction Treatment for Inmates with Opioid Use Disorder. \n \n59.  The Bureau’s National Formulary and Pharmacy Services Program Statement \nestablish the Bureau’s official prescribing policies.   \n60.  The Bureau’s Formulary instructs that “ALL BOP institutions, including Medical \nCenters, are expected to abide by the [F]ormulary as outlined in the BOP Pharmacy Services \nProgram Statement.”  It further mandates that all clinical directors, health services \nadministrators, associate wardens and wardens are “expected to support and ensure compliance \nwith the BOP National Formulary.”  \n12 \n\nCase 2:19-cv-02541-CM-ADM   Document 1   Filed 09/06/19   Page 13 of 20\n61.  Under these mandatory policies, the Bureau denies buprenorphine to all inmates \nsuffering from opioid use disorder for “maintenance therapy” and methadone treatment to non-\npregnant inmates.  \n62.  The Bureau’s denial of buprenorphine is arbitrary. \n63.  The Bureau’s denial of buprenorphine to all inmates with opioid use disorder is \nalso categorical; it applies even if buprenorphine has been prescribed by a physician as a \nmedically-necessary treatment for someone placed into the Bureau’s custody.  \n64.  The Bureau’s Program Statement for Pharmacy Services restricts the \ndissemination of buprenorphine treatment of inmates suffering from opioid use disorder, \nproviding that this medication “will only be approved for detoxification, NOT for pain or \nmaintenance therapy.”  \n65.  There are no exceptions to this blanket prohibition.  \n66.  The Bureau’s Clinical Guidance on Detoxification of Chemically Dependent \nInmates instructs Bureau facilities to taper inmates off of buprenorphine over three to ten days.  \n67.  The Bureau’s National Formulary similarly prohibits the use of methadone to \ntreat opioid use disorder, explaining the uses are limited to “treatment of opiate addicted \npregnant inmates; detoxification of opiate addicted inmates; and treatment of severe pain.”  \n68.  Some Bureau facilities have begun to offer Vivitrol, but, on information and \nbelief, they only do so immediately prior to an individual’s transfer out of the Bureau facility. \n69.  Inmates in a Bureau facility depend upon the facility to provide them with all \nmedical care.    \n70.  Bureau facilities provide medically-necessary care to other inmates in their \ncustody, but not to inmates who suffer from opioid use disorder.    \n13 \n\nCase 2:19-cv-02541-CM-ADM   Document 1   Filed 09/06/19   Page 14 of 20\n71.  For example, buprenorphine is provided to inmates for detoxification, but \nuniformly denied to inmates to treat their opioid use disorder.  \nWithout Judicial Intervention, Mr. Crews Will Be Denied Medically-Necessary Treatment for \nHis Opioid Use Disorder When He Is Incarcerated in a Federal Bureau of Prisons Facility.  \n \n72.  Defendants’ policies, if permitted to be applied to Mr. Crews, will cause him to \nlose access to buprenorphine while he is incarcerated and experience what is known as \n“withdrawal.”  \n73.  Mr. Crews’ buprenorphine treatment is medically necessary.  For him, forced \nwithdrawal would be dangerous and potentially life-threatening.  \n74.  Ms. Crews is diagnosed with opioid use disorder, a serious medical need and a \nrecognized disability.  If untreated, Ms. Crews’ opioid use disorder is likely to result in relapse \nand potentially a fatal opioid overdose, among other things.  \n75.  Mr. Crews has suffered from addiction for years.  Before he was prescribed the \nproper dose of buprenorphine, Mr. Crews unsuccessfully attempted to cure his addiction by \ndiscontinuing opioids.  \n76.  MAT with buprenorphine has been the only treatment that has enabled Mr. Crews \nto remain in active recovery and to get his life back. \n77.  For over a year, Mr. Crews has been prescribed buprenorphine for treatment of \nhis opioid use disorder.  With the help of the proper dose of buprenorphine, he has been in active \nrecovery and has not relapsed.  Buprenorphine is medically necessary for the treatment of Mr. \nCrews’ serious medical condition.  \n78.  Without access to this medically-necessary treatment, Mr. Crews faces a high risk \nof relapse, overdose and death.  \n14 \n\nCase 2:19-cv-02541-CM-ADM   Document 1   Filed 09/06/19   Page 15 of 20\n79.  Mr. Crews is currently incarcerated at the Bureau’s Leavenworth facility and is \nset to serve a 36-month sentence.   \n80.  If, as the Bureau’s policies mandate, Mr. Crews is prevented from accessing his \nbuprenorphine treatment when he is incarcerated, he will begin experiencing withdrawal \nsymptoms within 48 hours.  These excruciating symptoms will continue for several weeks.  \nReducing Mr. Crews’ dose over three to ten days will similarly trigger withdrawal symptoms \nwithin a matter of days, as that rate is far too fast and much more accelerated than the standard \nprotocol.   \n81.  On August 27, 2019, Mr. Crews’ counsel sent a letter to the Leavenworth Warden \ninforming them of his serious medical need and requesting assurance that Mr. Crews would be \nprovided with his physician-prescribed dose of buprenorphine during his time in their custody. \nCounsel also called and left voicemail messages on multiple occasions. No response has been \nreceived.  \n82.  On September 4 and September 5, 2019, Mr. Crews’ counsel spoke with Bureau \ncounsel. On September 5, Bureau counsel stated that Mr. Crews would be given an \nindividualized assessment of his general medical needs and would be given treatment of some \nkind.  But Bureau counsel would not confirm that, in assessing Mr. Crews, Defendants could or \nwould deviate from their blanket prohibition of buprenorphine treatment. Indeed, Bureau counsel \nconfirmed that Suboxone (buprenorphine-naloxone) is unavailable. \n83.  Accordingly, the relevant officials at the Bureau have been informed of Mr. \nCrews’ diagnosis and need for medical treatment, but it appears that they will not provide such \ntreatment while he is incarcerated in Leavenworth.  In fact, no one on behalf of the Bureau has \n15 \n\nCase 2:19-cv-02541-CM-ADM   Document 1   Filed 09/06/19   Page 16 of 20\nasserted that, absent a court order, they will even consider continuing Mr. Crews’ buprenorphine \ntreatment. \nCAUSES OF ACTION \nCOUNT I –THE EIGHTH AMENDMENT  \n(Deliberate Indifference to Serious Medical Need in Violation of the Eighth Amendment) \n \n84.  The foregoing allegations are re-alleged and incorporated herein. \n85.  The Defendants, while acting under color of federal law, deliberately, \npurposefully, and knowingly deny or will deny Mr. Crews access to necessary medical treatment \nfor his opioid use disorder, which is a serious medical need.  \n86.  Denying Mr. Crews access to his prescribed dosage of buprenorphine will \nimmediately cause him physical and psychological suffering, will expose him to heightened risk \nfor other serious medical conditions, and could trigger relapse into active addiction, potentially \nresulting in overdose and death.   \n87.  As applied to Mr. Crews, the denial of treatment by Defendants amounts to \ndeliberate indifference to a serious medical need, in violation of the Eighth Amendment’s \nprohibition against cruel and unusual punishment.    \nCOUNT II – REHABILITATION ACT  \n(Unlawful Discrimination Against Qualified Individuals with Disabilities) \n \n88.  The foregoing allegations are re-alleged and incorporated herein.   \n89.  The Bureau of Prisons, which is overseen by Defendants, receives federal funding \nand is a federal agency that is subject to the Rehabilitation Act.  29 U.S.C. § 794(a).   \n90.  Drug addiction is a “disability” under the Rehabilitation Act.  29 U.S.C. \n§ 705(20)(B); 42 U.S.C. §§ 12102 and 12131(2); 28 C.F.R. § 35.108 (the phrase “physical or \nmental impairment includes, but is not limited to . . . drug addiction, and alcoholism”).  \n16 \n\nCase 2:19-cv-02541-CM-ADM   Document 1   Filed 09/06/19   Page 17 of 20\n91.  The Rehabilitation Act applies to people, like Mr. Crews, who are participating in \na supervised drug rehabilitation program. \n92.   Defendants deny Mr. Crews the benefits of the Federal Bureau of Prisons’ \nmedical programs on the basis of his disability.  \n93.  Defendants refuse to make a reasonable accommodation for Mr. Crews by \nproviding her with access to his prescribed dosage of buprenorphine during his incarceration, \nthereby discriminating against him on the basis of disability, even though accommodation would \nin no way alter the nature of the healthcare program.  On information and belief, Defendants do \nnot deny medically-necessary, physician-prescribed medications to other inmates with serious, \nchronic medical conditions, such as diabetes.  \nCOUNT III – ADMINISTRATIVE PROCEDURES ACT  \n(Agency Action that is Arbitrary, Capricious and Not in Accordance with the Law) \n \n94.  The foregoing allegations are re-alleged and incorporated herein. \n95.  The Federal Bureau of Prisons, which is overseen by Defendants, is a federal \nagency whose final actions are subject to judicial review under the Administrative Procedures \nAct.  5 U.S.C. §§ 701, 704.  \n96.  Under the Administrative Procedures Act, a reviewing court shall “hold unlawful \nand set aside agency actions, findings, and conclusions found to be arbitrary, capricious, an \nabuse of discretion, or otherwise not in accordance with the law.”  5 U.S.C. § 706(2)(A). \n97.  The Federal Bureau of Prisons Pharmacy Services Program Statement No. \n6360.01 and 2018 National Formulary Parts 1 and 2 are the subject of the Bureau’s completed \ndecision-making process. These documents directly affect the parties, as they bind the \nDefendants to prevent all inmates, including Mr. Crews, from continuing their medically-\nnecessary buprenorphine maintenance treatment.  The Federal Bureau of Prisons Pharmacy \n17 \n\nCase 2:19-cv-02541-CM-ADM   Document 1   Filed 09/06/19   Page 18 of 20\nServices Program Statement No. 6360.01 and 2018 National Formulary Parts 1 and 2 therefore \nconstitute final agency action. \n98.  This final agency action automatically denies reasonable accommodation to any \ninmates suffering from opioid use disorder with a medically-necessary buprenorphine \nprescription, including Mr. Crews. For the reasons described in Count II, this final agency action \nis arbitrary, capricious, and unlawful under the Rehabilitation Act and therefore violates the \nAdministrative Procedures Act. 5 U.S.C. §§ 704, 706 \n99.  Defendants deny Mr. Crews access to his medically-necessary buprenorphine \ntreatment.  This final agency action is arbitrary, capricious, and unlawful under the \nRehabilitation Act for the reasons described in Count II, and therefore violates the \nAdministrative Procedures Act. 5 U.S.C. §§ 704, 706. \n \nPRAYER FOR RELIEF \nWherefore, Mr. Crews asks this Court to GRANT the following relief: \n(a) Emergency, preliminary, and permanent injunctive relief ordering Defendants to provide \nMr. Crews with access to MAT, including the buprenorphine dosage prescribed by his \nphysician, during his entire term of incarceration; \n(b) A declaratory judgment holding that Defendants’ policy denying all inmates access to \nbuprenorphine treatment for opioid use disorder, as applied to Mr. Crews, violates the \nEighth Amendment; \n(c) A declaratory judgment holding that Defendants’ policy denying all inmates access to \nbuprenorphine treatment for opioid use disorder, as applied to Mr. Crews, violates the \nRehabilitation Act and the APA; \n18 \n\nCase 2:19-cv-02541-CM-ADM   Document 1   Filed 09/06/19   Page 19 of 20\n(d) Award Ms. Mr. Crews his attorneys’ fees and costs;  \n(e) Any further relief this Court deems just and proper. \n \nDesignation of Place of Trial \nPursuant to D. Kan. 40.2, Plaintiff designates Kansas City, Kansas as the place of trial.  \n \n \nDated: September 6, 2019 \n                   Respectfully Submitted,  \n \nBy:         /s/ Lauren Bonds______________ \n      Lauren Bonds, KS No. 27807 \n      Zal Kotval Shroff, KS No. 28013 \n      ACLU Foundation of Kansas \n      6701 W. 64th Street, Ste. 210 \n      Overland Park, KS 66202 \n      Phone: (913) 490-4100 \n      Fax: (913) 490-4119  \n      lbonds@aclukansas.org \n      zshroff@aclukansas.org \n \n                     /s/ Anthony E. Rothert  \n                     Anthony E. Rothert*  \n                     Jessica Steffan*  \n                     Gillian Wilcox*  \n                     ACLU of Missouri Foundation \n                                                                                           906 Olive Street, Suite 1130 \n                                                                                           St. Louis, MO 63101 \n                                                                                           Tel: 314-669-3420 \n                                                                                           Fax: 314-652-3112 \n                                                                                           arothert@aclu-mo.org \n                                                                                           jsteffan@aclu-mo.org  \n                                                                                           gwilcox@aclu-mo.org  \n             \n*Application for Pro Hac Vice Forthcoming \n \n   ATTORNEYS FOR PLAINTIFFS \n \n19 \n\nCase 2:19-cv-02541-CM-ADM   Document 1   Filed 09/06/19   Page 20 of 20\n \nCERTIFICATE OF SERVICE \n  I hereby certify that on September 6, 2019, I electronically filed the foregoing with the \nClerk of Court using the CM/ECF system. On that date, I also served a copy of this Complaint, \nPlaintiffs’ Motion for a Temporary Restraining Order, and accompanying Memorandum of Law \non the United State Attorney for the District of Kansas and Federal Bureau of Prisons.   \n \nDated: September 6, 2019 \n \n \n              /s/ Lauren Bonds  \n              Lauren Bonds  \n20 ",
+      "document_type_other": "",
+      "external_url": "",
+      "ecf_number": "1",
+      "clearinghouse_link": "clearinghouse.net/doc/106496"
+    },
+    {
+      "date": "2020-03-31",
+      "date_is_estimate": false,
+      "date_not_available": false,
+      "description": null,
+      "document_source": "PACER [Public Access to Court Electronic Records]",
+      "document_status": "Coding Complete",
+      "document_type": "Order/Opinion",
+      "order_type": "Non-Decree",
+      "citation_paren": null,
+      "cite_1_page": null,
+      "cite_1_reporter": null,
+      "cite_1_vol": null,
+      "cite_2_page": 1528502,
+      "cite_2_reporter": "WL",
+      "cite_2_vol": 2020,
+      "cite_3_page": null,
+      "cite_3_reporter": null,
+      "cite_3_vol": null,
+      "citation_status": "WL/LEXIS only: No official citation available",
+      "court": "District of Kansas",
+      "no_title": false,
+      "party_types": [
+        "Court"
+      ],
+      "per_curium": false,
+      "is_core_document": true,
+      "id": 106498,
+      "file": "https://clearinghouse-umich-production.s3.amazonaws.com/media/doc/106498.pdf",
+      "title": "Memorandum and Order",
+      "text": "Case 2:19-cv-02541-JWB-ADM   Document 54   Filed 03/31/20   Page 1 of 8\nIN THE UNITED STATES DISTRICT COURT \nFOR THE DISTRICT OF KANSAS \n \n \n \nLEAMAN CREWS, \n \n      Plaintiff, \n \nv.                  Case No. 19-2541-JWB  \n \nKATHLEEN HAWK SAWYER, in her  \nofficial capacity as the Director of the \nFederal Bureau of Prisons, and \nDEBORAH G. SCHULT, in her  \nofficial capacity as Assistant Director for \nthe Health Services Division of the \nFederal Bureau of Prisons, \n \n      Defendants.  \n \nMEMORANDUM AND ORDER \n  This matter is before the court on Defendants’ motion to dismiss.  (Doc. 36.)  The motion \nis fully briefed and is ripe for review.  (Docs. 37, 45, 49.)  For the reasons stated herein, the motion \nto dismiss is GRANTED. \n  I.  Background \n   Plaintiff has opioid use disorder.  To treat his disorder, Plaintiff began using buprenorphine \nas medication-assisted treatment (MAT) in 2018.  On September 4, 2019, Plaintiff entered into the \nBureau  of  Prisons  (BOP)  custody  at  USP  Leavenworth.    When  Plaintiff  arrived  at  USP \nLeavenworth, prison staff told him that he would not receive buprenorphine as MAT while \nincarcerated.  Plaintiff promptly filed this case, asking for a temporary restraining order, to prohibit \nDefendants from denying him continuation of his treatment.  (Doc. 2.)  On September 11, 2019, \nPlaintiff filed a motion to withdraw his motion for a temporary restraining order, representing that \n\nCase 2:19-cv-02541-JWB-ADM   Document 54   Filed 03/31/20   Page 2 of 8\nthe parties had “reached a resolution in this matter.”  (Doc. 31 at 1.)  The evidence later presented \nby the parties in support of their briefing on the motion to dismiss shows the following: \n  Plaintiff requested emergency injunctive relief after 4:00 p.m. on Friday, September 6, \n2019.  Within five calendar days, plaintiff was receiving buprenorphine treatment.  No one \nat USP Leavenworth was licensed to prescribe buprenorphine, so staff arranged for a \ntelehealth appointment with a BOP physician who was able to prescribe the medication \nfor Plaintiff.  Plaintiff began MAT therapy in the form of Suboxone film strips that were \nplaced under his tongue to dissolve.  \n  BOP’s Medical Director, Dr. Jeffery D. Allen, stated in a Declaration signed under penalty \nof perjury that “so long as it remains medically necessary and appropriate, [Plaintiff] will \nbe able to remain on MAT therapy with Suboxone during his entire period of incarceration \nwith the BOP.”  (Doc. 37-3 at 5.)   \n  The National Formulary Part I is a list of medications considered by BOP staff to provide \ndrug therapy for inmates.  BOP medical care is provided in accordance with the Formulary, \nas well as agency policies, Clinical Guidance, and other medically-accepted practices.  (Id. \nat  3.)    The  Formulary  provides,  “Buprenorphine  .  .  .  [w]ill  only  be  approved  for \ndetoxification, NOT for pain or maintenance therapy.”  (Doc. 3-2 at 15.)  Dr. Allen \napproves the Formulary but also recognizes that the Formulary allows for flexibility in \napplication when the proper channels are followed.  (See generally Doc. 37-3 at 3–4.)  \nAccording to Dr. Allen, even when a medication is not on the BOP’s Formulary, the \nmedication can still be reviewed and approved when medically necessary—as was done \nin this case.  (Id. at 3.) \n2 \n \n\nCase 2:19-cv-02541-JWB-ADM   Document 54   Filed 03/31/20   Page 3 of 8\n  The BOP’s Patient Care Manual (Program Statement 6031.04) gives clinicians discretion \nto provide necessary care.  According to Dr. Allen, it “does not preclude long-term \ntreatment of Opioid Use Disorder with Suboxone.”  (Id. at 2.)  Neither does the Pharmacy \nServices Program Statement (Program Statement 6360.01), although it would require non-\nFormulary approval.  (Id. at 3.)   \n  On November 5, 2019 (about a month after Plaintiff filed this case), the BOP issued \ninterim technical guidance “expanding its MAT Program to include all FDA approved \nMAT medications currently available in the United States,” including buprenorphine.  \n(Doc.  37-5  at  3.)    The  guidance  provides  that  offenders  who  enter  the  BOP  with \n“prescribed MAT treatment plans . . . will be continued” on those plans, “if clinically \nappropriate.”  (Id. at 5–6.) \n  The BOP’s expansion of its MAT Program was, in part, to comply with the First Step Act.  \nThis Act requires that the BOP develop and implement “plans to expand access to \nevidence-based treatment for heroin and opioid abuse for prisoners, including access to \nmedication-assisted treatment in appropriate cases.”  First Step Act, Pub. L. 115-391, 132 \nStat. 5193, 5244 (2018).   \n  There is a dispute over whether on February 5, 2020, Plaintiff misused his medication.  \nPlaintiff denies doing so, but he was placed in a Segregated Housing Unit (SHU).  While \nthere,  Plaintiff  claims  that  several  BOP  staff  members  taunted  him  about  his \nbuprenorphine  treatment.    These  staff  members,  however,  are  not  BOP  policy \ndecisionmakers, and have no control over whether Plaintiff receives medication.  (Docs. \n49-4 at 3; 52 at 8.) \n3 \n \n\nCase 2:19-cv-02541-JWB-ADM   Document 54   Filed 03/31/20   Page 4 of 8\n  Plaintiff claims that on February 17, 2020, B. Herbig told Plaintiff he intended to have \nPlaintiff transferred because of the burden of Plaintiff’s treatment.  B. Herbig is a Special \nInvestigative Support Technician, but Plaintiff erroneously refers to him as a lieutenant.  \nAccording to Plaintiff, B. Herbig also told Plaintiff that he wanted to remove Plaintiff from \nhis buprenorphine treatment for three days to “see what would happen.”  (Doc. 45-1 at 3.)  \nB. Herbig is not a BOP policy decisionmaker and has no role in decisions about an \ninmate’s medication.  (Docs. 49-5 at 4; 52 at 8.) \n  On February 19, 2020, Plaintiff’s MAT provider recommended weaning Plaintiff off the \nbuprenorphine because Plaintiff’s behavior was “inconsistent with the desire to fully \ncomply with the program for treatment of opiate dependence with Suboxone.”  (Doc. 52 \nat 7.)  The provider sent a new prescription with new directions. \n  As of March 16, 2020, Plaintiff continued receiving buprenorphine MAT—just at a lower \ndosage than before. \n  Defendants move to dismiss the case on three grounds: (1) Plaintiff lacks standing; (2) \nPlaintiff’s claims are moot; and (3) Plaintiff failed to administratively exhaust his claims.  The first \ntwo grounds are jurisdictional and fall under Fed. R. Civ. P. 12(b)(1).  The third falls under Rule \n12(b)(6).    \nII.  Legal Standards \nThe court discusses the standards for only the first of the two of the provisions invoked by \nDefendants—Rule 12(b)(1)—because that provision is dispositive in this case. \n“Different  standards  apply  to  a  motion  to  dismiss  based  on  lack  of  subject  matter \njurisdiction under Rule 12(b)(1) and a motion to dismiss for failure to state a claim under Rule \n12(b)(6).”  Muscogee (Creek) Nation v. Pruitt, 669 F.3d 1159, 1167 (10th Cir. 2012).  When the \n4 \n \n\nCase 2:19-cv-02541-JWB-ADM   Document 54   Filed 03/31/20   Page 5 of 8\ncourt is faced with motions for dismissal relying on both Rule 12(b)(1) and 12(b)(6), the court \nmust first determine that it has subject matter jurisdiction over the controversy before reviewing \nthe merits of the case under Rule 12(b)(6).  Bell v. Hood, 327 U.S. 678, 682 (1946).  Because \nfederal courts are courts of limited jurisdiction, a presumption exists against jurisdiction, and “the \nburden of establishing the contrary rests upon the party asserting jurisdiction.”  Kokkonen v. \nGuardian Life Ins. Co. of Am., 511 U.S. 375, 377 (1994).  Therefore, the court will first review the \nchallenge to subject matter jurisdiction. \n“Motions to dismiss for lack of subject matter jurisdiction generally take one of two forms: \n(1) a facial attack on the sufficiency of the complaint’s allegations as to subject matter jurisdiction; \nor (2) a challenge to the actual facts upon which subject matter jurisdiction is based.”  City of \nAlbuquerque v. U.S. Dep’t of Interior, 379 F.3d 901, 906 (10th Cir. 2004) (internal citations \nomitted).  If the motion challenges the sufficiency of the complaint’s jurisdictional allegations, the \ncourt must accept all such allegations as true.  Holt v. United States, 46 F.3d 1000, 1002 (10th Cir. \n1995).  But if there is a challenge to the actual facts (as there is in this case), the court has discretion \nto allow affidavits and other documents to resolve disputed facts.  Id. at 1003.  When the court \nconsiders evidence under these circumstances, the court does not need to convert the motion to \none for summary judgment.  Wheeler v. Hurdman, 825 F.2d 257, 259 n.5 (10th Cir. 1987) (citations \nomitted).   \nIII.  Analysis \n  The court turns directly to Defendants’ argument that Plaintiff’s claims are moot.  While \nthe court could also address Plaintiff’s standing (Defendants argue that even when the case was \nfiled, Defendants’ policies did not prevent Plaintiff from receiving treatment), mootness presents \na more direct route to the resolution of this case.   \n5 \n \n\nCase 2:19-cv-02541-JWB-ADM   Document 54   Filed 03/31/20   Page 6 of 8\n  Federal court jurisdiction requires a live case or controversy, making mootness a threshold \ninquiry.  United States v. Fisher, 805 F.3d 982, 989 (10th Cir. 2015) (quoting In re L.F. Jennings \nOil Co., 4 F.3d 887, 889 (10th Cir. 1993)).  Litigants must maintain a personal stake in the lawsuit \nand its outcome, or a case or controversy ceases to exist.   A personal stake disappears if a litigant’s \ninjury is healed by an event and prospective relief is the only relief sought.  S. Utah Wilderness \nAll.  v.  Smith,  110  F.3d  724,  727  (10th  Cir.  1997).    Essentially,  the  court  asks,  “[H]ave \ncircumstances changed since the beginning of litigation that forestall any occasion for meaningful \nrelief[?]”  Id.  If yes: the case is moot.  Brown v. Buhman, 822 F.3d 1151, 1165–66 (10th Cir. \n2016).  Although mootness is a matter of subject matter jurisdiction, the burden is on the \ndefendant(s) to show that a case or controversy no longer exists.  WildEarth Guardians v. Pub. \nServ. Co. of Colo., 690 F.3d 1174, 1183 (10th Cir. 2012) (citation omitted). \n  When a defendant voluntarily ceases conduct, dismissal on mootness grounds is only \nappropriate “if it is clear that the defendant has not changed course simply to deprive the court of \njurisdiction.”  Rio Grande Silvery Minnow v. Bureau of Reclamation, 601 F.3d 1096, 1115 (10th \nCir. 2010) (citation omitted).  This limit “exists to counteract the possibility of a defendant ceasing \nillegal action long enough to render a lawsuit moot and then resuming the illegal conduct.”  Id. \n(internal quotation marks omitted).  And the party claiming mootness based on cessation of \nconduct bears a heavy burden to show “(1) it can be said with assurance that there is no reasonable \nexpectation that the alleged violation will recur, and (2) interim relief or events have completely \nand irrevocably eradicated the effects of the alleged violation.”  Id. at 1116 (citation omitted).  \nWhen the government is the party engaging in self-correction, however, this burden is lighter.  \nGhailani v. Sessions, 859 F.3d 1295, 1302 (10th Cir. 2017) (“[G]overnment ‘self-correction \nprovides a secure foundation for mootness so long as it seems genuine.’”); see also Rio Grande \n6 \n \n\nCase 2:19-cv-02541-JWB-ADM   Document 54   Filed 03/31/20   Page 7 of 8\nSilvery Minnow, 601 F.3d at 1116 (“In practice, however, [the] heavy burden frequently has not \nprevented governmental officials from discontinuing challenged practices and mooting a case.”).   \n  Here, we have a matter of government self-correction.  First, Defendants used their \ndiscretion to provide Plaintiff with the MAT therapy requested.  Second, the BOP issued interim \nguidance that shows a continuing commitment to provide MAT therapy where deemed medically \nappropriate.  And third, while this alteration in conduct may have been based in part on the instant \nlawsuit, the BOP is also expanding its program to comply with the First Step Act.  Under these \ncircumstances, the government self-correction “seems genuine.”  Ghailani, 859 F.3d at 1302. \nPlaintiff argues that his claims are not moot “[b]ecause none of Defendants’ official \npolicies guarantee [Plaintiff] continued access to his medically necessary treatment—and because \n[Plaintiff] has recently received threats from Defendants’ staff that he will either be denied his \nmedication or moved to a facility where his medication will be unavailable to him . . . .”  (Doc. 45 \nat 4.)  But Defendants addressed Plaintiff’s desire for a guarantee of continued access with Dr. \nAllen’s statement that “so long as it remains medically necessary and appropriate, [Plaintiff] will \nbe able to remain on MAT therapy with Suboxone during his entire period of incarceration with \nthe BOP.”  (Doc. 37-3 at 5.)  And Plaintiff’s concern about staff members showing hostility toward \nhis continued treatment does not take the risk of discontinued treatment beyond the threshold of \nspeculation.  See Rio Grande Silvery Minnow, 601 F.3d at 1117 (“[T]he ‘mere possibility’ that an \nagency  might  rescind  amendments  to  its  actions  or  regulations  does  not  enliven  a  moot \ncontroversy.  A case ‘cease[s] to be a live controversy if the possibility of recurrence of the \nchallenged conduct is only a “speculative contingency.”’”) (citations omitted).  The staff members \ndo not have any control over Plaintiff’s medical care. \n7 \n \n\nCase 2:19-cv-02541-JWB-ADM   Document 54   Filed 03/31/20   Page 8 of 8\nThe subject matter of this lawsuit has been addressed both by Defendants’ actions, as well \nas BOP’s interim guidance on MAT.  Plaintiff seeks only injunctive and declaratory relief.  There \nis no longer a need for either. \n  IV.  Conclusion \n  For the above reasons, the court determines that it lacks subject matter jurisdiction over \nthis case.  The court “cannot accord [Plaintiff] prospective relief that would have any effect in the \nreal world.”  Jordan v. Sosa, 654 F.3d 1012, 1029 (10th Cir. 2011).  There is no longer a case or \ncontroversy, and Plaintiff’s claims are moot. \n  Defendants’ motion to dismiss is GRANTED.  (Doc. 36.)  Plaintiff’s claims are dismissed \nwithout prejudice for lack of subject matter jurisdiction. \n  IT IS SO ORDERED this 31st day of March, 2020.  \n \n              _____s/ John W. Broomes_____________ \n              JOHN W. BROOMES \n              UNITED STATES DISTRICT JUDGE \n \n8 \n ",
+      "document_type_other": "",
+      "external_url": "",
+      "ecf_number": "54",
+      "clearinghouse_link": "clearinghouse.net/doc/106498"
+    },
+    {
+      "date": "2020-03-31",
+      "date_is_estimate": false,
+      "date_not_available": false,
+      "description": null,
+      "document_source": "PACER [Public Access to Court Electronic Records]",
+      "document_status": "Coding Complete",
+      "document_type": "Docket",
+      "order_type": null,
+      "citation_paren": null,
+      "cite_1_page": null,
+      "cite_1_reporter": null,
+      "cite_1_vol": null,
+      "cite_2_page": null,
+      "cite_2_reporter": null,
+      "cite_2_vol": null,
+      "cite_3_page": null,
+      "cite_3_reporter": null,
+      "cite_3_vol": null,
+      "citation_status": "Not applicable",
+      "court": "District of Kansas",
+      "no_title": false,
+      "party_types": [
+        "Court"
+      ],
+      "per_curium": false,
+      "is_core_document": true,
+      "id": 106495,
+      "file": "https://clearinghouse-umich-production.s3.amazonaws.com/media/doc/106495.pdf",
+      "title": "Docket [PACER]",
+      "text": "CLOSED,SA,CMLC3,MJLC2,SCHEDCONFSET,STAYDISC\nU.S. District Court\nDISTRICT OF KANSAS (Kansas City)\nCIVIL DOCKET FOR CASE #: 2:19−cv−02541−JWB−ADM\nCrews v. Hawk Sawyer et al Date Filed: 09/06/2019\nAssigned to: District Judge John W. Broomes Date Terminated: 03/31/2020\nReferred to: Magistrate Judge Angel D. Mitchell Jury Demand: None\nCause: 28:1331 Federal Question: Other Civil Rights Nature of Suit: 440 Civil Rights: Other\nJurisdiction: Federal Question\nPlaintiff\nLeaman Crews represented by Anthony E. Rothert\nACLU Foundation of Missouri − St. Louis\n906 Olive Street, Suite 1130\nSt. Louis, MO 63101\n314−669−3420\nFax: 314−652−3112\nEmail: arothert@aclu−mo.org\nLEAD ATTORNEY\nPRO HAC VICE\nATTORNEY TO BE NOTICED\nGillian R. Wilcox\nACLU Foundation of Missouri\n406 West 34th Street, Suite 420\nKansas City, MO 64111\n816−470−9938\nFax: 314−652−3112\nEmail: gwilcox@aclu−mo.org\nLEAD ATTORNEY\nPRO HAC VICE\nATTORNEY TO BE NOTICED\nJessica Steffan\nACLU Foundation of Missouri − St. Louis\n906 Olive Street, Suite 1130\nSt. Louis, MO 63101\n314−669−3420\nFax: 314−352−3112\nEmail: jsteffan@aclu−mo.org\nLEAD ATTORNEY\nPRO HAC VICE\nATTORNEY TO BE NOTICED\nZal Kotval Shroff\nACLU Foundation of Kansas\n6701 W. 64th Street, Suite 210\nOverland Park, KS 66202\n913−303−3641\nEmail: zshroff@aclukansas.org\nLEAD ATTORNEY\nATTORNEY TO BE NOTICED\nLauren Bonds\nAmerican Civil Liberties Union of Kansas\n6701 West 64th Street\nSuite 210\nOverland Park, KS 66202\n913−490−4114\nEmail: lbonds@aclukansas.org\nATTORNEY TO BE NOTICED\n\nV.\nDefendant\nKathleen Hawk Sawyer represented by Bryan C. Clark\nin her official capacity as the Director of Office of United States Attorney − KCKS\nthe Bureau of Prisons 500 State Avenue, Suite 360\nKansas City, KS 66101\n913−551−6742\nFax: 913−551−6541\nEmail: bryan.clark@usdoj.gov\nLEAD ATTORNEY\nATTORNEY TO BE NOTICED\nChristopher Allman\nOffice of United States Attorney − KCKS\n500 State Avenue, Suite 360\nKansas City, KS 66101\n913−551−6730\nFax: 913−551−6541\nEmail: Chris.Allman@usdoj.gov\nLEAD ATTORNEY\nATTORNEY TO BE NOTICED\nDefendant\nDeborah G. Schult represented by Bryan C. Clark\nin her official capacity as Assistant (See above for address)\nDirector for the Health Sevices Division LEAD ATTORNEY\nof the Federal Bureau of Prisons ATTORNEY TO BE NOTICED\nChristopher Allman\n(See above for address)\nLEAD ATTORNEY\nATTORNEY TO BE NOTICED\nDate Filed # Docket Text\n09/06/2019 1  COMPLAINT AND REQUEST FOR EMERGENCY INJUNCTIVE RELIEF with\ntrial location of Kansas City ( Filing fee $400, Internet Payment Receipt Number\nAKSDC−4914804.), filed by Leaman Crews.(Bonds, Lauren) Modified on 9/9/2019 to\nadd correct title of document(ses). (Entered: 09/06/2019)\n09/06/2019 2  (WITHDRAWN PER 32 ORDER) EMERGENCY MOTION for Temporary\nRestraining Order and Preliminary Injunction by Plaintiff Leaman Crews (Bonds,\nLauren). MODIFIED Added MOTION for Preliminary Injunction on 9/9/2019 (ses).\nModified on 12/4/2019 (hw). (Entered: 09/06/2019)\n09/06/2019 3  MEMORANDUM IN SUPPORT of 2 MOTION for Temporary Restraining Order and\nPreliminary Injunction by Plaintiff Leaman Crews (Attachments: # 1 Exhibit BOP\nProgram Statement, # 2 Exhibit BOP Health Services National Formulary, # 3 Exhibit\nUS DOJ Letter)(Shroff, Zal) Modified on 9/9/2019 to include full name of motion\n(ses). (Entered: 09/06/2019)\n09/06/2019 NOTICE OF JUDGE ASSIGNMENT: Case assigned to District Judge John W.\nLungstrum and Magistrate Judge Angel D. Mitchell for all proceedings. (This is a\nTEXT ENTRY ONLY. There is no.pdf document associated with this entry.) (ca)\n(Entered: 09/06/2019)\n09/06/2019 4  AFFIDAVIT of Dr. Ross MacDonald re 2 MOTION for Temporary Restraining Order\nby Plaintiff Leaman Crews (Attachments: # 1 Exhibit MacDonald Curriculum Vitae, #\n2 Exhibit Opioid Substitution Therapy Article, # 3 Exhibit SAMHSA Paper, # 4\nExhibit BOP Guidance re Detoxification, # 5 Exhibit Opioid Substitution Therapy\nArticle, # 6 Exhibit Release from Prison Article, # 7 Exhibit Methadone Continuation\nArticle, # 8 Exhibit Opioid Treatment in Prison Article, # 9 Exhibit Study re\n\nPost−Incarceration Fatal Overdose, # 10 Exhibit Study re Medication for OUD, # 11\nExhibit Article re Opioid Substitution Treatment, # 12 Exhibit Article re mortality risk\nafter MAT, # 13 Exhibit Medical Records for Mr. Crews)(Shroff, Zal) (Entered:\n09/06/2019)\n09/06/2019 NOTICE OF DEFICIENCY − Civil cover sheet is missing. The filing party/attorney is\ndirected to correct the deficiency immediately.(This is a TEXT ENTRY ONLY. There\nis no.pdf document associated with this entry.) (ca) (Entered: 09/06/2019)\n09/06/2019 5  AFFIDAVIT of Dr. Laurel Witt re 2 MOTION for Temporary Restraining Order by\nPlaintiff Leaman Crews (Attachments: # 1 Exhibit Dr. Witt Curriculum Vitae, # 2\nExhibit DSM−5 Excerpts, # 3 Exhibit Article re Opioid Abuse in Chronic Pain, # 4\nExhibit Risk Factors for Proscribed Opioids Abuse Article, # 5 Exhibit SG's Report on\nAddiction, # 6 Exhibit SAMHSA Medications for OUD)(Shroff, Zal) (Entered:\n09/06/2019)\n09/06/2019 6  CIVIL COVER SHEET by Plaintiff Leaman Crews. (Bonds, Lauren) (Entered:\n09/06/2019)\n09/06/2019 7  AFFIDAVIT of Amy Crews re 2 MOTION for Temporary Restraining Order by\nPlaintiff Leaman Crews(Shroff, Zal) (Entered: 09/06/2019)\n09/06/2019 8  RULE 65(b)(1)(B) CERTIFICATION by Movant's counsel of Jessie Steffan re 2\nMOTION for Temporary Restraining Order by Plaintiff Leaman Crews(Shroff, Zal)\nModified on 9/9/2019 to correct title of document (ses). (Entered: 09/06/2019)\n09/06/2019 9  DESIGNATION OF PLACE OF TRIAL filed by Plaintiff Leaman Crews − trial to be\nheld in Kansas City. (Bonds, Lauren) (Entered: 09/06/2019)\n09/07/2019 10  NOTICE OF SERVICE by Leaman Crews of Notice of TRO Hearing and Response\nDeadline (Bonds, Lauren) (Entered: 09/07/2019)\n09/07/2019 11  MOTION for attorney Jessica Steffan to appear pro hac vice ( Pro hac vice fee $50,\nInternet Payment Receipt Number AKSDC−4914926.) by Plaintiff Leaman Crews\n(referred to Magistrate Judge Angel D. Mitchell) (Attachments: # 1 Affidavit Steffan\nPro Hac Vice Affidavit, # 2 ECF Registration Form Steffan ECF Registration\nForm)(Bonds, Lauren) (Entered: 09/07/2019)\n09/07/2019 12  MOTION for attorney Anthony Rothert to appear pro hac vice ( Pro hac vice fee $50,\nInternet Payment Receipt Number AKSDC−4914927.) by Plaintiff Leaman Crews\n(referred to Magistrate Judge Angel D. Mitchell) (Attachments: # 1 Affidavit Rothert\nPHV Affidavit, # 2 ECF Registration Form Rothert ECF Form)(Bonds, Lauren)\n(Entered: 09/07/2019)\n09/07/2019 13  MOTION for attorney Gillian Wilcox to appear pro hac vice ( Pro hac vice fee $50,\nInternet Payment Receipt Number AKSDC−4914929.) by Plaintiff Leaman Crews\n(referred to Magistrate Judge Angel D. Mitchell) (Attachments: # 1 Affidavit Wilcox\nPHV Affidavit, # 2 ECF Registration Form Wilcox ECF Registration Form)(Bonds,\nLauren) (Entered: 09/07/2019)\n09/07/2019 14  FIRST AMENDED COMPLAINT AND REQUEST FOR EMERGENCY\nINJUNCTIVE RELIEF against Leaman Crews, filed by Leaman Crews.(Bonds,\nLauren) Modified on 9/9/2019 to add correct title of document(ses). (Entered:\n09/07/2019)\n09/07/2019 15  AMENDED MEMORANDUM IN SUPPORT of 2 EMERGENCY MOTION for\nTemporary Restraining Order and Preliminary Injunction Amended to Correct\nMisnomer by Plaintiff Leaman Crews(Bonds, Lauren) Modified on 9/9/2019 correct\ntitle (ses). (Entered: 09/07/2019)\n09/07/2019 16  ***WITHDRAWN PER 28 ORDER*** APPLICATION FOR WRIT of OF\nHABEAS CORPUS AD TESTIFICANDUM by Leaman Crews. (Bonds, Lauren)\n(Entered: 09/07/2019)\n09/07/2019 ORDER REASSIGNING CASE: Case reassigned to District Judge Carlos Murguia for\nall further proceedings. District Judge John W. Lungstrum no longer assigned to case.\nSigned by deputy clerk on 9/7/2019. (This is a TEXT ENTRY ONLY. There is no.pdf\ndocument associated with this entry.)(hw) (Entered: 09/07/2019)\n\n09/08/2019 17  ORDER: MOTION HEARING regarding 2 PLAINTIFF'S EMERGENCY MOTION\nFOR A TEMPORARY RESTRAINING ORDER AND PRELIMINARY\nINJUNCTION: MOTION HEARING, which tentatively had been set for 9/9/2019, is\nrescheduled to 9/11/2019 at 01:00 PM in KC Courtroom 463 (CM) before District\nJudge Carlos Murguia. Defendants shall file any RESPONSES to this 2 MOTION and\nPlaintiff's 16 PETITION FOR WRIT OF HABEAS CORPUS AD TESTIFICANDUM\non or before 1:00 PM CDT on 9/9/2019. Any REPLIES by Plaintiff shall be filed on or\nbefore 1:00 PM CDT on 9/10/2019. Plaintiff is ordered to notify defendants of the\nrescheduled hearing date and time and the extended RESPONSE deadlines and to file\nnotice of confirmation of service with the Court. Signed by District Judge Carlos\nMurguia on 9/8/2019. (This is a TEXT ENTRY ONLY. There is no.pdf document\nassociated with this entry.) (jsh) (Entered: 09/08/2019)\n09/08/2019 18  NOTICE OF SERVICE by Leaman Crews of Notice of Rescheduled TRO Hearing\nand Extended Response Deadline (Bonds, Lauren) (Entered: 09/08/2019)\n09/09/2019 19  ENTRY OF APPEARANCE by Christopher Allman on behalf of All Defendants\n(Allman, Christopher) (Entered: 09/09/2019)\n09/09/2019 20  ENTRY OF APPEARANCE by Bryan C. Clark on behalf of All Defendants (Clark,\nBryan) (Entered: 09/09/2019)\n09/09/2019 21  ORDER granting 11 Motion to Appear Pro Hac Vice of Jessica Steffan for Leaman\nCrews pursuant to D. Kan. Rule 83.5.4 for purposes of this case only. Unless already\nregistered, pro hac vice counsel should register for electronic notification pursuant to\nthe court's Administrative Procedures by completing a CM/ECF Electronic Filing\nRegistration Form at http://www.ksd.uscourts.gov/. Signed by Magistrate Judge Angel\nD. Mitchell on 9/9/2019. (This is a TEXT ENTRY ONLY. There is no.pdf document\nassociated with this entry.) (ydm) (Entered: 09/09/2019)\n09/09/2019 22  ORDER granting 12 Motion to Appear Pro Hac Vice of Anthony E. Rothert for\nLeaman Crews pursuant to D. Kan. Rule 83.5.4 for purposes of this case only. Unless\nalready registered, pro hac vice counsel should register for electronic notification\npursuant to the court's Administrative Procedures by completing a CM/ECF Electronic\nFiling Registration Form at http://www.ksd.uscourts.gov/. Signed by Magistrate Judge\nAngel D. Mitchell on 9/9/2019. (This is a TEXT ENTRY ONLY. There is no.pdf\ndocument associated with this entry.) (ydm) (Entered: 09/09/2019)\n09/09/2019 23  ORDER granting 13 Motion to Appear Pro Hac Vice of Gillian R. Wilcox for Leaman\nCrews pursuant to D. Kan. Rule 83.5.4 for purposes of this case only. Unless already\nregistered, pro hac vice counsel should register for electronic notification pursuant to\nthe court's Administrative Procedures by completing a CM/ECF Electronic Filing\nRegistration Form at http://www.ksd.uscourts.gov/. Signed by Magistrate Judge Angel\nD. Mitchell on 9/9/2019. (ydm) (Entered: 09/09/2019)\n09/09/2019 MOTION REFERRAL to Magistrate Judge REMOVED as to: 2 MOTION for\nTemporary Restraining Order. The motion will be resolved by the District Judge.\n(ks) (Entered: 09/09/2019)\n09/09/2019 24  Unopposed MOTION to Withdraw Petition for Writ of Habeas Corpus Ad\nTestificandum by Plaintiff Leaman Crews (Bonds, Lauren) (Entered: 09/09/2019)\n09/09/2019 25  SEALED MOTION for Leave to File Under Seal by Defendants Kathleen Hawk\nSawyer, Deborah G. Schult (referred to Magistrate Judge Angel D. Mitchell)\n(Attachments: # 1 Proposed Sealed Document Response to Plaintiff's Emergency\nMotion for TRO and PI, # 2 Proposed Sealed Document Newell Declaration, # 3\nProposed Sealed Document Noland Declaration)(Clark, Bryan) (Entered: 09/09/2019)\n09/09/2019 26  ORDER granting 25 Motion for Leave to File Under Seal. Counsel directed to file\nforthwith requested document(s) with an event from the SEALED DOCUMENTS\ncategory. The clerk shall grant access to sealed document(s) to counsel of record. Pro\nhac vice attorneys must obtain sealed document(s) from local counsel. Signed by\nDistrict Judge Carlos Murguia on 9/9/2019. (This is a TEXT ENTRY ONLY. There is\nno.pdf document associated with this entry.) (jsh) (Entered: 09/09/2019)\n09/09/2019 MOTION REFERRAL to Magistrate Judge REMOVED as to: 24 Unopposed\nMOTION to Withdraw Petition for Writ of Habeas Corpus Ad Testificandum. The\nmotion will be resolved by the District Judge. (ks) (Entered: 09/09/2019)\n\n09/09/2019 27  SEALED RESPONSE by Defendants Kathleen Hawk Sawyer, Deborah G. Schult re 2\nMOTION for Temporary Restraining Order (Attachments: # 1 Exhibit Newell\nDeclaration, # 2 Exhibit Noland Declaration)(Clark, Bryan) (Entered: 09/09/2019)\n09/09/2019 28  ORDER granting 24 Motion to Withdraw Petition for Writ of Habeas Corpus AD\nTestificandum. Signed by District Judge Carlos Murguia on 9/9/2019. (ydm) (Entered:\n09/09/2019)\n09/09/2019 Pursuant to the Order 17 − Set/Reset Deadlines as to 2 MOTION for Temporary\nRestraining Order MOTION for Preliminary Injunction. Response deadline 1:00\nPM CDT on 9/9/2019 and Reply deadline 1:00 PM CDT on 9/10/2019(ses)\n(Entered: 09/09/2019)\n09/10/2019 29  REPLY TO RESPONSE TO MOTION by Plaintiff Leaman Crews re: 2 MOTION for\nTemporary Restraining Order MOTION for Preliminary Injunction (Bonds, Lauren)\n(Entered: 09/10/2019)\n09/11/2019 30  NOTICE OF CONTINUED MOTION HEARING regarding 2 PLAINTIFF'S\nEMERGENCY MOTION FOR A TEMPORARY RESTRAINING ORDER AND\nPRELIMINARY INJUNCTION:  **THIS IS AN OFFICIAL NOTICE FOR THIS\nHEARING** By joint request of parties, MOTION HEARING, set for 9/11/2019, is\ncontinued to 9/13/2019 at 09:30 AM in KC Courtroom 463 (CM) before District Judge\nCarlos Murguia. Parties shall notify Court no later than close of business (5:00 PM\nCDT) on 9/12/2019 if hearing is still necessary. (This is a TEXT ENTRY ONLY.\nThere is no.pdf document associated with this entry.) (jsh) (Entered: 09/11/2019)\n09/11/2019 31  Unopposed MOTION to Withdraw Motion for Temporary Restraining Order and\nEmergency Hearing by Plaintiff Leaman Crews (Bonds, Lauren) (Entered:\n09/11/2019)\n09/11/2019 MOTION REFERRAL to Magistrate Judge REMOVED as to: 31 Unopposed\nMOTION to Withdraw Motion for Temporary Restraining Order and Emergency\nHearing. The motion will be resolved by the District Judge. (ks) (Entered:\n09/11/2019)\n09/12/2019 32  ORDER granting 31 Motion to Withdraw Temporary Restraining Order; withdrawing\n2 Emergency Motion for a Temporary Restraining Order; Motion for Preliminary\nInjunction remains pending. Motion Hearing set for September 13, 2019 is hereby\nvacated and cancelled. Signed by District Judge Carlos Murguia on 9/11/2019. (ydm)\n(Entered: 09/12/2019)\n10/31/2019 SUMMONS ISSUED as to Kathleen Hawk Sawyer, Deborah G. Schult. (issued to\nAttorney for service) (This is a TEXT ENTRY ONLY. There is no.pdf document\nassociated with this entry) (ca) (Entered: 10/31/2019)\n11/07/2019 33  PROOF OF SERVICE via Certified Mail Summons Returned Executed −− served by\nCertified Mail on 11/4/2019 All Defendants. Summons served on United States\nAttorney. (Bonds, Lauren) (Entered: 11/07/2019)\n12/20/2019 34  CLERKS ORDER EXTENDING TIME until 1/17/20 for Defendants Kathleen Hawk\nSawyer, Deborah G. Schult to answer or otherwise plead. Signed by deputy clerk on\n12/20/19. (smc) (Entered: 12/20/2019)\n12/26/2019 35  INITIAL ORDER REGARDING PLANNING AND SCHEDULING: Scheduling\nConference set for 2/11/2020 at 11:00 AM in KC Courtroom 643 before Magistrate\nJudge Angel D. Mitchell. Rule 26 Planning Conference Deadline 1/21/2020. Rule 26\nInitial Disclosures Deadline set for 2/4/2020. Signed by Magistrate Judge Angel D.\nMitchell on 12/26/2019. (ht) (Entered: 12/26/2019)\n01/17/2020 36  MOTION to Dismiss by Defendants Kathleen Hawk Sawyer, Deborah G. Schult\n(Clark, Bryan) (Entered: 01/17/2020)\n01/17/2020 37  MEMORANDUM IN SUPPORT of 36 MOTION to Dismiss by Defendants Kathleen\nHawk Sawyer, Deborah G. Schult (Attachments: # 1 Attachment Index, # 2\nAttachment A, # 3 Attachment B, # 4 Attachment C, # 5 Attachment D)(Clark, Bryan)\n(Additional attachment(s) added on 1/24/2020: # 6 Exhibit − Redacted Attachment A)\n(smc). (Entered: 01/17/2020)\n\n01/24/2020 38  DOCKET ANNOTATION: A redacted version of attachment 2 37 Memorandum in\nSupport of Motion, has been added to this entry and is attached to the annotation for\nnoticing purposes only. (smc) (Entered: 01/24/2020)\n01/27/2020 39  Unopposed MOTION to Stay Discovery and Related Deadlines by Defendants\nKathleen Hawk Sawyer, Deborah G. Schult (referred to Magistrate Judge Angel D.\nMitchell) (Clark, Bryan) (Entered: 01/27/2020)\n01/30/2020 40  ORDER ENTERED: Defendants' Unopposed Motion to Stay Discovery and Related\nDeadlines (ECF No. 39 ) is granted. Discovery, including the requirements ofpreparing\na report of parties' planning meeting and exchanging Rule 26 initial disclosures, is\nstayed pending the court's ruling on the motion to dismiss. The February 11, 2020\nscheduling conference is cancelled. Should any of Mr. Crews' claims survive, the\nparties are directed to meet and confer and submit a proposed scheduling order via\nemail to the undersigned's chambers within 14 days of the district judge's ruling on\ndefendants' motion to dismiss. The court will then re−set the scheduling conference.\nSigned by Magistrate Judge Angel D. Mitchell on 1/30/2020. (jal) (Entered:\n01/30/2020)\n02/06/2020 41  Unopposed MOTION for Extension of Time to File RESPONSE as to 36 MOTION to\nDismiss by Plaintiff Leaman Crews (Bonds, Lauren) (Entered: 02/06/2020)\n02/07/2020 MOTION REFERRAL to Magistrate Judge REMOVED as to: 41 Unopposed\nMOTION for Extension of Time to File RESPONSE as to 36 MOTION to\nDismiss. The motion will be resolved by the District Judge. (ks) (Entered:\n02/07/2020)\n02/07/2020 42  ORDER granting 41 Plaintiff's Unopposed Motion for Extension of Time to File\nResponse/Reply re 36 MOTION to Dismiss. Response deadline 2/14/2020. Signed by\nDistrict Judge Carlos Murguia on 2/7/2020. (This is a TEXT ENTRY ONLY. There is\nno.pdf document associated with this entry.) (ddk) (Entered: 02/07/2020)\n02/13/2020 43  Unopposed MOTION for Extension of Time to File response as to 36 MOTION to\nDismiss by Plaintiff Leaman Crews (Shroff, Zal) (Entered: 02/13/2020)\n02/13/2020 MOTION REFERRAL to Magistrate Judge REMOVED as to: 43 Unopposed\nMOTION for Extension of Time to File response as to 36 MOTION to Dismiss.\nThe motion will be resolved by the District Judge. (ks) (Entered: 02/13/2020)\n02/18/2020 44  ORDER granting Plaintiff's 43 SECOND UNOPPOSED MOTION FOR\nEXTENSION OF TIME TO RESPOND TO DEFENDANTS' 36 MOTION TO\nDISMISS. Plaintiff's RESPONSE deadline is extended to 2/21/2020. Signed by\nDistrict Judge Carlos Murguia on 2/18/2020. (This is a TEXT ENTRY ONLY. There\nis no.pdf document associated with this entry.) (jsh) (Entered: 02/18/2020)\n02/20/2020 45  RESPONSE by Plaintiff Leaman Crews re 36 MOTION to Dismiss (Attachments: # 1\nExhibit Declaration of Leaman Crews)(Shroff, Zal) (Entered: 02/20/2020)\n02/21/2020 46  MINUTE ORDER REASSIGNING CASE: Case reassigned to District Judge John W.\nBroomes for all further proceedings. District Judge Carlos Murguia no longer assigned\nto case. Signed by deputy clerk on 2/21/20. (This is a TEXT ENTRY ONLY. There is\nno.pdf document associated with this entry.)(kao) (Entered: 02/21/2020)\n03/03/2020 47  Unopposed MOTION for Extension of Time to File Reply as to 36 MOTION to\nDismiss by Defendants Kathleen Hawk Sawyer, Deborah G. Schult (Allman,\nChristopher) (Entered: 03/03/2020)\n03/03/2020 MOTION REFERRAL to Magistrate Judge REMOVED as to: 47 Unopposed\nMOTION for Extension of Time to File Reply as to 36 MOTION to Dismiss. The\nmotion will be resolved by the District Judge. (ks) (Entered: 03/03/2020)\n03/03/2020 48  ORDER granting 47 Motion for Extension of Time to File Reply re 36 MOTION to\nDismiss . Reply deadline 3/19/2020. Entered by District Judge John W. Broomes on\n03/03/2020. (This is a TEXT ENTRY ONLY. There is no.pdf document associated\nwith this entry.) (jmr) (Entered: 03/03/2020)\n03/19/2020 49  REPLY TO RESPONSE TO MOTION by Defendants Kathleen Hawk Sawyer,\nDeborah G. Schult re: 36 MOTION to Dismiss (Attachments: # 1 List of Attachments,\n# 2 Declaration of Kristine A. Aulepp, D.O., Clinical Director, # 3 Declaration of\n\nJason Clark, M.D., Staff Physician, # 4 Declaration of D. Churchill, Senior Officer\nSpecialist, # 5 Declaration of J. Herbig, Special Investigative Support\nTechnician)(Clark, Bryan) (Entered: 03/19/2020)\n03/19/2020 50  Unopposed SEALED MOTION for Leave to File Under Seal by Defendants Kathleen\nHawk Sawyer, Deborah G. Schult (Attachments: # 1 Declaration of Kristine A.\nAulepp, D.O., Clinical Director, # 2 Declaration of Jason Clark, M.D., Staff\nPhysician)(Clark, Bryan) (Entered: 03/19/2020)\n03/19/2020 MOTION REFERRAL to Magistrate Judge REMOVED as to: 50 Unopposed\nSEALED MOTION for Leave to File Under Seal. The motion will be resolved by\nthe District Judge. (ks) (Entered: 03/19/2020)\n03/20/2020 51  ORDER granting 50 Motion for Leave to File Under Seal. Counsel directed to file\nforthwith requested document(s) with an event from the SEALED DOCUMENTS\ncategory. The clerk shall grant access to sealed document(s) to counsel of record. Pro\nhac vice attorneys must obtain sealed document(s) from local counsel. Entered by\nDistrict Judge John W. Broomes on 03/20/2020. (This is a TEXT ENTRY ONLY.\nThere is no.pdf document associated with this entry.) (jmr) (Entered: 03/20/2020)\n03/20/2020 52  SEALED EXHIBIT(S) Declaration of Kristine A. Aulepp, D.O., Clinical Director re\n49 Reply to Response to Motion, (Clark, Bryan) (Entered: 03/20/2020)\n03/20/2020 53  SEALED EXHIBIT(S) Declaration of Jason Clark, M.D., Staff Physician re 49 Reply\nto Response to Motion, (Clark, Bryan) (Entered: 03/20/2020)\n03/31/2020 54  MEMORANDUM AND ORDER granting 36 Motion to Dismiss. The court\ndetermines that it lacks subject matter jurisdiction over this case. The court \"cannot\naccord [Plaintiff] prospective relief that would have any effect in the real world.\"\nJordan v. Sosa, 654 F.3d 1012, 1029 (10th Cir. 2011). There is no longer a case or\ncontroversy, and Plaintiff's claims are moot. Plaintiff's claims are dismissed without\nprejudice for lack of subject matter jurisdiction. Signed by District Judge John W.\nBroomes on 3/31/2020. (sz) (Entered: 03/31/2020)\n03/31/2020 55  JUDGMENT. Defendants' motion to dismiss is GRANTED 36 . Plaintiff's claims are\ndismissed without prejudice for lack of subject matter jurisdiction. Signed by deputy\nclerk on 3/31/2020. (sz) (Entered: 03/31/2020)",
+      "document_type_other": "",
+      "external_url": "",
+      "ecf_number": null,
+      "clearinghouse_link": "clearinghouse.net/doc/106495"
+    }
+  ],
+  "document_count": 5
+}

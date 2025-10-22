@@ -1,0 +1,195 @@
+{
+  "case_id": 448,
+  "fetched_at": "2025-10-22T00:04:58.905249",
+  "case_data": {
+    "attorney_orgs": [
+      "U.S. Dept. of Justice Civil Rights Division"
+    ],
+    "available_documents": [
+      "Findings Letter/Report"
+    ],
+    "case_defendants": [
+      {
+        "defendant_level": null,
+        "institution": "",
+        "institution_alt_state": null,
+        "institution_city": "Chicago",
+        "institution_county": null,
+        "name": "Chicago-Read Mental Health Center",
+        "defendant_level_other": "",
+        "is_active": true
+      }
+    ],
+    "case_ongoing": "No reason to think so",
+    "case_status": "Approved",
+    "case_types": [
+      "Intellectual Disability (Facility)"
+    ],
+    "cause_other": "",
+    "causes": [
+      "Civil Rights of Institutionalized Persons Act (CRIPA), 42 U.S.C. § 1997 et seq."
+    ],
+    "class_action_granted": "Not sought",
+    "class_action_sought": "No",
+    "closing_year": 0,
+    "constitutional_clause": [],
+    "content_of_injunction": [],
+    "court": "No Court",
+    "custom_issues": [],
+    "defendant_payment": "",
+    "defendant_type": [],
+    "docket_status": "None",
+    "facility_type": [
+      {
+        "value": "Government-run"
+      }
+    ],
+    "filing_date": null,
+    "filing_year": null,
+    "id": 448,
+    "injunction_duration": "",
+    "issues": [
+      "General/Misc.: Food service / nutrition / hydration",
+      "Jails, Prisons, Detention Centers, and Other Institutions: Recreation / Exercise",
+      "General/Misc.: Individualized planning",
+      "Medical/Mental Health Care: Mental health care, general",
+      "Jails, Prisons, Detention Centers, and Other Institutions: Restraints (physical)"
+    ],
+    "last_checked_date": "2015-04-06T00:00:00-04:00",
+    "main_docket": {
+      "id": 42620,
+      "docket_entries": [],
+      "docket_case_type": "",
+      "docket_year": null,
+      "docket_filing_number": null,
+      "is_main_docket": true,
+      "court": "No Court",
+      "state": "Illinois",
+      "docket_office_number": "",
+      "docket_number_manual": "Never Filed",
+      "scales_html": null,
+      "recap_link": null,
+      "is_active": false
+    },
+    "name": "In Re: DOJ CRIPA Investigation of Chicago-Read Mental Health Center",
+    "never_filed": true,
+    "non_docket_case_number": "168-23-28",
+    "non_docket_case_number_type": "DJ",
+    "non_docket_case_number_type_other": "",
+    "order_end_year": 0,
+    "order_start_year": 0,
+    "permanent_injunction": false,
+    "plaintiff_description": "United States Department of Justice",
+    "plaintiff_type": [
+      {
+        "value": "U.S. Dept of Justice plaintiff"
+      }
+    ],
+    "prevailing_party": "None Yet / None",
+    "pro_se_status": "Unknown",
+    "public_interest_lawyer": "Yes",
+    "related_cases": [],
+    "relief_natures": [
+      "Unknown"
+    ],
+    "relief_nature_other": "",
+    "relief_sources": [
+      "Unknown"
+    ],
+    "settlement_agreement": [],
+    "settlement_judgment_date": null,
+    "settlement_judgment_year": null,
+    "special_collections": [
+      "Civil Rights Division Archival Collection"
+    ],
+    "special_case_type": [
+      {
+        "value": "Out-of-court"
+      }
+    ],
+    "state": "Illinois",
+    "summary": "<p>On May 26, 1993, the Department of Justice sent a letter to the Governor of Illinois detailing findings from an investigation of conditions in the Chicago-Read Mental Health Center pursuant to the Civil Rights of Institutional Persons Act (CRIPA).  The investigation was conducted in November of 1992. The findings letter indicated that conditions at Chicago-Read violated the constitutional rights of its patients to adequate medical care and reasonable safety.  Inadequate conditions included the absence of professionally based psychiatric programs for patients, overuse and misuse of physical restraints, and building hazards.  The letter described remedial measures the Department recommended be taken to remedy the deficiencies.  These included modifying restraint and seclusion practices and enhancing staff training.  </p><p>We have no further record of correspondence between the Department of Justice and Illinois regarding these conditions.</p>",
+    "summary_published_date": "2007-03-21T00:00:00-04:00",
+    "summary_short": "",
+    "summary_tiny": null,
+    "terminating_date": null,
+    "clearinghouse_link": "clearinghouse.net/case/448",
+    "is_active": false,
+    "case_documents_url": "https://clearinghouse.net/api/v2/documents/?case=448",
+    "case_dockets_url": "https://clearinghouse.net/api/v2/dockets/?case=448",
+    "case_resources_url": "https://clearinghouse.net/api/v2/resources/?case=448"
+  },
+  "documents": [
+    {
+      "date": null,
+      "date_is_estimate": false,
+      "date_not_available": false,
+      "description": null,
+      "document_source": null,
+      "document_status": null,
+      "document_type": null,
+      "order_type": null,
+      "citation_paren": null,
+      "cite_1_page": null,
+      "cite_1_reporter": null,
+      "cite_1_vol": null,
+      "cite_2_page": null,
+      "cite_2_reporter": null,
+      "cite_2_vol": null,
+      "cite_3_page": null,
+      "cite_3_reporter": null,
+      "cite_3_vol": null,
+      "citation_status": null,
+      "court": null,
+      "no_title": false,
+      "party_types": [],
+      "per_curium": false,
+      "is_core_document": true,
+      "id": 128674,
+      "file": null,
+      "title": null,
+      "text": null,
+      "document_type_other": null,
+      "external_url": null,
+      "ecf_number": null,
+      "clearinghouse_link": "clearinghouse.net/doc/128674"
+    },
+    {
+      "date": "1993-05-26",
+      "date_is_estimate": false,
+      "date_not_available": false,
+      "description": null,
+      "document_source": "U.S. Department of Justice, Civil Rights Division, Special Litigation Section",
+      "document_status": "Coding Complete",
+      "document_type": "Findings Letter/Report",
+      "order_type": null,
+      "citation_paren": null,
+      "cite_1_page": null,
+      "cite_1_reporter": null,
+      "cite_1_vol": null,
+      "cite_2_page": null,
+      "cite_2_reporter": null,
+      "cite_2_vol": null,
+      "cite_3_page": null,
+      "cite_3_reporter": null,
+      "cite_3_vol": null,
+      "citation_status": "Not applicable",
+      "court": "No Court",
+      "no_title": false,
+      "party_types": [
+        "Plaintiff"
+      ],
+      "per_curium": false,
+      "is_core_document": true,
+      "id": 2058,
+      "file": "https://clearinghouse-umich-production.s3.amazonaws.com/media/doc/2058.pdf",
+      "title": "Re: Chicago-Read Mental Health Center [Findings Letter]",
+      "text": "U.S. Department of Justice\nCivil Rights Division\nOffice of the Assistant Attorney General Hbshington. DC. 20035\nMAY  2 6 (993\nREGISTERED  MAIL\nU.S. v. Illinois\nRETURN  RECEIPT  REQUESTED\n• • ••  •  •  i  •• ••« v  •  •  ••  ••  •• ••  •••• •• • •« •  wm ••••\nThe Honorable James Edgar-  MR-IL-003-001\nGovernor of Illinois\n207 State Capitol\nSpringfield, Illinois  62706\nRe:  Chicago-Read Mental Health Center\nDear Governor Edgar:\nI am writing in reference to our investigation of conditions\nof confinement at Chicago-Read Mental Health Center (\"Chicago-\nRead\") pursuant to the Civil Rights of Institutionalized Persons\nAct  (CRIPA), 42 U.S.C. § 1997 et seq.  As required by statute,\nthe purpose of this letter is to inform you of the findings of\nour investigation.  State officials cooperated fully in this\ninvestigation and we wish to thank them for their cooperation.\nOur investigation disclosed deficiencies/in the following\nareas at Chicago-Read:\n1.  The absence of professionally based psychiatric programs\nfor patients;\n2.  Overuse and misuse of physical restraints; and\n3.  Building hazards and environmental deficiencies.\nIn our view, these deficiencies constitute conditions which\nviolate the constitutional rights of Chicago-Read patients to\nadequate medical care and reasonable safety.  Cf. Younabera v.\nRomeo   457 U.S. 3 07 (1982) .  A detailed narrative describing\nr\nthe precise facts supporting our findings is set forth in the\nAttachment to this letter.\nThe minimum remedial measures necessary to correct these\nviolations include the following:\n\n- 2 -\nThe minimum remedial measures necessary to correct these\nviolations include the following:\n1.  Develop and implement professionally based treatment\nprograms for residents based upon generally accepted professional\nstandards; hire and retain a sufficient number of qualified\nprofessionals to develop and implement these programs;\n2.  Modify restraint and seclusion practices to reflect\nprofessionally accepted standards; ensure that each use of\nrestraint or seclusion reflects the exercise of professional\njudgment by a qualified professional; modify seclusion rooms\nto ensure patient safety; discontinue the simultaneous use of\nseclusion and physical restraint;\n3.  Eliminate building hazards and environmental\ndeficiencies which threaten the health and safety of patients;\nand\n4.  Provide enhanced resources at the facility, including\nboth staff and necessary staff training.\nYou may wish to contact appropriate federal officials of\nthe Department of Health and Human Services to ensure that State\nofficials have taken full advantage of any federal financial\nassistance which may be available tcTyou in remedying these\ndeficiencies.  If we can assist you in this regard, please\ncontact us.\nIn the interest of further assisting the /state in improving\nconditions at Chicago-Read, we will provide to facility\nadministrators, by separate cover, additional observations and\nrecommendations made by our consultants regarding conditions at\nChicago-Read.  These findings, while representing deficiencies,\ndo not currently implicate the constitutional rights of Chicago-\nRead patients.\nIn closing, let me thank you for the cooperation extended\nto us by your representatives and by facility administration and\nstaff during the course of this investigation.  My staff will\ncontact appropriate State officials in the near future to discuss\nthis matter further.  If, during the interim, you or any member\n\n- 3 -\nof your staff have questions, please feel free to contact\nArthur E. Peabody, Jr., Chief, Special Litigation Section,\nat 202/514-6255.\nSincerely,\nJames P. Turner\nActing Assistant Attorney General\nCivil Rights Division\nEnclosure\ncc:  The Honorable Roland Burris\nAttorney General\nState of Illinois\nMr. Jess McDonald\nDirector\nDepartment of Mental Health\nDevelopmental Disabilities\nState of Illinois\nMs. Marva Arnold\nSuperintendent\nChicago-Read Mental Health Center\nMichael J. Shepard, Esquire\nUnited States Attorney\nNorthern District of Illinois\n\nATTACHMENT\nOur investigation consisted of a three-day tour by each of\nthree consultants, a psychiatrist, a nurse, and a life safety\nexpert.  These tours occurred between November 16-2 0, 1992.\nDuring the course of these tours, the consultants made\nobservations, interviewed staff and patients, and examined\nnumerous records, including incident, restraint and recidivism\nstatistics and summaries, committee minutes, morbidity and\nmortality reviews, administrative policies and procedures, and\npatient records.\n1.  Psychiatric treatment\nOur psychiatric consultant found that Chicago-Read is\nfailing to provide \"clinical programs'* for pa£ients and observed\nthat psychiatric treatment for patients is \"little more than\ncustodial care.\"  Significantly, he found that treatment programs\nfor patients were not developed consistent with generally\naccepted professional standards.  More specifically, with the\nexception of just three units, multi-disciplinary teams composed\nof various institutional professionals for the purpose of\ndeveloping cohesive, meaningful treatment plans do not exist, a\ndeficiency our consultant characterized as \"profound.\"  Those\n\"programs\" reviewed consisted of generic, printed forms with\nstandardized \"treatments\" for various problems.  Such programs\nwere not individualized at all.  In brief, psychiatric treatment\nprograms fail to meet any known professional standard for such\nprograms.\nEfforts to establish professionally developed treatment\nprograms have been seriously hindered by the absence of adequate\nnumbers of professional staff.  The complete absence of\noccupational therapists and various treatment specialists and\ninadequate numbers of nurses and social workers have seriously\nhindered the development and implementation of treatment\nprograms.  Our consultant also found that management problems\nimpeded the available staff in their ability to provide necessary\ntreatment.  For example, he found that the involvement of\npsychiatrists and other professionals varied significantly from\none part of the hospital to another and that no cohesive\ntreatment approach was evidenced throughout the facility.\nOur investigation also disclosed that there are an insufficient\nnumber of nurses and that many nurses had not been adequately\ntrained to perform psychiatric nursing functions.  As well,\nnurses are not involved in an appropriate manner in the delivery\nof treatment programs in the institution.\nIn the absence of adequate treatment programs, patients\nspend many hours each day in idleness.  Our consultants who\ntoured the various units of the hospital routinely saw patients\nwatching TV, playing board games, or sitting alone in a withdrawn\nstate.  Our nursing consultant who sought to ascertain the number\nof programmed or activity hours available to patients was advised\n\n- 2 -\nthat of the approximately 480 patients, some 100 to 150 attend\nactivities provided outside their residential unit during\nweekdays for an average of 3,000 hours per month.  This means\nthat each receives approximately five hours of activities per\nweek.  While efforts are made to provide some activities to the\nother 3 00 or more patients, our consultant was routinely advised\nthat both space and staff are inadequate to provide programs and\nother activities for most of these patients.  In these\ncircumstances, patients remain in idleness for long periods which\nexacerbates their illnesses and protracts their period of\nhospitalization.\nIn sum, Chicago-Read has failed to develop and to implement\nprofessionally based treatment programs to pajtients that comport\nwith generally accepted professional standards.  Not only is the\ndevelopment of such programs seriously flawed, but even the\nprograms that are devised are insufficient to meet patient needs.\nIn addition, staffing at Chicago-Read is inadequate to develop\nand implement those programs which are needed.\n2.  Overuse and misuse of physical restraints\nTo control dangerous, aggressive, and otherwise disruptive\npatients, Chicago-Read resorts to the overuse and misuse of\nphysical restraints.  Particularly egregious is the facility's\npractice of using restraint and seclusion —  placement of a\npatient alone in a locked room —  together.  Patients are placed\nin full leather restraints and confined in seclusion rooms.  This\npractice is employed because seclusion rooms are unsafe.  Such\nrooms cannot be fully monitored outside the room and they have\nother deficiencies, including suspended ceilings, hard edges and\ncorners, and closets.  Each of these features presents a danger\nto a disturbed patient.  To avoid these hazards, patients are\nimmobilized by physical restraints.  The inability of staff to\nmonitor the secluded and restrained patient, in addition to the\nhazards present in seclusion rooms, makes this practice\ndangerous.\nOur consultants also ascertained that seclusion and\nrestraint are often utilized without consideration of other more\nappropriate, less restrictive techniques to calm down an\naggressive or very disturbed patient.  The decision to utilize\nseclusion and restraint without consideration of other techniques\ncan result in the use of such procedures for patients who do not\nrequire such an extreme form of restraint in order to regain\ncontrol.  In addition, only individual cases of restraints for\nsix hours or longer receive any professional review.  There is no\nmechanism in place for clinical review when the same individual\nis repeatedly restrained, nor any means of determining other\nfactors which may contribute to the use of seclusion, e.g.. lack\nof staff.  Finally, seclusion and restraint are often\nadministered by security staff due to shortages of staff.  Except\n\n- 3 -\nin a rare emergency, the management of a clinical situation\nshould be handled by qualified professionals.\nThe number and magnitude of injuries and other incidents\noccurring at Chicago-Read were not readily ascertainable during\nthe course of our investigation.  The facility fails to maintain\nany integrated summaries of injury or incident data that would\npermit facility administrators to review this information in a\nglobal manner and ascertain trends or identify other factors that\nmay be contributing to such incidents.  The facility's current\ndata collection and quality assurance/improvement practices make\nit impossible to look for patterns or other circumstances which,\nif remedied, might reduce such incidents.  In the view of our\nconsultants, Chicago-Read is in need of a vastly more\nsophisticated system for uncovering, documenting, and tracking\nproblems in care delivery.\n3.  Building hazards and environmental deficiencies\nThere are serious deficiencies in the physical plant at\nChicago-Read.  These deficiencies range from building hazards to\nenvironmental deficiencies.\nIn the Durso Building, all four units have nursing stations\nwhich are separated from patients by large locked glass doors.\nThese partitions prevent nurses from hearing or seeing most of\ntheir patients.  Moreover, nursing staff is not readily available\nto patients in these circumstances.  Ventilation in the Durso\nBuilding is also inadequate.  Further, additional attention is\nneeded to ensure that fire extinguishers are sufficiently\nnumerous and are recharged, as necessary.  /\nThere are inadequate amounts of hot water for bathing at the\nfacility.  While sanitation standards suggest that hot water\nshould measure between 110 to 120 degrees, water temperatures\ntaken by our expert at Chicago-Read consistently read far below\nthis range, and even read as low as 80 degrees.  Our nursing\nconsultant found that many patients smelled of body odor; she was\nadvised that many patients refuse to bathe because the water is\ntoo cold.  More significantly, the water temperature may be\ninsufficiently hot to maintain proper personal hygiene and kill\nbacteria.\nFinally, there are inadequate isolation areas for patients\nwith contagious diseases, and infection control procedures\nrequire review.",
+      "document_type_other": null,
+      "external_url": "",
+      "ecf_number": null,
+      "clearinghouse_link": "clearinghouse.net/doc/2058"
+    }
+  ],
+  "document_count": 2
+}

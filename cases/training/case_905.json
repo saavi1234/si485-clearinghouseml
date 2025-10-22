@@ -1,0 +1,292 @@
+{
+  "case_id": 905,
+  "fetched_at": "2025-10-22T00:06:49.491972",
+  "case_data": {
+    "attorney_orgs": [],
+    "available_documents": [
+      "Trial Court Docket",
+      "Any published opinion"
+    ],
+    "case_defendants": [
+      {
+        "defendant_level": null,
+        "institution": "",
+        "institution_alt_state": null,
+        "institution_city": "",
+        "institution_county": null,
+        "name": "Ohio Department of Corrections",
+        "defendant_level_other": "",
+        "is_active": true
+      },
+      {
+        "defendant_level": null,
+        "institution": "",
+        "institution_alt_state": null,
+        "institution_city": "",
+        "institution_county": null,
+        "name": "Southern Ohio Correctional Facility",
+        "defendant_level_other": "",
+        "is_active": true
+      }
+    ],
+    "case_ongoing": "No",
+    "case_status": "Approved",
+    "case_types": [
+      "Prison Conditions"
+    ],
+    "cause_other": "",
+    "causes": [
+      "42 U.S.C. § 1983"
+    ],
+    "class_action_granted": "Not sought",
+    "class_action_sought": "No",
+    "closing_year": 1985,
+    "constitutional_clause": [
+      {
+        "value": "Free Exercise Clause"
+      }
+    ],
+    "content_of_injunction": [],
+    "court": "Southern District of Ohio",
+    "custom_issues": [],
+    "defendant_payment": "",
+    "defendant_type": [],
+    "docket_status": "Incomplete",
+    "facility_type": [
+      {
+        "value": "Government-run"
+      }
+    ],
+    "filing_date": "1972-06-27",
+    "filing_year": 1972,
+    "id": 905,
+    "injunction_duration": "",
+    "issues": [
+      "Jails, Prisons, Detention Centers, and Other Institutions: Recreation / Exercise",
+      "General/Misc.: Religious programs / policies",
+      "Discrimination Basis: Religion discrimination"
+    ],
+    "last_checked_date": "2007-08-19T00:00:00-04:00",
+    "main_docket": {
+      "id": 42142,
+      "docket_entries": [
+        {
+          "row_number": 4,
+          "id": 1608140,
+          "entry_number": null,
+          "date_filed": "1992-08-19T00:00:00-04:00",
+          "attachments": [],
+          "url": "nan",
+          "recap_pdf_url": null,
+          "pacer_doc_id": null,
+          "description": "Mail Returned [48-1] addressed to Plaintiff James Ronald Haynes at SOCF #145-512, PO Box 45699, Lucasville OH 45699 (Return to sender note:\"No inmate at SOCF with name stated.\") (aq) (Entered: 08/19/1992)"
+        },
+        {
+          "row_number": 1,
+          "id": 1608137,
+          "entry_number": "46",
+          "date_filed": "1991-04-16T00:00:00-04:00",
+          "attachments": [],
+          "url": "nan",
+          "recap_pdf_url": null,
+          "pacer_doc_id": null,
+          "description": "MOTION by plaintiff James Ronald Haynes for enforcement or contemp and or issuance of an order in the form of mandamus ( no pgs: ) (ns) (Entered: 07/11/1991)"
+        },
+        {
+          "row_number": 0,
+          "id": 1608136,
+          "entry_number": null,
+          "date_filed": "1991-04-16T00:00:00-04:00",
+          "attachments": [],
+          "url": "nan",
+          "recap_pdf_url": null,
+          "pacer_doc_id": null,
+          "description": "Remark: this case is closed with motions pending - please refer to hard docket for a complete docket (ns) (Entered: 07/11/1991)"
+        },
+        {
+          "row_number": 2,
+          "id": 1608138,
+          "entry_number": "47",
+          "date_filed": "1991-04-29T00:00:00-04:00",
+          "attachments": [],
+          "url": "nan",
+          "recap_pdf_url": null,
+          "pacer_doc_id": null,
+          "description": "NOTIFICATION OF PRO SE LEGAL ASSISTANT by plaintiff James Ronald Haynes ( no pgs: ) (ns) (Entered: 07/11/1991)"
+        },
+        {
+          "row_number": 3,
+          "id": 1608139,
+          "entry_number": "48",
+          "date_filed": "1992-08-14T00:00:00-04:00",
+          "attachments": [],
+          "url": "nan",
+          "recap_pdf_url": null,
+          "pacer_doc_id": null,
+          "description": "ORDER by Judge Joseph P. Kinneary Sr.: Plaintiff ordered to contact telephonically the Chambers not later than 9-4-92 re pending motion (cc: all counsel) ( no pgs: 1) (aq) (Entered: 08/17/1992)"
+        }
+      ],
+      "docket_case_type": "cv",
+      "docket_year": 1972,
+      "docket_filing_number": 223,
+      "is_main_docket": true,
+      "court": "Southern District of Ohio",
+      "state": "Ohio",
+      "docket_office_number": "2",
+      "docket_number_manual": "72-223",
+      "scales_html": "https://clearinghouse-umich-production.s3.amazonaws.com/media/docket-html/ohsd--2-72-cv-00223.html",
+      "recap_link": null,
+      "is_active": true
+    },
+    "name": "Haynes v. State of Ohio",
+    "never_filed": false,
+    "non_docket_case_number": "",
+    "non_docket_case_number_type": null,
+    "non_docket_case_number_type_other": "",
+    "order_end_year": null,
+    "order_start_year": 1983,
+    "permanent_injunction": false,
+    "plaintiff_description": "Prison inmate challenging constitutionality of prison directive of restricting prisoners' use of white prayer robes to prison chapel",
+    "plaintiff_type": [
+      {
+        "value": "Private Plaintiff"
+      }
+    ],
+    "prevailing_party": "Defendant",
+    "pro_se_status": "Unknown",
+    "public_interest_lawyer": "Unknown",
+    "related_cases": [],
+    "relief_natures": [
+      "None"
+    ],
+    "relief_nature_other": "",
+    "relief_sources": [
+      "None"
+    ],
+    "settlement_agreement": [],
+    "settlement_judgment_date": null,
+    "settlement_judgment_year": null,
+    "special_collections": [],
+    "special_case_type": [],
+    "state": "Ohio",
+    "summary": "<p>On June 13,1978 two inmates at the Southern Ohio Correctional Facility filed a lawsuit under 42 U.S.C. § 1983 against the Ohio Department of Corrections in the U.S. District Court for the Southern District of Ohio.  The plaintiffs alleged that their constitutional rights had been violated by the prison's regulations restricting the prisoners' use of white prayer robes to the prison chapel.  </p><p>On April 6, 1983, the U.S. District Court for the Southern District of Ohio (Judge Carl Rubin) granted summary judgment to the defendants, holding that the regulation in question was a permissible exercise of the discretion granted to prison officials to administer penal institutions and that their actions did not violate the inmates' constitutional rights.  The plaintiffs appealed.</p><p>On July 30, 1985, the U.S. Court of Appeals for the Sixth Circuit (Judge Albert Engel, Judge Boyce Martin, and Judge Thomas Wiseman) affirmed the district court's decision, holding that the prison regulation did not violate the First Amendment rights of the inmates, and that the consent decree entered in another case ordering the State of Ohio to allow incarcerated Muslims to practice their religion was not violated by the regulation.  </p><p></p>",
+    "summary_published_date": "2007-08-19T00:00:00-04:00",
+    "summary_short": null,
+    "summary_tiny": null,
+    "terminating_date": null,
+    "clearinghouse_link": "clearinghouse.net/case/905",
+    "is_active": false,
+    "case_documents_url": "https://clearinghouse.net/api/v2/documents/?case=905",
+    "case_dockets_url": "https://clearinghouse.net/api/v2/dockets/?case=905",
+    "case_resources_url": "https://clearinghouse.net/api/v2/resources/?case=905"
+  },
+  "documents": [
+    {
+      "date": "1992-08-19",
+      "date_is_estimate": false,
+      "date_not_available": false,
+      "description": null,
+      "document_source": "PACER [Public Access to Court Electronic Records]",
+      "document_status": "Coding Complete",
+      "document_type": "Docket",
+      "order_type": null,
+      "citation_paren": null,
+      "cite_1_page": null,
+      "cite_1_reporter": null,
+      "cite_1_vol": null,
+      "cite_2_page": null,
+      "cite_2_reporter": null,
+      "cite_2_vol": null,
+      "cite_3_page": null,
+      "cite_3_reporter": null,
+      "cite_3_vol": null,
+      "citation_status": "Not applicable",
+      "court": "Southern District of Ohio",
+      "no_title": false,
+      "party_types": [
+        "Court"
+      ],
+      "per_curium": false,
+      "is_core_document": true,
+      "id": 4459,
+      "file": "https://clearinghouse-umich-production.s3.amazonaws.com/media/doc/4459.pdf",
+      "title": "Docket (PACER)",
+      "text": "CM/ECF LIVE - U.S. District Court:OHSD - Docket Report Page 1of 2\n \nCLOSED\n  \nU.S. District Court \nSouthern District of Ohio (Columbus) \nCIVIL DOCKET FOR CASE #: 2:72-cv-00223-JPK \n   \nHaynes v. Haskins  Date Filed: 06/27/1972 \nAssigned to: Senior Judge Joseph P Kinneary  Jury Demand: None \nDemand: $0  Nature of Suit: 999  \nCause: 00:0000 Cause Code Unknown Jurisdiction: Federal Question\nPlaintiff\nJames Ronald Haynes  represented by James Ronald Haynes  \n145-512  \nSOCF  \nPO Box 45699  \nLucasville, OH 45699  \nPRO SE\n \nV. \nDefendant\nE B Haskins \n \nDate Filed  #  Docket Text \n04/16/1991   Remark: this case is closed with motions pending - please refer to hard \ndocket for a complete docket (ns) (Entered: 07/11/1991)\n04/16/1991 46 MOTION by plaintiff James Ronald Haynes for enforcement or contemp \nand or issuance of an order in the form of mandamus ( no pgs: ) (ns) \n(Entered: 07/11/1991)\n04/29/1991 47 NOTIFICATION OF PRO SE LEGAL ASSISTANT by plaintiff James \nRonald Haynes ( no pgs: ) (ns) (Entered: 07/11/1991)\n08/14/1992 48 ORDER by Judge Joseph P. Kinneary Sr.: Plaintiff ordered to contact \ntelephonically the Chambers not later than 9-4-92 re pending motion (cc: \nall counsel) ( no pgs: 1) (aq) (Entered: 08/17/1992)\n08/19/1992   Mail Returned [48-1] addressed to Plaintiff James Ronald Haynes at \nSOCF #145-512, PO Box 45699, Lucasville OH 45699 (Return to sender \nnote:\"No inmate at SOCF with name stated.\") (aq) (Entered: 08/19/1992)\n \n \nPACER Service Center\nTransaction Receipt\nhttps://ecf.ohsd.uscourts.gov/cgi-bin/DktRpt.pl?981253316337572-L_280_0-1 10/11/2005\n\nCM/ECF LIVE - U.S. District Court:OHSD - Docket Report Page 2of 2\n10/11/2005 18:40:20\nPACER Login: hs0328 Client Code:\nDescription: Docket Report Search Criteria: 2:72-cv-00223-JPK\nBillable Pages: 1 Cost: 0.08\nhttps://ecf.ohsd.uscourts.gov/cgi-bin/DktRpt.pl?981253316337572-L_280_0-1 10/11/2005",
+      "document_type_other": null,
+      "external_url": "",
+      "ecf_number": null,
+      "clearinghouse_link": "clearinghouse.net/doc/4459"
+    },
+    {
+      "date": "1985-07-30",
+      "date_is_estimate": false,
+      "date_not_available": false,
+      "description": null,
+      "document_source": "Google Scholar",
+      "document_status": "Coding Complete",
+      "document_type": "Order/Opinion",
+      "order_type": "Unknown",
+      "citation_paren": null,
+      "cite_1_page": 345,
+      "cite_1_reporter": "F.2d",
+      "cite_1_vol": 769,
+      "cite_2_page": null,
+      "cite_2_reporter": null,
+      "cite_2_vol": null,
+      "cite_3_page": null,
+      "cite_3_reporter": null,
+      "cite_3_vol": null,
+      "citation_status": "Official citation found/coded",
+      "court": "U.S. Court of Appeals for the Sixth Circuit",
+      "no_title": false,
+      "party_types": [
+        "Court"
+      ],
+      "per_curium": true,
+      "is_core_document": true,
+      "id": 54945,
+      "file": "https://clearinghouse-umich-production.s3.amazonaws.com/media/doc/54945.pdf",
+      "title": "Reported Opinion",
+      "text": "769 F.2d 345 (1985)\nAzim ABDULLAH, et al., Plaintiffs-Appellants,\nv.\nLt. KINNISON, et al., Defendants-Appellees.\nNo. 83-3326.\nUnited States Court of Appeals, Sixth Circuit.\nArgued and Submitted August 23, 1984.\nDecided July 30, 1985.\n346 *346 A.P. Anninos, Simon, Anninos & Namanworth Co., Cincinnati, Ohio, for plaintiffs-appellants.\nFrank F. Pertz, Asst. Atty. Gen., Raymond J. Studer, argued, Columbus, Ohio, for defendants-appellees.\n[*]\nBefore ENGEL and MARTIN, Circuit Judges, and WISEMAN, District Judge.\nPER CURIAM.\nAppellants Azim Abdullah (Azim) and Abdullah Akbar (Akbar) appeal the order of the United States District Court\nfor the Southern District of Ohio granting summary judgment for the appellees, who are officers of the Southern\nOhio Correctional Facility. The primary issue remaining in this section 1983 case concerns the constitutionality of\na prison directive restricting prisoners' use of white Hanafi Muslim prayer robes to the prison chapel.\nI.\nAzim Abdullah (a/k/a R. Hembrick) and Abdullah Akbar (a/k/a Ronald Scheel) were prisoners incarcerated at the\n347 Southern *347 Ohio Correctional Facility (SOCF), a maximum security institution at Lucasville, Ohio, when they\nfiled their section 1983 complaint in 1978. Both Azim and Akbar are practicing Hanafi Muslims (sometimes also\nreferred to as Sunni Muslims). In addition, Akbar claims that he is an Imam, which is a religious and secular\nleader in the Hanafi Muslim faith.\nUntil November, 1977, appellants (and the approximately twelve to twenty-five other practicing Hanafi Muslims at\nSOCF) were permitted to keep full-length, hooded, white prayer robes in their cells. In his deposition Akbar\ntestified that under the Sunna, or Islamic law, Hanafi Muslims should wear such prayer robes at all times, if\npossible, and must wear them during the prayers that they say five times each day. Akbar stated that these\nprayer robes must be white, although an Imam may wear either a black or a white robe.\nOn November 18, 1977, Ronald Marshall, the SOCF Superintendent, issued a directive to all SOCF inmates\nrestricting use of the white prayer robes to the institutional chapel. The directive provided:\nIn the near future you will be contacted concerning white prayer robes which may be in your\npossession at this time. These white prayer robes are to be submitted to the Chaplain, who shall\nstore the robes in the institution Chapel for useage in the Chapel only.\nEffective: Thursday, December 1, 1977, the white prayer robes shall be considered contraband, if\ndiscovered in any inmate's cell and/or working area, and shall be confiscated. Moreover,\npossession of a white prayer robe in any area other than the Chapel will result in a Rules\nInfractions Board ticket for the inmate who has it.\nThis order shall remain in effect until revised or rescinded in writing by the Institution Deputy\nSuperintendent of Custody.\n\nJt. App. at 30. Only white robes were affected. Appellant Akbar was permitted to keep a black prayer robe in his\ncell even after the directive was issued.\nAppellants contend that Marshall imposed the restriction in response to an October, 1977 incident in which Hugh\nCline, a prison guard, allegedly took one of the white robes and used it to frighten an inmate by making him\nbelieve that a Ku Klux Klan member was pursuing him (the \"KKK incident\"). In an affidavit, Superintendent\nMarshall justified the directive on several grounds:\n3. I am familiar with the \"white prayer robe\" incident of October, 1977, which forms the basis of\nthis lawsuit.\n* * * * * *\n6. This directive was issued not as a punitive measure but rather as a control mechanism to guard\nagainst incidents such as the one which forms the basis of this lawsuit.\n7. Furthermore, the removal of the robes from the inmate's cells and working areas was an action\ncalculated to enhance the security of the institution.\n8. The prayer robes which are the subject of this lawsuit are loose-fitting and bulky and\nconsequently, may be used to conceal weapons, contraband and foodstuffs within the institution.\n9. Visiting free world Muslims often enter the institution in prayer robes. Consequently, the wearing\nof prayer robes by the inmates would increase the possibility of an inmate surreptitiously walking\nout of the institution dressed in civilian clothing.\n10. The prayer robes could be easily modified by inmates to resemble other forms of civilian\ndress, including white medical garb.\n11. There exists a color-coding system for the clothing of inmates confined in various areas of the\ninstitution at S.O.C.F.\n12. Inmates in the general population wear blue, inmates with food service and medical service\n348 wear white, *348 and death row inmates (prior to the transfer-out of the last death row inmates in\nJune of this year) wear a white shirt and blue denim trousers with 1 1/2 inch read [sic] striping.\n13. The unrestricted wearing of prayer robes by S.O.C.F. inmates would entirely frustrate this\ncolor-coding mode since prison-issue clothing would not be visible under the robes.\n14. A breakdown in our color-coding system occasioned by the unrestricted wearing of prayer\nrobes by inmates would presumably result in more inmates being found out of place and would\ndiminish the security posture of this institution.\n15. It was not my intention at the time of issuance of the prayer robe directive, nor is it my\nintention now, to completely deprive any inmates of access to prayer robes. Rather, my intention\nwas, and remains, to insure access to the robes in a controlled religious setting in a manner\nconsistent with the security objectives of this institution.\nJt. App. at 55-57.\n[1]\nOn June 13, 1978, Azim and Akbar filed a pro se action  under 42 U.S.C. §§ 1983 and 1988 in the United\nStates District Court for the Southern District of Ohio, alleging that Hugh Cline, \"Lt. Kenderson\" (later identified as\nLt. Kinnison) and other unknown SOCF officers had violated appellants' constitutional rights and their rights\nunder Ohio Rev. Code §§ 2927.11 and 2921.45. Appellants were subsequently permitted to amend their\ncomplaint to add Superintendent Marshall and L.E. Rupp, another prison administrator, as defendants. In June,\n1980, the court granted partial summary judgment in favor of defendants on counts of the complaint concerning\nCline's alleged misappropriation of the robe and disciplinary measures taken against Azim for allegedly\npossessing a white robe after the directive had been issued. The only question remaining in the suit concerned\n\nthe constitutionality of Marshall's directive restricting possession and use of the white robes to the prison chapel.\nThis issue was referred to a magistrate.\nThe magistrate recommended granting summary judgment in favor of defendants Cline, Kinnison, and Rupp,\nleaving Superintendent Marshall as the only defendant. The district court adopted that recommendation on\nAugust 26, 1982. Dismissal of those parties has not been appealed.\nOn November 24, 1982, the magistrate recommended denying the motion for summary judgment on the\nconstitutionality issue, finding that a genuine issue of fact remained. Specifically, the magistrate questioned the\ndefendant's credibility in asserting the necessity of the restriction. He stated: \"the Plaintiffs were not denied the\nuse of black prayer robes in the practices of their religion. It is difficult for the Court to comprehend why the\nreasons asserted to support the restriction of white prayer robes do not apply to black robes.\" Azim Abdullah, et\nal. v. Lt. Kinnison, et al., No. C-1-78-363, Report and Recommendation of United States Magistrate at 3\n(S.D.Ohio Nov. 24, 1982).\nOn April 6, 1983, Judge Rubin refused to adopt the magistrate's November 24, 1982 recommendation and\nordered summary judgment in favor of all defendants. Relying on Bell v. Wolfish, 441 U.S. 520, 99 S.Ct. 1861, 60\nL.Ed.2d 447 (1979), Judge Rubin held that the directive in question was a permissible exercise of the discretion\ngranted prison officials to administer penal institutions and that their actions did not violate appellants' First\nAmendment rights. Judge Rubin wrote:\nThe determination of what is appropriate garb to be worn inside of a prison is, in this Court's\nopinion, a \"judgment call\" by the operating officials. Such a determination does not, as a matter of\n349 law, impinge upon plaintiffs' First Amendment rights particularly in view of the *349 determination\nthat the apparel in question is not prohibited but limited to specific locations.\nAzim Abdullah, et al. v. Lt. Kinnison, et al., No. C-1-78-363, slip op. at 3 (S.D. Ohio April 6, 1983). This appeal\nfollowed.\nOn appeal, appellants contend that the challenged directive was an impermissible, exaggerated response to a\nlegitimate security interest and that it violated a consent decree entered in Haynes v. State of Ohio, No. 72-223,\nslip op. (S.D.Ohio Sept. 7, 1973). They also argue that Superintendent Marshall's affidavit was not a sufficient\nbasis for the grant of summary judgment.\nII.\nAs Justice Stewart wrote in Pell v. Procunier, 417 U.S. 817, 94 S.Ct. 2800, 41 L.Ed.2d 495 (1974), \"[w]e start with\nthe familiar proposition that `[l]awful incarceration brings about the necessary withdrawal or limitation of many\nprivileges and rights, a retraction justified by the considerations underlying our penal system.'\" Id. at 822, 94 S.Ct.\nat 2804 (quoting Price v. Johnston, 334 U.S. 266, 285, 68 S.Ct. 1049, 1060, 92 L.Ed.2d. 1356 (1948)). Prisoners\nclearly continue to enjoy certain First and Fourteenth Amendment rights, including the right of religious freedom,\neven while incarcerated. Cruz v. Beto, 405 U.S. 319, 92 S.Ct. 1079, 31 L.Ed.2d 263 (1972); Cooper v. Pate, 378\nU.S. 546, 84 S.Ct. 1733, 12 L.Ed.2d 1030 (1964). However, the fact of confinement, the desire to implement\nlegitimate penological policies and goals and the need to maintain institutional security, order, and discipline may\nlimit the exercise of those rights. Pell v. Procunier, 417 U.S. at 822-23, 94 S.Ct. at 2804; Bell v. Wolfish, 441 U.S.\n520, 546-47, 99 S.Ct. 1861, 1877-78, 60 L.Ed.2d 447 (1979).\n[A] prison inmate retains those First Amendment rights that are not inconsistent with his status as\na prisoner or with the legitimate penological objectives of the corrections system. Thus, challenges\nto prison restrictions that are asserted to inhibit First Amendment interests must be analyzed in\nterms of the legitimate policies and goals of the corrections system, to whose custody and care\nthe prisoner has been committed in accordance with due process of law.\nPell v. Procunier, 417 U.S. at 822, 94 S.Ct. at 2804. Therefore, when a prisoner challenges a prison regulation\nthat restricts his First Amendment right of religious freedom, \"he is entitled to have a court balance his\n\nconstitutional claims against legitimate state interests in operating its prisons.' Brown v. Johnson, 743 F.2d 408,\n411 (6th Cir.1984),cert. denied,___ U.S. ___, 105 S.Ct. 1190, 84 L.Ed.2d 336 (1985).\nHere the burden imposed on appellants' First Amendment rights by Superintendent Marshall's directive is a\nlimited one. That directive merely restricts the use of the Hanafi Muslim's white prayer robes to the prison chapel.\nAppellants do not contend that the prison officials have limited the exercise of their religious freedom in any other\nmanner. Specifically, appellants have raised no complaints concerning any burden on their right of prayer, other\nthan their claim that the ban on white prayer robes outside the chapel in some way impinges that right.\nIn his official affidavit Superintendent Marshall advanced a number of justifications for this restriction. First,\nSuperintendent Marshall acknowledged that the directive's issuance was triggered by the incident involving the\nalleged use of a white robe by a guard to frighten an inmate (the KKK incident). Indeed, he stated that the\ndirective was issued in part to guard against similar incidents in the future. He also asserted that the robes posed\na security risk in several other respects, because the robes could: (1) be used to conceal weapons, contraband,\nand foodstuffs; (2) allow a prisoner to walk out of the prison dressed as a civilian Muslim; (3) be modified to\nresemble other civilian dress; or (4) frustrate the color-coded clothing system which identifies SOCF inmates.\nThese security interests are legitimate and on their face provide adequate justification for the limited restriction of\n350 appellants' *350 First Amendment rights. Maintaining security in a maximum security institution like SOCF is\nespecially crucial, and we must allow prison officials to adopt and execute those policies necessary to preserve\ninstitutional security, order, and discipline. Bell v. Wolfish, 441 U.S. at 547, 99 S.Ct. at 1878; Jones v. North\nCarolina Prisoners' Union, 433 U.S. 119, 132, 97 S.Ct. 2532, 2541, 53 L.Ed.2d 629 (1977). As Judge Martin\nstated in Brown v. Johnson,\nwe will try not to second-guess prison administrators on matters relating to prison security, even\nwhen those matters affect the constitutional rights of inmates in a manner we find discomforting....\nAs long as prison authorities present evidence to support their judgment that prison security will\nbe undermined in the absence of a challenged regulation, we will not substitute our judgment for\ntheirs....\n... Moreover, prison officials, when making these types of decisions, need not demonstrate an \nactual danger in order to support the reasonableness of their determinations. It is enough to show\nthat a potential danger exists without the restrictions of a challenged prison regulation.\n743 F.2d at 412-13 (emphasis in original).\nAppellants, however, contend that while the directive is supported by security interests which appear legitimate\nand permissible, they are actually pretextual. In essence, appellants claim that the directive was merely an\nimpermissible, \"exaggerated\" response to the KKK incident. In Pell v. Procunier, 417 U.S. 817, 827, 94 S.Ct.\n2800, 2806, 41 L.Ed.2d 495 (1974), the Supreme Court stated that courts should ordinarily defer to prison\nofficials' judgment regarding security considerations only \"in the absence of substantial evidence in the record to\nindicate that the officials have exaggerated their response to these considerations.\" Here appellants assert that\nthe directive was just such an exaggerated response to the KKK incident and that the other justifications cited by\nSuperintendent Marshall were \"window dressing\" devised after the fact to justify the officials' action.\nTo support this argument, appellants point out that the directive only applies to white robes, leaving intact\npossession and use of other robes which could pose just as great a security risk. Appellants further allege that\nthe color-coded clothing system was established several years after the directive was issued and, thus, could not\nhave served as a basis for the directive. They contend that because of these apparent inconsistencies, the\ndirective was only an exaggerated and punitive response to an unfortunate incident for which they were not\nresponsible.\nAt first glance the distinction between white and non-white robes can appear somewhat unreasonable or at least\nillogical. However, we cannot quarrel with the prison administration's judgment in not restricting access to any\nother robes. So far as we are aware, Akbar's one black robe is the only non-white robe kept by a prisoner in a\ncell. We do not see the prison officials' tolerance of one, three-quarter length, black robe owned by a leader of the\nHanafi sect as indicative of an exaggerated or punitive response in the restriction upon white robes. Instead, we\n\nview the action as an intelligent effort to use the least restrictive means necessary for security. Such attempts to\naccommodate First Amendment rights are to be encouraged, not penalized. See Jones v. North Carolina\nPrisoners' Union, 433 U.S. 119, 133, 97 S.Ct. 2532, 2541, 53 L.Ed.2d 629 (1977). The directive is not\nunconstitutional merely because only possession of white robes is affected.\nWe also believe that the directive was fully justified by the stated security interest even without any consideration\nof a need to protect the color-coding system. The inclusion of that interest, which could not have been a factor in\nthe decision made in 1977, does not affect the validity or importance of the other justifications cited in\nSuperintendent Marshall's affidavit. The other security interests advanced by Superintendent Marshall were\n351 legitimate and provided a satisfactory basis for the *351 issuance of the directive. Certainly color-coding as a\nproper means of maintaining prison security is not to be condemned merely because it was instituted after the\ndirective was issued.\nAppellants correctly note that the KKK incident was no fault of theirs and that blame should be placed upon the\nprison guard who perpetrated it. We agree. The most charitable view that can be taken of the incident is that it\nwas a sick joke by a prison guard who was insensitive to the repugnant impact such historic symbolism would\nhave, particularly on the black inmates of the institution. However, the discipline of the guard is not before us, and\nthe incident is relative only to whether the restriction upon appellants' rights was an unfair and punitive retaliation\nfor reporting the incident. After careful consideration, we conclude that the remote possibility that the directive\nwas retaliatory does not justify interfering with what was otherwise a proper exercise of the prison officials'\ndiscretion. We find the following language from Hewitt v. Helms, 459 U.S. 460, 474, 103 S.Ct. 864, 872-73, 74\nL.Ed.2d 675 (1983), particularly appropriate:\nAs we said in Rhodes v. Chapman, 452 U.S. 337, 349, n. 14 [101 S.Ct. 2392, 2400, n. 14, 69\nL.Ed.2d 59] (1981), \"a prison's internal security is peculiarly a matter normally left to the discretion\nof prison administrators.\" In assessing the seriousness of a threat to institutional security, prison\nadministrators necessarily draw on more than the specific facts surrounding a particular incident;\ninstead, they must consider the character of the inmates confined in the institution, recent and\nlongstanding relations between prisoners and guards, prisoners inter se, and the like. In the\nvolatile atmosphere of a prison, an inmate easily may constitute an unacceptable threat to the\nsafety of other prisoners and guards even if he himself has committed no misconduct; rumor,\nreputation, and even more imponderable factors may suffice to spark potentially disastrous\nincidents. The judgment of prison officials in this context, like that of those making parole\ndecisions, turns largely on \"purely subjective evaluations and on predictions of future behavior,\" \nConnecticut Board of Pardons v. Dumschat, 452 U.S. 458, 464 [101 S.Ct. 2460, 2464, 69 L.Ed.2d\n158] (1981); indeed, the administrators must predict not just one inmate's future actions, as in\nparole, but those of an entire institution.\nWe will not second-guess the prison administration's actions in restricting access to the prayer robes. The\ndirective did not constitute an exaggerated and hence constitutionally impermissible response to that incident.\nWe note that the only other circuit court to consider this question reached the same result. In Rogers v. Scurr,\n676 F.2d 1211 (8th Cir.1982), the Eighth Circuit reversed a district court order requiring two prisons to allow\nMuslim inmates to wear caps and robes at all times unless good cause for the prohibition of the clothing could be\nshown. The court found that the prohibition on wearing the caps and robes outside religious services was within\nthe discretion of the prison authorities who said the ban was necessary because \"such attire makes it too easy to\nconceal contraband.\" Id. at 1215. The court concluded that \"no constitutional right of the prisoner was violated by\nthe prohibition on wearing prayer caps and robes outside religious services.\" Id. at 1216. Our decision here is in\nagreement with that of the Eighth Circuit in Rogers.\nIII.\nOn appeal, appellants also contend that the restriction of the prayer robes to the chapel violated a consent\ndecree entered in Haynes v. State of Ohio, No. 72-223, Consent Order and Order of Dismissal (S.D. Ohio Sept.\n7, 1973). The consent decree basically ordered the State of Ohio to allow Sunni Muslims incarcerated in Ohio\n\nprisons to practice their religion. In the Haynes consent decree the defendants (including the State of Ohio)\nagreed that\n352 1. Except as compelled by security considerations and budgetary constraints*352applicable to all\ninmates, the Defendants are ordered to permit the Plaintiffs and other prison inmates (hereinafter\nreferred to as the class of Plaintiffs) under the custody and control of Defendants, to practice or\nworship the Sunni Muslim faith with the same freedom and rights as Christians and followers of\nother religions may practice and/or worship their faith. The freedom and rights ordered hereby\ninclude the freedom and right to ... gather and engage in individual or congregational Sunni\nMuslim prayer; and to observe the ... hair and clothing standards, diet and other evidences of the\nSunni Muslim faith....\nId. at ¶ 1 (emphasis added).\nThis issue was raised by the appellants below but it was not decided by either the magistrate or the district court\nin their disposition of the case. Indeed, appellants' references to Haynes in the district court were almost in\npassing and for the most part treated the Haynes consent decree as precedent to be followed by the court rather\nthan a contract between the parties to this appeal. However, because the issue was raised below, we will\nconsider it briefly here.\nAssuming that the appellants may enforce the Haynes consent decree as \"other prison inmates\" whom the\ndecree was intended to benefit, it is clear from the face of the decree that it does not prohibit the prison officials'\nactions here. First, the decree limits the practice of the Sunni Muslim faith when \"security considerations\" are\ninvolved. Thus, the same security interests which support Superintendent Marshall's directive on constitutional\ngrounds also justify the directive under the consent decree. Second, appellants' religion has not been singled out\nfor any improper reason. Finally, Superintendent Marshall's directive imposes only a limited restriction on\nappellants' right to practice their religion. Other than being allowed to wear white prayer robes only in the prison\nchapel, appellants do not claim any infringement of their right \"to practice or worship the Sunni Muslim faith with\nthe same freedom and rights as Christians and followers of other religions.\" The consent decree has not been\nviolated here.\nIV.\nWe note briefly that appellants' only remaining argument, that is, that Superintendent Marshall's affidavit was\ninadequate and that the case was not ripe for summary judgment, is without merit. The affidavit met the\nrequirements of the Federal Rules of Civil Procedure and supported Judge Rubin's summary judgment order.\nThis case was otherwise ripe for summary judgment.\nFinally, appellees have argued that the motion for summary judgment in their favor below may also be upheld on\nthe grounds that they were entitled to qualified immunity under Harlow v. Fitzgerald, 457 U.S. 800, 102 S.Ct.\n2727, 73 L.Ed.2d 396 (1982). Because we hold that the appellees' action was not unconstitutional, we need not\nand do not reach this issue.\nAFFIRMED.\n[*] Honorable Thomas A. Wiseman, Jr., United States District Court Judge for the Middle District of Tennessee,\nsitting by designation.\n[1] Appellants proceeded pro se until January, 1983, when two attorneys entered an appearance as their counsel.\nAppellants were represented in this appeal.\nSave trees - read court opinions online on Google Scholar.",
+      "document_type_other": null,
+      "external_url": "",
+      "ecf_number": null,
+      "clearinghouse_link": "clearinghouse.net/doc/54945"
+    },
+    {
+      "date": null,
+      "date_is_estimate": false,
+      "date_not_available": false,
+      "description": null,
+      "document_source": null,
+      "document_status": null,
+      "document_type": null,
+      "order_type": null,
+      "citation_paren": null,
+      "cite_1_page": null,
+      "cite_1_reporter": null,
+      "cite_1_vol": null,
+      "cite_2_page": null,
+      "cite_2_reporter": null,
+      "cite_2_vol": null,
+      "cite_3_page": null,
+      "cite_3_reporter": null,
+      "cite_3_vol": null,
+      "citation_status": null,
+      "court": null,
+      "no_title": false,
+      "party_types": [],
+      "per_curium": false,
+      "is_core_document": true,
+      "id": 128724,
+      "file": null,
+      "title": null,
+      "text": null,
+      "document_type_other": null,
+      "external_url": null,
+      "ecf_number": null,
+      "clearinghouse_link": "clearinghouse.net/doc/128724"
+    }
+  ],
+  "document_count": 3
+}

@@ -1,0 +1,644 @@
+{
+  "case_id": 18189,
+  "fetched_at": "2025-10-22T00:34:06.915931",
+  "case_data": {
+    "attorney_orgs": [],
+    "available_documents": [
+      "Complaint (any)"
+    ],
+    "case_defendants": [
+      {
+        "defendant_level": null,
+        "institution": "",
+        "institution_alt_state": null,
+        "institution_city": "",
+        "institution_county": null,
+        "name": "US Postal Service",
+        "defendant_level_other": "",
+        "is_active": true
+      },
+      {
+        "defendant_level": null,
+        "institution": "",
+        "institution_alt_state": null,
+        "institution_city": "",
+        "institution_county": null,
+        "name": "US Postal Inspection Service",
+        "defendant_level_other": "",
+        "is_active": true
+      },
+      {
+        "defendant_level": null,
+        "institution": "United States Postal Service",
+        "institution_alt_state": null,
+        "institution_city": "Washington",
+        "institution_county": "District of Columbia",
+        "name": "United States Postal Service",
+        "defendant_level_other": "",
+        "is_active": true
+      },
+      {
+        "defendant_level": null,
+        "institution": "United States Postal Inspection Service",
+        "institution_alt_state": null,
+        "institution_city": "Washington",
+        "institution_county": "District of Columbia",
+        "name": "United States Postal Inspection Service",
+        "defendant_level_other": "",
+        "is_active": true
+      }
+    ],
+    "case_ongoing": "Yes",
+    "case_status": "Approved",
+    "case_types": [
+      "Speech and Religious Freedom"
+    ],
+    "cause_other": "E-Government Act of 2002 (44 U.S.C. § 3501 note)",
+    "causes": [
+      "Administrative Procedure Act, 5 U.S.C. §§ 551 et seq."
+    ],
+    "class_action_granted": "Not sought",
+    "class_action_sought": "No",
+    "closing_year": null,
+    "constitutional_clause": [],
+    "content_of_injunction": [],
+    "court": "District of District of Columbia",
+    "custom_issues": [],
+    "defendant_payment": "",
+    "defendant_type": [],
+    "docket_status": "Complete as of retrieval date",
+    "facility_type": [],
+    "filing_date": "2021-08-12",
+    "filing_year": 2021,
+    "id": 18189,
+    "injunction_duration": "",
+    "issues": [
+      "General/Misc.: Search policies",
+      "General/Misc.: Records Disclosure",
+      "General/Misc.: Government services"
+    ],
+    "last_checked_date": "2022-02-05T00:00:00-05:00",
+    "main_docket": {
+      "id": 27306,
+      "docket_entries": [
+        {
+          "row_number": 13,
+          "id": 8569251,
+          "entry_number": "5",
+          "date_filed": "2021-08-12T00:00:00-04:00",
+          "attachments": [],
+          "url": "https://www.courtlistener.com/docket/60149255/5/electronic-privacy-information-center-v-united-states-postal-service/",
+          "recap_pdf_url": "https://www.courtlistener.com/recap/gov.uscourts.dcd.234400/gov.uscourts.dcd.234400.5.0.pdf",
+          "pacer_doc_id": "04508705153",
+          "description": "SUMMONS (4) Issued Electronically as to UNITED STATES POSTAL INSPECTION SERVICE, UNITED STATES POSTAL SERVICE, U.S. Attorney and U.S. Attorney General (Attachment: # 1 Notice and Consent)(znmg) (Entered: 08/12/2021)"
+        },
+        {
+          "row_number": 0,
+          "id": 8569245,
+          "entry_number": "1",
+          "date_filed": "2021-08-12T00:00:00-04:00",
+          "attachments": [
+            {
+              "recap_id": 177549217,
+              "pacer_url": "https://ecf.dcd.uscourts.gov/doc1/04508704422?caseid=234400",
+              "description": "Exhibit A",
+              "attachment_number": 1
+            },
+            {
+              "recap_id": 177549218,
+              "pacer_url": "https://ecf.dcd.uscourts.gov/doc1/04508704423?caseid=234400",
+              "description": "Exhibit B",
+              "attachment_number": 2
+            },
+            {
+              "recap_id": 177549219,
+              "pacer_url": "https://ecf.dcd.uscourts.gov/doc1/04508704424?caseid=234400",
+              "description": "Exhibit C",
+              "attachment_number": 3
+            },
+            {
+              "recap_id": 177549220,
+              "pacer_url": "https://ecf.dcd.uscourts.gov/doc1/04508704425?caseid=234400",
+              "description": "Exhibit D",
+              "attachment_number": 4
+            },
+            {
+              "recap_id": 177549221,
+              "pacer_url": "https://ecf.dcd.uscourts.gov/doc1/04508704426?caseid=234400",
+              "description": "Exhibit E",
+              "attachment_number": 5
+            },
+            {
+              "recap_id": 177549222,
+              "pacer_url": "https://ecf.dcd.uscourts.gov/doc1/04508704427?caseid=234400",
+              "description": "Exhibit F",
+              "attachment_number": 6
+            },
+            {
+              "recap_id": 177549223,
+              "pacer_url": "https://ecf.dcd.uscourts.gov/doc1/04508704428?caseid=234400",
+              "description": "Civil Cover Sheet",
+              "attachment_number": 7
+            },
+            {
+              "recap_id": 177549224,
+              "pacer_url": "https://ecf.dcd.uscourts.gov/doc1/04508704429?caseid=234400",
+              "description": "Summons",
+              "attachment_number": 8
+            },
+            {
+              "recap_id": 177549225,
+              "pacer_url": "https://ecf.dcd.uscourts.gov/doc1/04508704430?caseid=234400",
+              "description": "Summons",
+              "attachment_number": 9
+            },
+            {
+              "recap_id": 177549226,
+              "pacer_url": "https://ecf.dcd.uscourts.gov/doc1/04508704431?caseid=234400",
+              "description": "Summons",
+              "attachment_number": 10
+            },
+            {
+              "recap_id": 177549227,
+              "pacer_url": "https://ecf.dcd.uscourts.gov/doc1/04508704432?caseid=234400",
+              "description": "Summons",
+              "attachment_number": 11
+            }
+          ],
+          "url": "https://www.courtlistener.com/docket/60149255/1/electronic-privacy-information-center-v-united-states-postal-service/",
+          "recap_pdf_url": "https://www.courtlistener.com/recap/gov.uscourts.dcd.234400/gov.uscourts.dcd.234400.1.0.pdf",
+          "pacer_doc_id": "04508704421",
+          "description": "COMPLAINT against All Defendants ( Filing fee $ 402 receipt number ADCDC-8663445) filed by ELECTRONIC PRIVACY INFORMATION CENTER. (Attachments: # 1 Exhibit A, # 2 Exhibit B, # 3 Exhibit C, # 4 Exhibit D, # 5 Exhibit E, # 6 Exhibit F, # 7 Civil Cover Sheet, # 8 Summons, # 9 Summons, # 10 Summons, # 11 Summons)(Davisson, John) (Attachments 1, 2, 3, 5, 6, 10, and 11 flattened and replaced on 8/13/2021) (ztnr). (Entered: 08/12/2021)"
+        },
+        {
+          "row_number": 11,
+          "id": 8569248,
+          "entry_number": "3",
+          "date_filed": "2021-08-12T00:00:00-04:00",
+          "attachments": [],
+          "url": "https://www.courtlistener.com/docket/60149255/3/electronic-privacy-information-center-v-united-states-postal-service/",
+          "recap_pdf_url": null,
+          "pacer_doc_id": "04508704551",
+          "description": "LCvR 26.1 CERTIFICATE OF DISCLOSURE of Corporate Affiliations and Financial Interests by ELECTRONIC PRIVACY INFORMATION CENTER (Davisson, John) (Entered: 08/12/2021)"
+        },
+        {
+          "row_number": 19,
+          "id": 8569249,
+          "entry_number": null,
+          "date_filed": "2021-08-12T00:00:00-04:00",
+          "attachments": [],
+          "url": "https://www.courtlistener.com",
+          "recap_pdf_url": null,
+          "pacer_doc_id": null,
+          "description": "Case Assigned to Judge Trevor N. McFadden. (znmg)"
+        },
+        {
+          "row_number": 12,
+          "id": 8569250,
+          "entry_number": "4",
+          "date_filed": "2021-08-12T00:00:00-04:00",
+          "attachments": [],
+          "url": "https://www.courtlistener.com/docket/60149255/4/electronic-privacy-information-center-v-united-states-postal-service/",
+          "recap_pdf_url": "https://www.courtlistener.com/recap/gov.uscourts.dcd.234400/gov.uscourts.dcd.234400.4.0_1.pdf",
+          "pacer_doc_id": "04508705145",
+          "description": "STANDING ORDER Establishing Procedures for Cases Before Judge Trevor N. McFadden. The parties are hereby ORDERED to read and comply with the directives in the attached standing order. Signed by Judge Trevor N. McFadden on 08/12/2021. (lctnm2) (Entered: 08/12/2021)"
+        },
+        {
+          "row_number": 20,
+          "id": 8569252,
+          "entry_number": null,
+          "date_filed": "2021-08-12T00:00:00-04:00",
+          "attachments": [],
+          "url": "https://www.courtlistener.com",
+          "recap_pdf_url": null,
+          "pacer_doc_id": null,
+          "description": "Notice of QC- New Case"
+        },
+        {
+          "row_number": 21,
+          "id": 8569253,
+          "entry_number": null,
+          "date_filed": "2021-08-12T00:00:00-04:00",
+          "attachments": [],
+          "url": "https://www.courtlistener.com",
+          "recap_pdf_url": null,
+          "pacer_doc_id": null,
+          "description": "Case Assigned/Reassigned"
+        },
+        {
+          "row_number": 16,
+          "id": 8569256,
+          "entry_number": "8",
+          "date_filed": "2021-09-10T00:00:00-04:00",
+          "attachments": [],
+          "url": "https://www.courtlistener.com/docket/60149255/8/electronic-privacy-information-center-v-united-states-postal-service/",
+          "recap_pdf_url": null,
+          "pacer_doc_id": "04508758359",
+          "description": "RETURN OF SERVICE/AFFIDAVIT of Summons and Complaint Executed. UNITED STATES POSTAL SERVICE served on 8/30/2021 (Davisson, John) (Entered: 09/10/2021)"
+        },
+        {
+          "row_number": 17,
+          "id": 8569257,
+          "entry_number": "9",
+          "date_filed": "2021-09-10T00:00:00-04:00",
+          "attachments": [],
+          "url": "https://www.courtlistener.com/docket/60149255/9/electronic-privacy-information-center-v-united-states-postal-service/",
+          "recap_pdf_url": null,
+          "pacer_doc_id": "04508758368",
+          "description": "RETURN OF SERVICE/AFFIDAVIT of Summons and Complaint Executed. UNITED STATES POSTAL INSPECTION SERVICE served on 8/30/2021 (Davisson, John) (Entered: 09/10/2021)"
+        },
+        {
+          "row_number": 1,
+          "id": 8569258,
+          "entry_number": "10",
+          "date_filed": "2021-10-19T00:00:00-04:00",
+          "attachments": [],
+          "url": "https://www.courtlistener.com/docket/60149255/10/electronic-privacy-information-center-v-united-states-postal-service/",
+          "recap_pdf_url": null,
+          "pacer_doc_id": "04508835997",
+          "description": "NOTICE of Appearance by Cormac A. Early on behalf of All Defendants (Early, Cormac) (Main Document 10 replaced on 10/26/2021) (znmw). (Entered: 10/19/2021)"
+        },
+        {
+          "row_number": 3,
+          "id": 8569260,
+          "entry_number": "12",
+          "date_filed": "2021-10-27T00:00:00-04:00",
+          "attachments": [],
+          "url": "https://www.courtlistener.com/docket/60149255/12/electronic-privacy-information-center-v-united-states-postal-service/",
+          "recap_pdf_url": null,
+          "pacer_doc_id": "04508851744",
+          "description": "Joint MOTION for Briefing Schedule in Connection With Forthcoming Amended Complaint by ELECTRONIC PRIVACY INFORMATION CENTER. (Attachments: # 1 Text of Proposed Order)(Davisson, John) (Entered: 10/27/2021)"
+        },
+        {
+          "row_number": 22,
+          "id": 8569261,
+          "entry_number": null,
+          "date_filed": "2021-10-28T00:00:00-04:00",
+          "attachments": [],
+          "url": "https://www.courtlistener.com",
+          "recap_pdf_url": null,
+          "pacer_doc_id": null,
+          "description": "MINUTE ORDER granting 12 Joint Motion for Briefing Schedule. Plaintiff shall file its amended Complaint on or before November 9, 2021. Defendant shall file an Answer or other responsive motion to that Complaint by December 7, 2021. If Defendant files a responsive motion, Plaintiff shall file by January 4, 2022 any opposition to that motion. Defendant shall then file any reply to plaintiffs opposition by January 18, 2022. SO ORDERED. Signed by Judge Trevor N. McFadden on 10/28/21. (lctnm2)"
+        },
+        {
+          "row_number": 23,
+          "id": 8569262,
+          "entry_number": null,
+          "date_filed": "2021-10-28T00:00:00-04:00",
+          "attachments": [],
+          "url": "https://www.courtlistener.com",
+          "recap_pdf_url": null,
+          "pacer_doc_id": null,
+          "description": "Set/Reset Deadlines: Plaintiff's Amended Complaint due by 11/9/2021. Defendants' Answer or responsive motion due by 12/7/2021. Plaintiff's Opposition due by 1/4/2022. Defendants' Reply due by 1/18/2022. (hmc)"
+        },
+        {
+          "row_number": 24,
+          "id": 8569263,
+          "entry_number": null,
+          "date_filed": "2021-10-28T00:00:00-04:00",
+          "attachments": [],
+          "url": "https://www.courtlistener.com",
+          "recap_pdf_url": null,
+          "pacer_doc_id": null,
+          "description": "Order on Motion for Briefing Schedule"
+        },
+        {
+          "row_number": 4,
+          "id": 8569265,
+          "entry_number": "13",
+          "date_filed": "2021-11-09T00:00:00-05:00",
+          "attachments": [
+            {
+              "recap_id": 185249700,
+              "pacer_url": "https://ecf.dcd.uscourts.gov/doc1/04508879408?caseid=234400",
+              "description": "Exhibit A",
+              "attachment_number": 1
+            },
+            {
+              "recap_id": 185249701,
+              "pacer_url": "https://ecf.dcd.uscourts.gov/doc1/04508879409?caseid=234400",
+              "description": "Exhibit B",
+              "attachment_number": 2
+            },
+            {
+              "recap_id": 185249702,
+              "pacer_url": "https://ecf.dcd.uscourts.gov/doc1/04508879410?caseid=234400",
+              "description": "Exhibit C",
+              "attachment_number": 3
+            },
+            {
+              "recap_id": 185249703,
+              "pacer_url": "https://ecf.dcd.uscourts.gov/doc1/04508879411?caseid=234400",
+              "description": "Exhibit D",
+              "attachment_number": 4
+            },
+            {
+              "recap_id": 185249704,
+              "pacer_url": "https://ecf.dcd.uscourts.gov/doc1/04508879412?caseid=234400",
+              "description": "Exhibit E",
+              "attachment_number": 5
+            },
+            {
+              "recap_id": 185249705,
+              "pacer_url": "https://ecf.dcd.uscourts.gov/doc1/04508879413?caseid=234400",
+              "description": "Exhibit F",
+              "attachment_number": 6
+            },
+            {
+              "recap_id": 185249706,
+              "pacer_url": "https://ecf.dcd.uscourts.gov/doc1/04508879414?caseid=234400",
+              "description": "Exhibit Redline comparison",
+              "attachment_number": 7
+            }
+          ],
+          "url": "https://www.courtlistener.com/docket/60149255/13/electronic-privacy-information-center-v-united-states-postal-service/",
+          "recap_pdf_url": "https://www.courtlistener.com/recap/gov.uscourts.dcd.234400/gov.uscourts.dcd.234400.13.0.pdf",
+          "pacer_doc_id": "04508879407",
+          "description": "AMENDED COMPLAINT against All Defendants filed by ELECTRONIC PRIVACY INFORMATION CENTER. (Attachments: # 1 Exhibit A, # 2 Exhibit B, # 3 Exhibit C, # 4 Exhibit D, # 5 Exhibit E, # 6 Exhibit F, # 7 Exhibit Redline comparison)(Davisson, John) (Attachments 1, 2, 3, 5, and 6 flattened and replaced on 11/10/2021.) (ztnr) (Entered: 11/09/2021)"
+        },
+        {
+          "row_number": 26,
+          "id": 8569266,
+          "entry_number": null,
+          "date_filed": "2021-11-11T00:00:00-05:00",
+          "attachments": [],
+          "url": "https://www.courtlistener.com",
+          "recap_pdf_url": null,
+          "pacer_doc_id": null,
+          "description": "MINUTE ORDER. In light of Plaintiff's 13 Amended Complaint, the pending 11 Motion to Dismiss the previous 1 Complaint is hereby DENIED as moot. SO ORDERED. Signed by Judge Trevor N. McFadden on 11/11/21. (lctnm2)"
+        },
+        {
+          "row_number": 5,
+          "id": 8569268,
+          "entry_number": "14",
+          "date_filed": "2021-12-07T00:00:00-05:00",
+          "attachments": [],
+          "url": "https://www.courtlistener.com/docket/60149255/14/electronic-privacy-information-center-v-united-states-postal-service/",
+          "recap_pdf_url": null,
+          "pacer_doc_id": "04508933170",
+          "description": "MOTION to Dismiss for Lack of Jurisdiction, MOTION to Dismiss by UNITED STATES POSTAL INSPECTION SERVICE, UNITED STATES POSTAL SERVICE. (Attachments: # 1 Memorandum in Support, # 2 Text of Proposed Order)(Early, Cormac) (Entered: 12/07/2021)"
+        },
+        {
+          "row_number": 6,
+          "id": 8569269,
+          "entry_number": "15",
+          "date_filed": "2022-01-04T00:00:00-05:00",
+          "attachments": [],
+          "url": "https://www.courtlistener.com/docket/60149255/15/electronic-privacy-information-center-v-united-states-postal-service/",
+          "recap_pdf_url": null,
+          "pacer_doc_id": "04508975401",
+          "description": "Memorandum in opposition to re 14 MOTION to Dismiss for Lack of Jurisdiction MOTION to Dismiss filed by ELECTRONIC PRIVACY INFORMATION CENTER. (Attachments: # 1 Text of Proposed Order)(Davisson, John) (Entered: 01/04/2022)"
+        },
+        {
+          "row_number": 7,
+          "id": 8569270,
+          "entry_number": "16",
+          "date_filed": "2022-01-14T00:00:00-05:00",
+          "attachments": [],
+          "url": "https://www.courtlistener.com/docket/60149255/16/electronic-privacy-information-center-v-united-states-postal-service/",
+          "recap_pdf_url": null,
+          "pacer_doc_id": "04508993528",
+          "description": "REPLY to opposition to motion re 14 MOTION to Dismiss for Lack of Jurisdiction MOTION to Dismiss filed by UNITED STATES POSTAL INSPECTION SERVICE, UNITED STATES POSTAL SERVICE. (Early, Cormac) (Entered: 01/14/2022)"
+        },
+        {
+          "row_number": 8,
+          "id": 10151394,
+          "entry_number": "17",
+          "date_filed": "2022-03-25T00:00:00-04:00",
+          "attachments": [],
+          "url": "https://www.courtlistener.com/docket/60149255/17/electronic-privacy-information-center-v-united-states-postal-service/",
+          "recap_pdf_url": "https://www.courtlistener.com/recap/gov.uscourts.dcd.234400/gov.uscourts.dcd.234400.17.0.pdf",
+          "pacer_doc_id": "04509127473",
+          "description": "MEMORANDUM OPINION re Defendants'  14  Motion to Dismiss. Signed by Judge Trevor N. McFadden on 3/25/22. (lctnm2)"
+        },
+        {
+          "row_number": 9,
+          "id": 10151395,
+          "entry_number": "18",
+          "date_filed": "2022-03-25T00:00:00-04:00",
+          "attachments": [],
+          "url": "https://www.courtlistener.com/docket/60149255/18/electronic-privacy-information-center-v-united-states-postal-service/",
+          "recap_pdf_url": "https://www.courtlistener.com/recap/gov.uscourts.dcd.234400/gov.uscourts.dcd.234400.18.0.pdf",
+          "pacer_doc_id": "04509127482",
+          "description": "Order on Motion to Dismiss AND Order on Motion to Dismiss/Lack of Jurisdiction"
+        },
+        {
+          "row_number": 18,
+          "id": 8569246,
+          "entry_number": null,
+          "date_filed": "2021-08-12T00:00:00-04:00",
+          "attachments": [],
+          "url": "https://www.courtlistener.com",
+          "recap_pdf_url": null,
+          "pacer_doc_id": null,
+          "description": "NOTICE OF ERROR re 1 Complaint; emailed to davisson@epic.org, cc'd 2 associated attorneys -- The PDF file you docketed contained errors: 1. Incorrect coversheet. Please use the cover sheet at https://www.dcd.uscourts.gov/new-case-forms & file using the event Civil Cover Sheet., 2. COMPLIANCE DEADLINE is by close of business today. This case will not proceed any further until all errors are satisfied. (znmg, )"
+        },
+        {
+          "row_number": 10,
+          "id": 8569247,
+          "entry_number": "2",
+          "date_filed": "2021-08-12T00:00:00-04:00",
+          "attachments": [],
+          "url": "https://www.courtlistener.com/docket/60149255/2/electronic-privacy-information-center-v-united-states-postal-service/",
+          "recap_pdf_url": null,
+          "pacer_doc_id": "04508704516",
+          "description": "CIVIL COVER SHEET by ELECTRONIC PRIVACY INFORMATION CENTER re Notice of QC- New Case, filed by ELECTRONIC PRIVACY INFORMATION CENTER. Related document: Notice of QC- New Case,.(Davisson, John) (Entered: 08/12/2021)"
+        },
+        {
+          "row_number": 15,
+          "id": 8569255,
+          "entry_number": "7",
+          "date_filed": "2021-09-10T00:00:00-04:00",
+          "attachments": [],
+          "url": "https://www.courtlistener.com/docket/60149255/7/electronic-privacy-information-center-v-united-states-postal-service/",
+          "recap_pdf_url": null,
+          "pacer_doc_id": "04508758353",
+          "description": "RETURN OF SERVICE/AFFIDAVIT of Summons and Complaint Executed on United States Attorney General. Date of Service Upon United States Attorney General 8/30/21. (Davisson, John) (Entered: 09/10/2021)"
+        },
+        {
+          "row_number": 2,
+          "id": 8569259,
+          "entry_number": "11",
+          "date_filed": "2021-10-19T00:00:00-04:00",
+          "attachments": [
+            {
+              "pdf_url": "https://www.courtlistener.com/recap/gov.uscourts.dcd.234400/gov.uscourts.dcd.234400.11.1.pdf",
+              "recap_id": 183388458,
+              "pacer_url": "https://ecf.dcd.uscourts.gov/doc1/04508836051?caseid=234400",
+              "description": "Memorandum in Support",
+              "attachment_number": 1
+            },
+            {
+              "recap_id": 183388459,
+              "pacer_url": "https://ecf.dcd.uscourts.gov/doc1/04508836052?caseid=234400",
+              "description": "Text of Proposed Order",
+              "attachment_number": 2
+            }
+          ],
+          "url": "https://www.courtlistener.com/docket/60149255/11/electronic-privacy-information-center-v-united-states-postal-service/",
+          "recap_pdf_url": "https://www.courtlistener.com/recap/gov.uscourts.dcd.234400/gov.uscourts.dcd.234400.11.0.pdf",
+          "pacer_doc_id": "04508836050",
+          "description": "MOTION to Dismiss by UNITED STATES POSTAL INSPECTION SERVICE, UNITED STATES POSTAL SERVICE. (Attachments: # 1 Memorandum in Support, # 2 Text of Proposed Order)(Early, Cormac) (Entered: 10/19/2021)"
+        },
+        {
+          "row_number": 25,
+          "id": 8569264,
+          "entry_number": null,
+          "date_filed": "2021-10-28T00:00:00-04:00",
+          "attachments": [],
+          "url": "https://www.courtlistener.com",
+          "recap_pdf_url": null,
+          "pacer_doc_id": null,
+          "description": "Set/Reset Deadlines"
+        },
+        {
+          "row_number": 27,
+          "id": 8569267,
+          "entry_number": null,
+          "date_filed": "2021-11-11T00:00:00-05:00",
+          "attachments": [],
+          "url": "https://www.courtlistener.com",
+          "recap_pdf_url": null,
+          "pacer_doc_id": null,
+          "description": "Order on Motion to Dismiss"
+        },
+        {
+          "row_number": 14,
+          "id": 8569254,
+          "entry_number": "6",
+          "date_filed": "2021-08-24T00:00:00-04:00",
+          "attachments": [],
+          "url": "https://www.courtlistener.com/docket/60149255/6/electronic-privacy-information-center-v-united-states-postal-service/",
+          "recap_pdf_url": null,
+          "pacer_doc_id": "04508726048",
+          "description": "RETURN OF SERVICE/AFFIDAVIT of Summons and Complaint Executed as to the United States Attorney. Date of Service Upon United States Attorney on 8/20/2021. Answer due for ALL FEDERAL DEFENDANTS by 10/19/2021. (Davisson, John) (Entered: 08/24/2021)"
+        }
+      ],
+      "docket_case_type": "cv",
+      "docket_year": 2021,
+      "docket_filing_number": 2156,
+      "is_main_docket": true,
+      "court": "District of District of Columbia",
+      "state": "District of Columbia",
+      "docket_office_number": "1",
+      "docket_number_manual": "1:21-cv-2156",
+      "scales_html": "https://clearinghouse-umich-production.s3.amazonaws.com/media/docket-html/dcd--1-21-cv-02156.html",
+      "recap_link": "https://www.courtlistener.com/docket/60149255/electronic-privacy-information-center-v-united-states-postal-service/",
+      "is_active": true
+    },
+    "name": "EPIC v. United States Postal Service",
+    "never_filed": false,
+    "non_docket_case_number": "",
+    "non_docket_case_number_type": null,
+    "non_docket_case_number_type_other": "",
+    "order_end_year": null,
+    "order_start_year": null,
+    "permanent_injunction": false,
+    "plaintiff_description": "The Electronic Privacy Information Center (EPIC), a Washington, D.C. nonprofit organization established in 1994 to focus public attention on emerging privacy and civil liberties issues.",
+    "plaintiff_type": [
+      {
+        "value": "Non-profit NON-religious organization"
+      }
+    ],
+    "prevailing_party": "None Yet / None",
+    "pro_se_status": "No",
+    "public_interest_lawyer": "Yes",
+    "related_cases": [],
+    "relief_natures": [
+      "None yet"
+    ],
+    "relief_nature_other": "",
+    "relief_sources": [
+      "None yet"
+    ],
+    "settlement_agreement": [],
+    "settlement_judgment_date": null,
+    "settlement_judgment_year": null,
+    "special_collections": [],
+    "special_case_type": [],
+    "state": "District of Columbia",
+    "summary": "<p>On August 12, 2021, the Electronic Privacy Information Center (EPIC) filed this lawsuit in the U.S. District Court for the District of District of Columbia against the United States Postal Service and United States Postal Inspection Service (the Services). The court assigned the case to Judge Trevor N. McFadden.</p>\r\n<p>EPIC sought declaratory and injunctive relief, alleging that the Services violated the Administrative Procedure Act. Specifically, the EPIC alleged that the Services violated the Administrative Procedure Act when it failed to conduct and publish a Privacy Impact Assessment as required by the E-Government Act of 2002.</p>\r\n<p>EPIC alleged that the Postal Service failed to conduct and publish a Privacy Impact Assessment related to the Internet Covert Operation Program (iCOP). iCOP aimed to identify black market trading and other illegal activities within the postal systems through technology surveillance. The surveillance collected identifiable information such as names, biographical info, and facial imaging to trace and identify individuals involved in the alleged illegal activity. EPIC, citing the Government Accountability Office, alleged that the Services used iCOP technology to identify individuals involved in civil unrest, protest, and riots during the summer of 2020. EPIC unsuccessfully attempted to locate the Privacy Impact Assessment through a FOIA request and directly requesting a copy from the Services. As of February 3, 2022, the case was ongoing.</p>",
+    "summary_published_date": "2022-02-05T00:00:00-05:00",
+    "summary_short": "The Electronic Privacy Information Center (EPIC) sought declaratory and injunctive relief, alleging that the U.S. Postal Service and U.S. Postal Inspection Service violated the Administrative Procedure Act. Specifically, EPIC alleged that the Services violated the Administrative Procedure Act when it failed to conduct and publish a Privacy Impact Assessment as required by the E-Government Act of 2002. EPIC alleged that the Postal Service failed to conduct and publish a Privacy Impact Assessment related to  the Internet Covert Operation Program (iCOP). iCOP aimed to identify black market trading and other illegal activities within the postal systems through technology surveillance. The surveillance collected identifiable information such as names, biographical info, and facial imaging to trace and identify individuals involved in the alleged illegal activity. As of February 3, 2022, the case was ongoing.",
+    "summary_tiny": "@EPICprivacy challenged the US Postal Service and Postal Inspection Service for failing to conduct a Privacy Impact Assessment for iCOP, a data surveillance program, and using the technology to identify protesters in the summer of 2020.",
+    "terminating_date": null,
+    "clearinghouse_link": "clearinghouse.net/case/18189",
+    "is_active": true,
+    "case_documents_url": "https://clearinghouse.net/api/v2/documents/?case=18189",
+    "case_dockets_url": "https://clearinghouse.net/api/v2/dockets/?case=18189",
+    "case_resources_url": "https://clearinghouse.net/api/v2/resources/?case=18189"
+  },
+  "documents": [
+    {
+      "date": "2021-08-12",
+      "date_is_estimate": false,
+      "date_not_available": false,
+      "description": null,
+      "document_source": "Public.Resource.Org",
+      "document_status": "Coding Complete",
+      "document_type": "Complaint",
+      "order_type": null,
+      "citation_paren": null,
+      "cite_1_page": null,
+      "cite_1_reporter": null,
+      "cite_1_vol": null,
+      "cite_2_page": null,
+      "cite_2_reporter": null,
+      "cite_2_vol": null,
+      "cite_3_page": null,
+      "cite_3_reporter": null,
+      "cite_3_vol": null,
+      "citation_status": "Not applicable",
+      "court": "District of District of Columbia",
+      "no_title": false,
+      "party_types": [
+        "Plaintiff"
+      ],
+      "per_curium": false,
+      "is_core_document": true,
+      "id": 112448,
+      "file": "https://clearinghouse-umich-production.s3.amazonaws.com/media/doc/112448.pdf",
+      "title": "Complaint for Injunctive and Declaratory Relief",
+      "text": "IN THE UNITED STATES DISTRICT COURT \nFOR THE DISTRICT OF COLUMBIA \n \n \n     \nELECTRONIC PRIVACY INFORMATION CENTER   \n1519 New Hampshire Ave. NW   \nWashington, DC 20036,   \n   \nPlaintiff,   \n   \nv.   \n  Civ. Action No. 21-2156 \nUNITED STATES POSTAL SERVICE   \n \n475 L’Enfant Plaza SW \n \nWashington, DC 20260; \n \nUNITED STATES POSTAL INSPECTION SERVICE \n475 L’Enfant Plaza SW \nWashington, DC 20260, \n   \nDefendants. \n \n \nCOMPLAINT FOR INJUNCTIVE AND DECLARATORY RELIEF \n1.  This is an action under the Administrative Procedure Act (“APA”), 5 U.S.C. §§ 551–706; \nthe E-Government Act of 2002, Pub. L. 107-347, 116 Stat. 2899 (codified as amended at 44 \nU.S.C. § 3501 note); and the Declaratory Judgment Act, 28 U.S.C. § 2201(a), to secure the \ntimely completion and publication of a Privacy Impact Assessment (“PIA”) by Defendants \nUnited States Postal Service (“USPS”) and United States Postal Inspection Service (“USPIS”). \n2.  Plaintiff Electronic Privacy Information Center (“EPIC”) challenges Defendants’ \nunlawful failure to conduct and publish a Privacy Impact Assessment before (1) initiating the \nInternet Covert Operations Program (“iCOP”); (2) procuring and using facial recognition and \nsocial media surveillance tools under iCOP; and (3) initiating new collections of personal \ninformation under iCOP. Accordingly, EPIC seeks an injunction requiring Defendants to \n  1 \n\nsuspend the Internet Covert Operations Program and to cease and desist from using facial \nrecognition and social media surveillance tools or collecting personal information under iCOP \nunless and until Defendants conduct and publish the required Privacy Impact Assessment(s). \nJurisdiction and Venue \n3.  This Court has subject matter jurisdiction over this action under 28 U.S.C. § 1331,  \n5 U.S.C. § 702, and 5 U.S.C. § 704. This Court has personal jurisdiction over Defendants USPS \nand USPIS. \n4.  Venue is proper in this district under 5 U.S.C. § 703 and 28 U.S.C. § 1391. \nParties \n5.  Plaintiff EPIC is a Washington, D.C. nonprofit organization established in 1994 to focus \npublic attention on emerging privacy and civil liberties issues. Central to EPIC’s mission is \noversight and analysis of government data collection activities.  \n6.  EPIC is a dues-paying membership organization, as set forth in the EPIC Articles of \nIncorporation1 and the EPIC Bylaws.2 EPIC is governed by a Board of Directors, all of whom \n“must be Members of” EPIC.3 \n7.  EPIC’s Members are “distinguished experts in law, technology, and public policy.”4 New \nMembers are designated by EPIC following “nomination by the current Members and a vote of \nthe Board [of Directors.]”5 \n\t\n1 EPIC, Articles of Incorporation (2018) (“The Corporation [EPIC] . . . may refer to people as \n‘members’ pursuant to D.C. Code § 29-404.01, and the qualifications, rights, and privileges of \nsuch people shall be as set forth in the bylaws.”). \n2 EPIC, Bylaws of the Electronic Privacy Information Center § 2.02 (as amended Jan. 26, 2018), \nhttps://epic.org/epic/bylaws.pdf. \n3 Id. \n4 Id. § 5.01. \n5 Id. \n  2 \n\n8.  EPIC routinely disseminates information to the public through the EPIC website, the \nEPIC Alert, and various other news organizations. EPIC is a representative of the news media. \nEPIC v. DOD, 241 F. Supp. 2d 5, 15 (D.D.C. 2003). \n9.  EPIC regularly seeks to halt unlawful surveillance and enforce mandatory publication of \nPrivacy Impact Assessments through litigation under the E-Government Act of 2002. In EPIC v. \nDepartment of Commerce, 928 F.3d 95 (D.C. Cir. 2019), EPIC challenged the Census Bureau’s \nfailure to conduct and publish a PIA before collecting citizenship data through the 2020 Census.6 \nThe citizenship question was ultimately withdrawn by the Bureau. In EPIC v. DHS, No. 18-1268 \n(D.D.C. filed May 30, 2018), EPIC challenged the failure of the Department of Homeland \nSecurity to publish a PIA for a system designed to track journalists, bloggers, and social media \nusers.7 EPIC’s suit revealed that the DHS had unlawfully failed to conduct a PIA prior to \ndeveloping the “Media Monitoring Services” platform and secured a public commitment from \nthe agency that it was not using the system.8 EPIC also challenged the unlawful collection of \npersonal voter data by the Presidential Advisory Commission on Election Integrity in EPIC v. \nCommission, 878 F.3d 371 (D.C. Cir. 2017).9  EPIC’s suit led the Commission to suspend data \ncollection, discontinue the use of an unsafe computer server, and delete voter information that \nhad been illegally obtained.   \n10.  Defendant USPS is a federal agency within the meaning of 44 U.S.C. § 3502(1) and 5 \nU.S.C. § 701(b)(1) and is headquartered in Washington, D.C. \n\t\n6 EPIC, EPIC v. Commerce (Census Privacy), https://epic.org/privacy/litigation/pia/epic-v-\ncommerce/default.html. \n7 EPIC, EPIC v. DHS (Media Monitoring Services), https://epic.org/foia/dhs/media-monitoring-\nservices/. \n8 Id. \n9 EPIC, EPIC v. Presidential Election Commission, https://epic.org/privacy/litigation/voter/epic-\nv-commission/.  \n  3 \n\n11.  Defendant USPIS is a federal agency within the meaning of 44 U.S.C. § 3502(1) and 5 \nU.S.C. § 701(b)(1) and is headquartered in Washington, D.C. \nDefendants’ Obligation to Conduct and Publish Privacy Impact Assessments \n12.  Under section 208 of the E-Government Act, federal agencies—including the United \nStates Postal Service and United States Postal Inspection Service—are required to “conduct,” \n“ensure the review of,” and “make . . . publicly available” a Privacy Impact Assessment before \n(1) “initiating a new collection of information” that will be electronically stored or transmitted \n“in an identifiable form,” or (2) “developing or procuring information technology that collects, \nmaintains, or disseminates information that is in an identifiable form.”10  \n13.  Information is in an identifiable form if it “permits the identity of an individual to whom \nthe information applies to be reasonably inferred by either direct or indirect means.”11 This \nincludes “combination[s] of gender, race, birth date, geographic indicator, and other descriptors” \nthat would permit\tindividuals to be uniquely identified, even in the absence of names, social \nsecurity numbers, or other direct identifiers.12 This definition also encompasses facial images, \nwhich can be used to identify a individuals through visual inspection and/or the use of facial \nrecognition technology.  \n14.  The Office of Budget and Management (“OMB”), which oversees enforcement of the E- \nGovernment Act government-wide, defines a PIA as: \n[A]n analysis of how information is handled: (i) to ensure handling conforms to \napplicable legal, regulatory, and policy requirements regarding privacy, (ii) to \ndetermine  the  risks  and  effects  of  collecting,  maintaining  and  disseminating \n\t\n10 E-Government Act § 208(b)(1). \n11 Id. § 208(d). \n12 Joshua B. Bolten, Dir., Office of Mgmt. & Budget, Executive Office of the President, M03-22, \nMemorandum for Heads of Executive Departments and Agencies, Attachment A § II.A.2 (Sept. \n26, 2003), https://georgewbush-whitehouse.archives.gov/omb/memoranda/m03-22.html \n[hereinafter OMB Guidance]. \n  4 \n\ninformation in identifiable form in an electronic information system, and (iii) to \nexamine  and  evaluate  protections  and  alternative  processes  for  handling \ninformation to mitigate potential privacy risks.13 \n \n15.  The USPS “has adopted policies to comply” with the E-Government Act’s privacy \nprovisions, “includ[ing] the requirement[] to conduct privacy impact assessments[.].”14 The \nUSPS conducts PIAs within its Business Impact Assessment (“BIA”) process.15 A PIA/BIA \n“must be completed for all information resources, whether the information resource is developed \nin house, outsourced or hosted in non-Postal Service facilities.”16 \n16.  To satisfy section 208, a PIA must specify, inter alia, “what information is to be \ncollected”; “why the information is being collected”; “the intended use [by] the agency of the\t\ninformation”; “with whom the information will be shared”; “what notice or opportunities for \nconsent would be provided”; and “how the information will be secured.”17 Additionally, a PIA \n“must identify what choices the agency made regarding an IT system or collection of information \nas a result of performing the PIA.”18  \n17.  Where a PIA is required for a “major information system,” the PIA should “reflect more \nextensive analyses of: 1. the consequences of collection and flow of information, 2. the \nalternatives to collection and handling as designed, 3. the appropriate measures to mitigate risks \nidentified for each alternative and, 4. the rationale for the final design choice or business \n\t\n13 Id. § II.A.6. \n14 U.S. Postal Serv., Guide to Privacy, the Freedom of Information Act and Records \nManagement § 2-3.4 (2019), https://about.usps.com/handbooks/as353/as353c2_006.htm (“E–\nGovernment Act of 2002”). \n15 U.S. Postal Serv., Information Security § 3-3 (June 2021), \nhttps://about.usps.com/handbooks/as805.pdf. \n16 Id. § 3-3.1. \n17 E-Government Act § 208(b)(2)(B)(ii). \n18 OMB Guidance § II.C.1.b. \n  5 \n\nprocess.”19 A “major information system” includes any “system or project that requires special\t\nmanagement attention because of its: (i) importance to the agency mission, (ii) high \ndevelopment, operating and maintenance costs, (iii) high risk, (iv) high return, (v) significant \nrole in the administration of an agency’s programs, finances, property or other resources.”20 In \nthese circumstances, a mere “checklist or template” will not satisfy an agency’s PIA obligation.21 \n18.  According to the OMB, “Agencies should commence a PIA when they begin to develop a \nnew or significantly modified [information technology] system or information collection[.]”22 \nThus, when an agency intends to “develop . . . projects that collect, maintain or disseminate \ninformation in identifiable form from or about members of the public,” the agency must first \nconduct a PIA.23 \n19.  An agency’s privacy obligations under the E-Government Act do not end with the initial \npublication of a Privacy Impact Assessment. Rather, a PIA must be revised continually “to \nreflect changed information collection authorities, business processes or other factors affecting \nthe collection and handling of information in identifiable form.”24 Specifically, a PIA must be \n“updated as necessary where a system change creates new privacy risks,” including “when new \ninformation in identifiable form added to a collection raises the risks to personal privacy (for \nexample, the addition of health or financial information)”; “when agencies work together on \nshared functions involving significant new uses or exchanges of information in identifiable \nform”; and “when agencies adopt or alter business processes so that government databases \n\t\n19 Id. § II.C.2.a.ii. \n20 Id. § II.A.4. \n21 Id. § II.C.2.a.iii. \n22 Id. § II.C.2 (emphasis added). \n23 Id. § II.B.1.a. \n24 Id. § II.B.4.  \n  6 \n\nholding information in identifiable form are merged, centralized, matched with other databases \nor otherwise significantly manipulated.”25 \nFacts \nDefendants’ Use of Surveillance Tools and Collection of Personal Data Under iCOP \n20.  The United States Postal Service and United States Postal Inspection Service operate a \nsurveillance program known as the Internet Covert Operations Program (“iCOP”).26 This \nprogram has existed since at least 2018 as “one of seven functional groups within the Inspection \nService Cybercrime program.”27 According to the Postal Inspection Service, iCOP is intended to \nfacilitate “the identification, disruption, and dismantling of individuals and organizations that use \nthe mail or USPS online tools to facilitate black market internet trade or other illegal \nactivities.”28 USPIS states that the broader Inspection Service Cybercrime program \n“investigate[s] security incidents and criminal activities affecting the USPS computer network, \nUSPS E-commerce products and services, and field investigations related to the Dark Web and \ncryptocurrencies.”29 \n21.  As part of iCOP, Defendants have used multiple electronic surveillance technologies, \nincluding facial recognition and social media monitoring tools.30  \n\t\n25 Id. § II.B.2.d. \n26 Jana Winter, The Postal Service is running a 'covert operations program' that monitors \nAmericans' social media posts, Yahoo News (Apr. 21, 2021), https://news.yahoo.com/the-postal-\nservice-is-running-a-running-a-covert-operations-program-that-monitors-americans-social-\nmedia-posts-160022919.html. \n27 U.S. Postal Inspection Serv., Fiscal Year 2019 Annual Report 36 (Feb. 2020), \nhttps://www.uspis.gov/wp-content/uploads/2020/02/FY-2019-annual-report-508-web.pdf.  \n28 Id. \n29 Id. \n30 Jana Winter, Facial recognition, fake identities and digital surveillance tools: Inside the post \noffice's covert internet operations program, Yahoo News (May 18, 2021), \nhttps://news.yahoo.com/facial-recognition-fake-identities-and-digital-surveillance-tools-inside-\nthe-post-offices-covert-internet-operations-program-214234762.html. \n  7 \n\n22.  According to the Government Accountability Office, Defendants used Clearview AI’s \nfacial recognition service in the summer of 2020 to “help identify individuals suspected of \ncriminal activity that took place in conjunction with the period of civil unrest, riots, or \nprotests.”31  \n23.  Clearview AI performs facial recognition matching using a database of over 3 billion \nimages scraped from Facebook and other social media sites. Clearview AI’s combined facial \nrecognition and social media monitoring product identifies (or purports to identify) an individual \nfrom their image and provides the user with links to the individual’s personal information, social \nmedia profiles, and other related online material.32  \n24.  Clearview AI has incurred extensive public backlash and legal scrutiny over its bulk \nscraping of images from social media websites without user consent and contrary to those \nwebsites’ terms of service.33 The company is currently facing legal action in the European \nUnion, Canada, and Illinois over its web-scraping practices.34 \n\t\n31 U.S. Gov’t Accountability Office, Facial Recognition Technology: Federal Law Enforcement \nAgencies Should Better Assess Privacy and Other Risks (June 3, 2021), \nhttps://www.gao.gov/assets/gao-21-518.pdf.  \n32 Kashmir Hill, The Secretive Company That Might End Privacy as We Know It, N.Y. Times \n(Jan. 18, 2020), https://www.nytimes.com/2020/01/18/technology/clearview-privacy-facial-\nrecognition.html.  \n33 Louise Matsakis, Scraping the Web Is a Powerful Tool. Clearview AI Abused It., Wired (Jan. \n25, 2020), https://www.wired.com/story/clearview-ai-scraping-web/,  \n34 Ian Carlos Campbell, Clearview AI hit with sweeping legal complaints over controversial face \nscraping in Europe, The Verge (May 27, 2021), https://www.theverge.com/2021/5/27/\n22455446/clearview-ai-legal-privacy-complaint-privacy-international-facial-recognition-eu; \nOffice of the Privacy Comm’r of Canada, Joint investigation of Clearview AI, Inc. by the Office \nof the Privacy Commissioner of Canada (Feb. 2, 2021), https://www.priv.gc.ca/en/opc-actions-\nand-decisions/investigations/investigations-into-businesses/2021/pipeda-2021-001/#toc2 (finding \nthat Clearview AI violated Canadian law by obtaining images of individuals without consent and \nbreached websites’ terms of service).  \n  8 \n\n25.  Defendants also used a trial of Vigilant Solutions’ facial recognition service for at least \nten months in 2017.35 Vigilant Solutions’ facial recognition product conducts image matching \nagainst a database of millions of images and can also perform “near-real-time monitoring” of \nvideo cameras against one or more watchlists.36 Vigilant Solutions is also a provider of license \nplate reader surveillance technology. \n26.  Facial recognition services such as Clearview AI and Vigilant enable Defendants to \nidentify individuals and collect personally identifiable information, including names, \nbiographical information, and the contents of social media pages. \n27.  Defendants have also used Zignal Labs’ social media surveillance platform, which is \ncapable of tracking a social media “narrative” back to the individual who initiated the narrative \nand of identifying specific individuals as “influencers.”37 \n28.  Defendants have also used Nfusion software to create anonymous email accounts and \nsocial media profiles for information collection.38 \n29.  From 2018 to 2019, Defendants, acting through the iCOP, used surveillance tools to \nidentify at least nine previously unknown individuals.39 \n30.  Defendants have used Clearview AI to “to help identify unknown targets in an \ninvestigation or locate additional social media accounts for known individuals[.]”40  \n\t\n35 Id. at 14. \n36 Vigilant Solutions, Vigilant FaceAlert Facial Detection and Alerting (2021), \nhttps://www.motorolasolutions.com/en_us/products/command-center-software/real-time-\nintelligence-operations/vigilant-facealert-facial-recognition-software.html.  \n37 Winter, supra note 30. \n38 Id. \n39 US Postal Inspection Serv., supra note 27, at 36. \n40 Winter, supra note 30. \n  9 \n\n31.  Defendants have used Zignal Labs’ social media surveillance platform and Nfusion \nsoftware to collect social media information, including profiles and posts. \n32.  Under iCOP, the USPIS “assigns its analysts to patrol social media to look for \ninformation on upcoming protests and search for potential threats of violence.”41 For example, a \nMarch 2021 iCOP intelligence bulletin lists individual social media posts deemed \n“inflammatory” by the program.42  \n33.  Defendants are known to have used social media monitoring software in the spring and \nsummer of 2020 and again in spring of 2021. A March 2021 USPIS bulletin stated that \n“[a]nalysts with the United States Postal Inspection Service (USPIS) Internet Covert Operations \nProgram (iCOP) monitored significant activity regarding planned protests occurring \ninternationally and domestically on March 20, 2021.”43 Defendants distributed individuals’ \nsocial media posts containing identifying information in the bulletin.44 According to Yahoo \nNews, Defendants monitored Facebook, Parler, Telegram, and other social media sites during \nthis time period.45 \n34.  By using Clearview AI, Defendants undertook new collections of personally identifiable \ninformation, including facial images, identities derived from facial recognition matches, and \nsocial media accounts directly linked to identified individuals. \n\t\n41 Id. \n42 Id.; U.S. Postal Inspection Serv., Situational Awareness Bulletin (Mar. 16, 2021), available at \nhttps://www.scribd.com/document/503807748/Post-Office-Redacted.  \n43 Id. \n44 Id. \n45 Winter, supra note 26. \n  10 \n\n35.  By using social media analysis and covert intelligence gathering software to collect social \nmedia accounts, posts, and identifying information, Defendants undertook new collections of \npersonally identifiable information. \nDefendants’ Unlawful Failure to Assess the Privacy Impact of iCOP \n36.  To date, Defendants have not conducted or published a Privacy Impact Assessment \nconcerning the Internet Covert Operations Program, the facial recognition and social media \nmonitoring tools procured and used under iCOP, or the collection of personal information \ninitiated under iCOP. \n37.  The USPS Privacy and Records Management Office (“USPS Privacy Office”) maintains \na list of PIAs on the USPS website.46 \n38.  The filename of that list is “business-impact-assessment-8-2010.rtf,” which indicates that \nthe USPS Privacy Office has not updated the list since August 2010. \n39.  None of the PIAs listed on the USPS website address iCOP, the facial recognition and \nsocial media monitoring tools procured and used under iCOP, or the collection of personal \ninformation initiated under iCOP. \n40.  The USPS does not proactively publish PIAs on its website. Instead, the USPS Privacy \nOffice claims to comply with the E-Government Act by offering PIAs upon request submitted to \nthe Privacy Office’s public email address, privacy@usps.com.  \nEPIC’s Attempts to Obtain the iCOP PIA Under FOIA \n41.  On May 21, 2021, EPIC sent a Freedom of Information Act (“FOIA”) request to USPIS \nheadquarters seeking the “required Privacy Impact Assessment(s)/Business Impact \n\t\n46 U.S.  Postal Serv., Privacy Policy on Privacy Impact Assessments (2021), \nhttps://about.usps.com/who-we-are/privacy-policy/privacy-impact-assessments.htm. \n  11 \n\nAssessment(s) for the Internet Covert Operations Program (“iCOP”) and/or facial recognition \nand social media monitoring systems used by iCOP” and other documents related to the PIA. See \nEx. A. \n42.  On June 2, 2021, EPIC received a final response from the USPIS FOIA Unit stating that \n“A search was conducted of the Postal Inspection Service records at National Headquarters.  \nThis search disclosed no records.” See Ex. B. \n43.  On the day that EPIC sent its FOIA request to USPIS—May 21, 2021—EPIC also sent a \ncopy of the same request to the USPS Privacy Office. \n44.  On May 26, 2021 the USPS Privacy Office confirmed receipt of EPIC’s request. \n45.  On May 26, 2021 EPIC received a determination from USPS Privacy and Records \nManagement Information Specialist Tai Thompson concluding that the Postal Service \ncomponent of USPS “is not the appropriate agency to respond to [EPIC’s] request.” Thompson \nstated that she had “forwarded [EPIC’s] request to the FOIA Requester Service Center for the \nInspection Service for action and direct response to [EPIC].” The USPS Privacy Office stated \nthat the USPIS was the agency responsible for maintaining Postal Service law enforcement \nrecords. \n46.   USPS Privacy and Records Management closed EPIC’s FOIA request without \nperforming a search. See Ex. C. \n47.  On May 26, 2021 EPIC Law Fellow Jake Wiener responded to Ms. Thompson by email, \nasking the USPS Privacy Office to reconsider the determination. Mr. Wiener explained that the \nPostal Service Privacy Office is responsible for conducting Privacy Impact Assessments for both \n  12 \n\nthe USPS and the USPIS.47 As such, the USPS Privacy Office was likely to have the iCOP PIA \n(if one was conducted). \n48.  EPIC received no response to its May 26, 2021 email. \n49.  One June 14, 2021, EPIC submitted a renewed FOIA request to the USPS Privacy Office \nseeking the iCOP PIA and clarifying why the USPS Privacy Office was likely to have the iCOP \nPIA (if one was conducted). EPIC noted that the USPS Privacy Office is responsible for creating \nand maintaining PIAs for all USPS components. \n50.  On June 23, 2021 the USPS Privacy Office determined that EPIC’s June 14 request was \nduplicative of EPIC’s May 26 request and closed the renewed request without performing a \nsearch. \n51.  EPIC did not receive a PIA for iCOP and/or the facial recognition and social media \nmonitoring tools procured and used under iCOP in response to any of its FOIA requests. \nEPIC’s Attempts to Obtain the iCOP PIA Directly From the USPS Privacy Office \n52.  On May 25, 2021, EPIC Law Fellow Jake Wiener sent an email and letter to the USPS \nPrivacy Office’s publicly listed email addresses (privacy@usps.gov and privacy@usps.com) \nrequesting the iCOP PIA. See Ex. D. \n53.  On June 2, 2021 EPIC fellow Jake Wiener sent a follow-up email to the Privacy Office’s \npublic email accounts again requesting the iCOP PIA and seeking to confirm if such a PIA \nexists. \n\t\n47 See U.S. Postal Serv., Privacy Impact Assessments/Business Impact Assessments (2010), \nhttps://about.usps.com/who-we-are/privacy-policy/business-impact-assessment-8-2010.rtf \n(listing Privacy Impact Assessments for, inter alia, the “Inspection Service Integrated \nInformation System (ISIIS)” and the “Inspection Service National Assets Tracking System \n(ISNATS)”).  \n  13 \n\n54.  To date EPIC has received no response from the USPS Privacy Office to these inquiries \nand has not received a PIA for iCOP and/or the facial recognition and social media monitoring \ntools procured and used under iCOP. \nCount I \nViolation of APA: Unlawful Agency Action \n55.  Plaintiff asserts and incorporates by reference paragraphs 1–54. \n56.  Defendants have unlawfully (1) initiated the Internet Covert Operations Program, (2) \nprocured and used facial recognition and social media monitoring tools under the iCOP, and (3) \nused facial recognition and social media monitoring tools to initiate or significantly modify \ncollections of personal information under the iCOP without first conducting and publishing the \nfull and complete Privacy Impact Assessment(s) required by section 208(b) of the E-Government \nAct. \n57.  In violating section 208(b) the E-Government Act, Defendants have taken agency actions \nthat are arbitrary, capricious, an abuse of discretion, and otherwise not in accordance with law \nunder 5 U.S.C. § 706(2)(a) and short of statutory right under 5 U.S.C. § 706(2)(c). \n58.  Defendants’ initiation of the iCOP, procurement and use of facial recognition and social \nmedia monitoring tools, and collection of personal information are final agency actions within \nthe meaning of 5 U.S.C. § 704. \n59.  Plaintiff EPIC is adversely affected, aggrieved, and injured in fact by Defendants’ \nactions. By initiating the iCOP, procuring and using facial recognition and social media \nmonitoring tools, and collecting personal information without first publishing the full and \ncomplete Privacy Impact Assessment(s) required by section 208(b) of E-Government Act, \nDefendants have frustrated Plaintiff’s longstanding mission to educate the public about the \n  14 \n\ngovernment’s collection of personally identifiable information and—in particular—about the \nunique privacy harms caused by advanced electronic surveillance technologies.  \n60.  Plaintiff EPIC is also adversely affected, aggrieved, and injured in fact by Defendants’ \nactions through EPIC’s Members. EPIC’s Members, many of whom reside in the United States, \nuse social media platforms including Facebook and Twitter. Clearview AI conducted bulk \nscraping of images from social media sites used by EPIC’s members, making it virtually certain \nthat EPIC’s Members are included in Clearview AI’s database of 3 billion facial images. \nDefendants then procured the Clearview AI system and used the personal information contained \nin the database to conduct facial recognition queries and comparisons. Likewise, EPIC’s \nMembers were active on social media platforms in the summer of 2020, when Defendants are \nknown to have used social media monitoring tools to collect the personal data of platform users. \nBy procuring facial recognition and social media tools and using those tools to collect and \nprocess personal information without first publishing the Privacy Impact Assessment(s) required \nby section 208(b) of the E-Government Act, Defendants have unlawfully denied EPIC’s \nMembers—and by extension, EPIC—a full and timely assessment of how their privacy interests \nwould and will be affected. See Exs. E, F. \n61.  Plaintiff’s initiation of the iCOP, procurement and use of facial recognition and social \nmedia monitoring tools, and collection of personal information without first completing and \npublishing the requisite Privacy Impact Assessments(s) prevented EPIC from obtaining \ninformation about the iCOP under the Freedom of Information Act at the time EPIC was legally \nentitled to it, thereby denying EPIC’s Members—and by extension, EPIC—the ability to assess \nhow their privacy interests have been affected by Defendants’ use of facial recognition and social \nmedia monitoring tools. \n  15 \n\n62.  Plaintiff has exhausted all applicable administrative remedies.  \nCount II \nViolation of APA: Agency Action Unlawfully Withheld \n63.  Plaintiff asserts and incorporates by reference paragraphs 1-54. \n64.  Defendants have failed to conduct and publish the Privacy Impact Assessment(s) required \nby section 208(b) of the E-Government Act before (1) initiating the iCOP, (2) procuring and \nusing facial recognition and social media monitoring tools under the iCOP, and (3) using facial \nrecognition and social media monitoring tools to initiate or significantly modify collections of \npersonal information under the iCOP. \n65.  In failing to take the steps required by section 208(b) of the E-Government Act, \nDefendants have unlawfully withheld or unreasonably delayed agency action in violation of 5 \nU.S.C. § 706(1). \n66.  Plaintiff EPIC is adversely affected, aggrieved, and injured in fact by Defendants’ \ninaction. By failing to publish the full and complete Privacy Impact Assessment(s) required by \nsection 208(b) of the E-Government Act before initiating the iCOP, procuring and using of facial \nrecognition and social media monitoring tools, and collecting personal information, Defendants \nhave frustrated Plaintiff’s longstanding mission to educate the public about the government’s \ncollection of personally identifiable information and—in particular—about the unique privacy \nharms caused by advanced electronic surveillance technologies.  \n67.  By failing to create the required Privacy Impact Assessment(s), Defendants have \nunlawfully denied Plaintiff EPIC access to information about the iCOP and Defendants’ use of \nfacial recognition and social media monitoring tools that EPIC would have otherwise received \nunder the Freedom of Information Act, 5 U.S.C. § 552. Plaintiffs have a statutory right to access \n  16 \n\nthe information in Privacy Impact Assessments under the Freedom of Information Act. By \nprocuring and using facial recognition and social media monitoring tools without first conducting \nthe requisite Privacy Impact Assessment(s), Defendants denied EPIC timely access to the \ninformation that it should have received in response to its FOIA request, causing EPIC to suffer \nan injury in fact. Waterkeeper Alliance v. Environmental Protection Agency, 853 F.3d 527 (D.C. \nCir. 2017). \n68.  Plaintiff EPIC is also adversely affected, aggrieved, and injured in fact by Defendants’ \nactions through EPIC’s Members. EPIC’s Members, many of whom reside in the United States, \nuse social media platforms including Facebook and Twitter. Clearview AI conducted bulk \nscraping of images from the social media sites used by EPIC’s members, making it virtually \ncertain that EPIC’s Members are included in Clearview AI’s database of 3 billion facial images. \nDefendants then procured the Clearview AI system and used the personal information contained \nin Clearview AI’s database to conduct facial recognition queries and comparisons. Likewise, \nEPIC’s Members were active on social media platforms in the summer of 2020, when \nDefendants are known to have used social media monitoring tools to collect the personal data of \nplatform users. By procuring facial recognition and social media tools and using those tools to \ncollect and process personal information without first publishing the Privacy Impact \nAssessment(s) required by section 208(b) of the E-Government Act, Defendants have unlawfully \nwithheld from EPIC’s Members—and by extension, EPIC—a full and timely assessment of how \ntheir privacy interests would and will be affected. See Exs. E, F. \n69.  Plaintiff has exhausted all applicable administrative remedies.  \nRequested Relief \nWHEREFORE, Plaintiff prays that this Court: \n  17 \n\nA. Hold unlawful and set aside Defendants’ initiation of the Internet Covert Operations \nProgram, Defendants’ procurement and use of facial recognition and social media \nsurveillance tools through iCOP, and Defendants’ collection of personal information \nusing such tools; \nB.  Order Defendants to conduct, review, and publish the full and complete Privacy Impact \nAssessment(s) required by section 208(b) of E-Government Act for the Internet Covert \nOperations Program, for any facial recognition and social media surveillance tools \nprocured or used under iCOP, and for any collection of personal information initiated or \nsignificantly modified under iCOP; \nC.  Order Defendant to suspend the Internet Covert Operations Program and to and cease and \ndesist from any use of facial recognition and social media surveillance tools thereunder \nuntil the Defendants have conducted, reviewed, and published the full and complete \nPrivacy Impact Assessment(s) required by section 208(b) of E-Government Act; \nD. Issue a declaration of the rights and other legal relations of the parties under 28 U.S.C. § \n2201(a) with respect to all claims; \nE.  Award EPIC costs and reasonable attorney’s fees incurred in this action; and \nF.  Grant such other relief as the Court may deem just and proper. \n \nRespectfully Submitted, \nALAN BUTLER, D.C. Bar #1012128 \nEPIC President and Executive Director \n \n/s/ John Davisson   \nJOHN L. DAVISSON, D.C. Bar #1531914 \nEPIC Senior Counsel \n \n  18 \n\nELECTRONIC PRIVACY \nINFORMATION CENTER \n1519 New Hampshire Ave, N.W. \nWashington, D.C. 20036 \n(202) 483-1140 (telephone)    \n(202) 483-1248 (facsimile) \n \nAttorneys for Plaintiff EPIC \n \n \nDated: August 12, 2021       \n \n \n  19 ",
+      "document_type_other": "",
+      "external_url": "https://epic.org/privacy/litigation/EPIC%20v.%20USPS,%20No.%2021-2156%20(D.D.C.)%20-%20Complaint.pdf",
+      "ecf_number": "1",
+      "clearinghouse_link": "clearinghouse.net/doc/112448"
+    },
+    {
+      "date": null,
+      "date_is_estimate": false,
+      "date_not_available": false,
+      "description": null,
+      "document_source": null,
+      "document_status": null,
+      "document_type": null,
+      "order_type": null,
+      "citation_paren": null,
+      "cite_1_page": null,
+      "cite_1_reporter": null,
+      "cite_1_vol": null,
+      "cite_2_page": null,
+      "cite_2_reporter": null,
+      "cite_2_vol": null,
+      "cite_3_page": null,
+      "cite_3_reporter": null,
+      "cite_3_vol": null,
+      "citation_status": null,
+      "court": null,
+      "no_title": false,
+      "party_types": [],
+      "per_curium": false,
+      "is_core_document": true,
+      "id": 113903,
+      "file": null,
+      "title": null,
+      "text": null,
+      "document_type_other": null,
+      "external_url": null,
+      "ecf_number": null,
+      "clearinghouse_link": "clearinghouse.net/doc/113903"
+    }
+  ],
+  "document_count": 2
+}

@@ -1,0 +1,223 @@
+{
+  "case_id": 11142,
+  "fetched_at": "2025-10-22T00:13:13.723517",
+  "case_data": {
+    "attorney_orgs": [],
+    "available_documents": [
+      "Complaint (any)",
+      "Non-settlement Outcome",
+      "Any published opinion"
+    ],
+    "case_defendants": [
+      {
+        "defendant_level": null,
+        "institution": "",
+        "institution_alt_state": null,
+        "institution_city": "",
+        "institution_county": null,
+        "name": "Commonwealth of Kentucky",
+        "defendant_level_other": "",
+        "is_active": true
+      },
+      {
+        "defendant_level": null,
+        "institution": "",
+        "institution_alt_state": null,
+        "institution_city": "",
+        "institution_county": null,
+        "name": "Justice and Public Safety Cabinet",
+        "defendant_level_other": "",
+        "is_active": true
+      },
+      {
+        "defendant_level": null,
+        "institution": "",
+        "institution_alt_state": null,
+        "institution_city": "",
+        "institution_county": null,
+        "name": "Kentucky Department of Corrections",
+        "defendant_level_other": "",
+        "is_active": true
+      },
+      {
+        "defendant_level": null,
+        "institution": "",
+        "institution_alt_state": null,
+        "institution_city": "",
+        "institution_county": null,
+        "name": "Commonwealth of Kentucky Finance and Administration Cabinet",
+        "defendant_level_other": "",
+        "is_active": true
+      },
+      {
+        "defendant_level": null,
+        "institution": "",
+        "institution_alt_state": null,
+        "institution_city": "",
+        "institution_county": null,
+        "name": "Kentucky General Assembly",
+        "defendant_level_other": "",
+        "is_active": true
+      }
+    ],
+    "case_ongoing": "No",
+    "case_status": "Approved",
+    "case_types": [
+      "Jail Conditions"
+    ],
+    "cause_other": "",
+    "causes": [
+      "State law"
+    ],
+    "class_action_granted": "Not sought",
+    "class_action_sought": "No",
+    "closing_year": null,
+    "constitutional_clause": [],
+    "content_of_injunction": [],
+    "court": "Kentucky state trial court",
+    "custom_issues": [],
+    "defendant_payment": "",
+    "defendant_type": [],
+    "docket_status": "None",
+    "facility_type": [
+      {
+        "value": "Government-run"
+      }
+    ],
+    "filing_date": null,
+    "filing_year": 2008,
+    "id": 11142,
+    "injunction_duration": "",
+    "issues": [],
+    "last_checked_date": "2022-04-08T00:00:00-04:00",
+    "main_docket": {
+      "id": 31905,
+      "docket_entries": [],
+      "docket_case_type": "",
+      "docket_year": 2008,
+      "docket_filing_number": 1851,
+      "is_main_docket": true,
+      "court": "Kentucky state trial court",
+      "state": "Kentucky",
+      "docket_office_number": "",
+      "docket_number_manual": "08-CI-1851",
+      "scales_html": null,
+      "recap_link": null,
+      "is_active": true
+    },
+    "name": "Kentucky County Judge/Executive Association, Inc. (and 112 Counties) v. Commonwealth of KY, Justice & Public Safety Cabinet, Department of Corrections",
+    "never_filed": false,
+    "non_docket_case_number": "",
+    "non_docket_case_number_type": null,
+    "non_docket_case_number_type_other": "",
+    "order_end_year": null,
+    "order_start_year": null,
+    "permanent_injunction": false,
+    "plaintiff_description": "Kentucky County Judge Executive Association along with the Fiscal Courts of most or all of Kentucky's Counties",
+    "plaintiff_type": [
+      {
+        "value": "State Plaintiff"
+      }
+    ],
+    "prevailing_party": "Unknown",
+    "pro_se_status": "No",
+    "public_interest_lawyer": "No",
+    "related_cases": [],
+    "relief_natures": [
+      "Unknown"
+    ],
+    "relief_nature_other": "",
+    "relief_sources": [
+      "Unknown"
+    ],
+    "settlement_agreement": [],
+    "settlement_judgment_date": null,
+    "settlement_judgment_year": null,
+    "special_collections": [],
+    "special_case_type": [],
+    "state": "Kentucky",
+    "summary": "<p>The Kentucky County Judge/Executive Association filed this lawsuit against the Kentucky Department of Corrections, Kentucky Finance and Administration Cabinet, and Kentucky General Assembly in Franklin County Circuit Court in Kentucky in 2008. The plaintiff, an organization representing Kentucky's 120 county judge/executives, alleged that Kentucky was obligated under state law to compensate counties for time served in county jail by people later convicted of crimes and sentenced to imprisonment in state prisons. The plaintiff asserted that the state's practice of not compensating counties for the cost of housing these incarcerated people was unlawful, arbitrary and capricious, and a violation of the Fourteenth Amendment Due Process and Equal Protection Clauses and similar state constitutional provisions. The plaintiffs sought declaratory relief and attorney's fees and costs. The Court of Appeals of Kentucky ruled against the plaintiff in a lawsuit based on similar grounds in 1969. 938 S.W.2d 582.</p>",
+    "summary_published_date": "2023-11-19T22:04:12.389334-05:00",
+    "summary_short": "A Kentucky county organization sued Kentucky seeking a declaration that the state was obligated to reimburse the counties for the costs of incarcerating people later convicted and sentenced to imprisonment in state prisons.",
+    "summary_tiny": "New in the Clearinghouse: In 2008, Kentucky county organization sued the state, seeking reimbursement for the costs of incarcerating people later convicted and sentenced to imprisonment in state prisons. The counties lost.",
+    "terminating_date": null,
+    "clearinghouse_link": "clearinghouse.net/case/11142",
+    "is_active": true,
+    "case_documents_url": "https://clearinghouse.net/api/v2/documents/?case=11142",
+    "case_dockets_url": "https://clearinghouse.net/api/v2/dockets/?case=11142",
+    "case_resources_url": "https://clearinghouse.net/api/v2/resources/?case=11142"
+  },
+  "documents": [
+    {
+      "date": "2008-11-01",
+      "date_is_estimate": true,
+      "date_not_available": false,
+      "description": null,
+      "document_source": null,
+      "document_status": "Coding Complete",
+      "document_type": "Complaint",
+      "order_type": null,
+      "citation_paren": null,
+      "cite_1_page": null,
+      "cite_1_reporter": null,
+      "cite_1_vol": null,
+      "cite_2_page": null,
+      "cite_2_reporter": null,
+      "cite_2_vol": null,
+      "cite_3_page": null,
+      "cite_3_reporter": null,
+      "cite_3_vol": null,
+      "citation_status": "Not applicable",
+      "court": "Kentucky state trial court",
+      "no_title": false,
+      "party_types": [
+        "Plaintiff"
+      ],
+      "per_curium": false,
+      "is_core_document": true,
+      "id": 33030,
+      "file": "https://clearinghouse-umich-production.s3.amazonaws.com/media/doc/33030.pdf",
+      "title": "Amended Verified Complaint for Declaratory Judgment",
+      "text": "COMMONWEALTH  OF  KENTUCKY \nFRANKLIN  CIRCUIT  COURT \nDIVISION \nCIVIL  ACTION  NO.:  06-CI- \nKENTUCKY  COUNTY  JUDGE  EXECUTIVE  PLAINTIFFS \nASSOCIATION,  INC. \n115  East  Second  Street \nFrankfort,  Kentucky 40601 \nAND \nADAIR  COUNTY  FISCAL  COURT \nCOLUMBIA,  KENTUCKY \nALLEN  COUNTY  FISCAL  COURT \nSCOTTSVILLE,  KENTUCKY \nANDERSON  COUNTY FISCAL  COURT \nLAWRENCEBURG,  KENTUCKY \nBALLARD  COUNTY  FISCAL  COURT \nWICKLIFFE,  KENTUCKY \nBARREN  COUNTY  FISCAL  COURT \nGLASGOW,  KENTUCKY \nBATH  COUNTY  FISCAL  COURT \nOWINGSVILLE,  KENTUCKY \nBELL  COUNTY  FISCAL  COURT \nPINEVILLE,  KENTUCKY \nBOONE  COUNTY  FISCAL  COURT \nBURLINGTON,  KENTUCKY \nBOURBON  COUNTY  FISCAL  COURT \nPARIS,  KENTUCKY \nBOYD  COUNTY  FISCAL  COURT \nCATLETTSBURG,  KENTUCKY \n\nBOYLE  COUNTY  FISCAL  COURT \nDANVILLE,  KENTUCKY \nBRACKEN  COUNTY  FISCAL  COURT \nBROOKSVILLE,  KENTUCKY \nBRECKINRIDGE  COUNTY  FISCAL  COURT \nHARD1NSBURG,  KENTUCKY \nBREATHITT  COUNTY  FISCAL  COURT \nJACKSON,  KENTUCKY \nBUTLER  COUNTY  FISCAL  COURT \nMORGANTOWN,  KENTUCKY \nCAMPBELL  COUNTY  FISCAL  COURT \nNEWPORT,  KENTUCKY \nCARLISLE  COUNTY  FISCAL  COURT \nBARDWELL,  KENTUCKY \nCARROLL  COUNTY  FISCAL  COURT \nCARROLLTON,  KENTUCKY \nCARTER  COUNTY  FISCAL  COURT \nGRAYSON,  KENTUCKY \nCASEY  COUNTY  FISCAL  COURT \nLIBERTY,  KENTUCKY \nCLARK  COUNTY  FISCAL  COURT \nWINCHESTER,  KENTUCKY \nCLAY  COUNTY  FISCAL  COURT \nMANCHESTER,  KENTUCKY \nCLINTON  COUNTY  FISCAL  COURT \nALBANY,  KENTUCKY \nCRITTENDEN  COUNTY  FISCAL  COURT \nMARION,  KENTUCKY \nCUMBERLAND  COUNTY  FISCAL  COURT \nBURKESVILLE,  KENTUCKY \nDAVIESS  COUNTY  FISCAL  COURT \n\nOWENSBORO,  KENTUCKY \nEDMONSON  COUNTY  FISCAL  COURT \nBROWNSVILLE,  KENTUCKY \nELLIOTT  COUNTY  FISCAL  COURT \nSANDY  HOOK,  KENTUCKY \nESTILL  COUNTY  FISCAL  COURT \nIRVINE,  KENTUCKY \nFLEMING  COUNTY  FISCAL  COURT \nFLEMINGSBURG,  KENTUCKY \nFLOYD  COUNTY  FISCAL  COURT \nPRESTONSBURG,  KENTUCKY \nFRANKLIN  COUNTY  FISCAL  COURT \nFRANKFORT,  KENTUCKY \nFULTON  COUNTY  FISCAL  COURT \nHICKMAN,  KENTUCKY \nGALLATIN  COUNTY  FISCAL  COURT \nWARSAW,  KENTUCKY \nGARRARD  COUNTY  FISCAL  COURT \nLANCASTER,  KENTUCKY \nGRANT  COUNTY  FISCAL  COURT \nWILLIAMSTOWN,  KENTUCKY \nGREEN  COUNTY  FISCAL  COURT \nGREENSBURG,  KENTUCKY \nGREENUP  COUNTY  FISCAL  COURT \nGREENUP,  KENTUCKY \nHANCOCK  COUNTY  FISCAL  COURT \nHAWESVILLE,  KENTUCKY \nHARDIN  COUNTY  FISCAL  COURT \nELIZABETHTOWN,  KENTUCKY \nHARLAN  COUNTY  FISCAL  COURT \n\nHARLAN,  KENTUCKY \nHARRISON  COUNTY  FISCAL  COURT \nCYNTHIANA,  KENTUCKY \nHART  COUNTY  FISCAL  COURT \nMUNFORDVILLE,  KENTUCKY \nHENDERSON  COUNTY  FISCAL  COURT \nHENDERSON,  KENTUCKY \nHENRY  COUNTY  FISCAL  COURT \nNEW  CASTLE,  KENTUCKY \nHICKMAN  COUNTY  FISCAL  COURT \nCLINTON,  KENTUCKY \nHOPKINS  COUNTY  FISCAL  COURT \nMADSIONVILLE,  KENTUCKY \nJACKSON  COUNTY  FISCAL  COURT \nMCKEE,  KENTUCKY \nJESSAMINE  COUNTY  FISCAL  COURT \nNICHOLASVILLE,  KENTUCKY \nJOHNSON  COUNTY  FISCAL  COURT \nPAINTSVILLE,  KENTUCKY \nKENTON  COUNTY  FISCAL  COURT \nINDEPENDENCE,  KENTUCKY \nKNOTT  COUNTY  FISCAL(cid:127)  COURT \nHINDMAN,  KENTUCKY \nKNOX  COUNTY  FISCAL  COURT \nBARBOURVILLE,  KENTUCKY \nLARUE  COUNTY  FISCAL  COURT \nHODGENVILLE,  KENTUCKY \nLAUREL  COUNTY  FISCAL  COURT \nLONDON,  KENTUCKY \nLAWRENCE  COUNTY  FISCAL  COURT \n\nLOUISA,  KENTUCKY \nLEE  COUNTY  FISCAL  COURT \nBEATTYVILLE,  KENTUCKY \nLESLIE  COUNTY  FISCAL  COURT \nHYDEN,  KENTUCKY \nLETCHER  COUNTY  FISCAL  COURT \nWHITESBURG,  KENTUCKY \nLEWIS  COUNTY  FISCAL  COURT \nVANCEBURG,  KENTUCKY \nL1NCOLN  COUNTY  FISCAL  COURT \nSTANFORD,  KENTUCKY \nLIVINGSTON  COUNTY  FISCAL  COURT \nSMITHLAND,  KENTUCKY \nLOGAN  COUNTY  FISCAL  COURT \nRUSSELLVILLE,  KENTUCKY \nLYON  COUNTY  FISCAL  COURT \nEDDYVILLE,  KENTUCKY \nMAGOFFIN  COUNTY  FISCAL  COURT \nSALYERSVILLE,  KENTUCKY \nMARION  COUNTY  FISCAL  COURT \nLEBANON,  KENTUCKY \nMARSHALL  COUNTY  FISCAL  COURT \nBENTON,  KENTUCKY \nMARTIN  COUNTY  FISCAL  COURT \nINEZ,  KENTUCKY \nMASON  COUNTY  FISCAL  COURT \nMAYSVILLE,  KENTUCKY \nMCCRACKEN  COUNTY  FISCAL  COURT \nPADUCAH,  KENTUCKY \nMCCREARY  COUNTY  FISCAL  COURT \n\nWHITLEY  CITY,  KENTUCKY \nMCLEAN  COUNTY  FISCAL  COURT \nCALHOUN,  KENTUCKY \nMEADE  COUNTY  FISCAL  COURT \nBRANDENBURG,  KENTUCKY \nMENIFEE  COUNTY  FISCAL  COURT \nFRENCHBURG,  KENTUCKY \nMERCER  COUNTY  FISCAL  COURT \nHARRODSBURG,  KENTUCKY \nMETCALFE  COUNTY  FISCAL  COURT \nEDMONTON,  KENTUCKY \nMONROE  COUNTY  FISCAL  COURT \nTOMPKINSVILLE,  KENTUCKY \nMONTGOMERY  COUNTY  FISCAL  COURT \nMOUNT  STERLING,  KENTUCKY \nMORGAN  COUNTY  FISCAL  COURT \nWEST  LIBERTY,  KENTUCKY \nMUHLENBERG  COUNTY  FISCAL  COURT \nGREENVILLE,  KENTUCKY \nNELSON  COUNTY  FISCAL  COURT \nBARDSTOWN,  KENTUCKY \nNICHOLAS  COUNTY  FISCAL  COURT \nCARLISLE,  KENTUCKY \nOHIO  COUNTY  FISCAL  COURT \nHARTFORD,  KENTUCKY \nOLDHAM  COUNTY  FISCAL  COURT \nLA  GRANGE,  KENTUCKY \nOWEN  COUNTY  FISCAL  COURT \nOWENTON,  KENTUCKY \nOWSLEY  COUNTY  FISCAL  COURT \n\nBOONEVILLE,  KENTUCKY \nPENDLETON  COUNTY  FISCAL  COURT \nFALMOUTH,  KENTUCKY \nPERRY  COUNTY  FISCAL  COURT \nHAZARD,  KENTUCKY \nPIKE  COUNTY  FISCAL  COURT \nPIKEVILLE,  KENTUCKY \nPOWELL  COUNTY  FISCAL  COURT \nSTANTON,  KENTUCKY \nPULASKI  COUNTY  FISCAL  COURT \nSOMERSET,  KENTUCKY \nROBERTSON  COUNTY  FISCAL  COURT \nMOUNT  OLIVET,  KENTUCKY \nROCKCASTLE  COUNTY  FISCAL  COURT \nMOUNT  VERNON,  KENTUCKY \nROWAN  COUNTY  FISCAL  COURT \nMOREHEAD,  KENTUCKY \nRUSSELL  COUNTY  FISCAL  COURT \nJAMESTOWN,  KENTUCKY \nSCOTT  COUNTY  FISCAL  COURT \nGEORGETOWN,  KENTUCKY \nSHELBY  COUNTY  FISCAL  COURT \nSHELBYVILLE,  KENTUCKY \nSIMPSON  COUNTY  FISCAL  COURT \nFRANKLIN,  KENTUCKY \nSPENCER  COUNTY  FISCAL  COURT \nTAYLORSVILLE,  KENTUCKY \nTAYLOR  COUNTY  FISCAL  COURT \nCAMPBELLSVILLE,  KENTUCKY \nTODD  COUNTY  FISCAL  COURT \n\nELKTON,  KENTUCKY \nTRIGG  COUNTY  FISCAL  COURT \nCADIZ,  KENTUCKY \nTRIMBLE  COUNTY  FISCAL  COURT \nBEDFORD,  KENTUCKY \nUNION  COUNTY  FISCAL  COURT \nMORGANFIELD,  KENTUCKY \nWARREN  COUNTY  FISCAL  COURT \nBOWLING  GREEN,  KENTUCKY \nWASHINGTON  COUNTY  FISCAL  COURT \nSPRINGFIELD,  KENTUCKY \nWAYNE  COUNTY  FISCAL  COURT \nMONTICELLO,  KENTUCKY \nWEBSTER  COUNTY  FISCAL  COURT \nDIXON,  KENTUCKY \nWHITLEY  COUNTY  FISCAL  COURT \nWILLIAMSBURG,  KENTUCKY \nWOLFE  COUNTY  FISCAL  COURT \nCAMPTON,  KENTUCKY \nWOODFORD  COUNTY  FISCAL  COURT \nVERSAILLES,  KENTUCKY \nv.  AMENDED  VERIFIED  COMPLAINT  FOR \nDECLARATORY  JUDGMENT \nCOMMONWEALTH  OF  KENTUCKY,  JUSTICE \nAND  PUBLIC  SAFETY  CABINET,  KENTUCKY \nDEPARTMENT  OF  CORRECTIONS \nServe:  Attorney  General  Jack  Conway \n700  Capital  Avenue,  Suite  118 \nFrankfort,  Kentucky 40601 \nAnd \n\nServe:  LaDonna  H.  Thompson,  in her official  capacity  Commissioner,  Kentucky \nas \nDepartment  of Corrections. \nCOMMONWEALTH  OF  KENTUCKY  FINANCE  AND \nADMINISTRATION  CABINET \nServe:  Attorney  General  Jack  Conway \n700  Capital  Avenue,  Suite  118 \nFrankfort,  Kentucky 40601 \nAND \nKENTUCKY  GENERAL ASSEMBLY \nServe:  Hon.  Senator David  Williams,  President,  Kentucky  State  Senate \nHon.  Representative  Jody Richards,  Speaker,  Kentucky House  of Representatives \nComes  the Plaintiffs,  Kentucky County Judge  Executive Association,  Inc.  (\"KCJEA\")  and \nthe  above named  County Fiscal  Court  Plaintiffs,  by  counsel,  and pursuant  to  KRS  418.040  et  seq. \nand CR 57, hereby bring this  action seeking a Declaratory Judgment that KRS 431.215  (2) and KRS \n441.025  (1)  are  unconstitutional  because  said  statutes  contravene  the  Kentucky  Constitution  and \ndeclaring  that  the  Commonwealth  Kentucky  is  responsible  for  reimbursement  to  the  counties  for \nexpenses incurred by the counties  for prisoners housed in county jails for which the inmate receives \na  credit  for time  served,  for the reasons  set  forth below: \nTHE  PARTIES \n1.  Plaintiff  is  a  corporation  duly  organized  and  existing  under  the  laws  of  the \nCommonwealth of Kentucky with its principal  office  address  at  115  East  Second  Street,  Frankfort, \nKentucky 40601. \n2.  The  Defendant,  Commonwealth  of  Kentucky,  Justice  and  Public  Safety  Cabinet \n(\"Justice\"),  Kentucky Department of Corrections,  is  a recognized  agency of the Commonwealth of \n\nKentucky and  is  charged  with  the  legal  duty to  house  and  care  for  state  inmates.  Justice  is  located \nat  125  Holmes  Street,  Frankfort,  Kentucky 40601.  Pursuant to  CR 4.04  (6),  Attorney General  Jack \nConway is  the party upon whom process  shall  be  served  in  all  actions  against  the  Commonwealth. \nAttorney  General  Conway's  address  is  200  Capital  Avenue,  Frankfort,  Kentucky 40601. \n3.  The  Defendant.  Commonwealth  of  Kentucky,  Finance  and  Administration  Cabinet \n(\"Finance\") is a recognized agency of the Commonwealth of Kentucky and is charged with the legal \nduty of paying  for the housing  and  care  of state  inmates.  Finance  is  located  at  383  Capitol  Annex, \nFrankfort,  Kentucky 40601.  Pursuant  to  CR  4.04  (6),  Attorney General  Jack  Conway is  the party \nupon  whom  process  shall  be  served  in  all  actions  against  the  Commonwealth.  Attorney  General \nConway's  address  is  200  Capital  Avenue,  Frankfort,  Kentucky 40601. \n4.  The Kentucky General  Assembly is  the  sole  legislative body for  the  Commonwealth  of \nKentucky and is  charged  with the legal  duty of enacting laws  behalf of the  citizens  of Kentucky \non \nwhich  are beneficial  to  the  health  and  welfare  of all  citizens  of the  Commonwealth  and  which  are \nconstitutional.  The Kentucky General  Assembly is joined  in this  action to  give it the opportunity to \naddress  the legal  and  constitutional  issues raised  in this  action relative to  laws  which the Kentucky \nGeneral  Assembly has  previously passed  and  enacted  into  the  law  of the  Commonwealth. \n5.  Jack  Conway is  the Attorney General  of the Commonwealth of Kentucky,  and the agent \nfor  service  of process  of Defendants,  Justice  and  Finance,  pursuant  to  CR  4.04,  as  well  as  legal \nadvisor  of all  state  offices,  departments  and  agencies  pursuant  to  KRS  15.020.  Attorney  General \nConway  is  also  required  to  receive  notice  of the  filing  of the  above-captioned  action,  pursuant  to \nKRS  418.075,  since  it  involves  the validity of a  certain  statute  or  statues  of this  Commonwealth. \n\nJURISDICTION  AND  VENUE \n6.  This  action is brought under KRS  Chapter 418  (the \"Declaratory Judgement Act\").  This \ncourt has jurisdiction over this matter pursuant to  KRS  23  A.010,  and venue is proper in this  Court. \nFACTS  AND  CONTROVERSY \n7.  The  Commonwealth  of Kentucky  takes  the  position  that  it  has  no  legal  obligation  to \nreimburse  counties  for  the  costs  associated  with  housing,  feeding  and  providing  health  care  to \ninmates  charged  with  a  felony  who  are  held  in  county  detention  facilities  while  awaiting  trial  or \nsentencing.  After  sentencing  an  inmate  on  a  felony  charge  the  Commonwealth  of Kentucky treats \nthe inmate in the county detention facility as a state inmate prior to sentencing by granting the inmate \ncredit  for time  served  in the  county facility against  the  sentence the  inmate ultimately has  to  serve \nin  a  state prison. \nThe  Plaintiffs  take  the  position  that  inmates  charged  with  felony  who  ultimately \na  are \nconvicted  of a  felony are  state inmates  for all purposes,  including payment  for the inmates housing \ncosts,  while  incarcerated  prior to  final  sentencing  on  a  felony or  felony charges. \n8.  The  Kentucky  Constitution,  Section  §254,  imposes  upon  the  Commonwealth  of \nKentucky the  responsibility  of providing  for  the  care  and  expenses  of convicts,  and  providing  as \nfollows: \nThe  Commonwealth  shall  maintain  control  of \nthe  discipline,  and  provide  for  all  supplies,  and \nfor the  sanitary  condition  of the  convicts,  and \nthe  labor  only if convicts  be  leased. \nmay \n9.  The legal  financial  obligations  of the  Commonwealth  for prisoners,  is  set  forth  in  KRS \n§431.25  (2)  follows: \nas \nWhen  the judgement  imposes  a  sentence  of death  or \nconfinement  in  the penitentiary,  the  county in which \n\nthe prisoner  is  incarcerated  shall  receive  from  the  State \nTreasury a  fee per day following the  day on  which the \njudgment  rendered,  and  ending the  day that  the \nwas \ndefendant  is  delivered  to  the penitentiary.  The  fee  shall \nbe paid  to  the  County Treasurer  for use  in the  incarceration \nof prisoners  as  provided  in  KRS  441.025. \n10.  The  obligation  of the  counties  for housing  prisoners  is  set  forth  in  KRS  441.025  (1), \nwhich provides: \nThe  fiscal  court  of each  county shall  provide  for \nthe  incarceration  of prisoners  arrested  in  the  county \nor  sentenced  or held by order  of the  courts  in this  county. \n11.  Under KRS  531.120  (3),  an  inmate  is  given  credit  for time  served  in  a  County Jail,  as \nfollows: \n[t]ime  spent  in  custody prior to  the  commencement  of a \nsentence  as  a result  of the  charge  that  culminated  in the \nsentence  shall  be  credited by the  court imposing  sentence \ntoward  service  of the maximum  term  of imprisonment.  If \nthe  sentence  is  to  an  indeterminate  term  of imprisonment, \nthe time  spent  in  custody prior to  the  commencement  of the \nsentence  shall  be  considered  for  all  purposes  as  time \nserved  in prison.  (Emphasis  added). \n12.  The  counties  are  required  to  bear  the  expense  of housing  state  prisoners  who  are \nawaiting  trial  or  sentencing  on  state  felony  charges  and  who  are  subsequently  convicted  and \nsentenced  on  a  felony charge.  However,  the  Commonwealth receives  the benefit  of the time  credit \ngiven to  the inmate for the time spent in a county jail  awaiting trial  and sentencing thereby reducing \nthe  time  the  inmate  will  spend  in  a  state  penitentiary  and  the  Commonwealth  does  not  pay  or \nreimburse  Counties  for  expenses  associated  with  such  incarceration  in  County jails. \n13.  Because of the conflicts between the statutes  and the constitution there  exists  actual \nan \ncontroversy  between  the  parties  regarding  whether  the  Commonwealth  should  pay  for  prisoner \n\nhousing  costs  for prisoners  charged  with  a  felony while  awaiting  trial  or  sentencing that  is  ripe  for \nresolution by this  Court. \nCOUNT  I \n14.  The Plaintiffrealleges and incorporates by reference each and every allegation contained \nin  numerical  paragraphs  1  through  13. \n15.  Because  KRS  531.120  (3)  states  that  time  in  county  custody  is  \"considered  for  all \npurposes\"  as  time  spent  in  state  custody,  an  inmate's  time  in  county  custody  as  a  state  prisoner \nshould be  treated  as  the  state's  financial  obligation,  and  the  Commonwealth  should be required  to \nreimburse  the  counties  for  fees  incurred  for housing  such  convicts. \nCOUNT  II \n16.  The Plaintiffrealleges and incorporates byreference each and every allegation contained \nin numerical  paragraphs  1  through  15. \n17.  The  application  of  KRS  441.025  (1),  KRS  431.215  (2)  and  KRS  532.120  (3) \ncontravenes the mandates of  §  254 of the Kentucky Constitution which places the responsibility for \ninmate  upkeep  on  the  Commonwealth,  and  relies  upon  designations  and  distinctions  that  have  no \nrational  or  reasonable  basis  or  purpose  and  are  therefore  arbitrary  and  capricious  in  violation  of \nSection  II  of the  Kentucky  Constitution  as  well  as  other federal  and  state  laws. \n18.  By virtue of the  arbitrary and  capricious nature  of the  application  of KRS  441.025  (1), \nKRS  431.215  (2)  and  KRS  532.120  (3),  the  Plaintiffs  have  suffered,  and  continue  to  suffer,  an \nunconstitutional  deprivation  of their rights  for which  no  adequate remedy  at  law  exists. \nCOUNT  III \n\n19.  As  a result of the unconstitutional  actions  of the Defendants, the Plaintiffs  are deprived \nof their liberty and property without due process  of law,  in violation of the Fourteenth Amendment \nof the Constitution of the United States and in violation of Section 2 of the Constitution of Kentucky. \n20.  The  Defendants'  refusal  to  reimburse  the  counties  for  inmate  expenses  discriminates \nagainst the Plaintiffs,  and those similarly situated,  and deprives them  of equal protection of the law \nto  which they are  otherwise  entitled,  in violation of the  Fourteenth Amendment of the  Constitution \nof the United  States,  and  in  violation  of Section  2  of the  Constitution  of Kentucky. \nCOUNT  IV \n21.  The Plaintiffrealleges and incorporates byreference each and every allegation contained \nin numerical  paragraph  1  through  20  set  forth herein. \n22.  KRS  441.025  (1),  KRS  431.215  (2)  and KRS  532.120  (3) represent  special legislation, \nenacted  for  the  sole  purpose  of benefiting  the  Commonwealth  at  the  expense  of the  Counties,  in \nviolation  of Section  59  of the  Constitution  of Kentucky. \n23.  The  Plaintiff has  no  adequate  remedy  at  law  except  for  the  discontinuation  of the \nDefendants'  enforcement  of KRS  441.025  (1),  KRS  § 532.120  (3)  against  the  Plaintiffs  and  seek \na \ndeclaration  from  this  Court  that  said  statutes  are unconstitutional  and  invalid. \nCOUNT  V \n24.  The Plaintiffrealleges and incorporates by reference each and every allegation contained \nin  numerical  paragraphs  1  through  23  set  forth  herein. \n25.  There  is  an  actual  controversy between  the parties. \n26.  The Defendants  have,  under color the  State law,  enacted  statutes  which have deprived \nand  continued  to  deprive  the  Plaintiff and  its  members  of their  rights,  privileges  and  immunities \nguaranteed  by the  Fourteenth Amendment to  the  United  States  Constitution. \n\n27.  The  PlaintifFs  are  entitled  to  a  judgement  against  the  Defendants  awarding  the \nreasonable  cost  and  attorneys'  fees  associated  with  this  action. \nWHEREFORE,  Plaintiff hereby demands judgement  follows: \nas \n1.  A  declaration  that  KRS  441.025  (1),  KRS  431.215  (2)  and  KRS  §532.120  (3) \nare \nunconstitutional  and  void; \n2.  A declaration that the Commonwealth must reimburse the Counties for expenses incurred \nfor housing  state  inmates  for  such  time  that  is  credited  toward  the  inmate's  felony conviction; \n3.  For  an  award  of the  PlaintifFs  reasonable  attorneys'  fees  and  costs;  and \n4.  For any and all  other relief, both legal  and  equitable,  as the Court deems just and proper. \nRespectfully  submitted, \nBOEHL,  STOPHER  &  GRAVES,  LLP \n444  West  Second  Street \nLexington,  Kentucky 40507 \n(859)  252-6721 \nBY: \nBRENT  L.  CALDWELL \nATTORNEYS  FOR  PLAINTIFF \n\nVERIFICATION \nComes  the  undersigned  and  verifies  that  he  has  read  the  foregoing  and  the  information \ncontained  therein  is  true  and  correct  to  the best  of his  knowledge  and belief. \nKENTUCKY  COUNTY  JUDGE/EXECUTIVE \nASSOCIATION,  INC. \nBY: \nVince  Lang \nExecutive  Director \nSTATE  OF  KENTUCKY \nCOUNTY  OF \nSubscribed, sworn to and acknowledge before me by Vince Lang in his capacity as Executive \nDirector of Kentucky County Judge/Executive Associate,  Inc.,  a Kentucky corporation,  for and  on \nbehalf of the  said  corporation,  on  this  the  day of November,  2008. \nMy  Commission  Expires: \nNOTARY  PUBLIC,  STATE  AT  LARGE, \nKENTUCKY ",
+      "document_type_other": null,
+      "external_url": null,
+      "ecf_number": null,
+      "clearinghouse_link": "clearinghouse.net/doc/33030"
+    },
+    {
+      "date": null,
+      "date_is_estimate": false,
+      "date_not_available": false,
+      "description": null,
+      "document_source": null,
+      "document_status": null,
+      "document_type": null,
+      "order_type": null,
+      "citation_paren": null,
+      "cite_1_page": null,
+      "cite_1_reporter": null,
+      "cite_1_vol": null,
+      "cite_2_page": null,
+      "cite_2_reporter": null,
+      "cite_2_vol": null,
+      "cite_3_page": null,
+      "cite_3_reporter": null,
+      "cite_3_vol": null,
+      "citation_status": null,
+      "court": null,
+      "no_title": false,
+      "party_types": [],
+      "per_curium": false,
+      "is_core_document": true,
+      "id": 119789,
+      "file": null,
+      "title": null,
+      "text": null,
+      "document_type_other": null,
+      "external_url": null,
+      "ecf_number": null,
+      "clearinghouse_link": "clearinghouse.net/doc/119789"
+    }
+  ],
+  "document_count": 2
+}

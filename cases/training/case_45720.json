@@ -1,0 +1,404 @@
+{
+  "case_id": 45720,
+  "fetched_at": "2025-10-22T00:42:55.641081",
+  "case_data": {
+    "attorney_orgs": [
+      "National Center for Lesbian Rights (NCLR)",
+      "Southern Poverty Law Center",
+      "GLAD (GLBTQ Legal Advocates & Defenders)"
+    ],
+    "available_documents": [
+      "Trial Court Docket",
+      "Complaint (any)"
+    ],
+    "case_defendants": [
+      {
+        "defendant_level": null,
+        "institution": "",
+        "institution_alt_state": null,
+        "institution_city": "",
+        "institution_county": null,
+        "name": "Alabama",
+        "defendant_level_other": "",
+        "is_active": true
+      }
+    ],
+    "case_ongoing": "No",
+    "case_status": "Coding Complete",
+    "case_types": [
+      "Public Accommodations/Contracting"
+    ],
+    "cause_other": "",
+    "causes": [
+      "Affordable Care Act Section 1557, 42 U.S.C. § 18116"
+    ],
+    "class_action_granted": "Not sought",
+    "class_action_sought": "No",
+    "closing_year": 2022,
+    "constitutional_clause": [
+      {
+        "value": "Due Process: Substantive Due Process"
+      },
+      {
+        "value": "Equal Protection"
+      }
+    ],
+    "content_of_injunction": [],
+    "court": "Northern District of Alabama",
+    "custom_issues": [],
+    "defendant_payment": "",
+    "defendant_type": [
+      {
+        "value": "Jurisdiction-wide"
+      }
+    ],
+    "docket_status": "Complete as of retrieval date",
+    "facility_type": [],
+    "filing_date": "2022-04-08",
+    "filing_year": 2022,
+    "id": 45720,
+    "injunction_duration": "",
+    "issues": [
+      "LGBTQ+: LGBTQ+",
+      "Medical/Mental Health Care: Gender-affirming care"
+    ],
+    "last_checked_date": "2022-04-18T00:00:00-04:00",
+    "main_docket": {
+      "id": 60073,
+      "docket_entries": [
+        {
+          "row_number": 11,
+          "id": 4763394,
+          "entry_number": "4",
+          "date_filed": "2022-04-11T00:00:00-04:00",
+          "attachments": [],
+          "url": "https://www.courtlistener.com/docket/63226747/4/ladinsky-v-ivey/",
+          "recap_pdf_url": "https://www.courtlistener.com/recap/gov.uscourts.alnd.180902/gov.uscourts.alnd.180902.4.0.pdf",
+          "pacer_doc_id": "01905954546",
+          "description": "NOTICE OF CONSENT to a magistrate judge in a civil action. (AKD) (Entered: 04/11/2022)"
+        },
+        {
+          "row_number": 0,
+          "id": 4763390,
+          "entry_number": "1",
+          "date_filed": "2022-04-08T00:00:00-04:00",
+          "attachments": [],
+          "url": "https://www.courtlistener.com/docket/63226747/1/ladinsky-v-ivey/",
+          "recap_pdf_url": "https://www.courtlistener.com/recap/gov.uscourts.alnd.180902/gov.uscourts.alnd.180902.1.0.pdf",
+          "pacer_doc_id": "01905953811",
+          "description": "COMPLAINT against Danny Carr, Kay Ivey, Jill H Lee, Steve Marshall, filed by Morissa J Ladinsky, Robert Roe, Jane Doe, Hussein D Abdul-Latif.(KEK) (Entered: 04/11/2022)"
+        },
+        {
+          "row_number": 10,
+          "id": 4763393,
+          "entry_number": "3",
+          "date_filed": "2022-04-11T00:00:00-04:00",
+          "attachments": [],
+          "url": "https://www.courtlistener.com/docket/63226747/3/ladinsky-v-ivey/",
+          "recap_pdf_url": null,
+          "pacer_doc_id": "01905954378",
+          "description": "Case Reassigned to Magistrate Judge Staci G Cornelius. Please use case number 2:22-cv-00447-SGC on all subsequent pleadings. (DNW) (Entered: 04/11/2022)"
+        },
+        {
+          "row_number": 12,
+          "id": 4763395,
+          "entry_number": "5",
+          "date_filed": "2022-04-11T00:00:00-04:00",
+          "attachments": [],
+          "url": "https://www.courtlistener.com/docket/63226747/5/ladinsky-v-ivey/",
+          "recap_pdf_url": null,
+          "pacer_doc_id": "01905955183",
+          "description": "MOTION for Leave to Proceed Pseudonymously by Jane Doe, Robert Roe. (Eagan, Melody) (Entered: 04/11/2022)"
+        },
+        {
+          "row_number": 13,
+          "id": 4763396,
+          "entry_number": "6",
+          "date_filed": "2022-04-12T00:00:00-04:00",
+          "attachments": [],
+          "url": "https://www.courtlistener.com/docket/63226747/6/ladinsky-v-ivey/",
+          "recap_pdf_url": null,
+          "pacer_doc_id": "01905955915",
+          "description": "Summons Issued as to Danny Carr, Kay Ivey, Jill H Lee. Returned to Plaintiff for service. (AKD) (Entered: 04/12/2022)"
+        },
+        {
+          "row_number": 14,
+          "id": 4763397,
+          "entry_number": "7",
+          "date_filed": "2022-04-12T00:00:00-04:00",
+          "attachments": [],
+          "url": "https://www.courtlistener.com/docket/63226747/7/ladinsky-v-ivey/",
+          "recap_pdf_url": null,
+          "pacer_doc_id": "01905955984",
+          "description": "Summons Issued as to Steve Marshall. Returned to Plaintiff for service. (AKD) (Entered: 04/12/2022)"
+        },
+        {
+          "row_number": 15,
+          "id": 4763398,
+          "entry_number": "8",
+          "date_filed": "2022-04-13T00:00:00-04:00",
+          "attachments": [],
+          "url": "https://www.courtlistener.com/docket/63226747/8/ladinsky-v-ivey/",
+          "recap_pdf_url": null,
+          "pacer_doc_id": "01905956596",
+          "description": "NOTICE of Appearance by James W Davis on behalf of Kay Ivey, Steve Marshall (Davis, James) (Entered: 04/13/2022)"
+        },
+        {
+          "row_number": 16,
+          "id": 4763399,
+          "entry_number": "9",
+          "date_filed": "2022-04-13T00:00:00-04:00",
+          "attachments": [],
+          "url": "https://www.courtlistener.com/docket/63226747/9/ladinsky-v-ivey/",
+          "recap_pdf_url": null,
+          "pacer_doc_id": "01905956950",
+          "description": "NOTICE of Appearance by Alexander Barrett Bowdre on behalf of Kay Ivey, Steve Marshall (Bowdre, Alexander) (Entered: 04/13/2022)"
+        },
+        {
+          "row_number": 3,
+          "id": 4763402,
+          "entry_number": "12",
+          "date_filed": "2022-04-15T00:00:00-04:00",
+          "attachments": [],
+          "url": "https://www.courtlistener.com/docket/63226747/12/ladinsky-v-ivey/",
+          "recap_pdf_url": null,
+          "pacer_doc_id": "01905958800",
+          "description": "NOTICE of Appearance by Edmund Gerard LaCour, Jr on behalf of Kay Ivey, Steve Marshall (LaCour, Edmund) (Entered: 04/15/2022)"
+        },
+        {
+          "row_number": 4,
+          "id": 4763403,
+          "entry_number": "13",
+          "date_filed": "2022-04-15T00:00:00-04:00",
+          "attachments": [],
+          "url": "https://www.courtlistener.com/docket/63226747/13/ladinsky-v-ivey/",
+          "recap_pdf_url": null,
+          "pacer_doc_id": "01905958871",
+          "description": "NOTICE of Appearance by Thomas Alexander Wilson on behalf of Kay Ivey, Steve Marshall (Wilson, Thomas) (Entered: 04/15/2022)"
+        },
+        {
+          "row_number": 5,
+          "id": 4763404,
+          "entry_number": "14",
+          "date_filed": "2022-04-15T00:00:00-04:00",
+          "attachments": [],
+          "url": "https://www.courtlistener.com/docket/63226747/14/ladinsky-v-ivey/",
+          "recap_pdf_url": null,
+          "pacer_doc_id": null,
+          "description": "TEXT ORDER. In the interest of efficiency and judicial economy, this case is hereby transferred to Judge Liles C. Burke. Signed by Judge Annemarie Carney Axon on 4/15/2022. (RLW) (Entered: 04/15/2022)"
+        },
+        {
+          "row_number": 7,
+          "id": 10168716,
+          "entry_number": "16",
+          "date_filed": "2022-04-18T00:00:00-04:00",
+          "attachments": [],
+          "url": "https://www.courtlistener.com/docket/63226747/16/ladinsky-v-ivey/",
+          "recap_pdf_url": null,
+          "pacer_doc_id": null,
+          "description": "Case reassigned to Judge Liles C Burke. Judge Annemarie Carney Axon no longer assigned to the case. (KEK) (Entered: 04/18/2022)"
+        },
+        {
+          "row_number": 8,
+          "id": 10168717,
+          "entry_number": "17",
+          "date_filed": "2022-04-18T00:00:00-04:00",
+          "attachments": [],
+          "url": "https://www.courtlistener.com/docket/63226747/17/ladinsky-v-ivey/",
+          "recap_pdf_url": null,
+          "pacer_doc_id": null,
+          "description": "TEXT ORDER: Because Plaintiffs have filed a notice of voluntary dismissal under Federal Rule of Civil Procedure 41(a)(1)(A)(i), the Court DENIES Plaintiffs' motion to proceed pseudonymously (Doc. 5) as MOOT and DIRECTS the Clerk of Court to close this case. Signed by Judge Liles C Burke on 4/18/2022. (AHI) (Entered: 04/18/2022)"
+        },
+        {
+          "row_number": 1,
+          "id": 4763400,
+          "entry_number": "10",
+          "date_filed": "2022-04-14T00:00:00-04:00",
+          "attachments": [],
+          "url": "https://www.courtlistener.com/docket/63226747/10/ladinsky-v-ivey/",
+          "recap_pdf_url": "https://www.courtlistener.com/recap/gov.uscourts.alnd.180902/gov.uscourts.alnd.180902.10.0.pdf",
+          "pacer_doc_id": "01905957853",
+          "description": "NOTICE REGARDING CONSENT of a magistrate judge in a civil action. (KEK) (Entered: 04/14/2022)"
+        },
+        {
+          "row_number": 6,
+          "id": 4763405,
+          "entry_number": "15",
+          "date_filed": "2022-04-15T00:00:00-04:00",
+          "attachments": [],
+          "url": "https://www.courtlistener.com/docket/63226747/15/ladinsky-v-ivey/",
+          "recap_pdf_url": "https://www.courtlistener.com/recap/gov.uscourts.alnd.180902/gov.uscourts.alnd.180902.15.0_1.pdf",
+          "pacer_doc_id": "01905959681",
+          "description": "NOTICE of Voluntary Dismissal by Hussein D Abdul-Latif, Jane Doe, Morissa J Ladinsky, Robert Roe (Eagan, Melody) (Entered: 04/15/2022)"
+        },
+        {
+          "row_number": 9,
+          "id": 4763392,
+          "entry_number": "2",
+          "date_filed": "2022-04-11T00:00:00-04:00",
+          "attachments": [],
+          "url": "https://www.courtlistener.com/docket/63226747/2/ladinsky-v-ivey/",
+          "recap_pdf_url": "https://www.courtlistener.com/recap/gov.uscourts.alnd.180902/gov.uscourts.alnd.180902.2.0.pdf",
+          "pacer_doc_id": "01905954367",
+          "description": "ORDER OF RECUSAL. Judge Anna M Manasco recused. Signed by Judge Anna M Manasco on 4/11/2022. (DNW) (Entered: 04/11/2022)"
+        },
+        {
+          "row_number": 17,
+          "id": 4763391,
+          "entry_number": null,
+          "date_filed": "2022-04-11T00:00:00-04:00",
+          "attachments": [],
+          "url": "https://www.courtlistener.com",
+          "recap_pdf_url": null,
+          "pacer_doc_id": null,
+          "description": "Filing Fee: Filing fee $ 402, receipt_number AALNDC-4057644 (B4601119555). related document 1 COMPLAINT against Danny Carr, Kay Ivey, Jill H Lee, Steve Marshall, filed by Morissa J Ladinsky, Robert Roe, Jane Doe, Hussein D Abdul-Latif.(KEK). (Eagan, Melody) Modified on 4/11/2022 (DNW, )."
+        },
+        {
+          "row_number": 2,
+          "id": 4763401,
+          "entry_number": "11",
+          "date_filed": "2022-04-14T00:00:00-04:00",
+          "attachments": [],
+          "url": "https://www.courtlistener.com/docket/63226747/11/ladinsky-v-ivey/",
+          "recap_pdf_url": "https://www.courtlistener.com/recap/gov.uscourts.alnd.180902/gov.uscourts.alnd.180902.11.0.pdf",
+          "pacer_doc_id": "01905957999",
+          "description": "NOTICE OF REASSIGNMENT - The parties having not unanimously consented to the dispositive jurisdiction by a Magistrate Judge, the above styled civil action has been randomly reassigned to the Honorable Annemarie Carney Axon. Please use case number 2:22-cv-447-ACA on all subsequent pleadings. (KEK) (Entered: 04/14/2022)"
+        }
+      ],
+      "docket_case_type": "cv",
+      "docket_year": 2022,
+      "docket_filing_number": 447,
+      "is_main_docket": true,
+      "court": "Northern District of Alabama",
+      "state": "Alabama",
+      "docket_office_number": "5",
+      "docket_number_manual": "5:22-cv-00447",
+      "scales_html": null,
+      "recap_link": "https://www.courtlistener.com/docket/63226747/ladinsky-v-ivey/",
+      "is_active": true
+    },
+    "name": "Ladinsky v. Ivey",
+    "never_filed": false,
+    "non_docket_case_number": "",
+    "non_docket_case_number_type": null,
+    "non_docket_case_number_type_other": "",
+    "order_end_year": null,
+    "order_start_year": null,
+    "permanent_injunction": false,
+    "plaintiff_description": "Several Alabama medical professionals, as well transgender minors and their parents.",
+    "plaintiff_type": [
+      {
+        "value": "Private Plaintiff"
+      }
+    ],
+    "prevailing_party": "None Yet / None",
+    "pro_se_status": "No",
+    "public_interest_lawyer": "Yes",
+    "related_cases": [
+      {
+        "id": 43313,
+        "name": "Eknes-Tucker v. Ivey"
+      },
+      {
+        "id": 44370,
+        "name": "Walker v. Marshall"
+      }
+    ],
+    "relief_natures": [
+      "None"
+    ],
+    "relief_nature_other": "",
+    "relief_sources": [
+      "None"
+    ],
+    "settlement_agreement": [],
+    "settlement_judgment_date": null,
+    "settlement_judgment_year": null,
+    "special_collections": [],
+    "special_case_type": [],
+    "state": "Alabama",
+    "summary": "<p>This case concerns a challenge to a state law criminalizing gender-affirming healthcare.&nbsp;</p>\r\n<p>On April 8, 2022 several Alabama medical professionals, transgender individuals, and their parents (collectively, &ldquo;Plaintiffs&rdquo;) filed suit for declaratory and injunctive relief in the District Court for the Northern District of Alabama. Plaintiffs sued the Governor, Attorney General and District Attorneys of Shelby and Jefferson County in their official capacity. Plaintiffs were represented by private counsel as well as the National Center for Lesbian Rights, the GLBTQ Legal Advocates, Human Rights Campaign Foundation, and the Southern Poverty Law Center.&nbsp;</p>\r\n<p>Plaintiffs challenged Alabama&rsquo;s recently enacted SB 184, which outlawed providing gender-affirming care to transgender minors and imposed criminal penalties on parents and health care providers who obtained or provided that care. Plaintiffs challenged the law under &sect;1557 of the Affordable Care Act, as well as the federal constitution&rsquo;s equal protection and due process clauses. The case was assigned to Judge Anna M Manasco who recused herself and was then reassigned to Judge Annemarie Carney Axon. The case was later reassigned again to Judge Liles C Burke.</p>\r\n<p>On April 15, 2022 an Alabama district court judge hearing a different but related case, <a href=\"../../../../case/44370/\" target=\"_blank\" rel=\"noopener\">Walker v. Marshall</a>, transferred that case to be consolidated with this matter in accordance with Alabama&rsquo;s &ldquo;first-filed&rdquo; rule. That evening, the plaintiffs in Walker v. Marshall filed a notice of voluntary dismissal without prejudice. Nine minutes later, the plaintiffs in this case filed a substantively identical notice of voluntary dismissal. Judge Burke granted plaintiffs notice of voluntary dismissal on April 18, 2022 but expressed concern that the lawyers were &ldquo;judge shopping&rdquo; based on their statements to the media that they &ldquo;plan to refile immediately.&rdquo; Plaintiffs counsel did, in fact, refile a substantively similar case: <a href=\"../../../../case/43313/\" target=\"_blank\" rel=\"noopener\">Eknes-Tucker v. Ivey</a>.&nbsp;</p>\r\n<p>The Chief Judges of Alabama&rsquo;s three federal district courts launched an investigation into &ldquo;judge shopping&rdquo; allegations against 39 lawyers involved in the three challenges to the Alabama ban. On October 3, 2023, the panel found that 11 of these lawyers &ldquo;made plans and took steps in an attempt to manipulate the assignment of these cases.&rdquo; This report was given to Judge Burke. On February 21, 2024, Judge Burke ordered the 11 lawyers to &ldquo;show cause&rdquo; as to why they should not face sanctions. The lawyers filed several objections, motions for clarification and requests for leave to submit additional evidence. On May 1st Judge Burke issued supplemental show-cause orders to the attorneys. On May 23, 2024, the court held an in-person status conference to discuss the procedures for the upcoming show-cause hearing. During the meeting the lawyers were given the opportunity to speak with Judge Burke individually, and several apologized for their actions. Between June 24th-28th the Court held a show-cause hearing where the lawyers presented additional evidence in their defense, with some reaffirming their earlier apologies. On February 25, 2025 Judge Burke issued a decision publicly reprimanding and sanctioning three of the attorneys who &ldquo;ha[d] not only refused to accept responsibility or apologize sincerely for their actions [but had] also tried to shift the blame for their misconduct to the judiciary.&rdquo;</p>\r\n<p>This case is now closed.&nbsp;</p>",
+    "summary_published_date": "2025-04-02T14:32:58.616559-04:00",
+    "summary_short": "On April 8, 2022 several Alabama medical professionals, transgender individuals and their parents filed suit for declaratory and injunctive relief in the District Court for the Northern District of Alabama. Plaintiffs sued the Governor, Attorney General and District Attorneys of Shelby and Jefferson County in their official capacity. Plaintiffs were represented by private counsel as well as the National Center for Lesbian Rights, the GLBTQ Legal Advocates, Human Rights Campaign Foundation and the Southern Poverty Law Center. In their complaint, plaintiffs alleged that Alabama’s recently enacted SB 184, which outlawed providing gender-affirming care to transgender minors and imposed criminal penalties on parents and health care providers who obtained or provided that care. Plaintiffs challenged the law under §1557 of the Affordable Care Act, as well as the federal constitution’s equal protection and due process clauses. The case was assigned to Judge Anna M Manasco who recused herself and was then reassigned to Judge Annemarie Carney Axon. The case was later reassigned again to Judge Liles C Burke. \r\n\r\nOn April 15, 2022 this case was consolidated with a different but related case, Walker v. Marshall. Hours later, plaintiffs filed a notice of voluntarily dismissal. Judge Burke granted plaintiff’s notice of voluntary dismissal on April 18, 2022 but expressed concern that the lawyers were “judge shopping\" given statements made to the media that they \"plan to refile immediately.\" Plaintiffs counsel did, in fact, refile a substantively similar case: Eknes-Tucker v. Ivey.  This triggered an investigation into \"judge shopping\" and three of plaintiff's counsel were eventually sanctioned. \r\n\r\nThis case is now closed.",
+    "summary_tiny": null,
+    "terminating_date": "2022-04-18",
+    "clearinghouse_link": "clearinghouse.net/case/45720",
+    "is_active": true,
+    "case_documents_url": "https://clearinghouse.net/api/v2/documents/?case=45720",
+    "case_dockets_url": "https://clearinghouse.net/api/v2/dockets/?case=45720",
+    "case_resources_url": "https://clearinghouse.net/api/v2/resources/?case=45720"
+  },
+  "documents": [
+    {
+      "date": "2022-04-08",
+      "date_is_estimate": false,
+      "date_not_available": false,
+      "description": "",
+      "document_source": "RECAP",
+      "document_status": "Coding Complete",
+      "document_type": "Complaint",
+      "order_type": null,
+      "citation_paren": null,
+      "cite_1_page": null,
+      "cite_1_reporter": null,
+      "cite_1_vol": null,
+      "cite_2_page": null,
+      "cite_2_reporter": null,
+      "cite_2_vol": null,
+      "cite_3_page": null,
+      "cite_3_reporter": null,
+      "cite_3_vol": null,
+      "citation_status": "Not applicable",
+      "court": "Northern District of Alabama",
+      "no_title": false,
+      "party_types": [
+        "Plaintiff"
+      ],
+      "per_curium": false,
+      "is_core_document": true,
+      "id": 157873,
+      "file": "https://clearinghouse-umich-production.s3.amazonaws.com/media/doc/157873.pdf",
+      "title": "Complaint for Declaratory and Injunctive Relief",
+      "text": "Case 2:22-cv-00447-SGC   Document 1   Filed 04/08/22   Page 1 of 36 FILED\n \n 2022 Apr-11  AM 08:03\n  U.S. DISTRICT COURT\nN.D. OF ALABAMA\nIN THE UNITED STATES DISTRICT COURT \nFOR THE NORTHERN DISTRICT OF ALABAMA \nSOUTHERN DIVISION \n \nMORISSA J. LADINSKY, M.D.,   \nF.A.A.P.; HUSSEIN D. ABDUL-  \nLATIF, M.D.; ROBERT ROE,   \nindividually and on behalf of his minor  Civil Action No. ___________ \nchild, MARY ROE; and JANE DOE,   \nindividually and on behalf of her minor  COMPLAINT FOR \nchild, JOHN DOE.  DECLARATORY AND \n  INJUNCTIVE RELIEF \n           Plaintiffs, \n \nv. \n \nKAY IVEY, in her official capacity as \nGovernor of the State of Alabama; \nSTEVE MARSHALL, in his official \ncapacity as Attorney General of the \nState of Alabama; JILL H. LEE, in her \nofficial capacity as District Attorney for \nShelby County; and DANNY CARR, in \nhis official capacity as District Attorney \nfor Jefferson County. \n \n  Defendants. \n \nCOMPLAINT  \nMorissa J. Ladinsky, M.D., F.A.A.P.; Hussein D. Abdul-Latif, M.D.; Robert \nRoe, individually and on behalf of his minor child, Mary Roe; and Jane Doe, \nindividually and on behalf of her minor child, John Doe (collectively “Plaintiffs”), \nbring this Action for Declaratory and Injunctive Relief against Defendants Kay Ivey, \nin her official capacity as Governor of the State of Alabama; Steve Marshall, in his \n \n\nCase 2:22-cv-00447-SGC   Document 1   Filed 04/08/22   Page 2 of 36\n \nofficial capacity as Attorney General of the State of Alabama; Jill H. Lee, in her \nofficial capacity as District Attorney for Shelby County, Alabama; and Danny Carr, \nin  his  official  capacity  as  District  Attorney  for  Jefferson  County,  Alabama \n(collectively, “Defendants”), respectfully stating as follows: \nPRELIMINARY STATEMENT \n1.  This  Action  is  a  federal  constitutional  challenge  to  the  State  of \nAlabama’s Vulnerable Child Compassion and Protection Act (the “Act”), passed by \nthe Alabama Legislature on April 7, 2022, and signed into law by Governor Kay \nIvey on April 8, 2022. \n2.  The Act targets transgender minors, parents of transgender minors, and \nphysicians who provide medical care to transgender minors. It unlawfully denies \nnecessary and appropriate medical treatment to transgender minors and imposes \ncriminal penalties on parents and health care providers who obtain or provide such \ncare.  \n3.  The  Act  prohibits  all  persons  in  Alabama,  including  trained \nprofessionals, from engaging in, prescribing, performing, or otherwise providing \nmedical treatments recognized as the standard of care for the treatment of gender \ndysphoria in minors and that are safe, effective, and medically necessary. If this \nrestriction  is  enforced,  medical  professionals  who  administer  these  medically \nnecessary treatments will face criminal prosecution.  \n2 \n\nCase 2:22-cv-00447-SGC   Document 1   Filed 04/08/22   Page 3 of 36\n \n4.  The Act also prohibits parents of transgender minors from consenting \nto  their  children  receiving  this  medically  necessary  care.  If  this  restriction  is \nenforced, parents will not only be unable to obtain that treatment for their children \nbut will also be subject to criminal prosecution. Medical professionals, parents of \ntransgender minors, and the transgender minors themselves all will suffer irreparable \nharm as a result.  \n5.  The Act’s prohibitions on the provision of safe, effective, and medically \nnecessary  care  for  transgender  minors  lack  a  rational  foundation  and  serve  no \nlegitimate purpose. \n6.  As detailed below, the Act violates Section 1557 of the Affordable Care \nAct,  as  well  as  constitutional  guarantees  of  equal  protection  and  due  process, \nimpermissibly intruding into parents’ fundamental right to obtain safe, effective, and \nmedically necessary care for their children. \n7.  Plaintiffs  seek  declaratory  and  injunctive  relief  to  enjoin  the \nenforcement of the Act. Without the injunctive relief sought, the Act will bar the \nhealthcare provider Plaintiffs from being able to administer essential care to their \npatients, who include transgender minors living in Alabama; will prevent the parent \nPlaintiffs from obtaining such care for the minor Plaintiffs; and will cause the minor \nPlaintiffs to be denied essential treatment, causing them irreparable physical and \npsychological harm. \n3 \n\nCase 2:22-cv-00447-SGC   Document 1   Filed 04/08/22   Page 4 of 36\n \nPARTIES \nI.  Transgender Plaintiffs and Their Parents \n8.  Plaintiff Robert Roe is and has at all relevant times been a resident of \nJefferson County, Alabama. He is the father of Plaintiff, Mary Roe, a 13-year-old \ntransgender girl, for whom he also appears in this case as her next friend. Because \nof concerns about his and his child’s privacy and safety, Robert Roe and Mary Roe \nseek  to  proceed  in  this  case  under  a  pseudonym.  See  Motion  to  Proceed \nPseudonymously, concurrently filed herewith. \n9.  Plaintiff Jane Doe is and has at all relevant times been a resident of \nShelby County, Alabama. She is the mother of Plaintiff, John Doe, a 17-year-old \ntransgender boy for whom she also appears in this case as his next friend. Because \nof concerns about her and her child’s privacy and safety, Jane Doe and John Doe \nseek  to  proceed  in  this  case  under  a  pseudonym.  See  Motion  to  Proceed \nPseudonymously, concurrently filed herewith. \n10.  Plaintiffs  Jane  Doe  and  Robert  Roe  (collectively,  the  “Parent \nPlaintiffs”) are the parents and legal guardians of Plaintiffs John Doe and Mary Roe \n(collectively, the “Transgender Plaintiffs”), respectively. They bring this action for \nthemselves and as next friends of the Transgender Plaintiffs.  \n4 \n\nCase 2:22-cv-00447-SGC   Document 1   Filed 04/08/22   Page 5 of 36\n \nII.  Healthcare Provider Plaintiffs \n11.  Plaintiff Morissa J. Ladinsky, M.D., F.A.A.P., is a pediatrician with \nover 30 years of experience. Dr. Ladinsky works at the Children’s Hospital of \nAlabama and is an active member of the medical staff at the University of Alabama \nat Birmingham (“UAB”) Hospital, which are both located in Jefferson County, \nAlabama. She is also an associate professor of pediatrics at UAB School of Medicine \nin  Birmingham,  Alabama.  Her  patients  include  transgender  minors  living  in \nAlabama. Dr. Ladinsky resides and works in Jefferson County, Alabama. \n12.  Plaintiff Hussein D. Abdul-Latif, M.D. is a pediatric endocrinologist \nwith approximately 25 years of experience. Dr. Abdul-Latif works at the Children’s \nHospital of Alabama and is an active member of the medical staff at UAB Hospital, \nwhich are both located in Jefferson County, Alabama. He is also a professor of \npediatrics at the UAB School of Medicine in Birmingham, Alabama. His patients \ninclude transgender minors living in Alabama. Dr. Abdul-Latif resides and works in \nJefferson County, Alabama. \nIII.  Defendants \n13.  Defendant Kay Ivey is the Governor of the State of Alabama. Governor \nIvey is sued in her official capacity as Governor of Alabama. \n14.  Defendant  Steve  Marshall  is  the  Attorney  General  of  the  State  of \nAlabama. He is the chief law enforcement officer of the State with the power to \n5 \n\nCase 2:22-cv-00447-SGC   Document 1   Filed 04/08/22   Page 6 of 36\n \ninitiate criminal action to enforce the Act. In his capacity as Attorney General, \nMr. Marshall has the ability to enforce the Act. Mr. Marshall is sued in his official \ncapacity as Attorney General of Alabama.  \n15.  Defendant  Jill  H.  Lee  is  the  District  Attorney  of  Shelby  County, \nAlabama. She is the chief law enforcement officer of Shelby County, who prosecutes \nall felony and some misdemeanor criminal cases which occur within Shelby County. \nIn her capacity as District Attorney, Ms. Lee has the ability to enforce the Act. Ms. \nLee is sued in her official capacity as District Attorney of Shelby County, Alabama.  \n16.  Defendant Danny Carr is the District Attorney of Jefferson County, \nAlabama.  He  is  the  chief  law  enforcement  officer  of  Jefferson  County  who \nprosecutes all felony criminal cases that occur within the Birmingham Division of \nJefferson County, including the City of Birmingham. In his capacity as District \nAttorney, Mr. Carr has the ability to enforce the Act. Mr. Carr is sued in his official \ncapacity as District Attorney of Jefferson County, Alabama. \n17.  Defendants each have separate and independent authority to enforce the \nAct within their respective jurisdictions. \nJURISDICTION AND VENUE \n18.  Plaintiffs seek redress for the deprivation of their rights secured by \nSection 1557 of the Affordable Care Act, the United States Constitution, and the \nequitable powers of this Court to enjoin unlawful official conduct. This action is \n6 \n\nCase 2:22-cv-00447-SGC   Document 1   Filed 04/08/22   Page 7 of 36\n \ninstituted pursuant to 42 U.S.C. § 18116 and 42 U.S.C. § 1983 to enjoin Defendants \nfrom enforcing the Act and for a declaration that the Act violates federal law. \nTherefore, this Court has subject matter jurisdiction pursuant to 28 U.S.C. §§ 1331 \nand 1343. \n19.  This  Court  has  personal  jurisdiction  over  Defendants  because \nDefendants are domiciled in Alabama and the denial of Plaintiffs’ rights guaranteed \nby federal law occurred within Alabama.  \n20.  All defendants reside in Alabama, and, upon information and belief, \nDefendants Lee and Carr reside in this judicial district. Therefore, venue is proper \nin this district pursuant to 28 U.S.C. § 1391(b)(1). \n21.  If  enforced,  the  Act  would  violate  the  federal  statutory  and \nconstitutional rights of Plaintiffs in this judicial district. Therefore, venue is also \nproper in this district pursuant to 28 U.S.C § 1391(b)(2). \n22.  This Court has the authority to enter a declaratory judgment and to \nprovide preliminary and permanent injunctive relief pursuant to Fed. R. Civ. P. 57 \nand 65, 28 U.S.C. §§ 2201 and 2202, and this Court’s inherent equitable powers.  \n \n \n \n \n7 \n\nCase 2:22-cv-00447-SGC   Document 1   Filed 04/08/22   Page 8 of 36\n \nFACTUAL ALLEGATIONS \nI.  Gender Identity and Gender Dysphoria \n23.  Gender identity is an innate, internal sense of one’s sex and is an \nimmutable aspect of a person’s identity. Everyone has a gender identity. Most \npeople’s gender identity is consistent with their birth sex. Transgender people, \nhowever, have a gender identity that differs from their birth sex.  \n24.  Gender dysphoria is the clinical diagnosis for the distress that arises \nwhen  a  person’s  gender  identity  does  not  match  their  birth  sex.  To  receive  a \ndiagnosis of gender dysphoria, a young person must meet the criteria set forth in the \nAm. Psychiatric Ass’n, Diagnostic and Statistical Manual of Mental Disorders (5th \ned.  2013)  (“DSM-5”).1    If  left  untreated,  gender  dysphoria  can  cause  anxiety, \ndepression, and self-harm, including suicidality.  \n25.  In  fact,  data  indicate  that  82%  of  transgender  individuals  have \nconsidered  killing  themselves  and  40%  have  attempted  suicide.  56%  of  youth \nreported  a  previous  suicide  attempt  and  86%  reported  suicidality.  See  Austin, \nAshley,  Shelley  L.  Craig,  Sandra  D.  Souza,  and  Lauren  B.  McInroy  (2022), \n \n1 Earlier editions of the DSM included a diagnosis referred to as “Gender Identity \nDisorder.”  The DSM-5 noted that Gender Dysphoria “is more descriptive than the \nprevious DSM-IV term gender identity disorder and focuses on dysphoria as the \nclinical  problem,  not  identity  per  se.  Being  diagnosed  with  gender  dysphoria \n“implies  no  impairment  in  judgment,  stability,  reliability,  or  general  social  or \nvocational  capabilities.”    Am.  Psychiatric  Ass’n,  Position  Statement  on \nDiscrimination Against Transgender & Gender Variant Individuals (2012). \n8 \n\nCase 2:22-cv-00447-SGC   Document 1   Filed 04/08/22   Page 9 of 36\n \nSuicidality Among Transgender Youth: Elucidating the Role of Interpersonal Risk \nFactors. J. of Interpersonal Violence. Vol. 37 (5–6) NP2696-NP2718. \n26.  Research has shown that an individual’s gender identity is biologically \nbased and cannot be changed. In the past, mental health professionals sought to treat \ngender dysphoria by attempting to change the person’s gender identity to match their \nbirth sex; these efforts were unsuccessful and caused serious harms. Today, the \nmedical profession recognizes that such efforts are unethical and put minors at risk \nof serious harm, including dramatically increased rates of suicidality.  \n27.  Gender  dysphoria  is  highly  treatable.  Healthcare  providers  who \nspecialize in the treatment of gender dysphoria follow a well-established standard of \ncare that has been adopted by the major medical and mental health associations in \nthe United States including, but not limited to, the American Medical Association, \nthe  American  Academy  of  Pediatrics,  the  American  Association  of  Child  and \nAdolescent Psychiatrists, the Pediatric Endocrine Society, the American Psychiatric \nAssociation, the American Psychological Association, and the Endocrine Society.  \n28.  The standards of care for treatment of transgender people, including \ntransgender youth, were initially developed by the World Professional Association \nfor  Transgender  Health  (“WPATH”),  an  international,  multidisciplinary, \nprofessional association of medical providers, mental health providers, researchers, \nand  others, with  a mission of  promoting  evidence-based  care  and  research  for \n9 \n\nCase 2:22-cv-00447-SGC   Document 1   Filed 04/08/22   Page 10 of 36\n \ntransgender health, including the treatment of gender dysphoria. WPATH published \nthe most recent edition of the Standards of Care for the treatment of gender dysphoria \nin minors and adults in 2011 and is in the process of finalizing a revised edition of \nthe Standards of Care, which will likely be published later this year. \n29.  The Endocrine Society has also promulgated a standard of care for the \nprovision of hormone therapy as a treatment for gender dysphoria in minors and \nadults.  See  Wylie  C.  Hembree,  et  al.,  Endocrine  Treatment  of  Gender-\nDysphoric/Gender-Incongruent Persons: An Endocrine Society Clinical Practice \nGuideline, 102 J. Clin. Endocrinol. Metab. 3869 (2017).  \n30.  The  American  Medical  Association,  the  American  Academy  of \nPediatrics, the American Association of Child and Adolescent Psychiatrists, the \nPediatric Endocrine Society, the American Psychiatric Association, the American \nPsychological  Association,  and  other  professional  medical  organizations,  also \nfollow the WPATH and Endocrine Society standards of care.  \n31.  The treatment of gender dysphoria is designed to reduce a transgender \nperson’s psychological distress by permitting them to live in alignment with their \ngender identity. Undergoing treatment for gender dysphoria is commonly referred to \nas transition. There are several components to the transition process: social, legal, \nmedical, and surgical. Each of these components is part of the approved, medically \n10 \n\nCase 2:22-cv-00447-SGC   Document 1   Filed 04/08/22   Page 11 of 36\n \nnecessary process for transition, some or all of which may be implemented by a \ntransgender person seeking to transition.  \n32.  Social transition typically involves adopting a new name, pronouns, \nhairstyle, and clothing that match that person’s gender identity, and treating that \nperson consistent with their gender identity in all aspects of their life, including \nhome, school, and everyday life. Following those steps, transgender people often \nobtain a court order officially changing their name and, where possible, correcting \nthe sex listed on their birth certificate and other identity documents.  \n33.  For transgender people who have already begun puberty, it may be \nappropriate for them to start taking puberty-blocking medication and later hormone-\nreplacement therapy to ensure their body develops in a manner consistent with their \ngender identity.  \n34.  Finally, surgical treatment may be part of essential medical care for a \ntransgender individual. The only surgical treatment available to transgender minors \nis male chest reconstruction surgery, a procedure to remove existing breast tissue \nand create a male chest contour for transgender males. Like all treatments for gender \ndysphoria, male chest reconstruction surgery is safe and effective in treating gender \ndysphoria. The medical necessity of surgical care is determined on a case-by-case \nbasis that considers the age of the patient, medical need, and appropriateness of the \nprocedure relative to the psychological development of the individual. \n11 \n\nCase 2:22-cv-00447-SGC   Document 1   Filed 04/08/22   Page 12 of 36\n \n35.  Longitudinal studies have shown that children with gender dysphoria \nwho  receive  essential  medical  care  show  levels  of  mental  health  and  stability \nconsistent with those of non-transgender children. Lily Durwood, et al., Mental \nHealth and Self-Worth in Socially Transitioned Transgender Youth, 56 J. Am. Acad. \nChild & Adolescent Psychiatry 116 (2017); Kristina Olson, et al., Mental Health of \nTransgender  Children  who  are  Supported  in  Their  Identities,  137  Pediatrics  1 \n(2016). In contrast, children with gender dysphoria who do not receive appropriate \nmedical care are at risk of serious harm, including dramatically increased rates of \nsuicidality and serious depression. \nII.  The Alabama Vulnerable Child Compassion and Protection Act \n36.  On April 8, 2022, Defendant Kay Ivey signed the Act into law, and the \nAct will become effective on May 8, 2022. \n37.  Despite  the  essential  medical  need  of  many  transgender  youth  in \nAlabama for puberty blocking medication, hormone replacement therapy, and, in \nsome cases, surgeries, the Act makes it criminal for any person, including healthcare \nproviders, to provide these treatments. The Act likewise makes it criminal for a \nminor’s parents to consent to such treatments. \n38.  The  Act  abandons  science  and  seeks  to  stop  safe,  effective,  and \nmedically necessary treatments for children with gender dysphoria in  Alabama \nwithout any rational basis.  \n12 \n\nCase 2:22-cv-00447-SGC   Document 1   Filed 04/08/22   Page 13 of 36\n \n39.  The Act ignores established medical science finding that transgender \nminors who do not receive this essential medical care suffer serious injuries to their \nphysical and mental health.  \n40.  In short, the Act prevents healthcare professionals from providing, and \nparents  from  consenting  to,  well-established  medically  necessary  care.  It  also \nprevents  parents  from  securing  and  administering  such  treatments  to  their \ntransgender children. \n41.  Specifically, subsection 4(a) of the Act provides that:  \nExcept  as  provided  in  subsection  (b),  no  person  shall \nengage in or cause any of the following practices to be \nperformed upon a minor if the practice is performed for \nthe purpose of attempting to alter the appearance of or \naffirm the minor's perception of his or her gender or sex, \nif that appearance or perception is inconsistent with the \nminor's sex as defined in this act: \n \n(1) Prescribing  or  administering  puberty  blocking \nmedication to stop or delay normal puberty. \n(2) Prescribing  or  administering  supraphysiologic \ndoses of testosterone or other androgens to females. \n(3) Prescribing  or  administering  supraphysiologic \ndoses of estrogen to males. \n(4) Performing  surgeries  that  sterilize,  including \ncastration,  vasectomy,  hysterectomy, \noophorectomy, orchiectomy, and penectomy. \n(5) Performing  surgeries  that  artificially  construct \ntissue with the appearance of genitalia that differs \nfrom the individual's sex, including metoidioplasty, \nphalloplasty, and vaginoplasty. \n13 \n\nCase 2:22-cv-00447-SGC   Document 1   Filed 04/08/22   Page 14 of 36\n \n(6) Removing any healthy or non-diseased body part or \ntissue, except for a male circumcision. \n \n42.  A violation of subsection 4(a) of the Act is a Class C felony, punishable \nupon conviction by up to 10 years imprisonment or fine of up to $15,000.00. \n43.  As  a  result  of  subsection  4(a)  of  the  Act,  medical  professionals, \nincluding the Healthcare Provider Plaintiffs, and parents of transgender minors, \nincluding the Parent Plaintiffs, are forced to choose between withholding medically \nnecessary treatment from their minor transgender patients or children, on the one \nhand, or facing criminal prosecution, on the other.  \n44.  The  Act  also  prohibits  the  Healthcare  Provider  Plaintiffs  from \nprescribing or providing medically necessary treatments for gender dysphoria, while \nat the same time placing no restrictions on the prescription or provision of the same \ntreatments when necessary  for other  medical  conditions.  For  example,  the law \npermits an endocrinologist to prescribe puberty blocking medication for a child with \nearly  puberty  while  preventing  the  endocrinologist  from  prescribing  the  same \nmedication for a youth with gender dysphoria. Similarly, an endocrinologist may \nprescribe  testosterone  for  a  young  person  suffering  from  delayed  pubertal \ndevelopment  while  prohibiting  the  same  endocrinologist  from  prescribing \ntestosterone for a transgender minor.  \n45.  By so doing, the Act singles out and prohibits treatment when it is \nnecessary for a transgender person’s medical care while allowing the same treatment \n14 \n\nCase 2:22-cv-00447-SGC   Document 1   Filed 04/08/22   Page 15 of 36\n \nwhen  it  is  necessary  for  a  non-transgender  person.  Because  only  transgender \nindividuals experience gender dysphoria, the Act’s criminalization of treatments for \nthis medical condition—while permitting the very same treatments for minors to \ntreat other medical conditions—discriminates against individuals based on sex and \ntheir transgender status.  \n46.  The  Transgender  Plaintiffs  are  currently  receiving  medical  care, \nincluding puberty blockers and hormone therapy, for gender dysphoria. If allowed \nto take effect, the Act will interrupt these medically necessary treatments, prevent \nthem from obtaining future medically necessary treatments for gender dysphoria, \nand cause them to experience irreparable physical and psychological harm.  \nIII.  Impact of the Act on Plaintiffs \nRobert Roe and Mary Roe \n47.  Mary Roe is a 13-year-old transgender girl who resides with her parents \nin Jefferson County, Alabama.  \n48.  The Roe family has deep roots in Alabama. Robert Roe is an Alabama \nnative and a state employee. Both Robert and his wife are graduates of public \nuniversities in Alabama. The family attends a local Baptist church in Jefferson \nCounty.  \n49.  When Robert and his wife found out their first child was a boy, they \nwere excited to have a son. They named Mary after a revered patriarch in Robert’s \n15 \n\nCase 2:22-cv-00447-SGC   Document 1   Filed 04/08/22   Page 16 of 36\n \nfamily who was also an important figure in the history of the Civil Rights Movement \nin Alabama. \n50.  But, from an early age, Mary started showing behaviors that indicated \nher female gender identity. Robert and his wife treated Mary as a boy and dressed \nher in boys’ clothing, but Mary would come home from preschool every day and \nimmediately put on dresses.  \n51.  When she was around six years old, Mary became reclusive and was \nvery often unhappy, including frequent emotional outbursts where Mary would slam \nher head into the wall. Concerned for her well-being, Mary’s parents brought her to \na therapist to get insight into her behavior and guidance on how to support her. \n52.  Around the same time, Mary began to regularly say that she is a girl. \nHer statements and actions made clear that this was not simply imaginative play. \n53.  Based on the advice of Mary’s therapist, Robert and his wife began to \npermit Mary to wear clothing reflecting her female gender identity outside the home. \nShe wore dresses throughout summer and to church on Sundays. The pastor of the \nlocal Baptist church and the entire church community were very supportive of Mary.  \n54.  Mary’s mental health and behavior greatly improved when her parents \nallowed her to dress as a girl outside the house. She became a happy child who loved \nplaying outside and was able to be just a kid.  \n16 \n\nCase 2:22-cv-00447-SGC   Document 1   Filed 04/08/22   Page 17 of 36\n \n55.  By the end of that summer and the beginning of the school year, Robert \nand his wife advised Mary’s school that Mary is transgender and would be returning \nto school as female. Although the school administration assured them that Mary \nwould be allowed to express her gender identity freely in school and be referred to \nby  her  new  name,  Mary  was  met  with  hostility—some  accidental,  but  some \nintentional. For example, some teachers continued to refer to Mary by her birth \nname. And her peers—picking up on cues from the teachers—would also use her \nbirth name, and some would refuse to play with her if she tried to correct them. \n56.  As  a  result,  Mary’s  mental  health  deteriorated  again.  She  skipped \nclasses, hid in the bathroom, went to the nurse’s office during class hours to avoid \nher teachers and other classmates, and hid any documents that bore her birth name. \nInitial efforts to transfer Mary to another school were unsuccessful. In the summer \nbetween first and second grade, Robert and his wife found a new school for Mary.  \n57.  At the new school, Mary is no longer referred to by her birth name and \nis accepted as a girl. She dresses as a girl, interacts with others as a girl, and is private \nabout the fact that she is transgender.  \n58.  Since Mary’s transfer to the new school, she has returned to being the \nhappy, active child she was during the summer prior to first grade.  \n17 \n\nCase 2:22-cv-00447-SGC   Document 1   Filed 04/08/22   Page 18 of 36\n \n59.  All through these times, Robert and his wife continually checked in \nwith Mary’s healthcare providers—including the staff at the transgender health \nclinic at Children’s Hospital of Alabama in Birmingham—for advice and guidance.  \n60.  When Mary visited her pediatrician in early 2021, the pediatrician \nconfirmed that she had started puberty, and needed to be evaluated to determine \nwhether she is a good candidate for puberty-blocking medication. Mary has been \ntaking puberty blockers since April 2021. \n61.  It is essential for Mary’s mental health that she continues to receive \npuberty-blocking medications every three months and is able to obtain any future \nmedical treatments that her healthcare providers determine are medically necessary \nto treat her gender dysphoria. For Mary to be forced to go through male puberty \nwould be devastating; it would predictably result in her experiencing isolation, \ndepression, anxiety, and distress. Mary’s parents are also concerned that without \naccess to the puberty-blocking medication she needs, Mary would resort to self-harm \nas a means of coping with her psychological distress or even attempt suicide. \n62.  Like all parents, Robert and his wife want the best for Mary and have \nbeen careful to follow the advice of professionals, making decisions based on the \nrecommendations of healthcare professionals who are following well-established \nstandards of care.  \n18 \n\nCase 2:22-cv-00447-SGC   Document 1   Filed 04/08/22   Page 19 of 36\n \n63.  If the Act goes into effect, Mary’s medical care will be disrupted. \nWithout  access  to  puberty-blocking  medication,  Mary’s  body  will  produce \ntestosterone, and she will begin to develop secondary sex characteristics associated \nwith males. The changes to Mary’s body—some of which would be permanent or \nwould  require  surgery  to  reverse—would  make  visible  to  others  that  she  is  a \ntransgender girl and would cause her to experience again the distress she experiences \nfrom having a body seen by others as inconsistent with her female identity. \nJane Doe and John Doe \n64.  John Doe is a 17-year-old high school student living in Shelby County, \nAlabama. He has lived in Alabama all his life. John is a transgender boy.  \n65.  As a young child, John fashioned his behavior and conduct after other \nboys. He often asked his parents questions about “boys’ activities” and told his father \nthat he thinks he should have been a boy. John also had rules about birthday gifts \nthat were well-known by his friends: no clothes and no pink. \n66.  John’s parents thought it was a phase, or that perhaps John was a \nlesbian. It didn’t matter either way to his parents; they were very accepting of who \nhe was. \n67.  Despite his parents’ support, John experienced significant isolation and \ndepression that affected his performance in school and made it difficult for him to \nsleep. John’s parents started taking him to a therapist when he was around eight or \n19 \n\nCase 2:22-cv-00447-SGC   Document 1   Filed 04/08/22   Page 20 of 36\n \nnine years old. Although therapy helped temporarily, John’s mental health declined \nfurther when he started puberty. He quickly developed large breasts, which was very \ndistressing for John. He would often cry in the shower because of the shape of his \nchest, wear multiple sports bras at a time, and slouch his shoulders to make the \nappearance of his chest less prominent. Getting his period was equally distressing \nfor John. John’s dysphoria was so severe that he stayed home from school for at least \none day each month.  \n68.  John  started  trying  to  counteract  the  dysphoria  he  was  feeling  by \nchanging his appearance to be more masculine. He cut his hair shorter so that it \nwould look like a more typical boys’ hairstyle and wore more masculine clothing—\nanything baggy enough to hide the female-appearing parts of his body. John even \ngrew out his leg hair, which he hid from everyone, including his parents; he loved \nhaving hair on his legs. When Jane found out, she made him shave, but John just \ngrew it out again. \n69.  It  wasn’t  until  John  started  high  school  that  he  developed  an \nunderstanding of the source of his dysphoria and the vocabulary to explain what he \nwas experiencing. Soon after that, John told his parents that he is transgender. As in \nthe past, his parents were accepting. \n70.  Unfortunately, John’s peers and school were not as accepting as his \nparents. In addition to losing several friends, John experienced significant bullying \n20 \n\nCase 2:22-cv-00447-SGC   Document 1   Filed 04/08/22   Page 21 of 36\n \nand harassment. He was also not permitted to use the boys’ restroom facilities, which \nled him to not use the restroom all day until he returned home. Not only did that \nmistreatment make him feel unwelcome at the school, but not having access to a \nrestroom made it impossible for John to focus while in class. His grades soon began \nto suffer to the point that he was at risk of failing several classes in both his freshman \nand sophomore years. \n71.  Besides choosing a new name as part of his transition, John began also \nwearing a binder, which is a compressive garment designed to flatten the appearance \nof a transgender person’s chest so that they have a more male-appearing chest \ncontour. John wore his binder all the time and often for hours longer than he was \nsupposed to. Having the binder became crucial to John’s ability to function because \nit gave him a newfound confidence, which helped buoy him against the mistreatment \nhe experienced in school.  \n72.  Not long after John came out as transgender, Jane started reaching out \nto healthcare providers to get John appropriate mental health and medical treatment. \nShe knew of the clinic at UAB due to her work as an interpreter and contacted Dr. \nLadinsky. Through the clinic, John was able to connect with both mental health and \nmedical  providers  who  were  experienced  in  working  with  young  people \nexperiencing gender dysphoria. \n21 \n\nCase 2:22-cv-00447-SGC   Document 1   Filed 04/08/22   Page 22 of 36\n \n73.  Although  John’s  parents  soon  thereafter  consented  to  him  taking \nmedication to stop his period, it took about a year before he started testosterone. \nJohn’s healthcare providers conducted a thorough assessment of him, including \ndiagnosing him with gender dysphoria, and both he and his parents researched and \ntalked  extensively  to  John’s  healthcare providers  about the  risks,  benefits,  and \nalternatives to that treatment. Confident that this course of treatment was in their \nchild’s best interests, his parents eventually consented to testosterone treatments for \nJohn. \n74.  Starting testosterone has been amazing for John. He finally is feeling \nmore like himself, building greater confidence, and is happier overall. Over the past \nyear and a half, John’s voice has dropped and he has developed facial hair. Those \nfeatures have allowed him to feel more comfortable in his body and eased his \nanxieties about not being treated as a male by others. \n75.  The appearance of John’s chest, however, continues to be a source of \nsignificant distress for him. Due to severe chaffing caused by his binder, John is only \nable to wear his binder every other day, as recommended by his treating healthcare \nproviders. And, because of the size of his chest, wearing the binder for extended \nperiods of time causes John significant physical discomfort. With the support of his \ntreating mental health and medical providers, John consulted with a surgeon who \nperforms male chest reconstruction surgery on transgender patients. After examining \n22 \n\nCase 2:22-cv-00447-SGC   Document 1   Filed 04/08/22   Page 23 of 36\n \nJohn, the surgeon indicated that he was a good candidate and was willing to schedule \nhim for surgery later this year. \n76.  If the Act is allowed to go into effect, John’s medical care will be \ndisrupted because he will not be able to access medications his physicians have \nprescribed to treat his gender dysphoria. John will also be unable to obtain male \nchest reconstruction surgery in Alabama until he reaches the age of majority, which \nin Alabama is age 19. Thus, if the Act is allowed to go into effect, it will lead to \ndevastating physical and psychological consequences for John.  \nDr. Morissa Ladinsky and Dr. Hussein D. Abdul-Latif \n77.  Dr. Ladinsky and Dr. Abdul-Latif are physicians at the Children’s \nHospital  of  Alabama  who  provide  medical  care  to  transgender  young  people. \nDr. Ladinsky is a pediatrician at the Children’s Hospital of Alabama and co-lead of \nthe  multi-disciplinary  gender  clinic  at  the  UAB  Hospital.  In  her  practice, \nDr. Ladinsky has treated and is currently treating dozens of transgender young \npeople for gender dysphoria, including John Doe and Mary Roe.  \n78.  Dr. Abdul-Latif is a pediatric endocrinologist at the Children’s Hospital \nof Alabama. He is also a member of the Pediatric Endocrine Society. His medical \npractice consists of providing medical care to transgender young people, including \nprescribing puberty blocking medication and hormone therapy to treat their gender \ndysphoria. \n23 \n\nCase 2:22-cv-00447-SGC   Document 1   Filed 04/08/22   Page 24 of 36\n \n79.  Drs. Ladinsky and Abdul-Latif know, based on data, their observations \nand years medical practice, as well as their familiarity with medical research on the \ntreatment of gender dysphoria in minors, that transgender young people who receive \nappropriate  medical  treatment  have  improved  mental  health,  better  social \ninteractions, and better academic performance, as compared with their peers who do \nnot receive such treatment.  \n80.  Before Drs. Ladinsky and Abdul-Latif provide medical treatments to \ntheir transgender minor patients, one or more mental health providers evaluate the \npatient, confirm the gender dysphoria diagnosis, and thoroughly assess the patient’s \nmental health, maturity, and readiness to undergo medical treatment for gender \ndysphoria. Each patient’s mental health provider then provides a letter detailing the \noutcome of their assessment to Drs. Ladinsky and Abdul-Latif. \n81.  Both  Dr.  Ladinsky  and  Dr.  Abdul-Latif  then  conduct  their  own \nassessment of the patient to determine whether they agree with the mental health \nprovider’s assessment. Additionally, Drs. Ladinsky and Abdul-Latif meet with the \npatient and their parents to explain the risks, benefits, alternatives to the treatment \nand consequences of forgoing it. The patient and their family are also given written \nmaterials that review the information covered during the appointment. To ensure that \npatients and their families take the time to read those materials and discuss them \namong  themselves,  the  clinic  requires  the  patient  to  return  for  an  additional \n24 \n\nCase 2:22-cv-00447-SGC   Document 1   Filed 04/08/22   Page 25 of 36\n \nappointment prior to receiving a prescription for either puberty-blocking medication \nor hormone-replacement therapy. \n82.  In  the  time  between  appointments,  the  patient  and  family  are \nencouraged to discuss their options further with the patient’s mental health provider, \nor to engage with the other services offered by the clinic, such as pastoral care. \n83.  At the second appointment, Drs. Ladinsky and Abdul-Latif review the \nconsent  forms  with  the  patient  and  their  parents  again,  giving  them  another \nopportunity to ask questions and address any concerns. If, after that discussion, the \npatient and their parents provide written consent for treatment, and if Drs. Ladinsky \nand  Abdul-Latif  believe  that  such  treatment  is  safe,  effective,  and  medically \nappropriate for the patient, Drs. Ladinsky and Abdul-Latif will write the necessary \nprescriptions. \n84.  Both  Dr. Ladinsky and Dr. Abdul-Latif then see their patients for \nfollow-up care at regular intervals to evaluate the patients’ physical and mental \nhealth and address any questions the patients or their parents may have. \n85.  Drs. Ladinsky and Abdul-Latif’s clinical experience treating gender \ndysphoria is consistent with the medical literature. Puberty-blocking medication and \nhormone-replacement therapy are safe and effective at treating their patients’ gender \ndysphoria, resulting in significant improvement in their overall health and well-\n25 \n\nCase 2:22-cv-00447-SGC   Document 1   Filed 04/08/22   Page 26 of 36\n \nbeing and preventing the decompensation seen in transgender minors who are unable \nto access needed medical treatment. \n86.  If the Act goes into effect, thereby denying transgender minors access \nto this essential treatment, Drs. Ladinsky and Abdul-Latif’s patients will experience \nsevere psychological distress and irreversible physical changes to their bodies that \nwill result in long-lasting damage to their health.  \n87.  Unwilling  to  violate  their  professional  and  ethical  duties  to  their \npatients, Drs. Ladinsky and Abdul-Latif cannot comply with the Act. As a result of \nthe Act, both Drs. Ladinsky and Abdul-Latif will face the ever-present threat of \ncriminal prosecution and criminal penalties if they continue to provide medically \nnecessary and appropriate treatments for gender dysphoria to their minor transgender \npatients, consistent with the applicable standard of care.   \nCLAIMS FOR RELIEF \n \nCOUNT I \nPreemption \nHealthcare Provider Plaintiffs and Transgender Plaintiffs Against Defendants in \nTheir Official Capacities \n42 U.S.C. § 18116 \n88.  Plaintiffs incorporate paragraphs 1 through 87 of the Complaint as if \nset forth fully herein. \n89.  Healthcare Provider Plaintiffs and Transgender Plaintiffs bring this \nCount against all Defendants.  \n26 \n\nCase 2:22-cv-00447-SGC   Document 1   Filed 04/08/22   Page 27 of 36\n \n90.  Under Section 1557 of the Affordable Care Act, “an individual shall \nnot . . . be excluded from participation in, be denied the benefits of, or be subjected \nto  discrimination  under,  any  health  program  or  activity,  any  part  of  which  is \nreceiving Federal financial assistance, including credits, subsidies, or contracts of \ninsurance, or under any program or activity that is administered by an Executive \nAgency or any entity established under this title (or amendments)” on the basis of \nsex. 42 U.S.C. § 18116. \n91.  The prohibition on sex discrimination in Section 1557 of the Affordable \nCare  Act  protects  transgender  individuals  from  discrimination  by  healthcare \nproviders, including physicians and hospitals. \n92.  The Transgender Plaintiffs obtain their medical care from providers \nwho are recipients of federal financial assistance and therefore subject to the non-\ndiscrimination requirements of Section 1557 of the Affordable Care Act.  \n93.  The  Act  subjects  the  Transgender  Plaintiffs  to  unlawful  sex \ndiscrimination by preventing them from obtaining medically necessary care related \nto their transgender status and by requiring their healthcare providers to discriminate \nagainst them because they are transgender. As such, the Act conflicts with the non-\ndiscrimination requirements of Section 1557. It also conflicts with and undermines \nthe purposes and goals of Section 1557. \n27 \n\nCase 2:22-cv-00447-SGC   Document 1   Filed 04/08/22   Page 28 of 36\n \n94.  In  addition,  as  providers  for  transgender  beneficiaries  of  Alabama \nMedicaid,  the  Healthcare  Provider  Plaintiffs  are  recipients  of  federal  financial \nassistance and therefore subject to the non-discrimination requirements of Section \n1557 of the Affordable Care Act. \n95.  It is impossible for the Healthcare Plaintiffs to continue to comply with \ntheir obligations under Section 1557 and also comply with the restrictions imposed \nby the Act. On the one hand, refusing to comply with the Act would bring them into \ncompliance with Section 1557, but subject them to criminal penalties under the Act. \nOn the other hand, complying with the Act would subject the Healthcare Plaintiffs \nto civil liability for discrimination under Section 1557. \n96.  The Act stands as an obstacle to the accomplishment and execution of \nthe full purposes and objectives of Congress, including the objective of preventing \ndiscrimination in the provision of healthcare based on sex. \n97.  The Healthcare Plaintiffs have no adequate remedy at law to redress the \nwrongs  alleged  herein,  which  are  of  a  continuing  nature  and  will  cause  them \nirreparable harm. \n98.  Accordingly, the Healthcare Plaintiffs are entitled to declaratory and \ninjunctive relief. \n \n \n28 \n\nCase 2:22-cv-00447-SGC   Document 1   Filed 04/08/22   Page 29 of 36\n \nCOUNT II \nDeprivation of Equal Protection \nTransgender Plaintiffs Against Defendants in Their Official Capacities \nHealthcare Provider Plaintiffs Against Defendants in Their Official Capacities \nU.S. Const. Amend. XIV \n99.  Plaintiffs incorporate paragraphs 1 through 87 of the Complaint as if \nset forth fully herein. \n100.  Transgender  Plaintiffs  bring  this  Count  against  all  Defendants. \nHealthcare Provider Plaintiffs bring this Count against Defendants Kay Ivey, Steve \nMarshall, and Danny Carr. \n101.  The  Equal  Protection  Clause  of  the  Fourteenth  Amendment, \nenforceable pursuant to 42 U.S.C. § 1983, provides that no state shall “deny to any \nperson within its jurisdiction the equal protection of the laws.”  U.S. Const. Amend. \nXIV, § 1. \n102.  The  Act  singles  out  transgender  minors  and  prohibits  them  from \nobtaining medically necessary treatment based on their sex and transgender status. \n103.  The Act also treats transgender minors differently and less favorably \nthan non-transgender minors by allowing minors who are not transgender to obtain \nthe  same  medical  treatments  that  are  prohibited  when  medically  necessary  for \ntransgender minors.  \n104.  Under the Equal Protection Clause, government classifications based \non sex are subject to heightened scrutiny and are presumptively unconstitutional. \n29 \n\nCase 2:22-cv-00447-SGC   Document 1   Filed 04/08/22   Page 30 of 36\n \n105.  Transgender-based  government  classifications  are  subject,  at  a \nminimum, to heightened scrutiny because they are also sex-based classifications. \n106.  Because  transgender  people  have  obvious,  immutable,  and \ndistinguishing characteristics, including having a gender identity that is different \nthan their birth sex, they comprise a discrete group. This defining characteristic bears \nno relation to a transgender person’s ability to contribute to society. Nevertheless, \ntransgender people have faced historical discrimination and have been unable to \nsecure equality through the political process. \n107.  As such, transgender classifications are subject to strict scrutiny. \n108.  The Act does nothing to protect the health or well-being of minors, or \nanyone else. To the contrary, the Act undermines the health and well-being of \ntransgender minors by denying them essential medical care. \n109.  The Act is not narrowly tailored to further a compelling government \ninterest and is not substantially related to any important governmental interest. Nor \nis it even rationally related to a governmental interest. Accordingly, the Act violates \nthe Equal Protection Clause of the Fourteenth Amendment. \n \n \n \n \n30 \n\nCase 2:22-cv-00447-SGC   Document 1   Filed 04/08/22   Page 31 of 36\n \nCOUNT III \nDeprivation of Substantive Due Process \nParent Plaintiffs Against Defendants in Their Official Capacities \nViolation of Parent Plaintiffs’ Right to Direct Their Children’s Medically \nNecessary Care \nU.S. Const. Amend. XIV \n110.  Plaintiffs incorporate paragraphs 1 through 87 of the Complaint as if \nset forth fully herein.  \n111.  The Parent Plaintiffs bring this Count against all Defendants.  \n112.  The Fourteenth Amendment to the United States Constitution protects \nthe rights of parents to make decisions “concerning the care, custody, and control of \ntheir children.” Troxel v. Granville, 530 U.S. 57, 66, 120 S. Ct. 2054, 147 L.Ed.2d \n49 (2000). That fundamental right includes the liberty to make medical decisions for \ntheir  minor  children,  including  the  right  to  obtain  medical  treatments  that  are \nrecognized to be safe, effective, and medically necessary to protect their children’s \nhealth and well-being.  \n113.  The  Act  violates  this  fundamental  right  by  preventing  the  Parent \nPlaintiffs from obtaining medically necessary care for their minor children.  \n114.  By intruding upon parents’ fundamental right to direct the upbringing \nof their children, the Act is subject to strict scrutiny.  \n115.  Defendants have no compelling justification  for preventing parents \nfrom ensuring their children can receive essential medical care. The Act does not \nadvance any legitimate interest, much less a compelling one.  \n31 \n\nCase 2:22-cv-00447-SGC   Document 1   Filed 04/08/22   Page 32 of 36\n \nCOUNT IV \nDeprivation of Procedural Due Process \nAll Plaintiffs Against Defendants in Their Official Capacities \nVoid for Vagueness \nU.S. Const. Amend. V and XIV \n116.  Plaintiffs incorporate paragraphs 1 through 87 of the Complaint as if \nset forth fully herein. \n117.  All Plaintiffs bring this Count against all Defendants.  \n118.  Under the Due Process Clause, a criminal statue is void for vagueness \nif it either (1) fails “to provide the kind of notice that will enable ordinary people to \nunderstand what conduct it prohibits” or (2) authorizes or encourages “arbitrary and \ndiscriminatory enforcement.” City of Chicago v. Morales, 527 U.S. 41, 56 (1999). \n119.  Subsection 4(a) of the Act states, in relevant part, that “no person shall \n… cause any of the following practices to be performed upon a minor ….”   \n120.  As written, the Act does not provide sufficient definiteness to ordinary \npeople,  including  Plaintiffs,  of  what  actions  constitute  “caus[ing]”  any  of  the \nproscribed activities upon a minor. \n121.  The  lack  of  definiteness  in  the  Act  encourages  arbitrary  and \ndiscriminatory enforcement against anyone who is aware of, refers, discusses, talks \nabout, recommends, or gives an opinion on a transgender person’s healthcare. \n \n32 \n\nCase 2:22-cv-00447-SGC   Document 1   Filed 04/08/22   Page 33 of 36\n \nRELIEF REQUESTED \nWHEREFORE, Plaintiffs request that this Court: \n(1)  issue a judgment, pursuant to 28 U.S.C. §§ 2201-2202, declaring that the \nAct violates federal law for the reasons and on the Counts set forth above;  \n(2)  permanently enjoin Defendants and their officers, employees, servants, \nagents, appointees, or successors from enforcing the Act; \n(3)  declare that the Act violates the Fifth and Fourteenth Amendments to the \nUnited States Constitution; \n(4)  award Plaintiffs their costs and attorneys’ fees pursuant to 42 U.S.C. § \n1988 and other applicable laws; and \n(5)  grant such other relief as the Court finds just and proper.  \nRespectfully submitted this 8th day of April, 2022. \n           \n/s/ Melody H. Eagan \n          Melody H. Eagan (ASB-9780-D38M) \n          Jeffrey P. Doss (ASB-4212-R62D) \n          Amie A. Vague (ASB-4113-Q46I) \n          LIGHTFOOT, FRANKLIN & WHITE LLC \n          The Clark Building  \n          400 20th Street North \nBirmingham, AL 35203 \n205.581.0700 \n          meagan@lightfootlaw.com  \n          jdoss@lightfootlaw.com \n          avague@lightfootlaw.com \n \n33 \n\nCase 2:22-cv-00447-SGC   Document 1   Filed 04/08/22   Page 34 of 36\n \nJ. Andrew Pratt (pro hac vice forthcoming) \n          Misty L. Peterson (pro hac vice forthcoming) \n          Adam Reinke (pro hac vice forthcoming) \n          Gilbert Oladeinbo (pro hac vice forthcoming)  \n          KING & SPALDING LLP  \n          1180 Peachtree Street Northeast, Suite 1600 \n          Atlanta, GA 30309 \n          404.572.4600 \n          apratt@kslaw.com \n          mpeterson@kslaw.com \n          areinke@kslaw.com \n          goladeinbo@kslaw.com \n \nBrent P. Ray (pro hac vice forthcoming) \n          Abigail J.M. Hoverman (pro hac vice forthcoming) \n          KING & SPALDING LLP \n          110 North Wacker Drive, Suite 3800 \n          Chicago, IL 60606  \n          312.995.6333  \n          bray@kslaw.com \n          ahoverman@kslaw.com \n \n          Michael B. Shortnacy (pro hac vice forthcoming) \n          KING & SPALDING LLP \n          633 West Fifth Street, Suite 1600 \n          Los Angeles, CA 90071 \n          213.443.4355 \n          mshortnacy@kslaw.com  \n \n          Asaf Orr (pro hac vice forthcoming) \n          NATIONAL CENTER FOR LESBIAN RIGHTS \n870 Market Street, Suite 370  \nSan Francisco, CA 94102 \n415.392.6257 \naorr@nclrights.org \n34 \n\nCase 2:22-cv-00447-SGC   Document 1   Filed 04/08/22   Page 35 of 36\n \n \nJennifer L. Levi (pro hac vice forthcoming) \nGLBTQ LEGAL ADVOCATES & DEFENDERS \n18 Tremont, Suite 950 \nBoston, MA 02108 \n617.426.1350 \njlevi@glad.org \n \nScott D. McCoy (pro hac vice forthcoming) \nSOUTHERN POVERTY LAW CENTER \nP.O. Box 12463 \nMiami, FL 33101 \n(334) 224-4309 \nscott.mccoy@splcenter.org \n \nDiego A. Soto (admission forthcoming) \nSOUTHERN POVERTY LAW CENTER \n400 Washington Avenue \nMontgomery, AL 36104 \n334.604.1414 \ndiego.soto@splcenter.org \n \nJessica Stone (pro hac vice forthcoming) \nSOUTHERN POVERTY LAW CENTER \nP.O. Box 1287 \nDecatur, GA 30031 \n404.221.5837 \njessica.stone@splcenter.org \n \nSarah Warbelow (pro hac vice forthcoming) \nCynthia Weaver (pro hac vice forthcoming) \nHUMAN RIGHTS CAMPAIGN FOUNDATION \n1640 Rhode Island Ave., NW \nWashington, DC 20036 \n35 \n\nCase 2:22-cv-00447-SGC   Document 1   Filed 04/08/22   Page 36 of 36\n \n202.628.4160 \nsarah.warbelow@hrc.org \ncynthia.weaver@hrc.org \n \n \n36 ",
+      "document_type_other": null,
+      "external_url": "https://www.courtlistener.com/docket/63226747/1/ladinsky-v-ivey/",
+      "ecf_number": "1",
+      "clearinghouse_link": "clearinghouse.net/doc/157873"
+    },
+    {
+      "date": null,
+      "date_is_estimate": false,
+      "date_not_available": false,
+      "description": null,
+      "document_source": null,
+      "document_status": null,
+      "document_type": null,
+      "order_type": null,
+      "citation_paren": null,
+      "cite_1_page": null,
+      "cite_1_reporter": null,
+      "cite_1_vol": null,
+      "cite_2_page": null,
+      "cite_2_reporter": null,
+      "cite_2_vol": null,
+      "cite_3_page": null,
+      "cite_3_reporter": null,
+      "cite_3_vol": null,
+      "citation_status": null,
+      "court": null,
+      "no_title": false,
+      "party_types": [],
+      "per_curium": false,
+      "is_core_document": true,
+      "id": 150707,
+      "file": null,
+      "title": null,
+      "text": null,
+      "document_type_other": null,
+      "external_url": null,
+      "ecf_number": null,
+      "clearinghouse_link": "clearinghouse.net/doc/150707"
+    }
+  ],
+  "document_count": 2
+}

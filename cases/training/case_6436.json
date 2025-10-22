@@ -1,0 +1,462 @@
+{
+  "case_id": 6436,
+  "fetched_at": "2025-10-22T00:08:46.373949",
+  "case_data": {
+    "attorney_orgs": [
+      "EEOC"
+    ],
+    "available_documents": [
+      "Trial Court Docket",
+      "Complaint (any)",
+      "Monetary Relief",
+      "Injunctive (or Injunctive-like) Relief"
+    ],
+    "case_defendants": [
+      {
+        "defendant_level": null,
+        "institution": null,
+        "institution_alt_state": null,
+        "institution_city": "Greenwood, SC",
+        "institution_county": null,
+        "name": "Dennis' Foods, Inc.",
+        "defendant_level_other": null,
+        "is_active": true
+      }
+    ],
+    "case_ongoing": "No",
+    "case_status": "Coding Complete",
+    "case_types": [
+      "Equal Employment"
+    ],
+    "cause_other": "",
+    "causes": [
+      "Title VII (including PDA), 42 U.S.C.  § 2000e"
+    ],
+    "class_action_granted": "Not sought",
+    "class_action_sought": "No",
+    "closing_year": 2008,
+    "constitutional_clause": [],
+    "content_of_injunction": [
+      {
+        "value": "Expungement of Employment Record"
+      },
+      {
+        "value": "Neutral/Positive Reference"
+      },
+      {
+        "value": "Discrimination Prohibition"
+      },
+      {
+        "value": "Retaliation Prohibition"
+      },
+      {
+        "value": "Develop anti-discrimination policy"
+      },
+      {
+        "value": "Post/Distribute Notice of Rights / EE Law"
+      },
+      {
+        "value": "Provide antidiscrimination training"
+      },
+      {
+        "value": "Reporting"
+      },
+      {
+        "value": "Monitoring"
+      }
+    ],
+    "court": "District of South Carolina",
+    "custom_issues": [],
+    "defendant_payment": "2500",
+    "defendant_type": [],
+    "docket_status": "Complete as of retrieval date",
+    "facility_type": [],
+    "filing_date": "2005-02-17",
+    "filing_year": 2005,
+    "id": 6436,
+    "injunction_duration": "36",
+    "issues": [
+      "Discrimination Basis: Sex discrimination",
+      "Affected Sex/Gender(s): Female",
+      "Discrimination Area: Disparate Treatment",
+      "Discrimination Area: Harassment / Hostile Work Environment",
+      "EEOC-centric: Direct Suit on Merits"
+    ],
+    "last_checked_date": "2017-05-28T00:00:00-04:00",
+    "main_docket": {
+      "id": 36633,
+      "docket_entries": [
+        {
+          "row_number": 1,
+          "id": 1360017,
+          "entry_number": "2",
+          "date_filed": "2005-02-17T00:00:00-05:00",
+          "attachments": [],
+          "url": "nan",
+          "recap_pdf_url": null,
+          "pacer_doc_id": null,
+          "description": "ANSWER to Local Rule 26 Interrogatories by plaintiff EEOC; jury demand (cram) (Entered: 02/18/2005)"
+        },
+        {
+          "row_number": 14,
+          "id": 1360030,
+          "entry_number": "15",
+          "date_filed": "2005-07-06T00:00:00-04:00",
+          "attachments": [],
+          "url": "nan",
+          "recap_pdf_url": null,
+          "pacer_doc_id": null,
+          "description": "CONSENT DECREE. Signed by Judge Henry F Floyd on 7/6/2005. (Attachments: # 1 Appendix A-referral letter# 2 Appendix B)(alew, ) (Entered: 07/06/2005)"
+        },
+        {
+          "row_number": 8,
+          "id": 1360024,
+          "entry_number": "9",
+          "date_filed": "2005-03-31T00:00:00-05:00",
+          "attachments": [],
+          "url": "nan",
+          "recap_pdf_url": null,
+          "pacer_doc_id": null,
+          "description": "ORDER granting 8 Motion to Appear Pro Hac Vice by Mary M. Ryerse. Signed by Judge William M Catoe on 3/31/05. (ladd, ) (Entered: 03/31/2005)"
+        },
+        {
+          "row_number": 7,
+          "id": 1360023,
+          "entry_number": "8",
+          "date_filed": "2005-03-30T00:00:00-05:00",
+          "attachments": [],
+          "url": "nan",
+          "recap_pdf_url": null,
+          "pacer_doc_id": null,
+          "description": "AMENDED MOTION to Appear Pro Hac Vice by Mary Ryerse by Equal Employment Opportunity Commission. Response to Motion due by 4/18/2005 (Attachments: # 1 Affidavit Application of Mary Ryerse# 2 Proposed Order Order Pro Hac Vice - Mary Ryerse)(Daley, Robert) Modified on 3/31/2005: \"amended\" (jtho, ). (Entered: 03/30/2005)"
+        },
+        {
+          "row_number": 11,
+          "id": 1360027,
+          "entry_number": "12",
+          "date_filed": "2005-05-31T00:00:00-04:00",
+          "attachments": [],
+          "url": "nan",
+          "recap_pdf_url": null,
+          "pacer_doc_id": null,
+          "description": "Local Rule 26.01 Answers to Interrogatories by Dennis' Foods Inc.(Cone, Robert) (Entered: 05/31/2005)"
+        },
+        {
+          "row_number": 4,
+          "id": 1360020,
+          "entry_number": "4",
+          "date_filed": "2005-02-23T00:00:00-05:00",
+          "attachments": [],
+          "url": "nan",
+          "recap_pdf_url": null,
+          "pacer_doc_id": null,
+          "description": "ORDER granting 3 Motion for Leave to Appear pro hac vice . Signed by Judge William M Catoe on 2/23/05. (ladd, ) (Entered: 02/23/2005)"
+        },
+        {
+          "row_number": 0,
+          "id": 1360016,
+          "entry_number": "1",
+          "date_filed": "2005-02-17T00:00:00-05:00",
+          "attachments": [],
+          "url": "nan",
+          "recap_pdf_url": null,
+          "pacer_doc_id": null,
+          "description": "COMPLAINT; Filing fee waived due to statute; Service due by 6/17/05 for Dennis' Foods Inc (cram) (Entered: 02/18/2005)"
+        },
+        {
+          "row_number": 3,
+          "id": 1360019,
+          "entry_number": "5",
+          "date_filed": "2005-02-22T00:00:00-05:00",
+          "attachments": [],
+          "url": "nan",
+          "recap_pdf_url": null,
+          "pacer_doc_id": null,
+          "description": "AFFIDAVIT in Support re 3 Motion for Leave to Appear. (bbro, ) (Entered: 02/24/2005)"
+        },
+        {
+          "row_number": 5,
+          "id": 1360021,
+          "entry_number": "6",
+          "date_filed": "2005-03-29T00:00:00-05:00",
+          "attachments": [],
+          "url": "nan",
+          "recap_pdf_url": null,
+          "pacer_doc_id": null,
+          "description": "MOTION to Appear Pro Hac Vice by Mary M. Ryerse by Equal Employment Opportunity Commission. Response to Motion due by 4/18/2005 (Attachments: # 1 Affidavit Application for Pro Hac Admission of Mary Ryerse# 2 Proposed Order)(Daley, Robert) (Entered: 03/29/2005)"
+        },
+        {
+          "row_number": 10,
+          "id": 1360026,
+          "entry_number": null,
+          "date_filed": "2005-05-24T00:00:00-04:00",
+          "attachments": [],
+          "url": "nan",
+          "recap_pdf_url": null,
+          "pacer_doc_id": null,
+          "description": "Update Answer Deadline: Answer due from Dennis' Foods Inc on 5/26/2005, per waiver. (kric, ) (Entered: 05/24/2005)"
+        },
+        {
+          "row_number": 6,
+          "id": 1360022,
+          "entry_number": "7",
+          "date_filed": "2005-03-30T00:00:00-05:00",
+          "attachments": [],
+          "url": "nan",
+          "recap_pdf_url": null,
+          "pacer_doc_id": null,
+          "description": "Deficiency Memo Docket Correction due 3/31/2005 for EEOC - affidavit with motion for pro hac vice should have signature instead of S/. (jtho, ) (Entered: 03/30/2005)"
+        },
+        {
+          "row_number": 13,
+          "id": 1360029,
+          "entry_number": "14",
+          "date_filed": "2005-06-01T00:00:00-04:00",
+          "attachments": [],
+          "url": "nan",
+          "recap_pdf_url": null,
+          "pacer_doc_id": null,
+          "description": "SCHEDULING ORDER:Rule 26(f) Conference Deadline 6/21/2005. 26(a) Initial Disclosures due by 7/5/2005. Rule 26 Report due by 7/5/2005. Amended Pleadings due by 8/1/2005. Plaintiffs ID of Expert Witness due by 8/29/2005. Defendants ID of Expert Witnesses Due by 9/28/2005. Records Custodian Affidavit due by 9/28/2005. Discovery due by 11/28/2005. Motion in Limine due by 3/13/2006. Motions due by 12/12/2005. Rule 26(a)(3) Disclosures due by 2/27/2006. Pretrial Briefs due by 3/27/2006. Jury Selection Deadline 4/3/2006. Mediation Due by 2/10/2006. Signed by Judge Henry F Floyd on 6/1/05. (jtho, ) (Entered: 06/01/2005)"
+        },
+        {
+          "row_number": 9,
+          "id": 1360025,
+          "entry_number": "10",
+          "date_filed": "2005-05-24T00:00:00-04:00",
+          "attachments": [],
+          "url": "nan",
+          "recap_pdf_url": null,
+          "pacer_doc_id": null,
+          "description": "WAIVER OF SERVICE by Equal Employment Opportunity Commission. Dennis' Foods Inc waiver executed on 5/4/2005, answer due 7/5/2005. (Daley, Robert) (Entered: 05/24/2005)"
+        },
+        {
+          "row_number": 2,
+          "id": 1360018,
+          "entry_number": "3",
+          "date_filed": "2005-02-17T00:00:00-05:00",
+          "attachments": [],
+          "url": "nan",
+          "recap_pdf_url": null,
+          "pacer_doc_id": null,
+          "description": "MOTION by plaintiff EEOC for Jessica L. Dixon to appear pro hac vice FILING FEE waived due to statute with original affidavit/application attached (cram) (Entered: 02/18/2005)"
+        },
+        {
+          "row_number": 12,
+          "id": 1360028,
+          "entry_number": "13",
+          "date_filed": "2005-05-31T00:00:00-04:00",
+          "attachments": [],
+          "url": "nan",
+          "recap_pdf_url": null,
+          "pacer_doc_id": null,
+          "description": "CERTIFICATE OF SERVICE by Dennis' Foods Inc re 12 Local Rule 26.01 Answers to Interrogatories, 11 Answer to Complaint (Cone, Robert) (Entered: 05/31/2005)"
+        }
+      ],
+      "docket_case_type": "cv",
+      "docket_year": 2005,
+      "docket_filing_number": 506,
+      "is_main_docket": true,
+      "court": "District of South Carolina",
+      "state": "South Carolina",
+      "docket_office_number": "8",
+      "docket_number_manual": "8:05-cv-00506-HFF-WMC",
+      "scales_html": "https://clearinghouse-umich-production.s3.amazonaws.com/media/docket-html/scd--8-05-cv-00506.html",
+      "recap_link": null,
+      "is_active": true
+    },
+    "name": "EEOC v. Dennis' Foods, Inc.",
+    "never_filed": false,
+    "non_docket_case_number": "",
+    "non_docket_case_number_type": null,
+    "non_docket_case_number_type_other": "",
+    "order_end_year": 2008,
+    "order_start_year": 2005,
+    "permanent_injunction": false,
+    "plaintiff_description": "Equal Employment Opportunity Commission, on behalf of one or more workers.",
+    "plaintiff_type": [
+      {
+        "value": "EEOC Plaintiff"
+      }
+    ],
+    "prevailing_party": "Plaintiff",
+    "pro_se_status": "No",
+    "public_interest_lawyer": "Yes",
+    "related_cases": [],
+    "relief_natures": [
+      "Injunction / Injunctive-like Settlement",
+      "Damages"
+    ],
+    "relief_nature_other": "",
+    "relief_sources": [
+      "Settlement"
+    ],
+    "settlement_agreement": [
+      "Court Approved Settlement or Consent Decree"
+    ],
+    "settlement_judgment_date": "2005-07-06",
+    "settlement_judgment_year": null,
+    "special_collections": [
+      "EEOC Study — in sample",
+      "Multi-LexSum (in sample)"
+    ],
+    "special_case_type": [],
+    "state": "South Carolina",
+    "summary": "In February 2005, the Charlotte District Office of the EEOC brought this suit against Dennis' Foods, Inc. in the U.S. District Court for the District of South Carolina alleging that the defendant subjected the charging party, a female employee, to a sexually hostile work environment in violation of Title VII of the Civil Rights Act of 1964.  After some scheduling orders and discovery, the parties settled in July 2005 through a consent decree.  The three-year decree, containing non-discrimination and non-retaliation clauses, required the defendant to: expunge the charging party's personnel file of all references to the charge of discrimination, provide her with a positive employment reference, implement and distribute an anti-discrimination policy, post an employee notice, provide Title VII training for all its employees, report to the EEOC at specified intervals, and pay the charging party $2,500. The docket sheet doesn't show any further enforcement took place; the case was presumably closed in 2008.",
+    "summary_published_date": "2025-05-27T18:48:30.591416-04:00",
+    "summary_short": "",
+    "summary_tiny": null,
+    "terminating_date": null,
+    "clearinghouse_link": "clearinghouse.net/case/6436",
+    "is_active": true,
+    "case_documents_url": "https://clearinghouse.net/api/v2/documents/?case=6436",
+    "case_dockets_url": "https://clearinghouse.net/api/v2/dockets/?case=6436",
+    "case_resources_url": "https://clearinghouse.net/api/v2/resources/?case=6436"
+  },
+  "documents": [
+    {
+      "date": null,
+      "date_is_estimate": false,
+      "date_not_available": false,
+      "description": null,
+      "document_source": null,
+      "document_status": null,
+      "document_type": null,
+      "order_type": null,
+      "citation_paren": null,
+      "cite_1_page": null,
+      "cite_1_reporter": null,
+      "cite_1_vol": null,
+      "cite_2_page": null,
+      "cite_2_reporter": null,
+      "cite_2_vol": null,
+      "cite_3_page": null,
+      "cite_3_reporter": null,
+      "cite_3_vol": null,
+      "citation_status": null,
+      "court": null,
+      "no_title": false,
+      "party_types": [],
+      "per_curium": false,
+      "is_core_document": true,
+      "id": 124899,
+      "file": null,
+      "title": null,
+      "text": null,
+      "document_type_other": null,
+      "external_url": null,
+      "ecf_number": null,
+      "clearinghouse_link": "clearinghouse.net/doc/124899"
+    },
+    {
+      "date": "2005-02-17",
+      "date_is_estimate": false,
+      "date_not_available": false,
+      "description": null,
+      "document_source": null,
+      "document_status": "Coding Complete",
+      "document_type": "Complaint",
+      "order_type": null,
+      "citation_paren": null,
+      "cite_1_page": null,
+      "cite_1_reporter": null,
+      "cite_1_vol": null,
+      "cite_2_page": null,
+      "cite_2_reporter": null,
+      "cite_2_vol": null,
+      "cite_3_page": null,
+      "cite_3_reporter": null,
+      "cite_3_vol": null,
+      "citation_status": "Not applicable",
+      "court": "District of South Carolina",
+      "no_title": false,
+      "party_types": [
+        "Plaintiff"
+      ],
+      "per_curium": false,
+      "is_core_document": true,
+      "id": 19491,
+      "file": "https://clearinghouse-umich-production.s3.amazonaws.com/media/nonpublic/doc/19491.pdf",
+      "title": "Complaint",
+      "text": "FILED\nIN THE UNITED STATES DISTRICT COURT\nFOR THE DISTRICT OF SOUTH CAROLINA\nL/kRRY W, PROPES, CLERK\nGREENWOOD DIVISION\nCOLUMBIA, $0\nEQUAL EMPLOYMENT CIVIL ACTION NO.\nOPPORTUNITY COMMISSION,\nPlaintiff,\nCOMPLAINT\nJURY TRIAL DEMAND\nV.\nDENNIS’ FOODS, INC.\nDefendant.\nNATURE OF THE ACTION\nThis is an action under Title VII of the Civil Rights Act of 1964 and Title [ of the Civil\nRights Act of 1991, to correct unlawful employment practices on the basis of sex, female, and to\nprovide appropriate relief to Sandra Hovis, who was adversely affected by such practices. The Equal\nEmployment Opportunity Commission (the \"Commission\") alleges that Ms. Hovis was sexually\nharassed and subjected to a sexually hostile work environment while working for Defendant Dennis’\nFoods, Inc.\nJURISDICTION AND VENUE\n1. Jurisdiction ofthis Court is invoked pursuant to 28 U.S.C. §§451, 1331, 1337, 1343\nand 1345. This action is authorized and instituted pursuant to Section 706(0(1) and (3) of Title VII\nof the Civil Rights Act of 1964, as amended, 42 U.S.C. §2000e-5(f)(1) and (3) (\"Title VII\"), and\nSection 102 of the Civil Rights Act of 1991, 42 U.S.C. §1981a.\n2. The employment practices alleged to be unlawful were committed within the\njurisdiction of the United States District Court for the District of South Carolina.\n\nPARTIES\n3. Plaintiff, the Equal Employment Opportunity Commission (the \"Commission\"), is\nthe agency of the United States of America charged with the administration, interpretation and\nenforcement of Title VII of the Civil Rights Act and is expressly authorized to bring this action by\nSections 706(f)(1) and (3) of Title VII, 42 U.S.C. §2000e-5(f)(1) and (3).\n4. At all relevant times, Defendant Dennis’ Foods, Inc., has continuously been a South\nCarolina corporation doing business in the State of South Carolina and the City of Greenwood, and\nhas continuously had at least fifteen employees.\n5. At all relevant times, Defendant Dennis’ Foods, Inc., has continuously been an\nemployer engaged in an industry affecting commerce under Sections 701 (b), (g) and (h) of Title VII,\n42 U.S.C. §§ 2000e(b), (g) and (h).\nSTATEMENT OF CLAIMS\n6. More than thirty days prior to the institution of this lawsuit, Sandra Hovis filed a\ncharge with the Commission alleging violations of Title VII of the Civil Rights Act by Defendant\nDennis’ Foods, Inc. (\"Defendant\"). All conditions precedent to the institution of this lawsuit have\nbeen fulfilled.\n7. From around January 2002 until around April 2002, Defendant engaged in unlawful\nemployment practices at its facilities in Greenwood, South Carolina, in violation o f Section 703 (a)(1)\nof Title VII, 42 U.S.C. § 2000e-2(a)(1). Specifically, Defendant subjected Sandra Hovis to a\nsexually hostile work environment based on her sex, female. The harassment included but was not\nlimited to, unwelcome sexual jokes, innuendos, gestures and touching by a male who held an\n\nownership interest in Defendant. Although Ms. Hovis complained about the sexual harassment,\nDefendant failed to take appropriate action to stop it.\n8. The effect of the practices complained of in paragraph 7 above has been to deprive\nSandra Hovis of equal employment opportunities and otherwise adversely affect her status as an\nemployee because of her sex, female.\nThe unlawful employment practices complained of in paragraph 7 above were\nintentional.\n10. The unlawful employment practices complained of in paragraph 7 above were done\nwith malice or with reckless indifference to the federally protected fights of Sandra Hovis.\nPRAYER FOR RELIEF\nWherefore, the Commission respectfully requests that this Court:\nA.    Grant a permanent injunction enjoining Defendant Dennis’ Foods, Inc., its officers,\nsuccessors, assigns, and all persons in active concert or participation with it, from sexual harassment\nor any other employment practice that discriminates on the basis of sex.\nB. Order Defendant Dennis’ Foods, Inc., to institute and carry out policies, practices, and\nprograms that provide equal employment opportunities for women and which eradicate the effects\nof its past and present unlawful employment practices.\nC. Order Defendant Demais’ Foods, Inc., to make whole Sandra Hovis by providing\ncompensation for past and future pecuniary losses resulting from the unlawful employment practices\ndescribed in paragraph 7 above, including medical expenses, in amounts to be determined at trial.\nOrder Defendant Dennis’ Foods, Inc., to make whole Sandra Hovis by providing\ncompensation for past and future non-pecuniary losses resulting from the unlawful practices\n\ncomplained of in paragraph 7 above, including but not limited to emotional pain, suffering,\ninconvenience, loss of enjoyment of life, humiliation, loss of self-esteem and loss of civil rights, in\namounts to be determined at trial.\nE. Order Defendant Dennis’ Foods, Inc., to pay Sandra Hovis punitive damages for its\nmalicious and reckless conduct, as described above, in amounts to be determined at trial.\nFo Grant such further relief as the Court deems necessary and proper in the public\ninterest.\nG. Award the Commission its costs of this action.\nJURY TRIAL DEMAND\nThe Commission requests a jury trial on all questions of fact raised by its complaint.\nDATED this the I’~@dayof ~(’~a,r~ 2005.\nRespectfully submitted,\nERIC S. DREIBAND\nGeneral Counsel\nJAMES L. LEE\nDeputy General Counsel\nGWENDOLYN YOUNG REAMS\nAssociate General Counsel\nEQUAL EMPLOYMENT OPPORTUNITY\nCOMMISSION\n1801 L Street, N.W.\nWashington, D.C. 20507\nLYNETTE A. BARNES\nActing Regional Attorney\nEQUAL EMPLOYMENT OPPORTUNITY\nCOMMISSION\nCharlotte District Office\n4\n\n.//]/ES~;ICA DIXON\nTrial Attorney\nEQUAL EMPLOYMENT OPPORTUNITY\nCOMMISSION\nCharlotte District Office\n129 West Trade Street, Suite 400\nCharlotte, North Carolina 28202\nTelephone: 704.344.6875\n ,°s2sTad u.g. 2ctt o ’o l \nLocal Bar No, 6460\nDistrict of South Carolina\n1441 Main Street, Suite 500\nColumbia, S.C. 29201\nTelephone: 803.929,3054\nATTORNEYS FOR PLAINTIFF",
+      "document_type_other": "",
+      "external_url": "",
+      "ecf_number": "1",
+      "clearinghouse_link": "clearinghouse.net/doc/19491"
+    },
+    {
+      "date": "2005-07-06",
+      "date_is_estimate": false,
+      "date_not_available": false,
+      "description": null,
+      "document_source": null,
+      "document_status": "Coding Complete",
+      "document_type": "Settlement Agreement",
+      "order_type": "Consent Decree",
+      "citation_paren": null,
+      "cite_1_page": null,
+      "cite_1_reporter": null,
+      "cite_1_vol": null,
+      "cite_2_page": null,
+      "cite_2_reporter": null,
+      "cite_2_vol": null,
+      "cite_3_page": null,
+      "cite_3_reporter": null,
+      "cite_3_vol": null,
+      "citation_status": "Not applicable",
+      "court": "District of South Carolina",
+      "no_title": false,
+      "party_types": [
+        "Court",
+        "Defendant",
+        "Plaintiff"
+      ],
+      "per_curium": false,
+      "is_core_document": true,
+      "id": 19492,
+      "file": "https://clearinghouse-umich-production.s3.amazonaws.com/media/nonpublic/doc/19492.pdf",
+      "title": "Consent Decree",
+      "text": "IN THE UNITED STATES DISTRICT COURT\nFOR THE DISTRICT OF SOUTH CAROLINA\nANDERSON DIVISION\nEQUAL EMPLOYMENT  )   \nOPPORTUNITY COMMISSION, )\n)\nPlaintiff, ) CIVIL ACTION NO. 8:05-0506-HFF-WMC\n)\n     v. ) CONSENT DECREE\n)\n)\nDENNIS’ FOODS, INC., )\nDefendant. )\n_________________________________)\nThe Equal Employment Opportunity Commission (the “Commission”) instituted this\naction pursuant to Section 706(f)(1) and (3) of Title VII of the Civil Rights of 1964, as amended,\n42 U.S.C. § 2000e-5(f)(1) and (3) (\"Title VII\").  Specifically, the Commission’s Complaint\nalleged that Defendant, Dennis’ Foods, Inc. (“Defendant”) subjected Sandra Hovis to harassment\nbased on her sex from around January 2002 to around April 2002. \nThe Commission and Defendant hereby stipulate to jurisdiction of the Court over the\nparties and agree that the subject matter of this action is properly before the Court.\nThe parties have advised this Court that they desire to resolve the allegations in the\nComplaint without the burden, expense, and delay of further litigation.\nIt is therefore the finding of this Court, made on the pleadings and the record as a whole,\nthat:  (1) the Court has jurisdiction over the parties and the subject matter of this action; (2) the\npurpose and provisions of Title VII will be promoted and effectuated by the entry of the Consent\nDecree; and (3) this Decree resolves all matters in controversy between the parties as provided in\nparagraphs 1 through 18 below.\n\nIt is therefore ORDERED, ADJUDGED AND DECREED as follows:\n1.   Defendant shall not discriminate against any person on the basis of sex or any\nother protected category within the meaning of Title VII of the Civil Rights Act of 1964. \nSpecifically, Defendant shall not discriminate against female employees by subjecting them to\nsexual harassment.\n2.   Defendant shall not discriminate or retaliate against any person because of\nopposition to any practice made unlawful under Title VII, or because of the giving of testimony\nor assistance, or the participation in any investigation, proceeding or hearing under the foregoing\nstatute.\n3. Defendant shall pay Sandra Hovis the sum of Two Thousand Five Hundred\nDollars ($ 2500.00) in settlement of the claims raised in this action.  Payment shall be made\nwithin ten (10) days after the Court enters this Consent Decree and Defendant shall mail a\ncertified check directly to Sandra Hovis at an address provided by the Commission.  Within ten\n(10) days after the check has been sent, Defendant shall mail a copy of the check and proof of its\ndelivery to Ms. Hovis to Lynette A. Barnes, Acting Regional Attorney, Equal Employment\nOpportunity Commission, 129 West Trade Street, Suite 400, Charlotte, N.C. 28202.\n4.   Defendant agrees to eliminate from the employment records of Sandra Hovis any\nand all documents, entries, or references of any kind relating to the facts and circumstances\nwhich led to the filing of EEOC Charge Number 146-2003-00136 and the related events that\noccurred thereafter.   Within thirty (30) days of the entry of this Decree, Defendant shall report\ncompliance to the Commission.\n2\n\n5.  Defendant agrees to provide Sandra Hovis with a positive letter of reference, a\ncopy of which is attached hereto, marked Appendix A.  In addition, if Defendant receives any\ninquiries regarding the employment of Ms. Hovis, in lieu of an oral response, Defendant shall\nprovide a copy of the aforementioned letter.  Within ten (10) days of responding to any inquiry\nregarding the employment of Ms. Hovis, Defendant shall report compliance to the Commission,\nincluding the name and address of the person or entity to whom the letter was provided.\n6.  Within ninety (90) days of the entry of this Decree by the Court, Defendant shall\nadopt, implement, and distribute a formal, written anti-discrimination policy, which shall include,\nbut not be limited to, the following: \na. A statement explaining that harassment based on sex will not be tolerated;  \nb. An explanation of prohibited conduct; \nc. Assurance that employees who make complaints of harassment or provide\ninformation related to such complaints will be protected against\nretaliation;\nd. A clearly described complaint process that provides at least three (3)\naccessible avenues of complaint;\ne. Assurance that the employer will protect the confidentiality of harassment\ncomplaints to the extent possible;\nf. A complaint process that provides prompt, thorough, and impartial\ninvestigations; and\ng.  Assurance that the employer will take immediate and appropriate\ncorrective action when it determines that harassment has occurred. \n7. Defendant shall distribute to each current employee a copy of the policy\nreferenced in paragraph 6 above, within the aforementioned ninety (90) day time period.  Within\n3\n\n one hundred (100) days of the entry of this Decree, Defendant shall report compliance to the\nCommission, including providing a copy of the policy to the Commission.  During the term of\nthis Decree, Defendant shall distribute the policy to all new employees at the time of hire and\nreview it with them at the time of hire.\n8.  During the term of this Decree, Defendant agrees to post a copy of the policy,\nreferenced in paragraph 6 above, in all its facilities in a place where it is visible to employees.  If\nthe policy becomes defaced or unreadable, Defendant will replace it by posting another copy of\nthe policy.  Within one hundred (100) days after the Decree is entered, Defendant will post the\npolicy and notify the EEOC that it has been posted.   \n9. During the term of this Decree, Defendant shall provide training annually to all of\nits owners, managers, supervisors, and employees.  This training shall be conducted by an\nindividual who is not an employee of Defendant or any of its affiliates.  Each training program\nshall include an explanation of the requirements of Title VII of the Civil Rights Act of 1964 and\nits prohibition against sexual harassment and retaliation in the workplace.  Each training program\nshall also include an explanation of Defendant’s sexual harassment policy referenced in\nparagraph 6 above and an explanation of the rights and responsibilities of employees and\nmanagers under the policy. \nThe first training program shall be live training and shall be completed within one\nhundred twenty (120) days after entry of the Decree by the Court.  Each subsequent training\nprogram, which may be conducted by videotape, shall be conducted at approximately 12 month\nintervals after the date of the initial training.  At least thirty (30) days prior to the initial training\nprogram, Defendant shall provide the Commission with an agenda for the program which must\n4\n\nbe approved by the Commission.  Within ten (10) days after completion of each training\nprogram, including the live training and the videotape training, Defendant shall certify to the\nCommission the specific training which was undertaken and shall provide the Commission with\na roster of all persons in attendance.\n10. Defendant agrees to include Title VII training for all employees in new hire\norientation and other appropriate forums.  The training for new hires may be conducted by\nvideotape.  \n11. Beginning within thirty (30) days after the entry of this Decree by the Court and\ncontinuing throughout the term of this Decree, Defendant shall conspicuously post the attached\nEmployee Notice, marked Appendix B, hereby made a part of this Decree, in each of its\nfacilities, in a place where it is visible to employees.  If the Notice becomes defaced or\nunreadable, Defendant shall replace it by posting another copy of the Notice.  Within ten (10)\ndays of the initial posting, Defendant shall report compliance to the Commission.\n12. During the term of this Consent Decree, Defendant will provide the Commission\nwith reports at six (6) month intervals, with the first being due four (4) months after entry of this\nDecree by the Court.  Each report shall include the following information:  \na. The identities of all individuals who complained of or reported any\nconduct he/she believed to be unlawful sexual harassment under Title VII\nor a violation of Defendant’s sexual harassment policy (referenced in\nparagraph 6 above), including by way of identification each person’s\nname, last known telephone number and address, social security number,\nand job title; \nb. The name of the individual who allegedly committed the unlawful conduct\nas well as a detailed description of the alleged unlawful conduct; and\nc. What action, if any, Defendant took in response to the report/complaint.\n5\n\n13. Defendant agrees that the Commission may review compliance with this Decree. \nAs part of such review, the Commission may inspect Defendant’s facilities, interview employees,\nand examine and copy documents.\n14. If at any time during the term of this Decree, the Commission believes that \nDefendant is in violation of this Decree, the Commission shall give written notice of the alleged\nviolation to Defendant who shall have ten (10) days in which to investigate and respond to the\nallegations.  Thereafter, the parties shall then have a period of ten (10) days, or such additional\nperiod as may be agreed upon by them, in which to engage in negotiation and conciliation\nregarding such allegations, before the Commission exercises any remedy provided by law.\n15. The term of this Decree shall be for three (3) years from its entry by the Court.\n16. All reports and documents sent to the Commission by Defendant pursuant to this\nDecree shall be sent to: Lynette A. Barnes, Acting Regional Attorney, at the Equal Employment\nOpportunity Commission, 129 West Trade Street, Suite 400, Charlotte, N.C. 28202.\n17. Each party shall bear its own costs and fees.\n18. This Court shall retain jurisdiction of this case for  purposes of monitoring\ncompliance with this Decree and entry of such further orders as may be necessary or appropriate.  \nJuly 6, 2005 s/Henry F. Floyd\n     Henry F. Floyd\nSpartanburg, South Carolina United States District Judge\nDistrict of South Carolina\n6\n\nThe parties jointly request that the Court approve and enter the Consent Decree:\nThis ____ day of ______________ 2005. This  ____ day of ________________ 2005.\nEQUAL EMPLOYMENT OPPORTUNITY DENNIS’ FOODS, INC.,\nCOMMISSION, Plaintiff Defendant\nERIC S. DREIBAND By:   /s/ Dennis Moore          \nGeneral Counsel Dennis Moore\nIts:                                        \nJAMES L. LEE\nDeputy General Counsel   /s/ Robert W. Cone            \nROBERT W. CONE\nGWENDOLYN YOUNG REAMS Federal Bar No. 7265\nAssociate General Counsel McDonald Patrick Baggett Poston\nEEOC & Hemphill, LLP\n1801 L Street, N.W. 414 Main Street\nWashington, D.C.  20507 Greenwood, SC 29646\n(864) 229-2511\nLYNETTE A. BARNES Attorney for the Defendant\nActing Regional Attorney \n  /s/ Mary M. Ryerse            \nMARY M. RYERSE\nTrial Attorney\nEqual Employment Opportunity\nCommission\nCharlotte District Office\n129 West Trade Street, Suite 400\nCharlotte, North Carolina 28202\n(704) 344-6886\n  /s/ Robert F. Daley, Jr.              \nROBERT F. DALEY, JR.\nAssistant U.S. Attorney\nLocal Bar No.  6460\nDistrict of South Carolina\n1441 Main Street, Suite 500\nColumbia, S.C.  29201\n(803) 929-3054",
+      "document_type_other": "",
+      "external_url": "",
+      "ecf_number": "15",
+      "clearinghouse_link": "clearinghouse.net/doc/19492"
+    },
+    {
+      "date": "2005-07-06",
+      "date_is_estimate": false,
+      "date_not_available": false,
+      "description": null,
+      "document_source": "PACER [Public Access to Court Electronic Records]",
+      "document_status": "Coding Complete",
+      "document_type": "Docket",
+      "order_type": null,
+      "citation_paren": null,
+      "cite_1_page": null,
+      "cite_1_reporter": null,
+      "cite_1_vol": null,
+      "cite_2_page": null,
+      "cite_2_reporter": null,
+      "cite_2_vol": null,
+      "cite_3_page": null,
+      "cite_3_reporter": null,
+      "cite_3_vol": null,
+      "citation_status": "Not applicable",
+      "court": "District of South Carolina",
+      "no_title": false,
+      "party_types": [
+        "Court"
+      ],
+      "per_curium": false,
+      "is_core_document": true,
+      "id": 19489,
+      "file": "https://clearinghouse-umich-production.s3.amazonaws.com/media/doc/19489.pdf",
+      "title": "Docket [PACER]",
+      "text": "CM/ECF - scd - Docket Report https://ecf.scd.uscourts.gov/cgi-bin/DktRpt.pl?979094183722729-L_35...\nCLOSED, JURY\nU.S. District Court\nDistrict of South Carolina (Anderson/Greenwood)\nCIVIL DOCKET FOR CASE #: 8:05-cv-00506-HFF-WMC\nEEOC v. Dennis' Foods Inc Date Filed: 02/17/2005\nAssigned to: Honorable Henry F. Floyd Date Terminated: 07/06/2005\nReferred to: Magistrate Judge William M Catoe Jury Demand: Both\nDemand: $0 Nature of Suit: 442 Civil Rights: Jobs\nCause: 42:2000 Job Discrimination (Sex) Jurisdiction: Federal Question\nPlaintiff\nEqual Employment Opportunity  represented by Jessica L Dixon \nCommission US Equal Opportunity Commission \n129 W Trade Street \nSuite 400 \nCharlotte, NC 28202 \n704-344-6875 \nEmail: jessica.dixon@eeoc.gov \nLEAD ATTORNEY \nATTORNEY TO BE NOTICED\nMary M Ryerse \nUS Equal Opportunity Commission \n129 W Trade Street \nSuite 400 \nCharlotte, NC 28202 \n704-344-6886 \nFax: 704-344-6780 \nEmail: mary.ryerse@eeoc.gov \nLEAD ATTORNEY \nATTORNEY TO BE NOTICED\nRobert F Daley, Jr \nUS Attorneys Office \n1441 Main Street \nSuite 500 \nColumbia, SC 29201 \n803-929-3000 \nFax: 803-252-2759 \nEmail: bob.daley@usdoj.gov \nLEAD ATTORNEY \nATTORNEY TO BE NOTICED\nV.\nDefendant\n1 of 3 6/5/2007 10:39 AM\n\nCM/ECF - scd - Docket Report https://ecf.scd.uscourts.gov/cgi-bin/DktRpt.pl?979094183722729-L_35...\nDennis' Foods Inc represented by Robert W Cone \nCone Law Firm \nPO Box 828 \nGreenwood, SC 29648 \n864-223-7500 \nFax: 864-323-0445 \nEmail: rcone@conelaw.net \nATTORNEY TO BE NOTICED\nDate Filed # Docket Text\n02/17/2005 1 COMPLAINT; Filing fee waived due to statute; Service due by 6/17/05 for \nDennis' Foods Inc (cram) (Entered: 02/18/2005)\n02/17/2005 2 ANSWER to Local Rule 26 Interrogatories by plaintiff EEOC; jury demand \n(cram) (Entered: 02/18/2005)\n02/17/2005 3 MOTION by plaintiff EEOC for Jessica L. Dixon to appear pro hac vice FILING \nFEE waived due to statute with original affidavit/application attached (cram) \n(Entered: 02/18/2005)\n02/22/2005 5 AFFIDAVIT in Support re 3 Motion for Leave to Appear. (bbro, ) (Entered: \n02/24/2005)\n02/23/2005 4 ORDER granting 3 Motion for Leave to Appear pro hac vice . Signed by Judge \nWilliam M Catoe on 2/23/05. (ladd, ) (Entered: 02/23/2005)\n03/29/2005 6 MOTION to Appear Pro Hac Vice by Mary M. Ryerse by Equal Employment \nOpportunity Commission. Response to Motion due by 4/18/2005 (Attachments: # \n1 Affidavit Application for Pro Hac Admission of Mary Ryerse# 2 Proposed \nOrder)(Daley, Robert) (Entered: 03/29/2005)\n03/30/2005 7 Deficiency Memo Docket Correction due 3/31/2005 for EEOC - affidavit with \nmotion for pro hac vice should have signature instead of S/. (jtho, ) (Entered: \n03/30/2005)\n03/30/2005 8 AMENDED MOTION to Appear Pro Hac Vice by Mary Ryerse by Equal \nEmployment Opportunity Commission. Response to Motion due by 4/18/2005 \n(Attachments: # 1 Affidavit Application of Mary Ryerse# 2 Proposed Order \nOrder Pro Hac Vice - Mary Ryerse)(Daley, Robert) Modified on 3/31/2005: \n\"amended\" (jtho, ). (Entered: 03/30/2005)\n03/31/2005 9 ORDER granting 8 Motion to Appear Pro Hac Vice by Mary M. Ryerse. Signed \nby Judge William M Catoe on 3/31/05. (ladd, ) (Entered: 03/31/2005)\n05/24/2005 10 WAIVER OF SERVICE by Equal Employment Opportunity Commission. \nDennis' Foods Inc waiver executed on 5/4/2005, answer due 7/5/2005. (Daley, \nRobert) (Entered: 05/24/2005)\n05/24/2005   Update Answer Deadline: Answer due from Dennis' Foods Inc on 5/26/2005, per \nwaiver. (kric, ) (Entered: 05/24/2005)\n2 of 3 6/5/2007 10:39 AM\n\nCM/ECF - scd - Docket Report https://ecf.scd.uscourts.gov/cgi-bin/DktRpt.pl?979094183722729-L_35...\n05/31/2005 11 ANSWER to Complaint with Jury Demand by Dennis' Foods Inc.(Cone, Robert) \n(Entered: 05/31/2005)\n05/31/2005 12 Local Rule 26.01 Answers to Interrogatories by Dennis' Foods Inc.(Cone, \nRobert) (Entered: 05/31/2005)\n05/31/2005 13 CERTIFICATE OF SERVICE by Dennis' Foods Inc re 12 Local Rule 26.01 \nAnswers to Interrogatories, 11 Answer to Complaint (Cone, Robert) (Entered: \n05/31/2005)\n06/01/2005 14 SCHEDULING ORDER:Rule 26(f) Conference Deadline 6/21/2005. 26(a) Initial \nDisclosures due by 7/5/2005. Rule 26 Report due by 7/5/2005. Amended \nPleadings due by 8/1/2005. Plaintiffs ID of Expert Witness due by 8/29/2005. \nDefendants ID of Expert Witnesses Due by 9/28/2005. Records Custodian \nAffidavit due by 9/28/2005. Discovery due by 11/28/2005. Motion in Limine due \nby 3/13/2006. Motions due by 12/12/2005. Rule 26(a)(3) Disclosures due by \n2/27/2006. Pretrial Briefs due by 3/27/2006. Jury Selection Deadline 4/3/2006. \nMediation Due by 2/10/2006. Signed by Judge Henry F Floyd on 6/1/05. (jtho, ) \n(Entered: 06/01/2005)\n07/06/2005 15 CONSENT DECREE. Signed by Judge Henry F Floyd on 7/6/2005. \n(Attachments: # 1 Appendix A-referral letter# 2 Appendix B)(alew, ) (Entered: \n07/06/2005)\nPACER Service Center\nTransaction Receipt\n06/05/2007 11:42:03\nPACER  Client \nhs0328 eeoc \nLogin: Code:\nDocket  Search \nDescription: 8:05-cv-00506-HFF-WMC\nReport Criteria:\nBillable \n2 Cost: 0.16\nPages:\n3 of 3 6/5/2007 10:39 AM",
+      "document_type_other": null,
+      "external_url": null,
+      "ecf_number": null,
+      "clearinghouse_link": "clearinghouse.net/doc/19489"
+    }
+  ],
+  "document_count": 4
+}

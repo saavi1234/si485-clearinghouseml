@@ -1,0 +1,420 @@
+{
+  "case_id": 516,
+  "fetched_at": "2025-10-22T00:06:12.415458",
+  "case_data": {
+    "attorney_orgs": [],
+    "available_documents": [
+      "Trial Court Docket",
+      "Complaint (any)",
+      "Injunctive (or Injunctive-like) Relief"
+    ],
+    "case_defendants": [
+      {
+        "defendant_level": null,
+        "institution": "Tucker House Nursing Home ",
+        "institution_alt_state": null,
+        "institution_city": "Philadelphia",
+        "institution_county": "Philadelphia",
+        "name": "GMS Management-Tucker, Inc. and Tucker House II, Inc",
+        "defendant_level_other": "",
+        "is_active": true
+      },
+      {
+        "defendant_level": null,
+        "institution": "",
+        "institution_alt_state": null,
+        "institution_city": "Philadelphia",
+        "institution_county": null,
+        "name": "Tucker House Nursing Home",
+        "defendant_level_other": "",
+        "is_active": true
+      }
+    ],
+    "case_ongoing": "No",
+    "case_status": "Coding Complete",
+    "case_types": [
+      "Nursing Home Conditions",
+      "Healthcare Access and Reproductive Issues"
+    ],
+    "cause_other": "",
+    "causes": [
+      "False Claims Act, 31 U.S.C. § 3729"
+    ],
+    "class_action_granted": "Not sought",
+    "class_action_sought": "No",
+    "closing_year": 1996,
+    "constitutional_clause": [],
+    "content_of_injunction": [],
+    "court": "Eastern District of Pennsylvania",
+    "custom_issues": [],
+    "defendant_payment": "",
+    "defendant_type": [],
+    "docket_status": "Complete as of retrieval date",
+    "facility_type": [
+      {
+        "value": "Non-government non-profit"
+      },
+      {
+        "value": "Non-government for-profit"
+      }
+    ],
+    "filing_date": "1996-02-21",
+    "filing_year": 1996,
+    "id": 516,
+    "injunction_duration": "",
+    "issues": [
+      "General/Misc.: Food service / nutrition / hydration",
+      "Medical/Mental Health Care: Medical care, general"
+    ],
+    "last_checked_date": "2005-10-19T00:00:00-04:00",
+    "main_docket": {
+      "id": 42546,
+      "docket_entries": [
+        {
+          "row_number": 9,
+          "id": 1930500,
+          "entry_number": "9",
+          "date_filed": "1996-03-06T00:00:00-05:00",
+          "attachments": [],
+          "url": "nan",
+          "recap_pdf_url": null,
+          "pacer_doc_id": null,
+          "description": "CONSENT ORDER THAT THE UNITED STATES AND DEFT, TUCKER HOUSE II, INC. AGREE THAT THIS COURT HAS JURISDICTION OVER THIS MATTER PURSUANT TO 28 U.S.C.A. 1331, 1345; 31 U.S.C.A. 3729; THE PARTIES FURTHER AGREE THAT VENUE LIES IN THIS JUDICIAL DISTRICT PURSUANT TO 28 U.S.C.A. 1391 (b) AND (c), ETC. (SIGNED BY JUDGE JAN E. DUBOIS) 3/7/96 ENTERED AND COPIES MAILED. (adr) (Entered: 03/07/1996)"
+        },
+        {
+          "row_number": 0,
+          "id": 1930491,
+          "entry_number": "1",
+          "date_filed": "1996-02-21T00:00:00-05:00",
+          "attachments": [],
+          "url": "nan",
+          "recap_pdf_url": null,
+          "pacer_doc_id": null,
+          "description": "Complaint. (fe) (Entered: 02/21/1996)"
+        },
+        {
+          "row_number": 10,
+          "id": 1930501,
+          "entry_number": null,
+          "date_filed": "1996-03-06T00:00:00-05:00",
+          "attachments": [],
+          "url": "nan",
+          "recap_pdf_url": null,
+          "pacer_doc_id": null,
+          "description": "Case closed (kv) (Entered: 03/12/1996)"
+        },
+        {
+          "row_number": 12,
+          "id": 1930503,
+          "entry_number": "11",
+          "date_filed": "1996-04-18T00:00:00-04:00",
+          "attachments": [],
+          "url": "nan",
+          "recap_pdf_url": null,
+          "pacer_doc_id": null,
+          "description": "Transcript of hearing of 3/6/96. (adr) (Entered: 04/18/1996)"
+        },
+        {
+          "row_number": 11,
+          "id": 1930502,
+          "entry_number": "10",
+          "date_filed": "1996-03-07T00:00:00-05:00",
+          "attachments": [],
+          "url": "nan",
+          "recap_pdf_url": null,
+          "pacer_doc_id": null,
+          "description": "Minute entry: Hearing of 3/7/96. (adr) (Entered: 03/07/1996)"
+        },
+        {
+          "row_number": 6,
+          "id": 1930497,
+          "entry_number": "6",
+          "date_filed": "1996-03-05T00:00:00-05:00",
+          "attachments": [],
+          "url": "nan",
+          "recap_pdf_url": null,
+          "pacer_doc_id": null,
+          "description": "Appearance of DAVID M. LAIGAIE for DEFENDANT GMS MANAGEMENT, certificate of service. (adr) (Entered: 03/06/1996)"
+        },
+        {
+          "row_number": 2,
+          "id": 1930493,
+          "entry_number": "2",
+          "date_filed": "1996-02-21T00:00:00-05:00",
+          "attachments": [],
+          "url": "nan",
+          "recap_pdf_url": null,
+          "pacer_doc_id": null,
+          "description": "MOTION by PLAINTIFF USA TO ENTER CONSENT ORDER , MEMORANDUM, CERTIFICATE OF SERVICE. (fe) Modified on 02/21/1996 (Entered: 02/21/1996)"
+        },
+        {
+          "row_number": 5,
+          "id": 1930496,
+          "entry_number": "5",
+          "date_filed": "1996-03-04T00:00:00-05:00",
+          "attachments": [],
+          "url": "nan",
+          "recap_pdf_url": null,
+          "pacer_doc_id": null,
+          "description": "Appearance of MICHAEL M. MUSTOKOFF for DEFENDANT TUCKER HOUSE, II, certificate of service. (adr) (Entered: 03/05/1996)"
+        },
+        {
+          "row_number": 8,
+          "id": 1930499,
+          "entry_number": "8",
+          "date_filed": "1996-03-06T00:00:00-05:00",
+          "attachments": [],
+          "url": "nan",
+          "recap_pdf_url": null,
+          "pacer_doc_id": null,
+          "description": "CONSENT ORDER THAT THE UNITED STATES, GMS MANAGEMENT-TUCKER, INC. AND GERIATRIC & MEDICAL COMPANIES, INC. AGREE THAT THIS COURT HAS JURISDICTION PURSUANT TO 28 U.S.C.A. 1331, 1345, AND 31 U.S.C.A. 3729; THAT VENUE LIES IN THE JUDICIAL DISTRICT PURSUANT TO 28 U.S.C.A. 1391 (b) AND (c); AND THAT THEY WILL BE BOUND BY THE TERMS OF THIS CONSENT ORDER, ETC. (SIGNED BY JUDGE JAN E. DUBOIS) 3/7/96 ENTERED AND COPIES MAILED. (adr) (Entered: 03/07/1996)"
+        },
+        {
+          "row_number": 1,
+          "id": 1930492,
+          "entry_number": null,
+          "date_filed": "1996-02-21T00:00:00-05:00",
+          "attachments": [],
+          "url": "nan",
+          "recap_pdf_url": null,
+          "pacer_doc_id": null,
+          "description": "Standard Case Management Track. (fe) (Entered: 02/21/1996)"
+        },
+        {
+          "row_number": 3,
+          "id": 1930494,
+          "entry_number": "3",
+          "date_filed": "1996-02-29T00:00:00-05:00",
+          "attachments": [],
+          "url": "nan",
+          "recap_pdf_url": null,
+          "pacer_doc_id": null,
+          "description": "ORDER THAT UPON CONSIDERATION OF THE COMPLAINT, PLFF'S MOTION TO ENTER CONSENT ORDERS, AND THE 2 PROPOSED CONSENT ORDERS, IT IS ORDERED THAT A HEARING ON PLFF'S MOTION TO ENTER CONSENT ORDERS IS SCHEDULED FOR 3/7/96 AT 10:00 . (SIGNED BY JUDGE JAN E. DUBOIS) 3/1/96 ENTERED AND COPIES MAILED. (adr) (Entered: 03/01/1996)"
+        },
+        {
+          "row_number": 7,
+          "id": 1930498,
+          "entry_number": "7",
+          "date_filed": "1996-03-06T00:00:00-05:00",
+          "attachments": [],
+          "url": "nan",
+          "recap_pdf_url": null,
+          "pacer_doc_id": null,
+          "description": "ORDER THAT PLFF'S MOTION TO ENTER CONSENT ORDERS IS GRANTED; THE 2 CONSENT ORDERS - ONE BETWEEN THE PLFF, USA, AND DEFTS, GMS MANAGEMENT-TUCKER, INC., AND GERIATRIC & MEDICAL COMPANIES, INC,; AND, THE OTHER BETWEEN THE PLFF, USA, AND DEFT, TUCKER HOUSE, II, INC. - WERE SIGNED THIS DATE. (SIGNED BY JUDGE JAN E. DUBOIS) 3/7/96 ENTERED AND COPIES MAILED. (adr) (Entered: 03/07/1996)"
+        },
+        {
+          "row_number": 4,
+          "id": 1930495,
+          "entry_number": "4",
+          "date_filed": "1996-03-01T00:00:00-05:00",
+          "attachments": [],
+          "url": "nan",
+          "recap_pdf_url": null,
+          "pacer_doc_id": null,
+          "description": "ORDER THAT THE HEARING ON PLFF'S MOTION TO ENTER CONSENT ORDERS, PREVIOUSLY SCHEDULED FOR 3/7/96 WILL BE HELD ON 3/6/96 AT 10:00 A.M. CTRM. 12-B. ( SIGNED BY JUDGE JAN E. DUBOIS ) 3/4/96 ENTERED AND COPIES MAILED. (jef) (Entered: 03/04/1996)"
+        }
+      ],
+      "docket_case_type": "cv",
+      "docket_year": 1996,
+      "docket_filing_number": 1271,
+      "is_main_docket": true,
+      "court": "Eastern District of Pennsylvania",
+      "state": "Pennsylvania",
+      "docket_office_number": "2",
+      "docket_number_manual": "2:96-cv-01271-JD",
+      "scales_html": "https://clearinghouse-umich-production.s3.amazonaws.com/media/docket-html/paed--2-96-cv-01271.html",
+      "recap_link": null,
+      "is_active": true
+    },
+    "name": "U.S. v. GMS Management-Tucker",
+    "never_filed": false,
+    "non_docket_case_number": "",
+    "non_docket_case_number_type": null,
+    "non_docket_case_number_type_other": "",
+    "order_end_year": 1996,
+    "order_start_year": 1996,
+    "permanent_injunction": false,
+    "plaintiff_description": "United States Department of Justice",
+    "plaintiff_type": [
+      {
+        "value": "U.S. Dept of Justice plaintiff"
+      }
+    ],
+    "prevailing_party": "Plaintiff",
+    "pro_se_status": "No",
+    "public_interest_lawyer": "Yes",
+    "related_cases": [],
+    "relief_natures": [
+      "Injunction / Injunctive-like Settlement"
+    ],
+    "relief_nature_other": "",
+    "relief_sources": [
+      "Settlement"
+    ],
+    "settlement_agreement": [
+      "Court Approved Settlement or Consent Decree"
+    ],
+    "settlement_judgment_date": "1996-03-06",
+    "settlement_judgment_year": null,
+    "special_collections": [
+      "Multi-LexSum (in sample)"
+    ],
+    "special_case_type": [],
+    "state": "Pennsylvania",
+    "summary": "<p>On February 21, 1996. the United States Attorney for the Eastern District of Pennsylvania filed a lawsuit in the United States District Court for the Eastern District of Pennsylvania against GMS Management-Tucker, Inc. and Tucker House II, Inc.  GMS Management was a for-profit corporation and Tucker House II was a non-profit corporation.  Tucker House II hired GMS to provide care to residents of Tucker House Nursing Home, a long-term care facility certified to participate in Medicare and Medical Assistance Programs.  </p><p>The complaint alleged that the defendants schemed to collect payment from the federal government for care that was not rendered to elderly residents.  Individual residents were not provided with proper medical care or nutrition.  The United States claimed that the defendants violated the False Claims Act and were unjustly enriched through payments already received from the federal government.</p><p>The parties entered into a consent decree on March 6, 1996.  Tucker House II agreed to pay $25,000 to the United States as a payment for violating the False Claims Act, to provide proper medical care and nutrition to residents, to train its staff, and to allow an independent monitor into the facility.  It also agreed to comply with the Medicare and Medical Assistance Program Requirements and the Nursing Home Reform Act.  </p><p>The district court (Judge Jan E. Dubois) closed the case on March 6, 1996 and the PACER docket provides no further information about this case. </p><p> </p><p></p>",
+    "summary_published_date": "2007-05-21T00:00:00-04:00",
+    "summary_short": null,
+    "summary_tiny": null,
+    "terminating_date": "1996-03-06",
+    "clearinghouse_link": "clearinghouse.net/case/516",
+    "is_active": false,
+    "case_documents_url": "https://clearinghouse.net/api/v2/documents/?case=516",
+    "case_dockets_url": "https://clearinghouse.net/api/v2/dockets/?case=516",
+    "case_resources_url": "https://clearinghouse.net/api/v2/resources/?case=516"
+  },
+  "documents": [
+    {
+      "date": "1996-04-18",
+      "date_is_estimate": false,
+      "date_not_available": false,
+      "description": null,
+      "document_source": "PACER [Public Access to Court Electronic Records]",
+      "document_status": "Coding Complete",
+      "document_type": "Docket",
+      "order_type": null,
+      "citation_paren": null,
+      "cite_1_page": null,
+      "cite_1_reporter": null,
+      "cite_1_vol": null,
+      "cite_2_page": null,
+      "cite_2_reporter": null,
+      "cite_2_vol": null,
+      "cite_3_page": null,
+      "cite_3_reporter": null,
+      "cite_3_vol": null,
+      "citation_status": "Not applicable",
+      "court": "Eastern District of Pennsylvania",
+      "no_title": false,
+      "party_types": [
+        "Court"
+      ],
+      "per_curium": false,
+      "is_core_document": true,
+      "id": 2482,
+      "file": "https://clearinghouse-umich-production.s3.amazonaws.com/media/doc/2482.pdf",
+      "title": "Docket (PACER)",
+      "text": "United States District Court Eastern District of Pennsylvania - Docket Report Page 1of 3\n \nCLOSED, STANDARD\n  \nUnited States District Court \nEastern District of Pennsylvania (Philadelphia) \nCIVIL DOCKET FOR CASE #: 2:96-cv-01271-JD \n   \nUSA v. GMS MANAGEMENT, et al  Date Filed: 02/21/1996 \nAssigned to: HONORABLE JAN E. DUBOIS  Jury Demand: None \nDemand: $0  Nature of Suit: 890 Other Statutory \nCause: 31:3729 False Claims Act Actions \nJurisdiction: U.S. Government Plaintiff\nPlaintiff\nUNITED STATES OF AMERICA  represented by DAVID R. HOFFMAN  \nU.S. ATTORNEY'S OFFICE  \n615 CHESTNUT ST.  \nSUITE 1250  \nPHILADELPHIA, PA 19106-4476  \n215-861-8337  \nFax: 215-861-8594  \nEmail: david.hoffman@usdoj.gov  \nLEAD ATTORNEY  \nATTORNEY TO BE NOTICED\n \nV. \nDefendant\nGMS MANAGEMENT-TUCKER,  represented by DAVID M. LAIGAIE  \nINC.  DILWORTH & PAXSON LLP  \n3200 MELLON BANK CENTER  \n1735 MARKET ST.  \nPHILADELPHIA, PA 19103-7595  \n215-575-7168  \nEmail: dlaigaie@dilworthlaw.com  \nLEAD ATTORNEY  \nATTORNEY TO BE NOTICED\nDefendant\nTUCKER HOUSE, II, INC.  represented by MICHAEL M. MUSTOKOFF  \nDUANE MORRIS LLP  \n30 SOUTH 17TH ST.  \nPHILA, PA 19103  \n215-979-1810  \nFax: 215-979-1020  \nLEAD ATTORNEY  \nATTORNEY TO BE NOTICED\n \nhttps://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?605393253337507-L_923_0-1 10/19/2005\n\nUnited States District Court Eastern District of Pennsylvania - Docket Report Page 2of 3\nDate Filed  #  Docket Text \n02/21/1996 1 Complaint. (fe) (Entered: 02/21/1996)\n02/21/1996   Standard Case Management Track. (fe) (Entered: 02/21/1996)\n02/21/1996 2 MOTION by PLAINTIFF USA TO ENTER CONSENT ORDER , \nMEMORANDUM, CERTIFICATE OF SERVICE. (fe) Modified on \n02/21/1996 (Entered: 02/21/1996)\n02/29/1996 3 ORDER THAT UPON CONSIDERATION OF THE COMPLAINT, \nPLFF'S MOTION TO ENTER CONSENT ORDERS, AND THE 2 \nPROPOSED CONSENT ORDERS, IT IS ORDERED THAT A \nHEARING ON PLFF'S MOTION TO ENTER CONSENT ORDERS IS \nSCHEDULED FOR 3/7/96 AT 10:00 . (SIGNED BY JUDGE JAN E. \nDUBOIS) 3/1/96 ENTERED AND COPIES MAILED. (adr) (Entered: \n03/01/1996)\n03/01/1996 4 ORDER THAT THE HEARING ON PLFF'S MOTION TO ENTER \nCONSENT ORDERS, PREVIOUSLY SCHEDULED FOR 3/7/96 WILL \nBE HELD ON 3/6/96 AT 10:00 A.M. CTRM. 12-B. ( SIGNED BY \nJUDGE JAN E. DUBOIS ) 3/4/96 ENTERED AND COPIES MAILED. \n(jef) (Entered: 03/04/1996)\n03/04/1996 5 Appearance of MICHAEL M. MUSTOKOFF for DEFENDANT \nTUCKER HOUSE, II, certificate of service. (adr) (Entered: 03/05/1996)\n03/05/1996 6 Appearance of DAVID M. LAIGAIE for DEFENDANT GMS \nMANAGEMENT, certificate of service. (adr) (Entered: 03/06/1996)\n03/06/1996 7 ORDER THAT PLFF'S MOTION TO ENTER CONSENT ORDERS IS \nGRANTED; THE 2 CONSENT ORDERS - ONE BETWEEN THE \nPLFF, USA, AND DEFTS, GMS MANAGEMENT-TUCKER, INC., \nAND GERIATRIC & MEDICAL COMPANIES, INC,; AND, THE \nOTHER BETWEEN THE PLFF, USA, AND DEFT, TUCKER HOUSE, \nII, INC. - WERE SIGNED THIS DATE. (SIGNED BY JUDGE JAN E. \nDUBOIS) 3/7/96 ENTERED AND COPIES MAILED. (adr) (Entered: \n03/07/1996)\n03/06/1996 8 CONSENT ORDER THAT THE UNITED STATES, GMS \nMANAGEMENT-TUCKER, INC. AND GERIATRIC & MEDICAL \nCOMPANIES, INC. AGREE THAT THIS COURT HAS \nJURISDICTION PURSUANT TO 28 U.S.C.A. 1331, 1345, AND 31 \nU.S.C.A. 3729; THAT VENUE LIES IN THE JUDICIAL DISTRICT \nPURSUANT TO 28 U.S.C.A. 1391 (b) AND (c); AND THAT THEY \nWILL BE BOUND BY THE TERMS OF THIS CONSENT ORDER, \nETC. (SIGNED BY JUDGE JAN E. DUBOIS) 3/7/96 ENTERED AND \nCOPIES MAILED. (adr) (Entered: 03/07/1996)\n03/06/1996 9 CONSENT ORDER THAT THE UNITED STATES AND DEFT, \nTUCKER HOUSE II, INC. AGREE THAT THIS COURT HAS \nJURISDICTION OVER THIS MATTER PURSUANT TO 28 U.S.C.A. \n1331, 1345; 31 U.S.C.A. 3729; THE PARTIES FURTHER AGREE \nhttps://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?605393253337507-L_923_0-1 10/19/2005\n\nUnited States District Court Eastern District of Pennsylvania - Docket Report Page 3of 3\nTHAT VENUE LIES IN THIS JUDICIAL DISTRICT PURSUANT TO \n28 U.S.C.A. 1391 (b) AND (c), ETC. (SIGNED BY JUDGE JAN E. \nDUBOIS) 3/7/96 ENTERED AND COPIES MAILED. (adr) (Entered: \n03/07/1996)\n03/06/1996   Case closed (kv) (Entered: 03/12/1996)\n03/07/1996 10 Minute entry: Hearing of 3/7/96. (adr) (Entered: 03/07/1996)\n04/18/1996 11 Transcript of hearing of 3/6/96. (adr) (Entered: 04/18/1996)\n \n \nPACER Service Center\nTransaction Receipt\n10/19/2005 17:45:39\nPACER Login: hs0328 Client Code:\nDescription: Docket Report Search Criteria: 2:96-cv-01271-JD\nBillable Pages: 2 Cost: 0.16\nhttps://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?605393253337507-L_923_0-1 10/19/2005",
+      "document_type_other": null,
+      "external_url": "",
+      "ecf_number": null,
+      "clearinghouse_link": "clearinghouse.net/doc/2482"
+    },
+    {
+      "date": "1996-03-06",
+      "date_is_estimate": false,
+      "date_not_available": false,
+      "description": null,
+      "document_source": null,
+      "document_status": "Coding Complete",
+      "document_type": "Order/Opinion",
+      "order_type": "Consent Decree",
+      "citation_paren": null,
+      "cite_1_page": null,
+      "cite_1_reporter": null,
+      "cite_1_vol": null,
+      "cite_2_page": null,
+      "cite_2_reporter": null,
+      "cite_2_vol": null,
+      "cite_3_page": null,
+      "cite_3_reporter": null,
+      "cite_3_vol": null,
+      "citation_status": "No citation available",
+      "court": "Eastern District of Pennsylvania",
+      "no_title": false,
+      "party_types": [
+        "Court"
+      ],
+      "per_curium": false,
+      "is_core_document": true,
+      "id": 2481,
+      "file": "https://clearinghouse-umich-production.s3.amazonaws.com/media/doc/2481.pdf",
+      "title": "Consent Order",
+      "text": "IN THE UNITED STATES DISTRICT COURT\nFOR THE EASTERN DISTRICT OF PENNSYLVANIA\nUNITED STATES OF AMERICA,-\nPlaintiff,\n•\n:  Civil  Action  N</?12~U\nTUCKER  HOUSE  II,  INC.,  ET AL.  :\nDefendant.  :\nCONSENT ORDER\nThe United States of America and Tucker House II, Inc.\nhave consented to the issuance of the following order subject to\nthe approval of the Court:\nNOW THEREFORE, IT IS HEREBY ORDERED THAT:\n1. The United States and Defendant, Tucker House II, Inc.\nagree that this Court has jurisdictions over this matter pursuant\nto 28 U.S.C.A. SS 1331, 1345; 31 U.S.c a  $ 3729.  The parties\nfurther agree that venue lies in this judicial district pursuant\nto 28 U.S.C.A. $ 1391 (b) and (c).\n2.  On or about November 1989, the Defendant, Tucker House\nII, Inc., hire* GHS Management-Tucker House II, Inc. for the\npurpose* of\" providing quality patient care services to residents\nof Tucker House- Nursing Home, 1001 Wallace Street, Philadelphia,\nPennsylvania, through the supervision and direction of the day-\nto-day operations at its nursing home facility.  In addition,\nTucker House II, Inc. contracted with Total Care Management\nServices, Inc., a wholly-owned subsidiary of 6MS Management-\nU.S. v. GMS Management\nNH-PA-001-002\n\nTucker House II, inc. Under the terns of that agreement, Total\nCare Management Services, Inc. agreed to provide dietary services\nat the nursing home facility which included, \"but were not\nlimited to, supervision of those services in accordance with the\napplicable federal, state and local laws, rules and regulations,\nand in compliance with certain dietary standards of operation as\nrequired for participation in the federal Medicare Program and\nPennsylvania Medicaid Program.11\n3.  Defendant, Tucker House II, Inc. asserts that it\nrelied upon the expertise of GMS Management-Tucker, Inc. for the\noperation of Tucker House Nursing Home.  Defendant, Tucker House\nII, Inc.-now recognizes the failures of GMS Management-Tucker,\nInc. to provide the services required under their agreements.\n4.  Defendant, Tucker House II, Inc. recognizes that GMS\nManagement-Tucker, Inc. submitted invoices to the Government for\nservices rendered to residents to Tucker House Nursing Home.\nDefendant, Tucker House II, Inc. also recognizes that it was the\ndeliberate ignorance of the truth and/or reckless disregard of\nthe truth in the creation and/or submission of those very same\ninvoices regarding the failure to provide adequate nutrition in\naccordance: with* state and federal lav and regulations that served\nas a basi* for thev Government to commence this action.\n9.  This Consent Order shall not be construed as an\nadmission of any liability or wrongdoing on the part of\nDefendant, Tucker House II, Inc.\n6.  Defendant, Tucker House II, Inc. agrees to pay the sum\nof TWENTY-FIVE THOUSAND DOLLARS ($25,000.00) to the United States\n\nof America as a penalty under the False Claims Act.  Payment of\nthis amount shall be made to the United States Attorney's Office,\n615 Chestnut Street, Philadelphia, Pa. 19106, Attention: David R.\nHoffman and is to be made as follows:\n(a) upon the execution of this Consent Order by Defendant,\nTucker House II, Inc. shall remit the amount of TWELVE THOUSAND\nFIVE HUNDRED DOLLARS  ($12,500.00);\n(b) Defendant, Tucker House II, Inc. shall remit the amount\nof TWELVE THOUSAND FIVE HUNDRED DOLLARS ($12,500.00) by June 15,\n1996.\n7.  Defendant, Tucker House II, Inc. and its agents,\nemployees, contractors, and/or subcontractors agree to comply\nwith the \"Quality Assessment and Assurance Program-Nutritional\nMonitoring Program1*, attached hereto and incorporated herein as\nExhibit A.\n8.  Defendant, Tucker House II, Inc. and its agents,\nemployees, contractors and/or subcontractors agree to provide\nwound care (decubitus ulcers) treatment in strict accordance with\nthe Agency for Health Care Policy and Research Guidelines,\nattached hereto and incorporated herein as Exhibit B.\n9.  Defendant, Tucker House II, Inc. agrees to provide\ntraining tot •!*• off its staff on all of the requirements set forth\nin the> documents referred to in paragraphs 7 and 8 within forty-\nfive (45) days froa the entry of this Order.  This training shall\nbe on-going and all new staff must be immediately apprised of the\nrequirements set forth in the documents identified in paragraphs\n7 and 8.\n\n10.  Defendant, Tucker House II, Inc. agrees to report on\nall nutritionally compromised and nutritionally at risk\nresidents, as defined in the Defendant's Nutrition Monitoring\nProgram  (Exhibit A), to the Tucker House Nursing Home Internal\nQuality Assurance Team, to the United States Attorney's Office\nand to the Health care Financing Administration  (HCFA), Health\nStandards and Quality Division, on a monthly basis for a period\nof not less than one (1) year from the date of entry of this\nOrder. Review of these residents by government agencies does not\nconstitute approval or disapproval of the care provided by\nDefendant, Tucker House II, Inc. and the United States reserves\nits right to take any action, in any forum, against Defendant for\nfailing to provide adequate care to its residents.\n11.  Defendant agrees that it will ensure that residents\nare not improperly, medically unjustifiably or involuntarily\ngiven feeding tubes for nutritional purposes.\n12. Defendant, Tucker House II, Inc. agrees to allow, at\nDefendant Tucker House II, Inc.'s expense, a mutually-agreed upon\n(by the United States and Tucker House II, Inc.) independent\nthird party to monitor Tucker House Nursing Home, at any time,\nfor nutritional and wound care compliance with this Consent\nOrder. The* independent third party shall visit the facility at\nleast quarterly for a period of one (1) year from the date of\nentry of this Order and shall have immediate access to Tucker\nHouse Nursing Home residents and their records.  The independent\nthird party shall create a report documenting any findings\nrelating to nutrition and wound care and shall present the report\n\nwithin ten (10) calendar days of the visit to the Defendant,\nTucker House II, Inc., the U.S. Attorney's Office and the local\nLong-Term Care Ombudsman Program.\n13.  Defendant, Tucker House II, Inc. agrees to send to\nselected family members of the three victims referred to in the\nComplaint, as identified by the U.S. Attorney's Office, a letter\nexpressing remorse over the care and treatment provided. This\nletter shall be mutually agreed upon by Defendant and the United\nStates.\n14.  Defendant, Tucker House II, Inc. agrees to comply\nfully with the applicable rules and regulations governing the\nMedicare and Medicaid Programs and the Nursing Home Reform Act.\n15.  In the event that Defendant, Tucker House II, Inc.\nand/or its agents, employees, contractors and subcontractors fail\nto comply in good faith with the terms of this Consent Order or\nshould any of the Defendant's representations or warrants be\nmaterially false, the United States may at its sole discretion,\nexercise one or more of the following rights:\n(a) declare this Consent Order breached and proceed\nagainst Defendant, Tucker House II, Inc. on the underlying\nclaims*.  Irr tZtl» event:. Defendant, Tucker House II, Inc. waives\nany statutes oC limitations defenses that would not have been\navailable? to it at the time of the entry of this Consent Order.\n(b) seek contempt of court provisions based on the\nfailure of Defendant, Tucker House II, Inc. and/or its agents,\nemployees, contractors and subcontractors to comply with this\nConsent Order.\n\n(c) exercise any other right granted by law or\nrecognizable at common law or equity.\n16. Each party to this Consent Order shall bear its own\ncosts except as otherwise provided herein.\n17. Defendant, Tucker House II, Inc. and/or its agents,\nemployees, contractors and/or subcontractors agree not to take\nany retaliatory action against any individual or individuals who\ncooperated with this investigation.\n18. Defendant, Tucker House II, Inc. agrees to continue\nto cooperate with the investigation into the care of the victims\nnamed in the Complaint and will make readily available to the\nU.S. Attorney's Office, any agent or employee of Tucker House\nNursing Home for interviewing purposes or providing testimony in\nany judicial proceeding.\n19. This Consent Order shall be binding on the heirs,\nadministrators, executors, successors, and transferees of\nDefendant, Tucker House II, Inc.\nJudge\nUnited States District Court\nGO\"\n\nWe the undersigned, consent to the entry of the above\nConsent Order.  We represent to the Court that this Consent order\ncontains a complete description of the agreement between the\nparties. All material representations, understandings and\npromises of the parties are contained in this Order.  Any\nmodifications must be set forth in writing and signed by all\nparties. Defendant, Tucker House II, Inc. represents that this\nConsent Order is entered into with knowledge of the events\ndescribed herein, and that it is entered into knowingly and\nvoluntarily, without any degree of duress of compulsion\nwhatsoever.\nUNITED STATES OF AMERICA: TUCKEB MOUSE II,\nMICHAEL R.  ST\nIITED  SKAT EY By:\nFloyd W. Alston, President\nJAMES  G.  SHEI\nASSISTANT'S.  ATTORNEY\nCHIEF^CTOL  DIVISION\nDA4ID R. HOFFMAN\nASSISTANT U.S.",
+      "document_type_other": "",
+      "external_url": "",
+      "ecf_number": "8",
+      "clearinghouse_link": "clearinghouse.net/doc/2481"
+    },
+    {
+      "date": "1996-02-21",
+      "date_is_estimate": false,
+      "date_not_available": false,
+      "description": null,
+      "document_source": null,
+      "document_status": "Coding Complete",
+      "document_type": "Complaint",
+      "order_type": null,
+      "citation_paren": null,
+      "cite_1_page": null,
+      "cite_1_reporter": null,
+      "cite_1_vol": null,
+      "cite_2_page": null,
+      "cite_2_reporter": null,
+      "cite_2_vol": null,
+      "cite_3_page": null,
+      "cite_3_reporter": null,
+      "cite_3_vol": null,
+      "citation_status": "Not applicable",
+      "court": "Eastern District of Pennsylvania",
+      "no_title": false,
+      "party_types": [
+        "Plaintiff"
+      ],
+      "per_curium": false,
+      "is_core_document": true,
+      "id": 2480,
+      "file": "https://clearinghouse-umich-production.s3.amazonaws.com/media/doc/2480.pdf",
+      "title": "Complaint",
+      "text": "IN THE DKITED STATES DISTRICT COURT\nPOR THE EASTERN DISTRICT OF PENNSYLVANIA\nII¿JI·f  v. GIMS MDanagHemenPt-TucIker\nUNITED STATES OF AMERICA,\nPlaintiff,\nv. CIVIL ACTION NO. 96- f £¶ t\nGMS MANAGEMENT-TUCKER, INC.,\nTUCKER HOUSE II, INC.\nDefendants.\nCOMPLAINT\nINTRODUCTION\nThe United States Attorney for the Eastern District of\nPennsylvania brings this civil action under the False Claims Act,\n31 U.S.c. s 3729, ££ sea.. and alleges that GMS Management-\nTucker, Inc., and Tucker House II, Inc., schemed to bill and\ncollect from the United States of America for services associated\nwith the care rendered to the elderly residents of Tucker House\nNursing Home when, in fact, that care was not adequate.\nCongress, in the Omnibus Budget Reconciliation Act of 1987\n(\"OBRA '87n), enacted the Nursing Home Reform Act, 42 U.S.C.A.\nSl396r s£ seq.. (hereinafter \"the Act\") which took effect on\nOctober 1, 1990.  A nursing facility is defined in the Act as \"an\ninstitution...which—\n(1) is primarily engaged in providing to residents—\n(A)  skilled nursing care and related services for\nresidents who require medical or nursing\ncare,\n\n(B)  rehabilitation services for the\nrehabilitation of injured, disabled, or sick\npersons, or\n(C)  on a regular basis, health-related care and\nservices to individuals who because of their\nmental or physical condition require care and\nservices  (above the level of room and board)\nwhich can be made available to them only\nthrough institutional facilities, and is not\nprimarily for the care and treatment of\nmental diseases;\n42 U.S.C.A. S l396r(a).\nThe Act mandates that nursing facilities comply with federal\nrequirements relating to the provision of services. 42 U.S.C.A.\nS l396r(b).  Specifically, in terms of the quality of life for\nresidents of nursing facilities, the Act states that: \"A nursing\nfacility must care for its residents in such a manner and in such\nan environment as will promote maintenance or enhancement of the\nquality of life of each resident.\" 42 U.S.C.A. S l396r(b)(l)(A).\nAdditionally, the Act mandates that a nursing facility\n\"provide services and activities to attain or maintain the\nhighest practicable physical, mental and psychosocial well-being\nof each resident in accordance with a written plan of care which-\n(A)  describes the medical, nursing, and psychosocial\nneeds of the resident and how such needs will be\nmet;...\"\n42 U.S.C.A. S l396r(b)(2)(A).\nA duty is placed on the nursing facility to fulfill the\nresidents' care plans by providing, or arranging for the\nprovision of, inter alia, nursing and related services and\nmedically-related social services that attain or maintain the\nhighest practicable physical, mental, and psychosocial well-being\nof each resident, pharmaceutical services and dietary services\n\nthat assure that the meals meet the daily nutritional and special\ndietary needs of each resident.  42 U.S.C.A. § l396r(4)(A)(i-iv).\nThe Social Security Act mandates that skilled  nursing\nfacilities that participate in the Medicare Program and nursing\nfacilities that participate in the Medical Assistance  Program,\nalso known as Medicaid, meet certain specific requirements in\norder to qualify for such participation.  These requirements are\nset forth at 42 CFR § 483.1 e£ sea, and \"serve as the basis for\nsurvey activities for the purpose of determining whether a\nfacility meets the requirements for participation  in Medicare and\nMedicaid.1* 42 CFR S 483.1.\nFederal regulations, when addressing quality of care\nconcerns, mandate that **[e]ach resident must receive and the\nfacility must provide the necessary care and services to attain\nor maintain the highest practicable physical, mental, and\npsychosocial well-being, in accordance with the comprehensive\nassessment and plan of care.\"  42 CFR S 483.25.  The regulations\nspecifically address the area of nutrition:\n(i) Nutrition.  Based on a resident's  comprehensive\nassessment, the facility must ensure that a resident—\n(1) Maintains acceptable parameters of nutritional\nstatus, such as body weight and protein levels, unless the\nresident's clinical condition demonstrates that this is not\npossible; and\n(2) Receives a therapeutic diet when there is a\nnutritional problem.  42 CFR S 483.25(i).\n\nAdditionally, the Federal regulations specifically address those\nindividuals who are tube-fed:\n(g) Naso-gastric tubes.  Based on the comprehensive\nassessment of a resident, the facility must ensure that—\n(1)  A resident who has been able to eat enough\nalone or with assistance is not fed by naso-gastric tube\nunless the resident's clinical condition demonstrates that\nuse of a naso-gastric tube was unavoidable; and\n(2)  A resident who is fed by a naso-gastric or\ngastrostomy tube receives the appropriate treatment and\nservices to prevent aspiration pneumonia, diarrhea,\nvomiting, dehydration, metabolic abnormalities, and nasal-\npharyngeal ulcers and to restore, if possible, normal eating\nskills.  42 CFR S 483.25(g).\nTucker House Nursing Home is a licensed long-term care\n(nursing) facility under federal and state law and is certified\nto participate in the Medicare and Medical Assistance Programs.\nThe Medicare Program is a health insurance program for\nindividuals 65 years and older, certain disabled individuals\nunder ag· 65 and people of any ag· who have permanent kidney\nfailure.  Th· Medicare statute is codified at 42 U.S.C.A. S 1395\n(Title XVIII of the Social Security Act).\nThe Medical Assistance Program is a joint federal-state\nprogram funded under Title XIX of the Social Security Act.  The\nDepartment of Public Welfare administers the Medical Assistance\n\nProgram in Pennsylvania.  As a prerequisite to enrollment as a\nprovider in. the Medical Assistance Program, Tucker House entered\ninto a provider agreement and agreed to the following provisions:\n1.  That the submission by, or on behalf of, the\nFacility of any claim, either by hard copy or electronic\nmeans, shall be certification that the services or items\nfrom which payment is claimed actually were provided to the\nperson identified as a medical assistance resident by the\nperson or entity identified as the Facility on the dates\nindicated.\n*******\n5.  That the Facility's participation in the Medical\nAssistance Program is subject to the laws and regulations\neffective as to the period of participation, including all\nof those that may be effective after the date of the\nagreement and that the Facility has the responsibility to\nknow the law with respect to participation in the Medical\nAssistance Program.\nAt all times relevant to this action, Tucker House was a\n\"provider\" with a valid provider agreement with the Pennsylvania\nDepartment of Public Weliare.\nTh· Nursing Home Reform Act also mandates that the state\nshall b· responsible for certifying, in accordance with surveys\nconducted by the state, the compliance of nursing facilities\n(other than facilities of the State)... The Secretary [Department\nof Health and Human Services] shall be responsible for\n\ncertifying.../ the compliance of State nursing facilities with\nthe requirements of such subsections.  42 U.S.C.A.\nS l396r(g)¯(D (A).\nThe Pennsylvania Department of Health is responsible for\nperforming the survey function of long-term care facilities in\nPennsylvania.  By state regulation, facilities are required to\nmeet the daily nutritional needs of patients.  28 Pa. Code\nS 211.6(a).  Additionally, if consultant dietary services are\nused, the consultant's visits must be at appropriate times and of\nsufficient duration and frequency to provide continuing liaison\nwith medical and nursing staff and provide advice to the\nadministrator and participate in the development and revision of\ndietary policies and procedures.  28 Pa. Code § 2ll.6(m).\nLong-term care facilities are also required to provide\nnursing services that meet the needs of residents.  28 Pa. Code\nS 211.12(a).  It is incumbent upon the director of nursing\nservices to assure that \"preventive measures, treatments,\nmedications, diet and other health services prescribed are\nproperly carried out...\" 28 Pa. Code S 2ll.l2(e)(9).\nMoreover, a nursing facility is required to retain a medical\ndirector who is responsible for the \"coordination of the medical\ncare in th· facility to ensure the adequacy and appropriateness\nof the m·dical services provided to patients.\"  28 Pa. Code\nS 211.2(k).\nFinally, a nursing home administrator is charged with the\ngeneral administration of the facility whether or not his or her\n\nfunctions are shared with one or more other individuals.  63 P.s.\nS 1102(2)^... According to regulations promulgated by the Nursing\nHome Administrators Board, a nursing home administrator is\nresponsible for: (a) evaluating the quality of resident care and\nefficiency of services, (b) maintaining compliance with\ngovernmental regulations, and (c) developing policies which\ngovern the continuing care and related medical and other services\nprovided by the facility which reflect the facility's philosophy\nto provide a high level of resident care in a healthy, safe and\ncomfortable environment.  49 Pa. Code §§ 39.91(1)(i),(ii),(vi).\nIn March 1994, Tucker House was surveyed by Pennsylvania\nDepartment of Health surveyors. The surveyors ordered Tucker\nHouse personnel to immediately arrange for the transfer of\nseveral residents from Tucker House to local hospitals for\ntreatment.  Ultimately, new management was installed at Tucker\nHouse Nursing Home.\nThe Government's complaint charges that the defendants\ncaused the submission of false or fraudulent claims to the United\nStates for payment for care that was not adequately rendered to\nsome of the most vulnerable members of our society; the frail,\nimmobil· elderly residing at Tucker House Nursing Home.\n\nFACTUAL BASIS FOR COMPLAINT\nRESIDENT 1-\nResident 1 entered Tucker House Nursing Home in 1989.  He\nweighed 125 pounds and had a serum albumin of 3.1 at the time of\nadmission. The normal range for serum albumin is between 3.5 and\n4.5. Resident l·s height was between 5· 9·· and 5· 11\" and his\nideal body weight was between 148 and 158 pounds. From November\n1991 through August 1993, his weight decreased. In August 1993,\nResident 1 weighed 105 pounds and in October 1993, he weighed 104\npounds.  By January 1994, Resident l's serum albumin was 1.8,\nwhich indicates profound protein malnourishment.  While at Tucker\nHouse Nursing Home, Resident 1 was not provided with adequate\nnutrition and was so malnourished by October 1993, there was no\nway that his body could heal itself or respond to injury in a\nsuccessful manner. Resident l was hospitalized in March of 1994\nand was suffering from multiple Stage IV decubitus ulcers.\nRESIDENT 2\nResident 2 entered Tucker House Nursing Home in 1987\nweighing 168 pounds which was 20% over his ideal body weight.  As\nof February 1990, he weighed 14l pounds which was approximately\nhis ideal body weight.  By August 1992, Resident 2 weighed 116\npounds which was approximately 83% of his id·al body weight.  In\nFebruary 1993, Resident 2 began to develop decubitus ulcers that\ndid not heal.  By October 1993, he weighed 98 pounds and his\nserum albumin level was 2.6 indicating severe protein\nmalnourishment.  In October 1993, Resident 2 was found to be\n8\n\nmalnourished by physician consultants at Tucker House Nursing\nHome which_·led to him being hospitalized, yet the proper amount\nof nutritional alimentation was not provided until March 1994.\nRESIDENT 3\nResident 3 was admitted to Tucker House Nursing Home in\nNovember 1989.  In 1993, she began to lose weight and her skin\nbegan to break down.  A weight loss of 19.2 pounds was noted in\nDecember 1993 and Resident 3, at that point in time, weighed 98.2\npounds.  Her ideal body weight was 110 pounds.  Three days later\nshe was weighed at 92.7 pounds with a notation in the nursing\nhome's records that her appetite was good. By February 1994,\nResident 3's albumin was 2.2 which evidenced the fact that she\nwas profoundly malnourished.  As of March 15, 1994, Resident 3\nweighed 85 pounds.\nAdditionally, Resident 3 was ambulatory upon admission and\nher medical records do not evidence an unavoidable decline in\nambulation.  As evidenced in her nursing home records, she was\nfrequently in a wheelchair, often in restraints. This positioning\ndoes not allow for adequate pressure relief for the sacral and\ngluteal areas.  The decubitus ulcers that were noted that\noccurred prior to January 1994 were related to inadequate\npressure relief.\n\nTn i eviction and\nr\n.1.  This Court has jurisdiction over this action\npursuant to 28 U.S.C. SS 1331, 1345 and 31 U.S.C. § 3729 £t\n2.  Venue is proper in the Eastern District of\nPennsylvania under 28 U.S.C. SS 1391 (b) and (c).\nParties\n3.  Plaintiff is the United States of America acting\nfor itself, the Department of Health and Human Services, the\nMedicare Trust Fund, the Medical Assistance Program and the\nbeneficiaries thereof.\n4.  Defendant, GMS Management-Tucker, Inc., is a for-\nprofit Pennsylvania corporation located at 5601 Chestnut Street,\nPhiladelphia, Pa. 19139.\n5.  Defendant, Tucker House II, Inc., is a non-profit\nPennsylvania corporation which owns Tucker House Nursing Home, a\nlicensed and certified long-term care facility located at 1001-\n1011 Wallace Street, Philadelphia, Pa. 19123.\nCOUNT I\nFALSE CLAIMS ACTl 31 U.S.C. < 3729\n6.  The above paragraphs are realleged as though fully\nset forth herein.\n7.  Defendant, Tucker House II, Inc. is the owner and\nlicense* of Tucker House Nursing Home and is responsible for\nensuring that all state and federal laws, regulations and\nrequirements were complied with at all times.\n10\n\n8. Defendant, Tucker House II, inc. entered into a\nmanagement-_eontract with defendant GMS Management-Tucker, Inc.\nand Total Care Management Services, Inc. for the operation of\nTucker House Nursing Home.\n9. Defendant, GMS Management-Tucker, Inc. required that\nTucker House Nursing Home personnel utilize the nursing and\nnutritional services provided by GMS Management-Tucker, Inc. in\ncaring for residents of Tucker House.\n10. Defendant, GMS Management-Tucker, Inc. was\nresponsible for the nutritional evaluation of residents of Tucker\nHouse Nursing Home. In accordance with state and federal\nregulations, the nutritionists, in conjunction with the attending\nphysicians, were also responsible for ensuring that residents\nreceived adequate nutrition.\n11.  Defendant, GMS Management-Tucker, Inc. failed to\nrecommend adequate nutritional requirements for Residents 1, 2,\nand 3 yet claims for such care were submitted to and reimbursed\nby the government.\n12.  The provision of adequate nutrition was the\nresponsibility of not only the nutritionists but included the\nTucker House nursing staff as well.  The nursing staff at Tucker\nHouse was supervised by the Director of Nursing.  The Director of\nNursing was apprised of all Tucker House Nursing Home residents\nthat were losing weight.\n13.  The Director of Nursing at Tucker House Nursing\nHome was employed by defendant, GMS Management-Tucker, Inc.\n11\n\n14.  The Nursing Home Administrator was responsible for\nthe overall care provided to residents at Tucker House Nursing\nHome.  The Administrator at Tucker House Nursing Home was an\nemployee of GMS Management-Tucker, Inc.\n15.  The care provided to Residents 1, 2, 3 that is the\nsubject of this lawsuit was inadequate in terms of nursing care\nand nutrition, both of which were the responsibility of the\nNursing Home Administrator.\n16. Agents and/or employees of defendant, GMS\nManagement-Tucker, Inc. were responsible for the provision of\nnursing and nutritional services to Residents l, 2 and 3.\n17.  The billing information applicable to the care\nprovided to Residents 1, 2 and 3 was transmitted from Tucker\nHouse staff to agents and/or employees of defendant GMS\nManagement-Tucker, Inc. for submission to the government for\nreimbursement by the Medicare and Medical Assistance Programs.\n18.  Agents and/or employees of defendant, GMS\nManagement-Tucker, Inc. submitted false, fictitious or fraudulent\nclaims to the Pennsylvania Department of Public Welfare, Medical\nAssistance Program for nutritional services that were not\nadequately rendered to Residents l, 2, and 3 for the time period\nJanuary 1993 through March 1994, by certifying that the\ninformation contained on the invoices, diskettes or tapes was\naccurate and complete with the full understanding that payment\nand satisfaction of the claims was from Federal and state funds\nand that prosecution for false claims, statements or documents,\n12\n\nor concealment of material facts was a part of the certification.\n31 U.S.C.A... S 3729.\n19.  Defendants, Tucker House II, inc. and GMS\nManagement-Tucker, Inc., caused the repeated submission of false,\nfictitious or fraudulent claims to the Pennsylvania Department of\nPublic Welfare, Medical Assistance Program, and to the Medicare\nProgram for nutritional services that were not adequately\nrendered to Residents 1, 2, and 3 for the time period January\n1993 through March 1994.  31 U.S.C. S 3729.\n20.  All named defendants knowingly and willfully did\nnot ascertain the truth or falsity of the claims for services\nsubmitted to the Pennsylvania Department of Public Welfare and to\nthe Medicare Program for payment on behalf of Residents 1, 2 and\n3, all of whom were Medical Assistance recipients and Medicare\nbeneficiaries.  31 U.S.C. § 3729.\n21.  All named defendants acted in reckless disregard\nof the care and services ordered and actually provided to\nResidents 1, 2 and 3 while residing at Tucker House when billing\nthe Medicare and Medical Assistance Programs.  31 U.S.C. S 3729.\n22.  The United States was damaged as a result of the\nconduct described above.\nWHEREFORE, plaintiff United States of America demands\nand pray» that judgment be entered in its favor and against the\ndefendants, Tucker House II, Inc. and GMS Management-Tucker,\nInc., jointly and severally as follows:\n13\n\na. an amount equal to the number of false or fraudulent\nclaims that.-will be proven at trial, multiplied as provided for\nin 31 U.S.C. S 3729 (a) and imposition of $10,000.00 per claim;\nb. three times that total amount of damages sustained\nby the United States because of the acts complained of;\nc. costs of this action;\nd. such other and further relief as the Court shall\ndeem proper.\nCOUNT II:  UNJUST ENRICHMENT\n23.  The foregoing paragraphs are incorporated herein\nby reference as if fully set forth.\n24.  The conduct described in the foregoing paragraphs\ncaused defendants Tucker House II, Inc. and GMS Management-\nTucker, Inc. to receive, directly or indirectly, benefits from\nthe United States.\n25.  Under the circumstances described in the foregoing\nparagraphs, as between the United States and each defendant in\nthis Count, retention by each defendant of the benefits conferred\nby the United States would be unjust.\nWHEREFORE, plaintiff the United States of America\ndemands judgment in its favor and against defendants, Tucker\nHouse II  Inc., and GMS Management-Tucker, Inc., jointly and\nr\nseverally, and relief as follows:\na.  an amount equal to the gain to the defendants as a\nresult of the conspiracies and activities complained of;\n14\n\nb.  interest according to law;\nc.  costs of this action; and\nd.  such other and further relief as this Court may\ndeem proper.\nRespectfully submitted,\nMICHAEL R. STILES\nATTORNEY\nJAHES G. SHEEHAN\nASSISTANT U.S. ATTORNEY\nDIVISION\nDAVID R.'¾OFFMAN'X^\nASSISTANT U.S. ATTORNEY\nDated:\n15",
+      "document_type_other": "",
+      "external_url": "",
+      "ecf_number": "1",
+      "clearinghouse_link": "clearinghouse.net/doc/2480"
+    },
+    {
+      "date": null,
+      "date_is_estimate": false,
+      "date_not_available": false,
+      "description": null,
+      "document_source": null,
+      "document_status": null,
+      "document_type": null,
+      "order_type": null,
+      "citation_paren": null,
+      "cite_1_page": null,
+      "cite_1_reporter": null,
+      "cite_1_vol": null,
+      "cite_2_page": null,
+      "cite_2_reporter": null,
+      "cite_2_vol": null,
+      "cite_3_page": null,
+      "cite_3_reporter": null,
+      "cite_3_vol": null,
+      "citation_status": null,
+      "court": null,
+      "no_title": false,
+      "party_types": [],
+      "per_curium": false,
+      "is_core_document": true,
+      "id": 128465,
+      "file": null,
+      "title": null,
+      "text": null,
+      "document_type_other": null,
+      "external_url": null,
+      "ecf_number": null,
+      "clearinghouse_link": "clearinghouse.net/doc/128465"
+    }
+  ],
+  "document_count": 4
+}

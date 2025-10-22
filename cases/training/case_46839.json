@@ -1,0 +1,486 @@
+{
+  "case_id": 46839,
+  "fetched_at": "2025-10-22T00:47:38.753036",
+  "case_data": {
+    "attorney_orgs": [
+      "Earthjustice"
+    ],
+    "available_documents": [
+      "Trial Court Docket",
+      "Complaint (any)"
+    ],
+    "case_defendants": [
+      {
+        "defendant_level": null,
+        "institution": "",
+        "institution_alt_state": "- United States (national) -",
+        "institution_city": "",
+        "institution_county": null,
+        "name": "United States Environmental Protection Agency",
+        "defendant_level_other": "",
+        "is_active": true
+      }
+    ],
+    "case_ongoing": "Yes",
+    "case_status": "Approved",
+    "case_types": [
+      "Presidential/Gubernatorial Authority",
+      "Environmental Justice"
+    ],
+    "cause_other": "",
+    "causes": [
+      "Ex Parte Young (Federal) or Bivens",
+      "Administrative Procedure Act, 5 U.S.C. §§ 551 et seq.",
+      "Ex parte Young (federal or state officials)"
+    ],
+    "class_action_granted": "Not sought",
+    "class_action_sought": "No",
+    "closing_year": null,
+    "constitutional_clause": [
+      {
+        "value": "Separation of Powers"
+      },
+      {
+        "value": "Presentment Clause"
+      }
+    ],
+    "content_of_injunction": [],
+    "court": "District of District of Columbia",
+    "custom_issues": [],
+    "defendant_payment": "",
+    "defendant_type": [
+      {
+        "value": "Jurisdiction-wide"
+      }
+    ],
+    "docket_status": "Complete as of retrieval date",
+    "facility_type": [],
+    "filing_date": "2025-07-31",
+    "filing_year": 2025,
+    "id": 46839,
+    "injunction_duration": "",
+    "issues": [
+      "General/Misc., Reproductive rights, Environmental Justice and Resources: Funding"
+    ],
+    "last_checked_date": "2025-10-07T00:00:00-04:00",
+    "main_docket": {
+      "id": 62077,
+      "docket_entries": [
+        {
+          "row_number": 2,
+          "id": 10352378,
+          "entry_number": "11",
+          "date_filed": "2025-09-25T00:00:00-04:00",
+          "attachments": null,
+          "url": "https://www.courtlistener.com/docket/70981023/11/building-materials-re-use-association-v-united-states-environmental/",
+          "recap_pdf_url": null,
+          "pacer_doc_id": "045011655591",
+          "description": "Extension of Time to File Answer"
+        },
+        {
+          "row_number": 0,
+          "id": 10147101,
+          "entry_number": "1",
+          "date_filed": "2025-07-31T00:00:00-04:00",
+          "attachments": [
+            {
+              "recap_id": 447708652,
+              "pacer_url": "https://ecf.dcd.uscourts.gov/doc1/045011539526?caseid=283284",
+              "description": "Exhibit A",
+              "attachment_number": 1
+            },
+            {
+              "recap_id": 447708653,
+              "pacer_url": "https://ecf.dcd.uscourts.gov/doc1/045011539527?caseid=283284",
+              "description": "Exhibit B",
+              "attachment_number": 2
+            },
+            {
+              "recap_id": 447708654,
+              "pacer_url": "https://ecf.dcd.uscourts.gov/doc1/045011539528?caseid=283284",
+              "description": "Exhibit C",
+              "attachment_number": 3
+            },
+            {
+              "recap_id": 447708655,
+              "pacer_url": "https://ecf.dcd.uscourts.gov/doc1/045011539529?caseid=283284",
+              "description": "Exhibit D",
+              "attachment_number": 4
+            },
+            {
+              "recap_id": 447708656,
+              "pacer_url": "https://ecf.dcd.uscourts.gov/doc1/045011539530?caseid=283284",
+              "description": "Exhibit E",
+              "attachment_number": 5
+            },
+            {
+              "recap_id": 447708657,
+              "pacer_url": "https://ecf.dcd.uscourts.gov/doc1/045011539531?caseid=283284",
+              "description": "Exhibit F",
+              "attachment_number": 6
+            },
+            {
+              "recap_id": 447708658,
+              "pacer_url": "https://ecf.dcd.uscourts.gov/doc1/045011539532?caseid=283284",
+              "description": "Exhibit G",
+              "attachment_number": 7
+            },
+            {
+              "recap_id": 447708659,
+              "pacer_url": "https://ecf.dcd.uscourts.gov/doc1/045011539533?caseid=283284",
+              "description": "Exhibit H",
+              "attachment_number": 8
+            },
+            {
+              "recap_id": 447708660,
+              "pacer_url": "https://ecf.dcd.uscourts.gov/doc1/045011539534?caseid=283284",
+              "description": "Exhibit I",
+              "attachment_number": 9
+            },
+            {
+              "recap_id": 447708661,
+              "pacer_url": "https://ecf.dcd.uscourts.gov/doc1/045011539535?caseid=283284",
+              "description": "Exhibit J",
+              "attachment_number": 10
+            },
+            {
+              "recap_id": 447708662,
+              "pacer_url": "https://ecf.dcd.uscourts.gov/doc1/045011539536?caseid=283284",
+              "description": "Exhibit K",
+              "attachment_number": 11
+            },
+            {
+              "recap_id": 447708663,
+              "pacer_url": "https://ecf.dcd.uscourts.gov/doc1/045011539537?caseid=283284",
+              "description": "Exhibit L",
+              "attachment_number": 12
+            },
+            {
+              "recap_id": 447708664,
+              "pacer_url": "https://ecf.dcd.uscourts.gov/doc1/045011539538?caseid=283284",
+              "description": "Exhibit M",
+              "attachment_number": 13
+            },
+            {
+              "recap_id": 447708665,
+              "pacer_url": "https://ecf.dcd.uscourts.gov/doc1/045011539539?caseid=283284",
+              "description": "Civil Cover Sheet",
+              "attachment_number": 14
+            },
+            {
+              "recap_id": 447708666,
+              "pacer_url": "https://ecf.dcd.uscourts.gov/doc1/045011539540?caseid=283284",
+              "description": "Summons",
+              "attachment_number": 15
+            },
+            {
+              "recap_id": 447708667,
+              "pacer_url": "https://ecf.dcd.uscourts.gov/doc1/045011539541?caseid=283284",
+              "description": "Summons",
+              "attachment_number": 16
+            },
+            {
+              "recap_id": 447708668,
+              "pacer_url": "https://ecf.dcd.uscourts.gov/doc1/045011539542?caseid=283284",
+              "description": "Summons",
+              "attachment_number": 17
+            },
+            {
+              "recap_id": 447708669,
+              "pacer_url": "https://ecf.dcd.uscourts.gov/doc1/045011539543?caseid=283284",
+              "description": "Summons",
+              "attachment_number": 18
+            }
+          ],
+          "url": "https://www.courtlistener.com/docket/70981023/1/building-materials-re-use-association-v-united-states-environmental/",
+          "recap_pdf_url": "https://www.courtlistener.com/recap/gov.uscourts.dcd.283284/gov.uscourts.dcd.283284.1.0.pdf",
+          "pacer_doc_id": "045011539525",
+          "description": "COMPLAINT against UNITED STATES ENVIRONMENTAL PROTECTION AGENCY, LEE ZELDIN ( Filing fee $ 405 receipt number ADCDC-11857484) filed by BUILDING MATERIALS RE-USE ASSOCIATION. (Attachments: # 1 Exhibit A, # 2 Exhibit B, # 3 Exhibit C, # 4 Exhibit D, # 5 Exhibit E, # 6 Exhibit F, # 7 Exhibit G, # 8 Exhibit H, # 9 Exhibit I, # 10 Exhibit J, # 11 Exhibit K, # 12 Exhibit L, # 13 Exhibit M, # 14 Civil Cover Sheet, # 15 Summons, # 16 Summons, # 17 Summons, # 18 Summons)(Oberleiton, Timothy) (Attachment 14 replaced on 8/1/2025) (zmbs). (Entered: 07/31/2025)"
+        },
+        {
+          "row_number": 4,
+          "id": 10147103,
+          "entry_number": "3",
+          "date_filed": "2025-07-31T00:00:00-04:00",
+          "attachments": [],
+          "url": "https://www.courtlistener.com/docket/70981023/3/building-materials-re-use-association-v-united-states-environmental/",
+          "recap_pdf_url": null,
+          "pacer_doc_id": "045011539628",
+          "description": "LCvR 26.1 CERTIFICATE OF DISCLOSURE of Corporate Affiliations and Financial Interests by BUILDING MATERIALS RE-USE ASSOCIATION (Oberleiton, Timothy) (Entered: 07/31/2025)"
+        },
+        {
+          "row_number": 5,
+          "id": 10215407,
+          "entry_number": "4",
+          "date_filed": "2025-08-01T00:00:00-04:00",
+          "attachments": null,
+          "url": "https://www.courtlistener.com/docket/70981023/4/building-materials-re-use-association-v-united-states-environmental/",
+          "recap_pdf_url": null,
+          "pacer_doc_id": "045011540296",
+          "description": "SUMMONS (4) Issued Electronically as to All Defendants, U.S. Attorney and U.S. Attorney General (Attachments: # 1 Notice and Consent)(zmbs) (Entered: 08/01/2025)"
+        },
+        {
+          "row_number": 7,
+          "id": 10215409,
+          "entry_number": "6",
+          "date_filed": "2025-08-13T00:00:00-04:00",
+          "attachments": null,
+          "url": "https://www.courtlistener.com/docket/70981023/6/building-materials-re-use-association-v-united-states-environmental/",
+          "recap_pdf_url": null,
+          "pacer_doc_id": "045011565149",
+          "description": "Summons Returned Executed as to US Attorney"
+        },
+        {
+          "row_number": 8,
+          "id": 10215410,
+          "entry_number": "7",
+          "date_filed": "2025-08-15T00:00:00-04:00",
+          "attachments": null,
+          "url": "https://www.courtlistener.com/docket/70981023/7/building-materials-re-use-association-v-united-states-environmental/",
+          "recap_pdf_url": null,
+          "pacer_doc_id": "045011568721",
+          "description": "Summons Returned Executed as to U.S. Attorney General"
+        },
+        {
+          "row_number": 11,
+          "id": 10215412,
+          "entry_number": null,
+          "date_filed": "2025-08-01T00:00:00-04:00",
+          "attachments": null,
+          "url": "https://www.courtlistener.com",
+          "recap_pdf_url": null,
+          "pacer_doc_id": null,
+          "description": "Case Assigned/Reassigned"
+        },
+        {
+          "row_number": 12,
+          "id": 10215413,
+          "entry_number": null,
+          "date_filed": "2025-08-01T00:00:00-04:00",
+          "attachments": null,
+          "url": "https://www.courtlistener.com",
+          "recap_pdf_url": null,
+          "pacer_doc_id": null,
+          "description": "Case Assigned to Judge Amy Berman Jackson. (zmbs)"
+        },
+        {
+          "row_number": 13,
+          "id": 10215414,
+          "entry_number": null,
+          "date_filed": "2025-08-01T00:00:00-04:00",
+          "attachments": null,
+          "url": "https://www.courtlistener.com",
+          "recap_pdf_url": null,
+          "pacer_doc_id": null,
+          "description": "Order on Motion for Leave to Appear Pro Hac Vice"
+        },
+        {
+          "row_number": 10,
+          "id": 10275135,
+          "entry_number": "9",
+          "date_filed": "2025-09-05T00:00:00-04:00",
+          "attachments": null,
+          "url": "https://www.courtlistener.com/docket/70981023/9/building-materials-re-use-association-v-united-states-environmental/",
+          "recap_pdf_url": null,
+          "pacer_doc_id": "045011612845",
+          "description": "Summons Returned Executed as to Federal Defendant"
+        },
+        {
+          "row_number": 3,
+          "id": 10147102,
+          "entry_number": "2",
+          "date_filed": "2025-07-31T00:00:00-04:00",
+          "attachments": [],
+          "url": "https://www.courtlistener.com/docket/70981023/2/building-materials-re-use-association-v-united-states-environmental/",
+          "recap_pdf_url": null,
+          "pacer_doc_id": "045011539598",
+          "description": "MOTION for Leave to Appear Pro Hac Vice :Attorney Name- Meghan L. Riley, Filing fee $ 100, receipt number ADCDC-11857594. Fee Status: Fee Paid. by BUILDING MATERIALS RE-USE ASSOCIATION. (Attachments: # 1 Declaration, # 2 Certificate of Good Standing, # 3 Text of Proposed Order)(Oberleiton, Timothy) (Entered: 07/31/2025)"
+        },
+        {
+          "row_number": 6,
+          "id": 10215408,
+          "entry_number": "5",
+          "date_filed": "2025-08-13T00:00:00-04:00",
+          "attachments": null,
+          "url": "https://www.courtlistener.com/docket/70981023/5/building-materials-re-use-association-v-united-states-environmental/",
+          "recap_pdf_url": null,
+          "pacer_doc_id": "045011563959",
+          "description": "Notice of Appearance"
+        },
+        {
+          "row_number": 9,
+          "id": 10215411,
+          "entry_number": "8",
+          "date_filed": "2025-08-15T00:00:00-04:00",
+          "attachments": null,
+          "url": "https://www.courtlistener.com/docket/70981023/8/building-materials-re-use-association-v-united-states-environmental/",
+          "recap_pdf_url": null,
+          "pacer_doc_id": "045011568773",
+          "description": "Summons Returned Executed as to Federal Defendant"
+        },
+        {
+          "row_number": 1,
+          "id": 10350267,
+          "entry_number": "10",
+          "date_filed": "2025-09-24T00:00:00-04:00",
+          "attachments": null,
+          "url": "https://www.courtlistener.com/docket/70981023/10/building-materials-re-use-association-v-united-states-environmental/",
+          "recap_pdf_url": null,
+          "pacer_doc_id": "045011651620",
+          "description": "Notice of Appearance"
+        },
+        {
+          "row_number": 14,
+          "id": 10215415,
+          "entry_number": null,
+          "date_filed": "2025-08-01T00:00:00-04:00",
+          "attachments": null,
+          "url": "https://www.courtlistener.com",
+          "recap_pdf_url": null,
+          "pacer_doc_id": null,
+          "description": "MINUTE ORDER granting 2 Motion for Meghan L. Riley to Appear Pro Hac Vice only upon condition that the lawyer admitted, or at least one member of the lawyer's firm, undergo CM/ECF training, obtain a CM/ECF username and password, and agree to file papers electronically. No court papers will be mailed to any lawyer. Counsel should register for e-filing via PACER and file a notice of appearance pursuant to LCvR 83.6(a) Click for instructions. Signed by Judge Amy Berman Jackson on 8/1/25. (DMK)"
+        },
+        {
+          "row_number": 15,
+          "id": 10352379,
+          "entry_number": null,
+          "date_filed": "2025-09-26T00:00:00-04:00",
+          "attachments": null,
+          "url": "https://www.courtlistener.com",
+          "recap_pdf_url": null,
+          "pacer_doc_id": null,
+          "description": "Order on Motion for Extension of Time to Answer AND Set/Reset Deadlines"
+        }
+      ],
+      "docket_case_type": "cv",
+      "docket_year": 2025,
+      "docket_filing_number": 2493,
+      "is_main_docket": true,
+      "court": "District of District of Columbia",
+      "state": "District of Columbia",
+      "docket_office_number": "1",
+      "docket_number_manual": "1:25-cv-02493",
+      "scales_html": null,
+      "recap_link": "https://www.courtlistener.com/docket/70981023/building-materials-re-use-association-v-united-states-environmental/",
+      "is_active": true
+    },
+    "name": "Building Materials Re-Use Association v. United States Environmental Protection Agency",
+    "never_filed": false,
+    "non_docket_case_number": "",
+    "non_docket_case_number_type": null,
+    "non_docket_case_number_type_other": "",
+    "order_end_year": null,
+    "order_start_year": null,
+    "permanent_injunction": false,
+    "plaintiff_description": "A nonprofit organization that is the primary national organization dedicated to supporting the U.S. building materials reuse industry.",
+    "plaintiff_type": [
+      {
+        "value": "Non-profit NON-religious organization"
+      }
+    ],
+    "prevailing_party": "None Yet / None",
+    "pro_se_status": "No",
+    "public_interest_lawyer": "Yes",
+    "related_cases": [],
+    "relief_natures": [
+      "None yet"
+    ],
+    "relief_nature_other": "",
+    "relief_sources": [
+      "None yet"
+    ],
+    "settlement_agreement": [],
+    "settlement_judgment_date": null,
+    "settlement_judgment_year": null,
+    "special_collections": [
+      "Trump Administration 2.0: Challenges to the Government",
+      "Trump Administration 2.0: Challenges to the Government",
+      "Trump Administration 2.0: Challenges to the Government"
+    ],
+    "special_case_type": [],
+    "state": "District of Columbia",
+    "summary": "<p>This case challenged the U.S. Environmental Protection Agency's (EPA) termination of the Reducing Embodied Greenhouse Gas (GHG) Emissions for Construction Materials and Products Program (the \"Program\"). The Building Materials Re-Use Association (BMRA), a nonprofit organization described as the primary national entity supporting the U.S. building materials reuse industry, had been selected as one of 38 recipients of federal grants under the Program, receiving an award totaling $6,703,990. BMRA alleged that the Program's abrupt termination caused it substantial harm, including the forced cessation of ongoing work, severe financial strain, loss of investment opportunities, and related operational disruptions.</p>\r\n<p>On July 31, 2025, BMRA filed this lawsuit in the U.S. District Court for the District of Columbia against the EPA and its Administrator. The complaint alleged that Defendants' actions violated the Separation of Powers doctrine, the Presentment Clauses of the U.S. Constitution, and the Administrative Procedure Act (APA). Specifically, BMRA contended that the EPA's decision to terminate the Program was arbitrary and capricious under the APA and contrary to law.</p>\r\n<p>Plaintiff sought a declaratory judgment and injunctive relief to reinstate the Program and its awarded grant, along with costs and attorneys' fees. The case was assigned to U.S. District Judge Amy Berman Jackson.&nbsp;</p>\r\n<p>The case is ongoing.&nbsp;</p>",
+    "summary_published_date": "2025-08-07T17:41:26.078243-04:00",
+    "summary_short": "This case challenges the U.S. Environmental Protection Agency’s (EPA) termination of the Reducing Embodied Greenhouse Gas (GHG) Emissions for Construction Materials and Products Program. The Building Materials Re-Use Association (BMRA), a nonprofit supporting the U.S. building materials reuse industry, was one of 38 grantees under the Program, receiving $6.7 million. BMRA alleges the Program’s abrupt end forced it to halt ongoing work, caused severe financial strain, and disrupted operations.\r\n\r\nOn July 31, 2025, BMRA sued the EPA and its Administrator in the U.S. District Court for the District of Columbia. The complaint claims the termination violated the Separation of Powers, the Presentment Clauses of the U.S. Constitution, and the Administrative Procedure Act (APA), arguing the decision was arbitrary and capricious.\r\n\r\nBMRA seeks a declaratory judgment, an injunction reinstating the Program and its grant award, and costs and attorneys’ fees. The case is before Judge Amy Berman Jackson and is ongoing.",
+    "summary_tiny": null,
+    "terminating_date": null,
+    "clearinghouse_link": "clearinghouse.net/case/46839",
+    "is_active": true,
+    "case_documents_url": "https://clearinghouse.net/api/v2/documents/?case=46839",
+    "case_dockets_url": "https://clearinghouse.net/api/v2/dockets/?case=46839",
+    "case_resources_url": "https://clearinghouse.net/api/v2/resources/?case=46839"
+  },
+  "documents": [
+    {
+      "date": "2025-07-31",
+      "date_is_estimate": false,
+      "date_not_available": false,
+      "description": "",
+      "document_source": "RECAP",
+      "document_status": "Coding Complete",
+      "document_type": "Complaint",
+      "order_type": null,
+      "citation_paren": null,
+      "cite_1_page": null,
+      "cite_1_reporter": null,
+      "cite_1_vol": null,
+      "cite_2_page": null,
+      "cite_2_reporter": null,
+      "cite_2_vol": null,
+      "cite_3_page": null,
+      "cite_3_reporter": null,
+      "cite_3_vol": null,
+      "citation_status": "Not applicable",
+      "court": "District of District of Columbia",
+      "no_title": false,
+      "party_types": [
+        "Plaintiff"
+      ],
+      "per_curium": false,
+      "is_core_document": true,
+      "id": 162403,
+      "file": "https://clearinghouse-umich-production.s3.amazonaws.com/media/doc/162403.pdf",
+      "title": "Complaint for Declaratory and Injunctive Relief",
+      "text": "Case 1:25-cv-02493     Document 1     Filed 07/31/25     Page 1 of 27\n     \n \nIN THE UNITED STATES DISTRICT COURT \nFOR THE DISTRICT OF COLUMBIA \n \nBUILDING MATERIALS RE-USE  \nASSOCIATION \n214 N Lexington Street  \nPittsburgh, PA 15208-2589 \n \nPlaintiff,  \n \nv.                Civil Case No.: _____________ \n \nUNITED STATES ENVIRONMENTAL  \nPROTECTION AGENCY;  \n1200 Pennsylvania Ave. NW \nWashington, DC 20460 \n \nLEE ZELDIN, in his official capacity as  \nAdministrator of the United States  \nEnvironmental Protection Agency;  \nMail Code 1101A \n1200 Pennsylvania Ave. NW \nWashington, DC 20460 \n \nDefendants.  \n \nCOMPLAINT \nFOR DECLARATORY AND INJUNCTIVE RELIEF \n \nPlaintiff Building Materials Re-use Association (“Plaintiff”) brings this action against \nDefendants United States Environmental Protection Agency (“EPA”) and Administrator Lee \nZeldin, in his official capacity, (collectively, “Defendants”). \nINTRODUCTION \n1. In February 2025, the EPA, under direction from President Donald J. Trump, began to \neliminate a host of congressionally-authorized and executive-administered programs, including \nthe Reducing Embodied GHG Emissions for Construction Materials and Products Program (the \n“Program”). This Program was created by Congress and funded by specific appropriations of the \n\nCase 1:25-cv-02493     Document 1     Filed 07/31/25     Page 2 of 27\nInflation Reduction Act (“IRA”). Inflation Reduction Act of 2022, PL 117-169, August 16, 2022, \n136 Stat 1818, 2078. \n2. Over the next several weeks and months, EPA continued to eliminate the program, without \nany assessment of the consequences of its actions, and without any attempt to otherwise execute \nCongress’s directive or administer its appropriations. \n3. EPA’s termination of the Program is unlawful. It violates bedrock separation-of-powers \nprinciples by effectively repealing a congressional enactment and impounding funds based on \nnothing more than the President’s disagreement with policies Congress duly enacted. \n4. Further, it represents textbook arbitrary and capricious agency action by failing to engage \nin reasoned decision-making, ignoring important aspects of the problem—including the reliance \ninterests of hundreds of entities impacted, ignoring potential alternatives, and relying on \nconsiderations Congress did not allow.  \n5. When Congress enacted the IRA in 2022, it authorized the EPA to administer grants and \nprovide technical assistance to reduce emissions from the marketplace for construction materials. \n6. Congress made its intent clear regarding the reduction of emissions related to construction \nmaterials. \n7. EPA engaged in a rigorous review of applications, assessed their merit under the criteria of \nthe Program, and selected 38 grant recipients for funding, including Plaintiff. \n8. After selection, Plaintiff and the 37 other grant program selectees entered into a lengthy \ngrant approval process to effectuate the purpose of Section 60112 of the IRA. \n9. Plaintiff’s grant agreement was finalized on January 15, 2025, after which Plaintiff \npromptly began work. \n2 \n \n\nCase 1:25-cv-02493     Document 1     Filed 07/31/25     Page 3 of 27\n10. All this work stopped once President Trump entered office. On January 20, 2025, the \nPresident issued an executive order directing federal agencies to stop disbursement of all funds \nunder the Inflation Reduction Act, including the grant funds at issue here. Unleashing American \nEnergy, Exec. Order No. 14,154 (Jan. 20, 2025), 90 Fed. Reg. 8353, 8357 (Jan. 29, 2025) \n(“Energy EO”). \n11. EPA then began implementing these executive orders. It first froze all grant funding \nauthorized under the Inflation Reduction Act, then moved to terminate the Program, ceased \nreview of all Program selectees, and terminated Plaintiff’s grant. Ex. 1-A at ¶¶ 3–6 (Declaration \nof Travis Voyles, EPA Assistant Deputy Administrator) 1 and Exhibit B at EPA_00048219-\n00048221; Ex. 1-B at ¶¶ 5–6 (Declaration of Daniel Coogan, EPA Office of Mission Support \nDeputy Assistant Administrator)2; Ex. 1-C (Voyles email terminating Program). \n12. EPA terminated grants across programs en masse, including Plaintiff’s grant. As EPA has \nsince admitted, it did not review individual grants—but rather reviewed “grant programs” and \nterminated them for “policy reasons” without distinguishing among grant recipients or activities. \nEx. 1-A (Voyles Decl.); Ex. 1-M ¶¶ 13-17 (Roos Decl.)3. Instead, EPA conducted a broad \nprogram-level review and sent out substantively identical termination notices to all grantees. Ex. \n1-D (Email from M. Wise regarding termination template); Ex. 1-E (EPA Grant Termination \nSOP); Ex. 1-F (EPA Form termination letter). \n \n1 This declaration was filed in Sustainability Institute v. Trump, No. 25-cv-2152 (D.S.C.). \n2 This declaration was filed in Woonasquatucket River Water Shed Council, et al v. Dept. of \nAgriculture, No. 25-cv-00097 (D.R.I.). \n3 This declaration was filed in Appalachian Voices, et al. v. EPA, No. 25-cv-01982 (D.D.C.). \n3 \n \n\nCase 1:25-cv-02493     Document 1     Filed 07/31/25     Page 4 of 27\n13. EPA’s unlawful termination of the Program thwarts Congress’s mandate and has harmed \nand continues to harm Plaintiff who is unable to fulfill the purpose of the IRA to reduce \nemissions from construction materials in the U.S. marketplace.  \n14. EPA’s unlawful termination of the Program further harms to over 100 under-resourced \nnonprofits and small businesses working with Plaintiff, leaving these partners without the \npromised support and depriving them of the tools needed to compete in an EPD-driven market.  \n15. EPA’s unlawful termination of the Program thwarts the purpose of the IRA to achieve \nclimate goals and create economic benefits in local communities. \nJURISDICTION AND VENUE \n16. This Court has jurisdiction over this action pursuant to 28 U.S.C. § 1331 because this \naction arises under federal law including the U.S. Constitution and the Administrative Procedure \nAct (“APA”). 5 U.S.C. §§ 551 et. seq. \n17. Federal law authorizes this Court to enter a declaratory judgment and to provide \ntemporary, preliminary, and permanent injunctive relief.  See Rules 57 and 65 of the Federal \nRules of Civil Procedure; the Declaratory Judgment Act, 28 U.S.C. §§ 2201–02; the All Writs \nAct, 28 U.S.C. § 1651; and the Court’s inherent equitable powers. Additionally, the APA  \nauthorizes the Court to grant temporary and permanent relief from agency action. 5 U.S.C. \n§§ 705–06. \n18. Plaintiff brings this action under the U.S. Constitution and the APA, 5 U.S.C. §§ 702, \n704. This Court has federal question jurisdiction pursuant to 28 U.S.C. § 1331 and may issue \ndeclaratory and injunctive relief under 28 U.S.C. §§ 2201(a) and 2202, as well as vacatur under 5 \nU.S.C. § 706.    \n4 \n \n\nCase 1:25-cv-02493     Document 1     Filed 07/31/25     Page 5 of 27\n19. Venue is proper under 28 U.S.C. § 1391(b) and (e) because a substantial part of the \nevents or omissions giving rise to the claims occurred in this judicial district. Defendants are a \nUnited States agency headquartered in Washington, D.C. and an officer of that agency sued in his \nofficial capacity.   \nPARTIES \nPlaintiff \n20. Plaintiff Building Materials Re-use Association is a nonprofit organization located in \nPittsburgh, Pennsylvania, with a principal address of 214 N Lexington St, Pittsburgh, PA 15208-\n2589. Plaintiff received a grant under the Program. EPA terminated Plaintiff’s grant when it \nterminated the Program. \n21. Founded over 20 years ago, Plaintiff is the primary national organization dedicated to \nsupporting the U.S. building materials reuse industry. The Program represented a \ntransformational investment opportunity, enabling Plaintiff to build tools and services to sustain \nthe sector long after the grant period. The Program’s abrupt termination has deprived Plaintiff of \nthe opportunity to realize these long-term benefits, an affront the public interest in reducing \ngreenhouse gas emissions from the building materials sector. \n22. EPA’s termination of the Program and Plaintiff’s grant deprives the sector of the tools, \ndata, and market access necessary to scale reuse activities, achieve emissions reduction and \nclimate goals, and create economic benefits in local communities. EPA’s termination also \nundermines the IRA’s legislative intent by stalling the development of critical low-carbon \nproduct data for the built environment per this program. Plaintiff’s merit-based award of the \ngrant is proof of both the organization and the sector’s potential to implement these goals. \n5 \n \n\nCase 1:25-cv-02493     Document 1     Filed 07/31/25     Page 6 of 27\n23. Plaintiff has been directly harmed by EPA’s unlawful actions. Plaintiff undertook \nsubstantial effort and made substantial good-faith investments in anticipation of the grant project \nand overall Program proceeding. For example, Plaintiff hired staff and executed employment \ncontracts; drafted job descriptions and project plans; organized a national outreach webinar with \nover 200 participants on March 12, 2025; commenced implementation partnerships with over \n100 reuse-sector organizations, potential sub-contractors, potential staff, and prospective \nmembers of technical advisory committees; and initiated coordination with eight other Program \ngrant selectees in the salvaged materials field. \n24. EPA’s unexplained suspension of Plaintiff’s ASAP account on March 7, 2025—followed \nby termination on April 30, 2025—forced Plaintiff to cover staff salaries from internal funds \nwithout clarity on the status of grant funding and reimbursement, ultimately requiring the \ntermination of staff and the halting of all program activities effective May 1, 2025. The financial \nstrain and disruption undermined Plaintiff’s operational stability, impaired its ability to meet \nexisting obligations, and jeopardized its future capacity to serve the national material reuse \nsector. \n25. Further, EPA’s actions have damaged Plaintiff’s reputation in the national material reuse \nsector.  For example, EPA’s actions halted the launch of a national lifecycle analysis (LCA) data \ncollection program for over 100 under-resourced nonprofits and small businesses, leaving these \npartners without the promised support and depriving them of the tools needed to compete in an \nEPD-driven market. EPA’s actions have created a loss of goodwill and erosion of trust with the \nnonprofit and small business partners in this space. \n26. The grant’s termination also thwarted Plaintiff’s designated role as the national convener \nof the eight other Program grantees working in the salvaged materials sector. EPA’s actions have \n6 \n \n\nCase 1:25-cv-02493     Document 1     Filed 07/31/25     Page 7 of 27\nimpugned Plaintiff’s reputation as a national leader on these efforts, by disrupting Plaintiff’s \nability to align, integrate, and amplify parallel efforts on what was intended to be a coordinated \nnational strategy. \n27. These harms are redressable through the relief sought here, which will allow Plaintiff to \ncontinue work on its awarded grant project and reduce embodied emissions in construction \nmaterials. \nDefendants \n28. Defendant EPA is an independent agency in the executive branch of the United States \ngovernment. See 5 U.S.C. § 552; Reorganization Plan No. 3 of 1970, 84 Stat. 2086 (July 9, \n1970).  \n29. Defendant Lee Zeldin is the Administrator of the EPA. He is sued in his official capacity. \nFACTUAL ALLEGATIONS \nEPA’s Reducing Embodied Greenhouse Gas Emissions for Construction Materials and \nProducts Program \n \n30. The building materials reuse sector, comprising over 1,875 establishments in the U.S., \nannually diverts approximately 1.3 million tons of construction and demolition (C&D) waste \nfrom landfills, generates over 67,000 full-time equivalent (FTE) jobs, and supports $3.4 billion \nin local wages—despite representing less than 1% of total C&D waste management capacity. \nExperts estimate the sector could achieve at least a 5% reuse rate with targeted support, a sixfold \nincrease in impact. \n31. In August of 2022, when Congress enacted the IRA, it made substantial federal \ninvestments in cutting-edge clean energy technology, lower energy costs, and mitigating the \nimpacts of greenhouse gas emissions and toxic air pollution. \n32. As part of that effort, Congress authorized the funding of programs aimed at \n7 \n \n\nCase 1:25-cv-02493     Document 1     Filed 07/31/25     Page 8 of 27\ndecarbonizing the U.S. industrial sector, by reducing embedded carbon emissions in construction \nmaterials in the U.S. marketplace through EPA technical assistance and direct grants to \nbusinesses, non-profit organizations, and universities.  \n33. One of those programs authorized by Congress was the Reducing Embodied GHG \nEmissions for Construction Materials and Products, Environmental Product Declaration \nAssistance Program.  Pub. L. No. 117-169 § 60112, 136 Stat. 1818, 2078. \n34. The IRA provides “there is appropriated to the Administrator of the Environmental \nProtection Agency for fiscal year 2022, out of any money in the Treasury not otherwise \nappropriated, $250,000,000, to remain available until September 30, 2031, to develop and carry \nout a program to support the development, enhanced standardization and transparency, and \nreporting criteria for environmental product declarations that include measurements of the \nembodied greenhouse gas emissions of the material or product associated with all relevant stages \nof production, use, and disposal, and conform with international standards, for construction \nmaterials and products[.]” Pub. L. No. 117-169 § 60112, 136 Stat. 1818, 2072. \n35. The Section 60112 of the IRA contemplates three categories of authorized activities: (1) \nproviding grants to businesses that manufacture construction materials and products for \ndeveloping and verifying environmental product declarations, and to States, Indian Tribes, and \nnonprofit organizations that will support such businesses; (2) providing technical assistance to \nbusinesses that manufacture construction materials and products in developing and verifying \nenvironmental product declarations, and to States, Indian Tribes, and nonprofit organizations that \nwill support such businesses; and (3) carrying out other activities that assist in measuring, \nreporting, and steadily reducing the quantity of embodied carbon of construction materials and \nproducts. Pub. L. No. 117-169 § 60112, 136 Stat. 1818, 2072. \n8 \n \n\nCase 1:25-cv-02493     Document 1     Filed 07/31/25     Page 9 of 27\n36. On November 2, 2023, EPA issued a Notice of Funding Opportunity for the Reducing \nEmbodied Greenhouse Gas Emissions for Construction Materials and Products program. Ex. 1-G \n(EPA Notice of Funding Opportunity). \n37. Pursuant to the authorization under the IRA, on July 16, 2024 the EPA announced that it \nwould invest $160 million to support clean manufacturing and usage of construction materials. \n38. As part of the announcement, EPA announced its selection of Plaintiff amongst 38 grant \nrecipients including a range of businesses, universities and nonprofit organizations serving all 50 \nstates. \n39. Once selected, Plaintiff underwent a review process prior to final approval of the grant.  \n40. Following a lengthy and rigorous review process, on January 15, 2025 Plaintiff’s grant \nagreement was signed by EPA making the grant award effective as of that date. Ex. 1-H (BMRA \nGrant Agreement) \n41. Plaintiff grant award totaled $6,703,990.00 with a project and budget period from \nNovember 1, 2024 to December 31, 2029.  Ex. 1-H at 1 (BMRA Grant Agreement). \n42. Plaintiff’s grant’s purpose is “to support the development, enhanced standardization and \ntransparency, and reporting criteria for environmental product declarations (EPDs) which include \nthe measurement of embodied greenhouse gas emissions associated with all relevant stages of \nproduction, use, and disposal, in conformance with international standards.” Ex. 1-H at 4 (Grant \nAgreement). \n43. The grant supports a national initiative to develop EPDs for salvaged building materials, \na sector critical to reducing greenhouse gas emissions and landfill waste.  \n9 \n \n\nCase 1:25-cv-02493     Document 1     Filed 07/31/25     Page 10 of 27\n44. The funded project aims to create at least 300 EPDs for reuse products—an essential first \nstep for integrating the reuse industry into low-carbon procurement frameworks. \n45. The grant also included $2.3 million in pass-through participant support for more than \n100 under-resourced nonprofits and small businesses nationwide. \nEPA’s Termination of the Reducing Embodied Greenhouse Gas Emissions for Construction \nMaterials and Products Program \n \nPresident Trump Issues Executive Order No. 14,154, Instructing  \nEPA to Terminate Environmental Programs \n \n46. Shortly after his inauguration, on January 20, 2025, President Trump issued an executive \norder declaring “that no Federal funding be employed in a manner contrary to the principles \noutlined in this section.” Unleashing American Energy, Exec. Order No. 14,154 (Jan. 20, 2025), \n90 Fed. Reg. 8353, 8354 (Jan. 29, 2025) (“Energy EO”) at § 2 (emphasis added). \n47. Section 7 of the Energy EO, titled “Terminating the Green New Deal,” further provided \nthat:  \n[a]ll agencies shall immediately pause the disbursement of funds \nappropriated through the Inflation Reduction Act of 2022 (Public \nLaw 117-169) or the Infrastructure Investment and Jobs Act \n(Public Law 117-58) . . . and shall review their processes, policies, \nand programs for issuing grants, loans, contracts, or any other \nfinancial disbursements of such appropriated funds for consistency \nwith the law and the policy outlined in section 2 of this order \n \nEnergy EO § 7 (emphases added), 90 Fed Reg. at 8357 \n48. The Energy EO forbade the disbursement of any funds that the executive branch deems \ninconsistent with certain agency policies. Id. \n49. The Energy EO cited no legal authority for its across-the-board freeze of congressionally \nappropriated funds. \n50. EPA then proceeded to cancel a host of grants across programs, including the Program. \n10 \n \n\nCase 1:25-cv-02493     Document 1     Filed 07/31/25     Page 11 of 27\nEPA Terminates a host of Environmental Programs,  \nIncluding the EDP Assistance Program \n \n51. Meanwhile, on January 28, 2025, Plaintiff transmitted its 30-day First Year Projected \nPerformance reported to EPA Program Officer Shawn Wood. \n52. On January 31, 2025, Plaintiff emailed EPA Program Officer Shawn Wood and EPA \nGrants Specialist Matthew Forte requesting to discuss the status of Plaintiff’s grant award. \n53. On January 31, 2025, Program Officer Shawn Wood responded to Plaintiff stating that he \nwas “unable to discuss matters related to EPA grant funding.” Ex. 1-I (Email from Program \nOfficer, Shawn Wood) \n54. Upon information and belief, EPA terminated Program Office Shawn Wood and made no \neffort to replace them. \n55. On February 25, 2025, Mr. Voyles conducted a review of EPA grant programs “for \nconsistency with Agency policy priorities.” Ex. 1-A ¶ 3 (T. Voyles Decl.). He did so based on the \n“Assistance Number Listing” identifying entire grant programs. Id  \n56. Mr. Voyles then unilaterally—in the course of a single day—decided to terminate the \nProgram (CFDA 66.721) “for policy reasons.” Ex. 1-A ¶ 3 (T. Voyles Decl.); Ex. 1-J (D. Coogan \nEmail to T. Voyles – Feb. 25, 2025). \n57. While terminations were in process, EPA put a “control” in the Automated System for \nAdministrative Payment (“ASAP”) system, and grantees could not draw down any funds. EPA \napplied this control at the grant program level, meaning that the single “control” applied to all \ngrants across programs. Ex. 1-K (Email from D. Coogan ordering that a control be placed on \nlisted ASAP accounts). \n58. On March 6, 2025, an email exchange between Kathryn Loving and Daniel Coogan \nconfirmed the directive from Mr. Voyles to eliminate that “entire” Reducing Embodied GHG \n11 \n \n\nCase 1:25-cv-02493     Document 1     Filed 07/31/25     Page 12 of 27\nEmissions for Construction Materials and Products, Environmental Declaration Assistance \nProgram. Ex. 1-C (K. Loving Email to D. Coogan – March 6, 2025). \n59. Plaintiff discovered that its ASAP funds account was suspended as of March 7, 2025, \nwhen Plaintiff initiated a payment request on March 14, 2025. \n60. Beginning in February and going into early May 2025, EPA sent form letters to grantees \nof various programs purporting to formally terminate those programs, and, the grant awards \nunder those programs. EPA instructed grant managers to terminate grants with a boilerplate \nprocess, using a template response to each grantee. EPA directed grant managers to “Copy/paste \nemail language from Grant Termination [memo]” and then attach a form termination letter to the \nemail. Ex. 1-D (Wise Email); see also Ex. 1-E (EPA Grant Termination SOP); Ex. 1-F (Sample \nTermination Letter with placeholders).  \n61. On April 30, 2025, Plaintiff received a termination letter purporting to terminate \nPlaintiff’s previously finalized and awarded grant. The letter stated that “objectives of the award \nare no longer consistent with EPA funding priorities.” Ex. 1-L (EPA Termination Letter to \nPlaintiff). \n62. EPA has stated its intent to terminate the Program and Plaintiff’s grant award for “policy \nreasons.” Ex. 1-A ¶ 3 (T. Voyles Decl.); see also Ex. 1-B ¶¶ 5–6 (D. Coogan Decl.).  \nLEGAL FRAMEWORK \nI.  Congress’s Legislative Authority, Including the Power of the Purse, and the \nSeparation of Powers  \n \n63. The United States Constitution grants Congress the power to make the laws of this \nnation. The Constitution provides that “[a]ll legislative Powers herein granted shall be vested in a \nCongress of the United States, which shall consist of a Senate and a House of Representatives.” \nU.S. Const. art. I, § 1.  \n12 \n \n\nCase 1:25-cv-02493     Document 1     Filed 07/31/25     Page 13 of 27\n64.  Congress’s lawmaking powers are at their apex on matters of federal funding. The \nConstitution grants the power of the purse to Congress, not the President. See, e.g., Consumer \nFin. Prot. Bureau v. Cmty. Fin. Servs. Ass’n of Am. Ltd., 601 U.S. 416, 420 (2024); see also \nMem. from John G. Roberts, Jr. to Fred F. Fielding (Aug. 15, 1985), https://perma.cc/G5AA-\nGJAU (“[N]o area seems more clearly the province of Congress than the power of the purse.”).  \n65. This power is “exclusive” to Congress, which “has absolute control of the moneys of the \nUnited States” under our Constitution. Rochester Pure Waters Dist. v. EPA, 960 F. 2d 180, 185 \n(D.C. Cir. 1992) (internal citation and quotations omitted). “Any exercise of a power granted by \nthe Constitution to one of the other branches of Government is limited by a valid reservation of \ncongressional control over funds in the Treasury.” Off. of Pers. Mgmt. v. Richmond, 496 U.S. \n414, 425 (1990).  \n66. Congress’s power over the purse is rooted in two constitutional provisions. The \nAppropriations Clause provides that “[n]o Money shall be drawn from the Treasury, but in \nConsequence of Appropriations made by Law.” U.S. Const. art. I, § 9, cl. 7. The Appropriations \nClause expressly “was intended as a restriction upon the disbursing authority of the Executive \ndepartment.” Cincinnati Soap Co. v. United States, 301 U.S. 308, 321 (1937).  \n67. The Spending Clause provides that “Congress shall have Power To lay and collect Taxes, \nDuties, Imposts and Excises, to pay the Debts and provide for the common Defense and general \nWelfare of the United States.” U.S. Const. art. I, § 8, cl. 1.  \n68. Through these multiple grants of authority, the Constitution gives Congress broad power \nto legislate spending and to decide how and when its appropriations are spent. South Dakota v. \nDole, 483 U.S. 203, 206 (1987).   \n13 \n \n\nCase 1:25-cv-02493     Document 1     Filed 07/31/25     Page 14 of 27\n69. When Congress passes a law appropriating money for a particular purpose, it is the \nPresident’s job to spend that money for that purpose. This duty stems from the Take Care Clause, \nwhich states that the President “shall take Care that the Laws be faithfully executed.” U.S. Const. \nart. II, § 3; Util. Air Reg. Grp. v. Env’t Prot. Agency, 573 U.S. 302, 327 (2014) (“Under our \nsystem of government, Congress makes laws and the President . . . ‘faithfully execute[s]’ \nthem.”).  \n70. “[A] President sometimes has policy reasons . . . for wanting to spend less than the full \namount appropriated by Congress for a particular project or program. But in those circumstances, \neven the President does not have unilateral authority to refuse to spend the funds.” In re Aiken \nCnty., 725 F.3d 255, 261 n.1 (D.C. Cir. 2013) (Kavanaugh, J.).  \n71. If a President disagrees with Congress’s spending decision, he can veto the legislation; \nbut once a spending law has passed, the President has a simple duty to spend the money on the \nterms Congress has provided. See Train v. City of New York, 420 U.S. 35, 40–44 (1975).  \n72. The President has no constitutional power to amend or repeal statutes, Clinton v. City of \nNew York, 524 U.S. 417, 438 (1998) and doubly lacks the power to supplant Congress’s spending \ndirectives with his own.  \n73. When a President intrudes on Congress’s power over the purse, he violates the separation \nof powers. “Congress’s power of the purse is the ultimate check on the otherwise unbounded \npower of the Executive,” U.S. House of Representatives v. Burwell, 130 F. Supp. 3d 53, 76 \n(D.D.C. 2015), and acts as a “bulwark of the Constitution’s separation of powers,” U.S. Dep’t of \nNavy v. Fed. Labor Rel. Auth., 665 F.3d 1339, 1347 (D.C. Cir. 2012). Allowing the President to \nusurp this power “would be clothing the President with a power entirely to control the legislation \n14 \n \n\nCase 1:25-cv-02493     Document 1     Filed 07/31/25     Page 15 of 27\nof congress, and paralyze the administration of justice.” Kendall v. U.S. ex rel. Stokes, 37 U.S. \n524, 613 (1838).  \n74. “Liberty is always at stake when one or more of the branches seek to transgress the \nseparation of powers.” Clinton, 524 U.S. at 450 (Kennedy, J., concurring). Nowhere is this more \napparent than when a President attempts to unilaterally seize the Nation’s purse strings and \nnullify a congressional enactment to serve his policy goals.  \nII.    The Presentment Clauses  \n75. The Presentment Clauses form equally “integral parts of the constitutional design for the \nseparation of powers.” Immigr. & Naturalization Serv. v. Chadha, 462 U.S. 919, 946 (1983).  \n76. These Clauses provide that “[e]very Bill which shall have passed the House of \nRepresentatives and the Senate, shall, before it becomes a Law, be presented to the President of \nthe United States,” and that “before [a law] shall take Effect, [it] shall be approved by [the \nPresident], or being disapproved by him, shall be repassed by two thirds of the Senate and House \nof Representatives, according to the Rules and Limitations prescribed in the Case of a Bill.” U.S. \nConst. art. I, § 7, cl. 2–3.  \n77. The Presentment Clauses grant the President “a limited and qualified power to nullify \nproposed legislation by veto.” Chadha, 462 U.S. at 947. This “finely wrought and exhaustively \nconsidered” constitutional procedure precludes by implication the President’s power “to enact, to \namend, or to repeal statutes” in any other way. Clinton, 524 U.S. at 438–40 (quoting Chadha, \n462 U.S. at 951).  \n78. The Constitution’s careful limitations on the President’s role in lawmaking are designed \nto protect the people from tyranny. See Youngstown Sheet & Tube Co. v. Sawyer, 343 U.S. 579, \n15 \n \n\nCase 1:25-cv-02493     Document 1     Filed 07/31/25     Page 16 of 27\n633 (1952) (Douglas, J., concurring) (“The Framers with memories of the tyrannies produced by \na blending of executive and legislative power rejected that political arrangement.”).   \nIII.    The Administrative Procedure Act \n79. Congress enacted the APA to ensure fairness and stability in agency action by mandating \nreasoned decisionmaking, and to guard against agencies’ pursuit of a political agenda without \nadherence to legal process. See United States v. Morton Salt Co., 338 U.S. 632, 644 (1950) \n(describing the APA “as a check upon administrators whose zeal might otherwise have carried \nthem to excesses not contemplated in legislation creating their offices”); see also N.C. Growers’ \nAss’n, Inc. v. United Farm Workers, 702 F.3d 755, 772 (4th Cir. 2012) (Wilkinson, J., \nconcurring) (noting that the APA prohibits policy change based on “political winds and currents” \nwithout adherence to “law and legal process”). \n80. To effectuate these goals, the APA imposes both substantive and procedural constraints \non final agency action. See Cent. Tex. Tel. Coop., Inc. v. Fed. Commc’ns Comm’n, 402 F.3d 205, \n209 (D.C. Cir. 2005). As to the former, the APA requires courts to set aside agency action that is \n“not in accordance with law,” “in excess of statutory jurisdiction, authority, or limitations, or \nshort of statutory right,” or “contrary to constitutional right, power, privilege, or immunity.” 5 \nU.S.C. § 706(2)(A), (B), (C).  \n81. The APA tasks courts––not the Executive––with “deciding whether an agency has acted \nwithin its statutory authority,” Loper Bright Enters. v. Raimondo, 603 U.S. 369, 412 (2024), \nreflecting the duty of the judiciary “to say what the law is,” Marbury v. Madison, 5 U.S. (1 \nCranch) 137, 177 (1803).  \n82. As to process, the APA requires an agency to “acknowledge and explain” and show \n“good reasons” for changes in position from prior administrations. United States Telecom Ass’n \n16 \n \n\nCase 1:25-cv-02493     Document 1     Filed 07/31/25     Page 17 of 27\nv. Fed. Commc’ns Comm’n, 825 F.3d 674, 706–07 (D.C. Cir. 2016) (internal citation and \nquotation omitted). \n83. To enforce these principles, the APA requires courts to “hold unlawful and set aside \nagency action, findings, and conclusions found to be . . . arbitrary, capricious,” an abuse of \ndiscretion,” or “without observance of procedure required by law.” 5 U.S.C. § 706(2)(A), (D).  \n84. An agency fails to engage in “reasoned decisionmaking,” and its actions are arbitrary and \ncapricious, when the agency “has relied on factors which Congress has not intended it to \nconsider, [or] entirely failed to consider an important aspect of the problem . . . .” Motor Vehicle \nMfrs. Ass’n of U.S. v. State Farm Mut. Auto. Ins. Co., 463 U.S. 29, 43 (1983). An agency must \n“examine the relevant data and articulate a satisfactory explanation for its action,” id., “including \na rational connection between the facts found and the choice made,” Dep’t of Commerce v. New \nYork, 588 U.S. 752, 773 (2019) (quoting State Farm, 463 U.S. at 43). “This foundational precept \nof administrative law is especially important where, as here, an agency changes course.” \nPhysicians for Soc. Resp. v. Wheeler, 956 F.3d 634, 644 (D.C. Cir. 2020). \n85. When an agency is not writing on a “blank slate” but is “changing [its] position,” the \nagency must “provide a more detailed justification than what would suffice for a new policy” if, \n“for example, . . . its prior policy has engendered serious reliance interests that must be taken \ninto account.” F.C.C. v. Fox Television Stations, Inc., 556 U.S. 502, 515 (2009).  \n86. When changing policy, agencies must “assess whether there were reliance interests, \ndetermine whether they were significant, and weigh any such interests against competing policy \ninterests.” Dep’t of Homeland Sec. v. Regents of Univ. of Cal., 591 U.S. 1, 33 (2020). “[W]hen an \nagency rescinds a prior policy its reasoned analysis must [also] consider the alternatives that are \nwithin the ambit of the existing policy.” Id. at 30 (citation and quotations omitted). At bottom, an \n17 \n \n\nCase 1:25-cv-02493     Document 1     Filed 07/31/25     Page 18 of 27\nagency must give “good reasons for the new policy,” Encino Motorcars, LLC v. Navarro, 579 \nU.S. 211, 223 (2016) (citation and quotations omitted), including “a reasoned explanation . . . for \ndisregarding facts and circumstances that underlay or were engendered by the prior policy,” Fox, \n556 U.S. at 516.  \n87. Judicial review under the APA is limited to agency actions made reviewable by statute \nand “final agency action.” 5 U.S.C. § 704. Agency actions, including agency memoranda, are \n“final agency action” when they “‘mark[]’ the ‘consummation’ of the agency’s decisionmaking \nprocess’ and result[] in ‘rights and obligations being determined.’” Biden v. Texas, 597 U.S. 785, \n788 (2022) (quoting Bennett v. Spear, 520 U.S. 154, 178 (1997) (alterations omitted)). \n88. In sum, “[t]he role of the reviewing court under the APA is . . . fixing the boundaries of \nthe delegated authority, and ensuring the agency has engaged in ‘reasoned decisionmaking’ \nwithin those boundaries.” Loper Bright, 603 U.S. at 395 (citation and quotations omitted).  \nIV.  Non-statutory Constitutional and Ultra Vires Claims \n89. Federal district courts have jurisdiction over non-statutory claims to enjoin federal \nofficials from acting unconstitutionally or beyond their statutory authority. See Free Enter. Fund \nv. Pub. Co. Acct. Oversight Bd., 561 U.S. 477, 491 n.2 (2010); Larson v. Domestic & Foreign  \nCom. Corp., 337 U.S. 682, 689 (1949); see also Strickland v. United States, 32 F. 4th 311, 363-\n66 (4th Cir. 2022). Non-statutory claims arise when federal officials act “beyond the scope of \ntheir powers and/or in an unconstitutional manner.” Id. at 366.  \n90. Such non-statutory claims for review are deeply rooted in the history of the judiciary. \n“Indeed, the most famous case of all, Marbury v. Madison, was a non-statutory review case.” \nJonathan R. Siegel, Suing the President: Nonstatutory Review Revisited, 97 Colum. L. Rev. \n1612, 1625 (1997).   \n18 \n \n\nCase 1:25-cv-02493     Document 1     Filed 07/31/25     Page 19 of 27\n91. Where plaintiffs bring non-statutory claims for injunctive or declaratory relief against \nfederal officials, for alleged unconstitutional or ultra vires action, “sovereign immunity does not \nbar a suit.” Chamber of Com. of U.S. v. Reich, 74 F.3d 1322, 1329 (D.C. Cir. 1996); see also \nWidakuswara v. Lake, No. 25-5144, 2025 WL 1521355 (D.C. Cir. May 28, 2025) (en banc) \n(adopting J. Pillard’s dissent in Widakuswara, 2025 WL 1288817). Irrespective of whether a \ndistrict court has jurisdiction over related APA claims, sovereign immunity does not bar these \nclaims because actions that exceed statutory or constitutional authority “are considered \nindividual and not sovereign actions.” Strickland, 32 F. 4th at 366 (quoting Larson v. Domestic & \nForeign Com. Corp., 337 U.S. 682, 689 (1949)). \n92. Further, to avoid “serious constitutional questions,” courts must not construe federal statutes \nto preclude any judicial review of constitutional claims absent a “clear” statement from \nCongress. Webster v. Doe, 486 U.S. 592, 603 (1988); see also LeBlanc v. United States, 50 F.3d \n1025, 1028 (Fed. Cir. 1995) (no jurisdiction under the Tucker Act for separation-of-powers \nclaims). \nCLAIMS FOR RELIEF \nCOUNT I \nViolation of Separation of Powers  \n93. The allegations in the preceding paragraphs are incorporated herein by reference.  \n94. “[W]henever a separation-of-powers violation occurs, any aggrieved party with standing \nmay file a constitutional challenge.” Collins v. Yellen, 594 U.S. 220, 245 (2021).  \n95. The U.S. Constitution grants Congress, not the President, exclusive power over the \nnation’s purse and the power to legislate. U.S. Const. art. I, § 9, cl. 7; art. I, § 8, cl. 1; art. I, § 1.  \n19 \n \n\nCase 1:25-cv-02493     Document 1     Filed 07/31/25     Page 20 of 27\n96. When Congress appropriates funds for a specified purpose, the President has a duty to \nspend those funds on the terms set by Congress. See U.S. Const. art. II, § 3 (Take Care Clause).  \n97. The President has no constitutional power to terminate funds appropriated by Congress, \nparticularly when the termination is based on Presidential policies rather than Congress’s \nspending directives. See, e.g., City & County of San Francisco v. Trump, 897 F.3d 1225, 1231–35 \n(9th Cir. 2018).  \n98. Congress has enacted the federal grant program at issue in this case under the IRA and \nappropriated $250 million in funding for those programs to serve enumerated purposes specified \nin these statutory programs. Section 60112 of the IRA. \n99. Consistent with its constitutional and statutory duties, EPA obligated funds to Plaintiff via \na rigorous, regulated, and competitive grantmaking process.   \n100. Defendants are constitutionally required to carry out these congressionally mandated \nprograms, and to obligate and distribute the funds that Congress appropriated for the Program.  \n101. EPA terminated this entire grant program along multiple others en masse for “policy \nreasons.”  Ex. 1-A (T. Voyles Decl.). \n102. EPA’s decision to terminate the Program contravenes Congress’s directives in the IRA to \nfund the statutory programs at issue in this case. See, e.g., Section 60112 of the IRA(a) \n(appropriating “to the Administrator of the Environmental Protection Agency for fiscal year 2022 \n. . . $250,000,000 to develop and carry out a program to support the development, enhanced \nstandardization and transparency, and reporting criteria for environmental product declarations \nthat include measurements of the embodied greenhouse gas emissions of the material or product \nassociated with all relevant stages of production, use, and disposal, and conform with \ninternational standards, for construction materials and products”). \n20 \n \n\nCase 1:25-cv-02493     Document 1     Filed 07/31/25     Page 21 of 27\n103. EPA did not identify any statutory, regulatory, or constitutional authority to terminate \ncongressionally appropriated funds based on the President’s policy preferences.  \n104. All the relevant constitutional powers here––the powers to appropriate, spend, and \nlegislate––belong solely to Congress. The President has no constitutional power to unilaterally \nwithhold funds appropriated by Congress, much less based on policies that conflict with what \nCongress specified.  \n105. EPA’s decision to terminate the Program authorized by Section 60112 of the IRA \nviolates Congress’s spending power, see U.S. Const. art. I, § 8, cl. 1 (Spending Clause), art. I, \n§ 9, cl. 7 (Appropriations Clause), and Congress’s power to legislate, see U.S. Const. art. I, § 1 \n(Legislative Power), and thus violates the separation of powers.  \nCOUNT II \nViolation of the Presentment Clauses  \n106. The allegations in the preceding paragraphs are incorporated by reference.  \n107. The Presentment Clauses limit the President’s role in lawmaking to vetoing an “entire \nbill . . . before the bill becomes law.” Clinton, 524 U.S. at 439. “Presidential action that either \nrepeals or amends parts of duly enacted statutes” violates the Presentment Clauses. See id. \n(emphasis added).  \n108. EPA’s decision to terminate the Program mandated by Section 60112 of the IRA violates \nthe Presentment Clauses because it seeks to “terminat[e]” or “modify” parts of the IRA after they \nwere passed by Congress and signed by the President. See Energy EO § 7. \n109. In purpose and in effect, EPA’s decision to terminate the Program required by Section \n60112 of the IRA amends the spending provisions of the IRA, unlawfully terminating grant \nprograms mandated by Congress, that the Executive Branch deems incompatible with \n21 \n \n\nCase 1:25-cv-02493     Document 1     Filed 07/31/25     Page 22 of 27\npresidential policies wholly different than Congress’s directives for the funds and programs. See \nsupra ¶¶ 51-62.  \n110. By cancelling Congress’s spending directives and replacing them with the President’s \npolicy preference to withhold appropriated funds, EPA’s decision to terminate the Program \nauthorized by Section 60112 of the IRA seeks to repeal and amend the IRA in violation of the \nPresentment Clauses. See U.S. Const. Art. I, § 7, cl. 2–3.  \n111. For these same reasons, EPA’s decision to terminate the Program authorized by Section \n60112 of the IRA violates the Presentment Clauses.  \nCOUNT III  \nViolation of the APA – Arbitrary and Capricious  \n112. The allegations of the preceding paragraphs are incorporated by reference.  \n113. The APA requires courts to “hold unlawful and set aside agency action” that is \n“arbitrary, capricious, an abuse of discretion, or otherwise not in accordance with law.” 5 U.S.C. \n§ 706(2)(A).  \n114. EPA’s policy decision to terminate Plaintiff’s grant through elimination of the Program \nauthorized by Section 60112 of the IRA is a final agency action subject to review under the APA.  \n115. EPA’s policy decision to terminate the Program, and its actions in terminating Plaintiff’s \ngrant, are arbitrary and capricious for multiple reasons.  \n116. First, EPA terminated the Program, for which Congress had appropriated $250 million \nunder the IRA without without engaging in a “reasoned analysis” for the terminations as the APA \nrequires. State Farm, 463 U.S. at 57. EPA has not provided an explanation as to why terminating \nthe entire Program was necessary to effectuate the Administration’s general “policy priorities.”  \n22 \n \n\nCase 1:25-cv-02493     Document 1     Filed 07/31/25     Page 23 of 27\n117. Second, EPA terminated the Program without consideration of the “serious reliance \ninterests” of Plaintiff and its partners, as well as grant selectees and their partners, on those \nfunds. Fox Television Stations, Inc., 556 U.S. at 515. In doing so, EPA “cut the fuel supply to a \nvast, complicated, nationwide machine—seemingly without any consideration for the \nconsequences of that decision.” Nat’l Council of Nonprofits v. Off. of Mgmt. and Budget, 763 F. \nSupp. 3d 36, 55 (D.D.C. 2025). To say that this action “‘failed to consider an important aspect of \nthe problem’ would be putting it mildly.” Id. \n118. Third, EPA’s decision to terminate the Program authorized by Section 60112 of the IRA \nrelies “on factors which Congress has not intended [EPA] to consider.” State Farm, 463 U.S. at \n43. EPA terminated Program funds based on the agency’s policies, contrary to Congress’s \nspecific directives and purposes for appropriating funds in the IRA.  \n119. Fourth, EPA decided to terminate the Program authorized by Section 60112 of the IRA \nwithout considering alternative options. See Regents of Univ. of Cal., 591 U.S. at 30 (quoting \nState Farm, 463 U.S. at 42) (“[W]hen an agency rescinds a prior policy its reasoned analysis \nmust [also] consider the alternatives that are within the ambit of the existing policy.”).  \n120.  For example, Defendants could have engaged in a detailed review of individual grants \nand how they relate to President Trump’s priorities without terminating grant programs en masse, \nbut completely failed to do so. \n121. Fifth, EPA failed to consider how the wholesale termination of the Program would \nimpact the “primary goal[s]” of IRA Section 60112. Nat’l Lifeline Ass’n v. Fed. Commc’ns \nComm’n, 921 F.3d 1102, 1111, 1115 (D.C. Cir. 2019) (finding agency action arbitrary and \ncapricious where it failed to “consider the impact of the change on [the agency program’s] \n23 \n \n\nCase 1:25-cv-02493     Document 1     Filed 07/31/25     Page 24 of 27\n‘primary purpose’ or otherwise explain how it is compatible with that purpose”); see also Ex. 1-6 \n(Notice of Funding Opportunity). \n122. The unexplained termination of these grant funds epitomizes agency action by “whim \nand caprice of the bureaucracy.” N.C. Growers’ Ass’n, 702 F.3d at 772 (Wilkinson, J., \nconcurring).  \n123. EPA’s decision to terminate the Program authorized by Section 60112 of the IRA must \nbe vacated as arbitrary and capricious under the APA. 5 U.S.C. § 706(2)(A).   \nCOUNT IV \n \nViolation of the APA – Contrary to Law  \n \n124. The allegations of the preceding paragraphs are incorporated by reference.  \n125. The APA requires courts to hold unlawful and set aside agency actions “contrary to \nconstitutional right, power, privilege, or immunity,” “in excess of statutory jurisdiction, authority, \nor limitations,” or “not in accordance with law.” 5 U.S.C. § 706(2)(A)–(D).  \n126. “Courts”––not the Executive–– “must exercise their independent judgment in deciding \nwhether an agency has acted within its statutory authority, as the APA requires.” Loper Bright, \n603 U.S. at 412. The APA reflects the judiciary’s constitutional duty “to say what the law is.” \nMarbury, 5 U.S. (1 Cranch) at 177.  \n127. For four reasons, EPA’s decision to terminate the Program authorized by Section 60112 \nof the IRA is outside of the agency’s statutory authority, contrary to law, and without observance \nof procedure required by law.   \n128. First, no federal law or regulation gives EPA the power to terminate funding \nappropriated by Congress and obligated by executive agencies. The Executive Branch has \nterminated the Program based on policies that are entirely different than, and in many cases \n24 \n \n\nCase 1:25-cv-02493     Document 1     Filed 07/31/25     Page 25 of 27\ndirectly in conflict with, the directives and purposes specified by Congress for expending the \nfunds.  \n129. By refusing to expend appropriated funds based on the President’s priorities rather than \n“stated statutory factors,” the “Executive has acted contrary to law and in violation of the APA.” \nNew York, 2025 WL 357368, at *50.     \n130. Second, these agency actions are unconstitutional on the grounds set forth in Counts I–II \nand are thus “not in accordance with law” and “contrary to constitutional right, power, privilege, \nor immunity” under the APA, 5 U.S.C. § 706(2)(A), (B).  \n131. Third, these agency actions are contrary to the IRA, which appropriated money to the \nProgram at issue here. Defendants’ actions are inconsistent with the statutory requirements to \ncreate, fund, and carry out the Program. See Section 60112 of the IRA(a) (appropriating “to the \nAdministrator of the Environmental Protection Agency for fiscal year 2022 . . . $250,000,000 to \ndevelop and carry out a program to support the development, enhanced standardization and \ntransparency, and reporting criteria for environmental product declarations that include \nmeasurements of the embodied greenhouse gas emissions of the material or product associated \nwith all relevant stages of production, use, and disposal, and conform with international \nstandards, for construction materials and products”).  \n132. Fourth, these agency actions are contrary to the Impoundment Control Act of 1974 \n(“ICA”). 2 U.S.C. § 682(1). Defendants, through these terminations, have unlawfully withheld \nthe expenditure of funds. Defendants initially deferred the funds for impermissible policy \nreasons and without following the ICA’s requirements for notifying Congress, and then \nunilaterally rescinded the funds, contravening the ICA’s requirement that should the President \n25 \n \n\nCase 1:25-cv-02493     Document 1     Filed 07/31/25     Page 26 of 27\nseek such a rescission he must request it of Congress and Congress must act to rescind the funds. \n2 U.S.C. § 683(b).   \n133. EPA’s decision to terminate the Program authorized by Section 60112 of the IRA is in \nexcess of the agency’s statutory authority, unconstitutional, and not in accordance with law. 5 \nU.S.C. § 706(2)(A)–(C). These agency actions must be held unlawful and vacated under the \nAPA. Id. § 706(2).      \n134. For the reasons set forth above, EPA’s elimination of the Program violates the \nConstitution, the IRA, the ICA and the APA. It also violates Congress’s express instruction that \nthe appropriated funds be obligated. \n135. EPA’s decision to eliminate the Program authorized by Section 60112 of the IRA and \nintention to de-obligate the previously awarded funds is in excess of the agency’s statutory \nauthority, unconstitutional, and not in accordance with law. 5 U.S.C. § 706(2)(A)–(C). These \nagency actions must be held unlawful and vacated under the APA. Id. § 706(2).      \nPRAYER FOR RELIEF \nFor the reasons set forth above, Plaintiffs respectfully request that the Court grant the \nfollowing relief: \nA.  Issue a declaratory judgment that the termination of the Program authorized by Section \n60112 of the IRA and the termination of legally-obligated grant awards issued under the \nprogram violates the United States Constitution, the statutory provisions enacting and \nappropriating funds to these programs; \n \nB.  Preliminarily and permanently enjoin EPA from taking action to terminate the Program \nauthorized by Section 60112 of the IRA; \n \nC.  Require EPA to reinstate the grant award to Plaintiff previously authorized by Section \n60112 of the IRA that were terminated pursuant to these unlawful actions; \n \nD.  Require EPA to extend the period of performance to allow Plaintiff to complete the period \nof performance specified in its grant agreement, accounting for the time between the time \nPlaintiff lost access to the grant funding and this Court’s order; \n26 \n \n\nCase 1:25-cv-02493     Document 1     Filed 07/31/25     Page 27 of 27\n \nE.  Require EPA to make adequate staffing and other resources available to effectuate \nPlaintiff’s grant award; \n \nF.  Retain jurisdiction over this matter to ensure compliance with the above relief;  \n \nG.  Award Plaintiff its reasonable fees, costs, and expenses, including attorneys’ fees, in \naccordance with law pursuant to 28 U.S.C. § 2412; and \n \nH.  Grant such other and further relief as this Court may deem just and proper.  \n \nRespectfully submitted this 31st day of July 2025, \n \n/s/ Timothy R. Oberleiton \nTimothy R. Oberleiton (D.D.C. Bar No. 1617107) \nEARTHJUSTICE \n1001 G Street NW, Suite 1000 \nWashington, D.C. 20001 \n(202) 667-4500 \ntoberleiton@earthjustice.org \n \nMeghan L. Riley (Tx. Bar No. 24049373) (Pro Hac \nVice Motion forthcoming) \nEARTHJUSTICE \n845 Texas Avenue, Suite 200 \nHouston, TX 77002 \n(512) 436-3988 \n mriley@earthjustice.org \n \nCounsel for Plaintiff  \nBuilding Materials Re-use Association \n27 \n ",
+      "document_type_other": null,
+      "external_url": "https://www.courtlistener.com/docket/70981023/1/building-materials-re-use-association-v-united-states-environmental/",
+      "ecf_number": "1",
+      "clearinghouse_link": "clearinghouse.net/doc/162403"
+    },
+    {
+      "date": null,
+      "date_is_estimate": false,
+      "date_not_available": false,
+      "description": null,
+      "document_source": null,
+      "document_status": null,
+      "document_type": null,
+      "order_type": null,
+      "citation_paren": null,
+      "cite_1_page": null,
+      "cite_1_reporter": null,
+      "cite_1_vol": null,
+      "cite_2_page": null,
+      "cite_2_reporter": null,
+      "cite_2_vol": null,
+      "cite_3_page": null,
+      "cite_3_reporter": null,
+      "cite_3_vol": null,
+      "citation_status": null,
+      "court": null,
+      "no_title": false,
+      "party_types": [],
+      "per_curium": false,
+      "is_core_document": true,
+      "id": 162402,
+      "file": null,
+      "title": null,
+      "text": null,
+      "document_type_other": null,
+      "external_url": null,
+      "ecf_number": null,
+      "clearinghouse_link": "clearinghouse.net/doc/162402"
+    }
+  ],
+  "document_count": 2
+}

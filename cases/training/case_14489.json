@@ -1,0 +1,196 @@
+{
+  "case_id": 14489,
+  "fetched_at": "2025-10-22T00:22:41.932806",
+  "case_data": {
+    "attorney_orgs": [],
+    "available_documents": [
+      "Injunctive (or Injunctive-like) Relief",
+      "Any published opinion"
+    ],
+    "case_defendants": [
+      {
+        "defendant_level": null,
+        "institution": "",
+        "institution_alt_state": null,
+        "institution_city": "",
+        "institution_county": "Nevada",
+        "name": "Superior Court of Nevada County",
+        "defendant_level_other": "",
+        "is_active": true
+      },
+      {
+        "defendant_level": null,
+        "institution": "",
+        "institution_alt_state": null,
+        "institution_city": "",
+        "institution_county": null,
+        "name": "Wayne Brown Correctional Facility",
+        "defendant_level_other": "",
+        "is_active": true
+      }
+    ],
+    "case_ongoing": "No",
+    "case_status": "Approved",
+    "case_types": [
+      "Jail Conditions"
+    ],
+    "cause_other": "",
+    "causes": [],
+    "class_action_granted": "Not sought",
+    "class_action_sought": "No",
+    "closing_year": 2015,
+    "constitutional_clause": [],
+    "content_of_injunction": [],
+    "court": "California state trial court",
+    "custom_issues": [],
+    "defendant_payment": "",
+    "defendant_type": [
+      {
+        "value": "Corrections"
+      }
+    ],
+    "docket_status": "None",
+    "facility_type": [
+      {
+        "value": "Government-run"
+      }
+    ],
+    "filing_date": null,
+    "filing_year": 2013,
+    "id": 14489,
+    "injunction_duration": "",
+    "issues": [
+      "General/Misc.: Access to lawyers or judicial system"
+    ],
+    "last_checked_date": "2020-12-20T00:00:00-05:00",
+    "main_docket": {
+      "id": 29762,
+      "docket_entries": [],
+      "docket_case_type": "",
+      "docket_year": null,
+      "docket_filing_number": null,
+      "is_main_docket": true,
+      "court": "U.S. Court of Appeals for the Ninth Circuit",
+      "state": "California",
+      "docket_office_number": "",
+      "docket_number_manual": "C0740504",
+      "scales_html": null,
+      "recap_link": null,
+      "is_active": false
+    },
+    "name": "County of Nevada v. Superior Court of Nevada County",
+    "never_filed": false,
+    "non_docket_case_number": "",
+    "non_docket_case_number_type": null,
+    "non_docket_case_number_type_other": "",
+    "order_end_year": null,
+    "order_start_year": null,
+    "permanent_injunction": true,
+    "plaintiff_description": "Prisoners at the Wayne Brown Correctional Facility in Nevada County, California.",
+    "plaintiff_type": [
+      {
+        "value": "Private Plaintiff"
+      }
+    ],
+    "prevailing_party": "Plaintiff",
+    "pro_se_status": "No",
+    "public_interest_lawyer": "No",
+    "related_cases": [],
+    "relief_natures": [
+      "Injunction / Injunctive-like Settlement"
+    ],
+    "relief_nature_other": "",
+    "relief_sources": [
+      "Litigation"
+    ],
+    "settlement_agreement": [],
+    "settlement_judgment_date": null,
+    "settlement_judgment_year": null,
+    "special_collections": [],
+    "special_case_type": [],
+    "state": "California",
+    "summary": "<p>In 2013, the commander of the Wayne Brown Correctional Facility, a county jail in California, informed the inmates that lawyers would no longer be able to meet face-to-face with their clients. Instead, lawyers would have to meet with clients through glass walls, speaking into telephones. Both attorneys and inmates testified that communication was much harder through these “telephones” and that the conversations were not private because the glass partitions were not adequately soundproofed. Several inmates brought suit in California superior court. After conducting an evidentiary hearing, the trial court, notwithstanding the deference that courts ordinarily accord jails and prisons in conducting their own affairs, ordered the jail to make face-to-face visits available absent individual circumstances justifying separation. </p><p>The County of Nevada then filed a petition for a writ of mandamus with the California Third District Court of Appeal, which granted a preliminary motion to stay the superior court’s order. The parties and amici then presented arguments on the legal issues. The Court of Appeal ultimately determined that the superior court did not abuse its discretion and refused to issue the writ, so the trial court’s order stood. 236 Cal. App. 4th 1001 (Apr. 23, 2015). The court denied attorney’s costs to the prisoners’ lawyers who had initiated the suit. </p><p></p>",
+    "summary_published_date": "2020-03-12T00:00:00-04:00",
+    "summary_short": "",
+    "summary_tiny": null,
+    "terminating_date": "2015-07-31",
+    "clearinghouse_link": "clearinghouse.net/case/14489",
+    "is_active": true,
+    "case_documents_url": "https://clearinghouse.net/api/v2/documents/?case=14489",
+    "case_dockets_url": "https://clearinghouse.net/api/v2/dockets/?case=14489",
+    "case_resources_url": "https://clearinghouse.net/api/v2/resources/?case=14489"
+  },
+  "documents": [
+    {
+      "date": "2015-04-23",
+      "date_is_estimate": false,
+      "date_not_available": false,
+      "description": "",
+      "document_source": null,
+      "document_status": "Coding Complete",
+      "document_type": "Order/Opinion",
+      "order_type": "Litigated Decree",
+      "citation_paren": null,
+      "cite_1_page": 1001,
+      "cite_1_reporter": "Cal.App.4th",
+      "cite_1_vol": 236,
+      "cite_2_page": 2266684,
+      "cite_2_reporter": "WL",
+      "cite_2_vol": 2015,
+      "cite_3_page": null,
+      "cite_3_reporter": null,
+      "cite_3_vol": null,
+      "citation_status": "Official citation found/coded",
+      "court": "California state appellate court",
+      "no_title": true,
+      "party_types": [
+        "Court"
+      ],
+      "per_curium": false,
+      "is_core_document": true,
+      "id": 76805,
+      "file": "https://clearinghouse-umich-production.s3.amazonaws.com/media/doc/76805.pdf",
+      "title": "[Court of Appeal Opinion]",
+      "text": " \nFiled 4/23/15  County of Nevada v. Super. Ct. CA3 \nNOT TO BE PUBLISHED \n \n \n \nCalifornia Rules of Court, rule 8.1115(a), prohibits courts and parties from citing or relying on opinions not certified for \npublication or ordered published, except as specified by rule 8.1115(b).  This opinion has not been certified for publication \nor ordered published for purposes of rule 8.1115. \n \nIN THE COURT OF APPEAL OF THE STATE OF CALIFORNIA \nTHIRD APPELLATE DISTRICT \n(Nevada) \n---- \n \n \nCOUNTY OF NEVADA et al.,   \n   \n    Petitioners,  C074504 \n   \n  v.  (Super. Ct. Nos. F1100317, \n  F12000376, F12000450, \nTHE SUPERIOR COURT OF NEVADA COUNTY,  F12000504B, F13000059, \n  F13000175, M12001105, \n    Respondent;  M12001123, M12001618B, \n  M12001672A, M12001776, \nJACOB MICHAEL SIEGFRIED et al.,  M130093) \n   \n    Real Parties in Interest.   \n \n \n \n  The commander at the Wayne Brown Correctional Facility in Nevada County \n(the jail) gave notice in early 2013 that lawyers would generally no longer be able to meet \nface-to-face with their incarcerated clients in visiting rooms without glass partitions, but \ninstead would generally be required to meet with their clients in glass-partitioned rooms.  \nThe jail commander cited safety and security concerns.  Several inmates, real parties \nin interest, moved for the restoration of what they characterized as “contact visits,”  \n1 \n\n \nface-to-face visits in non-partitioned rooms.  The trial court consolidated the motions and \nheld an evidentiary hearing, ultimately ordering that confidential attorney-client contact \nvisits (which the trial court defined as visits in a meeting space without physical barriers \nbetween attorney and client) be made available at the jail absent circumstances justifying \nsuspension of such visits in individual cases. \n  The County of Nevada (the county) filed a petition for a writ of mandate or \nprohibition in this court.  We issued a stay and an order to show cause, and subsequently \nreviewed the briefs and evidence submitted by the county and real parties in interest, \nalong with the amicus curiae briefs submitted by the California State Sheriffs’ \nAssociation, the California Police Chiefs Association, the California Peace Officers’ \nAssociation, California Attorneys for Criminal Justice, and the National Association \nof Criminal Defense Lawyers. \n  We conclude the trial court did not abuse its discretion in ordering that \nconfidential attorney-client contact visits be made available at the jail absent \ncircumstances justifying suspension of such visits in individual cases.  We will deny \nthe writ petition and lift the stay.  \nBACKGROUND \n  For many years, attorneys representing individuals incarcerated at the jail \nroutinely had face-to-face visits with their clients in non-partitioned rooms at the jail.  \nAt the evidentiary hearing in this case, a former jail commander said that during his \ntenure he allowed attorneys to have such visits unless their clients were particularly \nviolent or posed a threat. \n2 \n\n \n  In January 2013, however, the jail commander issued the following notice: \n  “Effective February 4, 2013, the Wayne Brown Correctional Facility will have \nattorney/client visitation take place in the attorney visitation [partitioned] rooms.  \nThis change is being done for the safety and security of the facility, attorneys, and your \nclients as well as due to increased jail population and staffing issues.  Should you require \npaperwork to be delivered to your client, we will be happy to accommodate you and open \nthe pass through slot in the visitation room.  [¶]  Any requests for ‘Professional Contact \nVisits’ need to be approved by the On Duty Supervisor and are limited to the attorney \nof record.” \n  The jail commander explained the change by noting that the jail’s population had \nrecently increased and that jail staffing had been reduced.  He acknowledged that 50 to 60 \nnew inmates were being housed at the jail pursuant to a contract with the federal \ngovernment and that the federal government paid the county for their housing.  \n  Following the notice, nearly all meetings between inmates and lawyers took place \nin partitioned rooms.  The rooms are divided by a barrier consisting of the following:  \nglass from the ceiling to about three feet from the floor; a locked metal pass-through slot; \nand a wall from the bottom of the slot to the floor.  The pass-through slot is less than an \ninch high (similar to a residential mail slot) that can be unlocked by jail staff if a request \nis made by an attorney.  There is a wall-mounted telephone on each side of the barrier.  \nThe telephone is not connected to outside telephone lines; it is “basically a wire \nconnecting the two boxes together.”  There is evidence that it is necessary to speak loudly \nwhen using the telephone system.  Attorneys and clients communicate with each other \n3 \n\n \neither by using the telephone system or by speaking loudly enough to be heard through \nthe pass-through slot.  The partitioned rooms have a round metal stool on each side of the \npartition and a shelf for lawyers, but no tables.  An attorney testified that she never uses \nthe telephone in the partitioned rooms because she has to shout anyway and it is hard to \ntake notes, show documents to her client, read the file and also hold the telephone in her \nhand.  Attorneys declared that their communications with clients and their preparation for \ntrial have been adversely affected by the restrictions on contact with their incarcerated \nclients. \n  The partitions are sound-proofed on the attorney side.  The jail commander \ntestified that he tested the rooms and determined that voices at normal conversation levels \non the attorney side of the wall could not be understood outside the visitation room.  \nBut evidence was presented that the partitions on the inmate side have not been sound \nproofed.  The wall is cinder block on the inmate side.  The jail commander testified that \nthe inmate side of the partitioned rooms do not have sound deadening material because \nin his experience, the material would likely be removed or vandalized by the inmates.  \nNotwithstanding the efforts to soundproof, there is evidence that an attorney has been \nable to hear portions of conversations in an adjacent partitioned room.   \n  The only room regularly available to lawyers for non-partitioned visits is a holding \ncell at the courthouse, but use of that holding cell requires transporting the incarcerated \nclient from the jail to the courthouse, and the holding cell’s configuration and limited \navailability makes it difficult to use.   \n \n4 \n\n \n  A psychologist testified about the negative impact on relationships when there \nare restrictions on communication, comprehension and confidentiality.  In addition, a \ncriminal defense attorney with 35 years experience testified that he practiced in many \njurisdictions and more than 90 percent of his visits to other jails included non-partitioned \nvisits.  There was further testimony that non-partitioned jailhouse visits with counsel are \nroutinely available in other counties and in other states.  There was no evidence to the \ncontrary.   \n  The county asserted at the evidentiary hearing that the jail was merely enforcing \nexisting policy.  No written policy was produced, however, and a retired jail commander \nsaid he was unaware of any such policy.  Under the new policy, ministers and teachers \ncontinued to be allowed non-partitioned time with inmates in a multi-purpose room along \nthe same hallway, but jail personnel refused requests for non-partitioned visits with \ndefense lawyers in all cases except those requiring the joint review of recordings or \nvoluminous documents.  During the first three months after the notice, special permission \nwas given for non-partitioned visits on about 12 occasions, or approximately once per \nweek.  In each case an attorney needed to review a video or audio recording, or a large \nnumber of documents, with an inmate. \n  The superior court recognized that prison and jail authorities are given deference \nin developing policies to preserve internal order.  But the superior court noted that prison \npolicies may not unnecessarily abridge a defendant’s meaningful access to his attorney \nand the courts.  The superior court ordered confidential attorney-client contact visits, \nstating, “It is not this court’s intention to direct the sheriff’s office on how to \n5 \n\n \naccommodate attorney-client contact visitation.  The sheriff’s office and the county jail \nstaff in particular have a long history of cooperating with the court and other county \ndepartments.  They are in the best position to determine whether to revert to the previous \nmeans of providing contact visitation or modify existing facilities and/or procedures to \naccommodate attorney-client contact visits.”   \n  We granted the county’s petition to stay the superior court order and we ordered \nthe parties to show cause why it should not be vacated.  The county and the real parties \nin interest briefed the legal issues and submitted the records we requested.  We also \nreceived and considered briefing from amici curiae on both sides of the issue. \n  Amici curiae who support the county’s petition assert that if we uphold the \nsuperior court’s order, sheriffs throughout the state will have to elevate arrangements \nfor non-partitioned visits to the same “must be done” level as providing for inmate food, \nmedical care, exercise and transportation to and from courts.  They contend that any \ninterest inmates may have had to barrier-free visits, like the general right of intimate \nassociation, is “superseded by the fact of confinement” and is simply “inconsistent with \nincarceration.”1  Amici criminal defense lawyers counter that most county jails provide \nfacilities for non-partitioned attorney visits and that full-contact visits enhance trial \npreparation and allow “greater compliance with the Constitutional command of effective \nrepresentation.”   \n                                              \n1  The quoted terms are from Gerber v. Hickman (9th Cir. 2002) 291 F.3d 617, 621, \nwhich, in turn, quoted a Missouri case for the proposition that marital relationships are \nnecessarily altered by incarceration.   \n6 \n\n \n  Additional facts are included in the discussion post. \nDISCUSSION \n  The county contends the superior court abused its discretion in ordering contact \nvisits between attorneys and incarcerated clients at the jail.  As we will explain, jail \ninmates have a constitutional right to (A) confidentially confer with counsel, and (B) \nhave contact visits with counsel as part of their right to meaningful access to the courts.  \nThe county’s generalized concern in this case that safety will be improved if inmates are \nseparated from their lawyers by partitions is not sufficient to meet the county’s burden.  \nSubstantial evidence supports the superior court’s determination that the county’s \nrestriction is an exaggerated response to the county’s safety concerns.  The superior court \ndid not abuse its discretion.  \nA \n  The right to effective assistance of counsel includes the right to confer in absolute \nprivacy.  (Small v. Superior Court (2000) 79 Cal.App.4th 1000, 1010.)  California’s \nconstitutional protection of the right to counsel has been recognized as the source of a \nprisoner’s right to consult privately with counsel in preparation for trial since at least \n1920.  (In re Rider (1920) 50 Cal.App. 797, 799.)  The right to counsel under both state \nand federal constitutions guarantees a person accused of a crime not just the opportunity \nto hear his lawyer’s advice but also to privately confide facts that may incriminate or \nembarrass him.  (Barber v. Municipal Court (1979) 24 Cal.3d 742, 751.)  When others \ncan overhear attorney-client communications, there is an impermissible chilling effect on \nthe constitutional right to counsel.  (People v. Torres (1990) 218 Cal.App.3d 700, 708.) \n7 \n\n \n  The county acknowledges the right to confidentiality and privacy, but argues the \npartitioned rooms do not violate that right.  The county points to the sound-proofing on \nthe attorney’s side of the room and notes that the telephone handsets are not monitored \nby  jail authorities.  The jail commander said he ordered sound-proofing on the attorney \nside of the partition to keep a “normal conversation” from carrying into the adjoining \nroom.  Other witnesses testified, however, that attorneys and clients could not hear each \nother using a “normal” level of conversation; they had to speak loudly, and inmate voices \ncarried through the cinder block walls to the adjacent rooms and hallway.  There is \nsubstantial evidence that the partitioned rooms, as currently configured, limit or prevent \nan inmate from privately confiding facts that may incriminate or embarrass the inmate \nand create an impermissible chilling effect on the constitutional right to counsel. \nB \n  Penal institutions also have an obligation under the 14th Amendment to assure all \nprisoners meaningful access to the courts.  (Bounds v. Smith (1977) 430 U.S. 817, 818, \n824 [52 L.Ed.2d 72, 76, 80-81].)  Meaningful access to the courts includes the right to \ncontact visits with counsel.  (Ching v. Lewis (9th Cir. 1990) 895 F.2d 608, 610 (Ching).) \n  Institutions may consider economic factors in choosing how to provide access \nto counsel and the courts, but the cost of protecting constitutional rights cannot justify \na blanket denial of the right.  (Bounds v. Smith, supra, 430 U.S. at p. 825 [52 L.Ed.2d at \np. 81].)  And, despite great deference to the security judgment of those who operate penal \ninstitutions, “the courts cannot abdicate their responsibility to protect inmates’ rights to \nadequate contact with their attorneys and to disapprove of visitation requirements that \n8 \n\n \nplace a chilling effect on attorney visitation, especially when the security risk in a given \ncase is ephemeral.”  (In re Roark (1996) 48 Cal.App.4th 1946, 1956-1957.)  Policies and \npractices that unjustifiably obstruct the right to assistance of counsel are invalid.  \n(Procunier v. Martinez (1974) 416 U.S. 396, 419 [40 L.Ed.2d 224, 243], overruled in part \nby Thornburgh v. Abbott (1989) 490 U.S. 401, 413 [104 L.Ed.2d 459, 473].)  Unjustified \nrestrictions on contact visits implicate due process and are a proper subject of concern for \nthe courts. \n  As the county points out, however, there is no constitutional right to “unrestricted \ncontact visits with counsel.”  (Mann v. Reynolds (10th Cir. 1995) 46 F.3d 1055, 1060 [the \nSixth Amendment “does not require in all instances full and unfettered contact between \nan inmate and counsel”]; Small v. Superior Court, supra, 79 Cal.App.4th at p. 1013 [there \nis no “absolute right” to contact visits].)  The Sixth Amendment does not guarantee an \nabsolute right to a “meaningful relationship” between an accused and his counsel (Morris \nv. Slappy (1983) 461 U.S. 1, 14 [75 L.Ed.2d 610, 621]), and physical touch between a \nlawyer and an inmate is not guaranteed.  (See King v. Superior Court (2003) 107 \nCal.App.4th 929, 943-944 [limiting contact visits for inmate who had physically attacked \nhis lawyer and noting that, in extreme cases, the right to counsel may even be forfeited \nentirely].)  Contact visits may be restricted if there is a legitimate penal justification.  \n(Ching, supra, 895 F.2d at p. 610; Lopez v. Brewer (9th Cir. 2012) 680 F.3d 1068, 1081; \nBarnett v. Centoni (9th Cir. 1994) 31 F.3d 813, 816.) \n  In determining whether jail restrictions on attorney contact visits are reasonable, \nthe relevant factors include (1) whether there is a valid, rational connection between \n9 \n\n \nthe jail restriction and the legitimate governmental interest put forward to justify it; \n(2) whether there are alternative means of exercising the right; (3) how the \naccommodation of the asserted right will impact guards, other inmates and the allocation \nof jail resources; and (4) whether the restriction is an exaggerated response to jail \nconcerns.  (See Small v. Superior Court, supra, 79 Cal.App.4th at p. 1011, citing Turner \nv. Safley (1987) 482 U.S. 78, 89-90 [96 L.Ed.2d 64, 79-80] (Turner).)2 \n                                              \n2  The superior court applied the test described in In re Arias (1986) 42 Cal.3d 667, but \nArias was abrogated in 1994 by an amendment to Penal Code section 2600 designed to \nconform California law to the decision in Turner.  (Thompson v. Department of \nCorrections (2001) 25 Cal.4th 117, 130.)  Before 1994, Penal Code section 2600 \nprovided that a prisoner could be deprived only of those rights “ ‘necessary in order to \nprovide for the reasonable security of the institution in which he is confined and for the \nreasonable protection of the public’ ” but, in consideration of Turner, the legislature \namended the statute to allow deprivation of rights “ ‘reasonably related to legitimate \npenological interests.’ ”  (Ibid., italics omitted [quoting Pen. Code § 2600].)  Penal Code \nsection 2600 is binding on jails as well as prisons.  (In re Grimes (1989) 208 Cal.App.3d \n1175, 1181.) \n  Under Arias, courts evaluated the extent to which a deprivation of inmate rights \nwas necessary to satisfy reasonable security interests, but under Turner, courts uphold a \nprison regulation if it is reasonably related to legitimate penological interests.  (Thompson \nv. Department of Corrections, supra, 25 Cal.4th at pp. 129 -131.)  The difference in these \nstandards is significant; by way of example, monitoring and recording of unprivileged \ncommunications between inmates and their visitors was prohibited under Arias but \npermitted under Turner.  (People v. Loyd (2002) 27 Cal.4th 997, 1010.)  Both before and \nafter Turner, however, California courts have upheld reasonable regulations restricting \nattorney contact visits.  (See, e.g., King v. Superior Court, supra, 107 Cal.App.4th \nat p. 943 [inmate hit and threatened his attorneys], Small v. Superior Court, supra, \n79 Cal.App.4th at p. 1012 [inmate repeatedly hid contraband, manufactured weapons and \nassaulted other inmates]; People v. Torres (1990) 218 Cal.App.3d 700, 703 [inmate \nplanned escape with help of his lawyer] and Dept. of Corrections v. Superior Court \n(1982) 131 Cal.App.3d 245, 248 [inmate repeatedly obtained contraband and assaulted \nothers in prison].) \n10 \n\n \n  Addressing the first factor -- whether there is a valid, rational connection between \nthe jail restriction and the legitimate governmental interest put forward to justify it -- the \njail commander’s notice cited “the safety and security of the facility, attorneys, and \n[inmates] as well as . . . increased jail population and staffing issues.”  The jail \ncommander explained that he intended to enforce existing policy, but no written policy \nwas produced.  The jail had allowed non-partitioned visits between inmates and their \nlawyers in the jail for some 20 years before the change was announced.  There was \napparently an assault on an attorney by a psychotic inmate at the jail in 2005, but that \nincident was not offered as justification for the 2013 rule change. \n  The change in lawyer contact visitation was based in part on a concern that \ninmates who should be kept apart could be traversing the hallway at the same time.  \nHallway traffic is monitored by a central command post but rooms where attorney \ncontact visits took place were not controlled by central command.  The jail commander \nalso said he wanted to limit the number of people who could access the secure portion of \nthe facility.  He explained that professionals (lawyers and psychologists) had always been \ngiven keys to access the non-partitioned visitation rooms, raising a concern that an inmate \nwho had contact with an attorney could obtain a key, leave without permission and attack \na correctional officer or another inmate.  He said there were alarms but no cameras in the \nnon-partitioned rooms. \n  The jail commander said community members, teachers and religious leaders \nroutinely conduct classes and meetings in partition-free rooms in the jail but, although \nthose community members were “about the same” security risk as lawyers, they were \n11 \n\n \nallowed physical contact with inmates because they had been trained regarding jail \nsecurity, their meeting rooms were monitored by camera, and the door locks were \ncontrolled by the jail’s central command. \n  On balance, we conclude that, as to the first factor, jail authorities have identified \na legitimate concern for safety and security in the jail.  There is a rational connection \nbetween that concern and the jail restrictions.  The concern identified by jail authorities is \nprimarily based on a lack of monitoring and control.  But as we explain in discussing the \nfourth factor, there is evidence that reasonable measures are available to address the \nconcern.   \n   Turning to the second factor -- whether there are alternative means of exercising \nthe right -- substantial evidence shows that at least one alternative is available.  Contact \nvisits are available at the courthouse, although the evidence indicates this alternative is \nnot optimal. \n  Regarding the third factor -- how the accommodation of the asserted right will \nimpact guards, other inmates and the allocation of prison resources -- the county contends \nthe new restriction results in substantial savings and reduces the risk of inmate violence.  \nAmici curiae operating other jails insist that if counties have to move attorney contact \nvisits to their “must do” list, the courts will “usurp the authority of the Sheriff to \ndetermine how best to provide for the safety and security of a jail” and cause a \ndiminution of other programs, procedures and benefits. \n  There are certainly institutional costs associated with jail visitation, but jails must \nhave written policies and procedures to allow “as many [inmate] visits and visitors as \n12 \n\n \nfacility schedules, space, and number of personnel will allow.”  (15 Cal. Code Regs. \n§ 1062.)  The evidence indicates that non-partitioned attorney visits are common in most \ninstitutions, both in this state and elsewhere.  There is no evidence that the costs of non-\npartitioned attorney visits at the jail had been or would be extraordinary, and in any \nevent, the superior court ordered that the sheriff could choose the time, place and manner \nof non-partitioned contact visits and prohibit them entirely where warranted.  We \nconclude this factor favors contact visits.   \n  As for the fourth factor -- whether the restriction is an exaggerated response to \ncounty concerns -- we have already noted that non-partitioned visits had been allowed for \nsome 20 years before the change, and although there was an assault in 2005, that incident \nwas not cited as a reason for the change.  There is also evidence that additional locks, \ncameras and training could address the county’s security concerns.  The county’s expert \nagreed that, although it is impossible to eliminate all security risks, such measures would \nhelp.  The record shows that with existing locks, cameras and training, the jail allows \nministers and teachers to meet with inmates in a non-partitioned room.  This evidence \nindicates that the jail restriction is an exaggerated response to the county’s legitimate \nsecurity concern.  (See Turner, supra, 482 U.S. at pp. 90-91 [96 L.Ed.2d at p. 80] \n[obvious and easy alternatives to examined regulation suggest an exaggerated response \nby institution].) \n  Based on the four factors, we conclude the superior court did not abuse its \ndiscretion in ordering contact visits. \n13 \n\n \n  Addressing amici curiae’s concern about the impact of our decision, we do not \nhold that institution-wide restrictions on attorney contact visits can never be justified, \nonly that there is substantial evidence in this case to support a determination that the \nrestriction here is an exaggerated response.  As we noted in another case involving jail \nvisitation restrictions, our opinions on this subject are not “carved in stone” due to the \nshifting landscape involving jails and prisons.  (See In re Gallego (1982) 133 Cal.App.3d \n75, 85-86.)       \n  Unless and until the superior court’s order is modified based on new evidence, \nbarrier-free meetings between inmates and their lawyers shall be available unless jail \nauthorities or lawyers determine the meetings would create an unreasonable security risk \nin a given case. \nDISPOSITION \n  The writ petition is denied.  The stay is lifted.  Real parties in interest shall recover \ntheir costs on appeal. \n \n \n            MAURO  , J. \n \n \nWe concur: \n \n \n          NICHOLSON  , Acting P. J. \n \n \n          ROBIE  , J. \n14 ",
+      "document_type_other": "",
+      "external_url": "",
+      "ecf_number": "",
+      "clearinghouse_link": "clearinghouse.net/doc/76805"
+    },
+    {
+      "date": null,
+      "date_is_estimate": false,
+      "date_not_available": false,
+      "description": null,
+      "document_source": null,
+      "document_status": null,
+      "document_type": null,
+      "order_type": null,
+      "citation_paren": null,
+      "cite_1_page": null,
+      "cite_1_reporter": null,
+      "cite_1_vol": null,
+      "cite_2_page": null,
+      "cite_2_reporter": null,
+      "cite_2_vol": null,
+      "cite_3_page": null,
+      "cite_3_reporter": null,
+      "cite_3_vol": null,
+      "citation_status": null,
+      "court": null,
+      "no_title": false,
+      "party_types": [],
+      "per_curium": false,
+      "is_core_document": true,
+      "id": 116926,
+      "file": null,
+      "title": null,
+      "text": null,
+      "document_type_other": null,
+      "external_url": null,
+      "ecf_number": null,
+      "clearinghouse_link": "clearinghouse.net/doc/116926"
+    }
+  ],
+  "document_count": 2
+}
