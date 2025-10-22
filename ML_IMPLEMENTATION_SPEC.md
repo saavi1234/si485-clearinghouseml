@@ -1,985 +1,743 @@
 # ML Implementation Specification
-## Legal Case & Document Tagging System
+## Document-Level Legal Tagging System (Simplified)
 
 ---
 
 ## 🎯 Project Overview
 
-Build a machine learning system to automatically tag legal cases and their documents using human-tagged training data from the Civil Rights Clearinghouse database. The system will predict tags at two levels:
-1. **Case-level tags** (12 different tag types)
-2. **Document-level tags** (2 different tag types)
+Build a **simple, memory-efficient** machine learning system to automatically tag individual legal documents using human-tagged training data from the Civil Rights Clearinghouse database.
+
+**Scope:** Document-level tagging ONLY (case-level tagging deferred for future implementation)
+
+**Key Constraints:**
+- Memory-safe processing (batch processing throughout)
+- Simple architecture (single model, straightforward pipeline)
+- Production-ready inference on new documents
 
 ---
 
 ## 📊 Data & Tags
 
-**Summary:** 12 case-level tags, 2 document-level tags
-
-### ⚠️ Available Input Data (CRITICAL)
-
-**For Case-Level Tag Prediction:**
-- ✅ **Case name** (e.g., "Price v. Jefferson County")
-- ✅ **All document texts** (combined from all documents in the case)
-- ✅ **All document titles** (combined from all documents)
-- ✅ **All document sources** (e.g., "PACER", "Court website")
-- ✅ **Docket entries** (court filing information)
-- ❌ **Case summary** - NOT AVAILABLE (human-created after the fact)
-
-**For Document-Level Tag Prediction:**
-- ✅ **Document title** (e.g., "Order", "Docket [PACER]")
-- ✅ **Document source** (e.g., "PACER [Public Access to Court Electronic Records]")
-- ✅ **Document text** (the actual document content)
-- ❌ Cannot use case-level information or other documents
-
-### Case-Level Tags (12 types)
-1. `state` - Geographic location (JSON field: "state")
-2. `case_types` - Type(s) of case (list)
-3. `case_ongoing` - Boolean: is case still active
-4. `plaintiff_description` - Text description of plaintiff
-5. `plaintiff_type` - Type(s) of plaintiff (list) (JSON field: "plaintiff_type")
-6. `case_defendants` - List of defendant info (JSON field: "case_defendants")
-7. `defendant_type` - Type(s) of defendants (list) (JSON field: "defendant_type")
-8. `causes` - Legal causes (list) (JSON field: "causes")
-9. `constitutional_clause` - Constitutional provisions (list) (JSON field: "constitutional_clause")
-10. `prevailing_party` - Who won the case
-11. `relief_natures` - Type of remedy granted (JSON field: "relief_natures")
-12. `relief_sources` - Origin of remedy (JSON field: "relief_sources")
-
 ### Document-Level Tags (2 types)
-1. `document_type` - Type of document
-2. `party_types` - Parties involved (list)
+1. **`document_type`** - Type of legal document (e.g., "Order", "Motion", "Brief")
+2. **`party_types`** - Parties involved in the document (list, e.g., ["Plaintiff", "Defendant"])
+
+### Available Input Features
+For each document, we have:
+- ✅ **Document title** (e.g., "Order Granting Motion to Dismiss")
+- ✅ **Document source** (e.g., "PACER", "Court website")  
+- ✅ **Document text** (the full document content)
+- ✅ **Case ID** (for grouping, but NOT used as a feature)
+
+### Data Source
+- Training data: JSON files in `cases/training/` directory
+- Each case JSON contains multiple documents with tags
+- Production data: Similar JSON structure, but tags are missing (to be predicted)
 
 ---
 
-## 🏗️ Repository Structure (Clean & Organized)
+## 🏗️ Repository Structure (Simplified)
 
 ```
 si485-clearinghouseml/
-├── .env                          # API keys & secrets (NOT in git)
-├── .gitignore                    # Already configured
+├── .env                          # API keys (NOT in git)
+├── .gitignore                    # Ignore sensitive files
 ├── requirements.txt              # Python dependencies
-├── README.md                     # Main project documentation
-├── config.py                     # Configuration management
+├── README.md                     # User guide
+├── config.py                     # Configuration settings
 │
-├── data/                         # All data-related files
-│   ├── raw/                      # Original CSV files
-│   │   └── training_cases.csv
-│   ├── cases/                    # Fetched case JSON files
-│   │   ├── training/             # Human-tagged cases
-│   │   └── production/           # Cases to tag
-│   └── processed/                # Processed data for ML
-│       ├── train/
-│       ├── val/
-│       └── test/
+├── cases/                        # Case JSON files
+│   ├── training/                 # Training cases (human-tagged)
+│   └── production/               # Production cases (to predict)
 │
-├── src/                          # All source code
+├── processed/                    # Processed data (created by pipeline)
+│   ├── documents_train.csv       # Training documents
+│   ├── documents_val.csv         # Validation documents
+│   ├── documents_test.csv        # Test documents
+│   └── vectorizers.pkl           # Saved text vectorizers
+│
+├── model/                        # Saved trained model
+│   ├── document_tagger.pkl       # The trained model
+│   ├── label_encoders.pkl        # Label encoders for tags
+│   └── metadata.json             # Model info & metrics
+│
+├── src/                          # Source code
 │   ├── __init__.py
-│   ├── ingestion/                # Data collection
-│   │   ├── __init__.py
-│   │   ├── data_ingestion.py    # API fetcher (moved from root)
-│   │   └── data_utils.py        # Data exploration (moved from root)
-│   │
-│   ├── preprocessing/            # Data preparation for ML
-│   │   ├── __init__.py
-│   │   ├── tag_extractor.py     # Extract tags from JSON
-│   │   ├── text_processor.py    # Text cleaning & vectorization
-│   │   ├── dataset_builder.py   # Build train/val/test sets
-│   │   └── label_encoder.py     # Encode tags for ML
-│   │
-│   ├── models/                   # ML model definitions
-│   │   ├── __init__.py
-│   │   ├── case_tagger.py       # Case-level model
-│   │   ├── document_tagger.py   # Document-level model
-│   │   └── model_utils.py       # Shared utilities
-│   │
-│   ├── training/                 # Training logic
-│   │   ├── __init__.py
-│   │   ├── trainer.py           # Training orchestrator
-│   │   └── evaluator.py         # Model evaluation
-│   │
-│   └── inference/                # Prediction on new data
-│       ├── __init__.py
-│       └── predictor.py         # Make predictions
+│   ├── extract_documents.py      # Extract docs from JSONs (with batching)
+│   ├── process_features.py       # Text processing & vectorization
+│   ├── train_model.py            # Model training
+│   └── predict.py                # Make predictions
 │
-├── models/                       # Saved trained models
-│   ├── case_tagger/
-│   │   ├── model.pkl
-│   │   └── metadata.json
-│   └── document_tagger/
-│       ├── model.pkl
-│       └── metadata.json
-│
-├── experiments/                  # Training experiments & logs
-│   └── experiment_YYYYMMDD_HHMMSS/
-│       ├── config.json
-│       ├── metrics.json
-│       ├── training.log
-│       └── plots/
-│
-├── notebooks/                    # Jupyter notebooks for analysis
-│   ├── 01_data_exploration.ipynb
-│   ├── 02_model_experiments.ipynb
-│   └── 03_results_analysis.ipynb
-│
-├── scripts/                      # Executable scripts
-│   ├── fetch_data.py            # Run data ingestion
-│   ├── prepare_data.py          # Run preprocessing
-│   ├── train_models.py          # Train both models
-│   ├── evaluate_models.py       # Evaluate performance
-│   └── predict.py               # Make predictions on new data
-│
-└── tests/                        # Unit tests
-    ├── __init__.py
-    ├── test_preprocessing.py
-    ├── test_models.py
-    └── test_inference.py
+└── results/                      # Output predictions
+    └── predictions.csv           # Predicted tags for production docs
 ```
+
+**Key Simplifications:**
+- Single `model/` directory (not separate case/document)
+- No separate `experiments/` tracking (just save best model)
+- No `tests/` initially (focus on working implementation)
+- No complex script orchestration (simple Python files)
+- Flat `processed/` structure (not train/val/test subdirectories)
 
 ---
 
 ## 🔧 Implementation Steps
 
-### **Phase 1: Project Setup & Security** (Priority: CRITICAL)
+### **Phase 1: Project Setup**
 
-#### Step 1.1: Create `.env` file for secrets
-**File: `.env`**
-```env
-# API Configuration
-CLEARINGHOUSE_API_TOKEN=11a7d2a0a5c673e0d4391cb578563eb43d629a49
-CLEARINGHOUSE_API_BASE_URL=https://clearinghouse.net/api/v2
-
-# Paths
-DATA_DIR=data
-MODELS_DIR=models
-EXPERIMENTS_DIR=experiments
-```
-
-#### Step 1.2: Update `.gitignore` to ensure security
-Add to `.gitignore`:
-```gitignore
-# Project-specific
-.env
-*.env
-data/cases/
-data/processed/
-models/
-experiments/
-*.pkl
-*.joblib
-*.h5
-*.pth
-
-# Keep structure but ignore contents
-!data/cases/.gitkeep
-!data/processed/.gitkeep
-!models/.gitkeep
-!experiments/.gitkeep
-```
-
-#### Step 1.3: Create `config.py` for configuration management
+#### Step 1.1: Create `config.py`
 **File: `config.py`**
 ```python
-"""
-Configuration management using environment variables.
-Loads secrets from .env file safely.
-"""
-import os
+"""Simple configuration for document tagging system"""
 from pathlib import Path
-from dotenv import load_dotenv
-
-# Load environment variables from .env file
-load_dotenv()
 
 class Config:
-    """Centralized configuration"""
+    """Configuration settings"""
     
-    # API Configuration
-    API_TOKEN = os.getenv('CLEARINGHOUSE_API_TOKEN')
-    API_BASE_URL = os.getenv('CLEARINGHOUSE_API_BASE_URL', 'https://clearinghouse.net/api/v2')
-    
-    # Directory paths
+    # Directories
     ROOT_DIR = Path(__file__).parent
-    DATA_DIR = ROOT_DIR / 'data'
-    RAW_DATA_DIR = DATA_DIR / 'raw'
-    CASES_DIR = DATA_DIR / 'cases'
-    PROCESSED_DIR = DATA_DIR / 'processed'
-    MODELS_DIR = ROOT_DIR / 'models'
-    EXPERIMENTS_DIR = ROOT_DIR / 'experiments'
+    CASES_TRAINING_DIR = ROOT_DIR / 'cases' / 'training'
+    CASES_PRODUCTION_DIR = ROOT_DIR / 'cases' / 'production'
+    PROCESSED_DIR = ROOT_DIR / 'processed'
+    MODEL_DIR = ROOT_DIR / 'model'
+    RESULTS_DIR = ROOT_DIR / 'results'
     
-    # Data splits
-    TRAIN_RATIO = 0.7
-    VAL_RATIO = 0.15
-    TEST_RATIO = 0.15
+    # Data processing settings
+    BATCH_SIZE = 50              # Process 50 JSON files at a time (memory-safe)
+    MAX_TEXT_LENGTH = 10000      # Truncate document text to 10K chars
     RANDOM_SEED = 42
     
-    # Model configuration
-    MAX_TEXT_LENGTH = 5000  # Maximum characters for text features
-    MIN_TAG_FREQUENCY = 2   # Minimum occurrences to keep a tag
+    # Train/val/test splits
+    TRAIN_RATIO = 0.70
+    VAL_RATIO = 0.15
+    TEST_RATIO = 0.15
+    
+    # TF-IDF settings
+    MAX_FEATURES = 5000          # Limit vocabulary size (memory-safe)
+    MIN_DF = 2                   # Ignore rare terms
+    MAX_DF = 0.8                 # Ignore very common terms
+    
+    # Model settings  
+    MIN_TAG_FREQUENCY = 3        # Drop tags appearing < 3 times
     
     @classmethod
-    def validate(cls):
-        """Validate that all required config is present"""
-        if not cls.API_TOKEN:
-            raise ValueError("CLEARINGHOUSE_API_TOKEN not found in .env file")
-        
-        # Create directories if they don't exist
-        for dir_path in [cls.DATA_DIR, cls.RAW_DATA_DIR, cls.CASES_DIR, 
-                         cls.PROCESSED_DIR, cls.MODELS_DIR, cls.EXPERIMENTS_DIR]:
+    def create_dirs(cls):
+        """Create necessary directories"""
+        for dir_path in [cls.PROCESSED_DIR, cls.MODEL_DIR, cls.RESULTS_DIR]:
             dir_path.mkdir(parents=True, exist_ok=True)
-        
-        return True
 ```
 
-#### Step 1.4: Create `requirements.txt`
+#### Step 1.2: Update `.gitignore`
+Add these lines to `.gitignore`:
+```gitignore
+# Processed data & models
+processed/
+model/
+results/
+*.pkl
+*.csv
+
+# Keep directory structure
+!.gitkeep
+```
+
+#### Step 1.3: Create `requirements.txt`
 **File: `requirements.txt`**
 ```txt
-# Core dependencies
-python-dotenv==1.0.0
-requests==2.31.0
+# Core
 pandas==2.1.0
 numpy==1.24.3
 
-# ML frameworks
+# ML
 scikit-learn==1.3.0
-xgboost==2.0.0
-lightgbm==4.1.0
-
-# Text processing
-nltk==3.8.1
-spacy==3.7.0
-
-# Data validation
-pydantic==2.5.0
-
-# Visualization
-matplotlib==3.8.0
-seaborn==0.13.0
 
 # Utilities
 tqdm==4.66.0
 joblib==1.3.2
+```
 
-# Development
-pytest==7.4.0
-black==23.10.0
-flake8==6.1.0
-jupyter==1.0.0
+**That's it!** Much simpler dependencies.
+
+---
+
+### **Phase 2: Document Extraction** (Memory-Safe)
+
+#### Step 2.1: Extract Documents from JSONs
+**File: `src/extract_documents.py`**
+
+**Purpose:** Extract all documents from case JSON files into a flat CSV format.
+
+**CRITICAL: Memory Management**
+- Process JSON files in batches (Config.BATCH_SIZE = 50)
+- Write results incrementally to CSV (append mode)
+- Never load all data into memory at once
+
+**JSON Structure Note:**
+```
+case_json
+├── case_id: int
+├── fetched_at: str
+├── case_data: dict (case metadata)
+└── documents: list[dict]  <-- THIS IS WHERE DOCUMENTS ARE!
+    └── [
+        {
+            "title": str,
+            "document_source": str,
+            "text": str,
+            "document_type": str,
+            "party_types": list[str],
+            ...
+        }
+    ]
+```
+
+**Implementation:**
+```python
+import json
+import pandas as pd
+from pathlib import Path
+from tqdm import tqdm
+from config import Config
+
+def extract_documents_from_case(case_json: dict, case_id: str) -> list[dict]:
+    """
+    Extract all documents from a single case JSON.
+    
+    IMPORTANT: Documents are at case_json['documents'], NOT case_json['case_data']['documents']
+    
+    Returns list of dicts, one per document:
+    {
+        'case_id': case_id,
+        'doc_id': unique doc ID,
+        'title': document title,
+        'source': document source,
+        'text': document text (truncated to MAX_TEXT_LENGTH),
+        'document_type': tag (or None if missing),
+        'party_types': tag (list, or None if missing)
+    }
+    """
+    documents = []
+    
+    # IMPORTANT: Documents are at root level, NOT inside case_data!
+    doc_list = case_json.get('documents', [])
+    
+    for idx, doc in enumerate(doc_list):
+        # Extract fields safely (handle missing data)
+        title = doc.get('title', '')
+        source = doc.get('document_source', '')
+        text = doc.get('text', '')
+        
+        # Truncate text for memory safety
+        if text and len(text) > Config.MAX_TEXT_LENGTH:
+            text = text[:Config.MAX_TEXT_LENGTH]
+        
+        # Extract tags (may be None/missing)
+        doc_type = doc.get('document_type')
+        party_types = doc.get('party_types')  # This is a list
+        
+        documents.append({
+            'case_id': case_id,
+            'doc_id': f"{case_id}_doc_{idx}",
+            'title': title,
+            'source': source,
+            'text': text,
+            'document_type': doc_type,
+            'party_types': str(party_types) if party_types else None
+        })
+    
+    return documents
+
+def process_json_files_in_batches(cases_dir: Path, output_csv: Path):
+    """
+    Process all JSON files in batches. Memory-safe.
+    """
+    json_files = list(cases_dir.glob('case_*.json'))
+    print(f"Found {len(json_files)} case files")
+    
+    # Process in batches
+    for i in tqdm(range(0, len(json_files), Config.BATCH_SIZE)):
+        batch_files = json_files[i:i + Config.BATCH_SIZE]
+        batch_docs = []
+        
+        for json_file in batch_files:
+            try:
+                with open(json_file, 'r') as f:
+                    case_json = json.load(f)
+                
+                case_id = json_file.stem  # e.g., 'case_10000'
+                docs = extract_documents_from_case(case_json, case_id)
+                batch_docs.extend(docs)
+                
+            except Exception as e:
+                print(f"Error processing {json_file}: {e}")
+        
+        # Write batch to CSV (append mode)
+        df_batch = pd.DataFrame(batch_docs)
+        mode = 'w' if i == 0 else 'a'
+        header = (i == 0)
+        df_batch.to_csv(output_csv, mode=mode, header=header, index=False)
+    
+    print(f"Saved all documents to {output_csv}")
+
+# Main execution
+if __name__ == '__main__':
+    Config.create_dirs()
+    
+    # Extract training documents
+    print("Extracting training documents...")
+    process_json_files_in_batches(
+        Config.CASES_TRAINING_DIR,
+        Config.PROCESSED_DIR / 'documents_all.csv'
+    )
+```
+
+**Output:** `processed/documents_all.csv` with columns:
+- `case_id`, `doc_id`, `title`, `source`, `text`, `document_type`, `party_types`
+
+---
+
+### **Phase 3: Feature Processing & Data Splitting** (Memory-Safe)
+
+#### Step 3.1: Process Features & Split Data
+**File: `src/process_features.py`**
+
+**Purpose:** Clean text, create TF-IDF features, encode labels, split train/val/test.
+
+**CRITICAL: Memory Management**
+- Read CSV in chunks
+- Process text in batches
+- Use sparse matrices for TF-IDF
+- Split by case_id (keep documents from same case together)
+
+**Implementation:**
+```python
+import pandas as pd
+import numpy as np
+from sklearn.feature_extraction.text import TfidfVectorizer
+from sklearn.preprocessing import LabelEncoder, MultiLabelBinarizer
+from sklearn.model_selection import train_test_split
+import joblib
+from config import Config
+
+def clean_text(text):
+    """Basic text cleaning"""
+    if pd.isna(text) or not text:
+        return ""
+    return str(text).lower().strip()
+
+def prepare_features_and_labels(input_csv: Path):
+    """
+    Read documents CSV, clean text, create features, split data.
+    Memory-safe using chunked reading.
+    """
+    print(f"Reading {input_csv}...")
+    
+    # Read CSV (filter out documents without tags)
+    df = pd.read_csv(input_csv)
+    print(f"Total documents: {len(df)}")
+    
+    # Remove documents with missing tags
+    df = df.dropna(subset=['document_type'])
+    print(f"Documents with tags: {len(df)}")
+    
+    # Clean text fields
+    print("Cleaning text...")
+    df['title_clean'] = df['title'].apply(clean_text)
+    df['source_clean'] = df['source'].apply(clean_text)
+    df['text_clean'] = df['text'].apply(clean_text)
+    
+    # Combine text features
+    df['combined_text'] = (
+        df['title_clean'] + ' ' + 
+        df['source_clean'] + ' ' + 
+        df['text_clean']
+    )
+    
+    # Filter rare tags (document_type appearing < MIN_TAG_FREQUENCY times)
+    doc_type_counts = df['document_type'].value_counts()
+    valid_types = doc_type_counts[doc_type_counts >= Config.MIN_TAG_FREQUENCY].index
+    df = df[df['document_type'].isin(valid_types)]
+    print(f"After filtering rare tags: {len(df)} documents")
+    
+    # Split by case_id (train/val/test)
+    print("Splitting data by cases...")
+    unique_cases = df['case_id'].unique()
+    
+    cases_train, cases_temp = train_test_split(
+        unique_cases, 
+        test_size=(Config.VAL_RATIO + Config.TEST_RATIO),
+        random_state=Config.RANDOM_SEED
+    )
+    
+    cases_val, cases_test = train_test_split(
+        cases_temp,
+        test_size=Config.TEST_RATIO / (Config.VAL_RATIO + Config.TEST_RATIO),
+        random_state=Config.RANDOM_SEED
+    )
+    
+    # Create splits
+    df_train = df[df['case_id'].isin(cases_train)]
+    df_val = df[df['case_id'].isin(cases_val)]
+    df_test = df[df['case_id'].isin(cases_test)]
+    
+    print(f"Train: {len(df_train)}, Val: {len(df_val)}, Test: {len(df_test)}")
+    
+    # Create TF-IDF features (fit on train, transform all)
+    print("Creating TF-IDF features...")
+    vectorizer = TfidfVectorizer(
+        max_features=Config.MAX_FEATURES,
+        min_df=Config.MIN_DF,
+        max_df=Config.MAX_DF,
+        ngram_range=(1, 2)  # unigrams and bigrams
+    )
+    
+    X_train = vectorizer.fit_transform(df_train['combined_text'])
+    X_val = vectorizer.transform(df_val['combined_text'])
+    X_test = vectorizer.transform(df_test['combined_text'])
+    
+    print(f"Feature matrix shape: {X_train.shape}")
+    
+    # Save vectorizer
+    joblib.dump(vectorizer, Config.PROCESSED_DIR / 'vectorizers.pkl')
+    
+    # Encode labels
+    print("Encoding labels...")
+    
+    # document_type (single-label)
+    le_doctype = LabelEncoder()
+    y_train_doctype = le_doctype.fit_transform(df_train['document_type'])
+    y_val_doctype = le_doctype.transform(df_val['document_type'])
+    y_test_doctype = le_doctype.transform(df_test['document_type'])
+    
+    # party_types (multi-label) - handle string format '[item1, item2]'
+    def parse_party_types(val):
+        if pd.isna(val) or val == 'None':
+            return []
+        # Simple parsing (improve if needed)
+        return eval(val) if val else []
+    
+    df_train['party_list'] = df_train['party_types'].apply(parse_party_types)
+    df_val['party_list'] = df_val['party_types'].apply(parse_party_types)
+    df_test['party_list'] = df_test['party_types'].apply(parse_party_types)
+    
+    mlb_party = MultiLabelBinarizer()
+    y_train_party = mlb_party.fit_transform(df_train['party_list'])
+    y_val_party = mlb_party.transform(df_val['party_list'])
+    y_test_party = mlb_party.transform(df_test['party_list'])
+    
+    # Save label encoders
+    encoders = {
+        'document_type': le_doctype,
+        'party_types': mlb_party
+    }
+    joblib.dump(encoders, Config.PROCESSED_DIR / 'label_encoders.pkl')
+    
+    # Save processed datasets
+    print("Saving processed data...")
+    joblib.dump({
+        'X': X_train,
+        'y_document_type': y_train_doctype,
+        'y_party_types': y_train_party,
+        'doc_ids': df_train['doc_id'].values
+    }, Config.PROCESSED_DIR / 'documents_train.pkl')
+    
+    joblib.dump({
+        'X': X_val,
+        'y_document_type': y_val_doctype,
+        'y_party_types': y_val_party,
+        'doc_ids': df_val['doc_id'].values
+    }, Config.PROCESSED_DIR / 'documents_val.pkl')
+    
+    joblib.dump({
+        'X': X_test,
+        'y_document_type': y_test_doctype,
+        'y_party_types': y_test_party,
+        'doc_ids': df_test['doc_id'].values
+    }, Config.PROCESSED_DIR / 'documents_test.pkl')
+    
+    print("Feature processing complete!")
+    print(f"Document types: {list(le_doctype.classes_)}")
+    print(f"Party types: {list(mlb_party.classes_)}")
+
+if __name__ == '__main__':
+    prepare_features_and_labels(Config.PROCESSED_DIR / 'documents_all.csv')
 ```
 
 ---
 
-### **Phase 2: Data Preprocessing Pipeline**
+### **Phase 4: Model Training**
 
-#### Step 2.1: Tag Extraction
-**File: `src/preprocessing/tag_extractor.py`**
+#### Step 4.1: Train Document Tagger
+**File: `src/train_model.py`**
 
-**Purpose:** Extract relevant tags from the JSON case files into a structured format.
+**Purpose:** Train a simple model to predict both document tags.
 
-**Implementation Requirements:**
-1. Load JSON files from `data/cases/training/`
-2. For each case file:
-   - Extract all 12 case-level tags from `case_data` field
-   - Extract case name from `case_data['name']`
-   - Extract all document texts and combine them (for case-level features)
-   - Extract all document titles and combine them (for case-level features)
-   - Extract all document sources and combine them (for case-level features)
-   - Extract docket entries from `case_data['main_docket']['docket_entries']`
-   - Extract individual documents and their 2 document-level tags (`document_type`, `party_types`)
-   - **EXCLUDE** case summary - it will not be available in production
-   - Handle missing/null values appropriately
-3. Create two DataFrames:
-   - `cases_df`: One row per case with:
-     * All 12 case-level tags (labels)
-     * Case name
-     * Combined document text (all docs concatenated)
-     * Combined document titles (all titles concatenated)
-     * Combined document sources (all sources concatenated)
-     * Docket text (all docket entries concatenated)
-     * Case ID
-   - `documents_df`: One row per document with:
-     * 2 document-level tags (labels)
-     * Document title (from `title` field)
-     * Document source (from `document_source` field)
-     * Document text (from `text` field)
-     * Case ID
-     * Document ID
-4. Save to `data/processed/`:
-   - `cases_raw.csv`
-   - `documents_raw.csv`
+**Model Choice:** Logistic Regression (simple, fast, interpretable)
+- One model for `document_type` (multi-class classification)
+- One model for `party_types` (multi-label classification)
 
-**Key Functions:**
+**Implementation:**
 ```python
-def extract_case_tags(case_json: dict) -> dict:
-    """Extract case-level tags from JSON"""
+import joblib
+from sklearn.linear_model import LogisticRegression
+from sklearn.multiclass import OneVsRestClassifier
+from sklearn.metrics import classification_report, accuracy_score, f1_score
+from config import Config
 
-def extract_case_name(case_json: dict) -> str:
-    """Extract case name"""
+def train_models():
+    """Train document tagging models"""
     
-def combine_document_texts(case_json: dict) -> str:
-    """Combine all document texts for a case (for case-level features)"""
+    print("Loading training data...")
+    train_data = joblib.load(Config.PROCESSED_DIR / 'documents_train.pkl')
+    val_data = joblib.load(Config.PROCESSED_DIR / 'documents_val.pkl')
+    
+    X_train = train_data['X']
+    X_val = val_data['X']
+    
+    # Train document_type model
+    print("\nTraining document_type classifier...")
+    model_doctype = LogisticRegression(max_iter=1000, random_state=Config.RANDOM_SEED)
+    model_doctype.fit(X_train, train_data['y_document_type'])
+    
+    # Evaluate on validation
+    y_pred = model_doctype.predict(X_val)
+    acc = accuracy_score(val_data['y_document_type'], y_pred)
+    f1 = f1_score(val_data['y_document_type'], y_pred, average='weighted')
+    
+    print(f"Validation Accuracy: {acc:.3f}")
+    print(f"Validation F1 (weighted): {f1:.3f}")
+    
+    # Train party_types model (multi-label)
+    print("\nTraining party_types classifier...")
+    model_party = OneVsRestClassifier(
+        LogisticRegression(max_iter=1000, random_state=Config.RANDOM_SEED)
+    )
+    model_party.fit(X_train, train_data['y_party_types'])
+    
+    # Evaluate on validation
+    y_pred_party = model_party.predict(X_val)
+    f1_micro = f1_score(val_data['y_party_types'], y_pred_party, average='micro')
+    f1_macro = f1_score(val_data['y_party_types'], y_pred_party, average='macro')
+    
+    print(f"Validation F1 (micro): {f1_micro:.3f}")
+    print(f"Validation F1 (macro): {f1_macro:.3f}")
+    
+    # Save models
+    print("\nSaving models...")
+    models = {
+        'document_type': model_doctype,
+        'party_types': model_party
+    }
+    joblib.dump(models, Config.MODEL_DIR / 'document_tagger.pkl')
+    
+    # Save metadata
+    metadata = {
+        'document_type_accuracy': float(acc),
+        'document_type_f1': float(f1),
+        'party_types_f1_micro': float(f1_micro),
+        'party_types_f1_macro': float(f1_macro),
+        'num_train_samples': len(train_data['y_document_type']),
+        'num_val_samples': len(val_data['y_document_type'])
+    }
+    
+    import json
+    with open(Config.MODEL_DIR / 'metadata.json', 'w') as f:
+        json.dump(metadata, f, indent=2)
+    
+    print("Training complete!")
+    return metadata
 
-def combine_document_titles(case_json: dict) -> str:
-    """Combine all document titles for a case (for case-level features)"""
-    
-def combine_document_sources(case_json: dict) -> str:
-    """Combine all document sources for a case (for case-level features)"""
-    
-def extract_docket_text(case_json: dict) -> str:
-    """Extract and combine docket entry descriptions"""
-    
-def extract_document_tags(case_json: dict) -> list[dict]:
-    """Extract document-level tags from JSON"""
-    
-def process_all_cases(cases_dir: Path) -> tuple[pd.DataFrame, pd.DataFrame]:
-    """Process all cases and return dataframes"""
-```
-
-**Handle these special cases:**
-- Tags that are lists (e.g., `case_types`, `causes`)
-- Tags that are nested dicts (e.g., `constitutional_clause`)
-- Missing/None values
-
-#### Step 2.2: Text Processing
-**File: `src/preprocessing/text_processor.py`**
-
-**Purpose:** Clean and vectorize text data for ML models.
-
-**IMPORTANT - Available Data:**
-- **For Case-Level Predictions:** Use case name, all document texts/titles/sources (combined), and docket information. Do NOT use case summary (human-created).
-- **For Document-Level Predictions:** Use document title, document source, and document text.
-
-**Implementation Requirements:**
-1. Text cleaning:
-   - Remove special characters but keep legal terminology
-   - Convert to lowercase
-   - Remove extra whitespace
-   - Handle None/empty text
-2. Text truncation:
-   - Limit to `MAX_TEXT_LENGTH` characters (config)
-   - Use smart truncation (don't cut mid-word)
-3. Feature extraction:
-   - **For case-level model:**
-     * TF-IDF vectorization for case names
-     * TF-IDF vectorization for ALL document texts combined (concatenate all docs for a case)
-     * TF-IDF vectorization for ALL document titles combined
-     * TF-IDF vectorization for ALL document sources combined
-     * TF-IDF vectorization for docket entries (if available)
-     * N-grams (1-3) to capture legal phrases
-   - **For document-level model:**
-     * TF-IDF vectorization for document title
-     * TF-IDF vectorization for document source
-     * TF-IDF vectorization for document text
-     * N-grams (1-3) to capture legal phrases
-4. Save vectorizers for later use on production data
-
-**Key Functions:**
-```python
-def clean_text(text: str) -> str:
-    """Clean and normalize text"""
-
-def combine_case_documents(documents: list[dict]) -> str:
-    """Combine all document texts for a case into single text"""
-    
-def extract_docket_text(case_data: dict) -> str:
-    """Extract text from docket entries"""
-    
-def create_text_features(texts: list[str], fit: bool = True) -> tuple[np.ndarray, object]:
-    """Create TF-IDF features from text"""
-    
-def save_vectorizer(vectorizer: object, filepath: Path):
-    """Save fitted vectorizer"""
-    
-def load_vectorizer(filepath: Path) -> object:
-    """Load saved vectorizer"""
-```
-
-#### Step 2.3: Label Encoding
-**File: `src/preprocessing/label_encoder.py`**
-
-**Purpose:** Convert tags into ML-compatible format.
-
-**Implementation Requirements:**
-1. **For single-value tags** (e.g., `state`, `case_ongoing`):
-   - Use LabelEncoder
-   - Handle unseen values in production
-2. **For multi-value tags** (e.g., `case_types`, `causes`):
-   - Use MultiLabelBinarizer
-   - Filter rare tags (< MIN_TAG_FREQUENCY occurrences)
-3. **Handle missing values:**
-   - Use special "UNKNOWN" category
-   - Or use -1 for numeric encodings
-4. Save all encoders for production use
-
-**Key Functions:**
-```python
-class TagEncoder:
-    """Handles encoding/decoding of all tag types"""
-    
-    def fit(self, data: pd.DataFrame):
-        """Fit encoders on training data"""
-    
-    def transform(self, data: pd.DataFrame) -> dict:
-        """Transform tags to ML format"""
-    
-    def inverse_transform(self, encoded: dict) -> dict:
-        """Convert predictions back to original format"""
-    
-    def save(self, filepath: Path):
-        """Save all encoders"""
-    
-    @classmethod
-    def load(cls, filepath: Path):
-        """Load saved encoders"""
-```
-
-#### Step 2.4: Dataset Builder
-**File: `src/preprocessing/dataset_builder.py`**
-
-**Purpose:** Create train/validation/test splits and final ML-ready datasets.
-
-**Implementation Requirements:**
-1. Split data by **case ID** (not by documents):
-   - 70% train, 15% validation, 15% test
-   - Use stratified split on key tags (e.g., `state`)
-   - Ensure no case appears in multiple splits
-2. Create feature matrices:
-   - Combine text features with encoded metadata
-   - Create separate datasets for case-level and document-level
-3. Handle class imbalance:
-   - Calculate class weights for rare tags
-   - Document imbalance statistics
-4. Save processed datasets:
-   - `data/processed/train/`
-   - `data/processed/val/`
-   - `data/processed/test/`
-
-**Key Functions:**
-```python
-def split_cases(case_ids: list, stratify_on: str = None) -> tuple:
-    """Split case IDs into train/val/test"""
-    
-def build_case_dataset(cases_df: pd.DataFrame, case_ids: list) -> dict:
-    """Build ML-ready case dataset"""
-    
-def build_document_dataset(docs_df: pd.DataFrame, case_ids: list) -> dict:
-    """Build ML-ready document dataset"""
-    
-def calculate_class_weights(labels: np.ndarray) -> dict:
-    """Calculate weights for imbalanced classes"""
+if __name__ == '__main__':
+    Config.create_dirs()
+    metrics = train_models()
+    print("\nFinal Metrics:")
+    for k, v in metrics.items():
+        print(f"  {k}: {v}")
 ```
 
 ---
 
-### **Phase 3: Model Development**
+### **Phase 5: Prediction (Inference)**
 
-#### Step 3.1: Model Architecture Selection
+#### Step 5.1: Predict on New Documents
+**File: `src/predict.py`**
 
-**For Case-Level Tagging:**
-- **Model Type:** Multi-output classifier (one model predicting all 12 tags)
-- **Base Model:** XGBoost or LightGBM (handles mixed data types well)
-- **Alternative:** Random Forest (simpler, good baseline)
+**Purpose:** Make predictions on production documents (no tags).
 
-**For Document-Level Tagging:**
-- **Model Type:** Multi-output classifier (predicting 2 tags)
-- **Base Model:** XGBoost or LightGBM
-- **Alternative:** Logistic Regression (simpler for fewer tags)
+**CRITICAL: Memory Management**
+- Process production JSONs in batches
+- Use same extraction + feature pipeline
+- Write results incrementally
 
-**Rationale:**
-- Tree-based models handle mixed features (text + categorical + numeric) well
-- Multi-output approach is simpler than separate models per tag
-- XGBoost/LightGBM handle missing values natively
-- Fast training and inference
-
-#### Step 3.2: Case-Level Model
-**File: `src/models/case_tagger.py`**
-
-**Implementation Requirements:**
-1. Create a `CaseTagger` class that wraps the ML model
-2. Handle multi-output prediction (12 different tags)
-3. Support both single-label and multi-label tags
-4. Implement proper handling of each tag type:
-   - Binary classification (e.g., `case_ongoing`)
-   - Multi-class (e.g., `state`)
-   - Multi-label (e.g., `case_types`)
-5. Use separate models for different tag types if needed
-
-**Key Class Structure:**
+**Implementation:**
 ```python
-class CaseTagger:
-    """Case-level tagging model"""
+import json
+import pandas as pd
+import joblib
+from pathlib import Path
+from tqdm import tqdm
+from config import Config
+
+def predict_on_production_data():
+    """
+    Predict tags for all documents in production cases.
+    Memory-safe batch processing.
+    """
     
-    def __init__(self, config: dict):
-        self.models = {}  # One model per tag or group of tags
-        self.encoders = None
-        self.vectorizers = None
-        
-    def fit(self, X_train, y_train, X_val=None, y_val=None):
-        """Train the model"""
-        # For each tag type:
-        # - Train appropriate model (binary/multiclass/multilabel)
-        # - Use validation set for early stopping
-        # - Track metrics
-        
-    def predict(self, X) -> dict:
-        """Predict all tags for new cases"""
-        
-    def predict_proba(self, X) -> dict:
-        """Get probability scores for predictions"""
-        
-    def save(self, filepath: Path):
-        """Save model to disk"""
-        
-    @classmethod
-    def load(cls, filepath: Path):
-        """Load saved model"""
-```
-
-#### Step 3.3: Document-Level Model
-**File: `src/models/document_tagger.py`**
-
-**Implementation Requirements:**
-1. Create a `DocumentTagger` class (similar to CaseTagger)
-2. Handle 2 document-level tags (`document_type` and `party_types`)
-3. Include case context features (case ID, case tags) if helpful
-4. Simpler than case model (fewer tags)
-
-**Key Class Structure:**
-```python
-class DocumentTagger:
-    """Document-level tagging model"""
+    print("Loading models and encoders...")
+    models = joblib.load(Config.MODEL_DIR / 'document_tagger.pkl')
+    encoders = joblib.load(Config.PROCESSED_DIR / 'label_encoders.pkl')
+    vectorizer = joblib.load(Config.PROCESSED_DIR / 'vectorizers.pkl')
     
-    def __init__(self, config: dict):
-        self.models = {}
-        self.encoders = None
-        self.vectorizers = None
-        
-    def fit(self, X_train, y_train, X_val=None, y_val=None):
-        """Train the model"""
-        
-    def predict(self, X) -> dict:
-        """Predict tags for new documents"""
-        
-    def save(self, filepath: Path):
-        """Save model"""
-        
-    @classmethod
-    def load(cls, filepath: Path):
-        """Load model"""
+    # Extract documents from production cases (same as training)
+    print("Extracting production documents...")
+    from extract_documents import process_json_files_in_batches
+    
+    prod_csv = Config.PROCESSED_DIR / 'documents_production.csv'
+    process_json_files_in_batches(Config.CASES_PRODUCTION_DIR, prod_csv)
+    
+    # Read and process production documents
+    print("Processing features...")
+    df = pd.read_csv(prod_csv)
+    
+    # Clean text (same as training)
+    df['title_clean'] = df['title'].apply(lambda x: str(x).lower().strip() if pd.notna(x) else "")
+    df['source_clean'] = df['source'].apply(lambda x: str(x).lower().strip() if pd.notna(x) else "")
+    df['text_clean'] = df['text'].apply(lambda x: str(x).lower().strip() if pd.notna(x) else "")
+    
+    df['combined_text'] = (
+        df['title_clean'] + ' ' +
+        df['source_clean'] + ' ' +
+        df['text_clean']
+    )
+    
+    # Vectorize
+    X = vectorizer.transform(df['combined_text'])
+    
+    # Make predictions
+    print("Making predictions...")
+    
+    # Predict document_type
+    y_pred_doctype = models['document_type'].predict(X)
+    df['predicted_document_type'] = encoders['document_type'].inverse_transform(y_pred_doctype)
+    
+    # Predict party_types
+    y_pred_party = models['party_types'].predict(X)
+    df['predicted_party_types'] = [
+        list(encoders['party_types'].inverse_transform([row])[0])
+        for row in y_pred_party
+    ]
+    
+    # Save predictions
+    print("Saving predictions...")
+    output_file = Config.RESULTS_DIR / 'predictions.csv'
+    df[['case_id', 'doc_id', 'title', 'predicted_document_type', 'predicted_party_types']].to_csv(
+        output_file, index=False
+    )
+    
+    print(f"Predictions saved to {output_file}")
+    print(f"Total documents predicted: {len(df)}")
+
+if __name__ == '__main__':
+    Config.create_dirs()
+    predict_on_production_data()
 ```
 
 ---
 
-### **Phase 4: Training Pipeline**
+## 🚀 Complete Workflow (Simple Commands)
 
-#### Step 4.1: Training Orchestrator
-**File: `src/training/trainer.py`**
-
-**Purpose:** Coordinate the entire training process with proper logging and experiment tracking.
-
-**Implementation Requirements:**
-1. Create experiment directory with timestamp
-2. Save configuration used for training
-3. Train both models (case & document)
-4. Log all metrics during training
-5. Save best models based on validation performance
-6. Create visualization of training progress
-
-**Key Functions:**
-```python
-class Trainer:
-    """Orchestrates model training"""
-    
-    def __init__(self, config: Config):
-        self.config = config
-        self.experiment_dir = None
-        
-    def setup_experiment(self) -> Path:
-        """Create experiment directory and logging"""
-        
-    def train_case_model(self, train_data, val_data):
-        """Train case-level model"""
-        
-    def train_document_model(self, train_data, val_data):
-        """Train document-level model"""
-        
-    def save_results(self, metrics: dict):
-        """Save training results and plots"""
-```
-
-#### Step 4.2: Model Evaluation
-**File: `src/training/evaluator.py`**
-
-**Purpose:** Comprehensive evaluation of model performance.
-
-**Implementation Requirements:**
-1. **For each tag**, calculate:
-   - Accuracy (for single-label tags)
-   - F1-score (micro, macro, weighted)
-   - Precision and Recall
-   - Confusion matrix (for categorical tags)
-   - ROC-AUC (for binary/multi-class)
-2. **For multi-label tags**, calculate:
-   - Hamming loss
-   - Subset accuracy
-   - Per-label metrics
-3. Generate visualizations:
-   - Confusion matrices
-   - ROC curves
-   - Feature importance plots
-4. Create human-readable report
-
-**Key Functions:**
-```python
-class Evaluator:
-    """Evaluate model performance"""
-    
-    def evaluate_case_model(self, model, test_data) -> dict:
-        """Evaluate case-level model"""
-        
-    def evaluate_document_model(self, model, test_data) -> dict:
-        """Evaluate document-level model"""
-        
-    def generate_report(self, metrics: dict, output_dir: Path):
-        """Create evaluation report with plots"""
-        
-    def compare_models(self, results_list: list[dict]):
-        """Compare multiple model versions"""
-```
-
----
-
-### **Phase 5: Inference Pipeline**
-
-#### Step 5.1: Production Predictor
-**File: `src/inference/predictor.py`**
-
-**Purpose:** Make predictions on new, untagged cases.
-
-**Implementation Requirements:**
-1. Load trained models and preprocessors
-2. Accept new case JSON files
-3. Extract features using same pipeline as training
-4. Make predictions for all tags
-5. Return predictions in original tag format (decoded)
-6. Save predictions to file
-
-**Key Functions:**
-```python
-class Predictor:
-    """Make predictions on new cases"""
-    
-    def __init__(self, models_dir: Path):
-        self.case_model = CaseTagger.load(models_dir / 'case_tagger')
-        self.doc_model = DocumentTagger.load(models_dir / 'document_tagger')
-        self.encoders = TagEncoder.load(models_dir / 'encoders')
-        self.vectorizers = load_vectorizers(models_dir)
-        
-    def predict_case(self, case_json: dict) -> dict:
-        """Predict tags for a single case"""
-        
-    def predict_batch(self, case_jsons: list[dict]) -> list[dict]:
-        """Predict tags for multiple cases"""
-        
-    def predict_from_files(self, cases_dir: Path, output_file: Path):
-        """Process all cases in directory and save results"""
-```
-
----
-
-### **Phase 6: Executable Scripts**
-
-#### Script 6.1: Data Fetching
-**File: `scripts/fetch_data.py`**
-```python
-"""
-Fetch cases from Clearinghouse API
-
-Usage:
-    python scripts/fetch_data.py --csv data/raw/training_cases.csv --output-dir training
-    python scripts/fetch_data.py --csv data/raw/production_cases.csv --output-dir production
-"""
-# This wraps the existing data_ingestion.py with proper imports from src/
-```
-
-#### Script 6.2: Data Preparation
-**File: `scripts/prepare_data.py`**
-```python
-"""
-Prepare data for ML training
-
-Steps:
-1. Extract tags from JSON files
-2. Process text features
-3. Encode labels
-4. Create train/val/test splits
-5. Save processed datasets
-
-Usage:
-    python scripts/prepare_data.py --input data/cases/training
-"""
-```
-
-#### Script 6.3: Model Training
-**File: `scripts/train_models.py`**
-```python
-"""
-Train both case and document tagging models
-
-Usage:
-    python scripts/train_models.py --data data/processed --experiment-name baseline_v1
-    
-Options:
-    --model-type: xgboost, lightgbm, random_forest
-    --tune-hyperparams: Run hyperparameter tuning
-"""
-```
-
-#### Script 6.4: Model Evaluation
-**File: `scripts/evaluate_models.py`**
-```python
-"""
-Evaluate trained models on test set
-
-Usage:
-    python scripts/evaluate_models.py --models models/ --data data/processed/test
-"""
-```
-
-#### Script 6.5: Prediction
-**File: `scripts/predict.py`**
-```python
-"""
-Make predictions on new cases
-
-Usage:
-    python scripts/predict.py --input data/cases/production --output predictions.json
-"""
-```
-
----
-
-### **Phase 7: Testing**
-
-#### Step 7.1: Unit Tests
-**Files: `tests/test_*.py`**
-
-**Requirements:**
-1. Test all preprocessing functions
-2. Test model loading/saving
-3. Test prediction pipeline
-4. Test configuration validation
-5. Aim for >80% code coverage
-
-**Example Structure:**
-```python
-# tests/test_preprocessing.py
-def test_clean_text():
-    """Test text cleaning"""
-    
-def test_tag_extraction():
-    """Test extracting tags from JSON"""
-    
-def test_label_encoding():
-    """Test encoding/decoding labels"""
-
-# tests/test_models.py
-def test_case_model_fit():
-    """Test case model training"""
-    
-def test_document_model_predict():
-    """Test document prediction"""
-
-# tests/test_inference.py
-def test_predictor_single_case():
-    """Test single case prediction"""
-    
-def test_predictor_batch():
-    """Test batch prediction"""
-```
-
----
-
-## 🚀 Execution Guide for User (No Programming Knowledge Required)
-
-### Initial Setup (One Time)
-
-1. **Install Python dependencies:**
-   ```bash
-   pip install -r requirements.txt
-   ```
-
-2. **Create `.env` file** (copy API token from existing code):
-   ```bash
-   echo "CLEARINGHOUSE_API_TOKEN=11a7d2a0a5c673e0d4391cb578563eb43d629a49" > .env
-   ```
-
-3. **Validate setup:**
-   ```bash
-   python -c "from config import Config; Config.validate(); print('✅ Setup complete!')"
-   ```
-
-### Complete ML Workflow
-
-**Step 1: Fetch Training Data**
+### Step 1: Setup (one time)
 ```bash
-python scripts/fetch_data.py --csv data/raw/training_cases.csv --output-dir training
+pip install -r requirements.txt
 ```
 
-**Step 2: Prepare Data for ML**
+### Step 2: Extract Documents from Training Cases
 ```bash
-python scripts/prepare_data.py --input data/cases/training
+python src/extract_documents.py
 ```
+**Output:** `processed/documents_all.csv`
 
-**Step 3: Train Models**
+### Step 3: Process Features & Split Data
 ```bash
-python scripts/train_models.py --data data/processed --experiment-name baseline_v1
+python src/process_features.py
 ```
+**Output:** `processed/documents_train.pkl`, `documents_val.pkl`, `documents_test.pkl`, `vectorizers.pkl`, `label_encoders.pkl`
 
-**Step 4: Evaluate Models**
+### Step 4: Train Model
 ```bash
-python scripts/evaluate_models.py --models models/ --data data/processed/test
+python src/train_model.py
 ```
+**Output:** `model/document_tagger.pkl`, `model/metadata.json`
 
-**Step 5: Fetch Production Data**
+### Step 5: Make Predictions on Production Cases
 ```bash
-python scripts/fetch_data.py --csv data/raw/production_cases.csv --output-dir production
+python src/predict.py
 ```
-
-**Step 6: Make Predictions**
-```bash
-python scripts/predict.py --input data/cases/production --output predictions.json
-```
+**Output:** `results/predictions.csv`
 
 ---
 
-## 📋 File Migration Plan
+## � Expected Performance
 
-Move existing files to new structure:
+**Targets for Document-Level Tags:**
+- `document_type`: Accuracy > 70%, F1 > 0.65
+- `party_types`: F1 (micro) > 0.60
 
-```bash
-# Move data ingestion scripts
-mv data_ingestion.py src/ingestion/
-mv data_utils.py src/ingestion/
-
-# Move CSV to raw data
-mv "clearinghouse_case_links_by_collections(without 5679 and 5666).csv" data/raw/
-
-# Move cases directory
-mv cases/ data/
-
-# Clean up old files
-mv extract_json.ipynb notebooks/00_old_exploration.ipynb
-rm -f data.py  # Old test file, no longer needed
-```
-
-**Update Documentation After Migration**
-
-After moving files, update the following:
-
-1. **Update `data_ingestion.py`:**
-   - Update all imports to use `from config import Config` instead of hardcoded values
-   - Update documentation/docstrings to reflect new location (`src/ingestion/`)
-   - Update path references to use `Config.CASES_DIR` instead of relative paths
-   - Ensure API token is loaded from `.env` via Config class
-
-2. **Update `data_utils.py`:**
-   - Update imports to use config module
-   - Update documentation/docstrings to reflect new location
-   - Update default paths to use config constants
-   - Update examples in docstrings to reflect new directory structure
-
-3. **Update `DATA_INGESTION_README.md`:**
-   - Update all file paths to reflect new structure (`src/ingestion/`, `data/cases/`, etc.)
-   - Update example commands to reference new locations
-   - Add note about using `.env` file for configuration
-
-4. **Create new `README.md`:**
-   - Document complete ML workflow
-   - Include setup instructions with `.env` configuration
-   - Reference all executable scripts in `scripts/` directory
-   - Include architecture overview of new structure
+**If performance is poor:**
+1. Check class distribution (are some tags very rare?)
+2. Increase `MAX_FEATURES` in config (more vocabulary)
+3. Try different model (e.g., Random Forest instead of Logistic Regression)
+4. Add more training data
 
 ---
 
-## 🎯 Success Criteria
+## 🔧 Memory Safety Features
 
-### Model Performance Targets
-- **Case-level tags:** 
-  - Accuracy > 70% for single-label tags
-  - F1-score > 0.6 for multi-label tags
-- **Document-level tags:**
-  - Accuracy > 75% for all tags
-  - F1-score > 0.65
+**This implementation is designed to avoid memory issues:**
 
-### System Requirements
-- ✅ API token never exposed in code
-- ✅ All models can be saved and loaded
-- ✅ Predictions can be made on new data without retraining
-- ✅ Complete experiment tracking
-- ✅ Reproducible results (fixed random seeds)
-- ✅ Clean, documented code
-- ✅ User can run entire pipeline with simple commands
+1. **Batch Processing**: JSON files processed in batches of 50
+2. **Text Truncation**: Documents limited to 10K characters
+3. **Sparse Matrices**: TF-IDF uses sparse format (efficient for large datasets)
+4. **Limited Vocabulary**: Max 5000 features (controlled via config)
+5. **Incremental Writing**: CSV results written in batches, not all at once
+6. **No Caching**: Don't load all data into memory simultaneously
+
+**If you still run out of memory:**
+- Reduce `Config.BATCH_SIZE` (e.g., 25 instead of 50)
+- Reduce `Config.MAX_FEATURES` (e.g., 3000 instead of 5000)
+- Reduce `Config.MAX_TEXT_LENGTH` (e.g., 5000 instead of 10000)
 
 ---
 
-## 📚 Additional Considerations
+## 🎯 Future Enhancements (Optional)
 
-### Handling Data Challenges
-1. **Imbalanced tags:** Use class weights or oversampling
-2. **Missing tags:** Train with incomplete data, use special "unknown" category
-3. **New tags in production:** Have fallback strategy (predict "OTHER" or skip)
-4. **Text length variation:** Use truncation/padding or aggregation
+**After getting this working, consider:**
 
-### Model Improvement Ideas (Future)
-1. Use BERT/transformer models for better text understanding
-2. Ensemble multiple models for better accuracy
-3. Active learning: identify cases where model is uncertain
-4. Transfer learning from legal domain pre-trained models
-
-### Monitoring in Production
-1. Log prediction confidence scores
-2. Track distribution of predicted tags
-3. Identify cases with low confidence for human review
-4. Regular model retraining with new tagged data
+1. **Add Test Set Evaluation**: Create a script to evaluate on test set
+2. **Add Case-Level Tagging**: Extend to predict case-level tags
+3. **Better Models**: Try Random Forest, XGBoost for better accuracy
+4. **Feature Engineering**: Add document length, source indicators, etc.
+5. **Hyperparameter Tuning**: Use GridSearchCV to optimize model params
+6. **Confidence Scores**: Output prediction probabilities for quality control
+7. **Web Interface**: Build simple Flask app for interactive tagging
 
 ---
 
-## ✅ Implementation Checklist for Copilot
+## ✅ Implementation Checklist
 
-- [ ] Phase 1: Setup (`.env`, `config.py`, `requirements.txt`, directory structure)
-- [ ] Phase 2: Preprocessing (tag extraction, text processing, encoding, dataset building)
-- [ ] Phase 3: Models (CaseTagger, DocumentTagger)
-- [ ] Phase 4: Training (Trainer, Evaluator)
-- [ ] Phase 5: Inference (Predictor)
-- [ ] Phase 6: Scripts (all 5 executable scripts)
-- [ ] Phase 7: Tests (unit tests for all components)
-- [ ] File Migration (move existing files to new structure)
-- [ ] Documentation Updates:
-  - [ ] Update imports in `data_ingestion.py` and `data_utils.py` to use config
-  - [ ] Update docstrings in moved files to reflect new paths
-  - [ ] Update `DATA_INGESTION_README.md` with new structure
-  - [ ] Create comprehensive main `README.md` with ML workflow
-- [ ] Final Validation (run complete pipeline end-to-end)
-
----
-
-## 🆘 Support & Documentation
-
-All scripts include `--help` flag:
-```bash
-python scripts/prepare_data.py --help
-python scripts/train_models.py --help
-python scripts/predict.py --help
-```
-
-For detailed information, see:
-- `README.md` - Main project documentation
-- `data/README.md` - Data structure explanation
-- `models/README.md` - Model architecture details
-- `experiments/README.md` - How to interpret results
+- [ ] Create `config.py`
+- [ ] Create `requirements.txt`
+- [ ] Update `.gitignore`
+- [ ] Create `src/extract_documents.py`
+- [ ] Create `src/process_features.py`
+- [ ] Create `src/train_model.py`
+- [ ] Create `src/predict.py`
+- [ ] Test complete pipeline end-to-end
+- [ ] Document results in README
 
 ---
 
 **End of Specification**
 
-This spec provides complete guidance for implementing a production-ready ML system for legal case tagging. Every component is designed to be secure, maintainable, and accessible to non-programmers through simple command-line scripts.
+This simplified spec focuses on **one goal**: predicting document-level tags with memory-safe processing. Everything else is deferred for future implementation.

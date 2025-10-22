@@ -5,20 +5,20 @@ This script fetches case metadata and associated documents from the
 Clearinghouse API and saves them as individual JSON files for ML training.
 
 Usage:
-    python data_ingestion.py --csv <path> --output-dir <dir> [--refetch]
+    python data_ingestion.py --case-id <id> --output-dir <dir>
+    python data_ingestion.py --case-ids-file <path> --output-dir <dir> [--refetch]
     
 Examples:
-    # Fetch training data
-    python data_ingestion.py --csv training_cases.csv --output-dir training
+    # Fetch single case
+    python data_ingestion.py --case-id 12345 --output-dir training
     
-    # Fetch production data
-    python data_ingestion.py --csv production_cases.csv --output-dir production
+    # Fetch from text file with case IDs
+    python data_ingestion.py --case-ids-file case_ids.txt --output-dir training
     
     # Re-fetch to update existing cases
-    python data_ingestion.py --csv production_cases.csv --output-dir production --refetch
+    python data_ingestion.py --case-ids-file case_ids.txt --output-dir production --refetch
 """
 
-import csv
 import json
 import os
 import re
@@ -38,7 +38,6 @@ HEADERS = {
 }
 CASE_API_URL = "https://clearinghouse.net/api/v2/case/"
 DOCUMENTS_API_URL = "https://clearinghouse.net/api/v2/documents/"
-CSV_PATH = "clearinghouse_case_links_by_collections(without 5679 and 5666).csv"
 OUTPUT_DIR = "cases"
 FAILED_CASES_LOG = "failed_cases.json"
 
@@ -47,22 +46,34 @@ class ClearinghouseDataIngestion:
     """Handles fetching and storing case and document data from Clearinghouse API"""
     
     def __init__(self, output_dir: str = OUTPUT_DIR):
+        # Ensure base cases directory structure exists
+        self._ensure_cases_structure()
+        
         self.output_dir = Path(output_dir)
         self.output_dir.mkdir(parents=True, exist_ok=True)  # Create all parent directories
         self.failed_cases = []
         self.successful_cases = []
         self.skipped_cases = []
+    
+    def _ensure_cases_structure(self):
+        """Ensure cases folder with training and production subfolders exist"""
+        cases_dir = Path("cases")
+        training_dir = cases_dir / "training"
+        production_dir = cases_dir / "production"
         
-    def extract_case_ids_from_csv(self, csv_path: str) -> List[int]:
-        """Extract case IDs from the CSV file"""
+        # Create all directories if they don't exist
+        training_dir.mkdir(parents=True, exist_ok=True)
+        production_dir.mkdir(parents=True, exist_ok=True)
+        
+    def extract_case_ids_from_txt(self, txt_path: str) -> List[int]:
+        """Extract case IDs from a text file (one ID per line)"""
         case_ids = []
-        with open(csv_path, newline="", encoding="utf-8") as f:
-            reader = csv.DictReader(f)
-            for row in reader:
-                match = re.search(r"case=(\d+)", row["Link"])
-                if match:
-                    case_ids.append(int(match.group(1)))
-        print(f"📋 Found {len(case_ids)} case IDs in CSV")
+        with open(txt_path, 'r', encoding='utf-8') as f:
+            for line in f:
+                line = line.strip()
+                if line and line.isdigit():
+                    case_ids.append(int(line))
+        print(f"📋 Found {len(case_ids)} case IDs in {txt_path}")
         return case_ids
     
     def fetch_with_retry(
@@ -294,12 +305,12 @@ class ClearinghouseDataIngestion:
                 json.dump(self.failed_cases, f, indent=2)
             print(f"\n⚠️  Saved {len(self.failed_cases)} failed cases to {FAILED_CASES_LOG}")
     
-    def run(self, csv_path: str = CSV_PATH, skip_existing: bool = True, rate_limit_delay: float = 0.3, refetch: bool = False):
+    def run(self, case_ids: List[int], skip_existing: bool = True, rate_limit_delay: float = 0.3, refetch: bool = False):
         """
         Main execution method to process all cases
         
         Args:
-            csv_path: Path to CSV file with case links
+            case_ids: List of case IDs to process
             skip_existing: Whether to skip already-fetched cases
             rate_limit_delay: Delay between requests (seconds)
             refetch: Whether to check for changes and re-fetch updated cases
@@ -308,13 +319,10 @@ class ClearinghouseDataIngestion:
         print("🚀 CLEARINGHOUSE DATA INGESTION")
         print("="*60)
         
-        # Extract case IDs
-        case_ids = self.extract_case_ids_from_csv(csv_path)
         total_cases = len(case_ids)
         
         print(f"\n📊 Configuration:")
         print(f"   • Total cases to process: {total_cases}")
-        print(f"   • CSV file: {csv_path}")
         print(f"   • Output directory: {self.output_dir}")
         print(f"   • Skip existing: {skip_existing}")
         print(f"   • Re-fetch mode: {'ON (checking for updates)' if refetch else 'OFF'}")
@@ -356,25 +364,30 @@ def main():
         formatter_class=argparse.RawDescriptionHelpFormatter,
         epilog="""
 Examples:
-  # Fetch training data
-  python data_ingestion.py --csv training_cases.csv --output-dir training
+  # Fetch single case
+  python data_ingestion.py --case-id 12345 --output-dir training
   
-  # Fetch production data
-  python data_ingestion.py --csv production_cases.csv --output-dir production
+  # Fetch from text file with case IDs
+  python data_ingestion.py --case-ids-file case_ids.txt --output-dir training
   
-  # Re-fetch production data to check for updates
-  python data_ingestion.py --csv production_cases.csv --output-dir production --refetch
-  
-  # Use default settings (from script configuration)
-  python data_ingestion.py
+  # Re-fetch to check for updates
+  python data_ingestion.py --case-ids-file case_ids.txt --output-dir production --refetch
         """
     )
     
-    parser.add_argument(
-        '--csv',
+    # Create mutually exclusive group for input
+    input_group = parser.add_mutually_exclusive_group(required=True)
+    
+    input_group.add_argument(
+        '--case-id',
+        type=int,
+        help='Single case ID to fetch'
+    )
+    
+    input_group.add_argument(
+        '--case-ids-file',
         type=str,
-        default=CSV_PATH,
-        help=f'Path to CSV file with case links (default: {CSV_PATH})'
+        help='Path to text file with case IDs (one per line)'
     )
     
     parser.add_argument(
@@ -412,9 +425,17 @@ Examples:
     # Create ingestion instance with specified output directory
     ingestion = ClearinghouseDataIngestion(output_dir=output_dir)
     
+    # Determine case IDs to process
+    case_ids = None
+    if args.case_id:
+        case_ids = [args.case_id]
+        print(f"📌 Processing single case ID: {args.case_id}")
+    elif args.case_ids_file:
+        case_ids = ingestion.extract_case_ids_from_txt(args.case_ids_file)
+    
     # Run ingestion
     ingestion.run(
-        csv_path=args.csv,
+        case_ids=case_ids,
         skip_existing=not args.no_skip,  # Skip unless --no-skip is set
         rate_limit_delay=args.rate_limit,
         refetch=args.refetch

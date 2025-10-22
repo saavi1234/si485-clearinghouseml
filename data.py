@@ -1,336 +1,176 @@
 import requests
-import pandas as pd
-from concurrent.futures import ThreadPoolExecutor, as_completed
-case_court_dict = {
-    1790: "U. S. Court of International Trade",
-    1792: "U. S. Court of Appeals for the District of Columbia Circuit",
-    1793: "U. S. Court of Appeals for the Eighth Circuit",
-    1794: "U. S. Court of Appeals for the Eleventh Circuit",
-    1795: "U. S. Court of Appeals for the Federal Circuit",
-    1796: "U. S. Court of Appeals for the Fifth Circuit",
-    1797: "U. S. Court of Appeals for the First Circuit",
-    1798: "U. S. Court of Appeals for the Fourth Circuit",
-    1799: "U. S. Court of Appeals for the Ninth Circuit",
-    1800: "U. S. Court of Appeals for the Second Circuit",
-    1801: "U. S. Court of Appeals for the Seventh Circuit",
-    1802: "U. S. Court of Appeals for the Sixth Circuit",
-    1803: "U. S. Court of Appeals for the Tenth Circuit",
-    1804: "U. S. Court of Appeals for the Third Circuit",
-    1823: "District of Columbia",
-    1827: "Central District of California",
-    1828: "Central District of Illinois",
-    1830: "District of Alaska",
-    1831: "District of Arizona",
-    1834: "District of Colorado",
-    1835: "District of Connecticut",
-    1836: "District of Delaware",
-    1839: "District of Hawaii",
-    1840: "District of Idaho",
-    1844: "District of Kansas",
-    1847: "District of Maine",
-    1848: "District of Maryland",
-    1849: "District of Massachusetts",
-    1851: "District of Minnesota",
-    1854: "District of Montana",
-    1855: "District of Nebraska",
-    1856: "District of Nevada",
-    1857: "District of New Hampshire",
-    1858: "District of New Jersey",
-    1859: "District of New Mexico",
-    1862: "District of North Dakota",
-    1864: "District of Oregon",
-    1867: "District of Puerto Rico",
-    1868: "District of Rhode Island",
-    1869: "District of South Carolina",
-    1870: "District of South Dakota",
-    1873: "District of Utah",
-    1874: "District of Vermont",
-    1879: "District of Wyoming",
-    1880: "Eastern District of Arkansas",
-    1881: "Eastern District of California",
-    1883: "Eastern District of Kentucky",
-    1884: "Eastern District of Louisiana",
-    1885: "Eastern District of Michigan",
-    1886: "Eastern District of Missouri",
-    1887: "Eastern District of New York",
-    1888: "Eastern District of North Carolina",
-    1889: "Eastern District of Oklahoma",
-    1890: "Eastern District of Pennsylvania",
-    1892: "Eastern District of Tennessee",
-    1893: "Eastern District of Texas",
-    1894: "Eastern District of Virginia",
-    1895: "Eastern District of Washington",
-    1896: "Eastern District of Wisconsin",
-    1897: "Middle District of Alabama",
-    1898: "Middle District of Florida",
-    1899: "Middle District of Georgia",
-    1900: "Middle District of Louisiana",
-    1901: "Middle District of North Carolina",
-    1902: "Middle District of Pennsylvania",
-    1903: "Middle District of Tennessee",
-    1904: "Northern District of Alabama",
-    1905: "Northern District of California",
-    1906: "Northern District of Florida",
-    1907: "Northern District of Georgia",
-    1908: "Northern District of Illinois",
-    1909: "Northern District of Indiana",
-    1910: "Northern District of Iowa",
-    1911: "Northern District of Mississippi",
-    1912: "Northern District of New York",
-    1913: "Northern District of Ohio",
-    1914: "Northern District of Oklahoma",
-    1915: "Northern District of Texas",
-    1916: "Northern District of West Virginia",
-    1917: "Southern District of Alabama",
-    1918: "Southern District of California",
-    1919: "Southern District of Florida",
-    1920: "Southern District of Georgia",
-    1921: "Southern District of Illinois",
-    1922: "Southern District of Indiana",
-    1923: "Southern District of Iowa",
-    1924: "Southern District of Mississippi",
-    1925: "Southern District of New York",
-    1926: "Southern District of Ohio",
-    1927: "Southern District of Texas",
-    1928: "Southern District of West Virginia",
-    1929: "Western District of Arkansas",
-    1930: "Western District of Kentucky",
-    1931: "Western District of Louisiana",
-    1932: "Western District of Michigan",
-    1933: "Western District of Missouri",
-    1934: "Western District of New York",
-    1935: "Western District of North Carolina",
-    1936: "Western District of Oklahoma",
-    1937: "Western District of Pennsylvania",
-    1939: "Western District of Tennessee",
-    1940: "Western District of Texas",
-    1941: "Western District of Virginia",
-    1942: "Western District of Washington",
-    1943: "Western District of Wisconsin",
-    1946: "Supreme Court of the United States",
-    1947: "U.S. Court of Appeals for Veterans Claims",
-    1948: "Foreign Intelligence Surveillance Court",
-    1949: "Foreign Intelligence Surveillance Court of Review",
-    1950: "District Court for the Northern Mariana Islands",
-    1951: "District Court of the Virgin Islands",
-    1952: "District Court of Guam",
-    1956: "No Court",
-    1957: "Puerto Rico state trial court",
-    1958: "Puerto Rico state appellate court",
-    1959: "Puerto Rico state supreme court",
-    1960: "Utah state trial court",
-    1961: "Utah state appellate court",
-    1962: "Utah state supreme court",
-    1963: "Virginia state trial court",
-    1964: "Virginia state appellate court",
-    1965: "Virginia state supreme court",
-    1966: "Vermont state trial court",
-    1967: "Vermont state appellate court",
-    1968: "Vermont state supreme court",
-    1969: "Wisconsin state trial court",
-    1970: "Wisconsin state appellate court",
-    1971: "Wisconsin state supreme court",
-    1972: "Alaska state trial court",
-    1973: "Alaska state appellate court",
-    1974: "Alaska state supreme court",
-    1975: "Alabama state trial court",
-    1976: "Alabama state appellate court",
-    1977: "Alabama state supreme court",
-    1978: "Arkansas state trial court",
-    1979: "Arkansas state appellate court",
-    1980: "Arkansas state supreme court",
-    1981: "American Samoa state trial court",
-    1982: "American Samoa state appellate court",
-    1983: "American Samoa state supreme court",
-    1984: "Arizona state trial court",
-    1985: "Arizona state appellate court",
-    1986: "Arizona state supreme court",
-    1987: "California state trial court",
-    1988: "California state appellate court",
-    1989: "California state supreme court",
-    1990: "Colorado state trial court",
-    1991: "Colorado state appellate court",
-    1992: "Colorado state supreme court",
-    1993: "Connecticut state trial court",
-    1994: "Connecticut state appellate court",
-    1995: "Connecticut state supreme court",
-    1996: "District of Columbia state trial court",
-    1997: "District of Columbia state appellate court",
-    1998: "District of Columbia state supreme court",
-    1999: "Delaware state trial court",
-    2000: "Delaware state appellate court",
-    2001: "Delaware state supreme court",
-    2002: "Florida state trial court",
-    2003: "Florida state appellate court",
-    2004: "Florida state supreme court",
-    2005: "West Virginia state trial court",
-    2006: "West Virginia state appellate court",
-    2007: "West Virginia state supreme court",
-    2008: "Wyoming state trial court",
-    2009: "Wyoming state appellate court",
-    2010: "Wyoming state supreme court",
-    2020: "Guam state trial court",
-    2021: "Guam state appellate court",
-    2022: "Guam state supreme court",
-    2023: "Hawaii state trial court",
-    2024: "Hawaii state appellate court",
-    2025: "Hawaii state supreme court",
-    2026: "Iowa state trial court",
-    2027: "Iowa state appellate court",
-    2028: "Iowa state supreme court",
-    2029: "Idaho state trial court",
-    2030: "Idaho state appellate court",
-    2031: "Idaho state supreme court",
-    2032: "Illinois state trial court",
-    2033: "Illinois state appellate court",
-    2034: "Illinois state supreme court",
-    2035: "Indiana state trial court",
-    2036: "Indiana state appellate court",
-    2037: "Indiana state supreme court",
-    2038: "Kansas state trial court",
-    2039: "Kansas state appellate court",
-    2040: "Kansas state supreme court",
-    2041: "Kentucky state trial court",
-    2042: "Kentucky state appellate court",
-    2043: "Kentucky state supreme court",
-    2044: "Louisiana state trial court",
-    2045: "Louisiana state appellate court",
-    2046: "Louisiana state supreme court",
-    2047: "Massachusetts state trial court",
-    2048: "Massachusetts state appellate court",
-    2049: "Massachusetts state supreme court",
-    2050: "Maryland state trial court",
-    2051: "Maryland state appellate court",
-    2052: "Maryland state supreme court",
-    2053: "Maine state trial court",
-    2054: "Maine state appellate court",
-    2055: "Maine state supreme court",
-    2056: "Marshall Islands state trial court",
-    2057: "Marshall Islands state appellate court",
-    2058: "Marshall Islands state supreme court",
-    2059: "Michigan state trial court",
-    2060: "Michigan state appellate court",
-    2061: "Michigan state supreme court",
-    2062: "Minnesota state trial court",
-    2063: "Minnesota state appellate court",
-    2064: "Minnesota state supreme court",
-    2065: "Missouri state trial court",
-    2066: "Missouri state appellate court",
-    2067: "Missouri state supreme court",
-    2068: "Northern Mariana Islands state trial court",
-    2069: "Northern Mariana Islands state appellate court",
-    2070: "Northern Mariana Islands state supreme court",
-    2071: "Mississippi state trial court",
-    2072: "Mississippi state appellate court",
-    2073: "Mississippi state supreme court",
-    2074: "Montana state trial court",
-    2075: "Montana state appellate court",
-    2076: "Montana state supreme court",
-    2077: "North Carolina state trial court",
-    2078: "North Carolina state appellate court",
-    2079: "North Carolina state supreme court",
-    2080: "North Dakota state trial court",
-    2081: "North Dakota state appellate court",
-    2082: "North Dakota state supreme court",
-    2083: "Nebraska state trial court",
-    2084: "Nebraska state appellate court",
-    2085: "Nebraska state supreme court",
-    2086: "New Hampshire state trial court",
-    2087: "New Hampshire state appellate court",
-    2088: "New Hampshire state supreme court",
-    2089: "New Jersey state trial court",
-    2090: "New Jersey state appellate court",
-    2091: "New Jersey state supreme court",
-    2092: "New Mexico state trial court",
-    2093: "New Mexico state appellate court",
-    2094: "New Mexico state supreme court",
-    2095: "Nevada state trial court",
-    2096: "Nevada state appellate court",
-    2097: "Nevada state supreme court",
-    2098: "New York state trial court",
-    2099: "New York state appellate court",
-    2100: "New York state supreme court",
-    2101: "Ohio state trial court",
-    2102: "Ohio state appellate court",
-    2103: "Ohio state supreme court",
-    2104: "Oklahoma state trial court",
-    2105: "Oklahoma state appellate court",
-    2106: "Oklahoma state supreme court",
-    2107: "Oregon state trial court",
-    2108: "Oregon state appellate court",
-    2109: "Oregon state supreme court",
-    2110: "Pennsylvania state trial court",
-    2111: "Pennsylvania state appellate court",
-    2112: "Pennsylvania state supreme court",
-    2113: "Palau state trial court",
-    2114: "Palau state appellate court",
-    2115: "Palau state supreme court",
-    2116: "Rhode Island state trial court",
-    2117: "Rhode Island state appellate court",
-    2118: "Rhode Island state supreme court",
-    2119: "South Carolina state trial court",
-    2120: "South Carolina state appellate court",
-    2121: "South Carolina state supreme court",
-    2122: "South Dakota state trial court",
-    2123: "South Dakota state appellate court",
-    2124: "South Dakota state supreme court",
-    2125: "Tennessee state trial court",
-    2126: "Tennessee state appellate court",
-    2127: "Tennessee state supreme court",
-    2128: "Texas state trial court",
-    2129: "Texas state appellate court",
-    2130: "Texas state supreme court",
-    2131: "Virgin Islands state trial court",
-    2132: "Virgin Islands state appellate court",
-    2133: "Virgin Islands state supreme court",
-    2134: "Washington state trial court",
-    2135: "Washington state appellate court",
-    2136: "Washington state supreme court",
-    2137: "Georgia state trial court",
-    2138: "Georgia state appellate court",
-    2139: "Georgia state supreme court",
-    2140: "Federated States of Micronesia state trial court",
-    2141: "Federated States of Micronesia state appellate court",
-    2142: "Federated States of Micronesia state supreme court",
-    2143: "U.S. Judicial Panel on Multidistrict Litigation (JPML)"
+import time
+
+# Case type collections
+case_type_dict = {
+    5033: "Mental Health (Facility)",
+    5034: "Prison Conditions",
+    5035: "Nursing Home Conditions",
+    5036: "Child Welfare",
+    5038: "Intellectual Disability (Facility)",
+    5039: "Policing",
+    5041: "School Desegregation",
+    5042: "Election/Voting Rights",
+    5043: "Immigration and/or the Border",
+    5044: "Disability Rights",
+    5045: "Equal Employment",
+    5046: "Criminal Justice (Other)",
+    5047: "Indigent Defense",
+    5048: "Fair Housing/Lending/Insurance",
+    5049: "Education",
+    5050: "Speech and Religious Freedom",
+    5051: "Public Benefits/Government Services",
+    5052: "Public Accommodations/Contracting",
+    5053: "National Security",
+    5054: "Presidential/Gubernatorial Authority",
+    5055: "Environmental Justice",
+    5056: "Jail Conditions",
+    5057: "Public Housing",
+    5058: "Juvenile Institution",
+    7811: "Reproductive Issues"
 }
+
 headers = {
     'Authorization': 'Token 11a7d2a0a5c673e0d4391cb578563eb43d629a49',
     'User-Agent': 'Chrome v22.2 Linux Ubuntu'
 }
 
-def fetch_cases_for_court(st_code, st_name):
-    url = f"https://clearinghouse.net/api/v2/case/?court={st_code}"
+def fetch_cases_for_type(type_code, type_name, delay=1.0, max_cases=50, existing_ids=None):
+    """
+    Fetch cases for a specific case type (limited to max_cases DISTINCT case IDs).
+    Includes retry logic and delay to avoid rate limiting.
+    If existing_ids is provided, will try to fetch max_cases NEW cases not in existing_ids.
+    """
+    url = f"https://clearinghouse.net/api/v2/case/?case_type={type_code}"
     local_records = []
-    while url:
-        try:
-            response = requests.get(url, headers=headers, timeout=30)
-            if response.status_code != 200:
-                break
-            data = response.json()
-            for case in data.get("results", []):
-                local_records.append({
-                    "Court ID": st_code,
-                    "Court Name": st_name,
-                    "Case Name": case.get("name", ""),
-                    "Link": case.get("case_documents_url", "")
-                })
-            url = data.get("next")
-        except Exception as e:
-            print(f"Error for {st_name}: {e}")
+    seen_case_ids = set()  # Track distinct case IDs
+    if existing_ids is None:
+        existing_ids = set()
+    page_num = 0
+    max_retries = 5
+    
+    print(f"Fetching cases for: {type_name} (ID: {type_code})")
+    
+    while url and len(seen_case_ids) < max_cases:
+        retry_count = 0
+        while retry_count < max_retries:
+            try:
+                # Add delay between requests to avoid rate limiting
+                if page_num > 0 or retry_count > 0:
+                    time.sleep(delay)
+                
+                response = requests.get(url, headers=headers, timeout=60)
+                
+                if response.status_code == 429:  # Rate limited
+                    wait_time = int(response.headers.get('Retry-After', 10))
+                    print(f"  Rate limited. Waiting {wait_time} seconds...")
+                    time.sleep(wait_time)
+                    retry_count += 1
+                    continue
+                
+                if response.status_code == 504:  # Gateway timeout
+                    print(f"  Server timeout (504), retry {retry_count + 1}/{max_retries}")
+                    retry_count += 1
+                    time.sleep(5)
+                    continue
+                    
+                if response.status_code != 200:
+                    print(f"  Error {response.status_code} for {type_name}")
+                    retry_count += 1
+                    time.sleep(3)
+                    continue
+                
+                data = response.json()
+                results = data.get("results", [])
+                
+                # Extract minimal case information - only distinct case IDs
+                for case in results:
+                    case_id = case.get("id", "")
+                    # Only add if we haven't seen this case ID before AND it's not in existing_ids
+                    if case_id and case_id not in seen_case_ids and case_id not in existing_ids:
+                        seen_case_ids.add(case_id)
+                        local_records.append(case_id)
+                        
+                        # Stop if we have enough distinct NEW cases
+                        if len(seen_case_ids) >= max_cases:
+                            break
+                
+                page_num += 1
+                url = data.get("next")
+                
+                # Stop if we have enough cases
+                if len(seen_case_ids) >= max_cases:
+                    url = None
+                
+                break  # Success, exit retry loop
+                
+            except requests.exceptions.Timeout:
+                retry_count += 1
+                print(f"  Timeout for {type_name}, retry {retry_count}/{max_retries}")
+                time.sleep(5)
+            except Exception as e:
+                print(f"  Error for {type_name}: {e}")
+                retry_count += 1
+                time.sleep(3)
+        
+        if retry_count >= max_retries:
+            print(f"  Max retries reached for {type_name}, skipping remaining pages")
             break
+    
+    print(f"  ✓ Completed {type_name}: {len(seen_case_ids)} distinct cases")
     return local_records
 
-# Run in parallel
-records = []
-with ThreadPoolExecutor(max_workers=10) as executor:  # adjust 10 → higher if server tolerates
-    futures = [executor.submit(fetch_cases_for_court, st_code, st_name)
-               for st_code, st_name in case_court_dict.items()]
-    for f in as_completed(futures):
-        records.extend(f.result())
+# Fetch cases sequentially with delays (safer than parallel for rate limiting)
+print("=" * 60)
+print("Fetching cases by type from Clearinghouse API")
+print("Collecting 50 distinct cases per type")
+print("=" * 60)
+print()
 
-df = pd.DataFrame(records)
-df.head()
-print(df.head())
-df.to_csv("cases_by_court.csv", index=False)
-print(f"Saved {len(df)} cases to cases_by_court.csv")
+case_ids = set()  # Use set to collect unique case IDs across all types
+total_types = len(case_type_dict)
+
+for idx, (type_code, type_name) in enumerate(case_type_dict.items(), 1):
+    print(f"\n[{idx}/{total_types}] Processing: {type_name}")
+    try:
+        # Fetch 50 new unique cases that aren't already in our set
+        type_case_ids = fetch_cases_for_type(type_code, type_name, delay=1.5, max_cases=50, existing_ids=case_ids)
+        
+        # Add all new cases to our set
+        case_ids.update(type_case_ids)
+        print(f"  New unique cases from this type: {len(type_case_ids)}")
+        print(f"  Total unique case IDs collected so far: {len(case_ids)}")
+        
+        # Add a delay between different case types to be extra safe
+        if idx < total_types:
+            time.sleep(2)
+    except KeyboardInterrupt:
+        print("\n\n⚠️  Interrupted by user.")
+        break
+    except Exception as e:
+        print(f"  Unexpected error: {e}")
+        continue
+
+print("\n" + "=" * 60)
+print("Data Collection Complete")
+print("=" * 60)
+
+# Create text file with case IDs
+if len(case_ids) > 0:
+    output_file = "case_ids.txt"
+    # Convert set to sorted list for consistent ordering
+    case_ids_list = sorted(list(case_ids))
+    
+    with open(output_file, 'w') as f:
+        for case_id in case_ids_list:
+            f.write(f"{case_id}\n")
+    
+    print(f"\nTotal unique case IDs collected: {len(case_ids)}")
+    print(f"\n✅ Saved {len(case_ids)} unique case IDs to {output_file}")
+    
+    # Show first few IDs
+    print("\nFirst 10 case IDs:")
+    for i, case_id in enumerate(case_ids_list[:10], 1):
+        print(f"  {i}. {case_id}")
+else:
+    print("\n⚠️  No case IDs collected. Check API authentication or connection.")
